@@ -1394,7 +1394,8 @@ function renderSightRadius(poi: POI, lang: Lang): string {
 // Where this card renders, the standalone weather widget + the sights-section
 // radius filter are dropped (user decision 2026-06-05).
 function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
-  if ((poi as any).type !== "city") return "";
+  // Minden varos-szeru tipus kapja (Hannover=state-capital kimaradt, 2026-06-06).
+  if (!CITY_TYPES.has((poi as any).type) && (poi as any).type !== "state-capital") return "";
   const pc = (poi as { coords?: unknown }).coords as number[] | undefined;
   if (!Array.isArray(pc) || pc.length !== 2 || typeof pc[0] !== "number" || typeof pc[1] !== "number") return "";
   const [plng, plat] = pc;
