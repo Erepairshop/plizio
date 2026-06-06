@@ -1333,7 +1333,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
       var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
-        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(e[0]+' '+e[1]+','+e[2])+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
+        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+e[1]+'%2C'+e[2]+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
     }).join('');
@@ -2211,8 +2211,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${slat.toFixed(6)}%2C${slng.toFixed(6)}`;
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       } else {
-        // Nincs SV: Maps-pin ikon, nev+koord query -> hely-profil a Mapsben.
-        const q = encodeURIComponent(`${s.name} ${slat.toFixed(5)},${slng.toFixed(5)}`);
+        // Nincs SV: Maps-pin ikon, CSAK koord query. A nev NEM mehet bele:
+        // a Google a nevet sulyozza es azonos nevu hiresebb helyre ugrik
+        // (pl. Karolyi-kastely Carei -> Fuzerradvany), a koordot eldobja.
+        const q = encodeURIComponent(`${slat.toFixed(5)},${slng.toFixed(5)}`);
         svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
     }
