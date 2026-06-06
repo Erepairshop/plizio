@@ -51,9 +51,15 @@ export async function GET(
   }
   const lang = langCode as Lang;
 
+  // RSS-fogyasztok (Publisher Center, readerek) ~5-10 MB folott eldobjak a
+  // feedet — a teljes POI-lista 30+ MB volt (53k item, parse-hiba 2026-06-06).
+  // Tier-prioritassal (tier1 elore) max 500 item megy ki (~300 KB).
+  const FEED_LIMIT = 500;
   const items = pois
     .map((poi) => ({ poi, src: getPoiImage(poi) }))
     .filter((x): x is { poi: typeof x.poi; src: string } => Boolean(x.poi && x.poi.parent && x.poi.type !== "region" && x.poi.type !== "country" && x.src))
+    .sort((a, b) => ((a.poi as { tier?: number }).tier ?? 6) - ((b.poi as { tier?: number }).tier ?? 6))
+    .slice(0, FEED_LIMIT)
     .map(({ poi, src }) => {
       const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
       const image = src.startsWith("http") ? src : `${SITE_URL}${src}`;
