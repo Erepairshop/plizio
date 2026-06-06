@@ -940,6 +940,78 @@ export const italyCitiesV2: POI[] = [
                         10.323788,
                         44.80533
                   ]
+            },
+            {
+                  "name": "Cassa Espansione Burla",
+                  "text": "Der Cassa Espansione Burla in Parma ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        10.378809,
+                        44.854293
+                  ]
+            },
+            {
+                  "name": "Piazzale Pablo",
+                  "text": "Der Piazzale Pablo in Parma bietet einen schönen Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        10.311097,
+                        44.808392
+                  ]
+            },
+            {
+                  "name": "Lubiana Playground",
+                  "text": "Der Lubiana Playground in Parma lädt zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        10.351261,
+                        44.791912
+                  ]
+            },
+            {
+                  "name": "Parco Ferrari Playground",
+                  "text": "Der Parco Ferrari Playground in Parma ist ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.339255,
+                        44.792247
+                  ]
+            },
+            {
+                  "name": "Parco Vero Pellegrini",
+                  "text": "Der Parco Vero Pellegrini in Parma bietet einen Spielbereich.",
+                  "category": "family",
+                  "coords": [
+                        10.338662,
+                        44.804367
+                  ]
+            },
+            {
+                  "name": "Divertilandia",
+                  "text": "Divertilandia in Parma ist ein unterhaltsamer Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        10.318038,
+                        44.812043
+                  ]
+            },
+            {
+                  "name": "Area Giochi",
+                  "text": "Die Area Giochi in Parma bietet Platz für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.321106,
+                        44.804616
+                  ]
+            },
+            {
+                  "name": "pista di pattinaggio \"pista rossa\"",
+                  "text": "Die pista di pattinaggio 'pista rossa' in Parma ist ein toller Spielort.",
+                  "category": "family",
+                  "coords": [
+                        10.315754,
+                        44.783529
+                  ]
             }
       ],
       "hu": [
@@ -1211,6 +1283,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.323788,
                         44.80533
+                  ]
+            },
+            {
+                  "name": "Cassa Espansione Burla",
+                  "text": "A parmai Cassa Espansione Burla egy csendes állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        10.378809,
+                        44.854293
+                  ]
+            },
+            {
+                  "name": "Piazzale Pablo",
+                  "text": "A parmai Piazzale Pablo egy szép játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.311097,
+                        44.808392
+                  ]
+            },
+            {
+                  "name": "Lubiana Playground",
+                  "text": "A parmai Lubiana Playground játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        10.351261,
+                        44.791912
+                  ]
+            },
+            {
+                  "name": "Parco Ferrari Playground",
+                  "text": "A parmai Parco Ferrari Playground ideális családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.339255,
+                        44.792247
+                  ]
+            },
+            {
+                  "name": "Parco Vero Pellegrini",
+                  "text": "A parmai Parco Vero Pellegrini egy játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.338662,
+                        44.804367
+                  ]
+            },
+            {
+                  "name": "Divertilandia",
+                  "text": "A parmai Divertilandia egy szórakoztató játszótér.",
+                  "category": "family",
+                  "coords": [
+                        10.318038,
+                        44.812043
+                  ]
+            },
+            {
+                  "name": "Area Giochi",
+                  "text": "A parmai Area Giochi teret ad a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.321106,
+                        44.804616
+                  ]
+            },
+            {
+                  "name": "pista di pattinaggio \"pista rossa\"",
+                  "text": "A parmai 'pista rossa' görkorcsolyapálya egy nagyszerű játszóhely.",
+                  "category": "family",
+                  "coords": [
+                        10.315754,
+                        44.783529
                   ]
             }
       ],
@@ -1484,6 +1628,78 @@ export const italyCitiesV2: POI[] = [
                         10.323788,
                         44.80533
                   ]
+            },
+            {
+                  "name": "Cassa Espansione Burla",
+                  "text": "Cassa Espansione Burla din Parma este o apă stătătoare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        10.378809,
+                        44.854293
+                  ]
+            },
+            {
+                  "name": "Piazzale Pablo",
+                  "text": "Piazzale Pablo din Parma oferă un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        10.311097,
+                        44.808392
+                  ]
+            },
+            {
+                  "name": "Lubiana Playground",
+                  "text": "Lubiana Playground din Parma invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.351261,
+                        44.791912
+                  ]
+            },
+            {
+                  "name": "Parco Ferrari Playground",
+                  "text": "Parco Ferrari Playground din Parma este ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.339255,
+                        44.792247
+                  ]
+            },
+            {
+                  "name": "Parco Vero Pellegrini",
+                  "text": "Parco Vero Pellegrini din Parma oferă o zonă de joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.338662,
+                        44.804367
+                  ]
+            },
+            {
+                  "name": "Divertilandia",
+                  "text": "Divertilandia din Parma este un loc de joacă distractiv.",
+                  "category": "family",
+                  "coords": [
+                        10.318038,
+                        44.812043
+                  ]
+            },
+            {
+                  "name": "Area Giochi",
+                  "text": "Area Giochi din Parma oferă spațiu pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.321106,
+                        44.804616
+                  ]
+            },
+            {
+                  "name": "pista di pattinaggio \"pista rossa\"",
+                  "text": "Pista de patinaj 'pista rossa' din Parma este un loc de joacă excelent.",
+                  "category": "family",
+                  "coords": [
+                        10.315754,
+                        44.783529
+                  ]
             }
       ],
       "en": [
@@ -1755,6 +1971,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.323788,
                         44.80533
+                  ]
+            },
+            {
+                  "name": "Cassa Espansione Burla",
+                  "text": "Cassa Espansione Burla in Parma is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        10.378809,
+                        44.854293
+                  ]
+            },
+            {
+                  "name": "Piazzale Pablo",
+                  "text": "Piazzale Pablo in Parma offers a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        10.311097,
+                        44.808392
+                  ]
+            },
+            {
+                  "name": "Lubiana Playground",
+                  "text": "Lubiana Playground in Parma invites play.",
+                  "category": "family",
+                  "coords": [
+                        10.351261,
+                        44.791912
+                  ]
+            },
+            {
+                  "name": "Parco Ferrari Playground",
+                  "text": "Parco Ferrari Playground in Parma is ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        10.339255,
+                        44.792247
+                  ]
+            },
+            {
+                  "name": "Parco Vero Pellegrini",
+                  "text": "Parco Vero Pellegrini in Parma offers a play area.",
+                  "category": "family",
+                  "coords": [
+                        10.338662,
+                        44.804367
+                  ]
+            },
+            {
+                  "name": "Divertilandia",
+                  "text": "Divertilandia in Parma is a fun playground.",
+                  "category": "family",
+                  "coords": [
+                        10.318038,
+                        44.812043
+                  ]
+            },
+            {
+                  "name": "Area Giochi",
+                  "text": "Area Giochi in Parma offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        10.321106,
+                        44.804616
+                  ]
+            },
+            {
+                  "name": "pista di pattinaggio \"pista rossa\"",
+                  "text": "The 'pista rossa' skating rink in Parma is a great place to play.",
+                  "category": "family",
+                  "coords": [
+                        10.315754,
+                        44.783529
                   ]
             }
       ]
@@ -3478,6 +3766,96 @@ export const italyCitiesV2: POI[] = [
                         11.099044,
                         43.880981
                   ]
+            },
+            {
+                  "name": "Bacino idrico di Montemurlo",
+                  "text": "Das Bacino idrico di Montemurlo in Prato ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        11.075534,
+                        43.937663
+                  ]
+            },
+            {
+                  "name": "Lago Inferno",
+                  "text": "Der Lago Inferno in Prato ist ein natürlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        11.022405,
+                        43.843921
+                  ]
+            },
+            {
+                  "name": "Lago Paradiso",
+                  "text": "Der Lago Paradiso in Prato ist ein idyllisches Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        11.131664,
+                        43.850543
+                  ]
+            },
+            {
+                  "name": "Lago Oceano",
+                  "text": "Der Lago Oceano in Prato ist ein schöner See.",
+                  "category": "natural",
+                  "coords": [
+                        11.103443,
+                        43.820638
+                  ]
+            },
+            {
+                  "name": "Lago dei Pioppi",
+                  "text": "Der Lago dei Pioppi in Prato ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        11.065446,
+                        43.829587
+                  ]
+            },
+            {
+                  "name": "Lago di Solano",
+                  "text": "Der Lago di Solano in Prato ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.098809,
+                        43.938841
+                  ]
+            },
+            {
+                  "name": "La Laghina",
+                  "text": "La Laghina in Prato ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.013802,
+                        43.85553
+                  ]
+            },
+            {
+                  "name": "Lago Calvana",
+                  "text": "Der Lago Calvana in Prato ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.162259,
+                        43.821499
+                  ]
+            },
+            {
+                  "name": "Pratolandia",
+                  "text": "Pratolandia in Prato ist ein toller Spielplatz für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        11.065979,
+                        43.873582
+                  ]
+            },
+            {
+                  "name": "La casa sull'albero",
+                  "text": "La casa sull'albero in Prato ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        11.116153,
+                        43.863716
+                  ]
             }
       ],
       "hu": [
@@ -3632,6 +4010,96 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.099044,
                         43.880981
+                  ]
+            },
+            {
+                  "name": "Bacino idrico di Montemurlo",
+                  "text": "A pratói Bacino idrico di Montemurlo egy csendes állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        11.075534,
+                        43.937663
+                  ]
+            },
+            {
+                  "name": "Lago Inferno",
+                  "text": "A pratói Lago Inferno egy természetes tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.022405,
+                        43.843921
+                  ]
+            },
+            {
+                  "name": "Lago Paradiso",
+                  "text": "A pratói Lago Paradiso egy idilli állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        11.131664,
+                        43.850543
+                  ]
+            },
+            {
+                  "name": "Lago Oceano",
+                  "text": "A pratói Lago Oceano egy gyönyörű tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.103443,
+                        43.820638
+                  ]
+            },
+            {
+                  "name": "Lago dei Pioppi",
+                  "text": "A pratói Lago dei Pioppi egy nyugodt tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.065446,
+                        43.829587
+                  ]
+            },
+            {
+                  "name": "Lago di Solano",
+                  "text": "A pratói Lago di Solano egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.098809,
+                        43.938841
+                  ]
+            },
+            {
+                  "name": "La Laghina",
+                  "text": "A pratói La Laghina egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.013802,
+                        43.85553
+                  ]
+            },
+            {
+                  "name": "Lago Calvana",
+                  "text": "A pratói Lago Calvana egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.162259,
+                        43.821499
+                  ]
+            },
+            {
+                  "name": "Pratolandia",
+                  "text": "A pratói Pratolandia nagyszerű játszótér az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        11.065979,
+                        43.873582
+                  ]
+            },
+            {
+                  "name": "La casa sull'albero",
+                  "text": "A pratói La casa sull'albero egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        11.116153,
+                        43.863716
                   ]
             }
       ],
@@ -3788,6 +4256,96 @@ export const italyCitiesV2: POI[] = [
                         11.099044,
                         43.880981
                   ]
+            },
+            {
+                  "name": "Bacino idrico di Montemurlo",
+                  "text": "Bacino idrico di Montemurlo din Prato este o apă stătătoare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        11.075534,
+                        43.937663
+                  ]
+            },
+            {
+                  "name": "Lago Inferno",
+                  "text": "Lago Inferno din Prato este un lac natural.",
+                  "category": "natural",
+                  "coords": [
+                        11.022405,
+                        43.843921
+                  ]
+            },
+            {
+                  "name": "Lago Paradiso",
+                  "text": "Lago Paradiso din Prato este o apă stătătoare idilică.",
+                  "category": "natural",
+                  "coords": [
+                        11.131664,
+                        43.850543
+                  ]
+            },
+            {
+                  "name": "Lago Oceano",
+                  "text": "Lago Oceano din Prato este un lac frumos.",
+                  "category": "natural",
+                  "coords": [
+                        11.103443,
+                        43.820638
+                  ]
+            },
+            {
+                  "name": "Lago dei Pioppi",
+                  "text": "Lago dei Pioppi din Prato este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        11.065446,
+                        43.829587
+                  ]
+            },
+            {
+                  "name": "Lago di Solano",
+                  "text": "Lago di Solano din Prato este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.098809,
+                        43.938841
+                  ]
+            },
+            {
+                  "name": "La Laghina",
+                  "text": "La Laghina din Prato este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.013802,
+                        43.85553
+                  ]
+            },
+            {
+                  "name": "Lago Calvana",
+                  "text": "Lago Calvana din Prato este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.162259,
+                        43.821499
+                  ]
+            },
+            {
+                  "name": "Pratolandia",
+                  "text": "Pratolandia din Prato este un loc de joacă minunat pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        11.065979,
+                        43.873582
+                  ]
+            },
+            {
+                  "name": "La casa sull'albero",
+                  "text": "La casa sull'albero din Prato este un loc de joacă plăcut.",
+                  "category": "family",
+                  "coords": [
+                        11.116153,
+                        43.863716
+                  ]
             }
       ],
       "en": [
@@ -3942,6 +4500,96 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.099044,
                         43.880981
+                  ]
+            },
+            {
+                  "name": "Bacino idrico di Montemurlo",
+                  "text": "Bacino idrico di Montemurlo in Prato is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        11.075534,
+                        43.937663
+                  ]
+            },
+            {
+                  "name": "Lago Inferno",
+                  "text": "Lago Inferno in Prato is a natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.022405,
+                        43.843921
+                  ]
+            },
+            {
+                  "name": "Lago Paradiso",
+                  "text": "Lago Paradiso in Prato is an idyllic body of water.",
+                  "category": "natural",
+                  "coords": [
+                        11.131664,
+                        43.850543
+                  ]
+            },
+            {
+                  "name": "Lago Oceano",
+                  "text": "Lago Oceano in Prato is a beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.103443,
+                        43.820638
+                  ]
+            },
+            {
+                  "name": "Lago dei Pioppi",
+                  "text": "Lago dei Pioppi in Prato is a calm lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.065446,
+                        43.829587
+                  ]
+            },
+            {
+                  "name": "Lago di Solano",
+                  "text": "Lago di Solano in Prato is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.098809,
+                        43.938841
+                  ]
+            },
+            {
+                  "name": "La Laghina",
+                  "text": "La Laghina in Prato is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.013802,
+                        43.85553
+                  ]
+            },
+            {
+                  "name": "Lago Calvana",
+                  "text": "Lago Calvana in Prato is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.162259,
+                        43.821499
+                  ]
+            },
+            {
+                  "name": "Pratolandia",
+                  "text": "Pratolandia in Prato is a great playground for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        11.065979,
+                        43.873582
+                  ]
+            },
+            {
+                  "name": "La casa sull'albero",
+                  "text": "La casa sull'albero in Prato is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        11.116153,
+                        43.863716
                   ]
             }
       ]
@@ -9553,6 +10201,33 @@ export const italyCitiesV2: POI[] = [
                         9.680022,
                         45.05648
                   ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "Der Lago di cava in Piacenza ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        9.773415,
+                        45.059081
+                  ]
+            },
+            {
+                  "name": "Campo giochi Via Spezzaferri",
+                  "text": "Der Spielplatz Via Spezzaferri in Piacenza lädt Kinder zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        9.70903,
+                        45.033392
+                  ]
+            },
+            {
+                  "name": "Giardini Pubblici \"Giovannino Guareschi\"",
+                  "text": "Die Giardini Pubblici „Giovannino Guareschi“ in Piacenza bieten einen schönen Spielbereich.",
+                  "category": "family",
+                  "coords": [
+                        9.674172,
+                        45.038154
+                  ]
             }
       ],
       "hu": [
@@ -9671,6 +10346,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.680022,
                         45.05648
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "A piacenzai Lago di cava egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        9.773415,
+                        45.059081
+                  ]
+            },
+            {
+                  "name": "Campo giochi Via Spezzaferri",
+                  "text": "A piacenzai Via Spezzaferri játszótér játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.70903,
+                        45.033392
+                  ]
+            },
+            {
+                  "name": "Giardini Pubblici \"Giovannino Guareschi\"",
+                  "text": "A piacenzai Giardini Pubblici „Giovannino Guareschi” szép játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        9.674172,
+                        45.038154
                   ]
             }
       ],
@@ -9791,6 +10493,33 @@ export const italyCitiesV2: POI[] = [
                         9.680022,
                         45.05648
                   ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "Lago di cava din Piacenza este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        9.773415,
+                        45.059081
+                  ]
+            },
+            {
+                  "name": "Campo giochi Via Spezzaferri",
+                  "text": "Locul de joacă Via Spezzaferri din Piacenza invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.70903,
+                        45.033392
+                  ]
+            },
+            {
+                  "name": "Giardini Pubblici \"Giovannino Guareschi\"",
+                  "text": "Giardini Pubblici „Giovannino Guareschi” din Piacenza oferă o zonă de joacă frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        9.674172,
+                        45.038154
+                  ]
             }
       ],
       "en": [
@@ -9909,6 +10638,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.680022,
                         45.05648
+                  ]
+            },
+            {
+                  "name": "lago di cava",
+                  "text": "Lago di cava in Piacenza is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.773415,
+                        45.059081
+                  ]
+            },
+            {
+                  "name": "Campo giochi Via Spezzaferri",
+                  "text": "The Via Spezzaferri playground in Piacenza invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.70903,
+                        45.033392
+                  ]
+            },
+            {
+                  "name": "Giardini Pubblici \"Giovannino Guareschi\"",
+                  "text": "The Giardini Pubblici „Giovannino Guareschi” in Piacenza offer a nice play area.",
+                  "category": "family",
+                  "coords": [
+                        9.674172,
+                        45.038154
                   ]
             }
       ]
@@ -11695,6 +12451,24 @@ export const italyCitiesV2: POI[] = [
                         12.039903,
                         44.22301
                   ]
+            },
+            {
+                  "name": "Lago FoMa",
+                  "text": "Der Lago FoMa in Forli ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        12.088132,
+                        44.179502
+                  ]
+            },
+            {
+                  "name": "Piazza della Battaglia",
+                  "text": "Die Piazza della Battaglia in Forli bietet einen Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.070148,
+                        44.239234
+                  ]
             }
       ],
       "hu": [
@@ -11822,6 +12596,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.039903,
                         44.22301
+                  ]
+            },
+            {
+                  "name": "Lago FoMa",
+                  "text": "A forli-i Lago FoMa egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        12.088132,
+                        44.179502
+                  ]
+            },
+            {
+                  "name": "Piazza della Battaglia",
+                  "text": "A forli-i Piazza della Battaglia játszóteret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.070148,
+                        44.239234
                   ]
             }
       ],
@@ -11951,6 +12743,24 @@ export const italyCitiesV2: POI[] = [
                         12.039903,
                         44.22301
                   ]
+            },
+            {
+                  "name": "Lago FoMa",
+                  "text": "Lago FoMa din Forli este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        12.088132,
+                        44.179502
+                  ]
+            },
+            {
+                  "name": "Piazza della Battaglia",
+                  "text": "Piazza della Battaglia din Forli oferă un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.070148,
+                        44.239234
+                  ]
             }
       ],
       "en": [
@@ -12078,6 +12888,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.039903,
                         44.22301
+                  ]
+            },
+            {
+                  "name": "Lago FoMa",
+                  "text": "Lago FoMa in Forli is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        12.088132,
+                        44.179502
+                  ]
+            },
+            {
+                  "name": "Piazza della Battaglia",
+                  "text": "Piazza della Battaglia in Forli offers a playground for children.",
+                  "category": "family",
+                  "coords": [
+                        12.070148,
+                        44.239234
                   ]
             }
       ]
@@ -15043,6 +15871,42 @@ export const italyCitiesV2: POI[] = [
                         8.618488,
                         44.912055
                   ]
+            },
+            {
+                  "name": "Pista di pattinaggio",
+                  "text": "Die Pista di pattinaggio in Alessandria ist ein beliebter Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.601782,
+                        44.898257
+                  ]
+            },
+            {
+                  "name": "Parco Maria Anna de Bray",
+                  "text": "Der Parco Maria Anna de Bray in Alessandria ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        8.630674,
+                        44.911277
+                  ]
+            },
+            {
+                  "name": "Parco Isola della Sensazioni",
+                  "text": "Der Parco Isola della Sensazioni in Alessandria ist ein toller Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        8.619001,
+                        44.902435
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Gandolfi",
+                  "text": "Der Spielplatz in der Via Gandolfi in Alessandria bietet Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        8.608648,
+                        44.897098
+                  ]
             }
       ],
       "hu": [
@@ -15188,6 +16052,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.618488,
                         44.912055
+                  ]
+            },
+            {
+                  "name": "Pista di pattinaggio",
+                  "text": "Az alessandriai Pista di pattinaggio népszerű hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.601782,
+                        44.898257
+                  ]
+            },
+            {
+                  "name": "Parco Maria Anna de Bray",
+                  "text": "Az alessandriai Parco Maria Anna de Bray egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        8.630674,
+                        44.911277
+                  ]
+            },
+            {
+                  "name": "Parco Isola della Sensazioni",
+                  "text": "Az alessandriai Parco Isola della Sensazioni nagyszerű játszótér.",
+                  "category": "family",
+                  "coords": [
+                        8.619001,
+                        44.902435
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Gandolfi",
+                  "text": "Az alessandriai Via Gandolfi játszótér szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.608648,
+                        44.897098
                   ]
             }
       ],
@@ -15335,6 +16235,42 @@ export const italyCitiesV2: POI[] = [
                         8.618488,
                         44.912055
                   ]
+            },
+            {
+                  "name": "Pista di pattinaggio",
+                  "text": "Pista di pattinaggio din Alessandria este un loc popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.601782,
+                        44.898257
+                  ]
+            },
+            {
+                  "name": "Parco Maria Anna de Bray",
+                  "text": "Parco Maria Anna de Bray din Alessandria este un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        8.630674,
+                        44.911277
+                  ]
+            },
+            {
+                  "name": "Parco Isola della Sensazioni",
+                  "text": "Parco Isola della Sensazioni din Alessandria este un loc de joacă minunat.",
+                  "category": "family",
+                  "coords": [
+                        8.619001,
+                        44.902435
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Gandolfi",
+                  "text": "Locul de joacă de pe Via Gandolfi din Alessandria oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.608648,
+                        44.897098
+                  ]
             }
       ],
       "en": [
@@ -15480,6 +16416,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.618488,
                         44.912055
+                  ]
+            },
+            {
+                  "name": "Pista di pattinaggio",
+                  "text": "The Pista di pattinaggio in Alessandria is a popular place for families.",
+                  "category": "family",
+                  "coords": [
+                        8.601782,
+                        44.898257
+                  ]
+            },
+            {
+                  "name": "Parco Maria Anna de Bray",
+                  "text": "The Parco Maria Anna de Bray in Alessandria is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        8.630674,
+                        44.911277
+                  ]
+            },
+            {
+                  "name": "Parco Isola della Sensazioni",
+                  "text": "The Parco Isola della Sensazioni in Alessandria is a great playground.",
+                  "category": "family",
+                  "coords": [
+                        8.619001,
+                        44.902435
+                  ]
+            },
+            {
+                  "name": "Parco giochi di via Gandolfi",
+                  "text": "The playground on Via Gandolfi in Alessandria offers fun for children.",
+                  "category": "family",
+                  "coords": [
+                        8.608648,
+                        44.897098
                   ]
             }
       ]
@@ -20714,6 +21686,33 @@ export const italyCitiesV2: POI[] = [
                         13.709451,
                         43.165516
                   ]
+            },
+            {
+                  "name": "Piazza Verdi",
+                  "text": "Die Piazza Verdi in Fermo bietet einen Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        13.727507,
+                        43.166874
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Centro Sociale Santa Caterina",
+                  "text": "Der Parco Giochi Santa Caterina in Fermo ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.73881,
+                        43.157027
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Andrea \"A Matilde\"",
+                  "text": "Der Spielplatz Sant'Andrea „A Matilde“ in Fermo ist ein schöner Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.731166,
+                        43.154815
+                  ]
             }
       ],
       "hu": [
@@ -20787,6 +21786,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.709451,
                         43.165516
+                  ]
+            },
+            {
+                  "name": "Piazza Verdi",
+                  "text": "A fermói Piazza Verdi játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        13.727507,
+                        43.166874
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Centro Sociale Santa Caterina",
+                  "text": "A fermói Parco Giochi Santa Caterina nagyszerű hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.73881,
+                        43.157027
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Andrea \"A Matilde\"",
+                  "text": "A fermói Sant'Andrea „A Matilde” játszótér kellemes hely a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.731166,
+                        43.154815
                   ]
             }
       ],
@@ -20862,6 +21888,33 @@ export const italyCitiesV2: POI[] = [
                         13.709451,
                         43.165516
                   ]
+            },
+            {
+                  "name": "Piazza Verdi",
+                  "text": "Piazza Verdi din Fermo oferă un loc de joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.727507,
+                        43.166874
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Centro Sociale Santa Caterina",
+                  "text": "Parco Giochi Santa Caterina din Fermo este un loc grozav pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.73881,
+                        43.157027
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Andrea \"A Matilde\"",
+                  "text": "Locul de joacă Sant'Andrea „A Matilde” din Fermo este un loc frumos pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.731166,
+                        43.154815
+                  ]
             }
       ],
       "en": [
@@ -20935,6 +21988,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.709451,
                         43.165516
+                  ]
+            },
+            {
+                  "name": "Piazza Verdi",
+                  "text": "Piazza Verdi in Fermo offers a playground.",
+                  "category": "family",
+                  "coords": [
+                        13.727507,
+                        43.166874
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Centro Sociale Santa Caterina",
+                  "text": "The Parco Giochi Santa Caterina in Fermo is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        13.73881,
+                        43.157027
+                  ]
+            },
+            {
+                  "name": "Parco giochi Sant'Andrea \"A Matilde\"",
+                  "text": "The Sant'Andrea „A Matilde” playground in Fermo is a nice place to play.",
+                  "category": "family",
+                  "coords": [
+                        13.731166,
+                        43.154815
                   ]
             }
       ]
@@ -21883,7 +22963,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-teramo-cities-v2.webp",
   },
   {
-    id: "italy-asti-cities-v2",
+    id: "italy-asti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area Giochi Gabbiano",
+                  "text": "Die Area Giochi Gabbiano in Asti bietet Spaß für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.20582,
+                        44.898482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Giochi Gabbiano",
+                  "text": "Az asti Area Giochi Gabbiano szórakozást kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        8.20582,
+                        44.898482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Giochi Gabbiano",
+                  "text": "Area Giochi Gabbiano din Asti oferă distracție pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        8.20582,
+                        44.898482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Giochi Gabbiano",
+                  "text": "The Area Giochi Gabbiano in Asti offers fun for the family.",
+                  "category": "family",
+                  "coords": [
+                        8.20582,
+                        44.898482
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Asti", hu: "Asti", ro: "Asti", en: "Asti" },
@@ -33493,7 +34618,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-colleferro-cities-v2.webp",
   },
   {
-    id: "italy-ceccano-cities-v2",
+    id: "italy-ceccano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zambardino",
+                  "text": "Zambardino in Ceccano ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        13.322988,
+                        41.574197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zambardino",
+                  "text": "A ceccanói Zambardino egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        13.322988,
+                        41.574197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zambardino",
+                  "text": "Zambardino din Ceccano este un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        13.322988,
+                        41.574197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zambardino",
+                  "text": "Zambardino in Ceccano is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        13.322988,
+                        41.574197
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Ceccano", hu: "Ceccano", ro: "Ceccano", en: "Ceccano" },
@@ -35231,6 +36401,15 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Der Lago di San Giacomo in San Giovanni Incarico ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
             }
       ],
       "hu": [
@@ -35250,6 +36429,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
+                  ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "A San Giovanni Incarico-i Lago di San Giacomo egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
                   ]
             }
       ],
@@ -35271,6 +36459,15 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo din San Giovanni Incarico este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
+                  ]
             }
       ],
       "en": [
@@ -35290,6 +36487,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
+                  ]
+            },
+            {
+                  "name": "Lago di San Giacomo",
+                  "text": "Lago di San Giacomo in San Giovanni Incarico is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        13.534484,
+                        41.55349
                   ]
             }
       ]

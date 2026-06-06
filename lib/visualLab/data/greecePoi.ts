@@ -658,6 +658,60 @@ export const greeceRegions: POI[] = [
                         22.959223,
                         40.631082
                   ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Καλοχωρίου",
+                  "text": "Die Λιμνοθάλασσα Καλοχωρίου in Thessaloniki bietet eine interessante Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.865432,
+                        40.631982
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά πλατείας Ρόδων",
+                  "text": "Die Παιδική χαρά πλατείας Ρόδων in Thessaloniki ist ein beliebter Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        22.932032,
+                        40.660049
+                  ]
+            },
+            {
+                  "name": "Πάρκο Ζέρβα",
+                  "text": "Das Πάρκο Ζέρβα in Thessaloniki bietet viel Platz zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.932353,
+                        40.662753
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά 40 Εκκλησιών",
+                  "text": "Die Παιδική Χαρά 40 Εκκλησιών in Thessaloniki ist ein toller Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        22.963335,
+                        40.631654
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Γωγούση",
+                  "text": "Die Παιδική Χαρά Γωγούση in Thessaloniki bietet Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.927768,
+                        40.660422
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Ευαγγελίστριας",
+                  "text": "Dieser Spielplatz in Thessaloniki ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.95882,
+                        40.635894
+                  ]
             }
       ],
       "hu": [
@@ -1127,6 +1181,60 @@ export const greeceRegions: POI[] = [
                   "coords": [
                         22.959223,
                         40.631082
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Καλοχωρίου",
+                  "text": "A Λιμνοθάλασσα Καλοχωρίου Thessalonikiben érdekes tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        22.865432,
+                        40.631982
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά πλατείας Ρόδων",
+                  "text": "A Παιδική χαρά πλατείας Ρόδων Thessalonikiben népszerű játszótér.",
+                  "category": "family",
+                  "coords": [
+                        22.932032,
+                        40.660049
+                  ]
+            },
+            {
+                  "name": "Πάρκο Ζέρβα",
+                  "text": "A Πάρκο Ζέρβα Thessalonikiben sok helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.932353,
+                        40.662753
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά 40 Εκκλησιών",
+                  "text": "A Παιδική Χαρά 40 Εκκλησιών Thessalonikiben nagyszerű játszótér.",
+                  "category": "family",
+                  "coords": [
+                        22.963335,
+                        40.631654
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Γωγούση",
+                  "text": "A Παιδική Χαρά Γωγούση Thessalonikiben szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.927768,
+                        40.660422
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Ευαγγελίστριας",
+                  "text": "Ez a thessaloniki játszótér nagyszerű hely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.95882,
+                        40.635894
                   ]
             }
       ],
@@ -1598,6 +1706,60 @@ export const greeceRegions: POI[] = [
                         22.959223,
                         40.631082
                   ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Καλοχωρίου",
+                  "text": "Λιμνοθάλασσα Καλοχωρίου din Thessaloniki oferă un peisaj interesant.",
+                  "category": "natural",
+                  "coords": [
+                        22.865432,
+                        40.631982
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά πλατείας Ρόδων",
+                  "text": "Παιδική χαρά πλατείας Ρόδων din Thessaloniki este un loc de joacă popular.",
+                  "category": "family",
+                  "coords": [
+                        22.932032,
+                        40.660049
+                  ]
+            },
+            {
+                  "name": "Πάρκο Ζέρβα",
+                  "text": "Πάρκο Ζέρβα din Thessaloniki oferă mult spațiu pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        22.932353,
+                        40.662753
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά 40 Εκκλησιών",
+                  "text": "Παιδική Χαρά 40 Εκκλησιών din Thessaloniki este un loc de joacă minunat.",
+                  "category": "family",
+                  "coords": [
+                        22.963335,
+                        40.631654
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Γωγούση",
+                  "text": "Παιδική Χαρά Γωγούση din Thessaloniki oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.927768,
+                        40.660422
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Ευαγγελίστριας",
+                  "text": "Acest loc de joacă din Salonic este un loc minunat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.95882,
+                        40.635894
+                  ]
             }
       ],
       "en": [
@@ -2067,6 +2229,60 @@ export const greeceRegions: POI[] = [
                   "coords": [
                         22.959223,
                         40.631082
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Καλοχωρίου",
+                  "text": "Λιμνοθάλασσα Καλοχωρίου in Thessaloniki offers an interesting landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.865432,
+                        40.631982
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά πλατείας Ρόδων",
+                  "text": "Παιδική χαρά πλατείας Ρόδων in Thessaloniki is a popular playground.",
+                  "category": "family",
+                  "coords": [
+                        22.932032,
+                        40.660049
+                  ]
+            },
+            {
+                  "name": "Πάρκο Ζέρβα",
+                  "text": "Πάρκο Ζέρβα in Thessaloniki offers plenty of space for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        22.932353,
+                        40.662753
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά 40 Εκκλησιών",
+                  "text": "Παιδική Χαρά 40 Εκκλησιών in Thessaloniki is a great playground.",
+                  "category": "family",
+                  "coords": [
+                        22.963335,
+                        40.631654
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Γωγούση",
+                  "text": "Παιδική Χαρά Γωγούση in Thessaloniki offers fun for kids.",
+                  "category": "family",
+                  "coords": [
+                        22.927768,
+                        40.660422
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Ευαγγελίστριας",
+                  "text": "This playground in Thessaloniki is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        22.95882,
+                        40.635894
                   ]
             }
       ]

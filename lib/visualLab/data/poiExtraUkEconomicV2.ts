@@ -587,6 +587,231 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.676147,
                         52.026745
                   ]
+            },
+            {
+                  "name": "Black Horse",
+                  "text": "Der Black Horse See in Milton Keynes ist ein wunderschönes Gewässer für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.767313,
+                        52.076905
+                  ]
+            },
+            {
+                  "name": "Rocla",
+                  "text": "Rocla in Milton Keynes ist ein kleiner See, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758764,
+                        52.079058
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Der See Red House in Milton Keynes lädt Besucher zu idyllischen Uferspaziergängen ein.",
+                  "category": "natural",
+                  "coords": [
+                        -0.755473,
+                        52.082383
+                  ]
+            },
+            {
+                  "name": "Kingfisher Lake",
+                  "text": "Der Kingfisher Lake in Milton Keynes ist ein ruhiges Gewässer, ideal zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        -0.711532,
+                        52.097155
+                  ]
+            },
+            {
+                  "name": "Willen Lake South",
+                  "text": "Willen Lake South in Milton Keynes ist ein großes Gewässer, das für Spaziergänge und Wassersport beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -0.719225,
+                        52.051368
+                  ]
+            },
+            {
+                  "name": "Teardrop Lakes",
+                  "text": "Die Teardrop Lakes in Milton Keynes sind malerische Seen, die von weitläufigen Parks umgeben sind.",
+                  "category": "natural",
+                  "coords": [
+                        -0.770711,
+                        52.028261
+                  ]
+            },
+            {
+                  "name": "Vauxhall Angling Lake",
+                  "text": "Der Vauxhall Angling Lake in Milton Keynes ist ein idyllisches Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -0.659076,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Jubilee Lake",
+                  "text": "Der Jubilee Lake in Milton Keynes bietet eine friedliche Kulisse für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        -0.736741,
+                        51.972127
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Die Blue Lagoon in Milton Keynes ist ein beliebter See mit einer faszinierenden Wasserfarbe.",
+                  "category": "natural",
+                  "coords": [
+                        -0.737889,
+                        51.98702
+                  ]
+            },
+            {
+                  "name": "Mauretania way Lake",
+                  "text": "Der Mauretania way Lake in Milton Keynes ist ein schöner Ort für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -0.678273,
+                        52.042542
+                  ]
+            },
+            {
+                  "name": "Heron",
+                  "text": "Der See Heron in Milton Keynes ist ein kleines Naturparadies inmitten der Stadtlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758903,
+                        52.076315
+                  ]
+            },
+            {
+                  "name": "Canal 1",
+                  "text": "Canal 1 in Milton Keynes ist ein kanalartiges Gewässer, das zum Flanieren einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761515,
+                        52.076729
+                  ]
+            },
+            {
+                  "name": "Covered Resrvior",
+                  "text": "Das Covered Reservoir in Milton Keynes ist eine Wasseranlage, die Teil der lokalen Infrastruktur ist.",
+                  "category": "natural",
+                  "coords": [
+                        -0.67037,
+                        52.008091
+                  ]
+            },
+            {
+                  "name": "Caldecotte Lake",
+                  "text": "Caldecotte Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.704249,
+                        52.008866
+                  ]
+            },
+            {
+                  "name": "Mount Farm Lake",
+                  "text": "Mount Farm Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.724063,
+                        52.006334
+                  ]
+            },
+            {
+                  "name": "Furzton Lake",
+                  "text": "Furzton Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.766402,
+                        52.01441
+                  ]
+            },
+            {
+                  "name": "Stantonbury Lake",
+                  "text": "Stantonbury Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.777255,
+                        52.079307
+                  ]
+            },
+            {
+                  "name": "Stanton Low Lake",
+                  "text": "Stanton Low Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.779201,
+                        52.081643
+                  ]
+            },
+            {
+                  "name": "St. Peters Lake",
+                  "text": "St. Peters Lake ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.781179,
+                        52.078542
+                  ]
+            },
+            {
+                  "name": "Willen Lake North",
+                  "text": "Willen Lake North ist ein See in Milton Keynes, der eine malerische Aussicht und eine friedliche Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.718818,
+                        52.058054
+                  ]
+            },
+            {
+                  "name": "Balance beam",
+                  "text": "Balance beam ist ein Spielplatz in Milton Keynes, der einen unterhaltsamen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.788557,
+                        52.03562
+                  ]
+            },
+            {
+                  "name": "Vertigo VR",
+                  "text": "Vertigo VR ist eine Spielhalle in Milton Keynes, die verschiedene Spiele und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.749513,
+                        52.044103
+                  ]
+            },
+            {
+                  "name": "Pixel Bunker",
+                  "text": "Pixel Bunker ist eine Spielhalle in Milton Keynes, die verschiedene Spiele und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.757483,
+                        52.045025
+                  ]
+            },
+            {
+                  "name": "Lul Up",
+                  "text": "Lul Up ist eine Spielhalle in Milton Keynes, die verschiedene Spiele und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.756904,
+                        52.040322
+                  ]
+            },
+            {
+                  "name": "The Beanhill Tinman",
+                  "text": "The Beanhill Tinman ist ein Spielplatz in Milton Keynes, der einen unterhaltsamen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.74179,
+                        52.017083
+                  ]
             }
       ],
       "hu": [
@@ -678,6 +903,231 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.676147,
                         52.026745
+                  ]
+            },
+            {
+                  "name": "Black Horse",
+                  "text": "A Milton Keynes-i Black Horse tó gyönyörű vízfelület a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        -0.767313,
+                        52.076905
+                  ]
+            },
+            {
+                  "name": "Rocla",
+                  "text": "A Milton Keynes-i Rocla egy kis tó, amely nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758764,
+                        52.079058
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "A Milton Keynes-i Red House tó idilli vízparti sétákra invitálja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.755473,
+                        52.082383
+                  ]
+            },
+            {
+                  "name": "Kingfisher Lake",
+                  "text": "A Milton Keynes-i Kingfisher Lake egy csendes tó, amely ideális madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        -0.711532,
+                        52.097155
+                  ]
+            },
+            {
+                  "name": "Willen Lake South",
+                  "text": "A Milton Keynes-i Willen Lake South egy nagy tó, amely népszerű sétákhoz és vízi sportokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.719225,
+                        52.051368
+                  ]
+            },
+            {
+                  "name": "Teardrop Lakes",
+                  "text": "A Milton Keynes-i Teardrop Lakes festői tavak, amelyeket kiterjedt parkok vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -0.770711,
+                        52.028261
+                  ]
+            },
+            {
+                  "name": "Vauxhall Angling Lake",
+                  "text": "A Milton Keynes-i Vauxhall Angling Lake idilli célpont a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        -0.659076,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Jubilee Lake",
+                  "text": "A Milton Keynes-i Jubilee Lake békés hátteret kínál egy zöldbe tett kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.736741,
+                        51.972127
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "A Milton Keynes-i Blue Lagoon egy népszerű tó, amelynek vízszíne lenyűgöző.",
+                  "category": "natural",
+                  "coords": [
+                        -0.737889,
+                        51.98702
+                  ]
+            },
+            {
+                  "name": "Mauretania way Lake",
+                  "text": "A Milton Keynes-i Mauretania way Lake gyönyörű hely egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.678273,
+                        52.042542
+                  ]
+            },
+            {
+                  "name": "Heron",
+                  "text": "A Milton Keynes-i Heron tó egy kis természeti paradicsom a városi táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758903,
+                        52.076315
+                  ]
+            },
+            {
+                  "name": "Canal 1",
+                  "text": "A Milton Keynes-i Canal 1 egy csatornaszerű vízi út, amely sétálásra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761515,
+                        52.076729
+                  ]
+            },
+            {
+                  "name": "Covered Resrvior",
+                  "text": "A Milton Keynes-i Covered Reservoir a helyi infrastruktúra részét képező vízi létesítmény.",
+                  "category": "natural",
+                  "coords": [
+                        -0.67037,
+                        52.008091
+                  ]
+            },
+            {
+                  "name": "Caldecotte Lake",
+                  "text": "A(z) Caldecotte Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.704249,
+                        52.008866
+                  ]
+            },
+            {
+                  "name": "Mount Farm Lake",
+                  "text": "A(z) Mount Farm Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.724063,
+                        52.006334
+                  ]
+            },
+            {
+                  "name": "Furzton Lake",
+                  "text": "A(z) Furzton Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.766402,
+                        52.01441
+                  ]
+            },
+            {
+                  "name": "Stantonbury Lake",
+                  "text": "A(z) Stantonbury Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.777255,
+                        52.079307
+                  ]
+            },
+            {
+                  "name": "Stanton Low Lake",
+                  "text": "A(z) Stanton Low Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.779201,
+                        52.081643
+                  ]
+            },
+            {
+                  "name": "St. Peters Lake",
+                  "text": "A(z) St. Peters Lake egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.781179,
+                        52.078542
+                  ]
+            },
+            {
+                  "name": "Willen Lake North",
+                  "text": "A(z) Willen Lake North egy tó Milton Keynes területén, amely festői kilátást és békés környezetet kínál sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.718818,
+                        52.058054
+                  ]
+            },
+            {
+                  "name": "Balance beam",
+                  "text": "A(z) Balance beam egy játszótér Milton Keynes területén, amely szórakoztató szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.788557,
+                        52.03562
+                  ]
+            },
+            {
+                  "name": "Vertigo VR",
+                  "text": "A(z) Vertigo VR egy játékterem Milton Keynes területén, amely különféle játékokat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.749513,
+                        52.044103
+                  ]
+            },
+            {
+                  "name": "Pixel Bunker",
+                  "text": "A(z) Pixel Bunker egy játékterem Milton Keynes területén, amely különféle játékokat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.757483,
+                        52.045025
+                  ]
+            },
+            {
+                  "name": "Lul Up",
+                  "text": "A(z) Lul Up egy játékterem Milton Keynes területén, amely különféle játékokat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.756904,
+                        52.040322
+                  ]
+            },
+            {
+                  "name": "The Beanhill Tinman",
+                  "text": "A(z) The Beanhill Tinman egy játszótér Milton Keynes területén, amely szórakoztató szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.74179,
+                        52.017083
                   ]
             }
       ],
@@ -771,6 +1221,231 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.676147,
                         52.026745
                   ]
+            },
+            {
+                  "name": "Black Horse",
+                  "text": "Lacul Black Horse din Milton Keynes este o întindere frumoasă de apă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.767313,
+                        52.076905
+                  ]
+            },
+            {
+                  "name": "Rocla",
+                  "text": "Rocla din Milton Keynes este un lac mic care oferă o atmosferă relaxată.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758764,
+                        52.079058
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Lacul Red House din Milton Keynes invită vizitatorii la plimbări idilice pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -0.755473,
+                        52.082383
+                  ]
+            },
+            {
+                  "name": "Kingfisher Lake",
+                  "text": "Kingfisher Lake din Milton Keynes este un lac liniștit, ideal pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -0.711532,
+                        52.097155
+                  ]
+            },
+            {
+                  "name": "Willen Lake South",
+                  "text": "Willen Lake South din Milton Keynes este un lac mare, popular pentru plimbări și sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        -0.719225,
+                        52.051368
+                  ]
+            },
+            {
+                  "name": "Teardrop Lakes",
+                  "text": "Teardrop Lakes din Milton Keynes sunt lacuri pitorești înconjurate de parcuri întinse.",
+                  "category": "natural",
+                  "coords": [
+                        -0.770711,
+                        52.028261
+                  ]
+            },
+            {
+                  "name": "Vauxhall Angling Lake",
+                  "text": "Vauxhall Angling Lake din Milton Keynes este o destinație idilică pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.659076,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Jubilee Lake",
+                  "text": "Jubilee Lake din Milton Keynes oferă un cadru pașnic pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.736741,
+                        51.972127
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Blue Lagoon din Milton Keynes este un lac popular, cu o culoare a apei fascinantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.737889,
+                        51.98702
+                  ]
+            },
+            {
+                  "name": "Mauretania way Lake",
+                  "text": "Mauretania way Lake din Milton Keynes este un loc frumos pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -0.678273,
+                        52.042542
+                  ]
+            },
+            {
+                  "name": "Heron",
+                  "text": "Lacul Heron din Milton Keynes este un mic paradis natural în mijlocul peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758903,
+                        52.076315
+                  ]
+            },
+            {
+                  "name": "Canal 1",
+                  "text": "Canal 1 din Milton Keynes este o cale navigabilă asemănătoare unui canal, care invită la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761515,
+                        52.076729
+                  ]
+            },
+            {
+                  "name": "Covered Resrvior",
+                  "text": "Covered Reservoir din Milton Keynes este o facilitate de apă care face parte din infrastructura locală.",
+                  "category": "natural",
+                  "coords": [
+                        -0.67037,
+                        52.008091
+                  ]
+            },
+            {
+                  "name": "Caldecotte Lake",
+                  "text": "Caldecotte Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.704249,
+                        52.008866
+                  ]
+            },
+            {
+                  "name": "Mount Farm Lake",
+                  "text": "Mount Farm Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.724063,
+                        52.006334
+                  ]
+            },
+            {
+                  "name": "Furzton Lake",
+                  "text": "Furzton Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.766402,
+                        52.01441
+                  ]
+            },
+            {
+                  "name": "Stantonbury Lake",
+                  "text": "Stantonbury Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.777255,
+                        52.079307
+                  ]
+            },
+            {
+                  "name": "Stanton Low Lake",
+                  "text": "Stanton Low Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.779201,
+                        52.081643
+                  ]
+            },
+            {
+                  "name": "St. Peters Lake",
+                  "text": "St. Peters Lake este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.781179,
+                        52.078542
+                  ]
+            },
+            {
+                  "name": "Willen Lake North",
+                  "text": "Willen Lake North este un lac în Milton Keynes, oferind priveliști pitorești și un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.718818,
+                        52.058054
+                  ]
+            },
+            {
+                  "name": "Balance beam",
+                  "text": "Balance beam este un loc de joacă în Milton Keynes, oferind un spațiu în aer liber distractiv pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.788557,
+                        52.03562
+                  ]
+            },
+            {
+                  "name": "Vertigo VR",
+                  "text": "Vertigo VR este o sală de jocuri în Milton Keynes, oferind diverse jocuri și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.749513,
+                        52.044103
+                  ]
+            },
+            {
+                  "name": "Pixel Bunker",
+                  "text": "Pixel Bunker este o sală de jocuri în Milton Keynes, oferind diverse jocuri și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.757483,
+                        52.045025
+                  ]
+            },
+            {
+                  "name": "Lul Up",
+                  "text": "Lul Up este o sală de jocuri în Milton Keynes, oferind diverse jocuri și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.756904,
+                        52.040322
+                  ]
+            },
+            {
+                  "name": "The Beanhill Tinman",
+                  "text": "The Beanhill Tinman este un loc de joacă în Milton Keynes, oferind un spațiu în aer liber distractiv pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.74179,
+                        52.017083
+                  ]
             }
       ],
       "en": [
@@ -862,6 +1537,231 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.676147,
                         52.026745
+                  ]
+            },
+            {
+                  "name": "Black Horse",
+                  "text": "The Black Horse lake in Milton Keynes is a beautiful body of water for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -0.767313,
+                        52.076905
+                  ]
+            },
+            {
+                  "name": "Rocla",
+                  "text": "Rocla in Milton Keynes is a small lake offering a relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758764,
+                        52.079058
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "The Red House lake in Milton Keynes invites visitors for idyllic waterside walks.",
+                  "category": "natural",
+                  "coords": [
+                        -0.755473,
+                        52.082383
+                  ]
+            },
+            {
+                  "name": "Kingfisher Lake",
+                  "text": "Kingfisher Lake in Milton Keynes is a quiet lake, ideal for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        -0.711532,
+                        52.097155
+                  ]
+            },
+            {
+                  "name": "Willen Lake South",
+                  "text": "Willen Lake South in Milton Keynes is a large lake popular for walks and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        -0.719225,
+                        52.051368
+                  ]
+            },
+            {
+                  "name": "Teardrop Lakes",
+                  "text": "The Teardrop Lakes in Milton Keynes are picturesque lakes surrounded by extensive parks.",
+                  "category": "natural",
+                  "coords": [
+                        -0.770711,
+                        52.028261
+                  ]
+            },
+            {
+                  "name": "Vauxhall Angling Lake",
+                  "text": "Vauxhall Angling Lake in Milton Keynes is an idyllic destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -0.659076,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Jubilee Lake",
+                  "text": "Jubilee Lake in Milton Keynes offers a peaceful setting for an excursion into the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.736741,
+                        51.972127
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "The Blue Lagoon in Milton Keynes is a popular lake with a fascinating water color.",
+                  "category": "natural",
+                  "coords": [
+                        -0.737889,
+                        51.98702
+                  ]
+            },
+            {
+                  "name": "Mauretania way Lake",
+                  "text": "Mauretania way Lake in Milton Keynes is a beautiful spot for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -0.678273,
+                        52.042542
+                  ]
+            },
+            {
+                  "name": "Heron",
+                  "text": "The Heron lake in Milton Keynes is a small natural paradise amidst the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -0.758903,
+                        52.076315
+                  ]
+            },
+            {
+                  "name": "Canal 1",
+                  "text": "Canal 1 in Milton Keynes is a canal-like waterway that invites for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761515,
+                        52.076729
+                  ]
+            },
+            {
+                  "name": "Covered Resrvior",
+                  "text": "The Covered Reservoir in Milton Keynes is a water facility that is part of the local infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        -0.67037,
+                        52.008091
+                  ]
+            },
+            {
+                  "name": "Caldecotte Lake",
+                  "text": "Caldecotte Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.704249,
+                        52.008866
+                  ]
+            },
+            {
+                  "name": "Mount Farm Lake",
+                  "text": "Mount Farm Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.724063,
+                        52.006334
+                  ]
+            },
+            {
+                  "name": "Furzton Lake",
+                  "text": "Furzton Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.766402,
+                        52.01441
+                  ]
+            },
+            {
+                  "name": "Stantonbury Lake",
+                  "text": "Stantonbury Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.777255,
+                        52.079307
+                  ]
+            },
+            {
+                  "name": "Stanton Low Lake",
+                  "text": "Stanton Low Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.779201,
+                        52.081643
+                  ]
+            },
+            {
+                  "name": "St. Peters Lake",
+                  "text": "St. Peters Lake is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.781179,
+                        52.078542
+                  ]
+            },
+            {
+                  "name": "Willen Lake North",
+                  "text": "Willen Lake North is a lake in Milton Keynes, offering scenic views and a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.718818,
+                        52.058054
+                  ]
+            },
+            {
+                  "name": "Balance beam",
+                  "text": "Balance beam is a playground in Milton Keynes, providing a fun outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -0.788557,
+                        52.03562
+                  ]
+            },
+            {
+                  "name": "Vertigo VR",
+                  "text": "Vertigo VR is an amusement arcade in Milton Keynes, featuring various games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.749513,
+                        52.044103
+                  ]
+            },
+            {
+                  "name": "Pixel Bunker",
+                  "text": "Pixel Bunker is an amusement arcade in Milton Keynes, featuring various games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.757483,
+                        52.045025
+                  ]
+            },
+            {
+                  "name": "Lul Up",
+                  "text": "Lul Up is an amusement arcade in Milton Keynes, featuring various games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.756904,
+                        52.040322
+                  ]
+            },
+            {
+                  "name": "The Beanhill Tinman",
+                  "text": "The Beanhill Tinman is a playground in Milton Keynes, providing a fun outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -0.74179,
+                        52.017083
                   ]
             }
       ]

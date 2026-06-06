@@ -31,6 +31,33 @@ export const irelandCitiesV2: POI[] = [
                         -6.14655,
                         52.765747
                   ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground ist ein Spielplatz in Arklow, der Kindern einen tollen Ort bietet, um Outdoor-Aktivitäten mit ihren Familien zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground in Arklow ist ein angenehmes Erholungsgebiet für Kinder zum Spielen und für Familien zum Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair ist eine Spielhalle in Arklow, die spannende Spiele und Unterhaltung für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
             }
       ],
       "hu": [
@@ -59,6 +86,33 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.14655,
                         52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "A Seaview Av Playground egy játszótér Arklow-ban, amely kiváló teret kínál a gyerekeknek a szabadtéri tevékenységek élvezetére családjukkal.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "Az arklow-i South Green Playground egy kellemes rekreációs terület, ahol a gyerekek játszhatnak, a családok pedig pihenhetnek.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "A Fun Fair egy szórakoztató árkád Arklow-ban, amely izgalmas játékokat és kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
                   ]
             }
       ],
@@ -89,6 +143,33 @@ export const irelandCitiesV2: POI[] = [
                         -6.14655,
                         52.765747
                   ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground este un loc de joacă în Arklow, oferind copiilor un spațiu minunat pentru a se bucura de activități în aer liber alături de familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground din Arklow este o zonă de recreere plăcută, unde copiii se pot juca și familiile se pot relaxa.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair este o sală de jocuri de noroc și divertisment în Arklow, oferind jocuri captivante și distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
             }
       ],
       "en": [
@@ -117,6 +198,33 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.14655,
                         52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground is a playground in Arklow, offering kids a great space to enjoy outdoor activities with their families.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground in Arklow is a pleasant recreational area for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair is an amusement arcade in Arklow, providing engaging games and entertainment for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
                   ]
             }
       ]
@@ -598,6 +706,15 @@ export const irelandCitiesV2: POI[] = [
                         -6.280343,
                         54.867395
                   ]
+            },
+            {
+                  "name": "Peoples Park Lake",
+                  "text": "Der Peoples Park See in Ballymena ist ein idyllisches Ziel für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        -6.27994,
+                        54.871272
+                  ]
             }
       ],
       "hu": [
@@ -680,6 +797,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.280343,
                         54.867395
+                  ]
+            },
+            {
+                  "name": "Peoples Park Lake",
+                  "text": "A ballymenai Peoples Park tó egy idilli célpont sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -6.27994,
+                        54.871272
                   ]
             }
       ],
@@ -764,6 +890,15 @@ export const irelandCitiesV2: POI[] = [
                         -6.280343,
                         54.867395
                   ]
+            },
+            {
+                  "name": "Peoples Park Lake",
+                  "text": "Lacul din Peoples Park, Ballymena, este o destinație idilică pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -6.27994,
+                        54.871272
+                  ]
             }
       ],
       "en": [
@@ -846,6 +981,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.280343,
                         54.867395
+                  ]
+            },
+            {
+                  "name": "Peoples Park Lake",
+                  "text": "The Peoples Park lake in Ballymena is an idyllic destination for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -6.27994,
+                        54.871272
                   ]
             }
       ]
@@ -1678,6 +1822,87 @@ export const irelandCitiesV2: POI[] = [
                         -5.806853,
                         54.714806
                   ]
+            },
+            {
+                  "name": "Woodford Fly Fishery",
+                  "text": "Woodford Fly Fishery ist ein See in Carrickfergus, an dem man entspannt das Gewässer betrachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        -5.830857,
+                        54.719022
+                  ]
+            },
+            {
+                  "name": "Lower South Woodburn Reservoir",
+                  "text": "Lower South Woodburn Reservoir ist ein Stausee in Carrickfergus, der zu schönen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.864401,
+                        54.731492
+                  ]
+            },
+            {
+                  "name": "Middle South Woodburn Reservoir",
+                  "text": "Middle South Woodburn Reservoir ist ein Gewässer in Carrickfergus mit malerischer Naturkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -5.873549,
+                        54.730433
+                  ]
+            },
+            {
+                  "name": "Upper South Woodburn Reservoir",
+                  "text": "Upper South Woodburn Reservoir ist ein See in Carrickfergus, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884924,
+                        54.728289
+                  ]
+            },
+            {
+                  "name": "Dorisland Reservoir",
+                  "text": "Dorisland Reservoir ist ein Reservoir in Carrickfergus, das ruhige Spaziergänge entlang des Ufers ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -5.851803,
+                        54.721361
+                  ]
+            },
+            {
+                  "name": "Copeland Reservoir",
+                  "text": "Copeland Reservoir ist ein See in Carrickfergus, umgeben von schöner Landschaft für Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        -5.78382,
+                        54.751626
+                  ]
+            },
+            {
+                  "name": "North Woodburn Reservoir",
+                  "text": "North Woodburn Reservoir ist ein See in Carrickfergus, der einen weiten Blick über das Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872821,
+                        54.750568
+                  ]
+            },
+            {
+                  "name": "Lough Mourne Reservoir",
+                  "text": "Lough Mourne Reservoir ist ein See in Carrickfergus, perfekt für Wanderungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -5.805963,
+                        54.763445
+                  ]
+            },
+            {
+                  "name": "Jollytots",
+                  "text": "Jollytots ist ein Spielplatz für Kinder in Carrickfergus, perfekt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -5.792559,
+                        54.722474
+                  ]
             }
       ],
       "hu": [
@@ -1733,6 +1958,87 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.806853,
                         54.714806
+                  ]
+            },
+            {
+                  "name": "Woodford Fly Fishery",
+                  "text": "A Woodford Fly Fishery egy tó Carrickfergus közelében, ahol nyugodtan élvezhetjük a vízparti látványt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.830857,
+                        54.719022
+                  ]
+            },
+            {
+                  "name": "Lower South Woodburn Reservoir",
+                  "text": "A Lower South Woodburn Reservoir egy víztározó Carrickfergus területén, amely szép sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        -5.864401,
+                        54.731492
+                  ]
+            },
+            {
+                  "name": "Middle South Woodburn Reservoir",
+                  "text": "A Middle South Woodburn Reservoir egy tó Carrickfergus területén festői természeti kulisszával.",
+                  "category": "natural",
+                  "coords": [
+                        -5.873549,
+                        54.730433
+                  ]
+            },
+            {
+                  "name": "Upper South Woodburn Reservoir",
+                  "text": "Az Upper South Woodburn Reservoir egy tó Carrickfergus területén, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884924,
+                        54.728289
+                  ]
+            },
+            {
+                  "name": "Dorisland Reservoir",
+                  "text": "A Dorisland Reservoir egy víztározó Carrickfergus területén, amely nyugodt sétákat tesz lehetővé a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -5.851803,
+                        54.721361
+                  ]
+            },
+            {
+                  "name": "Copeland Reservoir",
+                  "text": "A Copeland Reservoir egy tó Carrickfergus mellett, szép tájjal övezve a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -5.78382,
+                        54.751626
+                  ]
+            },
+            {
+                  "name": "North Woodburn Reservoir",
+                  "text": "A North Woodburn Reservoir egy tó Carrickfergus területén, amely széles kilátást nyújt a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872821,
+                        54.750568
+                  ]
+            },
+            {
+                  "name": "Lough Mourne Reservoir",
+                  "text": "A Lough Mourne Reservoir egy tó Carrickfergus közelében, tökéletes természetjáráshoz és túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -5.805963,
+                        54.763445
+                  ]
+            },
+            {
+                  "name": "Jollytots",
+                  "text": "A Jollytots egy gyerekjátszótér Carrickfergus városában, tökéletes a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.792559,
+                        54.722474
                   ]
             }
       ],
@@ -1790,6 +2096,87 @@ export const irelandCitiesV2: POI[] = [
                         -5.806853,
                         54.714806
                   ]
+            },
+            {
+                  "name": "Woodford Fly Fishery",
+                  "text": "Woodford Fly Fishery este un lac în Carrickfergus, unde puteți admira liniștit apa.",
+                  "category": "natural",
+                  "coords": [
+                        -5.830857,
+                        54.719022
+                  ]
+            },
+            {
+                  "name": "Lower South Woodburn Reservoir",
+                  "text": "Lower South Woodburn Reservoir este un lac de acumulare în Carrickfergus, care invită la plimbări frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -5.864401,
+                        54.731492
+                  ]
+            },
+            {
+                  "name": "Middle South Woodburn Reservoir",
+                  "text": "Middle South Woodburn Reservoir este un lac în Carrickfergus cu o scenografie naturală pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -5.873549,
+                        54.730433
+                  ]
+            },
+            {
+                  "name": "Upper South Woodburn Reservoir",
+                  "text": "Upper South Woodburn Reservoir este un lac în Carrickfergus, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884924,
+                        54.728289
+                  ]
+            },
+            {
+                  "name": "Dorisland Reservoir",
+                  "text": "Dorisland Reservoir este un lac în Carrickfergus, care permite plimbări liniștite pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -5.851803,
+                        54.721361
+                  ]
+            },
+            {
+                  "name": "Copeland Reservoir",
+                  "text": "Copeland Reservoir este un lac în Carrickfergus, înconjurat de un peisaj frumos pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        -5.78382,
+                        54.751626
+                  ]
+            },
+            {
+                  "name": "North Woodburn Reservoir",
+                  "text": "North Woodburn Reservoir este un lac în Carrickfergus, oferind o priveliște largă asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872821,
+                        54.750568
+                  ]
+            },
+            {
+                  "name": "Lough Mourne Reservoir",
+                  "text": "Lough Mourne Reservoir este un lac în Carrickfergus, perfect pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -5.805963,
+                        54.763445
+                  ]
+            },
+            {
+                  "name": "Jollytots",
+                  "text": "Jollytots este un loc de joacă pentru copii în Carrickfergus, perfect pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.792559,
+                        54.722474
+                  ]
             }
       ],
       "en": [
@@ -1845,6 +2232,87 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.806853,
                         54.714806
+                  ]
+            },
+            {
+                  "name": "Woodford Fly Fishery",
+                  "text": "Woodford Fly Fishery is a lake in Carrickfergus where you can relax and view the water.",
+                  "category": "natural",
+                  "coords": [
+                        -5.830857,
+                        54.719022
+                  ]
+            },
+            {
+                  "name": "Lower South Woodburn Reservoir",
+                  "text": "Lower South Woodburn Reservoir is a reservoir in Carrickfergus, inviting for beautiful walks.",
+                  "category": "natural",
+                  "coords": [
+                        -5.864401,
+                        54.731492
+                  ]
+            },
+            {
+                  "name": "Middle South Woodburn Reservoir",
+                  "text": "Middle South Woodburn Reservoir is a lake in Carrickfergus with a scenic natural backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -5.873549,
+                        54.730433
+                  ]
+            },
+            {
+                  "name": "Upper South Woodburn Reservoir",
+                  "text": "Upper South Woodburn Reservoir is a lake in Carrickfergus, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884924,
+                        54.728289
+                  ]
+            },
+            {
+                  "name": "Dorisland Reservoir",
+                  "text": "Dorisland Reservoir is a reservoir in Carrickfergus that allows for quiet walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -5.851803,
+                        54.721361
+                  ]
+            },
+            {
+                  "name": "Copeland Reservoir",
+                  "text": "Copeland Reservoir is a lake in Carrickfergus, surrounded by beautiful scenery for excursions.",
+                  "category": "natural",
+                  "coords": [
+                        -5.78382,
+                        54.751626
+                  ]
+            },
+            {
+                  "name": "North Woodburn Reservoir",
+                  "text": "North Woodburn Reservoir is a lake in Carrickfergus offering a wide view over the water.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872821,
+                        54.750568
+                  ]
+            },
+            {
+                  "name": "Lough Mourne Reservoir",
+                  "text": "Lough Mourne Reservoir is a lake in Carrickfergus, perfect for hiking in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -5.805963,
+                        54.763445
+                  ]
+            },
+            {
+                  "name": "Jollytots",
+                  "text": "Jollytots is a children's playground in Carrickfergus, perfect for families.",
+                  "category": "family",
+                  "coords": [
+                        -5.792559,
+                        54.722474
                   ]
             }
       ]
@@ -2434,6 +2902,231 @@ export const irelandCitiesV2: POI[] = [
                         -9.300031,
                         53.854414
                   ]
+            },
+            {
+                  "name": "Loughanaveeny",
+                  "text": "Loughanaveeny ist ein See in Castlebar und somit ein wunderbares Ziel, um die ruhige Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.352097,
+                        53.907184
+                  ]
+            },
+            {
+                  "name": "Saleen Lough",
+                  "text": "Saleen Lough ist ein See in Castlebar, ideal, um friedliche Aussichten und entspannende Spaziergänge am Ufer zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.29521,
+                        53.84538
+                  ]
+            },
+            {
+                  "name": "Cooley Lough",
+                  "text": "Cooley Lough ist ein See in Castlebar, bekannt für seine ruhige Umgebung und natürliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        -9.315293,
+                        53.783642
+                  ]
+            },
+            {
+                  "name": "Rann's Lough",
+                  "text": "Rann's Lough ist ein friedlicher See in Castlebar, der Outdoor-Enthusiasten eine schöne Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.30499,
+                        53.783267
+                  ]
+            },
+            {
+                  "name": "Lough Sallagher",
+                  "text": "Lough Sallagher ist ein See in Castlebar, der eine ruhige Kulisse für einen Spaziergang oder zum Bewundern der Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.363004,
+                        53.880309
+                  ]
+            },
+            {
+                  "name": "Drumminahaha Lough",
+                  "text": "Drumminahaha Lough ist ein malerischer See in Castlebar, perfekt für alle, die einen ruhigen Rückzugsort in der Natur suchen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.401697,
+                        53.835287
+                  ]
+            },
+            {
+                  "name": "Annagh Lough",
+                  "text": "Annagh Lough ist ein ruhiger See in Castlebar, der Besucher einlädt, die Natur zu genießen und sich zu entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.360913,
+                        53.8355
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough ist ein ruhiger See in Castlebar, der eine schöne Gelegenheit für einen erfrischenden Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.321299,
+                        53.862918
+                  ]
+            },
+            {
+                  "name": "Slievenagark Lough",
+                  "text": "Slievenagark Lough ist ein wunderschöner See in Castlebar, der eine ruhige Uferumgebung präsentiert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.297393,
+                        53.881484
+                  ]
+            },
+            {
+                  "name": "Tuckers Lough",
+                  "text": "Tuckers Lough ist ein See in Castlebar, der Besuchern eine malerische natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.284323,
+                        53.875593
+                  ]
+            },
+            {
+                  "name": "Lough Ben",
+                  "text": "Lough Ben ist ein See in Castlebar, ein großartiger Ort, um die Natur und die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.367106,
+                        53.892732
+                  ]
+            },
+            {
+                  "name": "Carrowmore Lough",
+                  "text": "Carrowmore Lough ist ein malerischer See in Castlebar, ideal für entspannende Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169014,
+                        53.841278
+                  ]
+            },
+            {
+                  "name": "Gibsons Lough",
+                  "text": "Gibsons Lough ist ein See in Castlebar, der eine ruhige Umgebung bietet, um die lokale Landschaft zu schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.404518,
+                        53.87951
+                  ]
+            },
+            {
+                  "name": "Lough Akeal",
+                  "text": "Lough Akeal ist ein See in Castlebar, der ein schönes Naturgebiet bietet, um spazieren zu gehen und die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.270446,
+                        53.877673
+                  ]
+            },
+            {
+                  "name": "Cappagh Lough",
+                  "text": "Cappagh Lough ist ein ruhiger See in Castlebar, der sich für einen gemütlichen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.275145,
+                        53.878729
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Cloonagh Lough ist ein See in Castlebar, perfekt, um das ruhige Wasser und die umliegende natürliche Schönheit zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -9.213648,
+                        53.826568
+                  ]
+            },
+            {
+                  "name": "Lough Nabo",
+                  "text": "Lough Nabo ist ein schöner See in Castlebar, der einen angenehmen Ort für einen Ausflug ans Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.214253,
+                        53.840428
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Derreen Lough ist ein See in Castlebar, wo Besucher Ruhe und malerische Ausblicke finden können.",
+                  "category": "natural",
+                  "coords": [
+                        -9.224722,
+                        53.822105
+                  ]
+            },
+            {
+                  "name": "Curranny Lough",
+                  "text": "Curranny Lough ist ein ruhiger See in Castlebar, eine großartige Kulisse, um die lokale Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.233244,
+                        53.818388
+                  ]
+            },
+            {
+                  "name": "Cloondeash Lough",
+                  "text": "Cloondeash Lough ist ein See in Castlebar, bekannt für seine entspannende Atmosphäre und die malerischen Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -9.324148,
+                        53.829628
+                  ]
+            },
+            {
+                  "name": "Lough Rusheen",
+                  "text": "Lough Rusheen ist ein See in Castlebar, der eine friedliche Umgebung bietet, ideal für Spaziergänge im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -9.319158,
+                        53.889447
+                  ]
+            },
+            {
+                  "name": "Lough Naspleenagh",
+                  "text": "Lough Naspleenagh ist ein malerischer See in Castlebar, perfekt, um die Schönheit der Natur zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.278139,
+                        53.89416
+                  ]
+            },
+            {
+                  "name": "Lough Fadda",
+                  "text": "Lough Fadda ist ein ruhiger See in Castlebar, der eine hervorragende Gelegenheit bietet, am Wasser zu entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.241518,
+                        53.902345
+                  ]
+            },
+            {
+                  "name": "Lough Doovoga",
+                  "text": "Lough Doovoga ist ein See in Castlebar, der einen schönen natürlichen Ort für einen gemütlichen Ausflug darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.235542,
+                        53.903886
+                  ]
+            },
+            {
+                  "name": "Cashel Lough",
+                  "text": "Cashel Lough ist ein friedlicher See in Castlebar, ideal, um die ruhige Umgebung auf sich wirken zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.400354,
+                        53.884668
+                  ]
             }
       ],
       "hu": [
@@ -2489,6 +3182,231 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -9.300031,
                         53.854414
+                  ]
+            },
+            {
+                  "name": "Loughanaveeny",
+                  "text": "A Loughanaveeny egy Castlebarban található tó, amely csodálatos úti cél a nyugodt természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.352097,
+                        53.907184
+                  ]
+            },
+            {
+                  "name": "Saleen Lough",
+                  "text": "A Saleen Lough egy tó Castlebarban, ideális a békés kilátás és a pihentető vízparti séták megtapasztalására.",
+                  "category": "natural",
+                  "coords": [
+                        -9.29521,
+                        53.84538
+                  ]
+            },
+            {
+                  "name": "Cooley Lough",
+                  "text": "A Cooley Lough egy Castlebarban található tó, amely nyugodt környezetéről és természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.315293,
+                        53.783642
+                  ]
+            },
+            {
+                  "name": "Rann's Lough",
+                  "text": "A Rann's Lough egy békés tó Castlebarban, amely szép kilátást nyújt a szabadtéri tevékenységek kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -9.30499,
+                        53.783267
+                  ]
+            },
+            {
+                  "name": "Lough Sallagher",
+                  "text": "A Lough Sallagher egy tó Castlebarban, amely nyugodt környezetet biztosít egy sétához vagy a táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.363004,
+                        53.880309
+                  ]
+            },
+            {
+                  "name": "Drumminahaha Lough",
+                  "text": "A Drumminahaha Lough egy festői tó Castlebarban, amely tökéletes azok számára, akik egy kis nyugalomra vágynak a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.401697,
+                        53.835287
+                  ]
+            },
+            {
+                  "name": "Annagh Lough",
+                  "text": "Az Annagh Lough egy csendes tó Castlebarban, amely természetjárásra és pihenésre invitálja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.360913,
+                        53.8355
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "A Black Lough egy békés tó Castlebarban, amely kellemes lehetőséget kínál egy frissítő sétára.",
+                  "category": "natural",
+                  "coords": [
+                        -9.321299,
+                        53.862918
+                  ]
+            },
+            {
+                  "name": "Slievenagark Lough",
+                  "text": "A Slievenagark Lough egy gyönyörű tó Castlebarban, amely nyugodt vízparti környezetet mutat be.",
+                  "category": "natural",
+                  "coords": [
+                        -9.297393,
+                        53.881484
+                  ]
+            },
+            {
+                  "name": "Tuckers Lough",
+                  "text": "A Tuckers Lough egy tó Castlebarban, amely festői természeti környezetet nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -9.284323,
+                        53.875593
+                  ]
+            },
+            {
+                  "name": "Lough Ben",
+                  "text": "A Lough Ben egy Castlebarban található tó, amely nagyszerű helyszín a szabadban tartózkodásra és a közeli táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        -9.367106,
+                        53.892732
+                  ]
+            },
+            {
+                  "name": "Carrowmore Lough",
+                  "text": "A Carrowmore Lough egy festői tó Castlebarban, amely ideális a vízparti pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169014,
+                        53.841278
+                  ]
+            },
+            {
+                  "name": "Gibsons Lough",
+                  "text": "A Gibsons Lough egy tó Castlebarban, amely csendes környezetet kínál a helyi táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        -9.404518,
+                        53.87951
+                  ]
+            },
+            {
+                  "name": "Lough Akeal",
+                  "text": "A Lough Akeal egy tó Castlebarban, amely szép természeti területet kínál egy sétához és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.270446,
+                        53.877673
+                  ]
+            },
+            {
+                  "name": "Cappagh Lough",
+                  "text": "A Cappagh Lough egy nyugodt tó Castlebarban, amely alkalmas egy kényelmes sétára a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.275145,
+                        53.878729
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "A Cloonagh Lough egy tó Castlebarban, amely tökéletes a nyugodt vizek és a környező természeti szépségek megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -9.213648,
+                        53.826568
+                  ]
+            },
+            {
+                  "name": "Lough Nabo",
+                  "text": "A Lough Nabo egy szép tó Castlebarban, amely kellemes helyszínt kínál egy vízparti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.214253,
+                        53.840428
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "A Derreen Lough egy tó Castlebarban, ahol a látogatók békét és festői kilátást találhatnak.",
+                  "category": "natural",
+                  "coords": [
+                        -9.224722,
+                        53.822105
+                  ]
+            },
+            {
+                  "name": "Curranny Lough",
+                  "text": "A Curranny Lough egy csendes tó Castlebarban, amely nagyszerű környezetet biztosít a helyi természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.233244,
+                        53.818388
+                  ]
+            },
+            {
+                  "name": "Cloondeash Lough",
+                  "text": "A Cloondeash Lough egy tó Castlebarban, amely pihentető légköréről és festői vizeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.324148,
+                        53.829628
+                  ]
+            },
+            {
+                  "name": "Lough Rusheen",
+                  "text": "A Lough Rusheen egy tó Castlebarban, amely békés környezetet biztosít az ideális szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.319158,
+                        53.889447
+                  ]
+            },
+            {
+                  "name": "Lough Naspleenagh",
+                  "text": "A Lough Naspleenagh egy festői tó Castlebarban, amely tökéletes a természet szépségének megtapasztalására.",
+                  "category": "natural",
+                  "coords": [
+                        -9.278139,
+                        53.89416
+                  ]
+            },
+            {
+                  "name": "Lough Fadda",
+                  "text": "A Lough Fadda egy csendes tó Castlebarban, amely kiváló lehetőséget kínál a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.241518,
+                        53.902345
+                  ]
+            },
+            {
+                  "name": "Lough Doovoga",
+                  "text": "A Lough Doovoga egy tó Castlebarban, amely szép természeti helyszínt kínál egy kényelmes kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.235542,
+                        53.903886
+                  ]
+            },
+            {
+                  "name": "Cashel Lough",
+                  "text": "A Cashel Lough egy békés tó Castlebarban, amely ideális a nyugodt környezet befogadására.",
+                  "category": "natural",
+                  "coords": [
+                        -9.400354,
+                        53.884668
                   ]
             }
       ],
@@ -2546,6 +3464,231 @@ export const irelandCitiesV2: POI[] = [
                         -9.300031,
                         53.854414
                   ]
+            },
+            {
+                  "name": "Loughanaveeny",
+                  "text": "Loughanaveeny este un lac situat în Castlebar, o destinație minunată pentru a te bucura de peisajul natural senin.",
+                  "category": "natural",
+                  "coords": [
+                        -9.352097,
+                        53.907184
+                  ]
+            },
+            {
+                  "name": "Saleen Lough",
+                  "text": "Saleen Lough este un lac în Castlebar, ideal pentru a experimenta priveliști liniștite și plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.29521,
+                        53.84538
+                  ]
+            },
+            {
+                  "name": "Cooley Lough",
+                  "text": "Cooley Lough este un lac situat în Castlebar, cunoscut pentru mediul său liniștit și frumusețea naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -9.315293,
+                        53.783642
+                  ]
+            },
+            {
+                  "name": "Rann's Lough",
+                  "text": "Rann's Lough este un lac liniștit în Castlebar, oferind priveliști minunate pentru pasionații de activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -9.30499,
+                        53.783267
+                  ]
+            },
+            {
+                  "name": "Lough Sallagher",
+                  "text": "Lough Sallagher este un lac în Castlebar, oferind un cadru calm pentru o plimbare sau pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        -9.363004,
+                        53.880309
+                  ]
+            },
+            {
+                  "name": "Drumminahaha Lough",
+                  "text": "Drumminahaha Lough este un lac pitoresc în Castlebar, perfect pentru cei care caută o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.401697,
+                        53.835287
+                  ]
+            },
+            {
+                  "name": "Annagh Lough",
+                  "text": "Annagh Lough este un lac liniștit situat în Castlebar, invitând vizitatorii să se bucure de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.360913,
+                        53.8355
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough este un lac liniștit în Castlebar, oferind o oportunitate plăcută pentru o plimbare revigorantă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.321299,
+                        53.862918
+                  ]
+            },
+            {
+                  "name": "Slievenagark Lough",
+                  "text": "Slievenagark Lough este un lac frumos în Castlebar, prezentând un mediu liniștit la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.297393,
+                        53.881484
+                  ]
+            },
+            {
+                  "name": "Tuckers Lough",
+                  "text": "Tuckers Lough este un lac în Castlebar, oferind vizitatorilor un cadru natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -9.284323,
+                        53.875593
+                  ]
+            },
+            {
+                  "name": "Lough Ben",
+                  "text": "Lough Ben este un lac situat în Castlebar, o locație excelentă pentru a te bucura de aer liber și de peisajele din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -9.367106,
+                        53.892732
+                  ]
+            },
+            {
+                  "name": "Carrowmore Lough",
+                  "text": "Carrowmore Lough este un lac pitoresc situat în Castlebar, ideal pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169014,
+                        53.841278
+                  ]
+            },
+            {
+                  "name": "Gibsons Lough",
+                  "text": "Gibsons Lough este un lac în Castlebar, oferind un mediu liniștit pentru a aprecia peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        -9.404518,
+                        53.87951
+                  ]
+            },
+            {
+                  "name": "Lough Akeal",
+                  "text": "Lough Akeal este un lac în Castlebar, oferind o zonă naturală plăcută pentru o plimbare și bucuria peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -9.270446,
+                        53.877673
+                  ]
+            },
+            {
+                  "name": "Cappagh Lough",
+                  "text": "Cappagh Lough este un lac senin situat în Castlebar, potrivit pentru o plimbare pe îndelete în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.275145,
+                        53.878729
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Cloonagh Lough este un lac în Castlebar, perfect pentru a observa apele liniștite și frumusețea naturală din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -9.213648,
+                        53.826568
+                  ]
+            },
+            {
+                  "name": "Lough Nabo",
+                  "text": "Lough Nabo este un lac minunat situat în Castlebar, oferind un loc plăcut pentru o excursie la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.214253,
+                        53.840428
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Derreen Lough este un lac în Castlebar unde vizitatorii pot găsi liniște și vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -9.224722,
+                        53.822105
+                  ]
+            },
+            {
+                  "name": "Curranny Lough",
+                  "text": "Curranny Lough este un lac liniștit situat în Castlebar, un cadru excelent pentru a te bucura de natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        -9.233244,
+                        53.818388
+                  ]
+            },
+            {
+                  "name": "Cloondeash Lough",
+                  "text": "Cloondeash Lough este un lac în Castlebar, cunoscut pentru atmosfera sa relaxantă și apele pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -9.324148,
+                        53.829628
+                  ]
+            },
+            {
+                  "name": "Lough Rusheen",
+                  "text": "Lough Rusheen este un lac în Castlebar, oferind un mediu pașnic ideal pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -9.319158,
+                        53.889447
+                  ]
+            },
+            {
+                  "name": "Lough Naspleenagh",
+                  "text": "Lough Naspleenagh este un lac pitoresc situat în Castlebar, perfect pentru a experimenta frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -9.278139,
+                        53.89416
+                  ]
+            },
+            {
+                  "name": "Lough Fadda",
+                  "text": "Lough Fadda este un lac calm în Castlebar, oferind o oportunitate excelentă de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.241518,
+                        53.902345
+                  ]
+            },
+            {
+                  "name": "Lough Doovoga",
+                  "text": "Lough Doovoga este un lac în Castlebar, prezentând un loc natural minunat pentru o ieșire relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.235542,
+                        53.903886
+                  ]
+            },
+            {
+                  "name": "Cashel Lough",
+                  "text": "Cashel Lough este un lac liniștit situat în Castlebar, ideal pentru a admira împrejurimile calme.",
+                  "category": "natural",
+                  "coords": [
+                        -9.400354,
+                        53.884668
+                  ]
             }
       ],
       "en": [
@@ -2601,6 +3744,231 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -9.300031,
                         53.854414
+                  ]
+            },
+            {
+                  "name": "Loughanaveeny",
+                  "text": "Loughanaveeny is a lake located in Castlebar, making it a wonderful destination to enjoy the serene natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -9.352097,
+                        53.907184
+                  ]
+            },
+            {
+                  "name": "Saleen Lough",
+                  "text": "Saleen Lough is a lake in Castlebar, ideal for experiencing peaceful views and relaxing waterside walks.",
+                  "category": "natural",
+                  "coords": [
+                        -9.29521,
+                        53.84538
+                  ]
+            },
+            {
+                  "name": "Cooley Lough",
+                  "text": "Cooley Lough is a lake situated in Castlebar, known for its tranquil environment and natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -9.315293,
+                        53.783642
+                  ]
+            },
+            {
+                  "name": "Rann's Lough",
+                  "text": "Rann's Lough is a peaceful lake in Castlebar, offering lovely views for outdoor enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        -9.30499,
+                        53.783267
+                  ]
+            },
+            {
+                  "name": "Lough Sallagher",
+                  "text": "Lough Sallagher is a lake in Castlebar, providing a calm setting for a walk or to admire the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -9.363004,
+                        53.880309
+                  ]
+            },
+            {
+                  "name": "Drumminahaha Lough",
+                  "text": "Drumminahaha Lough is a scenic lake in Castlebar, perfect for those seeking a quiet natural escape.",
+                  "category": "natural",
+                  "coords": [
+                        -9.401697,
+                        53.835287
+                  ]
+            },
+            {
+                  "name": "Annagh Lough",
+                  "text": "Annagh Lough is a quiet lake located in Castlebar, inviting visitors to enjoy nature and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -9.360913,
+                        53.8355
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough is a serene lake in Castlebar, offering a nice opportunity for a refreshing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -9.321299,
+                        53.862918
+                  ]
+            },
+            {
+                  "name": "Slievenagark Lough",
+                  "text": "Slievenagark Lough is a beautiful lake in Castlebar, presenting a tranquil waterside environment.",
+                  "category": "natural",
+                  "coords": [
+                        -9.297393,
+                        53.881484
+                  ]
+            },
+            {
+                  "name": "Tuckers Lough",
+                  "text": "Tuckers Lough is a lake in Castlebar, providing visitors with a picturesque natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        -9.284323,
+                        53.875593
+                  ]
+            },
+            {
+                  "name": "Lough Ben",
+                  "text": "Lough Ben is a lake located in Castlebar, a great location for enjoying the outdoors and nearby scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -9.367106,
+                        53.892732
+                  ]
+            },
+            {
+                  "name": "Carrowmore Lough",
+                  "text": "Carrowmore Lough is a scenic lake situated in Castlebar, ideal for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169014,
+                        53.841278
+                  ]
+            },
+            {
+                  "name": "Gibsons Lough",
+                  "text": "Gibsons Lough is a lake in Castlebar, offering a quiet environment to appreciate the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -9.404518,
+                        53.87951
+                  ]
+            },
+            {
+                  "name": "Lough Akeal",
+                  "text": "Lough Akeal is a lake in Castlebar, providing a nice natural area for taking a walk and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -9.270446,
+                        53.877673
+                  ]
+            },
+            {
+                  "name": "Cappagh Lough",
+                  "text": "Cappagh Lough is a serene lake located in Castlebar, suitable for an unhurried walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.275145,
+                        53.878729
+                  ]
+            },
+            {
+                  "name": "Cloonagh Lough",
+                  "text": "Cloonagh Lough is a lake in Castlebar, perfect for observing the tranquil waters and surrounding natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -9.213648,
+                        53.826568
+                  ]
+            },
+            {
+                  "name": "Lough Nabo",
+                  "text": "Lough Nabo is a lovely lake situated in Castlebar, offering a pleasant spot for a waterside excursion.",
+                  "category": "natural",
+                  "coords": [
+                        -9.214253,
+                        53.840428
+                  ]
+            },
+            {
+                  "name": "Derreen Lough",
+                  "text": "Derreen Lough is a lake in Castlebar where visitors can find peace and scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -9.224722,
+                        53.822105
+                  ]
+            },
+            {
+                  "name": "Curranny Lough",
+                  "text": "Curranny Lough is a quiet lake located in Castlebar, a great setting for enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.233244,
+                        53.818388
+                  ]
+            },
+            {
+                  "name": "Cloondeash Lough",
+                  "text": "Cloondeash Lough is a lake in Castlebar, known for its relaxing atmosphere and scenic waters.",
+                  "category": "natural",
+                  "coords": [
+                        -9.324148,
+                        53.829628
+                  ]
+            },
+            {
+                  "name": "Lough Rusheen",
+                  "text": "Lough Rusheen is a lake in Castlebar, providing a peaceful environment ideal for outdoor strolls.",
+                  "category": "natural",
+                  "coords": [
+                        -9.319158,
+                        53.889447
+                  ]
+            },
+            {
+                  "name": "Lough Naspleenagh",
+                  "text": "Lough Naspleenagh is a scenic lake situated in Castlebar, perfect for experiencing the beauty of nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.278139,
+                        53.89416
+                  ]
+            },
+            {
+                  "name": "Lough Fadda",
+                  "text": "Lough Fadda is a calm lake in Castlebar, offering an excellent opportunity to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.241518,
+                        53.902345
+                  ]
+            },
+            {
+                  "name": "Lough Doovoga",
+                  "text": "Lough Doovoga is a lake in Castlebar, presenting a lovely natural spot for a leisurely outing.",
+                  "category": "natural",
+                  "coords": [
+                        -9.235542,
+                        53.903886
+                  ]
+            },
+            {
+                  "name": "Cashel Lough",
+                  "text": "Cashel Lough is a peaceful lake situated in Castlebar, ideal for taking in the tranquil surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -9.400354,
+                        53.884668
                   ]
             }
       ]
@@ -2677,6 +4045,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.264234,
                         51.858777
                   ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Der Castlelake See in Cobh ist ein malerisches Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
             }
       ],
       "hu": [
@@ -2705,6 +4082,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.264234,
                         51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "A cobhi Castlelake tó egy festői állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
                   ]
             }
       ],
@@ -2735,6 +4121,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.264234,
                         51.858777
                   ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Lacul Castlelake din Cobh este o apă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
             }
       ],
       "en": [
@@ -2763,6 +4158,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.264234,
                         51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Castlelake lake in Cobh is a picturesque body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
                   ]
             }
       ]
@@ -2811,7 +4215,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-cobh-cities-v2.webp",
   },
   {
-    id: "ireland-coleraine-cities-v2",
+    id: "ireland-coleraine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Articrunaght Reservoir",
+                  "text": "Articrunaght Reservoir ist ein Stausee in Coleraine, an dem man entspannte Spaziergänge unternehmen kann.",
+                  "category": "natural",
+                  "coords": [
+                        -6.607352,
+                        55.143716
+                  ]
+            },
+            {
+                  "name": "Ballinrees Reservoir",
+                  "text": "Ballinrees Reservoir ist ein malerischer See in Coleraine, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -6.751336,
+                        55.109568
+                  ]
+            },
+            {
+                  "name": "Dunalis Reservoir",
+                  "text": "Dunalis Reservoir ist ein malerischer See in Coleraine, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -6.738849,
+                        55.116021
+                  ]
+            },
+            {
+                  "name": "Jumplanes",
+                  "text": "Jumplanes in Coleraine ist ein unterhaltsamer Trampolinpark, der aktive Freizeitgestaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.653975,
+                        55.131752
+                  ]
+            },
+            {
+                  "name": "Windyhall Playing Fields and Park",
+                  "text": "Windyhall Playing Fields and Park ist ein familienfreundlicher Spielplatz in Coleraine, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.635201,
+                        55.118652
+                  ]
+            },
+            {
+                  "name": "Elms Play Park",
+                  "text": "Elms Play Park ist ein familienfreundlicher Spielplatz in Coleraine, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.662945,
+                        55.148626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Articrunaght Reservoir",
+                  "text": "Az Articrunaght Reservoir egy víztározó Coleraine területén, ahol pihentető sétákat lehet tenni.",
+                  "category": "natural",
+                  "coords": [
+                        -6.607352,
+                        55.143716
+                  ]
+            },
+            {
+                  "name": "Ballinrees Reservoir",
+                  "text": "A(z) Ballinrees Reservoir egy festői tó Coleraine városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -6.751336,
+                        55.109568
+                  ]
+            },
+            {
+                  "name": "Dunalis Reservoir",
+                  "text": "A(z) Dunalis Reservoir egy festői tó Coleraine városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -6.738849,
+                        55.116021
+                  ]
+            },
+            {
+                  "name": "Jumplanes",
+                  "text": "A(z) Jumplanes egy szórakoztató trambulinpark Coleraine városában, amely aktív kikapcsolódást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -6.653975,
+                        55.131752
+                  ]
+            },
+            {
+                  "name": "Windyhall Playing Fields and Park",
+                  "text": "A(z) Windyhall Playing Fields and Park egy családbarát játszótér Coleraine városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.635201,
+                        55.118652
+                  ]
+            },
+            {
+                  "name": "Elms Play Park",
+                  "text": "A(z) Elms Play Park egy családbarát játszótér Coleraine városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.662945,
+                        55.148626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Articrunaght Reservoir",
+                  "text": "Articrunaght Reservoir este un lac în Coleraine, unde vă puteți bucura de plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        -6.607352,
+                        55.143716
+                  ]
+            },
+            {
+                  "name": "Ballinrees Reservoir",
+                  "text": "Ballinrees Reservoir este un lac pitoresc în Coleraine, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.751336,
+                        55.109568
+                  ]
+            },
+            {
+                  "name": "Dunalis Reservoir",
+                  "text": "Dunalis Reservoir este un lac pitoresc în Coleraine, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.738849,
+                        55.116021
+                  ]
+            },
+            {
+                  "name": "Jumplanes",
+                  "text": "Jumplanes din Coleraine este un parc de trambuline distractiv, care oferă divertisment activ pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -6.653975,
+                        55.131752
+                  ]
+            },
+            {
+                  "name": "Windyhall Playing Fields and Park",
+                  "text": "Windyhall Playing Fields and Park este un loc de joacă pentru familii în Coleraine, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.635201,
+                        55.118652
+                  ]
+            },
+            {
+                  "name": "Elms Play Park",
+                  "text": "Elms Play Park este un loc de joacă pentru familii în Coleraine, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.662945,
+                        55.148626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Articrunaght Reservoir",
+                  "text": "Articrunaght Reservoir is a reservoir in Coleraine where you can take relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        -6.607352,
+                        55.143716
+                  ]
+            },
+            {
+                  "name": "Ballinrees Reservoir",
+                  "text": "Ballinrees Reservoir is a scenic lake in Coleraine, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.751336,
+                        55.109568
+                  ]
+            },
+            {
+                  "name": "Dunalis Reservoir",
+                  "text": "Dunalis Reservoir is a scenic lake in Coleraine, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.738849,
+                        55.116021
+                  ]
+            },
+            {
+                  "name": "Jumplanes",
+                  "text": "Jumplanes in Coleraine is a fun trampoline park offering active entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -6.653975,
+                        55.131752
+                  ]
+            },
+            {
+                  "name": "Windyhall Playing Fields and Park",
+                  "text": "Windyhall Playing Fields and Park is a family-friendly playground in Coleraine, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -6.635201,
+                        55.118652
+                  ]
+            },
+            {
+                  "name": "Elms Play Park",
+                  "text": "Elms Play Park is a family-friendly playground in Coleraine, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -6.662945,
+                        55.148626
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Coleraine", hu: "Coleraine", ro: "Coleraine", en: "Coleraine" },
@@ -3981,7 +5610,916 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-edenderry-cities-v2.webp",
   },
   {
-    id: "ireland-enos-cities-v2",
+    id: "ireland-enos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lough Coole",
+                  "text": "Lough Coole bei Enniskillen ist ein schöner, naturbelassener See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.608945,
+                        54.339566
+                  ]
+            },
+            {
+                  "name": "Lough Acrussel",
+                  "text": "Lough Acrussel bei Enniskillen bietet eine ruhige Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -7.602691,
+                        54.316812
+                  ]
+            },
+            {
+                  "name": "Coolyermer Lough",
+                  "text": "Coolyermer Lough bei Enniskillen ist ein ruhiger See für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -7.723194,
+                        54.330012
+                  ]
+            },
+            {
+                  "name": "Rossole Lough",
+                  "text": "Rossole Lough bei Enniskillen ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.653153,
+                        54.33889
+                  ]
+            },
+            {
+                  "name": "Toppedmountain Lough",
+                  "text": "Toppedmountain Lough bei Enniskillen ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.525997,
+                        54.354834
+                  ]
+            },
+            {
+                  "name": "Drumkirk Lough",
+                  "text": "Drumkirk Lough bei Enniskillen ist ein schöner See in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.574394,
+                        54.283761
+                  ]
+            },
+            {
+                  "name": "Lough Noely",
+                  "text": "Lough Noely bei Enniskillen bietet eine friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560213,
+                        54.299516
+                  ]
+            },
+            {
+                  "name": "Lough Raymond",
+                  "text": "Lough Raymond bei Enniskillen ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560226,
+                        54.296062
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough bei Enniskillen ist ein schöner, ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577096,
+                        54.295466
+                  ]
+            },
+            {
+                  "name": "Wolf Lough",
+                  "text": "Wolf Lough bei Enniskillen ist ein naturnaher See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.642555,
+                        54.367444
+                  ]
+            },
+            {
+                  "name": "Ballaghmore Lough",
+                  "text": "Ballaghmore Lough bei Enniskillen ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.668605,
+                        54.342455
+                  ]
+            },
+            {
+                  "name": "Race Course Lough",
+                  "text": "Race Course Lough bei Enniskillen ist ein schöner See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.628721,
+                        54.35268
+                  ]
+            },
+            {
+                  "name": "Drumcose Lough",
+                  "text": "Drumcose Lough bei Enniskillen ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.715036,
+                        54.403843
+                  ]
+            },
+            {
+                  "name": "Lough Crowey",
+                  "text": "Lough Crowey bei Enniskillen bietet eine schöne Naturkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -7.605456,
+                        54.289093
+                  ]
+            },
+            {
+                  "name": "Lough Galliagh",
+                  "text": "Lough Galliagh bei Enniskillen ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.656679,
+                        54.349345
+                  ]
+            },
+            {
+                  "name": "Lenaghan Lough",
+                  "text": "Lenaghan Lough bei Enniskillen ist ein friedlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.696068,
+                        54.351844
+                  ]
+            },
+            {
+                  "name": "Ballydoolagh Lough",
+                  "text": "Ballydoolagh Lough bei Enniskillen ist ein schönes Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563187,
+                        54.380305
+                  ]
+            },
+            {
+                  "name": "Kinarla Lough",
+                  "text": "Kinarla Lough bei Enniskillen ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.669386,
+                        54.355905
+                  ]
+            },
+            {
+                  "name": "Lough Skale",
+                  "text": "Lough Skale bei Enniskillen bietet eine schöne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -7.526235,
+                        54.345173
+                  ]
+            },
+            {
+                  "name": "Lough Avilly",
+                  "text": "Lough Avilly bei Enniskillen ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.557458,
+                        54.358883
+                  ]
+            },
+            {
+                  "name": "Fardrum Lough",
+                  "text": "Fardrum Lough bei Enniskillen ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.722487,
+                        54.399606
+                  ]
+            },
+            {
+                  "name": "Lower Lough Erne",
+                  "text": "Der Lower Lough Erne bei Enniskillen ist ein großer, wunderschöner See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.829821,
+                        54.444958
+                  ]
+            },
+            {
+                  "name": "Lough Yoan",
+                  "text": "Lough Yoan bei Enniskillen ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.611295,
+                        54.32875
+                  ]
+            },
+            {
+                  "name": "Mill Lough",
+                  "text": "Mill Lough bei Enniskillen ist ein schönes Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -7.621776,
+                        54.294805
+                  ]
+            },
+            {
+                  "name": "Back Lough",
+                  "text": "Back Lough bei Enniskillen ist ein friedlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        -7.645754,
+                        54.355107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lough Coole",
+                  "text": "Az enniskilleni Lough Coole egy szép, természetes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.608945,
+                        54.339566
+                  ]
+            },
+            {
+                  "name": "Lough Acrussel",
+                  "text": "Az enniskilleni Lough Acrussel csendes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.602691,
+                        54.316812
+                  ]
+            },
+            {
+                  "name": "Coolyermer Lough",
+                  "text": "Az enniskilleni Coolyermer Lough egy csendes tó a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.723194,
+                        54.330012
+                  ]
+            },
+            {
+                  "name": "Rossole Lough",
+                  "text": "Az enniskilleni Rossole Lough egy idilli tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.653153,
+                        54.33889
+                  ]
+            },
+            {
+                  "name": "Toppedmountain Lough",
+                  "text": "Az enniskilleni Toppedmountain Lough egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.525997,
+                        54.354834
+                  ]
+            },
+            {
+                  "name": "Drumkirk Lough",
+                  "text": "Az enniskilleni Drumkirk Lough egy szép tó a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.574394,
+                        54.283761
+                  ]
+            },
+            {
+                  "name": "Lough Noely",
+                  "text": "Az enniskilleni Lough Noely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560213,
+                        54.299516
+                  ]
+            },
+            {
+                  "name": "Lough Raymond",
+                  "text": "Az enniskilleni Lough Raymond egy nyugodt állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560226,
+                        54.296062
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Az enniskilleni Black Lough egy szép, csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577096,
+                        54.295466
+                  ]
+            },
+            {
+                  "name": "Wolf Lough",
+                  "text": "Az enniskilleni Wolf Lough egy természeti tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.642555,
+                        54.367444
+                  ]
+            },
+            {
+                  "name": "Ballaghmore Lough",
+                  "text": "Az enniskilleni Ballaghmore Lough egy idilli tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.668605,
+                        54.342455
+                  ]
+            },
+            {
+                  "name": "Race Course Lough",
+                  "text": "Az enniskilleni Race Course Lough egy szép tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.628721,
+                        54.35268
+                  ]
+            },
+            {
+                  "name": "Drumcose Lough",
+                  "text": "Az enniskilleni Drumcose Lough egy csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.715036,
+                        54.403843
+                  ]
+            },
+            {
+                  "name": "Lough Crowey",
+                  "text": "Az enniskilleni Lough Crowey szép természeti hátteret kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.605456,
+                        54.289093
+                  ]
+            },
+            {
+                  "name": "Lough Galliagh",
+                  "text": "Az enniskilleni Lough Galliagh egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.656679,
+                        54.349345
+                  ]
+            },
+            {
+                  "name": "Lenaghan Lough",
+                  "text": "Az enniskilleni Lenaghan Lough egy békés tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.696068,
+                        54.351844
+                  ]
+            },
+            {
+                  "name": "Ballydoolagh Lough",
+                  "text": "Az enniskilleni Ballydoolagh Lough egy szép állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563187,
+                        54.380305
+                  ]
+            },
+            {
+                  "name": "Kinarla Lough",
+                  "text": "Az enniskilleni Kinarla Lough egy csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.669386,
+                        54.355905
+                  ]
+            },
+            {
+                  "name": "Lough Skale",
+                  "text": "Az enniskilleni Lough Skale kellemes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -7.526235,
+                        54.345173
+                  ]
+            },
+            {
+                  "name": "Lough Avilly",
+                  "text": "Az enniskilleni Lough Avilly egy idilli tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.557458,
+                        54.358883
+                  ]
+            },
+            {
+                  "name": "Fardrum Lough",
+                  "text": "Az enniskilleni Fardrum Lough egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.722487,
+                        54.399606
+                  ]
+            },
+            {
+                  "name": "Lower Lough Erne",
+                  "text": "Az enniskilleni Lower Lough Erne egy nagy, gyönyörű tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.829821,
+                        54.444958
+                  ]
+            },
+            {
+                  "name": "Lough Yoan",
+                  "text": "Az enniskilleni Lough Yoan egy csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.611295,
+                        54.32875
+                  ]
+            },
+            {
+                  "name": "Mill Lough",
+                  "text": "Az enniskilleni Mill Lough egy szép állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.621776,
+                        54.294805
+                  ]
+            },
+            {
+                  "name": "Back Lough",
+                  "text": "Az enniskilleni Back Lough egy békés tó.",
+                  "category": "natural",
+                  "coords": [
+                        -7.645754,
+                        54.355107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lough Coole",
+                  "text": "Lough Coole de lângă Enniskillen este un lac natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -7.608945,
+                        54.339566
+                  ]
+            },
+            {
+                  "name": "Lough Acrussel",
+                  "text": "Lough Acrussel de lângă Enniskillen oferă un peisaj natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.602691,
+                        54.316812
+                  ]
+            },
+            {
+                  "name": "Coolyermer Lough",
+                  "text": "Coolyermer Lough de lângă Enniskillen este un lac liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.723194,
+                        54.330012
+                  ]
+            },
+            {
+                  "name": "Rossole Lough",
+                  "text": "Rossole Lough de lângă Enniskillen este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -7.653153,
+                        54.33889
+                  ]
+            },
+            {
+                  "name": "Toppedmountain Lough",
+                  "text": "Toppedmountain Lough de lângă Enniskillen este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -7.525997,
+                        54.354834
+                  ]
+            },
+            {
+                  "name": "Drumkirk Lough",
+                  "text": "Drumkirk Lough de lângă Enniskillen este un lac frumos în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -7.574394,
+                        54.283761
+                  ]
+            },
+            {
+                  "name": "Lough Noely",
+                  "text": "Lough Noely de lângă Enniskillen oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560213,
+                        54.299516
+                  ]
+            },
+            {
+                  "name": "Lough Raymond",
+                  "text": "Lough Raymond de lângă Enniskillen este o apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560226,
+                        54.296062
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough de lângă Enniskillen este un lac frumos și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577096,
+                        54.295466
+                  ]
+            },
+            {
+                  "name": "Wolf Lough",
+                  "text": "Wolf Lough de lângă Enniskillen este un lac natural.",
+                  "category": "natural",
+                  "coords": [
+                        -7.642555,
+                        54.367444
+                  ]
+            },
+            {
+                  "name": "Ballaghmore Lough",
+                  "text": "Ballaghmore Lough de lângă Enniskillen este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -7.668605,
+                        54.342455
+                  ]
+            },
+            {
+                  "name": "Race Course Lough",
+                  "text": "Race Course Lough de lângă Enniskillen este un lac frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -7.628721,
+                        54.35268
+                  ]
+            },
+            {
+                  "name": "Drumcose Lough",
+                  "text": "Drumcose Lough de lângă Enniskillen este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.715036,
+                        54.403843
+                  ]
+            },
+            {
+                  "name": "Lough Crowey",
+                  "text": "Lough Crowey de lângă Enniskillen oferă un fundal natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -7.605456,
+                        54.289093
+                  ]
+            },
+            {
+                  "name": "Lough Galliagh",
+                  "text": "Lough Galliagh de lângă Enniskillen este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -7.656679,
+                        54.349345
+                  ]
+            },
+            {
+                  "name": "Lenaghan Lough",
+                  "text": "Lenaghan Lough de lângă Enniskillen este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.696068,
+                        54.351844
+                  ]
+            },
+            {
+                  "name": "Ballydoolagh Lough",
+                  "text": "Ballydoolagh Lough de lângă Enniskillen este o apă frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563187,
+                        54.380305
+                  ]
+            },
+            {
+                  "name": "Kinarla Lough",
+                  "text": "Kinarla Lough de lângă Enniskillen este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.669386,
+                        54.355905
+                  ]
+            },
+            {
+                  "name": "Lough Skale",
+                  "text": "Lough Skale de lângă Enniskillen oferă un mediu plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        -7.526235,
+                        54.345173
+                  ]
+            },
+            {
+                  "name": "Lough Avilly",
+                  "text": "Lough Avilly de lângă Enniskillen este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -7.557458,
+                        54.358883
+                  ]
+            },
+            {
+                  "name": "Fardrum Lough",
+                  "text": "Fardrum Lough de lângă Enniskillen este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -7.722487,
+                        54.399606
+                  ]
+            },
+            {
+                  "name": "Lower Lough Erne",
+                  "text": "Lower Lough Erne de lângă Enniskillen este un lac mare și minunat.",
+                  "category": "natural",
+                  "coords": [
+                        -7.829821,
+                        54.444958
+                  ]
+            },
+            {
+                  "name": "Lough Yoan",
+                  "text": "Lough Yoan de lângă Enniskillen este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.611295,
+                        54.32875
+                  ]
+            },
+            {
+                  "name": "Mill Lough",
+                  "text": "Mill Lough de lângă Enniskillen este o apă frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.621776,
+                        54.294805
+                  ]
+            },
+            {
+                  "name": "Back Lough",
+                  "text": "Back Lough de lângă Enniskillen este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -7.645754,
+                        54.355107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lough Coole",
+                  "text": "Lough Coole near Enniskillen is a beautiful, natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.608945,
+                        54.339566
+                  ]
+            },
+            {
+                  "name": "Lough Acrussel",
+                  "text": "Lough Acrussel near Enniskillen offers a quiet natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.602691,
+                        54.316812
+                  ]
+            },
+            {
+                  "name": "Coolyermer Lough",
+                  "text": "Coolyermer Lough near Enniskillen is a quiet lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.723194,
+                        54.330012
+                  ]
+            },
+            {
+                  "name": "Rossole Lough",
+                  "text": "Rossole Lough near Enniskillen is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.653153,
+                        54.33889
+                  ]
+            },
+            {
+                  "name": "Toppedmountain Lough",
+                  "text": "Toppedmountain Lough near Enniskillen is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.525997,
+                        54.354834
+                  ]
+            },
+            {
+                  "name": "Drumkirk Lough",
+                  "text": "Drumkirk Lough near Enniskillen is a beautiful lake in the region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.574394,
+                        54.283761
+                  ]
+            },
+            {
+                  "name": "Lough Noely",
+                  "text": "Lough Noely near Enniskillen offers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560213,
+                        54.299516
+                  ]
+            },
+            {
+                  "name": "Lough Raymond",
+                  "text": "Lough Raymond near Enniskillen is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.560226,
+                        54.296062
+                  ]
+            },
+            {
+                  "name": "Black Lough",
+                  "text": "Black Lough near Enniskillen is a beautiful, quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577096,
+                        54.295466
+                  ]
+            },
+            {
+                  "name": "Wolf Lough",
+                  "text": "Wolf Lough near Enniskillen is a natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.642555,
+                        54.367444
+                  ]
+            },
+            {
+                  "name": "Ballaghmore Lough",
+                  "text": "Ballaghmore Lough near Enniskillen is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.668605,
+                        54.342455
+                  ]
+            },
+            {
+                  "name": "Race Course Lough",
+                  "text": "Race Course Lough near Enniskillen is a beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.628721,
+                        54.35268
+                  ]
+            },
+            {
+                  "name": "Drumcose Lough",
+                  "text": "Drumcose Lough near Enniskillen is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.715036,
+                        54.403843
+                  ]
+            },
+            {
+                  "name": "Lough Crowey",
+                  "text": "Lough Crowey near Enniskillen offers a beautiful natural backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -7.605456,
+                        54.289093
+                  ]
+            },
+            {
+                  "name": "Lough Galliagh",
+                  "text": "Lough Galliagh near Enniskillen is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.656679,
+                        54.349345
+                  ]
+            },
+            {
+                  "name": "Lenaghan Lough",
+                  "text": "Lenaghan Lough near Enniskillen is a peaceful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.696068,
+                        54.351844
+                  ]
+            },
+            {
+                  "name": "Ballydoolagh Lough",
+                  "text": "Ballydoolagh Lough near Enniskillen is a beautiful body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.563187,
+                        54.380305
+                  ]
+            },
+            {
+                  "name": "Kinarla Lough",
+                  "text": "Kinarla Lough near Enniskillen is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.669386,
+                        54.355905
+                  ]
+            },
+            {
+                  "name": "Lough Skale",
+                  "text": "Lough Skale near Enniskillen offers a nice environment.",
+                  "category": "natural",
+                  "coords": [
+                        -7.526235,
+                        54.345173
+                  ]
+            },
+            {
+                  "name": "Lough Avilly",
+                  "text": "Lough Avilly near Enniskillen is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.557458,
+                        54.358883
+                  ]
+            },
+            {
+                  "name": "Fardrum Lough",
+                  "text": "Fardrum Lough near Enniskillen is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.722487,
+                        54.399606
+                  ]
+            },
+            {
+                  "name": "Lower Lough Erne",
+                  "text": "Lower Lough Erne near Enniskillen is a large, beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.829821,
+                        54.444958
+                  ]
+            },
+            {
+                  "name": "Lough Yoan",
+                  "text": "Lough Yoan near Enniskillen is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.611295,
+                        54.32875
+                  ]
+            },
+            {
+                  "name": "Mill Lough",
+                  "text": "Mill Lough near Enniskillen is a beautiful body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.621776,
+                        54.294805
+                  ]
+            },
+            {
+                  "name": "Back Lough",
+                  "text": "Back Lough near Enniskillen is a peaceful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -7.645754,
+                        54.355107
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Enniskillen", hu: "Enniskillen", ro: "Enniskillen", en: "Enniskillen" },
@@ -6861,7 +9399,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-kinsale-cities-v2.webp",
   },
   {
-    id: "ireland-larne-cities-v2",
+    id: "ireland-larne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilwaughter Pond",
+                  "text": "Kilwaughter Pond ist ein malerischer See in Larne, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884909,
+                        54.838805
+                  ]
+            },
+            {
+                  "name": "Millbrook Park",
+                  "text": "Millbrook Park ist ein familienfreundlicher Spielplatz in Larne, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.861663,
+                        54.840685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilwaughter Pond",
+                  "text": "A(z) Kilwaughter Pond egy festői tó Larne városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884909,
+                        54.838805
+                  ]
+            },
+            {
+                  "name": "Millbrook Park",
+                  "text": "A(z) Millbrook Park egy családbarát játszótér Larne városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.861663,
+                        54.840685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilwaughter Pond",
+                  "text": "Kilwaughter Pond este un lac pitoresc în Larne, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884909,
+                        54.838805
+                  ]
+            },
+            {
+                  "name": "Millbrook Park",
+                  "text": "Millbrook Park este un loc de joacă pentru familii în Larne, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.861663,
+                        54.840685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilwaughter Pond",
+                  "text": "Kilwaughter Pond is a scenic lake in Larne, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -5.884909,
+                        54.838805
+                  ]
+            },
+            {
+                  "name": "Millbrook Park",
+                  "text": "Millbrook Park is a family-friendly playground in Larne, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -5.861663,
+                        54.840685
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Larne", hu: "Larne", ro: "Larne", en: "Larne" },
@@ -14827,6 +17446,15 @@ export const irelandCitiesV2: POI[] = [
                         -6.549244,
                         55.04793
                   ]
+            },
+            {
+                  "name": "Carnany Memorial Park",
+                  "text": "Carnany Memorial Park ist ein Spielplatz in Ballymoney, der einen lustigen und sicheren Spielbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.49102,
+                        55.069057
+                  ]
             }
       ],
       "hu": [
@@ -14846,6 +17474,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.549244,
                         55.04793
+                  ]
+            },
+            {
+                  "name": "Carnany Memorial Park",
+                  "text": "A Carnany Memorial Park egy játszótér Ballymoney-ban, amely szórakoztató és biztonságos játékteret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -6.49102,
+                        55.069057
                   ]
             }
       ],
@@ -14867,6 +17504,15 @@ export const irelandCitiesV2: POI[] = [
                         -6.549244,
                         55.04793
                   ]
+            },
+            {
+                  "name": "Carnany Memorial Park",
+                  "text": "Carnany Memorial Park este un loc de joacă în Ballymoney, oferind o zonă de joacă distractivă și sigură pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -6.49102,
+                        55.069057
+                  ]
             }
       ],
       "en": [
@@ -14886,6 +17532,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.549244,
                         55.04793
+                  ]
+            },
+            {
+                  "name": "Carnany Memorial Park",
+                  "text": "Carnany Memorial Park is a playground in Ballymoney, providing a fun and safe play area for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -6.49102,
+                        55.069057
                   ]
             }
       ]
@@ -18138,7 +20793,268 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-roscrea-cities-v2.webp",
   },
   {
-    id: "ireland-shannon-cities-v2",
+    id: "ireland-shannon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knocknalappa Lough",
+                  "text": "Knocknalappa Lough bei Shannon ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.818909,
+                        52.76352
+                  ]
+            },
+            {
+                  "name": "Roscoe Lough",
+                  "text": "Roscoe Lough bei Shannon ist ein schönes Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -8.836546,
+                        52.759446
+                  ]
+            },
+            {
+                  "name": "Lough Gash",
+                  "text": "Lough Gash bei Shannon ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.901174,
+                        52.757902
+                  ]
+            },
+            {
+                  "name": "Ballygunneen Lough",
+                  "text": "Ballygunneen Lough bei Shannon ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.840405,
+                        52.718252
+                  ]
+            },
+            {
+                  "name": "Granaghanbeg Lough",
+                  "text": "Granaghanbeg Lough bei Shannon ist ein friedlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.86796,
+                        52.777034
+                  ]
+            },
+            {
+                  "name": "Ballycar Lough",
+                  "text": "Ballycar Lough bei Shannon ist ein schöner See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.870005,
+                        52.767582
+                  ]
+            },
+            {
+                  "name": "Rosroe Lough",
+                  "text": "Rosroe Lough bei Shannon ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.8241,
+                        52.77011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knocknalappa Lough",
+                  "text": "A shannoni Knocknalappa Lough egy nyugodt tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.818909,
+                        52.76352
+                  ]
+            },
+            {
+                  "name": "Roscoe Lough",
+                  "text": "A shannoni Roscoe Lough egy szép állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.836546,
+                        52.759446
+                  ]
+            },
+            {
+                  "name": "Lough Gash",
+                  "text": "A shannoni Lough Gash egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.901174,
+                        52.757902
+                  ]
+            },
+            {
+                  "name": "Ballygunneen Lough",
+                  "text": "A shannoni Ballygunneen Lough egy idilli tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.840405,
+                        52.718252
+                  ]
+            },
+            {
+                  "name": "Granaghanbeg Lough",
+                  "text": "A shannoni Granaghanbeg Lough egy békés tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.86796,
+                        52.777034
+                  ]
+            },
+            {
+                  "name": "Ballycar Lough",
+                  "text": "A shannoni Ballycar Lough egy szép tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.870005,
+                        52.767582
+                  ]
+            },
+            {
+                  "name": "Rosroe Lough",
+                  "text": "A shannoni Rosroe Lough egy csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.8241,
+                        52.77011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knocknalappa Lough",
+                  "text": "Knocknalappa Lough de lângă Shannon este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -8.818909,
+                        52.76352
+                  ]
+            },
+            {
+                  "name": "Roscoe Lough",
+                  "text": "Roscoe Lough de lângă Shannon este o apă frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -8.836546,
+                        52.759446
+                  ]
+            },
+            {
+                  "name": "Lough Gash",
+                  "text": "Lough Gash de lângă Shannon este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -8.901174,
+                        52.757902
+                  ]
+            },
+            {
+                  "name": "Ballygunneen Lough",
+                  "text": "Ballygunneen Lough de lângă Shannon este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -8.840405,
+                        52.718252
+                  ]
+            },
+            {
+                  "name": "Granaghanbeg Lough",
+                  "text": "Granaghanbeg Lough de lângă Shannon este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -8.86796,
+                        52.777034
+                  ]
+            },
+            {
+                  "name": "Ballycar Lough",
+                  "text": "Ballycar Lough de lângă Shannon este un lac frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -8.870005,
+                        52.767582
+                  ]
+            },
+            {
+                  "name": "Rosroe Lough",
+                  "text": "Rosroe Lough de lângă Shannon este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -8.8241,
+                        52.77011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knocknalappa Lough",
+                  "text": "Knocknalappa Lough near Shannon is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.818909,
+                        52.76352
+                  ]
+            },
+            {
+                  "name": "Roscoe Lough",
+                  "text": "Roscoe Lough near Shannon is a beautiful body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -8.836546,
+                        52.759446
+                  ]
+            },
+            {
+                  "name": "Lough Gash",
+                  "text": "Lough Gash near Shannon is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.901174,
+                        52.757902
+                  ]
+            },
+            {
+                  "name": "Ballygunneen Lough",
+                  "text": "Ballygunneen Lough near Shannon is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.840405,
+                        52.718252
+                  ]
+            },
+            {
+                  "name": "Granaghanbeg Lough",
+                  "text": "Granaghanbeg Lough near Shannon is a peaceful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.86796,
+                        52.777034
+                  ]
+            },
+            {
+                  "name": "Ballycar Lough",
+                  "text": "Ballycar Lough near Shannon is a beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.870005,
+                        52.767582
+                  ]
+            },
+            {
+                  "name": "Rosroe Lough",
+                  "text": "Rosroe Lough near Shannon is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.8241,
+                        52.77011
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Shannon", hu: "Shannon", ro: "Shannon", en: "Shannon" },

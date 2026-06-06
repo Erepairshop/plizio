@@ -1437,7 +1437,160 @@ export const poiExtraIrelandCities: POI[] = [
       fr: ["La liaison ferroviaire vers Dublin a été ouverte en 1834.", "Bray Head culmine à 241 mètres.", "Les Ardmore Studios ont été fondés à Bray en 1958.", "La promenade mesure environ 1,6 kilomètre de long.", "Bray est la plus grande ville du comté de Wicklow.", "Le Sea Life Centre sur la plage est une attraction célèbre."],
     }, image: "/poi-images/city-bray-extra.webp"},
   {
-    id: "city-swords-extra",
+    id: "city-swords-extra", "sights": {
+      "de": [
+            {
+                  "name": "Portraine Asylum Reservoir",
+                  "text": "Der Portraine Asylum Reservoir in Swords ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -6.277313,
+                        53.47632
+                  ]
+            },
+            {
+                  "name": "Ushers Lake",
+                  "text": "Der Ushers Lake in Swords ist ein natürlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        -6.253966,
+                        53.457569
+                  ]
+            },
+            {
+                  "name": "Swords Manor Playground",
+                  "text": "Der Swords Manor Playground bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -6.24303,
+                        53.459344
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Der Castle Playground in Swords ist ein toller Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -6.219737,
+                        53.462348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portraine Asylum Reservoir",
+                  "text": "A swordsi Portraine Asylum Reservoir egy csendes állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -6.277313,
+                        53.47632
+                  ]
+            },
+            {
+                  "name": "Ushers Lake",
+                  "text": "A swordsi Ushers Lake egy természetes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -6.253966,
+                        53.457569
+                  ]
+            },
+            {
+                  "name": "Swords Manor Playground",
+                  "text": "A Swords Manor Playground szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -6.24303,
+                        53.459344
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "A swordsi Castle Playground egy nagyszerű játszótér a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.219737,
+                        53.462348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portraine Asylum Reservoir",
+                  "text": "Portraine Asylum Reservoir din Swords este o apă stătătoare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -6.277313,
+                        53.47632
+                  ]
+            },
+            {
+                  "name": "Ushers Lake",
+                  "text": "Ushers Lake din Swords este un lac natural.",
+                  "category": "natural",
+                  "coords": [
+                        -6.253966,
+                        53.457569
+                  ]
+            },
+            {
+                  "name": "Swords Manor Playground",
+                  "text": "Swords Manor Playground oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -6.24303,
+                        53.459344
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Castle Playground din Swords este un loc de joacă excelent pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.219737,
+                        53.462348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portraine Asylum Reservoir",
+                  "text": "Portraine Asylum Reservoir in Swords is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.277313,
+                        53.47632
+                  ]
+            },
+            {
+                  "name": "Ushers Lake",
+                  "text": "Ushers Lake in Swords is a natural lake.",
+                  "category": "natural",
+                  "coords": [
+                        -6.253966,
+                        53.457569
+                  ]
+            },
+            {
+                  "name": "Swords Manor Playground",
+                  "text": "Swords Manor Playground offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -6.24303,
+                        53.459344
+                  ]
+            },
+            {
+                  "name": "Castle Playground",
+                  "text": "Castle Playground in Swords is a great playground for children.",
+                  "category": "family",
+                  "coords": [
+                        -6.219737,
+                        53.462348
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE-L",
     coords: [-6.2181, 53.4597],

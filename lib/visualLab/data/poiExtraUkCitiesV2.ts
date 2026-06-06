@@ -2597,6 +2597,231 @@ imageHint: "Birmingham Library architecture and city square",
                         -2.239276,
                         53.470038
                   ]
+            },
+            {
+                  "name": "Audenshaw No 1 reservoir",
+                  "text": "Audenshaw No 1 reservoir ist ein See in Manchester, der einen malerischen Ort am Wasser für einen ruhigen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.12834,
+                        53.467421
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 2 reservoir",
+                  "text": "Audenshaw No 2 reservoir ist ein See in Manchester, der sich ideal eignet, um die lokale Natur und die Aussicht auf das Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -2.131975,
+                        53.46211
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 3 reservoir",
+                  "text": "Das Audenshaw No 3 reservoir in Manchester ist ein ruhiger See, der Besuchern eine entspannende Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.134526,
+                        53.467396
+                  ]
+            },
+            {
+                  "name": "Heaton Park Reservoir",
+                  "text": "Das Heaton Park Reservoir ist ein malerischer See in Manchester, der für Naturspaziergänge und Entspannung im Freien beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -2.262899,
+                        53.541326
+                  ]
+            },
+            {
+                  "name": "Perch Lake",
+                  "text": "Perch Lake ist ein ruhiger See in Manchester, der eine wunderschöne natürliche Umgebung für einen friedlichen Spaziergang im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.215527,
+                        53.543614
+                  ]
+            },
+            {
+                  "name": "Big Lodge",
+                  "text": "Big Lodge ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.213439,
+                        53.544297
+                  ]
+            },
+            {
+                  "name": "Disused sewage works",
+                  "text": "Disused sewage works ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.320589,
+                        53.528396
+                  ]
+            },
+            {
+                  "name": "Gorton Upper Reservoir",
+                  "text": "Gorton Upper Reservoir ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.149542,
+                        53.465058
+                  ]
+            },
+            {
+                  "name": "Gorton Lower Reservoir",
+                  "text": "Gorton Lower Reservoir ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.157447,
+                        53.461806
+                  ]
+            },
+            {
+                  "name": "Secret Lake",
+                  "text": "Secret Lake ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.170861,
+                        53.448301
+                  ]
+            },
+            {
+                  "name": "Frank's Dam",
+                  "text": "Frank's Dam ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.217804,
+                        53.547701
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.255144,
+                        53.530602
+                  ]
+            },
+            {
+                  "name": "Chorlton Water Park",
+                  "text": "Chorlton Water Park ist ein See in Manchester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.271246,
+                        53.423445
+                  ]
+            },
+            {
+                  "name": "Longsight Adventure Playground",
+                  "text": "Longsight Adventure Playground ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.222588,
+                        53.466292
+                  ]
+            },
+            {
+                  "name": "Immersive Gamebox",
+                  "text": "Immersive Gamebox ist eine Spielhalle in Manchester, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.241194,
+                        53.483262
+                  ]
+            },
+            {
+                  "name": "Urban Playground",
+                  "text": "Urban Playground ist eine Spielhalle in Manchester, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.242458,
+                        53.483637
+                  ]
+            },
+            {
+                  "name": "Treetop Golf",
+                  "text": "Treetop Golf ist eine Minigolfanlage in Manchester, die eine unterhaltsame und spannende Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.240213,
+                        53.484897
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf ist eine Minigolfanlage in Manchester, die eine unterhaltsame und spannende Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.248047,
+                        53.473621
+                  ]
+            },
+            {
+                  "name": "Swinton Grove Playground",
+                  "text": "Swinton Grove Playground ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.221038,
+                        53.462357
+                  ]
+            },
+            {
+                  "name": "Children's play area",
+                  "text": "Children's play area ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.278281,
+                        53.472147
+                  ]
+            },
+            {
+                  "name": "Hullard Park Play Area",
+                  "text": "Hullard Park Play Area ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.268545,
+                        53.462162
+                  ]
+            },
+            {
+                  "name": "Play Yard",
+                  "text": "Play Yard ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.223995,
+                        53.474791
+                  ]
+            },
+            {
+                  "name": "Rosebery Street Play Area",
+                  "text": "Rosebery Street Play Area ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.242544,
+                        53.454647
+                  ]
+            },
+            {
+                  "name": "Botham Close Play Area",
+                  "text": "Botham Close Play Area ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.24247,
+                        53.463177
+                  ]
+            },
+            {
+                  "name": "New Jackson Play Area",
+                  "text": "New Jackson Play Area ist ein Spielplatz in Manchester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.255181,
+                        53.472026
+                  ]
             }
       ],
       "hu": [
@@ -3120,6 +3345,231 @@ imageHint: "Birmingham Library architecture and city square",
                   "coords": [
                         -2.239276,
                         53.470038
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 1 reservoir",
+                  "text": "Az Audenshaw No 1 reservoir egy tó Manchesterben, amely festői vízparti helyszínt biztosít egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.12834,
+                        53.467421
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 2 reservoir",
+                  "text": "Az Audenshaw No 2 reservoir egy Manchesterben található tó, amely ideális a helyi természet és a vízparti kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.131975,
+                        53.46211
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 3 reservoir",
+                  "text": "A Manchesterben található Audenshaw No 3 reservoir egy nyugodt tó, amely pihentető környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -2.134526,
+                        53.467396
+                  ]
+            },
+            {
+                  "name": "Heaton Park Reservoir",
+                  "text": "A Heaton Park Reservoir egy festői tó Manchesterben, amely népszerű a természetjárás és a szabadtéri pihenés kedvelői körében.",
+                  "category": "natural",
+                  "coords": [
+                        -2.262899,
+                        53.541326
+                  ]
+            },
+            {
+                  "name": "Perch Lake",
+                  "text": "A Perch Lake egy nyugodt tó Manchesterben, amely gyönyörű természeti környezetet kínál egy békés szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.215527,
+                        53.543614
+                  ]
+            },
+            {
+                  "name": "Big Lodge",
+                  "text": "A(z) Big Lodge egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.213439,
+                        53.544297
+                  ]
+            },
+            {
+                  "name": "Disused sewage works",
+                  "text": "A(z) Disused sewage works egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.320589,
+                        53.528396
+                  ]
+            },
+            {
+                  "name": "Gorton Upper Reservoir",
+                  "text": "A(z) Gorton Upper Reservoir egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.149542,
+                        53.465058
+                  ]
+            },
+            {
+                  "name": "Gorton Lower Reservoir",
+                  "text": "A(z) Gorton Lower Reservoir egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.157447,
+                        53.461806
+                  ]
+            },
+            {
+                  "name": "Secret Lake",
+                  "text": "A(z) Secret Lake egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.170861,
+                        53.448301
+                  ]
+            },
+            {
+                  "name": "Frank's Dam",
+                  "text": "A(z) Frank's Dam egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.217804,
+                        53.547701
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "A(z) Boating Lake egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.255144,
+                        53.530602
+                  ]
+            },
+            {
+                  "name": "Chorlton Water Park",
+                  "text": "A(z) Chorlton Water Park egy tó Manchester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.271246,
+                        53.423445
+                  ]
+            },
+            {
+                  "name": "Longsight Adventure Playground",
+                  "text": "A(z) Longsight Adventure Playground egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.222588,
+                        53.466292
+                  ]
+            },
+            {
+                  "name": "Immersive Gamebox",
+                  "text": "A(z) Immersive Gamebox egy játékterem Manchester városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.241194,
+                        53.483262
+                  ]
+            },
+            {
+                  "name": "Urban Playground",
+                  "text": "A(z) Urban Playground egy játékterem Manchester városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.242458,
+                        53.483637
+                  ]
+            },
+            {
+                  "name": "Treetop Golf",
+                  "text": "A(z) Treetop Golf egy minigolfpálya Manchester városában, amely szórakoztató és vonzó programot nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.240213,
+                        53.484897
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "A(z) Junkyard Golf egy minigolfpálya Manchester városában, amely szórakoztató és vonzó programot nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.248047,
+                        53.473621
+                  ]
+            },
+            {
+                  "name": "Swinton Grove Playground",
+                  "text": "A(z) Swinton Grove Playground egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.221038,
+                        53.462357
+                  ]
+            },
+            {
+                  "name": "Children's play area",
+                  "text": "A(z) Children's play area egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.278281,
+                        53.472147
+                  ]
+            },
+            {
+                  "name": "Hullard Park Play Area",
+                  "text": "A(z) Hullard Park Play Area egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.268545,
+                        53.462162
+                  ]
+            },
+            {
+                  "name": "Play Yard",
+                  "text": "A(z) Play Yard egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.223995,
+                        53.474791
+                  ]
+            },
+            {
+                  "name": "Rosebery Street Play Area",
+                  "text": "A(z) Rosebery Street Play Area egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.242544,
+                        53.454647
+                  ]
+            },
+            {
+                  "name": "Botham Close Play Area",
+                  "text": "A(z) Botham Close Play Area egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.24247,
+                        53.463177
+                  ]
+            },
+            {
+                  "name": "New Jackson Play Area",
+                  "text": "A(z) New Jackson Play Area egy játszótér Manchester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.255181,
+                        53.472026
                   ]
             }
       ],
@@ -3645,6 +4095,231 @@ imageHint: "Birmingham Library architecture and city square",
                         -2.239276,
                         53.470038
                   ]
+            },
+            {
+                  "name": "Audenshaw No 1 reservoir",
+                  "text": "Audenshaw No 1 reservoir este un lac de acumulare în Manchester, oferind o locație pitorească la malul apei pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -2.12834,
+                        53.467421
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 2 reservoir",
+                  "text": "Audenshaw No 2 reservoir este un lac de acumulare situat în Manchester, ideal pentru a te bucura de natura locală și de priveliștile apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.131975,
+                        53.46211
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 3 reservoir",
+                  "text": "Situat în Manchester, Audenshaw No 3 reservoir este un lac senin care oferă un mediu relaxant pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -2.134526,
+                        53.467396
+                  ]
+            },
+            {
+                  "name": "Heaton Park Reservoir",
+                  "text": "Heaton Park Reservoir este un lac pitoresc în Manchester, popular pentru plimbări în natură și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.262899,
+                        53.541326
+                  ]
+            },
+            {
+                  "name": "Perch Lake",
+                  "text": "Perch Lake este un lac liniștit în Manchester, oferind un cadru natural frumos pentru o plimbare pașnică în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.215527,
+                        53.543614
+                  ]
+            },
+            {
+                  "name": "Big Lodge",
+                  "text": "Big Lodge este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.213439,
+                        53.544297
+                  ]
+            },
+            {
+                  "name": "Disused sewage works",
+                  "text": "Disused sewage works este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.320589,
+                        53.528396
+                  ]
+            },
+            {
+                  "name": "Gorton Upper Reservoir",
+                  "text": "Gorton Upper Reservoir este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.149542,
+                        53.465058
+                  ]
+            },
+            {
+                  "name": "Gorton Lower Reservoir",
+                  "text": "Gorton Lower Reservoir este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.157447,
+                        53.461806
+                  ]
+            },
+            {
+                  "name": "Secret Lake",
+                  "text": "Secret Lake este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.170861,
+                        53.448301
+                  ]
+            },
+            {
+                  "name": "Frank's Dam",
+                  "text": "Frank's Dam este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.217804,
+                        53.547701
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.255144,
+                        53.530602
+                  ]
+            },
+            {
+                  "name": "Chorlton Water Park",
+                  "text": "Chorlton Water Park este un lac situat în Manchester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.271246,
+                        53.423445
+                  ]
+            },
+            {
+                  "name": "Longsight Adventure Playground",
+                  "text": "Longsight Adventure Playground este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.222588,
+                        53.466292
+                  ]
+            },
+            {
+                  "name": "Immersive Gamebox",
+                  "text": "Immersive Gamebox este o sală de jocuri în Manchester, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.241194,
+                        53.483262
+                  ]
+            },
+            {
+                  "name": "Urban Playground",
+                  "text": "Urban Playground este o sală de jocuri în Manchester, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.242458,
+                        53.483637
+                  ]
+            },
+            {
+                  "name": "Treetop Golf",
+                  "text": "Treetop Golf este un teren de minigolf în Manchester, oferind o activitate distractivă și captivantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.240213,
+                        53.484897
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf este un teren de minigolf în Manchester, oferind o activitate distractivă și captivantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.248047,
+                        53.473621
+                  ]
+            },
+            {
+                  "name": "Swinton Grove Playground",
+                  "text": "Swinton Grove Playground este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.221038,
+                        53.462357
+                  ]
+            },
+            {
+                  "name": "Children's play area",
+                  "text": "Children's play area este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.278281,
+                        53.472147
+                  ]
+            },
+            {
+                  "name": "Hullard Park Play Area",
+                  "text": "Hullard Park Play Area este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.268545,
+                        53.462162
+                  ]
+            },
+            {
+                  "name": "Play Yard",
+                  "text": "Play Yard este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.223995,
+                        53.474791
+                  ]
+            },
+            {
+                  "name": "Rosebery Street Play Area",
+                  "text": "Rosebery Street Play Area este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.242544,
+                        53.454647
+                  ]
+            },
+            {
+                  "name": "Botham Close Play Area",
+                  "text": "Botham Close Play Area este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.24247,
+                        53.463177
+                  ]
+            },
+            {
+                  "name": "New Jackson Play Area",
+                  "text": "New Jackson Play Area este un loc de joacă în Manchester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.255181,
+                        53.472026
+                  ]
             }
       ],
       "en": [
@@ -4168,6 +4843,231 @@ imageHint: "Birmingham Library architecture and city square",
                   "coords": [
                         -2.239276,
                         53.470038
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 1 reservoir",
+                  "text": "Audenshaw No 1 reservoir is a lake in Manchester, providing a scenic waterside location for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.12834,
+                        53.467421
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 2 reservoir",
+                  "text": "Audenshaw No 2 reservoir is a lake situated in Manchester, ideal for enjoying the local nature and waterside views.",
+                  "category": "natural",
+                  "coords": [
+                        -2.131975,
+                        53.46211
+                  ]
+            },
+            {
+                  "name": "Audenshaw No 3 reservoir",
+                  "text": "Located in Manchester, Audenshaw No 3 reservoir is a serene lake offering a relaxing environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -2.134526,
+                        53.467396
+                  ]
+            },
+            {
+                  "name": "Heaton Park Reservoir",
+                  "text": "Heaton Park Reservoir is a scenic lake in Manchester, popular for nature walks and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.262899,
+                        53.541326
+                  ]
+            },
+            {
+                  "name": "Perch Lake",
+                  "text": "Perch Lake is a tranquil lake in Manchester, offering a beautiful natural setting for a peaceful outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        -2.215527,
+                        53.543614
+                  ]
+            },
+            {
+                  "name": "Big Lodge",
+                  "text": "Big Lodge is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.213439,
+                        53.544297
+                  ]
+            },
+            {
+                  "name": "Disused sewage works",
+                  "text": "Disused sewage works is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.320589,
+                        53.528396
+                  ]
+            },
+            {
+                  "name": "Gorton Upper Reservoir",
+                  "text": "Gorton Upper Reservoir is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.149542,
+                        53.465058
+                  ]
+            },
+            {
+                  "name": "Gorton Lower Reservoir",
+                  "text": "Gorton Lower Reservoir is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.157447,
+                        53.461806
+                  ]
+            },
+            {
+                  "name": "Secret Lake",
+                  "text": "Secret Lake is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.170861,
+                        53.448301
+                  ]
+            },
+            {
+                  "name": "Frank's Dam",
+                  "text": "Frank's Dam is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.217804,
+                        53.547701
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.255144,
+                        53.530602
+                  ]
+            },
+            {
+                  "name": "Chorlton Water Park",
+                  "text": "Chorlton Water Park is a lake located in Manchester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -2.271246,
+                        53.423445
+                  ]
+            },
+            {
+                  "name": "Longsight Adventure Playground",
+                  "text": "Longsight Adventure Playground is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.222588,
+                        53.466292
+                  ]
+            },
+            {
+                  "name": "Immersive Gamebox",
+                  "text": "Immersive Gamebox is an amusement arcade in Manchester, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -2.241194,
+                        53.483262
+                  ]
+            },
+            {
+                  "name": "Urban Playground",
+                  "text": "Urban Playground is an amusement arcade in Manchester, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -2.242458,
+                        53.483637
+                  ]
+            },
+            {
+                  "name": "Treetop Golf",
+                  "text": "Treetop Golf is a miniature golf course in Manchester, providing a fun and engaging activity for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.240213,
+                        53.484897
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf is a miniature golf course in Manchester, providing a fun and engaging activity for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.248047,
+                        53.473621
+                  ]
+            },
+            {
+                  "name": "Swinton Grove Playground",
+                  "text": "Swinton Grove Playground is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.221038,
+                        53.462357
+                  ]
+            },
+            {
+                  "name": "Children's play area",
+                  "text": "Children's play area is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.278281,
+                        53.472147
+                  ]
+            },
+            {
+                  "name": "Hullard Park Play Area",
+                  "text": "Hullard Park Play Area is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.268545,
+                        53.462162
+                  ]
+            },
+            {
+                  "name": "Play Yard",
+                  "text": "Play Yard is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.223995,
+                        53.474791
+                  ]
+            },
+            {
+                  "name": "Rosebery Street Play Area",
+                  "text": "Rosebery Street Play Area is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.242544,
+                        53.454647
+                  ]
+            },
+            {
+                  "name": "Botham Close Play Area",
+                  "text": "Botham Close Play Area is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.24247,
+                        53.463177
+                  ]
+            },
+            {
+                  "name": "New Jackson Play Area",
+                  "text": "New Jackson Play Area is a playground in Manchester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.255181,
+                        53.472026
                   ]
             }
       ]
@@ -4740,6 +5640,96 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.290787,
                         55.879878
                   ]
+            },
+            {
+                  "name": "Frankfield Loch",
+                  "text": "Frankfield Loch ist ein See in Glasgow, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.151232,
+                        55.885174
+                  ]
+            },
+            {
+                  "name": "Rainwater Collection Butt",
+                  "text": "Rainwater Collection Butt ist ein See in Glasgow, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.25721,
+                        55.887782
+                  ]
+            },
+            {
+                  "name": "Cambuslang Park basin",
+                  "text": "Cambuslang Park basin ist ein See in Glasgow, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.162086,
+                        55.812715
+                  ]
+            },
+            {
+                  "name": "Hogganfield Loch",
+                  "text": "Hogganfield Loch ist ein See in Glasgow, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.172167,
+                        55.878988
+                  ]
+            },
+            {
+                  "name": "VR Simulators",
+                  "text": "VR Simulators ist eine Spielhalle in Glasgow mit interaktiven Spielen für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -4.242906,
+                        55.856322
+                  ]
+            },
+            {
+                  "name": "Jurassic Jungle Soft Play Centre",
+                  "text": "Jurassic Jungle Soft Play Centre ist ein Spielplatz in Glasgow, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -4.255067,
+                        55.879113
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble",
+                  "text": "Jungle Rumble ist eine Minigolfanlage in Glasgow, die eine klassische und ansprechende Aktivität für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.254037,
+                        55.863445
+                  ]
+            },
+            {
+                  "name": "Hat and Bishop",
+                  "text": "Hat and Bishop ist eine Spielhalle in Glasgow mit interaktiven Spielen für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -4.267597,
+                        55.865735
+                  ]
+            },
+            {
+                  "name": "Level X",
+                  "text": "Level X ist eine Spielhalle in Glasgow mit interaktiven Spielen für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -4.254385,
+                        55.857419
+                  ]
+            },
+            {
+                  "name": "Dunard Street Play Park",
+                  "text": "Dunard Street Play Park ist ein Spielplatz in Glasgow, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -4.273784,
+                        55.879576
+                  ]
             }
       ],
       "hu": [
@@ -5263,6 +6253,96 @@ imageHint: "Manchester Town Hall and Albert Square",
                   "coords": [
                         -4.290787,
                         55.879878
+                  ]
+            },
+            {
+                  "name": "Frankfield Loch",
+                  "text": "A Frankfield Loch egy tó Glasgow területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.151232,
+                        55.885174
+                  ]
+            },
+            {
+                  "name": "Rainwater Collection Butt",
+                  "text": "A Rainwater Collection Butt egy tó Glasgow területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.25721,
+                        55.887782
+                  ]
+            },
+            {
+                  "name": "Cambuslang Park basin",
+                  "text": "A Cambuslang Park basin egy tó Glasgow területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.162086,
+                        55.812715
+                  ]
+            },
+            {
+                  "name": "Hogganfield Loch",
+                  "text": "A Hogganfield Loch egy tó Glasgow területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.172167,
+                        55.878988
+                  ]
+            },
+            {
+                  "name": "VR Simulators",
+                  "text": "A VR Simulators egy játékterem Glasgow területén, amely interaktív játékokat kínál egy szórakoztató családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.242906,
+                        55.856322
+                  ]
+            },
+            {
+                  "name": "Jurassic Jungle Soft Play Centre",
+                  "text": "A Jurassic Jungle Soft Play Centre egy játszótér Glasgow területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -4.255067,
+                        55.879113
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble",
+                  "text": "A Jungle Rumble egy minigolfpálya Glasgow területén, amely klasszikus és vonzó programot biztosít az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.254037,
+                        55.863445
+                  ]
+            },
+            {
+                  "name": "Hat and Bishop",
+                  "text": "A Hat and Bishop egy játékterem Glasgow területén, amely interaktív játékokat kínál egy szórakoztató családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.267597,
+                        55.865735
+                  ]
+            },
+            {
+                  "name": "Level X",
+                  "text": "A Level X egy játékterem Glasgow területén, amely interaktív játékokat kínál egy szórakoztató családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.254385,
+                        55.857419
+                  ]
+            },
+            {
+                  "name": "Dunard Street Play Park",
+                  "text": "A Dunard Street Play Park egy játszótér Glasgow területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -4.273784,
+                        55.879576
                   ]
             }
       ],
@@ -5788,6 +6868,96 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.290787,
                         55.879878
                   ]
+            },
+            {
+                  "name": "Frankfield Loch",
+                  "text": "Frankfield Loch este un lac în Glasgow, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -4.151232,
+                        55.885174
+                  ]
+            },
+            {
+                  "name": "Rainwater Collection Butt",
+                  "text": "Rainwater Collection Butt este un lac în Glasgow, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -4.25721,
+                        55.887782
+                  ]
+            },
+            {
+                  "name": "Cambuslang Park basin",
+                  "text": "Cambuslang Park basin este un lac în Glasgow, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -4.162086,
+                        55.812715
+                  ]
+            },
+            {
+                  "name": "Hogganfield Loch",
+                  "text": "Hogganfield Loch este un lac în Glasgow, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -4.172167,
+                        55.878988
+                  ]
+            },
+            {
+                  "name": "VR Simulators",
+                  "text": "VR Simulators este o sală de jocuri în Glasgow, având jocuri interactive pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.242906,
+                        55.856322
+                  ]
+            },
+            {
+                  "name": "Jurassic Jungle Soft Play Centre",
+                  "text": "Jurassic Jungle Soft Play Centre este un teren de joacă în Glasgow, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -4.255067,
+                        55.879113
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble",
+                  "text": "Jungle Rumble este un teren de minigolf în Glasgow, oferind o activitate clasică și captivantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.254037,
+                        55.863445
+                  ]
+            },
+            {
+                  "name": "Hat and Bishop",
+                  "text": "Hat and Bishop este o sală de jocuri în Glasgow, având jocuri interactive pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.267597,
+                        55.865735
+                  ]
+            },
+            {
+                  "name": "Level X",
+                  "text": "Level X este o sală de jocuri în Glasgow, având jocuri interactive pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.254385,
+                        55.857419
+                  ]
+            },
+            {
+                  "name": "Dunard Street Play Park",
+                  "text": "Dunard Street Play Park este un teren de joacă în Glasgow, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -4.273784,
+                        55.879576
+                  ]
             }
       ],
       "en": [
@@ -6312,6 +7482,96 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.290787,
                         55.879878
                   ]
+            },
+            {
+                  "name": "Frankfield Loch",
+                  "text": "Frankfield Loch is a lake in Glasgow providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.151232,
+                        55.885174
+                  ]
+            },
+            {
+                  "name": "Rainwater Collection Butt",
+                  "text": "Rainwater Collection Butt is a lake in Glasgow providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.25721,
+                        55.887782
+                  ]
+            },
+            {
+                  "name": "Cambuslang Park basin",
+                  "text": "Cambuslang Park basin is a lake in Glasgow providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.162086,
+                        55.812715
+                  ]
+            },
+            {
+                  "name": "Hogganfield Loch",
+                  "text": "Hogganfield Loch is a lake in Glasgow providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.172167,
+                        55.878988
+                  ]
+            },
+            {
+                  "name": "VR Simulators",
+                  "text": "VR Simulators is an amusement arcade in Glasgow featuring interactive games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        -4.242906,
+                        55.856322
+                  ]
+            },
+            {
+                  "name": "Jurassic Jungle Soft Play Centre",
+                  "text": "Jurassic Jungle Soft Play Centre is a playground in Glasgow where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -4.255067,
+                        55.879113
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble",
+                  "text": "Jungle Rumble is a miniature golf course in Glasgow providing a classic and engaging activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -4.254037,
+                        55.863445
+                  ]
+            },
+            {
+                  "name": "Hat and Bishop",
+                  "text": "Hat and Bishop is an amusement arcade in Glasgow featuring interactive games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        -4.267597,
+                        55.865735
+                  ]
+            },
+            {
+                  "name": "Level X",
+                  "text": "Level X is an amusement arcade in Glasgow featuring interactive games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        -4.254385,
+                        55.857419
+                  ]
+            },
+            {
+                  "name": "Dunard Street Play Park",
+                  "text": "Dunard Street Play Park is a playground in Glasgow where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -4.273784,
+                        55.879576
+                  ]
             }
       ]
 },
@@ -6829,6 +8089,96 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                         -2.962997,
                         53.398228
                   ]
+            },
+            {
+                  "name": "Crosby Marine Lake",
+                  "text": "Crosby Marine Lake ist ein malerischer See in Liverpool, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.033371,
+                        53.471066
+                  ]
+            },
+            {
+                  "name": "Greenbank Park Lake",
+                  "text": "Greenbank Park Lake ist ein malerischer See in Liverpool, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.926411,
+                        53.386651
+                  ]
+            },
+            {
+                  "name": "Flaybrick Hill Reservoir",
+                  "text": "Flaybrick Hill Reservoir ist ein malerischer See in Liverpool, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.063389,
+                        53.393712
+                  ]
+            },
+            {
+                  "name": "The Lake",
+                  "text": "The Lake ist ein malerischer See in Liverpool, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.951823,
+                        53.386877
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake ist ein malerischer See in Liverpool, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.937985,
+                        53.378617
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf Club",
+                  "text": "Junkyard Golf Club bietet ein unterhaltsames Minigolf-Erlebnis für Familien und Freunde, die Liverpool besuchen.",
+                  "category": "family",
+                  "coords": [
+                        -2.986541,
+                        53.404011
+                  ]
+            },
+            {
+                  "name": "Archins",
+                  "text": "Archins ist eine Spielhalle in Liverpool, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.979072,
+                        53.393422
+                  ]
+            },
+            {
+                  "name": "Midghall Street Playground",
+                  "text": "Midghall Street Playground ist ein familienfreundlicher Spielplatz in Liverpool, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.986318,
+                        53.412415
+                  ]
+            },
+            {
+                  "name": "Seacombe Park",
+                  "text": "Seacombe Park ist ein familienfreundlicher Spielplatz in Liverpool, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.024132,
+                        53.407429
+                  ]
+            },
+            {
+                  "name": "St Martins Recreation Ground",
+                  "text": "St Martins Recreation Ground ist ein familienfreundlicher Spielplatz in Liverpool, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.987671,
+                        53.420997
+                  ]
             }
       ],
       "hu": [
@@ -7298,6 +8648,96 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                   "coords": [
                         -2.962997,
                         53.398228
+                  ]
+            },
+            {
+                  "name": "Crosby Marine Lake",
+                  "text": "A(z) Crosby Marine Lake egy festői tó Liverpool városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.033371,
+                        53.471066
+                  ]
+            },
+            {
+                  "name": "Greenbank Park Lake",
+                  "text": "A(z) Greenbank Park Lake egy festői tó Liverpool városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.926411,
+                        53.386651
+                  ]
+            },
+            {
+                  "name": "Flaybrick Hill Reservoir",
+                  "text": "A(z) Flaybrick Hill Reservoir egy festői tó Liverpool városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.063389,
+                        53.393712
+                  ]
+            },
+            {
+                  "name": "The Lake",
+                  "text": "A(z) The Lake egy festői tó Liverpool városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.951823,
+                        53.386877
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "A(z) Boating Lake egy festői tó Liverpool városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.937985,
+                        53.378617
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf Club",
+                  "text": "A(z) Junkyard Golf Club szórakoztató minigolf élményt kínál a(z) Liverpool városába látogató családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.986541,
+                        53.404011
+                  ]
+            },
+            {
+                  "name": "Archins",
+                  "text": "A(z) Archins egy játékterem Liverpool városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.979072,
+                        53.393422
+                  ]
+            },
+            {
+                  "name": "Midghall Street Playground",
+                  "text": "A(z) Midghall Street Playground egy családbarát játszótér Liverpool városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.986318,
+                        53.412415
+                  ]
+            },
+            {
+                  "name": "Seacombe Park",
+                  "text": "A(z) Seacombe Park egy családbarát játszótér Liverpool városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.024132,
+                        53.407429
+                  ]
+            },
+            {
+                  "name": "St Martins Recreation Ground",
+                  "text": "A(z) St Martins Recreation Ground egy családbarát játszótér Liverpool városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.987671,
+                        53.420997
                   ]
             }
       ],
@@ -7769,6 +9209,96 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                         -2.962997,
                         53.398228
                   ]
+            },
+            {
+                  "name": "Crosby Marine Lake",
+                  "text": "Crosby Marine Lake este un lac pitoresc în Liverpool, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.033371,
+                        53.471066
+                  ]
+            },
+            {
+                  "name": "Greenbank Park Lake",
+                  "text": "Greenbank Park Lake este un lac pitoresc în Liverpool, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.926411,
+                        53.386651
+                  ]
+            },
+            {
+                  "name": "Flaybrick Hill Reservoir",
+                  "text": "Flaybrick Hill Reservoir este un lac pitoresc în Liverpool, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.063389,
+                        53.393712
+                  ]
+            },
+            {
+                  "name": "The Lake",
+                  "text": "The Lake este un lac pitoresc în Liverpool, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.951823,
+                        53.386877
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake este un lac pitoresc în Liverpool, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.937985,
+                        53.378617
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf Club",
+                  "text": "Junkyard Golf Club oferă o experiență distractivă de minigolf pentru familiile care vizitează Liverpool.",
+                  "category": "family",
+                  "coords": [
+                        -2.986541,
+                        53.404011
+                  ]
+            },
+            {
+                  "name": "Archins",
+                  "text": "Archins este o sală de jocuri în Liverpool, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.979072,
+                        53.393422
+                  ]
+            },
+            {
+                  "name": "Midghall Street Playground",
+                  "text": "Midghall Street Playground este un loc de joacă pentru familii în Liverpool, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.986318,
+                        53.412415
+                  ]
+            },
+            {
+                  "name": "Seacombe Park",
+                  "text": "Seacombe Park este un loc de joacă pentru familii în Liverpool, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.024132,
+                        53.407429
+                  ]
+            },
+            {
+                  "name": "St Martins Recreation Ground",
+                  "text": "St Martins Recreation Ground este un loc de joacă pentru familii în Liverpool, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.987671,
+                        53.420997
+                  ]
             }
       ],
       "en": [
@@ -8238,6 +9768,96 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                   "coords": [
                         -2.962997,
                         53.398228
+                  ]
+            },
+            {
+                  "name": "Crosby Marine Lake",
+                  "text": "Crosby Marine Lake is a scenic lake in Liverpool, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.033371,
+                        53.471066
+                  ]
+            },
+            {
+                  "name": "Greenbank Park Lake",
+                  "text": "Greenbank Park Lake is a scenic lake in Liverpool, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.926411,
+                        53.386651
+                  ]
+            },
+            {
+                  "name": "Flaybrick Hill Reservoir",
+                  "text": "Flaybrick Hill Reservoir is a scenic lake in Liverpool, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.063389,
+                        53.393712
+                  ]
+            },
+            {
+                  "name": "The Lake",
+                  "text": "The Lake is a scenic lake in Liverpool, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.951823,
+                        53.386877
+                  ]
+            },
+            {
+                  "name": "Boating Lake",
+                  "text": "Boating Lake is a scenic lake in Liverpool, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.937985,
+                        53.378617
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf Club",
+                  "text": "Junkyard Golf Club offers an entertaining miniature golf experience for families and friends visiting Liverpool.",
+                  "category": "family",
+                  "coords": [
+                        -2.986541,
+                        53.404011
+                  ]
+            },
+            {
+                  "name": "Archins",
+                  "text": "Archins is an amusement arcade in Liverpool, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.979072,
+                        53.393422
+                  ]
+            },
+            {
+                  "name": "Midghall Street Playground",
+                  "text": "Midghall Street Playground is a family-friendly playground in Liverpool, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.986318,
+                        53.412415
+                  ]
+            },
+            {
+                  "name": "Seacombe Park",
+                  "text": "Seacombe Park is a family-friendly playground in Liverpool, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -3.024132,
+                        53.407429
+                  ]
+            },
+            {
+                  "name": "St Martins Recreation Ground",
+                  "text": "St Martins Recreation Ground is a family-friendly playground in Liverpool, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.987671,
+                        53.420997
                   ]
             }
       ]
@@ -11072,6 +12692,132 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
                         -1.564742,
                         53.814638
                   ]
+            },
+            {
+                  "name": "Eccup Reservoir",
+                  "text": "Eccup Reservoir ist ein See in Leeds, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.545985,
+                        53.870168
+                  ]
+            },
+            {
+                  "name": "Gledhow Lake",
+                  "text": "Gledhow Lake ist ein See in Leeds, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.521894,
+                        53.826127
+                  ]
+            },
+            {
+                  "name": "Menagerie Ponds",
+                  "text": "Menagerie Ponds ist ein See in Leeds, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.451136,
+                        53.785948
+                  ]
+            },
+            {
+                  "name": "Farnley Balancing Reservoir",
+                  "text": "Farnley Balancing Reservoir ist ein See in Leeds, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.617835,
+                        53.79391
+                  ]
+            },
+            {
+                  "name": "Skelton Lake",
+                  "text": "Skelton Lake ist ein See in Leeds, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471262,
+                        53.769239
+                  ]
+            },
+            {
+                  "name": "Pleasuredome",
+                  "text": "Pleasuredome ist eine Spielhalle in Leeds, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.587893,
+                        53.798001
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf ist eine Minigolfanlage in Leeds, die eine unterhaltsame und spannende Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.545926,
+                        53.799765
+                  ]
+            },
+            {
+                  "name": "Leeds Play Network",
+                  "text": "Leeds Play Network ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.543723,
+                        53.80038
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Fun Box ist eine Spielhalle in Leeds, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.584531,
+                        53.804772
+                  ]
+            },
+            {
+                  "name": "Woodhouse Moor Playground",
+                  "text": "Woodhouse Moor Playground ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.562311,
+                        53.813251
+                  ]
+            },
+            {
+                  "name": "Kirkstall Road Playground",
+                  "text": "Kirkstall Road Playground ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.577486,
+                        53.805583
+                  ]
+            },
+            {
+                  "name": "Little London Play Area",
+                  "text": "Little London Play Area ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.540217,
+                        53.808091
+                  ]
+            },
+            {
+                  "name": "Ashton Road Childrens Play",
+                  "text": "Ashton Road Childrens Play ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.514547,
+                        53.811223
+                  ]
+            },
+            {
+                  "name": "Burley Lawn Playground",
+                  "text": "Burley Lawn Playground ist ein Spielplatz in Leeds, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.572624,
+                        53.807339
+                  ]
             }
       ],
       "hu": [
@@ -11577,6 +13323,132 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
                   "coords": [
                         -1.564742,
                         53.814638
+                  ]
+            },
+            {
+                  "name": "Eccup Reservoir",
+                  "text": "A(z) Eccup Reservoir egy tó Leeds városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.545985,
+                        53.870168
+                  ]
+            },
+            {
+                  "name": "Gledhow Lake",
+                  "text": "A(z) Gledhow Lake egy tó Leeds városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.521894,
+                        53.826127
+                  ]
+            },
+            {
+                  "name": "Menagerie Ponds",
+                  "text": "A(z) Menagerie Ponds egy tó Leeds városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.451136,
+                        53.785948
+                  ]
+            },
+            {
+                  "name": "Farnley Balancing Reservoir",
+                  "text": "A(z) Farnley Balancing Reservoir egy tó Leeds városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.617835,
+                        53.79391
+                  ]
+            },
+            {
+                  "name": "Skelton Lake",
+                  "text": "A(z) Skelton Lake egy tó Leeds városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471262,
+                        53.769239
+                  ]
+            },
+            {
+                  "name": "Pleasuredome",
+                  "text": "A(z) Pleasuredome egy játékterem Leeds városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.587893,
+                        53.798001
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "A(z) Junkyard Golf egy minigolfpálya Leeds városában, amely szórakoztató és vonzó programot nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.545926,
+                        53.799765
+                  ]
+            },
+            {
+                  "name": "Leeds Play Network",
+                  "text": "A(z) Leeds Play Network egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.543723,
+                        53.80038
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "A(z) Fun Box egy játékterem Leeds városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.584531,
+                        53.804772
+                  ]
+            },
+            {
+                  "name": "Woodhouse Moor Playground",
+                  "text": "A(z) Woodhouse Moor Playground egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.562311,
+                        53.813251
+                  ]
+            },
+            {
+                  "name": "Kirkstall Road Playground",
+                  "text": "A(z) Kirkstall Road Playground egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.577486,
+                        53.805583
+                  ]
+            },
+            {
+                  "name": "Little London Play Area",
+                  "text": "A(z) Little London Play Area egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.540217,
+                        53.808091
+                  ]
+            },
+            {
+                  "name": "Ashton Road Childrens Play",
+                  "text": "A(z) Ashton Road Childrens Play egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.514547,
+                        53.811223
+                  ]
+            },
+            {
+                  "name": "Burley Lawn Playground",
+                  "text": "A(z) Burley Lawn Playground egy játszótér Leeds városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.572624,
+                        53.807339
                   ]
             }
       ],
@@ -12084,6 +13956,132 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
                         -1.564742,
                         53.814638
                   ]
+            },
+            {
+                  "name": "Eccup Reservoir",
+                  "text": "Eccup Reservoir este un lac situat în Leeds, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.545985,
+                        53.870168
+                  ]
+            },
+            {
+                  "name": "Gledhow Lake",
+                  "text": "Gledhow Lake este un lac situat în Leeds, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.521894,
+                        53.826127
+                  ]
+            },
+            {
+                  "name": "Menagerie Ponds",
+                  "text": "Menagerie Ponds este un lac situat în Leeds, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.451136,
+                        53.785948
+                  ]
+            },
+            {
+                  "name": "Farnley Balancing Reservoir",
+                  "text": "Farnley Balancing Reservoir este un lac situat în Leeds, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.617835,
+                        53.79391
+                  ]
+            },
+            {
+                  "name": "Skelton Lake",
+                  "text": "Skelton Lake este un lac situat în Leeds, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471262,
+                        53.769239
+                  ]
+            },
+            {
+                  "name": "Pleasuredome",
+                  "text": "Pleasuredome este o sală de jocuri în Leeds, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.587893,
+                        53.798001
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf este un teren de minigolf în Leeds, oferind o activitate distractivă și captivantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.545926,
+                        53.799765
+                  ]
+            },
+            {
+                  "name": "Leeds Play Network",
+                  "text": "Leeds Play Network este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.543723,
+                        53.80038
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Fun Box este o sală de jocuri în Leeds, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.584531,
+                        53.804772
+                  ]
+            },
+            {
+                  "name": "Woodhouse Moor Playground",
+                  "text": "Woodhouse Moor Playground este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.562311,
+                        53.813251
+                  ]
+            },
+            {
+                  "name": "Kirkstall Road Playground",
+                  "text": "Kirkstall Road Playground este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.577486,
+                        53.805583
+                  ]
+            },
+            {
+                  "name": "Little London Play Area",
+                  "text": "Little London Play Area este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.540217,
+                        53.808091
+                  ]
+            },
+            {
+                  "name": "Ashton Road Childrens Play",
+                  "text": "Ashton Road Childrens Play este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.514547,
+                        53.811223
+                  ]
+            },
+            {
+                  "name": "Burley Lawn Playground",
+                  "text": "Burley Lawn Playground este un loc de joacă în Leeds, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.572624,
+                        53.807339
+                  ]
             }
       ],
       "en": [
@@ -12589,6 +14587,132 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
                   "coords": [
                         -1.564742,
                         53.814638
+                  ]
+            },
+            {
+                  "name": "Eccup Reservoir",
+                  "text": "Eccup Reservoir is a lake located in Leeds, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.545985,
+                        53.870168
+                  ]
+            },
+            {
+                  "name": "Gledhow Lake",
+                  "text": "Gledhow Lake is a lake located in Leeds, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.521894,
+                        53.826127
+                  ]
+            },
+            {
+                  "name": "Menagerie Ponds",
+                  "text": "Menagerie Ponds is a lake located in Leeds, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.451136,
+                        53.785948
+                  ]
+            },
+            {
+                  "name": "Farnley Balancing Reservoir",
+                  "text": "Farnley Balancing Reservoir is a lake located in Leeds, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.617835,
+                        53.79391
+                  ]
+            },
+            {
+                  "name": "Skelton Lake",
+                  "text": "Skelton Lake is a lake located in Leeds, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471262,
+                        53.769239
+                  ]
+            },
+            {
+                  "name": "Pleasuredome",
+                  "text": "Pleasuredome is an amusement arcade in Leeds, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.587893,
+                        53.798001
+                  ]
+            },
+            {
+                  "name": "Junkyard Golf",
+                  "text": "Junkyard Golf is a miniature golf course in Leeds, providing a fun and engaging activity for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.545926,
+                        53.799765
+                  ]
+            },
+            {
+                  "name": "Leeds Play Network",
+                  "text": "Leeds Play Network is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.543723,
+                        53.80038
+                  ]
+            },
+            {
+                  "name": "Fun Box",
+                  "text": "Fun Box is an amusement arcade in Leeds, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.584531,
+                        53.804772
+                  ]
+            },
+            {
+                  "name": "Woodhouse Moor Playground",
+                  "text": "Woodhouse Moor Playground is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.562311,
+                        53.813251
+                  ]
+            },
+            {
+                  "name": "Kirkstall Road Playground",
+                  "text": "Kirkstall Road Playground is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.577486,
+                        53.805583
+                  ]
+            },
+            {
+                  "name": "Little London Play Area",
+                  "text": "Little London Play Area is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.540217,
+                        53.808091
+                  ]
+            },
+            {
+                  "name": "Ashton Road Childrens Play",
+                  "text": "Ashton Road Childrens Play is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.514547,
+                        53.811223
+                  ]
+            },
+            {
+                  "name": "Burley Lawn Playground",
+                  "text": "Burley Lawn Playground is a playground in Leeds, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.572624,
+                        53.807339
                   ]
             }
       ]
@@ -14354,6 +16478,222 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.611358,
                         51.459094
                   ]
+            },
+            {
+                  "name": "Barrow Reservoir 1",
+                  "text": "Barrow Reservoir 1 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.668256,
+                        51.402079
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 2",
+                  "text": "Barrow Reservoir 2 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.664692,
+                        51.404172
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 3",
+                  "text": "Barrow Reservoir 3 ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.658835,
+                        51.40875
+                  ]
+            },
+            {
+                  "name": "Ham Green Lake",
+                  "text": "Ham Green Lake ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.670541,
+                        51.478339
+                  ]
+            },
+            {
+                  "name": "St George Park Lake",
+                  "text": "St George Park Lake ist ein malerischer See in Bristol, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.546141,
+                        51.461962
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf bietet ein unterhaltsames Minigolf-Erlebnis für Familien und Freunde, die Bristol besuchen.",
+                  "category": "family",
+                  "coords": [
+                        -2.586168,
+                        51.458147
+                  ]
+            },
+            {
+                  "name": "Playback Arcade",
+                  "text": "Playback Arcade ist eine Spielhalle in Bristol, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.590058,
+                        51.456475
+                  ]
+            },
+            {
+                  "name": "Pickle Street",
+                  "text": "Pickle Street ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.597997,
+                        51.441754
+                  ]
+            },
+            {
+                  "name": "PAR.59",
+                  "text": "PAR.59 bietet ein unterhaltsames Minigolf-Erlebnis für Familien und Freunde, die Bristol besuchen.",
+                  "category": "family",
+                  "coords": [
+                        -2.601742,
+                        51.449775
+                  ]
+            },
+            {
+                  "name": "Albion Road Amenity Area",
+                  "text": "Albion Road Amenity Area ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.564265,
+                        51.465467
+                  ]
+            },
+            {
+                  "name": "Redcatch Park Play Ground",
+                  "text": "Redcatch Park Play Ground ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.571584,
+                        51.434555
+                  ]
+            },
+            {
+                  "name": "NQ64",
+                  "text": "NQ64 ist eine Spielhalle in Bristol, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.59593,
+                        51.453244
+                  ]
+            },
+            {
+                  "name": "Playnation",
+                  "text": "Playnation ist eine Spielhalle in Bristol, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.588969,
+                        51.458637
+                  ]
+            },
+            {
+                  "name": "Brook Street Park",
+                  "text": "Brook Street Park ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.559452,
+                        51.459245
+                  ]
+            },
+            {
+                  "name": "Rawnsley Park Play Area",
+                  "text": "Rawnsley Park Play Area ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.571817,
+                        51.46285
+                  ]
+            },
+            {
+                  "name": "Felix Road Adventure Playground",
+                  "text": "Felix Road Adventure Playground ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.568277,
+                        51.462984
+                  ]
+            },
+            {
+                  "name": "Argyle Place Park",
+                  "text": "Argyle Place Park ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.613592,
+                        51.450401
+                  ]
+            },
+            {
+                  "name": "Goldstrike",
+                  "text": "Goldstrike ist eine Spielhalle in Bristol, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.596739,
+                        51.441928
+                  ]
+            },
+            {
+                  "name": "South Street Park",
+                  "text": "South Street Park ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.603956,
+                        51.43888
+                  ]
+            },
+            {
+                  "name": "Troopers Hill Field Play Area",
+                  "text": "Troopers Hill Field Play Area ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.536066,
+                        51.458024
+                  ]
+            },
+            {
+                  "name": "St Pauls Adventure Playground",
+                  "text": "St Pauls Adventure Playground ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.577654,
+                        51.464718
+                  ]
+            },
+            {
+                  "name": "Filwood Park Playground",
+                  "text": "Filwood Park Playground ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.584402,
+                        51.421445
+                  ]
+            },
+            {
+                  "name": "School Road Park play area",
+                  "text": "School Road Park play area ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.572851,
+                        51.440381
+                  ]
+            },
+            {
+                  "name": "Newquay Road Playground",
+                  "text": "Newquay Road Playground ist ein familienfreundlicher Spielplatz in Bristol, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.578318,
+                        51.424861
+                  ]
             }
       ],
       "hu": [
@@ -15009,6 +17349,222 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.611358,
                         51.459094
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 1",
+                  "text": "A(z) Barrow Reservoir 1 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.668256,
+                        51.402079
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 2",
+                  "text": "A(z) Barrow Reservoir 2 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.664692,
+                        51.404172
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 3",
+                  "text": "A(z) Barrow Reservoir 3 egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.658835,
+                        51.40875
+                  ]
+            },
+            {
+                  "name": "Ham Green Lake",
+                  "text": "A(z) Ham Green Lake egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.670541,
+                        51.478339
+                  ]
+            },
+            {
+                  "name": "St George Park Lake",
+                  "text": "A(z) St George Park Lake egy festői tó Bristol városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.546141,
+                        51.461962
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "A(z) Jungle Rumble Adventure Golf szórakoztató minigolf élményt kínál a(z) Bristol városába látogató családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.586168,
+                        51.458147
+                  ]
+            },
+            {
+                  "name": "Playback Arcade",
+                  "text": "A(z) Playback Arcade egy játékterem Bristol városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.590058,
+                        51.456475
+                  ]
+            },
+            {
+                  "name": "Pickle Street",
+                  "text": "A(z) Pickle Street egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.597997,
+                        51.441754
+                  ]
+            },
+            {
+                  "name": "PAR.59",
+                  "text": "A(z) PAR.59 szórakoztató minigolf élményt kínál a(z) Bristol városába látogató családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.601742,
+                        51.449775
+                  ]
+            },
+            {
+                  "name": "Albion Road Amenity Area",
+                  "text": "A(z) Albion Road Amenity Area egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.564265,
+                        51.465467
+                  ]
+            },
+            {
+                  "name": "Redcatch Park Play Ground",
+                  "text": "A(z) Redcatch Park Play Ground egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.571584,
+                        51.434555
+                  ]
+            },
+            {
+                  "name": "NQ64",
+                  "text": "A(z) NQ64 egy játékterem Bristol városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.59593,
+                        51.453244
+                  ]
+            },
+            {
+                  "name": "Playnation",
+                  "text": "A(z) Playnation egy játékterem Bristol városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.588969,
+                        51.458637
+                  ]
+            },
+            {
+                  "name": "Brook Street Park",
+                  "text": "A(z) Brook Street Park egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.559452,
+                        51.459245
+                  ]
+            },
+            {
+                  "name": "Rawnsley Park Play Area",
+                  "text": "A(z) Rawnsley Park Play Area egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.571817,
+                        51.46285
+                  ]
+            },
+            {
+                  "name": "Felix Road Adventure Playground",
+                  "text": "A(z) Felix Road Adventure Playground egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.568277,
+                        51.462984
+                  ]
+            },
+            {
+                  "name": "Argyle Place Park",
+                  "text": "A(z) Argyle Place Park egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.613592,
+                        51.450401
+                  ]
+            },
+            {
+                  "name": "Goldstrike",
+                  "text": "A(z) Goldstrike egy játékterem Bristol városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.596739,
+                        51.441928
+                  ]
+            },
+            {
+                  "name": "South Street Park",
+                  "text": "A(z) South Street Park egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.603956,
+                        51.43888
+                  ]
+            },
+            {
+                  "name": "Troopers Hill Field Play Area",
+                  "text": "A(z) Troopers Hill Field Play Area egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.536066,
+                        51.458024
+                  ]
+            },
+            {
+                  "name": "St Pauls Adventure Playground",
+                  "text": "A(z) St Pauls Adventure Playground egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.577654,
+                        51.464718
+                  ]
+            },
+            {
+                  "name": "Filwood Park Playground",
+                  "text": "A(z) Filwood Park Playground egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.584402,
+                        51.421445
+                  ]
+            },
+            {
+                  "name": "School Road Park play area",
+                  "text": "A(z) School Road Park play area egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.572851,
+                        51.440381
+                  ]
+            },
+            {
+                  "name": "Newquay Road Playground",
+                  "text": "A(z) Newquay Road Playground egy családbarát játszótér Bristol városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.578318,
+                        51.424861
                   ]
             }
       ],
@@ -15666,6 +18222,222 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.611358,
                         51.459094
                   ]
+            },
+            {
+                  "name": "Barrow Reservoir 1",
+                  "text": "Barrow Reservoir 1 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.668256,
+                        51.402079
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 2",
+                  "text": "Barrow Reservoir 2 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.664692,
+                        51.404172
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 3",
+                  "text": "Barrow Reservoir 3 este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.658835,
+                        51.40875
+                  ]
+            },
+            {
+                  "name": "Ham Green Lake",
+                  "text": "Ham Green Lake este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.670541,
+                        51.478339
+                  ]
+            },
+            {
+                  "name": "St George Park Lake",
+                  "text": "St George Park Lake este un lac pitoresc în Bristol, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.546141,
+                        51.461962
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf oferă o experiență distractivă de minigolf pentru familiile care vizitează Bristol.",
+                  "category": "family",
+                  "coords": [
+                        -2.586168,
+                        51.458147
+                  ]
+            },
+            {
+                  "name": "Playback Arcade",
+                  "text": "Playback Arcade este o sală de jocuri în Bristol, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.590058,
+                        51.456475
+                  ]
+            },
+            {
+                  "name": "Pickle Street",
+                  "text": "Pickle Street este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.597997,
+                        51.441754
+                  ]
+            },
+            {
+                  "name": "PAR.59",
+                  "text": "PAR.59 oferă o experiență distractivă de minigolf pentru familiile care vizitează Bristol.",
+                  "category": "family",
+                  "coords": [
+                        -2.601742,
+                        51.449775
+                  ]
+            },
+            {
+                  "name": "Albion Road Amenity Area",
+                  "text": "Albion Road Amenity Area este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.564265,
+                        51.465467
+                  ]
+            },
+            {
+                  "name": "Redcatch Park Play Ground",
+                  "text": "Redcatch Park Play Ground este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.571584,
+                        51.434555
+                  ]
+            },
+            {
+                  "name": "NQ64",
+                  "text": "NQ64 este o sală de jocuri în Bristol, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.59593,
+                        51.453244
+                  ]
+            },
+            {
+                  "name": "Playnation",
+                  "text": "Playnation este o sală de jocuri în Bristol, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.588969,
+                        51.458637
+                  ]
+            },
+            {
+                  "name": "Brook Street Park",
+                  "text": "Brook Street Park este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.559452,
+                        51.459245
+                  ]
+            },
+            {
+                  "name": "Rawnsley Park Play Area",
+                  "text": "Rawnsley Park Play Area este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.571817,
+                        51.46285
+                  ]
+            },
+            {
+                  "name": "Felix Road Adventure Playground",
+                  "text": "Felix Road Adventure Playground este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.568277,
+                        51.462984
+                  ]
+            },
+            {
+                  "name": "Argyle Place Park",
+                  "text": "Argyle Place Park este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.613592,
+                        51.450401
+                  ]
+            },
+            {
+                  "name": "Goldstrike",
+                  "text": "Goldstrike este o sală de jocuri în Bristol, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.596739,
+                        51.441928
+                  ]
+            },
+            {
+                  "name": "South Street Park",
+                  "text": "South Street Park este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.603956,
+                        51.43888
+                  ]
+            },
+            {
+                  "name": "Troopers Hill Field Play Area",
+                  "text": "Troopers Hill Field Play Area este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.536066,
+                        51.458024
+                  ]
+            },
+            {
+                  "name": "St Pauls Adventure Playground",
+                  "text": "St Pauls Adventure Playground este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.577654,
+                        51.464718
+                  ]
+            },
+            {
+                  "name": "Filwood Park Playground",
+                  "text": "Filwood Park Playground este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.584402,
+                        51.421445
+                  ]
+            },
+            {
+                  "name": "School Road Park play area",
+                  "text": "School Road Park play area este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.572851,
+                        51.440381
+                  ]
+            },
+            {
+                  "name": "Newquay Road Playground",
+                  "text": "Newquay Road Playground este un loc de joacă pentru familii în Bristol, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.578318,
+                        51.424861
+                  ]
             }
       ],
       "en": [
@@ -16322,6 +19094,222 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.611358,
                         51.459094
                   ]
+            },
+            {
+                  "name": "Barrow Reservoir 1",
+                  "text": "Barrow Reservoir 1 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.668256,
+                        51.402079
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 2",
+                  "text": "Barrow Reservoir 2 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.664692,
+                        51.404172
+                  ]
+            },
+            {
+                  "name": "Barrow Reservoir 3",
+                  "text": "Barrow Reservoir 3 is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.658835,
+                        51.40875
+                  ]
+            },
+            {
+                  "name": "Ham Green Lake",
+                  "text": "Ham Green Lake is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.670541,
+                        51.478339
+                  ]
+            },
+            {
+                  "name": "St George Park Lake",
+                  "text": "St George Park Lake is a scenic lake in Bristol, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.546141,
+                        51.461962
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf offers an entertaining miniature golf experience for families and friends visiting Bristol.",
+                  "category": "family",
+                  "coords": [
+                        -2.586168,
+                        51.458147
+                  ]
+            },
+            {
+                  "name": "Playback Arcade",
+                  "text": "Playback Arcade is an amusement arcade in Bristol, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.590058,
+                        51.456475
+                  ]
+            },
+            {
+                  "name": "Pickle Street",
+                  "text": "Pickle Street is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.597997,
+                        51.441754
+                  ]
+            },
+            {
+                  "name": "PAR.59",
+                  "text": "PAR.59 offers an entertaining miniature golf experience for families and friends visiting Bristol.",
+                  "category": "family",
+                  "coords": [
+                        -2.601742,
+                        51.449775
+                  ]
+            },
+            {
+                  "name": "Albion Road Amenity Area",
+                  "text": "Albion Road Amenity Area is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.564265,
+                        51.465467
+                  ]
+            },
+            {
+                  "name": "Redcatch Park Play Ground",
+                  "text": "Redcatch Park Play Ground is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.571584,
+                        51.434555
+                  ]
+            },
+            {
+                  "name": "NQ64",
+                  "text": "NQ64 is an amusement arcade in Bristol, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.59593,
+                        51.453244
+                  ]
+            },
+            {
+                  "name": "Playnation",
+                  "text": "Playnation is an amusement arcade in Bristol, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.588969,
+                        51.458637
+                  ]
+            },
+            {
+                  "name": "Brook Street Park",
+                  "text": "Brook Street Park is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.559452,
+                        51.459245
+                  ]
+            },
+            {
+                  "name": "Rawnsley Park Play Area",
+                  "text": "Rawnsley Park Play Area is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.571817,
+                        51.46285
+                  ]
+            },
+            {
+                  "name": "Felix Road Adventure Playground",
+                  "text": "Felix Road Adventure Playground is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.568277,
+                        51.462984
+                  ]
+            },
+            {
+                  "name": "Argyle Place Park",
+                  "text": "Argyle Place Park is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.613592,
+                        51.450401
+                  ]
+            },
+            {
+                  "name": "Goldstrike",
+                  "text": "Goldstrike is an amusement arcade in Bristol, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.596739,
+                        51.441928
+                  ]
+            },
+            {
+                  "name": "South Street Park",
+                  "text": "South Street Park is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.603956,
+                        51.43888
+                  ]
+            },
+            {
+                  "name": "Troopers Hill Field Play Area",
+                  "text": "Troopers Hill Field Play Area is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.536066,
+                        51.458024
+                  ]
+            },
+            {
+                  "name": "St Pauls Adventure Playground",
+                  "text": "St Pauls Adventure Playground is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.577654,
+                        51.464718
+                  ]
+            },
+            {
+                  "name": "Filwood Park Playground",
+                  "text": "Filwood Park Playground is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.584402,
+                        51.421445
+                  ]
+            },
+            {
+                  "name": "School Road Park play area",
+                  "text": "School Road Park play area is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.572851,
+                        51.440381
+                  ]
+            },
+            {
+                  "name": "Newquay Road Playground",
+                  "text": "Newquay Road Playground is a family-friendly playground in Bristol, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.578318,
+                        51.424861
+                  ]
             }
       ]
 }
@@ -16603,6 +19591,168 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.140869,
                         52.635167
                   ]
+            },
+            {
+                  "name": "Cropston Reservoir",
+                  "text": "Cropston Reservoir ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.194394,
+                        52.691829
+                  ]
+            },
+            {
+                  "name": "Murphys Lake",
+                  "text": "Murphys Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.100081,
+                        52.687598
+                  ]
+            },
+            {
+                  "name": "Nature Lake",
+                  "text": "Nature Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.115239,
+                        52.669816
+                  ]
+            },
+            {
+                  "name": "John Merricks' Lake",
+                  "text": "John Merricks' Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.103033,
+                        52.694184
+                  ]
+            },
+            {
+                  "name": "Meadow Pool",
+                  "text": "Meadow Pool ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.109184,
+                        52.684156
+                  ]
+            },
+            {
+                  "name": "King Lear's Lake",
+                  "text": "King Lear's Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104378,
+                        52.687103
+                  ]
+            },
+            {
+                  "name": "Jelsons Lake",
+                  "text": "Jelsons Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10918,
+                        52.680362
+                  ]
+            },
+            {
+                  "name": "Abbey Park Boating Lake",
+                  "text": "Abbey Park Boating Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.133829,
+                        52.645722
+                  ]
+            },
+            {
+                  "name": "Mammoth Lake",
+                  "text": "Mammoth Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.112144,
+                        52.672874
+                  ]
+            },
+            {
+                  "name": "Keys Lake",
+                  "text": "Keys Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10402,
+                        52.680744
+                  ]
+            },
+            {
+                  "name": "Trilakes",
+                  "text": "Trilakes ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104819,
+                        52.679072
+                  ]
+            },
+            {
+                  "name": "Finger Lake",
+                  "text": "Finger Lake ist ein See in Leicester, der eine natürliche Umgebung für Spaziergänge und Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.105889,
+                        52.69054
+                  ]
+            },
+            {
+                  "name": "Treetop Adventure Golf",
+                  "text": "Treetop Adventure Golf ist eine Minigolfanlage in Leicester, die eine unterhaltsame und spannende Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.137421,
+                        52.636056
+                  ]
+            },
+            {
+                  "name": "Clarendon Park Road Play Area",
+                  "text": "Clarendon Park Road Play Area ist ein Spielplatz in Leicester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.120894,
+                        52.615332
+                  ]
+            },
+            {
+                  "name": "Mossdale Meadows Play Area",
+                  "text": "Mossdale Meadows Play Area ist ein Spielplatz in Leicester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.18324,
+                        52.613228
+                  ]
+            },
+            {
+                  "name": "New Parks Adventure Playground",
+                  "text": "New Parks Adventure Playground ist ein Spielplatz in Leicester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.181801,
+                        52.641207
+                  ]
+            },
+            {
+                  "name": "Braunstone Adventure Playground",
+                  "text": "Braunstone Adventure Playground ist ein Spielplatz in Leicester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.181454,
+                        52.629746
+                  ]
+            },
+            {
+                  "name": "Go Kids Go",
+                  "text": "Go Kids Go ist ein Spielplatz in Leicester, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.138015,
+                        52.62073
+                  ]
             }
       ],
       "hu": [
@@ -16834,6 +19984,168 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.140869,
                         52.635167
+                  ]
+            },
+            {
+                  "name": "Cropston Reservoir",
+                  "text": "A(z) Cropston Reservoir egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.194394,
+                        52.691829
+                  ]
+            },
+            {
+                  "name": "Murphys Lake",
+                  "text": "A(z) Murphys Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.100081,
+                        52.687598
+                  ]
+            },
+            {
+                  "name": "Nature Lake",
+                  "text": "A(z) Nature Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.115239,
+                        52.669816
+                  ]
+            },
+            {
+                  "name": "John Merricks' Lake",
+                  "text": "A(z) John Merricks' Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.103033,
+                        52.694184
+                  ]
+            },
+            {
+                  "name": "Meadow Pool",
+                  "text": "A(z) Meadow Pool egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.109184,
+                        52.684156
+                  ]
+            },
+            {
+                  "name": "King Lear's Lake",
+                  "text": "A(z) King Lear's Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104378,
+                        52.687103
+                  ]
+            },
+            {
+                  "name": "Jelsons Lake",
+                  "text": "A(z) Jelsons Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10918,
+                        52.680362
+                  ]
+            },
+            {
+                  "name": "Abbey Park Boating Lake",
+                  "text": "A(z) Abbey Park Boating Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.133829,
+                        52.645722
+                  ]
+            },
+            {
+                  "name": "Mammoth Lake",
+                  "text": "A(z) Mammoth Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.112144,
+                        52.672874
+                  ]
+            },
+            {
+                  "name": "Keys Lake",
+                  "text": "A(z) Keys Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10402,
+                        52.680744
+                  ]
+            },
+            {
+                  "name": "Trilakes",
+                  "text": "A(z) Trilakes egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104819,
+                        52.679072
+                  ]
+            },
+            {
+                  "name": "Finger Lake",
+                  "text": "A(z) Finger Lake egy tó Leicester városában, amely természetes környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.105889,
+                        52.69054
+                  ]
+            },
+            {
+                  "name": "Treetop Adventure Golf",
+                  "text": "A(z) Treetop Adventure Golf egy minigolfpálya Leicester városában, amely szórakoztató és vonzó programot nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.137421,
+                        52.636056
+                  ]
+            },
+            {
+                  "name": "Clarendon Park Road Play Area",
+                  "text": "A(z) Clarendon Park Road Play Area egy játszótér Leicester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.120894,
+                        52.615332
+                  ]
+            },
+            {
+                  "name": "Mossdale Meadows Play Area",
+                  "text": "A(z) Mossdale Meadows Play Area egy játszótér Leicester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.18324,
+                        52.613228
+                  ]
+            },
+            {
+                  "name": "New Parks Adventure Playground",
+                  "text": "A(z) New Parks Adventure Playground egy játszótér Leicester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.181801,
+                        52.641207
+                  ]
+            },
+            {
+                  "name": "Braunstone Adventure Playground",
+                  "text": "A(z) Braunstone Adventure Playground egy játszótér Leicester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.181454,
+                        52.629746
+                  ]
+            },
+            {
+                  "name": "Go Kids Go",
+                  "text": "A(z) Go Kids Go egy játszótér Leicester városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.138015,
+                        52.62073
                   ]
             }
       ],
@@ -17067,6 +20379,168 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.140869,
                         52.635167
                   ]
+            },
+            {
+                  "name": "Cropston Reservoir",
+                  "text": "Cropston Reservoir este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.194394,
+                        52.691829
+                  ]
+            },
+            {
+                  "name": "Murphys Lake",
+                  "text": "Murphys Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.100081,
+                        52.687598
+                  ]
+            },
+            {
+                  "name": "Nature Lake",
+                  "text": "Nature Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.115239,
+                        52.669816
+                  ]
+            },
+            {
+                  "name": "John Merricks' Lake",
+                  "text": "John Merricks' Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.103033,
+                        52.694184
+                  ]
+            },
+            {
+                  "name": "Meadow Pool",
+                  "text": "Meadow Pool este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.109184,
+                        52.684156
+                  ]
+            },
+            {
+                  "name": "King Lear's Lake",
+                  "text": "King Lear's Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104378,
+                        52.687103
+                  ]
+            },
+            {
+                  "name": "Jelsons Lake",
+                  "text": "Jelsons Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10918,
+                        52.680362
+                  ]
+            },
+            {
+                  "name": "Abbey Park Boating Lake",
+                  "text": "Abbey Park Boating Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.133829,
+                        52.645722
+                  ]
+            },
+            {
+                  "name": "Mammoth Lake",
+                  "text": "Mammoth Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.112144,
+                        52.672874
+                  ]
+            },
+            {
+                  "name": "Keys Lake",
+                  "text": "Keys Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10402,
+                        52.680744
+                  ]
+            },
+            {
+                  "name": "Trilakes",
+                  "text": "Trilakes este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104819,
+                        52.679072
+                  ]
+            },
+            {
+                  "name": "Finger Lake",
+                  "text": "Finger Lake este un lac situat în Leicester, oferind un cadru natural în aer liber pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.105889,
+                        52.69054
+                  ]
+            },
+            {
+                  "name": "Treetop Adventure Golf",
+                  "text": "Treetop Adventure Golf este un teren de minigolf în Leicester, oferind o activitate distractivă și captivantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.137421,
+                        52.636056
+                  ]
+            },
+            {
+                  "name": "Clarendon Park Road Play Area",
+                  "text": "Clarendon Park Road Play Area este un loc de joacă în Leicester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.120894,
+                        52.615332
+                  ]
+            },
+            {
+                  "name": "Mossdale Meadows Play Area",
+                  "text": "Mossdale Meadows Play Area este un loc de joacă în Leicester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.18324,
+                        52.613228
+                  ]
+            },
+            {
+                  "name": "New Parks Adventure Playground",
+                  "text": "New Parks Adventure Playground este un loc de joacă în Leicester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.181801,
+                        52.641207
+                  ]
+            },
+            {
+                  "name": "Braunstone Adventure Playground",
+                  "text": "Braunstone Adventure Playground este un loc de joacă în Leicester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.181454,
+                        52.629746
+                  ]
+            },
+            {
+                  "name": "Go Kids Go",
+                  "text": "Go Kids Go este un loc de joacă în Leicester, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.138015,
+                        52.62073
+                  ]
             }
       ],
       "en": [
@@ -17298,6 +20772,168 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.140869,
                         52.635167
+                  ]
+            },
+            {
+                  "name": "Cropston Reservoir",
+                  "text": "Cropston Reservoir is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.194394,
+                        52.691829
+                  ]
+            },
+            {
+                  "name": "Murphys Lake",
+                  "text": "Murphys Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.100081,
+                        52.687598
+                  ]
+            },
+            {
+                  "name": "Nature Lake",
+                  "text": "Nature Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.115239,
+                        52.669816
+                  ]
+            },
+            {
+                  "name": "John Merricks' Lake",
+                  "text": "John Merricks' Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.103033,
+                        52.694184
+                  ]
+            },
+            {
+                  "name": "Meadow Pool",
+                  "text": "Meadow Pool is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.109184,
+                        52.684156
+                  ]
+            },
+            {
+                  "name": "King Lear's Lake",
+                  "text": "King Lear's Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104378,
+                        52.687103
+                  ]
+            },
+            {
+                  "name": "Jelsons Lake",
+                  "text": "Jelsons Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10918,
+                        52.680362
+                  ]
+            },
+            {
+                  "name": "Abbey Park Boating Lake",
+                  "text": "Abbey Park Boating Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.133829,
+                        52.645722
+                  ]
+            },
+            {
+                  "name": "Mammoth Lake",
+                  "text": "Mammoth Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.112144,
+                        52.672874
+                  ]
+            },
+            {
+                  "name": "Keys Lake",
+                  "text": "Keys Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.10402,
+                        52.680744
+                  ]
+            },
+            {
+                  "name": "Trilakes",
+                  "text": "Trilakes is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.104819,
+                        52.679072
+                  ]
+            },
+            {
+                  "name": "Finger Lake",
+                  "text": "Finger Lake is a lake located in Leicester, offering a natural outdoor setting for walking and relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -1.105889,
+                        52.69054
+                  ]
+            },
+            {
+                  "name": "Treetop Adventure Golf",
+                  "text": "Treetop Adventure Golf is a miniature golf course in Leicester, providing a fun and engaging activity for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.137421,
+                        52.636056
+                  ]
+            },
+            {
+                  "name": "Clarendon Park Road Play Area",
+                  "text": "Clarendon Park Road Play Area is a playground in Leicester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.120894,
+                        52.615332
+                  ]
+            },
+            {
+                  "name": "Mossdale Meadows Play Area",
+                  "text": "Mossdale Meadows Play Area is a playground in Leicester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.18324,
+                        52.613228
+                  ]
+            },
+            {
+                  "name": "New Parks Adventure Playground",
+                  "text": "New Parks Adventure Playground is a playground in Leicester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.181801,
+                        52.641207
+                  ]
+            },
+            {
+                  "name": "Braunstone Adventure Playground",
+                  "text": "Braunstone Adventure Playground is a playground in Leicester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.181454,
+                        52.629746
+                  ]
+            },
+            {
+                  "name": "Go Kids Go",
+                  "text": "Go Kids Go is a playground in Leicester, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.138015,
+                        52.62073
                   ]
             }
       ]
@@ -17867,6 +21503,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.501164,
                         52.412468
                   ]
+            },
+            {
+                  "name": "Toddlers playground",
+                  "text": "Toddlers playground ist ein Spielplatz in Coventry, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.518296,
+                        52.414081
+                  ]
+            },
+            {
+                  "name": "Signet Square Playground",
+                  "text": "Signet Square Playground ist ein Spielplatz in Coventry, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.489788,
+                        52.411918
+                  ]
+            },
+            {
+                  "name": "Stoke Green Playground",
+                  "text": "Stoke Green Playground ist ein Spielplatz in Coventry, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.483134,
+                        52.405981
+                  ]
+            },
+            {
+                  "name": "Prior Deram Park Play Area",
+                  "text": "Prior Deram Park Play Area ist ein Spielplatz in Coventry, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.55875,
+                        52.394114
+                  ]
+            },
+            {
+                  "name": "Cash's Park Play Area",
+                  "text": "Cash's Park Play Area ist ein Spielplatz in Coventry, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.510324,
+                        52.422199
+                  ]
             }
       ],
       "hu": [
@@ -18385,6 +22066,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.501164,
                         52.412468
+                  ]
+            },
+            {
+                  "name": "Toddlers playground",
+                  "text": "A Toddlers playground egy játszótér Coventry területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -1.518296,
+                        52.414081
+                  ]
+            },
+            {
+                  "name": "Signet Square Playground",
+                  "text": "A Signet Square Playground egy játszótér Coventry területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -1.489788,
+                        52.411918
+                  ]
+            },
+            {
+                  "name": "Stoke Green Playground",
+                  "text": "A Stoke Green Playground egy játszótér Coventry területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -1.483134,
+                        52.405981
+                  ]
+            },
+            {
+                  "name": "Prior Deram Park Play Area",
+                  "text": "A Prior Deram Park Play Area egy játszótér Coventry területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -1.55875,
+                        52.394114
+                  ]
+            },
+            {
+                  "name": "Cash's Park Play Area",
+                  "text": "A Cash's Park Play Area egy játszótér Coventry területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -1.510324,
+                        52.422199
                   ]
             }
       ],
@@ -18905,6 +22631,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.501164,
                         52.412468
                   ]
+            },
+            {
+                  "name": "Toddlers playground",
+                  "text": "Toddlers playground este un teren de joacă în Coventry, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -1.518296,
+                        52.414081
+                  ]
+            },
+            {
+                  "name": "Signet Square Playground",
+                  "text": "Signet Square Playground este un teren de joacă în Coventry, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -1.489788,
+                        52.411918
+                  ]
+            },
+            {
+                  "name": "Stoke Green Playground",
+                  "text": "Stoke Green Playground este un teren de joacă în Coventry, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -1.483134,
+                        52.405981
+                  ]
+            },
+            {
+                  "name": "Prior Deram Park Play Area",
+                  "text": "Prior Deram Park Play Area este un teren de joacă în Coventry, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -1.55875,
+                        52.394114
+                  ]
+            },
+            {
+                  "name": "Cash's Park Play Area",
+                  "text": "Cash's Park Play Area este un teren de joacă în Coventry, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -1.510324,
+                        52.422199
+                  ]
             }
       ],
       "en": [
@@ -19423,6 +23194,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.501164,
                         52.412468
+                  ]
+            },
+            {
+                  "name": "Toddlers playground",
+                  "text": "Toddlers playground is a playground in Coventry where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -1.518296,
+                        52.414081
+                  ]
+            },
+            {
+                  "name": "Signet Square Playground",
+                  "text": "Signet Square Playground is a playground in Coventry where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -1.489788,
+                        52.411918
+                  ]
+            },
+            {
+                  "name": "Stoke Green Playground",
+                  "text": "Stoke Green Playground is a playground in Coventry where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -1.483134,
+                        52.405981
+                  ]
+            },
+            {
+                  "name": "Prior Deram Park Play Area",
+                  "text": "Prior Deram Park Play Area is a playground in Coventry where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -1.55875,
+                        52.394114
+                  ]
+            },
+            {
+                  "name": "Cash's Park Play Area",
+                  "text": "Cash's Park Play Area is a playground in Coventry where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -1.510324,
+                        52.422199
                   ]
             }
       ]
@@ -20067,6 +23883,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.624673,
                         55.003826
                   ]
+            },
+            {
+                  "name": "Saltwell Park Lake",
+                  "text": "Saltwell Park Lake ist ein malerischer See in Newcastle Upon Tyne, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -1.605722,
+                        54.945274
+                  ]
+            },
+            {
+                  "name": "Killingworth Lake",
+                  "text": "Killingworth Lake ist ein malerischer See in Newcastle Upon Tyne, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574177,
+                        55.032794
+                  ]
+            },
+            {
+                  "name": "Gosforth Lake",
+                  "text": "Gosforth Lake ist ein malerischer See in Newcastle Upon Tyne, ideal für einen entspannenden Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -1.604051,
+                        55.02607
+                  ]
+            },
+            {
+                  "name": "Nobels Amusements",
+                  "text": "Nobels Amusements ist eine Spielhalle in Newcastle Upon Tyne, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.602012,
+                        54.961585
+                  ]
+            },
+            {
+                  "name": "Dunes Amusements",
+                  "text": "Dunes Amusements ist eine Spielhalle in Newcastle Upon Tyne, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.608202,
+                        54.955361
+                  ]
+            },
+            {
+                  "name": "Alternative Amusements",
+                  "text": "Alternative Amusements ist eine Spielhalle in Newcastle Upon Tyne, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.580189,
+                        54.976805
+                  ]
+            },
+            {
+                  "name": "Namco Funscape",
+                  "text": "Namco Funscape ist eine Spielhalle in Newcastle Upon Tyne, die Indoor-Spaß und Spiele für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.670263,
+                        54.95871
+                  ]
+            },
+            {
+                  "name": "Ghetto Golf",
+                  "text": "Ghetto Golf bietet ein unterhaltsames Minigolf-Erlebnis für Familien und Freunde, die Newcastle Upon Tyne besuchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.581272,
+                        54.970311
+                  ]
+            },
+            {
+                  "name": "Over 8 Play Area",
+                  "text": "Over 8 Play Area ist ein familienfreundlicher Spielplatz in Newcastle Upon Tyne, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.604056,
+                        54.944435
+                  ]
+            },
+            {
+                  "name": "Bell's Yard Play Area",
+                  "text": "Bell's Yard Play Area ist ein familienfreundlicher Spielplatz in Newcastle Upon Tyne, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.60745,
+                        54.991121
+                  ]
+            },
+            {
+                  "name": "Paddy Freemans Play Area",
+                  "text": "Paddy Freemans Play Area ist ein familienfreundlicher Spielplatz in Newcastle Upon Tyne, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.595686,
+                        54.997983
+                  ]
+            },
+            {
+                  "name": "Bishops Park Playground",
+                  "text": "Bishops Park Playground ist ein familienfreundlicher Spielplatz in Newcastle Upon Tyne, der einen tollen Außenbereich für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.583364,
+                        54.955365
+                  ]
+            },
+            {
+                  "name": "Alexandra Road Park",
+                  "text": "Alexandra Road Park ist ein Spielplatz in Newcastle Upon Tyne, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.606399,
+                        54.956357
+                  ]
             }
       ],
       "hu": [
@@ -20660,6 +24593,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.624673,
                         55.003826
+                  ]
+            },
+            {
+                  "name": "Saltwell Park Lake",
+                  "text": "A(z) Saltwell Park Lake egy festői tó Newcastle Upon Tyne városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.605722,
+                        54.945274
+                  ]
+            },
+            {
+                  "name": "Killingworth Lake",
+                  "text": "A(z) Killingworth Lake egy festői tó Newcastle Upon Tyne városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574177,
+                        55.032794
+                  ]
+            },
+            {
+                  "name": "Gosforth Lake",
+                  "text": "A(z) Gosforth Lake egy festői tó Newcastle Upon Tyne városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.604051,
+                        55.02607
+                  ]
+            },
+            {
+                  "name": "Nobels Amusements",
+                  "text": "A(z) Nobels Amusements egy játékterem Newcastle Upon Tyne városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.602012,
+                        54.961585
+                  ]
+            },
+            {
+                  "name": "Dunes Amusements",
+                  "text": "A(z) Dunes Amusements egy játékterem Newcastle Upon Tyne városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.608202,
+                        54.955361
+                  ]
+            },
+            {
+                  "name": "Alternative Amusements",
+                  "text": "A(z) Alternative Amusements egy játékterem Newcastle Upon Tyne városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.580189,
+                        54.976805
+                  ]
+            },
+            {
+                  "name": "Namco Funscape",
+                  "text": "A(z) Namco Funscape egy játékterem Newcastle Upon Tyne városában, amely beltéri szórakozást és játékokat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.670263,
+                        54.95871
+                  ]
+            },
+            {
+                  "name": "Ghetto Golf",
+                  "text": "A(z) Ghetto Golf szórakoztató minigolf élményt kínál a(z) Newcastle Upon Tyne városába látogató családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.581272,
+                        54.970311
+                  ]
+            },
+            {
+                  "name": "Over 8 Play Area",
+                  "text": "A(z) Over 8 Play Area egy családbarát játszótér Newcastle Upon Tyne városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.604056,
+                        54.944435
+                  ]
+            },
+            {
+                  "name": "Bell's Yard Play Area",
+                  "text": "A(z) Bell's Yard Play Area egy családbarát játszótér Newcastle Upon Tyne városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.60745,
+                        54.991121
+                  ]
+            },
+            {
+                  "name": "Paddy Freemans Play Area",
+                  "text": "A(z) Paddy Freemans Play Area egy családbarát játszótér Newcastle Upon Tyne városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.595686,
+                        54.997983
+                  ]
+            },
+            {
+                  "name": "Bishops Park Playground",
+                  "text": "A(z) Bishops Park Playground egy családbarát játszótér Newcastle Upon Tyne városában, amely nagyszerű szabadtéri teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.583364,
+                        54.955365
+                  ]
+            },
+            {
+                  "name": "Alexandra Road Park",
+                  "text": "A(z) Alexandra Road Park egy játszótér Newcastle Upon Tyne területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.606399,
+                        54.956357
                   ]
             }
       ],
@@ -21255,6 +25305,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.624673,
                         55.003826
                   ]
+            },
+            {
+                  "name": "Saltwell Park Lake",
+                  "text": "Saltwell Park Lake este un lac pitoresc în Newcastle Upon Tyne, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -1.605722,
+                        54.945274
+                  ]
+            },
+            {
+                  "name": "Killingworth Lake",
+                  "text": "Killingworth Lake este un lac pitoresc în Newcastle Upon Tyne, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574177,
+                        55.032794
+                  ]
+            },
+            {
+                  "name": "Gosforth Lake",
+                  "text": "Gosforth Lake este un lac pitoresc în Newcastle Upon Tyne, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -1.604051,
+                        55.02607
+                  ]
+            },
+            {
+                  "name": "Nobels Amusements",
+                  "text": "Nobels Amusements este o sală de jocuri în Newcastle Upon Tyne, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -1.602012,
+                        54.961585
+                  ]
+            },
+            {
+                  "name": "Dunes Amusements",
+                  "text": "Dunes Amusements este o sală de jocuri în Newcastle Upon Tyne, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -1.608202,
+                        54.955361
+                  ]
+            },
+            {
+                  "name": "Alternative Amusements",
+                  "text": "Alternative Amusements este o sală de jocuri în Newcastle Upon Tyne, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -1.580189,
+                        54.976805
+                  ]
+            },
+            {
+                  "name": "Namco Funscape",
+                  "text": "Namco Funscape este o sală de jocuri în Newcastle Upon Tyne, oferind distracție în interior și jocuri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -1.670263,
+                        54.95871
+                  ]
+            },
+            {
+                  "name": "Ghetto Golf",
+                  "text": "Ghetto Golf oferă o experiență distractivă de minigolf pentru familiile care vizitează Newcastle Upon Tyne.",
+                  "category": "family",
+                  "coords": [
+                        -1.581272,
+                        54.970311
+                  ]
+            },
+            {
+                  "name": "Over 8 Play Area",
+                  "text": "Over 8 Play Area este un loc de joacă pentru familii în Newcastle Upon Tyne, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.604056,
+                        54.944435
+                  ]
+            },
+            {
+                  "name": "Bell's Yard Play Area",
+                  "text": "Bell's Yard Play Area este un loc de joacă pentru familii în Newcastle Upon Tyne, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.60745,
+                        54.991121
+                  ]
+            },
+            {
+                  "name": "Paddy Freemans Play Area",
+                  "text": "Paddy Freemans Play Area este un loc de joacă pentru familii în Newcastle Upon Tyne, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.595686,
+                        54.997983
+                  ]
+            },
+            {
+                  "name": "Bishops Park Playground",
+                  "text": "Bishops Park Playground este un loc de joacă pentru familii în Newcastle Upon Tyne, oferind un spațiu excelent în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.583364,
+                        54.955365
+                  ]
+            },
+            {
+                  "name": "Alexandra Road Park",
+                  "text": "Alexandra Road Park este un loc de joacă în Newcastle Upon Tyne, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.606399,
+                        54.956357
+                  ]
             }
       ],
       "en": [
@@ -21849,6 +26016,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.624673,
                         55.003826
                   ]
+            },
+            {
+                  "name": "Saltwell Park Lake",
+                  "text": "Saltwell Park Lake is a scenic lake in Newcastle Upon Tyne, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -1.605722,
+                        54.945274
+                  ]
+            },
+            {
+                  "name": "Killingworth Lake",
+                  "text": "Killingworth Lake is a scenic lake in Newcastle Upon Tyne, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574177,
+                        55.032794
+                  ]
+            },
+            {
+                  "name": "Gosforth Lake",
+                  "text": "Gosforth Lake is a scenic lake in Newcastle Upon Tyne, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -1.604051,
+                        55.02607
+                  ]
+            },
+            {
+                  "name": "Nobels Amusements",
+                  "text": "Nobels Amusements is an amusement arcade in Newcastle Upon Tyne, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.602012,
+                        54.961585
+                  ]
+            },
+            {
+                  "name": "Dunes Amusements",
+                  "text": "Dunes Amusements is an amusement arcade in Newcastle Upon Tyne, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.608202,
+                        54.955361
+                  ]
+            },
+            {
+                  "name": "Alternative Amusements",
+                  "text": "Alternative Amusements is an amusement arcade in Newcastle Upon Tyne, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.580189,
+                        54.976805
+                  ]
+            },
+            {
+                  "name": "Namco Funscape",
+                  "text": "Namco Funscape is an amusement arcade in Newcastle Upon Tyne, providing indoor fun and games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.670263,
+                        54.95871
+                  ]
+            },
+            {
+                  "name": "Ghetto Golf",
+                  "text": "Ghetto Golf offers an entertaining miniature golf experience for families and friends visiting Newcastle Upon Tyne.",
+                  "category": "family",
+                  "coords": [
+                        -1.581272,
+                        54.970311
+                  ]
+            },
+            {
+                  "name": "Over 8 Play Area",
+                  "text": "Over 8 Play Area is a family-friendly playground in Newcastle Upon Tyne, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.604056,
+                        54.944435
+                  ]
+            },
+            {
+                  "name": "Bell's Yard Play Area",
+                  "text": "Bell's Yard Play Area is a family-friendly playground in Newcastle Upon Tyne, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.60745,
+                        54.991121
+                  ]
+            },
+            {
+                  "name": "Paddy Freemans Play Area",
+                  "text": "Paddy Freemans Play Area is a family-friendly playground in Newcastle Upon Tyne, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.595686,
+                        54.997983
+                  ]
+            },
+            {
+                  "name": "Bishops Park Playground",
+                  "text": "Bishops Park Playground is a family-friendly playground in Newcastle Upon Tyne, providing a great outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.583364,
+                        54.955365
+                  ]
+            },
+            {
+                  "name": "Alexandra Road Park",
+                  "text": "Alexandra Road Park is a playground in Newcastle Upon Tyne, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.606399,
+                        54.956357
+                  ]
             }
       ]
 }
@@ -22314,6 +26598,195 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.144503,
                         52.964621
                   ]
+            },
+            {
+                  "name": "Caddyshackers",
+                  "text": "Caddyshackers ist eine Minigolfanlage in Nottingham, die eine unterhaltsame und spannende Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.153194,
+                        52.952014
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation ist eine Spielhalle in Nottingham, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.150413,
+                        52.955494
+                  ]
+            },
+            {
+                  "name": "Family Entertainment Center",
+                  "text": "Family Entertainment Center ist eine Spielhalle in Nottingham, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.170001,
+                        52.965099
+                  ]
+            },
+            {
+                  "name": "Planet Bounce",
+                  "text": "Planet Bounce ist ein Trampolinpark in Nottingham, der ein energiegeladenes und unterhaltsames Erlebnis für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.146028,
+                        52.958504
+                  ]
+            },
+            {
+                  "name": "Zero Latency VR",
+                  "text": "Zero Latency VR ist eine Spielhalle in Nottingham, die Indoor-Unterhaltung und interaktive Spiele für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.147597,
+                        52.958422
+                  ]
+            },
+            {
+                  "name": "St Ann's Adventure Play Centre",
+                  "text": "St Ann's Adventure Play Centre ist ein Spielplatz in Nottingham, der eine unterhaltsame und aktive Umgebung für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.136584,
+                        52.960993
+                  ]
+            },
+            {
+                  "name": "Kirkstead Street Playground",
+                  "text": "Ein schöner Spielplatz in Nottingham für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.172263,
+                        52.966885
+                  ]
+            },
+            {
+                  "name": "Radford Recreation Ground Playground",
+                  "text": "Dieser Spielplatz in Nottingham bietet Kindern viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -1.173559,
+                        52.955208
+                  ]
+            },
+            {
+                  "name": "Teenage Sport Area",
+                  "text": "Ein Spiel- und Sportbereich für ältere Kinder in Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.129078,
+                        52.934299
+                  ]
+            },
+            {
+                  "name": "Penn Avenue Play Area",
+                  "text": "Ein toller Spielplatz in Nottingham, ideal für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -1.177955,
+                        52.946343
+                  ]
+            },
+            {
+                  "name": "Victoria Embankment Play Area",
+                  "text": "Dieser Spielplatz in Nottingham bietet abwechslungsreiche Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.145707,
+                        52.933363
+                  ]
+            },
+            {
+                  "name": "Sutton Passeys Crescent Play Area",
+                  "text": "Ein familienfreundlicher Spielplatz im Herzen von Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.197888,
+                        52.947929
+                  ]
+            },
+            {
+                  "name": "Sycamore Park Play Area",
+                  "text": "Ein lokaler Spielplatz in Nottingham, ideal für einen aktiven Nachmittag mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -1.139167,
+                        52.966693
+                  ]
+            },
+            {
+                  "name": "Highfields Park Play Area",
+                  "text": "Dieser Spielplatz in Nottingham bietet viel Spaß und Abenteuer für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.188643,
+                        52.937558
+                  ]
+            },
+            {
+                  "name": "Colville Street Playground",
+                  "text": "Ein gemütlicher Spielplatz in Nottingham für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -1.153395,
+                        52.963026
+                  ]
+            },
+            {
+                  "name": "Kids Planet",
+                  "text": "Ein fantastischer Spielplatz in Nottingham, der Kinderherzen höher schlagen lässt.",
+                  "category": "family",
+                  "coords": [
+                        -1.184462,
+                        52.946777
+                  ]
+            },
+            {
+                  "name": "Mundella Road Play Area",
+                  "text": "Dieser Spielbereich in Nottingham ist der perfekte Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.14506,
+                        52.940014
+                  ]
+            },
+            {
+                  "name": "Forest Recreation Ground Play Area",
+                  "text": "Ein weitläufiger Spielplatz in Nottingham für einen spaßigen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -1.160722,
+                        52.964937
+                  ]
+            },
+            {
+                  "name": "Pearmain Park Play Area",
+                  "text": "Ein schöner Spielplatz in Nottingham für gemeinsame Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.12262,
+                        52.96817
+                  ]
+            },
+            {
+                  "name": "Lees Hill Park Play Area",
+                  "text": "Ein toller Ort für Kinder zum Spielen und für Familien zum Entspannen in Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.130794,
+                        52.949293
+                  ]
+            },
+            {
+                  "name": "Peppers Gardens Playground",
+                  "text": "Ein gepflegter Spielplatz in Nottingham, der bei Familien sehr beliebt ist.",
+                  "category": "family",
+                  "coords": [
+                        -1.170713,
+                        52.966877
+                  ]
             }
       ],
       "hu": [
@@ -22774,6 +27247,195 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.144503,
                         52.964621
+                  ]
+            },
+            {
+                  "name": "Caddyshackers",
+                  "text": "A(z) Caddyshackers egy minigolfpálya Nottingham városában, amely szórakoztató és vonzó programot nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.153194,
+                        52.952014
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "A(z) Funstation egy játékterem Nottingham városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.150413,
+                        52.955494
+                  ]
+            },
+            {
+                  "name": "Family Entertainment Center",
+                  "text": "A(z) Family Entertainment Center egy játékterem Nottingham városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.170001,
+                        52.965099
+                  ]
+            },
+            {
+                  "name": "Planet Bounce",
+                  "text": "A(z) Planet Bounce egy trambulinpark Nottingham városában, amely energikus és szórakoztató élményt kínál a családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.146028,
+                        52.958504
+                  ]
+            },
+            {
+                  "name": "Zero Latency VR",
+                  "text": "A(z) Zero Latency VR egy játékterem Nottingham városában, amely beltéri szórakozást és interaktív játékokat kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.147597,
+                        52.958422
+                  ]
+            },
+            {
+                  "name": "St Ann's Adventure Play Centre",
+                  "text": "A(z) St Ann's Adventure Play Centre egy játszótér Nottingham városában, amely szórakoztató és aktív környezetet nyújt a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.136584,
+                        52.960993
+                  ]
+            },
+            {
+                  "name": "Kirkstead Street Playground",
+                  "text": "Kellemes játszótér Nottinghamben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.172263,
+                        52.966885
+                  ]
+            },
+            {
+                  "name": "Radford Recreation Ground Playground",
+                  "text": "Ez a nottinghami játszótér rengeteg helyet kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        -1.173559,
+                        52.955208
+                  ]
+            },
+            {
+                  "name": "Teenage Sport Area",
+                  "text": "Játék- és sportterület idősebb gyerekeknek Nottinghamben.",
+                  "category": "family",
+                  "coords": [
+                        -1.129078,
+                        52.934299
+                  ]
+            },
+            {
+                  "name": "Penn Avenue Play Area",
+                  "text": "Nagyszerű játszótér Nottinghamben, ideális családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.177955,
+                        52.946343
+                  ]
+            },
+            {
+                  "name": "Victoria Embankment Play Area",
+                  "text": "Ez a nottinghami játszótér változatos játszótéri eszközöket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.145707,
+                        52.933363
+                  ]
+            },
+            {
+                  "name": "Sutton Passeys Crescent Play Area",
+                  "text": "Családbarát játszótér Nottingham szívében.",
+                  "category": "family",
+                  "coords": [
+                        -1.197888,
+                        52.947929
+                  ]
+            },
+            {
+                  "name": "Sycamore Park Play Area",
+                  "text": "Helyi játszótér Nottinghamben, amely ideális egy aktív délutánhoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        -1.139167,
+                        52.966693
+                  ]
+            },
+            {
+                  "name": "Highfields Park Play Area",
+                  "text": "Ez a nottinghami játszótér sok szórakozást és kalandot kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.188643,
+                        52.937558
+                  ]
+            },
+            {
+                  "name": "Colville Street Playground",
+                  "text": "Hangulatos játszótér Nottinghamben minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.153395,
+                        52.963026
+                  ]
+            },
+            {
+                  "name": "Kids Planet",
+                  "text": "Fantasztikus játszótér Nottinghamben, amely megdobogtatja a gyerekek szívét.",
+                  "category": "family",
+                  "coords": [
+                        -1.184462,
+                        52.946777
+                  ]
+            },
+            {
+                  "name": "Mundella Road Play Area",
+                  "text": "Ez a nottinghami játszótér tökéletes hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.14506,
+                        52.940014
+                  ]
+            },
+            {
+                  "name": "Forest Recreation Ground Play Area",
+                  "text": "Tágas játszótér Nottinghamben egy vidám családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.160722,
+                        52.964937
+                  ]
+            },
+            {
+                  "name": "Pearmain Park Play Area",
+                  "text": "Szép játszótér Nottinghamben a családdal eltöltött közös órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.12262,
+                        52.96817
+                  ]
+            },
+            {
+                  "name": "Lees Hill Park Play Area",
+                  "text": "Nagyszerű hely a gyerekeknek a játékra és a családoknak a pihenésre Nottinghamben.",
+                  "category": "family",
+                  "coords": [
+                        -1.130794,
+                        52.949293
+                  ]
+            },
+            {
+                  "name": "Peppers Gardens Playground",
+                  "text": "Jól karbantartott játszótér Nottinghamben, amely nagyon népszerű a családok körében.",
+                  "category": "family",
+                  "coords": [
+                        -1.170713,
+                        52.966877
                   ]
             }
       ],
@@ -23236,6 +27898,195 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.144503,
                         52.964621
                   ]
+            },
+            {
+                  "name": "Caddyshackers",
+                  "text": "Caddyshackers este un teren de minigolf în Nottingham, oferind o activitate distractivă și captivantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.153194,
+                        52.952014
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation este o sală de jocuri în Nottingham, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.150413,
+                        52.955494
+                  ]
+            },
+            {
+                  "name": "Family Entertainment Center",
+                  "text": "Family Entertainment Center este o sală de jocuri în Nottingham, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.170001,
+                        52.965099
+                  ]
+            },
+            {
+                  "name": "Planet Bounce",
+                  "text": "Planet Bounce este un parc de trambuline în Nottingham, oferind o experiență plină de energie și distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.146028,
+                        52.958504
+                  ]
+            },
+            {
+                  "name": "Zero Latency VR",
+                  "text": "Zero Latency VR este o sală de jocuri în Nottingham, oferind divertisment de interior și jocuri interactive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.147597,
+                        52.958422
+                  ]
+            },
+            {
+                  "name": "St Ann's Adventure Play Centre",
+                  "text": "St Ann's Adventure Play Centre este un loc de joacă în Nottingham, oferind un mediu distractiv și activ pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.136584,
+                        52.960993
+                  ]
+            },
+            {
+                  "name": "Kirkstead Street Playground",
+                  "text": "Un loc de joacă plăcut în Nottingham pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.172263,
+                        52.966885
+                  ]
+            },
+            {
+                  "name": "Radford Recreation Ground Playground",
+                  "text": "Acest loc de joacă din Nottingham oferă mult spațiu copiilor pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        -1.173559,
+                        52.955208
+                  ]
+            },
+            {
+                  "name": "Teenage Sport Area",
+                  "text": "O zonă de joacă și sport pentru copiii mai mari din Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.129078,
+                        52.934299
+                  ]
+            },
+            {
+                  "name": "Penn Avenue Play Area",
+                  "text": "Un loc de joacă minunat în Nottingham, ideal pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.177955,
+                        52.946343
+                  ]
+            },
+            {
+                  "name": "Victoria Embankment Play Area",
+                  "text": "Acest loc de joacă din Nottingham oferă echipamente variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.145707,
+                        52.933363
+                  ]
+            },
+            {
+                  "name": "Sutton Passeys Crescent Play Area",
+                  "text": "Un loc de joacă prietenos pentru familii în inima orașului Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.197888,
+                        52.947929
+                  ]
+            },
+            {
+                  "name": "Sycamore Park Play Area",
+                  "text": "Un loc de joacă local în Nottingham, ideal pentru o după-amiază activă cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -1.139167,
+                        52.966693
+                  ]
+            },
+            {
+                  "name": "Highfields Park Play Area",
+                  "text": "Acest loc de joacă din Nottingham oferă multă distracție și aventură pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.188643,
+                        52.937558
+                  ]
+            },
+            {
+                  "name": "Colville Street Playground",
+                  "text": "Un loc de joacă confortabil în Nottingham pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -1.153395,
+                        52.963026
+                  ]
+            },
+            {
+                  "name": "Kids Planet",
+                  "text": "Un loc de joacă fantastic în Nottingham care face inimile copiilor să bată mai repede.",
+                  "category": "family",
+                  "coords": [
+                        -1.184462,
+                        52.946777
+                  ]
+            },
+            {
+                  "name": "Mundella Road Play Area",
+                  "text": "Această zonă de joacă din Nottingham este locul perfect pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.14506,
+                        52.940014
+                  ]
+            },
+            {
+                  "name": "Forest Recreation Ground Play Area",
+                  "text": "Un loc de joacă spațios în Nottingham pentru o excursie distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.160722,
+                        52.964937
+                  ]
+            },
+            {
+                  "name": "Pearmain Park Play Area",
+                  "text": "Un loc de joacă frumos în Nottingham pentru orele petrecute împreună cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -1.12262,
+                        52.96817
+                  ]
+            },
+            {
+                  "name": "Lees Hill Park Play Area",
+                  "text": "Un loc minunat pentru joaca copiilor și relaxarea familiilor în Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.130794,
+                        52.949293
+                  ]
+            },
+            {
+                  "name": "Peppers Gardens Playground",
+                  "text": "Un loc de joacă bine întreținut în Nottingham, foarte popular printre familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.170713,
+                        52.966877
+                  ]
             }
       ],
       "en": [
@@ -23696,6 +28547,195 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.144503,
                         52.964621
+                  ]
+            },
+            {
+                  "name": "Caddyshackers",
+                  "text": "Caddyshackers is a miniature golf course in Nottingham, providing a fun and engaging activity for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.153194,
+                        52.952014
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation is an amusement arcade in Nottingham, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.150413,
+                        52.955494
+                  ]
+            },
+            {
+                  "name": "Family Entertainment Center",
+                  "text": "Family Entertainment Center is an amusement arcade in Nottingham, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.170001,
+                        52.965099
+                  ]
+            },
+            {
+                  "name": "Planet Bounce",
+                  "text": "Planet Bounce is a trampoline park in Nottingham, offering an energetic and fun experience for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -1.146028,
+                        52.958504
+                  ]
+            },
+            {
+                  "name": "Zero Latency VR",
+                  "text": "Zero Latency VR is an amusement arcade in Nottingham, offering indoor entertainment and interactive games for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.147597,
+                        52.958422
+                  ]
+            },
+            {
+                  "name": "St Ann's Adventure Play Centre",
+                  "text": "St Ann's Adventure Play Centre is a playground in Nottingham, providing a fun and active environment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.136584,
+                        52.960993
+                  ]
+            },
+            {
+                  "name": "Kirkstead Street Playground",
+                  "text": "A nice playground in Nottingham for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -1.172263,
+                        52.966885
+                  ]
+            },
+            {
+                  "name": "Radford Recreation Ground Playground",
+                  "text": "This playground in Nottingham offers plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.173559,
+                        52.955208
+                  ]
+            },
+            {
+                  "name": "Teenage Sport Area",
+                  "text": "A play and sports area for older children in Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.129078,
+                        52.934299
+                  ]
+            },
+            {
+                  "name": "Penn Avenue Play Area",
+                  "text": "A great playground in Nottingham, ideal for family outings.",
+                  "category": "family",
+                  "coords": [
+                        -1.177955,
+                        52.946343
+                  ]
+            },
+            {
+                  "name": "Victoria Embankment Play Area",
+                  "text": "This playground in Nottingham offers varied play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.145707,
+                        52.933363
+                  ]
+            },
+            {
+                  "name": "Sutton Passeys Crescent Play Area",
+                  "text": "A family-friendly playground in the heart of Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.197888,
+                        52.947929
+                  ]
+            },
+            {
+                  "name": "Sycamore Park Play Area",
+                  "text": "A local playground in Nottingham, ideal for an active afternoon with the kids.",
+                  "category": "family",
+                  "coords": [
+                        -1.139167,
+                        52.966693
+                  ]
+            },
+            {
+                  "name": "Highfields Park Play Area",
+                  "text": "This playground in Nottingham offers plenty of fun and adventure for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.188643,
+                        52.937558
+                  ]
+            },
+            {
+                  "name": "Colville Street Playground",
+                  "text": "A cozy playground in Nottingham for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.153395,
+                        52.963026
+                  ]
+            },
+            {
+                  "name": "Kids Planet",
+                  "text": "A fantastic playground in Nottingham that makes children's hearts beat faster.",
+                  "category": "family",
+                  "coords": [
+                        -1.184462,
+                        52.946777
+                  ]
+            },
+            {
+                  "name": "Mundella Road Play Area",
+                  "text": "This play area in Nottingham is the perfect place for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.14506,
+                        52.940014
+                  ]
+            },
+            {
+                  "name": "Forest Recreation Ground Play Area",
+                  "text": "A spacious playground in Nottingham for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        -1.160722,
+                        52.964937
+                  ]
+            },
+            {
+                  "name": "Pearmain Park Play Area",
+                  "text": "A nice playground in Nottingham for hours spent together with the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.12262,
+                        52.96817
+                  ]
+            },
+            {
+                  "name": "Lees Hill Park Play Area",
+                  "text": "A great place for children to play and families to relax in Nottingham.",
+                  "category": "family",
+                  "coords": [
+                        -1.130794,
+                        52.949293
+                  ]
+            },
+            {
+                  "name": "Peppers Gardens Playground",
+                  "text": "A well-maintained playground in Nottingham that is very popular with families.",
+                  "category": "family",
+                  "coords": [
+                        -1.170713,
+                        52.966877
                   ]
             }
       ]
@@ -24564,6 +29604,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.105576,
                         57.157241
                   ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf ist eine Minigolfanlage in Aberdeen, die eine klassische und ansprechende Aktivität für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
             }
       ],
       "hu": [
@@ -25243,6 +30382,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.105576,
                         57.157241
+                  ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Az Inchgarth Reservoir egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "A Corby Loch egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "A Sunnybank Park Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "A Fittie Play Park egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "A Leslie Terrace Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "A Pirate Island Adventure Golf egy minigolfpálya Aberdeen területén, amely klasszikus és vonzó programot biztosít az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "A Balgownie Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "A Matthews Road Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "A Thistle Court Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "A Skene Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "A Wales Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
                   ]
             }
       ],
@@ -25924,6 +31162,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.105576,
                         57.157241
                   ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf este un teren de minigolf în Aberdeen, oferind o activitate clasică și captivantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
             }
       ],
       "en": [
@@ -26604,6 +31941,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.105576,
                         57.157241
                   ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf is a miniature golf course in Aberdeen providing a classic and engaging activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
             }
       ]
 }
@@ -27212,6 +32648,78 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942343,
                         51.62591
                   ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade ist eine Spielhalle in Swansea, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
             }
       ],
       "hu": [
@@ -27770,6 +33278,78 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.942343,
                         51.62591
+                  ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "A(z) Coed Darcy North Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "A(z) Coed Darcy South Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "A(z) Bunkers egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "A(z) Marina Amusement Arcade egy játékterem Swansea területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "A(z) Crazy Golf egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "A(z) Brynmill Park Playground egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "A(z) Marina Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "A(z) Rees Row Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
                   ]
             }
       ],
@@ -28330,6 +33910,78 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942343,
                         51.62591
                   ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade este o sală de jocuri arcade în Swansea, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
             }
       ],
       "en": [
@@ -28889,6 +34541,78 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942343,
                         51.62591
                   ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers is a miniature golf course in Swansea, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade is an amusement arcade in Swansea, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf is a miniature golf course in Swansea, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
             }
       ]
 }
@@ -29087,6 +34811,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -4.237817,
                         57.481856
                   ]
+            },
+            {
+                  "name": "Lochan an Eilein",
+                  "text": "Ein ruhiger See in Inverness, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -4.18186,
+                        57.476309
+                  ]
+            },
+            {
+                  "name": "Balancing pond",
+                  "text": "Ein malerischer See in Inverness, der zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.226838,
+                        57.446134
+                  ]
+            },
+            {
+                  "name": "Loch Dochfour",
+                  "text": "Dieser See in Inverness bietet eine idyllische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -4.319978,
+                        57.417005
+                  ]
+            },
+            {
+                  "name": "Loch na Sanais",
+                  "text": "Ein wunderschöner See in Inverness, der sich perfekt für einen gemütlichen Ausflug eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.249273,
+                        57.463028
+                  ]
+            },
+            {
+                  "name": "Infinity Trampoline Park",
+                  "text": "Ein actionreicher Trampolinpark in Inverness, ideal für aktive Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -4.245972,
+                        57.485025
+                  ]
+            },
+            {
+                  "name": "George Street Park",
+                  "text": "Ein schöner Spielplatz in Inverness, ideal für Familien und spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -4.226822,
+                        57.48229
+                  ]
+            },
+            {
+                  "name": "Inverness Crazy Golf",
+                  "text": "Eine unterhaltsame Minigolfanlage in Inverness für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.235254,
+                        57.463015
+                  ]
             }
       ],
       "hu": [
@@ -29232,6 +35019,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -4.237817,
                         57.481856
+                  ]
+            },
+            {
+                  "name": "Lochan an Eilein",
+                  "text": "Csendes tó Invernessben, amely ideális a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.18186,
+                        57.476309
+                  ]
+            },
+            {
+                  "name": "Balancing pond",
+                  "text": "Festői tó Invernessben, amely sétára hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        -4.226838,
+                        57.446134
+                  ]
+            },
+            {
+                  "name": "Loch Dochfour",
+                  "text": "Ez a tó Invernessben idilli környezetet kínál a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        -4.319978,
+                        57.417005
+                  ]
+            },
+            {
+                  "name": "Loch na Sanais",
+                  "text": "Gyönyörű tó Invernessben, amely tökéletes egy kellemes kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.249273,
+                        57.463028
+                  ]
+            },
+            {
+                  "name": "Infinity Trampoline Park",
+                  "text": "Akciódús trambulinpark Invernessben, ideális aktív családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.245972,
+                        57.485025
+                  ]
+            },
+            {
+                  "name": "George Street Park",
+                  "text": "Szép játszótér Invernessben, ideális családok és játszó gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.226822,
+                        57.48229
+                  ]
+            },
+            {
+                  "name": "Inverness Crazy Golf",
+                  "text": "Szórakoztató minigolfpálya Invernessben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.235254,
+                        57.463015
                   ]
             }
       ],
@@ -29379,6 +35229,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -4.237817,
                         57.481856
                   ]
+            },
+            {
+                  "name": "Lochan an Eilein",
+                  "text": "Un lac liniștit în Inverness, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -4.18186,
+                        57.476309
+                  ]
+            },
+            {
+                  "name": "Balancing pond",
+                  "text": "Un lac pitoresc în Inverness, care te invită la plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -4.226838,
+                        57.446134
+                  ]
+            },
+            {
+                  "name": "Loch Dochfour",
+                  "text": "Acest lac din Inverness oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -4.319978,
+                        57.417005
+                  ]
+            },
+            {
+                  "name": "Loch na Sanais",
+                  "text": "Un lac frumos în Inverness, perfect pentru o excursie relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -4.249273,
+                        57.463028
+                  ]
+            },
+            {
+                  "name": "Infinity Trampoline Park",
+                  "text": "Un parc de trambuline plin de acțiune în Inverness, ideal pentru excursii active în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.245972,
+                        57.485025
+                  ]
+            },
+            {
+                  "name": "George Street Park",
+                  "text": "Un loc de joacă frumos în Inverness, ideal pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.226822,
+                        57.48229
+                  ]
+            },
+            {
+                  "name": "Inverness Crazy Golf",
+                  "text": "Un teren de minigolf distractiv în Inverness pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.235254,
+                        57.463015
+                  ]
             }
       ],
       "en": [
@@ -29524,6 +35437,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -4.237817,
                         57.481856
+                  ]
+            },
+            {
+                  "name": "Lochan an Eilein",
+                  "text": "A quiet lake in Inverness, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -4.18186,
+                        57.476309
+                  ]
+            },
+            {
+                  "name": "Balancing pond",
+                  "text": "A picturesque lake in Inverness that invites to walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -4.226838,
+                        57.446134
+                  ]
+            },
+            {
+                  "name": "Loch Dochfour",
+                  "text": "This lake in Inverness offers an idyllic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -4.319978,
+                        57.417005
+                  ]
+            },
+            {
+                  "name": "Loch na Sanais",
+                  "text": "A beautiful lake in Inverness, perfect for a relaxing trip.",
+                  "category": "natural",
+                  "coords": [
+                        -4.249273,
+                        57.463028
+                  ]
+            },
+            {
+                  "name": "Infinity Trampoline Park",
+                  "text": "An action-packed trampoline park in Inverness, ideal for active family outings.",
+                  "category": "family",
+                  "coords": [
+                        -4.245972,
+                        57.485025
+                  ]
+            },
+            {
+                  "name": "George Street Park",
+                  "text": "A nice playground in Inverness, ideal for families and playing children.",
+                  "category": "family",
+                  "coords": [
+                        -4.226822,
+                        57.48229
+                  ]
+            },
+            {
+                  "name": "Inverness Crazy Golf",
+                  "text": "An entertaining miniature golf course in Inverness for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -4.235254,
+                        57.463015
                   ]
             }
       ]
@@ -30081,6 +36057,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.379971,
                         51.378643
                   ]
+            },
+            {
+                  "name": "The Duck Pond",
+                  "text": "The Duck Pond ist ein See in Bath, der eine natürliche Umgebung zum Spazierengehen und Genießen der Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.376016,
+                        51.386609
+                  ]
+            },
+            {
+                  "name": "Tucking Mill Reservoir",
+                  "text": "Das Tucking Mill Reservoir ist ein See in Bath, der eine ruhige Umgebung für Spaziergänge am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.339384,
+                        51.352981
+                  ]
+            },
+            {
+                  "name": "Monkswood Reservoir",
+                  "text": "Das Monkswood Reservoir ist ein malerischer See in der Stadt Bath, ideal für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -2.35043,
+                        51.438396
+                  ]
+            },
+            {
+                  "name": "Lower Lake",
+                  "text": "Lower Lake ist ein natürlicher See in Bath, perfekt für einen entspannten Spaziergang am Wasser entlang.",
+                  "category": "natural",
+                  "coords": [
+                        -2.344972,
+                        51.36976
+                  ]
+            },
+            {
+                  "name": "Upper Lake",
+                  "text": "Upper Lake befindet sich in Bath und bietet Besuchern eine angenehme und entspannende Uferlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -2.345054,
+                        51.368306
+                  ]
+            },
+            {
+                  "name": "Bath Area Play Project",
+                  "text": "Das Bath Area Play Project ist ein Spielplatz in Bath, auf dem Kinder und Familien gemeinsam im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.380497,
+                        51.360136
+                  ]
+            },
+            {
+                  "name": "Midsummer Buildigs Playground",
+                  "text": "Der Midsummer Buildigs Playground in Bath bietet eine unterhaltsame und aktive Umgebung für Kinder und ihre Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.352365,
+                        51.397316
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Der Victoria Park verfügt über einen Spielplatz in Bath, der einen großartigen Raum für die Familienerholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.376685,
+                        51.385684
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Adventure Golf",
+                  "text": "Victoria Falls Adventure Golf ist eine Minigolfanlage in Bath, die lustige Freizeitaktivitäten für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.366529,
+                        51.385166
+                  ]
+            },
+            {
+                  "name": "Dorset Close Playground",
+                  "text": "Der Dorset Close Playground ist ein lokaler Spielplatz in Bath, der für das gemeinsame Spielvergnügen von Familien im Freien konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        -2.377977,
+                        51.380606
+                  ]
+            },
+            {
+                  "name": "Moorlands Recreation Playground",
+                  "text": "Der Moorlands Recreation Playground in Bath ist ein idealer Ort für Kinder zum Spielen und für Familien zum Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -2.378398,
+                        51.368595
+                  ]
+            },
+            {
+                  "name": "Parry Close Play Area",
+                  "text": "Die Parry Close Play Area befindet sich in Bath und bietet einen sicheren Außenbereich für familienfreundliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -2.3909,
+                        51.373474
+                  ]
+            },
+            {
+                  "name": "Whiteway Green Play Area",
+                  "text": "Familien in Bath können die Whiteway Green Play Area für gemeinsamen Spaß im Freien und kindgerechte Erholung besuchen.",
+                  "category": "family",
+                  "coords": [
+                        -2.399822,
+                        51.374272
+                  ]
+            },
+            {
+                  "name": "Kelson's Field Play Area",
+                  "text": "Die Kelson's Field Play Area ist ein Spielplatz in Bath, der verschiedene Spielgeräte für Kinder und ihre Eltern bereithält.",
+                  "category": "family",
+                  "coords": [
+                        -2.383235,
+                        51.383561
+                  ]
+            },
+            {
+                  "name": "Widcombe Play Area",
+                  "text": "Die Widcombe Play Area in Bath ist ein familienfreundlicher Raum, der mit Spielplatzanlagen für unterhaltsame Nachmittage ausgestattet ist.",
+                  "category": "family",
+                  "coords": [
+                        -2.352343,
+                        51.377704
+                  ]
+            },
+            {
+                  "name": "Alice Park Play Area",
+                  "text": "Die Alice Park Play Area in Bath bietet eine wunderbare Umgebung für Familien, um gemeinsam draußen zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.341036,
+                        51.397245
+                  ]
+            },
+            {
+                  "name": "Bloomfield Road Open Space",
+                  "text": "Der Bloomfield Road Open Space ist eine Park- und Spielplatzanlage in Bath, die sich bestens für die Freizeitgestaltung mit der Familie eignet.",
+                  "category": "family",
+                  "coords": [
+                        -2.367424,
+                        51.37118
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Play Area",
+                  "text": "Die Beacon Hill Play Area ist ein lokaler Spielplatz in Bath, der ideal für körperliche Aktivitäten von Kindern im Familienkreis ist.",
+                  "category": "family",
+                  "coords": [
+                        -2.359701,
+                        51.394697
+                  ]
+            },
+            {
+                  "name": "Children's Garden",
+                  "text": "Der Children's Garden in Bath ist ein liebevoll gestalteter Spielbereich, der einen einladenden Raum für Familien mit kleinen Kindern bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.310991,
+                        51.375944
+                  ]
             }
       ],
       "hu": [
@@ -30544,6 +36691,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.379971,
                         51.378643
+                  ]
+            },
+            {
+                  "name": "The Duck Pond",
+                  "text": "A The Duck Pond egy tó Bath városában, amely természetes környezetet kínál sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.376016,
+                        51.386609
+                  ]
+            },
+            {
+                  "name": "Tucking Mill Reservoir",
+                  "text": "A Tucking Mill Reservoir egy tó Bath városában, amely nyugodt környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.339384,
+                        51.352981
+                  ]
+            },
+            {
+                  "name": "Monkswood Reservoir",
+                  "text": "A Monkswood Reservoir egy festői tó Bath városában, ideális egy csendes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.35043,
+                        51.438396
+                  ]
+            },
+            {
+                  "name": "Lower Lake",
+                  "text": "A Lower Lake egy természetes tó Bath városában, amely tökéletes egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.344972,
+                        51.36976
+                  ]
+            },
+            {
+                  "name": "Upper Lake",
+                  "text": "Az Upper Lake Bath városában található, és kellemes, pihentető vízparti tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -2.345054,
+                        51.368306
+                  ]
+            },
+            {
+                  "name": "Bath Area Play Project",
+                  "text": "A Bath Area Play Project egy játszótér Bath városában, ahol a gyerekek és a családok együtt élvezhetik a szabadtéri játékot.",
+                  "category": "family",
+                  "coords": [
+                        -2.380497,
+                        51.360136
+                  ]
+            },
+            {
+                  "name": "Midsummer Buildigs Playground",
+                  "text": "A Midsummer Buildigs Playground Bath városában szórakoztató és aktív környezetet kínál a gyerekeknek és családjuknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.352365,
+                        51.397316
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A Victoria Park egy játszótérrel is rendelkezik Bath városában, amely nagyszerű teret biztosít a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.376685,
+                        51.385684
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Adventure Golf",
+                  "text": "A Victoria Falls Adventure Golf egy minigolf attrakció Bath városában, amely szórakoztató programot kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.366529,
+                        51.385166
+                  ]
+            },
+            {
+                  "name": "Dorset Close Playground",
+                  "text": "A Dorset Close Playground egy helyi játszótér Bath városában, amelyet a családok közös szabadtéri szórakozására terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -2.377977,
+                        51.380606
+                  ]
+            },
+            {
+                  "name": "Moorlands Recreation Playground",
+                  "text": "A Moorlands Recreation Playground Bath városában ideális hely a gyerekek játékához és a családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        -2.378398,
+                        51.368595
+                  ]
+            },
+            {
+                  "name": "Parry Close Play Area",
+                  "text": "A Parry Close Play Area Bath városában található, és biztonságos szabadtéri helyet biztosít családbarát tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -2.3909,
+                        51.373474
+                  ]
+            },
+            {
+                  "name": "Whiteway Green Play Area",
+                  "text": "A bath-i családok ellátogathatnak a Whiteway Green Play Area játszótérre egy kis közös szabadtéri szórakozásért és kikapcsolódásért.",
+                  "category": "family",
+                  "coords": [
+                        -2.399822,
+                        51.374272
+                  ]
+            },
+            {
+                  "name": "Kelson's Field Play Area",
+                  "text": "A Kelson's Field Play Area egy játszótér Bath városában, amely különféle játékeszközöket kínál a gyerekeknek és szüleiknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.383235,
+                        51.383561
+                  ]
+            },
+            {
+                  "name": "Widcombe Play Area",
+                  "text": "A Widcombe Play Area Bath városában egy családbarát tér, amely játszótéri eszközökkel várja a látogatókat egy vidám délutánra.",
+                  "category": "family",
+                  "coords": [
+                        -2.352343,
+                        51.377704
+                  ]
+            },
+            {
+                  "name": "Alice Park Play Area",
+                  "text": "A Bath városában található Alice Park Play Area csodálatos környezetet biztosít a családok közös szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        -2.341036,
+                        51.397245
+                  ]
+            },
+            {
+                  "name": "Bloomfield Road Open Space",
+                  "text": "A Bloomfield Road Open Space egy park és játszótér Bath városában, amely kiválóan alkalmas a családi szabadidő eltöltésére.",
+                  "category": "family",
+                  "coords": [
+                        -2.367424,
+                        51.37118
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Play Area",
+                  "text": "A Beacon Hill Play Area egy helyi játszótér Bath városában, amely ideális a gyerekek családi körben végzett mozgásos tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        -2.359701,
+                        51.394697
+                  ]
+            },
+            {
+                  "name": "Children's Garden",
+                  "text": "A bath-i Children's Garden egy szépen kialakított játszótér, amely barátságos teret kínál a kisgyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.310991,
+                        51.375944
                   ]
             }
       ],
@@ -31009,6 +37327,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.379971,
                         51.378643
                   ]
+            },
+            {
+                  "name": "The Duck Pond",
+                  "text": "The Duck Pond este un lac din Bath, oferind un cadru natural pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -2.376016,
+                        51.386609
+                  ]
+            },
+            {
+                  "name": "Tucking Mill Reservoir",
+                  "text": "Tucking Mill Reservoir este un lac situat în Bath, oferind un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -2.339384,
+                        51.352981
+                  ]
+            },
+            {
+                  "name": "Monkswood Reservoir",
+                  "text": "Monkswood Reservoir este un lac pitoresc situat în orașul Bath, ideal pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.35043,
+                        51.438396
+                  ]
+            },
+            {
+                  "name": "Lower Lake",
+                  "text": "Lower Lake este un lac natural din Bath, perfect pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.344972,
+                        51.36976
+                  ]
+            },
+            {
+                  "name": "Upper Lake",
+                  "text": "Upper Lake este situat în Bath și oferă o perspectivă plăcută și relaxantă pe malul apei pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -2.345054,
+                        51.368306
+                  ]
+            },
+            {
+                  "name": "Bath Area Play Project",
+                  "text": "Bath Area Play Project este un loc de joacă în Bath unde copiii și familiile se pot bucura împreună de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.380497,
+                        51.360136
+                  ]
+            },
+            {
+                  "name": "Midsummer Buildigs Playground",
+                  "text": "Midsummer Buildigs Playground din Bath oferă un mediu distractiv și activ pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -2.352365,
+                        51.397316
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Victoria Park include un loc de joacă în Bath, oferind un spațiu excelent pentru recreerea în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.376685,
+                        51.385684
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Adventure Golf",
+                  "text": "Victoria Falls Adventure Golf este o atracție de minigolf în Bath, oferind activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.366529,
+                        51.385166
+                  ]
+            },
+            {
+                  "name": "Dorset Close Playground",
+                  "text": "Dorset Close Playground este un loc de joacă local din Bath, creat pentru distracția familiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.377977,
+                        51.380606
+                  ]
+            },
+            {
+                  "name": "Moorlands Recreation Playground",
+                  "text": "Moorlands Recreation Playground din Bath este un loc ideal unde copiii se pot juca, iar familiile se pot relaxa.",
+                  "category": "family",
+                  "coords": [
+                        -2.378398,
+                        51.368595
+                  ]
+            },
+            {
+                  "name": "Parry Close Play Area",
+                  "text": "Parry Close Play Area este situată în Bath, oferind un spațiu sigur în aer liber pentru activități destinate familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -2.3909,
+                        51.373474
+                  ]
+            },
+            {
+                  "name": "Whiteway Green Play Area",
+                  "text": "Familiile din Bath pot vizita Whiteway Green Play Area pentru distracție în aer liber și recreere potrivită pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.399822,
+                        51.374272
+                  ]
+            },
+            {
+                  "name": "Kelson's Field Play Area",
+                  "text": "Kelson's Field Play Area este un loc de joacă în Bath care oferă diverse structuri de joacă pentru copii și părinții lor.",
+                  "category": "family",
+                  "coords": [
+                        -2.383235,
+                        51.383561
+                  ]
+            },
+            {
+                  "name": "Widcombe Play Area",
+                  "text": "Widcombe Play Area din Bath este un spațiu prietenos pentru familii, dotat cu facilități de joacă pentru o după-amiază distractivă.",
+                  "category": "family",
+                  "coords": [
+                        -2.352343,
+                        51.377704
+                  ]
+            },
+            {
+                  "name": "Alice Park Play Area",
+                  "text": "Situată în Bath, Alice Park Play Area oferă un mediu minunat pentru ca familiile să se joace împreună în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.341036,
+                        51.397245
+                  ]
+            },
+            {
+                  "name": "Bloomfield Road Open Space",
+                  "text": "Bloomfield Road Open Space este un parc și un loc de joacă în Bath, foarte potrivit pentru timpul liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.367424,
+                        51.37118
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Play Area",
+                  "text": "Beacon Hill Play Area este un loc de joacă local din Bath, ideal pentru activitățile fizice ale copiilor alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.359701,
+                        51.394697
+                  ]
+            },
+            {
+                  "name": "Children's Garden",
+                  "text": "Children's Garden din Bath este o zonă de joacă frumos amenajată, care oferă un spațiu primitor pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.310991,
+                        51.375944
+                  ]
             }
       ],
       "en": [
@@ -31472,6 +37961,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.379971,
                         51.378643
+                  ]
+            },
+            {
+                  "name": "The Duck Pond",
+                  "text": "The Duck Pond is a lake located in Bath, offering a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.376016,
+                        51.386609
+                  ]
+            },
+            {
+                  "name": "Tucking Mill Reservoir",
+                  "text": "Tucking Mill Reservoir is a lake situated in Bath, providing a peaceful environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -2.339384,
+                        51.352981
+                  ]
+            },
+            {
+                  "name": "Monkswood Reservoir",
+                  "text": "Monkswood Reservoir is a scenic lake located in the city of Bath, ideal for a quiet nature walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.35043,
+                        51.438396
+                  ]
+            },
+            {
+                  "name": "Lower Lake",
+                  "text": "Lower Lake is a natural lake in Bath, perfect for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.344972,
+                        51.36976
+                  ]
+            },
+            {
+                  "name": "Upper Lake",
+                  "text": "Upper Lake is located in Bath and offers a pleasant, relaxing waterside landscape for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -2.345054,
+                        51.368306
+                  ]
+            },
+            {
+                  "name": "Bath Area Play Project",
+                  "text": "Bath Area Play Project is a playground in Bath where children and families can enjoy outdoor play together.",
+                  "category": "family",
+                  "coords": [
+                        -2.380497,
+                        51.360136
+                  ]
+            },
+            {
+                  "name": "Midsummer Buildigs Playground",
+                  "text": "Midsummer Buildigs Playground in Bath offers a fun and active environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        -2.352365,
+                        51.397316
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Victoria Park features a playground area in Bath, providing a great space for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        -2.376685,
+                        51.385684
+                  ]
+            },
+            {
+                  "name": "Victoria Falls Adventure Golf",
+                  "text": "Victoria Falls Adventure Golf is a miniature golf attraction in Bath, offering fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.366529,
+                        51.385166
+                  ]
+            },
+            {
+                  "name": "Dorset Close Playground",
+                  "text": "Dorset Close Playground is a local play area in Bath designed for families to enjoy outdoor fun together.",
+                  "category": "family",
+                  "coords": [
+                        -2.377977,
+                        51.380606
+                  ]
+            },
+            {
+                  "name": "Moorlands Recreation Playground",
+                  "text": "Moorlands Recreation Playground in Bath is an ideal spot for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        -2.378398,
+                        51.368595
+                  ]
+            },
+            {
+                  "name": "Parry Close Play Area",
+                  "text": "Parry Close Play Area is situated in Bath, providing a safe outdoor space for family-friendly activities.",
+                  "category": "family",
+                  "coords": [
+                        -2.3909,
+                        51.373474
+                  ]
+            },
+            {
+                  "name": "Whiteway Green Play Area",
+                  "text": "Families in Bath can visit the Whiteway Green Play Area for shared outdoor fun and children's recreation.",
+                  "category": "family",
+                  "coords": [
+                        -2.399822,
+                        51.374272
+                  ]
+            },
+            {
+                  "name": "Kelson's Field Play Area",
+                  "text": "Kelson's Field Play Area is a playground in Bath that offers various play structures for kids and their parents.",
+                  "category": "family",
+                  "coords": [
+                        -2.383235,
+                        51.383561
+                  ]
+            },
+            {
+                  "name": "Widcombe Play Area",
+                  "text": "Widcombe Play Area in Bath is a family-friendly space equipped with playground facilities for an entertaining afternoon.",
+                  "category": "family",
+                  "coords": [
+                        -2.352343,
+                        51.377704
+                  ]
+            },
+            {
+                  "name": "Alice Park Play Area",
+                  "text": "Located in Bath, Alice Park Play Area provides a wonderful environment for families to play outdoors together.",
+                  "category": "family",
+                  "coords": [
+                        -2.341036,
+                        51.397245
+                  ]
+            },
+            {
+                  "name": "Bloomfield Road Open Space",
+                  "text": "Bloomfield Road Open Space is a park and playground area in Bath highly suited for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        -2.367424,
+                        51.37118
+                  ]
+            },
+            {
+                  "name": "Beacon Hill Play Area",
+                  "text": "Beacon Hill Play Area is a local playground in Bath ideal for children to enjoy physical activities with their families.",
+                  "category": "family",
+                  "coords": [
+                        -2.359701,
+                        51.394697
+                  ]
+            },
+            {
+                  "name": "Children's Garden",
+                  "text": "Children's Garden in Bath is a dedicated play area that offers a welcoming space for families with young ones.",
+                  "category": "family",
+                  "coords": [
+                        -2.310991,
+                        51.375944
                   ]
             }
       ]
@@ -32039,6 +38699,96 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.964153,
                         56.464896
                   ]
+            },
+            {
+                  "name": "Clatto Reservoir",
+                  "text": "Clatto Reservoir ist ein See in Dundee, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.028134,
+                        56.499028
+                  ]
+            },
+            {
+                  "name": "Swannie Ponds",
+                  "text": "Swannie Ponds ist ein See in Dundee, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.948604,
+                        56.476854
+                  ]
+            },
+            {
+                  "name": "Eske Loch",
+                  "text": "Eske Loch ist ein See in Dundee, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.95103,
+                        56.415071
+                  ]
+            },
+            {
+                  "name": "Morton Lochs",
+                  "text": "Morton Lochs ist ein See in Dundee, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.874254,
+                        56.427339
+                  ]
+            },
+            {
+                  "name": "tenpin Arcade",
+                  "text": "tenpin Arcade ist eine Spielhalle in Dundee, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -2.99834,
+                        56.481915
+                  ]
+            },
+            {
+                  "name": "Kinbrae Park Play Area",
+                  "text": "Kinbrae Park Play Area ist ein Spielplatz in Dundee, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.944862,
+                        56.434775
+                  ]
+            },
+            {
+                  "name": "Ryze",
+                  "text": "Ryze ist ein Trampolinpark in Dundee, der energiegeladenen Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.976037,
+                        56.486462
+                  ]
+            },
+            {
+                  "name": "Woodhaven Playpark",
+                  "text": "Woodhaven Playpark ist ein Spielplatz in Dundee, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.962487,
+                        56.429884
+                  ]
+            },
+            {
+                  "name": "Fun Parx",
+                  "text": "Fun Parx ist ein Spielplatz in Dundee, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.920089,
+                        56.480748
+                  ]
+            },
+            {
+                  "name": "Gowrie Hill playpark",
+                  "text": "Gowrie Hill playpark ist ein Spielplatz in Dundee, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.935885,
+                        56.442673
+                  ]
             }
       ],
       "hu": [
@@ -32555,6 +39305,96 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.964153,
                         56.464896
+                  ]
+            },
+            {
+                  "name": "Clatto Reservoir",
+                  "text": "A(z) Clatto Reservoir egy tó Dundee területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.028134,
+                        56.499028
+                  ]
+            },
+            {
+                  "name": "Swannie Ponds",
+                  "text": "A(z) Swannie Ponds egy tó Dundee területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.948604,
+                        56.476854
+                  ]
+            },
+            {
+                  "name": "Eske Loch",
+                  "text": "A(z) Eske Loch egy tó Dundee területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.95103,
+                        56.415071
+                  ]
+            },
+            {
+                  "name": "Morton Lochs",
+                  "text": "A(z) Morton Lochs egy tó Dundee területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.874254,
+                        56.427339
+                  ]
+            },
+            {
+                  "name": "tenpin Arcade",
+                  "text": "A(z) tenpin Arcade egy játékterem Dundee területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.99834,
+                        56.481915
+                  ]
+            },
+            {
+                  "name": "Kinbrae Park Play Area",
+                  "text": "A(z) Kinbrae Park Play Area egy játszótér Dundee területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.944862,
+                        56.434775
+                  ]
+            },
+            {
+                  "name": "Ryze",
+                  "text": "A(z) Ryze egy trambulinpark Dundee területén, amely energikus szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.976037,
+                        56.486462
+                  ]
+            },
+            {
+                  "name": "Woodhaven Playpark",
+                  "text": "A(z) Woodhaven Playpark egy játszótér Dundee területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.962487,
+                        56.429884
+                  ]
+            },
+            {
+                  "name": "Fun Parx",
+                  "text": "A(z) Fun Parx egy játszótér Dundee területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.920089,
+                        56.480748
+                  ]
+            },
+            {
+                  "name": "Gowrie Hill playpark",
+                  "text": "A(z) Gowrie Hill playpark egy játszótér Dundee területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.935885,
+                        56.442673
                   ]
             }
       ],
@@ -33073,6 +39913,96 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.964153,
                         56.464896
                   ]
+            },
+            {
+                  "name": "Clatto Reservoir",
+                  "text": "Clatto Reservoir este un lac situat în Dundee, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.028134,
+                        56.499028
+                  ]
+            },
+            {
+                  "name": "Swannie Ponds",
+                  "text": "Swannie Ponds este un lac situat în Dundee, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.948604,
+                        56.476854
+                  ]
+            },
+            {
+                  "name": "Eske Loch",
+                  "text": "Eske Loch este un lac situat în Dundee, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.95103,
+                        56.415071
+                  ]
+            },
+            {
+                  "name": "Morton Lochs",
+                  "text": "Morton Lochs este un lac situat în Dundee, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.874254,
+                        56.427339
+                  ]
+            },
+            {
+                  "name": "tenpin Arcade",
+                  "text": "tenpin Arcade este o sală de jocuri arcade în Dundee, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -2.99834,
+                        56.481915
+                  ]
+            },
+            {
+                  "name": "Kinbrae Park Play Area",
+                  "text": "Kinbrae Park Play Area este un loc de joacă în Dundee, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.944862,
+                        56.434775
+                  ]
+            },
+            {
+                  "name": "Ryze",
+                  "text": "Ryze este un parc de trambuline în Dundee, oferind distracție plină de energie pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.976037,
+                        56.486462
+                  ]
+            },
+            {
+                  "name": "Woodhaven Playpark",
+                  "text": "Woodhaven Playpark este un loc de joacă în Dundee, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.962487,
+                        56.429884
+                  ]
+            },
+            {
+                  "name": "Fun Parx",
+                  "text": "Fun Parx este un loc de joacă în Dundee, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.920089,
+                        56.480748
+                  ]
+            },
+            {
+                  "name": "Gowrie Hill playpark",
+                  "text": "Gowrie Hill playpark este un loc de joacă în Dundee, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.935885,
+                        56.442673
+                  ]
             }
       ],
       "en": [
@@ -33590,12 +40520,507 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.964153,
                         56.464896
                   ]
+            },
+            {
+                  "name": "Clatto Reservoir",
+                  "text": "Clatto Reservoir is a lake situated in Dundee, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.028134,
+                        56.499028
+                  ]
+            },
+            {
+                  "name": "Swannie Ponds",
+                  "text": "Swannie Ponds is a lake situated in Dundee, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.948604,
+                        56.476854
+                  ]
+            },
+            {
+                  "name": "Eske Loch",
+                  "text": "Eske Loch is a lake situated in Dundee, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.95103,
+                        56.415071
+                  ]
+            },
+            {
+                  "name": "Morton Lochs",
+                  "text": "Morton Lochs is a lake situated in Dundee, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.874254,
+                        56.427339
+                  ]
+            },
+            {
+                  "name": "tenpin Arcade",
+                  "text": "tenpin Arcade is an amusement arcade in Dundee, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -2.99834,
+                        56.481915
+                  ]
+            },
+            {
+                  "name": "Kinbrae Park Play Area",
+                  "text": "Kinbrae Park Play Area is a playground in Dundee, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.944862,
+                        56.434775
+                  ]
+            },
+            {
+                  "name": "Ryze",
+                  "text": "Ryze is a trampoline park in Dundee, offering energetic fun and activities for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.976037,
+                        56.486462
+                  ]
+            },
+            {
+                  "name": "Woodhaven Playpark",
+                  "text": "Woodhaven Playpark is a playground in Dundee, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.962487,
+                        56.429884
+                  ]
+            },
+            {
+                  "name": "Fun Parx",
+                  "text": "Fun Parx is a playground in Dundee, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.920089,
+                        56.480748
+                  ]
+            },
+            {
+                  "name": "Gowrie Hill playpark",
+                  "text": "Gowrie Hill playpark is a playground in Dundee, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.935885,
+                        56.442673
+                  ]
             }
       ]
 }
   },
   {
-    id: "uk-canterbury-cities-v2",
+    id: "uk-canterbury-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tidal Lake",
+                  "text": "Ein interessanter See in Canterbury, der sich gut für ruhige Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.163235,
+                        51.307259
+                  ]
+            },
+            {
+                  "name": "Westbere Lake",
+                  "text": "Ein friedlicher See in Canterbury, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.142715,
+                        51.301952
+                  ]
+            },
+            {
+                  "name": "Toddler's Cove",
+                  "text": "Ein toller Spielplatz in Canterbury, der ideal auf die Bedürfnisse kleiner Kinder und ihrer Familien zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        1.07091,
+                        51.278511
+                  ]
+            },
+            {
+                  "name": "Sidequest",
+                  "text": "Eine spannende Spielhalle in Canterbury mit Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.087327,
+                        51.284662
+                  ]
+            },
+            {
+                  "name": "Hawe Close Play Area",
+                  "text": "Ein familienfreundlicher Spielplatz in Canterbury für lustige Nachmittage.",
+                  "category": "family",
+                  "coords": [
+                        1.084131,
+                        51.29652
+                  ]
+            },
+            {
+                  "name": "Wincheap Play Area",
+                  "text": "Dieser Spielplatz in Canterbury bietet eine tolle Zeit für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.06998,
+                        51.27222
+                  ]
+            },
+            {
+                  "name": "Bishops Way Play Area",
+                  "text": "Ein schöner Spielplatz in Canterbury, auf dem sich Kinder austoben können.",
+                  "category": "family",
+                  "coords": [
+                        1.063397,
+                        51.283557
+                  ]
+            },
+            {
+                  "name": "Hollow Lane Play Area",
+                  "text": "Ein großartiger Spielplatz in Canterbury für einen aktiven Ausflug mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.068413,
+                        51.266671
+                  ]
+            },
+            {
+                  "name": "Kingsmead Recreation Ground",
+                  "text": "Ein weitläufiger Spielbereich in Canterbury, ideal für Spiel und Spaß in der Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.084473,
+                        51.286448
+                  ]
+            },
+            {
+                  "name": "Rivals Social",
+                  "text": "Eine moderne Spielhalle in Canterbury, die Spaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.069941,
+                        51.274244
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Road Play Area",
+                  "text": "Ein einladender Spielplatz in Canterbury für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.075264,
+                        51.269123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tidal Lake",
+                  "text": "Érdekes tó Canterburyben, amely kiválóan alkalmas csendes sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        1.163235,
+                        51.307259
+                  ]
+            },
+            {
+                  "name": "Westbere Lake",
+                  "text": "Békés tó Canterburyben, gyönyörű természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.142715,
+                        51.301952
+                  ]
+            },
+            {
+                  "name": "Toddler's Cove",
+                  "text": "Nagyszerű játszótér Canterburyben, amelyet ideálisan a kisgyermekek és családjaik igényeire szabtak.",
+                  "category": "family",
+                  "coords": [
+                        1.07091,
+                        51.278511
+                  ]
+            },
+            {
+                  "name": "Sidequest",
+                  "text": "Izgalmas játékterem Canterburyben, szórakozással az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        1.087327,
+                        51.284662
+                  ]
+            },
+            {
+                  "name": "Hawe Close Play Area",
+                  "text": "Családbarát játszótér Canterburyben a vidám délutánokhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.084131,
+                        51.29652
+                  ]
+            },
+            {
+                  "name": "Wincheap Play Area",
+                  "text": "Ez a játszótér Canterburyben nagyszerű időtöltést kínál a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.06998,
+                        51.27222
+                  ]
+            },
+            {
+                  "name": "Bishops Way Play Area",
+                  "text": "Szép játszótér Canterburyben, ahol a gyerekek kiengedhetik a gőzt.",
+                  "category": "family",
+                  "coords": [
+                        1.063397,
+                        51.283557
+                  ]
+            },
+            {
+                  "name": "Hollow Lane Play Area",
+                  "text": "Nagyszerű játszótér Canterburyben egy aktív kiránduláshoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        1.068413,
+                        51.266671
+                  ]
+            },
+            {
+                  "name": "Kingsmead Recreation Ground",
+                  "text": "Tágas játszótér Canterburyben, amely ideális a családi játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.084473,
+                        51.286448
+                  ]
+            },
+            {
+                  "name": "Rivals Social",
+                  "text": "Modern játékterem Canterburyben, amely szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        1.069941,
+                        51.274244
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Road Play Area",
+                  "text": "Hívogató játszótér Canterburyben családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.075264,
+                        51.269123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tidal Lake",
+                  "text": "Un lac interesant în Canterbury, potrivit pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        1.163235,
+                        51.307259
+                  ]
+            },
+            {
+                  "name": "Westbere Lake",
+                  "text": "Un lac liniștit în Canterbury, înconjurat de natură frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        1.142715,
+                        51.301952
+                  ]
+            },
+            {
+                  "name": "Toddler's Cove",
+                  "text": "Un loc de joacă minunat în Canterbury, ideal pentru copiii mici și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        1.07091,
+                        51.278511
+                  ]
+            },
+            {
+                  "name": "Sidequest",
+                  "text": "O sală de jocuri captivantă în Canterbury cu divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.087327,
+                        51.284662
+                  ]
+            },
+            {
+                  "name": "Hawe Close Play Area",
+                  "text": "Un loc de joacă prietenos pentru familii în Canterbury pentru după-amiezi distractive.",
+                  "category": "family",
+                  "coords": [
+                        1.084131,
+                        51.29652
+                  ]
+            },
+            {
+                  "name": "Wincheap Play Area",
+                  "text": "Acest loc de joacă din Canterbury oferă timp minunat pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        1.06998,
+                        51.27222
+                  ]
+            },
+            {
+                  "name": "Bishops Way Play Area",
+                  "text": "Un loc de joacă frumos în Canterbury unde copiii se pot descărca de energie.",
+                  "category": "family",
+                  "coords": [
+                        1.063397,
+                        51.283557
+                  ]
+            },
+            {
+                  "name": "Hollow Lane Play Area",
+                  "text": "Un loc de joacă excelent în Canterbury pentru o excursie activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        1.068413,
+                        51.266671
+                  ]
+            },
+            {
+                  "name": "Kingsmead Recreation Ground",
+                  "text": "O zonă de joacă spațioasă în Canterbury, ideală pentru joacă și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.084473,
+                        51.286448
+                  ]
+            },
+            {
+                  "name": "Rivals Social",
+                  "text": "O sală de jocuri modernă în Canterbury, care oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        1.069941,
+                        51.274244
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Road Play Area",
+                  "text": "Un loc de joacă primitor în Canterbury pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.075264,
+                        51.269123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tidal Lake",
+                  "text": "An interesting lake in Canterbury, suitable for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.163235,
+                        51.307259
+                  ]
+            },
+            {
+                  "name": "Westbere Lake",
+                  "text": "A peaceful lake in Canterbury, surrounded by beautiful nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.142715,
+                        51.301952
+                  ]
+            },
+            {
+                  "name": "Toddler's Cove",
+                  "text": "A great playground in Canterbury, ideally suited to the needs of young children and their families.",
+                  "category": "family",
+                  "coords": [
+                        1.07091,
+                        51.278511
+                  ]
+            },
+            {
+                  "name": "Sidequest",
+                  "text": "An exciting amusement arcade in Canterbury with entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.087327,
+                        51.284662
+                  ]
+            },
+            {
+                  "name": "Hawe Close Play Area",
+                  "text": "A family-friendly playground in Canterbury for fun afternoons.",
+                  "category": "family",
+                  "coords": [
+                        1.084131,
+                        51.29652
+                  ]
+            },
+            {
+                  "name": "Wincheap Play Area",
+                  "text": "This playground in Canterbury offers a great time for families with children.",
+                  "category": "family",
+                  "coords": [
+                        1.06998,
+                        51.27222
+                  ]
+            },
+            {
+                  "name": "Bishops Way Play Area",
+                  "text": "A nice playground in Canterbury where children can let off steam.",
+                  "category": "family",
+                  "coords": [
+                        1.063397,
+                        51.283557
+                  ]
+            },
+            {
+                  "name": "Hollow Lane Play Area",
+                  "text": "A great playground in Canterbury for an active outing with the family.",
+                  "category": "family",
+                  "coords": [
+                        1.068413,
+                        51.266671
+                  ]
+            },
+            {
+                  "name": "Kingsmead Recreation Ground",
+                  "text": "A spacious play area in Canterbury, ideal for family play and fun.",
+                  "category": "family",
+                  "coords": [
+                        1.084473,
+                        51.286448
+                  ]
+            },
+            {
+                  "name": "Rivals Social",
+                  "text": "A modern amusement arcade in Canterbury that offers fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        1.069941,
+                        51.274244
+                  ]
+            },
+            {
+                  "name": "Lime Kiln Road Play Area",
+                  "text": "An inviting playground in Canterbury for families.",
+                  "category": "family",
+                  "coords": [
+                        1.075264,
+                        51.269123
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "city",
     name: { de: "Canterbury", hu: "Canterbury", ro: "Canterbury", en: "Canterbury"},
@@ -33768,6 +41193,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -7.330556,
                         55.001389
                   ]
+            },
+            {
+                  "name": "Creggan Reservoirs",
+                  "text": "Die Creggan Reservoirs sind Seen in Derry, die eine friedliche und landschaftlich reizvolle Umgebung für Naturspaziergänge bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -7.342571,
+                        55.002026
+                  ]
+            },
+            {
+                  "name": "Enagh Lough",
+                  "text": "Enagh Lough ist ein ruhiger See in Derry, ideal, um spazieren zu gehen und die wunderschöne umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264135,
+                        55.021482
+                  ]
+            },
+            {
+                  "name": "Killea Reservoir",
+                  "text": "Das Killea Reservoir ist ein malerischer See in Derry, der einen ruhigen Ort für ausgedehnte Spaziergänge am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.396377,
+                        54.992473
+                  ]
             }
       ],
       "hu": [
@@ -33849,6 +41301,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -7.330556,
                         55.001389
+                  ]
+            },
+            {
+                  "name": "Creggan Reservoirs",
+                  "text": "A Creggan Reservoirs tavak Derry városában, amelyek békés és festői környezetet kínálnak a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.342571,
+                        55.002026
+                  ]
+            },
+            {
+                  "name": "Enagh Lough",
+                  "text": "Az Enagh Lough egy nyugodt tó Derry városában, ideális sétákhoz és a gyönyörű környező táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264135,
+                        55.021482
+                  ]
+            },
+            {
+                  "name": "Killea Reservoir",
+                  "text": "A Killea Reservoir egy festői tó Derry városában, amely csendes helyet biztosít a hosszú vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.396377,
+                        54.992473
                   ]
             }
       ],
@@ -33932,6 +41411,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -7.330556,
                         55.001389
                   ]
+            },
+            {
+                  "name": "Creggan Reservoirs",
+                  "text": "Creggan Reservoirs sunt lacuri din Derry, oferind un cadru pașnic și pitoresc pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.342571,
+                        55.002026
+                  ]
+            },
+            {
+                  "name": "Enagh Lough",
+                  "text": "Enagh Lough este un lac liniștit din Derry, ideal pentru a vă plimba și a admira peisajele frumoase din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264135,
+                        55.021482
+                  ]
+            },
+            {
+                  "name": "Killea Reservoir",
+                  "text": "Killea Reservoir este un lac pitoresc situat în Derry, oferind un loc liniștit pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -7.396377,
+                        54.992473
+                  ]
             }
       ],
       "en": [
@@ -34013,6 +41519,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -7.330556,
                         55.001389
+                  ]
+            },
+            {
+                  "name": "Creggan Reservoirs",
+                  "text": "Creggan Reservoirs are lakes in Derry, offering a peaceful and scenic setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -7.342571,
+                        55.002026
+                  ]
+            },
+            {
+                  "name": "Enagh Lough",
+                  "text": "Enagh Lough is a serene lake in Derry, ideal for walking and taking in the beautiful surrounding scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -7.264135,
+                        55.021482
+                  ]
+            },
+            {
+                  "name": "Killea Reservoir",
+                  "text": "Killea Reservoir is a picturesque lake located in Derry, providing a quiet spot for extended walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.396377,
+                        54.992473
                   ]
             }
       ]
@@ -34702,6 +42235,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.153849,
                         50.836166
                   ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade ist eine Spielhalle in Brighton, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "Jurassic Beach ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
             }
       ],
       "hu": [
@@ -35340,6 +42990,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.153849,
                         50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "A(z) Globalls egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "A(z) The Level Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "A(z) Roedean Cafe & Miniature Golf Club egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "A(z) Brighton Palace Pier Arcade egy játékterem Brighton területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "A(z) Jungle Rumble Adventure Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "A(z) Pirate Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "A(z) Preston Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "A(z) The Patch egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "A(z) Jurassic Beach egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "A(z) Farm Green Playgorund egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "A(z) East Brighton Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "A(z) Dyke Road Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "A(z) Pirates Cave Adventure Golf (FunPlay Leisure) egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
                   ]
             }
       ],
@@ -35980,6 +43747,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.153849,
                         50.836166
                   ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade este o sală de jocuri arcade în Brighton, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "Jurassic Beach este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
             }
       ],
       "en": [
@@ -36618,6 +44502,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.153849,
                         50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade is an amusement arcade in Brighton, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "Jurassic Beach is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
                   ]
             }
       ]
@@ -39661,6 +47662,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.744802,
                         53.759534
                   ]
+            },
+            {
+                  "name": "The Mere",
+                  "text": "The Mere ist ein See in Preston, der mit seiner Uferlandschaft ein schönes Ziel für einen erholsamen Spaziergang darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.625888,
+                        53.806539
+                  ]
+            },
+            {
+                  "name": "The Island Lake",
+                  "text": "The Island Lake in Preston bietet Spaziergängern und Naturfreunden eine ruhige Wasserlandschaft zum Genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -2.622719,
+                        53.806984
+                  ]
+            },
+            {
+                  "name": "Number One Pit Lake",
+                  "text": "Der Number One Pit Lake ist ein malerisches Gewässer in Preston, das sich ideal für Naturbeobachtungen und entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.633685,
+                        53.77115
+                  ]
+            },
+            {
+                  "name": "Rascals Party and Play Centre",
+                  "text": "Das Rascals Party and Play Centre in Preston ist ein lebhafter Indoor-Spielplatz, der Kindern und Familien stundenlangen Spaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.678774,
+                        53.750201
+                  ]
+            },
+            {
+                  "name": "Infants Playground",
+                  "text": "Der Infants Playground in Preston ist ein eigener Spielbereich, der perfekt auf die Bedürfnisse von Kleinkindern und ihren Familien zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        -2.761325,
+                        53.766229
+                  ]
+            },
+            {
+                  "name": "Science Yard",
+                  "text": "Der Science Yard in Preston bietet ein einzigartiges Spielplatzerlebnis, bei dem Kinder gemeinsam mit ihren Eltern lernen und spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.75084,
+                        53.770216
+                  ]
+            },
+            {
+                  "name": "ENERGI",
+                  "text": "ENERGI ist ein Trampolinpark in Preston, in dem die ganze Familie gemeinsam springen und aktiven Spaß haben kann.",
+                  "category": "family",
+                  "coords": [
+                        -2.690008,
+                        53.759632
+                  ]
+            },
+            {
+                  "name": "Granny Park",
+                  "text": "Granny Park ist ein einladender Spielplatz in Preston, ideal für einen lockeren Familienausflug und unbeschwertes Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -2.758752,
+                        53.774782
+                  ]
+            },
+            {
+                  "name": "Exercise yards",
+                  "text": "Die Exercise yards in Preston dienen als Erholungsspielplatz, der aktives und gemeinsames Spielen für Kinder und Familien fördert.",
+                  "category": "family",
+                  "coords": [
+                        -2.687786,
+                        53.762527
+                  ]
             }
       ],
       "hu": [
@@ -39892,6 +47974,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.744802,
                         53.759534
+                  ]
+            },
+            {
+                  "name": "The Mere",
+                  "text": "A The Mere egy Prestonban található tó, amely vízparti tájával szép célpont egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.625888,
+                        53.806539
+                  ]
+            },
+            {
+                  "name": "The Island Lake",
+                  "text": "A prestoni The Island Lake nyugodt vízi tájat kínál a sétálni vágyóknak és a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        -2.622719,
+                        53.806984
+                  ]
+            },
+            {
+                  "name": "Number One Pit Lake",
+                  "text": "A Number One Pit Lake egy festői vízfelület Prestonban, amely ideális természetmegfigyelésre és pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -2.633685,
+                        53.77115
+                  ]
+            },
+            {
+                  "name": "Rascals Party and Play Centre",
+                  "text": "A prestoni Rascals Party and Play Centre egy nyüzsgő beltéri játszóház, amely órákig tartó szórakozást nyújt a gyerekeknek és a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.678774,
+                        53.750201
+                  ]
+            },
+            {
+                  "name": "Infants Playground",
+                  "text": "Az Infants Playground egy dedikált játszótér Prestonban, amelyet tökéletesen a kisgyermekek és családjaik igényeihez igazítottak.",
+                  "category": "family",
+                  "coords": [
+                        -2.761325,
+                        53.766229
+                  ]
+            },
+            {
+                  "name": "Science Yard",
+                  "text": "A prestoni Science Yard egyedi játszótéri élményt kínál, ahol a gyerekek a szüleikkel együtt tanulhatnak és játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.75084,
+                        53.770216
+                  ]
+            },
+            {
+                  "name": "ENERGI",
+                  "text": "Az ENERGI egy trambulinpark Prestonban, ahol az egész család ugrálhat és aktívan szórakozhat együtt.",
+                  "category": "family",
+                  "coords": [
+                        -2.690008,
+                        53.759632
+                  ]
+            },
+            {
+                  "name": "Granny Park",
+                  "text": "A Granny Park egy barátságos játszótér Prestonban, ideális egy laza családi kiránduláshoz és önfeledt szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.758752,
+                        53.774782
+                  ]
+            },
+            {
+                  "name": "Exercise yards",
+                  "text": "A prestoni Exercise yards rekreációs játszótérként szolgál, amely aktív és közös játékra ösztönzi a gyerekeket és a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -2.687786,
+                        53.762527
                   ]
             }
       ],
@@ -40125,6 +48288,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.744802,
                         53.759534
                   ]
+            },
+            {
+                  "name": "The Mere",
+                  "text": "The Mere este un lac situat în Preston, fiind cu peisajul său riveran o destinație minunată pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.625888,
+                        53.806539
+                  ]
+            },
+            {
+                  "name": "The Island Lake",
+                  "text": "The Island Lake din Preston oferă un peisaj acvatic liniștit de care se pot bucura plimbăreții și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.622719,
+                        53.806984
+                  ]
+            },
+            {
+                  "name": "Number One Pit Lake",
+                  "text": "Number One Pit Lake este un corp de apă pitoresc din Preston, ideal pentru observarea naturii și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        -2.633685,
+                        53.77115
+                  ]
+            },
+            {
+                  "name": "Rascals Party and Play Centre",
+                  "text": "Rascals Party and Play Centre din Preston este un loc de joacă interior vibrant, oferind ore de distracție pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.678774,
+                        53.750201
+                  ]
+            },
+            {
+                  "name": "Infants Playground",
+                  "text": "Infants Playground este o zonă de joacă dedicată din Preston, adaptată perfect nevoilor bebelușilor și familiilor acestora.",
+                  "category": "family",
+                  "coords": [
+                        -2.761325,
+                        53.766229
+                  ]
+            },
+            {
+                  "name": "Science Yard",
+                  "text": "Science Yard din Preston oferă o experiență unică de loc de joacă, unde copiii pot învăța și se pot juca împreună cu părinții.",
+                  "category": "family",
+                  "coords": [
+                        -2.75084,
+                        53.770216
+                  ]
+            },
+            {
+                  "name": "ENERGI",
+                  "text": "ENERGI este un parc de trambuline în Preston unde întreaga familie poate sări și se poate distra activ împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.690008,
+                        53.759632
+                  ]
+            },
+            {
+                  "name": "Granny Park",
+                  "text": "Granny Park este un loc de joacă primitor din Preston, ideal pentru o ieșire relaxantă în familie și joacă neîngrădită în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.758752,
+                        53.774782
+                  ]
+            },
+            {
+                  "name": "Exercise yards",
+                  "text": "Exercise yards din Preston servesc drept zonă de joacă recreativă care încurajează joaca activă și comună pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.687786,
+                        53.762527
+                  ]
             }
       ],
       "en": [
@@ -40356,6 +48600,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.744802,
                         53.759534
+                  ]
+            },
+            {
+                  "name": "The Mere",
+                  "text": "The Mere is a lake situated in Preston, making it a lovely destination for a relaxing waterside walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.625888,
+                        53.806539
+                  ]
+            },
+            {
+                  "name": "The Island Lake",
+                  "text": "The Island Lake in Preston offers a tranquil watery landscape for walkers and nature lovers to enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        -2.622719,
+                        53.806984
+                  ]
+            },
+            {
+                  "name": "Number One Pit Lake",
+                  "text": "Number One Pit Lake is a scenic body of water in Preston, ideal for nature observation and relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        -2.633685,
+                        53.77115
+                  ]
+            },
+            {
+                  "name": "Rascals Party and Play Centre",
+                  "text": "Rascals Party and Play Centre in Preston is a vibrant indoor playground providing hours of fun for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.678774,
+                        53.750201
+                  ]
+            },
+            {
+                  "name": "Infants Playground",
+                  "text": "Infants Playground is a dedicated play area in Preston, perfectly tailored to the needs of toddlers and their families.",
+                  "category": "family",
+                  "coords": [
+                        -2.761325,
+                        53.766229
+                  ]
+            },
+            {
+                  "name": "Science Yard",
+                  "text": "Science Yard in Preston offers a unique playground experience where kids can learn and play alongside their parents.",
+                  "category": "family",
+                  "coords": [
+                        -2.75084,
+                        53.770216
+                  ]
+            },
+            {
+                  "name": "ENERGI",
+                  "text": "ENERGI is a trampoline park in Preston where the whole family can jump and have active fun together.",
+                  "category": "family",
+                  "coords": [
+                        -2.690008,
+                        53.759632
+                  ]
+            },
+            {
+                  "name": "Granny Park",
+                  "text": "Granny Park is a welcoming playground in Preston, ideal for a casual family outing and carefree outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -2.758752,
+                        53.774782
+                  ]
+            },
+            {
+                  "name": "Exercise yards",
+                  "text": "Exercise yards in Preston serve as a recreational playground area encouraging active and shared play for kids and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.687786,
+                        53.762527
                   ]
             }
       ]
@@ -41007,6 +49332,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.386333,
                         54.908283
                   ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
             }
       ],
       "hu": [
@@ -41607,6 +50031,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.386333,
                         54.908283
+                  ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "A(z) Wader Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "A(z) Roker Park Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "A(z) Saline lagoon egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "A(z) Model Boating Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "A(z) Harry’s Game Shack egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "A(z) Shore Family Entertainment egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "A(z) Seldon’s Leisureworld egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "A(z) Hudson Road Playpark egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "A(z) Hollycarrside Play Park egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "A(z) Carley Hill Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "A(z) Spelter Works Road Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
                   ]
             }
       ],
@@ -42209,6 +50732,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.386333,
                         54.908283
                   ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
             }
       ],
       "en": [
@@ -42810,6 +51432,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.386333,
                         54.908283
                   ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
             }
       ]
 }
@@ -43141,6 +51862,150 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.24916,
                         51.86852
                   ]
+            },
+            {
+                  "name": "Witcombe Reservoirs",
+                  "text": "Ein schöner See in Gloucester, der sich perfekt für erholsame Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.138231,
+                        51.831436
+                  ]
+            },
+            {
+                  "name": "Saintbridge Balancing Pond",
+                  "text": "Ein ruhiges Gewässer in Gloucester, das zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.21918,
+                        51.848295
+                  ]
+            },
+            {
+                  "name": "Raffles Amusements",
+                  "text": "Eine unterhaltsame Spielhalle in Gloucester für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.24401,
+                        51.866374
+                  ]
+            },
+            {
+                  "name": "White City Adventure Playground",
+                  "text": "Ein Abenteuerspielplatz in Gloucester, auf dem Kinder spannende Dinge entdecken können.",
+                  "category": "family",
+                  "coords": [
+                        -2.236918,
+                        51.846389
+                  ]
+            },
+            {
+                  "name": "The Oaks - Monk Meadow",
+                  "text": "Ein schöner Spielplatz in Gloucester für entspannte Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.203005,
+                        51.852707
+                  ]
+            },
+            {
+                  "name": "Clock Tower Play Park",
+                  "text": "Ein beliebter Spielplatz in Gloucester für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.204455,
+                        51.848693
+                  ]
+            },
+            {
+                  "name": "Greenways Play Area",
+                  "text": "Ein toller Ort für Familien in Gloucester, um gemeinsam draußen zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.199232,
+                        51.85996
+                  ]
+            },
+            {
+                  "name": "Jumptastic",
+                  "text": "Dieser Trampolinpark in Gloucester sorgt für jede Menge Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.218011,
+                        51.857476
+                  ]
+            },
+            {
+                  "name": "King George V Playing Fields Playground",
+                  "text": "Ein weitläufiger Spielplatz in Gloucester mit Platz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.194832,
+                        51.85154
+                  ]
+            },
+            {
+                  "name": "Scott Avenue Play Area",
+                  "text": "Ein familienfreundlicher Spielbereich in Gloucester für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.257118,
+                        51.839149
+                  ]
+            },
+            {
+                  "name": "Meadow View Play Area",
+                  "text": "Ein toller Spielplatz in Gloucester, ideal für einen Ausflug mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -2.227717,
+                        51.885327
+                  ]
+            },
+            {
+                  "name": "Glevum Way Park playground",
+                  "text": "Ein schöner Spielplatz in Gloucester, auf dem Familien viel Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        -2.203197,
+                        51.842628
+                  ]
+            },
+            {
+                  "name": "Earls Park Toddler Play Area",
+                  "text": "Ein sicherer und spaßiger Spielbereich in Gloucester speziell für Kleinkinder und ihre Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.257697,
+                        51.845303
+                  ]
+            },
+            {
+                  "name": "Earls Park Junior Play Area",
+                  "text": "Ein Spielbereich in Gloucester, der speziell für ältere Kinder gestaltet wurde.",
+                  "category": "family",
+                  "coords": [
+                        -2.257848,
+                        51.846715
+                  ]
+            },
+            {
+                  "name": "AirHop",
+                  "text": "Ein spannender Trampolinpark in Gloucester für sportliche Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -2.214658,
+                        51.860234
+                  ]
+            },
+            {
+                  "name": "Longford Park",
+                  "text": "Ein toller Spielplatz im Park in Gloucester für schöne Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.233408,
+                        51.883295
+                  ]
             }
       ],
       "hu": [
@@ -43422,6 +52287,150 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.24916,
                         51.86852
+                  ]
+            },
+            {
+                  "name": "Witcombe Reservoirs",
+                  "text": "Gyönyörű tó Gloucesterben, amely tökéletes a pihentető természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.138231,
+                        51.831436
+                  ]
+            },
+            {
+                  "name": "Saintbridge Balancing Pond",
+                  "text": "Csendes víztömeg Gloucesterben, amely sétákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        -2.21918,
+                        51.848295
+                  ]
+            },
+            {
+                  "name": "Raffles Amusements",
+                  "text": "Szórakoztató játékterem Gloucesterben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.24401,
+                        51.866374
+                  ]
+            },
+            {
+                  "name": "White City Adventure Playground",
+                  "text": "Kalandjátszótér Gloucesterben, ahol a gyerekek izgalmas dolgokat fedezhetnek fel.",
+                  "category": "family",
+                  "coords": [
+                        -2.236918,
+                        51.846389
+                  ]
+            },
+            {
+                  "name": "The Oaks - Monk Meadow",
+                  "text": "Szép játszótér Gloucesterben a családdal eltöltött pihentető órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.203005,
+                        51.852707
+                  ]
+            },
+            {
+                  "name": "Clock Tower Play Park",
+                  "text": "Népszerű játszótér Gloucesterben gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.204455,
+                        51.848693
+                  ]
+            },
+            {
+                  "name": "Greenways Play Area",
+                  "text": "Nagyszerű hely a családok számára Gloucesterben, hogy közösen játsszanak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        -2.199232,
+                        51.85996
+                  ]
+            },
+            {
+                  "name": "Jumptastic",
+                  "text": "Ez a gloucesteri trambulinpark rengeteg szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.218011,
+                        51.857476
+                  ]
+            },
+            {
+                  "name": "King George V Playing Fields Playground",
+                  "text": "Tágas játszótér Gloucesterben, hellyel a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.194832,
+                        51.85154
+                  ]
+            },
+            {
+                  "name": "Scott Avenue Play Area",
+                  "text": "Családbarát játszótér Gloucesterben gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.257118,
+                        51.839149
+                  ]
+            },
+            {
+                  "name": "Meadow View Play Area",
+                  "text": "Nagyszerű játszótér Gloucesterben, ideális egy kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        -2.227717,
+                        51.885327
+                  ]
+            },
+            {
+                  "name": "Glevum Way Park playground",
+                  "text": "Szép játszótér Gloucesterben, ahol a családok remekül érezhetik magukat.",
+                  "category": "family",
+                  "coords": [
+                        -2.203197,
+                        51.842628
+                  ]
+            },
+            {
+                  "name": "Earls Park Toddler Play Area",
+                  "text": "Biztonságos és szórakoztató játszótér Gloucesterben kifejezetten kisgyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.257697,
+                        51.845303
+                  ]
+            },
+            {
+                  "name": "Earls Park Junior Play Area",
+                  "text": "Egy játszótér Gloucesterben, amelyet kifejezetten idősebb gyermekek számára terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -2.257848,
+                        51.846715
+                  ]
+            },
+            {
+                  "name": "AirHop",
+                  "text": "Izgalmas trambulinpark Gloucesterben sportos családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -2.214658,
+                        51.860234
+                  ]
+            },
+            {
+                  "name": "Longford Park",
+                  "text": "Nagyszerű játszótér a parkban Gloucesterben kellemes családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.233408,
+                        51.883295
                   ]
             }
       ],
@@ -43705,6 +52714,150 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.24916,
                         51.86852
                   ]
+            },
+            {
+                  "name": "Witcombe Reservoirs",
+                  "text": "Un lac frumos în Gloucester, perfect pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.138231,
+                        51.831436
+                  ]
+            },
+            {
+                  "name": "Saintbridge Balancing Pond",
+                  "text": "Un corp de apă liniștit în Gloucester, care te invită la plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -2.21918,
+                        51.848295
+                  ]
+            },
+            {
+                  "name": "Raffles Amusements",
+                  "text": "O sală de jocuri distractivă în Gloucester pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.24401,
+                        51.866374
+                  ]
+            },
+            {
+                  "name": "White City Adventure Playground",
+                  "text": "Un loc de joacă de aventură în Gloucester unde copiii pot descoperi lucruri interesante.",
+                  "category": "family",
+                  "coords": [
+                        -2.236918,
+                        51.846389
+                  ]
+            },
+            {
+                  "name": "The Oaks - Monk Meadow",
+                  "text": "Un loc de joacă frumos în Gloucester pentru ore de relaxare alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.203005,
+                        51.852707
+                  ]
+            },
+            {
+                  "name": "Clock Tower Play Park",
+                  "text": "Un loc de joacă popular în Gloucester pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.204455,
+                        51.848693
+                  ]
+            },
+            {
+                  "name": "Greenways Play Area",
+                  "text": "Un loc minunat pentru ca familiile din Gloucester să se joace împreună afară.",
+                  "category": "family",
+                  "coords": [
+                        -2.199232,
+                        51.85996
+                  ]
+            },
+            {
+                  "name": "Jumptastic",
+                  "text": "Acest parc de trambuline din Gloucester oferă multă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.218011,
+                        51.857476
+                  ]
+            },
+            {
+                  "name": "King George V Playing Fields Playground",
+                  "text": "Un loc de joacă spațios în Gloucester, cu loc pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.194832,
+                        51.85154
+                  ]
+            },
+            {
+                  "name": "Scott Avenue Play Area",
+                  "text": "O zonă de joacă potrivită pentru familii în Gloucester pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.257118,
+                        51.839149
+                  ]
+            },
+            {
+                  "name": "Meadow View Play Area",
+                  "text": "Un loc de joacă minunat în Gloucester, ideal pentru o excursie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -2.227717,
+                        51.885327
+                  ]
+            },
+            {
+                  "name": "Glevum Way Park playground",
+                  "text": "Un loc de joacă frumos în Gloucester unde familiile se pot distra de minune.",
+                  "category": "family",
+                  "coords": [
+                        -2.203197,
+                        51.842628
+                  ]
+            },
+            {
+                  "name": "Earls Park Toddler Play Area",
+                  "text": "O zonă de joacă sigură și distractivă în Gloucester special pentru copiii mici și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -2.257697,
+                        51.845303
+                  ]
+            },
+            {
+                  "name": "Earls Park Junior Play Area",
+                  "text": "O zonă de joacă în Gloucester concepută special pentru copiii mai mari.",
+                  "category": "family",
+                  "coords": [
+                        -2.257848,
+                        51.846715
+                  ]
+            },
+            {
+                  "name": "AirHop",
+                  "text": "Un parc de trambuline interesant în Gloucester pentru activități sportive de familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.214658,
+                        51.860234
+                  ]
+            },
+            {
+                  "name": "Longford Park",
+                  "text": "Un loc de joacă minunat în parcul din Gloucester pentru excursii plăcute în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.233408,
+                        51.883295
+                  ]
             }
       ],
       "en": [
@@ -43986,6 +53139,150 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.24916,
                         51.86852
+                  ]
+            },
+            {
+                  "name": "Witcombe Reservoirs",
+                  "text": "A beautiful lake in Gloucester, perfect for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -2.138231,
+                        51.831436
+                  ]
+            },
+            {
+                  "name": "Saintbridge Balancing Pond",
+                  "text": "A quiet body of water in Gloucester that invites to walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -2.21918,
+                        51.848295
+                  ]
+            },
+            {
+                  "name": "Raffles Amusements",
+                  "text": "An entertaining amusement arcade in Gloucester for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.24401,
+                        51.866374
+                  ]
+            },
+            {
+                  "name": "White City Adventure Playground",
+                  "text": "An adventure playground in Gloucester where children can discover exciting things.",
+                  "category": "family",
+                  "coords": [
+                        -2.236918,
+                        51.846389
+                  ]
+            },
+            {
+                  "name": "The Oaks - Monk Meadow",
+                  "text": "A nice playground in Gloucester for relaxing hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        -2.203005,
+                        51.852707
+                  ]
+            },
+            {
+                  "name": "Clock Tower Play Park",
+                  "text": "A popular playground in Gloucester for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.204455,
+                        51.848693
+                  ]
+            },
+            {
+                  "name": "Greenways Play Area",
+                  "text": "A great place for families in Gloucester to play outside together.",
+                  "category": "family",
+                  "coords": [
+                        -2.199232,
+                        51.85996
+                  ]
+            },
+            {
+                  "name": "Jumptastic",
+                  "text": "This trampoline park in Gloucester provides plenty of fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.218011,
+                        51.857476
+                  ]
+            },
+            {
+                  "name": "King George V Playing Fields Playground",
+                  "text": "A spacious playground in Gloucester with room for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.194832,
+                        51.85154
+                  ]
+            },
+            {
+                  "name": "Scott Avenue Play Area",
+                  "text": "A family-friendly play area in Gloucester for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.257118,
+                        51.839149
+                  ]
+            },
+            {
+                  "name": "Meadow View Play Area",
+                  "text": "A great playground in Gloucester, ideal for a trip with the kids.",
+                  "category": "family",
+                  "coords": [
+                        -2.227717,
+                        51.885327
+                  ]
+            },
+            {
+                  "name": "Glevum Way Park playground",
+                  "text": "A nice playground in Gloucester where families can have a lot of fun.",
+                  "category": "family",
+                  "coords": [
+                        -2.203197,
+                        51.842628
+                  ]
+            },
+            {
+                  "name": "Earls Park Toddler Play Area",
+                  "text": "A safe and fun play area in Gloucester especially for toddlers and their families.",
+                  "category": "family",
+                  "coords": [
+                        -2.257697,
+                        51.845303
+                  ]
+            },
+            {
+                  "name": "Earls Park Junior Play Area",
+                  "text": "A play area in Gloucester specifically designed for older children.",
+                  "category": "family",
+                  "coords": [
+                        -2.257848,
+                        51.846715
+                  ]
+            },
+            {
+                  "name": "AirHop",
+                  "text": "An exciting trampoline park in Gloucester for sporty family activities.",
+                  "category": "family",
+                  "coords": [
+                        -2.214658,
+                        51.860234
+                  ]
+            },
+            {
+                  "name": "Longford Park",
+                  "text": "A great playground in the park in Gloucester for pleasant family outings.",
+                  "category": "family",
+                  "coords": [
+                        -2.233408,
+                        51.883295
                   ]
             }
       ]
@@ -44593,6 +53890,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.529582,
                         50.719174
                   ]
+            },
+            {
+                  "name": "iBounce Trampoline Park",
+                  "text": "Der iBounce Trampolinpark in Exeter ist eine aufregende Indoor-Attraktion, die Familien energiegeladene Sprungaktivitäten garantiert.",
+                  "category": "family",
+                  "coords": [
+                        -3.529674,
+                        50.706217
+                  ]
+            },
+            {
+                  "name": "Boneyard",
+                  "text": "Boneyard ist eine Spielhalle in Exeter, die eine Vielzahl von interaktiven Spielen für einen lustigen Familienausflug bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.525723,
+                        50.725893
+                  ]
+            },
+            {
+                  "name": "Lewis Crescent Play Area",
+                  "text": "Die Lewis Crescent Play Area ist ein lokaler Spielplatz in Exeter, auf dem Kinder in sicherer Umgebung mit ihren Familien draußen Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        -3.478686,
+                        50.710255
+                  ]
+            },
+            {
+                  "name": "Salmonpool Lane Play Area",
+                  "text": "Die Salmonpool Lane Play Area in Exeter bietet eine angenehme Umgebung für die Spielzeit von Kindern und die Erholung der Eltern.",
+                  "category": "family",
+                  "coords": [
+                        -3.514592,
+                        50.708338
+                  ]
+            },
+            {
+                  "name": "Priory Road Park Playground",
+                  "text": "Der Priory Road Park Playground ist ein gut ausgestatteter Spielplatz in Exeter, der bestens für die Familienerholung geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        -3.508683,
+                        50.732638
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Playground",
+                  "text": "Der Stoke Hill Playground in Exeter ist ein lebhafter Ort, an dem Familien mit Kindern gemeinsam rutschen, schaukeln und spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -3.512312,
+                        50.73792
+                  ]
+            },
+            {
+                  "name": "Widgery Road Play Area",
+                  "text": "Die Widgery Road Play Area ist ein Nachbarschaftsspielplatz in Exeter, der sich perfekt für Familien mit kleinen Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        -3.499179,
+                        50.732106
+                  ]
+            },
+            {
+                  "name": "Mulberry Close Play Area",
+                  "text": "Familien in Exeter bringen ihre Kinder gerne in die Mulberry Close Play Area, um dort gemeinsam den täglichen Spaß im Freien zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        -3.489853,
+                        50.726329
+                  ]
+            },
+            {
+                  "name": "Arena Park",
+                  "text": "Der Arena Park verfügt über einen Spielplatz in Exeter, der weite Räume für Kinderspiele und entspannte Familienaktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.490512,
+                        50.739246
+                  ]
+            },
+            {
+                  "name": "Summerway Park Playground",
+                  "text": "Der Summerway Park Playground in Exeter ist eine aktive Spielzone, die Familien mit verschiedenen Gerüsten für Kinder anlockt.",
+                  "category": "family",
+                  "coords": [
+                        -3.487409,
+                        50.734378
+                  ]
+            },
+            {
+                  "name": "Addison Close Play Area",
+                  "text": "Die Addison Close Play Area befindet sich in Exeter und bietet Familien einen angenehmen lokalen Raum, in dem Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -3.556635,
+                        50.723929
+                  ]
+            },
+            {
+                  "name": "Wilton Way Play Area",
+                  "text": "Die Wilton Way Play Area in Exeter ist ein kinderfreundlicher Außenbereich, der sich hervorragend als Treffpunkt für Familien aus der Gemeinde eignet.",
+                  "category": "family",
+                  "coords": [
+                        -3.478898,
+                        50.724005
+                  ]
+            },
+            {
+                  "name": "Looe Road Play Area",
+                  "text": "Die Looe Road Play Area ist ein Spielplatz in Exeter, der Familien anregt, gemeinsam Zeit bei der Erholung im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        -3.541838,
+                        50.727228
+                  ]
             }
       ],
       "hu": [
@@ -45149,6 +54563,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.529582,
                         50.719174
+                  ]
+            },
+            {
+                  "name": "iBounce Trampoline Park",
+                  "text": "Az exeteri iBounce Trambulinpark egy izgalmas beltéri attrakció, amely energiával teli ugrálást garantál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.529674,
+                        50.706217
+                  ]
+            },
+            {
+                  "name": "Boneyard",
+                  "text": "A Boneyard egy játékterem Exeterben, amely különféle interaktív játékokat kínál egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.525723,
+                        50.725893
+                  ]
+            },
+            {
+                  "name": "Lewis Crescent Play Area",
+                  "text": "A Lewis Crescent Play Area egy helyi játszótér Exeterben, ahol a gyerekek biztonságos környezetben szórakozhatnak a családjukkal a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        -3.478686,
+                        50.710255
+                  ]
+            },
+            {
+                  "name": "Salmonpool Lane Play Area",
+                  "text": "Az exeteri Salmonpool Lane Play Area kellemes környezetet kínál a gyerekek játékához és a szülők pihenéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -3.514592,
+                        50.708338
+                  ]
+            },
+            {
+                  "name": "Priory Road Park Playground",
+                  "text": "A Priory Road Park Playground egy jól felszerelt játszótér Exeterben, amely kiválóan alkalmas a családi kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        -3.508683,
+                        50.732638
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Playground",
+                  "text": "A Stoke Hill Playground Exeterben egy nyüzsgő hely, ahol a kisgyermekes családok együtt csúszdázhatnak, hintázhatnak és játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.512312,
+                        50.73792
+                  ]
+            },
+            {
+                  "name": "Widgery Road Play Area",
+                  "text": "A Widgery Road Play Area egy környékbeli játszótér Exeterben, amely tökéletes a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.499179,
+                        50.732106
+                  ]
+            },
+            {
+                  "name": "Mulberry Close Play Area",
+                  "text": "Az exeteri családok szívesen viszik gyermekeiket a Mulberry Close Play Area játszótérre, hogy együtt élvezzék a mindennapi szabadtéri szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        -3.489853,
+                        50.726329
+                  ]
+            },
+            {
+                  "name": "Arena Park",
+                  "text": "Az Arena Park játszótérrel is rendelkezik Exeterben, tágas teret biztosítva a gyermekjátékokhoz és a pihentető családi programokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.490512,
+                        50.739246
+                  ]
+            },
+            {
+                  "name": "Summerway Park Playground",
+                  "text": "A Summerway Park Playground Exeterben egy aktív játékzóna, amely különféle gyermekeknek szánt szerkezetekkel vonzza a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -3.487409,
+                        50.734378
+                  ]
+            },
+            {
+                  "name": "Addison Close Play Area",
+                  "text": "Az Addison Close Play Area Exeterben található, és kellemes helyi teret biztosít a családoknak, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.556635,
+                        50.723929
+                  ]
+            },
+            {
+                  "name": "Wilton Way Play Area",
+                  "text": "A Wilton Way Play Area Exeterben egy gyermekbarát szabadtéri terület, amely kiváló találkozóhely a környékbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.478898,
+                        50.724005
+                  ]
+            },
+            {
+                  "name": "Looe Road Play Area",
+                  "text": "A Looe Road Play Area egy játszótér Exeterben, amely arra ösztönzi a családokat, hogy együtt töltsék az időt a szabadtéri rekreáció során.",
+                  "category": "family",
+                  "coords": [
+                        -3.541838,
+                        50.727228
                   ]
             }
       ],
@@ -45707,6 +55238,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.529582,
                         50.719174
                   ]
+            },
+            {
+                  "name": "iBounce Trampoline Park",
+                  "text": "iBounce Trampoline Park din Exeter este o atracție interioară captivantă care garantează activități de sărituri pline de energie pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.529674,
+                        50.706217
+                  ]
+            },
+            {
+                  "name": "Boneyard",
+                  "text": "Boneyard este o sală de jocuri mecanice în Exeter, oferind o varietate de jocuri interactive pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.525723,
+                        50.725893
+                  ]
+            },
+            {
+                  "name": "Lewis Crescent Play Area",
+                  "text": "Lewis Crescent Play Area este un loc de joacă local din Exeter unde copiii se pot distra în aer liber împreună cu familiile lor într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        -3.478686,
+                        50.710255
+                  ]
+            },
+            {
+                  "name": "Salmonpool Lane Play Area",
+                  "text": "Salmonpool Lane Play Area din Exeter oferă un mediu plăcut pentru timpul de joacă al copiilor și relaxarea părinților.",
+                  "category": "family",
+                  "coords": [
+                        -3.514592,
+                        50.708338
+                  ]
+            },
+            {
+                  "name": "Priory Road Park Playground",
+                  "text": "Priory Road Park Playground este o zonă de joacă bine echipată din Exeter, foarte potrivită pentru recreerea în familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.508683,
+                        50.732638
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Playground",
+                  "text": "Stoke Hill Playground din Exeter este un loc vibrant unde familiile cu copii se pot da pe tobogan, se pot leagăna și se pot juca împreună.",
+                  "category": "family",
+                  "coords": [
+                        -3.512312,
+                        50.73792
+                  ]
+            },
+            {
+                  "name": "Widgery Road Play Area",
+                  "text": "Widgery Road Play Area este un loc de joacă de cartier în Exeter, perfect pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -3.499179,
+                        50.732106
+                  ]
+            },
+            {
+                  "name": "Mulberry Close Play Area",
+                  "text": "Familiile din Exeter își aduc cu plăcere copiii la Mulberry Close Play Area pentru a se bucura împreună de distracția zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -3.489853,
+                        50.726329
+                  ]
+            },
+            {
+                  "name": "Arena Park",
+                  "text": "Arena Park include un loc de joacă în Exeter, oferind spații largi pentru jocurile copiilor și activități relaxante de familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.490512,
+                        50.739246
+                  ]
+            },
+            {
+                  "name": "Summerway Park Playground",
+                  "text": "Summerway Park Playground din Exeter este o zonă activă de joacă ce atrage familiile cu diverse structuri pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.487409,
+                        50.734378
+                  ]
+            },
+            {
+                  "name": "Addison Close Play Area",
+                  "text": "Addison Close Play Area este situată în Exeter, oferind familiilor un spațiu local plăcut unde copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        -3.556635,
+                        50.723929
+                  ]
+            },
+            {
+                  "name": "Wilton Way Play Area",
+                  "text": "Wilton Way Play Area din Exeter este un spațiu în aer liber prietenos pentru copii, minunat ca punct de întâlnire pentru familiile din comunitate.",
+                  "category": "family",
+                  "coords": [
+                        -3.478898,
+                        50.724005
+                  ]
+            },
+            {
+                  "name": "Looe Road Play Area",
+                  "text": "Looe Road Play Area este un loc de joacă în Exeter care încurajează familiile să petreacă timp împreună recreându-se în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -3.541838,
+                        50.727228
+                  ]
             }
       ],
       "en": [
@@ -46264,6 +55912,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.529582,
                         50.719174
                   ]
+            },
+            {
+                  "name": "iBounce Trampoline Park",
+                  "text": "iBounce Trampoline Park in Exeter is an exciting indoor attraction guaranteeing high-energy jumping activities for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.529674,
+                        50.706217
+                  ]
+            },
+            {
+                  "name": "Boneyard",
+                  "text": "Boneyard is an amusement arcade in Exeter offering a variety of interactive games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        -3.525723,
+                        50.725893
+                  ]
+            },
+            {
+                  "name": "Lewis Crescent Play Area",
+                  "text": "Lewis Crescent Play Area is a local playground in Exeter where children can have fun outdoors with their families in a safe setting.",
+                  "category": "family",
+                  "coords": [
+                        -3.478686,
+                        50.710255
+                  ]
+            },
+            {
+                  "name": "Salmonpool Lane Play Area",
+                  "text": "Salmonpool Lane Play Area in Exeter offers a pleasant environment for children's playtime and parents' relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -3.514592,
+                        50.708338
+                  ]
+            },
+            {
+                  "name": "Priory Road Park Playground",
+                  "text": "Priory Road Park Playground is a well-equipped play area in Exeter highly suited for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        -3.508683,
+                        50.732638
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Playground",
+                  "text": "Stoke Hill Playground in Exeter is a vibrant spot where families with children can slide, swing, and play together.",
+                  "category": "family",
+                  "coords": [
+                        -3.512312,
+                        50.73792
+                  ]
+            },
+            {
+                  "name": "Widgery Road Play Area",
+                  "text": "Widgery Road Play Area is a neighborhood playground in Exeter perfect for families with young kids.",
+                  "category": "family",
+                  "coords": [
+                        -3.499179,
+                        50.732106
+                  ]
+            },
+            {
+                  "name": "Mulberry Close Play Area",
+                  "text": "Families in Exeter love bringing their children to Mulberry Close Play Area to enjoy daily outdoor fun together.",
+                  "category": "family",
+                  "coords": [
+                        -3.489853,
+                        50.726329
+                  ]
+            },
+            {
+                  "name": "Arena Park",
+                  "text": "Arena Park features a playground in Exeter, offering wide spaces for children's games and relaxed family activities.",
+                  "category": "family",
+                  "coords": [
+                        -3.490512,
+                        50.739246
+                  ]
+            },
+            {
+                  "name": "Summerway Park Playground",
+                  "text": "Summerway Park Playground in Exeter is an active play zone attracting families with various structures for kids.",
+                  "category": "family",
+                  "coords": [
+                        -3.487409,
+                        50.734378
+                  ]
+            },
+            {
+                  "name": "Addison Close Play Area",
+                  "text": "Addison Close Play Area is situated in Exeter, providing families with a pleasant local space where children can play.",
+                  "category": "family",
+                  "coords": [
+                        -3.556635,
+                        50.723929
+                  ]
+            },
+            {
+                  "name": "Wilton Way Play Area",
+                  "text": "Wilton Way Play Area in Exeter is a child-friendly outdoor space great as a gathering spot for community families.",
+                  "category": "family",
+                  "coords": [
+                        -3.478898,
+                        50.724005
+                  ]
+            },
+            {
+                  "name": "Looe Road Play Area",
+                  "text": "Looe Road Play Area is a playground in Exeter that encourages families to spend time together during outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        -3.541838,
+                        50.727228
+                  ]
             }
       ]
 }
@@ -46395,6 +56160,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.93414,
                         54.899392
                   ]
+            },
+            {
+                  "name": "Clark's Field",
+                  "text": "Clark's Field ist ein Spielplatz in Carlisle, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.938686,
+                        54.907767
+                  ]
             }
       ],
       "hu": [
@@ -46476,6 +56250,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.93414,
                         54.899392
+                  ]
+            },
+            {
+                  "name": "Clark's Field",
+                  "text": "A(z) Clark's Field egy játszótér Carlisle területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.938686,
+                        54.907767
                   ]
             }
       ],
@@ -46559,6 +56342,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.93414,
                         54.899392
                   ]
+            },
+            {
+                  "name": "Clark's Field",
+                  "text": "Clark's Field este un loc de joacă în Carlisle, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.938686,
+                        54.907767
+                  ]
             }
       ],
       "en": [
@@ -46640,6 +56432,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.93414,
                         54.899392
+                  ]
+            },
+            {
+                  "name": "Clark's Field",
+                  "text": "Clark's Field is a playground in Carlisle, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.938686,
+                        54.907767
                   ]
             }
       ]
@@ -47329,6 +57130,159 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.303519,
                         52.640277
                   ]
+            },
+            {
+                  "name": "Whitlingham Little Broad",
+                  "text": "Ein schöner See in Norwich, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.324062,
+                        52.620287
+                  ]
+            },
+            {
+                  "name": "Swan Pit",
+                  "text": "Ein ruhiger See in Norwich, ideal für kleine Auszeiten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        1.30528,
+                        52.633997
+                  ]
+            },
+            {
+                  "name": "Stanninghall Lakes",
+                  "text": "Eine idyllische Seenlandschaft in Norwich, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        1.333074,
+                        52.69575
+                  ]
+            },
+            {
+                  "name": "Costessey Pits",
+                  "text": "Ein interessantes Gewässer in Norwich, ideal für friedliche Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        1.200947,
+                        52.671727
+                  ]
+            },
+            {
+                  "name": "Vinegar Pond",
+                  "text": "Ein kleiner See in Norwich in ruhiger Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.311127,
+                        52.645803
+                  ]
+            },
+            {
+                  "name": "University of East Anglia Broad",
+                  "text": "Ein malerischer See in Norwich, der zu Spaziergängen auf dem Campusgelände einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.239799,
+                        52.61809
+                  ]
+            },
+            {
+                  "name": "Whitlingham Great Broad",
+                  "text": "Whitlingham Great Broad ist ein See in Norwich, ideal zum Spazierengehen und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.33652,
+                        52.622812
+                  ]
+            },
+            {
+                  "name": "Eaton Crazy Golf",
+                  "text": "Eaton Crazy Golf in Norwich bietet ein unterhaltsames Minigolferlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.259743,
+                        52.621162
+                  ]
+            },
+            {
+                  "name": "The Jenny Lind Play Ground for Children",
+                  "text": "The Jenny Lind Play Ground for Children ist ein Spielplatz in Norwich, auf dem Kinder spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        1.28287,
+                        52.624089
+                  ]
+            },
+            {
+                  "name": "Eaton Green Playground",
+                  "text": "Der Eaton Green Playground in Norwich bietet einen tollen Spielbereich im Freien für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.263252,
+                        52.606009
+                  ]
+            },
+            {
+                  "name": "Enfield Road Play Area",
+                  "text": "Die Enfield Road Play Area in Norwich ist eine lokale Familienattraktion, ideal für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        1.240594,
+                        52.632811
+                  ]
+            },
+            {
+                  "name": "Gunton Skateboard Park",
+                  "text": "Der Gunton Skateboard Park in Norwich ist ein toller Erholungsort im Freien für aktive Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.244237,
+                        52.643426
+                  ]
+            },
+            {
+                  "name": "Bedlam Soft Play Area",
+                  "text": "Die Bedlam Soft Play Area in Norwich bietet eine sichere und unterhaltsame Spielumgebung für junge Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.297541,
+                        52.627594
+                  ]
+            },
+            {
+                  "name": "Lower Playground",
+                  "text": "Der Lower Playground in Norwich ist ein familienfreundlicher Außenbereich, in dem Kinder aktiv spielen können.",
+                  "category": "family",
+                  "coords": [
+                        1.296967,
+                        52.623519
+                  ]
+            },
+            {
+                  "name": "Grace Park Playground 1",
+                  "text": "Der Grace Park Playground 1 ist ein familienfreundlicher Spielplatz in Norwich.",
+                  "category": "family",
+                  "coords": [
+                        1.301307,
+                        52.616421
+                  ]
+            },
+            {
+                  "name": "Stirling Road Play Area",
+                  "text": "Die Stirling Road Play Area bietet eine tolle Spielplatzumgebung für Familien, die Norwich besuchen.",
+                  "category": "family",
+                  "coords": [
+                        1.285707,
+                        52.664932
+                  ]
+            },
+            {
+                  "name": "Heath Road Playground",
+                  "text": "Der Heath Road Playground in Norwich ist ein großartiger Ort für Kinder, um sich gemeinsam mit der Familie auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        1.293619,
+                        52.640723
+                  ]
             }
       ],
       "hu": [
@@ -47967,6 +57921,159 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         1.303519,
                         52.640277
+                  ]
+            },
+            {
+                  "name": "Whitlingham Little Broad",
+                  "text": "Gyönyörű tó Norwichban, amely pihentető sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        1.324062,
+                        52.620287
+                  ]
+            },
+            {
+                  "name": "Swan Pit",
+                  "text": "Csendes tó Norwichban, ideális egy kis szünetre a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        1.30528,
+                        52.633997
+                  ]
+            },
+            {
+                  "name": "Stanninghall Lakes",
+                  "text": "Idilli tóvidék Norwichban, tökéletes a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        1.333074,
+                        52.69575
+                  ]
+            },
+            {
+                  "name": "Costessey Pits",
+                  "text": "Érdekes víztömeg Norwichban, ideális békés sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.200947,
+                        52.671727
+                  ]
+            },
+            {
+                  "name": "Vinegar Pond",
+                  "text": "Egy kis tó Norwichban, csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.311127,
+                        52.645803
+                  ]
+            },
+            {
+                  "name": "University of East Anglia Broad",
+                  "text": "Festői tó Norwichban, amely sétára hív az egyetem területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.239799,
+                        52.61809
+                  ]
+            },
+            {
+                  "name": "Whitlingham Great Broad",
+                  "text": "A Whitlingham Great Broad egy tó Norwichban, amely ideális sétákhoz és a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.33652,
+                        52.622812
+                  ]
+            },
+            {
+                  "name": "Eaton Crazy Golf",
+                  "text": "A norwichi Eaton Crazy Golf szórakoztató minigolf élményt kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        1.259743,
+                        52.621162
+                  ]
+            },
+            {
+                  "name": "The Jenny Lind Play Ground for Children",
+                  "text": "A The Jenny Lind Play Ground for Children egy játszótér Norwichban, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        1.28287,
+                        52.624089
+                  ]
+            },
+            {
+                  "name": "Eaton Green Playground",
+                  "text": "A norwichi Eaton Green Playground nagyszerű szabadtéri játszóteret biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.263252,
+                        52.606009
+                  ]
+            },
+            {
+                  "name": "Enfield Road Play Area",
+                  "text": "A norwichi Enfield Road Play Area egy helyi családi látványosság, amely tökéletes az aktív gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        1.240594,
+                        52.632811
+                  ]
+            },
+            {
+                  "name": "Gunton Skateboard Park",
+                  "text": "A norwichi Gunton Skateboard Park egy szabadtéri rekreációs terület, amely tökéletes aktív gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.244237,
+                        52.643426
+                  ]
+            },
+            {
+                  "name": "Bedlam Soft Play Area",
+                  "text": "A norwichi Bedlam Soft Play Area biztonságos és szórakoztató játékkörnyezetet kínál a fiatal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.297541,
+                        52.627594
+                  ]
+            },
+            {
+                  "name": "Lower Playground",
+                  "text": "A norwichi Lower Playground egy családbarát szabadtéri terület, ahol a gyerekek élvezhetik az aktív játékot.",
+                  "category": "family",
+                  "coords": [
+                        1.296967,
+                        52.623519
+                  ]
+            },
+            {
+                  "name": "Grace Park Playground 1",
+                  "text": "A Grace Park Playground 1 egy családbarát játszótér Norwichban.",
+                  "category": "family",
+                  "coords": [
+                        1.301307,
+                        52.616421
+                  ]
+            },
+            {
+                  "name": "Stirling Road Play Area",
+                  "text": "A Stirling Road Play Area nagyszerű játszóteret biztosít a Norwichba látogató családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.285707,
+                        52.664932
+                  ]
+            },
+            {
+                  "name": "Heath Road Playground",
+                  "text": "A norwichi Heath Road Playground nagyszerű hely a gyerekek és a család számára, hogy levezessék az energiájukat.",
+                  "category": "family",
+                  "coords": [
+                        1.293619,
+                        52.640723
                   ]
             }
       ],
@@ -48607,6 +58714,159 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.303519,
                         52.640277
                   ]
+            },
+            {
+                  "name": "Whitlingham Little Broad",
+                  "text": "Un lac frumos în Norwich, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        1.324062,
+                        52.620287
+                  ]
+            },
+            {
+                  "name": "Swan Pit",
+                  "text": "Un lac liniștit în Norwich, ideal pentru mici pauze pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        1.30528,
+                        52.633997
+                  ]
+            },
+            {
+                  "name": "Stanninghall Lakes",
+                  "text": "Un peisaj lacustru idilic în Norwich, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.333074,
+                        52.69575
+                  ]
+            },
+            {
+                  "name": "Costessey Pits",
+                  "text": "Un corp de apă interesant în Norwich, ideal pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        1.200947,
+                        52.671727
+                  ]
+            },
+            {
+                  "name": "Vinegar Pond",
+                  "text": "Un lac mic în Norwich într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        1.311127,
+                        52.645803
+                  ]
+            },
+            {
+                  "name": "University of East Anglia Broad",
+                  "text": "Un lac pitoresc în Norwich care invită la plimbări prin campusul universitar.",
+                  "category": "natural",
+                  "coords": [
+                        1.239799,
+                        52.61809
+                  ]
+            },
+            {
+                  "name": "Whitlingham Great Broad",
+                  "text": "Whitlingham Great Broad este un lac în Norwich, ideal pentru plimbări și pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.33652,
+                        52.622812
+                  ]
+            },
+            {
+                  "name": "Eaton Crazy Golf",
+                  "text": "Eaton Crazy Golf din Norwich oferă o experiență distractivă de minigolf pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.259743,
+                        52.621162
+                  ]
+            },
+            {
+                  "name": "The Jenny Lind Play Ground for Children",
+                  "text": "The Jenny Lind Play Ground for Children este un loc de joacă în Norwich, unde copiii se pot juca și distra.",
+                  "category": "family",
+                  "coords": [
+                        1.28287,
+                        52.624089
+                  ]
+            },
+            {
+                  "name": "Eaton Green Playground",
+                  "text": "Eaton Green Playground din Norwich oferă o zonă excelentă de joacă în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.263252,
+                        52.606009
+                  ]
+            },
+            {
+                  "name": "Enfield Road Play Area",
+                  "text": "Enfield Road Play Area din Norwich este o atracție locală pentru familii, perfectă pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        1.240594,
+                        52.632811
+                  ]
+            },
+            {
+                  "name": "Gunton Skateboard Park",
+                  "text": "Gunton Skateboard Park din Norwich este o zonă de recreere în aer liber, perfectă pentru copiii activi și familii.",
+                  "category": "family",
+                  "coords": [
+                        1.244237,
+                        52.643426
+                  ]
+            },
+            {
+                  "name": "Bedlam Soft Play Area",
+                  "text": "Bedlam Soft Play Area din Norwich oferă un mediu de joacă sigur și distractiv pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        1.297541,
+                        52.627594
+                  ]
+            },
+            {
+                  "name": "Lower Playground",
+                  "text": "Lower Playground din Norwich este un spațiu în aer liber potrivit pentru familii, unde copiii se pot bucura de joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        1.296967,
+                        52.623519
+                  ]
+            },
+            {
+                  "name": "Grace Park Playground 1",
+                  "text": "Grace Park Playground 1 este un loc de joacă potrivit pentru familii, situat în Norwich.",
+                  "category": "family",
+                  "coords": [
+                        1.301307,
+                        52.616421
+                  ]
+            },
+            {
+                  "name": "Stirling Road Play Area",
+                  "text": "Stirling Road Play Area oferă un mediu distractiv de joacă pentru familiile care vizitează Norwich.",
+                  "category": "family",
+                  "coords": [
+                        1.285707,
+                        52.664932
+                  ]
+            },
+            {
+                  "name": "Heath Road Playground",
+                  "text": "Heath Road Playground din Norwich este un loc excelent pentru ca cei mici să-și consume energia alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        1.293619,
+                        52.640723
+                  ]
             }
       ],
       "en": [
@@ -49246,6 +59506,159 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.303519,
                         52.640277
                   ]
+            },
+            {
+                  "name": "Whitlingham Little Broad",
+                  "text": "A beautiful lake in Norwich that invites to relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.324062,
+                        52.620287
+                  ]
+            },
+            {
+                  "name": "Swan Pit",
+                  "text": "A quiet lake in Norwich, ideal for short breaks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        1.30528,
+                        52.633997
+                  ]
+            },
+            {
+                  "name": "Stanninghall Lakes",
+                  "text": "An idyllic lake landscape in Norwich, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        1.333074,
+                        52.69575
+                  ]
+            },
+            {
+                  "name": "Costessey Pits",
+                  "text": "An interesting body of water in Norwich, ideal for peaceful walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.200947,
+                        52.671727
+                  ]
+            },
+            {
+                  "name": "Vinegar Pond",
+                  "text": "A small lake in Norwich in peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.311127,
+                        52.645803
+                  ]
+            },
+            {
+                  "name": "University of East Anglia Broad",
+                  "text": "A picturesque lake in Norwich that invites to walks around the campus.",
+                  "category": "natural",
+                  "coords": [
+                        1.239799,
+                        52.61809
+                  ]
+            },
+            {
+                  "name": "Whitlingham Great Broad",
+                  "text": "Whitlingham Great Broad is a lake in Norwich, ideal for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.33652,
+                        52.622812
+                  ]
+            },
+            {
+                  "name": "Eaton Crazy Golf",
+                  "text": "Eaton Crazy Golf in Norwich offers a fun miniature golf experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.259743,
+                        52.621162
+                  ]
+            },
+            {
+                  "name": "The Jenny Lind Play Ground for Children",
+                  "text": "The Jenny Lind Play Ground for Children is a playground in Norwich where children can play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        1.28287,
+                        52.624089
+                  ]
+            },
+            {
+                  "name": "Eaton Green Playground",
+                  "text": "Eaton Green Playground in Norwich provides a great outdoor play area for families.",
+                  "category": "family",
+                  "coords": [
+                        1.263252,
+                        52.606009
+                  ]
+            },
+            {
+                  "name": "Enfield Road Play Area",
+                  "text": "Enfield Road Play Area in Norwich is a local family attraction perfect for active children.",
+                  "category": "family",
+                  "coords": [
+                        1.240594,
+                        52.632811
+                  ]
+            },
+            {
+                  "name": "Gunton Skateboard Park",
+                  "text": "Gunton Skateboard Park in Norwich is an outdoor recreation area perfect for active kids and families.",
+                  "category": "family",
+                  "coords": [
+                        1.244237,
+                        52.643426
+                  ]
+            },
+            {
+                  "name": "Bedlam Soft Play Area",
+                  "text": "Bedlam Soft Play Area in Norwich offers a safe and entertaining play environment for young families.",
+                  "category": "family",
+                  "coords": [
+                        1.297541,
+                        52.627594
+                  ]
+            },
+            {
+                  "name": "Lower Playground",
+                  "text": "Lower Playground in Norwich is a family-friendly outdoor space where children can enjoy active playtime.",
+                  "category": "family",
+                  "coords": [
+                        1.296967,
+                        52.623519
+                  ]
+            },
+            {
+                  "name": "Grace Park Playground 1",
+                  "text": "Grace Park Playground 1 is a family-friendly play area located in Norwich.",
+                  "category": "family",
+                  "coords": [
+                        1.301307,
+                        52.616421
+                  ]
+            },
+            {
+                  "name": "Stirling Road Play Area",
+                  "text": "Stirling Road Play Area provides a great playground environment for families visiting Norwich.",
+                  "category": "family",
+                  "coords": [
+                        1.285707,
+                        52.664932
+                  ]
+            },
+            {
+                  "name": "Heath Road Playground",
+                  "text": "Heath Road Playground in Norwich is a great spot for kids to burn off energy with the family.",
+                  "category": "family",
+                  "coords": [
+                        1.293619,
+                        52.640723
+                  ]
             }
       ]
 }
@@ -49417,6 +59830,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942936,
                         56.120546
                   ]
+            },
+            {
+                  "name": "Loch Coulter Reservoir",
+                  "text": "Das Loch Coulter Reservoir ist ein See in Stirling, der eine wunderschöne natürliche Umgebung für einen malerischen und ruhigen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.986159,
+                        56.051605
+                  ]
+            },
+            {
+                  "name": "Cocksburn Reservoir",
+                  "text": "Das Cocksburn Reservoir in Stirling ist ein friedlicher See, der eine idyllische Landschaft für entspannte Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920058,
+                        56.165108
+                  ]
+            },
+            {
+                  "name": "Waltersmuir Reservoir",
+                  "text": "Das Waltersmuir Reservoir befindet sich in Stirling und lockt Spaziergänger mit seiner schönen und naturbelassenen Uferlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918253,
+                        56.18209
+                  ]
+            },
+            {
+                  "name": "Touch No.4 Reservoir",
+                  "text": "Das Touch No.4 Reservoir ist ein See in Stirling, ideal für ausgedehnte Spaziergänge und für alle, die ruhige Ausblicke auf das Wasser schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        -4.047945,
+                        56.096045
+                  ]
+            },
+            {
+                  "name": "Touch No.2 Reservoir",
+                  "text": "Das Touch No.2 Reservoir ist ein malerisches Gewässer in der Nähe von Stirling, das sich perfekt für einen gemütlichen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.03341,
+                        56.10006
+                  ]
+            },
+            {
+                  "name": "Touch No.3 Reservoir",
+                  "text": "Das in Stirling gelegene Touch No.3 Reservoir ist ein ruhiges Seengebiet, das sich hervorragend für entspannende Spaziergänge am Ufer anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.037281,
+                        56.100104
+                  ]
+            },
+            {
+                  "name": "Lossburn Reservoir",
+                  "text": "Das Lossburn Reservoir in Stirling ist von natürlichen Landschaften umgeben und eignet sich wunderbar zum Wandern und Beobachten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884225,
+                        56.169015
+                  ]
+            },
+            {
+                  "name": "Airthrey Loch",
+                  "text": "Airthrey Loch ist ein malerischer See in Stirling, der bei Besuchern für seine herrliche Aussicht und die angenehmen Spazierwege beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918976,
+                        56.146552
+                  ]
+            },
+            {
+                  "name": "North Third",
+                  "text": "North Third ist ein Stausee in Stirling, der für seine raue, natürliche Landschaft und die fantastischen Wandermöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.998696,
+                        56.076811
+                  ]
+            },
+            {
+                  "name": "Kidz Town",
+                  "text": "Kidz Town ist ein unterhaltsamer Spielplatz in Stirling, der Familien einlädt, mit ihren Kindern in fantasievolle Spiele einzutauchen.",
+                  "category": "family",
+                  "coords": [
+                        -3.929261,
+                        56.112528
+                  ]
+            },
+            {
+                  "name": "Kings Park Playground",
+                  "text": "Der Kings Park Playground in Stirling ist ein weitläufiger Außenbereich, der speziell für Familienspaß und Aktivitäten von Kindern konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        -3.948529,
+                        56.113181
+                  ]
+            },
+            {
+                  "name": "Darnley Park",
+                  "text": "Darnley Park verfügt über einen schönen Spielplatz in Stirling, der sich perfekt für einen entspannten Familiennachmittag mit den Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        -3.940861,
+                        56.120658
+                  ]
             }
       ],
       "hu": [
@@ -49538,6 +60059,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.942936,
                         56.120546
+                  ]
+            },
+            {
+                  "name": "Loch Coulter Reservoir",
+                  "text": "A Loch Coulter Reservoir egy tó Stirlingben, amely gyönyörű természetes környezetet kínál egy festői és nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.986159,
+                        56.051605
+                  ]
+            },
+            {
+                  "name": "Cocksburn Reservoir",
+                  "text": "A stirlingi Cocksburn Reservoir egy békés tó, amely idilli tájat kínál a természetben tett pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920058,
+                        56.165108
+                  ]
+            },
+            {
+                  "name": "Waltersmuir Reservoir",
+                  "text": "A Waltersmuir Reservoir Stirlingben található, és szép, természetes tóparti tájával vonzza a sétálni vágyókat.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918253,
+                        56.18209
+                  ]
+            },
+            {
+                  "name": "Touch No.4 Reservoir",
+                  "text": "A Touch No.4 Reservoir egy tó Stirlingben, ideális hosszú sétákhoz és mindazoknak, akik értékelik a nyugodt vízparti kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -4.047945,
+                        56.096045
+                  ]
+            },
+            {
+                  "name": "Touch No.2 Reservoir",
+                  "text": "A Touch No.2 Reservoir egy festői vízfelület Stirling közelében, amely tökéletes egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -4.03341,
+                        56.10006
+                  ]
+            },
+            {
+                  "name": "Touch No.3 Reservoir",
+                  "text": "A Stirlingben található Touch No.3 Reservoir egy nyugodt tóvidék, amely kiválóan alkalmas pihentető vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -4.037281,
+                        56.100104
+                  ]
+            },
+            {
+                  "name": "Lossburn Reservoir",
+                  "text": "A stirlingi Lossburn Reservoir természetes tájakkal van körülvéve, és csodálatosan alkalmas túrázásra és természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884225,
+                        56.169015
+                  ]
+            },
+            {
+                  "name": "Airthrey Loch",
+                  "text": "Az Airthrey Loch egy festői tó Stirlingben, amely a látogatók körében gyönyörű kilátásáról és kellemes sétaútjairól kedvelt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918976,
+                        56.146552
+                  ]
+            },
+            {
+                  "name": "North Third",
+                  "text": "A North Third egy víztározó tó Stirlingben, amely zord, természetes tájáról és fantasztikus túrázási lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -3.998696,
+                        56.076811
+                  ]
+            },
+            {
+                  "name": "Kidz Town",
+                  "text": "A Kidz Town egy szórakoztató játszótér Stirlingben, amely arra invitálja a családokat, hogy gyermekeikkel együtt merüljenek el a fantáziadús játékokban.",
+                  "category": "family",
+                  "coords": [
+                        -3.929261,
+                        56.112528
+                  ]
+            },
+            {
+                  "name": "Kings Park Playground",
+                  "text": "A Kings Park Playground Stirlingben egy tágas szabadtéri terület, amelyet kifejezetten családi szórakozásra és gyermekprogramokra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -3.948529,
+                        56.113181
+                  ]
+            },
+            {
+                  "name": "Darnley Park",
+                  "text": "A Darnley Park egy szép játszótérrel rendelkezik Stirlingben, amely tökéletes egy pihentető családi délutánhoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        -3.940861,
+                        56.120658
                   ]
             }
       ],
@@ -49661,6 +60290,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942936,
                         56.120546
                   ]
+            },
+            {
+                  "name": "Loch Coulter Reservoir",
+                  "text": "Loch Coulter Reservoir este un lac în Stirling, oferind un cadru natural frumos pentru o plimbare pitorească și liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -3.986159,
+                        56.051605
+                  ]
+            },
+            {
+                  "name": "Cocksburn Reservoir",
+                  "text": "Cocksburn Reservoir din Stirling este un lac pașnic, oferind un peisaj idilic pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920058,
+                        56.165108
+                  ]
+            },
+            {
+                  "name": "Waltersmuir Reservoir",
+                  "text": "Waltersmuir Reservoir este situat în Stirling și atrage plimbăreții cu peisajul său frumos și natural de pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918253,
+                        56.18209
+                  ]
+            },
+            {
+                  "name": "Touch No.4 Reservoir",
+                  "text": "Touch No.4 Reservoir este un lac în Stirling, ideal pentru plimbări lungi și pentru cei care apreciază priveliștile liniștite ale apei.",
+                  "category": "natural",
+                  "coords": [
+                        -4.047945,
+                        56.096045
+                  ]
+            },
+            {
+                  "name": "Touch No.2 Reservoir",
+                  "text": "Touch No.2 Reservoir este un corp de apă pitoresc situat lângă Stirling, perfect pentru o plimbare plăcută.",
+                  "category": "natural",
+                  "coords": [
+                        -4.03341,
+                        56.10006
+                  ]
+            },
+            {
+                  "name": "Touch No.3 Reservoir",
+                  "text": "Situat în Stirling, Touch No.3 Reservoir este o zonă liniștită de lac, excelentă pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -4.037281,
+                        56.100104
+                  ]
+            },
+            {
+                  "name": "Lossburn Reservoir",
+                  "text": "Lossburn Reservoir din Stirling este înconjurat de peisaje naturale și este minunat pentru drumeții și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884225,
+                        56.169015
+                  ]
+            },
+            {
+                  "name": "Airthrey Loch",
+                  "text": "Airthrey Loch este un lac pitoresc în Stirling, popular printre vizitatori pentru priveliștile sale frumoase și cărările plăcute pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918976,
+                        56.146552
+                  ]
+            },
+            {
+                  "name": "North Third",
+                  "text": "North Third este un lac de acumulare din Stirling, cunoscut pentru peisajul său accidentat, natural și oportunitățile fantastice de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -3.998696,
+                        56.076811
+                  ]
+            },
+            {
+                  "name": "Kidz Town",
+                  "text": "Kidz Town este un loc de joacă distractiv în Stirling, invitând familiile să se implice în jocuri imaginative alături de copiii lor.",
+                  "category": "family",
+                  "coords": [
+                        -3.929261,
+                        56.112528
+                  ]
+            },
+            {
+                  "name": "Kings Park Playground",
+                  "text": "Kings Park Playground din Stirling este o zonă spațioasă în aer liber, concepută special pentru distracția în familie și activitățile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -3.948529,
+                        56.113181
+                  ]
+            },
+            {
+                  "name": "Darnley Park",
+                  "text": "Darnley Park include un loc de joacă frumos în Stirling, perfect pentru o după-amiază relaxantă în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -3.940861,
+                        56.120658
+                  ]
             }
       ],
       "en": [
@@ -49782,6 +60519,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.942936,
                         56.120546
+                  ]
+            },
+            {
+                  "name": "Loch Coulter Reservoir",
+                  "text": "Loch Coulter Reservoir is a lake in Stirling, offering a beautiful natural setting for a scenic and quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.986159,
+                        56.051605
+                  ]
+            },
+            {
+                  "name": "Cocksburn Reservoir",
+                  "text": "Cocksburn Reservoir in Stirling is a peaceful lake providing an idyllic landscape for relaxed walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920058,
+                        56.165108
+                  ]
+            },
+            {
+                  "name": "Waltersmuir Reservoir",
+                  "text": "Waltersmuir Reservoir is located in Stirling and attracts walkers with its beautiful and natural lakeside scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918253,
+                        56.18209
+                  ]
+            },
+            {
+                  "name": "Touch No.4 Reservoir",
+                  "text": "Touch No.4 Reservoir is a lake in Stirling, ideal for long walks and those who appreciate tranquil waterside views.",
+                  "category": "natural",
+                  "coords": [
+                        -4.047945,
+                        56.096045
+                  ]
+            },
+            {
+                  "name": "Touch No.2 Reservoir",
+                  "text": "Touch No.2 Reservoir is a scenic body of water located near Stirling, perfect for a pleasant walk.",
+                  "category": "natural",
+                  "coords": [
+                        -4.03341,
+                        56.10006
+                  ]
+            },
+            {
+                  "name": "Touch No.3 Reservoir",
+                  "text": "Situated in Stirling, Touch No.3 Reservoir is a calm lake area excellent for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -4.037281,
+                        56.100104
+                  ]
+            },
+            {
+                  "name": "Lossburn Reservoir",
+                  "text": "Lossburn Reservoir in Stirling is surrounded by natural landscapes and is wonderful for hiking and observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884225,
+                        56.169015
+                  ]
+            },
+            {
+                  "name": "Airthrey Loch",
+                  "text": "Airthrey Loch is a picturesque lake in Stirling, popular among visitors for its beautiful views and pleasant walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        -3.918976,
+                        56.146552
+                  ]
+            },
+            {
+                  "name": "North Third",
+                  "text": "North Third is a reservoir lake in Stirling, known for its rugged, natural scenery and fantastic hiking opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        -3.998696,
+                        56.076811
+                  ]
+            },
+            {
+                  "name": "Kidz Town",
+                  "text": "Kidz Town is a fun-filled playground in Stirling inviting families to immerse in imaginative play with their children.",
+                  "category": "family",
+                  "coords": [
+                        -3.929261,
+                        56.112528
+                  ]
+            },
+            {
+                  "name": "Kings Park Playground",
+                  "text": "Kings Park Playground in Stirling is a spacious outdoor area designed specifically for family fun and children's activities.",
+                  "category": "family",
+                  "coords": [
+                        -3.948529,
+                        56.113181
+                  ]
+            },
+            {
+                  "name": "Darnley Park",
+                  "text": "Darnley Park features a lovely playground in Stirling, perfect for a relaxing family afternoon with the kids.",
+                  "category": "family",
+                  "coords": [
+                        -3.940861,
+                        56.120658
                   ]
             }
       ]
@@ -49924,6 +60769,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.80523,
                         51.0684
                   ]
+            },
+            {
+                  "name": "Reservoir(Covered)",
+                  "text": "Reservoir(Covered) ist ein See in Salisbury, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757774,
+                        51.081827
+                  ]
+            },
+            {
+                  "name": "Highest Score Arcade",
+                  "text": "Highest Score Arcade ist eine Spielhalle in Salisbury, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.793584,
+                        51.069462
+                  ]
+            },
+            {
+                  "name": "St Peter's Road Play Area",
+                  "text": "St Peter's Road Play Area ist ein Spielplatz in Salisbury, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.780231,
+                        51.088833
+                  ]
+            },
+            {
+                  "name": "Saunders Avenue Play Park",
+                  "text": "Saunders Avenue Play Park ist ein Spielplatz in Salisbury, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.785957,
+                        51.092118
+                  ]
             }
       ],
       "hu": [
@@ -50015,6 +60896,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.80523,
                         51.0684
+                  ]
+            },
+            {
+                  "name": "Reservoir(Covered)",
+                  "text": "A(z) Reservoir(Covered) egy tó Salisbury területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757774,
+                        51.081827
+                  ]
+            },
+            {
+                  "name": "Highest Score Arcade",
+                  "text": "A(z) Highest Score Arcade egy játékterem Salisbury területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.793584,
+                        51.069462
+                  ]
+            },
+            {
+                  "name": "St Peter's Road Play Area",
+                  "text": "A(z) St Peter's Road Play Area egy játszótér Salisbury területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.780231,
+                        51.088833
+                  ]
+            },
+            {
+                  "name": "Saunders Avenue Play Park",
+                  "text": "A(z) Saunders Avenue Play Park egy játszótér Salisbury területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.785957,
+                        51.092118
                   ]
             }
       ],
@@ -50108,6 +61025,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.80523,
                         51.0684
                   ]
+            },
+            {
+                  "name": "Reservoir(Covered)",
+                  "text": "Reservoir(Covered) este un lac situat în Salisbury, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757774,
+                        51.081827
+                  ]
+            },
+            {
+                  "name": "Highest Score Arcade",
+                  "text": "Highest Score Arcade este o sală de jocuri arcade în Salisbury, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.793584,
+                        51.069462
+                  ]
+            },
+            {
+                  "name": "St Peter's Road Play Area",
+                  "text": "St Peter's Road Play Area este un loc de joacă în Salisbury, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.780231,
+                        51.088833
+                  ]
+            },
+            {
+                  "name": "Saunders Avenue Play Park",
+                  "text": "Saunders Avenue Play Park este un loc de joacă în Salisbury, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.785957,
+                        51.092118
+                  ]
             }
       ],
       "en": [
@@ -50199,6 +61152,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.80523,
                         51.0684
+                  ]
+            },
+            {
+                  "name": "Reservoir(Covered)",
+                  "text": "Reservoir(Covered) is a lake situated in Salisbury, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757774,
+                        51.081827
+                  ]
+            },
+            {
+                  "name": "Highest Score Arcade",
+                  "text": "Highest Score Arcade is an amusement arcade in Salisbury, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.793584,
+                        51.069462
+                  ]
+            },
+            {
+                  "name": "St Peter's Road Play Area",
+                  "text": "St Peter's Road Play Area is a playground in Salisbury, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.780231,
+                        51.088833
+                  ]
+            },
+            {
+                  "name": "Saunders Avenue Play Park",
+                  "text": "Saunders Avenue Play Park is a playground in Salisbury, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.785957,
+                        51.092118
                   ]
             }
       ]
@@ -50765,6 +61754,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.519706,
                         53.24343
                   ]
+            },
+            {
+                  "name": "Hartsholme Lake",
+                  "text": "Der Hartsholme Lake in Lincoln ist ein malerisches Gewässer, das sich perfekt für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.589041,
+                        53.213158
+                  ]
+            },
+            {
+                  "name": "East Mere Irrigation Reservoir",
+                  "text": "Das East Mere Irrigation Reservoir ist ein See in Lincoln, der eine friedliche Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.486443,
+                        53.168027
+                  ]
+            },
+            {
+                  "name": "Apex Lake",
+                  "text": "Der Apex Lake in Lincoln bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        -0.615492,
+                        53.186713
+                  ]
+            },
+            {
+                  "name": "Virtually Golf",
+                  "text": "Virtually Golf in Lincoln bietet ein interaktives Arcade-Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.543605,
+                        53.228637
+                  ]
+            },
+            {
+                  "name": "Queen's Park Play Area",
+                  "text": "Die Queen's Park Play Area ist ein Spielplatz in Lincoln, auf dem Kinder und Familien einen spaßigen Tag verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -0.542507,
+                        53.215099
+                  ]
             }
       ],
       "hu": [
@@ -51280,6 +62314,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.519706,
                         53.24343
+                  ]
+            },
+            {
+                  "name": "Hartsholme Lake",
+                  "text": "A lincolni Hartsholme Lake egy festői tó, amely tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.589041,
+                        53.213158
+                  ]
+            },
+            {
+                  "name": "East Mere Irrigation Reservoir",
+                  "text": "Az East Mere Irrigation Reservoir egy tó Lincolnban, amely békés természeti tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.486443,
+                        53.168027
+                  ]
+            },
+            {
+                  "name": "Apex Lake",
+                  "text": "A lincolni Apex Lake nyugodt környezetet biztosít a sétákhoz és a szabadban töltött időhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.615492,
+                        53.186713
+                  ]
+            },
+            {
+                  "name": "Virtually Golf",
+                  "text": "A lincolni Virtually Golf interaktív játéktermi élményt kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.543605,
+                        53.228637
+                  ]
+            },
+            {
+                  "name": "Queen's Park Play Area",
+                  "text": "A Queen's Park Play Area egy játszótér Lincolnban, ahol a gyerekek és a családok egy szórakoztató napot tölthetnek el.",
+                  "category": "family",
+                  "coords": [
+                        -0.542507,
+                        53.215099
                   ]
             }
       ],
@@ -51797,6 +62876,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.519706,
                         53.24343
                   ]
+            },
+            {
+                  "name": "Hartsholme Lake",
+                  "text": "Hartsholme Lake din Lincoln este un lac pitoresc, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.589041,
+                        53.213158
+                  ]
+            },
+            {
+                  "name": "East Mere Irrigation Reservoir",
+                  "text": "East Mere Irrigation Reservoir este un lac în Lincoln, oferind un peisaj natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -0.486443,
+                        53.168027
+                  ]
+            },
+            {
+                  "name": "Apex Lake",
+                  "text": "Apex Lake din Lincoln oferă un cadru liniștit pentru plimbări și bucuria de a sta în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.615492,
+                        53.186713
+                  ]
+            },
+            {
+                  "name": "Virtually Golf",
+                  "text": "Virtually Golf din Lincoln oferă o experiență interactivă de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.543605,
+                        53.228637
+                  ]
+            },
+            {
+                  "name": "Queen's Park Play Area",
+                  "text": "Queen's Park Play Area este un loc de joacă în Lincoln, unde copiii și familiile se pot bucura de o zi plină de distracție.",
+                  "category": "family",
+                  "coords": [
+                        -0.542507,
+                        53.215099
+                  ]
             }
       ],
       "en": [
@@ -52313,6 +63437,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.519706,
                         53.24343
                   ]
+            },
+            {
+                  "name": "Hartsholme Lake",
+                  "text": "Hartsholme Lake in Lincoln is a scenic body of water perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.589041,
+                        53.213158
+                  ]
+            },
+            {
+                  "name": "East Mere Irrigation Reservoir",
+                  "text": "East Mere Irrigation Reservoir is a lake in Lincoln, offering peaceful natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.486443,
+                        53.168027
+                  ]
+            },
+            {
+                  "name": "Apex Lake",
+                  "text": "Apex Lake in Lincoln provides a tranquil setting for walking and enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -0.615492,
+                        53.186713
+                  ]
+            },
+            {
+                  "name": "Virtually Golf",
+                  "text": "Virtually Golf in Lincoln offers an interactive amusement arcade experience for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.543605,
+                        53.228637
+                  ]
+            },
+            {
+                  "name": "Queen's Park Play Area",
+                  "text": "Queen's Park Play Area is a playground in Lincoln where kids and families can enjoy a fun day out.",
+                  "category": "family",
+                  "coords": [
+                        -0.542507,
+                        53.215099
+                  ]
             }
       ]
 }
@@ -52716,6 +63885,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.314454,
                         51.060798
                   ]
+            },
+            {
+                  "name": "Sparsholt College Lake",
+                  "text": "Der Sparsholt College Lake ist ein ruhiger See in Winchester, der sich hervorragend für malerische Spaziergänge in der Natur anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.397486,
+                        51.091011
+                  ]
+            },
+            {
+                  "name": "Abbotts Walk Play Area (Planned)",
+                  "text": "Die Abbotts Walk Play Area ist ein geplanter Spielplatz in Winchester, der künftig als neuer Freiluft-Treffpunkt für Familien dienen wird.",
+                  "category": "family",
+                  "coords": [
+                        -1.305591,
+                        51.078072
+                  ]
+            },
+            {
+                  "name": "King George V Playground",
+                  "text": "Der King George V Playground in Winchester ist ein klassischer Parkspielplatz, der Familien reichlich Platz zum Klettern, Rutschen und Schaukeln bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.300275,
+                        51.055708
+                  ]
+            },
+            {
+                  "name": "Chaundler Road Play Area",
+                  "text": "Chaundler Road Play Area in Winchester ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.309778,
+                        51.074229
+                  ]
             }
       ],
       "hu": [
@@ -53069,6 +64274,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.314454,
                         51.060798
+                  ]
+            },
+            {
+                  "name": "Sparsholt College Lake",
+                  "text": "A Sparsholt College Lake egy nyugodt tó Winchesterben, amely kiválóan alkalmas festői természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.397486,
+                        51.091011
+                  ]
+            },
+            {
+                  "name": "Abbotts Walk Play Area (Planned)",
+                  "text": "Az Abbotts Walk Play Area egy tervezett játszótér Winchesterben, amely a jövőben a családok új szabadtéri találkozóhelyeként fog szolgálni.",
+                  "category": "family",
+                  "coords": [
+                        -1.305591,
+                        51.078072
+                  ]
+            },
+            {
+                  "name": "King George V Playground",
+                  "text": "A winchesteri King George V Playground egy klasszikus parki játszótér, amely bőséges helyet kínál a családoknak a mászáshoz, csúszdázáshoz és hintázáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.300275,
+                        51.055708
+                  ]
+            },
+            {
+                  "name": "Chaundler Road Play Area",
+                  "text": "A(z) Chaundler Road Play Area egy szórakoztató játszótér Winchester városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.309778,
+                        51.074229
                   ]
             }
       ],
@@ -53424,6 +64665,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.314454,
                         51.060798
                   ]
+            },
+            {
+                  "name": "Sparsholt College Lake",
+                  "text": "Sparsholt College Lake este un lac calm în Winchester, excelent pentru plimbări pitorești în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.397486,
+                        51.091011
+                  ]
+            },
+            {
+                  "name": "Abbotts Walk Play Area (Planned)",
+                  "text": "Abbotts Walk Play Area este un loc de joacă planificat în Winchester, care va servi în viitor ca nou punct de întâlnire în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.305591,
+                        51.078072
+                  ]
+            },
+            {
+                  "name": "King George V Playground",
+                  "text": "King George V Playground din Winchester este o zonă de joacă clasică în parc, oferind familiilor spațiu amplu pentru cățărat, dat pe tobogan și legănat.",
+                  "category": "family",
+                  "coords": [
+                        -1.300275,
+                        51.055708
+                  ]
+            },
+            {
+                  "name": "Chaundler Road Play Area",
+                  "text": "Chaundler Road Play Area din Winchester este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.309778,
+                        51.074229
+                  ]
             }
       ],
       "en": [
@@ -53777,6 +65054,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.314454,
                         51.060798
+                  ]
+            },
+            {
+                  "name": "Sparsholt College Lake",
+                  "text": "Sparsholt College Lake is a calm lake in Winchester, excellent for scenic nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -1.397486,
+                        51.091011
+                  ]
+            },
+            {
+                  "name": "Abbotts Walk Play Area (Planned)",
+                  "text": "Abbotts Walk Play Area is a planned playground in Winchester that will serve as a new outdoor gathering spot for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.305591,
+                        51.078072
+                  ]
+            },
+            {
+                  "name": "King George V Playground",
+                  "text": "King George V Playground in Winchester is a classic park play area offering families ample space for climbing, sliding, and swinging.",
+                  "category": "family",
+                  "coords": [
+                        -1.300275,
+                        51.055708
+                  ]
+            },
+            {
+                  "name": "Chaundler Road Play Area",
+                  "text": "Chaundler Road Play Area in Winchester is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.309778,
+                        51.074229
                   ]
             }
       ]
@@ -55112,6 +66425,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.330038,
                         53.740884
                   ]
+            },
+            {
+                  "name": "Showcase Amusements",
+                  "text": "Showcase Amusements in Kingston Upon Hull bietet eine lebhafte Arcade-Umgebung mit familiärem Unterhaltungsangebot.",
+                  "category": "family",
+                  "coords": [
+                        -0.34181,
+                        53.744332
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation ist eine Spielhalle in Kingston Upon Hull voller familienfreundlicher Unterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -0.347943,
+                        53.745291
+                  ]
+            },
+            {
+                  "name": "Gravity",
+                  "text": "Gravity in Kingston Upon Hull ist ein aufregender Trampolinpark, der sich perfekt für einen Tag voller aktiven Familienspaß eignet.",
+                  "category": "family",
+                  "coords": [
+                        -0.346187,
+                        53.745259
+                  ]
+            },
+            {
+                  "name": "Waterloo Street Play Ground",
+                  "text": "Der Waterloo Street Play Ground in Kingston Upon Hull bietet Familien einen tollen Außenbereich zum gemeinsamen Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -0.341381,
+                        53.753264
+                  ]
             }
       ],
       "hu": [
@@ -55620,6 +66969,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.330038,
                         53.740884
+                  ]
+            },
+            {
+                  "name": "Showcase Amusements",
+                  "text": "A Kingston Upon Hull-i Showcase Amusements élénk játéktermi környezetet kínál családi szórakozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -0.34181,
+                        53.744332
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "A Funstation egy játékterem Kingston Upon Hullban, amely tele van családbarát szórakozással.",
+                  "category": "family",
+                  "coords": [
+                        -0.347943,
+                        53.745291
+                  ]
+            },
+            {
+                  "name": "Gravity",
+                  "text": "A Kingston Upon Hull-i Gravity egy izgalmas trambulinpark, amely tökéletes egy aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.346187,
+                        53.745259
+                  ]
+            },
+            {
+                  "name": "Waterloo Street Play Ground",
+                  "text": "A Kingston Upon Hull-i Waterloo Street Play Ground nagyszerű szabadtéri teret kínál a családoknak a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.341381,
+                        53.753264
                   ]
             }
       ],
@@ -56130,6 +67515,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.330038,
                         53.740884
                   ]
+            },
+            {
+                  "name": "Showcase Amusements",
+                  "text": "Showcase Amusements din Kingston Upon Hull oferă o atmosferă plină de viață, cu opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.34181,
+                        53.744332
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation este o sală de jocuri în Kingston Upon Hull, plină de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.347943,
+                        53.745291
+                  ]
+            },
+            {
+                  "name": "Gravity",
+                  "text": "Gravity din Kingston Upon Hull este un parc de trambuline captivant, perfect pentru o zi de distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.346187,
+                        53.745259
+                  ]
+            },
+            {
+                  "name": "Waterloo Street Play Ground",
+                  "text": "Waterloo Street Play Ground din Kingston Upon Hull oferă familiilor un spațiu excelent în aer liber pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -0.341381,
+                        53.753264
+                  ]
             }
       ],
       "en": [
@@ -56639,6 +68060,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.330038,
                         53.740884
                   ]
+            },
+            {
+                  "name": "Showcase Amusements",
+                  "text": "Showcase Amusements in Kingston Upon Hull provides a lively arcade environment with family entertainment options.",
+                  "category": "family",
+                  "coords": [
+                        -0.34181,
+                        53.744332
+                  ]
+            },
+            {
+                  "name": "Funstation",
+                  "text": "Funstation is an amusement arcade in Kingston Upon Hull packed with family-friendly entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -0.347943,
+                        53.745291
+                  ]
+            },
+            {
+                  "name": "Gravity",
+                  "text": "Gravity in Kingston Upon Hull is an exciting trampoline park perfect for a day of active family fun.",
+                  "category": "family",
+                  "coords": [
+                        -0.346187,
+                        53.745259
+                  ]
+            },
+            {
+                  "name": "Waterloo Street Play Ground",
+                  "text": "Waterloo Street Play Ground in Kingston Upon Hull offers families a great outdoor space to play together.",
+                  "category": "family",
+                  "coords": [
+                        -0.341381,
+                        53.753264
+                  ]
             }
       ]
 }
@@ -56888,6 +68345,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.112189,
                         52.607952
                   ]
+            },
+            {
+                  "name": "Ladymoor Pool",
+                  "text": "Ladymoor Pool ist ein malerischer See in Wolverhampton, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.084437,
+                        52.554372
+                  ]
+            },
+            {
+                  "name": "Kings Hill Reservoir",
+                  "text": "Kings Hill Reservoir ist ein malerischer See in Wolverhampton, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.024978,
+                        52.560808
+                  ]
+            },
+            {
+                  "name": "West Park Playground",
+                  "text": "West Park Playground in Wolverhampton ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.14246,
+                        52.589252
+                  ]
+            },
+            {
+                  "name": "REC Playground",
+                  "text": "REC Playground in Wolverhampton ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.121444,
+                        52.611253
+                  ]
+            },
+            {
+                  "name": "Heath Town Park",
+                  "text": "Heath Town Park in Wolverhampton ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.100022,
+                        52.594495
+                  ]
+            },
+            {
+                  "name": "Bradmore Recreation Ground",
+                  "text": "Bradmore Recreation Ground in Wolverhampton ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.15784,
+                        52.57107
+                  ]
             }
       ],
       "hu": [
@@ -57132,6 +68643,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.112189,
                         52.607952
+                  ]
+            },
+            {
+                  "name": "Ladymoor Pool",
+                  "text": "A(z) Ladymoor Pool egy festői tó Wolverhampton városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.084437,
+                        52.554372
+                  ]
+            },
+            {
+                  "name": "Kings Hill Reservoir",
+                  "text": "A(z) Kings Hill Reservoir egy festői tó Wolverhampton városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.024978,
+                        52.560808
+                  ]
+            },
+            {
+                  "name": "West Park Playground",
+                  "text": "A(z) West Park Playground egy szórakoztató játszótér Wolverhampton városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.14246,
+                        52.589252
+                  ]
+            },
+            {
+                  "name": "REC Playground",
+                  "text": "A(z) REC Playground egy szórakoztató játszótér Wolverhampton városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.121444,
+                        52.611253
+                  ]
+            },
+            {
+                  "name": "Heath Town Park",
+                  "text": "A(z) Heath Town Park egy szórakoztató játszótér Wolverhampton városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.100022,
+                        52.594495
+                  ]
+            },
+            {
+                  "name": "Bradmore Recreation Ground",
+                  "text": "A(z) Bradmore Recreation Ground egy szórakoztató játszótér Wolverhampton városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.15784,
+                        52.57107
                   ]
             }
       ],
@@ -57378,6 +68943,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.112189,
                         52.607952
                   ]
+            },
+            {
+                  "name": "Ladymoor Pool",
+                  "text": "Ladymoor Pool este un lac pitoresc situat în Wolverhampton, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.084437,
+                        52.554372
+                  ]
+            },
+            {
+                  "name": "Kings Hill Reservoir",
+                  "text": "Kings Hill Reservoir este un lac pitoresc situat în Wolverhampton, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.024978,
+                        52.560808
+                  ]
+            },
+            {
+                  "name": "West Park Playground",
+                  "text": "West Park Playground din Wolverhampton este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.14246,
+                        52.589252
+                  ]
+            },
+            {
+                  "name": "REC Playground",
+                  "text": "REC Playground din Wolverhampton este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.121444,
+                        52.611253
+                  ]
+            },
+            {
+                  "name": "Heath Town Park",
+                  "text": "Heath Town Park din Wolverhampton este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.100022,
+                        52.594495
+                  ]
+            },
+            {
+                  "name": "Bradmore Recreation Ground",
+                  "text": "Bradmore Recreation Ground din Wolverhampton este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.15784,
+                        52.57107
+                  ]
             }
       ],
       "en": [
@@ -57622,6 +69241,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.112189,
                         52.607952
+                  ]
+            },
+            {
+                  "name": "Ladymoor Pool",
+                  "text": "Ladymoor Pool is a scenic lake located in Wolverhampton, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.084437,
+                        52.554372
+                  ]
+            },
+            {
+                  "name": "Kings Hill Reservoir",
+                  "text": "Kings Hill Reservoir is a scenic lake located in Wolverhampton, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.024978,
+                        52.560808
+                  ]
+            },
+            {
+                  "name": "West Park Playground",
+                  "text": "West Park Playground in Wolverhampton is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.14246,
+                        52.589252
+                  ]
+            },
+            {
+                  "name": "REC Playground",
+                  "text": "REC Playground in Wolverhampton is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.121444,
+                        52.611253
+                  ]
+            },
+            {
+                  "name": "Heath Town Park",
+                  "text": "Heath Town Park in Wolverhampton is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.100022,
+                        52.594495
+                  ]
+            },
+            {
+                  "name": "Bradmore Recreation Ground",
+                  "text": "Bradmore Recreation Ground in Wolverhampton is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.15784,
+                        52.57107
                   ]
             }
       ]
@@ -58155,6 +69828,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.205277,
                         52.990065
                   ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "Der Brampton Park Play Area in Stoke On Trent ist ein idealer Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Der Penkhull Park Playground in Stoke On Trent bietet Kindern viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Der Etruria Park Play Area in Stoke On Trent ist ein schöner Ort für Kinder, um sich im Freien auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Das Game Grid in Stoke On Trent ist eine unterhaltsame Spielhalle für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
             }
       ],
       "hu": [
@@ -58593,6 +70383,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.205277,
                         52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "A(z) Parkhall Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "A(z) Sideway Overflow egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "A(z) Goldendale Pools egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "A(z) Trentham Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "A(z) Lyme Valley Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "A(z) Hanford Play Area egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "A(z) Adenture Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "A(z) Ferndown Drive Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "A(z) Bucknall Park Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "A Stoke On Trent-i Brampton Park Play Area nagyszerű játszótér családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "A Stoke On Trent-i Penkhull Park Playground sok helyet kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "A Stoke On Trent-i Etruria Park Play Area remek szabadtéri helyszín a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "A Stoke On Trent-i Game Grid szórakoztató játékterem az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
                   ]
             }
       ],
@@ -59033,6 +70940,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.205277,
                         52.990065
                   ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "Brampton Park Play Area din Stoke On Trent este un loc de joacă excelent pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Penkhull Park Playground din Stoke On Trent oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Etruria Park Play Area din Stoke On Trent este un loc frumos pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Game Grid din Stoke On Trent este o sală de jocuri distractivă pentru toată familia.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
             }
       ],
       "en": [
@@ -59471,6 +71495,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.205277,
                         52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "The Brampton Park Play Area in Stoke On Trent is a great playground for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Penkhull Park Playground in Stoke On Trent offers plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Etruria Park Play Area in Stoke On Trent is a nice place for children to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Game Grid in Stoke On Trent is an entertaining amusement arcade for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
                   ]
             }
       ]
@@ -60106,6 +72247,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.443163,
                         52.938009
                   ]
+            },
+            {
+                  "name": "Drum Hill",
+                  "text": "Der See Drum Hill in Derby ist ein malerischer Ort, um Spaziergänge und die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -1.445746,
+                        52.974359
+                  ]
+            },
+            {
+                  "name": "Tubby Bear's Play Zone",
+                  "text": "Tubby Bear's Play Zone in Derby ist ein fantastischer Spielplatz, der stundenlangen Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.489846,
+                        52.920822
+                  ]
+            },
+            {
+                  "name": "Olympic Gym",
+                  "text": "Das Olympic Gym in Derby bietet eine aktive Spielumgebung für energiegeladene Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.440837,
+                        52.906562
+                  ]
+            },
+            {
+                  "name": "Nether Park Drive Play Area",
+                  "text": "Die Nether Park Drive Play Area in Derby ist ein ansprechender Außenspielplatz für Kinder und ihre Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.50672,
+                        52.943198
+                  ]
+            },
+            {
+                  "name": "Core VR",
+                  "text": "Core VR in Derby ist eine moderne Spielhalle, die aufregende Virtual-Reality-Erlebnisse für die Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.477223,
+                        52.920492
+                  ]
+            },
+            {
+                  "name": "Church Street Play Area",
+                  "text": "Die Church Street Play Area ist ein lokaler Spielplatz in Derby, auf dem Familien gemeinsamen Spaß im Freien haben können.",
+                  "category": "family",
+                  "coords": [
+                        -1.481668,
+                        52.90724
+                  ]
+            },
+            {
+                  "name": "Water Play",
+                  "text": "Water Play in Derby ist ein interaktiver Spielplatz, ideal zum Planschen und für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -1.43192,
+                        52.926694
+                  ]
+            },
+            {
+                  "name": "Mundy Play Centre",
+                  "text": "Das Mundy Play Centre in Derby bietet eine Vielzahl von Spielgeräten für Kinder jeden Alters und ihre Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.504718,
+                        52.936884
+                  ]
+            },
+            {
+                  "name": "The Pen",
+                  "text": "The Pen ist ein einladender Spielplatz in Derby, auf dem Kinder und Familien gemeinsam aktiv spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.50051,
+                        52.954646
+                  ]
+            },
+            {
+                  "name": "College Green Walk Play Area",
+                  "text": "Die College Green Walk Play Area in Derby bietet familienfreundliche Spielplatzaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -1.528033,
+                        52.913708
+                  ]
+            },
+            {
+                  "name": "Homerton Vale Play Area",
+                  "text": "Die Homerton Vale Play Area in Derby ist ein ausgezeichneter Spielplatz, den junge Familien erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        -1.525134,
+                        52.914516
+                  ]
             }
       ],
       "hu": [
@@ -60690,6 +72930,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.443163,
                         52.938009
+                  ]
+            },
+            {
+                  "name": "Drum Hill",
+                  "text": "A derby-i Drum Hill tó egy festői hely, ahol sétálhat és élvezheti a természet közelségét.",
+                  "category": "natural",
+                  "coords": [
+                        -1.445746,
+                        52.974359
+                  ]
+            },
+            {
+                  "name": "Tubby Bear's Play Zone",
+                  "text": "A derby-i Tubby Bear's Play Zone egy fantasztikus játszótér, amely órákig tartó családi szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        -1.489846,
+                        52.920822
+                  ]
+            },
+            {
+                  "name": "Olympic Gym",
+                  "text": "A derby-i Olympic Gym aktív játékkörnyezetet kínál energikus gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.440837,
+                        52.906562
+                  ]
+            },
+            {
+                  "name": "Nether Park Drive Play Area",
+                  "text": "A derby-i Nether Park Drive Play Area egy vonzó szabadtéri játszótér a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.50672,
+                        52.943198
+                  ]
+            },
+            {
+                  "name": "Core VR",
+                  "text": "A derby-i Core VR egy modern játékterem, amely izgalmas virtuális valóság élményeket kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.477223,
+                        52.920492
+                  ]
+            },
+            {
+                  "name": "Church Street Play Area",
+                  "text": "A Church Street Play Area egy helyi játszótér Derbyben, ahol a családok élvezhetik a közös szabadtéri szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        -1.481668,
+                        52.90724
+                  ]
+            },
+            {
+                  "name": "Water Play",
+                  "text": "A derby-i Water Play egy interaktív játszótér, amely ideális pancsoláshoz és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.43192,
+                        52.926694
+                  ]
+            },
+            {
+                  "name": "Mundy Play Centre",
+                  "text": "A derby-i Mundy Play Centre különféle játszótéri eszközöket kínál minden korosztályú gyermek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.504718,
+                        52.936884
+                  ]
+            },
+            {
+                  "name": "The Pen",
+                  "text": "A The Pen egy barátságos játszótér Derbyben, ahol a gyerekek és a családok együtt élvezhetik az aktív játékot.",
+                  "category": "family",
+                  "coords": [
+                        -1.50051,
+                        52.954646
+                  ]
+            },
+            {
+                  "name": "College Green Walk Play Area",
+                  "text": "A derby-i College Green Walk Play Area családbarát játszótéri tevékenységekkel várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        -1.528033,
+                        52.913708
+                  ]
+            },
+            {
+                  "name": "Homerton Vale Play Area",
+                  "text": "A derby-i Homerton Vale Play Area egy kiváló játszótér, amelyet a fiatal családok felfedezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        -1.525134,
+                        52.914516
                   ]
             }
       ],
@@ -61276,6 +73615,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.443163,
                         52.938009
                   ]
+            },
+            {
+                  "name": "Drum Hill",
+                  "text": "Lacul Drum Hill din Derby este un loc pitoresc unde vă puteți bucura de plimbări și de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.445746,
+                        52.974359
+                  ]
+            },
+            {
+                  "name": "Tubby Bear's Play Zone",
+                  "text": "Tubby Bear's Play Zone din Derby este un loc de joacă fantastic care oferă ore de distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.489846,
+                        52.920822
+                  ]
+            },
+            {
+                  "name": "Olympic Gym",
+                  "text": "Olympic Gym din Derby oferă un mediu activ de joacă, potrivit pentru copiii plini de energie și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -1.440837,
+                        52.906562
+                  ]
+            },
+            {
+                  "name": "Nether Park Drive Play Area",
+                  "text": "Nether Park Drive Play Area din Derby este un loc de joacă în aer liber captivant pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -1.50672,
+                        52.943198
+                  ]
+            },
+            {
+                  "name": "Core VR",
+                  "text": "Core VR din Derby este o sală modernă de jocuri care oferă experiențe palpitante de realitate virtuală pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.477223,
+                        52.920492
+                  ]
+            },
+            {
+                  "name": "Church Street Play Area",
+                  "text": "Church Street Play Area este un loc de joacă local în Derby, unde familiile se pot distra împreună în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -1.481668,
+                        52.90724
+                  ]
+            },
+            {
+                  "name": "Water Play",
+                  "text": "Water Play din Derby este un loc de joacă interactiv, ideal pentru bălăceală și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.43192,
+                        52.926694
+                  ]
+            },
+            {
+                  "name": "Mundy Play Centre",
+                  "text": "Mundy Play Centre din Derby oferă o varietate de echipamente de joacă pentru copiii de toate vârstele și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -1.504718,
+                        52.936884
+                  ]
+            },
+            {
+                  "name": "The Pen",
+                  "text": "The Pen este un loc de joacă primitor în Derby, unde copiii și familiile se pot bucura împreună de joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        -1.50051,
+                        52.954646
+                  ]
+            },
+            {
+                  "name": "College Green Walk Play Area",
+                  "text": "College Green Walk Play Area din Derby oferă activități la locul de joacă potrivite pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.528033,
+                        52.913708
+                  ]
+            },
+            {
+                  "name": "Homerton Vale Play Area",
+                  "text": "Homerton Vale Play Area din Derby este un loc de joacă excelent, de explorat pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        -1.525134,
+                        52.914516
+                  ]
             }
       ],
       "en": [
@@ -61861,6 +74299,105 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.443163,
                         52.938009
                   ]
+            },
+            {
+                  "name": "Drum Hill",
+                  "text": "Drum Hill lake in Derby is a scenic spot to enjoy walking and nature views.",
+                  "category": "natural",
+                  "coords": [
+                        -1.445746,
+                        52.974359
+                  ]
+            },
+            {
+                  "name": "Tubby Bear's Play Zone",
+                  "text": "Tubby Bear's Play Zone in Derby is a fantastic playground providing hours of family fun.",
+                  "category": "family",
+                  "coords": [
+                        -1.489846,
+                        52.920822
+                  ]
+            },
+            {
+                  "name": "Olympic Gym",
+                  "text": "Olympic Gym in Derby features an active play environment suitable for energetic kids and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.440837,
+                        52.906562
+                  ]
+            },
+            {
+                  "name": "Nether Park Drive Play Area",
+                  "text": "Nether Park Drive Play Area in Derby is an engaging outdoor playground for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        -1.50672,
+                        52.943198
+                  ]
+            },
+            {
+                  "name": "Core VR",
+                  "text": "Core VR in Derby is a modern amusement arcade offering thrilling virtual reality experiences for the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.477223,
+                        52.920492
+                  ]
+            },
+            {
+                  "name": "Church Street Play Area",
+                  "text": "Church Street Play Area is a local playground in Derby where families can enjoy outdoor fun together.",
+                  "category": "family",
+                  "coords": [
+                        -1.481668,
+                        52.90724
+                  ]
+            },
+            {
+                  "name": "Water Play",
+                  "text": "Water Play in Derby is an interactive playground ideal for splashing and family fun.",
+                  "category": "family",
+                  "coords": [
+                        -1.43192,
+                        52.926694
+                  ]
+            },
+            {
+                  "name": "Mundy Play Centre",
+                  "text": "Mundy Play Centre in Derby offers a variety of play equipment for children of all ages and their families.",
+                  "category": "family",
+                  "coords": [
+                        -1.504718,
+                        52.936884
+                  ]
+            },
+            {
+                  "name": "The Pen",
+                  "text": "The Pen is a welcoming playground area in Derby, where kids and families can enjoy active play together.",
+                  "category": "family",
+                  "coords": [
+                        -1.50051,
+                        52.954646
+                  ]
+            },
+            {
+                  "name": "College Green Walk Play Area",
+                  "text": "College Green Walk Play Area in Derby features family-friendly playground activities.",
+                  "category": "family",
+                  "coords": [
+                        -1.528033,
+                        52.913708
+                  ]
+            },
+            {
+                  "name": "Homerton Vale Play Area",
+                  "text": "Homerton Vale Play Area in Derby is an excellent playground for young families to explore.",
+                  "category": "family",
+                  "coords": [
+                        -1.525134,
+                        52.914516
+                  ]
             }
       ]
 }
@@ -62155,6 +74692,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.808733,
                         54.054912
                   ]
+            },
+            {
+                  "name": "Blea Tarn Reservoir",
+                  "text": "Blea Tarn Reservoir ist ein malerischer See in Lancaster, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.774264,
+                        54.020251
+                  ]
+            },
+            {
+                  "name": "Langthwaite Reservoir",
+                  "text": "Langthwaite Reservoir ist ein malerischer See in Lancaster, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.766819,
+                        54.025263
+                  ]
+            },
+            {
+                  "name": "Damas Gill Reservoir",
+                  "text": "Damas Gill Reservoir ist ein malerischer See in Lancaster, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.7238,
+                        54.010794
+                  ]
+            },
+            {
+                  "name": "Lake Carter",
+                  "text": "Lake Carter ist ein malerischer See in Lancaster, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.790681,
+                        54.012944
+                  ]
+            },
+            {
+                  "name": "Bailrigg Lake",
+                  "text": "Bailrigg Lake ist ein malerischer See in Lancaster, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.780892,
+                        54.020478
+                  ]
+            },
+            {
+                  "name": "Hyper Gaming",
+                  "text": "Hyper Gaming in Lancaster ist eine lebhafte Spielhalle, die aufregende Spiele für die Familienunterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.799789,
+                        54.04984
+                  ]
+            },
+            {
+                  "name": "Penny Park",
+                  "text": "Penny Park in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.797206,
+                        54.032838
+                  ]
+            },
+            {
+                  "name": "Hill Road",
+                  "text": "Hill Road in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.797409,
+                        54.063821
+                  ]
+            },
+            {
+                  "name": "Wyresdale Play Area",
+                  "text": "Wyresdale Play Area in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.789364,
+                        54.046795
+                  ]
+            },
+            {
+                  "name": "Fairfield Community Playground",
+                  "text": "Fairfield Community Playground in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.809869,
+                        54.045157
+                  ]
+            },
+            {
+                  "name": "Parsons Close Play Area",
+                  "text": "Parsons Close Play Area in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.80196,
+                        54.0299
+                  ]
+            },
+            {
+                  "name": "The Cedars Play Area",
+                  "text": "The Cedars Play Area in Lancaster ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.799464,
+                        54.031072
+                  ]
             }
       ],
       "hu": [
@@ -62444,6 +75089,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.808733,
                         54.054912
+                  ]
+            },
+            {
+                  "name": "Blea Tarn Reservoir",
+                  "text": "A(z) Blea Tarn Reservoir egy festői tó Lancaster városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.774264,
+                        54.020251
+                  ]
+            },
+            {
+                  "name": "Langthwaite Reservoir",
+                  "text": "A(z) Langthwaite Reservoir egy festői tó Lancaster városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.766819,
+                        54.025263
+                  ]
+            },
+            {
+                  "name": "Damas Gill Reservoir",
+                  "text": "A(z) Damas Gill Reservoir egy festői tó Lancaster városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.7238,
+                        54.010794
+                  ]
+            },
+            {
+                  "name": "Lake Carter",
+                  "text": "A(z) Lake Carter egy festői tó Lancaster városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.790681,
+                        54.012944
+                  ]
+            },
+            {
+                  "name": "Bailrigg Lake",
+                  "text": "A(z) Bailrigg Lake egy festői tó Lancaster városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.780892,
+                        54.020478
+                  ]
+            },
+            {
+                  "name": "Hyper Gaming",
+                  "text": "A(z) Hyper Gaming egy élettel teli játékterem Lancaster városában, amely izgalmas játékokat kínál a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.799789,
+                        54.04984
+                  ]
+            },
+            {
+                  "name": "Penny Park",
+                  "text": "A(z) Penny Park egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.797206,
+                        54.032838
+                  ]
+            },
+            {
+                  "name": "Hill Road",
+                  "text": "A(z) Hill Road egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.797409,
+                        54.063821
+                  ]
+            },
+            {
+                  "name": "Wyresdale Play Area",
+                  "text": "A(z) Wyresdale Play Area egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.789364,
+                        54.046795
+                  ]
+            },
+            {
+                  "name": "Fairfield Community Playground",
+                  "text": "A(z) Fairfield Community Playground egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.809869,
+                        54.045157
+                  ]
+            },
+            {
+                  "name": "Parsons Close Play Area",
+                  "text": "A(z) Parsons Close Play Area egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.80196,
+                        54.0299
+                  ]
+            },
+            {
+                  "name": "The Cedars Play Area",
+                  "text": "A(z) The Cedars Play Area egy szórakoztató játszótér Lancaster városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.799464,
+                        54.031072
                   ]
             }
       ],
@@ -62735,6 +75488,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.808733,
                         54.054912
                   ]
+            },
+            {
+                  "name": "Blea Tarn Reservoir",
+                  "text": "Blea Tarn Reservoir este un lac pitoresc situat în Lancaster, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.774264,
+                        54.020251
+                  ]
+            },
+            {
+                  "name": "Langthwaite Reservoir",
+                  "text": "Langthwaite Reservoir este un lac pitoresc situat în Lancaster, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.766819,
+                        54.025263
+                  ]
+            },
+            {
+                  "name": "Damas Gill Reservoir",
+                  "text": "Damas Gill Reservoir este un lac pitoresc situat în Lancaster, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.7238,
+                        54.010794
+                  ]
+            },
+            {
+                  "name": "Lake Carter",
+                  "text": "Lake Carter este un lac pitoresc situat în Lancaster, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.790681,
+                        54.012944
+                  ]
+            },
+            {
+                  "name": "Bailrigg Lake",
+                  "text": "Bailrigg Lake este un lac pitoresc situat în Lancaster, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -2.780892,
+                        54.020478
+                  ]
+            },
+            {
+                  "name": "Hyper Gaming",
+                  "text": "Hyper Gaming din Lancaster este o sală de jocuri vibrantă, oferind jocuri captivante pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.799789,
+                        54.04984
+                  ]
+            },
+            {
+                  "name": "Penny Park",
+                  "text": "Penny Park din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.797206,
+                        54.032838
+                  ]
+            },
+            {
+                  "name": "Hill Road",
+                  "text": "Hill Road din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.797409,
+                        54.063821
+                  ]
+            },
+            {
+                  "name": "Wyresdale Play Area",
+                  "text": "Wyresdale Play Area din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.789364,
+                        54.046795
+                  ]
+            },
+            {
+                  "name": "Fairfield Community Playground",
+                  "text": "Fairfield Community Playground din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.809869,
+                        54.045157
+                  ]
+            },
+            {
+                  "name": "Parsons Close Play Area",
+                  "text": "Parsons Close Play Area din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.80196,
+                        54.0299
+                  ]
+            },
+            {
+                  "name": "The Cedars Play Area",
+                  "text": "The Cedars Play Area din Lancaster este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.799464,
+                        54.031072
+                  ]
             }
       ],
       "en": [
@@ -63024,6 +75885,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.808733,
                         54.054912
+                  ]
+            },
+            {
+                  "name": "Blea Tarn Reservoir",
+                  "text": "Blea Tarn Reservoir is a scenic lake located in Lancaster, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.774264,
+                        54.020251
+                  ]
+            },
+            {
+                  "name": "Langthwaite Reservoir",
+                  "text": "Langthwaite Reservoir is a scenic lake located in Lancaster, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.766819,
+                        54.025263
+                  ]
+            },
+            {
+                  "name": "Damas Gill Reservoir",
+                  "text": "Damas Gill Reservoir is a scenic lake located in Lancaster, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.7238,
+                        54.010794
+                  ]
+            },
+            {
+                  "name": "Lake Carter",
+                  "text": "Lake Carter is a scenic lake located in Lancaster, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.790681,
+                        54.012944
+                  ]
+            },
+            {
+                  "name": "Bailrigg Lake",
+                  "text": "Bailrigg Lake is a scenic lake located in Lancaster, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.780892,
+                        54.020478
+                  ]
+            },
+            {
+                  "name": "Hyper Gaming",
+                  "text": "Hyper Gaming in Lancaster is a vibrant amusement arcade offering exciting games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -2.799789,
+                        54.04984
+                  ]
+            },
+            {
+                  "name": "Penny Park",
+                  "text": "Penny Park in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.797206,
+                        54.032838
+                  ]
+            },
+            {
+                  "name": "Hill Road",
+                  "text": "Hill Road in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.797409,
+                        54.063821
+                  ]
+            },
+            {
+                  "name": "Wyresdale Play Area",
+                  "text": "Wyresdale Play Area in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.789364,
+                        54.046795
+                  ]
+            },
+            {
+                  "name": "Fairfield Community Playground",
+                  "text": "Fairfield Community Playground in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.809869,
+                        54.045157
+                  ]
+            },
+            {
+                  "name": "Parsons Close Play Area",
+                  "text": "Parsons Close Play Area in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.80196,
+                        54.0299
+                  ]
+            },
+            {
+                  "name": "The Cedars Play Area",
+                  "text": "The Cedars Play Area in Lancaster is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.799464,
+                        54.031072
                   ]
             }
       ]
@@ -63381,6 +76350,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.724953,
                         52.066589
                   ]
+            },
+            {
+                  "name": "Bulmers Angling Club Pond",
+                  "text": "Der Bulmers Angling Club Pond in Hereford ist ein malerischer See, ideal für ruhige Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        -2.776893,
+                        52.011483
+                  ]
+            },
+            {
+                  "name": "Flip Out",
+                  "text": "Der Trampolinpark Flip Out in Hereford bietet actionreichen Spaß für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        -2.718625,
+                        52.068864
+                  ]
+            },
+            {
+                  "name": "St. George's Playground",
+                  "text": "Der St. George's Playground in Hereford ist ein beliebter Spielplatz für Familien in der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -2.715847,
+                        52.050341
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Der Spielplatz im Central Park in Hereford bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.707483,
+                        52.054138
+                  ]
+            },
+            {
+                  "name": "Hereford Point Play Park (Residents Funded)",
+                  "text": "Der Hereford Point Play Park in Hereford ist ein von Anwohnern finanzierter Spielplatz für die Gemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        -2.727478,
+                        52.078297
+                  ]
+            },
+            {
+                  "name": "Canterbury Close",
+                  "text": "Der Spielplatz Canterbury Close in Hereford ist ein sicherer Ort für Kinder, um draußen zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.752863,
+                        52.04245
+                  ]
+            },
+            {
+                  "name": "Benjamin Park",
+                  "text": "Der Spielplatz im Benjamin Park in Hereford lädt Familien zu entspannten Nachmittagen ein.",
+                  "category": "family",
+                  "coords": [
+                        -2.743762,
+                        52.042003
+                  ]
             }
       ],
       "hu": [
@@ -63643,6 +76675,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.724953,
                         52.066589
+                  ]
+            },
+            {
+                  "name": "Bulmers Angling Club Pond",
+                  "text": "A herefordi Bulmers Angling Club Pond egy festői tó, amely ideális csendes sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.776893,
+                        52.011483
+                  ]
+            },
+            {
+                  "name": "Flip Out",
+                  "text": "A herefordi Flip Out trambulinpark akciódús szórakozást nyújt gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        -2.718625,
+                        52.068864
+                  ]
+            },
+            {
+                  "name": "St. George's Playground",
+                  "text": "A herefordi St. George's Playground népszerű játszótér a környékbeli családok körében.",
+                  "category": "family",
+                  "coords": [
+                        -2.715847,
+                        52.050341
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A herefordi Central Park játszótere változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.707483,
+                        52.054138
+                  ]
+            },
+            {
+                  "name": "Hereford Point Play Park (Residents Funded)",
+                  "text": "A herefordi Hereford Point Play Park egy helyi lakosok által finanszírozott, közösségi játszótér.",
+                  "category": "family",
+                  "coords": [
+                        -2.727478,
+                        52.078297
+                  ]
+            },
+            {
+                  "name": "Canterbury Close",
+                  "text": "A herefordi Canterbury Close játszótér biztonságos hely a gyerekek számára a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.752863,
+                        52.04245
+                  ]
+            },
+            {
+                  "name": "Benjamin Park",
+                  "text": "A herefordi Benjamin Park játszótere nyugodt délutáni kikapcsolódásra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -2.743762,
+                        52.042003
                   ]
             }
       ],
@@ -63907,6 +77002,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.724953,
                         52.066589
                   ]
+            },
+            {
+                  "name": "Bulmers Angling Club Pond",
+                  "text": "Bulmers Angling Club Pond din Hereford este un lac pitoresc, ideal pentru plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        -2.776893,
+                        52.011483
+                  ]
+            },
+            {
+                  "name": "Flip Out",
+                  "text": "Parcul de trambuline Flip Out din Hereford oferă distracție plină de acțiune pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        -2.718625,
+                        52.068864
+                  ]
+            },
+            {
+                  "name": "St. George's Playground",
+                  "text": "St. George's Playground din Hereford este un loc de joacă popular pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        -2.715847,
+                        52.050341
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Locul de joacă Central Park din Hereford oferă diverse opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.707483,
+                        52.054138
+                  ]
+            },
+            {
+                  "name": "Hereford Point Play Park (Residents Funded)",
+                  "text": "Hereford Point Play Park din Hereford este un loc de joacă comunitar, finanțat de rezidenți.",
+                  "category": "family",
+                  "coords": [
+                        -2.727478,
+                        52.078297
+                  ]
+            },
+            {
+                  "name": "Canterbury Close",
+                  "text": "Locul de joacă Canterbury Close din Hereford este un loc sigur pentru copii să se joace afară.",
+                  "category": "family",
+                  "coords": [
+                        -2.752863,
+                        52.04245
+                  ]
+            },
+            {
+                  "name": "Benjamin Park",
+                  "text": "Locul de joacă din Benjamin Park din Hereford invită familiile la după-amiezi relaxante.",
+                  "category": "family",
+                  "coords": [
+                        -2.743762,
+                        52.042003
+                  ]
             }
       ],
       "en": [
@@ -64169,6 +77327,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.724953,
                         52.066589
+                  ]
+            },
+            {
+                  "name": "Bulmers Angling Club Pond",
+                  "text": "Bulmers Angling Club Pond in Hereford is a scenic lake, ideal for quiet walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -2.776893,
+                        52.011483
+                  ]
+            },
+            {
+                  "name": "Flip Out",
+                  "text": "The Flip Out trampoline park in Hereford offers action-packed fun for children and adults.",
+                  "category": "family",
+                  "coords": [
+                        -2.718625,
+                        52.068864
+                  ]
+            },
+            {
+                  "name": "St. George's Playground",
+                  "text": "St. George's Playground in Hereford is a popular playground for local families.",
+                  "category": "family",
+                  "coords": [
+                        -2.715847,
+                        52.050341
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "The Central Park playground in Hereford offers various play options for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.707483,
+                        52.054138
+                  ]
+            },
+            {
+                  "name": "Hereford Point Play Park (Residents Funded)",
+                  "text": "Hereford Point Play Park in Hereford is a residents-funded playground for the community.",
+                  "category": "family",
+                  "coords": [
+                        -2.727478,
+                        52.078297
+                  ]
+            },
+            {
+                  "name": "Canterbury Close",
+                  "text": "The Canterbury Close playground in Hereford is a safe place for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -2.752863,
+                        52.04245
+                  ]
+            },
+            {
+                  "name": "Benjamin Park",
+                  "text": "The Benjamin Park playground in Hereford invites families for relaxing afternoons.",
+                  "category": "family",
+                  "coords": [
+                        -2.743762,
+                        52.042003
                   ]
             }
       ]
@@ -64655,6 +77876,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.338516,
                         51.752924
                   ]
+            },
+            {
+                  "name": "Southdown Ponds",
+                  "text": "Die Southdown Ponds in St Albans bilden ein ruhiges Seegebiet, das sich ideal für Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.351479,
+                        51.810571
+                  ]
+            },
+            {
+                  "name": "Verulamium Lake",
+                  "text": "Der Verulamium Lake in St Albans ist eine wunderschöne Uferlandschaft, die sich perfekt für gemütliche Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.349864,
+                        51.750573
+                  ]
+            },
+            {
+                  "name": "The Plough Playground",
+                  "text": "Der Plough Playground in St Albans bietet eine unterhaltsame Umgebung im Freien für den Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -0.28926,
+                        51.739408
+                  ]
+            },
+            {
+                  "name": "Water Splash",
+                  "text": "Water Splash in St Albans ist ein fantastischer Wasserspielplatz für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -0.351916,
+                        51.752159
+                  ]
+            },
+            {
+                  "name": "Greenwood Park",
+                  "text": "Der Greenwood Park in St Albans verfügt über einen großen Spielbereich, den Familien gemeinsam erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        -0.353818,
+                        51.727284
+                  ]
+            },
+            {
+                  "name": "Fleetville Rec Playground",
+                  "text": "Der Fleetville Rec Playground in St Albans ist ein lokaler Favorit für Familienausflüge und aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -0.312919,
+                        51.752426
+                  ]
+            },
+            {
+                  "name": "Everlasting Lane Play Area",
+                  "text": "Die Everlasting Lane Play Area in St Albans ist ein toller Spielplatz für Familien, um die Natur zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        -0.346596,
+                        51.763415
+                  ]
+            },
+            {
+                  "name": "Crazy Golf Course",
+                  "text": "Der Crazy Golf Course in St Albans bietet lustige und spannende Minigolfrunden für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.35298,
+                        51.750934
+                  ]
+            },
+            {
+                  "name": "Park Street Play Area",
+                  "text": "Die Park Street Play Area in St Albans bietet Familien eine sichere und unterhaltsame Spielplatzumgebung.",
+                  "category": "family",
+                  "coords": [
+                        -0.341654,
+                        51.721263
+                  ]
+            },
+            {
+                  "name": "Mayflower Road Play Area",
+                  "text": "Die Mayflower Road Play Area in St Albans ist ein Außenspielplatz, der sich perfekt für Familien mit energiegeladenen Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        -0.356199,
+                        51.722446
+                  ]
+            },
+            {
+                  "name": "Junior Playground",
+                  "text": "Der Junior Playground in St Albans ist auf jüngere Kinder zugeschnitten und bietet sicheren Spielspaß für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.300473,
+                        51.756659
+                  ]
+            },
+            {
+                  "name": "Toddlers Play Area",
+                  "text": "Die Toddlers Play Area in St Albans bietet sanfte, altersgerechte Geräte für die kleinsten Familienmitglieder.",
+                  "category": "family",
+                  "coords": [
+                        -0.302856,
+                        51.740633
+                  ]
             }
       ],
       "hu": [
@@ -65090,6 +78419,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.338516,
                         51.752924
+                  ]
+            },
+            {
+                  "name": "Southdown Ponds",
+                  "text": "A St Albans-i Southdown Ponds egy nyugodt tóvidék, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.351479,
+                        51.810571
+                  ]
+            },
+            {
+                  "name": "Verulamium Lake",
+                  "text": "A St Albans-i Verulamium Lake egy gyönyörű vízparti helyszín, amely tökéletes egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.349864,
+                        51.750573
+                  ]
+            },
+            {
+                  "name": "The Plough Playground",
+                  "text": "A St Albans-i Plough Playground szórakoztató szabadtéri környezetet biztosít a családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.28926,
+                        51.739408
+                  ]
+            },
+            {
+                  "name": "Water Splash",
+                  "text": "A St Albans-i Water Splash egy fantasztikus vízi játszótér családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.351916,
+                        51.752159
+                  ]
+            },
+            {
+                  "name": "Greenwood Park",
+                  "text": "A St Albans-i Greenwood Park tágas játszótérrel rendelkezik, amelyet a családok együtt fedezhetnek fel.",
+                  "category": "family",
+                  "coords": [
+                        -0.353818,
+                        51.727284
+                  ]
+            },
+            {
+                  "name": "Fleetville Rec Playground",
+                  "text": "A St Albans-i Fleetville Rec Playground egy helyi kedvenc családi kirándulásokhoz és aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.312919,
+                        51.752426
+                  ]
+            },
+            {
+                  "name": "Everlasting Lane Play Area",
+                  "text": "A St Albans-i Everlasting Lane Play Area egy nagyszerű játszótér, ahol a családok élvezhetik a szabadban töltött időt.",
+                  "category": "family",
+                  "coords": [
+                        -0.346596,
+                        51.763415
+                  ]
+            },
+            {
+                  "name": "Crazy Golf Course",
+                  "text": "A St Albans-i Crazy Golf Course szórakoztató és izgalmas minigolf köröket kínál a család számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.35298,
+                        51.750934
+                  ]
+            },
+            {
+                  "name": "Park Street Play Area",
+                  "text": "A St Albans-i Park Street Play Area biztonságos és élvezetes játszótéri környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.341654,
+                        51.721263
+                  ]
+            },
+            {
+                  "name": "Mayflower Road Play Area",
+                  "text": "A St Albans-i Mayflower Road Play Area egy szabadtéri játszótér, amely tökéletes a családok és energikus gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.356199,
+                        51.722446
+                  ]
+            },
+            {
+                  "name": "Junior Playground",
+                  "text": "A St Albans-i Junior Playground kifejezetten a kisebb gyermekek számára készült, biztonságos családi szórakozást kínálva.",
+                  "category": "family",
+                  "coords": [
+                        -0.300473,
+                        51.756659
+                  ]
+            },
+            {
+                  "name": "Toddlers Play Area",
+                  "text": "A St Albans-i Toddlers Play Area korosztálynak megfelelő eszközöket kínál a legkisebb családtagok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.302856,
+                        51.740633
                   ]
             }
       ],
@@ -65527,6 +78964,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.338516,
                         51.752924
                   ]
+            },
+            {
+                  "name": "Southdown Ponds",
+                  "text": "Southdown Ponds din St Albans formează o zonă liniștită de lacuri, ideală pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.351479,
+                        51.810571
+                  ]
+            },
+            {
+                  "name": "Verulamium Lake",
+                  "text": "Verulamium Lake din St Albans este un cadru frumos pe malul apei, perfect pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        -0.349864,
+                        51.750573
+                  ]
+            },
+            {
+                  "name": "The Plough Playground",
+                  "text": "The Plough Playground din St Albans oferă un mediu de joacă distractiv în aer liber pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.28926,
+                        51.739408
+                  ]
+            },
+            {
+                  "name": "Water Splash",
+                  "text": "Water Splash din St Albans este un loc de joacă acvatic fantastic pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.351916,
+                        51.752159
+                  ]
+            },
+            {
+                  "name": "Greenwood Park",
+                  "text": "Greenwood Park din St Albans dispune de o zonă mare de joacă pe care familiile o pot explora împreună.",
+                  "category": "family",
+                  "coords": [
+                        -0.353818,
+                        51.727284
+                  ]
+            },
+            {
+                  "name": "Fleetville Rec Playground",
+                  "text": "Fleetville Rec Playground din St Albans este un loc preferat pe plan local pentru ieșirile în familie și joaca activă.",
+                  "category": "family",
+                  "coords": [
+                        -0.312919,
+                        51.752426
+                  ]
+            },
+            {
+                  "name": "Everlasting Lane Play Area",
+                  "text": "Everlasting Lane Play Area din St Albans este un loc de joacă excelent unde familiile se pot bucura de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.346596,
+                        51.763415
+                  ]
+            },
+            {
+                  "name": "Crazy Golf Course",
+                  "text": "Crazy Golf Course din St Albans oferă runde de minigolf amuzante și captivante pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.35298,
+                        51.750934
+                  ]
+            },
+            {
+                  "name": "Park Street Play Area",
+                  "text": "Park Street Play Area din St Albans oferă un mediu de joacă sigur și plăcut pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.341654,
+                        51.721263
+                  ]
+            },
+            {
+                  "name": "Mayflower Road Play Area",
+                  "text": "Mayflower Road Play Area din St Albans este un loc de joacă în aer liber, perfect pentru familiile cu copii activi.",
+                  "category": "family",
+                  "coords": [
+                        -0.356199,
+                        51.722446
+                  ]
+            },
+            {
+                  "name": "Junior Playground",
+                  "text": "Junior Playground din St Albans este adaptat pentru copiii mai mici, oferind o experiență de joacă sigură pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.300473,
+                        51.756659
+                  ]
+            },
+            {
+                  "name": "Toddlers Play Area",
+                  "text": "Toddlers Play Area din St Albans oferă echipamente sigure și adecvate vârstei pentru cei mai mici membri ai familiei.",
+                  "category": "family",
+                  "coords": [
+                        -0.302856,
+                        51.740633
+                  ]
             }
       ],
       "en": [
@@ -65963,6 +79508,114 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.338516,
                         51.752924
                   ]
+            },
+            {
+                  "name": "Southdown Ponds",
+                  "text": "Southdown Ponds in St Albans form a tranquil lake area ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -0.351479,
+                        51.810571
+                  ]
+            },
+            {
+                  "name": "Verulamium Lake",
+                  "text": "Verulamium Lake in St Albans is a beautiful waterside setting perfect for leisurely strolls.",
+                  "category": "natural",
+                  "coords": [
+                        -0.349864,
+                        51.750573
+                  ]
+            },
+            {
+                  "name": "The Plough Playground",
+                  "text": "The Plough Playground in St Albans provides a fun outdoor environment for family playtime.",
+                  "category": "family",
+                  "coords": [
+                        -0.28926,
+                        51.739408
+                  ]
+            },
+            {
+                  "name": "Water Splash",
+                  "text": "Water Splash in St Albans is a fantastic aquatic playground for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -0.351916,
+                        51.752159
+                  ]
+            },
+            {
+                  "name": "Greenwood Park",
+                  "text": "Greenwood Park in St Albans features a large playground area for families to explore and play together.",
+                  "category": "family",
+                  "coords": [
+                        -0.353818,
+                        51.727284
+                  ]
+            },
+            {
+                  "name": "Fleetville Rec Playground",
+                  "text": "Fleetville Rec Playground in St Albans is a local favorite for family outings and active play.",
+                  "category": "family",
+                  "coords": [
+                        -0.312919,
+                        51.752426
+                  ]
+            },
+            {
+                  "name": "Everlasting Lane Play Area",
+                  "text": "Everlasting Lane Play Area in St Albans is a great playground for families to enjoy outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -0.346596,
+                        51.763415
+                  ]
+            },
+            {
+                  "name": "Crazy Golf Course",
+                  "text": "The Crazy Golf Course in St Albans offers fun and engaging miniature golf rounds for the family.",
+                  "category": "family",
+                  "coords": [
+                        -0.35298,
+                        51.750934
+                  ]
+            },
+            {
+                  "name": "Park Street Play Area",
+                  "text": "Park Street Play Area in St Albans provides a safe and enjoyable playground environment for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.341654,
+                        51.721263
+                  ]
+            },
+            {
+                  "name": "Mayflower Road Play Area",
+                  "text": "Mayflower Road Play Area in St Albans is an outdoor playground perfect for families with energetic kids.",
+                  "category": "family",
+                  "coords": [
+                        -0.356199,
+                        51.722446
+                  ]
+            },
+            {
+                  "name": "Junior Playground",
+                  "text": "Junior Playground in St Albans is tailored for younger children to have fun in a safe space for the family.",
+                  "category": "family",
+                  "coords": [
+                        -0.300473,
+                        51.756659
+                  ]
+            },
+            {
+                  "name": "Toddlers Play Area",
+                  "text": "Toddlers Play Area in St Albans offers gentle, age-appropriate equipment for the littlest family members.",
+                  "category": "family",
+                  "coords": [
+                        -0.302856,
+                        51.740633
+                  ]
             }
       ]
 }
@@ -66194,6 +79847,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -4.145294,
                         53.250057
                   ]
+            },
+            {
+                  "name": "Llyn Glan-rhyd",
+                  "text": "Llyn Glan-rhyd ist ein malerischer See in Bangor, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.155675,
+                        53.178212
+                  ]
+            },
+            {
+                  "name": "Llyn Pen-y-parc",
+                  "text": "Llyn Pen-y-parc ist ein malerischer See in Bangor, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.12148,
+                        53.254009
+                  ]
+            },
+            {
+                  "name": "Llyn Llwydiarth",
+                  "text": "Llyn Llwydiarth ist ein malerischer See in Bangor, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.178048,
+                        53.284238
+                  ]
+            },
+            {
+                  "name": "Llyn y Mynydd",
+                  "text": "Llyn y Mynydd ist ein malerischer See in Bangor, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.095644,
+                        53.161525
+                  ]
+            },
+            {
+                  "name": "Felin Fawr reservoir",
+                  "text": "Felin Fawr reservoir ist ein malerischer See in Bangor, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.075226,
+                        53.174509
+                  ]
+            },
+            {
+                  "name": "Adventure Playground",
+                  "text": "Adventure Playground in Bangor ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.096109,
+                        53.22752
+                  ]
             }
       ],
       "hu": [
@@ -66420,6 +80127,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -4.145294,
                         53.250057
+                  ]
+            },
+            {
+                  "name": "Llyn Glan-rhyd",
+                  "text": "A(z) Llyn Glan-rhyd egy festői tó Bangor városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.155675,
+                        53.178212
+                  ]
+            },
+            {
+                  "name": "Llyn Pen-y-parc",
+                  "text": "A(z) Llyn Pen-y-parc egy festői tó Bangor városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.12148,
+                        53.254009
+                  ]
+            },
+            {
+                  "name": "Llyn Llwydiarth",
+                  "text": "A(z) Llyn Llwydiarth egy festői tó Bangor városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.178048,
+                        53.284238
+                  ]
+            },
+            {
+                  "name": "Llyn y Mynydd",
+                  "text": "A(z) Llyn y Mynydd egy festői tó Bangor városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.095644,
+                        53.161525
+                  ]
+            },
+            {
+                  "name": "Felin Fawr reservoir",
+                  "text": "A(z) Felin Fawr reservoir egy festői tó Bangor városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.075226,
+                        53.174509
+                  ]
+            },
+            {
+                  "name": "Adventure Playground",
+                  "text": "A(z) Adventure Playground egy szórakoztató játszótér Bangor városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.096109,
+                        53.22752
                   ]
             }
       ],
@@ -66648,6 +80409,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -4.145294,
                         53.250057
                   ]
+            },
+            {
+                  "name": "Llyn Glan-rhyd",
+                  "text": "Llyn Glan-rhyd este un lac pitoresc situat în Bangor, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -4.155675,
+                        53.178212
+                  ]
+            },
+            {
+                  "name": "Llyn Pen-y-parc",
+                  "text": "Llyn Pen-y-parc este un lac pitoresc situat în Bangor, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -4.12148,
+                        53.254009
+                  ]
+            },
+            {
+                  "name": "Llyn Llwydiarth",
+                  "text": "Llyn Llwydiarth este un lac pitoresc situat în Bangor, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -4.178048,
+                        53.284238
+                  ]
+            },
+            {
+                  "name": "Llyn y Mynydd",
+                  "text": "Llyn y Mynydd este un lac pitoresc situat în Bangor, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -4.095644,
+                        53.161525
+                  ]
+            },
+            {
+                  "name": "Felin Fawr reservoir",
+                  "text": "Felin Fawr reservoir este un lac pitoresc situat în Bangor, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -4.075226,
+                        53.174509
+                  ]
+            },
+            {
+                  "name": "Adventure Playground",
+                  "text": "Adventure Playground din Bangor este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -4.096109,
+                        53.22752
+                  ]
             }
       ],
       "en": [
@@ -66875,6 +80690,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -4.145294,
                         53.250057
                   ]
+            },
+            {
+                  "name": "Llyn Glan-rhyd",
+                  "text": "Llyn Glan-rhyd is a scenic lake located in Bangor, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.155675,
+                        53.178212
+                  ]
+            },
+            {
+                  "name": "Llyn Pen-y-parc",
+                  "text": "Llyn Pen-y-parc is a scenic lake located in Bangor, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.12148,
+                        53.254009
+                  ]
+            },
+            {
+                  "name": "Llyn Llwydiarth",
+                  "text": "Llyn Llwydiarth is a scenic lake located in Bangor, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.178048,
+                        53.284238
+                  ]
+            },
+            {
+                  "name": "Llyn y Mynydd",
+                  "text": "Llyn y Mynydd is a scenic lake located in Bangor, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.095644,
+                        53.161525
+                  ]
+            },
+            {
+                  "name": "Felin Fawr reservoir",
+                  "text": "Felin Fawr reservoir is a scenic lake located in Bangor, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.075226,
+                        53.174509
+                  ]
+            },
+            {
+                  "name": "Adventure Playground",
+                  "text": "Adventure Playground in Bangor is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -4.096109,
+                        53.22752
+                  ]
             }
       ]
 },
@@ -67070,6 +80939,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -6.651725,
                         54.340686
                   ]
+            },
+            {
+                  "name": "Seagahan Reservoir",
+                  "text": "Das Seagahan Reservoir in Armagh ist ein ruhiger See, der sich ideal für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.615261,
+                        54.28242
+                  ]
+            },
+            {
+                  "name": "Lowry's Lough",
+                  "text": "Lowry's Lough in Armagh ist ein schönes Gewässer, das eine idyllische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599431,
+                        54.342534
+                  ]
+            },
+            {
+                  "name": "Drumman Bay Lake",
+                  "text": "Der Drumman Bay Lake in Armagh ist ein friedlicher See, der Naturfreunde anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        -6.62205,
+                        54.371839
+                  ]
+            },
+            {
+                  "name": "Drumman More Lake",
+                  "text": "Der Drumman More Lake in Armagh bietet Besuchern eine malerische Aussicht auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -6.624704,
+                        54.367568
+                  ]
+            },
+            {
+                  "name": "Edenderry Lough",
+                  "text": "Edenderry Lough in Armagh ist ein wunderbarer Ort, um die ruhige Atmosphäre am Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -6.7296,
+                        54.39607
+                  ]
+            },
+            {
+                  "name": "Loughnashade",
+                  "text": "Loughnashade in Armagh ist ein von grüner Natur umgebener See, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -6.690689,
+                        54.350284
+                  ]
+            },
+            {
+                  "name": "The King's Stables",
+                  "text": "Der See The King's Stables in Armagh ist ein kleines Gewässer in einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -6.710833,
+                        54.351036
+                  ]
+            },
+            {
+                  "name": "Castle Dillon Lake",
+                  "text": "Der Castle Dillon Lake in Armagh ist ein herrlicher Ort für einen erholsamen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        -6.609931,
+                        54.373107
+                  ]
+            },
+            {
+                  "name": "Milford Play Park",
+                  "text": "Der Milford Play Park in Armagh ist ein toller Spielplatz, der Kindern viele Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.682449,
+                        54.331454
+                  ]
             }
       ],
       "hu": [
@@ -67171,6 +81121,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -6.651725,
                         54.340686
+                  ]
+            },
+            {
+                  "name": "Seagahan Reservoir",
+                  "text": "Az armaghi Seagahan Reservoir egy nyugodt tó, amely tökéletes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -6.615261,
+                        54.28242
+                  ]
+            },
+            {
+                  "name": "Lowry's Lough",
+                  "text": "Az armaghi Lowry's Lough egy gyönyörű tó, amely idilli tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599431,
+                        54.342534
+                  ]
+            },
+            {
+                  "name": "Drumman Bay Lake",
+                  "text": "Az armaghi Drumman Bay Lake egy békés tó, amely vonzza a természet szerelmeseit.",
+                  "category": "natural",
+                  "coords": [
+                        -6.62205,
+                        54.371839
+                  ]
+            },
+            {
+                  "name": "Drumman More Lake",
+                  "text": "Az armaghi Drumman More Lake festői kilátást nyújt a vízre a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -6.624704,
+                        54.367568
+                  ]
+            },
+            {
+                  "name": "Edenderry Lough",
+                  "text": "Az armaghi Edenderry Lough csodálatos hely a vízparti nyugalom élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        -6.7296,
+                        54.39607
+                  ]
+            },
+            {
+                  "name": "Loughnashade",
+                  "text": "Az armaghi Loughnashade egy zöld természettel körülvett tó, amely ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -6.690689,
+                        54.350284
+                  ]
+            },
+            {
+                  "name": "The King's Stables",
+                  "text": "Az armaghi The King's Stables egy kis tó festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -6.710833,
+                        54.351036
+                  ]
+            },
+            {
+                  "name": "Castle Dillon Lake",
+                  "text": "Az armaghi Castle Dillon Lake remek hely egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -6.609931,
+                        54.373107
+                  ]
+            },
+            {
+                  "name": "Milford Play Park",
+                  "text": "Az armaghi Milford Play Park remek játszótér, amely sokféle tevékenységet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.682449,
+                        54.331454
                   ]
             }
       ],
@@ -67274,6 +81305,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -6.651725,
                         54.340686
                   ]
+            },
+            {
+                  "name": "Seagahan Reservoir",
+                  "text": "Seagahan Reservoir din Armagh este un lac liniștit, perfect pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.615261,
+                        54.28242
+                  ]
+            },
+            {
+                  "name": "Lowry's Lough",
+                  "text": "Lowry's Lough din Armagh este o întindere frumoasă de apă care oferă un peisaj idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599431,
+                        54.342534
+                  ]
+            },
+            {
+                  "name": "Drumman Bay Lake",
+                  "text": "Drumman Bay Lake din Armagh este un lac pașnic care atrage iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.62205,
+                        54.371839
+                  ]
+            },
+            {
+                  "name": "Drumman More Lake",
+                  "text": "Drumman More Lake din Armagh oferă vizitatorilor o vedere pitorească asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.624704,
+                        54.367568
+                  ]
+            },
+            {
+                  "name": "Edenderry Lough",
+                  "text": "Edenderry Lough din Armagh este un loc minunat pentru a te bucura de atmosfera liniștită a apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.7296,
+                        54.39607
+                  ]
+            },
+            {
+                  "name": "Loughnashade",
+                  "text": "Loughnashade din Armagh este un lac înconjurat de natură verde, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -6.690689,
+                        54.350284
+                  ]
+            },
+            {
+                  "name": "The King's Stables",
+                  "text": "Lacul The King's Stables din Armagh este o mică întindere de apă într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -6.710833,
+                        54.351036
+                  ]
+            },
+            {
+                  "name": "Castle Dillon Lake",
+                  "text": "Castle Dillon Lake din Armagh este un loc excelent pentru o plimbare relaxantă pe țărm.",
+                  "category": "natural",
+                  "coords": [
+                        -6.609931,
+                        54.373107
+                  ]
+            },
+            {
+                  "name": "Milford Play Park",
+                  "text": "Milford Play Park din Armagh este un loc de joacă minunat care oferă multe activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.682449,
+                        54.331454
+                  ]
             }
       ],
       "en": [
@@ -67375,6 +81487,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -6.651725,
                         54.340686
+                  ]
+            },
+            {
+                  "name": "Seagahan Reservoir",
+                  "text": "Seagahan Reservoir in Armagh is a peaceful lake perfect for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -6.615261,
+                        54.28242
+                  ]
+            },
+            {
+                  "name": "Lowry's Lough",
+                  "text": "Lowry's Lough in Armagh is a beautiful body of water offering an idyllic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -6.599431,
+                        54.342534
+                  ]
+            },
+            {
+                  "name": "Drumman Bay Lake",
+                  "text": "Drumman Bay Lake in Armagh is a peaceful lake that attracts nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -6.62205,
+                        54.371839
+                  ]
+            },
+            {
+                  "name": "Drumman More Lake",
+                  "text": "Drumman More Lake in Armagh offers visitors picturesque views of the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.624704,
+                        54.367568
+                  ]
+            },
+            {
+                  "name": "Edenderry Lough",
+                  "text": "Edenderry Lough in Armagh is a wonderful spot to enjoy the tranquil waterside atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -6.7296,
+                        54.39607
+                  ]
+            },
+            {
+                  "name": "Loughnashade",
+                  "text": "Loughnashade in Armagh is a lake surrounded by green nature, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -6.690689,
+                        54.350284
+                  ]
+            },
+            {
+                  "name": "The King's Stables",
+                  "text": "The King's Stables lake in Armagh is a small body of water in a picturesque setting.",
+                  "category": "natural",
+                  "coords": [
+                        -6.710833,
+                        54.351036
+                  ]
+            },
+            {
+                  "name": "Castle Dillon Lake",
+                  "text": "Castle Dillon Lake in Armagh is an excellent spot for a relaxing walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -6.609931,
+                        54.373107
+                  ]
+            },
+            {
+                  "name": "Milford Play Park",
+                  "text": "Milford Play Park in Armagh is a great playground offering many activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -6.682449,
+                        54.331454
                   ]
             }
       ]
@@ -68636,6 +82829,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.43006,
                         56.3983
                   ]
+            },
+            {
+                  "name": "Willowgate",
+                  "text": "Der See Willowgate in Perth bietet eine schöne Wasserlandschaft für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -3.401378,
+                        56.380853
+                  ]
+            },
+            {
+                  "name": "Boomerang",
+                  "text": "Der Spielplatz Boomerang in Perth ist ein fröhlicher Ort für Kinder, um draußen zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        -3.443258,
+                        56.394215
+                  ]
+            },
+            {
+                  "name": "Darnhall Park",
+                  "text": "Der Spielplatz im Darnhall Park in Perth ist ein idealer Treffpunkt für Familien aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -3.446759,
+                        56.387143
+                  ]
+            },
+            {
+                  "name": "Raeburn Park",
+                  "text": "Der Spielplatz im Raeburn Park in Perth bietet Kindern viel Spaß an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        -3.443516,
+                        56.390951
+                  ]
             }
       ],
       "hu": [
@@ -68757,6 +82986,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.43006,
                         56.3983
+                  ]
+            },
+            {
+                  "name": "Willowgate",
+                  "text": "A perth-i Willowgate tó gyönyörű vízparti tájat kínál a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -3.401378,
+                        56.380853
+                  ]
+            },
+            {
+                  "name": "Boomerang",
+                  "text": "A perth-i Boomerang játszótér vidám szabadtéri helyszín a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.443258,
+                        56.394215
+                  ]
+            },
+            {
+                  "name": "Darnhall Park",
+                  "text": "A perth-i Darnhall Park játszótere ideális találkozóhely a környékbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.446759,
+                        56.387143
+                  ]
+            },
+            {
+                  "name": "Raeburn Park",
+                  "text": "A perth-i Raeburn Park játszótere sok szórakozást kínál a gyerekeknek a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        -3.443516,
+                        56.390951
                   ]
             }
       ],
@@ -68880,6 +83145,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.43006,
                         56.3983
                   ]
+            },
+            {
+                  "name": "Willowgate",
+                  "text": "Lacul Willowgate din Perth oferă un peisaj acvatic frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -3.401378,
+                        56.380853
+                  ]
+            },
+            {
+                  "name": "Boomerang",
+                  "text": "Locul de joacă Boomerang din Perth este un spațiu vesel în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.443258,
+                        56.394215
+                  ]
+            },
+            {
+                  "name": "Darnhall Park",
+                  "text": "Locul de joacă din Darnhall Park din Perth este un loc de întâlnire ideal pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        -3.446759,
+                        56.387143
+                  ]
+            },
+            {
+                  "name": "Raeburn Park",
+                  "text": "Locul de joacă din Raeburn Park din Perth oferă copiilor multă distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -3.443516,
+                        56.390951
+                  ]
             }
       ],
       "en": [
@@ -69001,6 +83302,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.43006,
                         56.3983
+                  ]
+            },
+            {
+                  "name": "Willowgate",
+                  "text": "Willowgate lake in Perth provides a beautiful waterscape for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -3.401378,
+                        56.380853
+                  ]
+            },
+            {
+                  "name": "Boomerang",
+                  "text": "The Boomerang playground in Perth is a cheerful outdoor space for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.443258,
+                        56.394215
+                  ]
+            },
+            {
+                  "name": "Darnhall Park",
+                  "text": "The playground in Darnhall Park in Perth is an ideal meeting spot for local families.",
+                  "category": "family",
+                  "coords": [
+                        -3.446759,
+                        56.387143
+                  ]
+            },
+            {
+                  "name": "Raeburn Park",
+                  "text": "The playground in Raeburn Park in Perth offers children lots of fun in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -3.443516,
+                        56.390951
                   ]
             }
       ]
@@ -69406,6 +83743,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.806536,
                         50.823732
                   ]
+            },
+            {
+                  "name": "Quarry Lake",
+                  "text": "Der Quarry Lake in Chichester bietet ein friedliches Ufer, das sich perfekt für Spaziergänge und zum Bewundern der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.757873,
+                        50.828595
+                  ]
+            },
+            {
+                  "name": "Little Long",
+                  "text": "Little Long ist ein ruhiger See in Chichester, an dem Besucher angenehme Spaziergänge in der Natur unternehmen können.",
+                  "category": "natural",
+                  "coords": [
+                        -0.759718,
+                        50.828715
+                  ]
+            },
+            {
+                  "name": "Eastern Lake",
+                  "text": "Der Eastern Lake in Chichester ist ein malerisches Gewässer, das eine entspannende natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.744903,
+                        50.842968
+                  ]
+            },
+            {
+                  "name": "Pagham Lagoon",
+                  "text": "Die Pagham Lagoon in Chichester ist ein Küstensee, der eine herrliche Aussicht und friedliche Wanderrouten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.747322,
+                        50.764935
+                  ]
+            },
+            {
+                  "name": "Kives Farm No 1 Reservoir",
+                  "text": "Das Kives Farm No 1 Reservoir ist ein ruhiges Seegebiet in Chichester, ideal um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -0.745917,
+                        50.826836
+                  ]
+            },
+            {
+                  "name": "Churchyard Lake",
+                  "text": "Der Churchyard Lake in Chichester bietet eine ruhige Kulisse für einen gemütlichen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -0.762925,
+                        50.829299
+                  ]
+            },
+            {
+                  "name": "Whyke Lake (1&2)",
+                  "text": "Whyke Lake (1&2) in Chichester sind friedliche Seen, die sich hervorragend zum Bewundern der lokalen Landschaft eignen.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761064,
+                        50.827646
+                  ]
+            },
+            {
+                  "name": "Ivy Lake",
+                  "text": "Der Ivy Lake in Chichester ist ein wunderschöner Ort, um sich zu entspannen und die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -0.763932,
+                        50.823236
+                  ]
+            },
+            {
+                  "name": "Continue?",
+                  "text": "Continue? in Chichester ist eine lustige Spielhalle, in der Familien eine Vielzahl von Spielen spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -0.780197,
+                        50.833556
+                  ]
             }
       ],
       "hu": [
@@ -69641,6 +84059,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.806536,
                         50.823732
+                  ]
+            },
+            {
+                  "name": "Quarry Lake",
+                  "text": "A chichesteri Quarry Lake békés vízpartot kínál, amely tökéletes sétákhoz és a táj csodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.757873,
+                        50.828595
+                  ]
+            },
+            {
+                  "name": "Little Long",
+                  "text": "A Little Long egy csendes tó Chichesterben, ahol a látogatók kellemes sétákat tehetnek a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.759718,
+                        50.828715
+                  ]
+            },
+            {
+                  "name": "Eastern Lake",
+                  "text": "A chichesteri Eastern Lake egy festői tó, amely pihentető természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.744903,
+                        50.842968
+                  ]
+            },
+            {
+                  "name": "Pagham Lagoon",
+                  "text": "A chichesteri Pagham Lagoon egy tengerparti tó, amely gyönyörű kilátást és békés sétaútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.747322,
+                        50.764935
+                  ]
+            },
+            {
+                  "name": "Kives Farm No 1 Reservoir",
+                  "text": "A Kives Farm No 1 Reservoir egy csendes tóvidék Chichesterben, amely ideális a szabadban töltött időhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.745917,
+                        50.826836
+                  ]
+            },
+            {
+                  "name": "Churchyard Lake",
+                  "text": "A chichesteri Churchyard Lake nyugodt környezetet biztosít egy kényelmes vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.762925,
+                        50.829299
+                  ]
+            },
+            {
+                  "name": "Whyke Lake (1&2)",
+                  "text": "A chichesteri Whyke Lake (1&2) békés tavak, amelyek kiválóak a helyi táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761064,
+                        50.827646
+                  ]
+            },
+            {
+                  "name": "Ivy Lake",
+                  "text": "A chichesteri Ivy Lake egy gyönyörű hely a pihenésre és a természeti környezet befogadására.",
+                  "category": "natural",
+                  "coords": [
+                        -0.763932,
+                        50.823236
+                  ]
+            },
+            {
+                  "name": "Continue?",
+                  "text": "A chichesteri Continue? egy szórakoztató játékterem, ahol a családok különféle játékokkal játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.780197,
+                        50.833556
                   ]
             }
       ],
@@ -69878,6 +84377,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.806536,
                         50.823732
                   ]
+            },
+            {
+                  "name": "Quarry Lake",
+                  "text": "Quarry Lake din Chichester oferă o faleză liniștită, perfectă pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -0.757873,
+                        50.828595
+                  ]
+            },
+            {
+                  "name": "Little Long",
+                  "text": "Little Long este un lac liniștit în Chichester, unde vizitatorii se pot bucura de plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -0.759718,
+                        50.828715
+                  ]
+            },
+            {
+                  "name": "Eastern Lake",
+                  "text": "Eastern Lake din Chichester este un lac pitoresc ce oferă un mediu natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        -0.744903,
+                        50.842968
+                  ]
+            },
+            {
+                  "name": "Pagham Lagoon",
+                  "text": "Pagham Lagoon din Chichester este un lac de coastă ce oferă priveliști minunate și trasee de plimbare liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        -0.747322,
+                        50.764935
+                  ]
+            },
+            {
+                  "name": "Kives Farm No 1 Reservoir",
+                  "text": "Kives Farm No 1 Reservoir este o zonă de lac calmă în Chichester, ideală pentru a vă bucura de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.745917,
+                        50.826836
+                  ]
+            },
+            {
+                  "name": "Churchyard Lake",
+                  "text": "Churchyard Lake din Chichester oferă un cadru senin pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -0.762925,
+                        50.829299
+                  ]
+            },
+            {
+                  "name": "Whyke Lake (1&2)",
+                  "text": "Whyke Lake (1&2) din Chichester sunt lacuri liniștite, excelente pentru admirarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761064,
+                        50.827646
+                  ]
+            },
+            {
+                  "name": "Ivy Lake",
+                  "text": "Ivy Lake din Chichester este un loc frumos pentru a vă relaxa și a admira împrejurimile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -0.763932,
+                        50.823236
+                  ]
+            },
+            {
+                  "name": "Continue?",
+                  "text": "Continue? din Chichester este o sală de jocuri distractivă unde familiile se pot bucura de o varietate de jocuri.",
+                  "category": "family",
+                  "coords": [
+                        -0.780197,
+                        50.833556
+                  ]
             }
       ],
       "en": [
@@ -70114,6 +84694,87 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.806536,
                         50.823732
                   ]
+            },
+            {
+                  "name": "Quarry Lake",
+                  "text": "Quarry Lake in Chichester provides a peaceful waterfront perfect for walking and admiring the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.757873,
+                        50.828595
+                  ]
+            },
+            {
+                  "name": "Little Long",
+                  "text": "Little Long is a quiet lake in Chichester where visitors can enjoy pleasant scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        -0.759718,
+                        50.828715
+                  ]
+            },
+            {
+                  "name": "Eastern Lake",
+                  "text": "Eastern Lake in Chichester is a scenic body of water offering a relaxing natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        -0.744903,
+                        50.842968
+                  ]
+            },
+            {
+                  "name": "Pagham Lagoon",
+                  "text": "Pagham Lagoon in Chichester is a coastal lake offering lovely views and peaceful walking routes.",
+                  "category": "natural",
+                  "coords": [
+                        -0.747322,
+                        50.764935
+                  ]
+            },
+            {
+                  "name": "Kives Farm No 1 Reservoir",
+                  "text": "Kives Farm No 1 Reservoir is a calm lake area in Chichester, ideal for enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -0.745917,
+                        50.826836
+                  ]
+            },
+            {
+                  "name": "Churchyard Lake",
+                  "text": "Churchyard Lake in Chichester provides a serene setting for a leisurely stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -0.762925,
+                        50.829299
+                  ]
+            },
+            {
+                  "name": "Whyke Lake (1&2)",
+                  "text": "Whyke Lake (1&2) in Chichester are peaceful lakes that are great for admiring the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.761064,
+                        50.827646
+                  ]
+            },
+            {
+                  "name": "Ivy Lake",
+                  "text": "Ivy Lake in Chichester is a beautiful spot to relax and take in the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -0.763932,
+                        50.823236
+                  ]
+            },
+            {
+                  "name": "Continue?",
+                  "text": "Continue? in Chichester is a fun amusement arcade where families can play a variety of games.",
+                  "category": "family",
+                  "coords": [
+                        -0.780197,
+                        50.833556
+                  ]
             }
       ]
 },
@@ -70290,6 +84951,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.671093,
                         51.225534
                   ]
+            },
+            {
+                  "name": "Parsons Way Play Area",
+                  "text": "Parsons Way Play Area in Wells ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.662967,
+                        51.209899
+                  ]
             }
       ],
       "hu": [
@@ -70417,6 +85087,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.671093,
                         51.225534
+                  ]
+            },
+            {
+                  "name": "Parsons Way Play Area",
+                  "text": "A(z) Parsons Way Play Area egy szórakoztató játszótér Wells városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.662967,
+                        51.209899
                   ]
             }
       ],
@@ -70546,6 +85225,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.671093,
                         51.225534
                   ]
+            },
+            {
+                  "name": "Parsons Way Play Area",
+                  "text": "Parsons Way Play Area din Wells este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.662967,
+                        51.209899
+                  ]
             }
       ],
       "en": [
@@ -70673,6 +85361,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.671093,
                         51.225534
+                  ]
+            },
+            {
+                  "name": "Parsons Way Play Area",
+                  "text": "Parsons Way Play Area in Wells is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.662967,
+                        51.209899
                   ]
             }
       ]
@@ -71111,6 +85808,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.89615,
                         53.183603
                   ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Die Hoole Bank Acid Tar Lagoon in Chester ist ein ehemaliges Industriegelände, das sich renaturiert.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "Der Spielplatz im Black Diamond Park in Chester ist ein beliebter Ort für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Der Upton-by-Chester Playground in Chester bietet verschiedene Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Der Abenteuerspielplatz in Blacon in Chester ist ein spannender Ort für Kinder, um Neues zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "Der Spielplatz in den Walker Street Community Gardens in Chester bietet eine grüne Oase für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Der Neville Road Play Area in Chester ist ein übersichtlicher Spielplatz für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Der Vaughans Lane Play Area in Chester bietet Kindern eine sichere Umgebung zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Der Hoole Lane Play Area in Chester ist ein beliebter Spielort für kleine und große Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Der Dryersfield Play Area in Chester ist ein schön angelegter Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "Der Spielplatz in den Lime Wood Fields in Chester bietet viel Raum für aktive Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Der Melrose Park Play Area in Chester lädt Kinder zum Klettern und Toben ein.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Der Thackeray Forest Playground in Chester ist ein idyllischer Spielplatz am Waldrand.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Der Alma Street Play Area in Chester ist ein kleiner, gepflegter Spielplatz in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Der Pipers Court Play Area in Chester bietet eine ruhige Spielgelegenheit für Kleinkinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Der Appleyards Lane Play Area in Chester ist ein lebhafter Treffpunkt für Familien aus dem Viertel.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Der Chesterton Court Play Area in Chester ist ideal für Kinder, um sich nachmittags auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Der Dicksons Field Play Area in Chester bietet weitläufige Grünflächen rund um die Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Der Spielplatz im Queens Road Park in Chester ist ein beliebter Ort für sonnige Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "Der Spielplatz am Duke's Manor in Chester bietet eine familiäre Atmosphäre zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Der Upton Dene Play Area in Chester ist ein moderner Spielplatz mit vielfältigen Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Der Francis Street Play Area in Chester ist ein praktischer Spielplatz im städtischen Wohngebiet.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Der Cathedral Roads Play Area in Chester bietet Kindern eine schöne Spielfläche nahe dem Zentrum.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Der Hop Pole Paddock Play Area in Chester ist ein gemütlicher Ort für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
             }
       ],
       "hu": [
@@ -71499,6 +86403,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.89615,
                         53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "A chesteri Hoole Bank Acid Tar Lagoon egykori ipari terület, amely most regenerálódik.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "A chesteri Black Diamond Park játszótere népszerű helyszín családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "A chesteri Upton-by-Chester Playground különféle játékeszközöket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "A chesteri Blacon kalandpark izgalmas helyszín a gyerekek számára az új felfedezésekhez.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "A chesteri Walker Street Community Gardens játszótere zöld oázist kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "A chesteri Neville Road Play Area egy átlátható játszótér a környékbeli gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "A chesteri Vaughans Lane Play Area biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "A chesteri Hoole Lane Play Area népszerű játszóhely kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "A chesteri Dryersfield Play Area egy szépen kialakított játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "A chesteri Lime Wood Fields játszótere rengeteg teret kínál az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "A chesteri Melrose Park Play Area mászásra és hancúrozásra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "A chesteri Thackeray Forest Playground egy idilli játszótér az erdő szélén.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "A chesteri Alma Street Play Area egy kis, gondozott városi játszótér.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "A chesteri Pipers Court Play Area nyugodt játéklehetőséget kínál a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "A chesteri Appleyards Lane Play Area egy élettel teli találkozóhely a negyedbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "A chesteri Chesterton Court Play Area ideális a gyerekek délutáni energiáinak levezetésére.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "A chesteri Dicksons Field Play Area kiterjedt zöldterületeket kínál a játékeszközök körül.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "A chesteri Queens Road Park játszótere kedvelt célpontja a napos családi kirándulásoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "A chesteri Duke's Manor játszótere családias hangulatot kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "A chesteri Upton Dene Play Area egy modern játszótér sokféle mászási lehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "A chesteri Francis Street Play Area egy praktikus játszótér a városi lakóövezetben.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "A chesteri Cathedral Roads Play Area szép játszóterületet kínál a gyerekeknek a központ közelében.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "A chesteri Hop Pole Paddock Play Area egy hangulatos hely kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
                   ]
             }
       ],
@@ -71889,6 +87000,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.89615,
                         53.183603
                   ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Hoole Bank Acid Tar Lagoon din Chester este un fost sit industrial care se află într-un proces de renaturare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "Locul de joacă din Black Diamond Park din Chester este o destinație populară pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Upton-by-Chester Playground din Chester oferă diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Locul de joacă de aventură Blacon din Chester este un loc captivant pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "Locul de joacă din Walker Street Community Gardens din Chester oferă o oază verde pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Neville Road Play Area din Chester este un loc de joacă accesibil pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Vaughans Lane Play Area din Chester oferă copiilor un mediu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Hoole Lane Play Area din Chester este un loc de joacă popular pentru copiii mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Dryersfield Play Area din Chester este un loc de joacă frumos amenajat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "Locul de joacă din Lime Wood Fields din Chester oferă mult spațiu pentru activități recreative.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Melrose Park Play Area din Chester invită copiii la cățărat și zburdălnicie.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Thackeray Forest Playground din Chester este un loc de joacă idilic situat la marginea pădurii.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Alma Street Play Area din Chester este un mic loc de joacă bine întreținut în oraș.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Pipers Court Play Area din Chester oferă o oportunitate liniștită de joacă pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Appleyards Lane Play Area din Chester este un loc de întâlnire animat pentru familiile din cartier.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Chesterton Court Play Area din Chester este ideal pentru ca cei mici să își consume energia după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Dicksons Field Play Area din Chester oferă spații verzi întinse în jurul echipamentelor de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Locul de joacă din Queens Road Park din Chester este o destinație populară pentru ieșirile însorite în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "Locul de joacă de la Duke's Manor din Chester oferă o atmosferă familială pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Upton Dene Play Area din Chester este un loc de joacă modern, cu diverse opțiuni de cățărat.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Francis Street Play Area din Chester este un loc de joacă practic în zona rezidențială urbană.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Cathedral Roads Play Area din Chester oferă copiilor o zonă de joacă frumoasă aproape de centru.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Hop Pole Paddock Play Area din Chester este un loc confortabil pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
+                  ]
             }
       ],
       "en": [
@@ -72277,6 +87595,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.89615,
                         53.183603
+                  ]
+            },
+            {
+                  "name": "Hoole Bank Acid Tar Lagoon",
+                  "text": "Hoole Bank Acid Tar Lagoon in Chester is a former industrial site undergoing renaturation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.848094,
+                        53.217099
+                  ]
+            },
+            {
+                  "name": "Black Diamond Park",
+                  "text": "The playground in Black Diamond Park in Chester is a popular spot for family outings.",
+                  "category": "family",
+                  "coords": [
+                        -2.886178,
+                        53.19795
+                  ]
+            },
+            {
+                  "name": "Upton-by-Chester Playground",
+                  "text": "Upton-by-Chester Playground in Chester offers various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.885376,
+                        53.212326
+                  ]
+            },
+            {
+                  "name": "Blacon adventure playground",
+                  "text": "Blacon adventure playground in Chester is an exciting place for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        -2.916647,
+                        53.208649
+                  ]
+            },
+            {
+                  "name": "Walker Street Community Gardens",
+                  "text": "The playground in Walker Street Community Gardens in Chester provides a green oasis for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.876376,
+                        53.198454
+                  ]
+            },
+            {
+                  "name": "Neville Road Play Area",
+                  "text": "Neville Road Play Area in Chester is an accessible playground for children from the neighbourhood.",
+                  "category": "family",
+                  "coords": [
+                        -2.861055,
+                        53.188378
+                  ]
+            },
+            {
+                  "name": "Vaughans Lane Play Area",
+                  "text": "Vaughans Lane Play Area in Chester offers a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.864919,
+                        53.182766
+                  ]
+            },
+            {
+                  "name": "Hoole Lane Play Area",
+                  "text": "Hoole Lane Play Area in Chester is a popular play area for both young and older children.",
+                  "category": "family",
+                  "coords": [
+                        -2.866418,
+                        53.197929
+                  ]
+            },
+            {
+                  "name": "Dryersfield Play Area",
+                  "text": "Dryersfield Play Area in Chester is a nicely designed playground for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.864862,
+                        53.187333
+                  ]
+            },
+            {
+                  "name": "Lime Wood Fields Play Area",
+                  "text": "The Lime Wood Fields Play Area in Chester provides plenty of room for active recreation.",
+                  "category": "family",
+                  "coords": [
+                        -2.870463,
+                        53.206788
+                  ]
+            },
+            {
+                  "name": "Melrose Park Play Area",
+                  "text": "Melrose Park Play Area in Chester invites children to climb and run around.",
+                  "category": "family",
+                  "coords": [
+                        -2.869813,
+                        53.194949
+                  ]
+            },
+            {
+                  "name": "Thackeray Forest Playground",
+                  "text": "Thackeray Forest Playground in Chester is an idyllic playground situated at the edge of the forest.",
+                  "category": "family",
+                  "coords": [
+                        -2.850341,
+                        53.198535
+                  ]
+            },
+            {
+                  "name": "Alma Street Play Area",
+                  "text": "Alma Street Play Area in Chester is a small, well-maintained city playground.",
+                  "category": "family",
+                  "coords": [
+                        -2.87258,
+                        53.192774
+                  ]
+            },
+            {
+                  "name": "Pipers Court Play Area",
+                  "text": "Pipers Court Play Area in Chester offers a quiet play opportunity for toddlers.",
+                  "category": "family",
+                  "coords": [
+                        -2.859471,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Appleyards Lane Play Area",
+                  "text": "Appleyards Lane Play Area in Chester is a lively meeting spot for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -2.879011,
+                        53.182701
+                  ]
+            },
+            {
+                  "name": "Chesterton Court Play Area",
+                  "text": "Chesterton Court Play Area in Chester is ideal for kids to burn off energy in the afternoon.",
+                  "category": "family",
+                  "coords": [
+                        -2.885883,
+                        53.202035
+                  ]
+            },
+            {
+                  "name": "Dicksons Field Play Area",
+                  "text": "Dicksons Field Play Area in Chester offers extensive green spaces around the play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -2.887244,
+                        53.205257
+                  ]
+            },
+            {
+                  "name": "Queens Road Park Playground",
+                  "text": "Queens Road Park Playground in Chester is a popular destination for sunny family outings.",
+                  "category": "family",
+                  "coords": [
+                        -2.859321,
+                        53.198243
+                  ]
+            },
+            {
+                  "name": "Duke's Manor",
+                  "text": "The Duke's Manor playground in Chester provides a familiar atmosphere for playing.",
+                  "category": "family",
+                  "coords": [
+                        -2.892721,
+                        53.201527
+                  ]
+            },
+            {
+                  "name": "Upton Dene Play Area",
+                  "text": "Upton Dene Play Area in Chester is a modern playground with various climbing options.",
+                  "category": "family",
+                  "coords": [
+                        -2.902642,
+                        53.21353
+                  ]
+            },
+            {
+                  "name": "Francis Street Play Area",
+                  "text": "Francis Street Play Area in Chester is a practical playground in the urban residential area.",
+                  "category": "family",
+                  "coords": [
+                        -2.883164,
+                        53.195099
+                  ]
+            },
+            {
+                  "name": "Cathedral Roads Play Area",
+                  "text": "Cathedral Roads Play Area in Chester offers children a nice play area near the center.",
+                  "category": "family",
+                  "coords": [
+                        -2.916302,
+                        53.205457
+                  ]
+            },
+            {
+                  "name": "Hop Pole Paddock Play Area",
+                  "text": "Hop Pole Paddock Play Area in Chester is a cozy spot for families with small children.",
+                  "category": "family",
+                  "coords": [
+                        -2.888966,
+                        53.19271
                   ]
             }
       ]
@@ -84952,7 +100477,916 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-stockport-cities-v2.webp",
   },
   {
-    id: "uk-chelmsford-cities-v2",
+    id: "uk-chelmsford-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Broads Green",
+                  "text": "Broads Green ist ein ruhiger See in Chelmsford, der sich perfekt für einen stillen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        0.443444,
+                        51.781363
+                  ]
+            },
+            {
+                  "name": "Middle Lake",
+                  "text": "Der Middle Lake in Chelmsford ist ein wunderschönes Gewässer für einen entspannenden Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        0.556743,
+                        51.713579
+                  ]
+            },
+            {
+                  "name": "Swallow Lake",
+                  "text": "Der Swallow Lake in Chelmsford bietet eine ruhige Umgebung zum Spazierengehen und Genießen der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        0.492552,
+                        51.774326
+                  ]
+            },
+            {
+                  "name": "Channels Lake",
+                  "text": "Channels Lake ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.493142,
+                        51.772752
+                  ]
+            },
+            {
+                  "name": "Condor Lake",
+                  "text": "Condor Lake ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.4927,
+                        51.770816
+                  ]
+            },
+            {
+                  "name": "Micklem Mere",
+                  "text": "Micklem Mere ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.442196,
+                        51.784334
+                  ]
+            },
+            {
+                  "name": "Central Park Lake",
+                  "text": "Central Park Lake ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.464877,
+                        51.733493
+                  ]
+            },
+            {
+                  "name": "Hanningfield Reservoir",
+                  "text": "Hanningfield Reservoir ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.503023,
+                        51.657111
+                  ]
+            },
+            {
+                  "name": "Tuffnel Mere",
+                  "text": "Tuffnel Mere ist ein schöner See in Chelmsford, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        0.444407,
+                        51.779052
+                  ]
+            },
+            {
+                  "name": "Boom Battle Bar",
+                  "text": "Boom Battle Bar ist eine aufregende Spielhalle in Chelmsford, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        0.475567,
+                        51.733617
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.466506,
+                        51.736376
+                  ]
+            },
+            {
+                  "name": "Ninja Warrior",
+                  "text": "Ninja Warrior ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.477398,
+                        51.73206
+                  ]
+            },
+            {
+                  "name": "Berwick Road Play Area",
+                  "text": "Berwick Road Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.46646,
+                        51.757535
+                  ]
+            },
+            {
+                  "name": "Tennyson Road Play Area",
+                  "text": "Tennyson Road Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.460505,
+                        51.749124
+                  ]
+            },
+            {
+                  "name": "Riddiford Drive Play Area",
+                  "text": "Riddiford Drive Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.45884,
+                        51.740818
+                  ]
+            },
+            {
+                  "name": "AirHop Trampoline Park",
+                  "text": "AirHop Trampoline Park ist ein aktiver Trampolinpark in Chelmsford, der Spaß für Kinder und Erwachsene bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.507075,
+                        51.743722
+                  ]
+            },
+            {
+                  "name": "Darnay Rise play area",
+                  "text": "Darnay Rise play area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.446708,
+                        51.752907
+                  ]
+            },
+            {
+                  "name": "Springfield Green Playground",
+                  "text": "Springfield Green Playground ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.492959,
+                        51.743733
+                  ]
+            },
+            {
+                  "name": "Rocket Park",
+                  "text": "Rocket Park ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.47791,
+                        51.747609
+                  ]
+            },
+            {
+                  "name": "Stapleford Close Play Area",
+                  "text": "Stapleford Close Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.467419,
+                        51.73018
+                  ]
+            },
+            {
+                  "name": "Wallasea Gardens Play Area",
+                  "text": "Wallasea Gardens Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.498962,
+                        51.747079
+                  ]
+            },
+            {
+                  "name": "Brackenden Drive Play Area",
+                  "text": "Brackenden Drive Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.490258,
+                        51.754037
+                  ]
+            },
+            {
+                  "name": "Petrebrook Play Area",
+                  "text": "Petrebrook Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.509617,
+                        51.737548
+                  ]
+            },
+            {
+                  "name": "Churchill Rise Play Area",
+                  "text": "Churchill Rise Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.491377,
+                        51.755634
+                  ]
+            },
+            {
+                  "name": "Bonington Chase Play Area",
+                  "text": "Bonington Chase Play Area ist ein toller Spielplatz in Chelmsford, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.49766,
+                        51.752018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Broads Green",
+                  "text": "A Broads Green egy nyugodt tó Chelmsfordban, amely tökéletes egy csendes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        0.443444,
+                        51.781363
+                  ]
+            },
+            {
+                  "name": "Middle Lake",
+                  "text": "A chelmsfordi Middle Lake egy gyönyörű vízfelület, ahonnan pihentető kilátás nyílik.",
+                  "category": "natural",
+                  "coords": [
+                        0.556743,
+                        51.713579
+                  ]
+            },
+            {
+                  "name": "Swallow Lake",
+                  "text": "A chelmsfordi Swallow Lake nyugodt környezetet kínál a sétákhoz és a helyi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        0.492552,
+                        51.774326
+                  ]
+            },
+            {
+                  "name": "Channels Lake",
+                  "text": "A(z) Channels Lake egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.493142,
+                        51.772752
+                  ]
+            },
+            {
+                  "name": "Condor Lake",
+                  "text": "A(z) Condor Lake egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.4927,
+                        51.770816
+                  ]
+            },
+            {
+                  "name": "Micklem Mere",
+                  "text": "A(z) Micklem Mere egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.442196,
+                        51.784334
+                  ]
+            },
+            {
+                  "name": "Central Park Lake",
+                  "text": "A(z) Central Park Lake egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.464877,
+                        51.733493
+                  ]
+            },
+            {
+                  "name": "Hanningfield Reservoir",
+                  "text": "A(z) Hanningfield Reservoir egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.503023,
+                        51.657111
+                  ]
+            },
+            {
+                  "name": "Tuffnel Mere",
+                  "text": "A(z) Tuffnel Mere egy kellemes tó Chelmsford területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        0.444407,
+                        51.779052
+                  ]
+            },
+            {
+                  "name": "Boom Battle Bar",
+                  "text": "A(z) Boom Battle Bar egy izgalmas játékterem Chelmsford városában, tökéletes egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        0.475567,
+                        51.733617
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "A(z) Si5 Spy Missions egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.466506,
+                        51.736376
+                  ]
+            },
+            {
+                  "name": "Ninja Warrior",
+                  "text": "A(z) Ninja Warrior egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.477398,
+                        51.73206
+                  ]
+            },
+            {
+                  "name": "Berwick Road Play Area",
+                  "text": "A(z) Berwick Road Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.46646,
+                        51.757535
+                  ]
+            },
+            {
+                  "name": "Tennyson Road Play Area",
+                  "text": "A(z) Tennyson Road Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.460505,
+                        51.749124
+                  ]
+            },
+            {
+                  "name": "Riddiford Drive Play Area",
+                  "text": "A(z) Riddiford Drive Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.45884,
+                        51.740818
+                  ]
+            },
+            {
+                  "name": "AirHop Trampoline Park",
+                  "text": "A(z) AirHop Trampoline Park egy aktív trambulinpark Chelmsford városában, amely szórakozást nyújt gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        0.507075,
+                        51.743722
+                  ]
+            },
+            {
+                  "name": "Darnay Rise play area",
+                  "text": "A(z) Darnay Rise play area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.446708,
+                        51.752907
+                  ]
+            },
+            {
+                  "name": "Springfield Green Playground",
+                  "text": "A(z) Springfield Green Playground egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.492959,
+                        51.743733
+                  ]
+            },
+            {
+                  "name": "Rocket Park",
+                  "text": "A(z) Rocket Park egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.47791,
+                        51.747609
+                  ]
+            },
+            {
+                  "name": "Stapleford Close Play Area",
+                  "text": "A(z) Stapleford Close Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.467419,
+                        51.73018
+                  ]
+            },
+            {
+                  "name": "Wallasea Gardens Play Area",
+                  "text": "A(z) Wallasea Gardens Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.498962,
+                        51.747079
+                  ]
+            },
+            {
+                  "name": "Brackenden Drive Play Area",
+                  "text": "A(z) Brackenden Drive Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.490258,
+                        51.754037
+                  ]
+            },
+            {
+                  "name": "Petrebrook Play Area",
+                  "text": "A(z) Petrebrook Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.509617,
+                        51.737548
+                  ]
+            },
+            {
+                  "name": "Churchill Rise Play Area",
+                  "text": "A(z) Churchill Rise Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.491377,
+                        51.755634
+                  ]
+            },
+            {
+                  "name": "Bonington Chase Play Area",
+                  "text": "A(z) Bonington Chase Play Area egy nagyszerű játszótér Chelmsford városában, amely az egész család számára szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        0.49766,
+                        51.752018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Broads Green",
+                  "text": "Broads Green este un lac senin în Chelmsford, perfect pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        0.443444,
+                        51.781363
+                  ]
+            },
+            {
+                  "name": "Middle Lake",
+                  "text": "Middle Lake din Chelmsford este un lac minunat de vizitat pentru o priveliște relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.556743,
+                        51.713579
+                  ]
+            },
+            {
+                  "name": "Swallow Lake",
+                  "text": "Swallow Lake din Chelmsford oferă un cadru liniștit pentru a vă plimba și a vă bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        0.492552,
+                        51.774326
+                  ]
+            },
+            {
+                  "name": "Channels Lake",
+                  "text": "Channels Lake este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.493142,
+                        51.772752
+                  ]
+            },
+            {
+                  "name": "Condor Lake",
+                  "text": "Condor Lake este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.4927,
+                        51.770816
+                  ]
+            },
+            {
+                  "name": "Micklem Mere",
+                  "text": "Micklem Mere este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.442196,
+                        51.784334
+                  ]
+            },
+            {
+                  "name": "Central Park Lake",
+                  "text": "Central Park Lake este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.464877,
+                        51.733493
+                  ]
+            },
+            {
+                  "name": "Hanningfield Reservoir",
+                  "text": "Hanningfield Reservoir este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.503023,
+                        51.657111
+                  ]
+            },
+            {
+                  "name": "Tuffnel Mere",
+                  "text": "Tuffnel Mere este un lac plăcut situat în Chelmsford, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        0.444407,
+                        51.779052
+                  ]
+            },
+            {
+                  "name": "Boom Battle Bar",
+                  "text": "Boom Battle Bar este o sală de jocuri captivantă în Chelmsford, perfectă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        0.475567,
+                        51.733617
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.466506,
+                        51.736376
+                  ]
+            },
+            {
+                  "name": "Ninja Warrior",
+                  "text": "Ninja Warrior este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.477398,
+                        51.73206
+                  ]
+            },
+            {
+                  "name": "Berwick Road Play Area",
+                  "text": "Berwick Road Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.46646,
+                        51.757535
+                  ]
+            },
+            {
+                  "name": "Tennyson Road Play Area",
+                  "text": "Tennyson Road Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.460505,
+                        51.749124
+                  ]
+            },
+            {
+                  "name": "Riddiford Drive Play Area",
+                  "text": "Riddiford Drive Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.45884,
+                        51.740818
+                  ]
+            },
+            {
+                  "name": "AirHop Trampoline Park",
+                  "text": "AirHop Trampoline Park este un parc de trambuline activ în Chelmsford, oferind distracție atât pentru copii, cât și pentru adulți.",
+                  "category": "family",
+                  "coords": [
+                        0.507075,
+                        51.743722
+                  ]
+            },
+            {
+                  "name": "Darnay Rise play area",
+                  "text": "Darnay Rise play area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.446708,
+                        51.752907
+                  ]
+            },
+            {
+                  "name": "Springfield Green Playground",
+                  "text": "Springfield Green Playground este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.492959,
+                        51.743733
+                  ]
+            },
+            {
+                  "name": "Rocket Park",
+                  "text": "Rocket Park este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.47791,
+                        51.747609
+                  ]
+            },
+            {
+                  "name": "Stapleford Close Play Area",
+                  "text": "Stapleford Close Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.467419,
+                        51.73018
+                  ]
+            },
+            {
+                  "name": "Wallasea Gardens Play Area",
+                  "text": "Wallasea Gardens Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.498962,
+                        51.747079
+                  ]
+            },
+            {
+                  "name": "Brackenden Drive Play Area",
+                  "text": "Brackenden Drive Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.490258,
+                        51.754037
+                  ]
+            },
+            {
+                  "name": "Petrebrook Play Area",
+                  "text": "Petrebrook Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.509617,
+                        51.737548
+                  ]
+            },
+            {
+                  "name": "Churchill Rise Play Area",
+                  "text": "Churchill Rise Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.491377,
+                        51.755634
+                  ]
+            },
+            {
+                  "name": "Bonington Chase Play Area",
+                  "text": "Bonington Chase Play Area este un loc de joacă excelent în Chelmsford, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.49766,
+                        51.752018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Broads Green",
+                  "text": "Broads Green is a serene lake in Chelmsford perfect for a quiet walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        0.443444,
+                        51.781363
+                  ]
+            },
+            {
+                  "name": "Middle Lake",
+                  "text": "Middle Lake in Chelmsford is a lovely body of water to visit for a relaxing scenic view.",
+                  "category": "natural",
+                  "coords": [
+                        0.556743,
+                        51.713579
+                  ]
+            },
+            {
+                  "name": "Swallow Lake",
+                  "text": "Swallow Lake in Chelmsford offers a tranquil setting for walking and enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        0.492552,
+                        51.774326
+                  ]
+            },
+            {
+                  "name": "Channels Lake",
+                  "text": "Channels Lake is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.493142,
+                        51.772752
+                  ]
+            },
+            {
+                  "name": "Condor Lake",
+                  "text": "Condor Lake is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.4927,
+                        51.770816
+                  ]
+            },
+            {
+                  "name": "Micklem Mere",
+                  "text": "Micklem Mere is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.442196,
+                        51.784334
+                  ]
+            },
+            {
+                  "name": "Central Park Lake",
+                  "text": "Central Park Lake is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.464877,
+                        51.733493
+                  ]
+            },
+            {
+                  "name": "Hanningfield Reservoir",
+                  "text": "Hanningfield Reservoir is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.503023,
+                        51.657111
+                  ]
+            },
+            {
+                  "name": "Tuffnel Mere",
+                  "text": "Tuffnel Mere is a pleasant lake located in Chelmsford, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        0.444407,
+                        51.779052
+                  ]
+            },
+            {
+                  "name": "Boom Battle Bar",
+                  "text": "Boom Battle Bar is an exciting amusement arcade in Chelmsford, perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        0.475567,
+                        51.733617
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.466506,
+                        51.736376
+                  ]
+            },
+            {
+                  "name": "Ninja Warrior",
+                  "text": "Ninja Warrior is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.477398,
+                        51.73206
+                  ]
+            },
+            {
+                  "name": "Berwick Road Play Area",
+                  "text": "Berwick Road Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.46646,
+                        51.757535
+                  ]
+            },
+            {
+                  "name": "Tennyson Road Play Area",
+                  "text": "Tennyson Road Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.460505,
+                        51.749124
+                  ]
+            },
+            {
+                  "name": "Riddiford Drive Play Area",
+                  "text": "Riddiford Drive Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.45884,
+                        51.740818
+                  ]
+            },
+            {
+                  "name": "AirHop Trampoline Park",
+                  "text": "AirHop Trampoline Park is an active trampoline park in Chelmsford, providing fun for kids and adults alike.",
+                  "category": "family",
+                  "coords": [
+                        0.507075,
+                        51.743722
+                  ]
+            },
+            {
+                  "name": "Darnay Rise play area",
+                  "text": "Darnay Rise play area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.446708,
+                        51.752907
+                  ]
+            },
+            {
+                  "name": "Springfield Green Playground",
+                  "text": "Springfield Green Playground is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.492959,
+                        51.743733
+                  ]
+            },
+            {
+                  "name": "Rocket Park",
+                  "text": "Rocket Park is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.47791,
+                        51.747609
+                  ]
+            },
+            {
+                  "name": "Stapleford Close Play Area",
+                  "text": "Stapleford Close Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.467419,
+                        51.73018
+                  ]
+            },
+            {
+                  "name": "Wallasea Gardens Play Area",
+                  "text": "Wallasea Gardens Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.498962,
+                        51.747079
+                  ]
+            },
+            {
+                  "name": "Brackenden Drive Play Area",
+                  "text": "Brackenden Drive Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.490258,
+                        51.754037
+                  ]
+            },
+            {
+                  "name": "Petrebrook Play Area",
+                  "text": "Petrebrook Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.509617,
+                        51.737548
+                  ]
+            },
+            {
+                  "name": "Churchill Rise Play Area",
+                  "text": "Churchill Rise Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.491377,
+                        51.755634
+                  ]
+            },
+            {
+                  "name": "Bonington Chase Play Area",
+                  "text": "Bonington Chase Play Area is a great playground in Chelmsford, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.49766,
+                        51.752018
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GB",
     name: { de: "Chelmsford", hu: "Chelmsford", ro: "Chelmsford", en: "Chelmsford" },
@@ -85412,6 +101846,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         0.901306,
                         51.88553
                   ]
+            },
+            {
+                  "name": "Abberton Reservoir",
+                  "text": "Abberton Reservoir ist ein malerischer See in Colchester, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        0.871376,
+                        51.82469
+                  ]
+            },
+            {
+                  "name": "Ardleigh Reservoir",
+                  "text": "Ardleigh Reservoir ist ein malerischer See in Colchester, der eine friedliche Umgebung für Spaziergänge und zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        0.959438,
+                        51.923431
+                  ]
+            },
+            {
+                  "name": "Jump Street",
+                  "text": "Jump Street in Colchester ist ein lebhafter Trampolinpark, der aktiven Spaß und Sprungabenteuer für alle Altersgruppen verspricht.",
+                  "category": "family",
+                  "coords": [
+                        0.900727,
+                        51.898999
+                  ]
+            },
+            {
+                  "name": "Bradford Drive",
+                  "text": "Bradford Drive in Colchester ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.896189,
+                        51.904363
+                  ]
+            },
+            {
+                  "name": "St Bride's Close",
+                  "text": "St Bride's Close in Colchester ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.931679,
+                        51.902248
+                  ]
+            },
+            {
+                  "name": "King Cole Playground",
+                  "text": "King Cole Playground in Colchester ist ein unterhaltsamer Spielplatz, der einen tollen Außenbereich für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        0.918347,
+                        51.897315
+                  ]
             }
       ],
       "hu": [
@@ -85827,6 +102315,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         0.901306,
                         51.88553
+                  ]
+            },
+            {
+                  "name": "Abberton Reservoir",
+                  "text": "A(z) Abberton Reservoir egy festői tó Colchester városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        0.871376,
+                        51.82469
+                  ]
+            },
+            {
+                  "name": "Ardleigh Reservoir",
+                  "text": "A(z) Ardleigh Reservoir egy festői tó Colchester városában, amely békés környezetet kínál sétákhoz és a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        0.959438,
+                        51.923431
+                  ]
+            },
+            {
+                  "name": "Jump Street",
+                  "text": "A(z) Jump Street egy élénk trambulinpark Colchester városában, amely aktív szórakozást és ugrálási élményt ígér minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        0.900727,
+                        51.898999
+                  ]
+            },
+            {
+                  "name": "Bradford Drive",
+                  "text": "A(z) Bradford Drive egy szórakoztató játszótér Colchester városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.896189,
+                        51.904363
+                  ]
+            },
+            {
+                  "name": "St Bride's Close",
+                  "text": "A(z) St Bride's Close egy szórakoztató játszótér Colchester városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.931679,
+                        51.902248
+                  ]
+            },
+            {
+                  "name": "King Cole Playground",
+                  "text": "A(z) King Cole Playground egy szórakoztató játszótér Colchester városában, amely kiváló szabadtéri teret biztosít a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.918347,
+                        51.897315
                   ]
             }
       ],
@@ -86244,6 +102786,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         0.901306,
                         51.88553
                   ]
+            },
+            {
+                  "name": "Abberton Reservoir",
+                  "text": "Abberton Reservoir este un lac pitoresc situat în Colchester, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        0.871376,
+                        51.82469
+                  ]
+            },
+            {
+                  "name": "Ardleigh Reservoir",
+                  "text": "Ardleigh Reservoir este un lac pitoresc situat în Colchester, oferind un cadru liniștit pentru plimbări și admirarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        0.959438,
+                        51.923431
+                  ]
+            },
+            {
+                  "name": "Jump Street",
+                  "text": "Jump Street din Colchester este un parc de trambuline plin de viață care promite distracție activă și sărituri pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        0.900727,
+                        51.898999
+                  ]
+            },
+            {
+                  "name": "Bradford Drive",
+                  "text": "Bradford Drive din Colchester este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        0.896189,
+                        51.904363
+                  ]
+            },
+            {
+                  "name": "St Bride's Close",
+                  "text": "St Bride's Close din Colchester este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        0.931679,
+                        51.902248
+                  ]
+            },
+            {
+                  "name": "King Cole Playground",
+                  "text": "King Cole Playground din Colchester este un loc de joacă distractiv care oferă un spațiu excelent în aer liber pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        0.918347,
+                        51.897315
+                  ]
             }
       ],
       "en": [
@@ -86659,6 +103255,60 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         0.901306,
                         51.88553
+                  ]
+            },
+            {
+                  "name": "Abberton Reservoir",
+                  "text": "Abberton Reservoir is a scenic lake located in Colchester, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        0.871376,
+                        51.82469
+                  ]
+            },
+            {
+                  "name": "Ardleigh Reservoir",
+                  "text": "Ardleigh Reservoir is a scenic lake located in Colchester, offering a peaceful setting for walking and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        0.959438,
+                        51.923431
+                  ]
+            },
+            {
+                  "name": "Jump Street",
+                  "text": "Jump Street in Colchester is a lively trampoline park that promises active fun and bouncing excitement for all ages.",
+                  "category": "family",
+                  "coords": [
+                        0.900727,
+                        51.898999
+                  ]
+            },
+            {
+                  "name": "Bradford Drive",
+                  "text": "Bradford Drive in Colchester is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        0.896189,
+                        51.904363
+                  ]
+            },
+            {
+                  "name": "St Bride's Close",
+                  "text": "St Bride's Close in Colchester is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        0.931679,
+                        51.902248
+                  ]
+            },
+            {
+                  "name": "King Cole Playground",
+                  "text": "King Cole Playground in Colchester is a fun playground that provides a great outdoor space for children and families.",
+                  "category": "family",
+                  "coords": [
+                        0.918347,
+                        51.897315
                   ]
             }
       ]

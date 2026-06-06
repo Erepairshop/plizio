@@ -243,7 +243,412 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "milan",
+    id: "milan", "sights": {
+      "de": [
+            {
+                  "name": "Laghetto Salesina",
+                  "text": "Laghetto Salesina ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.266281,
+                        45.466632
+                  ]
+            },
+            {
+                  "name": "Laghetto Bernolda",
+                  "text": "Laghetto Bernolda ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.109095,
+                        45.423771
+                  ]
+            },
+            {
+                  "name": "Lago di Redecesio",
+                  "text": "Lago di Redecesio ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.271893,
+                        45.478463
+                  ]
+            },
+            {
+                  "name": "Lago Centroparco",
+                  "text": "Lago Centroparco ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.281576,
+                        45.488161
+                  ]
+            },
+            {
+                  "name": "Laghetto Parco Nord",
+                  "text": "Laghetto Parco Nord ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.212678,
+                        45.530832
+                  ]
+            },
+            {
+                  "name": "Lago Verde",
+                  "text": "Lago Verde ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.213694,
+                        45.413612
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Lago dei Cigni ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.267589,
+                        45.500748
+                  ]
+            },
+            {
+                  "name": "Laghetto trefili",
+                  "text": "Laghetto trefili ist ein See in Mailand.",
+                  "category": "natural",
+                  "coords": [
+                        9.270745,
+                        45.503611
+                  ]
+            },
+            {
+                  "name": "Parco Giochi CityLife",
+                  "text": "Ein schöner Spielplatz in Mailand für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.155681,
+                        45.475685
+                  ]
+            },
+            {
+                  "name": "Train pour enfants",
+                  "text": "Ein Spielplatz mit Kindereisenbahn in Mailand.",
+                  "category": "family",
+                  "coords": [
+                        9.175222,
+                        45.476015
+                  ]
+            },
+            {
+                  "name": "Giardini Marco Pannella",
+                  "text": "Ein schöner Spielplatz in Mailand für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.16388,
+                        45.461642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laghetto Salesina",
+                  "text": "A Laghetto Salesina egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.266281,
+                        45.466632
+                  ]
+            },
+            {
+                  "name": "Laghetto Bernolda",
+                  "text": "A Laghetto Bernolda egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.109095,
+                        45.423771
+                  ]
+            },
+            {
+                  "name": "Lago di Redecesio",
+                  "text": "A Lago di Redecesio egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.271893,
+                        45.478463
+                  ]
+            },
+            {
+                  "name": "Lago Centroparco",
+                  "text": "A Lago Centroparco egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.281576,
+                        45.488161
+                  ]
+            },
+            {
+                  "name": "Laghetto Parco Nord",
+                  "text": "A Laghetto Parco Nord egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.212678,
+                        45.530832
+                  ]
+            },
+            {
+                  "name": "Lago Verde",
+                  "text": "A Lago Verde egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.213694,
+                        45.413612
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "A Lago dei Cigni egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.267589,
+                        45.500748
+                  ]
+            },
+            {
+                  "name": "Laghetto trefili",
+                  "text": "A Laghetto trefili egy tó Milánóban.",
+                  "category": "natural",
+                  "coords": [
+                        9.270745,
+                        45.503611
+                  ]
+            },
+            {
+                  "name": "Parco Giochi CityLife",
+                  "text": "Egy szép játszótér Milánóban a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.155681,
+                        45.475685
+                  ]
+            },
+            {
+                  "name": "Train pour enfants",
+                  "text": "Játszótér gyermekvasúttal Milánóban.",
+                  "category": "family",
+                  "coords": [
+                        9.175222,
+                        45.476015
+                  ]
+            },
+            {
+                  "name": "Giardini Marco Pannella",
+                  "text": "Egy szép játszótér Milánóban a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.16388,
+                        45.461642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laghetto Salesina",
+                  "text": "Laghetto Salesina este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.266281,
+                        45.466632
+                  ]
+            },
+            {
+                  "name": "Laghetto Bernolda",
+                  "text": "Laghetto Bernolda este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.109095,
+                        45.423771
+                  ]
+            },
+            {
+                  "name": "Lago di Redecesio",
+                  "text": "Lago di Redecesio este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.271893,
+                        45.478463
+                  ]
+            },
+            {
+                  "name": "Lago Centroparco",
+                  "text": "Lago Centroparco este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.281576,
+                        45.488161
+                  ]
+            },
+            {
+                  "name": "Laghetto Parco Nord",
+                  "text": "Laghetto Parco Nord este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.212678,
+                        45.530832
+                  ]
+            },
+            {
+                  "name": "Lago Verde",
+                  "text": "Lago Verde este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.213694,
+                        45.413612
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Lago dei Cigni este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.267589,
+                        45.500748
+                  ]
+            },
+            {
+                  "name": "Laghetto trefili",
+                  "text": "Laghetto trefili este un lac în Milano.",
+                  "category": "natural",
+                  "coords": [
+                        9.270745,
+                        45.503611
+                  ]
+            },
+            {
+                  "name": "Parco Giochi CityLife",
+                  "text": "Un loc de joacă frumos în Milano pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.155681,
+                        45.475685
+                  ]
+            },
+            {
+                  "name": "Train pour enfants",
+                  "text": "Un loc de joacă cu trenuleț pentru copii în Milano.",
+                  "category": "family",
+                  "coords": [
+                        9.175222,
+                        45.476015
+                  ]
+            },
+            {
+                  "name": "Giardini Marco Pannella",
+                  "text": "Un loc de joacă frumos în Milano pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.16388,
+                        45.461642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laghetto Salesina",
+                  "text": "Laghetto Salesina is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.266281,
+                        45.466632
+                  ]
+            },
+            {
+                  "name": "Laghetto Bernolda",
+                  "text": "Laghetto Bernolda is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.109095,
+                        45.423771
+                  ]
+            },
+            {
+                  "name": "Lago di Redecesio",
+                  "text": "Lago di Redecesio is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.271893,
+                        45.478463
+                  ]
+            },
+            {
+                  "name": "Lago Centroparco",
+                  "text": "Lago Centroparco is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.281576,
+                        45.488161
+                  ]
+            },
+            {
+                  "name": "Laghetto Parco Nord",
+                  "text": "Laghetto Parco Nord is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.212678,
+                        45.530832
+                  ]
+            },
+            {
+                  "name": "Lago Verde",
+                  "text": "Lago Verde is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.213694,
+                        45.413612
+                  ]
+            },
+            {
+                  "name": "Lago dei Cigni",
+                  "text": "Lago dei Cigni is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.267589,
+                        45.500748
+                  ]
+            },
+            {
+                  "name": "Laghetto trefili",
+                  "text": "Laghetto trefili is a lake in Milan.",
+                  "category": "natural",
+                  "coords": [
+                        9.270745,
+                        45.503611
+                  ]
+            },
+            {
+                  "name": "Parco Giochi CityLife",
+                  "text": "A nice playground in Milan for families.",
+                  "category": "family",
+                  "coords": [
+                        9.155681,
+                        45.475685
+                  ]
+            },
+            {
+                  "name": "Train pour enfants",
+                  "text": "A playground with a children's train in Milan.",
+                  "category": "family",
+                  "coords": [
+                        9.175222,
+                        45.476015
+                  ]
+            },
+            {
+                  "name": "Giardini Marco Pannella",
+                  "text": "A nice playground in Milan for families.",
+                  "category": "family",
+                  "coords": [
+                        9.16388,
+                        45.461642
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-lombardia",
     coords: [9.19, 45.4642],
@@ -6337,6 +6742,15 @@ export const italyCities: POI[] = [
                         9.111482,
                         39.218618
                   ]
+            },
+            {
+                  "name": "Laghetto Monte Claro",
+                  "text": "Laghetto Monte Claro ist ein See in Cagliari.",
+                  "category": "natural",
+                  "coords": [
+                        9.11427,
+                        39.235218
+                  ]
             }
       ],
       "hu": [
@@ -6752,6 +7166,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         9.111482,
                         39.218618
+                  ]
+            },
+            {
+                  "name": "Laghetto Monte Claro",
+                  "text": "A Laghetto Monte Claro egy tó Cagliariban.",
+                  "category": "natural",
+                  "coords": [
+                        9.11427,
+                        39.235218
                   ]
             }
       ],
@@ -7169,6 +7592,15 @@ export const italyCities: POI[] = [
                         9.111482,
                         39.218618
                   ]
+            },
+            {
+                  "name": "Laghetto Monte Claro",
+                  "text": "Laghetto Monte Claro este un lac în Cagliari.",
+                  "category": "natural",
+                  "coords": [
+                        9.11427,
+                        39.235218
+                  ]
             }
       ],
       "en": [
@@ -7584,6 +8016,15 @@ export const italyCities: POI[] = [
                   "coords": [
                         9.111482,
                         39.218618
+                  ]
+            },
+            {
+                  "name": "Laghetto Monte Claro",
+                  "text": "Laghetto Monte Claro is a lake in Cagliari.",
+                  "category": "natural",
+                  "coords": [
+                        9.11427,
+                        39.235218
                   ]
             }
       ]

@@ -67,6 +67,51 @@ export const poiExtraGreeceCities: POI[] = [
                         21.43656,
                         37.671536
                   ]
+            },
+            {
+                  "name": "Παιδικη Χαρα",
+                  "text": "Der Spielplatz Παιδικη Χαρα in Pyrgos ist der perfekte Ort für Familien, um mit den Kindern eine aktive Zeit zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Παιδική γωνιά",
+                  "text": "Auf dem Spielplatz Παιδική γωνιά in Pyrgos können Kinder sicher und unbeschwert spielen.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Παιδικη χαρα Βεροπουλου",
+                  "text": "Der Spielplatz Παιδικη χαρα Βεροπουλου in Pyrgos lädt Familien zu einer fröhlichen Pause ein.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Ακαντού",
+                  "text": "Auf dem Spielplatz Ακαντού in Pyrgos finden Kinder spannende Spielgeräte für vergnügliche Stunden.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Πάρκου \"Ξυστρή\"",
+                  "text": "Der Spielplatz Παιδική χαρά Πάρκου \"Ξυστρή\" in Pyrgos ist ideal für Familien, die den Park besuchen möchten.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +176,51 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         21.43656,
                         37.671536
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα",
+                  "text": "A Pyrgos városában lévő Παιδικη Χαρα játszótér tökéletes helyszín a családok számára egy aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Παιδική γωνιά",
+                  "text": "A Pyrgos-ban található Παιδική γωνιά játszótéren a gyerekek biztonságosan és önfeledten játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Παιδικη χαρα Βεροπουλου",
+                  "text": "A Pyrgos-ban lévő Παιδικη χαρα Βεροπουλου játszótér vidám pihenésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Ακαντού",
+                  "text": "A Pyrgos-i Ακαντού játszótéren a gyerekek izgalmas játékokat találhatnak a szórakoztató órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Πάρκου \"Ξυστρή\"",
+                  "text": "A Pyrgos városában található Παιδική χαρά Πάρκου \"Ξυστρή\" ideális a parkba látogató családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
                   ]
             }
       ],
@@ -197,6 +287,51 @@ export const poiExtraGreeceCities: POI[] = [
                         21.43656,
                         37.671536
                   ]
+            },
+            {
+                  "name": "Παιδικη Χαρα",
+                  "text": "Locul de joacă Παιδικη Χαρα din Pyrgos este locul perfect pentru ca familiile să petreacă timp activ cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Παιδική γωνιά",
+                  "text": "La locul de joacă Παιδική γωνιά din Pyrgos, copiii se pot juca în siguranță și fără griji.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Παιδικη χαρα Βεροπουλου",
+                  "text": "Locul de joacă Παιδικη χαρα Βεροπουλου din Pyrgos invită familiile la o pauză plină de veselie.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Ακαντού",
+                  "text": "La locul de joacă Ακαντού din Pyrgos, copiii pot găsi echipamente de joacă captivante pentru ore de distracție.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Πάρκου \"Ξυστρή\"",
+                  "text": "Locul de joacă Παιδική χαρά Πάρκου \"Ξυστρή\" din Pyrgos este ideal pentru familiile care vizitează parcul.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
             }
       ],
       "en": [
@@ -261,6 +396,51 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         21.43656,
                         37.671536
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα",
+                  "text": "The Παιδικη Χαρα playground in Pyrgos is a perfect spot for families to spend active time with their children.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Παιδική γωνιά",
+                  "text": "At the Παιδική γωνιά playground in Pyrgos, children can play safely and happily.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Παιδικη χαρα Βεροπουλου",
+                  "text": "The Παιδικη χαρα Βεροπουλου playground in Pyrgos invites families for a cheerful break.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Ακαντού",
+                  "text": "At the Ακαντού playground in Pyrgos, children can find exciting play equipment for hours of fun.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Πάρκου \"Ξυστρή\"",
+                  "text": "The Παιδική χαρά Πάρκου \"Ξυστρή\" playground in Pyrgos is ideal for families visiting the park.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
                   ]
             }
       ]
@@ -763,6 +943,15 @@ export const poiExtraGreeceCities: POI[] = [
                         22.077794,
                         38.253279
                   ]
+            },
+            {
+                  "name": "παιδικη χαρα παρκου ψηλα αλωνια",
+                  "text": "Ein schöner Spielplatz im Park Ψηλά Αλώνια in Aigio für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
             }
       ],
       "hu": [
@@ -881,6 +1070,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         22.077794,
                         38.253279
+                  ]
+            },
+            {
+                  "name": "παιδικη χαρα παρκου ψηλα αλωνια",
+                  "text": "Egy szép játszótér az Aigio-beli Ψηλά Αλώνια parkban, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
                   ]
             }
       ],
@@ -1001,6 +1199,15 @@ export const poiExtraGreeceCities: POI[] = [
                         22.077794,
                         38.253279
                   ]
+            },
+            {
+                  "name": "παιδικη χαρα παρκου ψηλα αλωνια",
+                  "text": "Un loc de joacă frumos în parcul Ψηλά Αλώνια din Aigio pentru ca cei mici să se joace.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
+                  ]
             }
       ],
       "en": [
@@ -1119,6 +1326,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         22.077794,
                         38.253279
+                  ]
+            },
+            {
+                  "name": "παιδικη χαρα παρκου ψηλα αλωνια",
+                  "text": "A nice playground in the Ψηλά Αλώνια park in Aigio for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.083885,
+                        38.251706
                   ]
             }
       ]
@@ -2887,6 +3103,24 @@ export const poiExtraGreeceCities: POI[] = [
                         23.314296,
                         38.318289
                   ]
+            },
+            {
+                  "name": "Yliki-See",
+                  "text": "Der Yliki-See bei Theben lädt zur Erholung in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        23.280095,
+                        38.406996
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά The Thebes",
+                  "text": "Dieser Spielplatz in Theben bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        23.329439,
+                        38.315043
+                  ]
             }
       ],
       "hu": [
@@ -2960,6 +3194,24 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         23.314296,
                         38.318289
+                  ]
+            },
+            {
+                  "name": "Λίμνη Υλίκη",
+                  "text": "A thébai Yliki-tó kellemes kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        23.280095,
+                        38.406996
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά The Thebes",
+                  "text": "Ez a thébai játszótér mókát kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        23.329439,
+                        38.315043
                   ]
             }
       ],
@@ -3035,6 +3287,24 @@ export const poiExtraGreeceCities: POI[] = [
                         23.314296,
                         38.318289
                   ]
+            },
+            {
+                  "name": "Λίμνη Υλίκη",
+                  "text": "Lacul Yliki de lângă Teba invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.280095,
+                        38.406996
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά The Thebes",
+                  "text": "Acest loc de joacă din Teba oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        23.329439,
+                        38.315043
+                  ]
             }
       ],
       "en": [
@@ -3108,6 +3378,24 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         23.314296,
                         38.318289
+                  ]
+            },
+            {
+                  "name": "Yliki Lake",
+                  "text": "The Yliki Lake near Thebes invites you to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.280095,
+                        38.406996
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά The Thebes",
+                  "text": "This playground in Thebes offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        23.329439,
+                        38.315043
                   ]
             }
       ]
@@ -3226,6 +3514,15 @@ export const poiExtraGreeceCities: POI[] = [
                         22.870308,
                         38.426528
                   ]
+            },
+            {
+                  "name": "παιδική χαρά συνοικισμού",
+                  "text": "Der Spielplatz παιδική χαρά συνοικισμού in Livadeia bietet einen gemütlichen Ort für das Spielen der Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        22.893544,
+                        38.440475
+                  ]
             }
       ],
       "hu": [
@@ -3299,6 +3596,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         22.870308,
                         38.426528
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά συνοικισμού",
+                  "text": "A Livadeia-i παιδική χαρά συνοικισμού játszótér barátságos környezetet kínál a környékbeli gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        22.893544,
+                        38.440475
                   ]
             }
       ],
@@ -3374,6 +3680,15 @@ export const poiExtraGreeceCities: POI[] = [
                         22.870308,
                         38.426528
                   ]
+            },
+            {
+                  "name": "παιδική χαρά συνοικισμού",
+                  "text": "Locul de joacă παιδική χαρά συνοικισμού din Livadeia oferă un spațiu plăcut pentru joaca copiilor din cartier.",
+                  "category": "family",
+                  "coords": [
+                        22.893544,
+                        38.440475
+                  ]
             }
       ],
       "en": [
@@ -3447,6 +3762,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         22.870308,
                         38.426528
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά συνοικισμού",
+                  "text": "The παιδική χαρά συνοικισμού playground in Livadeia offers a pleasant spot for neighborhood children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.893544,
+                        38.440475
                   ]
             }
       ]
@@ -3583,6 +3907,24 @@ export const poiExtraGreeceCities: POI[] = [
                         22.437945,
                         38.892497
                   ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games ist eine Spielhalle in Lamia, die elektronische Spiele und Unterhaltung für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Αφανού",
+                  "text": "Παιδική Χαρά Αφανού ist ein einladender Spielplatz in Lamia, ein toller Ort für Eltern, um ihre Kinder die Natur genießen zu lassen.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
             }
       ],
       "hu": [
@@ -3674,6 +4016,24 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         22.437945,
                         38.892497
+                  ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "A Sat Games egy lamiai játékterem, amely szórakoztató elektronikus játékokat és kikapcsolódást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Αφανού",
+                  "text": "A Παιδική Χαρά Αφανού egy barátságos lamiai játszótér, nagyszerű hely a szülőknek, hogy a szabadba vigyék gyermekeiket.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
                   ]
             }
       ],
@@ -3767,6 +4127,24 @@ export const poiExtraGreeceCities: POI[] = [
                         22.437945,
                         38.892497
                   ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games este o sală de jocuri mecanice din Lamia, care promite jocuri electronice distractive și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Αφανού",
+                  "text": "Παιδική Χαρά Αφανού este un loc de joacă primitor din Lamia, un loc minunat unde părinții pot lăsa copiii să se bucure de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
             }
       ],
       "en": [
@@ -3859,6 +4237,24 @@ export const poiExtraGreeceCities: POI[] = [
                         22.437945,
                         38.892497
                   ]
+            },
+            {
+                  "name": "Sat Games",
+                  "text": "Sat Games is an amusement arcade in Lamia, promising fun electronic games and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        22.432412,
+                        38.901307
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Αφανού",
+                  "text": "Παιδική Χαρά Αφανού is a welcoming playground in Lamia, a great spot for parents to let their children enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        22.446163,
+                        38.901229
+                  ]
             }
       ]
 },
@@ -3931,6 +4327,15 @@ export const poiExtraGreeceCities: POI[] = [
                         21.927115,
                         39.369232
                   ]
+            },
+            {
+                  "name": "Παιδική χαρά Παυσίλυπου",
+                  "text": "Der Spielplatz am Pausilypo-Park in Karditsa ist ein schöner Treffpunkt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
             }
       ],
       "hu": [
@@ -3959,6 +4364,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         21.927115,
                         39.369232
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Παυσίλυπου",
+                  "text": "A karditsai Pausilypo-park játszótere kellemes találkozóhely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
                   ]
             }
       ],
@@ -3989,6 +4403,15 @@ export const poiExtraGreeceCities: POI[] = [
                         21.927115,
                         39.369232
                   ]
+            },
+            {
+                  "name": "Παιδική χαρά Παυσίλυπου",
+                  "text": "Locul de joacă din parcul Pausilypo din Karditsa este un loc de întâlnire frumos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
             }
       ],
       "en": [
@@ -4017,6 +4440,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         21.927115,
                         39.369232
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Παυσίλυπου",
+                  "text": "The playground at Pausilypo Park in Karditsa is a nice meeting place for children.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
                   ]
             }
       ]
@@ -4267,6 +4699,51 @@ export const poiExtraGreeceCities: POI[] = [
                         20.753734,
                         38.957225
                   ]
+            },
+            {
+                  "name": "Mazoma Lagune",
+                  "text": "Die Lagune von Mazoma ist ein wunderschöner See in Preveza, der eine ruhige Umgebung für malerische Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Pogonitsa Lagune",
+                  "text": "Die Lagune von Pogonitsa ist ein Seengebiet in Preveza, wo Besucher die vielfältige Natur und die ruhigen Gewässer der Region beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Saltini See",
+                  "text": "Der Saltini-See befindet sich in Preveza und bietet Spaziergängern eine charmante Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Λίμνη Μικρή Σαλτίνη",
+                  "text": "Der See Mikri Saltini in Preveza ist ein kleinerer, ruhiger See, der sich perfekt für leise Entspannung in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "ΠΑΙΔΙΚΗ ΧΑΡΑ",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ ist ein klassischer lokaler Spielplatz in Preveza, der Rutschen und Schaukeln für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
             }
       ],
       "hu": [
@@ -4430,6 +4907,51 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.753734,
                         38.957225
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Μάζωμα",
+                  "text": "A Mazoma-lagúna egy gyönyörű tó Prevezában, amely nyugodt környezetet biztosít a festői kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Πογονίτσα",
+                  "text": "A Pogonitsa-lagúna egy tóvidék Prevezában, ahol a látogatók megfigyelhetik a régió változatos természetét és nyugodt vizeit.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Λίμνη Σαλτίνη",
+                  "text": "A Saltini-tó Prevezában található, és bájos vizivilágot tár a sétáló látogatók elé.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Λίμνη Μικρή Σαλτίνη",
+                  "text": "A prevezai Mikri Saltini-tó egy kisebb, csendes tó, amely tökéletes a természetben való békés kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "ΠΑΙΔΙΚΗ ΧΑΡΑ",
+                  "text": "A ΠΑΙΔΙΚΗ ΧΑΡΑ egy klasszikus helyi játszótér Prevezában, amely csúszdákat és hintákat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
                   ]
             }
       ],
@@ -4595,6 +5117,51 @@ export const poiExtraGreeceCities: POI[] = [
                         20.753734,
                         38.957225
                   ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Μάζωμα",
+                  "text": "Laguna Mazoma este un lac frumos din Preveza, oferind un mediu senin pentru vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Πογονίτσα",
+                  "text": "Laguna Pogonitsa este o zonă de lac din Preveza unde vizitatorii pot observa natura diversă a regiunii și apele calme.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Λίμνη Σαλτίνη",
+                  "text": "Lacul Saltini este situat în Preveza și prezintă un peisaj acvatic fermecător pentru vizitatorii care trec pe acolo.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Λίμνη Μικρή Σαλτίνη",
+                  "text": "Lacul Mikri Saltini din Preveza este un lac mai mic, liniștit, perfect pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "ΠΑΙΔΙΚΗ ΧΑΡΑ",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ este un loc de joacă clasic local din Preveza, care oferă tobogane și leagăne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
+                  ]
             }
       ],
       "en": [
@@ -4758,6 +5325,51 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.753734,
                         38.957225
+                  ]
+            },
+            {
+                  "name": "Mazoma Lagoon",
+                  "text": "Mazoma Lagoon is a beautiful lake in Preveza, providing a serene environment for scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        20.746603,
+                        39.011687
+                  ]
+            },
+            {
+                  "name": "Pogonitsa Lagoon",
+                  "text": "Pogonitsa Lagoon is a lake area in Preveza where visitors can observe the region's diverse nature and calm waters.",
+                  "category": "natural",
+                  "coords": [
+                        20.815758,
+                        38.963619
+                  ]
+            },
+            {
+                  "name": "Saltini Lake",
+                  "text": "Saltini Lake is situated in Preveza and presents a charming waterscape for visitors walking by.",
+                  "category": "natural",
+                  "coords": [
+                        20.773034,
+                        38.905554
+                  ]
+            },
+            {
+                  "name": "Mikri Saltini Lake",
+                  "text": "Mikri Saltini Lake in Preveza is a smaller, tranquil lake perfect for quiet relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.760788,
+                        38.930584
+                  ]
+            },
+            {
+                  "name": "ΠΑΙΔΙΚΗ ΧΑΡΑ",
+                  "text": "ΠΑΙΔΙΚΗ ΧΑΡΑ is a classic local playground in Preveza, offering slides and swings for children.",
+                  "category": "family",
+                  "coords": [
+                        20.746355,
+                        38.966792
                   ]
             }
       ]
@@ -4984,6 +5596,33 @@ export const poiExtraGreeceCities: POI[] = [
                         20.705688,
                         38.833355
                   ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "Die Alexandros-Salinen in Lefkada bieten eine interessante Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "Der Gyra-See in Lefkada ist ein idyllischer Ort für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Der Marina-Spielplatz in Lefkada ist ideal für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
             }
       ],
       "hu": [
@@ -5165,6 +5804,33 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.705688,
                         38.833355
+                  ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "A Lefkada Town-beli Alexandros sólepárlók érdekes látványt nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "A Lefkada Town-beli Gyra-tó idilli hely egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "A Lefkada Town-beli Marina játszótér ideális az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
                   ]
             }
       ],
@@ -5348,6 +6014,33 @@ export const poiExtraGreeceCities: POI[] = [
                         20.705688,
                         38.833355
                   ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "Salinele Alexandros din Lefkada oferă un cadru interesant.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "Lacul Gyra din Lefkada este un loc idilic pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Locul de joacă Marina din Lefkada este ideal pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
             }
       ],
       "en": [
@@ -5529,6 +6222,33 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.705688,
                         38.833355
+                  ]
+            },
+            {
+                  "name": "Alexandros salt pans",
+                  "text": "The Alexandros salt pans in Lefkada offer an interesting backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Gyra Lake",
+                  "text": "Gyra Lake in Lefkada is an idyllic place for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "The Marina playground in Lefkada is ideal for active children.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
                   ]
             }
       ]
@@ -7279,6 +7999,42 @@ export const poiExtraGreeceCities: POI[] = [
                         24.941287,
                         37.448628
                   ]
+            },
+            {
+                  "name": "Πρασακάκη",
+                  "text": "Der Spielplatz Prasakaki in Ermoupoli lädt Familien zum Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        24.935974,
+                        37.442346
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Κοιμήσεως",
+                  "text": "Dieser Spielplatz in Ermoupoli bietet viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        24.940115,
+                        37.441651
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Πευκακίων",
+                  "text": "Ein schöner Spielplatz in Ermoupoli für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        24.940051,
+                        37.443549
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μεταμόρφωσης",
+                  "text": "Der Spielplatz Metamorphosis in Ermoupoli ist ein tolles Ziel für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        24.941046,
+                        37.445049
+                  ]
             }
       ],
       "hu": [
@@ -7406,6 +8162,42 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         24.941287,
                         37.448628
+                  ]
+            },
+            {
+                  "name": "Πρασακάκη",
+                  "text": "Az Ermoupoli-beli Prasakaki játszótér pihenésre csábítja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        24.935974,
+                        37.442346
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Κοιμήσεως",
+                  "text": "Ez az Ermoupoli-beli játszótér rengeteg helyet kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        24.940115,
+                        37.441651
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Πευκακίων",
+                  "text": "Egy szép játszótér Ermoupoliban egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.940051,
+                        37.443549
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μεταμόρφωσης",
+                  "text": "Az Ermoupoli-beli Metamorphosis játszótér nagyszerű célpont a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.941046,
+                        37.445049
                   ]
             }
       ],
@@ -7535,6 +8327,42 @@ export const poiExtraGreeceCities: POI[] = [
                         24.941287,
                         37.448628
                   ]
+            },
+            {
+                  "name": "Πρασακάκη",
+                  "text": "Locul de joacă Prasakaki din Ermoupoli invită familiile la relaxare.",
+                  "category": "family",
+                  "coords": [
+                        24.935974,
+                        37.442346
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Κοιμήσεως",
+                  "text": "Acest loc de joacă din Ermoupoli oferă mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.940115,
+                        37.441651
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Πευκακίων",
+                  "text": "Un loc de joacă frumos în Ermoupoli pentru o excursie de familie.",
+                  "category": "family",
+                  "coords": [
+                        24.940051,
+                        37.443549
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μεταμόρφωσης",
+                  "text": "Locul de joacă Metamorphosis din Ermoupoli este o destinație grozavă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        24.941046,
+                        37.445049
+                  ]
             }
       ],
       "en": [
@@ -7662,6 +8490,42 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         24.941287,
                         37.448628
+                  ]
+            },
+            {
+                  "name": "Πρασακάκη",
+                  "text": "The Prasakaki playground in Ermoupoli invites families to relax.",
+                  "category": "family",
+                  "coords": [
+                        24.935974,
+                        37.442346
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Κοιμήσεως",
+                  "text": "This playground in Ermoupoli offers plenty of space for play.",
+                  "category": "family",
+                  "coords": [
+                        24.940115,
+                        37.441651
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Πευκακίων",
+                  "text": "A nice playground in Ermoupoli for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        24.940051,
+                        37.443549
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μεταμόρφωσης",
+                  "text": "The Metamorphosis playground in Ermoupoli is a great destination for children.",
+                  "category": "family",
+                  "coords": [
+                        24.941046,
+                        37.445049
                   ]
             }
       ]
@@ -7915,6 +8779,15 @@ export const poiExtraGreeceCities: POI[] = [
                         26.560471,
                         39.113704
                   ]
+            },
+            {
+                  "name": "Καραμέλα παιδότοπος",
+                  "text": "Der Spielplatz Καραμέλα παιδότοπος in Mytilene ist ein buntes Paradies für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        26.543665,
+                        39.092938
+                  ]
             }
       ],
       "hu": [
@@ -8123,6 +8996,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         26.560471,
                         39.113704
+                  ]
+            },
+            {
+                  "name": "Καραμέλα παιδότοπος",
+                  "text": "A Mytilene-i Καραμέλα παιδότοπος játszótér egy színes paradicsom a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        26.543665,
+                        39.092938
                   ]
             }
       ],
@@ -8333,6 +9215,15 @@ export const poiExtraGreeceCities: POI[] = [
                         26.560471,
                         39.113704
                   ]
+            },
+            {
+                  "name": "Καραμέλα παιδότοπος",
+                  "text": "Locul de joacă Καραμέλα παιδότοπος din Mytilene este un paradis colorat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        26.543665,
+                        39.092938
+                  ]
             }
       ],
       "en": [
@@ -8541,6 +9432,15 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         26.560471,
                         39.113704
+                  ]
+            },
+            {
+                  "name": "Καραμέλα παιδότοπος",
+                  "text": "The Καραμέλα παιδότοπος playground in Mytilene is a colorful paradise for children.",
+                  "category": "family",
+                  "coords": [
+                        26.543665,
+                        39.092938
                   ]
             }
       ]
@@ -9228,7 +10128,160 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["La ville de Samos fut fondée au XVIIIe siècle comme port commercial pour le village de Vathy.", "Le Kouros de Samos au musée archéologique est la plus grande statue de kouros isolée avec ses 5,50 mètres.", "Vathy fut la capitale de la Principauté autonome de Samos (1832-1912).", "Le vin de Samos (muscat) est une appellation d'origine protégée depuis 1934.", "La ville ne se trouve qu'à 1,5 kilomètre environ de la péninsule turque de Dilek.", "Le parlement de l'ancienne principauté de Samos est aujourd'hui un monument historique majeur du port."],
     }, image: "/poi-images/city-samos-extra.webp"},
   {
-    id: "city-kos-extra",
+    id: "city-kos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Λιμνοδεξαμενή Ἁγίου Νεκταρίου",
+                  "text": "Das Agios Nektarios Reservoir in Kos Town ist ein ruhiges Gewässer, das zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Αβδελολίμνη",
+                  "text": "Der See Αβδελολίμνη in Kos Town bietet eine schöne Naturkulisse für Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Μεσσαριάς",
+                  "text": "Das Messaria Reservoir in Kos Town ist ein malerischer Ort, ideal, um die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "Auf der Anlage MINI GOLF FANTASY in Kos Town kann die ganze Familie ihr Geschick beim Minigolf unter Beweis stellen.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λιμνοδεξαμενή Ἁγίου Νεκταρίου",
+                  "text": "A Kos Town mellett elhelyezkedő Agios Nektarios Reservoir egy csendes víztározó, amely nyugodt sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Αβδελολίμνη",
+                  "text": "A Kos Town-ban található Αβδελολίμνη tó szép természeti hátteret nyújt a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Μεσσαριάς",
+                  "text": "A Kos Town-i Messaria Reservoir egy festői hely, ideális a környező táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "A Kos Town-ban lévő MINI GOLF FANTASY pályán az egész család próbára teheti ügyességét a minigolfban.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λιμνοδεξαμενή Ἁγίου Νεκταρίου",
+                  "text": "Agios Nektarios Reservoir din Kos Town este un lac liniștit, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Αβδελολίμνη",
+                  "text": "Lacul Αβδελολίμνη din Kos Town oferă un cadru natural frumos pentru excursii în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Μεσσαριάς",
+                  "text": "Messaria Reservoir din Kos Town este un loc pitoresc, ideal pentru a admira peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "La terenul MINI GOLF FANTASY din Kos Town, întreaga familie își poate testa îndemânarea la minigolf.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Nektarios Reservoir",
+                  "text": "The Agios Nektarios Reservoir in Kos Town is a quiet body of water that invites for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Αβδελολίμνη",
+                  "text": "The Αβδελολίμνη lake in Kos Town provides a beautiful natural setting for outdoor excursions.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Messaria Reservoir",
+                  "text": "The Messaria Reservoir in Kos Town is a picturesque spot, ideal for enjoying the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "At the MINI GOLF FANTASY in Kos Town, the whole family can test their skills at miniature golf.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-M",
     coords: [27.2872, 36.8931],
@@ -9579,7 +10632,160 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Lieu de la bataille décisive de Kilkis en juin 1913.", "Site industriel important doté d'une grande zone industrielle (VIPE).", "Abrite la grotte d'Agios Georgios longue de plus de 300 mètres.", "Centre important pour la culture céréalière dans le nord de la Grèce.", "Une grande partie de la population descend de réfugiés du Pont.", "Située à seulement 50 kilomètres environ au nord de Thessalonique."],
     }, image: "/poi-images/city-kilkis-extra.webp"},
   {
-    id: "city-drama-extra",
+    id: "city-drama-extra", "sights": {
+      "de": [
+            {
+                  "name": "Λίμνη Αγίας Βαρβάρας",
+                  "text": "Der See Λίμνη Αγίας Βαρβάρας in Drama ist bekannt für seine idyllische Umgebung und klares Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "Das Kallifytos Reservoir in Drama eignet sich hervorragend für ruhige Wanderungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μυλοποτάμου",
+                  "text": "Das Mylopotamos Reservoir in Drama bietet malerische Ausblicke und ist ein schönes Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Διοικητηρίου",
+                  "text": "Der Spielplatz Παιδική Χαρά Διοικητηρίου in Drama hält viele tolle Spielgeräte für einen spaßigen Familienausflug bereit.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λίμνη Αγίας Βαρβάρας",
+                  "text": "A Drama városában lévő Λίμνη Αγίας Βαρβάρας tó idillikus környezetéről és tiszta vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "A Drama melletti Kallifytos Reservoir kiválóan alkalmas békés vízparti túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μυλοποτάμου",
+                  "text": "A Drama-i Mylopotamos Reservoir festői kilátást nyújt és remek célpont a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Διοικητηρίου",
+                  "text": "A Drama-ban található Παιδική Χαρά Διοικητηρίου játszótér sok nagyszerű játékkal várja a családokat egy vidám kirándulásra.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λίμνη Αγίας Βαρβάρας",
+                  "text": "Lacul Λίμνη Αγίας Βαρβάρας din Drama este cunoscut pentru împrejurimile sale idilice și apa curată.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "Kallifytos Reservoir din Drama este excelent pentru drumeții liniștite de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μυλοποτάμου",
+                  "text": "Mylopotamos Reservoir din Drama oferă priveliști pitorești și este o destinație minunată pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Διοικητηρίου",
+                  "text": "Locul de joacă Παιδική Χαρά Διοικητηρίου din Drama are multe echipamente grozave pentru o ieșire plină de distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Λίμνη Αγίας Βαρβάρας",
+                  "text": "The Λίμνη Αγίας Βαρβάρας lake in Drama is known for its idyllic surroundings and clear water.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "The Kallifytos Reservoir in Drama is perfectly suited for peaceful hikes along the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Mylopotamos reeservoir",
+                  "text": "The Mylopotamos Reservoir in Drama offers scenic views and is a lovely destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Διοικητηρίου",
+                  "text": "The Παιδική Χαρά Διοικητηρίου playground in Drama features many great play structures for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-B",
     coords: [24.1481, 41.1511],

@@ -5613,6 +5613,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.728148,
                         44.107747
                   ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Bonfiglio in Manarola ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
+                  ]
             }
       ],
       "hu": [
@@ -5669,6 +5678,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.728148,
                         44.107747
+                  ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "A manarolai Bonfiglio egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
                   ]
             }
       ],
@@ -5727,6 +5745,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.728148,
                         44.107747
                   ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Bonfiglio din Manarola este un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
+                  ]
             }
       ],
       "en": [
@@ -5783,6 +5810,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.728148,
                         44.107747
+                  ]
+            },
+            {
+                  "name": "Bonfiglio",
+                  "text": "Bonfiglio in Manarola is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        9.725847,
+                        44.107598
                   ]
             }
       ]
@@ -7755,6 +7791,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.39673,
                         43.71524
                   ]
+            },
+            {
+                  "name": "Lago dei Cavalieri",
+                  "text": "Der Lago dei Cavalieri in Pisa ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        10.448844,
+                        43.733643
+                  ]
+            },
+            {
+                  "name": "Lilliput",
+                  "text": "Lilliput in Pisa ist ein toller Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.432633,
+                        43.701326
+                  ]
             }
       ],
       "hu": [
@@ -7833,6 +7887,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.39673,
                         43.71524
+                  ]
+            },
+            {
+                  "name": "Lago dei Cavalieri",
+                  "text": "A pisai Lago dei Cavalieri egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        10.448844,
+                        43.733643
+                  ]
+            },
+            {
+                  "name": "Lilliput",
+                  "text": "A pisai Lilliput nagyszerű játszótér a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.432633,
+                        43.701326
                   ]
             }
       ],
@@ -7913,6 +7985,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.39673,
                         43.71524
                   ]
+            },
+            {
+                  "name": "Lago dei Cavalieri",
+                  "text": "Lago dei Cavalieri din Pisa este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        10.448844,
+                        43.733643
+                  ]
+            },
+            {
+                  "name": "Lilliput",
+                  "text": "Lilliput din Pisa este un loc de joacă minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.432633,
+                        43.701326
+                  ]
             }
       ],
       "en": [
@@ -7991,6 +8081,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.39673,
                         43.71524
+                  ]
+            },
+            {
+                  "name": "Lago dei Cavalieri",
+                  "text": "Lago dei Cavalieri in Pisa is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        10.448844,
+                        43.733643
+                  ]
+            },
+            {
+                  "name": "Lilliput",
+                  "text": "Lilliput in Pisa is a great playground for children.",
+                  "category": "family",
+                  "coords": [
+                        10.432633,
+                        43.701326
                   ]
             }
       ]
@@ -10038,6 +10146,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.331392,
                         43.318723
                   ]
+            },
+            {
+                  "name": "Lago di Monaciano",
+                  "text": "Der Lago di Monaciano in Siena ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.361634,
+                        43.355815
+                  ]
+            },
+            {
+                  "name": "Lago di Camposodo",
+                  "text": "Der Lago di Camposodo in Siena ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.403636,
+                        43.282096
+                  ]
+            },
+            {
+                  "name": "Lago di Chieci",
+                  "text": "Der Lago di Chieci in Siena ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.350708,
+                        43.387488
+                  ]
+            },
+            {
+                  "name": "Lago de Le Coste",
+                  "text": "Der Lago de Le Coste in Siena ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.294378,
+                        43.323136
+                  ]
+            },
+            {
+                  "name": "Lago della Tristezza",
+                  "text": "Der Lago della Tristezza in Siena ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.34447,
+                        43.253883
+                  ]
+            },
+            {
+                  "name": "Children's House Ludoteca Siena",
+                  "text": "Die Children's House Ludoteca in Siena ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.314148,
+                        43.330753
+                  ]
+            },
+            {
+                  "name": "Parco Maria Montessori",
+                  "text": "Der Parco Maria Montessori in Siena bietet einen schönen Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        11.333923,
+                        43.317446
+                  ]
+            },
+            {
+                  "name": "Giardino Emilio Montagnani",
+                  "text": "Der Giardino Emilio Montagnani in Siena ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        11.337974,
+                        43.324206
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Pescaia",
+                  "text": "Der Parco Giochi Pescaia in Siena ist ein toller Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        11.317217,
+                        43.323676
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Der Parco Norma Cossetto in Siena bietet einen tollen Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.322424,
+                        43.327464
+                  ]
             }
       ],
       "hu": [
@@ -10127,6 +10325,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.331392,
                         43.318723
+                  ]
+            },
+            {
+                  "name": "Lago di Monaciano",
+                  "text": "A sienai Lago di Monaciano egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.361634,
+                        43.355815
+                  ]
+            },
+            {
+                  "name": "Lago di Camposodo",
+                  "text": "A sienai Lago di Camposodo egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.403636,
+                        43.282096
+                  ]
+            },
+            {
+                  "name": "Lago di Chieci",
+                  "text": "A sienai Lago di Chieci egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.350708,
+                        43.387488
+                  ]
+            },
+            {
+                  "name": "Lago de Le Coste",
+                  "text": "A sienai Lago de Le Coste egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.294378,
+                        43.323136
+                  ]
+            },
+            {
+                  "name": "Lago della Tristezza",
+                  "text": "A sienai Lago della Tristezza egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.34447,
+                        43.253883
+                  ]
+            },
+            {
+                  "name": "Children's House Ludoteca Siena",
+                  "text": "A sienai Children's House Ludoteca nagyszerű hely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.314148,
+                        43.330753
+                  ]
+            },
+            {
+                  "name": "Parco Maria Montessori",
+                  "text": "A sienai Parco Maria Montessori szép játszóteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        11.333923,
+                        43.317446
+                  ]
+            },
+            {
+                  "name": "Giardino Emilio Montagnani",
+                  "text": "A sienai Giardino Emilio Montagnani egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        11.337974,
+                        43.324206
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Pescaia",
+                  "text": "A sienai Parco Giochi Pescaia nagyszerű hely a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.317217,
+                        43.323676
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "A sienai Parco Norma Cossetto nagyszerű játszóteret kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        11.322424,
+                        43.327464
                   ]
             }
       ],
@@ -10218,6 +10506,96 @@ export const poiExtraItalyV2: POI[] = [
                         11.331392,
                         43.318723
                   ]
+            },
+            {
+                  "name": "Lago di Monaciano",
+                  "text": "Lago di Monaciano din Siena este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.361634,
+                        43.355815
+                  ]
+            },
+            {
+                  "name": "Lago di Camposodo",
+                  "text": "Lago di Camposodo din Siena este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.403636,
+                        43.282096
+                  ]
+            },
+            {
+                  "name": "Lago di Chieci",
+                  "text": "Lago di Chieci din Siena este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.350708,
+                        43.387488
+                  ]
+            },
+            {
+                  "name": "Lago de Le Coste",
+                  "text": "Lago de Le Coste din Siena este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.294378,
+                        43.323136
+                  ]
+            },
+            {
+                  "name": "Lago della Tristezza",
+                  "text": "Lago della Tristezza din Siena este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.34447,
+                        43.253883
+                  ]
+            },
+            {
+                  "name": "Children's House Ludoteca Siena",
+                  "text": "Children's House Ludoteca din Siena este un loc grozav pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.314148,
+                        43.330753
+                  ]
+            },
+            {
+                  "name": "Parco Maria Montessori",
+                  "text": "Parco Maria Montessori din Siena oferă un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        11.333923,
+                        43.317446
+                  ]
+            },
+            {
+                  "name": "Giardino Emilio Montagnani",
+                  "text": "Giardino Emilio Montagnani din Siena este un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        11.337974,
+                        43.324206
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Pescaia",
+                  "text": "Parco Giochi Pescaia din Siena este un loc grozav pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        11.317217,
+                        43.323676
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Parco Norma Cossetto din Siena oferă un loc de joacă minunat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.322424,
+                        43.327464
+                  ]
             }
       ],
       "en": [
@@ -10307,6 +10685,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.331392,
                         43.318723
+                  ]
+            },
+            {
+                  "name": "Lago di Monaciano",
+                  "text": "Lago di Monaciano in Siena is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.361634,
+                        43.355815
+                  ]
+            },
+            {
+                  "name": "Lago di Camposodo",
+                  "text": "Lago di Camposodo in Siena is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.403636,
+                        43.282096
+                  ]
+            },
+            {
+                  "name": "Lago di Chieci",
+                  "text": "Lago di Chieci in Siena is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.350708,
+                        43.387488
+                  ]
+            },
+            {
+                  "name": "Lago de Le Coste",
+                  "text": "Lago de Le Coste in Siena is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.294378,
+                        43.323136
+                  ]
+            },
+            {
+                  "name": "Lago della Tristezza",
+                  "text": "Lago della Tristezza in Siena is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.34447,
+                        43.253883
+                  ]
+            },
+            {
+                  "name": "Children's House Ludoteca Siena",
+                  "text": "The Children's House Ludoteca in Siena is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        11.314148,
+                        43.330753
+                  ]
+            },
+            {
+                  "name": "Parco Maria Montessori",
+                  "text": "The Parco Maria Montessori in Siena offers a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        11.333923,
+                        43.317446
+                  ]
+            },
+            {
+                  "name": "Giardino Emilio Montagnani",
+                  "text": "The Giardino Emilio Montagnani in Siena is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        11.337974,
+                        43.324206
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Pescaia",
+                  "text": "The Parco Giochi Pescaia in Siena is a great place to play.",
+                  "category": "family",
+                  "coords": [
+                        11.317217,
+                        43.323676
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "The Parco Norma Cossetto in Siena offers a great playground for families.",
+                  "category": "family",
+                  "coords": [
+                        11.322424,
+                        43.327464
                   ]
             }
       ]
@@ -11442,6 +11910,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.399512,
                         40.637757
                   ]
+            },
+            {
+                  "name": "Parco delle Sirene",
+                  "text": "Der Parco delle Sirene in Sorrento bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.348712,
+                        40.611524
+                  ]
             }
       ],
       "hu": [
@@ -11589,6 +12066,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.399512,
                         40.637757
+                  ]
+            },
+            {
+                  "name": "Parco delle Sirene",
+                  "text": "A sorrentói Parco delle Sirene szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        14.348712,
+                        40.611524
                   ]
             }
       ],
@@ -11738,6 +12224,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.399512,
                         40.637757
                   ]
+            },
+            {
+                  "name": "Parco delle Sirene",
+                  "text": "Parco delle Sirene din Sorrento oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.348712,
+                        40.611524
+                  ]
             }
       ],
       "en": [
@@ -11885,6 +12380,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.399512,
                         40.637757
+                  ]
+            },
+            {
+                  "name": "Parco delle Sirene",
+                  "text": "The Parco delle Sirene in Sorrento offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.348712,
+                        40.611524
                   ]
             }
       ]
@@ -14672,6 +15176,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.315331,
                         40.57156
                   ]
+            },
+            {
+                  "name": "Lago di Surigheddu",
+                  "text": "Der Lago di Surigheddu in Alghero ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        8.395315,
+                        40.588282
+                  ]
+            },
+            {
+                  "name": "Stagno di Calich",
+                  "text": "Der Stagno di Calich in Alghero ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        8.301443,
+                        40.597269
+                  ]
             }
       ],
       "hu": [
@@ -14799,6 +15321,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.315331,
                         40.57156
+                  ]
+            },
+            {
+                  "name": "Lago di Surigheddu",
+                  "text": "Az algherói Lago di Surigheddu egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        8.395315,
+                        40.588282
+                  ]
+            },
+            {
+                  "name": "Stagno di Calich",
+                  "text": "Az algherói Stagno di Calich egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        8.301443,
+                        40.597269
                   ]
             }
       ],
@@ -14928,6 +15468,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.315331,
                         40.57156
                   ]
+            },
+            {
+                  "name": "Lago di Surigheddu",
+                  "text": "Lago di Surigheddu din Alghero este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        8.395315,
+                        40.588282
+                  ]
+            },
+            {
+                  "name": "Stagno di Calich",
+                  "text": "Stagno di Calich din Alghero este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        8.301443,
+                        40.597269
+                  ]
             }
       ],
       "en": [
@@ -15055,6 +15613,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.315331,
                         40.57156
+                  ]
+            },
+            {
+                  "name": "Lago di Surigheddu",
+                  "text": "Lago di Surigheddu in Alghero is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        8.395315,
+                        40.588282
+                  ]
+            },
+            {
+                  "name": "Stagno di Calich",
+                  "text": "Stagno di Calich in Alghero is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        8.301443,
+                        40.597269
                   ]
             }
       ]
@@ -17080,6 +17656,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.984827,
                         43.275429
                   ]
+            },
+            {
+                  "name": "Parco Emanuele Petri",
+                  "text": "Der Parco Emanuele Petri in Cortona ist ein schöner Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        11.97859,
+                        43.259129
+                  ]
             }
       ],
       "hu": [
@@ -17191,6 +17776,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.984827,
                         43.275429
+                  ]
+            },
+            {
+                  "name": "Parco Emanuele Petri",
+                  "text": "A cortonai Parco Emanuele Petri egy kellemes játszótér.",
+                  "category": "family",
+                  "coords": [
+                        11.97859,
+                        43.259129
                   ]
             }
       ],
@@ -17304,6 +17898,15 @@ export const poiExtraItalyV2: POI[] = [
                         11.984827,
                         43.275429
                   ]
+            },
+            {
+                  "name": "Parco Emanuele Petri",
+                  "text": "Parco Emanuele Petri din Cortona este un loc de joacă frumos.",
+                  "category": "family",
+                  "coords": [
+                        11.97859,
+                        43.259129
+                  ]
             }
       ],
       "en": [
@@ -17415,6 +18018,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.984827,
                         43.275429
+                  ]
+            },
+            {
+                  "name": "Parco Emanuele Petri",
+                  "text": "The Parco Emanuele Petri in Cortona is a nice playground.",
+                  "category": "family",
+                  "coords": [
+                        11.97859,
+                        43.259129
                   ]
             }
       ]
@@ -19807,6 +20419,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.79298,
                         45.815716
                   ]
+            },
+            {
+                  "name": "Gardasee",
+                  "text": "Der Gardasee in Limone Sul Garda ist ein beeindruckender See.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Parco Pubblico",
+                  "text": "Der Parco Pubblico in Limone Sul Garda ist ein toller Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        10.790016,
+                        45.808132
+                  ]
             }
       ],
       "hu": [
@@ -19885,6 +20515,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.79298,
                         45.815716
+                  ]
+            },
+            {
+                  "name": "Garda-tó",
+                  "text": "A limone sul gardai Garda-tó egy lenyűgöző tó.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Parco Pubblico",
+                  "text": "A limone sul gardai Parco Pubblico nagyszerű játszótér.",
+                  "category": "family",
+                  "coords": [
+                        10.790016,
+                        45.808132
                   ]
             }
       ],
@@ -19965,6 +20613,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.79298,
                         45.815716
                   ]
+            },
+            {
+                  "name": "Lacul Garda",
+                  "text": "Lacul Garda din Limone Sul Garda este un lac impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Parco Pubblico",
+                  "text": "Parco Pubblico din Limone Sul Garda este un loc de joacă minunat.",
+                  "category": "family",
+                  "coords": [
+                        10.790016,
+                        45.808132
+                  ]
             }
       ],
       "en": [
@@ -20043,6 +20709,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.79298,
                         45.815716
+                  ]
+            },
+            {
+                  "name": "Lake Garda",
+                  "text": "Lake Garda in Limone Sul Garda is an impressive lake.",
+                  "category": "natural",
+                  "coords": [
+                        10.693904,
+                        45.662571
+                  ]
+            },
+            {
+                  "name": "Parco Pubblico",
+                  "text": "The Parco Pubblico in Limone Sul Garda is a great playground.",
+                  "category": "family",
+                  "coords": [
+                        10.790016,
+                        45.808132
                   ]
             }
       ]
@@ -20847,6 +21531,51 @@ export const poiExtraItalyV2: POI[] = [
                         9.23845,
                         46.026115
                   ]
+            },
+            {
+                  "name": "Bolla di Mezzegra",
+                  "text": "Die Bolla di Mezzegra in Menaggio ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        9.188184,
+                        45.99613
+                  ]
+            },
+            {
+                  "name": "Vasca antincendio Cremia",
+                  "text": "Die Vasca antincendio in Cremia bei Menaggio ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        9.234554,
+                        46.089431
+                  ]
+            },
+            {
+                  "name": "Comer See",
+                  "text": "Der Comer See in Menaggio ist ein berühmter See.",
+                  "category": "natural",
+                  "coords": [
+                        9.227852,
+                        45.991758
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Minigolf in Menaggio ist ein Riesenspaß für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.242258,
+                        46.023274
+                  ]
+            },
+            {
+                  "name": "Oratorio",
+                  "text": "Der Oratorio-Spielplatz in Menaggio ist ein schöner Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.230518,
+                        46.043915
+                  ]
             }
       ],
       "hu": [
@@ -20967,6 +21696,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.23845,
                         46.026115
+                  ]
+            },
+            {
+                  "name": "Bolla di Mezzegra",
+                  "text": "A menaggioi Bolla di Mezzegra egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        9.188184,
+                        45.99613
+                  ]
+            },
+            {
+                  "name": "Vasca antincendio Cremia",
+                  "text": "A menaggioi Cremia-beli Vasca antincendio egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        9.234554,
+                        46.089431
+                  ]
+            },
+            {
+                  "name": "Comói-tó",
+                  "text": "A menaggioi Comói-tó egy híres tó.",
+                  "category": "natural",
+                  "coords": [
+                        9.227852,
+                        45.991758
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "A menaggioi minigolf óriási szórakozás a család számára.",
+                  "category": "family",
+                  "coords": [
+                        9.242258,
+                        46.023274
+                  ]
+            },
+            {
+                  "name": "Oratorio",
+                  "text": "A menaggioi Oratorio játszótér kellemes hely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.230518,
+                        46.043915
                   ]
             }
       ],
@@ -21089,6 +21863,51 @@ export const poiExtraItalyV2: POI[] = [
                         9.23845,
                         46.026115
                   ]
+            },
+            {
+                  "name": "Bolla di Mezzegra",
+                  "text": "Bolla di Mezzegra din Menaggio este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        9.188184,
+                        45.99613
+                  ]
+            },
+            {
+                  "name": "Vasca antincendio Cremia",
+                  "text": "Vasca antincendio din Cremia, lângă Menaggio, este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        9.234554,
+                        46.089431
+                  ]
+            },
+            {
+                  "name": "Lacul Como",
+                  "text": "Lacul Como din Menaggio este un lac celebru.",
+                  "category": "natural",
+                  "coords": [
+                        9.227852,
+                        45.991758
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Minigolful din Menaggio este o distracție uriașă pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        9.242258,
+                        46.023274
+                  ]
+            },
+            {
+                  "name": "Oratorio",
+                  "text": "Locul de joacă Oratorio din Menaggio este un loc frumos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.230518,
+                        46.043915
+                  ]
             }
       ],
       "en": [
@@ -21209,6 +22028,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.23845,
                         46.026115
+                  ]
+            },
+            {
+                  "name": "Bolla di Mezzegra",
+                  "text": "Bolla di Mezzegra in Menaggio is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.188184,
+                        45.99613
+                  ]
+            },
+            {
+                  "name": "Vasca antincendio Cremia",
+                  "text": "The Vasca antincendio in Cremia near Menaggio is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.234554,
+                        46.089431
+                  ]
+            },
+            {
+                  "name": "Lake Como",
+                  "text": "Lake Como in Menaggio is a famous lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.227852,
+                        45.991758
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Minigolf in Menaggio is great fun for the family.",
+                  "category": "family",
+                  "coords": [
+                        9.242258,
+                        46.023274
+                  ]
+            },
+            {
+                  "name": "Oratorio",
+                  "text": "The Oratorio playground in Menaggio is a nice place for children.",
+                  "category": "family",
+                  "coords": [
+                        9.230518,
+                        46.043915
                   ]
             }
       ]
@@ -25806,6 +26670,69 @@ export const poiExtraItalyV2: POI[] = [
                         12.554642,
                         44.077945
                   ]
+            },
+            {
+                  "name": "Lago Mariotti",
+                  "text": "Der Lago Mariotti in Rimini ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        12.569272,
+                        44.047591
+                  ]
+            },
+            {
+                  "name": "Lago Riviera",
+                  "text": "Der Lago Riviera in Rimini ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        12.52414,
+                        44.086989
+                  ]
+            },
+            {
+                  "name": "Excalibur",
+                  "text": "Excalibur in Rimini ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.591986,
+                        44.05712
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Der Central Park in Rimini bietet Spielspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.578944,
+                        44.06963
+                  ]
+            },
+            {
+                  "name": "Sala Giocchi Bubble",
+                  "text": "Die Sala Giochi Bubble in Rimini ist ein unterhaltsamer Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.541004,
+                        44.086344
+                  ]
+            },
+            {
+                  "name": "Terrybell",
+                  "text": "Terrybell in Rimini ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.587495,
+                        44.061486
+                  ]
+            },
+            {
+                  "name": "Rivergreen golf",
+                  "text": "Rivergreen Golf in Rimini ist ein Riesenspaß für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.575373,
+                        44.075627
+                  ]
             }
       ],
       "hu": [
@@ -25935,6 +26862,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.554642,
                         44.077945
+                  ]
+            },
+            {
+                  "name": "Lago Mariotti",
+                  "text": "A rimini Lago Mariotti egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        12.569272,
+                        44.047591
+                  ]
+            },
+            {
+                  "name": "Lago Riviera",
+                  "text": "A rimini Lago Riviera egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        12.52414,
+                        44.086989
+                  ]
+            },
+            {
+                  "name": "Excalibur",
+                  "text": "A rimini Excalibur nagyszerű hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.591986,
+                        44.05712
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A rimini Central Park játékos szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.578944,
+                        44.06963
+                  ]
+            },
+            {
+                  "name": "Sala Giocchi Bubble",
+                  "text": "A rimini Sala Giochi Bubble szórakoztató hely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.541004,
+                        44.086344
+                  ]
+            },
+            {
+                  "name": "Terrybell",
+                  "text": "A rimini Terrybell nagyszerű hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.587495,
+                        44.061486
+                  ]
+            },
+            {
+                  "name": "Rivergreen golf",
+                  "text": "A rimini Rivergreen Golf óriási szórakozás a család számára.",
+                  "category": "family",
+                  "coords": [
+                        12.575373,
+                        44.075627
                   ]
             }
       ],
@@ -26066,6 +27056,69 @@ export const poiExtraItalyV2: POI[] = [
                         12.554642,
                         44.077945
                   ]
+            },
+            {
+                  "name": "Lago Mariotti",
+                  "text": "Lago Mariotti din Rimini este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        12.569272,
+                        44.047591
+                  ]
+            },
+            {
+                  "name": "Lago Riviera",
+                  "text": "Lago Riviera din Rimini este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        12.52414,
+                        44.086989
+                  ]
+            },
+            {
+                  "name": "Excalibur",
+                  "text": "Excalibur din Rimini este un loc grozav pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.591986,
+                        44.05712
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Central Park din Rimini oferă distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.578944,
+                        44.06963
+                  ]
+            },
+            {
+                  "name": "Sala Giocchi Bubble",
+                  "text": "Sala Giochi Bubble din Rimini este un loc distractiv pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.541004,
+                        44.086344
+                  ]
+            },
+            {
+                  "name": "Terrybell",
+                  "text": "Terrybell din Rimini este un loc grozav pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.587495,
+                        44.061486
+                  ]
+            },
+            {
+                  "name": "Rivergreen golf",
+                  "text": "Rivergreen Golf din Rimini este o distracție uriașă pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        12.575373,
+                        44.075627
+                  ]
             }
       ],
       "en": [
@@ -26195,6 +27248,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.554642,
                         44.077945
+                  ]
+            },
+            {
+                  "name": "Lago Mariotti",
+                  "text": "Lago Mariotti in Rimini is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        12.569272,
+                        44.047591
+                  ]
+            },
+            {
+                  "name": "Lago Riviera",
+                  "text": "Lago Riviera in Rimini is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        12.52414,
+                        44.086989
+                  ]
+            },
+            {
+                  "name": "Excalibur",
+                  "text": "Excalibur in Rimini is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        12.591986,
+                        44.05712
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Central Park in Rimini offers fun for families.",
+                  "category": "family",
+                  "coords": [
+                        12.578944,
+                        44.06963
+                  ]
+            },
+            {
+                  "name": "Sala Giocchi Bubble",
+                  "text": "The Sala Giochi Bubble in Rimini is a fun place for families.",
+                  "category": "family",
+                  "coords": [
+                        12.541004,
+                        44.086344
+                  ]
+            },
+            {
+                  "name": "Terrybell",
+                  "text": "Terrybell in Rimini is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        12.587495,
+                        44.061486
+                  ]
+            },
+            {
+                  "name": "Rivergreen golf",
+                  "text": "Rivergreen Golf in Rimini is great fun for the family.",
+                  "category": "family",
+                  "coords": [
+                        12.575373,
+                        44.075627
                   ]
             }
       ]
@@ -29728,6 +30844,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.17358,
                         44.009045
                   ]
+            },
+            {
+                  "name": "Laghi Gallinara",
+                  "text": "Die Laghi Gallinara in Alassio sind ein See.",
+                  "category": "natural",
+                  "coords": [
+                        8.172019,
+                        44.054562
+                  ]
             }
       ],
       "hu": [
@@ -29817,6 +30942,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.17358,
                         44.009045
+                  ]
+            },
+            {
+                  "name": "Laghi Gallinara",
+                  "text": "Az alassiói Laghi Gallinara egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        8.172019,
+                        44.054562
                   ]
             }
       ],
@@ -29908,6 +31042,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.17358,
                         44.009045
                   ]
+            },
+            {
+                  "name": "Laghi Gallinara",
+                  "text": "Laghi Gallinara din Alassio este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        8.172019,
+                        44.054562
+                  ]
             }
       ],
       "en": [
@@ -29997,6 +31140,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.17358,
                         44.009045
+                  ]
+            },
+            {
+                  "name": "Laghi Gallinara",
+                  "text": "Laghi Gallinara in Alassio is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        8.172019,
+                        44.054562
                   ]
             }
       ]
@@ -30808,6 +31960,24 @@ export const poiExtraItalyV2: POI[] = [
                         11.091679,
                         42.409674
                   ]
+            },
+            {
+                  "name": "Laguna di Levante",
+                  "text": "Die Laguna di Levante in Porto Santo Stefano ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.238653,
+                        42.430951
+                  ]
+            },
+            {
+                  "name": "Laguna di Ponente",
+                  "text": "Die Laguna di Ponente in Porto Santo Stefano ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.205364,
+                        42.462143
+                  ]
             }
       ],
       "hu": [
@@ -30891,6 +32061,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.091679,
                         42.409674
+                  ]
+            },
+            {
+                  "name": "Laguna di Levante",
+                  "text": "A Porto Santo Stefanó-i Laguna di Levante egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.238653,
+                        42.430951
+                  ]
+            },
+            {
+                  "name": "Laguna di Ponente",
+                  "text": "A Porto Santo Stefanó-i Laguna di Ponente egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.205364,
+                        42.462143
                   ]
             }
       ],
@@ -30976,6 +32164,24 @@ export const poiExtraItalyV2: POI[] = [
                         11.091679,
                         42.409674
                   ]
+            },
+            {
+                  "name": "Laguna di Levante",
+                  "text": "Laguna di Levante din Porto Santo Stefano este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.238653,
+                        42.430951
+                  ]
+            },
+            {
+                  "name": "Laguna di Ponente",
+                  "text": "Laguna di Ponente din Porto Santo Stefano este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.205364,
+                        42.462143
+                  ]
             }
       ],
       "en": [
@@ -31059,6 +32265,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.091679,
                         42.409674
+                  ]
+            },
+            {
+                  "name": "Laguna di Levante",
+                  "text": "Laguna di Levante in Porto Santo Stefano is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.238653,
+                        42.430951
+                  ]
+            },
+            {
+                  "name": "Laguna di Ponente",
+                  "text": "Laguna di Ponente in Porto Santo Stefano is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.205364,
+                        42.462143
                   ]
             }
       ]
@@ -34734,6 +35958,60 @@ export const poiExtraItalyV2: POI[] = [
                         11.672589,
                         46.574052
                   ]
+            },
+            {
+                  "name": "Wasserspeicher an der Edelweiß Hütte",
+                  "text": "Der Wasserspeicher an der Edelweiß Hütte in Ortisei ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.640716,
+                        46.523329
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher",
+                  "text": "Der Wasserspeicher in Ortisei ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.583529,
+                        46.559357
+                  ]
+            },
+            {
+                  "name": "Punholzweiher",
+                  "text": "Der Punholzweiher in Ortisei ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.585241,
+                        46.612943
+                  ]
+            },
+            {
+                  "name": "Löschweiher Tschan",
+                  "text": "Der Löschweiher Tschan in Ortisei ist ein See.",
+                  "category": "natural",
+                  "coords": [
+                        11.624023,
+                        46.612275
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schgaguler Schwaige",
+                  "text": "Ein schöner Spielplatz in Ortisei für Familien.",
+                  "category": "family",
+                  "coords": [
+                        11.661343,
+                        46.554992
+                  ]
+            },
+            {
+                  "name": "Minigolf Ciamin",
+                  "text": "Minigolfanlage in Ortisei für gemeinsamen Spaß.",
+                  "category": "family",
+                  "coords": [
+                        11.674016,
+                        46.572399
+                  ]
             }
       ],
       "hu": [
@@ -34823,6 +36101,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.672589,
                         46.574052
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher an der Edelweiß Hütte",
+                  "text": "Az ortisei Edelweiß Hütte-nél lévő víztározó egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.640716,
+                        46.523329
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher - Bacino artificiale",
+                  "text": "Az ortisei víztározó egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.583529,
+                        46.559357
+                  ]
+            },
+            {
+                  "name": "Punholzweiher",
+                  "text": "Az ortisei Punholzweiher egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.585241,
+                        46.612943
+                  ]
+            },
+            {
+                  "name": "Löschweiher Tschan",
+                  "text": "Az ortisei Löschweiher Tschan egy tó.",
+                  "category": "natural",
+                  "coords": [
+                        11.624023,
+                        46.612275
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schgaguler Schwaige - Parco giochi Malga Schgaguler",
+                  "text": "Egy szép játszótér Ortisei-ben a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        11.661343,
+                        46.554992
+                  ]
+            },
+            {
+                  "name": "Minigolf Ciamin",
+                  "text": "Minigolfpálya Ortisei-ben a közös szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.674016,
+                        46.572399
                   ]
             }
       ],
@@ -34914,6 +36246,60 @@ export const poiExtraItalyV2: POI[] = [
                         11.672589,
                         46.574052
                   ]
+            },
+            {
+                  "name": "Wasserspeicher an der Edelweiß Hütte",
+                  "text": "Rezervorul de apă de la cabana Edelweiß din Ortisei este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.640716,
+                        46.523329
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher - Bacino artificiale",
+                  "text": "Rezervorul de apă din Ortisei este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.583529,
+                        46.559357
+                  ]
+            },
+            {
+                  "name": "Punholzweiher",
+                  "text": "Punholzweiher din Ortisei este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.585241,
+                        46.612943
+                  ]
+            },
+            {
+                  "name": "Löschweiher Tschan",
+                  "text": "Löschweiher Tschan din Ortisei este un lac.",
+                  "category": "natural",
+                  "coords": [
+                        11.624023,
+                        46.612275
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schgaguler Schwaige - Parco giochi Malga Schgaguler",
+                  "text": "Un loc de joacă frumos în Ortisei pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        11.661343,
+                        46.554992
+                  ]
+            },
+            {
+                  "name": "Minigolf Ciamin",
+                  "text": "Teren de minigolf în Ortisei pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        11.674016,
+                        46.572399
+                  ]
             }
       ],
       "en": [
@@ -35003,6 +36389,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.672589,
                         46.574052
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher an der Edelweiß Hütte",
+                  "text": "The water reservoir at the Edelweiß hut in Ortisei is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.640716,
+                        46.523329
+                  ]
+            },
+            {
+                  "name": "Wasserspeicher - Bacino artificiale",
+                  "text": "The water reservoir in Ortisei is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.583529,
+                        46.559357
+                  ]
+            },
+            {
+                  "name": "Punholzweiher",
+                  "text": "Punholzweiher in Ortisei is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.585241,
+                        46.612943
+                  ]
+            },
+            {
+                  "name": "Löschweiher Tschan",
+                  "text": "Löschweiher Tschan in Ortisei is a lake.",
+                  "category": "natural",
+                  "coords": [
+                        11.624023,
+                        46.612275
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schgaguler Schwaige - Parco giochi Malga Schgaguler",
+                  "text": "A nice playground in Ortisei for families.",
+                  "category": "family",
+                  "coords": [
+                        11.661343,
+                        46.554992
+                  ]
+            },
+            {
+                  "name": "Minigolf Ciamin",
+                  "text": "Mini golf course in Ortisei for family fun.",
+                  "category": "family",
+                  "coords": [
+                        11.674016,
+                        46.572399
                   ]
             }
       ]
@@ -38546,6 +39986,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.234446,
                         40.948366
                   ]
+            },
+            {
+                  "name": "Invaso di Santa Maria",
+                  "text": "Der Invaso di Santa Maria ist ein See bei Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.241038,
+                        40.995012
+                  ]
+            },
+            {
+                  "name": "Invaso di Fornelli",
+                  "text": "Der Invaso di Fornelli ist ein See bei Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.227793,
+                        40.998444
+                  ]
             }
       ],
       "hu": [
@@ -38631,6 +40089,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.234446,
                         40.948366
+                  ]
+            },
+            {
+                  "name": "Invaso di Santa Maria",
+                  "text": "Az Invaso di Santa Maria egy tó Stintino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.241038,
+                        40.995012
+                  ]
+            },
+            {
+                  "name": "Invaso di Fornelli",
+                  "text": "Az Invaso di Fornelli egy tó Stintino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.227793,
+                        40.998444
                   ]
             }
       ],
@@ -38718,6 +40194,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.234446,
                         40.948366
                   ]
+            },
+            {
+                  "name": "Invaso di Santa Maria",
+                  "text": "Invaso di Santa Maria este un lac lângă Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.241038,
+                        40.995012
+                  ]
+            },
+            {
+                  "name": "Invaso di Fornelli",
+                  "text": "Invaso di Fornelli este un lac lângă Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.227793,
+                        40.998444
+                  ]
             }
       ],
       "en": [
@@ -38803,6 +40297,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.234446,
                         40.948366
+                  ]
+            },
+            {
+                  "name": "Invaso di Santa Maria",
+                  "text": "Invaso di Santa Maria is a lake near Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.241038,
+                        40.995012
+                  ]
+            },
+            {
+                  "name": "Invaso di Fornelli",
+                  "text": "Invaso di Fornelli is a lake near Stintino.",
+                  "category": "natural",
+                  "coords": [
+                        8.227793,
+                        40.998444
                   ]
             }
       ]

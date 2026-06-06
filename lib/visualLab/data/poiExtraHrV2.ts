@@ -5540,6 +5540,15 @@ export const poiExtraHrV2: POI[] = [
                         16.380846,
                         46.305991
                   ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "Der Varaždiner See ist ein schöner Ort für einen Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
+                  ]
             }
       ],
       "hu": [
@@ -5749,6 +5758,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.380846,
                         46.305991
+                  ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "A Varaždin-beli tó szép hely egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
                   ]
             }
       ],
@@ -5960,6 +5978,15 @@ export const poiExtraHrV2: POI[] = [
                         16.380846,
                         46.305991
                   ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "Lacul Varaždin este un loc frumos pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
+                  ]
             }
       ],
       "en": [
@@ -6169,6 +6196,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.380846,
                         46.305991
+                  ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "The Varaždin lake is a beautiful place for an excursion.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
                   ]
             }
       ],
@@ -6445,6 +6481,24 @@ export const poiExtraHrV2: POI[] = [
                         13.588814,
                         45.202593
                   ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "Der Maro Kids Club in Funtana bietet ein abwechslungsreiches Spielangebot, das Familienherzen höherschlagen lässt.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Beim Pirate Golf in Funtana können Familien eine aufregende Partie Minigolf in besonderem Ambiente spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
             }
       ],
       "hu": [
@@ -6562,6 +6616,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.588814,
                         45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "A Funtana-ban található Maro Kids Club változatos játéklehetőségeket kínál, amelyek megdobogtatják a családok szívét.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "A Funtana-i Pirate Golf pályáján a családok izgalmas minigolfot játszhatnak különleges környezetben.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
                   ]
             }
       ],
@@ -6681,6 +6753,24 @@ export const poiExtraHrV2: POI[] = [
                         13.588814,
                         45.202593
                   ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "Maro Kids Club din Funtana oferă o gamă variată de jocuri care vor face inimile familiilor să bată mai repede.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "La Pirate Golf din Funtana, familiile se pot bucura de o partidă de minigolf captivantă într-o atmosferă specială.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
             }
       ],
       "en": [
@@ -6798,6 +6888,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.588814,
                         45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "The Maro Kids Club in Funtana offers a varied range of games that will make families' hearts beat faster.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "At Pirate Golf in Funtana, families can play an exciting game of miniature golf in a special setting.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
                   ]
             }
       ],
@@ -7913,6 +8021,24 @@ export const poiExtraHrV2: POI[] = [
                         14.524914,
                         45.123901
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Der See Ponikve bei Malinska auf Krk ist ein Naturjuwel, das zu ausgedehnten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Der See Njivice bei Malinska Krk bietet eine ruhige Atmosphäre für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
             }
       ],
       "hu": [
@@ -8084,6 +8210,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.524914,
                         45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "A Krk szigeti Malinska melletti Ponikve tó egy természeti ékszerdoboz, amely hosszú sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "A Malinska Krk melletti Njivice tó csendes légkört kínál a vízparton eltöltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
                   ]
             }
       ],
@@ -8257,6 +8401,24 @@ export const poiExtraHrV2: POI[] = [
                         14.524914,
                         45.123901
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Lacul Ponikve de lângă Malinska pe insula Krk este o bijuterie naturală care invită la plimbări lungi.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Lacul Njivice de lângă Malinska Krk oferă o atmosferă liniștită pentru ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
             }
       ],
       "en": [
@@ -8428,6 +8590,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.524914,
                         45.123901
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "The Ponikve lake near Malinska on Krk is a natural jewel that invites you for long walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "The Njivice lake near Malinska Krk offers a quiet atmosphere for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
                   ]
             }
       ],
@@ -8727,6 +8907,15 @@ export const poiExtraHrV2: POI[] = [
                         13.903299,
                         44.845141
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša ist ein See in Medulin, der eine schöne Kulisse für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
             }
       ],
       "hu": [
@@ -8894,6 +9083,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.903299,
                         44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "A Medulinban található Bakranjuša tó gyönyörű tájjal várja a kikapcsolódni vágyókat.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
                   ]
             }
       ],
@@ -9063,6 +9261,15 @@ export const poiExtraHrV2: POI[] = [
                         13.903299,
                         44.845141
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša este un lac situat în Medulin, oferind peisaje frumoase pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
             }
       ],
       "en": [
@@ -9230,6 +9437,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.903299,
                         44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša is a lake located in Medulin, offering beautiful scenery for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
                   ]
             }
       ],
@@ -9490,6 +9706,15 @@ export const poiExtraHrV2: POI[] = [
                         14.557165,
                         45.212414
                   ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Der Njivice-See in Omisalj lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
             }
       ],
       "hu": [
@@ -9600,6 +9825,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.557165,
                         45.212414
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Az Omisalj-beli Njivice-tó pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
                   ]
             }
       ],
@@ -9712,6 +9946,15 @@ export const poiExtraHrV2: POI[] = [
                         14.557165,
                         45.212414
                   ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Lacul Njivice din Omišalj invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
+                  ]
             }
       ],
       "en": [
@@ -9822,6 +10065,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.557165,
                         45.212414
+                  ]
+            },
+            {
+                  "name": "Njivice",
+                  "text": "Njivice lake in Omišalj invites you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        14.56275,
+                        45.169344
                   ]
             }
       ],
@@ -11820,6 +12072,33 @@ export const poiExtraHrV2: POI[] = [
                         15.693129,
                         45.788334
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Die Strmec-Seen bei Samobor bieten eine tolle Umgebung zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Trg Antuna Mihanovića",
+                  "text": "Dieser Spielplatz am Trg Antuna Mihanovića in Samobor bietet Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.71967,
+                        45.801583
+                  ]
+            },
+            {
+                  "name": "Park za djecu",
+                  "text": "Ein schöner Spielplatz in Samobor, perfekt für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        15.708488,
+                        45.81189
+                  ]
             }
       ],
       "hu": [
@@ -11989,6 +12268,33 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.693129,
                         45.788334
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "A Samobor melletti Strmec-tavak remek környezetet kínálnak a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Trg Antuna Mihanovića",
+                  "text": "A Samobor-beli Trg Antuna Mihanovića játszótér mókát kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.71967,
+                        45.801583
+                  ]
+            },
+            {
+                  "name": "Park za djecu",
+                  "text": "Egy szép játszótér Samoborban, tökéletes egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.708488,
+                        45.81189
                   ]
             }
       ],
@@ -12160,6 +12466,33 @@ export const poiExtraHrV2: POI[] = [
                         15.693129,
                         45.788334
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Lacurile Strmec de lângă Samobor oferă un cadru minunat pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Trg Antuna Mihanovića",
+                  "text": "Acest loc de joacă din Piața Antun Mihanović din Samobor oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        15.71967,
+                        45.801583
+                  ]
+            },
+            {
+                  "name": "Park za djecu",
+                  "text": "Un loc de joacă frumos în Samobor, perfect pentru o excursie de familie.",
+                  "category": "family",
+                  "coords": [
+                        15.708488,
+                        45.81189
+                  ]
             }
       ],
       "en": [
@@ -12329,6 +12662,33 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.693129,
                         45.788334
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Strmec lakes near Samobor offer a great setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Trg Antuna Mihanovića",
+                  "text": "This playground at Trg Antuna Mihanovića in Samobor offers fun for children.",
+                  "category": "family",
+                  "coords": [
+                        15.71967,
+                        45.801583
+                  ]
+            },
+            {
+                  "name": "Park za djecu",
+                  "text": "A nice playground in Samobor, perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        15.708488,
+                        45.81189
                   ]
             }
       ],
@@ -12748,6 +13108,15 @@ export const poiExtraHrV2: POI[] = [
                         14.70934,
                         45.06526
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve ist ein See in Vrbnik, perfekt um die lokale Naturkulisse zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "hu": [
@@ -12879,6 +13248,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.70934,
                         45.06526
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "A Ponikve egy tó Vrbnikben, amely tökéletes a helyi természeti táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -13012,6 +13390,15 @@ export const poiExtraHrV2: POI[] = [
                         14.70934,
                         45.06526
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve este un lac situat în Vrbnik, perfect pentru a admira peisajul natural local.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "en": [
@@ -13143,6 +13530,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.70934,
                         45.06526
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve is a lake located in Vrbnik, perfect for enjoying the local natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -13804,6 +14200,15 @@ export const poiExtraHrV2: POI[] = [
                         13.903299,
                         44.845141
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Der See Bakranjuša in Banjole ist ein ruhiges Plätzchen in der Natur, ideal für kleine Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
             }
       ],
       "hu": [
@@ -13937,6 +14342,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.903299,
                         44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "A Banjole-ben található Bakranjuša tó egy csendes természeti sarok, ideális kisebb túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
                   ]
             }
       ],
@@ -14072,6 +14486,15 @@ export const poiExtraHrV2: POI[] = [
                         13.903299,
                         44.845141
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Lacul Bakranjuša din Banjole este un loc liniștit în natură, ideal pentru drumeții scurte.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
             }
       ],
       "en": [
@@ -14205,6 +14628,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.903299,
                         44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "The Bakranjuša lake in Banjole is a quiet spot in nature, ideal for short hikes.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
                   ]
             }
       ],
@@ -15133,6 +15565,15 @@ export const poiExtraHrV2: POI[] = [
                         15.16179,
                         43.94057
                   ]
+            },
+            {
+                  "name": "Friedens-See",
+                  "text": "Der Salzsee Jezero Mir im Naturpark Telašćica bei Sali (Dugi Otok) ist berühmt für sein warmes Wasser und die malerische Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.166184,
+                        43.886653
+                  ]
             }
       ],
       "hu": [
@@ -15221,6 +15662,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.16179,
                         43.94057
+                  ]
+            },
+            {
+                  "name": "Jezero Mir",
+                  "text": "A Sali (Dugi Otok) melletti Telašćica Natúrparkban lévő Jezero Mir sós tó meleg vizéről és festői környezetéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        15.166184,
+                        43.886653
                   ]
             }
       ],
@@ -15311,6 +15761,15 @@ export const poiExtraHrV2: POI[] = [
                         15.16179,
                         43.94057
                   ]
+            },
+            {
+                  "name": "Jezero Mir",
+                  "text": "Lacul sărat Jezero Mir din Parcul Natural Telašćica de lângă Sali (Dugi Otok) este renumit pentru apa sa caldă și împrejurimile pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        15.166184,
+                        43.886653
+                  ]
             }
       ],
       "en": [
@@ -15400,6 +15859,15 @@ export const poiExtraHrV2: POI[] = [
                         15.16179,
                         43.94057
                   ]
+            },
+            {
+                  "name": "Jezero Mir",
+                  "text": "The salt lake Jezero Mir in the Telašćica Nature Park near Sali (Dugi Otok) is famous for its warm water and picturesque surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.166184,
+                        43.886653
+                  ]
             }
       ],
       "hr": [
@@ -15480,6 +15948,15 @@ export const poiExtraHrV2: POI[] = [
                         17.182641,
                         43.125162
                   ]
+            },
+            {
+                  "name": "Ljupče",
+                  "text": "Ljupče ist ein See in Gradac, der eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.316426,
+                        43.145063
+                  ]
             }
       ],
       "hu": [
@@ -15501,6 +15978,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.182641,
                         43.125162
+                  ]
+            },
+            {
+                  "name": "Ljupče",
+                  "text": "A Ljupče tó Gradacban található, nyugodt környezetet nyújtva a sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.316426,
+                        43.145063
                   ]
             }
       ],
@@ -15524,6 +16010,15 @@ export const poiExtraHrV2: POI[] = [
                         17.182641,
                         43.125162
                   ]
+            },
+            {
+                  "name": "Ljupče",
+                  "text": "Ljupče este un lac situat în Gradac, oferind un cadru liniștit pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.316426,
+                        43.145063
+                  ]
             }
       ],
       "en": [
@@ -15545,6 +16040,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.182641,
                         43.125162
+                  ]
+            },
+            {
+                  "name": "Ljupče",
+                  "text": "Ljupče is a lake situated in Gradac, providing a calm setting for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        17.316426,
+                        43.145063
                   ]
             }
       ],
@@ -15684,6 +16188,24 @@ export const poiExtraHrV2: POI[] = [
                         17.535446,
                         42.931919
                   ]
+            },
+            {
+                  "name": "Kuti",
+                  "text": "Der Kuti-See bei Klek ist ein wunderschöner Ort in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.603661,
+                        42.955577
+                  ]
+            },
+            {
+                  "name": "Sitnica",
+                  "text": "Der Sitnica-See bei Klek lädt zum Entspannen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        17.550345,
+                        42.880721
+                  ]
             }
       ],
       "hu": [
@@ -15808,6 +16330,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.535446,
                         42.931919
+                  ]
+            },
+            {
+                  "name": "Kuti",
+                  "text": "A Klek melletti Kuti-tó gyönyörű hely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.603661,
+                        42.955577
+                  ]
+            },
+            {
+                  "name": "Sitnica",
+                  "text": "A Klek melletti Sitnica-tó pihenésre csábít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.550345,
+                        42.880721
                   ]
             }
       ],
@@ -15934,6 +16474,24 @@ export const poiExtraHrV2: POI[] = [
                         17.535446,
                         42.931919
                   ]
+            },
+            {
+                  "name": "Kuti",
+                  "text": "Lacul Kuti de lângă Klek este un loc minunat în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.603661,
+                        42.955577
+                  ]
+            },
+            {
+                  "name": "Sitnica",
+                  "text": "Lacul Sitnica de lângă Klek invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.550345,
+                        42.880721
+                  ]
             }
       ],
       "en": [
@@ -16058,6 +16616,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.535446,
                         42.931919
+                  ]
+            },
+            {
+                  "name": "Kuti",
+                  "text": "Kuti lake near Klek is a beautiful place in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.603661,
+                        42.955577
+                  ]
+            },
+            {
+                  "name": "Sitnica",
+                  "text": "Sitnica lake near Klek invites you to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.550345,
+                        42.880721
                   ]
             }
       ],
@@ -17166,6 +17742,15 @@ export const poiExtraHrV2: POI[] = [
                         14.778441,
                         44.862525
                   ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "Der Impy Park in Lopar auf Rab ist ein fantastischer Spielbereich, der bei Familien für unvergessliche Momente sorgt.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
             }
       ],
       "hu": [
@@ -17337,6 +17922,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.778441,
                         44.862525
+                  ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "A Rab szigeti Lopar-ban található Impy Park fantasztikus játszótér, amely felejthetetlen pillanatokat szerez a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
                   ]
             }
       ],
@@ -17510,6 +18104,15 @@ export const poiExtraHrV2: POI[] = [
                         14.778441,
                         44.862525
                   ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "Impy Park din Lopar pe insula Rab este o zonă de joacă fantastică, care oferă momente de neuitat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
             }
       ],
       "en": [
@@ -17682,6 +18285,15 @@ export const poiExtraHrV2: POI[] = [
                         14.778441,
                         44.862525
                   ]
+            },
+            {
+                  "name": "Impy park",
+                  "text": "The Impy Park in Lopar on Rab is a fantastic play area that provides unforgettable moments for families.",
+                  "category": "family",
+                  "coords": [
+                        14.736544,
+                        44.822822
+                  ]
             }
       ],
       "hr": [
@@ -17814,10 +18426,50 @@ export const poiExtraHrV2: POI[] = [
       ]
 }},
   {"id": "lovinac", "type": "city", "parent": "HR-09", "coords": [15.7, 44.3917], "population": 1077, "tier": 3, "name": {"de": "Lovinac", "hu": "Lovinac", "ro": "Lovinac", "en": "Lovinac"}, "description": {"de": "Lovinac ist ein idyllisches Bergdorf in der Region Lika, am Fuße des Velebit-Gebirges, bekannt für seine unberührte Natur und Möglichkeiten für Aktivurlaub.", "hu": "Lovinac egy idilli hegyi település Lika régióban, a Velebit-hegység lábánál, amely érintetlen természetéről és az aktív kikapcsolódási lehetőségekről ismert.", "ro": "Lovinac este o localitate montană idilică în regiunea Lika, la poalele munților Velebit, cunoscută pentru natura virgină și oportunitățile de vacanță activă.", "en": "Lovinac is an idyllic mountain village in the Lika region at the foot of the Velebit mountains, known for its pristine nature and active tourism."}, "facts": {"de": ["Region Lika", "Velebit-Gebirge", "Sveti Rok Tunnel", "Karstlandschaft", "Traditionelle Käseherstellung", "Wander- und Radwege", "1077 Einwohner", "Höhenlage"], "hu": ["Lika régió", "Velebit-hegység", "Sveti Rok alagút", "Karsztvidék", "Hagyományos sajtgyártás", "Túra- és kerékpárutak", "1077 lakos", "Magaslati fekvés"], "ro": ["Regiunea Lika", "Munții Velebit", "Tunelul Sveti Rok", "Peisaj carstic", "Producție de brânză tradițională", "Trasee de drumeție și ciclism", "1077 locuitori", "Altitudine montană"], "en": ["Lika region", "Velebit Mountains", "Sveti Rok Tunnel", "Karst landscape", "Traditional cheese making", "Hiking and biking trails", "1077 inhabitants", "High altitude location"]}, "image": "/poi-images/lovinac.webp", "imageHint": "Rural landscape of Lovinac with traditional Lika houses and Velebit peaks", "descriptionAdvanced": {"de": "Lovinac, im Herzen der Lika-Region gelegen, ist ein Refugium der Ruhe, weit entfernt von den überfüllten Küstenorten. Dieses Gebiet ist ein Paradebeispiel für die kroatische Karstlandschaft mit weiten Feldern, dichten Wäldern und kristallklaren Flüssen. Es ist das ideale Reiseziel für Naturliebhaber, Wanderer und alle, die das authentische, ländliche Kroatien erleben möchten. Eine der Hauptattraktionen ist der markante Gipfel des Zir, der Wanderer mit einem spektakulären Panoramablick über die Lika-Ebene belohnt. Die Region ist auch reich an Wasserquellen, darunter die Quelle Sveti Rok, deren Wasser landesweit bekannt ist. Lovinac ist ein Zentrum für nachhaltigen und ländlichen Tourismus. Besucher können auf Bauernhöfen übernachten, lokale Produkte probieren und an landwirtschaftlichen Aktivitäten teilnehmen. Die Gastronomie von Lika ist deftig und köstlich, berühmt für ihre Kartoffeln (Lički krumpir), Lammfleisch und Käsesorten wie „Škripavac“. Ein Aufenthalt in Lovinac bietet eine einzigartige Gelegenheit, abzuschalten und die unberührte Natur und die herzliche Gastfreundschaft des kroatischen Hinterlandes zu genießen.", "hu": "Lovinac, a Lika-régió szívében, a nyugalom menedéke, távol a túlzsúfolt tengerparti üdülőhelyektől. Ez a terület a horvát karsztvidék mintapéldája, tágas mezőkkel, sűrű erdőkkel és kristálytiszta folyókkal. Ideális úti cél a természetbarátok, túrázók és mindazok számára, akik az autentikus, vidéki Horvátországot szeretnék megtapasztalni. Az egyik fő vonzerő a Zir jellegzetes csúcsa, amely a túrázókat a Lika-síkságra nyíló látványos panorámával jutalmazza. A régió bővelkedik vízforrásokban is, köztük a Sveti Rok forrásban, amelynek vize országosan ismert. Lovinac a fenntartható és a falusi turizmus központja. A látogatók parasztgazdaságokban szállhatnak meg, helyi termékeket kóstolhatnak, és részt vehetnek mezőgazdasági tevékenységekben. A likai gasztronómia kiadós és ízletes, híres a burgonyájáról (Lički krumpir), bárányhúsáról és sajtjairól, mint például a „Škripavac”. A lovinaci tartózkodás egyedülálló lehetőséget kínál a kikapcsolódásra, a horvát hátország érintetlen természetének és szívélyes vendégszeretetének élvezetére.", "ro": "Lovinac, situat în inima regiunii Lika, este un refugiu de liniște, departe de stațiunile aglomerate de pe coastă. Această zonă este un exemplu perfect al peisajului carstic croat, cu câmpuri vaste, păduri dese și râuri cristaline. Este destinația ideală pentru iubitorii de natură, drumeți și pentru oricine dorește să experimenteze Croația rurală autentică. Una dintre principalele atracții este vârful proeminent Zir, care îi recompensează pe drumeți cu o panoramă spectaculoasă asupra câmpiei Lika. Regiunea este bogată și în izvoare de apă, inclusiv izvorul Sveti Rok, a cărui apă este renumită la nivel național. Lovinac este un centru pentru turismul durabil și rural. Vizitatorii pot sta la ferme, pot degusta produse locale și pot participa la activități agricole. Gastronomia din Lika este consistentă și delicioasă, renumită pentru cartofii săi (Lički krumpir), carnea de miel și brânzeturile precum „Škripavac”. Un sejur în Lovinac oferă o oportunitate unică de a te deconecta și de a te bucura de natura neatinsă și de ospitalitatea caldă a hinterlandului croat.", "en": "Lovinac, situated in the heart of the Lika region, is a sanctuary of peace far from the crowded coastal resorts. This area is a prime example of Croatia's karst landscape, featuring vast fields, dense forests, and crystal-clear rivers. It is the ideal destination for nature lovers, hikers, and anyone wishing to experience authentic, rural Croatia. One of the main attractions is the prominent peak of Zir, which rewards hikers with a spectacular panoramic view over the Lika plain. The region is also rich in water springs, including the Sveti Rok spring, whose bottled water is famous throughout the country. Lovinac is a hub for sustainable and rural tourism. Visitors can stay on agro-tourism farms, taste local products, and participate in agricultural activities. The gastronomy of Lika is hearty and delicious, famous for its potatoes (Lički krumpir), lamb, and cheeses like \"Škripavac.\" A stay in Lovinac offers a unique opportunity to unwind and enjoy the untouched nature and warm hospitality of the Croatian hinterland."}, "factsAdvanced": {"de": ["Durchschnittliche Höhe: 580 Meter über dem Meeresspiegel", "Länge des nahen Sveti Rok Tunnels: 5674 Meter", "Entfernung zum Naturpark Velebit: 10 Kilometer", "Fläche der Gemeinde: 317 km2", "Wichtigste Kirche: St. Michael (erbaut 1704)", "Traditionelles Produkt: Lika-Kartoffel (geschützte Herkunft)"], "hu": ["Átlagos tengerszint feletti magasság: 580 méter", "A közeli Sveti Rok alagút hossza: 5674 méter", "Távolság a Velebit Természetvédelmi Parktól: 10 kilométer", "A község területe: 317 km2", "Főtemplom: Szent Mihály-templom (épült 1704-ben)", "Hagyományos termék: Likai burgonya (eredetvédett)"], "ro": ["Altitudine medie: 580 metri peste nivelul mării", "Lungimea tunelului Sveti Rok: 5674 metri", "Distanța până la Parcul Natural Velebit: 10 kilometri", "Suprafața comunei: 317 km2", "Biserica principală: Sfântul Mihail (construită în 1704)", "Produs tradițional: Cartoful de Lika (origine protejată)"], "en": ["Average elevation: 580 meters above sea level", "Length of the nearby Sveti Rok tunnel: 5674 meters", "Distance to Velebit Nature Park: 10 kilometers", "Municipality area: 317 km2", "Main church: St. Michael's (built in 1704)", "Traditional product: Lika potato (protected origin)"]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Sveti Rok",
+                  "text": "Sveti Rok ist ein See in Lovinac, bekannt für seine ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.656253,
+                        44.368605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sveti Rok",
+                  "text": "A Sveti Rok egy tó Lovinacban, amely nyugodt környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.656253,
+                        44.368605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sveti Rok",
+                  "text": "Sveti Rok este un lac în Lovinac, cunoscut pentru împrejurimile sale liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        15.656253,
+                        44.368605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sveti Rok",
+                  "text": "Sveti Rok is a lake in Lovinac, known for its tranquil surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.656253,
+                        44.368605
+                  ]
+            }
+      ]
 }},
   {"id": "marina-trogir", "type": "city", "parent": "HR-17", "coords": [16.1056, 43.5167], "population": 4595, "tier": 3, "name": {"de": "Marina (Trogir)", "hu": "Marina (Trogir)", "ro": "Marina (Trogir)", "en": "Marina (Trogir)"}, "description": {"de": "Ein idyllischer Küstenort bei Trogir, bekannt für seinen markanten venezianischen Verteidigungsturm aus dem 15. Jahrhundert und seinen geschützten Yachthafen.", "hu": "Trogir közelében fekvő hangulatos tengerparti település, melynek jelképe a 15. századi reneszánsz vártorony és a vitorlásoknak menedéket nyújtó mély öböl.", "ro": "O așezare de coastă pitorească lângă Trogir, renumită pentru turnul său defensiv venețian din secolul al XV-lea și portul de agrement bine protejat.", "en": "A charming coastal village near Trogir, famous for its iconic 15th-century Renaissance defensive tower and its safe, deep-water yachting marina."}, "facts": {"de": ["Region Split-Dalmatien", "Wahrzeichen: Kastell-Turm", "15. Jahrhundert Ursprung", "Geschützte Marina-Bucht", "Nähe zum Flughafen Split", "Traditioneller Olivenanbau", "Kristallklares Adria-Wasser", "Einstiger Bischofssitz"], "hu": ["Split-Dalmácia megye", "Jelképe a Kula erőd", "15. századi alapítás", "Védett jachtkikötő", "Split repülőtér közelsége", "Híres olívaolaj-termelés", "Kristálytiszta tengerpart", "Trogiri püspökök birtoka"], "ro": ["Județul Split-Dalmația", "Simbolul: Turnul Kula", "Origini în secolul XV", "Port de iahturi protejat", "Aproape de aeroportul Split", "Producție de ulei de măsline", "Ape cristaline ale Adriaticii", "Fostă reședință episcopală"], "en": ["Split-Dalmatia County", "Iconic Kula tower", "15th-century origins", "Protected yacht marina", "Near Split Airport", "Famous olive oil production", "Crystal clear Adriatic Sea", "Former bishops' residence"]}, "image": "/poi-images/marina-trogir.webp", "imageHint": "Renaissance defensive tower in the harbor of Marina village, Croatia", "descriptionAdvanced": {"de": "Marina ist ein malerischer Ort an der dalmatinischen Küste, etwa 12 Kilometer westlich der UNESCO-Stadt Trogir. Das Herzstück des Dorfes ist das imposante Kastell, ein massiver quadratischer Turm, der zwischen 1495 und 1500 von den Bischöfen von Trogir zum Schutz gegen osmanische Angriffe errichtet wurde. Heute beherbergt dieser restaurierte Turm ein Hotel und prägt die Silhouette der tiefen Bucht. Die Region ist seit Jahrhunderten für ihren hochwertigen Olivenanbau bekannt, wobei die umliegenden Hügel von tausenden Olivenbäumen bedeckt sind. Die moderne Marina Agana bietet Seglern einen der sichersten Liegeplätze in Mitteldalmatien. Neben der historischen Architektur lockt der Ort mit feinen Kiesstränden und einer authentischen mediterranen Atmosphäre, die fernab vom Massentourismus der Großstädte geblieben ist.", "hu": "Marina egy festői halászfalu és községközpont Dalmácia szívében, mindössze 12 kilométerre nyugatra Trogir UNESCO-védettségű városától. A település legfontosabb műemléke a tengerparton álló masszív, négyszögletes erődtorony (Kula), amelyet 1495 és 1500 között építtettek a trogiri püspökök védelmi célokból a török portyázások ellen. Az egykori püspöki nyári lakként is szolgáló építmény ma stílusos szállodának ad otthont. A falu mély, védett öble ideális kikötőhely a vitorlázók számára, a modern Marina Agana kikötő 134 vízi hellyel rendelkezik. A környék mezőgazdaságának gerincét évszázadok óta az olívatermesztés adja, a környező lankákon termő bogyókból készül a régió egyik legjobb minőségű olívaolaja. Marina tökéletes célpont azoknak, akik a történelmi miliőt és a nyugodt, kavicsos strandokat keresik.", "ro": "Marina este un sat pitoresc de coastă situat în Dalmația centrală, la aproximativ 12 kilometri vest de orașul Trogir. Piesa centrală a localității este impunătorul turn defensiv pătrat, construit între anii 1495 și 1500 de către episcopii din Trogir pentru a proteja populația de incursiunile otomane. Turnul, care a servit și ca reședință de vară episcopală, a fost restaurat și domină astăzi malul mării, oferind o priveliște istorică unică. Golful adânc în care este situată localitatea oferă o protecție naturală excelentă împotriva vânturilor, făcând din Marina Agana unul dintre cele mai sigure porturi pentru iahturi din regiune. Economia locală este strâns legată de turism și de cultivarea tradițională a măslinelor, dealurile din jur fiind presărate cu livezi vechi. Atmosfera este una relaxată, specific mediteraneană, cu plaje cu pietriș și ape de un turcoaz uimitor.", "en": "Marina is a picturesque coastal settlement and municipality center located in the heart of Dalmatia, just 12 kilometers west of the UNESCO-protected town of Trogir. The architectural highlight of the village is the massive square defensive tower, known as the Kula, built between 1495 and 1500 by the Bishops of Trogir to guard the territory against Ottoman invasions. Originally used as a fortified summer residence for the bishops, the tower has been beautifully restored and now functions as a unique hotel. The village is situated in a deep, sheltered bay that provides excellent natural anchorage, hosting the modern Marina Agana with over 130 berths. For centuries, the local economy has been anchored in olive cultivation, and the surrounding slopes are covered with ancient groves producing world-class oil. Marina offers a perfect blend of historic heritage, tranquil pebble beaches, and authentic Mediterranean charm."}, "factsAdvanced": {"de": ["Der markante Turm wurde exakt im Jahr 1495 als Teil der bischöflichen Befestigung begonnen.", "Die Gemeinde Marina umfasst eine Fläche von rund 108 Quadratkilometern in der Region Dalmatien.", "Der Hafen Marina Agana bietet 134 Liegeplätze im Wasser für Yachten bis zu 25 Metern Länge.", "Die Pfarrkirche St. Jakobus im Ort stammt aus der Spätgotik und wurde im 16. Jahrhundert erweitert.", "Der Ort liegt strategisch günstig nur 15 Kilometer vom internationalen Flughafen Split (SPU) entfernt.", "Die Landwirtschaft konzentriert sich auf über 100.000 Olivenbäume in der unmittelbaren Umgebung."], "hu": ["A település jelképét, a Kula-tornyot pontosan 1495-ben kezdték építeni a trogiri püspökök.", "A Marina község teljes területe körülbelül 108 négyzetkilométert tesz ki Dalmáciában.", "A helyi Marina Agana kikötő 134 vízi és 70 szárazföldi hellyel várja a vitorlázókat.", "A Szent Jakab plébániatemplom késő gótikus stílusú, és a 16. században kapta mai formáját.", "A település kiváló elhelyezkedésű, mindössze 15 kilométerre fekszik a spliti repülőtértől.", "A környéken több mint 100 000 olajfa található, ami a helyi gazdaság egyik fő pillére."], "ro": ["Turnul defensiv emblematic a fost început în anul 1495 din ordinul episcopului de Trogir.", "Municipalitatea Marina acoperă o suprafață de aproximativ 108 kilometri pătrați în Dalmația.", "Portul Marina Agana dispune de 134 de dane la apă pentru ambarcațiuni de până la 25 de metri.", "Biserica parohială Sfântul Iacov datează din perioada goticului târziu, fiind extinsă în secolul XVI.", "Localitatea este situată la o distanță strategică de doar 15 kilometri de Aeroportul Split.", "Regiunea este renumită pentru cele peste 100.000 de măslini cultivați în satele aparținătoare."], "en": ["The iconic defensive tower was commissioned in 1495 as part of the bishopric's fortifications.", "The municipality of Marina covers a total area of approximately 108 square kilometers.", "Marina Agana harbor provides 134 berths in the water for yachts up to 25 meters in length.", "The local Parish Church of St. James dates back to the late Gothic period, enlarged in the 16th century.", "The village is conveniently located just 15 kilometers away from the Split International Airport.", "The local agriculture is sustained by more than 100,000 olive trees in the surrounding hills."]}, "sights": {
       "de": [
@@ -17959,6 +18611,24 @@ export const poiExtraHrV2: POI[] = [
                         18.208031,
                         42.621404
                   ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "Das The big water reservoir in Mlini bietet eine interessante Kulisse für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "Das kleine Gewässer, bekannt als The Dead Sea in Mlini, ist ein ruhiger Ort, um die malerische Küstenlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
             }
       ],
       "hu": [
@@ -17998,6 +18668,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         18.208031,
                         42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "A Mlini-ben található The big water reservoir érdekes hátteret biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "A Mlini-ben The Dead Sea néven ismert kis vízterület egy csendes hely a festői tengerparti táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
                   ]
             }
       ],
@@ -18039,6 +18727,24 @@ export const poiExtraHrV2: POI[] = [
                         18.208031,
                         42.621404
                   ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "The big water reservoir din Mlini oferă un peisaj interesant pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "Micuța apă cunoscută sub numele de The Dead Sea din Mlini este un loc liniștit pentru a vă bucura de peisajul de coastă pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
             }
       ],
       "en": [
@@ -18078,6 +18784,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         18.208031,
                         42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "The big water reservoir in Mlini provides an interesting backdrop for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "The Dead Sea",
+                  "text": "The small body of water known as The Dead Sea in Mlini is a quiet spot to enjoy the picturesque coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
                   ]
             }
       ],
@@ -22023,6 +22747,15 @@ export const poiExtraHrV2: POI[] = [
                         15.743802,
                         43.756799
                   ]
+            },
+            {
+                  "name": "Musina lokva",
+                  "text": "Musina lokva ist ein See in Tribunj, ideal für entspannende Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.803912,
+                        43.799638
+                  ]
             }
       ],
       "hu": [
@@ -22116,6 +22849,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.743802,
                         43.756799
+                  ]
+            },
+            {
+                  "name": "Musina lokva",
+                  "text": "A Musina lokva egy Tribunjban található tó, amely ideális a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        15.803912,
+                        43.799638
                   ]
             }
       ],
@@ -22211,6 +22953,15 @@ export const poiExtraHrV2: POI[] = [
                         15.743802,
                         43.756799
                   ]
+            },
+            {
+                  "name": "Musina lokva",
+                  "text": "Musina lokva este un lac situat în Tribunj, ideal pentru momente de relaxare la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.803912,
+                        43.799638
+                  ]
             }
       ],
       "en": [
@@ -22304,6 +23055,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.743802,
                         43.756799
+                  ]
+            },
+            {
+                  "name": "Musina lokva",
+                  "text": "Musina lokva is a lake located in Tribunj, ideal for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.803912,
+                        43.799638
                   ]
             }
       ],

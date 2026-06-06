@@ -5405,6 +5405,42 @@ export const poiExtraHrV1: POI[] = [
                         14.289989,
                         45.315724
                   ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Kalac in Opatija ist ein schöner Ort für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Šterna",
+                  "text": "Šterna in Opatija ist ein ruhiger See für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        14.349724,
+                        45.373124
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Punta Kolova",
+                  "text": "Der Spielplatz Punta Kolova in Opatija bietet Kindern viel Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        14.295998,
+                        45.320774
+                  ]
+            },
+            {
+                  "name": "Igralište Bregi",
+                  "text": "Spielplatz in Bregi, Opatija.",
+                  "category": "family",
+                  "coords": [
+                        14.300223,
+                        45.34944
+                  ]
             }
       ],
       "hu": [
@@ -5681,6 +5717,42 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.289989,
                         45.315724
+                  ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Az Opatija-i Kalac szép hely egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Šterna",
+                  "text": "Az Opatija-i Šterna egy csendes tó egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        14.349724,
+                        45.373124
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Punta Kolova",
+                  "text": "Az Opatija-i Punta Kolova játszótér sok teret kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.295998,
+                        45.320774
+                  ]
+            },
+            {
+                  "name": "Igralište Bregi",
+                  "text": "Játszótér Bregiben, Opatija városában.",
+                  "category": "family",
+                  "coords": [
+                        14.300223,
+                        45.34944
                   ]
             }
       ],
@@ -5959,6 +6031,42 @@ export const poiExtraHrV1: POI[] = [
                         14.289989,
                         45.315724
                   ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Kalac din Opatija este un loc frumos pentru o plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Šterna",
+                  "text": "Šterna din Opatija este un lac liniștit pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        14.349724,
+                        45.373124
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Punta Kolova",
+                  "text": "Locul de joacă Punta Kolova din Opatija oferă copiilor mult spațiu pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        14.295998,
+                        45.320774
+                  ]
+            },
+            {
+                  "name": "Igralište Bregi",
+                  "text": "Loc de joacă în Bregi, Opatija.",
+                  "category": "family",
+                  "coords": [
+                        14.300223,
+                        45.34944
+                  ]
             }
       ],
       "en": [
@@ -6235,6 +6343,42 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.289989,
                         45.315724
+                  ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Kalac in Opatija is a beautiful place for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Šterna",
+                  "text": "Šterna in Opatija is a quiet lake for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        14.349724,
+                        45.373124
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Punta Kolova",
+                  "text": "The Punta Kolova playground in Opatija offers plenty of space for kids to run around.",
+                  "category": "family",
+                  "coords": [
+                        14.295998,
+                        45.320774
+                  ]
+            },
+            {
+                  "name": "Igralište Bregi",
+                  "text": "Playground in Bregi, Opatija.",
+                  "category": "family",
+                  "coords": [
+                        14.300223,
+                        45.34944
                   ]
             }
       ],
@@ -6627,6 +6771,132 @@ export const poiExtraHrV1: POI[] = [
                         15.623899,
                         44.892681
                   ]
+            },
+            {
+                  "name": "Zigeunersee",
+                  "text": "Ciginovac ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Runder See",
+                  "text": "Okrugljak ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novaković See",
+                  "text": "Novakovića brod ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Kleiner See",
+                  "text": "Malo jezero ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Großer See",
+                  "text": "Veliko jezero ist ein See in Plitvicka Jezera Village, ideal um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Strudelsee",
+                  "text": "Jezero Vir ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavans See",
+                  "text": "Gavanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Gestrüpp-See",
+                  "text": "Prošćansko jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Mönchssee",
+                  "text": "Kaluđerovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milans See",
+                  "text": "Milanovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batićs See",
+                  "text": "Batinovac ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradina See",
+                  "text": "Lake Gradinsko ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Miles' See",
+                  "text": "Milino jezero ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Ziegensee",
+                  "text": "Lake Kozjak ist ein See in Plitvicka Jezera Village, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
             }
       ],
       "hu": [
@@ -6815,6 +7085,132 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.623899,
                         44.892681
+                  ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "A(z) Ciginovac egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "A(z) Okrugljak egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "A(z) Novakovića brod egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "A(z) Malo jezero egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "A(z) Veliko jezero egy tó Plitvicka Jezera Village területén, amely ideális a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "A(z) Jezero Vir egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "A(z) Gavanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "A(z) Prošćansko jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "A(z) Kaluđerovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "A(z) Milanovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "A(z) Batinovac egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradinsko jezero",
+                  "text": "A(z) Lake Gradinsko egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "A(z) Milino jezero egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Jezero Kozjak",
+                  "text": "A(z) Lake Kozjak egy tó Plitvicka Jezera Village területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
                   ]
             }
       ],
@@ -7005,6 +7401,132 @@ export const poiExtraHrV1: POI[] = [
                         15.623899,
                         44.892681
                   ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "Ciginovac este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "Okrugljak este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "Novakovića brod este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "Malo jezero este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Veliko jezero este un lac situat în Plitvicka Jezera Village, perfect pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "Jezero Vir este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "Gavanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "Prošćansko jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "Kaluđerovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "Milanovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "Batinovac este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Gradinsko jezero",
+                  "text": "Lake Gradinsko este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "Milino jezero este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Jezero Kozjak",
+                  "text": "Lake Kozjak este un lac situat în Plitvicka Jezera Village, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
+                  ]
             }
       ],
       "en": [
@@ -7193,6 +7715,132 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.623899,
                         44.892681
+                  ]
+            },
+            {
+                  "name": "Ciginovac",
+                  "text": "Ciginovac is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.595034,
+                        44.872567
+                  ]
+            },
+            {
+                  "name": "Okrugljak",
+                  "text": "Okrugljak is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.600253,
+                        44.872883
+                  ]
+            },
+            {
+                  "name": "Novakovića brod",
+                  "text": "Novakovića brod is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.609901,
+                        44.902212
+                  ]
+            },
+            {
+                  "name": "Malo jezero",
+                  "text": "Malo jezero is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.602177,
+                        44.87454
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Veliko jezero is a lake located in Plitvicka Jezera Village, perfect for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.602333,
+                        44.873252
+                  ]
+            },
+            {
+                  "name": "Jezero Vir",
+                  "text": "Jezero Vir is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.603249,
+                        44.873611
+                  ]
+            },
+            {
+                  "name": "Gavanovac",
+                  "text": "Gavanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.61111,
+                        44.899046
+                  ]
+            },
+            {
+                  "name": "Prošćansko jezero",
+                  "text": "Prošćansko jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.596887,
+                        44.861577
+                  ]
+            },
+            {
+                  "name": "Kaluđerovac",
+                  "text": "Kaluđerovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.610764,
+                        44.901159
+                  ]
+            },
+            {
+                  "name": "Milanovac",
+                  "text": "Milanovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.609751,
+                        44.896303
+                  ]
+            },
+            {
+                  "name": "Batinovac",
+                  "text": "Batinovac is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.603207,
+                        44.871818
+                  ]
+            },
+            {
+                  "name": "Lake Gradinsko",
+                  "text": "Lake Gradinsko is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.611278,
+                        44.878235
+                  ]
+            },
+            {
+                  "name": "Milino jezero",
+                  "text": "Milino jezero is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.609809,
+                        44.876297
+                  ]
+            },
+            {
+                  "name": "Lake Kozjak",
+                  "text": "Lake Kozjak is a lake located in Plitvicka Jezera Village, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.609557,
+                        44.884667
                   ]
             }
       ],
@@ -7558,6 +8206,24 @@ export const poiExtraHrV1: POI[] = [
                         13.847395,
                         44.879333
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša ist ein malerischer See in Pula, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Viška ulica",
+                  "text": "Dječje igralište Viška ulica ist ein toller Spielplatz in Pula, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.842239,
+                        44.853128
+                  ]
             }
       ],
       "hu": [
@@ -7818,6 +8484,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.847395,
                         44.879333
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "A(z) Bakranjuša egy festői tó Pula közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Viška ulica",
+                  "text": "A(z) Dječje igralište Viška ulica egy vidám játszótér Pula területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.842239,
+                        44.853128
                   ]
             }
       ],
@@ -8080,6 +8764,24 @@ export const poiExtraHrV1: POI[] = [
                         13.847395,
                         44.879333
                   ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša este un lac pitoresc situat în Pula, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Viška ulica",
+                  "text": "Dječje igralište Viška ulica este un loc de joacă minunat în Pula, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        13.842239,
+                        44.853128
+                  ]
             }
       ],
       "en": [
@@ -8340,6 +9042,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.847395,
                         44.879333
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Bakranjuša is a scenic lake located in Pula, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Viška ulica",
+                  "text": "Dječje igralište Viška ulica is a fun playground in Pula, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        13.842239,
+                        44.853128
                   ]
             }
       ],
@@ -12566,6 +13286,15 @@ export const poiExtraHrV1: POI[] = [
                         14.695675,
                         45.169474
                   ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "Der Tribalj-See in Crikvenica bietet eine ruhige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
             }
       ],
       "hu": [
@@ -12764,6 +13493,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.695675,
                         45.169474
+                  ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "A crikvenicai Tribalji-tó nyugodt tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
                   ]
             }
       ],
@@ -12964,6 +13702,15 @@ export const poiExtraHrV1: POI[] = [
                         14.695675,
                         45.169474
                   ]
+            },
+            {
+                  "name": "Tribaljsko jezero",
+                  "text": "Lacul Tribalj din Crikvenica oferă un peisaj liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
+                  ]
             }
       ],
       "en": [
@@ -13162,6 +13909,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.695675,
                         45.169474
+                  ]
+            },
+            {
+                  "name": "Lake Tribalj",
+                  "text": "Lake Tribalj in Crikvenica offers a tranquil landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.667361,
+                        45.224994
                   ]
             }
       ],
@@ -14712,6 +15468,15 @@ export const poiExtraHrV1: POI[] = [
                         13.721929,
                         45.378545
                   ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Das Wasserspeicherbecken in Groznjan.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
             }
       ],
       "hu": [
@@ -14744,6 +15509,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.721929,
                         45.378545
+                  ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Víztározó Groznjanban.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
                   ]
             }
       ],
@@ -14778,6 +15552,15 @@ export const poiExtraHrV1: POI[] = [
                         13.721929,
                         45.378545
                   ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Bazin de acumulare a apei în Groznjan.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
             }
       ],
       "en": [
@@ -14810,6 +15593,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.721929,
                         45.378545
+                  ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Water reservoir in Groznjan.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
                   ]
             }
       ],
@@ -14962,6 +15754,15 @@ export const poiExtraHrV1: POI[] = [
                         14.572607,
                         45.025268
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve ist ein See in Krk, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "hu": [
@@ -15099,6 +15900,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.572607,
                         45.025268
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "A(z) Ponikve egy tó Krk területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -15238,6 +16048,15 @@ export const poiExtraHrV1: POI[] = [
                         14.572607,
                         45.025268
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve este un lac situat în Krk, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "en": [
@@ -15375,6 +16194,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.572607,
                         45.025268
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Ponikve is a lake located in Krk, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -15814,6 +16642,24 @@ export const poiExtraHrV1: POI[] = [
                         13.82716,
                         45.323592
                   ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Das Wasserspeicherbecken in Motovun.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
+            },
+            {
+                  "name": "Butoniga Jezero",
+                  "text": "Der Butoniga-See bei Motovun ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        13.931472,
+                        45.325038
+                  ]
             }
       ],
       "hu": [
@@ -15888,6 +16734,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.82716,
                         45.323592
+                  ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Víztározó Motovunban.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
+            },
+            {
+                  "name": "Butoniga Jezero",
+                  "text": "A motovuni Butoniga-tó egy csendes állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        13.931472,
+                        45.325038
                   ]
             }
       ],
@@ -15964,6 +16828,24 @@ export const poiExtraHrV1: POI[] = [
                         13.82716,
                         45.323592
                   ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Bazin de acumulare a apei în Motovun.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
+            },
+            {
+                  "name": "Butoniga Jezero",
+                  "text": "Lacul Butoniga de lângă Motovun este o apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        13.931472,
+                        45.325038
+                  ]
             }
       ],
       "en": [
@@ -16038,6 +16920,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.82716,
                         45.323592
+                  ]
+            },
+            {
+                  "name": "Akumulacija vode",
+                  "text": "Water reservoir in Motovun.",
+                  "category": "natural",
+                  "coords": [
+                        13.76491,
+                        45.381486
+                  ]
+            },
+            {
+                  "name": "Butoniga Jezero",
+                  "text": "Lake Butoniga near Motovun is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        13.931472,
+                        45.325038
                   ]
             }
       ],
@@ -17036,6 +17936,15 @@ export const poiExtraHrV1: POI[] = [
                         14.170717,
                         45.077422
                   ]
+            },
+            {
+                  "name": "Maro Kids Pumptrack",
+                  "text": "Maro Kids Pumptrack ist ein toller Spielplatz in Rabac, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.168796,
+                        45.077481
+                  ]
             }
       ],
       "hu": [
@@ -17149,6 +18058,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.170717,
                         45.077422
+                  ]
+            },
+            {
+                  "name": "Maro Kids Pumptrack",
+                  "text": "A(z) Maro Kids Pumptrack egy vidám játszótér Rabac területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.168796,
+                        45.077481
                   ]
             }
       ],
@@ -17264,6 +18182,15 @@ export const poiExtraHrV1: POI[] = [
                         14.170717,
                         45.077422
                   ]
+            },
+            {
+                  "name": "Maro Kids Pumptrack",
+                  "text": "Maro Kids Pumptrack este un loc de joacă minunat în Rabac, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        14.168796,
+                        45.077481
+                  ]
             }
       ],
       "en": [
@@ -17377,6 +18304,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.170717,
                         45.077422
+                  ]
+            },
+            {
+                  "name": "Maro Kids Pumptrack",
+                  "text": "Maro Kids Pumptrack is a fun playground in Rabac, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        14.168796,
+                        45.077481
                   ]
             }
       ],
@@ -22588,6 +23524,15 @@ export const poiExtraHrV1: POI[] = [
                         14.800015,
                         44.993659
                   ]
+            },
+            {
+                  "name": "Corner",
+                  "text": "Minigolfplatz in Baska, Krk.",
+                  "category": "family",
+                  "coords": [
+                        14.748041,
+                        44.966002
+                  ]
             }
       ],
       "hu": [
@@ -22981,6 +23926,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.800015,
                         44.993659
+                  ]
+            },
+            {
+                  "name": "Corner",
+                  "text": "Minigolfpálya Baska településen, Krk szigetén.",
+                  "category": "family",
+                  "coords": [
+                        14.748041,
+                        44.966002
                   ]
             }
       ],
@@ -23376,6 +24330,15 @@ export const poiExtraHrV1: POI[] = [
                         14.800015,
                         44.993659
                   ]
+            },
+            {
+                  "name": "Corner",
+                  "text": "Teren de minigolf în Baska, Krk.",
+                  "category": "family",
+                  "coords": [
+                        14.748041,
+                        44.966002
+                  ]
             }
       ],
       "en": [
@@ -23769,6 +24732,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.800015,
                         44.993659
+                  ]
+            },
+            {
+                  "name": "Corner",
+                  "text": "Miniature golf course in Baska, Krk.",
+                  "category": "family",
+                  "coords": [
+                        14.748041,
+                        44.966002
                   ]
             }
       ],
@@ -24223,6 +25195,24 @@ export const poiExtraHrV1: POI[] = [
                         15.429352,
                         43.933095
                   ]
+            },
+            {
+                  "name": "Filipjansko jezero",
+                  "text": "Filipjansko jezero ist ein See in Biograd Na Moru, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.458769,
+                        43.99384
+                  ]
+            },
+            {
+                  "name": "Vrana-See",
+                  "text": "Lake Vrana ist ein See in Biograd Na Moru, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
             }
       ],
       "hu": [
@@ -24311,6 +25301,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.429352,
                         43.933095
+                  ]
+            },
+            {
+                  "name": "Filipjansko jezero",
+                  "text": "A(z) Filipjansko jezero egy tó Biograd Na Moru területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.458769,
+                        43.99384
+                  ]
+            },
+            {
+                  "name": "Vránai-tó",
+                  "text": "A(z) Lake Vrana egy tó Biograd Na Moru területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
                   ]
             }
       ],
@@ -24401,6 +25409,24 @@ export const poiExtraHrV1: POI[] = [
                         15.429352,
                         43.933095
                   ]
+            },
+            {
+                  "name": "Filipjansko jezero",
+                  "text": "Filipjansko jezero este un lac situat în Biograd Na Moru, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.458769,
+                        43.99384
+                  ]
+            },
+            {
+                  "name": "Vransko jezero",
+                  "text": "Lake Vrana este un lac situat în Biograd Na Moru, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
             }
       ],
       "en": [
@@ -24489,6 +25515,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.429352,
                         43.933095
+                  ]
+            },
+            {
+                  "name": "Filipjansko jezero",
+                  "text": "Filipjansko jezero is a lake located in Biograd Na Moru, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.458769,
+                        43.99384
+                  ]
+            },
+            {
+                  "name": "Lake Vrana",
+                  "text": "Lake Vrana is a lake located in Biograd Na Moru, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
                   ]
             }
       ],
@@ -24671,6 +25715,33 @@ export const poiExtraHrV1: POI[] = [
                         16.929819,
                         43.368255
                   ]
+            },
+            {
+                  "name": "Pitka voda",
+                  "text": "Pitka voda ist ein malerischer See in Brela, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        17.013632,
+                        43.362043
+                  ]
+            },
+            {
+                  "name": "Bunar",
+                  "text": "Bunar ist ein malerischer See in Brela, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        16.884955,
+                        43.308931
+                  ]
+            },
+            {
+                  "name": "Mijaci",
+                  "text": "Mijaci ist ein malerischer See in Brela, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        16.981672,
+                        43.377871
+                  ]
             }
       ],
       "hu": [
@@ -24793,6 +25864,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.929819,
                         43.368255
+                  ]
+            },
+            {
+                  "name": "Pitka voda",
+                  "text": "A(z) Pitka voda egy festői tó Brela közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        17.013632,
+                        43.362043
+                  ]
+            },
+            {
+                  "name": "Bunar",
+                  "text": "A(z) Bunar egy festői tó Brela közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        16.884955,
+                        43.308931
+                  ]
+            },
+            {
+                  "name": "Mijaci",
+                  "text": "A(z) Mijaci egy festői tó Brela közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        16.981672,
+                        43.377871
                   ]
             }
       ],
@@ -24917,6 +26015,33 @@ export const poiExtraHrV1: POI[] = [
                         16.929819,
                         43.368255
                   ]
+            },
+            {
+                  "name": "Pitka voda",
+                  "text": "Pitka voda este un lac pitoresc situat în Brela, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.013632,
+                        43.362043
+                  ]
+            },
+            {
+                  "name": "Bunar",
+                  "text": "Bunar este un lac pitoresc situat în Brela, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.884955,
+                        43.308931
+                  ]
+            },
+            {
+                  "name": "Mijaci",
+                  "text": "Mijaci este un lac pitoresc situat în Brela, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.981672,
+                        43.377871
+                  ]
             }
       ],
       "en": [
@@ -25039,6 +26164,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.929819,
                         43.368255
+                  ]
+            },
+            {
+                  "name": "Pitka voda",
+                  "text": "Pitka voda is a scenic lake located in Brela, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        17.013632,
+                        43.362043
+                  ]
+            },
+            {
+                  "name": "Bunar",
+                  "text": "Bunar is a scenic lake located in Brela, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        16.884955,
+                        43.308931
+                  ]
+            },
+            {
+                  "name": "Mijaci",
+                  "text": "Mijaci is a scenic lake located in Brela, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        16.981672,
+                        43.377871
                   ]
             }
       ],
@@ -25245,6 +26397,33 @@ export const poiExtraHrV1: POI[] = [
                         13.558016,
                         45.319864
                   ]
+            },
+            {
+                  "name": "Aquapark na napuhavanje",
+                  "text": "Ein aufblasbarer Aquapark für Spaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.55683,
+                        45.316484
+                  ]
+            },
+            {
+                  "name": "Murali edutainment factory",
+                  "text": "Ein unterhaltsamer Spielplatz in Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.54471,
+                        45.34188
+                  ]
+            },
+            {
+                  "name": "Salvela",
+                  "text": "Spielplatz in Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.560652,
+                        45.334541
+                  ]
             }
       ],
       "hu": [
@@ -25346,6 +26525,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.558016,
                         45.319864
+                  ]
+            },
+            {
+                  "name": "Aquapark na napuhavanje",
+                  "text": "Felfújható aquapark az egész család szórakozásához.",
+                  "category": "family",
+                  "coords": [
+                        13.55683,
+                        45.316484
+                  ]
+            },
+            {
+                  "name": "Murali edutainment factory",
+                  "text": "Szórakoztató játszótér Novigradban.",
+                  "category": "family",
+                  "coords": [
+                        13.54471,
+                        45.34188
+                  ]
+            },
+            {
+                  "name": "Salvela",
+                  "text": "Játszótér Novigradban.",
+                  "category": "family",
+                  "coords": [
+                        13.560652,
+                        45.334541
                   ]
             }
       ],
@@ -25449,6 +26655,33 @@ export const poiExtraHrV1: POI[] = [
                         13.558016,
                         45.319864
                   ]
+            },
+            {
+                  "name": "Aquapark na napuhavanje",
+                  "text": "Un aquapark gonflabil pentru distracția întregii familii.",
+                  "category": "family",
+                  "coords": [
+                        13.55683,
+                        45.316484
+                  ]
+            },
+            {
+                  "name": "Murali edutainment factory",
+                  "text": "Un loc de joacă distractiv în Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.54471,
+                        45.34188
+                  ]
+            },
+            {
+                  "name": "Salvela",
+                  "text": "Loc de joacă în Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.560652,
+                        45.334541
+                  ]
             }
       ],
       "en": [
@@ -25550,6 +26783,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.558016,
                         45.319864
+                  ]
+            },
+            {
+                  "name": "Aquapark na napuhavanje",
+                  "text": "An inflatable aquapark for fun with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.55683,
+                        45.316484
+                  ]
+            },
+            {
+                  "name": "Murali edutainment factory",
+                  "text": "An entertaining playground in Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.54471,
+                        45.34188
+                  ]
+            },
+            {
+                  "name": "Salvela",
+                  "text": "Playground in Novigrad.",
+                  "category": "family",
+                  "coords": [
+                        13.560652,
+                        45.334541
                   ]
             }
       ],
@@ -25666,6 +26926,24 @@ export const poiExtraHrV1: POI[] = [
                         15.921683,
                         43.818936
                   ]
+            },
+            {
+                  "name": "Visovačko jezero",
+                  "text": "Visovačko jezero ist ein See in Skradin, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.974058,
+                        43.85776
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero ist ein See in Skradin, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
             }
       ],
       "hu": [
@@ -25731,6 +27009,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.921683,
                         43.818936
+                  ]
+            },
+            {
+                  "name": "Visovačko jezero",
+                  "text": "A(z) Visovačko jezero egy tó Skradin területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.974058,
+                        43.85776
+                  ]
+            },
+            {
+                  "name": "Prukljan-tó",
+                  "text": "A(z) Prokljansko jezero egy tó Skradin területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
                   ]
             }
       ],
@@ -25798,6 +27094,24 @@ export const poiExtraHrV1: POI[] = [
                         15.921683,
                         43.818936
                   ]
+            },
+            {
+                  "name": "Visovačko jezero",
+                  "text": "Visovačko jezero este un lac situat în Skradin, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.974058,
+                        43.85776
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero este un lac situat în Skradin, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
             }
       ],
       "en": [
@@ -25863,6 +27177,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.921683,
                         43.818936
+                  ]
+            },
+            {
+                  "name": "Visovačko jezero",
+                  "text": "Visovačko jezero is a lake located in Skradin, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.974058,
+                        43.85776
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero is a lake located in Skradin, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
                   ]
             }
       ],
@@ -28766,6 +30098,24 @@ export const poiExtraHrV1: POI[] = [
                         14.269678,
                         45.269816
                   ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Der Kalac-See in Lovran.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Cipera",
+                  "text": "Spielplatz in Lovran für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.27735,
+                        45.293205
+                  ]
             }
       ],
       "hu": [
@@ -28917,6 +30267,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.269678,
                         45.269816
+                  ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "A lovrani Kalac-tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Cipera",
+                  "text": "Játszótér Lovranban gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.27735,
+                        45.293205
                   ]
             }
       ],
@@ -29070,6 +30438,24 @@ export const poiExtraHrV1: POI[] = [
                         14.269678,
                         45.269816
                   ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Lacul Kalac din Lovran.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Cipera",
+                  "text": "Loc de joacă în Lovran pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.27735,
+                        45.293205
+                  ]
             }
       ],
       "en": [
@@ -29221,6 +30607,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.269678,
                         45.269816
+                  ]
+            },
+            {
+                  "name": "Kalac",
+                  "text": "Lake Kalac in Lovran.",
+                  "category": "natural",
+                  "coords": [
+                        14.259023,
+                        45.278756
+                  ]
+            },
+            {
+                  "name": "Cipera",
+                  "text": "Playground in Lovran for children.",
+                  "category": "family",
+                  "coords": [
+                        14.27735,
+                        45.293205
                   ]
             }
       ],
@@ -29515,6 +30919,15 @@ export const poiExtraHrV1: POI[] = [
                         15.570164,
                         43.821428
                   ]
+            },
+            {
+                  "name": "Vrana-See",
+                  "text": "Lake Vrana ist ein See in Murter, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
             }
       ],
       "hu": [
@@ -29686,6 +31099,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.570164,
                         43.821428
+                  ]
+            },
+            {
+                  "name": "Vránai-tó",
+                  "text": "A(z) Lake Vrana egy tó Murter területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
                   ]
             }
       ],
@@ -29859,6 +31281,15 @@ export const poiExtraHrV1: POI[] = [
                         15.570164,
                         43.821428
                   ]
+            },
+            {
+                  "name": "Vransko jezero",
+                  "text": "Lake Vrana este un lac situat în Murter, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
             }
       ],
       "en": [
@@ -30030,6 +31461,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.570164,
                         43.821428
+                  ]
+            },
+            {
+                  "name": "Lake Vrana",
+                  "text": "Lake Vrana is a lake located in Murter, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
                   ]
             }
       ],
@@ -30337,6 +31777,33 @@ export const poiExtraHrV1: POI[] = [
                         15.166125,
                         44.216741
                   ]
+            },
+            {
+                  "name": "Bär und spielplatz",
+                  "text": "Bär und spielplatz ist ein toller Spielplatz in Nin, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.147672,
+                        44.239097
+                  ]
+            },
+            {
+                  "name": "Adventure golf",
+                  "text": "Adventure golf ist eine unterhaltsame Minigolfanlage in Nin, die Spaß und spannende Herausforderungen für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.166561,
+                        44.228689
+                  ]
+            },
+            {
+                  "name": "Felt golf",
+                  "text": "Felt golf ist eine unterhaltsame Minigolfanlage in Nin, die Spaß und spannende Herausforderungen für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.16766,
+                        44.228282
+                  ]
             }
       ],
       "hu": [
@@ -30512,6 +31979,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.166125,
                         44.216741
+                  ]
+            },
+            {
+                  "name": "Bär und spielplatz",
+                  "text": "A(z) Bär und spielplatz egy vidám játszótér Nin területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.147672,
+                        44.239097
+                  ]
+            },
+            {
+                  "name": "Adventure golf",
+                  "text": "A(z) Adventure golf egy élvezetes minigolf attrakció Nin városában, amely szórakoztató kihívásokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.166561,
+                        44.228689
+                  ]
+            },
+            {
+                  "name": "Felt golf",
+                  "text": "A(z) Felt golf egy élvezetes minigolf attrakció Nin városában, amely szórakoztató kihívásokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.16766,
+                        44.228282
                   ]
             }
       ],
@@ -30689,6 +32183,33 @@ export const poiExtraHrV1: POI[] = [
                         15.166125,
                         44.216741
                   ]
+            },
+            {
+                  "name": "Bär und spielplatz",
+                  "text": "Bär und spielplatz este un loc de joacă minunat în Nin, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        15.147672,
+                        44.239097
+                  ]
+            },
+            {
+                  "name": "Adventure golf",
+                  "text": "Adventure golf este o atracție plăcută de minigolf în Nin, oferind provocări distractive și captivante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.166561,
+                        44.228689
+                  ]
+            },
+            {
+                  "name": "Felt golf",
+                  "text": "Felt golf este o atracție plăcută de minigolf în Nin, oferind provocări distractive și captivante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.16766,
+                        44.228282
+                  ]
             }
       ],
       "en": [
@@ -30864,6 +32385,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.166125,
                         44.216741
+                  ]
+            },
+            {
+                  "name": "Bär und spielplatz",
+                  "text": "Bär und spielplatz is a fun playground in Nin, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        15.147672,
+                        44.239097
+                  ]
+            },
+            {
+                  "name": "Adventure golf",
+                  "text": "Adventure golf is an enjoyable miniature golf attraction in Nin, offering fun and engaging challenges for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.166561,
+                        44.228689
+                  ]
+            },
+            {
+                  "name": "Felt golf",
+                  "text": "Felt golf is an enjoyable miniature golf attraction in Nin, offering fun and engaging challenges for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.16766,
+                        44.228282
                   ]
             }
       ],
@@ -31498,6 +33046,24 @@ export const poiExtraHrV1: POI[] = [
                         15.488953,
                         43.914318
                   ]
+            },
+            {
+                  "name": "Vrana-See",
+                  "text": "Lake Vrana ist ein See in Pakostane, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "adventure park",
+                  "text": "adventure park ist ein Spielplatz in Pakostane, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.498667,
+                        43.911045
+                  ]
             }
       ],
       "hu": [
@@ -31648,6 +33214,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.488953,
                         43.914318
+                  ]
+            },
+            {
+                  "name": "Vránai-tó",
+                  "text": "A(z) Lake Vrana egy tó Pakostane területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "adventure park",
+                  "text": "A(z) adventure park egy játszótér Pakostane területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        15.498667,
+                        43.911045
                   ]
             }
       ],
@@ -31800,6 +33384,24 @@ export const poiExtraHrV1: POI[] = [
                         15.488953,
                         43.914318
                   ]
+            },
+            {
+                  "name": "Vransko jezero",
+                  "text": "Lake Vrana este un lac situat în Pakostane, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "adventure park",
+                  "text": "adventure park este un loc de joacă în Pakostane care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        15.498667,
+                        43.911045
+                  ]
             }
       ],
       "en": [
@@ -31950,6 +33552,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.488953,
                         43.914318
+                  ]
+            },
+            {
+                  "name": "Lake Vrana",
+                  "text": "Lake Vrana is a lake located in Pakostane, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "adventure park",
+                  "text": "adventure park is a playground in Pakostane that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        15.498667,
+                        43.911045
                   ]
             }
       ],
@@ -32750,6 +34370,15 @@ export const poiExtraHrV1: POI[] = [
                         14.620068,
                         45.039973
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Der Ponikve-See bei Punat auf Krk.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "hu": [
@@ -32834,6 +34463,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.620068,
                         45.039973
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "A krki Punat melletti Ponikve-tó.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -32920,6 +34558,15 @@ export const poiExtraHrV1: POI[] = [
                         14.620068,
                         45.039973
                   ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Lacul Ponikve de lângă Punat pe Krk.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
+                  ]
             }
       ],
       "en": [
@@ -33004,6 +34651,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.620068,
                         45.039973
+                  ]
+            },
+            {
+                  "name": "Ponikve",
+                  "text": "Lake Ponikve near Punat on Krk.",
+                  "category": "natural",
+                  "coords": [
+                        14.563596,
+                        45.076044
                   ]
             }
       ],
@@ -33650,6 +35306,24 @@ export const poiExtraHrV1: POI[] = [
                         15.619852,
                         43.786897
                   ]
+            },
+            {
+                  "name": "Vrana-See",
+                  "text": "Lake Vrana ist ein malerischer See in Tisno, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "Perla Nero",
+                  "text": "Perla Nero ist ein toller Spielplatz in Tisno, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.644352,
+                        43.795596
+                  ]
             }
       ],
       "hu": [
@@ -33714,6 +35388,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.619852,
                         43.786897
+                  ]
+            },
+            {
+                  "name": "Vránai-tó",
+                  "text": "A(z) Lake Vrana egy festői tó Tisno közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "Perla Nero",
+                  "text": "A(z) Perla Nero egy vidám játszótér Tisno területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.644352,
+                        43.795596
                   ]
             }
       ],
@@ -33780,6 +35472,24 @@ export const poiExtraHrV1: POI[] = [
                         15.619852,
                         43.786897
                   ]
+            },
+            {
+                  "name": "Vransko jezero",
+                  "text": "Lake Vrana este un lac pitoresc situat în Tisno, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "Perla Nero",
+                  "text": "Perla Nero este un loc de joacă minunat în Tisno, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        15.644352,
+                        43.795596
+                  ]
             }
       ],
       "en": [
@@ -33844,6 +35554,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.619852,
                         43.786897
+                  ]
+            },
+            {
+                  "name": "Lake Vrana",
+                  "text": "Lake Vrana is a scenic lake located in Tisno, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.576157,
+                        43.894603
+                  ]
+            },
+            {
+                  "name": "Perla Nero",
+                  "text": "Perla Nero is a fun playground in Tisno, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        15.644352,
+                        43.795596
                   ]
             }
       ],

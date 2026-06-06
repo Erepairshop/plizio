@@ -2167,6 +2167,231 @@ export const hungaryCities: POI[] = [
                         19.049665,
                         47.502737
                   ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "Lake Feneketlen ist ein See in budapest-city, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.041616,
+                        47.476881
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "Kék-tó ist ein See in budapest-city, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.027152,
+                        47.44438
+                  ]
+            },
+            {
+                  "name": "Városligeti-tó",
+                  "text": "Városligeti-tó ist ein See in budapest-city, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.080967,
+                        47.515921
+                  ]
+            },
+            {
+                  "name": "Tinódi játszótér",
+                  "text": "Tinódi játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.070394,
+                        47.479606
+                  ]
+            },
+            {
+                  "name": "Ferenc téri játszótér kisebbeknek",
+                  "text": "Ferenc téri játszótér kisebbeknek ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.073265,
+                        47.480929
+                  ]
+            },
+            {
+                  "name": "Kamasz játszótér",
+                  "text": "Kamasz játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.053448,
+                        47.523361
+                  ]
+            },
+            {
+                  "name": "Sajka utcai játszótér",
+                  "text": "Sajka utcai játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.039056,
+                        47.526815
+                  ]
+            },
+            {
+                  "name": "MiniPolisz",
+                  "text": "MiniPolisz ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.056559,
+                        47.498404
+                  ]
+            },
+            {
+                  "name": "Csalafinta játszótér",
+                  "text": "Csalafinta játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.05124,
+                        47.472625
+                  ]
+            },
+            {
+                  "name": "Tűzoltó utcai játszótér",
+                  "text": "Tűzoltó utcai játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.083838,
+                        47.477653
+                  ]
+            },
+            {
+                  "name": "Simaliba várjátszóház",
+                  "text": "Simaliba várjátszóház ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.061069,
+                        47.508432
+                  ]
+            },
+            {
+                  "name": "Mókusos játszótér",
+                  "text": "Mókusos játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.987448,
+                        47.501952
+                  ]
+            },
+            {
+                  "name": "Iron Bar",
+                  "text": "Iron Bar ist eine Spielhalle in budapest-city, die Kindern und ihren Familien aufregende Spielerlebnisse bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.054746,
+                        47.506979
+                  ]
+            },
+            {
+                  "name": "Let's Go Arcade",
+                  "text": "Let's Go Arcade ist eine Spielhalle in budapest-city, die Kindern und ihren Familien aufregende Spielerlebnisse bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.059991,
+                        47.498436
+                  ]
+            },
+            {
+                  "name": "Muzi játszótér",
+                  "text": "Muzi játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.06349,
+                        47.490483
+                  ]
+            },
+            {
+                  "name": "Kacajpark játszótér",
+                  "text": "Kacajpark játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.048412,
+                        47.471481
+                  ]
+            },
+            {
+                  "name": "VR Vidámpark",
+                  "text": "VR Vidámpark ist eine Spielhalle in budapest-city, die Kindern und ihren Familien aufregende Spielerlebnisse bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.057007,
+                        47.509469
+                  ]
+            },
+            {
+                  "name": "Fatornyos Játszótér",
+                  "text": "Timber Tower Playground ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.04165,
+                        47.493835
+                  ]
+            },
+            {
+                  "name": "Superfly",
+                  "text": "Superfly ist ein Trampolinpark in budapest-city, der Familien mit Kindern energiegeladene Spielzeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.062758,
+                        47.529893
+                  ]
+            },
+            {
+                  "name": "Kufli játszótér",
+                  "text": "Kufli játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.050965,
+                        47.499344
+                  ]
+            },
+            {
+                  "name": "Cerka-firka (Kőcsikós) játszótér",
+                  "text": "Cerka-firka (Kőcsikós) játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.043292,
+                        47.485023
+                  ]
+            },
+            {
+                  "name": "Hollósy játszótér",
+                  "text": "Hollósy játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.016871,
+                        47.494591
+                  ]
+            },
+            {
+                  "name": "Vuk játszótér",
+                  "text": "Vuk játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.040019,
+                        47.48657
+                  ]
+            },
+            {
+                  "name": "Csúszdás játszótér",
+                  "text": "Csúszdás játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.050084,
+                        47.485152
+                  ]
+            },
+            {
+                  "name": "Kassák Park játszótér",
+                  "text": "Kassák Park játszótér ist ein Spielplatz in budapest-city, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.065405,
+                        47.521083
+                  ]
             }
       ],
       "hu": [
@@ -2649,6 +2874,231 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.049665,
                         47.502737
+                  ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "A(z) Lake Feneketlen egy tó budapest-city területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.041616,
+                        47.476881
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "A(z) Kék-tó egy tó budapest-city területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.027152,
+                        47.44438
+                  ]
+            },
+            {
+                  "name": "Városligeti-tó",
+                  "text": "A(z) Városligeti-tó egy tó budapest-city területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.080967,
+                        47.515921
+                  ]
+            },
+            {
+                  "name": "Tinódi játszótér",
+                  "text": "A(z) Tinódi játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.070394,
+                        47.479606
+                  ]
+            },
+            {
+                  "name": "Ferenc téri játszótér kisebbeknek",
+                  "text": "A(z) Ferenc téri játszótér kisebbeknek egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.073265,
+                        47.480929
+                  ]
+            },
+            {
+                  "name": "Kamasz játszótér",
+                  "text": "A(z) Kamasz játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.053448,
+                        47.523361
+                  ]
+            },
+            {
+                  "name": "Sajka utcai játszótér",
+                  "text": "A(z) Sajka utcai játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.039056,
+                        47.526815
+                  ]
+            },
+            {
+                  "name": "MiniPolisz",
+                  "text": "A(z) MiniPolisz egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.056559,
+                        47.498404
+                  ]
+            },
+            {
+                  "name": "Csalafinta játszótér",
+                  "text": "A(z) Csalafinta játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.05124,
+                        47.472625
+                  ]
+            },
+            {
+                  "name": "Tűzoltó utcai játszótér",
+                  "text": "A(z) Tűzoltó utcai játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.083838,
+                        47.477653
+                  ]
+            },
+            {
+                  "name": "Simaliba várjátszóház",
+                  "text": "A(z) Simaliba várjátszóház egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.061069,
+                        47.508432
+                  ]
+            },
+            {
+                  "name": "Mókusos játszótér",
+                  "text": "A(z) Mókusos játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.987448,
+                        47.501952
+                  ]
+            },
+            {
+                  "name": "Iron Bar",
+                  "text": "A(z) Iron Bar egy játékterem budapest-city területén, amely izgalmas játékélményeket nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.054746,
+                        47.506979
+                  ]
+            },
+            {
+                  "name": "Let's Go Arcade",
+                  "text": "A(z) Let's Go Arcade egy játékterem budapest-city területén, amely izgalmas játékélményeket nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.059991,
+                        47.498436
+                  ]
+            },
+            {
+                  "name": "Muzi játszótér",
+                  "text": "A(z) Muzi játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.06349,
+                        47.490483
+                  ]
+            },
+            {
+                  "name": "Kacajpark játszótér",
+                  "text": "A(z) Kacajpark játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.048412,
+                        47.471481
+                  ]
+            },
+            {
+                  "name": "VR Vidámpark",
+                  "text": "A(z) VR Vidámpark egy játékterem budapest-city területén, amely izgalmas játékélményeket nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.057007,
+                        47.509469
+                  ]
+            },
+            {
+                  "name": "Fatornyos Játszótér",
+                  "text": "A(z) Timber Tower Playground egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.04165,
+                        47.493835
+                  ]
+            },
+            {
+                  "name": "Superfly",
+                  "text": "A(z) Superfly egy trambulinpark budapest-city területén, amely energikus játékidőt kínál a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.062758,
+                        47.529893
+                  ]
+            },
+            {
+                  "name": "Kufli játszótér",
+                  "text": "A(z) Kufli játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.050965,
+                        47.499344
+                  ]
+            },
+            {
+                  "name": "Cerka-firka (Kőcsikós) játszótér",
+                  "text": "A(z) Cerka-firka (Kőcsikós) játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.043292,
+                        47.485023
+                  ]
+            },
+            {
+                  "name": "Hollósy játszótér",
+                  "text": "A(z) Hollósy játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.016871,
+                        47.494591
+                  ]
+            },
+            {
+                  "name": "Vuk játszótér",
+                  "text": "A(z) Vuk játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.040019,
+                        47.48657
+                  ]
+            },
+            {
+                  "name": "Csúszdás játszótér",
+                  "text": "A(z) Csúszdás játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.050084,
+                        47.485152
+                  ]
+            },
+            {
+                  "name": "Kassák Park játszótér",
+                  "text": "A(z) Kassák Park játszótér egy játszótér budapest-city területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        19.065405,
+                        47.521083
                   ]
             }
       ],
@@ -3133,6 +3583,231 @@ export const hungaryCities: POI[] = [
                         19.049665,
                         47.502737
                   ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "Lake Feneketlen este un lac situat în budapest-city, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        19.041616,
+                        47.476881
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "Kék-tó este un lac situat în budapest-city, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        19.027152,
+                        47.44438
+                  ]
+            },
+            {
+                  "name": "Városligeti-tó",
+                  "text": "Városligeti-tó este un lac situat în budapest-city, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        19.080967,
+                        47.515921
+                  ]
+            },
+            {
+                  "name": "Tinódi játszótér",
+                  "text": "Tinódi játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.070394,
+                        47.479606
+                  ]
+            },
+            {
+                  "name": "Ferenc téri játszótér kisebbeknek",
+                  "text": "Ferenc téri játszótér kisebbeknek este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.073265,
+                        47.480929
+                  ]
+            },
+            {
+                  "name": "Kamasz játszótér",
+                  "text": "Kamasz játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.053448,
+                        47.523361
+                  ]
+            },
+            {
+                  "name": "Sajka utcai játszótér",
+                  "text": "Sajka utcai játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.039056,
+                        47.526815
+                  ]
+            },
+            {
+                  "name": "MiniPolisz",
+                  "text": "MiniPolisz este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.056559,
+                        47.498404
+                  ]
+            },
+            {
+                  "name": "Csalafinta játszótér",
+                  "text": "Csalafinta játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.05124,
+                        47.472625
+                  ]
+            },
+            {
+                  "name": "Tűzoltó utcai játszótér",
+                  "text": "Tűzoltó utcai játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.083838,
+                        47.477653
+                  ]
+            },
+            {
+                  "name": "Simaliba várjátszóház",
+                  "text": "Simaliba várjátszóház este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.061069,
+                        47.508432
+                  ]
+            },
+            {
+                  "name": "Mókusos játszótér",
+                  "text": "Mókusos játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.987448,
+                        47.501952
+                  ]
+            },
+            {
+                  "name": "Iron Bar",
+                  "text": "Iron Bar este o sală de jocuri în budapest-city care oferă experiențe captivante pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.054746,
+                        47.506979
+                  ]
+            },
+            {
+                  "name": "Let's Go Arcade",
+                  "text": "Let's Go Arcade este o sală de jocuri în budapest-city care oferă experiențe captivante pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.059991,
+                        47.498436
+                  ]
+            },
+            {
+                  "name": "Muzi játszótér",
+                  "text": "Muzi játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.06349,
+                        47.490483
+                  ]
+            },
+            {
+                  "name": "Kacajpark játszótér",
+                  "text": "Kacajpark játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.048412,
+                        47.471481
+                  ]
+            },
+            {
+                  "name": "VR Vidámpark",
+                  "text": "VR Vidámpark este o sală de jocuri în budapest-city care oferă experiențe captivante pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.057007,
+                        47.509469
+                  ]
+            },
+            {
+                  "name": "Fatornyos Játszótér",
+                  "text": "Timber Tower Playground este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.04165,
+                        47.493835
+                  ]
+            },
+            {
+                  "name": "Superfly",
+                  "text": "Superfly este un parc de trambuline în budapest-city care oferă distracție și timp de joacă plin de energie pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        19.062758,
+                        47.529893
+                  ]
+            },
+            {
+                  "name": "Kufli játszótér",
+                  "text": "Kufli játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.050965,
+                        47.499344
+                  ]
+            },
+            {
+                  "name": "Cerka-firka (Kőcsikós) játszótér",
+                  "text": "Cerka-firka (Kőcsikós) játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.043292,
+                        47.485023
+                  ]
+            },
+            {
+                  "name": "Hollósy játszótér",
+                  "text": "Hollósy játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.016871,
+                        47.494591
+                  ]
+            },
+            {
+                  "name": "Vuk játszótér",
+                  "text": "Vuk játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.040019,
+                        47.48657
+                  ]
+            },
+            {
+                  "name": "Csúszdás játszótér",
+                  "text": "Csúszdás játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.050084,
+                        47.485152
+                  ]
+            },
+            {
+                  "name": "Kassák Park játszótér",
+                  "text": "Kassák Park játszótér este un loc de joacă în budapest-city care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        19.065405,
+                        47.521083
+                  ]
             }
       ],
       "en": [
@@ -3615,6 +4290,231 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.049665,
                         47.502737
+                  ]
+            },
+            {
+                  "name": "Lake Feneketlen",
+                  "text": "Lake Feneketlen is a lake located in budapest-city, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        19.041616,
+                        47.476881
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "Kék-tó is a lake located in budapest-city, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        19.027152,
+                        47.44438
+                  ]
+            },
+            {
+                  "name": "Városligeti-tó",
+                  "text": "Városligeti-tó is a lake located in budapest-city, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        19.080967,
+                        47.515921
+                  ]
+            },
+            {
+                  "name": "Tinódi játszótér",
+                  "text": "Tinódi játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.070394,
+                        47.479606
+                  ]
+            },
+            {
+                  "name": "Ferenc téri játszótér kisebbeknek",
+                  "text": "Ferenc téri játszótér kisebbeknek is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.073265,
+                        47.480929
+                  ]
+            },
+            {
+                  "name": "Kamasz játszótér",
+                  "text": "Kamasz játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.053448,
+                        47.523361
+                  ]
+            },
+            {
+                  "name": "Sajka utcai játszótér",
+                  "text": "Sajka utcai játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.039056,
+                        47.526815
+                  ]
+            },
+            {
+                  "name": "MiniPolisz",
+                  "text": "MiniPolisz is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.056559,
+                        47.498404
+                  ]
+            },
+            {
+                  "name": "Csalafinta játszótér",
+                  "text": "Csalafinta játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.05124,
+                        47.472625
+                  ]
+            },
+            {
+                  "name": "Tűzoltó utcai játszótér",
+                  "text": "Tűzoltó utcai játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.083838,
+                        47.477653
+                  ]
+            },
+            {
+                  "name": "Simaliba várjátszóház",
+                  "text": "Simaliba várjátszóház is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.061069,
+                        47.508432
+                  ]
+            },
+            {
+                  "name": "Mókusos játszótér",
+                  "text": "Mókusos játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.987448,
+                        47.501952
+                  ]
+            },
+            {
+                  "name": "Iron Bar",
+                  "text": "Iron Bar is an amusement arcade in budapest-city providing exciting gaming experiences for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.054746,
+                        47.506979
+                  ]
+            },
+            {
+                  "name": "Let's Go Arcade",
+                  "text": "Let's Go Arcade is an amusement arcade in budapest-city providing exciting gaming experiences for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.059991,
+                        47.498436
+                  ]
+            },
+            {
+                  "name": "Muzi játszótér",
+                  "text": "Muzi játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.06349,
+                        47.490483
+                  ]
+            },
+            {
+                  "name": "Kacajpark játszótér",
+                  "text": "Kacajpark játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.048412,
+                        47.471481
+                  ]
+            },
+            {
+                  "name": "VR Vidámpark",
+                  "text": "VR Vidámpark is an amusement arcade in budapest-city providing exciting gaming experiences for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.057007,
+                        47.509469
+                  ]
+            },
+            {
+                  "name": "Timber Tower Playground",
+                  "text": "Timber Tower Playground is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.04165,
+                        47.493835
+                  ]
+            },
+            {
+                  "name": "Superfly",
+                  "text": "Superfly is a trampoline park in budapest-city offering bouncing fun and energetic playtime for families with children.",
+                  "category": "family",
+                  "coords": [
+                        19.062758,
+                        47.529893
+                  ]
+            },
+            {
+                  "name": "Kufli játszótér",
+                  "text": "Kufli játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.050965,
+                        47.499344
+                  ]
+            },
+            {
+                  "name": "Cerka-firka (Kőcsikós) játszótér",
+                  "text": "Cerka-firka (Kőcsikós) játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.043292,
+                        47.485023
+                  ]
+            },
+            {
+                  "name": "Hollósy játszótér",
+                  "text": "Hollósy játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.016871,
+                        47.494591
+                  ]
+            },
+            {
+                  "name": "Vuk játszótér",
+                  "text": "Vuk játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.040019,
+                        47.48657
+                  ]
+            },
+            {
+                  "name": "Csúszdás játszótér",
+                  "text": "Csúszdás játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.050084,
+                        47.485152
+                  ]
+            },
+            {
+                  "name": "Kassák Park játszótér",
+                  "text": "Kassák Park játszótér is a playground in budapest-city that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        19.065405,
+                        47.521083
                   ]
             }
       ]
@@ -4922,6 +5822,231 @@ export const hungaryCities: POI[] = [
                         18.224077,
                         46.089174
                   ]
+            },
+            {
+                  "name": "II. Tó (Málomi-tó)",
+                  "text": "II. Tó (Málomi-tó) ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.199796,
+                        46.015444
+                  ]
+            },
+            {
+                  "name": "I. Tó (Kökényi-tó)",
+                  "text": "I. Tó (Kökényi-tó) ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.202265,
+                        46.005817
+                  ]
+            },
+            {
+                  "name": "Balokány-ligeti-tó",
+                  "text": "Balokány-ligeti-tó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.24603,
+                        46.076154
+                  ]
+            },
+            {
+                  "name": "Éger-völgyi-tó",
+                  "text": "Éger-völgyi-tó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.180216,
+                        46.088823
+                  ]
+            },
+            {
+                  "name": "Aligvárom-tó",
+                  "text": "Aligvárom-tó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.237326,
+                        46.114869
+                  ]
+            },
+            {
+                  "name": "Szabolcs Emlékpart tava",
+                  "text": "Szabolcs Emlékpart tava ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.276165,
+                        46.111946
+                  ]
+            },
+            {
+                  "name": "Kenderáztató-tó",
+                  "text": "Kenderáztató-tó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.223043,
+                        46.002171
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.159312,
+                        46.03522
+                  ]
+            },
+            {
+                  "name": "Üszögi-horgásztó",
+                  "text": "Üszögi-horgásztó ist ein malerischer See in Pecs, ideal für einen entspannten Spaziergang oder um die Natur zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.283836,
+                        46.05827
+                  ]
+            },
+            {
+                  "name": "Fa játszótér (épülő)",
+                  "text": "Fa játszótér (épülő) ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.276579,
+                        46.059656
+                  ]
+            },
+            {
+                  "name": "Hinta",
+                  "text": "Hinta ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.198769,
+                        46.066792
+                  ]
+            },
+            {
+                  "name": "UV Birodalom",
+                  "text": "UV Birodalom ist eine unterhaltsame Minigolfanlage in Pecs, die Spaß und spannende Herausforderungen für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.22922,
+                        46.064206
+                  ]
+            },
+            {
+                  "name": "Kukutyin park",
+                  "text": "Kukutyin park ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.246261,
+                        46.08721
+                  ]
+            },
+            {
+                  "name": "Árnyas Játszótér",
+                  "text": "Árnyas Játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.22685,
+                        46.051273
+                  ]
+            },
+            {
+                  "name": "Nyuszis Játszótér",
+                  "text": "Nyuszis Játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.217265,
+                        46.041806
+                  ]
+            },
+            {
+                  "name": "Őzike játszótér",
+                  "text": "Őzike játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.212858,
+                        46.07532
+                  ]
+            },
+            {
+                  "name": "Pöttyös Játszótér",
+                  "text": "Pöttyös Játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.210092,
+                        46.074785
+                  ]
+            },
+            {
+                  "name": "Apponyi Albert tér",
+                  "text": "Apponyi Albert tér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.217405,
+                        46.070525
+                  ]
+            },
+            {
+                  "name": "Titkos játszótér",
+                  "text": "Titkos játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.218328,
+                        46.052044
+                  ]
+            },
+            {
+                  "name": "5. Pöttyös Játszótér",
+                  "text": "5. Pöttyös Játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.220777,
+                        46.047027
+                  ]
+            },
+            {
+                  "name": "Csillagvirág utcai játszótér",
+                  "text": "Csillagvirág utcai játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.209642,
+                        46.084573
+                  ]
+            },
+            {
+                  "name": "Gergely játszótér",
+                  "text": "Gergely játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.206008,
+                        46.064968
+                  ]
+            },
+            {
+                  "name": "Őslények világa játszótér",
+                  "text": "Őslények világa játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.183345,
+                        46.060576
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi játszótér",
+                  "text": "Fehérhegyi játszótér ist ein toller Spielplatz in Pecs, der eine großartige Umgebung für Kinder und Familien zum Spielen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.26445,
+                        46.100997
+                  ]
+            },
+            {
+                  "name": "Pillangó Játszótér",
+                  "text": "Pillangó Játszótér ist ein Spielplatz für Familien in Pecs.",
+                  "category": "family",
+                  "coords": [
+                        18.263746,
+                        46.094814
+                  ]
             }
       ],
       "hu": [
@@ -5353,6 +6478,231 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.224077,
                         46.089174
+                  ]
+            },
+            {
+                  "name": "II. Tó (Málomi-tó)",
+                  "text": "A(z) II. Tó (Málomi-tó) egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.199796,
+                        46.015444
+                  ]
+            },
+            {
+                  "name": "I. Tó (Kökényi-tó)",
+                  "text": "A(z) I. Tó (Kökényi-tó) egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.202265,
+                        46.005817
+                  ]
+            },
+            {
+                  "name": "Balokány-ligeti-tó",
+                  "text": "A(z) Balokány-ligeti-tó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.24603,
+                        46.076154
+                  ]
+            },
+            {
+                  "name": "Éger-völgyi-tó",
+                  "text": "A(z) Éger-völgyi-tó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.180216,
+                        46.088823
+                  ]
+            },
+            {
+                  "name": "Aligvárom-tó",
+                  "text": "A(z) Aligvárom-tó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.237326,
+                        46.114869
+                  ]
+            },
+            {
+                  "name": "Szabolcs Emlékpart tava",
+                  "text": "A(z) Szabolcs Emlékpart tava egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.276165,
+                        46.111946
+                  ]
+            },
+            {
+                  "name": "Kenderáztató-tó",
+                  "text": "A(z) Kenderáztató-tó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.223043,
+                        46.002171
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A(z) Horgásztó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.159312,
+                        46.03522
+                  ]
+            },
+            {
+                  "name": "Üszögi-horgásztó",
+                  "text": "A(z) Üszögi-horgásztó egy festői tó Pecs közelében, amely tökéletes egy pihentető sétához vagy a természet csodálatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.283836,
+                        46.05827
+                  ]
+            },
+            {
+                  "name": "Fa játszótér (épülő)",
+                  "text": "A(z) Fa játszótér (épülő) egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.276579,
+                        46.059656
+                  ]
+            },
+            {
+                  "name": "Hinta",
+                  "text": "A(z) Hinta egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.198769,
+                        46.066792
+                  ]
+            },
+            {
+                  "name": "UV Birodalom",
+                  "text": "A(z) UV Birodalom egy élvezetes minigolf attrakció Pecs városában, amely szórakoztató kihívásokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.22922,
+                        46.064206
+                  ]
+            },
+            {
+                  "name": "Kukutyin park",
+                  "text": "A(z) Kukutyin park egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.246261,
+                        46.08721
+                  ]
+            },
+            {
+                  "name": "Árnyas Játszótér",
+                  "text": "A(z) Árnyas Játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.22685,
+                        46.051273
+                  ]
+            },
+            {
+                  "name": "Nyuszis Játszótér",
+                  "text": "A(z) Nyuszis Játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.217265,
+                        46.041806
+                  ]
+            },
+            {
+                  "name": "Őzike játszótér",
+                  "text": "A(z) Őzike játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.212858,
+                        46.07532
+                  ]
+            },
+            {
+                  "name": "Pöttyös Játszótér",
+                  "text": "A(z) Pöttyös Játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.210092,
+                        46.074785
+                  ]
+            },
+            {
+                  "name": "Apponyi Albert tér",
+                  "text": "A(z) Apponyi Albert tér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.217405,
+                        46.070525
+                  ]
+            },
+            {
+                  "name": "Titkos játszótér",
+                  "text": "A(z) Titkos játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.218328,
+                        46.052044
+                  ]
+            },
+            {
+                  "name": "5. Pöttyös Játszótér",
+                  "text": "A(z) 5. Pöttyös Játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.220777,
+                        46.047027
+                  ]
+            },
+            {
+                  "name": "Csillagvirág utcai játszótér",
+                  "text": "A(z) Csillagvirág utcai játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.209642,
+                        46.084573
+                  ]
+            },
+            {
+                  "name": "Gergely játszótér",
+                  "text": "A(z) Gergely játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.206008,
+                        46.064968
+                  ]
+            },
+            {
+                  "name": "Őslények világa játszótér",
+                  "text": "A(z) Őslények világa játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.183345,
+                        46.060576
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi játszótér",
+                  "text": "A(z) Fehérhegyi játszótér egy vidám játszótér Pecs területén, amely nagyszerű környezetet biztosít a gyerekek és családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.26445,
+                        46.100997
+                  ]
+            },
+            {
+                  "name": "Pillangó Játszótér",
+                  "text": "A Pillangó Játszótér egy családbarát játszótér Pécsen.",
+                  "category": "family",
+                  "coords": [
+                        18.263746,
+                        46.094814
                   ]
             }
       ],
@@ -5786,6 +7136,231 @@ export const hungaryCities: POI[] = [
                         18.224077,
                         46.089174
                   ]
+            },
+            {
+                  "name": "II. Tó (Málomi-tó)",
+                  "text": "II. Tó (Málomi-tó) este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.199796,
+                        46.015444
+                  ]
+            },
+            {
+                  "name": "I. Tó (Kökényi-tó)",
+                  "text": "I. Tó (Kökényi-tó) este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.202265,
+                        46.005817
+                  ]
+            },
+            {
+                  "name": "Balokány-ligeti-tó",
+                  "text": "Balokány-ligeti-tó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.24603,
+                        46.076154
+                  ]
+            },
+            {
+                  "name": "Éger-völgyi-tó",
+                  "text": "Éger-völgyi-tó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.180216,
+                        46.088823
+                  ]
+            },
+            {
+                  "name": "Aligvárom-tó",
+                  "text": "Aligvárom-tó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.237326,
+                        46.114869
+                  ]
+            },
+            {
+                  "name": "Szabolcs Emlékpart tava",
+                  "text": "Szabolcs Emlékpart tava este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.276165,
+                        46.111946
+                  ]
+            },
+            {
+                  "name": "Kenderáztató-tó",
+                  "text": "Kenderáztató-tó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.223043,
+                        46.002171
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.159312,
+                        46.03522
+                  ]
+            },
+            {
+                  "name": "Üszögi-horgásztó",
+                  "text": "Üszögi-horgásztó este un lac pitoresc situat în Pecs, perfect pentru o plimbare relaxantă sau pentru a admira frumusețea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.283836,
+                        46.05827
+                  ]
+            },
+            {
+                  "name": "Fa játszótér (épülő)",
+                  "text": "Fa játszótér (épülő) este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.276579,
+                        46.059656
+                  ]
+            },
+            {
+                  "name": "Hinta",
+                  "text": "Hinta este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.198769,
+                        46.066792
+                  ]
+            },
+            {
+                  "name": "UV Birodalom",
+                  "text": "UV Birodalom este o atracție plăcută de minigolf în Pecs, oferind provocări distractive și captivante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.22922,
+                        46.064206
+                  ]
+            },
+            {
+                  "name": "Kukutyin park",
+                  "text": "Kukutyin park este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.246261,
+                        46.08721
+                  ]
+            },
+            {
+                  "name": "Árnyas Játszótér",
+                  "text": "Árnyas Játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.22685,
+                        46.051273
+                  ]
+            },
+            {
+                  "name": "Nyuszis Játszótér",
+                  "text": "Nyuszis Játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.217265,
+                        46.041806
+                  ]
+            },
+            {
+                  "name": "Őzike játszótér",
+                  "text": "Őzike játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.212858,
+                        46.07532
+                  ]
+            },
+            {
+                  "name": "Pöttyös Játszótér",
+                  "text": "Pöttyös Játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.210092,
+                        46.074785
+                  ]
+            },
+            {
+                  "name": "Apponyi Albert tér",
+                  "text": "Apponyi Albert tér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.217405,
+                        46.070525
+                  ]
+            },
+            {
+                  "name": "Titkos játszótér",
+                  "text": "Titkos játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.218328,
+                        46.052044
+                  ]
+            },
+            {
+                  "name": "5. Pöttyös Játszótér",
+                  "text": "5. Pöttyös Játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.220777,
+                        46.047027
+                  ]
+            },
+            {
+                  "name": "Csillagvirág utcai játszótér",
+                  "text": "Csillagvirág utcai játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.209642,
+                        46.084573
+                  ]
+            },
+            {
+                  "name": "Gergely játszótér",
+                  "text": "Gergely játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.206008,
+                        46.064968
+                  ]
+            },
+            {
+                  "name": "Őslények világa játszótér",
+                  "text": "Őslények világa játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.183345,
+                        46.060576
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi játszótér",
+                  "text": "Fehérhegyi játszótér este un loc de joacă minunat în Pecs, oferind un mediu excelent pentru copii și familii să se relaxeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.26445,
+                        46.100997
+                  ]
+            },
+            {
+                  "name": "Pillangó Játszótér",
+                  "text": "Pillangó Játszótér este un loc de joacă pentru familii în Pecs.",
+                  "category": "family",
+                  "coords": [
+                        18.263746,
+                        46.094814
+                  ]
             }
       ],
       "en": [
@@ -6218,6 +7793,231 @@ export const hungaryCities: POI[] = [
                         18.224077,
                         46.089174
                   ]
+            },
+            {
+                  "name": "II. Tó (Málomi-tó)",
+                  "text": "II. Tó (Málomi-tó) is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.199796,
+                        46.015444
+                  ]
+            },
+            {
+                  "name": "I. Tó (Kökényi-tó)",
+                  "text": "I. Tó (Kökényi-tó) is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.202265,
+                        46.005817
+                  ]
+            },
+            {
+                  "name": "Balokány-ligeti-tó",
+                  "text": "Balokány-ligeti-tó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.24603,
+                        46.076154
+                  ]
+            },
+            {
+                  "name": "Éger-völgyi-tó",
+                  "text": "Éger-völgyi-tó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.180216,
+                        46.088823
+                  ]
+            },
+            {
+                  "name": "Aligvárom-tó",
+                  "text": "Aligvárom-tó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.237326,
+                        46.114869
+                  ]
+            },
+            {
+                  "name": "Szabolcs Emlékpart tava",
+                  "text": "Szabolcs Emlékpart tava is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.276165,
+                        46.111946
+                  ]
+            },
+            {
+                  "name": "Kenderáztató-tó",
+                  "text": "Kenderáztató-tó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.223043,
+                        46.002171
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.159312,
+                        46.03522
+                  ]
+            },
+            {
+                  "name": "Üszögi-horgásztó",
+                  "text": "Üszögi-horgásztó is a scenic lake located in Pecs, perfect for a relaxing stroll or admiring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.283836,
+                        46.05827
+                  ]
+            },
+            {
+                  "name": "Fa játszótér (épülő)",
+                  "text": "Fa játszótér (épülő) is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.276579,
+                        46.059656
+                  ]
+            },
+            {
+                  "name": "Hinta",
+                  "text": "Hinta is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.198769,
+                        46.066792
+                  ]
+            },
+            {
+                  "name": "UV Birodalom",
+                  "text": "UV Birodalom is an enjoyable miniature golf attraction in Pecs, offering fun and engaging challenges for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.22922,
+                        46.064206
+                  ]
+            },
+            {
+                  "name": "Kukutyin park",
+                  "text": "Kukutyin park is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.246261,
+                        46.08721
+                  ]
+            },
+            {
+                  "name": "Árnyas Játszótér",
+                  "text": "Árnyas Játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.22685,
+                        46.051273
+                  ]
+            },
+            {
+                  "name": "Nyuszis Játszótér",
+                  "text": "Nyuszis Játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.217265,
+                        46.041806
+                  ]
+            },
+            {
+                  "name": "Őzike játszótér",
+                  "text": "Őzike játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.212858,
+                        46.07532
+                  ]
+            },
+            {
+                  "name": "Pöttyös Játszótér",
+                  "text": "Pöttyös Játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.210092,
+                        46.074785
+                  ]
+            },
+            {
+                  "name": "Apponyi Albert tér",
+                  "text": "Apponyi Albert tér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.217405,
+                        46.070525
+                  ]
+            },
+            {
+                  "name": "Titkos játszótér",
+                  "text": "Titkos játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.218328,
+                        46.052044
+                  ]
+            },
+            {
+                  "name": "5. Pöttyös Játszótér",
+                  "text": "5. Pöttyös Játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.220777,
+                        46.047027
+                  ]
+            },
+            {
+                  "name": "Csillagvirág utcai játszótér",
+                  "text": "Csillagvirág utcai játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.209642,
+                        46.084573
+                  ]
+            },
+            {
+                  "name": "Gergely játszótér",
+                  "text": "Gergely játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.206008,
+                        46.064968
+                  ]
+            },
+            {
+                  "name": "Őslények világa játszótér",
+                  "text": "Őslények világa játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.183345,
+                        46.060576
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi játszótér",
+                  "text": "Fehérhegyi játszótér is a fun playground in Pecs, providing a great environment for children and families to play and relax.",
+                  "category": "family",
+                  "coords": [
+                        18.26445,
+                        46.100997
+                  ]
+            },
+            {
+                  "name": "Pillangó Játszótér",
+                  "text": "Pillangó Játszótér is a family-friendly playground located in Pecs.",
+                  "category": "family",
+                  "coords": [
+                        18.263746,
+                        46.094814
+                  ]
             }
       ]
 }
@@ -6494,6 +8294,42 @@ export const hungaryCities: POI[] = [
                         18.300278,
                         45.851667
                   ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Malomárok-See in Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Borbála-Anglersee in Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Mattyi-See bei Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Csarnótai-tó",
+                  "text": "Csarnótai-See bei Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.223118,
+                        45.900759
+                  ]
             }
       ],
       "hu": [
@@ -6569,6 +8405,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.300278,
                         45.851667
+                  ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Malomárok-tó Siklóson.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Borbála-horgásztó Siklóson.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Mattyi-tó Siklós közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Csarnótai-tó",
+                  "text": "Csarnótai-tó Siklós közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.223118,
+                        45.900759
                   ]
             }
       ],
@@ -6646,6 +8518,42 @@ export const hungaryCities: POI[] = [
                         18.300278,
                         45.851667
                   ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Lacul Malomárok din Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Lacul de pescuit Borbála din Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Lacul Mattyi de lângă Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Csarnótai-tó",
+                  "text": "Lacul Csarnótai de lângă Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.223118,
+                        45.900759
+                  ]
             }
       ],
       "en": [
@@ -6721,6 +8629,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.300278,
                         45.851667
+                  ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Lake Malomárok in Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Lake Borbála in Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Lake Mattyi near Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Csarnótai-tó",
+                  "text": "Lake Csarnótai near Siklos.",
+                  "category": "natural",
+                  "coords": [
+                        18.223118,
+                        45.900759
                   ]
             }
       ]
@@ -7573,6 +9517,33 @@ export const hungaryCities: POI[] = [
                         18.45228,
                         45.875629
                   ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Malomárok-tó ist ein See in Villany, der sich für Naturspaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Borbála-horgásztó ist ein See in Villany, der sich ideal für erholsame Stunden am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó ist ein See in Villany, der sich gut für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.421825,
+                        45.906293
+                  ]
             }
       ],
       "hu": [
@@ -7638,6 +9609,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.45228,
                         45.875629
+                  ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "A Malomárok-tó egy tó Villányban, amely festői környezetet nyújt a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "A Borbála-horgásztó egy tó Villányban, amely ideális a vízparti pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A Horgásztó egy vízfelület Villányban, amely kellemes környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        18.421825,
+                        45.906293
                   ]
             }
       ],
@@ -7705,6 +9703,33 @@ export const hungaryCities: POI[] = [
                         18.45228,
                         45.875629
                   ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Malomárok-tó este un lac în Villany, potrivit pentru relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Borbála-horgásztó este un lac din Villany, perfect pentru relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó este un lac în Villany, ideal pentru a petrece timpul în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.421825,
+                        45.906293
+                  ]
             }
       ],
       "en": [
@@ -7770,6 +9795,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.45228,
                         45.875629
+                  ]
+            },
+            {
+                  "name": "Malomárok-tó",
+                  "text": "Malomárok-tó is a lake in Villany offering a scenic environment for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.380771,
+                        45.824601
+                  ]
+            },
+            {
+                  "name": "Borbála-horgásztó",
+                  "text": "Borbála-horgásztó is a lake in Villany suitable for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.373864,
+                        45.824919
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó is a lake in Villany offering a peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.421825,
+                        45.906293
                   ]
             }
       ]
@@ -10222,6 +12274,33 @@ export const hungaryCities: POI[] = [
                         21.098337,
                         46.681479
                   ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Der Békás-See in Bekescsaba.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Veres Péter utcai játszótér",
+                  "text": "Spielplatz in der Veres Péter Straße in Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.053053,
+                        46.671892
+                  ]
+            },
+            {
+                  "name": "Terülj, terülj asztalkám játszópark",
+                  "text": "Spielplatz in Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.12399,
+                        46.673383
+                  ]
             }
       ],
       "hu": [
@@ -10415,6 +12494,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.098337,
                         46.681479
+                  ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "A békéscsabai Békás-tó.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Veres Péter utcai játszótér",
+                  "text": "Játszótér a békéscsabai Veres Péter utcában.",
+                  "category": "family",
+                  "coords": [
+                        21.053053,
+                        46.671892
+                  ]
+            },
+            {
+                  "name": "Terülj, terülj asztalkám játszópark",
+                  "text": "Játszópark Békéscsabán.",
+                  "category": "family",
+                  "coords": [
+                        21.12399,
+                        46.673383
                   ]
             }
       ],
@@ -10610,6 +12716,33 @@ export const hungaryCities: POI[] = [
                         21.098337,
                         46.681479
                   ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Lacul Békás din Bekescsaba.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Veres Péter utcai játszótér",
+                  "text": "Loc de joacă pe strada Veres Péter din Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.053053,
+                        46.671892
+                  ]
+            },
+            {
+                  "name": "Terülj, terülj asztalkám játszópark",
+                  "text": "Parc de joacă în Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.12399,
+                        46.673383
+                  ]
             }
       ],
       "en": [
@@ -10803,6 +12936,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.098337,
                         46.681479
+                  ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Lake Békás in Bekescsaba.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Veres Péter utcai játszótér",
+                  "text": "Playground on Veres Péter street in Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.053053,
+                        46.671892
+                  ]
+            },
+            {
+                  "name": "Terülj, terülj asztalkám játszópark",
+                  "text": "Playground in Bekescsaba.",
+                  "category": "family",
+                  "coords": [
+                        21.12399,
+                        46.673383
                   ]
             }
       ]
@@ -11033,6 +13193,51 @@ export const hungaryCities: POI[] = [
                         21.28219,
                         46.644375
                   ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Békás-tó ist ein See in Gyula, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Csónakázó",
+                  "text": "Csónakázó ist ein See in Gyula, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.286775,
+                        46.645585
+                  ]
+            },
+            {
+                  "name": "Honvéd utcai lakótelepi játszótér",
+                  "text": "Honvéd utcai lakótelepi játszótér ist ein Spielplatz in Gyula, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.267731,
+                        46.641082
+                  ]
+            },
+            {
+                  "name": "Játszóház",
+                  "text": "Játszóház ist ein Spielplatz in Gyula, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.281604,
+                        46.645634
+                  ]
+            },
+            {
+                  "name": "Göndöcs kerti játszótér",
+                  "text": "Göndöcs kerti játszótér ist ein Spielplatz in Gyula, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.27005,
+                        46.648439
+                  ]
             }
       ],
       "hu": [
@@ -11237,6 +13442,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.28219,
                         46.644375
+                  ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "A(z) Békás-tó egy tó Gyula területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Csónakázó",
+                  "text": "A(z) Csónakázó egy tó Gyula területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.286775,
+                        46.645585
+                  ]
+            },
+            {
+                  "name": "Honvéd utcai lakótelepi játszótér",
+                  "text": "A(z) Honvéd utcai lakótelepi játszótér egy játszótér Gyula területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        21.267731,
+                        46.641082
+                  ]
+            },
+            {
+                  "name": "Játszóház",
+                  "text": "A(z) Játszóház egy játszótér Gyula területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        21.281604,
+                        46.645634
+                  ]
+            },
+            {
+                  "name": "Göndöcs kerti játszótér",
+                  "text": "A(z) Göndöcs kerti játszótér egy játszótér Gyula területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        21.27005,
+                        46.648439
                   ]
             }
       ],
@@ -11443,6 +13693,51 @@ export const hungaryCities: POI[] = [
                         21.28219,
                         46.644375
                   ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Békás-tó este un lac situat în Gyula, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Csónakázó",
+                  "text": "Csónakázó este un lac situat în Gyula, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        21.286775,
+                        46.645585
+                  ]
+            },
+            {
+                  "name": "Honvéd utcai lakótelepi játszótér",
+                  "text": "Honvéd utcai lakótelepi játszótér este un loc de joacă în Gyula care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        21.267731,
+                        46.641082
+                  ]
+            },
+            {
+                  "name": "Játszóház",
+                  "text": "Játszóház este un loc de joacă în Gyula care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        21.281604,
+                        46.645634
+                  ]
+            },
+            {
+                  "name": "Göndöcs kerti játszótér",
+                  "text": "Göndöcs kerti játszótér este un loc de joacă în Gyula care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        21.27005,
+                        46.648439
+                  ]
             }
       ],
       "en": [
@@ -11647,6 +13942,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.28219,
                         46.644375
+                  ]
+            },
+            {
+                  "name": "Békás-tó",
+                  "text": "Békás-tó is a lake located in Gyula, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        21.194629,
+                        46.680605
+                  ]
+            },
+            {
+                  "name": "Csónakázó",
+                  "text": "Csónakázó is a lake located in Gyula, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        21.286775,
+                        46.645585
+                  ]
+            },
+            {
+                  "name": "Honvéd utcai lakótelepi játszótér",
+                  "text": "Honvéd utcai lakótelepi játszótér is a playground in Gyula that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        21.267731,
+                        46.641082
+                  ]
+            },
+            {
+                  "name": "Játszóház",
+                  "text": "Játszóház is a playground in Gyula that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        21.281604,
+                        46.645634
+                  ]
+            },
+            {
+                  "name": "Göndöcs kerti játszótér",
+                  "text": "Göndöcs kerti játszótér is a playground in Gyula that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        21.27005,
+                        46.648439
                   ]
             }
       ]
@@ -12534,6 +14874,24 @@ export const hungaryCities: POI[] = [
                         20.803595,
                         48.093585
                   ]
+            },
+            {
+                  "name": "Komlóstetői medence",
+                  "text": "Komlóstető-Becken in Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.722682,
+                        48.075994
+                  ]
+            },
+            {
+                  "name": "MIVÍZ Kft.",
+                  "text": "See bei MIVÍZ in Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.760377,
+                        48.057222
+                  ]
             }
       ],
       "hu": [
@@ -12865,6 +15223,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.803595,
                         48.093585
+                  ]
+            },
+            {
+                  "name": "Komlóstetői medence",
+                  "text": "Komlóstetői medence Miskolcon.",
+                  "category": "natural",
+                  "coords": [
+                        20.722682,
+                        48.075994
+                  ]
+            },
+            {
+                  "name": "MIVÍZ Kft.",
+                  "text": "Tó a miskolci MIVÍZ-nél.",
+                  "category": "natural",
+                  "coords": [
+                        20.760377,
+                        48.057222
                   ]
             }
       ],
@@ -13198,6 +15574,24 @@ export const hungaryCities: POI[] = [
                         20.803595,
                         48.093585
                   ]
+            },
+            {
+                  "name": "Komlóstetői medence",
+                  "text": "Bazinul Komlóstető din Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.722682,
+                        48.075994
+                  ]
+            },
+            {
+                  "name": "MIVÍZ Kft.",
+                  "text": "Lac la MIVÍZ în Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.760377,
+                        48.057222
+                  ]
             }
       ],
       "en": [
@@ -13529,6 +15923,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.803595,
                         48.093585
+                  ]
+            },
+            {
+                  "name": "Komlóstetői medence",
+                  "text": "Komlóstető basin in Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.722682,
+                        48.075994
+                  ]
+            },
+            {
+                  "name": "MIVÍZ Kft.",
+                  "text": "Lake at MIVÍZ in Miskolc.",
+                  "category": "natural",
+                  "coords": [
+                        20.760377,
+                        48.057222
                   ]
             }
       ]
@@ -14261,6 +16673,114 @@ export const hungaryCities: POI[] = [
                         21.414029,
                         48.121698
                   ]
+            },
+            {
+                  "name": "Tarcali bányató",
+                  "text": "Tarcali bányató ist ein See in Tokaj, der durch seine malerische Landschaft besticht.",
+                  "category": "natural",
+                  "coords": [
+                        21.358537,
+                        48.127156
+                  ]
+            },
+            {
+                  "name": "Tokaji Kovács-Tórendszer",
+                  "text": "Tokaji Kovács-Tórendszer ist ein Seensystem in Tokaj, das eine ruhige Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.427705,
+                        48.089893
+                  ]
+            },
+            {
+                  "name": "Faházas tó",
+                  "text": "Faházas tó ist ein ruhiger See in Tokaj, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.420306,
+                        48.095087
+                  ]
+            },
+            {
+                  "name": "Sulymos-tó",
+                  "text": "Sulymos-tó ist ein Gewässer in Tokaj, umgeben von schöner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.435006,
+                        48.119471
+                  ]
+            },
+            {
+                  "name": "Nagy morotva",
+                  "text": "Nagy morotva ist ein See in Tokaj, der sich für Spaziergänge in der Natur anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.473878,
+                        48.162092
+                  ]
+            },
+            {
+                  "name": "Kántor Tisza",
+                  "text": "Kántor Tisza ist ein See in der Gegend von Tokaj, der eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.451645,
+                        48.149407
+                  ]
+            },
+            {
+                  "name": "Pap Tisza",
+                  "text": "Pap Tisza ist ein See in Tokaj, an dem Besucher die Natur genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        21.450243,
+                        48.143231
+                  ]
+            },
+            {
+                  "name": "Paptag",
+                  "text": "Paptag ist ein See in Tokaj, der sich wunderbar in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        21.448387,
+                        48.165119
+                  ]
+            },
+            {
+                  "name": "Kis-Morotva-tó",
+                  "text": "Kis-Morotva-tó ist ein See in Tokaj, der zu einem erholsamen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.465617,
+                        48.087476
+                  ]
+            },
+            {
+                  "name": "Nagy-Morotva-tó",
+                  "text": "Nagy-Morotva-tó ist ein See in Tokaj, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.465947,
+                        48.107396
+                  ]
+            },
+            {
+                  "name": "Nagy-Grádics-tó",
+                  "text": "Nagy-Grádics-tó ist ein See in Tokaj, an dem man gut die Ruhe der Natur genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        21.461395,
+                        48.110814
+                  ]
+            },
+            {
+                  "name": "Nomád-tó",
+                  "text": "Nomád-tó ist ein Gewässer in Tokaj, das sich für Entspannung im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.424382,
+                        48.095092
+                  ]
             }
       ],
       "hu": [
@@ -14381,6 +16901,114 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.414029,
                         48.121698
+                  ]
+            },
+            {
+                  "name": "Tarcali bányató",
+                  "text": "A Tarcali bányató egy gyönyörű vizű tó Tokaj környékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.358537,
+                        48.127156
+                  ]
+            },
+            {
+                  "name": "Tokaji Kovács-Tórendszer",
+                  "text": "A Tokaji Kovács-Tórendszer egy tórendszer Tokajban, amely kiváló a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.427705,
+                        48.089893
+                  ]
+            },
+            {
+                  "name": "Faházas tó",
+                  "text": "A Faházas tó egy csendes tó Tokajban, amely pihentető környezetet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        21.420306,
+                        48.095087
+                  ]
+            },
+            {
+                  "name": "Sulymos-tó",
+                  "text": "A Sulymos-tó egy természetes vízfelület Tokajban, amely sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        21.435006,
+                        48.119471
+                  ]
+            },
+            {
+                  "name": "Nagy morotva",
+                  "text": "A Nagy morotva egy tó Tokaj térségében, amely nyugodt kikapcsolódást biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        21.473878,
+                        48.162092
+                  ]
+            },
+            {
+                  "name": "Kántor Tisza",
+                  "text": "A Kántor Tisza egy nyugodt vizű tó Tokaj környékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.451645,
+                        48.149407
+                  ]
+            },
+            {
+                  "name": "Pap Tisza",
+                  "text": "A Pap Tisza egy csendes tó Tokaj területén, amely ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        21.450243,
+                        48.143231
+                  ]
+            },
+            {
+                  "name": "Paptag",
+                  "text": "A Paptag egy tó Tokajban, amely kellemes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        21.448387,
+                        48.165119
+                  ]
+            },
+            {
+                  "name": "Kis-Morotva-tó",
+                  "text": "A Kis-Morotva-tó egy hangulatos tó Tokaj vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.465617,
+                        48.087476
+                  ]
+            },
+            {
+                  "name": "Nagy-Morotva-tó",
+                  "text": "A Nagy-Morotva-tó egy természetes tó Tokajban, amely sétákra kiváló.",
+                  "category": "natural",
+                  "coords": [
+                        21.465947,
+                        48.107396
+                  ]
+            },
+            {
+                  "name": "Nagy-Grádics-tó",
+                  "text": "A Nagy-Grádics-tó egy tó Tokaj területén, amely békés környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        21.461395,
+                        48.110814
+                  ]
+            },
+            {
+                  "name": "Nomád-tó",
+                  "text": "A Nomád-tó egy nyugodt környezetű tó Tokajban.",
+                  "category": "natural",
+                  "coords": [
+                        21.424382,
+                        48.095092
                   ]
             }
       ],
@@ -14503,6 +17131,114 @@ export const hungaryCities: POI[] = [
                         21.414029,
                         48.121698
                   ]
+            },
+            {
+                  "name": "Tarcali bányató",
+                  "text": "Tarcali bányató este un lac pitoresc situat în regiunea Tokaj.",
+                  "category": "natural",
+                  "coords": [
+                        21.358537,
+                        48.127156
+                  ]
+            },
+            {
+                  "name": "Tokaji Kovács-Tórendszer",
+                  "text": "Tokaji Kovács-Tórendszer este un sistem de lacuri în Tokaj, potrivit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.427705,
+                        48.089893
+                  ]
+            },
+            {
+                  "name": "Faházas tó",
+                  "text": "Faházas tó este un lac liniștit din Tokaj, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        21.420306,
+                        48.095087
+                  ]
+            },
+            {
+                  "name": "Sulymos-tó",
+                  "text": "Sulymos-tó este un lac în Tokaj, cu un peisaj natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        21.435006,
+                        48.119471
+                  ]
+            },
+            {
+                  "name": "Nagy morotva",
+                  "text": "Nagy morotva este un lac în Tokaj, excelent pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.473878,
+                        48.162092
+                  ]
+            },
+            {
+                  "name": "Kántor Tisza",
+                  "text": "Kántor Tisza este un lac liniștit situat în zona Tokaj.",
+                  "category": "natural",
+                  "coords": [
+                        21.451645,
+                        48.149407
+                  ]
+            },
+            {
+                  "name": "Pap Tisza",
+                  "text": "Pap Tisza este un lac în Tokaj, unde vizitatorii se pot bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.450243,
+                        48.143231
+                  ]
+            },
+            {
+                  "name": "Paptag",
+                  "text": "Paptag este un lac în Tokaj, integrându-se frumos în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        21.448387,
+                        48.165119
+                  ]
+            },
+            {
+                  "name": "Kis-Morotva-tó",
+                  "text": "Kis-Morotva-tó este un lac fermecător în regiunea Tokaj.",
+                  "category": "natural",
+                  "coords": [
+                        21.465617,
+                        48.087476
+                  ]
+            },
+            {
+                  "name": "Nagy-Morotva-tó",
+                  "text": "Nagy-Morotva-tó este un lac în Tokaj, cunoscut pentru peisajele sale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        21.465947,
+                        48.107396
+                  ]
+            },
+            {
+                  "name": "Nagy-Grádics-tó",
+                  "text": "Nagy-Grádics-tó este un lac din Tokaj care oferă un mediu pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        21.461395,
+                        48.110814
+                  ]
+            },
+            {
+                  "name": "Nomád-tó",
+                  "text": "Nomád-tó este un lac cu o atmosferă relaxantă în Tokaj.",
+                  "category": "natural",
+                  "coords": [
+                        21.424382,
+                        48.095092
+                  ]
             }
       ],
       "en": [
@@ -14623,6 +17359,114 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.414029,
                         48.121698
+                  ]
+            },
+            {
+                  "name": "Tarcali bányató",
+                  "text": "Tarcali bányató is a scenic lake located in the Tokaj area.",
+                  "category": "natural",
+                  "coords": [
+                        21.358537,
+                        48.127156
+                  ]
+            },
+            {
+                  "name": "Tokaji Kovács-Tórendszer",
+                  "text": "Tokaji Kovács-Tórendszer is a lake system in Tokaj providing a quiet natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.427705,
+                        48.089893
+                  ]
+            },
+            {
+                  "name": "Faházas tó",
+                  "text": "Faházas tó is a tranquil lake in Tokaj suitable for waterfront relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        21.420306,
+                        48.095087
+                  ]
+            },
+            {
+                  "name": "Sulymos-tó",
+                  "text": "Sulymos-tó is a lake in Tokaj surrounded by beautiful natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.435006,
+                        48.119471
+                  ]
+            },
+            {
+                  "name": "Nagy morotva",
+                  "text": "Nagy morotva is a lake in Tokaj offering opportunities for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.473878,
+                        48.162092
+                  ]
+            },
+            {
+                  "name": "Kántor Tisza",
+                  "text": "Kántor Tisza is a calm lake located in the Tokaj region.",
+                  "category": "natural",
+                  "coords": [
+                        21.451645,
+                        48.149407
+                  ]
+            },
+            {
+                  "name": "Pap Tisza",
+                  "text": "Pap Tisza is a lake in Tokaj where visitors can enjoy the peaceful nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.450243,
+                        48.143231
+                  ]
+            },
+            {
+                  "name": "Paptag",
+                  "text": "Paptag is a lake in Tokaj offering a pleasant natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        21.448387,
+                        48.165119
+                  ]
+            },
+            {
+                  "name": "Kis-Morotva-tó",
+                  "text": "Kis-Morotva-tó is a charming lake in the Tokaj area.",
+                  "category": "natural",
+                  "coords": [
+                        21.465617,
+                        48.087476
+                  ]
+            },
+            {
+                  "name": "Nagy-Morotva-tó",
+                  "text": "Nagy-Morotva-tó is a lake in Tokaj known for its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.465947,
+                        48.107396
+                  ]
+            },
+            {
+                  "name": "Nagy-Grádics-tó",
+                  "text": "Nagy-Grádics-tó is a lake in Tokaj that provides a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        21.461395,
+                        48.110814
+                  ]
+            },
+            {
+                  "name": "Nomád-tó",
+                  "text": "Nomád-tó is a quietly situated lake in Tokaj.",
+                  "category": "natural",
+                  "coords": [
+                        21.424382,
+                        48.095092
                   ]
             }
       ]
@@ -14923,6 +17767,231 @@ export const hungaryCities: POI[] = [
                         20.165556,
                         46.255833
                   ]
+            },
+            {
+                  "name": "Sintér-tó",
+                  "text": "Sintér-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.125524,
+                        46.269181
+                  ]
+            },
+            {
+                  "name": "Búvár-tó",
+                  "text": "Búvár-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129411,
+                        46.267449
+                  ]
+            },
+            {
+                  "name": "Vér-tó",
+                  "text": "Vér-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.144662,
+                        46.273618
+                  ]
+            },
+            {
+                  "name": "Városgazda-tó",
+                  "text": "Városgazda-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.10912,
+                        46.258052
+                  ]
+            },
+            {
+                  "name": "Keramit-tavak",
+                  "text": "Keramit-Seen in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.108535,
+                        46.252193
+                  ]
+            },
+            {
+                  "name": "Tejes-tó",
+                  "text": "Tejes-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.105992,
+                        46.250037
+                  ]
+            },
+            {
+                  "name": "Temető-tó",
+                  "text": "Temető-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.104495,
+                        46.251303
+                  ]
+            },
+            {
+                  "name": "Gumis-tó",
+                  "text": "Gumis-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.103334,
+                        46.248491
+                  ]
+            },
+            {
+                  "name": "Szegedi Olimpiai Központ, Maty-éri evezőspálya",
+                  "text": "Olympiazentrum und Ruderbahn in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.076181,
+                        46.239763
+                  ]
+            },
+            {
+                  "name": "Sancer-tavak",
+                  "text": "Sancer-Seen in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.121672,
+                        46.248805
+                  ]
+            },
+            {
+                  "name": "Csemegi-tó",
+                  "text": "Csemegi-See in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129744,
+                        46.259563
+                  ]
+            },
+            {
+                  "name": "Gergely-közi játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.134151,
+                        46.269491
+                  ]
+            },
+            {
+                  "name": "Selyem utca MÓNI park",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169063,
+                        46.265494
+                  ]
+            },
+            {
+                  "name": "Bertalan hídi játszótér",
+                  "text": "Spielplatz an der Bertalan-Brücke in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.163074,
+                        46.258965
+                  ]
+            },
+            {
+                  "name": "Crazy Jump trambulinpark",
+                  "text": "Trampolinpark für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        20.122069,
+                        46.244296
+                  ]
+            },
+            {
+                  "name": "VR Világ",
+                  "text": "VR-Spielewelt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.14609,
+                        46.258284
+                  ]
+            },
+            {
+                  "name": "KalandoZoo",
+                  "text": "Unterhaltsamer Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.119515,
+                        46.250548
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér - Játszóház - Sportpark",
+                  "text": "Ein toller Spielplatz und Sportpark für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.165444,
+                        46.265972
+                  ]
+            },
+            {
+                  "name": "Késmárk utcai játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.159838,
+                        46.274273
+                  ]
+            },
+            {
+                  "name": "Honfoglalás játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.150661,
+                        46.276657
+                  ]
+            },
+            {
+                  "name": "Hajlat utcai játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.162077,
+                        46.271199
+                  ]
+            },
+            {
+                  "name": "Hajós játszótér",
+                  "text": "Spielplatz mit Schiffmotiv in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.16103,
+                        46.271703
+                  ]
+            },
+            {
+                  "name": "Lugas utcai játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169636,
+                        46.267286
+                  ]
+            },
+            {
+                  "name": "Búvár-tavi játszótér",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.131227,
+                        46.267014
+                  ]
+            },
+            {
+                  "name": "Kráter-térjáték",
+                  "text": "Spielplatz in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.146278,
+                        46.249466
+                  ]
             }
       ],
       "hu": [
@@ -15112,6 +18181,231 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.165556,
                         46.255833
+                  ]
+            },
+            {
+                  "name": "Sintér-tó",
+                  "text": "Sintér-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.125524,
+                        46.269181
+                  ]
+            },
+            {
+                  "name": "Búvár-tó",
+                  "text": "Búvár-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.129411,
+                        46.267449
+                  ]
+            },
+            {
+                  "name": "Vér-tó",
+                  "text": "Vér-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.144662,
+                        46.273618
+                  ]
+            },
+            {
+                  "name": "Városgazda-tó",
+                  "text": "Városgazda-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.10912,
+                        46.258052
+                  ]
+            },
+            {
+                  "name": "Keramit-tavak",
+                  "text": "Keramit-tavak Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.108535,
+                        46.252193
+                  ]
+            },
+            {
+                  "name": "Tejes-tó",
+                  "text": "Tejes-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.105992,
+                        46.250037
+                  ]
+            },
+            {
+                  "name": "Temető-tó",
+                  "text": "Temető-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.104495,
+                        46.251303
+                  ]
+            },
+            {
+                  "name": "Gumis-tó",
+                  "text": "Gumis-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.103334,
+                        46.248491
+                  ]
+            },
+            {
+                  "name": "Szegedi Olimpiai Központ, Maty-éri evezőspálya",
+                  "text": "Olimpiai Központ és evezőspálya Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.076181,
+                        46.239763
+                  ]
+            },
+            {
+                  "name": "Sancer-tavak",
+                  "text": "Sancer-tavak Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.121672,
+                        46.248805
+                  ]
+            },
+            {
+                  "name": "Csemegi-tó",
+                  "text": "Csemegi-tó Szegeden.",
+                  "category": "natural",
+                  "coords": [
+                        20.129744,
+                        46.259563
+                  ]
+            },
+            {
+                  "name": "Gergely-közi játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.134151,
+                        46.269491
+                  ]
+            },
+            {
+                  "name": "Selyem utca MÓNI park",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.169063,
+                        46.265494
+                  ]
+            },
+            {
+                  "name": "Bertalan hídi játszótér",
+                  "text": "Játszótér a szegedi Bertalan-hídnál.",
+                  "category": "family",
+                  "coords": [
+                        20.163074,
+                        46.258965
+                  ]
+            },
+            {
+                  "name": "Crazy Jump trambulinpark",
+                  "text": "Trambulinpark a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.122069,
+                        46.244296
+                  ]
+            },
+            {
+                  "name": "VR Világ",
+                  "text": "VR játékvilág gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.14609,
+                        46.258284
+                  ]
+            },
+            {
+                  "name": "KalandoZoo",
+                  "text": "Szórakoztató játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.119515,
+                        46.250548
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér - Játszóház - Sportpark",
+                  "text": "Nagyszerű játszótér és sportpark gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.165444,
+                        46.265972
+                  ]
+            },
+            {
+                  "name": "Késmárk utcai játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.159838,
+                        46.274273
+                  ]
+            },
+            {
+                  "name": "Honfoglalás játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.150661,
+                        46.276657
+                  ]
+            },
+            {
+                  "name": "Hajlat utcai játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.162077,
+                        46.271199
+                  ]
+            },
+            {
+                  "name": "Hajós játszótér",
+                  "text": "Hajós játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.16103,
+                        46.271703
+                  ]
+            },
+            {
+                  "name": "Lugas utcai játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.169636,
+                        46.267286
+                  ]
+            },
+            {
+                  "name": "Búvár-tavi játszótér",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.131227,
+                        46.267014
+                  ]
+            },
+            {
+                  "name": "Kráter-térjáték",
+                  "text": "Játszótér Szegeden.",
+                  "category": "family",
+                  "coords": [
+                        20.146278,
+                        46.249466
                   ]
             }
       ],
@@ -15303,6 +18597,231 @@ export const hungaryCities: POI[] = [
                         20.165556,
                         46.255833
                   ]
+            },
+            {
+                  "name": "Sintér-tó",
+                  "text": "Lacul Sintér din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.125524,
+                        46.269181
+                  ]
+            },
+            {
+                  "name": "Búvár-tó",
+                  "text": "Lacul Búvár din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129411,
+                        46.267449
+                  ]
+            },
+            {
+                  "name": "Vér-tó",
+                  "text": "Lacul Vér din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.144662,
+                        46.273618
+                  ]
+            },
+            {
+                  "name": "Városgazda-tó",
+                  "text": "Lacul Városgazda din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.10912,
+                        46.258052
+                  ]
+            },
+            {
+                  "name": "Keramit-tavak",
+                  "text": "Lacurile Keramit din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.108535,
+                        46.252193
+                  ]
+            },
+            {
+                  "name": "Tejes-tó",
+                  "text": "Lacul Tejes din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.105992,
+                        46.250037
+                  ]
+            },
+            {
+                  "name": "Temető-tó",
+                  "text": "Lacul Temető din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.104495,
+                        46.251303
+                  ]
+            },
+            {
+                  "name": "Gumis-tó",
+                  "text": "Lacul Gumis din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.103334,
+                        46.248491
+                  ]
+            },
+            {
+                  "name": "Szegedi Olimpiai Központ, Maty-éri evezőspálya",
+                  "text": "Centrul Olimpic și pista de canotaj din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.076181,
+                        46.239763
+                  ]
+            },
+            {
+                  "name": "Sancer-tavak",
+                  "text": "Lacurile Sancer din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.121672,
+                        46.248805
+                  ]
+            },
+            {
+                  "name": "Csemegi-tó",
+                  "text": "Lacul Csemegi din Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129744,
+                        46.259563
+                  ]
+            },
+            {
+                  "name": "Gergely-közi játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.134151,
+                        46.269491
+                  ]
+            },
+            {
+                  "name": "Selyem utca MÓNI park",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169063,
+                        46.265494
+                  ]
+            },
+            {
+                  "name": "Bertalan hídi játszótér",
+                  "text": "Loc de joacă la podul Bertalan din Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.163074,
+                        46.258965
+                  ]
+            },
+            {
+                  "name": "Crazy Jump trambulinpark",
+                  "text": "Parc de trambuline pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        20.122069,
+                        46.244296
+                  ]
+            },
+            {
+                  "name": "VR Világ",
+                  "text": "Lume de jocuri VR pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.14609,
+                        46.258284
+                  ]
+            },
+            {
+                  "name": "KalandoZoo",
+                  "text": "Loc de joacă distractiv în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.119515,
+                        46.250548
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér - Játszóház - Sportpark",
+                  "text": "Un loc de joacă și parc sportiv grozav pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.165444,
+                        46.265972
+                  ]
+            },
+            {
+                  "name": "Késmárk utcai játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.159838,
+                        46.274273
+                  ]
+            },
+            {
+                  "name": "Honfoglalás játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.150661,
+                        46.276657
+                  ]
+            },
+            {
+                  "name": "Hajlat utcai játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.162077,
+                        46.271199
+                  ]
+            },
+            {
+                  "name": "Hajós játszótér",
+                  "text": "Loc de joacă cu tematică nautică în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.16103,
+                        46.271703
+                  ]
+            },
+            {
+                  "name": "Lugas utcai játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169636,
+                        46.267286
+                  ]
+            },
+            {
+                  "name": "Búvár-tavi játszótér",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.131227,
+                        46.267014
+                  ]
+            },
+            {
+                  "name": "Kráter-térjáték",
+                  "text": "Loc de joacă în Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.146278,
+                        46.249466
+                  ]
             }
       ],
       "en": [
@@ -15493,6 +19012,231 @@ export const hungaryCities: POI[] = [
                         20.165556,
                         46.255833
                   ]
+            },
+            {
+                  "name": "Sintér-tó",
+                  "text": "Lake Sintér in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.125524,
+                        46.269181
+                  ]
+            },
+            {
+                  "name": "Búvár-tó",
+                  "text": "Lake Búvár in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129411,
+                        46.267449
+                  ]
+            },
+            {
+                  "name": "Vér-tó",
+                  "text": "Lake Vér in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.144662,
+                        46.273618
+                  ]
+            },
+            {
+                  "name": "Városgazda-tó",
+                  "text": "Lake Városgazda in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.10912,
+                        46.258052
+                  ]
+            },
+            {
+                  "name": "Keramit-tavak",
+                  "text": "Keramit lakes in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.108535,
+                        46.252193
+                  ]
+            },
+            {
+                  "name": "Tejes-tó",
+                  "text": "Lake Tejes in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.105992,
+                        46.250037
+                  ]
+            },
+            {
+                  "name": "Temető-tó",
+                  "text": "Lake Temető in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.104495,
+                        46.251303
+                  ]
+            },
+            {
+                  "name": "Gumis-tó",
+                  "text": "Lake Gumis in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.103334,
+                        46.248491
+                  ]
+            },
+            {
+                  "name": "Szegedi Olimpiai Központ, Maty-éri evezőspálya",
+                  "text": "Olympic center and rowing course in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.076181,
+                        46.239763
+                  ]
+            },
+            {
+                  "name": "Sancer-tavak",
+                  "text": "Sancer lakes in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.121672,
+                        46.248805
+                  ]
+            },
+            {
+                  "name": "Csemegi-tó",
+                  "text": "Lake Csemegi in Szeged.",
+                  "category": "natural",
+                  "coords": [
+                        20.129744,
+                        46.259563
+                  ]
+            },
+            {
+                  "name": "Gergely-közi játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.134151,
+                        46.269491
+                  ]
+            },
+            {
+                  "name": "Selyem utca MÓNI park",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169063,
+                        46.265494
+                  ]
+            },
+            {
+                  "name": "Bertalan hídi játszótér",
+                  "text": "Playground at Bertalan Bridge in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.163074,
+                        46.258965
+                  ]
+            },
+            {
+                  "name": "Crazy Jump trambulinpark",
+                  "text": "Trampoline park for family fun.",
+                  "category": "family",
+                  "coords": [
+                        20.122069,
+                        46.244296
+                  ]
+            },
+            {
+                  "name": "VR Világ",
+                  "text": "VR gaming world for kids.",
+                  "category": "family",
+                  "coords": [
+                        20.14609,
+                        46.258284
+                  ]
+            },
+            {
+                  "name": "KalandoZoo",
+                  "text": "Entertaining playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.119515,
+                        46.250548
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér - Játszóház - Sportpark",
+                  "text": "A great playground and sports park for kids.",
+                  "category": "family",
+                  "coords": [
+                        20.165444,
+                        46.265972
+                  ]
+            },
+            {
+                  "name": "Késmárk utcai játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.159838,
+                        46.274273
+                  ]
+            },
+            {
+                  "name": "Honfoglalás játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.150661,
+                        46.276657
+                  ]
+            },
+            {
+                  "name": "Hajlat utcai játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.162077,
+                        46.271199
+                  ]
+            },
+            {
+                  "name": "Hajós játszótér",
+                  "text": "Ship-themed playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.16103,
+                        46.271703
+                  ]
+            },
+            {
+                  "name": "Lugas utcai játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.169636,
+                        46.267286
+                  ]
+            },
+            {
+                  "name": "Búvár-tavi játszótér",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.131227,
+                        46.267014
+                  ]
+            },
+            {
+                  "name": "Kráter-térjáték",
+                  "text": "Playground in Szeged.",
+                  "category": "family",
+                  "coords": [
+                        20.146278,
+                        46.249466
+                  ]
             }
       ]
 }
@@ -15659,6 +19403,24 @@ export const hungaryCities: POI[] = [
                         20.303591,
                         46.436457
                   ]
+            },
+            {
+                  "name": "Kása-erdei játszótér",
+                  "text": "Kása-erdei játszótér ist ein Spielplatz in Hodmezovasarhely, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.307212,
+                        46.405601
+                  ]
+            },
+            {
+                  "name": "Nagy domb játszótér",
+                  "text": "Nagy domb játszótér ist ein Spielplatz in Hodmezovasarhely, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.309495,
+                        46.408449
+                  ]
             }
       ],
       "hu": [
@@ -15787,6 +19549,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.303591,
                         46.436457
+                  ]
+            },
+            {
+                  "name": "Kása-erdei játszótér",
+                  "text": "A(z) Kása-erdei játszótér egy játszótér Hodmezovasarhely területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        20.307212,
+                        46.405601
+                  ]
+            },
+            {
+                  "name": "Nagy domb játszótér",
+                  "text": "A(z) Nagy domb játszótér egy játszótér Hodmezovasarhely területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        20.309495,
+                        46.408449
                   ]
             }
       ],
@@ -15917,6 +19697,24 @@ export const hungaryCities: POI[] = [
                         20.303591,
                         46.436457
                   ]
+            },
+            {
+                  "name": "Kása-erdei játszótér",
+                  "text": "Kása-erdei játszótér este un loc de joacă în Hodmezovasarhely care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        20.307212,
+                        46.405601
+                  ]
+            },
+            {
+                  "name": "Nagy domb játszótér",
+                  "text": "Nagy domb játszótér este un loc de joacă în Hodmezovasarhely care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        20.309495,
+                        46.408449
+                  ]
             }
       ],
       "en": [
@@ -16045,6 +19843,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.303591,
                         46.436457
+                  ]
+            },
+            {
+                  "name": "Kása-erdei játszótér",
+                  "text": "Kása-erdei játszótér is a playground in Hodmezovasarhely that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        20.307212,
+                        46.405601
+                  ]
+            },
+            {
+                  "name": "Nagy domb játszótér",
+                  "text": "Nagy domb játszótér is a playground in Hodmezovasarhely that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        20.309495,
+                        46.408449
                   ]
             }
       ]
@@ -17089,6 +20905,60 @@ export const hungaryCities: POI[] = [
                         18.41515,
                         47.184958
                   ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Sóstó-See in Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.416886,
+                        47.169842
+                  ]
+            },
+            {
+                  "name": "Cifrakerti-tó",
+                  "text": "Cifrakerti-See in Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.373085,
+                        47.123458
+                  ]
+            },
+            {
+                  "name": "Labirintus (vejsze)",
+                  "text": "Labyrinth-Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.415025,
+                        47.164847
+                  ]
+            },
+            {
+                  "name": "Radnóti Mikós játszótér",
+                  "text": "Spielplatz in Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.415862,
+                        47.191409
+                  ]
+            },
+            {
+                  "name": "Családi fitnesz-játszótér",
+                  "text": "Fitness-Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.425546,
+                        47.186443
+                  ]
+            },
+            {
+                  "name": "Koronás park",
+                  "text": "Ein schöner Park für Familien in Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.401136,
+                        47.196644
+                  ]
             }
       ],
       "hu": [
@@ -17399,6 +21269,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.41515,
                         47.184958
+                  ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Sóstó Székesfehérváron.",
+                  "category": "natural",
+                  "coords": [
+                        18.416886,
+                        47.169842
+                  ]
+            },
+            {
+                  "name": "Cifrakerti-tó",
+                  "text": "Cifrakerti-tó Székesfehérváron.",
+                  "category": "natural",
+                  "coords": [
+                        18.373085,
+                        47.123458
+                  ]
+            },
+            {
+                  "name": "Labirintus (vejsze)",
+                  "text": "Labirintus játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.415025,
+                        47.164847
+                  ]
+            },
+            {
+                  "name": "Radnóti Mikós játszótér",
+                  "text": "Játszótér Székesfehérváron.",
+                  "category": "family",
+                  "coords": [
+                        18.415862,
+                        47.191409
+                  ]
+            },
+            {
+                  "name": "Családi fitnesz-játszótér",
+                  "text": "Családi fitnesz-játszótér.",
+                  "category": "family",
+                  "coords": [
+                        18.425546,
+                        47.186443
+                  ]
+            },
+            {
+                  "name": "Koronás park",
+                  "text": "Szép park családoknak Székesfehérváron.",
+                  "category": "family",
+                  "coords": [
+                        18.401136,
+                        47.196644
                   ]
             }
       ],
@@ -17711,6 +21635,60 @@ export const hungaryCities: POI[] = [
                         18.41515,
                         47.184958
                   ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Lacul Sóstó din Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.416886,
+                        47.169842
+                  ]
+            },
+            {
+                  "name": "Cifrakerti-tó",
+                  "text": "Lacul Cifrakerti din Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.373085,
+                        47.123458
+                  ]
+            },
+            {
+                  "name": "Labirintus (vejsze)",
+                  "text": "Loc de joacă tip labirint pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.415025,
+                        47.164847
+                  ]
+            },
+            {
+                  "name": "Radnóti Mikós játszótér",
+                  "text": "Loc de joacă în Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.415862,
+                        47.191409
+                  ]
+            },
+            {
+                  "name": "Családi fitnesz-játszótér",
+                  "text": "Loc de joacă cu fitness pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        18.425546,
+                        47.186443
+                  ]
+            },
+            {
+                  "name": "Koronás park",
+                  "text": "Un parc frumos pentru familii în Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.401136,
+                        47.196644
+                  ]
             }
       ],
       "en": [
@@ -18022,6 +22000,60 @@ export const hungaryCities: POI[] = [
                         18.41515,
                         47.184958
                   ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Lake Sóstó in Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.416886,
+                        47.169842
+                  ]
+            },
+            {
+                  "name": "Cifrakerti-tó",
+                  "text": "Lake Cifrakerti in Szekesfehervar.",
+                  "category": "natural",
+                  "coords": [
+                        18.373085,
+                        47.123458
+                  ]
+            },
+            {
+                  "name": "Labirintus (vejsze)",
+                  "text": "Maze playground for children.",
+                  "category": "family",
+                  "coords": [
+                        18.415025,
+                        47.164847
+                  ]
+            },
+            {
+                  "name": "Radnóti Mikós játszótér",
+                  "text": "Playground in Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.415862,
+                        47.191409
+                  ]
+            },
+            {
+                  "name": "Családi fitnesz-játszótér",
+                  "text": "Fitness playground for families.",
+                  "category": "family",
+                  "coords": [
+                        18.425546,
+                        47.186443
+                  ]
+            },
+            {
+                  "name": "Koronás park",
+                  "text": "A lovely park for families in Szekesfehervar.",
+                  "category": "family",
+                  "coords": [
+                        18.401136,
+                        47.196644
+                  ]
             }
       ]
 }
@@ -18251,6 +22283,69 @@ export const hungaryCities: POI[] = [
                         18.933976,
                         46.979889
                   ]
+            },
+            {
+                  "name": "Baracsi halastó",
+                  "text": "Baracsi halastó ist ein See in Dunaujvaros, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.887978,
+                        46.90994
+                  ]
+            },
+            {
+                  "name": "Játszótér, focipálya",
+                  "text": "Játszótér, focipálya ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.913573,
+                        46.967217
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.919768,
+                        46.965575
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér",
+                  "text": "Máltai Játszótér ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.94317,
+                        46.966138
+                  ]
+            },
+            {
+                  "name": "Batsányi út mögötti játszótér",
+                  "text": "Batsányi út mögötti játszótér ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.941491,
+                        46.967514
+                  ]
+            },
+            {
+                  "name": "Petőfi liget",
+                  "text": "Petőfi liget ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.937896,
+                        46.960558
+                  ]
+            },
+            {
+                  "name": "Tündérkert",
+                  "text": "Tündérkert ist ein Spielplatz in Dunaujvaros, der Kindern und ihren Familien eine unterhaltsame Umgebung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.919077,
+                        46.974812
+                  ]
             }
       ],
       "hu": [
@@ -18450,6 +22545,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.933976,
                         46.979889
+                  ]
+            },
+            {
+                  "name": "Baracsi halastó",
+                  "text": "A(z) Baracsi halastó egy tó Dunaujvaros területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.887978,
+                        46.90994
+                  ]
+            },
+            {
+                  "name": "Játszótér, focipálya",
+                  "text": "A(z) Játszótér, focipálya egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.913573,
+                        46.967217
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "A(z) KRESZ-park egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.919768,
+                        46.965575
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér",
+                  "text": "A(z) Máltai Játszótér egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.94317,
+                        46.966138
+                  ]
+            },
+            {
+                  "name": "Batsányi út mögötti játszótér",
+                  "text": "A(z) Batsányi út mögötti játszótér egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.941491,
+                        46.967514
+                  ]
+            },
+            {
+                  "name": "Petőfi liget",
+                  "text": "A(z) Petőfi liget egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.937896,
+                        46.960558
+                  ]
+            },
+            {
+                  "name": "Tündérkert",
+                  "text": "A(z) Tündérkert egy játszótér Dunaujvaros területén, amely szórakoztató szabadtéri környezetet nyújt a gyermekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        18.919077,
+                        46.974812
                   ]
             }
       ],
@@ -18651,6 +22809,69 @@ export const hungaryCities: POI[] = [
                         18.933976,
                         46.979889
                   ]
+            },
+            {
+                  "name": "Baracsi halastó",
+                  "text": "Baracsi halastó este un lac situat în Dunaujvaros, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        18.887978,
+                        46.90994
+                  ]
+            },
+            {
+                  "name": "Játszótér, focipálya",
+                  "text": "Játszótér, focipálya este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.913573,
+                        46.967217
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.919768,
+                        46.965575
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér",
+                  "text": "Máltai Játszótér este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.94317,
+                        46.966138
+                  ]
+            },
+            {
+                  "name": "Batsányi út mögötti játszótér",
+                  "text": "Batsányi út mögötti játszótér este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.941491,
+                        46.967514
+                  ]
+            },
+            {
+                  "name": "Petőfi liget",
+                  "text": "Petőfi liget este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.937896,
+                        46.960558
+                  ]
+            },
+            {
+                  "name": "Tündérkert",
+                  "text": "Tündérkert este un loc de joacă în Dunaujvaros care oferă un mediu distractiv în aer liber pentru copii și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        18.919077,
+                        46.974812
+                  ]
             }
       ],
       "en": [
@@ -18851,6 +23072,69 @@ export const hungaryCities: POI[] = [
                         18.933976,
                         46.979889
                   ]
+            },
+            {
+                  "name": "Baracsi halastó",
+                  "text": "Baracsi halastó is a lake located in Dunaujvaros, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.887978,
+                        46.90994
+                  ]
+            },
+            {
+                  "name": "Játszótér, focipálya",
+                  "text": "Játszótér, focipálya is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.913573,
+                        46.967217
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.919768,
+                        46.965575
+                  ]
+            },
+            {
+                  "name": "Máltai Játszótér",
+                  "text": "Máltai Játszótér is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.94317,
+                        46.966138
+                  ]
+            },
+            {
+                  "name": "Batsányi út mögötti játszótér",
+                  "text": "Batsányi út mögötti játszótér is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.941491,
+                        46.967514
+                  ]
+            },
+            {
+                  "name": "Petőfi liget",
+                  "text": "Petőfi liget is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.937896,
+                        46.960558
+                  ]
+            },
+            {
+                  "name": "Tündérkert",
+                  "text": "Tündérkert is a playground in Dunaujvaros that provides a fun outdoor environment for children and their families.",
+                  "category": "family",
+                  "coords": [
+                        18.919077,
+                        46.974812
+                  ]
             }
       ]
 }
@@ -19049,6 +23333,78 @@ export const hungaryCities: POI[] = [
                         18.631239,
                         47.207253
                   ]
+            },
+            {
+                  "name": "Bella-tó",
+                  "text": "Bella-tó ist ein See in Gardony, der schöne Möglichkeiten für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.536456,
+                        47.221883
+                  ]
+            },
+            {
+                  "name": "Bika-völgyi horgásztó",
+                  "text": "Bika-völgyi horgásztó ist ein See in Gardony, der von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.633586,
+                        47.189954
+                  ]
+            },
+            {
+                  "name": "Déli hűtőtó",
+                  "text": "Déli hűtőtó ist ein See in Gardony mit einer interessanten Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.627659,
+                        47.195436
+                  ]
+            },
+            {
+                  "name": "Északi hűtőtó",
+                  "text": "Északi hűtőtó ist ein See in Gardony, der ein ruhiges Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.625953,
+                        47.197052
+                  ]
+            },
+            {
+                  "name": "Zichy-tó",
+                  "text": "Zichy-tó ist ein See in Gardony, der für seine malerische Szenerie bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.676288,
+                        47.137909
+                  ]
+            },
+            {
+                  "name": "Velencer See",
+                  "text": "Lake Velence in Gardony ist ein beliebter See, der Erholung am Wasser und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.602068,
+                        47.2081
+                  ]
+            },
+            {
+                  "name": "Dinnyési Fertő",
+                  "text": "Dinnyési Fertő ist ein Natursee in Gardony, der für seine reiche Vogelwelt und Landschaft geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.544531,
+                        47.169806
+                  ]
+            },
+            {
+                  "name": "Gyermek strand és játszótér",
+                  "text": "Gyermek strand és játszótér ist ein Spielplatz und Kinderstrand in Gardony, der viel Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.620997,
+                        47.207615
+                  ]
             }
       ],
       "hu": [
@@ -19216,6 +23572,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.631239,
                         47.207253
+                  ]
+            },
+            {
+                  "name": "Bella-tó",
+                  "text": "A Bella-tó egy tó Gárdonyban, amely ideális vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.536456,
+                        47.221883
+                  ]
+            },
+            {
+                  "name": "Bika-völgyi horgásztó",
+                  "text": "A Bika-völgyi horgásztó egy természetes tó Gárdony területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.633586,
+                        47.189954
+                  ]
+            },
+            {
+                  "name": "Déli hűtőtó",
+                  "text": "A Déli hűtőtó egy tó Gárdonyban, amely egyedi látványt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.627659,
+                        47.195436
+                  ]
+            },
+            {
+                  "name": "Északi hűtőtó",
+                  "text": "Az Északi hűtőtó egy békés vizű tó Gárdony környékén.",
+                  "category": "natural",
+                  "coords": [
+                        18.625953,
+                        47.197052
+                  ]
+            },
+            {
+                  "name": "Zichy-tó",
+                  "text": "A Zichy-tó egy tó Gárdonyban, amely népszerű a természetkedvelők körében.",
+                  "category": "natural",
+                  "coords": [
+                        18.676288,
+                        47.137909
+                  ]
+            },
+            {
+                  "name": "Velencei-tó",
+                  "text": "A Velencei-tó Gárdony mellett található népszerű tó, amely fürdőzésre és kikapcsolódásra is alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        18.602068,
+                        47.2081
+                  ]
+            },
+            {
+                  "name": "Dinnyési Fertő",
+                  "text": "A Dinnyési Fertő egy védett vizű tó Gárdonyban, amely kiváló helyszín a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.544531,
+                        47.169806
+                  ]
+            },
+            {
+                  "name": "Gyermek strand és játszótér",
+                  "text": "A Gyermek strand és játszótér egy családbarát játszótér Gárdonyban, amely nagyszerű szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.620997,
+                        47.207615
                   ]
             }
       ],
@@ -19385,6 +23813,78 @@ export const hungaryCities: POI[] = [
                         18.631239,
                         47.207253
                   ]
+            },
+            {
+                  "name": "Bella-tó",
+                  "text": "Bella-tó este un lac în Gardony, perfect pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.536456,
+                        47.221883
+                  ]
+            },
+            {
+                  "name": "Bika-völgyi horgásztó",
+                  "text": "Bika-völgyi horgásztó este un lac înconjurat de natură în Gardony.",
+                  "category": "natural",
+                  "coords": [
+                        18.633586,
+                        47.189954
+                  ]
+            },
+            {
+                  "name": "Déli hűtőtó",
+                  "text": "Déli hűtőtó este un lac în Gardony cu un peisaj acvatic interesant.",
+                  "category": "natural",
+                  "coords": [
+                        18.627659,
+                        47.195436
+                  ]
+            },
+            {
+                  "name": "Északi hűtőtó",
+                  "text": "Északi hűtőtó este un lac cu apă liniștită în zona Gardony.",
+                  "category": "natural",
+                  "coords": [
+                        18.625953,
+                        47.197052
+                  ]
+            },
+            {
+                  "name": "Zichy-tó",
+                  "text": "Zichy-tó este un lac în Gardony, cunoscut pentru peisajele sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        18.676288,
+                        47.137909
+                  ]
+            },
+            {
+                  "name": "Velencei-tó",
+                  "text": "Lake Velence din Gardony este un lac popular, ideal pentru relaxare și peisaje deosebite.",
+                  "category": "natural",
+                  "coords": [
+                        18.602068,
+                        47.2081
+                  ]
+            },
+            {
+                  "name": "Dinnyési Fertő",
+                  "text": "Dinnyési Fertő este un lac natural în Gardony, apreciat pentru fauna și peisajele sale.",
+                  "category": "natural",
+                  "coords": [
+                        18.544531,
+                        47.169806
+                  ]
+            },
+            {
+                  "name": "Gyermek strand és játszótér",
+                  "text": "Gyermek strand és játszótér este un loc de joacă în Gardony, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.620997,
+                        47.207615
+                  ]
             }
       ],
       "en": [
@@ -19552,6 +24052,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.631239,
                         47.207253
+                  ]
+            },
+            {
+                  "name": "Bella-tó",
+                  "text": "Bella-tó is a lake in Gardony ideal for waterfront walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.536456,
+                        47.221883
+                  ]
+            },
+            {
+                  "name": "Bika-völgyi horgásztó",
+                  "text": "Bika-völgyi horgásztó is a nature-surrounded lake in Gardony.",
+                  "category": "natural",
+                  "coords": [
+                        18.633586,
+                        47.189954
+                  ]
+            },
+            {
+                  "name": "Déli hűtőtó",
+                  "text": "Déli hűtőtó is a lake in Gardony featuring an interesting waterscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.627659,
+                        47.195436
+                  ]
+            },
+            {
+                  "name": "Északi hűtőtó",
+                  "text": "Északi hűtőtó is a peaceful lake located in the Gardony area.",
+                  "category": "natural",
+                  "coords": [
+                        18.625953,
+                        47.197052
+                  ]
+            },
+            {
+                  "name": "Zichy-tó",
+                  "text": "Zichy-tó is a lake in Gardony known for its picturesque scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.676288,
+                        47.137909
+                  ]
+            },
+            {
+                  "name": "Lake Velence",
+                  "text": "Lake Velence in Gardony is a popular lake offering waterfront recreation and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.602068,
+                        47.2081
+                  ]
+            },
+            {
+                  "name": "Dinnyési Fertő",
+                  "text": "Dinnyési Fertő is a natural lake in Gardony, valued for its rich wildlife and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.544531,
+                        47.169806
+                  ]
+            },
+            {
+                  "name": "Gyermek strand és játszótér",
+                  "text": "Gyermek strand és játszótér is a family-friendly playground and kids' beach area in Gardony.",
+                  "category": "family",
+                  "coords": [
+                        18.620997,
+                        47.207615
                   ]
             }
       ]
@@ -24005,6 +28577,15 @@ export const hungaryCities: POI[] = [
                         21.392639,
                         47.446087
                   ]
+            },
+            {
+                  "name": "Sáska horgásztó",
+                  "text": "Sáska-See bei Hajduszoboszlo.",
+                  "category": "natural",
+                  "coords": [
+                        21.457564,
+                        47.470348
+                  ]
             }
       ],
       "hu": [
@@ -24148,6 +28729,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.392639,
                         47.446087
+                  ]
+            },
+            {
+                  "name": "Sáska horgásztó",
+                  "text": "Sáska horgásztó Hajdúszoboszló közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.457564,
+                        47.470348
                   ]
             }
       ],
@@ -24293,6 +28883,15 @@ export const hungaryCities: POI[] = [
                         21.392639,
                         47.446087
                   ]
+            },
+            {
+                  "name": "Sáska horgásztó",
+                  "text": "Lacul Sáska de lângă Hajduszoboszlo.",
+                  "category": "natural",
+                  "coords": [
+                        21.457564,
+                        47.470348
+                  ]
             }
       ],
       "en": [
@@ -24436,6 +29035,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.392639,
                         47.446087
+                  ]
+            },
+            {
+                  "name": "Sáska horgásztó",
+                  "text": "Lake Sáska near Hajduszoboszlo.",
+                  "category": "natural",
+                  "coords": [
+                        21.457564,
+                        47.470348
                   ]
             }
       ]
@@ -24811,6 +29419,69 @@ export const hungaryCities: POI[] = [
                         20.36606,
                         47.89566
                   ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó ist ein See in Eger, der Besuchern eine wunderschöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Familien, die Eger besuchen, können ihre Kinder auf dem Spielplatz Mini mászóka klettern und spielen lassen.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Der Kölcsey Ferenc téri játszótér in Eger ist ein Spielplatz, der sich perfekt für einen Familienausflug eignet.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "Der Talizmán utcai játszótér bietet eine unterhaltsame Umgebung für Kinder, die in Eger spielen möchten.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Der Napsugár utcai játszótér ist ein einladender Spielplatz in Eger, auf dem Kinder draußen spielen können.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
             }
       ],
       "hu": [
@@ -25102,6 +29773,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.36606,
                         47.89566
+                  ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "A(z) Kis tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "A(z) Ostorosi-tó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "A(z) Egerszalóki-víztározó egy tó Eger területén, amely gyönyörű tájat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Az Egerbe látogató családok gyermekei a Mini mászóka játszótéren élvezhetik a mászást és a játékot.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Az egri Kölcsey Ferenc téri játszótér tökéletes helyszín egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "A Talizmán utcai játszótér vidám környezetet biztosít a gyerekeknek az egri tartózkodás alatt.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "A Napsugár utcai játszótér egy barátságos egri játszótér, ahol a gyerekek élvezhetik a szabadtéri játékot.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
                   ]
             }
       ],
@@ -25395,6 +30129,69 @@ export const hungaryCities: POI[] = [
                         20.36606,
                         47.89566
                   ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó este un lac situat în Eger, oferind peisaje frumoase vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Familiile care vizitează Eger îi pot lăsa pe copii să se bucure de cățărat și joacă la locul de joacă Mini mászóka.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Situat în Eger, Kölcsey Ferenc téri játszótér este un loc de joacă perfect pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "Talizmán utcai játszótér oferă un mediu distractiv pentru copii în timp ce explorează Eger.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Napsugár utcai játszótér este un loc de joacă primitor în Eger, unde copiii se pot bucura de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
             }
       ],
       "en": [
@@ -25687,6 +30484,69 @@ export const hungaryCities: POI[] = [
                         20.36606,
                         47.89566
                   ]
+            },
+            {
+                  "name": "Kis tó",
+                  "text": "Kis tó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.4409,
+                        47.866161
+                  ]
+            },
+            {
+                  "name": "Ostorosi-tó",
+                  "text": "Ostorosi-tó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.423983,
+                        47.883162
+                  ]
+            },
+            {
+                  "name": "Egerszalóki-víztározó",
+                  "text": "Egerszalóki-víztározó is a lake located in Eger, offering beautiful scenery for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        20.312081,
+                        47.895843
+                  ]
+            },
+            {
+                  "name": "Mini mászóka",
+                  "text": "Families visiting Eger can let their children enjoy climbing and playing at the Mini mászóka playground.",
+                  "category": "family",
+                  "coords": [
+                        20.376452,
+                        47.903369
+                  ]
+            },
+            {
+                  "name": "Kölcsey Ferenc téri játszótér",
+                  "text": "Located in Eger, the Kölcsey Ferenc téri játszótér is a playground perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        20.385186,
+                        47.877129
+                  ]
+            },
+            {
+                  "name": "Talizmán utcai játszótér",
+                  "text": "The Talizmán utcai játszótér provides a fun environment for children to play while exploring Eger.",
+                  "category": "family",
+                  "coords": [
+                        20.384279,
+                        47.906642
+                  ]
+            },
+            {
+                  "name": "Napsugár utcai játszótér",
+                  "text": "Napsugár utcai játszótér is a welcoming playground in Eger where kids can enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        20.388786,
+                        47.895451
+                  ]
             }
       ]
 }
@@ -25946,6 +30806,15 @@ export const hungaryCities: POI[] = [
                         19.916707,
                         47.78853
                   ]
+            },
+            {
+                  "name": "Gyöngyös-Nagyrédei víztározó",
+                  "text": "Gyöngyös-Nagyrédei víztározó ist ein See in Gyoengyoes, an dem man entspannte Spaziergänge unternehmen kann.",
+                  "category": "natural",
+                  "coords": [
+                        19.900941,
+                        47.772896
+                  ]
             }
       ],
       "hu": [
@@ -26180,6 +31049,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.916707,
                         47.78853
+                  ]
+            },
+            {
+                  "name": "Gyöngyös-Nagyrédei víztározó",
+                  "text": "A Gyöngyös-Nagyrédei víztározó egy hatalmas tó Gyöngyös mellett, amely békés kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        19.900941,
+                        47.772896
                   ]
             }
       ],
@@ -26416,6 +31294,15 @@ export const hungaryCities: POI[] = [
                         19.916707,
                         47.78853
                   ]
+            },
+            {
+                  "name": "Gyöngyös-Nagyrédei víztározó",
+                  "text": "Gyöngyös-Nagyrédei víztározó este un lac lângă Gyoengyoes, excelent pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        19.900941,
+                        47.772896
+                  ]
             }
       ],
       "en": [
@@ -26650,6 +31537,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.916707,
                         47.78853
+                  ]
+            },
+            {
+                  "name": "Gyöngyös-Nagyrédei víztározó",
+                  "text": "Gyöngyös-Nagyrédei víztározó is a reservoir lake in Gyoengyoes suitable for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.900941,
+                        47.772896
                   ]
             }
       ]
@@ -28425,6 +33321,42 @@ export const hungaryCities: POI[] = [
                         20.75035,
                         47.218272
                   ]
+            },
+            {
+                  "name": "Horgász-tó",
+                  "text": "Horgász-tó ist ein See in Kisujszallas, der zur Erholung in ruhiger Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.788252,
+                        47.220876
+                  ]
+            },
+            {
+                  "name": "Gyalpári-halastavak",
+                  "text": "Gyalpári-halastavak ist eine Seengruppe in Kisujszallas, die durch ihre weitläufige Wasserlandschaft besticht.",
+                  "category": "natural",
+                  "coords": [
+                        20.807193,
+                        47.221724
+                  ]
+            },
+            {
+                  "name": "Demcsák-halastó",
+                  "text": "Demcsák-halastó ist ein See in Kisujszallas, der eine friedvolle Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.814697,
+                        47.238703
+                  ]
+            },
+            {
+                  "name": "Extrémsport-pálya",
+                  "text": "Extrémsport-pálya ist eine Anlage für Familien und Kinder in Kisujszallas, um sich sportlich zu betätigen.",
+                  "category": "family",
+                  "coords": [
+                        20.751472,
+                        47.221966
+                  ]
             }
       ],
       "hu": [
@@ -28504,6 +33436,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.75035,
                         47.218272
+                  ]
+            },
+            {
+                  "name": "Horgász-tó",
+                  "text": "A Horgász-tó egy csendes tó Kisújszálláson, amely remek lehetőséget kínál a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        20.788252,
+                        47.220876
+                  ]
+            },
+            {
+                  "name": "Gyalpári-halastavak",
+                  "text": "A Gyalpári-halastavak tórendszere Kisújszálláson található, és szép természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.807193,
+                        47.221724
+                  ]
+            },
+            {
+                  "name": "Demcsák-halastó",
+                  "text": "A Demcsák-halastó egy békés vizű tó Kisújszállás területén.",
+                  "category": "natural",
+                  "coords": [
+                        20.814697,
+                        47.238703
+                  ]
+            },
+            {
+                  "name": "Extrémsport-pálya",
+                  "text": "Az Extrémsport-pálya egy aktív kikapcsolódást nyújtó sportpark és játszótér Kisújszálláson.",
+                  "category": "family",
+                  "coords": [
+                        20.751472,
+                        47.221966
                   ]
             }
       ],
@@ -28585,6 +33553,42 @@ export const hungaryCities: POI[] = [
                         20.75035,
                         47.218272
                   ]
+            },
+            {
+                  "name": "Horgász-tó",
+                  "text": "Horgász-tó este un lac în Kisujszallas, perfect pentru a vă relaxa în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.788252,
+                        47.220876
+                  ]
+            },
+            {
+                  "name": "Gyalpári-halastavak",
+                  "text": "Gyalpári-halastavak este un grup de lacuri în Kisujszallas, atrăgător pentru peisajul său.",
+                  "category": "natural",
+                  "coords": [
+                        20.807193,
+                        47.221724
+                  ]
+            },
+            {
+                  "name": "Demcsák-halastó",
+                  "text": "Demcsák-halastó este un lac pașnic situat în Kisujszallas.",
+                  "category": "natural",
+                  "coords": [
+                        20.814697,
+                        47.238703
+                  ]
+            },
+            {
+                  "name": "Extrémsport-pálya",
+                  "text": "Extrémsport-pálya este un loc de joacă și sport pentru familii în Kisujszallas.",
+                  "category": "family",
+                  "coords": [
+                        20.751472,
+                        47.221966
+                  ]
             }
       ],
       "en": [
@@ -28664,6 +33668,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.75035,
                         47.218272
+                  ]
+            },
+            {
+                  "name": "Horgász-tó",
+                  "text": "Horgász-tó is a lake in Kisujszallas offering a peaceful natural escape.",
+                  "category": "natural",
+                  "coords": [
+                        20.788252,
+                        47.220876
+                  ]
+            },
+            {
+                  "name": "Gyalpári-halastavak",
+                  "text": "Gyalpári-halastavak is a group of lakes in Kisujszallas featuring a spacious natural waterscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.807193,
+                        47.221724
+                  ]
+            },
+            {
+                  "name": "Demcsák-halastó",
+                  "text": "Demcsák-halastó is a peaceful lake located in Kisujszallas.",
+                  "category": "natural",
+                  "coords": [
+                        20.814697,
+                        47.238703
+                  ]
+            },
+            {
+                  "name": "Extrémsport-pálya",
+                  "text": "Extrémsport-pálya is a sports playground in Kisujszallas, perfect for active families and kids.",
+                  "category": "family",
+                  "coords": [
+                        20.751472,
+                        47.221966
                   ]
             }
       ]
@@ -28895,6 +33935,33 @@ export const hungaryCities: POI[] = [
                         18.41457,
                         47.51514
                   ]
+            },
+            {
+                  "name": "Bánhidai Erőmű-tó",
+                  "text": "Bánhidai-See in Tatabanya.",
+                  "category": "natural",
+                  "coords": [
+                        18.366465,
+                        47.568627
+                  ]
+            },
+            {
+                  "name": "Marasztoki-tó",
+                  "text": "Der Marasztoki-tó in Tatabanya ist ein schöner See zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        18.378468,
+                        47.572911
+                  ]
+            },
+            {
+                  "name": "Máltai Szeretetszolgálat játszótere",
+                  "text": "Dieser Spielplatz in Tatabanya bietet Familien einen tollen Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.390166,
+                        47.577304
+                  ]
             }
       ],
       "hu": [
@@ -29042,6 +34109,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.41457,
                         47.51514
+                  ]
+            },
+            {
+                  "name": "Bánhidai Erőmű-tó",
+                  "text": "Bánhidai Erőmű-tó Tatabányán.",
+                  "category": "natural",
+                  "coords": [
+                        18.366465,
+                        47.568627
+                  ]
+            },
+            {
+                  "name": "Marasztoki-tó",
+                  "text": "A tatabányai Marasztoki-tó kellemes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.378468,
+                        47.572911
+                  ]
+            },
+            {
+                  "name": "Máltai Szeretetszolgálat játszótere",
+                  "text": "A tatabányai játszótér remek helyet kínál a családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.390166,
+                        47.577304
                   ]
             }
       ],
@@ -29191,6 +34285,33 @@ export const hungaryCities: POI[] = [
                         18.41457,
                         47.51514
                   ]
+            },
+            {
+                  "name": "Bánhidai Erőmű-tó",
+                  "text": "Lacul Bánhidai din Tatabanya.",
+                  "category": "natural",
+                  "coords": [
+                        18.366465,
+                        47.568627
+                  ]
+            },
+            {
+                  "name": "Marasztoki-tó",
+                  "text": "Marasztoki-tó din Tatabanya oferă un cadru plăcut pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.378468,
+                        47.572911
+                  ]
+            },
+            {
+                  "name": "Máltai Szeretetszolgálat játszótere",
+                  "text": "Acest loc de joacă din Tatabanya oferă familiilor un spațiu minunat pentru distracție.",
+                  "category": "family",
+                  "coords": [
+                        18.390166,
+                        47.577304
+                  ]
             }
       ],
       "en": [
@@ -29338,6 +34459,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.41457,
                         47.51514
+                  ]
+            },
+            {
+                  "name": "Bánhidai Erőmű-tó",
+                  "text": "Lake Bánhidai in Tatabanya.",
+                  "category": "natural",
+                  "coords": [
+                        18.366465,
+                        47.568627
+                  ]
+            },
+            {
+                  "name": "Marasztoki-tó",
+                  "text": "The Marasztoki-tó in Tatabanya offers a pleasant setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.378468,
+                        47.572911
+                  ]
+            },
+            {
+                  "name": "Máltai Szeretetszolgálat játszótere",
+                  "text": "This playground in Tatabanya offers families a great place to play.",
+                  "category": "family",
+                  "coords": [
+                        18.390166,
+                        47.577304
                   ]
             }
       ]
@@ -29758,6 +34906,78 @@ export const hungaryCities: POI[] = [
                         18.74264,
                         47.795406
                   ]
+            },
+            {
+                  "name": "Palatinus-tó",
+                  "text": "Der Palatinus-tó in Esztergom ist ein malerischer See, der zum Spazierengehen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.741647,
+                        47.728885
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Der Gyilkos-tó ist ein ruhiger See in Esztergom, der Besuchern eine friedliche Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Bajtavská vodná nádrž",
+                  "text": "Bajtavská vodná nádrž ist ein Stausee in der Nähe von Esztergom, der von einer wunderschönen Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.731185,
+                        47.856836
+                  ]
+            },
+            {
+                  "name": "Bíróréti-tó",
+                  "text": "Der Bíróréti-tó in Esztergom ist ein schöner See, der sich ideal für einen entspannten Spaziergang am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.777815,
+                        47.805318
+                  ]
+            },
+            {
+                  "name": "Forrás-tó",
+                  "text": "Der Forrás-tó in Esztergom ist ein ruhiges Seengebiet, in dem Naturliebhaber die frische Luft genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        18.775496,
+                        47.806552
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Der Lóga-tó ist ein friedlicher See in Esztergom, an dem Besucher die lokale Landschaft bewundern können.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Béke téri játszótér",
+                  "text": "Der Béke téri játszótér ist ein familienfreundlicher Spielplatz in der Stadt Esztergom.",
+                  "category": "family",
+                  "coords": [
+                        18.742516,
+                        47.799354
+                  ]
+            },
+            {
+                  "name": "Mesekuckó Játszótér",
+                  "text": "Familien in Esztergom können den Mesekuckó Játszótér für einen spaßigen Nachmittag mit ihren Kindern besuchen.",
+                  "category": "family",
+                  "coords": [
+                        18.747168,
+                        47.801952
+                  ]
             }
       ],
       "hu": [
@@ -30087,6 +35307,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.74264,
                         47.795406
+                  ]
+            },
+            {
+                  "name": "Palatinus-tó",
+                  "text": "Az esztergomi Palatinus-tó egy festői szépségű tó, amely kedvelt helyszíne a sétáknak és a természetjárásnak.",
+                  "category": "natural",
+                  "coords": [
+                        18.741647,
+                        47.728885
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "A Gyilkos-tó egy nyugodt vizű tó Esztergomban, amely békés természeti környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Bajtavská vodná nádrž",
+                  "text": "A Bajtavská vodná nádrž egy Esztergomhoz közeli víztározó, amelyet gyönyörű táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.731185,
+                        47.856836
+                  ]
+            },
+            {
+                  "name": "Bíróréti-tó",
+                  "text": "Az esztergomi Bíróréti-tó egy kellemes tó, amely ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.777815,
+                        47.805318
+                  ]
+            },
+            {
+                  "name": "Forrás-tó",
+                  "text": "Az esztergomi Forrás-tó egy nyugodt vízparti terület, ahol a természetkedvelők élvezhetik a szabad levegőt.",
+                  "category": "natural",
+                  "coords": [
+                        18.775496,
+                        47.806552
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "A Lóga-tó egy békés tó Esztergomban, ahol a látogatók gyönyörködhetnek a helyi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Béke téri játszótér",
+                  "text": "A Béke téri játszótér egy családbarát játszótér Esztergom városában.",
+                  "category": "family",
+                  "coords": [
+                        18.742516,
+                        47.799354
+                  ]
+            },
+            {
+                  "name": "Mesekuckó Játszótér",
+                  "text": "Az esztergomi családok ellátogathatnak a Mesekuckó Játszótérre egy vidám, gyerekekkel töltött délutánra.",
+                  "category": "family",
+                  "coords": [
+                        18.747168,
+                        47.801952
                   ]
             }
       ],
@@ -30418,6 +35710,78 @@ export const hungaryCities: POI[] = [
                         18.74264,
                         47.795406
                   ]
+            },
+            {
+                  "name": "Palatinus-tó",
+                  "text": "Palatinus-tó din Esztergom este un lac pitoresc popular pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.741647,
+                        47.728885
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Gyilkos-tó este un lac liniștit în Esztergom, care oferă vizitatorilor un peisaj natural pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Bajtavská vodná nádrž",
+                  "text": "Bajtavská vodná nádrž este un lac de acumulare lângă Esztergom, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.731185,
+                        47.856836
+                  ]
+            },
+            {
+                  "name": "Bíróréti-tó",
+                  "text": "Situat în Esztergom, Bíróréti-tó este un lac plăcut, ideal pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.777815,
+                        47.805318
+                  ]
+            },
+            {
+                  "name": "Forrás-tó",
+                  "text": "Forrás-tó din Esztergom este o zonă liniștită de lac, potrivită pentru ca iubitorii de natură să se bucure de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.775496,
+                        47.806552
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Lóga-tó este un lac pașnic în Esztergom, unde vizitatorii pot admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Béke téri játszótér",
+                  "text": "Béke téri játszótér este un loc de joacă pentru familii, situat în orașul Esztergom.",
+                  "category": "family",
+                  "coords": [
+                        18.742516,
+                        47.799354
+                  ]
+            },
+            {
+                  "name": "Mesekuckó Játszótér",
+                  "text": "Familiile din Esztergom pot vizita Mesekuckó Játszótér pentru o după-amiază plină de distracție cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        18.747168,
+                        47.801952
+                  ]
             }
       ],
       "en": [
@@ -30747,6 +36111,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.74264,
                         47.795406
+                  ]
+            },
+            {
+                  "name": "Palatinus-tó",
+                  "text": "Palatinus-tó in Esztergom is a scenic lake popular for walking and enjoying the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.741647,
+                        47.728885
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Gyilkos-tó is a tranquil lake in Esztergom, offering a peaceful natural landscape for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Bajtavská vodná nádrž",
+                  "text": "Bajtavská vodná nádrž is a water reservoir near Esztergom surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.731185,
+                        47.856836
+                  ]
+            },
+            {
+                  "name": "Bíróréti-tó",
+                  "text": "Located in Esztergom, Bíróréti-tó is a pleasant lake ideal for a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.777815,
+                        47.805318
+                  ]
+            },
+            {
+                  "name": "Forrás-tó",
+                  "text": "Forrás-tó in Esztergom is a calm lake area suitable for nature lovers to enjoy the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.775496,
+                        47.806552
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Lóga-tó is a peaceful lake in Esztergom where visitors can take in the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Béke téri játszótér",
+                  "text": "Béke téri játszótér is a family-friendly playground situated in the city of Esztergom.",
+                  "category": "family",
+                  "coords": [
+                        18.742516,
+                        47.799354
+                  ]
+            },
+            {
+                  "name": "Mesekuckó Játszótér",
+                  "text": "Families in Esztergom can visit Mesekuckó Játszótér for a fun-filled afternoon with their children.",
+                  "category": "family",
+                  "coords": [
+                        18.747168,
+                        47.801952
                   ]
             }
       ]
@@ -33316,6 +38752,159 @@ export const hungaryCities: POI[] = [
                         19.07265,
                         47.66998
                   ]
+            },
+            {
+                  "name": "Dunakeszi Kavicsbányató",
+                  "text": "Dunakeszi Kavicsbányató ist ein See in Szentendre, der ein ruhiges Ambiente für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.126937,
+                        47.60808
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Sződligeti horgásztó ist ein See in der Nähe von Szentendre, der schöne Spaziergänge am Ufer ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "II. Tó",
+                  "text": "II. Tó ist ein See in Szentendre, der zur Naherholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        19.125843,
+                        47.61327
+                  ]
+            },
+            {
+                  "name": "Pisztrángsügér horgásztó",
+                  "text": "Pisztrángsügér horgásztó ist ein ruhiger See in Szentendre für naturnahe Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        19.111712,
+                        47.701363
+                  ]
+            },
+            {
+                  "name": "Pannónia-tó",
+                  "text": "Pannónia-tó ist ein See in Szentendre, der für seine idyllische Umgebung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        19.06643,
+                        47.654046
+                  ]
+            },
+            {
+                  "name": "Lupa-tó",
+                  "text": "Lupa-tó ist ein beliebter See in Szentendre, der im Sommer Gelegenheiten für Freizeitaktivitäten und Schwimmen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.076617,
+                        47.626721
+                  ]
+            },
+            {
+                  "name": "Szakáts-kerti horgásztó",
+                  "text": "Szakáts-kerti horgásztó ist ein See in Szentendre, umgeben von erholsamer Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.125018,
+                        47.673074
+                  ]
+            },
+            {
+                  "name": "záportároló",
+                  "text": "Der záportároló in Szentendre ist ein kleiner See, der in die städtische Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.063495,
+                        47.624549
+                  ]
+            },
+            {
+                  "name": "I. Tó",
+                  "text": "I. Tó ist ein See in Szentendre, der sich für eine ruhige Pause am Wasser anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.123374,
+                        47.609623
+                  ]
+            },
+            {
+                  "name": "III. Tó",
+                  "text": "III. Tó ist ein See in Szentendre, der die örtliche Naturlandschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        19.124193,
+                        47.612877
+                  ]
+            },
+            {
+                  "name": "Omszk-tó",
+                  "text": "Omszk-tó ist ein See in der Nähe von Szentendre, der ideal für Spaziergänge und Wassersport ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.062244,
+                        47.617948
+                  ]
+            },
+            {
+                  "name": "Dózsa-Pannónia társasház játszótere",
+                  "text": "Dózsa-Pannónia társasház játszótere ist ein familienfreundlicher Spielplatz in Szentendre für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        19.075017,
+                        47.657695
+                  ]
+            },
+            {
+                  "name": "Ericsson játszótér",
+                  "text": "Ericsson játszótér ist ein moderner Spielplatz in Szentendre, der viele Aktivitäten für Kinder bereithält.",
+                  "category": "family",
+                  "coords": [
+                        19.067322,
+                        47.652049
+                  ]
+            },
+            {
+                  "name": "Pismányi játszótér",
+                  "text": "Pismányi játszótér ist ein schöner Spielplatz in Szentendre für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        19.065783,
+                        47.691026
+                  ]
+            },
+            {
+                  "name": "Szmolnyica játszótér",
+                  "text": "Szmolnyica játszótér ist ein toller Spielplatz für Kinder und ihre Eltern in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.05536,
+                        47.670585
+                  ]
+            },
+            {
+                  "name": "Sztaravoda park",
+                  "text": "Sztaravoda park bietet einen weitläufigen Spielplatz in Szentendre für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.071613,
+                        47.67427
+                  ]
+            },
+            {
+                  "name": "Vasvári játszótér",
+                  "text": "Vasvári játszótér ist ein einladender Spielplatz für Familien im Herzen von Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.065015,
+                        47.676726
+                  ]
             }
       ],
       "hu": [
@@ -33591,6 +39180,159 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.07265,
                         47.66998
+                  ]
+            },
+            {
+                  "name": "Dunakeszi Kavicsbányató",
+                  "text": "A Dunakeszi Kavicsbányató egy tiszta vizű tó Szentendre térségében.",
+                  "category": "natural",
+                  "coords": [
+                        19.126937,
+                        47.60808
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "A Sződligeti horgásztó egy festői tó Szentendre közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "II. Tó",
+                  "text": "A II. Tó egy kellemes környezetű tó Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.125843,
+                        47.61327
+                  ]
+            },
+            {
+                  "name": "Pisztrángsügér horgásztó",
+                  "text": "A Pisztrángsügér horgásztó egy nyugodt vízfelület Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.111712,
+                        47.701363
+                  ]
+            },
+            {
+                  "name": "Pannónia-tó",
+                  "text": "A Pannónia-tó egy idilli környezetben fekvő tó Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.06643,
+                        47.654046
+                  ]
+            },
+            {
+                  "name": "Lupa-tó",
+                  "text": "A Lupa-tó egy népszerű tó Szentendre mellett, amely kristálytiszta vizével nyáron sokakat vonz.",
+                  "category": "natural",
+                  "coords": [
+                        19.076617,
+                        47.626721
+                  ]
+            },
+            {
+                  "name": "Szakáts-kerti horgásztó",
+                  "text": "A Szakáts-kerti horgásztó egy természetközeli vizű tó Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.125018,
+                        47.673074
+                  ]
+            },
+            {
+                  "name": "záportároló",
+                  "text": "A záportároló egy tó Szentendrén, amely a helyi vízrendezést szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        19.063495,
+                        47.624549
+                  ]
+            },
+            {
+                  "name": "I. Tó",
+                  "text": "Az I. Tó egy csendes környezetű vízfelület Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.123374,
+                        47.609623
+                  ]
+            },
+            {
+                  "name": "III. Tó",
+                  "text": "A III. Tó egy természetes környezetű tó Szentendrén.",
+                  "category": "natural",
+                  "coords": [
+                        19.124193,
+                        47.612877
+                  ]
+            },
+            {
+                  "name": "Omszk-tó",
+                  "text": "Az Omszk-tó egy népszerű tó Szentendre környékén, amely kiváló kikapcsolódási lehetőségeket nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        19.062244,
+                        47.617948
+                  ]
+            },
+            {
+                  "name": "Dózsa-Pannónia társasház játszótere",
+                  "text": "A Dózsa-Pannónia társasház játszótere egy biztonságos játszótér családok számára Szentendrén.",
+                  "category": "family",
+                  "coords": [
+                        19.075017,
+                        47.657695
+                  ]
+            },
+            {
+                  "name": "Ericsson játszótér",
+                  "text": "Az Ericsson játszótér egy modern és jól felszerelt játszótér Szentendrén a gyerekek örömére.",
+                  "category": "family",
+                  "coords": [
+                        19.067322,
+                        47.652049
+                  ]
+            },
+            {
+                  "name": "Pismányi játszótér",
+                  "text": "A Pismányi játszótér egy barátságos, családok számára ideális játszótér Szentendrén.",
+                  "category": "family",
+                  "coords": [
+                        19.065783,
+                        47.691026
+                  ]
+            },
+            {
+                  "name": "Szmolnyica játszótér",
+                  "text": "A Szmolnyica játszótér egy szép környezetben lévő játszótér Szentendrén.",
+                  "category": "family",
+                  "coords": [
+                        19.05536,
+                        47.670585
+                  ]
+            },
+            {
+                  "name": "Sztaravoda park",
+                  "text": "A Sztaravoda park egy zöldövezeti játszótér és pihenőpark Szentendrén, amely családoknak is kiváló.",
+                  "category": "family",
+                  "coords": [
+                        19.071613,
+                        47.67427
+                  ]
+            },
+            {
+                  "name": "Vasvári játszótér",
+                  "text": "A Vasvári játszótér egy kellemes családi játszótér Szentendre városában.",
+                  "category": "family",
+                  "coords": [
+                        19.065015,
+                        47.676726
                   ]
             }
       ],
@@ -33868,6 +39610,159 @@ export const hungaryCities: POI[] = [
                         19.07265,
                         47.66998
                   ]
+            },
+            {
+                  "name": "Dunakeszi Kavicsbányató",
+                  "text": "Dunakeszi Kavicsbányató este un lac cu apă curată în zona Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.126937,
+                        47.60808
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Sződligeti horgásztó este un lac pitoresc aproape de Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "II. Tó",
+                  "text": "II. Tó este un lac în Szentendre, potrivit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        19.125843,
+                        47.61327
+                  ]
+            },
+            {
+                  "name": "Pisztrángsügér horgásztó",
+                  "text": "Pisztrángsügér horgásztó este un lac liniștit situat în Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.111712,
+                        47.701363
+                  ]
+            },
+            {
+                  "name": "Pannónia-tó",
+                  "text": "Pannónia-tó este un lac cu împrejurimi idilice din Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.06643,
+                        47.654046
+                  ]
+            },
+            {
+                  "name": "Lupa-tó",
+                  "text": "Lupa-tó este un lac popular din Szentendre, care oferă oportunități de relaxare și înot pe timp de vară.",
+                  "category": "natural",
+                  "coords": [
+                        19.076617,
+                        47.626721
+                  ]
+            },
+            {
+                  "name": "Szakáts-kerti horgásztó",
+                  "text": "Szakáts-kerti horgásztó este un lac înconjurat de natură în Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.125018,
+                        47.673074
+                  ]
+            },
+            {
+                  "name": "záportároló",
+                  "text": "Záportároló este un lac de retenție situat în Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.063495,
+                        47.624549
+                  ]
+            },
+            {
+                  "name": "I. Tó",
+                  "text": "I. Tó este un lac cu un mediu liniștit din Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.123374,
+                        47.609623
+                  ]
+            },
+            {
+                  "name": "III. Tó",
+                  "text": "III. Tó este un lac natural în peisajul local din Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.124193,
+                        47.612877
+                  ]
+            },
+            {
+                  "name": "Omszk-tó",
+                  "text": "Omszk-tó este un lac lângă Szentendre, ideal pentru plimbări și sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        19.062244,
+                        47.617948
+                  ]
+            },
+            {
+                  "name": "Dózsa-Pannónia társasház játszótere",
+                  "text": "Dózsa-Pannónia társasház játszótere este un loc de joacă prietenos cu familiile în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.075017,
+                        47.657695
+                  ]
+            },
+            {
+                  "name": "Ericsson játszótér",
+                  "text": "Ericsson játszótér este un loc de joacă modern pentru copii în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.067322,
+                        47.652049
+                  ]
+            },
+            {
+                  "name": "Pismányi játszótér",
+                  "text": "Pismányi játszótér este un loc de joacă atractiv pentru familii în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.065783,
+                        47.691026
+                  ]
+            },
+            {
+                  "name": "Szmolnyica játszótér",
+                  "text": "Szmolnyica játszótér este un loc de joacă excelent pentru copii în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.05536,
+                        47.670585
+                  ]
+            },
+            {
+                  "name": "Sztaravoda park",
+                  "text": "Sztaravoda park are un loc de joacă spațios pentru întreaga familie în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.071613,
+                        47.67427
+                  ]
+            },
+            {
+                  "name": "Vasvári játszótér",
+                  "text": "Vasvári játszótér este un loc de joacă primitor pentru familii în Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.065015,
+                        47.676726
+                  ]
             }
       ],
       "en": [
@@ -34143,6 +40038,159 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.07265,
                         47.66998
+                  ]
+            },
+            {
+                  "name": "Dunakeszi Kavicsbányató",
+                  "text": "Dunakeszi Kavicsbányató is a lake near Szentendre providing a calm setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.126937,
+                        47.60808
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Sződligeti horgásztó is a picturesque lake near Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "II. Tó",
+                  "text": "II. Tó is a lake in Szentendre offering local outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        19.125843,
+                        47.61327
+                  ]
+            },
+            {
+                  "name": "Pisztrángsügér horgásztó",
+                  "text": "Pisztrángsügér horgásztó is a quiet lake located in Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.111712,
+                        47.701363
+                  ]
+            },
+            {
+                  "name": "Pannónia-tó",
+                  "text": "Pannónia-tó is an idyllic lake situated in Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.06643,
+                        47.654046
+                  ]
+            },
+            {
+                  "name": "Lupa-tó",
+                  "text": "Lupa-tó is a popular lake in Szentendre, offering swimming and leisure activities during the summer.",
+                  "category": "natural",
+                  "coords": [
+                        19.076617,
+                        47.626721
+                  ]
+            },
+            {
+                  "name": "Szakáts-kerti horgásztó",
+                  "text": "Szakáts-kerti horgásztó is a lake surrounded by relaxing nature in Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.125018,
+                        47.673074
+                  ]
+            },
+            {
+                  "name": "záportároló",
+                  "text": "The záportároló is a small reservoir lake located in Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.063495,
+                        47.624549
+                  ]
+            },
+            {
+                  "name": "I. Tó",
+                  "text": "I. Tó is a lake offering a quiet break by the water in Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.123374,
+                        47.609623
+                  ]
+            },
+            {
+                  "name": "III. Tó",
+                  "text": "III. Tó is a lake enriching the local natural landscape of Szentendre.",
+                  "category": "natural",
+                  "coords": [
+                        19.124193,
+                        47.612877
+                  ]
+            },
+            {
+                  "name": "Omszk-tó",
+                  "text": "Omszk-tó is a popular lake near Szentendre, ideal for walks and watersports.",
+                  "category": "natural",
+                  "coords": [
+                        19.062244,
+                        47.617948
+                  ]
+            },
+            {
+                  "name": "Dózsa-Pannónia társasház játszótere",
+                  "text": "Dózsa-Pannónia társasház játszótere is a family-friendly neighborhood playground in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.075017,
+                        47.657695
+                  ]
+            },
+            {
+                  "name": "Ericsson játszótér",
+                  "text": "Ericsson játszótér is a modern playground providing fun activities for kids in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.067322,
+                        47.652049
+                  ]
+            },
+            {
+                  "name": "Pismányi játszótér",
+                  "text": "Pismányi játszótér is an attractive playground for family outings in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.065783,
+                        47.691026
+                  ]
+            },
+            {
+                  "name": "Szmolnyica játszótér",
+                  "text": "Szmolnyica játszótér is a great playground for kids and their parents in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.05536,
+                        47.670585
+                  ]
+            },
+            {
+                  "name": "Sztaravoda park",
+                  "text": "Sztaravoda park features a spacious playground for the whole family in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.071613,
+                        47.67427
+                  ]
+            },
+            {
+                  "name": "Vasvári játszótér",
+                  "text": "Vasvári játszótér is a welcoming playground for families in Szentendre.",
+                  "category": "family",
+                  "coords": [
+                        19.065015,
+                        47.676726
                   ]
             }
       ]
@@ -34440,6 +40488,186 @@ export const hungaryCities: POI[] = [
                         19.342183,
                         47.598461
                   ]
+            },
+            {
+                  "name": "Pusztaszentjakabi-tó",
+                  "text": "Der Pusztaszentjakabi-tó in Goedoello ist ein ruhiger See für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        19.299482,
+                        47.60568
+                  ]
+            },
+            {
+                  "name": "Babatpusztai tavak",
+                  "text": "Die Babatpusztai tavak in Goedoello sind malerische Seen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.391227,
+                        47.616892
+                  ]
+            },
+            {
+                  "name": "Babatpusztai horgásztó",
+                  "text": "Der Babatpusztai horgásztó in Goedoello ist ein lokaler Angelsee.",
+                  "category": "natural",
+                  "coords": [
+                        19.403298,
+                        47.612406
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó",
+                  "text": "Der Száritópusztai-víztározó in Goedoello ist ein ruhiges Wasserreservoir.",
+                  "category": "natural",
+                  "coords": [
+                        19.379002,
+                        47.553926
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 9. sz. tó",
+                  "text": "Der Száritópusztai-víztározó 9. sz. tó in Goedoello ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        19.381351,
+                        47.549318
+                  ]
+            },
+            {
+                  "name": "BigPonty-tó",
+                  "text": "Der BigPonty-tó in Goedoello lädt zu entspannten Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        19.377508,
+                        47.55707
+                  ]
+            },
+            {
+                  "name": "Bumeráng-tó",
+                  "text": "Der Bumeráng-tó in Goedoello ist ein schöner See in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        19.375914,
+                        47.558059
+                  ]
+            },
+            {
+                  "name": "Rocky-tó",
+                  "text": "Der Rocky-tó in Goedoello bietet eine naturnahe Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        19.375834,
+                        47.559192
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 5. tó",
+                  "text": "Der Száritópusztai-víztározó 5. tó in Goedoello ist ein ruhiger Ort.",
+                  "category": "natural",
+                  "coords": [
+                        19.3718,
+                        47.562845
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "Der Malom-tó in Goedoello ist ein idyllischer kleiner See.",
+                  "category": "natural",
+                  "coords": [
+                        19.366126,
+                        47.568233
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Der Horgásztó in Goedoello ist ein beliebter Angelsee.",
+                  "category": "natural",
+                  "coords": [
+                        19.362156,
+                        47.57527
+                  ]
+            },
+            {
+                  "name": "Lake Forest villapark tava",
+                  "text": "Der Lake Forest villapark tava in Goedoello liegt in einer schönen Wohngegend.",
+                  "category": "natural",
+                  "coords": [
+                        19.270759,
+                        47.607583
+                  ]
+            },
+            {
+                  "name": "Kerek-tó",
+                  "text": "Der Kerek-tó in Goedoello ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        19.241549,
+                        47.589784
+                  ]
+            },
+            {
+                  "name": "Álomhegyi-tó",
+                  "text": "Der Álomhegyi-tó in Goedoello bietet eine entspannte Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        19.266595,
+                        47.633165
+                  ]
+            },
+            {
+                  "name": "Öreg-tó",
+                  "text": "Der Öreg-tó in Goedoello ist ein traditioneller See in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        19.27877,
+                        47.648717
+                  ]
+            },
+            {
+                  "name": "Ivacsi-tó",
+                  "text": "Der Ivacsi-tó in Goedoello ist ein schönes Ziel für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        19.274742,
+                        47.644363
+                  ]
+            },
+            {
+                  "name": "Gébics utcai játszótér",
+                  "text": "Dieser Spielplatz in Goedoello ist ideal für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        19.352036,
+                        47.587046
+                  ]
+            },
+            {
+                  "name": "Alsóparki játszótér",
+                  "text": "Der Alsóparki Spielplatz in Goedoello bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.352556,
+                        47.597875
+                  ]
+            },
+            {
+                  "name": "Rönkvár",
+                  "text": "Der Rönkvár Spielplatz in Goedoello begeistert mit tollen Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        19.350671,
+                        47.603022
+                  ]
+            },
+            {
+                  "name": "Csanaki Játszótér",
+                  "text": "Der Csanaki Spielplatz in Goedoello ist ein wunderbarer Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.367882,
+                        47.611424
+                  ]
             }
       ],
       "hu": [
@@ -34704,6 +40932,186 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.342183,
                         47.598461
+                  ]
+            },
+            {
+                  "name": "Pusztaszentjakabi-tó",
+                  "text": "A gödöllői Pusztaszentjakabi-tó nyugodt környezetet kínál a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        19.299482,
+                        47.60568
+                  ]
+            },
+            {
+                  "name": "Babatpusztai tavak",
+                  "text": "A gödöllői Babatpusztai tavak festői környezetben várják a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        19.391227,
+                        47.616892
+                  ]
+            },
+            {
+                  "name": "Babatpusztai horgásztó",
+                  "text": "A gödöllői Babatpusztai horgásztó egy helyi horgászhely.",
+                  "category": "natural",
+                  "coords": [
+                        19.403298,
+                        47.612406
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó",
+                  "text": "A gödöllői Száritópusztai-víztározó egy nyugodt víztározó.",
+                  "category": "natural",
+                  "coords": [
+                        19.379002,
+                        47.553926
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 9. sz. tó",
+                  "text": "A gödöllői Száritópusztai-víztározó 9. sz. tó egy idilli vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        19.381351,
+                        47.549318
+                  ]
+            },
+            {
+                  "name": "BigPonty-tó",
+                  "text": "A gödöllői BigPonty-tó pihentető pillanatokat kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        19.377508,
+                        47.55707
+                  ]
+            },
+            {
+                  "name": "Bumeráng-tó",
+                  "text": "A gödöllői Bumeráng-tó egy szép tó a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        19.375914,
+                        47.558059
+                  ]
+            },
+            {
+                  "name": "Rocky-tó",
+                  "text": "A gödöllői Rocky-tó természetközeli környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        19.375834,
+                        47.559192
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 5. tó",
+                  "text": "A gödöllői Száritópusztai-víztározó 5. tó egy csendes helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        19.3718,
+                        47.562845
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "A gödöllői Malom-tó egy idilli kis tó.",
+                  "category": "natural",
+                  "coords": [
+                        19.366126,
+                        47.568233
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A gödöllői Horgásztó egy kedvelt horgászhely.",
+                  "category": "natural",
+                  "coords": [
+                        19.362156,
+                        47.57527
+                  ]
+            },
+            {
+                  "name": "Lake Forest villapark tava",
+                  "text": "A gödöllői Lake Forest villapark tava egy szép lakóövezetben található.",
+                  "category": "natural",
+                  "coords": [
+                        19.270759,
+                        47.607583
+                  ]
+            },
+            {
+                  "name": "Kerek-tó",
+                  "text": "A gödöllői Kerek-tó egy festői vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        19.241549,
+                        47.589784
+                  ]
+            },
+            {
+                  "name": "Álomhegyi-tó",
+                  "text": "A gödöllői Álomhegyi-tó pihentető hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        19.266595,
+                        47.633165
+                  ]
+            },
+            {
+                  "name": "Öreg-tó",
+                  "text": "A gödöllői Öreg-tó egy hagyományos tó a városban.",
+                  "category": "natural",
+                  "coords": [
+                        19.27877,
+                        47.648717
+                  ]
+            },
+            {
+                  "name": "Ivacsi-tó",
+                  "text": "A gödöllői Ivacsi-tó kellemes célpont egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.274742,
+                        47.644363
+                  ]
+            },
+            {
+                  "name": "Gébics utcai játszótér",
+                  "text": "A gödöllői játszótér ideális hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.352036,
+                        47.587046
+                  ]
+            },
+            {
+                  "name": "Alsóparki játszótér",
+                  "text": "A gödöllői Alsóparki játszótér szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        19.352556,
+                        47.597875
+                  ]
+            },
+            {
+                  "name": "Rönkvár",
+                  "text": "A gödöllői Rönkvár játszótér nagyszerű mászási lehetőségekkel várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.350671,
+                        47.603022
+                  ]
+            },
+            {
+                  "name": "Csanaki Játszótér",
+                  "text": "A gödöllői Csanaki játszótér remek hely a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.367882,
+                        47.611424
                   ]
             }
       ],
@@ -34970,6 +41378,186 @@ export const hungaryCities: POI[] = [
                         19.342183,
                         47.598461
                   ]
+            },
+            {
+                  "name": "Pusztaszentjakabi-tó",
+                  "text": "Pusztaszentjakabi-tó din Goedoello este un lac liniștit pentru iubitorii naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.299482,
+                        47.60568
+                  ]
+            },
+            {
+                  "name": "Babatpusztai tavak",
+                  "text": "Babatpusztai tavak din Goedoello sunt lacuri pitorești din împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        19.391227,
+                        47.616892
+                  ]
+            },
+            {
+                  "name": "Babatpusztai horgásztó",
+                  "text": "Babatpusztai horgásztó din Goedoello este un lac local pentru pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        19.403298,
+                        47.612406
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó",
+                  "text": "Száritópusztai-víztározó din Goedoello este un rezervor de apă liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.379002,
+                        47.553926
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 9. sz. tó",
+                  "text": "Száritópusztai-víztározó 9. sz. tó din Goedoello este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        19.381351,
+                        47.549318
+                  ]
+            },
+            {
+                  "name": "BigPonty-tó",
+                  "text": "BigPonty-tó din Goedoello invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.377508,
+                        47.55707
+                  ]
+            },
+            {
+                  "name": "Bumeráng-tó",
+                  "text": "Bumeráng-tó din Goedoello este un lac frumos în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        19.375914,
+                        47.558059
+                  ]
+            },
+            {
+                  "name": "Rocky-tó",
+                  "text": "Rocky-tó din Goedoello oferă un decor aproape de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.375834,
+                        47.559192
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 5. tó",
+                  "text": "Száritópusztai-víztározó 5. tó din Goedoello este un loc liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.3718,
+                        47.562845
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "Malom-tó din Goedoello este un mic lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        19.366126,
+                        47.568233
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó din Goedoello este un lac popular pentru pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        19.362156,
+                        47.57527
+                  ]
+            },
+            {
+                  "name": "Lake Forest villapark tava",
+                  "text": "Lake Forest villapark tava din Goedoello este situat într-o zonă rezidențială frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        19.270759,
+                        47.607583
+                  ]
+            },
+            {
+                  "name": "Kerek-tó",
+                  "text": "Kerek-tó din Goedoello este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        19.241549,
+                        47.589784
+                  ]
+            },
+            {
+                  "name": "Álomhegyi-tó",
+                  "text": "Álomhegyi-tó din Goedoello oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        19.266595,
+                        47.633165
+                  ]
+            },
+            {
+                  "name": "Öreg-tó",
+                  "text": "Öreg-tó din Goedoello este un lac tradițional în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        19.27877,
+                        47.648717
+                  ]
+            },
+            {
+                  "name": "Ivacsi-tó",
+                  "text": "Ivacsi-tó din Goedoello este o destinație frumoasă pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        19.274742,
+                        47.644363
+                  ]
+            },
+            {
+                  "name": "Gébics utcai játszótér",
+                  "text": "Acest loc de joacă din Goedoello este ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.352036,
+                        47.587046
+                  ]
+            },
+            {
+                  "name": "Alsóparki játszótér",
+                  "text": "Locul de joacă Alsóparki din Goedoello oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        19.352556,
+                        47.597875
+                  ]
+            },
+            {
+                  "name": "Rönkvár",
+                  "text": "Locul de joacă Rönkvár din Goedoello impresionează prin opțiuni de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        19.350671,
+                        47.603022
+                  ]
+            },
+            {
+                  "name": "Csanaki Játszótér",
+                  "text": "Locul de joacă Csanaki din Goedoello este un loc minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.367882,
+                        47.611424
+                  ]
             }
       ],
       "en": [
@@ -35234,6 +41822,186 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.342183,
                         47.598461
+                  ]
+            },
+            {
+                  "name": "Pusztaszentjakabi-tó",
+                  "text": "The Pusztaszentjakabi-tó in Goedoello is a quiet lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        19.299482,
+                        47.60568
+                  ]
+            },
+            {
+                  "name": "Babatpusztai tavak",
+                  "text": "The Babatpusztai tavak in Goedoello are picturesque lakes in the area.",
+                  "category": "natural",
+                  "coords": [
+                        19.391227,
+                        47.616892
+                  ]
+            },
+            {
+                  "name": "Babatpusztai horgásztó",
+                  "text": "The Babatpusztai horgásztó in Goedoello is a local fishing lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.403298,
+                        47.612406
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó",
+                  "text": "The Száritópusztai-víztározó in Goedoello is a quiet water reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        19.379002,
+                        47.553926
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 9. sz. tó",
+                  "text": "The Száritópusztai-víztározó 9. sz. tó in Goedoello is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.381351,
+                        47.549318
+                  ]
+            },
+            {
+                  "name": "BigPonty-tó",
+                  "text": "The BigPonty-tó in Goedoello invites you to relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.377508,
+                        47.55707
+                  ]
+            },
+            {
+                  "name": "Bumeráng-tó",
+                  "text": "The Bumeráng-tó in Goedoello is a beautiful lake in the region.",
+                  "category": "natural",
+                  "coords": [
+                        19.375914,
+                        47.558059
+                  ]
+            },
+            {
+                  "name": "Rocky-tó",
+                  "text": "The Rocky-tó in Goedoello offers a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.375834,
+                        47.559192
+                  ]
+            },
+            {
+                  "name": "Száritópusztai-víztározó 5. tó",
+                  "text": "The Száritópusztai-víztározó 5. tó in Goedoello is a quiet place.",
+                  "category": "natural",
+                  "coords": [
+                        19.3718,
+                        47.562845
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "The Malom-tó in Goedoello is an idyllic small lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.366126,
+                        47.568233
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "The Horgásztó in Goedoello is a popular fishing lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.362156,
+                        47.57527
+                  ]
+            },
+            {
+                  "name": "Lake Forest villapark tava",
+                  "text": "The Lake Forest villapark tava in Goedoello is located in a nice residential area.",
+                  "category": "natural",
+                  "coords": [
+                        19.270759,
+                        47.607583
+                  ]
+            },
+            {
+                  "name": "Kerek-tó",
+                  "text": "The Kerek-tó in Goedoello is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.241549,
+                        47.589784
+                  ]
+            },
+            {
+                  "name": "Álomhegyi-tó",
+                  "text": "The Álomhegyi-tó in Goedoello offers a relaxing atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        19.266595,
+                        47.633165
+                  ]
+            },
+            {
+                  "name": "Öreg-tó",
+                  "text": "The Öreg-tó in Goedoello is a traditional lake in the city.",
+                  "category": "natural",
+                  "coords": [
+                        19.27877,
+                        47.648717
+                  ]
+            },
+            {
+                  "name": "Ivacsi-tó",
+                  "text": "The Ivacsi-tó in Goedoello is a beautiful destination for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        19.274742,
+                        47.644363
+                  ]
+            },
+            {
+                  "name": "Gébics utcai játszótér",
+                  "text": "This playground in Goedoello is ideal for children.",
+                  "category": "family",
+                  "coords": [
+                        19.352036,
+                        47.587046
+                  ]
+            },
+            {
+                  "name": "Alsóparki játszótér",
+                  "text": "The Alsóparki playground in Goedoello offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        19.352556,
+                        47.597875
+                  ]
+            },
+            {
+                  "name": "Rönkvár",
+                  "text": "The Rönkvár playground in Goedoello delights with great climbing opportunities.",
+                  "category": "family",
+                  "coords": [
+                        19.350671,
+                        47.603022
+                  ]
+            },
+            {
+                  "name": "Csanaki Játszótér",
+                  "text": "The Csanaki playground in Goedoello is a wonderful place for children.",
+                  "category": "family",
+                  "coords": [
+                        19.367882,
+                        47.611424
                   ]
             }
       ]
@@ -35509,6 +42277,96 @@ export const hungaryCities: POI[] = [
                         19.132027,
                         47.782679
                   ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Der Sződligeti horgásztó ist ein Angelsee in der Nähe von Vac, umgeben von einer entspannenden natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "Falutó",
+                  "text": "Der Falutó ist ein lokaler See in Vac, der sich perfekt für malerische Spaziergänge am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.183936,
+                        47.721302
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Teszt-tó",
+                  "text": "Der Jakabka Horgásztó: Teszt-tó in Vac bietet einen ruhigen Ort, um die Seeumgebung zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        19.182553,
+                        47.722855
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Dieser Horgásztó in Vac ist ein angenehmer Angelsee, an dem Besucher spazieren gehen und sich entspannen können.",
+                  "category": "natural",
+                  "coords": [
+                        19.211651,
+                        47.753054
+                  ]
+            },
+            {
+                  "name": "Naszályi vaditató tó",
+                  "text": "Der Naszályi vaditató tó ist ein ruhiger Waldsee in Vac, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.143802,
+                        47.834561
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Der Ligeti-tó in Vac bietet ruhiges Wasser, das ideal für einen gemütlichen Spaziergang im Park ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.137133,
+                        47.765356
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Nagy-tó",
+                  "text": "Der Jakabka Horgásztó: Nagy-tó ist ein größerer Angelsee in Vac, der für seine ruhige Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.18346,
+                        47.723943
+                  ]
+            },
+            {
+                  "name": "Torony Tó",
+                  "text": "Der Torony Tó ist ein malerischer See in Vac, der sich perfekt dazu eignet, die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        19.150952,
+                        47.739329
+                  ]
+            },
+            {
+                  "name": "DCM horgásztó",
+                  "text": "Der DCM horgásztó in Vac ist ein Angelsee, der eine entspannende Umgebung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.152215,
+                        47.747618
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "Der KRESZ-park in Vac ist ein Verkehrserziehungs-Spielplatz, auf dem Kinder sicher spielen und lernen können.",
+                  "category": "family",
+                  "coords": [
+                        19.1335,
+                        47.79145
+                  ]
             }
       ],
       "hu": [
@@ -35752,6 +42610,96 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.132027,
                         47.782679
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "A Sződligeti horgásztó egy pihentető természeti környezetben lévő horgásztó Vác közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "Falutó",
+                  "text": "A Falutó egy helyi tó Vácott, amely tökéletes egy festői szépségű vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.183936,
+                        47.721302
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Teszt-tó",
+                  "text": "A váci Jakabka Horgásztó: Teszt-tó csendes helyszínt kínál a tóparti környezet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.182553,
+                        47.722855
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Ez a váci Horgásztó egy kellemes horgásztó, ahol a látogatók sétálhatnak és kikapcsolódhatnak.",
+                  "category": "natural",
+                  "coords": [
+                        19.211651,
+                        47.753054
+                  ]
+            },
+            {
+                  "name": "Naszályi vaditató tó",
+                  "text": "A Naszályi vaditató tó egy csendes erdei tó Vác közelében, amely kiváló a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.143802,
+                        47.834561
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "A váci Ligeti-tó békés vizével ideális helyszín egy kellemes parki sétához.",
+                  "category": "natural",
+                  "coords": [
+                        19.137133,
+                        47.765356
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Nagy-tó",
+                  "text": "A Jakabka Horgásztó: Nagy-tó egy nagyobb váci horgásztó, amely nyugodt tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.18346,
+                        47.723943
+                  ]
+            },
+            {
+                  "name": "Torony Tó",
+                  "text": "A Torony Tó egy festői szépségű tó Vácott, amely kiváló a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.150952,
+                        47.739329
+                  ]
+            },
+            {
+                  "name": "DCM horgásztó",
+                  "text": "A váci DCM horgásztó egy horgásztó, amely pihentető vízparti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        19.152215,
+                        47.747618
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "A váci KRESZ-park egy oktató jellegű közlekedési játszótér, ahol a gyerekek biztonságosan játszhatnak és tanulhatnak.",
+                  "category": "family",
+                  "coords": [
+                        19.1335,
+                        47.79145
                   ]
             }
       ],
@@ -35997,6 +42945,96 @@ export const hungaryCities: POI[] = [
                         19.132027,
                         47.782679
                   ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Sződligeti horgásztó este un lac de pescuit lângă Vac, înconjurat de un mediu natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "Falutó",
+                  "text": "Falutó este un lac local în Vac, perfect pentru plimbări pitorești de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.183936,
+                        47.721302
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Teszt-tó",
+                  "text": "Jakabka Horgásztó: Teszt-tó din Vac oferă un loc liniștit pentru a vă bucura de mediul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        19.182553,
+                        47.722855
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Acest Horgásztó din Vac este un lac de pescuit plăcut, unde vizitatorii se pot plimba și relaxa.",
+                  "category": "natural",
+                  "coords": [
+                        19.211651,
+                        47.753054
+                  ]
+            },
+            {
+                  "name": "Naszályi vaditató tó",
+                  "text": "Naszályi vaditató tó este un lac de pădure liniștit în Vac, excelent pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.143802,
+                        47.834561
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó din Vac are ape pașnice, ideale pentru o plimbare liniștită în parc.",
+                  "category": "natural",
+                  "coords": [
+                        19.137133,
+                        47.765356
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Nagy-tó",
+                  "text": "Jakabka Horgásztó: Nagy-tó este un lac de pescuit mai mare în Vac, cunoscut pentru peisajul său liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.18346,
+                        47.723943
+                  ]
+            },
+            {
+                  "name": "Torony Tó",
+                  "text": "Torony Tó este un lac pitoresc situat în Vac, perfect pentru a vă bucura de aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        19.150952,
+                        47.739329
+                  ]
+            },
+            {
+                  "name": "DCM horgásztó",
+                  "text": "DCM horgásztó din Vac este un lac de pescuit care oferă un cadru relaxant pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.152215,
+                        47.747618
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park din Vac este un loc de joacă cu tematică rutieră, unde copiii se pot juca și învăța în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        19.1335,
+                        47.79145
+                  ]
             }
       ],
       "en": [
@@ -36240,6 +43278,96 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.132027,
                         47.782679
+                  ]
+            },
+            {
+                  "name": "Sződligeti horgásztó",
+                  "text": "Sződligeti horgásztó is a fishing lake near Vac surrounded by relaxing natural environments.",
+                  "category": "natural",
+                  "coords": [
+                        19.140418,
+                        47.717202
+                  ]
+            },
+            {
+                  "name": "Falutó",
+                  "text": "Falutó is a local lake in Vac perfect for scenic walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.183936,
+                        47.721302
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Teszt-tó",
+                  "text": "Jakabka Horgásztó: Teszt-tó in Vac offers a calm spot for enjoying the lake environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.182553,
+                        47.722855
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "This Horgásztó in Vac is a pleasant fishing lake where visitors can walk and relax.",
+                  "category": "natural",
+                  "coords": [
+                        19.211651,
+                        47.753054
+                  ]
+            },
+            {
+                  "name": "Naszályi vaditató tó",
+                  "text": "Naszályi vaditató tó is a quiet woodland lake in Vac, great for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        19.143802,
+                        47.834561
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó in Vac features peaceful waters ideal for a leisurely stroll in the park.",
+                  "category": "natural",
+                  "coords": [
+                        19.137133,
+                        47.765356
+                  ]
+            },
+            {
+                  "name": "Jakabka Horgásztó: Nagy-tó",
+                  "text": "The Jakabka Horgásztó: Nagy-tó is a larger fishing lake in Vac known for its tranquil scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.18346,
+                        47.723943
+                  ]
+            },
+            {
+                  "name": "Torony Tó",
+                  "text": "Torony Tó is a scenic lake situated in Vac, perfect for enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        19.150952,
+                        47.739329
+                  ]
+            },
+            {
+                  "name": "DCM horgásztó",
+                  "text": "DCM horgásztó in Vac is a fishing lake that provides a relaxing waterfront setting.",
+                  "category": "natural",
+                  "coords": [
+                        19.152215,
+                        47.747618
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park in Vac is an educational traffic playground where kids can play and learn safely.",
+                  "category": "family",
+                  "coords": [
+                        19.1335,
+                        47.79145
                   ]
             }
       ]
@@ -37726,6 +44854,42 @@ export const hungaryCities: POI[] = [
                         18.055923,
                         46.908426
                   ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "Der Endrédi-tó in Siofok ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "Der Richter-tó in Siofok ist ein kleiner See zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Plattensee",
+                  "text": "Der Balaton in Siofok ist ein ideales Ziel zum Schwimmen und für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "Die Platán Arcade Venue in Siofok bietet Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
             }
       ],
       "hu": [
@@ -37982,6 +45146,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.055923,
                         46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "A siófoki Endrédi-tó egy csendes vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "A siófoki Richter-tó egy kis tó a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A siófoki Balaton ideális célpont úszáshoz és szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "A siófoki Platán Arcade Venue szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
                   ]
             }
       ],
@@ -38240,6 +45440,42 @@ export const hungaryCities: POI[] = [
                         18.055923,
                         46.908426
                   ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "Endrédi-tó din Siofok este o întindere de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "Richter-tó din Siofok este un mic lac pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Lacul Balaton",
+                  "text": "Lacul Balaton din Siofok este o destinație ideală pentru înot și activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Játékterem",
+                  "text": "Platán Arcade Venue din Siofok oferă divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
+                  ]
             }
       ],
       "en": [
@@ -38496,6 +45732,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.055923,
                         46.908426
+                  ]
+            },
+            {
+                  "name": "Endrédi-tó",
+                  "text": "The Endrédi-tó in Siofok is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        17.979316,
+                        46.851109
+                  ]
+            },
+            {
+                  "name": "Richter-tó",
+                  "text": "The Richter-tó in Siofok is a small lake for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.972515,
+                        46.885925
+                  ]
+            },
+            {
+                  "name": "Lake Balaton",
+                  "text": "Lake Balaton in Siofok is an ideal destination for swimming and leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Platán Arcade Venue",
+                  "text": "The Platán Arcade Venue in Siofok offers entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.050263,
+                        46.910437
                   ]
             }
       ]
@@ -39528,6 +46800,159 @@ export const hungaryCities: POI[] = [
                         21.714163,
                         47.955615
                   ]
+            },
+            {
+                  "name": "Nagyréti-víztározó",
+                  "text": "Nagyréti-víztározó ist ein See in Nyiregyhaza, der eine malerische und ruhige Naturumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.69459,
+                        47.881949
+                  ]
+            },
+            {
+                  "name": "Bujtosi-tó",
+                  "text": "Bujtosi-tó ist ein wunderschöner See in Nyiregyhaza, an dem Besucher spazieren gehen können.",
+                  "category": "natural",
+                  "coords": [
+                        21.730047,
+                        47.961625
+                  ]
+            },
+            {
+                  "name": "Marci-tó",
+                  "text": "Marci-tó ist ein See in Nyiregyhaza, der durch seine naturbelassene Atmosphäre auffällt.",
+                  "category": "natural",
+                  "coords": [
+                        21.74042,
+                        47.965799
+                  ]
+            },
+            {
+                  "name": "Ipari park I. víztározó",
+                  "text": "Ipari park I. víztározó ist ein kleiner See in Nyiregyhaza, der zur lokalen Landschaftsgestaltung beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        21.725458,
+                        47.898407
+                  ]
+            },
+            {
+                  "name": "Ököri-tó",
+                  "text": "Ököri-tó ist ein natürlicher See in Nyiregyhaza, umgeben von Grünflächen.",
+                  "category": "natural",
+                  "coords": [
+                        21.766781,
+                        47.919979
+                  ]
+            },
+            {
+                  "name": "Szatmári-tó",
+                  "text": "Szatmári-tó ist ein See in Nyiregyhaza, der Erholungssuchenden einen ruhigen Rückzugsort bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.706794,
+                        47.935741
+                  ]
+            },
+            {
+                  "name": "Luka-tó",
+                  "text": "Luka-tó ist ein Gewässer in Nyiregyhaza, an dem man gut in der Natur entspannen kann.",
+                  "category": "natural",
+                  "coords": [
+                        21.735447,
+                        47.977324
+                  ]
+            },
+            {
+                  "name": "Nagy-Pap-tó",
+                  "text": "Nagy-Pap-tó ist ein See in Nyiregyhaza, der eine weitläufige Wasserfläche bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.744927,
+                        47.987689
+                  ]
+            },
+            {
+                  "name": "Kis-Pap-tó",
+                  "text": "Kis-Pap-tó ist ein malerischer, kleinerer See in der Region Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.738668,
+                        47.985197
+                  ]
+            },
+            {
+                  "name": "Látványtó",
+                  "text": "Látványtó ist ein See in Nyiregyhaza, der eine besonders ansprechende Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.645895,
+                        47.951273
+                  ]
+            },
+            {
+                  "name": "Szelkó-tó",
+                  "text": "Szelkó-tó ist ein See in Nyiregyhaza, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.686502,
+                        47.878195
+                  ]
+            },
+            {
+                  "name": "Ipari park II. víztározó",
+                  "text": "Ipari park II. víztározó ist ein See in Nyiregyhaza, der in die gewerbliche Parklandschaft integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.731165,
+                        47.893011
+                  ]
+            },
+            {
+                  "name": "Orosi-tó",
+                  "text": "Orosi-tó ist ein See in Nyiregyhaza, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.815987,
+                        47.949887
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó ist ein See in Nyiregyhaza, der zu Bootsfahrten und schönen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        21.727695,
+                        48.004921
+                  ]
+            },
+            {
+                  "name": "Verba Tanya horgásztó",
+                  "text": "Verba Tanya horgásztó ist ein Angelsee in Nyiregyhaza, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.71636,
+                        48.022027
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér és KRESZ park",
+                  "text": "Kertvárosi játszótér és KRESZ park ist ein Spielplatz in Nyiregyhaza, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.682527,
+                        47.954216
+                  ]
+            },
+            {
+                  "name": "Fazekas János téri játszótér",
+                  "text": "Fazekas János téri játszótér ist ein Spielplatz in Nyiregyhaza, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.739162,
+                        47.958106
+                  ]
             }
       ],
       "hu": [
@@ -39746,6 +47171,159 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.714163,
                         47.955615
+                  ]
+            },
+            {
+                  "name": "Nagyréti-víztározó",
+                  "text": "A Nagyréti-víztározó egy festői vizű tó Nyíregyházán, amely ideális túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.69459,
+                        47.881949
+                  ]
+            },
+            {
+                  "name": "Bujtosi-tó",
+                  "text": "A Bujtosi-tó egy népszerű tó Nyíregyházán, amely környéke kiváló a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.730047,
+                        47.961625
+                  ]
+            },
+            {
+                  "name": "Marci-tó",
+                  "text": "A Marci-tó egy érintetlen természetű tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.74042,
+                        47.965799
+                  ]
+            },
+            {
+                  "name": "Ipari park I. víztározó",
+                  "text": "Az Ipari park I. víztározó egy nyugodt vízfelület Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.725458,
+                        47.898407
+                  ]
+            },
+            {
+                  "name": "Ököri-tó",
+                  "text": "Az Ököri-tó egy zöldövezeti tó Nyíregyháza határában.",
+                  "category": "natural",
+                  "coords": [
+                        21.766781,
+                        47.919979
+                  ]
+            },
+            {
+                  "name": "Szatmári-tó",
+                  "text": "A Szatmári-tó egy békés vizű tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.706794,
+                        47.935741
+                  ]
+            },
+            {
+                  "name": "Luka-tó",
+                  "text": "A Luka-tó egy kellemes természetes vízfelület Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.735447,
+                        47.977324
+                  ]
+            },
+            {
+                  "name": "Nagy-Pap-tó",
+                  "text": "A Nagy-Pap-tó egy jelentős vízfelületű tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.744927,
+                        47.987689
+                  ]
+            },
+            {
+                  "name": "Kis-Pap-tó",
+                  "text": "A Kis-Pap-tó egy hangulatos kis tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.738668,
+                        47.985197
+                  ]
+            },
+            {
+                  "name": "Látványtó",
+                  "text": "A Látványtó egy vizuálisan különleges, szép környezetű tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.645895,
+                        47.951273
+                  ]
+            },
+            {
+                  "name": "Szelkó-tó",
+                  "text": "A Szelkó-tó egy csendes környezetű vízfelület Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.686502,
+                        47.878195
+                  ]
+            },
+            {
+                  "name": "Ipari park II. víztározó",
+                  "text": "Az Ipari park II. víztározó egy rendezett tó Nyíregyházán.",
+                  "category": "natural",
+                  "coords": [
+                        21.731165,
+                        47.893011
+                  ]
+            },
+            {
+                  "name": "Orosi-tó",
+                  "text": "Az Orosi-tó egy nyugodt tó Nyíregyháza szélén.",
+                  "category": "natural",
+                  "coords": [
+                        21.815987,
+                        47.949887
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "A Csónakázó-tó egy népszerű tó Nyíregyházán, ahol lehetőség van csónakázni és sétálni.",
+                  "category": "natural",
+                  "coords": [
+                        21.727695,
+                        48.004921
+                  ]
+            },
+            {
+                  "name": "Verba Tanya horgásztó",
+                  "text": "Verba Tanya horgásztó egy horgásztó Nyiregyhaza területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.71636,
+                        48.022027
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér és KRESZ park",
+                  "text": "Kertvárosi játszótér és KRESZ park egy játszótér Nyiregyhaza területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.682527,
+                        47.954216
+                  ]
+            },
+            {
+                  "name": "Fazekas János téri játszótér",
+                  "text": "Fazekas János téri játszótér egy játszótér Nyiregyhaza területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.739162,
+                        47.958106
                   ]
             }
       ],
@@ -39966,6 +47544,159 @@ export const hungaryCities: POI[] = [
                         21.714163,
                         47.955615
                   ]
+            },
+            {
+                  "name": "Nagyréti-víztározó",
+                  "text": "Nagyréti-víztározó este un lac pitoresc în Nyiregyhaza, potrivit pentru peisaje naturale.",
+                  "category": "natural",
+                  "coords": [
+                        21.69459,
+                        47.881949
+                  ]
+            },
+            {
+                  "name": "Bujtosi-tó",
+                  "text": "Bujtosi-tó este un lac minunat în Nyiregyhaza, unde vizitatorii se pot plimba.",
+                  "category": "natural",
+                  "coords": [
+                        21.730047,
+                        47.961625
+                  ]
+            },
+            {
+                  "name": "Marci-tó",
+                  "text": "Marci-tó este un lac cu o atmosferă naturală în Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.74042,
+                        47.965799
+                  ]
+            },
+            {
+                  "name": "Ipari park I. víztározó",
+                  "text": "Ipari park I. víztározó este un lac mic care face parte din peisajul din Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.725458,
+                        47.898407
+                  ]
+            },
+            {
+                  "name": "Ököri-tó",
+                  "text": "Ököri-tó este un lac natural în Nyiregyhaza, înconjurat de spații verzi.",
+                  "category": "natural",
+                  "coords": [
+                        21.766781,
+                        47.919979
+                  ]
+            },
+            {
+                  "name": "Szatmári-tó",
+                  "text": "Szatmári-tó este un lac liniștit din Nyiregyhaza pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        21.706794,
+                        47.935741
+                  ]
+            },
+            {
+                  "name": "Luka-tó",
+                  "text": "Luka-tó este un lac în Nyiregyhaza, perfect pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.735447,
+                        47.977324
+                  ]
+            },
+            {
+                  "name": "Nagy-Pap-tó",
+                  "text": "Nagy-Pap-tó este un lac mare care oferă o suprafață de apă extinsă în Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.744927,
+                        47.987689
+                  ]
+            },
+            {
+                  "name": "Kis-Pap-tó",
+                  "text": "Kis-Pap-tó este un lac mai mic și pitoresc din regiunea Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.738668,
+                        47.985197
+                  ]
+            },
+            {
+                  "name": "Látványtó",
+                  "text": "Látványtó este un lac în Nyiregyhaza ce oferă o priveliște deosebit de atrăgătoare.",
+                  "category": "natural",
+                  "coords": [
+                        21.645895,
+                        47.951273
+                  ]
+            },
+            {
+                  "name": "Szelkó-tó",
+                  "text": "Szelkó-tó este un lac din Nyiregyhaza, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.686502,
+                        47.878195
+                  ]
+            },
+            {
+                  "name": "Ipari park II. víztározó",
+                  "text": "Ipari park II. víztározó este un lac integrat în peisajul local din Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.731165,
+                        47.893011
+                  ]
+            },
+            {
+                  "name": "Orosi-tó",
+                  "text": "Orosi-tó este un lac în Nyiregyhaza cunoscut pentru atmosfera sa relaxată.",
+                  "category": "natural",
+                  "coords": [
+                        21.815987,
+                        47.949887
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó este un lac în Nyiregyhaza unde vizitatorii se pot plimba cu barca.",
+                  "category": "natural",
+                  "coords": [
+                        21.727695,
+                        48.004921
+                  ]
+            },
+            {
+                  "name": "Verba Tanya horgásztó",
+                  "text": "Verba Tanya horgásztó este un lac de pescuit în Nyiregyhaza, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.71636,
+                        48.022027
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér és KRESZ park",
+                  "text": "Kertvárosi játszótér és KRESZ park este un loc de joacă în Nyiregyhaza, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        21.682527,
+                        47.954216
+                  ]
+            },
+            {
+                  "name": "Fazekas János téri játszótér",
+                  "text": "Fazekas János téri játszótér este un loc de joacă în Nyiregyhaza, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        21.739162,
+                        47.958106
+                  ]
             }
       ],
       "en": [
@@ -40185,6 +47916,159 @@ export const hungaryCities: POI[] = [
                         21.714163,
                         47.955615
                   ]
+            },
+            {
+                  "name": "Nagyréti-víztározó",
+                  "text": "Nagyréti-víztározó is a scenic lake in Nyiregyhaza offering a quiet natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        21.69459,
+                        47.881949
+                  ]
+            },
+            {
+                  "name": "Bujtosi-tó",
+                  "text": "Bujtosi-tó is a beautiful lake in Nyiregyhaza perfect for leisurely walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.730047,
+                        47.961625
+                  ]
+            },
+            {
+                  "name": "Marci-tó",
+                  "text": "Marci-tó is a lake in Nyiregyhaza distinguished by its pristine natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.74042,
+                        47.965799
+                  ]
+            },
+            {
+                  "name": "Ipari park I. víztározó",
+                  "text": "Ipari park I. víztározó is a small lake contributing to the local landscape in Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.725458,
+                        47.898407
+                  ]
+            },
+            {
+                  "name": "Ököri-tó",
+                  "text": "Ököri-tó is a natural lake in Nyiregyhaza surrounded by green areas.",
+                  "category": "natural",
+                  "coords": [
+                        21.766781,
+                        47.919979
+                  ]
+            },
+            {
+                  "name": "Szatmári-tó",
+                  "text": "Szatmári-tó is a lake in Nyiregyhaza offering a quiet retreat for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        21.706794,
+                        47.935741
+                  ]
+            },
+            {
+                  "name": "Luka-tó",
+                  "text": "Luka-tó is a lake in Nyiregyhaza, a great spot for nature relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        21.735447,
+                        47.977324
+                  ]
+            },
+            {
+                  "name": "Nagy-Pap-tó",
+                  "text": "Nagy-Pap-tó is a lake in Nyiregyhaza featuring a spacious water surface.",
+                  "category": "natural",
+                  "coords": [
+                        21.744927,
+                        47.987689
+                  ]
+            },
+            {
+                  "name": "Kis-Pap-tó",
+                  "text": "Kis-Pap-tó is a picturesque smaller lake located in the Nyiregyhaza region.",
+                  "category": "natural",
+                  "coords": [
+                        21.738668,
+                        47.985197
+                  ]
+            },
+            {
+                  "name": "Látványtó",
+                  "text": "Látványtó is a lake in Nyiregyhaza known for its visually appealing views.",
+                  "category": "natural",
+                  "coords": [
+                        21.645895,
+                        47.951273
+                  ]
+            },
+            {
+                  "name": "Szelkó-tó",
+                  "text": "Szelkó-tó is a lake in Nyiregyhaza ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.686502,
+                        47.878195
+                  ]
+            },
+            {
+                  "name": "Ipari park II. víztározó",
+                  "text": "Ipari park II. víztározó is a reservoir lake integrated into the local park landscape of Nyiregyhaza.",
+                  "category": "natural",
+                  "coords": [
+                        21.731165,
+                        47.893011
+                  ]
+            },
+            {
+                  "name": "Orosi-tó",
+                  "text": "Orosi-tó is a lake in Nyiregyhaza known for its relaxed atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.815987,
+                        47.949887
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó is a lake in Nyiregyhaza where visitors can enjoy boating and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.727695,
+                        48.004921
+                  ]
+            },
+            {
+                  "name": "Verba Tanya horgásztó",
+                  "text": "Verba Tanya horgásztó is a fishing lake in Nyiregyhaza, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        21.71636,
+                        48.022027
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér és KRESZ park",
+                  "text": "Kertvárosi játszótér és KRESZ park is a playground in Nyiregyhaza, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        21.682527,
+                        47.954216
+                  ]
+            },
+            {
+                  "name": "Fazekas János téri játszótér",
+                  "text": "Fazekas János téri játszótér is a playground in Nyiregyhaza, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        21.739162,
+                        47.958106
+                  ]
             }
       ]
 }
@@ -40283,6 +48167,24 @@ export const hungaryCities: POI[] = [
                         22.327659,
                         47.952049
                   ]
+            },
+            {
+                  "name": "Városi tó",
+                  "text": "Der Városi-tó in Mateszalka ist ein beliebter städtischer See.",
+                  "category": "natural",
+                  "coords": [
+                        22.325828,
+                        47.947954
+                  ]
+            },
+            {
+                  "name": "Városi Játszópark",
+                  "text": "Der Városi Játszópark in Mateszalka ist ein toller Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.319408,
+                        47.954564
+                  ]
             }
       ],
       "hu": [
@@ -40350,6 +48252,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.327659,
                         47.952049
+                  ]
+            },
+            {
+                  "name": "Városi tó",
+                  "text": "A mátészalkai Városi-tó egy kedvelt városi tó.",
+                  "category": "natural",
+                  "coords": [
+                        22.325828,
+                        47.947954
+                  ]
+            },
+            {
+                  "name": "Városi Játszópark",
+                  "text": "A mátészalkai Városi Játszópark egy remek játszótér a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.319408,
+                        47.954564
                   ]
             }
       ],
@@ -40419,6 +48339,24 @@ export const hungaryCities: POI[] = [
                         22.327659,
                         47.952049
                   ]
+            },
+            {
+                  "name": "Városi tó",
+                  "text": "Városi-tó din Mateszalka este un lac urban popular.",
+                  "category": "natural",
+                  "coords": [
+                        22.325828,
+                        47.947954
+                  ]
+            },
+            {
+                  "name": "Városi Játszópark",
+                  "text": "Városi Játszópark din Mateszalka este un loc de joacă excelent pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.319408,
+                        47.954564
+                  ]
             }
       ],
       "en": [
@@ -40486,6 +48424,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.327659,
                         47.952049
+                  ]
+            },
+            {
+                  "name": "Városi tó",
+                  "text": "The Városi-tó in Mateszalka is a popular urban lake.",
+                  "category": "natural",
+                  "coords": [
+                        22.325828,
+                        47.947954
+                  ]
+            },
+            {
+                  "name": "Városi Játszópark",
+                  "text": "The Városi Játszópark in Mateszalka is a great playground for kids.",
+                  "category": "family",
+                  "coords": [
+                        22.319408,
+                        47.954564
                   ]
             }
       ]
@@ -40582,6 +48538,15 @@ export const hungaryCities: POI[] = [
                         22.312642,
                         48.128111
                   ]
+            },
+            {
+                  "name": "Halvány-tó",
+                  "text": "Der Halvány-tó in Vasarosnameny ist ein ruhiger See, der Spaziergängern und Besuchern schöne Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.370356,
+                        48.119971
+                  ]
             }
       ],
       "hu": [
@@ -40652,6 +48617,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.312642,
                         48.128111
+                  ]
+            },
+            {
+                  "name": "Halvány-tó",
+                  "text": "A vásárosnaményi Halvány-tó egy nyugodt tó, amely gyönyörű kilátást nyújt a sétálóknak és a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        22.370356,
+                        48.119971
                   ]
             }
       ],
@@ -40724,6 +48698,15 @@ export const hungaryCities: POI[] = [
                         22.312642,
                         48.128111
                   ]
+            },
+            {
+                  "name": "Halvány-tó",
+                  "text": "Halvány-tó din Vasarosnameny este un lac senin, care oferă vederi frumoase pentru plimbăreți și vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        22.370356,
+                        48.119971
+                  ]
             }
       ],
       "en": [
@@ -40794,6 +48777,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.312642,
                         48.128111
+                  ]
+            },
+            {
+                  "name": "Halvány-tó",
+                  "text": "Halvány-tó in Vasarosnameny is a serene lake offering beautiful views for walkers and visitors.",
+                  "category": "natural",
+                  "coords": [
+                        22.370356,
+                        48.119971
                   ]
             }
       ]
@@ -41802,6 +49794,15 @@ export const hungaryCities: POI[] = [
                         18.54314,
                         46.30613
                   ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Dieser lokale Horgásztó in Bonyhad ist ein Angelsee, der einen friedlichen Rückzugsort in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.589882,
+                        46.339214
+                  ]
             }
       ],
       "hu": [
@@ -41905,6 +49906,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.54314,
                         46.30613
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Ez a bonyhádi Horgásztó egy békés természeti menedéket nyújtó horgásztó.",
+                  "category": "natural",
+                  "coords": [
+                        18.589882,
+                        46.339214
                   ]
             }
       ],
@@ -42010,6 +50020,15 @@ export const hungaryCities: POI[] = [
                         18.54314,
                         46.30613
                   ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Acest Horgásztó local din Bonyhad este un lac de pescuit care oferă un refugiu pașnic în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.589882,
+                        46.339214
+                  ]
             }
       ],
       "en": [
@@ -42113,6 +50132,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.54314,
                         46.30613
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "This local Horgásztó in Bonyhad is a fishing lake providing a peaceful retreat into nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.589882,
+                        46.339214
                   ]
             }
       ]
@@ -44997,6 +53025,60 @@ export const hungaryCities: POI[] = [
                         16.946562,
                         47.245633
                   ]
+            },
+            {
+                  "name": "Patkó-tó",
+                  "text": "Der Patkó-tó ist ein hufeisenförmiger See in Sarvar, der ein angenehmes Gebiet zum Spazierengehen und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.944865,
+                        47.246561
+                  ]
+            },
+            {
+                  "name": "Rábasömjéni horgásztó",
+                  "text": "Der Rábasömjéni horgásztó in Sarvar ist ein ruhiger Angelsee, der von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.927336,
+                        47.275281
+                  ]
+            },
+            {
+                  "name": "Rába-holtág",
+                  "text": "Rába-holtág ist ein malerischer Altwasserarm in Sarvar, ideal um die Tierwelt zu beobachten und spazieren zu gehen.",
+                  "category": "natural",
+                  "coords": [
+                        16.961842,
+                        47.272991
+                  ]
+            },
+            {
+                  "name": "Holt-Rába",
+                  "text": "Holt-Rába in Sarvar ist ein ruhiger Altwassersee, der Naturliebhabern eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.971887,
+                        47.292503
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Der Csónakázó-tó in Sarvar ist ein beliebter Bootssee, der eine wunderschöne Kulisse für gemütliche Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.940974,
+                        47.245285
+                  ]
+            },
+            {
+                  "name": "Kinder-Erlebnisbecken",
+                  "text": "Der Erlebnispool für Kinder in Sarvar ist ein Wasserspielplatz, auf dem Kinder sicher planschen und spielen können.",
+                  "category": "family",
+                  "coords": [
+                        16.949349,
+                        47.24632
+                  ]
             }
       ],
       "hu": [
@@ -45195,6 +53277,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.946562,
                         47.245633
+                  ]
+            },
+            {
+                  "name": "Patkó-tó",
+                  "text": "A sárvári Patkó-tó egy patkó alakú tó, amely kellemes területet kínál sétához és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.944865,
+                        47.246561
+                  ]
+            },
+            {
+                  "name": "Rábasömjéni horgásztó",
+                  "text": "A sárvári Rábasömjéni horgásztó egy csendes horgásztó a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        16.927336,
+                        47.275281
+                  ]
+            },
+            {
+                  "name": "Rába-holtág",
+                  "text": "A sárvári Rába-holtág egy festői morotvató, amely tökéletes vadvilág megfigyelésére és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        16.961842,
+                        47.272991
+                  ]
+            },
+            {
+                  "name": "Holt-Rába",
+                  "text": "A sárvári Holt-Rába egy nyugodt holtág, amely békés környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        16.971887,
+                        47.292503
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "A sárvári Csónakázó-tó egy népszerű csónakázótó, amely gyönyörű környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.940974,
+                        47.245285
+                  ]
+            },
+            {
+                  "name": "Gyermek élménymedence",
+                  "text": "A sárvári gyermek élménymedence egy vízi játszótér, ahol a gyerekek biztonságosan pancsolhatnak és játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        16.949349,
+                        47.24632
                   ]
             }
       ],
@@ -45395,6 +53531,60 @@ export const hungaryCities: POI[] = [
                         16.946562,
                         47.245633
                   ]
+            },
+            {
+                  "name": "Patkó-tó",
+                  "text": "Patkó-tó este un lac în formă de potcoavă în Sarvar, care oferă o zonă plăcută pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.944865,
+                        47.246561
+                  ]
+            },
+            {
+                  "name": "Rábasömjéni horgásztó",
+                  "text": "Rábasömjéni horgásztó din Sarvar este un lac de pescuit liniștit, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.927336,
+                        47.275281
+                  ]
+            },
+            {
+                  "name": "Rába-holtág",
+                  "text": "Rába-holtág este un lac de braț mort pitoresc în Sarvar, perfect pentru observarea faunei și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.961842,
+                        47.272991
+                  ]
+            },
+            {
+                  "name": "Holt-Rába",
+                  "text": "Holt-Rába din Sarvar este un lac de braț mort liniștit, oferind un mediu pașnic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.971887,
+                        47.292503
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó din Sarvar este un lac de agrement popular, care oferă un peisaj frumos pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        16.940974,
+                        47.245285
+                  ]
+            },
+            {
+                  "name": "Gyermek élménymedence",
+                  "text": "Piscina de experiențe pentru copii din Sarvar este un loc de joacă acvatic unde copiii se pot bălăci în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        16.949349,
+                        47.24632
+                  ]
             }
       ],
       "en": [
@@ -45593,6 +53783,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.946562,
                         47.245633
+                  ]
+            },
+            {
+                  "name": "Patkó-tó",
+                  "text": "Patkó-tó is a horseshoe-shaped lake in Sarvar, offering a pleasant area for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.944865,
+                        47.246561
+                  ]
+            },
+            {
+                  "name": "Rábasömjéni horgásztó",
+                  "text": "The Rábasömjéni horgásztó in Sarvar is a quiet fishing lake surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.927336,
+                        47.275281
+                  ]
+            },
+            {
+                  "name": "Rába-holtág",
+                  "text": "Rába-holtág is a scenic oxbow lake in Sarvar, perfect for observing wildlife and taking walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.961842,
+                        47.272991
+                  ]
+            },
+            {
+                  "name": "Holt-Rába",
+                  "text": "Holt-Rába in Sarvar is a calm backwater lake providing a tranquil environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.971887,
+                        47.292503
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó in Sarvar is a popular boating lake that offers beautiful scenery for leisurely walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.940974,
+                        47.245285
+                  ]
+            },
+            {
+                  "name": "Experience pool for kids",
+                  "text": "The Experience pool for kids in Sarvar is an aquatic playground where children can safely splash and play.",
+                  "category": "family",
+                  "coords": [
+                        16.949349,
+                        47.24632
                   ]
             }
       ]
@@ -47849,6 +56093,69 @@ export const hungaryCities: POI[] = [
                         16.844283,
                         46.842115
                   ]
+            },
+            {
+                  "name": "GE Tunsgram tározó",
+                  "text": "Der GE Tungsram tározó in Zalaegerszeg ist ein lokaler Stausee, der von friedlichem Grün umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.827156,
+                        46.820978
+                  ]
+            },
+            {
+                  "name": "Bányató",
+                  "text": "Der Bányató in Zalaegerszeg ist ein ehemaliger Baggersee mit ruhigem, klarem Wasser und malerischen Naturansichten.",
+                  "category": "natural",
+                  "coords": [
+                        16.936478,
+                        46.820337
+                  ]
+            },
+            {
+                  "name": "Gébárti-tó",
+                  "text": "Der Gébárti-tó in Zalaegerszeg ist ein schöner Erholungssee, der zum Spazierengehen und Entspannen in der Natur beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.814922,
+                        46.867784
+                  ]
+            },
+            {
+                  "name": "kicsi játszótér",
+                  "text": "Der kicsi játszótér in Zalaegerszeg ist ein kleiner, aber gemütlicher Spielplatz, auf dem jüngere Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        16.838128,
+                        46.839569
+                  ]
+            },
+            {
+                  "name": "Parkerdei Játszótér",
+                  "text": "Der Parkerdei Játszótér in Zalaegerszeg bietet Kindern einen hervorragenden Outdoor-Spielbereich in einer Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        16.862014,
+                        46.846299
+                  ]
+            },
+            {
+                  "name": "Bóbita játszótér",
+                  "text": "Der Bóbita játszótér ist ein einladender Spielplatz in Zalaegerszeg, den Familien für aktiven Spaß besuchen können.",
+                  "category": "family",
+                  "coords": [
+                        16.831768,
+                        46.823486
+                  ]
+            },
+            {
+                  "name": "Játszópark",
+                  "text": "Familien in Zalaegerszeg können mit ihren Kindern den Játszópark besuchen, um die vielfältigen Spielgeräte zu nutzen.",
+                  "category": "family",
+                  "coords": [
+                        16.825254,
+                        46.812262
+                  ]
             }
       ],
       "hu": [
@@ -48025,6 +56332,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.844283,
                         46.842115
+                  ]
+            },
+            {
+                  "name": "GE Tunsgram tározó",
+                  "text": "A zalaegerszegi GE Tungsram tározó egy békés zöldövezettel körülvett helyi víztározó tó.",
+                  "category": "natural",
+                  "coords": [
+                        16.827156,
+                        46.820978
+                  ]
+            },
+            {
+                  "name": "Bányató",
+                  "text": "A zalaegerszegi Bányató egy egykori bányató, amely csendes, tiszta vizet és festői természeti látványt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.936478,
+                        46.820337
+                  ]
+            },
+            {
+                  "name": "Gébárti-tó",
+                  "text": "A zalaegerszegi Gébárti-tó egy gyönyörű szabadidős tó, amely népszerű a sétálók és a természetjárók körében.",
+                  "category": "natural",
+                  "coords": [
+                        16.814922,
+                        46.867784
+                  ]
+            },
+            {
+                  "name": "kicsi játszótér",
+                  "text": "A zalaegerszegi kicsi játszótér egy apró, de hangulatos játszóhely, ahol a kisebb gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        16.838128,
+                        46.839569
+                  ]
+            },
+            {
+                  "name": "Parkerdei Játszótér",
+                  "text": "A zalaegerszegi Parkerdei Játszótér kiváló szabadtéri játéklehetőséget nyújt a gyerekeknek egy parkosított környezetben.",
+                  "category": "family",
+                  "coords": [
+                        16.862014,
+                        46.846299
+                  ]
+            },
+            {
+                  "name": "Bóbita játszótér",
+                  "text": "A Bóbita játszótér egy barátságos zalaegerszegi játszótér, amelyet a családok aktív kikapcsolódás céljából látogathatnak meg.",
+                  "category": "family",
+                  "coords": [
+                        16.831768,
+                        46.823486
+                  ]
+            },
+            {
+                  "name": "Játszópark",
+                  "text": "A zalaegerszegi családok a Játszóparkban változatos játszótéri eszközöket élvezhetnek gyermekeikkel.",
+                  "category": "family",
+                  "coords": [
+                        16.825254,
+                        46.812262
                   ]
             }
       ],
@@ -48203,6 +56573,69 @@ export const hungaryCities: POI[] = [
                         16.844283,
                         46.842115
                   ]
+            },
+            {
+                  "name": "GE Tunsgram tározó",
+                  "text": "GE Tungsram tározó din Zalaegerszeg este un lac de acumulare local, înconjurat de verdeață liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        16.827156,
+                        46.820978
+                  ]
+            },
+            {
+                  "name": "Bányató",
+                  "text": "Bányató din Zalaegerszeg este un fost lac de carieră care oferă ape limpezi și liniștite și vederi naturale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        16.936478,
+                        46.820337
+                  ]
+            },
+            {
+                  "name": "Gébárti-tó",
+                  "text": "Gébárti-tó din Zalaegerszeg este un lac de agrement frumos, popular pentru plimbări și bucuria de a sta în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.814922,
+                        46.867784
+                  ]
+            },
+            {
+                  "name": "kicsi játszótér",
+                  "text": "Locul de joacă kicsi játszótér din Zalaegerszeg este un loc de joacă mic, dar primitor, unde se pot juca copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        16.838128,
+                        46.839569
+                  ]
+            },
+            {
+                  "name": "Parkerdei Játszótér",
+                  "text": "Parkerdei Játszótér din Zalaegerszeg oferă o zonă excelentă de joacă în aer liber pentru copii într-un cadru de parc.",
+                  "category": "family",
+                  "coords": [
+                        16.862014,
+                        46.846299
+                  ]
+            },
+            {
+                  "name": "Bóbita játszótér",
+                  "text": "Bóbita játszótér este un loc de joacă primitor în Zalaegerszeg, pe care familiile îl pot vizita pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        16.831768,
+                        46.823486
+                  ]
+            },
+            {
+                  "name": "Játszópark",
+                  "text": "Familiile din Zalaegerszeg își pot aduce copiii la Játszópark pentru a se bucura de diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.825254,
+                        46.812262
+                  ]
             }
       ],
       "en": [
@@ -48380,6 +56813,69 @@ export const hungaryCities: POI[] = [
                         16.844283,
                         46.842115
                   ]
+            },
+            {
+                  "name": "GE Tunsgram tározó",
+                  "text": "The GE Tungsram tározó in Zalaegerszeg is a local reservoir lake surrounded by peaceful greenery.",
+                  "category": "natural",
+                  "coords": [
+                        16.827156,
+                        46.820978
+                  ]
+            },
+            {
+                  "name": "Bányató",
+                  "text": "Bányató in Zalaegerszeg is a former quarry lake offering quiet, clear waters and scenic natural views.",
+                  "category": "natural",
+                  "coords": [
+                        16.936478,
+                        46.820337
+                  ]
+            },
+            {
+                  "name": "Gébárti-tó",
+                  "text": "Gébárti-tó in Zalaegerszeg is a beautiful recreational lake popular for walking and enjoying the outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        16.814922,
+                        46.867784
+                  ]
+            },
+            {
+                  "name": "kicsi játszótér",
+                  "text": "The kicsi játszótér in Zalaegerszeg is a small but cozy playground where younger children can play.",
+                  "category": "family",
+                  "coords": [
+                        16.838128,
+                        46.839569
+                  ]
+            },
+            {
+                  "name": "Parkerdei Játszótér",
+                  "text": "Parkerdei Játszótér in Zalaegerszeg provides an excellent outdoor play area for children within a park setting.",
+                  "category": "family",
+                  "coords": [
+                        16.862014,
+                        46.846299
+                  ]
+            },
+            {
+                  "name": "Bóbita játszótér",
+                  "text": "Bóbita játszótér is a welcoming playground in Zalaegerszeg that families can visit for active fun.",
+                  "category": "family",
+                  "coords": [
+                        16.831768,
+                        46.823486
+                  ]
+            },
+            {
+                  "name": "Játszópark",
+                  "text": "Families in Zalaegerszeg can bring their kids to the Játszópark to enjoy a variety of playground equipment.",
+                  "category": "family",
+                  "coords": [
+                        16.825254,
+                        46.812262
+                  ]
             }
       ]
 }
@@ -48507,6 +57003,33 @@ export const hungaryCities: POI[] = [
                         16.989532,
                         46.454926
                   ]
+            },
+            {
+                  "name": "Palini horgásztó",
+                  "text": "Palini horgásztó ist ein Angelsee in Nagykanizsa, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.97304,
+                        46.498203
+                  ]
+            },
+            {
+                  "name": "Miklósfai Halastavak",
+                  "text": "Miklósfai Halastavak ist ein Angelsee in Nagykanizsa, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.96198,
+                        46.396558
+                  ]
+            },
+            {
+                  "name": "Kölyök Park",
+                  "text": "Kölyök Park ist ein Spielplatz in Nagykanizsa, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.012796,
+                        46.454492
+                  ]
             }
       ],
       "hu": [
@@ -48606,6 +57129,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.989532,
                         46.454926
+                  ]
+            },
+            {
+                  "name": "Palini horgásztó",
+                  "text": "Palini horgásztó egy horgásztó Nagykanizsa területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        16.97304,
+                        46.498203
+                  ]
+            },
+            {
+                  "name": "Miklósfai Halastavak",
+                  "text": "Miklósfai Halastavak egy horgásztó Nagykanizsa területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        16.96198,
+                        46.396558
+                  ]
+            },
+            {
+                  "name": "Kölyök Park",
+                  "text": "Kölyök Park egy játszótér Nagykanizsa területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        17.012796,
+                        46.454492
                   ]
             }
       ],
@@ -48707,6 +57257,33 @@ export const hungaryCities: POI[] = [
                         16.989532,
                         46.454926
                   ]
+            },
+            {
+                  "name": "Palini horgásztó",
+                  "text": "Palini horgásztó este un lac de pescuit în Nagykanizsa, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.97304,
+                        46.498203
+                  ]
+            },
+            {
+                  "name": "Miklósfai Halastavak",
+                  "text": "Miklósfai Halastavak este un lac de pescuit în Nagykanizsa, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.96198,
+                        46.396558
+                  ]
+            },
+            {
+                  "name": "Kölyök Park",
+                  "text": "Kölyök Park este un loc de joacă în Nagykanizsa, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        17.012796,
+                        46.454492
+                  ]
             }
       ],
       "en": [
@@ -48806,6 +57383,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.989532,
                         46.454926
+                  ]
+            },
+            {
+                  "name": "Palini horgásztó",
+                  "text": "Palini horgásztó is a fishing lake in Nagykanizsa, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        16.97304,
+                        46.498203
+                  ]
+            },
+            {
+                  "name": "Miklósfai Halastavak",
+                  "text": "Miklósfai Halastavak is a fishing lake in Nagykanizsa, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        16.96198,
+                        46.396558
+                  ]
+            },
+            {
+                  "name": "Kölyök Park",
+                  "text": "Kölyök Park is a playground in Nagykanizsa, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        17.012796,
+                        46.454492
                   ]
             }
       ]
@@ -50316,6 +58920,51 @@ export const hungaryCities: POI[] = [
                         17.800892,
                         46.048002
                   ]
+            },
+            {
+                  "name": "Keleti-Gyöngyös halastó",
+                  "text": "Keleti-Gyöngyös halastó ist ein Angelsee in Szigetvar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.747725,
+                        46.110914
+                  ]
+            },
+            {
+                  "name": "Csertői halastó",
+                  "text": "Csertői halastó ist ein Angelsee in Szigetvar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.810714,
+                        46.092702
+                  ]
+            },
+            {
+                  "name": "Domolosi Horgásztó",
+                  "text": "Domolosi Horgásztó ist ein Angelsee in Szigetvar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.863274,
+                        46.075778
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó ist ein Angelsee in Szigetvar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.862957,
+                        46.085262
+                  ]
+            },
+            {
+                  "name": "Csónakázó tó",
+                  "text": "Csónakázó tó in Szigetvar ist ein von Natur umgebener Bootsteich, ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.796352,
+                        46.052506
+                  ]
             }
       ],
       "hu": [
@@ -50433,6 +59082,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.800892,
                         46.048002
+                  ]
+            },
+            {
+                  "name": "Keleti-Gyöngyös halastó",
+                  "text": "Keleti-Gyöngyös halastó egy horgásztó Szigetvar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.747725,
+                        46.110914
+                  ]
+            },
+            {
+                  "name": "Csertői halastó",
+                  "text": "Csertői halastó egy horgásztó Szigetvar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.810714,
+                        46.092702
+                  ]
+            },
+            {
+                  "name": "Domolosi Horgásztó",
+                  "text": "Domolosi Horgásztó egy horgásztó Szigetvar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.863274,
+                        46.075778
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó egy horgásztó Szigetvar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.862957,
+                        46.085262
+                  ]
+            },
+            {
+                  "name": "Csónakázó tó",
+                  "text": "Csónakázó tó egy természetközeli csónakázótó Szigetvar területén, amely ideális a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.796352,
+                        46.052506
                   ]
             }
       ],
@@ -50552,6 +59246,51 @@ export const hungaryCities: POI[] = [
                         17.800892,
                         46.048002
                   ]
+            },
+            {
+                  "name": "Keleti-Gyöngyös halastó",
+                  "text": "Keleti-Gyöngyös halastó este un lac de pescuit în Szigetvar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.747725,
+                        46.110914
+                  ]
+            },
+            {
+                  "name": "Csertői halastó",
+                  "text": "Csertői halastó este un lac de pescuit în Szigetvar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.810714,
+                        46.092702
+                  ]
+            },
+            {
+                  "name": "Domolosi Horgásztó",
+                  "text": "Domolosi Horgásztó este un lac de pescuit în Szigetvar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.863274,
+                        46.075778
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó este un lac de pescuit în Szigetvar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.862957,
+                        46.085262
+                  ]
+            },
+            {
+                  "name": "Csónakázó tó",
+                  "text": "Csónakázó tó din Szigetvar este un lac pentru plimbări cu barca înconjurat de natură, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.796352,
+                        46.052506
+                  ]
             }
       ],
       "en": [
@@ -50669,6 +59408,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.800892,
                         46.048002
+                  ]
+            },
+            {
+                  "name": "Keleti-Gyöngyös halastó",
+                  "text": "Keleti-Gyöngyös halastó is a fishing lake in Szigetvar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.747725,
+                        46.110914
+                  ]
+            },
+            {
+                  "name": "Csertői halastó",
+                  "text": "Csertői halastó is a fishing lake in Szigetvar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.810714,
+                        46.092702
+                  ]
+            },
+            {
+                  "name": "Domolosi Horgásztó",
+                  "text": "Domolosi Horgásztó is a fishing lake in Szigetvar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.863274,
+                        46.075778
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó is a fishing lake in Szigetvar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.862957,
+                        46.085262
+                  ]
+            },
+            {
+                  "name": "Csónakázó tó",
+                  "text": "Csónakázó tó in Szigetvar is a boating lake surrounded by nature, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.796352,
+                        46.052506
                   ]
             }
       ]
@@ -50899,6 +59683,15 @@ export const hungaryCities: POI[] = [
                         18.926957,
                         46.192993
                   ]
+            },
+            {
+                  "name": "horgásztó",
+                  "text": "Dieser Horgásztó in Baja ist ein idyllischer Ort für Angler.",
+                  "category": "natural",
+                  "coords": [
+                        18.952708,
+                        46.201288
+                  ]
             }
       ],
       "hu": [
@@ -51100,6 +59893,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.926957,
                         46.192993
+                  ]
+            },
+            {
+                  "name": "horgásztó",
+                  "text": "A bajai horgásztó egy idilli hely a horgászok számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.952708,
+                        46.201288
                   ]
             }
       ],
@@ -51303,6 +60105,15 @@ export const hungaryCities: POI[] = [
                         18.926957,
                         46.192993
                   ]
+            },
+            {
+                  "name": "horgásztó",
+                  "text": "Acest horgásztó din Baja este un loc idilic pentru pescari.",
+                  "category": "natural",
+                  "coords": [
+                        18.952708,
+                        46.201288
+                  ]
             }
       ],
       "en": [
@@ -51505,6 +60316,15 @@ export const hungaryCities: POI[] = [
                         18.926957,
                         46.192993
                   ]
+            },
+            {
+                  "name": "horgásztó",
+                  "text": "This horgásztó in Baja is an idyllic place for anglers.",
+                  "category": "natural",
+                  "coords": [
+                        18.952708,
+                        46.201288
+                  ]
             }
       ]
 }
@@ -51663,6 +60483,141 @@ export const hungaryCities: POI[] = [
                         19.84503,
                         46.711366
                   ]
+            },
+            {
+                  "name": "Lóúsztató",
+                  "text": "Lóúsztató in Kiskunfelegyhaza ist ein ruhiges Gewässer inmitten der Natur, das historisch als Pferdeschwemme genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        19.848189,
+                        46.726354
+                  ]
+            },
+            {
+                  "name": "Záportározó",
+                  "text": "Záportározó ist ein Regenwasserrückhaltebecken in Kiskunfelegyhaza, das der lokalen Landschaft eine ruhige Note verleiht.",
+                  "category": "natural",
+                  "coords": [
+                        19.862637,
+                        46.715005
+                  ]
+            },
+            {
+                  "name": "„Bankfalui” játszótér",
+                  "text": "Der „Bankfalui“ játszótér in Kiskunfelegyhaza bietet eine unterhaltsame und sichere Umgebung, in der die örtlichen Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        19.86393,
+                        46.725582
+                  ]
+            },
+            {
+                  "name": "„Fecske” játszótér",
+                  "text": "Der „Fecske“ játszótér ist ein schöner Outdoor-Spielplatz in Kiskunfelegyhaza, der sich ideal für die Familienerholung eignet.",
+                  "category": "family",
+                  "coords": [
+                        19.848403,
+                        46.724272
+                  ]
+            },
+            {
+                  "name": "Petőfi lakótelepi „banános” játszótér",
+                  "text": "Der „banános“-Spielplatz befindet sich in einem Wohngebiet von Kiskunfelegyhaza und ist ein beliebter Treffpunkt für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        19.847582,
+                        46.721882
+                  ]
+            },
+            {
+                  "name": "Kossuthvárosi játszótér",
+                  "text": "Der Kossuthvárosi játszótér bietet Kindern in Kiskunfelegyhaza einen eigenen Bereich, um Spaß zu haben.",
+                  "category": "family",
+                  "coords": [
+                        19.833108,
+                        46.718176
+                  ]
+            },
+            {
+                  "name": "Korond utcai játszótér",
+                  "text": "Familien in Kiskunfelegyhaza können einen verspielten Nachmittag auf dem Korond utcai játszótér genießen.",
+                  "category": "family",
+                  "coords": [
+                        19.846625,
+                        46.710748
+                  ]
+            },
+            {
+                  "name": "Zrínyi utcai játszótér",
+                  "text": "Der Zrínyi utcai játszótér ist ein Außenspielbereich in Kiskunfelegyhaza, der auf kleine Abenteurer zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        19.847779,
+                        46.712397
+                  ]
+            },
+            {
+                  "name": "„Venezia” udvari játszótér",
+                  "text": "Der „Venezia“ udvari játszótér bietet einen gemütlichen Innenhof für Aktivitäten von Kindern in Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.842654,
+                        46.71059
+                  ]
+            },
+            {
+                  "name": "„Kocka” játszótér",
+                  "text": "Kinder können während eines Familienausflugs nach Kiskunfelegyhaza den „Kocka“ játszótér erkunden und genießen.",
+                  "category": "family",
+                  "coords": [
+                        19.843339,
+                        46.709362
+                  ]
+            },
+            {
+                  "name": "Dr. Magyari Béla játszótér",
+                  "text": "Der Dr. Magyari Béla játszótér in Kiskunfelegyhaza ist ein schöner lokaler Spielplatz, der Kindern Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        19.842246,
+                        46.708633
+                  ]
+            },
+            {
+                  "name": "„Tölgyes” játszótér",
+                  "text": "Der „Tölgyes“ játszótér in Kiskunfelegyhaza liegt inmitten von Bäumen und ist ein schattiger und angenehmer Ort zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.862742,
+                        46.705096
+                  ]
+            },
+            {
+                  "name": "Kalmár utcai játszótér",
+                  "text": "Der Kalmár utcai játszótér ist ein Gemeinschaftsspielplatz in Kiskunfelegyhaza, der für Familienunterhaltung ausgestattet ist.",
+                  "category": "family",
+                  "coords": [
+                        19.852455,
+                        46.702906
+                  ]
+            },
+            {
+                  "name": "„Víztorony” játszótér",
+                  "text": "Der „Víztorony“ játszótér in Kiskunfelegyhaza befindet sich in der Nähe des Wasserturms und ist ein beliebter Spielplatz für einheimische Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.837039,
+                        46.713582
+                  ]
+            },
+            {
+                  "name": "Majsai úti hátsó játszótér",
+                  "text": "Der Majsai úti hátsó játszótér bietet in Kiskunfelegyhaza einen ruhigen Ort für den Outdoor-Spaß von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        19.837793,
+                        46.705272
+                  ]
             }
       ],
       "hu": [
@@ -51793,6 +60748,141 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.84503,
                         46.711366
+                  ]
+            },
+            {
+                  "name": "Lóúsztató",
+                  "text": "A kiskunfélegyházi Lóúsztató egy történelmileg lóúsztatásra használt, csendes, természetközeli vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        19.848189,
+                        46.726354
+                  ]
+            },
+            {
+                  "name": "Záportározó",
+                  "text": "A kiskunfélegyházi Záportározó egy csapadékvíz-tározó, amely nyugodt színfoltja a helyi tájnak.",
+                  "category": "natural",
+                  "coords": [
+                        19.862637,
+                        46.715005
+                  ]
+            },
+            {
+                  "name": "„Bankfalui” játszótér",
+                  "text": "A kiskunfélegyházi „Bankfalui” játszótér vidám és biztonságos környezetet kínál a helyi gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.86393,
+                        46.725582
+                  ]
+            },
+            {
+                  "name": "„Fecske” játszótér",
+                  "text": "A „Fecske” játszótér egy kellemes kiskunfélegyházi szabadtéri játszótér, amely ideális a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.848403,
+                        46.724272
+                  ]
+            },
+            {
+                  "name": "Petőfi lakótelepi „banános” játszótér",
+                  "text": "A kiskunfélegyházi Petőfi lakótelepen található „banános” játszótér a környékbeli gyerekek kedvelt helye.",
+                  "category": "family",
+                  "coords": [
+                        19.847582,
+                        46.721882
+                  ]
+            },
+            {
+                  "name": "Kossuthvárosi játszótér",
+                  "text": "A Kossuthvárosi játszótér dedikált teret biztosít a gyerekeknek a szórakozáshoz Kiskunfélegyházán.",
+                  "category": "family",
+                  "coords": [
+                        19.833108,
+                        46.718176
+                  ]
+            },
+            {
+                  "name": "Korond utcai játszótér",
+                  "text": "A kiskunfélegyházi családok egy játékos délutánt tölthetnek el a Korond utcai játszótéren.",
+                  "category": "family",
+                  "coords": [
+                        19.846625,
+                        46.710748
+                  ]
+            },
+            {
+                  "name": "Zrínyi utcai játszótér",
+                  "text": "A Zrínyi utcai játszótér egy fiatal kalandorok számára kialakított kiskunfélegyházi szabadtéri játszóhely.",
+                  "category": "family",
+                  "coords": [
+                        19.847779,
+                        46.712397
+                  ]
+            },
+            {
+                  "name": "„Venezia” udvari játszótér",
+                  "text": "A kiskunfélegyházi „Venezia” udvari játszótér hangulatos udvari környezetet kínál a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.842654,
+                        46.71059
+                  ]
+            },
+            {
+                  "name": "„Kocka” játszótér",
+                  "text": "A gyerekek felfedezhetik és élvezhetik a „Kocka” játszóteret egy kiskunfélegyházi családi látogatás során.",
+                  "category": "family",
+                  "coords": [
+                        19.843339,
+                        46.709362
+                  ]
+            },
+            {
+                  "name": "Dr. Magyari Béla játszótér",
+                  "text": "A kiskunfélegyházi Dr. Magyari Béla játszótér egy kedves helyi játszótér, amely örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.842246,
+                        46.708633
+                  ]
+            },
+            {
+                  "name": "„Tölgyes” játszótér",
+                  "text": "A fák között fekvő kiskunfélegyházi „Tölgyes” játszótér egy árnyékos és kellemes hely a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        19.862742,
+                        46.705096
+                  ]
+            },
+            {
+                  "name": "Kalmár utcai játszótér",
+                  "text": "A Kalmár utcai játszótér egy kiskunfélegyházi közösségi játszótér, amely családi szórakozásra van felszerelve.",
+                  "category": "family",
+                  "coords": [
+                        19.852455,
+                        46.702906
+                  ]
+            },
+            {
+                  "name": "„Víztorony” játszótér",
+                  "text": "A víztorony közelében található kiskunfélegyházi „Víztorony” játszótér egy népszerű játszótér a helyi családok körében.",
+                  "category": "family",
+                  "coords": [
+                        19.837039,
+                        46.713582
+                  ]
+            },
+            {
+                  "name": "Majsai úti hátsó játszótér",
+                  "text": "A Majsai úti hátsó játszótér egy eldugott, csendes teret kínál a gyerekek szabadtéri szórakozásához Kiskunfélegyházán.",
+                  "category": "family",
+                  "coords": [
+                        19.837793,
+                        46.705272
                   ]
             }
       ],
@@ -51925,6 +61015,141 @@ export const hungaryCities: POI[] = [
                         19.84503,
                         46.711366
                   ]
+            },
+            {
+                  "name": "Lóúsztató",
+                  "text": "Lóúsztató din Kiskunfelegyhaza este o apă liniștită, folosită istoric ca adăpătoare pentru cai, înconjurată de natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.848189,
+                        46.726354
+                  ]
+            },
+            {
+                  "name": "Záportározó",
+                  "text": "Záportározó este un lac de acumulare pentru ape pluviale în Kiskunfelegyhaza, care adaugă o notă liniștită peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        19.862637,
+                        46.715005
+                  ]
+            },
+            {
+                  "name": "„Bankfalui” játszótér",
+                  "text": "„Bankfalui” játszótér din Kiskunfelegyhaza oferă un mediu distractiv și sigur pentru copiii locali să se joace.",
+                  "category": "family",
+                  "coords": [
+                        19.86393,
+                        46.725582
+                  ]
+            },
+            {
+                  "name": "„Fecske” játszótér",
+                  "text": "„Fecske” játszótér este un loc de joacă plăcut în aer liber în Kiskunfelegyhaza, ideal pentru recreerea în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.848403,
+                        46.724272
+                  ]
+            },
+            {
+                  "name": "Petőfi lakótelepi „banános” játszótér",
+                  "text": "Situat într-o zonă rezidențială din Kiskunfelegyhaza, locul de joacă „banános” este un loc îndrăgit de copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        19.847582,
+                        46.721882
+                  ]
+            },
+            {
+                  "name": "Kossuthvárosi játszótér",
+                  "text": "Kossuthvárosi játszótér oferă un spațiu dedicat pentru ca cei mici să se distreze în Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.833108,
+                        46.718176
+                  ]
+            },
+            {
+                  "name": "Korond utcai játszótér",
+                  "text": "Familiile din Kiskunfelegyhaza se pot bucura de o după-amiază de joacă la Korond utcai játszótér.",
+                  "category": "family",
+                  "coords": [
+                        19.846625,
+                        46.710748
+                  ]
+            },
+            {
+                  "name": "Zrínyi utcai játszótér",
+                  "text": "Zrínyi utcai játszótér este o zonă de joacă în aer liber în Kiskunfelegyhaza, adaptată pentru tinerii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        19.847779,
+                        46.712397
+                  ]
+            },
+            {
+                  "name": "„Venezia” udvari játszótér",
+                  "text": "„Venezia” udvari játszótér oferă un cadru intim în curte pentru activitățile copiilor din Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.842654,
+                        46.71059
+                  ]
+            },
+            {
+                  "name": "„Kocka” játszótér",
+                  "text": "Copiii pot explora și se pot bucura de „Kocka” játszótér în timpul unei vizite în familie la Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.843339,
+                        46.709362
+                  ]
+            },
+            {
+                  "name": "Dr. Magyari Béla játszótér",
+                  "text": "Dr. Magyari Béla játszótér din Kiskunfelegyhaza este un loc de joacă local minunat, care aduce bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.842246,
+                        46.708633
+                  ]
+            },
+            {
+                  "name": "„Tölgyes” játszótér",
+                  "text": "Situat printre copaci, „Tölgyes” játszótér din Kiskunfelegyhaza este un loc umbrit și plăcut pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.862742,
+                        46.705096
+                  ]
+            },
+            {
+                  "name": "Kalmár utcai játszótér",
+                  "text": "Kalmár utcai játszótér este un loc de joacă comunitar în Kiskunfelegyhaza, echipat pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.852455,
+                        46.702906
+                  ]
+            },
+            {
+                  "name": "„Víztorony” játszótér",
+                  "text": "Situat lângă turnul de apă, „Víztorony” játszótér din Kiskunfelegyhaza este un loc de joacă popular pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        19.837039,
+                        46.713582
+                  ]
+            },
+            {
+                  "name": "Majsai úti hátsó játszótér",
+                  "text": "Majsai úti hátsó játszótér oferă un spațiu liniștit ascuns în Kiskunfelegyhaza pentru distracția în aer liber a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.837793,
+                        46.705272
+                  ]
             }
       ],
       "en": [
@@ -52055,6 +61280,141 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.84503,
                         46.711366
+                  ]
+            },
+            {
+                  "name": "Lóúsztató",
+                  "text": "Lóúsztató in Kiskunfelegyhaza is a calm body of water historically used as a horse pond, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        19.848189,
+                        46.726354
+                  ]
+            },
+            {
+                  "name": "Záportározó",
+                  "text": "Záportározó is a stormwater reservoir lake in Kiskunfelegyhaza that adds a serene touch to the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.862637,
+                        46.715005
+                  ]
+            },
+            {
+                  "name": "„Bankfalui” játszótér",
+                  "text": "The \"Bankfalui\" játszótér in Kiskunfelegyhaza offers a fun and safe environment for local children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.86393,
+                        46.725582
+                  ]
+            },
+            {
+                  "name": "„Fecske” játszótér",
+                  "text": "\"Fecske\" játszótér is a pleasant outdoor playground in Kiskunfelegyhaza ideal for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.848403,
+                        46.724272
+                  ]
+            },
+            {
+                  "name": "Petőfi lakótelepi „banános” játszótér",
+                  "text": "Located in a residential area of Kiskunfelegyhaza, the \"banános\" playground is a beloved spot for neighborhood kids.",
+                  "category": "family",
+                  "coords": [
+                        19.847582,
+                        46.721882
+                  ]
+            },
+            {
+                  "name": "Kossuthvárosi játszótér",
+                  "text": "Kossuthvárosi játszótér provides a dedicated space for children to have fun in Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.833108,
+                        46.718176
+                  ]
+            },
+            {
+                  "name": "Korond utcai játszótér",
+                  "text": "Families in Kiskunfelegyhaza can enjoy a playful afternoon at the Korond utcai játszótér.",
+                  "category": "family",
+                  "coords": [
+                        19.846625,
+                        46.710748
+                  ]
+            },
+            {
+                  "name": "Zrínyi utcai játszótér",
+                  "text": "Zrínyi utcai játszótér is an outdoor play area in Kiskunfelegyhaza tailored for young adventurers.",
+                  "category": "family",
+                  "coords": [
+                        19.847779,
+                        46.712397
+                  ]
+            },
+            {
+                  "name": "„Venezia” udvari játszótér",
+                  "text": "The \"Venezia\" udvari játszótér offers a cozy courtyard setting for children's activities in Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.842654,
+                        46.71059
+                  ]
+            },
+            {
+                  "name": "„Kocka” játszótér",
+                  "text": "Children can explore and enjoy the \"Kocka\" játszótér during a family visit to Kiskunfelegyhaza.",
+                  "category": "family",
+                  "coords": [
+                        19.843339,
+                        46.709362
+                  ]
+            },
+            {
+                  "name": "Dr. Magyari Béla játszótér",
+                  "text": "The Dr. Magyari Béla játszótér in Kiskunfelegyhaza is a lovely local playground providing joy for kids.",
+                  "category": "family",
+                  "coords": [
+                        19.842246,
+                        46.708633
+                  ]
+            },
+            {
+                  "name": "„Tölgyes” játszótér",
+                  "text": "Set amidst trees, the \"Tölgyes\" játszótér in Kiskunfelegyhaza is a shaded and pleasant spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.862742,
+                        46.705096
+                  ]
+            },
+            {
+                  "name": "Kalmár utcai játszótér",
+                  "text": "Kalmár utcai játszótér is a community playground in Kiskunfelegyhaza equipped for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        19.852455,
+                        46.702906
+                  ]
+            },
+            {
+                  "name": "„Víztorony” játszótér",
+                  "text": "Located near the water tower, the \"Víztorony\" játszótér in Kiskunfelegyhaza is a popular playground for local families.",
+                  "category": "family",
+                  "coords": [
+                        19.837039,
+                        46.713582
+                  ]
+            },
+            {
+                  "name": "Majsai úti hátsó játszótér",
+                  "text": "Majsai úti hátsó játszótér offers a quiet space tucked away in Kiskunfelegyhaza for children's outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        19.837793,
+                        46.705272
                   ]
             }
       ]
@@ -53174,6 +62534,69 @@ export const hungaryCities: POI[] = [
                         21.536434,
                         48.330214
                   ]
+            },
+            {
+                  "name": "Falu-tó",
+                  "text": "Der Falu-tó in Sarospatak ist ein friedlicher See inmitten der Natur, perfekt für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        21.628925,
+                        48.322861
+                  ]
+            },
+            {
+                  "name": "Hosszú-tó",
+                  "text": "Hosszú-tó ist ein langgestreckter See in Sarospatak, der für seine malerische Aussicht auf das Wasser und seine ruhige Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.636245,
+                        48.347087
+                  ]
+            },
+            {
+                  "name": "Bíró-tó",
+                  "text": "Der Bíró-tó in Sarospatak bietet eine natürliche Seeumgebung, in der Besucher die ruhige Natur genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        21.626985,
+                        48.333931
+                  ]
+            },
+            {
+                  "name": "Oroly",
+                  "text": "Oroly ist ein ruhiger See in der Nähe von Sarospatak und bietet einen angenehmen Ort, um die lokale Landschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        21.618012,
+                        48.327472
+                  ]
+            },
+            {
+                  "name": "Monok-tó",
+                  "text": "Der Monok-tó in Sarospatak ist ein bezauberndes Seengebiet, das sich für gemütliche Spaziergänge am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.643525,
+                        48.331969
+                  ]
+            },
+            {
+                  "name": "Gólya-tó",
+                  "text": "Gólya-tó ist ein See in Sarospatak, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.658647,
+                        48.322204
+                  ]
+            },
+            {
+                  "name": "Történelmi játszótér",
+                  "text": "Történelmi játszótér ist ein familienfreundlicher Spielplatz in Sarospatak, ideal für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.565981,
+                        48.315076
+                  ]
             }
       ],
       "hu": [
@@ -53285,6 +62708,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.536434,
                         48.330214
+                  ]
+            },
+            {
+                  "name": "Falu-tó",
+                  "text": "A sárospataki Falu-tó egy békés, természet által körülvett tó, amely tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.628925,
+                        48.322861
+                  ]
+            },
+            {
+                  "name": "Hosszú-tó",
+                  "text": "A Hosszú-tó egy hosszan elnyúló tó Sárospatakon, amely festői vízparti kilátásáról és csendes légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.636245,
+                        48.347087
+                  ]
+            },
+            {
+                  "name": "Bíró-tó",
+                  "text": "A sárospataki Bíró-tó természetes tóparti környezetet kínál, ahol a látogatók élvezhetik a nyugodt szabadlevegőt.",
+                  "category": "natural",
+                  "coords": [
+                        21.626985,
+                        48.333931
+                  ]
+            },
+            {
+                  "name": "Oroly",
+                  "text": "Az Oroly egy nyugodt vizű tó Sárospatak közelében, amely kellemes helyszínt biztosít a helyi táj megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        21.618012,
+                        48.327472
+                  ]
+            },
+            {
+                  "name": "Monok-tó",
+                  "text": "A sárospataki Monok-tó egy hangulatos tóvidék, amely alkalmas kényelmes vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        21.643525,
+                        48.331969
+                  ]
+            },
+            {
+                  "name": "Gólya-tó",
+                  "text": "A Gólya-tó egy tó Sarospatak területén, amely ideális természetközeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        21.658647,
+                        48.322204
+                  ]
+            },
+            {
+                  "name": "Történelmi játszótér",
+                  "text": "A Történelmi játszótér egy családbarát játszótér Sarospatak városában, amely ideális a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.565981,
+                        48.315076
                   ]
             }
       ],
@@ -53398,6 +62884,69 @@ export const hungaryCities: POI[] = [
                         21.536434,
                         48.330214
                   ]
+            },
+            {
+                  "name": "Falu-tó",
+                  "text": "Falu-tó din Sarospatak este un lac pașnic înconjurat de natură, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.628925,
+                        48.322861
+                  ]
+            },
+            {
+                  "name": "Hosszú-tó",
+                  "text": "Hosszú-tó este un lac alungit în Sarospatak, cunoscut pentru vederile sale pitorești pe malul apei și atmosfera liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        21.636245,
+                        48.347087
+                  ]
+            },
+            {
+                  "name": "Bíró-tó",
+                  "text": "Bíró-tó din Sarospatak oferă un mediu natural pe malul lacului, unde vizitatorii se pot bucura de aerul liber și calm.",
+                  "category": "natural",
+                  "coords": [
+                        21.626985,
+                        48.333931
+                  ]
+            },
+            {
+                  "name": "Oroly",
+                  "text": "Oroly este un lac liniștit lângă Sarospatak, oferind un loc plăcut pentru a aprecia peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        21.618012,
+                        48.327472
+                  ]
+            },
+            {
+                  "name": "Monok-tó",
+                  "text": "Monok-tó din Sarospatak este o zonă de lac fermecătoare, potrivită pentru plimbări pe îndelete de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.643525,
+                        48.331969
+                  ]
+            },
+            {
+                  "name": "Gólya-tó",
+                  "text": "Gólya-tó este un lac în Sarospatak, potrivit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.658647,
+                        48.322204
+                  ]
+            },
+            {
+                  "name": "Történelmi játszótér",
+                  "text": "Történelmi játszótér este un loc de joacă pentru familii în Sarospatak, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.565981,
+                        48.315076
+                  ]
             }
       ],
       "en": [
@@ -53509,6 +63058,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.536434,
                         48.330214
+                  ]
+            },
+            {
+                  "name": "Falu-tó",
+                  "text": "Falu-tó in Sarospatak is a peaceful lake surrounded by nature, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        21.628925,
+                        48.322861
+                  ]
+            },
+            {
+                  "name": "Hosszú-tó",
+                  "text": "Hosszú-tó is an elongated lake in Sarospatak, known for its scenic waterside views and quiet atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        21.636245,
+                        48.347087
+                  ]
+            },
+            {
+                  "name": "Bíró-tó",
+                  "text": "Bíró-tó in Sarospatak offers a natural lakeside environment where visitors can enjoy the calm outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        21.626985,
+                        48.333931
+                  ]
+            },
+            {
+                  "name": "Oroly",
+                  "text": "Oroly is a tranquil lake near Sarospatak, providing a pleasant spot to appreciate the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.618012,
+                        48.327472
+                  ]
+            },
+            {
+                  "name": "Monok-tó",
+                  "text": "Monok-tó in Sarospatak is a charming lake area suitable for leisurely walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.643525,
+                        48.331969
+                  ]
+            },
+            {
+                  "name": "Gólya-tó",
+                  "text": "Gólya-tó is a lake in Sarospatak, suitable for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.658647,
+                        48.322204
+                  ]
+            },
+            {
+                  "name": "Történelmi játszótér",
+                  "text": "Történelmi játszótér is a family-friendly playground in Sarospatak, ideal for children.",
+                  "category": "family",
+                  "coords": [
+                        21.565981,
+                        48.315076
                   ]
             }
       ]
@@ -53721,6 +63333,15 @@ export const hungaryCities: POI[] = [
                         20.184367,
                         46.715833
                   ]
+            },
+            {
+                  "name": "Vidre-éri-halastavak",
+                  "text": "Vidre-éri-halastavak ist ein Angelsee in Csongrad, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.137011,
+                        46.642921
+                  ]
             }
       ],
       "hu": [
@@ -53854,6 +63475,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.184367,
                         46.715833
+                  ]
+            },
+            {
+                  "name": "Vidre-éri-halastavak",
+                  "text": "Vidre-éri-halastavak egy horgásztó Csongrad területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        20.137011,
+                        46.642921
                   ]
             }
       ],
@@ -53989,6 +63619,15 @@ export const hungaryCities: POI[] = [
                         20.184367,
                         46.715833
                   ]
+            },
+            {
+                  "name": "Vidre-éri-halastavak",
+                  "text": "Vidre-éri-halastavak este un lac de pescuit în Csongrad, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        20.137011,
+                        46.642921
+                  ]
             }
       ],
       "en": [
@@ -54123,6 +63762,15 @@ export const hungaryCities: POI[] = [
                         20.184367,
                         46.715833
                   ]
+            },
+            {
+                  "name": "Vidre-éri-halastavak",
+                  "text": "Vidre-éri-halastavak is a fishing lake in Csongrad, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        20.137011,
+                        46.642921
+                  ]
             }
       ]
 }
@@ -54237,6 +63885,51 @@ export const hungaryCities: POI[] = [
                         18.207765,
                         47.373148
                   ]
+            },
+            {
+                  "name": "Festékgyári-tó",
+                  "text": "Der Festékgyári-tó in Mor ist ein interessantes lokales Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        18.271447,
+                        47.403483
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "Der Kék-tó in Mor ist ein schöner See in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.264623,
+                        47.408161
+                  ]
+            },
+            {
+                  "name": "Csuka-tó",
+                  "text": "Der Csuka-tó in Mor ist ein naturnaher See zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        18.262352,
+                        47.402249
+                  ]
+            },
+            {
+                  "name": "Móri halastavak II. tó",
+                  "text": "Der Móri halastavak II. tó ist ein lokaler Fischteich.",
+                  "category": "natural",
+                  "coords": [
+                        18.179106,
+                        47.374297
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "Der KRESZ-park in Mor ist ein lehrreicher und unterhaltsamer Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        18.211785,
+                        47.370396
+                  ]
             }
       ],
       "hu": [
@@ -54320,6 +64013,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.207765,
                         47.373148
+                  ]
+            },
+            {
+                  "name": "Festékgyári-tó",
+                  "text": "A móri Festékgyári-tó egy érdekes helyi vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        18.271447,
+                        47.403483
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "A móri Kék-tó egy szép tó a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        18.264623,
+                        47.408161
+                  ]
+            },
+            {
+                  "name": "Csuka-tó",
+                  "text": "A móri Csuka-tó természetközeli tó a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.262352,
+                        47.402249
+                  ]
+            },
+            {
+                  "name": "Móri halastavak II. tó",
+                  "text": "A Móri halastavak II. tó egy helyi halastó.",
+                  "category": "natural",
+                  "coords": [
+                        18.179106,
+                        47.374297
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "A móri KRESZ-park egy tanulságos és szórakoztató játszótér.",
+                  "category": "family",
+                  "coords": [
+                        18.211785,
+                        47.370396
                   ]
             }
       ],
@@ -54405,6 +64143,51 @@ export const hungaryCities: POI[] = [
                         18.207765,
                         47.373148
                   ]
+            },
+            {
+                  "name": "Festékgyári-tó",
+                  "text": "Festékgyári-tó din Mor este un corp de apă local interesant.",
+                  "category": "natural",
+                  "coords": [
+                        18.271447,
+                        47.403483
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "Kék-tó din Mor este un lac frumos în împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        18.264623,
+                        47.408161
+                  ]
+            },
+            {
+                  "name": "Csuka-tó",
+                  "text": "Csuka-tó din Mor este un lac apropiat de natură pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.262352,
+                        47.402249
+                  ]
+            },
+            {
+                  "name": "Móri halastavak II. tó",
+                  "text": "Móri halastavak II. tó este un iaz local de pește.",
+                  "category": "natural",
+                  "coords": [
+                        18.179106,
+                        47.374297
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "KRESZ-park din Mor este un loc de joacă educativ și distractiv.",
+                  "category": "family",
+                  "coords": [
+                        18.211785,
+                        47.370396
+                  ]
             }
       ],
       "en": [
@@ -54488,6 +64271,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.207765,
                         47.373148
+                  ]
+            },
+            {
+                  "name": "Festékgyári-tó",
+                  "text": "The Festékgyári-tó in Mor is an interesting local body of water.",
+                  "category": "natural",
+                  "coords": [
+                        18.271447,
+                        47.403483
+                  ]
+            },
+            {
+                  "name": "Kék-tó",
+                  "text": "The Kék-tó in Mor is a beautiful lake in the area.",
+                  "category": "natural",
+                  "coords": [
+                        18.264623,
+                        47.408161
+                  ]
+            },
+            {
+                  "name": "Csuka-tó",
+                  "text": "The Csuka-tó in Mor is a natural lake for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.262352,
+                        47.402249
+                  ]
+            },
+            {
+                  "name": "Móri halastavak II. tó",
+                  "text": "The Móri halastavak II. tó is a local fishing pond.",
+                  "category": "natural",
+                  "coords": [
+                        18.179106,
+                        47.374297
+                  ]
+            },
+            {
+                  "name": "KRESZ-park",
+                  "text": "The KRESZ-park in Mor is an educational and fun playground.",
+                  "category": "family",
+                  "coords": [
+                        18.211785,
+                        47.370396
                   ]
             }
       ]
@@ -54895,6 +64723,24 @@ export const hungaryCities: POI[] = [
                         17.265337,
                         47.851227
                   ]
+            },
+            {
+                  "name": "Vártó",
+                  "text": "Vártó ist ein See in Mosonmagyarovar, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.272965,
+                        47.880897
+                  ]
+            },
+            {
+                  "name": "Levéli Horgász tó",
+                  "text": "Levéli Horgász tó ist ein Angelsee in Mosonmagyarovar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.194637,
+                        47.893937
+                  ]
             }
       ],
       "hu": [
@@ -55012,6 +64858,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.265337,
                         47.851227
+                  ]
+            },
+            {
+                  "name": "Vártó",
+                  "text": "Vártó egy tó Mosonmagyarovar területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.272965,
+                        47.880897
+                  ]
+            },
+            {
+                  "name": "Levéli Horgász tó",
+                  "text": "Levéli Horgász tó egy horgásztó Mosonmagyarovar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.194637,
+                        47.893937
                   ]
             }
       ],
@@ -55131,6 +64995,24 @@ export const hungaryCities: POI[] = [
                         17.265337,
                         47.851227
                   ]
+            },
+            {
+                  "name": "Vártó",
+                  "text": "Vártó este un lac situat în Mosonmagyarovar, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.272965,
+                        47.880897
+                  ]
+            },
+            {
+                  "name": "Levéli Horgász tó",
+                  "text": "Levéli Horgász tó este un lac de pescuit în Mosonmagyarovar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.194637,
+                        47.893937
+                  ]
             }
       ],
       "en": [
@@ -55248,6 +65130,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.265337,
                         47.851227
+                  ]
+            },
+            {
+                  "name": "Vártó",
+                  "text": "Vártó is a lake located in Mosonmagyarovar, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.272965,
+                        47.880897
+                  ]
+            },
+            {
+                  "name": "Levéli Horgász tó",
+                  "text": "Levéli Horgász tó is a fishing lake in Mosonmagyarovar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.194637,
+                        47.893937
                   ]
             }
       ]
@@ -55447,6 +65347,69 @@ export const hungaryCities: POI[] = [
                         16.887582,
                         47.618634
                   ]
+            },
+            {
+                  "name": "Hegykői tó",
+                  "text": "Der Hegykői tó in Fertod ist ein ruhiger See in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.814539,
+                        47.625192
+                  ]
+            },
+            {
+                  "name": "bányató",
+                  "text": "Dieser Bányató in Fertod ist ein natürlicher See in der Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        16.950207,
+                        47.601844
+                  ]
+            },
+            {
+                  "name": "Muzsaji horgásztó",
+                  "text": "Der Muzsaji horgásztó in Fertod ist ein Ort für Angler.",
+                  "category": "natural",
+                  "coords": [
+                        16.833897,
+                        47.566625
+                  ]
+            },
+            {
+                  "name": "Belső tó",
+                  "text": "Der Belső-tó in Fertod ist ein malerischer See zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        16.897365,
+                        47.596279
+                  ]
+            },
+            {
+                  "name": "Arborétumi tó",
+                  "text": "Der Arborétumi tó in Fertod liegt in einer wunderschönen Parkanlage.",
+                  "category": "natural",
+                  "coords": [
+                        16.890872,
+                        47.592178
+                  ]
+            },
+            {
+                  "name": "Neusiedler See",
+                  "text": "Der Neusiedler See bei Fertod ist ein bedeutendes Naturgebiet für Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        16.774893,
+                        47.800763
+                  ]
+            },
+            {
+                  "name": "KalandBirodalom",
+                  "text": "Der Spielplatz KalandBirodalom in Fertod bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.890403,
+                        47.619276
+                  ]
             }
       ],
       "hu": [
@@ -55614,6 +65577,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.887582,
                         47.618634
+                  ]
+            },
+            {
+                  "name": "Hegykői tó",
+                  "text": "A fertődi Hegykői tó egy nyugodt tó a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.814539,
+                        47.625192
+                  ]
+            },
+            {
+                  "name": "bányató",
+                  "text": "A fertődi bányató egy természetes tó a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        16.950207,
+                        47.601844
+                  ]
+            },
+            {
+                  "name": "Muzsaji horgásztó",
+                  "text": "A fertődi Muzsaji horgásztó a horgászat kedvelőinek való.",
+                  "category": "natural",
+                  "coords": [
+                        16.833897,
+                        47.566625
+                  ]
+            },
+            {
+                  "name": "Belső tó",
+                  "text": "A fertődi Belső tó egy festői vízterület sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.897365,
+                        47.596279
+                  ]
+            },
+            {
+                  "name": "Arborétumi tó",
+                  "text": "A fertődi Arborétumi tó egy gyönyörű parkban található.",
+                  "category": "natural",
+                  "coords": [
+                        16.890872,
+                        47.592178
+                  ]
+            },
+            {
+                  "name": "Fertő",
+                  "text": "A fertődi Neusiedler See (Fertő-tó) jelentős természeti terület a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.774893,
+                        47.800763
+                  ]
+            },
+            {
+                  "name": "KalandBirodalom",
+                  "text": "A fertődi KalandBirodalom játszótér szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        16.890403,
+                        47.619276
                   ]
             }
       ],
@@ -55783,6 +65809,69 @@ export const hungaryCities: POI[] = [
                         16.887582,
                         47.618634
                   ]
+            },
+            {
+                  "name": "Hegykői tó",
+                  "text": "Hegykői tó din Fertod este un lac liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.814539,
+                        47.625192
+                  ]
+            },
+            {
+                  "name": "bányató",
+                  "text": "Acest bányató din Fertod este un lac natural în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        16.950207,
+                        47.601844
+                  ]
+            },
+            {
+                  "name": "Muzsaji horgásztó",
+                  "text": "Muzsaji horgásztó din Fertod este un loc pentru pescari.",
+                  "category": "natural",
+                  "coords": [
+                        16.833897,
+                        47.566625
+                  ]
+            },
+            {
+                  "name": "Belső tó",
+                  "text": "Belső-tó din Fertod este un lac pitoresc pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.897365,
+                        47.596279
+                  ]
+            },
+            {
+                  "name": "Arborétumi tó",
+                  "text": "Arborétumi tó din Fertod este situat într-un parc superb.",
+                  "category": "natural",
+                  "coords": [
+                        16.890872,
+                        47.592178
+                  ]
+            },
+            {
+                  "name": "Neusiedler See / Fertő",
+                  "text": "Lacul Neusiedl lângă Fertod este o zonă naturală importantă pentru activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        16.774893,
+                        47.800763
+                  ]
+            },
+            {
+                  "name": "KalandBirodalom",
+                  "text": "Locul de joacă KalandBirodalom din Fertod oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        16.890403,
+                        47.619276
+                  ]
             }
       ],
       "en": [
@@ -55950,6 +66039,69 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.887582,
                         47.618634
+                  ]
+            },
+            {
+                  "name": "Hegykői tó",
+                  "text": "The Hegykői tó in Fertod is a quiet lake in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.814539,
+                        47.625192
+                  ]
+            },
+            {
+                  "name": "bányató",
+                  "text": "This bányató in Fertod is a natural lake in the area.",
+                  "category": "natural",
+                  "coords": [
+                        16.950207,
+                        47.601844
+                  ]
+            },
+            {
+                  "name": "Muzsaji horgásztó",
+                  "text": "The Muzsaji horgásztó in Fertod is a place for anglers.",
+                  "category": "natural",
+                  "coords": [
+                        16.833897,
+                        47.566625
+                  ]
+            },
+            {
+                  "name": "Belső tó",
+                  "text": "The Belső-tó in Fertod is a picturesque lake for walking.",
+                  "category": "natural",
+                  "coords": [
+                        16.897365,
+                        47.596279
+                  ]
+            },
+            {
+                  "name": "Arborétumi tó",
+                  "text": "The Arborétumi tó in Fertod is located in a beautiful park.",
+                  "category": "natural",
+                  "coords": [
+                        16.890872,
+                        47.592178
+                  ]
+            },
+            {
+                  "name": "Lake Neusiedl",
+                  "text": "Lake Neusiedl near Fertod is a significant natural area for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        16.774893,
+                        47.800763
+                  ]
+            },
+            {
+                  "name": "KalandBirodalom",
+                  "text": "The KalandBirodalom playground in Fertod offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        16.890403,
+                        47.619276
                   ]
             }
       ]
@@ -56510,6 +66662,33 @@ export const hungaryCities: POI[] = [
                         21.535067,
                         47.226829
                   ]
+            },
+            {
+                  "name": "Bán-tó",
+                  "text": "Bán-tó ist ein See in Berettyoujfalu, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.525673,
+                        47.239212
+                  ]
+            },
+            {
+                  "name": "Sárostókerti horgásztó",
+                  "text": "Sárostókerti horgásztó ist ein Angelsee in Berettyoujfalu, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.554333,
+                        47.209448
+                  ]
+            },
+            {
+                  "name": "Remete-tó",
+                  "text": "Remete-tó ist ein See in Berettyoujfalu, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.437368,
+                        47.200531
+                  ]
             }
       ],
       "hu": [
@@ -56602,6 +66781,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.535067,
                         47.226829
+                  ]
+            },
+            {
+                  "name": "Bán-tó",
+                  "text": "Bán-tó egy tó Berettyoujfalu területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.525673,
+                        47.239212
+                  ]
+            },
+            {
+                  "name": "Sárostókerti horgásztó",
+                  "text": "Sárostókerti horgásztó egy horgásztó Berettyoujfalu területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        21.554333,
+                        47.209448
+                  ]
+            },
+            {
+                  "name": "Remete-tó",
+                  "text": "Remete-tó egy tó Berettyoujfalu területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.437368,
+                        47.200531
                   ]
             }
       ],
@@ -56696,6 +66902,33 @@ export const hungaryCities: POI[] = [
                         21.535067,
                         47.226829
                   ]
+            },
+            {
+                  "name": "Bán-tó",
+                  "text": "Bán-tó este un lac situat în Berettyoujfalu, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.525673,
+                        47.239212
+                  ]
+            },
+            {
+                  "name": "Sárostókerti horgásztó",
+                  "text": "Sárostókerti horgásztó este un lac de pescuit în Berettyoujfalu, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.554333,
+                        47.209448
+                  ]
+            },
+            {
+                  "name": "Remete-tó",
+                  "text": "Remete-tó este un lac situat în Berettyoujfalu, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.437368,
+                        47.200531
+                  ]
             }
       ],
       "en": [
@@ -56788,6 +67021,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.535067,
                         47.226829
+                  ]
+            },
+            {
+                  "name": "Bán-tó",
+                  "text": "Bán-tó is a lake located in Berettyoujfalu, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.525673,
+                        47.239212
+                  ]
+            },
+            {
+                  "name": "Sárostókerti horgásztó",
+                  "text": "Sárostókerti horgásztó is a fishing lake in Berettyoujfalu, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        21.554333,
+                        47.209448
+                  ]
+            },
+            {
+                  "name": "Remete-tó",
+                  "text": "Remete-tó is a lake located in Berettyoujfalu, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.437368,
+                        47.200531
                   ]
             }
       ]
@@ -57353,6 +67613,24 @@ export const hungaryCities: POI[] = [
                         20.352636,
                         48.05756
                   ]
+            },
+            {
+                  "name": "Felső-tó",
+                  "text": "Felső-tó ist ein malerischer See in Belapatfalva, der zu Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        20.413804,
+                        48.073613
+                  ]
+            },
+            {
+                  "name": "Kis-tó",
+                  "text": "Kis-tó ist ein See in Belapatfalva, der eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.407138,
+                        48.078332
+                  ]
             }
       ],
       "hu": [
@@ -57493,6 +67771,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.352636,
                         48.05756
+                  ]
+            },
+            {
+                  "name": "Felső-tó",
+                  "text": "A Felső-tó egy festői tó Bélapátfalva területén, amely vízparti sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        20.413804,
+                        48.073613
+                  ]
+            },
+            {
+                  "name": "Kis-tó",
+                  "text": "A Kis-tó egy tó Bélapátfalva területén, amely nyugodt környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.407138,
+                        48.078332
                   ]
             }
       ],
@@ -57635,6 +67931,24 @@ export const hungaryCities: POI[] = [
                         20.352636,
                         48.05756
                   ]
+            },
+            {
+                  "name": "Felső-tó",
+                  "text": "Felső-tó este un lac pitoresc în Belapatfalva, care invită la plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        20.413804,
+                        48.073613
+                  ]
+            },
+            {
+                  "name": "Kis-tó",
+                  "text": "Kis-tó este un lac în Belapatfalva, oferind un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        20.407138,
+                        48.078332
+                  ]
             }
       ],
       "en": [
@@ -57776,6 +68090,24 @@ export const hungaryCities: POI[] = [
                         20.352636,
                         48.05756
                   ]
+            },
+            {
+                  "name": "Felső-tó",
+                  "text": "Felső-tó is a scenic lake in Belapatfalva, inviting for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        20.413804,
+                        48.073613
+                  ]
+            },
+            {
+                  "name": "Kis-tó",
+                  "text": "Kis-tó is a lake in Belapatfalva, offering a quiet environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        20.407138,
+                        48.078332
+                  ]
             }
       ]
 }
@@ -57881,6 +68213,15 @@ export const hungaryCities: POI[] = [
                         20.622567,
                         47.002037
                   ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó ist ein See in Mezotur, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.610467,
+                        47.004758
+                  ]
             }
       ],
       "hu": [
@@ -57955,6 +68296,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.622567,
                         47.002037
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó egy tó Mezotur területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.610467,
+                        47.004758
                   ]
             }
       ],
@@ -58031,6 +68381,15 @@ export const hungaryCities: POI[] = [
                         20.622567,
                         47.002037
                   ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó este un lac situat în Mezotur, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.610467,
+                        47.004758
+                  ]
             }
       ],
       "en": [
@@ -58105,6 +68464,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.622567,
                         47.002037
+                  ]
+            },
+            {
+                  "name": "Ligeti-tó",
+                  "text": "Ligeti-tó is a lake located in Mezotur, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.610467,
+                        47.004758
                   ]
             }
       ]
@@ -58215,6 +68583,33 @@ export const hungaryCities: POI[] = [
                         20.752348,
                         47.622445
                   ]
+            },
+            {
+                  "name": "Bajor horgásztó",
+                  "text": "Der Bajor horgásztó in Tiszafuered ist ein beliebter See für Angler.",
+                  "category": "natural",
+                  "coords": [
+                        20.777718,
+                        47.578645
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Dieser Horgásztó in Tiszafuered bietet ruhige Plätze am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        20.768841,
+                        47.576034
+                  ]
+            },
+            {
+                  "name": "Nagy játszótér",
+                  "text": "Der große Spielplatz in Tiszafuered ist ideal für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.748907,
+                        47.618913
+                  ]
             }
       ],
       "hu": [
@@ -58293,6 +68688,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.752348,
                         47.622445
+                  ]
+            },
+            {
+                  "name": "Bajor horgásztó",
+                  "text": "A tiszafüredi Bajor horgásztó egy népszerű horgászhely.",
+                  "category": "natural",
+                  "coords": [
+                        20.777718,
+                        47.578645
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A tiszafüredi horgásztó csendes vízparti helyeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.768841,
+                        47.576034
+                  ]
+            },
+            {
+                  "name": "Nagy játszótér",
+                  "text": "A tiszafüredi nagy játszótér ideális a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.748907,
+                        47.618913
                   ]
             }
       ],
@@ -58373,6 +68795,33 @@ export const hungaryCities: POI[] = [
                         20.752348,
                         47.622445
                   ]
+            },
+            {
+                  "name": "Bajor horgásztó",
+                  "text": "Bajor horgásztó din Tiszafuered este un lac popular pentru pescari.",
+                  "category": "natural",
+                  "coords": [
+                        20.777718,
+                        47.578645
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Acest horgásztó din Tiszafuered oferă locuri liniștite pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        20.768841,
+                        47.576034
+                  ]
+            },
+            {
+                  "name": "Nagy játszótér",
+                  "text": "Locul de joacă mare din Tiszafuered este ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.748907,
+                        47.618913
+                  ]
             }
       ],
       "en": [
@@ -58451,6 +68900,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.752348,
                         47.622445
+                  ]
+            },
+            {
+                  "name": "Bajor horgásztó",
+                  "text": "The Bajor horgásztó in Tiszafuered is a popular lake for anglers.",
+                  "category": "natural",
+                  "coords": [
+                        20.777718,
+                        47.578645
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "This horgásztó in Tiszafuered offers quiet spots by the water.",
+                  "category": "natural",
+                  "coords": [
+                        20.768841,
+                        47.576034
+                  ]
+            },
+            {
+                  "name": "Nagy játszótér",
+                  "text": "The large playground in Tiszafuered is ideal for children.",
+                  "category": "family",
+                  "coords": [
+                        20.748907,
+                        47.618913
                   ]
             }
       ]
@@ -60422,6 +70898,42 @@ export const hungaryCities: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szécsényi kavicsbánya-tó",
+                  "text": "Der Szécsényi kavicsbánya-tó ist ein naturnaher See zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        19.495244,
+                        48.093136
+                  ]
+            },
+            {
+                  "name": "Robinson Szigetek - horgász és vízi turizmus",
+                  "text": "Robinson Szigetek in Szécsény bietet Angeln und Erholung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.475533,
+                        48.08938
+                  ]
+            },
+            {
+                  "name": "Ludányhalászi élmeny-tó",
+                  "text": "Der Ludányhalászi élmeny-tó ist ein schönes Ausflugsziel in der Nähe von Szécsény.",
+                  "category": "natural",
+                  "coords": [
+                        19.50776,
+                        48.122276
+                  ]
+            },
+            {
+                  "name": "Ludanyhalászi bánya-tó",
+                  "text": "Der Ludanyhalászi bánya-tó in Szécsény ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        19.506952,
+                        48.125807
+                  ]
             }
       ],
       "hu": [
@@ -60468,6 +70980,42 @@ export const hungaryCities: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szécsényi kavicsbánya-tó",
+                  "text": "A Szécsényi kavicsbánya-tó egy természetközeli tó a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        19.495244,
+                        48.093136
+                  ]
+            },
+            {
+                  "name": "Robinson Szigetek - horgász és vízi turizmus",
+                  "text": "A szécsényi Robinson Szigetek horgászatot és kikapcsolódást kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        19.475533,
+                        48.08938
+                  ]
+            },
+            {
+                  "name": "Ludányhalászi élmeny-tó",
+                  "text": "A szécsényi Ludányhalászi élmény-tó kellemes kirándulóhely a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        19.50776,
+                        48.122276
+                  ]
+            },
+            {
+                  "name": "Ludanyhalászi bánya-tó",
+                  "text": "A szécsényi Ludányhalászi bánya-tó egy csendes vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        19.506952,
+                        48.125807
+                  ]
             }
       ],
       "ro": [
@@ -60514,6 +71062,42 @@ export const hungaryCities: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szécsényi kavicsbánya-tó",
+                  "text": "Szécsényi kavicsbánya-tó este un lac aproape de natură pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        19.495244,
+                        48.093136
+                  ]
+            },
+            {
+                  "name": "Robinson Szigetek - horgász és vízi turizmus",
+                  "text": "Robinson Szigetek din Szécsény oferă pescuit și relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.475533,
+                        48.08938
+                  ]
+            },
+            {
+                  "name": "Ludányhalászi élmeny-tó",
+                  "text": "Ludányhalászi élmeny-tó este o destinație de excursie plăcută lângă Szécsény.",
+                  "category": "natural",
+                  "coords": [
+                        19.50776,
+                        48.122276
+                  ]
+            },
+            {
+                  "name": "Ludanyhalászi bánya-tó",
+                  "text": "Ludanyhalászi bánya-tó din Szécsény este un corp de apă liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.506952,
+                        48.125807
+                  ]
             }
       ],
       "en": [
@@ -60560,6 +71144,42 @@ export const hungaryCities: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szécsényi kavicsbánya-tó",
+                  "text": "The Szécsényi kavicsbánya-tó is a natural lake for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        19.495244,
+                        48.093136
+                  ]
+            },
+            {
+                  "name": "Robinson Szigetek - horgász és vízi turizmus",
+                  "text": "Robinson Szigetek in Szécsény offers fishing and relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.475533,
+                        48.08938
+                  ]
+            },
+            {
+                  "name": "Ludányhalászi élmeny-tó",
+                  "text": "The Ludányhalászi élmeny-tó is a pleasant excursion destination near Szécsény.",
+                  "category": "natural",
+                  "coords": [
+                        19.50776,
+                        48.122276
+                  ]
+            },
+            {
+                  "name": "Ludanyhalászi bánya-tó",
+                  "text": "The Ludanyhalászi bánya-tó in Szécsény is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        19.506952,
+                        48.125807
+                  ]
             }
       ]
 }
@@ -60920,6 +71540,114 @@ export const hungaryCities: POI[] = [
                         18.932748,
                         47.383657
                   ]
+            },
+            {
+                  "name": "Riminyáki-tó",
+                  "text": "Riminyáki-tó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.914383,
+                        47.395625
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó in Erd ist ein von Natur umgebener Bootsteich, ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.925797,
+                        47.317723
+                  ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "Törökbálinti-tó",
+                  "text": "Törökbálinti-tó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.895099,
+                        47.455028
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.914395,
+                        47.445759
+                  ]
+            },
+            {
+                  "name": "Dulácska alatti tározó",
+                  "text": "Dulácska alatti tározó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.895749,
+                        47.436536
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Nádas-tó",
+                  "text": "Nádas-tó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.917916,
+                        47.437302
+                  ]
+            },
+            {
+                  "name": "Tárnoki Horgásztó",
+                  "text": "Tárnoki Horgásztó ist ein Angelsee in Erd, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.850223,
+                        47.3859
+                  ]
+            },
+            {
+                  "name": "Dulácska-pusztai tározó",
+                  "text": "Dulácska-pusztai tározó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.888345,
+                        47.438542
+                  ]
+            },
+            {
+                  "name": "Töhötöm utcai játszótér",
+                  "text": "Töhötöm utcai játszótér ist ein Spielplatz in Erd, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.923775,
+                        47.386447
+                  ]
+            },
+            {
+                  "name": "Nagyjátszótér",
+                  "text": "Nagyjátszótér ist ein Spielplatz in Erd, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.925069,
+                        47.377333
+                  ]
             }
       ],
       "hu": [
@@ -61116,6 +71844,114 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.932748,
                         47.383657
+                  ]
+            },
+            {
+                  "name": "Riminyáki-tó",
+                  "text": "Riminyáki-tó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.914383,
+                        47.395625
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó egy természetközeli csónakázótó Erd területén, amely ideális a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.925797,
+                        47.317723
+                  ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "Törökbálinti-tó",
+                  "text": "Törökbálinti-tó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.895099,
+                        47.455028
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.914395,
+                        47.445759
+                  ]
+            },
+            {
+                  "name": "Dulácska alatti tározó",
+                  "text": "Dulácska alatti tározó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.895749,
+                        47.436536
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Nádas-tó",
+                  "text": "Nádas-tó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.917916,
+                        47.437302
+                  ]
+            },
+            {
+                  "name": "Tárnoki Horgásztó",
+                  "text": "Tárnoki Horgásztó egy horgásztó Erd területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.850223,
+                        47.3859
+                  ]
+            },
+            {
+                  "name": "Dulácska-pusztai tározó",
+                  "text": "Dulácska-pusztai tározó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.888345,
+                        47.438542
+                  ]
+            },
+            {
+                  "name": "Töhötöm utcai játszótér",
+                  "text": "Töhötöm utcai játszótér egy játszótér Erd területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.923775,
+                        47.386447
+                  ]
+            },
+            {
+                  "name": "Nagyjátszótér",
+                  "text": "Nagyjátszótér egy játszótér Erd területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.925069,
+                        47.377333
                   ]
             }
       ],
@@ -61314,6 +72150,114 @@ export const hungaryCities: POI[] = [
                         18.932748,
                         47.383657
                   ]
+            },
+            {
+                  "name": "Riminyáki-tó",
+                  "text": "Riminyáki-tó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.914383,
+                        47.395625
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó din Erd este un lac pentru plimbări cu barca înconjurat de natură, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.925797,
+                        47.317723
+                  ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "Törökbálinti-tó",
+                  "text": "Törökbálinti-tó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.895099,
+                        47.455028
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.914395,
+                        47.445759
+                  ]
+            },
+            {
+                  "name": "Dulácska alatti tározó",
+                  "text": "Dulácska alatti tározó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.895749,
+                        47.436536
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Nádas-tó",
+                  "text": "Nádas-tó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.917916,
+                        47.437302
+                  ]
+            },
+            {
+                  "name": "Tárnoki Horgásztó",
+                  "text": "Tárnoki Horgásztó este un lac de pescuit în Erd, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.850223,
+                        47.3859
+                  ]
+            },
+            {
+                  "name": "Dulácska-pusztai tározó",
+                  "text": "Dulácska-pusztai tározó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.888345,
+                        47.438542
+                  ]
+            },
+            {
+                  "name": "Töhötöm utcai játszótér",
+                  "text": "Töhötöm utcai játszótér este un loc de joacă în Erd, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.923775,
+                        47.386447
+                  ]
+            },
+            {
+                  "name": "Nagyjátszótér",
+                  "text": "Nagyjátszótér este un loc de joacă în Erd, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.925069,
+                        47.377333
+                  ]
             }
       ],
       "en": [
@@ -61511,6 +72455,114 @@ export const hungaryCities: POI[] = [
                         18.932748,
                         47.383657
                   ]
+            },
+            {
+                  "name": "Riminyáki-tó",
+                  "text": "Riminyáki-tó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.914383,
+                        47.395625
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó in Erd is a boating lake surrounded by nature, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.925797,
+                        47.317723
+                  ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "Törökbálinti-tó",
+                  "text": "Törökbálinti-tó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.895099,
+                        47.455028
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.914395,
+                        47.445759
+                  ]
+            },
+            {
+                  "name": "Dulácska alatti tározó",
+                  "text": "Dulácska alatti tározó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.895749,
+                        47.436536
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Nádas-tó",
+                  "text": "Nádas-tó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.917916,
+                        47.437302
+                  ]
+            },
+            {
+                  "name": "Tárnoki Horgásztó",
+                  "text": "Tárnoki Horgásztó is a fishing lake in Erd, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.850223,
+                        47.3859
+                  ]
+            },
+            {
+                  "name": "Dulácska-pusztai tározó",
+                  "text": "Dulácska-pusztai tározó is a lake located in Erd, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.888345,
+                        47.438542
+                  ]
+            },
+            {
+                  "name": "Töhötöm utcai játszótér",
+                  "text": "Töhötöm utcai játszótér is a playground in Erd, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.923775,
+                        47.386447
+                  ]
+            },
+            {
+                  "name": "Nagyjátszótér",
+                  "text": "Nagyjátszótér is a playground in Erd, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.925069,
+                        47.377333
+                  ]
             }
       ]
 }
@@ -61625,6 +72677,24 @@ export const hungaryCities: POI[] = [
                         19.788249,
                         47.153149
                   ]
+            },
+            {
+                  "name": "tüzivíz tároló",
+                  "text": "Dieser kleine See in Cegled dient als Wasserreservoirs in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.827689,
+                        47.220941
+                  ]
+            },
+            {
+                  "name": "Kresz park",
+                  "text": "Der Kresz park in Cegled bietet einen lehrreichen Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.791718,
+                        47.160828
+                  ]
             }
       ],
       "hu": [
@@ -61708,6 +72778,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.788249,
                         47.153149
+                  ]
+            },
+            {
+                  "name": "tüzivíz tároló",
+                  "text": "A ceglédi kistó a környék víztározójaként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        19.827689,
+                        47.220941
+                  ]
+            },
+            {
+                  "name": "Kresz park",
+                  "text": "A ceglédi Kresz park tanulságos játszóteret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.791718,
+                        47.160828
                   ]
             }
       ],
@@ -61793,6 +72881,24 @@ export const hungaryCities: POI[] = [
                         19.788249,
                         47.153149
                   ]
+            },
+            {
+                  "name": "tüzivíz tároló",
+                  "text": "Acest mic lac din Cegled servește ca rezervor de apă în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        19.827689,
+                        47.220941
+                  ]
+            },
+            {
+                  "name": "Kresz park",
+                  "text": "Kresz park din Cegled oferă un loc de joacă educativ pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.791718,
+                        47.160828
+                  ]
             }
       ],
       "en": [
@@ -61876,6 +72982,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.788249,
                         47.153149
+                  ]
+            },
+            {
+                  "name": "tüzivíz tároló",
+                  "text": "This small lake in Cegled serves as a water reservoir in the area.",
+                  "category": "natural",
+                  "coords": [
+                        19.827689,
+                        47.220941
+                  ]
+            },
+            {
+                  "name": "Kresz park",
+                  "text": "The Kresz park in Cegled offers an educational playground for children.",
+                  "category": "family",
+                  "coords": [
+                        19.791718,
+                        47.160828
                   ]
             }
       ]
@@ -62066,6 +73190,42 @@ export const hungaryCities: POI[] = [
                         17.661111,
                         46.783446
                   ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó ist ein See in Balatonlelle, perfekt für entspannte Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Plattensee",
+                  "text": "Lake Balaton ist ein bekannter See in Balatonlelle, beliebt zum Schwimmen und für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak sind Seen in Balatonlelle, die schöne Möglichkeiten zur Naturbeobachtung bieten.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó ist ein See in Balatonlelle, der sich für erholsame Spaziergänge am Ufer anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
             }
       ],
       "hu": [
@@ -62224,6 +73384,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.661111,
                         46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "A Füzes-tó egy tó Balatonlelle területén, tökéletes a természetben töltött pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A Balaton egy ismert tó Balatonlelle mellett, amely kedvelt fürdő- és kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "A Halastavak Balatonlelle tavai, amelyek nagyszerű lehetőséget kínálnak a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "A Bugaszegi-horgásztó egy tó Balatonlelle területén, amely kiválóan alkalmas pihentető parti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
                   ]
             }
       ],
@@ -62384,6 +73580,42 @@ export const hungaryCities: POI[] = [
                         17.661111,
                         46.783446
                   ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó este un lac în Balatonlelle, perfect pentru momente de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Lacul Balaton",
+                  "text": "Lake Balaton este un lac renumit în Balatonlelle, popular pentru înot și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak sunt lacuri în Balatonlelle, care oferă oportunități frumoase de observare a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó este un lac în Balatonlelle, potrivit pentru plimbări relaxante pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
             }
       ],
       "en": [
@@ -62542,6 +73774,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.661111,
                         46.783446
+                  ]
+            },
+            {
+                  "name": "Füzes-tó",
+                  "text": "Füzes-tó is a lake in Balatonlelle, perfect for relaxing moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.738522,
+                        46.748169
+                  ]
+            },
+            {
+                  "name": "Lake Balaton",
+                  "text": "Lake Balaton is a well-known lake in Balatonlelle, popular for swimming and walking.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Halastavak",
+                  "text": "Halastavak are lakes in Balatonlelle, offering beautiful opportunities for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        17.732799,
+                        46.779202
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó is a lake in Balatonlelle, suitable for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
                   ]
             }
       ]
@@ -62735,6 +74003,24 @@ export const hungaryCities: POI[] = [
                         17.532626,
                         46.735746
                   ]
+            },
+            {
+                  "name": "Plattensee",
+                  "text": "Lake Balaton ist ein bekannter großer See in Fonyod, der für seine schöne Landschaft und Bademöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó ist ein Angelsee in Fonyod, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
             }
       ],
       "hu": [
@@ -62896,6 +74182,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.532626,
                         46.735746
+                  ]
+            },
+            {
+                  "name": "Balaton",
+                  "text": "A Lake Balaton egy híres nagy tó Fonyod mellett, amely gyönyörű tájáról és fürdőzési lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó egy horgásztó Fonyod területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
                   ]
             }
       ],
@@ -63059,6 +74363,24 @@ export const hungaryCities: POI[] = [
                         17.532626,
                         46.735746
                   ]
+            },
+            {
+                  "name": "Lacul Balaton",
+                  "text": "Lake Balaton este un lac mare și faimos în Fonyod, cunoscut pentru peisajele sale frumoase și oportunitățile de înot.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó este un lac de pescuit în Fonyod, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
             }
       ],
       "en": [
@@ -63221,6 +74543,24 @@ export const hungaryCities: POI[] = [
                         17.532626,
                         46.735746
                   ]
+            },
+            {
+                  "name": "Lake Balaton",
+                  "text": "Lake Balaton is a famous large lake in Fonyod, known for its beautiful scenery and swimming opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        17.705925,
+                        46.88396
+                  ]
+            },
+            {
+                  "name": "Bugaszegi-horgásztó",
+                  "text": "Bugaszegi-horgásztó is a fishing lake in Fonyod, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.655225,
+                        46.752176
+                  ]
             }
       ]
 }
@@ -63376,6 +74716,33 @@ export const hungaryCities: POI[] = [
                         22.072594,
                         48.233859
                   ]
+            },
+            {
+                  "name": "Pontyos-tó",
+                  "text": "Der Pontyos-tó in Kisvarda ist ein friedlicher Angelsee.",
+                  "category": "natural",
+                  "coords": [
+                        22.070718,
+                        48.236412
+                  ]
+            },
+            {
+                  "name": "Báger-tó",
+                  "text": "Der Báger-tó in Kisvarda ist ein naturnahes Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        22.060724,
+                        48.209041
+                  ]
+            },
+            {
+                  "name": "Pacsirta utcai játszótér",
+                  "text": "Der Pacsirta utcai Spielplatz in Kisvarda ist ein schöner Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.090868,
+                        48.224316
+                  ]
             }
       ],
       "hu": [
@@ -63500,6 +74867,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         22.072594,
                         48.233859
+                  ]
+            },
+            {
+                  "name": "Pontyos-tó",
+                  "text": "A kisvárdai Pontyos-tó egy békés horgászhely.",
+                  "category": "natural",
+                  "coords": [
+                        22.070718,
+                        48.236412
+                  ]
+            },
+            {
+                  "name": "Báger-tó",
+                  "text": "A kisvárdai Báger-tó egy természetközeli vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        22.060724,
+                        48.209041
+                  ]
+            },
+            {
+                  "name": "Pacsirta utcai játszótér",
+                  "text": "A kisvárdai Pacsirta utcai játszótér egy kellemes hely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.090868,
+                        48.224316
                   ]
             }
       ],
@@ -63626,6 +75020,33 @@ export const hungaryCities: POI[] = [
                         22.072594,
                         48.233859
                   ]
+            },
+            {
+                  "name": "Pontyos-tó",
+                  "text": "Pontyos-tó din Kisvarda este un lac de pescuit liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        22.070718,
+                        48.236412
+                  ]
+            },
+            {
+                  "name": "Báger-tó",
+                  "text": "Báger-tó din Kisvarda este o întindere de apă apropiată de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.060724,
+                        48.209041
+                  ]
+            },
+            {
+                  "name": "Pacsirta utcai játszótér",
+                  "text": "Locul de joacă de pe strada Pacsirta din Kisvarda este un loc frumos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.090868,
+                        48.224316
+                  ]
             }
       ],
       "en": [
@@ -63751,6 +75172,33 @@ export const hungaryCities: POI[] = [
                         22.072594,
                         48.233859
                   ]
+            },
+            {
+                  "name": "Pontyos-tó",
+                  "text": "The Pontyos-tó in Kisvarda is a peaceful fishing lake.",
+                  "category": "natural",
+                  "coords": [
+                        22.070718,
+                        48.236412
+                  ]
+            },
+            {
+                  "name": "Báger-tó",
+                  "text": "The Báger-tó in Kisvarda is a natural body of water.",
+                  "category": "natural",
+                  "coords": [
+                        22.060724,
+                        48.209041
+                  ]
+            },
+            {
+                  "name": "Pacsirta utcai játszótér",
+                  "text": "The Pacsirta street playground in Kisvarda is a nice place for children.",
+                  "category": "family",
+                  "coords": [
+                        22.090868,
+                        48.224316
+                  ]
             }
       ]
 }
@@ -63825,6 +75273,15 @@ export const hungaryCities: POI[] = [
                         21.132446,
                         48.011577
                   ]
+            },
+            {
+                  "name": "Tökös-tó",
+                  "text": "Tökös-tó ist ein See in Tiszadada, an dem man die ruhige Naturlandschaft genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        21.159679,
+                        48.026043
+                  ]
             }
       ],
       "hu": [
@@ -63868,6 +75325,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.132446,
                         48.011577
+                  ]
+            },
+            {
+                  "name": "Tökös-tó",
+                  "text": "A Tökös-tó egy tó Tiszadada területén, ahol élvezhetjük a nyugodt természeti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        21.159679,
+                        48.026043
                   ]
             }
       ],
@@ -63913,6 +75379,15 @@ export const hungaryCities: POI[] = [
                         21.132446,
                         48.011577
                   ]
+            },
+            {
+                  "name": "Tökös-tó",
+                  "text": "Tökös-tó este un lac în Tiszadada, unde vă puteți bucura de peisajul natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        21.159679,
+                        48.026043
+                  ]
             }
       ],
       "en": [
@@ -63956,6 +75431,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.132446,
                         48.011577
+                  ]
+            },
+            {
+                  "name": "Tökös-tó",
+                  "text": "Tökös-tó is a lake in Tiszadada where you can enjoy the quiet natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.159679,
+                        48.026043
                   ]
             }
       ]
@@ -64055,6 +75539,60 @@ export const hungaryCities: POI[] = [
                         18.1292,
                         46.369598
                   ]
+            },
+            {
+                  "name": "Szállásréti-tó",
+                  "text": "Szállásréti-tó ist ein See in Dombovar, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.141253,
+                        46.381364
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó ist ein Angelsee in Dombovar, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.047189,
+                        46.381467
+                  ]
+            },
+            {
+                  "name": "Bontovai-tó",
+                  "text": "Bontovai-tó ist ein See in Dombovar, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.118116,
+                        46.390779
+                  ]
+            },
+            {
+                  "name": "Tüskei-tó",
+                  "text": "Tüskei-tó ist ein See in Dombovar, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.140386,
+                        46.403989
+                  ]
+            },
+            {
+                  "name": "Attalai tórendszer",
+                  "text": "Attalai tórendszer ist ein See in Dombovar, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.065796,
+                        46.425601
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó in Dombovar ist ein von Natur umgebener Bootsteich, ideal für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        18.170704,
+                        46.401518
+                  ]
             }
       ],
       "hu": [
@@ -64122,6 +75660,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.1292,
                         46.369598
+                  ]
+            },
+            {
+                  "name": "Szállásréti-tó",
+                  "text": "Szállásréti-tó egy tó Dombovar területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.141253,
+                        46.381364
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó egy horgásztó Dombovar területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        18.047189,
+                        46.381467
+                  ]
+            },
+            {
+                  "name": "Bontovai-tó",
+                  "text": "Bontovai-tó egy tó Dombovar területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.118116,
+                        46.390779
+                  ]
+            },
+            {
+                  "name": "Tüskei-tó",
+                  "text": "Tüskei-tó egy tó Dombovar területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.140386,
+                        46.403989
+                  ]
+            },
+            {
+                  "name": "Attalai tórendszer",
+                  "text": "Attalai tórendszer egy tó Dombovar területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.065796,
+                        46.425601
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó egy természetközeli csónakázótó Dombovar területén, amely ideális a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.170704,
+                        46.401518
                   ]
             }
       ],
@@ -64191,6 +75783,60 @@ export const hungaryCities: POI[] = [
                         18.1292,
                         46.369598
                   ]
+            },
+            {
+                  "name": "Szállásréti-tó",
+                  "text": "Szállásréti-tó este un lac situat în Dombovar, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.141253,
+                        46.381364
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó este un lac de pescuit în Dombovar, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        18.047189,
+                        46.381467
+                  ]
+            },
+            {
+                  "name": "Bontovai-tó",
+                  "text": "Bontovai-tó este un lac situat în Dombovar, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.118116,
+                        46.390779
+                  ]
+            },
+            {
+                  "name": "Tüskei-tó",
+                  "text": "Tüskei-tó este un lac situat în Dombovar, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.140386,
+                        46.403989
+                  ]
+            },
+            {
+                  "name": "Attalai tórendszer",
+                  "text": "Attalai tórendszer este un lac situat în Dombovar, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.065796,
+                        46.425601
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó din Dombovar este un lac pentru plimbări cu barca înconjurat de natură, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.170704,
+                        46.401518
+                  ]
             }
       ],
       "en": [
@@ -64258,6 +75904,60 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.1292,
                         46.369598
+                  ]
+            },
+            {
+                  "name": "Szállásréti-tó",
+                  "text": "Szállásréti-tó is a lake located in Dombovar, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.141253,
+                        46.381364
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó is a fishing lake in Dombovar, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.047189,
+                        46.381467
+                  ]
+            },
+            {
+                  "name": "Bontovai-tó",
+                  "text": "Bontovai-tó is a lake located in Dombovar, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.118116,
+                        46.390779
+                  ]
+            },
+            {
+                  "name": "Tüskei-tó",
+                  "text": "Tüskei-tó is a lake located in Dombovar, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.140386,
+                        46.403989
+                  ]
+            },
+            {
+                  "name": "Attalai tórendszer",
+                  "text": "Attalai tórendszer is a lake located in Dombovar, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.065796,
+                        46.425601
+                  ]
+            },
+            {
+                  "name": "Csónakázó-tó",
+                  "text": "Csónakázó-tó in Dombovar is a boating lake surrounded by nature, ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.170704,
+                        46.401518
                   ]
             }
       ]
@@ -64373,6 +76073,24 @@ export const hungaryCities: POI[] = [
                         18.919053,
                         46.814234
                   ]
+            },
+            {
+                  "name": "Szent László - Katolikus tó",
+                  "text": "Der Szent László tó in Dunafoeldvar ist ein schöner See in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        19.000209,
+                        46.798492
+                  ]
+            },
+            {
+                  "name": "tüzivíz tározó",
+                  "text": "Dieser kleine See in Dunafoeldvar dient als Wasserreservoir.",
+                  "category": "natural",
+                  "coords": [
+                        19.004099,
+                        46.822298
+                  ]
             }
       ],
       "hu": [
@@ -64456,6 +76174,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.919053,
                         46.814234
+                  ]
+            },
+            {
+                  "name": "Szent László - Katolikus tó",
+                  "text": "A dunaföldvári Szent László-tó egy szép tó a városban.",
+                  "category": "natural",
+                  "coords": [
+                        19.000209,
+                        46.798492
+                  ]
+            },
+            {
+                  "name": "tüzivíz tározó",
+                  "text": "A dunaföldvári kis tó víztározóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        19.004099,
+                        46.822298
                   ]
             }
       ],
@@ -64541,6 +76277,24 @@ export const hungaryCities: POI[] = [
                         18.919053,
                         46.814234
                   ]
+            },
+            {
+                  "name": "Szent László - Katolikus tó",
+                  "text": "Szent László-tó din Dunafoeldvar este un lac frumos în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        19.000209,
+                        46.798492
+                  ]
+            },
+            {
+                  "name": "tüzivíz tározó",
+                  "text": "Acest mic lac din Dunafoeldvar servește ca rezervor de apă.",
+                  "category": "natural",
+                  "coords": [
+                        19.004099,
+                        46.822298
+                  ]
             }
       ],
       "en": [
@@ -64624,6 +76378,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.919053,
                         46.814234
+                  ]
+            },
+            {
+                  "name": "Szent László - Katolikus tó",
+                  "text": "The Szent László-tó in Dunafoeldvar is a beautiful lake in the city.",
+                  "category": "natural",
+                  "coords": [
+                        19.000209,
+                        46.798492
+                  ]
+            },
+            {
+                  "name": "tüzivíz tározó",
+                  "text": "This small lake in Dunafoeldvar serves as a water reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        19.004099,
+                        46.822298
                   ]
             }
       ]
@@ -64759,6 +76531,42 @@ export const hungaryCities: POI[] = [
                         16.754154,
                         47.379746
                   ]
+            },
+            {
+                  "name": "Csepregi horgásztó",
+                  "text": "Csepregi horgásztó ist ein See in Buek, ideal für einen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        16.679396,
+                        47.400078
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó ist ein malerischer See in Buek, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.674683,
+                        47.403202
+                  ]
+            },
+            {
+                  "name": "Játszókert",
+                  "text": "Játszókert ist ein schöner Spielplatz in Buek, ideal für Ausflüge mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.750321,
+                        47.382867
+                  ]
+            },
+            {
+                  "name": "Toboz Ottó vizes játszótere",
+                  "text": "Water playground ist ein Spielplatz in Buek, der Wasserspaß für Kinder und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.782435,
+                        47.380184
+                  ]
             }
       ],
       "hu": [
@@ -64862,6 +76670,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.754154,
                         47.379746
+                  ]
+            },
+            {
+                  "name": "Csepregi horgásztó",
+                  "text": "A Csepregi horgásztó egy tó Bük területén, ideális egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.679396,
+                        47.400078
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A Horgásztó egy festői tó Bük területén, amely természetközeli kikapcsolódásra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        16.674683,
+                        47.403202
+                  ]
+            },
+            {
+                  "name": "Játszókert",
+                  "text": "A Játszókert egy szép játszótér Bük városában, ideális családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.750321,
+                        47.382867
+                  ]
+            },
+            {
+                  "name": "Toboz Ottó vizes játszótere",
+                  "text": "A Water playground egy vízi játszótér Bük területén, amely szórakozást nyújt a gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.782435,
+                        47.380184
                   ]
             }
       ],
@@ -64967,6 +76811,42 @@ export const hungaryCities: POI[] = [
                         16.754154,
                         47.379746
                   ]
+            },
+            {
+                  "name": "Csepregi horgásztó",
+                  "text": "Csepregi horgásztó este un lac în Buek, ideal pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.679396,
+                        47.400078
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó este un lac pitoresc în Buek, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.674683,
+                        47.403202
+                  ]
+            },
+            {
+                  "name": "Játszókert",
+                  "text": "Játszókert este un loc de joacă frumos în Buek, ideal pentru excursii în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.750321,
+                        47.382867
+                  ]
+            },
+            {
+                  "name": "Toboz Ottó vizes játszótere",
+                  "text": "Water playground este un loc de joacă în Buek, oferind distracție cu apă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        16.782435,
+                        47.380184
+                  ]
             }
       ],
       "en": [
@@ -65070,6 +76950,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.754154,
                         47.379746
+                  ]
+            },
+            {
+                  "name": "Csepregi horgásztó",
+                  "text": "Csepregi horgásztó is a lake in Buek, ideal for an outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        16.679396,
+                        47.400078
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó is a scenic lake in Buek, inviting you to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.674683,
+                        47.403202
+                  ]
+            },
+            {
+                  "name": "Játszókert",
+                  "text": "Játszókert is a beautiful playground in Buek, ideal for family outings.",
+                  "category": "family",
+                  "coords": [
+                        16.750321,
+                        47.382867
+                  ]
+            },
+            {
+                  "name": "Water playground",
+                  "text": "Water playground is a playground in Buek offering water fun for children and families.",
+                  "category": "family",
+                  "coords": [
+                        16.782435,
+                        47.380184
                   ]
             }
       ]
@@ -65181,6 +77097,15 @@ export const hungaryCities: POI[] = [
                         16.401937,
                         46.848398
                   ]
+            },
+            {
+                  "name": "Bajánsenyei-tó",
+                  "text": "Bajánsenyei-tó ist ein See in Oriszentpeter, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.371594,
+                        46.80195
+                  ]
             }
       ],
       "hu": [
@@ -65260,6 +77185,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.401937,
                         46.848398
+                  ]
+            },
+            {
+                  "name": "Bajánsenyei-tó",
+                  "text": "Bajánsenyei-tó egy tó Oriszentpeter területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.371594,
+                        46.80195
                   ]
             }
       ],
@@ -65341,6 +77275,15 @@ export const hungaryCities: POI[] = [
                         16.401937,
                         46.848398
                   ]
+            },
+            {
+                  "name": "Bajánsenyei-tó",
+                  "text": "Bajánsenyei-tó este un lac situat în Oriszentpeter, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.371594,
+                        46.80195
+                  ]
             }
       ],
       "en": [
@@ -65420,6 +77363,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.401937,
                         46.848398
+                  ]
+            },
+            {
+                  "name": "Bajánsenyei-tó",
+                  "text": "Bajánsenyei-tó is a lake located in Oriszentpeter, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.371594,
+                        46.80195
                   ]
             }
       ]
@@ -65632,6 +77584,78 @@ export const hungaryCities: POI[] = [
                         17.462505,
                         47.336018
                   ]
+            },
+            {
+                  "name": "Bányagödör",
+                  "text": "Die Bányagödör in Papa ist ein lokales Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        17.48571,
+                        47.341324
+                  ]
+            },
+            {
+                  "name": "Strandi-tó",
+                  "text": "Der Strandi-tó in Papa ist ein beliebter Badesee.",
+                  "category": "natural",
+                  "coords": [
+                        17.422235,
+                        47.311904
+                  ]
+            },
+            {
+                  "name": "Nórápi halastó",
+                  "text": "Der Nórápi halastó in Papa ist ein schöner Angelplatz.",
+                  "category": "natural",
+                  "coords": [
+                        17.465902,
+                        47.277549
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "Der Malom-See in Papa bietet eine idyllische Kulisse.",
+                  "category": "natural",
+                  "coords": [
+                        17.504525,
+                        47.299579
+                  ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "Der Feneketlen-tó in Papa ist ein natürlicher See, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        17.518905,
+                        47.281519
+                  ]
+            },
+            {
+                  "name": "Örvény-tó",
+                  "text": "Der Örvény-tó in Papa ist ein ruhiger See, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.518556,
+                        47.282497
+                  ]
+            },
+            {
+                  "name": "Templom-tó",
+                  "text": "Der Templom-tó in Papa ist ein schöner See für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        17.520353,
+                        47.281113
+                  ]
+            },
+            {
+                  "name": "Aegon játszótér",
+                  "text": "Der Aegon Spielplatz in Papa bietet Kindern viel Spaß beim Spielen.",
+                  "category": "family",
+                  "coords": [
+                        17.479219,
+                        47.31619
+                  ]
             }
       ],
       "hu": [
@@ -65812,6 +77836,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.462505,
                         47.336018
+                  ]
+            },
+            {
+                  "name": "Bányagödör",
+                  "text": "A pápai Bányagödör egy helyi vízterület.",
+                  "category": "natural",
+                  "coords": [
+                        17.48571,
+                        47.341324
+                  ]
+            },
+            {
+                  "name": "Strandi-tó",
+                  "text": "A pápai Strandi-tó egy kedvelt fürdőzésre alkalmas tó.",
+                  "category": "natural",
+                  "coords": [
+                        17.422235,
+                        47.311904
+                  ]
+            },
+            {
+                  "name": "Nórápi halastó",
+                  "text": "A pápai Nórápi halastó egy szép horgászhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.465902,
+                        47.277549
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "A pápai Malom-tó idilli környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.504525,
+                        47.299579
+                  ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "A pápai Feneketlen-tó egy természetes állóvíz, ideális helyszín egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.518905,
+                        47.281519
+                  ]
+            },
+            {
+                  "name": "Örvény-tó",
+                  "text": "Az Örvény-tó Pápán egy csendes állóvíz, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        17.518556,
+                        47.282497
+                  ]
+            },
+            {
+                  "name": "Templom-tó",
+                  "text": "A pápai Templom-tó egy szép tó a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        17.520353,
+                        47.281113
+                  ]
+            },
+            {
+                  "name": "Aegon játszótér",
+                  "text": "Az Aegon játszótér Pápán sok örömet nyújt a gyerekeknek a játékban.",
+                  "category": "family",
+                  "coords": [
+                        17.479219,
+                        47.31619
                   ]
             }
       ],
@@ -65994,6 +78090,78 @@ export const hungaryCities: POI[] = [
                         17.462505,
                         47.336018
                   ]
+            },
+            {
+                  "name": "Bányagödör",
+                  "text": "Bányagödör din Papa este un corp de apă local.",
+                  "category": "natural",
+                  "coords": [
+                        17.48571,
+                        47.341324
+                  ]
+            },
+            {
+                  "name": "Strandi-tó",
+                  "text": "Strandi-tó din Papa este un lac popular pentru înot.",
+                  "category": "natural",
+                  "coords": [
+                        17.422235,
+                        47.311904
+                  ]
+            },
+            {
+                  "name": "Nórápi halastó",
+                  "text": "Nórápi halastó din Papa este un loc frumos pentru pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        17.465902,
+                        47.277549
+                  ]
+            },
+            {
+                  "name": "Malom-tó",
+                  "text": "Malom-tó din Papa oferă un decor idilic.",
+                  "category": "natural",
+                  "coords": [
+                        17.504525,
+                        47.299579
+                  ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "Feneketlen-tó din Papa este un lac natural, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.518905,
+                        47.281519
+                  ]
+            },
+            {
+                  "name": "Örvény-tó",
+                  "text": "Örvény-tó din Papa este un lac liniștit, perfect pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.518556,
+                        47.282497
+                  ]
+            },
+            {
+                  "name": "Templom-tó",
+                  "text": "Templom-tó din Papa este un lac frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.520353,
+                        47.281113
+                  ]
+            },
+            {
+                  "name": "Aegon játszótér",
+                  "text": "Locul de joacă Aegon din Papa oferă multă distracție copiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.479219,
+                        47.31619
+                  ]
             }
       ],
       "en": [
@@ -66174,6 +78342,78 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.462505,
                         47.336018
+                  ]
+            },
+            {
+                  "name": "Bányagödör",
+                  "text": "The Bányagödör in Papa is a local body of water.",
+                  "category": "natural",
+                  "coords": [
+                        17.48571,
+                        47.341324
+                  ]
+            },
+            {
+                  "name": "Strandi-tó",
+                  "text": "The Strandi-tó in Papa is a popular swimming lake.",
+                  "category": "natural",
+                  "coords": [
+                        17.422235,
+                        47.311904
+                  ]
+            },
+            {
+                  "name": "Nórápi halastó",
+                  "text": "The Nórápi halastó in Papa is a beautiful fishing spot.",
+                  "category": "natural",
+                  "coords": [
+                        17.465902,
+                        47.277549
+                  ]
+            },
+            {
+                  "name": "Malom Lake",
+                  "text": "The Malom-tó in Papa offers an idyllic setting.",
+                  "category": "natural",
+                  "coords": [
+                        17.504525,
+                        47.299579
+                  ]
+            },
+            {
+                  "name": "Feneketlen-tó",
+                  "text": "Feneketlen-tó in Papa is a natural lake, ideal for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.518905,
+                        47.281519
+                  ]
+            },
+            {
+                  "name": "Örvény-tó",
+                  "text": "Örvény-tó in Papa is a quiet lake, perfect for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        17.518556,
+                        47.282497
+                  ]
+            },
+            {
+                  "name": "Templom-tó",
+                  "text": "Templom-tó in Papa is a beautiful lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        17.520353,
+                        47.281113
+                  ]
+            },
+            {
+                  "name": "Aegon játszótér",
+                  "text": "The Aegon playground in Papa offers plenty of fun for children.",
+                  "category": "family",
+                  "coords": [
+                        17.479219,
+                        47.31619
                   ]
             }
       ]
@@ -67021,6 +79261,33 @@ export const hungaryCities: POI[] = [
                         17.122504,
                         46.555387
                   ]
+            },
+            {
+                  "name": "Csibiti-tó",
+                  "text": "Csibiti-tó ist ein See in Zalakaros, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.023417,
+                        46.571121
+                  ]
+            },
+            {
+                  "name": "Hídvégi-tó",
+                  "text": "Hídvégi-tó ist ein See in Zalakaros, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.146807,
+                        46.625228
+                  ]
+            },
+            {
+                  "name": "Galamboki-horgásztó",
+                  "text": "Galamboki-horgásztó ist ein Angelsee in Zalakaros, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.109021,
+                        46.520375
+                  ]
             }
       ],
       "hu": [
@@ -67122,6 +79389,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.122504,
                         46.555387
+                  ]
+            },
+            {
+                  "name": "Csibiti-tó",
+                  "text": "Csibiti-tó egy tó Zalakaros területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.023417,
+                        46.571121
+                  ]
+            },
+            {
+                  "name": "Hídvégi-tó",
+                  "text": "Hídvégi-tó egy tó Zalakaros területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.146807,
+                        46.625228
+                  ]
+            },
+            {
+                  "name": "Galamboki-horgásztó",
+                  "text": "Galamboki-horgásztó egy horgásztó Zalakaros területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
+                  "category": "natural",
+                  "coords": [
+                        17.109021,
+                        46.520375
                   ]
             }
       ],
@@ -67225,6 +79519,33 @@ export const hungaryCities: POI[] = [
                         17.122504,
                         46.555387
                   ]
+            },
+            {
+                  "name": "Csibiti-tó",
+                  "text": "Csibiti-tó este un lac situat în Zalakaros, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.023417,
+                        46.571121
+                  ]
+            },
+            {
+                  "name": "Hídvégi-tó",
+                  "text": "Hídvégi-tó este un lac situat în Zalakaros, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.146807,
+                        46.625228
+                  ]
+            },
+            {
+                  "name": "Galamboki-horgásztó",
+                  "text": "Galamboki-horgásztó este un lac de pescuit în Zalakaros, oferind un cadru liniștit pentru pescari și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        17.109021,
+                        46.520375
+                  ]
             }
       ],
       "en": [
@@ -67326,6 +79647,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.122504,
                         46.555387
+                  ]
+            },
+            {
+                  "name": "Csibiti-tó",
+                  "text": "Csibiti-tó is a lake located in Zalakaros, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.023417,
+                        46.571121
+                  ]
+            },
+            {
+                  "name": "Hídvégi-tó",
+                  "text": "Hídvégi-tó is a lake located in Zalakaros, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.146807,
+                        46.625228
+                  ]
+            },
+            {
+                  "name": "Galamboki-horgásztó",
+                  "text": "Galamboki-horgásztó is a fishing lake in Zalakaros, providing a peaceful setting for anglers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.109021,
+                        46.520375
                   ]
             }
       ]
@@ -70589,6 +82937,87 @@ export const hungaryCities: POI[] = [
                         20.636897,
                         48.253841
                   ]
+            },
+            {
+                  "name": "Herbolyai bányató I.",
+                  "text": "Herbolyai bányató I. ist ein See in Kazincbarcika, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.599228,
+                        48.230619
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató II.",
+                  "text": "Herbolyai bányató II. ist ein See in Kazincbarcika, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.597536,
+                        48.228177
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér",
+                  "text": "Kertvárosi játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.610669,
+                        48.237406
+                  ]
+            },
+            {
+                  "name": "Derkovits téri játszótér",
+                  "text": "Derkovits téri játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.618128,
+                        48.244465
+                  ]
+            },
+            {
+                  "name": "Radnóti téri játszótér",
+                  "text": "Radnóti téri játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.624608,
+                        48.256804
+                  ]
+            },
+            {
+                  "name": "Völgyparki játszótér",
+                  "text": "Völgyparki játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.618393,
+                        48.250795
+                  ]
+            },
+            {
+                  "name": "Csokonai téri játszótér",
+                  "text": "Csokonai téri játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.627923,
+                        48.254976
+                  ]
+            },
+            {
+                  "name": "Barátság téri játszótér",
+                  "text": "Barátság téri játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.623054,
+                        48.248902
+                  ]
+            },
+            {
+                  "name": "Móricz Zsigmond téri játszótér",
+                  "text": "Móricz Zsigmond téri játszótér ist ein Spielplatz in Kazincbarcika, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.623493,
+                        48.255732
+                  ]
             }
       ],
       "hu": [
@@ -70682,6 +83111,87 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.636897,
                         48.253841
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató I.",
+                  "text": "Herbolyai bányató I. egy tó Kazincbarcika területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.599228,
+                        48.230619
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató II.",
+                  "text": "Herbolyai bányató II. egy tó Kazincbarcika területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.597536,
+                        48.228177
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér",
+                  "text": "Kertvárosi játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.610669,
+                        48.237406
+                  ]
+            },
+            {
+                  "name": "Derkovits téri játszótér",
+                  "text": "Derkovits téri játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.618128,
+                        48.244465
+                  ]
+            },
+            {
+                  "name": "Radnóti téri játszótér",
+                  "text": "Radnóti téri játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.624608,
+                        48.256804
+                  ]
+            },
+            {
+                  "name": "Völgyparki játszótér",
+                  "text": "Völgyparki játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.618393,
+                        48.250795
+                  ]
+            },
+            {
+                  "name": "Csokonai téri játszótér",
+                  "text": "Csokonai téri játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.627923,
+                        48.254976
+                  ]
+            },
+            {
+                  "name": "Barátság téri játszótér",
+                  "text": "Barátság téri játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.623054,
+                        48.248902
+                  ]
+            },
+            {
+                  "name": "Móricz Zsigmond téri játszótér",
+                  "text": "Móricz Zsigmond téri játszótér egy játszótér Kazincbarcika területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        20.623493,
+                        48.255732
                   ]
             }
       ],
@@ -70777,6 +83287,87 @@ export const hungaryCities: POI[] = [
                         20.636897,
                         48.253841
                   ]
+            },
+            {
+                  "name": "Herbolyai bányató I.",
+                  "text": "Herbolyai bányató I. este un lac situat în Kazincbarcika, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.599228,
+                        48.230619
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató II.",
+                  "text": "Herbolyai bányató II. este un lac situat în Kazincbarcika, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.597536,
+                        48.228177
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér",
+                  "text": "Kertvárosi játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.610669,
+                        48.237406
+                  ]
+            },
+            {
+                  "name": "Derkovits téri játszótér",
+                  "text": "Derkovits téri játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.618128,
+                        48.244465
+                  ]
+            },
+            {
+                  "name": "Radnóti téri játszótér",
+                  "text": "Radnóti téri játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.624608,
+                        48.256804
+                  ]
+            },
+            {
+                  "name": "Völgyparki játszótér",
+                  "text": "Völgyparki játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.618393,
+                        48.250795
+                  ]
+            },
+            {
+                  "name": "Csokonai téri játszótér",
+                  "text": "Csokonai téri játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.627923,
+                        48.254976
+                  ]
+            },
+            {
+                  "name": "Barátság téri játszótér",
+                  "text": "Barátság téri játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.623054,
+                        48.248902
+                  ]
+            },
+            {
+                  "name": "Móricz Zsigmond téri játszótér",
+                  "text": "Móricz Zsigmond téri játszótér este un loc de joacă în Kazincbarcika, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        20.623493,
+                        48.255732
+                  ]
             }
       ],
       "en": [
@@ -70870,6 +83461,87 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.636897,
                         48.253841
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató I.",
+                  "text": "Herbolyai bányató I. is a lake located in Kazincbarcika, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.599228,
+                        48.230619
+                  ]
+            },
+            {
+                  "name": "Herbolyai bányató II.",
+                  "text": "Herbolyai bányató II. is a lake located in Kazincbarcika, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        20.597536,
+                        48.228177
+                  ]
+            },
+            {
+                  "name": "Kertvárosi játszótér",
+                  "text": "Kertvárosi játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.610669,
+                        48.237406
+                  ]
+            },
+            {
+                  "name": "Derkovits téri játszótér",
+                  "text": "Derkovits téri játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.618128,
+                        48.244465
+                  ]
+            },
+            {
+                  "name": "Radnóti téri játszótér",
+                  "text": "Radnóti téri játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.624608,
+                        48.256804
+                  ]
+            },
+            {
+                  "name": "Völgyparki játszótér",
+                  "text": "Völgyparki játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.618393,
+                        48.250795
+                  ]
+            },
+            {
+                  "name": "Csokonai téri játszótér",
+                  "text": "Csokonai téri játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.627923,
+                        48.254976
+                  ]
+            },
+            {
+                  "name": "Barátság téri játszótér",
+                  "text": "Barátság téri játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.623054,
+                        48.248902
+                  ]
+            },
+            {
+                  "name": "Móricz Zsigmond téri játszótér",
+                  "text": "Móricz Zsigmond téri játszótér is a playground in Kazincbarcika, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        20.623493,
+                        48.255732
                   ]
             }
       ]
@@ -72287,6 +84959,15 @@ export const hungaryCities: POI[] = [
                         20.573859,
                         47.811097
                   ]
+            },
+            {
+                  "name": "Hoór-völgye víztározó",
+                  "text": "Der Hoór-völgye Stausee bei Mezokoevesd ist ein friedlicher Ort zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        20.546913,
+                        47.850279
+                  ]
             }
       ],
       "hu": [
@@ -72380,6 +85061,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.573859,
                         47.811097
+                  ]
+            },
+            {
+                  "name": "Hoór-völgye víztározó",
+                  "text": "A mezőkövesdi Hoór-völgye víztározó egy békés hely a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        20.546913,
+                        47.850279
                   ]
             }
       ],
@@ -72475,6 +85165,15 @@ export const hungaryCities: POI[] = [
                         20.573859,
                         47.811097
                   ]
+            },
+            {
+                  "name": "Hoór-völgye víztározó",
+                  "text": "Lacul de acumulare Hoór-völgye de lângă Mezokoevesd este un loc liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        20.546913,
+                        47.850279
+                  ]
             }
       ],
       "en": [
@@ -72568,6 +85267,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.573859,
                         47.811097
+                  ]
+            },
+            {
+                  "name": "Hoór-völgye víztározó",
+                  "text": "The Hoór-völgye reservoir near Mezokoevesd is a peaceful place to stay.",
+                  "category": "natural",
+                  "coords": [
+                        20.546913,
+                        47.850279
                   ]
             }
       ]
@@ -72840,6 +85548,15 @@ export const hungaryCities: POI[] = [
                         19.124923,
                         46.398399
                   ]
+            },
+            {
+                  "name": "Hildi halastavak",
+                  "text": "Hildi halastavak sind Seen in Hajos, die sich für ruhige Naturspaziergänge eignen.",
+                  "category": "natural",
+                  "coords": [
+                        19.094133,
+                        46.355163
+                  ]
             }
       ],
       "hu": [
@@ -72903,6 +85620,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.124923,
                         46.398399
+                  ]
+            },
+            {
+                  "name": "Hildi halastavak",
+                  "text": "A Hildi halastavak Hajós területén találhatók, és csendes természetjáráshoz megfelelőek.",
+                  "category": "natural",
+                  "coords": [
+                        19.094133,
+                        46.355163
                   ]
             }
       ],
@@ -72968,6 +85694,15 @@ export const hungaryCities: POI[] = [
                         19.124923,
                         46.398399
                   ]
+            },
+            {
+                  "name": "Hildi halastavak",
+                  "text": "Hildi halastavak sunt lacuri în Hajos, potrivite pentru plimbări liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        19.094133,
+                        46.355163
+                  ]
             }
       ],
       "en": [
@@ -73031,6 +85766,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.124923,
                         46.398399
+                  ]
+            },
+            {
+                  "name": "Hildi halastavak",
+                  "text": "Hildi halastavak are lakes in Hajos suitable for quiet nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        19.094133,
+                        46.355163
                   ]
             }
       ]
@@ -73670,6 +86414,33 @@ export const hungaryCities: POI[] = [
                         16.549306,
                         46.624836
                   ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Der Horgásztó in Lenti ist ein schöner Angelsee in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.464853,
+                        46.635919
+                  ]
+            },
+            {
+                  "name": "Lendvadedesi-víztározó",
+                  "text": "Der Lendvadedesi-víztározó in Lenti ist ein ruhiger Stausee.",
+                  "category": "natural",
+                  "coords": [
+                        16.512127,
+                        46.586891
+                  ]
+            },
+            {
+                  "name": "KERKALAND",
+                  "text": "KERKALAND in Lenti ist ein toller Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.53627,
+                        46.619629
+                  ]
             }
       ],
       "hu": [
@@ -73751,6 +86522,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.549306,
                         46.624836
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A lenti Horgásztó egy szép horgásztó a természet ölelésében.",
+                  "category": "natural",
+                  "coords": [
+                        16.464853,
+                        46.635919
+                  ]
+            },
+            {
+                  "name": "Lendvadedesi-víztározó",
+                  "text": "A lenti Lendvadedesi-víztározó egy csendes víztározó.",
+                  "category": "natural",
+                  "coords": [
+                        16.512127,
+                        46.586891
+                  ]
+            },
+            {
+                  "name": "KERKALAND",
+                  "text": "A lenti KERKALAND egy remek játszótér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        16.53627,
+                        46.619629
                   ]
             }
       ],
@@ -73834,6 +86632,33 @@ export const hungaryCities: POI[] = [
                         16.549306,
                         46.624836
                   ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó din Lenti este un lac de pescuit frumos în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.464853,
+                        46.635919
+                  ]
+            },
+            {
+                  "name": "Lendvadedesi-víztározó",
+                  "text": "Lendvadedesi-víztározó din Lenti este un lac de acumulare liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.512127,
+                        46.586891
+                  ]
+            },
+            {
+                  "name": "KERKALAND",
+                  "text": "KERKALAND din Lenti este un loc de joacă minunat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.53627,
+                        46.619629
+                  ]
             }
       ],
       "en": [
@@ -73916,6 +86741,33 @@ export const hungaryCities: POI[] = [
                         16.549306,
                         46.624836
                   ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó in Lenti is a beautiful fishing lake in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.464853,
+                        46.635919
+                  ]
+            },
+            {
+                  "name": "Lendvadedesi-víztározó",
+                  "text": "Lendvadedesi-víztározó in Lenti is a quiet reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        16.512127,
+                        46.586891
+                  ]
+            },
+            {
+                  "name": "KERKALAND",
+                  "text": "KERKALAND in Lenti is a great playground for families.",
+                  "category": "family",
+                  "coords": [
+                        16.53627,
+                        46.619629
+                  ]
             }
       ]
 }
@@ -73988,6 +86840,33 @@ export const hungaryCities: POI[] = [
                         20.907659,
                         47.320623
                   ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Halastó ist ein See in Karcag, der eine friedliche Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.870051,
+                        47.265013
+                  ]
+            },
+            {
+                  "name": "Rendőrségi Játszótér",
+                  "text": "Rendőrségi Játszótér ist ein gut ausgestatteter Spielplatz für Familien in Karcag.",
+                  "category": "family",
+                  "coords": [
+                        20.923119,
+                        47.317319
+                  ]
+            },
+            {
+                  "name": "Lomkoronasétány játszótér",
+                  "text": "Lomkoronasétány játszótér ist ein spannender Spielplatz in Karcag, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        20.901847,
+                        47.316963
+                  ]
             }
       ],
       "hu": [
@@ -74029,6 +86908,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.907659,
                         47.320623
+                  ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "A Halastó egy tó Karcag területén, amely békés környezetet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        20.870051,
+                        47.265013
+                  ]
+            },
+            {
+                  "name": "Rendőrségi Játszótér",
+                  "text": "A Rendőrségi Játszótér egy jól felszerelt, családbarát játszótér Karcag városában.",
+                  "category": "family",
+                  "coords": [
+                        20.923119,
+                        47.317319
+                  ]
+            },
+            {
+                  "name": "Lomkoronasétány játszótér",
+                  "text": "A Lomkoronasétány játszótér egy izgalmas játszótér Karcag területén, amely sok örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.901847,
+                        47.316963
                   ]
             }
       ],
@@ -74072,6 +86978,33 @@ export const hungaryCities: POI[] = [
                         20.907659,
                         47.320623
                   ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Halastó este un lac în Karcag, oferind un mediu pașnic pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.870051,
+                        47.265013
+                  ]
+            },
+            {
+                  "name": "Rendőrségi Játszótér",
+                  "text": "Rendőrségi Játszótér este un loc de joacă bine echipat pentru familii în Karcag.",
+                  "category": "family",
+                  "coords": [
+                        20.923119,
+                        47.317319
+                  ]
+            },
+            {
+                  "name": "Lomkoronasétány játszótér",
+                  "text": "Lomkoronasétány játszótér este un loc de joacă captivant în Karcag, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        20.901847,
+                        47.316963
+                  ]
             }
       ],
       "en": [
@@ -74113,6 +87046,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.907659,
                         47.320623
+                  ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Halastó is a lake in Karcag, offering a peaceful environment for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.870051,
+                        47.265013
+                  ]
+            },
+            {
+                  "name": "Rendőrségi Játszótér",
+                  "text": "Rendőrségi Játszótér is a well-equipped family playground in Karcag.",
+                  "category": "family",
+                  "coords": [
+                        20.923119,
+                        47.317319
+                  ]
+            },
+            {
+                  "name": "Lomkoronasétány játszótér",
+                  "text": "Lomkoronasétány játszótér is an exciting playground in Karcag that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        20.901847,
+                        47.316963
                   ]
             }
       ]
@@ -74615,6 +87575,33 @@ export const hungaryCities: POI[] = [
                         21.036717,
                         47.935778
                   ]
+            },
+            {
+                  "name": "Városi dísztó",
+                  "text": "Der Városi dísztó in Tiszaujvaros ist ein malerischer See im Stadtgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        21.036545,
+                        47.933087
+                  ]
+            },
+            {
+                  "name": "Sajószögedi-tó",
+                  "text": "Der Sajószögedi-tó bei Tiszaujvaros ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        20.987814,
+                        47.950326
+                  ]
+            },
+            {
+                  "name": "Fajátszó",
+                  "text": "Fajátszó in Tiszaujvaros ist ein schöner Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.03309,
+                        47.933635
+                  ]
             }
       ],
       "hu": [
@@ -74727,6 +87714,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.036717,
                         47.935778
+                  ]
+            },
+            {
+                  "name": "Városi dísztó",
+                  "text": "A tiszaujvárosi Városi dísztó egy festői tó a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.036545,
+                        47.933087
+                  ]
+            },
+            {
+                  "name": "Sajószögedi-tó",
+                  "text": "A tiszaujvárosi Sajószögedi-tó egy idilli állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        20.987814,
+                        47.950326
+                  ]
+            },
+            {
+                  "name": "Fajátszó",
+                  "text": "A tiszaujvárosi Fajátszó egy kellemes játszótér a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.03309,
+                        47.933635
                   ]
             }
       ],
@@ -74841,6 +87855,33 @@ export const hungaryCities: POI[] = [
                         21.036717,
                         47.935778
                   ]
+            },
+            {
+                  "name": "Városi dísztó",
+                  "text": "Városi dísztó din Tiszaujvaros este un lac pitoresc în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        21.036545,
+                        47.933087
+                  ]
+            },
+            {
+                  "name": "Sajószögedi-tó",
+                  "text": "Sajószögedi-tó de lângă Tiszaujvaros este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        20.987814,
+                        47.950326
+                  ]
+            },
+            {
+                  "name": "Fajátszó",
+                  "text": "Fajátszó din Tiszaujvaros este un loc de joacă plăcut pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.03309,
+                        47.933635
+                  ]
             }
       ],
       "en": [
@@ -74953,6 +87994,33 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.036717,
                         47.935778
+                  ]
+            },
+            {
+                  "name": "Városi dísztó",
+                  "text": "Városi dísztó in Tiszaujvaros is a picturesque lake in the city.",
+                  "category": "natural",
+                  "coords": [
+                        21.036545,
+                        47.933087
+                  ]
+            },
+            {
+                  "name": "Sajószögedi-tó",
+                  "text": "Sajószögedi-tó near Tiszaujvaros is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        20.987814,
+                        47.950326
+                  ]
+            },
+            {
+                  "name": "Fajátszó",
+                  "text": "Fajátszó in Tiszaujvaros is a nice playground for children.",
+                  "category": "family",
+                  "coords": [
+                        21.03309,
+                        47.933635
                   ]
             }
       ]
@@ -75123,6 +88191,42 @@ export const hungaryCities: POI[] = [
                         18.27023,
                         46.188585
                   ]
+            },
+            {
+                  "name": "Ciszterna",
+                  "text": "Ciszterna ist ein kleines Gewässer in Komlo, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.365658,
+                        46.191391
+                  ]
+            },
+            {
+                  "name": "Medence",
+                  "text": "Medence ist ein Gewässer in Komlo, das sich gut in die umgebende Natur einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        18.310829,
+                        46.127784
+                  ]
+            },
+            {
+                  "name": "Völgységi-patak",
+                  "text": "Völgységi-patak ist ein Gewässer in Komlo, ideal für Spaziergänge entlang des Wassers.",
+                  "category": "natural",
+                  "coords": [
+                        18.301738,
+                        46.201134
+                  ]
+            },
+            {
+                  "name": "25-ös tó",
+                  "text": "25-ös tó ist ein See in Komlo, der schöne Ausblicke für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.292403,
+                        46.136646
+                  ]
             }
       ],
       "hu": [
@@ -75261,6 +88365,42 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.27023,
                         46.188585
+                  ]
+            },
+            {
+                  "name": "Ciszterna",
+                  "text": "A Ciszterna egy kis tó Komló területén, szép tájjal övezve.",
+                  "category": "natural",
+                  "coords": [
+                        18.365658,
+                        46.191391
+                  ]
+            },
+            {
+                  "name": "Medence",
+                  "text": "A Medence egy vízfelület Komló területén, amely jól illeszkedik a környező természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.310829,
+                        46.127784
+                  ]
+            },
+            {
+                  "name": "Völgységi-patak",
+                  "text": "A Völgységi-patak egy vízfolyás Komló területén, ideális a part menti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.301738,
+                        46.201134
+                  ]
+            },
+            {
+                  "name": "25-ös tó",
+                  "text": "A 25-ös tó egy tó Komló területén, amely szép kilátást nyújt a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.292403,
+                        46.136646
                   ]
             }
       ],
@@ -75401,6 +88541,42 @@ export const hungaryCities: POI[] = [
                         18.27023,
                         46.188585
                   ]
+            },
+            {
+                  "name": "Ciszterna",
+                  "text": "Ciszterna este un mic lac în Komlo, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        18.365658,
+                        46.191391
+                  ]
+            },
+            {
+                  "name": "Medence",
+                  "text": "Medence este un lac în Komlo, care se integrează bine în natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        18.310829,
+                        46.127784
+                  ]
+            },
+            {
+                  "name": "Völgységi-patak",
+                  "text": "Völgységi-patak este o apă în Komlo, ideală pentru plimbări de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.301738,
+                        46.201134
+                  ]
+            },
+            {
+                  "name": "25-ös tó",
+                  "text": "25-ös tó este un lac în Komlo, care oferă priveliști frumoase pentru pietoni.",
+                  "category": "natural",
+                  "coords": [
+                        18.292403,
+                        46.136646
+                  ]
             }
       ],
       "en": [
@@ -75540,6 +88716,42 @@ export const hungaryCities: POI[] = [
                         18.27023,
                         46.188585
                   ]
+            },
+            {
+                  "name": "Ciszterna",
+                  "text": "Ciszterna is a small lake in Komlo, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.365658,
+                        46.191391
+                  ]
+            },
+            {
+                  "name": "Medence",
+                  "text": "Medence is a body of water in Komlo that blends well into the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.310829,
+                        46.127784
+                  ]
+            },
+            {
+                  "name": "Völgységi-patak",
+                  "text": "Völgységi-patak is a waterbody in Komlo, ideal for walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.301738,
+                        46.201134
+                  ]
+            },
+            {
+                  "name": "25-ös tó",
+                  "text": "25-ös tó is a lake in Komlo offering beautiful views for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        18.292403,
+                        46.136646
+                  ]
             }
       ]
 }
@@ -75656,6 +88868,51 @@ export const hungaryCities: POI[] = [
                         18.908091,
                         47.317005
                   ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP ist ein See in Szazhalombatta, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó ist ein See in Szazhalombatta, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Falusi játszótér",
+                  "text": "Falusi játszótér ist ein Spielplatz in Szazhalombatta, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.933994,
+                        47.333668
+                  ]
+            },
+            {
+                  "name": "Csónakázó játszótér",
+                  "text": "Csónakázó játszótér ist ein Spielplatz in Szazhalombatta, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.925377,
+                        47.319126
+                  ]
+            },
+            {
+                  "name": "Hajósjátszó",
+                  "text": "Hajósjátszó ist ein Spielplatz in Szazhalombatta, der Familien und Kindern einen schönen Außenbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.937895,
+                        47.325046
+                  ]
             }
       ],
       "hu": [
@@ -75741,6 +88998,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.908091,
                         47.317005
+                  ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP egy tó Szazhalombatta területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó egy tó Szazhalombatta területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Falusi játszótér",
+                  "text": "Falusi játszótér egy játszótér Szazhalombatta területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.933994,
+                        47.333668
+                  ]
+            },
+            {
+                  "name": "Csónakázó játszótér",
+                  "text": "Csónakázó játszótér egy játszótér Szazhalombatta területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.925377,
+                        47.319126
+                  ]
+            },
+            {
+                  "name": "Hajósjátszó",
+                  "text": "Hajósjátszó egy játszótér Szazhalombatta területén, amely remek szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.937895,
+                        47.325046
                   ]
             }
       ],
@@ -75828,6 +89130,51 @@ export const hungaryCities: POI[] = [
                         18.908091,
                         47.317005
                   ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP este un lac situat în Szazhalombatta, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó este un lac situat în Szazhalombatta, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Falusi játszótér",
+                  "text": "Falusi játszótér este un loc de joacă în Szazhalombatta, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.933994,
+                        47.333668
+                  ]
+            },
+            {
+                  "name": "Csónakázó játszótér",
+                  "text": "Csónakázó játszótér este un loc de joacă în Szazhalombatta, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.925377,
+                        47.319126
+                  ]
+            },
+            {
+                  "name": "Hajósjátszó",
+                  "text": "Hajósjátszó este un loc de joacă în Szazhalombatta, oferind un spațiu în aer liber captivant pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        18.937895,
+                        47.325046
+                  ]
             }
       ],
       "en": [
@@ -75914,6 +89261,51 @@ export const hungaryCities: POI[] = [
                         18.908091,
                         47.317005
                   ]
+            },
+            {
+                  "name": "7 VIP",
+                  "text": "7 VIP is a lake located in Szazhalombatta, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.906391,
+                        47.336615
+                  ]
+            },
+            {
+                  "name": "tüzivíztározó",
+                  "text": "tüzivíztározó is a lake located in Szazhalombatta, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.883903,
+                        47.324078
+                  ]
+            },
+            {
+                  "name": "Falusi játszótér",
+                  "text": "Falusi játszótér is a playground in Szazhalombatta, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.933994,
+                        47.333668
+                  ]
+            },
+            {
+                  "name": "Csónakázó játszótér",
+                  "text": "Csónakázó játszótér is a playground in Szazhalombatta, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.925377,
+                        47.319126
+                  ]
+            },
+            {
+                  "name": "Hajósjátszó",
+                  "text": "Hajósjátszó is a playground in Szazhalombatta, offering an engaging outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        18.937895,
+                        47.325046
+                  ]
             }
       ]
 }
@@ -75964,6 +89356,51 @@ export const hungaryCities: POI[] = [
                         19.447687,
                         47.34951
                   ]
+            },
+            {
+                  "name": "Gombai Horgásztó",
+                  "text": "Der Gombai Horgásztó in Monor ist ein ruhiger Angelsee.",
+                  "category": "natural",
+                  "coords": [
+                        19.552705,
+                        47.367195
+                  ]
+            },
+            {
+                  "name": "Felsőfarkasdi horgásztó",
+                  "text": "Der Felsőfarkasdi Horgásztó in Monor bietet eine schöne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.504434,
+                        47.397565
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Der Horgásztó in Monor ist ein entspannender Ort für Angler.",
+                  "category": "natural",
+                  "coords": [
+                        19.416533,
+                        47.378477
+                  ]
+            },
+            {
+                  "name": "Kistói játszótér",
+                  "text": "Der Kistói Spielplatz in Monor lädt Kinder zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        19.441184,
+                        47.338636
+                  ]
+            },
+            {
+                  "name": "Forrás grundfoci pálya és street workout park",
+                  "text": "Der Forrás Sportpark in Monor ist ein toller Ort für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.43665,
+                        47.359489
+                  ]
             }
       ],
       "hu": [
@@ -75983,6 +89420,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.447687,
                         47.34951
+                  ]
+            },
+            {
+                  "name": "Gombai Horgásztó",
+                  "text": "A monori Gombai Horgásztó egy csendes horgásztó.",
+                  "category": "natural",
+                  "coords": [
+                        19.552705,
+                        47.367195
+                  ]
+            },
+            {
+                  "name": "Felsőfarkasdi horgásztó",
+                  "text": "A monori Felsőfarkasdi horgásztó kellemes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.504434,
+                        47.397565
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "A monori Horgásztó egy pihentető hely a horgászok számára.",
+                  "category": "natural",
+                  "coords": [
+                        19.416533,
+                        47.378477
+                  ]
+            },
+            {
+                  "name": "Kistói játszótér",
+                  "text": "A monori Kistói játszótér játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.441184,
+                        47.338636
+                  ]
+            },
+            {
+                  "name": "Forrás grundfoci pálya és street workout park",
+                  "text": "A monori Forrás sportpark egy szuper hely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.43665,
+                        47.359489
                   ]
             }
       ],
@@ -76004,6 +89486,51 @@ export const hungaryCities: POI[] = [
                         19.447687,
                         47.34951
                   ]
+            },
+            {
+                  "name": "Gombai Horgásztó",
+                  "text": "Gombai Horgásztó din Monor este un lac de pescuit liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        19.552705,
+                        47.367195
+                  ]
+            },
+            {
+                  "name": "Felsőfarkasdi horgásztó",
+                  "text": "Felsőfarkasdi Horgásztó din Monor oferă un mediu plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        19.504434,
+                        47.397565
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó din Monor este un loc relaxant pentru pescari.",
+                  "category": "natural",
+                  "coords": [
+                        19.416533,
+                        47.378477
+                  ]
+            },
+            {
+                  "name": "Kistói játszótér",
+                  "text": "Locul de joacă Kistói din Monor invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        19.441184,
+                        47.338636
+                  ]
+            },
+            {
+                  "name": "Forrás grundfoci pálya és street workout park",
+                  "text": "Parcul sportiv Forrás din Monor este un loc grozav pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.43665,
+                        47.359489
+                  ]
             }
       ],
       "en": [
@@ -76023,6 +89550,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.447687,
                         47.34951
+                  ]
+            },
+            {
+                  "name": "Gombai Horgásztó",
+                  "text": "Gombai Horgásztó in Monor is a quiet fishing lake.",
+                  "category": "natural",
+                  "coords": [
+                        19.552705,
+                        47.367195
+                  ]
+            },
+            {
+                  "name": "Felsőfarkasdi horgásztó",
+                  "text": "Felsőfarkasdi Horgásztó in Monor offers a nice environment.",
+                  "category": "natural",
+                  "coords": [
+                        19.504434,
+                        47.397565
+                  ]
+            },
+            {
+                  "name": "Horgásztó",
+                  "text": "Horgásztó in Monor is a relaxing place for anglers.",
+                  "category": "natural",
+                  "coords": [
+                        19.416533,
+                        47.378477
+                  ]
+            },
+            {
+                  "name": "Kistói játszótér",
+                  "text": "Kistói playground in Monor invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.441184,
+                        47.338636
+                  ]
+            },
+            {
+                  "name": "Forrás grundfoci pálya és street workout park",
+                  "text": "Forrás sports park in Monor is a great place for families.",
+                  "category": "family",
+                  "coords": [
+                        19.43665,
+                        47.359489
                   ]
             }
       ]
@@ -76192,6 +89764,15 @@ export const hungaryCities: POI[] = [
                         19.77779,
                         47.030793
                   ]
+            },
+            {
+                  "name": "Playground/football pitch",
+                  "text": "Playground/football pitch ist ein familienfreundlicher Spiel- und Sportplatz in Nagykoroes.",
+                  "category": "family",
+                  "coords": [
+                        19.785679,
+                        47.043914
+                  ]
             }
       ],
       "hu": [
@@ -76329,6 +89910,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.77779,
                         47.030793
+                  ]
+            },
+            {
+                  "name": "Playground/football pitch",
+                  "text": "A Playground/football pitch egy családbarát játszótér és sportpálya Nagykőrös városában.",
+                  "category": "family",
+                  "coords": [
+                        19.785679,
+                        47.043914
                   ]
             }
       ],
@@ -76468,6 +90058,15 @@ export const hungaryCities: POI[] = [
                         19.77779,
                         47.030793
                   ]
+            },
+            {
+                  "name": "Playground/football pitch",
+                  "text": "Playground/football pitch este un loc de joacă și sport pentru familii în Nagykoroes.",
+                  "category": "family",
+                  "coords": [
+                        19.785679,
+                        47.043914
+                  ]
             }
       ],
       "en": [
@@ -76605,6 +90204,15 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.77779,
                         47.030793
+                  ]
+            },
+            {
+                  "name": "Playground/football pitch",
+                  "text": "Playground/football pitch is a family-friendly playground and sports area in Nagykoroes.",
+                  "category": "family",
+                  "coords": [
+                        19.785679,
+                        47.043914
                   ]
             }
       ]
@@ -77305,6 +90913,51 @@ export const hungaryCities: POI[] = [
                         17.150681,
                         47.261709
                   ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó ist ein See in Celldoemoelk, ideal für entspannte Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.149637,
+                        47.246044
+                  ]
+            },
+            {
+                  "name": "Városligeti játszótér",
+                  "text": "Városligeti játszótér ist ein toller Spielplatz in Celldoemoelk, der Kindern viel Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.149375,
+                        47.255456
+                  ]
+            },
+            {
+                  "name": "Mikes játszótér",
+                  "text": "Mikes játszótér ist ein familienfreundlicher Spielplatz in Celldoemoelk mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        17.149706,
+                        47.250653
+                  ]
+            },
+            {
+                  "name": "Kodály játszótér",
+                  "text": "Kodály játszótér ist ein beliebter Spielplatz in Celldoemoelk für den Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        17.154693,
+                        47.252499
+                  ]
+            },
+            {
+                  "name": "Bányatelepi játszótér",
+                  "text": "Bányatelepi játszótér ist ein familienfreundlicher Ort zum Spielen in Celldoemoelk.",
+                  "category": "family",
+                  "coords": [
+                        17.134155,
+                        47.236173
+                  ]
             }
       ],
       "hu": [
@@ -77401,6 +91054,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.150681,
                         47.261709
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "A Téglagyári-tó egy tó Celldömölk területén, ideális a természetben töltött pihentető órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.149637,
+                        47.246044
+                  ]
+            },
+            {
+                  "name": "Városligeti játszótér",
+                  "text": "A Városligeti játszótér egy nagyszerű játszótér Celldömölk városában, amely sok változatosságot nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.149375,
+                        47.255456
+                  ]
+            },
+            {
+                  "name": "Mikes játszótér",
+                  "text": "A Mikes játszótér egy családbarát játszótér Celldömölk területén, különféle játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        17.149706,
+                        47.250653
+                  ]
+            },
+            {
+                  "name": "Kodály játszótér",
+                  "text": "A Kodály játszótér egy népszerű játszótér Celldömölkön, amely tökéletes családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.154693,
+                        47.252499
+                  ]
+            },
+            {
+                  "name": "Bányatelepi játszótér",
+                  "text": "A Bányatelepi játszótér egy családbarát játszóhely Celldömölk területén.",
+                  "category": "family",
+                  "coords": [
+                        17.134155,
+                        47.236173
                   ]
             }
       ],
@@ -77499,6 +91197,51 @@ export const hungaryCities: POI[] = [
                         17.150681,
                         47.261709
                   ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó este un lac în Celldoemoelk, ideal pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.149637,
+                        47.246044
+                  ]
+            },
+            {
+                  "name": "Városligeti játszótér",
+                  "text": "Városligeti játszótér este un loc de joacă grozav în Celldoemoelk, care oferă multă varietate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.149375,
+                        47.255456
+                  ]
+            },
+            {
+                  "name": "Mikes játszótér",
+                  "text": "Mikes játszótér este un loc de joacă pentru familii în Celldoemoelk, cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        17.149706,
+                        47.250653
+                  ]
+            },
+            {
+                  "name": "Kodály játszótér",
+                  "text": "Kodály játszótér este un loc de joacă popular în Celldoemoelk pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.154693,
+                        47.252499
+                  ]
+            },
+            {
+                  "name": "Bányatelepi játszótér",
+                  "text": "Bányatelepi játszótér este un loc de joacă potrivit pentru familii în Celldoemoelk.",
+                  "category": "family",
+                  "coords": [
+                        17.134155,
+                        47.236173
+                  ]
             }
       ],
       "en": [
@@ -77595,6 +91338,51 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.150681,
                         47.261709
+                  ]
+            },
+            {
+                  "name": "Téglagyári-tó",
+                  "text": "Téglagyári-tó is a lake in Celldoemoelk, ideal for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.149637,
+                        47.246044
+                  ]
+            },
+            {
+                  "name": "Városligeti játszótér",
+                  "text": "Városligeti játszótér is a great playground in Celldoemoelk that offers a lot of variety for children.",
+                  "category": "family",
+                  "coords": [
+                        17.149375,
+                        47.255456
+                  ]
+            },
+            {
+                  "name": "Mikes játszótér",
+                  "text": "Mikes játszótér is a family-friendly playground in Celldoemoelk with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        17.149706,
+                        47.250653
+                  ]
+            },
+            {
+                  "name": "Kodály játszótér",
+                  "text": "Kodály játszótér is a popular playground in Celldoemoelk for family outings.",
+                  "category": "family",
+                  "coords": [
+                        17.154693,
+                        47.252499
+                  ]
+            },
+            {
+                  "name": "Bányatelepi játszótér",
+                  "text": "Bányatelepi játszótér is a family-friendly place to play in Celldoemoelk.",
+                  "category": "family",
+                  "coords": [
+                        17.134155,
+                        47.236173
                   ]
             }
       ]
@@ -77739,6 +91527,24 @@ export const hungaryCities: POI[] = [
                         16.6007,
                         47.012186
                   ]
+            },
+            {
+                  "name": "Téglagyári gödör tó",
+                  "text": "Téglagyári gödör tó ist ein See in Koermend, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.576198,
+                        47.012992
+                  ]
+            },
+            {
+                  "name": "Hajó",
+                  "text": "Hajó ist ein Spielplatz in Koermend, der einen schönen Außenbereich für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.595801,
+                        47.010395
+                  ]
             }
       ],
       "hu": [
@@ -77851,6 +91657,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.6007,
                         47.012186
+                  ]
+            },
+            {
+                  "name": "Téglagyári gödör tó",
+                  "text": "Téglagyári gödör tó egy tó Koermend területén, amely festői helyszínt kínál egy természetbeni sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.576198,
+                        47.012992
+                  ]
+            },
+            {
+                  "name": "Hajó",
+                  "text": "A Hajó egy játszótér Körmenden, amely kellemes szabadtéri kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        16.595801,
+                        47.010395
                   ]
             }
       ],
@@ -77965,6 +91789,24 @@ export const hungaryCities: POI[] = [
                         16.6007,
                         47.012186
                   ]
+            },
+            {
+                  "name": "Téglagyári gödör tó",
+                  "text": "Téglagyári gödör tó este un lac situat în Koermend, oferind un loc pitoresc pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.576198,
+                        47.012992
+                  ]
+            },
+            {
+                  "name": "Hajó",
+                  "text": "Hajó este un loc de joacă în Koermend, oferind un spațiu în aer liber excelent pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        16.595801,
+                        47.010395
+                  ]
             }
       ],
       "en": [
@@ -78077,6 +91919,24 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.6007,
                         47.012186
+                  ]
+            },
+            {
+                  "name": "Téglagyári gödör tó",
+                  "text": "Téglagyári gödör tó is a lake located in Koermend, offering a scenic spot for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.576198,
+                        47.012992
+                  ]
+            },
+            {
+                  "name": "Hajó",
+                  "text": "Hajó is a playground in Koermend, offering a fun outdoor space for families and children.",
+                  "category": "family",
+                  "coords": [
+                        16.595801,
+                        47.010395
                   ]
             }
       ]

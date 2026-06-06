@@ -320,6 +320,24 @@ imageHint: "Zadar sea organ and sun salutation",
                         18.693865,
                         45.561037
                   ]
+            },
+            {
+                  "name": "LEGOS",
+                  "text": "LEGOS ist ein ansprechender Spielplatz in Osijek, auf dem Kinder wertvolle Zeit beim Spielen im Freien verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        18.675398,
+                        45.56334
+                  ]
+            },
+            {
+                  "name": "Betonsko igralište",
+                  "text": "Betonsko igralište ist ein aktiver Spielbereich in Osijek, der sich für Spiele und sportlichen Spaß mit den Kindern eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.698277,
+                        45.550887
+                  ]
             }
       ],
       "hu": [
@@ -591,6 +609,24 @@ imageHint: "Zadar sea organ and sun salutation",
                   "coords": [
                         18.693865,
                         45.561037
+                  ]
+            },
+            {
+                  "name": "LEGOS",
+                  "text": "A LEGOS egy vonzó játszótér Eszéken, ahol a gyerekek minőségi időt tölthetnek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        18.675398,
+                        45.56334
+                  ]
+            },
+            {
+                  "name": "Betonsko igralište",
+                  "text": "A Betonsko igralište egy aktív játszótér Eszéken, amely alkalmas játékokra és sportos szórakozásra a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        18.698277,
+                        45.550887
                   ]
             }
       ],
@@ -864,6 +900,24 @@ imageHint: "Zadar sea organ and sun salutation",
                         18.693865,
                         45.561037
                   ]
+            },
+            {
+                  "name": "LEGOS",
+                  "text": "LEGOS este un loc de joacă atractiv din Osijek, unde copiii pot petrece timp de calitate jucându-se afară.",
+                  "category": "family",
+                  "coords": [
+                        18.675398,
+                        45.56334
+                  ]
+            },
+            {
+                  "name": "Betonsko igralište",
+                  "text": "Betonsko igralište este o zonă activă de joacă din Osijek, potrivită pentru jocuri și distracție sportivă cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        18.698277,
+                        45.550887
+                  ]
             }
       ],
       "en": [
@@ -1135,6 +1189,24 @@ imageHint: "Zadar sea organ and sun salutation",
                   "coords": [
                         18.693865,
                         45.561037
+                  ]
+            },
+            {
+                  "name": "LEGOS",
+                  "text": "LEGOS is an appealing playground in Osijek where children can spend quality time playing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        18.675398,
+                        45.56334
+                  ]
+            },
+            {
+                  "name": "Betonsko igralište",
+                  "text": "Betonsko igralište is an active play area in Osijek suitable for games and sporting fun with the kids.",
+                  "category": "family",
+                  "coords": [
+                        18.698277,
+                        45.550887
                   ]
             }
       ],
@@ -1493,6 +1565,15 @@ imageHint: "Osijek Tvrdja fortress aerial view",
                         18.009524,
                         45.153658
                   ]
+            },
+            {
+                  "name": "Jezero Petnja",
+                  "text": "Der Petnja-See bei Slavonski Brod ist ein schönes Ausflugsziel.",
+                  "category": "natural",
+                  "coords": [
+                        17.955077,
+                        45.204866
+                  ]
             }
       ],
       "hu": [
@@ -1530,6 +1611,15 @@ imageHint: "Osijek Tvrdja fortress aerial view",
                   "coords": [
                         18.009524,
                         45.153658
+                  ]
+            },
+            {
+                  "name": "Jezero Petnja",
+                  "text": "A Slavonski Brod melletti Petnja-tó szép kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.955077,
+                        45.204866
                   ]
             }
       ],
@@ -1569,6 +1659,15 @@ imageHint: "Osijek Tvrdja fortress aerial view",
                         18.009524,
                         45.153658
                   ]
+            },
+            {
+                  "name": "Jezero Petnja",
+                  "text": "Lacul Petnja de lângă Slavonski Brod este o destinație frumoasă de excursie.",
+                  "category": "natural",
+                  "coords": [
+                        17.955077,
+                        45.204866
+                  ]
             }
       ],
       "en": [
@@ -1606,6 +1705,15 @@ imageHint: "Osijek Tvrdja fortress aerial view",
                   "coords": [
                         18.009524,
                         45.153658
+                  ]
+            },
+            {
+                  "name": "Jezero Petnja",
+                  "text": "Petnja Lake near Slavonski Brod is a beautiful destination for an excursion.",
+                  "category": "natural",
+                  "coords": [
+                        17.955077,
+                        45.204866
                   ]
             }
       ],
@@ -1775,6 +1883,15 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
                         15.531653,
                         45.495385
                   ]
+            },
+            {
+                  "name": "Jezerce Novi Centar",
+                  "text": "Das Jezerce Novi Centar in Karlovac ist ein kleiner Stadtsee, an dem man sich bei einem Spaziergang erholen kann.",
+                  "category": "natural",
+                  "coords": [
+                        15.541054,
+                        45.487112
+                  ]
             }
       ],
       "hu": [
@@ -1857,6 +1974,15 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
                   "coords": [
                         15.531653,
                         45.495385
+                  ]
+            },
+            {
+                  "name": "Jezerce Novi Centar",
+                  "text": "A Karlovac-i Jezerce Novi Centar egy kis városi tó, ahol egy séta során remekül ki lehet kapcsolódni.",
+                  "category": "natural",
+                  "coords": [
+                        15.541054,
+                        45.487112
                   ]
             }
       ],
@@ -1941,6 +2067,15 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
                         15.531653,
                         45.495385
                   ]
+            },
+            {
+                  "name": "Jezerce Novi Centar",
+                  "text": "Jezerce Novi Centar din Karlovac este un mic lac urban unde te poți relaxa în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        15.541054,
+                        45.487112
+                  ]
             }
       ],
       "en": [
@@ -2023,6 +2158,15 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
                   "coords": [
                         15.531653,
                         45.495385
+                  ]
+            },
+            {
+                  "name": "Jezerce Novi Centar",
+                  "text": "The Jezerce Novi Centar in Karlovac is a small urban lake where one can relax during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        15.541054,
+                        45.487112
                   ]
             }
       ],
@@ -2364,6 +2508,51 @@ imageHint: "Varazdin Stari Grad castle white",
                         15.888489,
                         43.736506
                   ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Der Prokljan-See in Sibenik ist ein großer See, der mit dem Meer verbunden ist, was ihn zu einem großartigen Ort macht, um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina ist ein See bei Sibenik, der eine beruhigende Umgebung für Spaziergänge in der Küstennatur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina ist ein malerischer See in Sibenik, der sich perfekt dazu anbietet, das Wasser und die umliegende Flora zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini ist ein schöner Kinderspielplatz in Sibenik, auf dem sich Familien ausruhen können, während die Kinder die Spielgeräte nutzen.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup ist eine Spielhalle in Sibenik mit Videospielen und lustigen Aktivitäten für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
             }
       ],
       "hu": [
@@ -2527,6 +2716,51 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.888489,
                         43.736506
+                  ]
+            },
+            {
+                  "name": "Prukljan-tó",
+                  "text": "A šibeniki Prokljansko jezero egy tengerhez csatlakozó nagy tó, amely kiváló hely a táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "A Mala Solina egy Šibenikhez közeli tó, amely nyugtató környezetet biztosít a tengerparti természetjárásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "A Vela Solina egy Šibenikben található festői tó, amely tökéletes a víz és a környező növényvilág megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "Az En Ten Tini egy kedves játszótér Šibenikben, ahol a családok megpihenhetnek, miközben a gyerekek élvezik a játékeszközöket.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "Az LVLup egy šibeniki játékterem, amely videojátékokkal és szórakoztató tevékenységekkel várja a tinédzsereket és a családokat.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
                   ]
             }
       ],
@@ -2692,6 +2926,51 @@ imageHint: "Varazdin Stari Grad castle white",
                         15.888489,
                         43.736506
                   ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero din Sibenik este un lac mare care se leagă de mare, făcându-l un loc minunat pentru a aprecia peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina este un lac din apropiere de Sibenik, care oferă un mediu liniștitor pentru plimbări prin natura de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina este un lac pitoresc situat în Sibenik, perfect pentru a admira apa și flora înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini este un loc de joacă minunat pentru copii din Sibenik, unde familiile se pot odihni în timp ce copiii se bucură de echipamentele de joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup este o sală de jocuri din Sibenik, care oferă jocuri video și activități distractive pentru adolescenți și familii.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
             }
       ],
       "en": [
@@ -2855,6 +3134,51 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.888489,
                         43.736506
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero in Sibenik is a large lake connecting to the sea, making it a great place to appreciate the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina is a lake near Sibenik offering a calming environment for coastal nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina is a scenic lake situated in Sibenik, perfect for admiring the water and surrounding flora.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini is a lovely children's playground in Sibenik where families can rest while kids enjoy the play equipment.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup is an amusement arcade in Sibenik featuring video games and fun activities for teenagers and families.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
                   ]
             }
       ],
@@ -3150,6 +3474,51 @@ imageHint: "Sibenik St James Cathedral and waterfront",
                         16.371797,
                         45.492119
                   ]
+            },
+            {
+                  "name": "Ciglarska graba",
+                  "text": "Der See Ciglarska graba in Sisak lädt zur Erholung ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.382273,
+                        45.494937
+                  ]
+            },
+            {
+                  "name": "Majmunjak",
+                  "text": "Der Spielplatz Majmunjak in Sisak bietet viel Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.371815,
+                        45.486104
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Pirgo",
+                  "text": "Der Spielplatz Pirgo in Sisak ist ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.381147,
+                        45.495823
+                  ]
+            },
+            {
+                  "name": "Dječje igralište",
+                  "text": "Ein schöner Spielplatz in Sisak zum Spielen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        16.377563,
+                        45.488207
+                  ]
+            },
+            {
+                  "name": "Igralište Galdovo",
+                  "text": "Der Spielplatz in Galdovo ist ein toller Treffpunkt für Kinder in Sisak.",
+                  "category": "family",
+                  "coords": [
+                        16.40592,
+                        45.487134
+                  ]
             }
       ],
       "hu": [
@@ -3232,6 +3601,51 @@ imageHint: "Sibenik St James Cathedral and waterfront",
                   "coords": [
                         16.371797,
                         45.492119
+                  ]
+            },
+            {
+                  "name": "Ciglarska graba",
+                  "text": "A Sisak-beli Ciglarska graba tó pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        16.382273,
+                        45.494937
+                  ]
+            },
+            {
+                  "name": "Majmunjak",
+                  "text": "A Sisak-beli Majmunjak játszótér sok mókát kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.371815,
+                        45.486104
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Pirgo",
+                  "text": "A Sisak-beli Pirgo játszótér ideális a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.381147,
+                        45.495823
+                  ]
+            },
+            {
+                  "name": "Dječje igralište",
+                  "text": "Egy szép játszótér Sisakban, ahol a gyerekek játszhatnak és kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        16.377563,
+                        45.488207
+                  ]
+            },
+            {
+                  "name": "Igralište Galdovo",
+                  "text": "A Galdovo-beli játszótér nagyszerű találkozóhely a gyerekeknek Sisakban.",
+                  "category": "family",
+                  "coords": [
+                        16.40592,
+                        45.487134
                   ]
             }
       ],
@@ -3316,6 +3730,51 @@ imageHint: "Sibenik St James Cathedral and waterfront",
                         16.371797,
                         45.492119
                   ]
+            },
+            {
+                  "name": "Ciglarska graba",
+                  "text": "Lacul Ciglarska graba din Sisak invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.382273,
+                        45.494937
+                  ]
+            },
+            {
+                  "name": "Majmunjak",
+                  "text": "Locul de joacă Majmunjak din Sisak oferă multă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.371815,
+                        45.486104
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Pirgo",
+                  "text": "Locul de joacă Pirgo din Sisak este ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        16.381147,
+                        45.495823
+                  ]
+            },
+            {
+                  "name": "Dječje igralište",
+                  "text": "Un loc de joacă frumos în Sisak pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        16.377563,
+                        45.488207
+                  ]
+            },
+            {
+                  "name": "Igralište Galdovo",
+                  "text": "Locul de joacă din Galdovo este un punct de întâlnire grozav pentru copiii din Sisak.",
+                  "category": "family",
+                  "coords": [
+                        16.40592,
+                        45.487134
+                  ]
             }
       ],
       "en": [
@@ -3398,6 +3857,51 @@ imageHint: "Sibenik St James Cathedral and waterfront",
                   "coords": [
                         16.371797,
                         45.492119
+                  ]
+            },
+            {
+                  "name": "Ciglarska graba",
+                  "text": "Ciglarska graba lake in Sisak invites you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        16.382273,
+                        45.494937
+                  ]
+            },
+            {
+                  "name": "Majmunjak",
+                  "text": "The Majmunjak playground in Sisak offers lots of fun for children.",
+                  "category": "family",
+                  "coords": [
+                        16.371815,
+                        45.486104
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Pirgo",
+                  "text": "The Pirgo playground in Sisak is ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        16.381147,
+                        45.495823
+                  ]
+            },
+            {
+                  "name": "Dječje igralište",
+                  "text": "A nice playground in Sisak for playing and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        16.377563,
+                        45.488207
+                  ]
+            },
+            {
+                  "name": "Igralište Galdovo",
+                  "text": "The playground in Galdovo is a great meeting place for children in Sisak.",
+                  "category": "family",
+                  "coords": [
+                        16.40592,
+                        45.487134
                   ]
             }
       ],
@@ -6117,6 +6621,15 @@ imageHint: "Vinkovci central square and church",
                         17.682897,
                         45.33741
                   ]
+            },
+            {
+                  "name": "Sovinjak",
+                  "text": "Der Sovinjak-See in Pozega ist ein friedlicher Ort in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.644268,
+                        45.376474
+                  ]
             }
       ],
       "hu": [
@@ -6163,6 +6676,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.682897,
                         45.33741
+                  ]
+            },
+            {
+                  "name": "Sovinjak",
+                  "text": "A Pozega-beli Sovinjak-tó békés hely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.644268,
+                        45.376474
                   ]
             }
       ],
@@ -6211,6 +6733,15 @@ imageHint: "Vinkovci central square and church",
                         17.682897,
                         45.33741
                   ]
+            },
+            {
+                  "name": "Sovinjak",
+                  "text": "Lacul Sovinjak din Požega este un loc liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.644268,
+                        45.376474
+                  ]
             }
       ],
       "en": [
@@ -6257,6 +6788,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.682897,
                         45.33741
+                  ]
+            },
+            {
+                  "name": "Sovinjak",
+                  "text": "Sovinjak lake in Pozega is a peaceful place in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.644268,
+                        45.376474
                   ]
             }
       ],
@@ -6400,6 +6940,51 @@ imageHint: "Vinkovci central square and church",
                         18.411142,
                         45.307204
                   ]
+            },
+            {
+                  "name": "Jošava",
+                  "text": "Der See Jošava in Akovo ist ein beliebtes Ziel für Angler und Ruhesuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.441365,
+                        45.330909
+                  ]
+            },
+            {
+                  "name": "Mlinac",
+                  "text": "Der See Mlinac in Akovo lädt zu entspannten Stunden am Ufer und Naturbeobachtungen ein.",
+                  "category": "natural",
+                  "coords": [
+                        18.308028,
+                        45.297948
+                  ]
+            },
+            {
+                  "name": "Školsko igralište",
+                  "text": "Der Spielplatz Školsko igralište in Akovo ist ein idealer Treffpunkt für Kinder zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        18.413982,
+                        45.320096
+                  ]
+            },
+            {
+                  "name": "Igralište Centar",
+                  "text": "Das Igralište Centar in Akovo bietet zentral gelegene Spielmöglichkeiten für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        18.404483,
+                        45.310651
+                  ]
+            },
+            {
+                  "name": "Igralište Božidar Adžija",
+                  "text": "Auf dem Spielplatz Igralište Božidar Adžija in Akovo können sich die kleinen Besucher an verschiedenen Geräten erfreuen.",
+                  "category": "family",
+                  "coords": [
+                        18.404219,
+                        45.317403
+                  ]
             }
       ],
       "hu": [
@@ -6446,6 +7031,51 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.411142,
                         45.307204
+                  ]
+            },
+            {
+                  "name": "Jošava",
+                  "text": "Az Akovo melletti Jošava tó kedvelt célpont a horgászok és a természetben nyugalmat keresők körében.",
+                  "category": "natural",
+                  "coords": [
+                        18.441365,
+                        45.330909
+                  ]
+            },
+            {
+                  "name": "Mlinac",
+                  "text": "Az Akovo-ban található Mlinac tó a parton eltöltött pihentető órákra és természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        18.308028,
+                        45.297948
+                  ]
+            },
+            {
+                  "name": "Školsko igralište",
+                  "text": "Az Akovo-i Školsko igralište játszótér ideális találkozóhely a gyerekek számára egy kis játékhoz és futkározáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.413982,
+                        45.320096
+                  ]
+            },
+            {
+                  "name": "Igralište Centar",
+                  "text": "Az Akovo-ban található Igralište Centar központi elhelyezkedésű játéklehetőséget kínál a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.404483,
+                        45.310651
+                  ]
+            },
+            {
+                  "name": "Igralište Božidar Adžija",
+                  "text": "Az Akovo-i Igralište Božidar Adžija játszótéren a legkisebb látogatók különböző eszközökön szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        18.404219,
+                        45.317403
                   ]
             }
       ],
@@ -6494,6 +7124,51 @@ imageHint: "Vinkovci central square and church",
                         18.411142,
                         45.307204
                   ]
+            },
+            {
+                  "name": "Jošava",
+                  "text": "Lacul Jošava din Akovo este o destinație populară pentru pescari și pentru cei care caută liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.441365,
+                        45.330909
+                  ]
+            },
+            {
+                  "name": "Mlinac",
+                  "text": "Lacul Mlinac din Akovo vă invită la ore de relaxare pe mal și la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.308028,
+                        45.297948
+                  ]
+            },
+            {
+                  "name": "Školsko igralište",
+                  "text": "Locul de joacă Školsko igralište din Akovo este un loc ideal de întâlnire pentru copii pentru a se juca și a alerga.",
+                  "category": "family",
+                  "coords": [
+                        18.413982,
+                        45.320096
+                  ]
+            },
+            {
+                  "name": "Igralište Centar",
+                  "text": "Igralište Centar din Akovo oferă facilități de joacă situate central pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        18.404483,
+                        45.310651
+                  ]
+            },
+            {
+                  "name": "Igralište Božidar Adžija",
+                  "text": "La locul de joacă Igralište Božidar Adžija din Akovo, micii vizitatori se pot bucura de diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        18.404219,
+                        45.317403
+                  ]
             }
       ],
       "en": [
@@ -6540,6 +7215,51 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.411142,
                         45.307204
+                  ]
+            },
+            {
+                  "name": "Jošava",
+                  "text": "The Jošava lake in Akovo is a popular destination for anglers and those seeking tranquility in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.441365,
+                        45.330909
+                  ]
+            },
+            {
+                  "name": "Mlinac",
+                  "text": "The Mlinac lake in Akovo invites you for relaxing hours on its shores and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.308028,
+                        45.297948
+                  ]
+            },
+            {
+                  "name": "Školsko igralište",
+                  "text": "The Školsko igralište playground in Akovo is an ideal meeting place for children to play and run around.",
+                  "category": "family",
+                  "coords": [
+                        18.413982,
+                        45.320096
+                  ]
+            },
+            {
+                  "name": "Igralište Centar",
+                  "text": "The Igralište Centar in Akovo provides centrally located play facilities for families with children.",
+                  "category": "family",
+                  "coords": [
+                        18.404483,
+                        45.310651
+                  ]
+            },
+            {
+                  "name": "Igralište Božidar Adžija",
+                  "text": "At the Igralište Božidar Adžija playground in Akovo, young visitors can enjoy various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        18.404219,
+                        45.317403
                   ]
             }
       ],
@@ -6656,6 +7376,15 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "Der Stausee Varaždinsko jezero bei Cakovec bietet wunderschöne Landschaften und Orte für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
+                  ]
             }
       ],
       "hu": [
@@ -6675,6 +7404,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
+                  ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "A Csáktornya közelében található Varaždinsko jezero egy mesterséges tó, amely gyönyörű tájat és vízparti sétahelyeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
                   ]
             }
       ],
@@ -6696,6 +7434,15 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "Varaždinsko jezero de lângă Cakovec este un lac artificial care oferă peisaje frumoase și locuri pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
+                  ]
             }
       ],
       "en": [
@@ -6715,6 +7462,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
+                  ]
+            },
+            {
+                  "name": "Varaždinsko jezero",
+                  "text": "Varaždinsko jezero near Cakovec is an artificial lake offering beautiful scenery and spots for waterfront walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.415607,
+                        46.314963
                   ]
             }
       ],
@@ -6813,6 +7569,78 @@ imageHint: "Vinkovci central square and church",
                         17.383198,
                         45.83427
                   ]
+            },
+            {
+                  "name": "4. ribnjak",
+                  "text": "Der 4. See in Virovitica bietet eine schöne Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.32221,
+                        45.801459
+                  ]
+            },
+            {
+                  "name": "3. ribnjak",
+                  "text": "Der 3. See in Virovitica ist ein idealer Ort für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        17.324322,
+                        45.79867
+                  ]
+            },
+            {
+                  "name": "7. ribnjak",
+                  "text": "Der 7. See in Virovitica lädt zum Entspannen ein.",
+                  "category": "natural",
+                  "coords": [
+                        17.31043,
+                        45.797807
+                  ]
+            },
+            {
+                  "name": "9. ribnjak",
+                  "text": "Der 9. See in Virovitica bietet eine friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        17.308536,
+                        45.793723
+                  ]
+            },
+            {
+                  "name": "1. ribnjak",
+                  "text": "Der 1. See in Virovitica ist ein schöner Ort in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.331073,
+                        45.799662
+                  ]
+            },
+            {
+                  "name": "Igralište Južni blok",
+                  "text": "Der Spielplatz im Viertel Južni blok ist ein schöner Ort für Kinder in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.380878,
+                        45.827174
+                  ]
+            },
+            {
+                  "name": "Igralište Dubravka",
+                  "text": "Der Dubravka-Spielplatz bietet viel Platz für Familien in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.374183,
+                        45.827156
+                  ]
+            },
+            {
+                  "name": "Igralište Suvara",
+                  "text": "Der Spielplatz Suvara ist ein toller Ort zum Spielen für Kinder in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.393217,
+                        45.831746
+                  ]
             }
       ],
       "hu": [
@@ -6841,6 +7669,78 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.383198,
                         45.83427
+                  ]
+            },
+            {
+                  "name": "4. ribnjak",
+                  "text": "A Virovitica-beli 4. tó szép környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.32221,
+                        45.801459
+                  ]
+            },
+            {
+                  "name": "3. ribnjak",
+                  "text": "A Virovitica-beli 3. tó ideális hely egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        17.324322,
+                        45.79867
+                  ]
+            },
+            {
+                  "name": "7. ribnjak",
+                  "text": "A Virovitica-beli 7. tó pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        17.31043,
+                        45.797807
+                  ]
+            },
+            {
+                  "name": "9. ribnjak",
+                  "text": "A Virovitica-beli 9. tó békés légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.308536,
+                        45.793723
+                  ]
+            },
+            {
+                  "name": "1. ribnjak",
+                  "text": "A Virovitica-beli 1. tó szép hely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.331073,
+                        45.799662
+                  ]
+            },
+            {
+                  "name": "Igralište Južni blok",
+                  "text": "A Virovitica-beli Južni blok negyed játszótere szép hely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        17.380878,
+                        45.827174
+                  ]
+            },
+            {
+                  "name": "Igralište Dubravka",
+                  "text": "A Virovitica-beli Dubravka játszótér rengeteg helyet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.374183,
+                        45.827156
+                  ]
+            },
+            {
+                  "name": "Igralište Suvara",
+                  "text": "A Virovitica-beli Suvara játszótér nagyszerű hely a gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        17.393217,
+                        45.831746
                   ]
             }
       ],
@@ -6871,6 +7771,78 @@ imageHint: "Vinkovci central square and church",
                         17.383198,
                         45.83427
                   ]
+            },
+            {
+                  "name": "4. ribnjak",
+                  "text": "Lacul nr. 4 din Virovitica oferă un cadru frumos.",
+                  "category": "natural",
+                  "coords": [
+                        17.32221,
+                        45.801459
+                  ]
+            },
+            {
+                  "name": "3. ribnjak",
+                  "text": "Lacul nr. 3 din Virovitica este un loc ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.324322,
+                        45.79867
+                  ]
+            },
+            {
+                  "name": "7. ribnjak",
+                  "text": "Lacul nr. 7 din Virovitica invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.31043,
+                        45.797807
+                  ]
+            },
+            {
+                  "name": "9. ribnjak",
+                  "text": "Lacul nr. 9 din Virovitica oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.308536,
+                        45.793723
+                  ]
+            },
+            {
+                  "name": "1. ribnjak",
+                  "text": "Lacul nr. 1 din Virovitica este un loc frumos în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.331073,
+                        45.799662
+                  ]
+            },
+            {
+                  "name": "Igralište Južni blok",
+                  "text": "Locul de joacă din cartierul Južni blok este un loc frumos pentru copii în Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.380878,
+                        45.827174
+                  ]
+            },
+            {
+                  "name": "Igralište Dubravka",
+                  "text": "Locul de joacă Dubravka oferă mult spațiu pentru familiile din Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.374183,
+                        45.827156
+                  ]
+            },
+            {
+                  "name": "Igralište Suvara",
+                  "text": "Locul de joacă Suvara este un loc grozav pentru joaca copiilor în Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.393217,
+                        45.831746
+                  ]
             }
       ],
       "en": [
@@ -6899,6 +7871,78 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.383198,
                         45.83427
+                  ]
+            },
+            {
+                  "name": "4. ribnjak",
+                  "text": "The 4th lake in Virovitica offers a beautiful setting.",
+                  "category": "natural",
+                  "coords": [
+                        17.32221,
+                        45.801459
+                  ]
+            },
+            {
+                  "name": "3. ribnjak",
+                  "text": "The 3rd lake in Virovitica is an ideal place for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        17.324322,
+                        45.79867
+                  ]
+            },
+            {
+                  "name": "7. ribnjak",
+                  "text": "The 7th lake in Virovitica invites you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        17.31043,
+                        45.797807
+                  ]
+            },
+            {
+                  "name": "9. ribnjak",
+                  "text": "The 9th lake in Virovitica offers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.308536,
+                        45.793723
+                  ]
+            },
+            {
+                  "name": "1. ribnjak",
+                  "text": "The 1st lake in Virovitica is a beautiful spot in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.331073,
+                        45.799662
+                  ]
+            },
+            {
+                  "name": "Igralište Južni blok",
+                  "text": "The playground in the Južni blok area is a nice place for children in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.380878,
+                        45.827174
+                  ]
+            },
+            {
+                  "name": "Igralište Dubravka",
+                  "text": "The Dubravka playground offers plenty of space for families in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.374183,
+                        45.827156
+                  ]
+            },
+            {
+                  "name": "Igralište Suvara",
+                  "text": "The Suvara playground is a great place for kids to play in Virovitica.",
+                  "category": "family",
+                  "coords": [
+                        17.393217,
+                        45.831746
                   ]
             }
       ],
@@ -7033,6 +8077,96 @@ imageHint: "Vinkovci central square and church",
                         15.780202,
                         45.866791
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Die Jezera Strmec bei Zapresic bilden ein ruhiges Seengebiet, das ideal für entspannte Spaziergänge ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "Der See Zajarki - malo jezero in Zapresic bietet eine friedliche Atmosphäre für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "Der größere See Zajarki in Zapresic ist ein beliebtes Naherholungsgebiet für Spaziergänger und Angler.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "Der Finzula-See in Zapresic lädt Besucher zu idyllischen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Der See Orešje in Zapresic eignet sich wunderbar für einen erholsamen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Plavo dječje igralište",
+                  "text": "Der Spielplatz Plavo dječje igralište in Zapresic begeistert Kinder mit bunten Geräten für vergnügliche Stunden.",
+                  "category": "family",
+                  "coords": [
+                        15.79859,
+                        45.861524
+                  ]
+            },
+            {
+                  "name": "Crveno dječje igralište",
+                  "text": "Das Crveno dječje igralište in Zapresic ist ein toller Anlaufpunkt für aktive Familien und ihre Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.801341,
+                        45.861852
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Zaprešić\"",
+                  "text": "Der Spielplatz Dječje igralište \"Zaprešić\" in Zapresic bietet eine sichere Umgebung für unbeschwerten Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        15.797122,
+                        45.866373
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Tržnica\"",
+                  "text": "Auf dem Spielplatz Dječje igralište \"Tržnica\" in Zapresic können Familien wunderbar nach dem Einkaufen eine Spielpause einlegen.",
+                  "category": "family",
+                  "coords": [
+                        15.804467,
+                        45.856069
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Sjever\"",
+                  "text": "Der Spielplatz Dječje igralište \"Sjever\" in Zapresic verfügt über abwechslungsreiche Geräte für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        15.794979,
+                        45.868371
+                  ]
             }
       ],
       "hu": [
@@ -7088,6 +8222,96 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.780202,
                         45.866791
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "A Zapresic melletti Jezera Strmec egy csendes tóvidék, amely ideális egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "A Zapresic-ben lévő Zajarki - malo jezero békés légkört biztosít a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "A nagyobbik Zajarki tó Zapresic-ben népszerű rekreációs terület a sétálni vágyók és horgászok körében.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "A Zapresic-i Finzula tó idillikus pillanatokra hívja a látogatókat a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "A Zapresic-ben található Orešje tó csodálatos helyszín egy pihentető természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Plavo dječje igralište",
+                  "text": "A Zapresic-i Plavo dječje igralište játszótér színes játékaival vidám órákat ígér a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.79859,
+                        45.861524
+                  ]
+            },
+            {
+                  "name": "Crveno dječje igralište",
+                  "text": "A Zapresic-ben lévő Crveno dječje igralište remek célpont az aktív családok és gyermekeik számára.",
+                  "category": "family",
+                  "coords": [
+                        15.801341,
+                        45.861852
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Zaprešić\"",
+                  "text": "A Zapresic-i Dječje igralište \"Zaprešić\" játszótér biztonságos környezetet nyújt az önfeledt játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.797122,
+                        45.866373
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Tržnica\"",
+                  "text": "A Zapresic-ben található Dječje igralište \"Tržnica\" játszótéren a családok nagyszerűen megpihenhetnek vásárlás után.",
+                  "category": "family",
+                  "coords": [
+                        15.804467,
+                        45.856069
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Sjever\"",
+                  "text": "A Zapresic-i Dječje igralište \"Sjever\" játszótér változatos felszerelésekkel rendelkezik minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.794979,
+                        45.868371
                   ]
             }
       ],
@@ -7145,6 +8369,96 @@ imageHint: "Vinkovci central square and church",
                         15.780202,
                         45.866791
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Jezera Strmec de lângă Zapresic formează o zonă liniștită de lacuri, ideală pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "Lacul Zajarki - malo jezero din Zapresic oferă o atmosferă liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "Lacul mai mare Zajarki din Zapresic este o zonă populară de recreere pentru plimbări și pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "Lacul Finzula din Zapresic invită vizitatorii la momente idilice la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Lacul Orešje din Zapresic este minunat pentru o excursie relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Plavo dječje igralište",
+                  "text": "Locul de joacă Plavo dječje igralište din Zapresic încântă copiii cu echipamente colorate pentru ore de distracție.",
+                  "category": "family",
+                  "coords": [
+                        15.79859,
+                        45.861524
+                  ]
+            },
+            {
+                  "name": "Crveno dječje igralište",
+                  "text": "Crveno dječje igralište din Zapresic este un punct de atracție excelent pentru familiile active și copiii lor.",
+                  "category": "family",
+                  "coords": [
+                        15.801341,
+                        45.861852
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Zaprešić\"",
+                  "text": "Locul de joacă Dječje igralište \"Zaprešić\" din Zapresic oferă un mediu sigur pentru joaca fără griji.",
+                  "category": "family",
+                  "coords": [
+                        15.797122,
+                        45.866373
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Tržnica\"",
+                  "text": "La locul de joacă Dječje igralište \"Tržnica\" din Zapresic, familiile pot face o pauză minunată după cumpărături.",
+                  "category": "family",
+                  "coords": [
+                        15.804467,
+                        45.856069
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Sjever\"",
+                  "text": "Locul de joacă Dječje igralište \"Sjever\" din Zapresic are echipamente variate pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.794979,
+                        45.868371
+                  ]
             }
       ],
       "en": [
@@ -7200,6 +8514,96 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.780202,
                         45.866791
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Jezera Strmec near Zapresic form a quiet lake area that is ideal for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "The Zajarki - malo jezero lake in Zapresic provides a peaceful atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "The larger Zajarki lake in Zapresic is a popular recreation area for walkers and anglers.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "The Finzula lake in Zapresic invites visitors to enjoy idyllic moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "The Orešje lake in Zapresic is wonderfully suited for a relaxing trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Plavo dječje igralište",
+                  "text": "The Plavo dječje igralište playground in Zapresic delights children with colorful equipment for hours of fun.",
+                  "category": "family",
+                  "coords": [
+                        15.79859,
+                        45.861524
+                  ]
+            },
+            {
+                  "name": "Crveno dječje igralište",
+                  "text": "The Crveno dječje igralište in Zapresic is a great destination for active families and their children.",
+                  "category": "family",
+                  "coords": [
+                        15.801341,
+                        45.861852
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Zaprešić\"",
+                  "text": "The Dječje igralište \"Zaprešić\" playground in Zapresic offers a safe environment for carefree playtime.",
+                  "category": "family",
+                  "coords": [
+                        15.797122,
+                        45.866373
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Tržnica\"",
+                  "text": "At the Dječje igralište \"Tržnica\" playground in Zapresic, families can take a wonderful play break after shopping.",
+                  "category": "family",
+                  "coords": [
+                        15.804467,
+                        45.856069
+                  ]
+            },
+            {
+                  "name": "Dječje igralište \"Sjever\"",
+                  "text": "The Dječje igralište \"Sjever\" playground in Zapresic features varied equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.794979,
+                        45.868371
                   ]
             }
       ],
@@ -7518,6 +8922,24 @@ imageHint: "Vinkovci central square and church",
                         16.270022,
                         45.444834
                   ]
+            },
+            {
+                  "name": "Multifunkcionalno igralište uz rijeku Petrinjčicu",
+                  "text": "Der Spielplatz an der Petrinjčica in Petrinja lädt Kinder zum Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        16.272303,
+                        45.435056
+                  ]
+            },
+            {
+                  "name": "Veliko Dječje Igralište - Petrinjčica",
+                  "text": "Ein großer Spielplatz an der Petrinjčica in Petrinja für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.273795,
+                        45.431408
+                  ]
             }
       ],
       "hu": [
@@ -7537,6 +8959,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.270022,
                         45.444834
+                  ]
+            },
+            {
+                  "name": "Multifunkcionalno igralište uz rijeku Petrinjčicu",
+                  "text": "A Petrinja-beli Petrinjčica folyó melletti játszótér játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        16.272303,
+                        45.435056
+                  ]
+            },
+            {
+                  "name": "Veliko Dječje Igralište - Petrinjčica",
+                  "text": "Egy nagy játszótér a Petrinja-beli Petrinjčica folyó mellett az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        16.273795,
+                        45.431408
                   ]
             }
       ],
@@ -7558,6 +8998,24 @@ imageHint: "Vinkovci central square and church",
                         16.270022,
                         45.444834
                   ]
+            },
+            {
+                  "name": "Multifunkcionalno igralište uz rijeku Petrinjčicu",
+                  "text": "Locul de joacă de pe malul râului Petrinjčica din Petrinja invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        16.272303,
+                        45.435056
+                  ]
+            },
+            {
+                  "name": "Veliko Dječje Igralište - Petrinjčica",
+                  "text": "Un loc de joacă mare pe malul râului Petrinjčica din Petrinja pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        16.273795,
+                        45.431408
+                  ]
             }
       ],
       "en": [
@@ -7577,6 +9035,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.270022,
                         45.444834
+                  ]
+            },
+            {
+                  "name": "Multifunkcionalno igralište uz rijeku Petrinjčicu",
+                  "text": "The playground by the Petrinjčica river in Petrinja invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        16.272303,
+                        45.435056
+                  ]
+            },
+            {
+                  "name": "Veliko Dječje Igralište - Petrinjčica",
+                  "text": "A large playground by the Petrinjčica river in Petrinja for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        16.273795,
+                        45.431408
                   ]
             }
       ],
@@ -8885,6 +10361,24 @@ imageHint: "Vinkovci central square and church",
                         17.652341,
                         43.054644
                   ]
+            },
+            {
+                  "name": "Svitavsko jezero",
+                  "text": "Der Svitavsko jezero ist ein See in der Nähe von Metkovic, der für seine reiche Feuchtgebietslandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.773338,
+                        43.034451
+                  ]
+            },
+            {
+                  "name": "igraliste vrtica",
+                  "text": "igraliste vrtica ist ein Spielplatz in Metkovic, der dafür konzipiert ist, dass Kinder herumlaufen, spielen und Freunde finden können.",
+                  "category": "family",
+                  "coords": [
+                        17.644192,
+                        43.053205
+                  ]
             }
       ],
       "hu": [
@@ -8940,6 +10434,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.652341,
                         43.054644
+                  ]
+            },
+            {
+                  "name": "Svitavsko jezero",
+                  "text": "A Metković közelében található Svitavsko jezero gazdag vizenyős tájáról ismert tó.",
+                  "category": "natural",
+                  "coords": [
+                        17.773338,
+                        43.034451
+                  ]
+            },
+            {
+                  "name": "igraliste vrtica",
+                  "text": "Az igraliste vrtica egy metkovići játszótér, amelyet arra terveztek, hogy a gyerekek szaladgálhassanak, játszhassanak és barátkozhassanak.",
+                  "category": "family",
+                  "coords": [
+                        17.644192,
+                        43.053205
                   ]
             }
       ],
@@ -8997,6 +10509,24 @@ imageHint: "Vinkovci central square and church",
                         17.652341,
                         43.054644
                   ]
+            },
+            {
+                  "name": "Svitavsko jezero",
+                  "text": "Svitavsko jezero este un lac situat în apropiere de Metkovic, cunoscut pentru peisajele sale bogate din zonele umede.",
+                  "category": "natural",
+                  "coords": [
+                        17.773338,
+                        43.034451
+                  ]
+            },
+            {
+                  "name": "igraliste vrtica",
+                  "text": "igraliste vrtica este un loc de joacă din Metkovic conceput pentru ca cei mici să alerge, să se joace și să-și facă prieteni.",
+                  "category": "family",
+                  "coords": [
+                        17.644192,
+                        43.053205
+                  ]
             }
       ],
       "en": [
@@ -9052,6 +10582,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.652341,
                         43.054644
+                  ]
+            },
+            {
+                  "name": "Svitavsko jezero",
+                  "text": "Svitavsko jezero is a lake located near Metkovic, known for its rich wetland scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.773338,
+                        43.034451
+                  ]
+            },
+            {
+                  "name": "igraliste vrtica",
+                  "text": "igraliste vrtica is a playground space in Metkovic designed for children to run, play, and make friends.",
+                  "category": "family",
+                  "coords": [
+                        17.644192,
+                        43.053205
                   ]
             }
       ],
@@ -9278,6 +10826,15 @@ imageHint: "Vinkovci central square and church",
                         16.623057,
                         43.697054
                   ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Der Lokva-See in Sinj bietet eine ruhige Umgebung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.618199,
+                        43.708419
+                  ]
             }
       ],
       "hu": [
@@ -9351,6 +10908,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.623057,
                         43.697054
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "A Sinj-beli Lokva-tó csendes környezetet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        16.618199,
+                        43.708419
                   ]
             }
       ],
@@ -9426,6 +10992,15 @@ imageHint: "Vinkovci central square and church",
                         16.623057,
                         43.697054
                   ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lacul Lokva din Sinj oferă un cadru liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.618199,
+                        43.708419
+                  ]
             }
       ],
       "en": [
@@ -9499,6 +11074,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.623057,
                         43.697054
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva lake in Sinj offers a quiet environment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.618199,
+                        43.708419
                   ]
             }
       ],
@@ -9871,6 +11455,69 @@ imageHint: "Vinkovci central square and church",
                         15.776894,
                         45.795932
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Jezera Strmec in Sveta Nedelja ist ein Seengebiet, das eine angenehme Umgebung für einen ruhigen Spaziergang am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "Zajarki - malo jezero ist ein kleiner See in Sveta Nedelja, ideal, um ruhige Momente in der Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Jezero Kerestinec",
+                  "text": "Der Kerestinec-See in Sveta Nedelja ist ein lokaler See, der bei allen beliebt ist, die eine friedliche Landschaft zu schätzen wissen.",
+                  "category": "natural",
+                  "coords": [
+                        15.81465,
+                        45.776423
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "Zajarki ist ein bekannter See in Sveta Nedelja, der eine schöne Kulisse für einen erholsamen Tag im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "Finzula in Sveta Nedelja ist ein See, der für seine ruhigen Gewässer und seine natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Orešje ist ein schöner See in Sveta Nedelja, dessen Wege sich hervorragend für einen Nachmittagsspaziergang eignen.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Kipišće",
+                  "text": "Dječje igralište Kipišće ist ein Spielplatz in Sveta Nedelja und ein fantastisches Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.78659,
+                        45.807652
+                  ]
             }
       ],
       "hu": [
@@ -9881,6 +11528,69 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.776894,
                         45.795932
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "A Sveta Nedelja-i Jezera Strmec egy tóvidék, amely kellemes környezetet kínál egy nyugodt vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "A Zajarki - malo jezero egy kis tó Sveta Nedeljában, amely tökéletes a csendes természetbeni pillanatok élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Jezero Kerestinec",
+                  "text": "A Sveta Nedelja-i Jezero Kerestinec egy helyi tó, amely népszerű a nyugodt tájakat kedvelők körében.",
+                  "category": "natural",
+                  "coords": [
+                        15.81465,
+                        45.776423
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "A Zajarki egy kiemelkedő tó Sveta Nedeljában, amely kellemes környezetet biztosít egy pihentető szabadtéri naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "A Sveta Nedelja-i Finzula egy nyugodt vizéről és természetes környezetéről ismert tó.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Az Orešje egy gyönyörű tó Sveta Nedeljában, amelynek ösvényei kiválóan alkalmasak egy délutáni sétára.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Kipišće",
+                  "text": "A Dječje igralište Kipišće egy játszótér Sveta Nedeljában, így fantasztikus úti cél a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        15.78659,
+                        45.807652
                   ]
             }
       ],
@@ -9893,6 +11603,69 @@ imageHint: "Vinkovci central square and church",
                         15.776894,
                         45.795932
                   ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Jezera Strmec din Sveta Nedelja este o zonă cu lac care oferă un cadru plăcut pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "Zajarki - malo jezero este un lac mic din Sveta Nedelja, perfect pentru a vă bucura de momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Jezero Kerestinec",
+                  "text": "Jezero Kerestinec din Sveta Nedelja este un lac local popular printre cei care apreciază peisajele senine.",
+                  "category": "natural",
+                  "coords": [
+                        15.81465,
+                        45.776423
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "Zajarki este un lac proeminent din Sveta Nedelja, oferind un cadru frumos pentru o zi relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "Finzula din Sveta Nedelja este un lac cunoscut pentru apele sale calme și împrejurimile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Orešje este un lac frumos situat în Sveta Nedelja, oferind poteci excelente pentru o plimbare de după-amiază.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Kipišće",
+                  "text": "Dječje igralište Kipišće este un loc de joacă în Sveta Nedelja, transformându-l într-o destinație fantastică pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        15.78659,
+                        45.807652
+                  ]
             }
       ],
       "en": [
@@ -9903,6 +11676,69 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.776894,
                         45.795932
+                  ]
+            },
+            {
+                  "name": "Jezera Strmec",
+                  "text": "Jezera Strmec in Sveta Nedelja is a lake area offering pleasant surroundings for a calm walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.801011,
+                        45.825467
+                  ]
+            },
+            {
+                  "name": "Zajarki - malo jezero",
+                  "text": "Zajarki - malo jezero is a small lake in Sveta Nedelja, perfect for enjoying quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.801919,
+                        45.846405
+                  ]
+            },
+            {
+                  "name": "Jezero Kerestinec",
+                  "text": "Jezero Kerestinec in Sveta Nedelja is a local lake popular among those who appreciate serene landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        15.81465,
+                        45.776423
+                  ]
+            },
+            {
+                  "name": "Zajarki",
+                  "text": "Zajarki is a prominent lake in Sveta Nedelja, providing a nice setting for a relaxing day outside.",
+                  "category": "natural",
+                  "coords": [
+                        15.803938,
+                        45.843231
+                  ]
+            },
+            {
+                  "name": "Finzula",
+                  "text": "Finzula in Sveta Nedelja is a lake known for its calm waters and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.835147,
+                        45.798861
+                  ]
+            },
+            {
+                  "name": "Orešje",
+                  "text": "Orešje is a beautiful lake located in Sveta Nedelja, offering paths that are great for an afternoon stroll.",
+                  "category": "natural",
+                  "coords": [
+                        15.816895,
+                        45.816824
+                  ]
+            },
+            {
+                  "name": "Dječje igralište Kipišće",
+                  "text": "Dječje igralište Kipišće is a playground in Sveta Nedelja, making it a fantastic destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        15.78659,
+                        45.807652
                   ]
             }
       ],
@@ -10105,7 +11941,52 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-ivanic-grad-cities-v2",
+    id: "croatia-ivanic-grad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bajeri",
+                  "text": "Die Bajeri-Seen in Ivanic Grad laden zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.398716,
+                        45.72041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bajeri",
+                  "text": "Az Ivanic Grad-beli Bajeri-tavak pihenésre hívogatnak.",
+                  "category": "natural",
+                  "coords": [
+                        16.398716,
+                        45.72041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bajeri",
+                  "text": "Lacurile Bajeri din Ivanic Grad invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.398716,
+                        45.72041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bajeri",
+                  "text": "Bajeri lakes in Ivanic Grad invite you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        16.398716,
+                        45.72041
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Ivanić-Grad", hu: "Ivanić-Grad", ro: "Ivanić-Grad", en: "Ivanić-Grad"},
@@ -10227,6 +12108,15 @@ imageHint: "Vinkovci central square and church",
                         16.547197,
                         46.025794
                   ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "Der See Bajer in Krizevci ist ein idyllisches Gewässer, an dem man bei Spaziergängen die Natur genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        16.541079,
+                        46.010821
+                  ]
             }
       ],
       "hu": [
@@ -10255,6 +12145,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.547197,
                         46.025794
+                  ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "A Krizevci melletti Bajer tó egy idillikus vízterület, ahol sétálva élvezhetjük a természetet.",
+                  "category": "natural",
+                  "coords": [
+                        16.541079,
+                        46.010821
                   ]
             }
       ],
@@ -10285,6 +12184,15 @@ imageHint: "Vinkovci central square and church",
                         16.547197,
                         46.025794
                   ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "Lacul Bajer din Krizevci este o suprafață de apă idilică unde te poți bucura de natură în timpul plimbărilor.",
+                  "category": "natural",
+                  "coords": [
+                        16.541079,
+                        46.010821
+                  ]
             }
       ],
       "en": [
@@ -10313,6 +12221,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.547197,
                         46.025794
+                  ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "The Bajer lake in Krizevci is an idyllic body of water where one can enjoy nature during walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.541079,
+                        46.010821
                   ]
             }
       ],
@@ -10465,6 +12382,15 @@ imageHint: "Vinkovci central square and church",
                         16.195776,
                         44.033113
                   ]
+            },
+            {
+                  "name": "Bracića jezero",
+                  "text": "Bracića jezero ist ein See in Knin, der Naturliebhabern ein malerisches und ruhiges Gewässer präsentiert.",
+                  "category": "natural",
+                  "coords": [
+                        16.232493,
+                        43.990457
+                  ]
             }
       ],
       "hu": [
@@ -10538,6 +12464,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
+                  ]
+            },
+            {
+                  "name": "Bracića jezero",
+                  "text": "A Bracića jezero egy knini tó, amely festői és csendes vízfelületet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        16.232493,
+                        43.990457
                   ]
             }
       ],
@@ -10613,6 +12548,15 @@ imageHint: "Vinkovci central square and church",
                         16.195776,
                         44.033113
                   ]
+            },
+            {
+                  "name": "Bracića jezero",
+                  "text": "Bracića jezero este un lac din Knin, prezentând un corp de apă pitoresc și liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.232493,
+                        43.990457
+                  ]
             }
       ],
       "en": [
@@ -10686,6 +12630,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
+                  ]
+            },
+            {
+                  "name": "Bracića jezero",
+                  "text": "Bracića jezero is a lake in Knin, presenting a scenic and quiet body of water for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        16.232493,
+                        43.990457
                   ]
             }
       ],
@@ -10847,6 +12800,15 @@ imageHint: "Vinkovci central square and church",
                         18.417594,
                         45.658055
                   ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Der Bara-Mrtvača-See in Valpovo ist ein schöner Ort zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
             }
       ],
       "hu": [
@@ -10884,6 +12846,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.417594,
                         45.658055
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "A Valpovo-beli Bara-Mrtvača-tó kellemes hely a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
                   ]
             }
       ],
@@ -10923,6 +12894,15 @@ imageHint: "Vinkovci central square and church",
                         18.417594,
                         45.658055
                   ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Lacul Bara-Mrtvača din Valpovo este un loc frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
             }
       ],
       "en": [
@@ -10960,6 +12940,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.417594,
                         45.658055
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Bara-Mrtvača lake in Valpovo is a beautiful place for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
                   ]
             }
       ],
@@ -11123,6 +13112,15 @@ imageHint: "Vinkovci central square and church",
                         18.695288,
                         45.076069
                   ]
+            },
+            {
+                  "name": "Špionice",
+                  "text": "Das Gewässer Špionice in Zupanja bietet einen entspannten Rückzugsort für Naturbeobachter am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
             }
       ],
       "hu": [
@@ -11151,6 +13149,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.695288,
                         45.076069
+                  ]
+            },
+            {
+                  "name": "Špionice",
+                  "text": "A Zupanja-ban található Špionice vízterület pihentető menedéket nyújt a vízparti természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
                   ]
             }
       ],
@@ -11181,6 +13188,15 @@ imageHint: "Vinkovci central square and church",
                         18.695288,
                         45.076069
                   ]
+            },
+            {
+                  "name": "Špionice",
+                  "text": "Lacul Špionice din Zupanja oferă o retragere relaxantă pentru observatorii naturii la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
+                  ]
             }
       ],
       "en": [
@@ -11209,6 +13225,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.695288,
                         45.076069
+                  ]
+            },
+            {
+                  "name": "Špionice",
+                  "text": "The Špionice lake in Zupanja offers a relaxing retreat for nature observers by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.633772,
+                        45.020156
                   ]
             }
       ],
@@ -11307,6 +13332,24 @@ imageHint: "Vinkovci central square and church",
                         15.230645,
                         45.265609
                   ]
+            },
+            {
+                  "name": "Jezero Bukovnik",
+                  "text": "Jezero Bukovnik ist ein von Grün umgebener Stausee in Ogulin, der sich ideal zum Entspannen am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.209806,
+                        45.257852
+                  ]
+            },
+            {
+                  "name": "Jezero Sabljaci",
+                  "text": "Der Sabljaci-See in Ogulin ist ein Stausee, der zum Schwimmen, Spazierengehen und Genießen der schönen Landschaft beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.226018,
+                        45.215915
+                  ]
             }
       ],
       "hu": [
@@ -11326,6 +13369,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.230645,
                         45.265609
+                  ]
+            },
+            {
+                  "name": "Jezero Bukovnik",
+                  "text": "A Jezero Bukovnik egy növényzettel körülvett víztározó Ogulinban, amely ideális a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.209806,
+                        45.257852
+                  ]
+            },
+            {
+                  "name": "Jezero Sabljaci",
+                  "text": "Az ogulini Jezero Sabljaci egy mesterséges tó, amely népszerű az úszás, a sétálás és a gyönyörű táj élvezete miatt.",
+                  "category": "natural",
+                  "coords": [
+                        15.226018,
+                        45.215915
                   ]
             }
       ],
@@ -11347,6 +13408,24 @@ imageHint: "Vinkovci central square and church",
                         15.230645,
                         45.265609
                   ]
+            },
+            {
+                  "name": "Jezero Bukovnik",
+                  "text": "Jezero Bukovnik este un lac de acumulare din Ogulin înconjurat de verdeață, ideal pentru a vă relaxa lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        15.209806,
+                        45.257852
+                  ]
+            },
+            {
+                  "name": "Jezero Sabljaci",
+                  "text": "Jezero Sabljaci din Ogulin este un lac artificial popular pentru înot, plimbări și pentru a vă bucura de peisajul frumos.",
+                  "category": "natural",
+                  "coords": [
+                        15.226018,
+                        45.215915
+                  ]
             }
       ],
       "en": [
@@ -11366,6 +13445,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.230645,
                         45.265609
+                  ]
+            },
+            {
+                  "name": "Jezero Bukovnik",
+                  "text": "Jezero Bukovnik is a reservoir in Ogulin surrounded by greenery, ideal for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.209806,
+                        45.257852
+                  ]
+            },
+            {
+                  "name": "Jezero Sabljaci",
+                  "text": "Jezero Sabljaci in Ogulin is an artificial lake popular for swimming, walking, and enjoying the beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.226018,
+                        45.215915
                   ]
             }
       ],
@@ -11473,6 +13570,15 @@ imageHint: "Vinkovci central square and church",
                         17.702689,
                         45.69591
                   ]
+            },
+            {
+                  "name": "Akumulacija Slanac",
+                  "text": "Die Slanac-Talsperre in Slatina bietet eine interessante Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.593387,
+                        45.684571
+                  ]
             }
       ],
       "hu": [
@@ -11510,6 +13616,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.702689,
                         45.69591
+                  ]
+            },
+            {
+                  "name": "Akumulacija Slanac",
+                  "text": "A Slatina-beli Slanac víztározó érdekes tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.593387,
+                        45.684571
                   ]
             }
       ],
@@ -11549,6 +13664,15 @@ imageHint: "Vinkovci central square and church",
                         17.702689,
                         45.69591
                   ]
+            },
+            {
+                  "name": "Akumulacija Slanac",
+                  "text": "Rezervorul Slanac din Slatina oferă un peisaj interesant.",
+                  "category": "natural",
+                  "coords": [
+                        17.593387,
+                        45.684571
+                  ]
             }
       ],
       "en": [
@@ -11586,6 +13710,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.702689,
                         45.69591
+                  ]
+            },
+            {
+                  "name": "Akumulacija Slanac",
+                  "text": "Slanac reservoir in Slatina offers an interesting landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.593387,
+                        45.684571
                   ]
             }
       ],
@@ -11684,6 +13817,15 @@ imageHint: "Vinkovci central square and church",
                         16.826788,
                         45.360763
                   ]
+            },
+            {
+                  "name": "Novljansko jezero",
+                  "text": "Das Novljansko jezero in Novska ist ein herrliches Ziel für erholsame Spaziergänge entlang des Ufers.",
+                  "category": "natural",
+                  "coords": [
+                        17.016945,
+                        45.356615
+                  ]
             }
       ],
       "hu": [
@@ -11694,6 +13836,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.826788,
                         45.360763
+                  ]
+            },
+            {
+                  "name": "Novljansko jezero",
+                  "text": "A Novska-i Novljansko jezero csodálatos célpont a part menti pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.016945,
+                        45.356615
                   ]
             }
       ],
@@ -11706,6 +13857,15 @@ imageHint: "Vinkovci central square and church",
                         16.826788,
                         45.360763
                   ]
+            },
+            {
+                  "name": "Novljansko jezero",
+                  "text": "Novljansko jezero din Novska este o destinație minunată pentru plimbări relaxante de-a lungul malului.",
+                  "category": "natural",
+                  "coords": [
+                        17.016945,
+                        45.356615
+                  ]
             }
       ],
       "en": [
@@ -11716,6 +13876,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.826788,
                         45.360763
+                  ]
+            },
+            {
+                  "name": "Novljansko jezero",
+                  "text": "The Novljansko jezero in Novska is a wonderful destination for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        17.016945,
+                        45.356615
                   ]
             }
       ],
@@ -12018,6 +14187,24 @@ imageHint: "Vinkovci central square and church",
                         15.651261,
                         45.671709
                   ]
+            },
+            {
+                  "name": "Rezervoar vode Prhoć",
+                  "text": "Das Prhoć-Wasserreservoir in Jastrebarsko ist ein schöner Ort in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.687344,
+                        45.712141
+                  ]
+            },
+            {
+                  "name": "Vrelo i kupke Toplice",
+                  "text": "Die Toplice-Quellen in Jastrebarsko bieten ein schönes Naturerlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        15.570803,
+                        45.70672
+                  ]
             }
       ],
       "hu": [
@@ -12064,6 +14251,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.651261,
                         45.671709
+                  ]
+            },
+            {
+                  "name": "Rezervoar vode Prhoć",
+                  "text": "A Jastrebarsko-beli Prhoć víztározó szép hely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.687344,
+                        45.712141
+                  ]
+            },
+            {
+                  "name": "Vrelo i kupke Toplice",
+                  "text": "A Jastrebarsko-beli Toplice-források szép természeti élményt nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        15.570803,
+                        45.70672
                   ]
             }
       ],
@@ -12112,6 +14317,24 @@ imageHint: "Vinkovci central square and church",
                         15.651261,
                         45.671709
                   ]
+            },
+            {
+                  "name": "Rezervoar vode Prhoć",
+                  "text": "Rezervorul de apă Prhoć din Jastrebarsko este un loc frumos în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.687344,
+                        45.712141
+                  ]
+            },
+            {
+                  "name": "Vrelo i kupke Toplice",
+                  "text": "Izvoarele Toplice din Jastrebarsko oferă o experiență naturală frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        15.570803,
+                        45.70672
+                  ]
             }
       ],
       "en": [
@@ -12158,6 +14381,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.651261,
                         45.671709
+                  ]
+            },
+            {
+                  "name": "Rezervoar vode Prhoć",
+                  "text": "Prhoć water reservoir in Jastrebarsko is a beautiful place in nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.687344,
+                        45.712141
+                  ]
+            },
+            {
+                  "name": "Vrelo i kupke Toplice",
+                  "text": "Toplice springs in Jastrebarsko offer a beautiful nature experience.",
+                  "category": "natural",
+                  "coords": [
+                        15.570803,
+                        45.70672
                   ]
             }
       ],
@@ -12442,6 +14683,60 @@ imageHint: "Vinkovci central square and church",
                         17.209192,
                         43.448473
                   ]
+            },
+            {
+                  "name": "Modro jezero",
+                  "text": "Das Modro jezero (Blaue See) in Imotski beeindruckt mit seiner tiefblauen Farbe und ist ein Highlight für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        17.210794,
+                        43.450961
+                  ]
+            },
+            {
+                  "name": "Crveno jezero",
+                  "text": "Das Crveno jezero (Rote See) in Imotski ist berühmt für seine steilen Felswände und faszinierende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.198597,
+                        43.454961
+                  ]
+            },
+            {
+                  "name": "Zečica",
+                  "text": "Der See Zečica in Imotski liegt in einer ruhigen Umgebung und ist perfekt für kleine Entdeckungstouren.",
+                  "category": "natural",
+                  "coords": [
+                        17.270217,
+                        43.487549
+                  ]
+            },
+            {
+                  "name": "Mali Kotao",
+                  "text": "Der See Mali Kotao in Imotski bietet eine friedliche Atmosphäre abseits des Trubels.",
+                  "category": "natural",
+                  "coords": [
+                        17.26749,
+                        43.499164
+                  ]
+            },
+            {
+                  "name": "Katkin bunar",
+                  "text": "Das Gewässer Katkin bunar in Imotski ist ein malerischer Ort für ruhige Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        17.243973,
+                        43.499693
+                  ]
+            },
+            {
+                  "name": "Prološko jezero",
+                  "text": "Das Prološko jezero bei Imotski ist Teil eines interessanten Sumpfgebiets, das im Wechsel der Jahreszeiten sein Gesicht ändert.",
+                  "category": "natural",
+                  "coords": [
+                        17.115405,
+                        43.470941
+                  ]
             }
       ],
       "hu": [
@@ -12488,6 +14783,60 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.209192,
                         43.448473
+                  ]
+            },
+            {
+                  "name": "Modro jezero",
+                  "text": "Az Imotski-ben található Modro jezero (Kék-tó) lenyűgöző kék színével a túrázók egyik kedvence.",
+                  "category": "natural",
+                  "coords": [
+                        17.210794,
+                        43.450961
+                  ]
+            },
+            {
+                  "name": "Crveno jezero",
+                  "text": "Az Imotski melletti Crveno jezero (Vörös-tó) meredek sziklafalairól és lenyűgöző tájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        17.198597,
+                        43.454961
+                  ]
+            },
+            {
+                  "name": "Zečica",
+                  "text": "Az Imotski-ben lévő Zečica tó csendes környezetben fekszik, és tökéletes kisebb felfedező túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.270217,
+                        43.487549
+                  ]
+            },
+            {
+                  "name": "Mali Kotao",
+                  "text": "Az Imotski melletti Mali Kotao tó békés légkört kínál a nyüzsgéstől távol.",
+                  "category": "natural",
+                  "coords": [
+                        17.26749,
+                        43.499164
+                  ]
+            },
+            {
+                  "name": "Katkin bunar",
+                  "text": "Az Imotski-ben található Katkin bunar festői helyszín a csendes szabadtéri pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.243973,
+                        43.499693
+                  ]
+            },
+            {
+                  "name": "Prološko jezero",
+                  "text": "Az Imotski melletti Prološko jezero egy érdekes mocsárvidék része, amely az évszakok változásával együtt változik.",
+                  "category": "natural",
+                  "coords": [
+                        17.115405,
+                        43.470941
                   ]
             }
       ],
@@ -12536,6 +14885,60 @@ imageHint: "Vinkovci central square and church",
                         17.209192,
                         43.448473
                   ]
+            },
+            {
+                  "name": "Modro jezero",
+                  "text": "Modro jezero (Lacul Albastru) din Imotski impresionează prin culoarea sa albastru intens și este o atracție pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        17.210794,
+                        43.450961
+                  ]
+            },
+            {
+                  "name": "Crveno jezero",
+                  "text": "Crveno jezero (Lacul Roșu) din Imotski este renumit pentru pereții săi stâncoși abrupți și peisajul fascinant.",
+                  "category": "natural",
+                  "coords": [
+                        17.198597,
+                        43.454961
+                  ]
+            },
+            {
+                  "name": "Zečica",
+                  "text": "Lacul Zečica din Imotski este situat într-un mediu liniștit și este perfect pentru mici tururi de explorare.",
+                  "category": "natural",
+                  "coords": [
+                        17.270217,
+                        43.487549
+                  ]
+            },
+            {
+                  "name": "Mali Kotao",
+                  "text": "Lacul Mali Kotao din Imotski oferă o atmosferă liniștită departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        17.26749,
+                        43.499164
+                  ]
+            },
+            {
+                  "name": "Katkin bunar",
+                  "text": "Katkin bunar din Imotski este un loc pitoresc pentru momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.243973,
+                        43.499693
+                  ]
+            },
+            {
+                  "name": "Prološko jezero",
+                  "text": "Prološko jezero de lângă Imotski face parte dintr-o zonă mlăștinoasă interesantă care își schimbă aspectul odată cu anotimpurile.",
+                  "category": "natural",
+                  "coords": [
+                        17.115405,
+                        43.470941
+                  ]
             }
       ],
       "en": [
@@ -12582,6 +14985,60 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.209192,
                         43.448473
+                  ]
+            },
+            {
+                  "name": "Modro jezero",
+                  "text": "The Modro jezero (Blue Lake) in Imotski impresses with its deep blue color and is a highlight for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        17.210794,
+                        43.450961
+                  ]
+            },
+            {
+                  "name": "Crveno jezero",
+                  "text": "The Crveno jezero (Red Lake) in Imotski is famous for its steep cliffs and fascinating landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.198597,
+                        43.454961
+                  ]
+            },
+            {
+                  "name": "Zečica",
+                  "text": "The Zečica lake in Imotski is situated in a quiet environment and is perfect for small exploration tours.",
+                  "category": "natural",
+                  "coords": [
+                        17.270217,
+                        43.487549
+                  ]
+            },
+            {
+                  "name": "Mali Kotao",
+                  "text": "The Mali Kotao lake in Imotski offers a peaceful atmosphere away from the hustle and bustle.",
+                  "category": "natural",
+                  "coords": [
+                        17.26749,
+                        43.499164
+                  ]
+            },
+            {
+                  "name": "Katkin bunar",
+                  "text": "Katkin bunar in Imotski is a picturesque spot for quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        17.243973,
+                        43.499693
+                  ]
+            },
+            {
+                  "name": "Prološko jezero",
+                  "text": "The Prološko jezero near Imotski is part of an interesting wetland area that changes its face with the seasons.",
+                  "category": "natural",
+                  "coords": [
+                        17.115405,
+                        43.470941
                   ]
             }
       ],
@@ -12770,6 +15227,15 @@ imageHint: "Vinkovci central square and church",
                         17.225712,
                         45.593598
                   ]
+            },
+            {
+                  "name": "Igralište Mirele Ljutak",
+                  "text": "Igralište Mirele Ljutak ist ein schöner Spielplatz in Daruvar, der Kindern eine sichere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.217846,
+                        45.590358
+                  ]
             }
       ],
       "hu": [
@@ -12861,6 +15327,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.225712,
                         45.593598
+                  ]
+            },
+            {
+                  "name": "Igralište Mirele Ljutak",
+                  "text": "Az Igralište Mirele Ljutak egy kedves játszótér Daruváron, amely biztonságos környezetet nyújt a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        17.217846,
+                        45.590358
                   ]
             }
       ],
@@ -12954,6 +15429,15 @@ imageHint: "Vinkovci central square and church",
                         17.225712,
                         45.593598
                   ]
+            },
+            {
+                  "name": "Igralište Mirele Ljutak",
+                  "text": "Igralište Mirele Ljutak este un loc de joacă minunat situat în Daruvar, oferind copiilor un mediu sigur de joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.217846,
+                        45.590358
+                  ]
             }
       ],
       "en": [
@@ -13045,6 +15529,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.225712,
                         45.593598
+                  ]
+            },
+            {
+                  "name": "Igralište Mirele Ljutak",
+                  "text": "Igralište Mirele Ljutak is a lovely playground located in Daruvar, giving children a safe environment to play.",
+                  "category": "family",
+                  "coords": [
+                        17.217846,
+                        45.590358
                   ]
             }
       ],
@@ -13994,6 +16487,42 @@ imageHint: "Vinkovci central square and church",
                         16.134183,
                         46.200407
                   ]
+            },
+            {
+                  "name": "Šanc i Omladinski bajer",
+                  "text": "Die Seen Šanc und Omladinski bajer in Ivanec sind ein ideales Ausflugsziel.",
+                  "category": "natural",
+                  "coords": [
+                        16.108878,
+                        46.23188
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Der Barutana-See in Ivanec lädt zum Entspannen ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.107127,
+                        46.228105
+                  ]
+            },
+            {
+                  "name": "Jarki",
+                  "text": "Der Jarki-See in Ivanec bietet eine ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        16.133782,
+                        46.223591
+                  ]
+            },
+            {
+                  "name": "Pionirski bajer",
+                  "text": "Der Pionirski-bajer-See in Ivanec ist ein schönes Ziel für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        16.105643,
+                        46.231008
+                  ]
             }
       ],
       "hu": [
@@ -14040,6 +16569,42 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.134183,
                         46.200407
+                  ]
+            },
+            {
+                  "name": "Šanc i Omladinski bajer",
+                  "text": "Az Ivanec-beli Šanc és Omladinski bajer tavak ideális kirándulóhelyek.",
+                  "category": "natural",
+                  "coords": [
+                        16.108878,
+                        46.23188
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Az Ivanec-beli Barutana-tó pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        16.107127,
+                        46.228105
+                  ]
+            },
+            {
+                  "name": "Jarki",
+                  "text": "Az Ivanec-beli Jarki-tó csendes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.133782,
+                        46.223591
+                  ]
+            },
+            {
+                  "name": "Pionirski bajer",
+                  "text": "Az Ivanec-beli Pionirski-bajer-tó szép célpont sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.105643,
+                        46.231008
                   ]
             }
       ],
@@ -14088,6 +16653,42 @@ imageHint: "Vinkovci central square and church",
                         16.134183,
                         46.200407
                   ]
+            },
+            {
+                  "name": "Šanc i Omladinski bajer",
+                  "text": "Lacurile Šanc și Omladinski bajer din Ivanec sunt o destinație ideală de excursie.",
+                  "category": "natural",
+                  "coords": [
+                        16.108878,
+                        46.23188
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Lacul Barutana din Ivanec invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.107127,
+                        46.228105
+                  ]
+            },
+            {
+                  "name": "Jarki",
+                  "text": "Lacul Jarki din Ivanec oferă un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.133782,
+                        46.223591
+                  ]
+            },
+            {
+                  "name": "Pionirski bajer",
+                  "text": "Lacul Pionirski-bajer din Ivanec este o destinație frumoasă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.105643,
+                        46.231008
+                  ]
             }
       ],
       "en": [
@@ -14134,6 +16735,42 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.134183,
                         46.200407
+                  ]
+            },
+            {
+                  "name": "Šanc i Omladinski bajer",
+                  "text": "Šanc and Omladinski bajer lakes in Ivanec are an ideal destination for an excursion.",
+                  "category": "natural",
+                  "coords": [
+                        16.108878,
+                        46.23188
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Barutana lake in Ivanec invites you to relax.",
+                  "category": "natural",
+                  "coords": [
+                        16.107127,
+                        46.228105
+                  ]
+            },
+            {
+                  "name": "Jarki",
+                  "text": "Jarki lake in Ivanec offers a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        16.133782,
+                        46.223591
+                  ]
+            },
+            {
+                  "name": "Pionirski bajer",
+                  "text": "Pionirski-bajer lake in Ivanec is a beautiful destination for walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.105643,
+                        46.231008
                   ]
             }
       ],
@@ -15296,6 +17933,24 @@ imageHint: "Vinkovci central square and church",
                         16.640172,
                         46.234871
                   ]
+            },
+            {
+                  "name": "Izvori slane vode Slanje",
+                  "text": "Die Salzquellen in Slanje bei Ludbreg sind ein einzigartiges Naturphänomen.",
+                  "category": "natural",
+                  "coords": [
+                        16.549745,
+                        46.229578
+                  ]
+            },
+            {
+                  "name": "Dubrava-Stausee",
+                  "text": "Der Dubrava-See bei Ludbreg lädt zum Spazierengehen ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
             }
       ],
       "hu": [
@@ -15315,6 +17970,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.640172,
                         46.234871
+                  ]
+            },
+            {
+                  "name": "Izvori slane vode Slanje",
+                  "text": "A Ludbreg melletti Slanje-beli sóforrások egyedülálló természeti jelenségek.",
+                  "category": "natural",
+                  "coords": [
+                        16.549745,
+                        46.229578
+                  ]
+            },
+            {
+                  "name": "Dubravsko jezero",
+                  "text": "A Ludbreg melletti Dubrava-tó sétára csábít.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
                   ]
             }
       ],
@@ -15336,6 +18009,24 @@ imageHint: "Vinkovci central square and church",
                         16.640172,
                         46.234871
                   ]
+            },
+            {
+                  "name": "Izvori slane vode Slanje",
+                  "text": "Izvoarele sărate din Slanje lângă Ludbreg sunt un fenomen natural unic.",
+                  "category": "natural",
+                  "coords": [
+                        16.549745,
+                        46.229578
+                  ]
+            },
+            {
+                  "name": "Dubravsko jezero",
+                  "text": "Lacul Dubrava de lângă Ludbreg invită la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
             }
       ],
       "en": [
@@ -15355,6 +18046,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.640172,
                         46.234871
+                  ]
+            },
+            {
+                  "name": "Izvori slane vode Slanje",
+                  "text": "The salt springs in Slanje near Ludbreg are a unique natural phenomenon.",
+                  "category": "natural",
+                  "coords": [
+                        16.549745,
+                        46.229578
+                  ]
+            },
+            {
+                  "name": "Lake Dubrava",
+                  "text": "Dubrava lake near Ludbreg invites you for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
                   ]
             }
       ],
@@ -15667,7 +18376,88 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-prelog-cities-v2",
+    id: "croatia-prelog-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magistralka",
+                  "text": "Magistralka ist ein See in Prelog, der sich durch sein ruhiges Wasser auszeichnet und für einen erholsamen Naturspaziergang geeignet ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.651905,
+                        46.326528
+                  ]
+            },
+            {
+                  "name": "Dubrava-Stausee",
+                  "text": "Lake Dubrava ist ein See in Prelog, der eine angenehme natürliche Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magistralka",
+                  "text": "A Magistralka egy Prelogban található tó, amelyet nyugodt vizek jellemeznek, és alkalmas egy pihentető természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.651905,
+                        46.326528
+                  ]
+            },
+            {
+                  "name": "Dubravsko jezero",
+                  "text": "A Lake Dubrava egy tó Prelogban, amely kellemes természeti környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magistralka",
+                  "text": "Magistralka este un lac situat în Prelog, caracterizat de ape calme, potrivite pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.651905,
+                        46.326528
+                  ]
+            },
+            {
+                  "name": "Dubravsko jezero",
+                  "text": "Lake Dubrava este un lac în Prelog, oferind un cadru natural plăcut pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magistralka",
+                  "text": "Magistralka is a lake situated in Prelog, characterized by calm waters suitable for a relaxing nature walk.",
+                  "category": "natural",
+                  "coords": [
+                        16.651905,
+                        46.326528
+                  ]
+            },
+            {
+                  "name": "Lake Dubrava",
+                  "text": "Lake Dubrava is a lake in Prelog, offering a pleasant natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        16.652961,
+                        46.31778
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Prelog", hu: "Perlak", ro: "Prelog", en: "Prelog"},
@@ -16043,6 +18833,24 @@ imageHint: "Vinkovci central square and church",
                         18.40862,
                         45.68759
                   ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Das Gewässer Bara - Mrtvača in Belisce ist ein ruhiger Rückzugsort für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "Der kleine See Gatska pumpa za vodu in Belisce liegt eingebettet in eine erholsame Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
             }
       ],
       "hu": [
@@ -16089,6 +18897,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.40862,
                         45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "A Belisce-ben található Bara - Mrtvača csendes menedék a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "A Belisce-i Gatska pumpa za vodu kis tava pihentető környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
                   ]
             }
       ],
@@ -16137,6 +18963,24 @@ imageHint: "Vinkovci central square and church",
                         18.40862,
                         45.68759
                   ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "Bara - Mrtvača din Belisce este o retragere liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "Micul lac Gatska pumpa za vodu din Belisce este situat într-un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
+                  ]
             }
       ],
       "en": [
@@ -16183,6 +19027,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.40862,
                         45.68759
+                  ]
+            },
+            {
+                  "name": "Bara - Mrtvača",
+                  "text": "The Bara - Mrtvača in Belisce is a quiet retreat for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.456349,
+                        45.6727
+                  ]
+            },
+            {
+                  "name": "Gatska pumpa za vodu",
+                  "text": "The small lake Gatska pumpa za vodu in Belisce is nestled in a relaxing environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.344873,
+                        45.714215
                   ]
             }
       ],
@@ -16764,6 +19626,24 @@ imageHint: "Vinkovci central square and church",
                         18.144153,
                         45.76674
                   ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Mattyi-tó ist ein See in Donji Miholjac, der eine ruhige Umgebung zum Wandern und Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Hétöles-tó",
+                  "text": "Hétöles-tó ist ein See in Donji Miholjac, ideal für entspannende Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.099049,
+                        45.806248
+                  ]
             }
       ],
       "hu": [
@@ -16783,6 +19663,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.144153,
                         45.76674
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "A Mattyi-tó egy tó Donji Miholjacban, amely nyugodt környezetet biztosít a sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Hétöles-tó",
+                  "text": "A Hétöles-tó egy tó Donji Miholjacban, ideális egy pihentető vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.099049,
+                        45.806248
                   ]
             }
       ],
@@ -16804,6 +19702,24 @@ imageHint: "Vinkovci central square and church",
                         18.144153,
                         45.76674
                   ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Mattyi-tó este un lac în Donji Miholjac, oferind un mediu liniștit pentru plimbări și bucuria naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Hétöles-tó",
+                  "text": "Hétöles-tó este un lac în Donji Miholjac, ideal pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.099049,
+                        45.806248
+                  ]
             }
       ],
       "en": [
@@ -16823,6 +19739,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.144153,
                         45.76674
+                  ]
+            },
+            {
+                  "name": "Mattyi-tó",
+                  "text": "Mattyi-tó is a lake in Donji Miholjac, providing a calm environment for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.250771,
+                        45.790099
+                  ]
+            },
+            {
+                  "name": "Hétöles-tó",
+                  "text": "Hétöles-tó is a lake in Donji Miholjac, ideal for relaxing walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.099049,
+                        45.806248
                   ]
             }
       ],
@@ -16982,6 +19916,33 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Der Dunaj-See in Supetar ist ein schöner Ort zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Der Prihode-See in Supetar lädt zur Naturbeobachtung ein.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "Der Cura-See in Supetar bietet eine friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
             }
       ],
       "hu": [
@@ -17028,6 +19989,33 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.556994,
                         43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "A Supetar-beli Dunaj-tó kellemes hely a kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "A Supetar-beli Prihode-tó természetmegfigyelésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "A Supetar-beli Cura-tó békés légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
                   ]
             }
       ],
@@ -17076,6 +20064,33 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Lacul Dunaj din Supetar este un loc frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Lacul Prihode din Supetar invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "Lacul Cura din Supetar oferă o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
+                  ]
             }
       ],
       "en": [
@@ -17122,6 +20137,33 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.556994,
                         43.385917
+                  ]
+            },
+            {
+                  "name": "Dunaj",
+                  "text": "Dunaj lake in Supetar is a beautiful place for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.586963,
+                        43.321785
+                  ]
+            },
+            {
+                  "name": "Prihode",
+                  "text": "Prihode lake in Supetar invites you to observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.517398,
+                        43.364344
+                  ]
+            },
+            {
+                  "name": "Cura",
+                  "text": "Cura lake in Supetar offers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        16.581075,
+                        43.325688
                   ]
             }
       ],
@@ -17438,6 +20480,15 @@ imageHint: "Vinkovci central square and church",
                         14.819607,
                         45.38091
                   ]
+            },
+            {
+                  "name": "Lokvarsko jezero",
+                  "text": "Der Lokvarsko-See bei Delnice ist ein traumhaftes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        14.694506,
+                        45.366783
+                  ]
             }
       ],
       "hu": [
@@ -17457,6 +20508,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         14.819607,
                         45.38091
+                  ]
+            },
+            {
+                  "name": "Lokvarsko jezero",
+                  "text": "A Delnice melletti Lokvarsko-tó álomszerű célpont a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        14.694506,
+                        45.366783
                   ]
             }
       ],
@@ -17478,6 +20538,15 @@ imageHint: "Vinkovci central square and church",
                         14.819607,
                         45.38091
                   ]
+            },
+            {
+                  "name": "Lokvarsko jezero",
+                  "text": "Lacul Lokvarsko de lângă Delnice este o destinație de vis pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.694506,
+                        45.366783
+                  ]
             }
       ],
       "en": [
@@ -17497,6 +20566,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         14.819607,
                         45.38091
+                  ]
+            },
+            {
+                  "name": "Lokvarsko jezero",
+                  "text": "Lokvarsko lake near Delnice is a dream destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        14.694506,
+                        45.366783
                   ]
             }
       ],

@@ -4407,6 +4407,15 @@ export const poiExtraHu1: POI[] = [
                         19.493089,
                         46.433576
                   ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Sóstó ist ein See in Kiskunhalas, der sich ideal für einen entspannten Spaziergang oder zum Genießen der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        19.468595,
+                        46.459128
+                  ]
             }
       ],
       "hu": [
@@ -4575,6 +4584,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.493089,
                         46.433576
+                  ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "A Sóstó egy tó Kiskunhalason, amely tökéletes egy pihentető sétához vagy a természetes táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.468595,
+                        46.459128
                   ]
             }
       ],
@@ -4745,6 +4763,15 @@ export const poiExtraHu1: POI[] = [
                         19.493089,
                         46.433576
                   ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Sóstó este un lac situat în Kiskunhalas, perfect pentru o plimbare relaxantă sau pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        19.468595,
+                        46.459128
+                  ]
             }
       ],
       "en": [
@@ -4913,6 +4940,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.493089,
                         46.433576
+                  ]
+            },
+            {
+                  "name": "Sóstó",
+                  "text": "Sóstó is a lake located in Kiskunhalas, perfect for a relaxing walk or enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.468595,
+                        46.459128
                   ]
             }
       ]
@@ -6007,6 +6043,24 @@ export const poiExtraHu1: POI[] = [
                         20.261989,
                         46.670147
                   ]
+            },
+            {
+                  "name": "Rákóczi utcai-tó",
+                  "text": "Rákóczi utcai-tó ist ein Gewässer in Szentes, das sich gut für einen kurzen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        20.250864,
+                        46.672923
+                  ]
+            },
+            {
+                  "name": "Kurca-part Kalandpark",
+                  "text": "Kurca-part Kalandpark ist ein Abenteuerspielplatz in Szentes, der Spaß für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        20.246299,
+                        46.652888
+                  ]
             }
       ],
       "hu": [
@@ -6137,6 +6191,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.261989,
                         46.670147
+                  ]
+            },
+            {
+                  "name": "Rákóczi utcai-tó",
+                  "text": "A Rákóczi utcai-tó egy tó Szentes városában, amely kiválóan alkalmas egy rövid sétára.",
+                  "category": "natural",
+                  "coords": [
+                        20.250864,
+                        46.672923
+                  ]
+            },
+            {
+                  "name": "Kurca-part Kalandpark",
+                  "text": "A Kurca-part Kalandpark egy kalandpark és játszótér Szentesen, amely az egész családnak szórakozást ígér.",
+                  "category": "family",
+                  "coords": [
+                        20.246299,
+                        46.652888
                   ]
             }
       ],
@@ -6269,6 +6341,24 @@ export const poiExtraHu1: POI[] = [
                         20.261989,
                         46.670147
                   ]
+            },
+            {
+                  "name": "Rákóczi utcai-tó",
+                  "text": "Rákóczi utcai-tó este un lac în Szentes, potrivit pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.250864,
+                        46.672923
+                  ]
+            },
+            {
+                  "name": "Kurca-part Kalandpark",
+                  "text": "Kurca-part Kalandpark este un parc de aventură și loc de joacă în Szentes, care promite distracție pentru toată familia.",
+                  "category": "family",
+                  "coords": [
+                        20.246299,
+                        46.652888
+                  ]
             }
       ],
       "en": [
@@ -6399,6 +6489,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.261989,
                         46.670147
+                  ]
+            },
+            {
+                  "name": "Rákóczi utcai-tó",
+                  "text": "Rákóczi utcai-tó is a lake in Szentes, well suited for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.250864,
+                        46.672923
+                  ]
+            },
+            {
+                  "name": "Kurca-part Kalandpark",
+                  "text": "Kurca-part Kalandpark is an adventure playground in Szentes promising fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        20.246299,
+                        46.652888
                   ]
             }
       ]
@@ -6569,6 +6677,105 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nagyegyházi Park-tó",
+                  "text": "Nagyegyházi Park-tó ist ein See in Bicske, der eine friedliche Umgebung zum Spazierengehen und Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.537577,
+                        47.516895
+                  ]
+            },
+            {
+                  "name": "Bicskei horgásztó",
+                  "text": "Bicskei horgásztó ist ein See in Bicske, ideal für einen malerischen Ausflug ans Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.639316,
+                        47.50087
+                  ]
+            },
+            {
+                  "name": "Nagyegyháza XX.sz. tó",
+                  "text": "Nagyegyháza XX.sz. tó ist ein See in Bicske, der eine ruhige Umgebung für Naturspaziergänge und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.550525,
+                        47.520202
+                  ]
+            },
+            {
+                  "name": "Flothla öböl",
+                  "text": "Flothla öböl ist ein Gewässer in Bicske, an dem Besucher die angenehme Uferlandschaft genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        18.593977,
+                        47.423741
+                  ]
+            },
+            {
+                  "name": "Bodméri-halastó",
+                  "text": "Bodméri-halastó ist ein See in Bicske, der sich für einen gemütlichen Spaziergang am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.550579,
+                        47.444105
+                  ]
+            },
+            {
+                  "name": "Felcsút halastó",
+                  "text": "Der Felcsút halastó in Bicske ist ein malerischer See, der eine entspannende natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.554506,
+                        47.442744
+                  ]
+            },
+            {
+                  "name": "Diana-tó",
+                  "text": "Diana-tó ist ein See in Bicske, der eine ruhige Atmosphäre zum Spazierengehen und Genießen der Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.684189,
+                        47.442287
+                  ]
+            },
+            {
+                  "name": "Telepi-halastó",
+                  "text": "Telepi-halastó ist ein See in Bicske und ein großartiger Ort, um die Natur am Wasser zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.666799,
+                        47.478108
+                  ]
+            },
+            {
+                  "name": "Csabdi víztározó",
+                  "text": "Csabdi víztározó ist ein Stausee in Bicske, perfekt, um die lokale Uferlandschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        18.633625,
+                        47.50589
+                  ]
+            },
+            {
+                  "name": "Zoltán-tó",
+                  "text": "Zoltán-tó ist ein See in Bicske, der Besuchern eine friedliche natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.683247,
+                        47.448585
+                  ]
+            },
+            {
+                  "name": "Mászóka és drótkötélpálya",
+                  "text": "Mászóka és drótkötélpálya ist ein Spielplatz in Bicske, der ein aktives und unterhaltsames Erlebnis für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.628788,
+                        47.492234
+                  ]
             }
       ],
       "hu": [
@@ -6604,6 +6811,105 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nagyegyházi Park-tó",
+                  "text": "A Nagyegyházi Park-tó egy tó Bicskén, amely békés környezetet biztosít a sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.537577,
+                        47.516895
+                  ]
+            },
+            {
+                  "name": "Bicskei horgásztó",
+                  "text": "A Bicskei horgásztó egy Bicskén található tó, amely ideális egy festői vízparti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.639316,
+                        47.50087
+                  ]
+            },
+            {
+                  "name": "Nagyegyháza XX.sz. tó",
+                  "text": "A Nagyegyháza XX.sz. tó egy bicskei tó, amely csendes környezetet kínál természetjáráshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.550525,
+                        47.520202
+                  ]
+            },
+            {
+                  "name": "Flothla öböl",
+                  "text": "A Flothla öböl egy vízterület Bicskén, ahol a látogatók élvezhetik a kellemes vízparti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        18.593977,
+                        47.423741
+                  ]
+            },
+            {
+                  "name": "Bodméri-halastó",
+                  "text": "A Bodméri-halastó egy bicskei tó, amely alkalmas egy kényelmes sétára a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        18.550579,
+                        47.444105
+                  ]
+            },
+            {
+                  "name": "Felcsút halastó",
+                  "text": "A Bicskén található Felcsút halastó egy festői tó, amely pihentető természetes környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.554506,
+                        47.442744
+                  ]
+            },
+            {
+                  "name": "Diana-tó",
+                  "text": "A Diana-tó egy bicskei tó, amely nyugodt légkört biztosít a sétákhoz és a kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.684189,
+                        47.442287
+                  ]
+            },
+            {
+                  "name": "Telepi-halastó",
+                  "text": "A Telepi-halastó egy Bicskén található tó, amely nagyszerű hely a vízparti természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.666799,
+                        47.478108
+                  ]
+            },
+            {
+                  "name": "Csabdi víztározó",
+                  "text": "A Csabdi víztározó egy víztározó Bicskén, amely tökéletes a helyi vízparti táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        18.633625,
+                        47.50589
+                  ]
+            },
+            {
+                  "name": "Zoltán-tó",
+                  "text": "A Zoltán-tó egy bicskei tó, amely békés természetes környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.683247,
+                        47.448585
+                  ]
+            },
+            {
+                  "name": "Mászóka és drótkötélpálya",
+                  "text": "A Mászóka és drótkötélpálya egy bicskei játszótér, amely aktív és szórakoztató élményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.628788,
+                        47.492234
+                  ]
             }
       ],
       "ro": [
@@ -6639,6 +6945,105 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nagyegyházi Park-tó",
+                  "text": "Nagyegyházi Park-tó este un lac în Bicske, oferind un mediu liniștit pentru plimbări și admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.537577,
+                        47.516895
+                  ]
+            },
+            {
+                  "name": "Bicskei horgásztó",
+                  "text": "Bicskei horgásztó este un lac situat în Bicske, ideal pentru o ieșire pitorească la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.639316,
+                        47.50087
+                  ]
+            },
+            {
+                  "name": "Nagyegyháza XX.sz. tó",
+                  "text": "Nagyegyháza XX.sz. tó este un lac în Bicske, oferind un cadru liniștit pentru plimbări în natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.550525,
+                        47.520202
+                  ]
+            },
+            {
+                  "name": "Flothla öböl",
+                  "text": "Flothla öböl este un lac în Bicske unde vizitatorii se pot bucura de peisajul plăcut de la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.593977,
+                        47.423741
+                  ]
+            },
+            {
+                  "name": "Bodméri-halastó",
+                  "text": "Bodméri-halastó este un lac în Bicske, potrivit pentru o plimbare relaxantă de-a lungul malului.",
+                  "category": "natural",
+                  "coords": [
+                        18.550579,
+                        47.444105
+                  ]
+            },
+            {
+                  "name": "Felcsút halastó",
+                  "text": "Situat în Bicske, Felcsút halastó este un lac pitoresc care oferă un mediu natural relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        18.554506,
+                        47.442744
+                  ]
+            },
+            {
+                  "name": "Diana-tó",
+                  "text": "Diana-tó este un lac din Bicske care oferă o atmosferă calmă pentru plimbări și admirarea priveliștilor.",
+                  "category": "natural",
+                  "coords": [
+                        18.684189,
+                        47.442287
+                  ]
+            },
+            {
+                  "name": "Telepi-halastó",
+                  "text": "Telepi-halastó este un lac situat în Bicske, un loc minunat pentru a te bucura de aer liber lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.666799,
+                        47.478108
+                  ]
+            },
+            {
+                  "name": "Csabdi víztározó",
+                  "text": "Csabdi víztározó este un lac de acumulare în Bicske, perfect pentru a aprecia peisajul riveran local.",
+                  "category": "natural",
+                  "coords": [
+                        18.633625,
+                        47.50589
+                  ]
+            },
+            {
+                  "name": "Zoltán-tó",
+                  "text": "Zoltán-tó este un lac în Bicske care oferă vizitatorilor un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.683247,
+                        47.448585
+                  ]
+            },
+            {
+                  "name": "Mászóka és drótkötélpálya",
+                  "text": "Mászóka és drótkötélpálya este un loc de joacă în Bicske, oferind o experiență activă și distractivă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.628788,
+                        47.492234
+                  ]
             }
       ],
       "en": [
@@ -6674,6 +7079,105 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Nagyegyházi Park-tó",
+                  "text": "Nagyegyházi Park-tó is a lake in Bicske, providing a peaceful environment for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.537577,
+                        47.516895
+                  ]
+            },
+            {
+                  "name": "Bicskei horgásztó",
+                  "text": "Bicskei horgásztó is a lake situated in Bicske, ideal for a scenic outing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.639316,
+                        47.50087
+                  ]
+            },
+            {
+                  "name": "Nagyegyháza XX.sz. tó",
+                  "text": "Nagyegyháza XX.sz. tó is a lake in Bicske, offering a quiet setting for nature walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.550525,
+                        47.520202
+                  ]
+            },
+            {
+                  "name": "Flothla öböl",
+                  "text": "Flothla öböl is a water feature in Bicske where visitors can enjoy the pleasant waterside scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.593977,
+                        47.423741
+                  ]
+            },
+            {
+                  "name": "Bodméri-halastó",
+                  "text": "Bodméri-halastó is a lake in Bicske, suitable for a leisurely walk along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.550579,
+                        47.444105
+                  ]
+            },
+            {
+                  "name": "Felcsút halastó",
+                  "text": "Located in Bicske, Felcsút halastó is a scenic lake offering a relaxing natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.554506,
+                        47.442744
+                  ]
+            },
+            {
+                  "name": "Diana-tó",
+                  "text": "Diana-tó is a lake in Bicske that provides a calm atmosphere for walking and taking in the views.",
+                  "category": "natural",
+                  "coords": [
+                        18.684189,
+                        47.442287
+                  ]
+            },
+            {
+                  "name": "Telepi-halastó",
+                  "text": "Telepi-halastó is a lake situated in Bicske, a great spot for enjoying the outdoors near the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.666799,
+                        47.478108
+                  ]
+            },
+            {
+                  "name": "Csabdi víztározó",
+                  "text": "Csabdi víztározó is a reservoir in Bicske, perfect for appreciating the local waterside landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.633625,
+                        47.50589
+                  ]
+            },
+            {
+                  "name": "Zoltán-tó",
+                  "text": "Zoltán-tó is a lake in Bicske offering visitors a peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.683247,
+                        47.448585
+                  ]
+            },
+            {
+                  "name": "Mászóka és drótkötélpálya",
+                  "text": "Mászóka és drótkötélpálya is a playground in Bicske, providing an active and entertaining experience for children.",
+                  "category": "family",
+                  "coords": [
+                        18.628788,
+                        47.492234
+                  ]
             }
       ]
 }
@@ -6945,6 +7449,24 @@ export const poiExtraHu1: POI[] = [
                         17.246589,
                         47.612302
                   ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Der Halastó in Csorna ist ein friedlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        17.354784,
+                        47.613199
+                  ]
+            },
+            {
+                  "name": "Vilmos Park Játszótér",
+                  "text": "Der Vilmos Park Spielplatz in Csorna bietet Spaß für die Kleinen.",
+                  "category": "family",
+                  "coords": [
+                        17.238691,
+                        47.613442
+                  ]
             }
       ],
       "hu": [
@@ -7038,6 +7560,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         17.246589,
                         47.612302
+                  ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "A csornai Halastó egy békés állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        17.354784,
+                        47.613199
+                  ]
+            },
+            {
+                  "name": "Vilmos Park Játszótér",
+                  "text": "A csornai Vilmos Park Játszótér szórakozást kínál a kicsiknek.",
+                  "category": "family",
+                  "coords": [
+                        17.238691,
+                        47.613442
                   ]
             }
       ],
@@ -7133,6 +7673,24 @@ export const poiExtraHu1: POI[] = [
                         17.246589,
                         47.612302
                   ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Halastó din Csorna este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        17.354784,
+                        47.613199
+                  ]
+            },
+            {
+                  "name": "Vilmos Park Játszótér",
+                  "text": "Locul de joacă Vilmos Park din Csorna oferă distracție pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        17.238691,
+                        47.613442
+                  ]
             }
       ],
       "en": [
@@ -7226,6 +7784,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         17.246589,
                         47.612302
+                  ]
+            },
+            {
+                  "name": "Halastó",
+                  "text": "Halastó in Csorna is a peaceful lake.",
+                  "category": "natural",
+                  "coords": [
+                        17.354784,
+                        47.613199
+                  ]
+            },
+            {
+                  "name": "Vilmos Park Játszótér",
+                  "text": "Vilmos Park playground in Csorna offers fun for the little ones.",
+                  "category": "family",
+                  "coords": [
+                        17.238691,
+                        47.613442
                   ]
             }
       ]
@@ -8107,6 +8683,96 @@ export const poiExtraHu1: POI[] = [
                         18.743114,
                         47.720089
                   ]
+            },
+            {
+                  "name": "Csolnoki Horgásztó",
+                  "text": "Csolnoki Horgásztó ist ein See in Dorog, der Ruhe und schöne Ausblicke am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.695684,
+                        47.681535
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Gyilkos-tó ist ein malerischer See in Dorog, der eine interessante Landschaft zum Erkunden bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Kesztölci-tó",
+                  "text": "Kesztölci-tó ist ein See in Dorog, ideal für entspannende Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.804311,
+                        47.699745
+                  ]
+            },
+            {
+                  "name": "Sárisápi horgásztó",
+                  "text": "Sárisápi horgásztó ist ein See in Dorog, an dem man gemütlich am Ufer entlang spazieren kann.",
+                  "category": "natural",
+                  "coords": [
+                        18.682409,
+                        47.658083
+                  ]
+            },
+            {
+                  "name": "privát horgásztó",
+                  "text": "privát horgásztó ist ein ruhiger See in Dorog, der sich gut für Naturliebhaber eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.771807,
+                        47.693259
+                  ]
+            },
+            {
+                  "name": "Halnövesz-tó",
+                  "text": "Halnövesz-tó ist ein See in Dorog, der zu besinnlichen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.809932,
+                        47.69848
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Lóga-tó ist ein Gewässer in Dorog, das sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Bányász",
+                  "text": "Bányász ist ein Spielplatz in Dorog, der Familien mit Kindern eine schöne Zeit ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        18.73127,
+                        47.727803
+                  ]
+            },
+            {
+                  "name": "KalanDorka játszótér",
+                  "text": "KalanDorka játszótér ist ein abwechslungsreicher Spielplatz für Familien in Dorog.",
+                  "category": "family",
+                  "coords": [
+                        18.740185,
+                        47.721168
+                  ]
+            },
+            {
+                  "name": "Játszótér - Kutykurutty",
+                  "text": "Játszótér - Kutykurutty ist ein familienfreundlicher Spielplatz in Dorog mit tollen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        18.741691,
+                        47.716986
+                  ]
             }
       ],
       "hu": [
@@ -8271,6 +8937,96 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.743114,
                         47.720089
+                  ]
+            },
+            {
+                  "name": "Csolnoki Horgásztó",
+                  "text": "A Csolnoki Horgásztó egy tó Dorog mellett, amely nyugalmat és szép vízparti kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.695684,
+                        47.681535
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "A Gyilkos-tó egy festői tó Dorog területén, amely érdekes tájat kínál a felfedezésre.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Kesztölci-tó",
+                  "text": "A Kesztölci-tó egy tó Dorog környékén, ideális pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.804311,
+                        47.699745
+                  ]
+            },
+            {
+                  "name": "Sárisápi horgásztó",
+                  "text": "A Sárisápi horgásztó egy tó Dorog térségében, ahol kényelmesen lehet sétálni a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        18.682409,
+                        47.658083
+                  ]
+            },
+            {
+                  "name": "privát horgásztó",
+                  "text": "A privát horgásztó egy csendes tó Dorog területén, amely kedvelt a természetkedvelők körében.",
+                  "category": "natural",
+                  "coords": [
+                        18.771807,
+                        47.693259
+                  ]
+            },
+            {
+                  "name": "Halnövesz-tó",
+                  "text": "A Halnövesz-tó egy tó Dorog területén, amely meghitt sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        18.809932,
+                        47.69848
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "A Lóga-tó egy vízfelület Dorog városában, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Bányász",
+                  "text": "A Bányász egy játszótér Dorog területén, amely kellemes időtöltést biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.73127,
+                        47.727803
+                  ]
+            },
+            {
+                  "name": "KalanDorka játszótér",
+                  "text": "A KalanDorka játszótér egy változatos játszótér családok számára Dorog városában.",
+                  "category": "family",
+                  "coords": [
+                        18.740185,
+                        47.721168
+                  ]
+            },
+            {
+                  "name": "Játszótér - Kutykurutty",
+                  "text": "A Játszótér - Kutykurutty egy családbarát játszótér Dorog területén nagyszerű játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        18.741691,
+                        47.716986
                   ]
             }
       ],
@@ -8437,6 +9193,96 @@ export const poiExtraHu1: POI[] = [
                         18.743114,
                         47.720089
                   ]
+            },
+            {
+                  "name": "Csolnoki Horgásztó",
+                  "text": "Csolnoki Horgásztó este un lac în Dorog, care oferă liniște și priveliști frumoase la apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.695684,
+                        47.681535
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Gyilkos-tó este un lac pitoresc în Dorog, care oferă un peisaj interesant de explorat.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Kesztölci-tó",
+                  "text": "Kesztölci-tó este un lac în Dorog, ideal pentru excursii relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.804311,
+                        47.699745
+                  ]
+            },
+            {
+                  "name": "Sárisápi horgásztó",
+                  "text": "Sárisápi horgásztó este un lac în Dorog, unde vă puteți plimba confortabil pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        18.682409,
+                        47.658083
+                  ]
+            },
+            {
+                  "name": "privát horgásztó",
+                  "text": "privát horgásztó este un lac liniștit în Dorog, potrivit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.771807,
+                        47.693259
+                  ]
+            },
+            {
+                  "name": "Halnövesz-tó",
+                  "text": "Halnövesz-tó este un lac în Dorog, care invită la plimbări contemplative.",
+                  "category": "natural",
+                  "coords": [
+                        18.809932,
+                        47.69848
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Lóga-tó este un lac în Dorog, care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Bányász",
+                  "text": "Bányász este un loc de joacă în Dorog, care permite familiilor cu copii să petreacă clipe frumoase.",
+                  "category": "family",
+                  "coords": [
+                        18.73127,
+                        47.727803
+                  ]
+            },
+            {
+                  "name": "KalanDorka játszótér",
+                  "text": "KalanDorka játszótér este un loc de joacă variat pentru familii în Dorog.",
+                  "category": "family",
+                  "coords": [
+                        18.740185,
+                        47.721168
+                  ]
+            },
+            {
+                  "name": "Játszótér - Kutykurutty",
+                  "text": "Játszótér - Kutykurutty este un loc de joacă pentru familii în Dorog cu echipamente grozave.",
+                  "category": "family",
+                  "coords": [
+                        18.741691,
+                        47.716986
+                  ]
             }
       ],
       "en": [
@@ -8601,6 +9447,96 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.743114,
                         47.720089
+                  ]
+            },
+            {
+                  "name": "Csolnoki Horgásztó",
+                  "text": "Csolnoki Horgásztó is a lake in Dorog, offering peace and beautiful views by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.695684,
+                        47.681535
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "Gyilkos-tó is a scenic lake in Dorog, offering an interesting landscape to explore.",
+                  "category": "natural",
+                  "coords": [
+                        18.738073,
+                        47.747328
+                  ]
+            },
+            {
+                  "name": "Kesztölci-tó",
+                  "text": "Kesztölci-tó is a lake in Dorog, ideal for relaxing excursions in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.804311,
+                        47.699745
+                  ]
+            },
+            {
+                  "name": "Sárisápi horgásztó",
+                  "text": "Sárisápi horgásztó is a lake in Dorog where you can stroll comfortably along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        18.682409,
+                        47.658083
+                  ]
+            },
+            {
+                  "name": "privát horgásztó",
+                  "text": "privát horgásztó is a quiet lake in Dorog, well suited for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.771807,
+                        47.693259
+                  ]
+            },
+            {
+                  "name": "Halnövesz-tó",
+                  "text": "Halnövesz-tó is a lake in Dorog, inviting for contemplative walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.809932,
+                        47.69848
+                  ]
+            },
+            {
+                  "name": "Lóga-tó",
+                  "text": "Lóga-tó is a body of water in Dorog that blends harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.748061,
+                        47.723768
+                  ]
+            },
+            {
+                  "name": "Bányász",
+                  "text": "Bányász is a playground in Dorog, allowing families with children to have a good time.",
+                  "category": "family",
+                  "coords": [
+                        18.73127,
+                        47.727803
+                  ]
+            },
+            {
+                  "name": "KalanDorka játszótér",
+                  "text": "KalanDorka játszótér is a varied playground for families in Dorog.",
+                  "category": "family",
+                  "coords": [
+                        18.740185,
+                        47.721168
+                  ]
+            },
+            {
+                  "name": "Játszótér - Kutykurutty",
+                  "text": "Játszótér - Kutykurutty is a family-friendly playground in Dorog with great play equipment.",
+                  "category": "family",
+                  "coords": [
+                        18.741691,
+                        47.716986
                   ]
             }
       ]
@@ -9185,6 +10121,33 @@ export const poiExtraHu1: POI[] = [
                         19.694076,
                         47.911912
                   ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó ist ein Stausee in Paszto, ideal für einen malerischen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Strand játszótér ist ein familienfreundlicher Spielplatz in Paszto, auf dem Kinder spielen und sich austoben können.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér ist ein Spielplatz in Paszto, der einen wunderbaren Spielbereich im Freien für Kinder schafft.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
             }
       ],
       "hu": [
@@ -9267,6 +10230,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.694076,
                         47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "A Hasznosi víztározó egy pásztói víztározó, amely ideális egy festői sétára a víz mentén.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "A Strand játszótér egy családbarát játszótér Pásztón, ahol a gyerekek játszhatnak és levezethetik az energiájukat.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "A Régi vásártér utcai játszótér egy pásztói játszótér, amely nagyszerű szabadtéri játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
                   ]
             }
       ],
@@ -9351,6 +10341,33 @@ export const poiExtraHu1: POI[] = [
                         19.694076,
                         47.911912
                   ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó este un lac de acumulare în Paszto, ideal pentru o plimbare pitorească de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Strand játszótér este un loc de joacă potrivit pentru familii în Paszto, unde copiii se pot juca și consuma energia.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér este un loc de joacă în Paszto, creând o zonă minunată de joacă în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
+                  ]
             }
       ],
       "en": [
@@ -9433,6 +10450,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.694076,
                         47.911912
+                  ]
+            },
+            {
+                  "name": "Hasznosi víztározó",
+                  "text": "Hasznosi víztározó is a reservoir in Paszto, ideal for a scenic stroll along the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.766848,
+                        47.926038
+                  ]
+            },
+            {
+                  "name": "Strand játszótér",
+                  "text": "Strand játszótér is a family-friendly playground in Paszto where kids can play and expend their energy.",
+                  "category": "family",
+                  "coords": [
+                        19.700771,
+                        47.9295
+                  ]
+            },
+            {
+                  "name": "Régi vásártér utcai játszótér",
+                  "text": "Régi vásártér utcai játszótér is a playground in Paszto, creating a wonderful outdoor play area for kids.",
+                  "category": "family",
+                  "coords": [
+                        19.708194,
+                        47.926405
                   ]
             }
       ]
@@ -9750,6 +10794,15 @@ export const poiExtraHu1: POI[] = [
                         18.955534,
                         47.167613
                   ]
+            },
+            {
+                  "name": "Tulipán játszótér",
+                  "text": "Der Tulipán Spielplatz in Rackeve ist ein schöner Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.942665,
+                        47.151598
+                  ]
             }
       ],
       "hu": [
@@ -9889,6 +10942,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.955534,
                         47.167613
+                  ]
+            },
+            {
+                  "name": "Tulipán játszótér",
+                  "text": "A ráckevei Tulipán játszótér egy kellemes hely a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.942665,
+                        47.151598
                   ]
             }
       ],
@@ -10030,6 +11092,15 @@ export const poiExtraHu1: POI[] = [
                         18.955534,
                         47.167613
                   ]
+            },
+            {
+                  "name": "Tulipán játszótér",
+                  "text": "Locul de joacă Tulipán din Rackeve este un loc plăcut pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.942665,
+                        47.151598
+                  ]
             }
       ],
       "en": [
@@ -10169,6 +11240,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.955534,
                         47.167613
+                  ]
+            },
+            {
+                  "name": "Tulipán játszótér",
+                  "text": "Tulipán playground in Rackeve is a nice place for children.",
+                  "category": "family",
+                  "coords": [
+                        18.942665,
+                        47.151598
                   ]
             }
       ]
@@ -10596,6 +11676,42 @@ export const poiExtraHu1: POI[] = [
                         18.985605,
                         47.80602
                   ]
+            },
+            {
+                  "name": "Torony-alja horgásztó",
+                  "text": "Torony-alja horgásztó ist ein See in Nagymaros, wunderbar gelegen für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.947245,
+                        47.851942
+                  ]
+            },
+            {
+                  "name": "Kleine Fitze",
+                  "text": "Büdös-tó ist ein See in Nagymaros, der eine interessante Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.938553,
+                        47.792487
+                  ]
+            },
+            {
+                  "name": "Pisztrángos horgásztó",
+                  "text": "Pisztrángos horgásztó ist ein idyllischer See in Nagymaros für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.981066,
+                        47.766553
+                  ]
+            },
+            {
+                  "name": "Kacsaliget Játszótér",
+                  "text": "Kacsaliget Játszótér ist ein schöner Spielplatz in Nagymaros, ideal für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        18.959918,
+                        47.793594
+                  ]
             }
       ],
       "hu": [
@@ -10969,6 +12085,42 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.985605,
                         47.80602
+                  ]
+            },
+            {
+                  "name": "Torony-alja horgásztó",
+                  "text": "A Torony-alja horgásztó egy tó Nagymaros területén, csodálatos helyen egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.947245,
+                        47.851942
+                  ]
+            },
+            {
+                  "name": "Büdös-tó",
+                  "text": "A Büdös-tó egy tó Nagymaros területén, amely érdekes természeti kulisszát nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.938553,
+                        47.792487
+                  ]
+            },
+            {
+                  "name": "Pisztrángos horgásztó",
+                  "text": "A Pisztrángos horgásztó egy idilli tó Nagymaros városában, vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.981066,
+                        47.766553
+                  ]
+            },
+            {
+                  "name": "Kacsaliget Játszótér",
+                  "text": "A Kacsaliget Játszótér egy szép játszótér Nagymaros területén, ideális családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.959918,
+                        47.793594
                   ]
             }
       ],
@@ -11344,6 +12496,42 @@ export const poiExtraHu1: POI[] = [
                         18.985605,
                         47.80602
                   ]
+            },
+            {
+                  "name": "Torony-alja horgásztó",
+                  "text": "Torony-alja horgásztó este un lac în Nagymaros, minunat situat pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        18.947245,
+                        47.851942
+                  ]
+            },
+            {
+                  "name": "Büdös-tó",
+                  "text": "Büdös-tó este un lac în Nagymaros, oferind un decor natural interesant.",
+                  "category": "natural",
+                  "coords": [
+                        18.938553,
+                        47.792487
+                  ]
+            },
+            {
+                  "name": "Pisztrángos horgásztó",
+                  "text": "Pisztrángos horgásztó este un lac idilic în Nagymaros pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.981066,
+                        47.766553
+                  ]
+            },
+            {
+                  "name": "Kacsaliget Játszótér",
+                  "text": "Kacsaliget Játszótér este un loc de joacă frumos în Nagymaros, ideal pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.959918,
+                        47.793594
+                  ]
             }
       ],
       "en": [
@@ -11717,6 +12905,42 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.985605,
                         47.80602
+                  ]
+            },
+            {
+                  "name": "Torony-alja horgásztó",
+                  "text": "Torony-alja horgásztó is a lake in Nagymaros, wonderfully situated for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.947245,
+                        47.851942
+                  ]
+            },
+            {
+                  "name": "Büdös-tó",
+                  "text": "Büdös-tó is a lake in Nagymaros, offering an interesting natural backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        18.938553,
+                        47.792487
+                  ]
+            },
+            {
+                  "name": "Pisztrángos horgásztó",
+                  "text": "Pisztrángos horgásztó is an idyllic lake in Nagymaros for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.981066,
+                        47.766553
+                  ]
+            },
+            {
+                  "name": "Kacsaliget Játszótér",
+                  "text": "Kacsaliget Játszótér is a beautiful playground in Nagymaros, ideal for family outings.",
+                  "category": "family",
+                  "coords": [
+                        18.959918,
+                        47.793594
                   ]
             }
       ]
@@ -13354,6 +14578,24 @@ export const poiExtraHu1: POI[] = [
                         16.788894,
                         47.056723
                   ]
+            },
+            {
+                  "name": "Tizennégyes-tó",
+                  "text": "Tizennégyes-tó ist ein See in Vasvar, der eine ruhige Kulisse für einen entspannten Spaziergang im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.785899,
+                        47.06725
+                  ]
+            },
+            {
+                  "name": "Tüzivíztározó",
+                  "text": "Tüzivíztározó ist ein Wasserbecken in Vasvar, an dem Besucher die ruhige Uferlandschaft schätzen können.",
+                  "category": "natural",
+                  "coords": [
+                        16.836922,
+                        47.002039
+                  ]
             }
       ],
       "hu": [
@@ -13433,6 +14675,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         16.788894,
                         47.056723
+                  ]
+            },
+            {
+                  "name": "Tizennégyes-tó",
+                  "text": "A Tizennégyes-tó egy vasvári tó, amely derűs hátteret biztosít egy pihentető szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        16.785899,
+                        47.06725
+                  ]
+            },
+            {
+                  "name": "Tüzivíztározó",
+                  "text": "A Tüzivíztározó egy vasvári víztározó, ahol a látogatók gyönyörködhetnek a csendes vízparti tájban.",
+                  "category": "natural",
+                  "coords": [
+                        16.836922,
+                        47.002039
                   ]
             }
       ],
@@ -13514,6 +14774,24 @@ export const poiExtraHu1: POI[] = [
                         16.788894,
                         47.056723
                   ]
+            },
+            {
+                  "name": "Tizennégyes-tó",
+                  "text": "Tizennégyes-tó este un lac în Vasvar, oferind un fundal senin pentru o plimbare relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.785899,
+                        47.06725
+                  ]
+            },
+            {
+                  "name": "Tüzivíztározó",
+                  "text": "Tüzivíztározó este un lac de acumulare în Vasvar unde vizitatorii pot aprecia peisajul liniștit de lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        16.836922,
+                        47.002039
+                  ]
             }
       ],
       "en": [
@@ -13593,6 +14871,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         16.788894,
                         47.056723
+                  ]
+            },
+            {
+                  "name": "Tizennégyes-tó",
+                  "text": "Tizennégyes-tó is a lake in Vasvar, providing a serene backdrop for a relaxing walk outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        16.785899,
+                        47.06725
+                  ]
+            },
+            {
+                  "name": "Tüzivíztározó",
+                  "text": "Tüzivíztározó is a reservoir in Vasvar where visitors can appreciate the quiet waterside landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.836922,
+                        47.002039
                   ]
             }
       ]
@@ -14136,6 +15432,24 @@ export const poiExtraHu1: POI[] = [
                         17.571749,
                         47.105997
                   ]
+            },
+            {
+                  "name": "Sobri-tó",
+                  "text": "Sobri-tó ist ein See in Ajka, der sich hervorragend für Spaziergänge in der Natur anbietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.626234,
+                        47.130613
+                  ]
+            },
+            {
+                  "name": "Fuchs-tó",
+                  "text": "Fuchs-tó ist ein See in Ajka, der eine ruhige Atmosphäre für Spaziergänger bereithält.",
+                  "category": "natural",
+                  "coords": [
+                        17.476765,
+                        47.090727
+                  ]
             }
       ],
       "hu": [
@@ -14228,6 +15542,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         17.571749,
                         47.105997
+                  ]
+            },
+            {
+                  "name": "Sobri-tó",
+                  "text": "A Sobri-tó egy tó Ajka területén, amely kiválóan alkalmas természetjárásra és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        17.626234,
+                        47.130613
+                  ]
+            },
+            {
+                  "name": "Fuchs-tó",
+                  "text": "A Fuchs-tó egy tó Ajka városában, amely nyugodt légkört kínál a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.476765,
+                        47.090727
                   ]
             }
       ],
@@ -14322,6 +15654,24 @@ export const poiExtraHu1: POI[] = [
                         17.571749,
                         47.105997
                   ]
+            },
+            {
+                  "name": "Sobri-tó",
+                  "text": "Sobri-tó este un lac în Ajka, excelent pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.626234,
+                        47.130613
+                  ]
+            },
+            {
+                  "name": "Fuchs-tó",
+                  "text": "Fuchs-tó este un lac în Ajka, oferind o atmosferă liniștită pentru plimbăreți.",
+                  "category": "natural",
+                  "coords": [
+                        17.476765,
+                        47.090727
+                  ]
             }
       ],
       "en": [
@@ -14415,6 +15765,24 @@ export const poiExtraHu1: POI[] = [
                         17.571749,
                         47.105997
                   ]
+            },
+            {
+                  "name": "Sobri-tó",
+                  "text": "Sobri-tó is a lake in Ajka, excellent for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.626234,
+                        47.130613
+                  ]
+            },
+            {
+                  "name": "Fuchs-tó",
+                  "text": "Fuchs-tó is a lake in Ajka, offering a peaceful atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        17.476765,
+                        47.090727
+                  ]
             }
       ]
 }
@@ -14504,6 +15872,15 @@ export const poiExtraHu1: POI[] = [
                         18.108064,
                         47.119108
                   ]
+            },
+            {
+                  "name": "Kapossy-tározó",
+                  "text": "Kapossy-tározó ist ein See in Berhida, der ein schönes Naturgebiet für einen ruhigen Spaziergang am Wasser darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        18.123514,
+                        47.165
+                  ]
             }
       ],
       "hu": [
@@ -14547,6 +15924,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.108064,
                         47.119108
+                  ]
+            },
+            {
+                  "name": "Kapossy-tározó",
+                  "text": "A Kapossy-tározó egy berhidai tó, amely szép természeti területet kínál egy békés vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.123514,
+                        47.165
                   ]
             }
       ],
@@ -14592,6 +15978,15 @@ export const poiExtraHu1: POI[] = [
                         18.108064,
                         47.119108
                   ]
+            },
+            {
+                  "name": "Kapossy-tározó",
+                  "text": "Kapossy-tározó este un lac în Berhida, prezentând o zonă naturală minunată pentru o plimbare liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.123514,
+                        47.165
+                  ]
             }
       ],
       "en": [
@@ -14635,6 +16030,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.108064,
                         47.119108
+                  ]
+            },
+            {
+                  "name": "Kapossy-tározó",
+                  "text": "Kapossy-tározó is a lake in Berhida, presenting a lovely natural area for a peaceful walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.123514,
+                        47.165
                   ]
             }
       ]
@@ -15184,6 +16588,15 @@ export const poiExtraHu1: POI[] = [
                         16.568741,
                         46.849899
                   ]
+            },
+            {
+                  "name": "Vadása-tó",
+                  "text": "Vadása-tó ist ein bekannter See in Zalaloevo, ideal zum Schwimmen und für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        16.552073,
+                        46.879006
+                  ]
             }
       ],
       "hu": [
@@ -15254,6 +16667,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         16.568741,
                         46.849899
+                  ]
+            },
+            {
+                  "name": "Vadása-tó",
+                  "text": "A Vadása-tó egy híres tó Zalalövő térségében, amely ideális fürdőzéshez és pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.552073,
+                        46.879006
                   ]
             }
       ],
@@ -15326,6 +16748,15 @@ export const poiExtraHu1: POI[] = [
                         16.568741,
                         46.849899
                   ]
+            },
+            {
+                  "name": "Vadása-tó",
+                  "text": "Vadása-tó este un lac renumit în Zalaloevo, ideal pentru înot și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        16.552073,
+                        46.879006
+                  ]
             }
       ],
       "en": [
@@ -15396,6 +16827,15 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         16.568741,
                         46.849899
+                  ]
+            },
+            {
+                  "name": "Vadása-tó",
+                  "text": "Vadása-tó is a famous lake in Zalaloevo, ideal for swimming and relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        16.552073,
+                        46.879006
                   ]
             }
       ]

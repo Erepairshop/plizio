@@ -1276,6 +1276,15 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                         22.421588,
                         39.641968
                   ]
+            },
+            {
+                  "name": "Δαόχου & Κατσίγρα",
+                  "text": "Δαόχου & Κατσίγρα ist ein Spielplatz in Larissa, der Platz für spielende Kinder und entspannende Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
             }
       ],
       "hu": [
@@ -1439,6 +1448,15 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "coords": [
                         22.421588,
                         39.641968
+                  ]
+            },
+            {
+                  "name": "Δαόχου & Κατσίγρα",
+                  "text": "A Δαόχου & Κατσίγρα egy játszótér Larissában, amely teret kínál a gyerekek játékához és a családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
                   ]
             }
       ],
@@ -1604,6 +1622,15 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                         22.421588,
                         39.641968
                   ]
+            },
+            {
+                  "name": "Δαόχου & Κατσίγρα",
+                  "text": "Δαόχου & Κατσίγρα este un loc de joacă în Larissa, oferind un spațiu pentru joaca copiilor și relaxarea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
             }
       ],
       "en": [
@@ -1767,6 +1794,15 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   "coords": [
                         22.421588,
                         39.641968
+                  ]
+            },
+            {
+                  "name": "Δαόχου & Κατσίγρα",
+                  "text": "Δαόχου & Κατσίγρα is a playground in Larissa, offering a space for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
                   ]
             }
       ]
@@ -3150,6 +3186,60 @@ imageHint: "Volos port promenade and Pagasetic Gulf",
                         20.856714,
                         39.667276
                   ]
+            },
+            {
+                  "name": "Πηγάδι",
+                  "text": "Der Πηγάδι in Ioannina ist ein kleiner, ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        20.841373,
+                        39.642964
+                  ]
+            },
+            {
+                  "name": "Pamvotida-See",
+                  "text": "Der Pamvotida Lake in Ioannina ist ein landschaftlich reizvoller See.",
+                  "category": "natural",
+                  "coords": [
+                        20.883729,
+                        39.66076
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Σχολείο Νήσου",
+                  "text": "Der Δημοτικό Σχολείο Νήσου in Ioannina ist ein toller Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.873558,
+                        39.680286
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Γαριβάλδη",
+                  "text": "Die Παιδική χαρά Γαριβάλδη in Ioannina bietet viel Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        20.859103,
+                        39.665737
+                  ]
+            },
+            {
+                  "name": "Δημοτική  Παιδική Χαρά",
+                  "text": "Die Δημοτική Παιδική Χαρά in Ioannina ist ein beliebter Spielplatz für Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.851386,
+                        39.659269
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Δροσιάς",
+                  "text": "Die Παιδική Χαρά Δροσιάς in Ioannina bietet eine tolle Spielumgebung.",
+                  "category": "family",
+                  "coords": [
+                        20.839266,
+                        39.662855
+                  ]
             }
       ],
       "hu": [
@@ -3313,6 +3403,60 @@ imageHint: "Volos port promenade and Pagasetic Gulf",
                   "coords": [
                         20.856714,
                         39.667276
+                  ]
+            },
+            {
+                  "name": "Πηγάδι",
+                  "text": "A Πηγάδι Ioanninában egy kis, csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        20.841373,
+                        39.642964
+                  ]
+            },
+            {
+                  "name": "Λίμνη Παμβώτιδα",
+                  "text": "A Pamvotida Lake Ioanninában egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        20.883729,
+                        39.66076
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Σχολείο Νήσου",
+                  "text": "A Δημοτικό Σχολείο Νήσου Ioanninában egy nagyszerű játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.873558,
+                        39.680286
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Γαριβάλδη",
+                  "text": "A Παιδική χαρά Γαριβάλδη Ioanninában sok szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        20.859103,
+                        39.665737
+                  ]
+            },
+            {
+                  "name": "Δημοτική  Παιδική Χαρά",
+                  "text": "A Δημοτική Παιδική Χαρά Ioanninában népszerű játszótér a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.851386,
+                        39.659269
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Δροσιάς",
+                  "text": "A Παιδική Χαρά Δροσιάς Ioanninában nagyszerű játékkörnyezetet biztosít.",
+                  "category": "family",
+                  "coords": [
+                        20.839266,
+                        39.662855
                   ]
             }
       ],
@@ -3478,6 +3622,60 @@ imageHint: "Volos port promenade and Pagasetic Gulf",
                         20.856714,
                         39.667276
                   ]
+            },
+            {
+                  "name": "Πηγάδι",
+                  "text": "Πηγάδι din Ioannina este un lac mic și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        20.841373,
+                        39.642964
+                  ]
+            },
+            {
+                  "name": "Λίμνη Παμβώτιδα",
+                  "text": "Pamvotida Lake din Ioannina este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        20.883729,
+                        39.66076
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Σχολείο Νήσου",
+                  "text": "Δημοτικό Σχολείο Νήσου din Ioannina este un loc de joacă minunat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.873558,
+                        39.680286
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Γαριβάλδη",
+                  "text": "Παιδική χαρά Γαριβάλδη din Ioannina oferă multă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.859103,
+                        39.665737
+                  ]
+            },
+            {
+                  "name": "Δημοτική  Παιδική Χαρά",
+                  "text": "Δημοτική Παιδική Χαρά din Ioannina este un loc de joacă popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.851386,
+                        39.659269
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Δροσιάς",
+                  "text": "Παιδική Χαρά Δροσιάς din Ioannina oferă un mediu de joacă excelent.",
+                  "category": "family",
+                  "coords": [
+                        20.839266,
+                        39.662855
+                  ]
             }
       ],
       "en": [
@@ -3641,6 +3839,60 @@ imageHint: "Volos port promenade and Pagasetic Gulf",
                   "coords": [
                         20.856714,
                         39.667276
+                  ]
+            },
+            {
+                  "name": "Πηγάδι",
+                  "text": "Πηγάδι in Ioannina is a small, quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        20.841373,
+                        39.642964
+                  ]
+            },
+            {
+                  "name": "Pamvotida Lake",
+                  "text": "Pamvotida Lake in Ioannina is a scenic lake.",
+                  "category": "natural",
+                  "coords": [
+                        20.883729,
+                        39.66076
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Σχολείο Νήσου",
+                  "text": "Δημοτικό Σχολείο Νήσου in Ioannina is a great playground for children.",
+                  "category": "family",
+                  "coords": [
+                        20.873558,
+                        39.680286
+                  ]
+            },
+            {
+                  "name": "Παιδική χαρά Γαριβάλδη",
+                  "text": "Παιδική χαρά Γαριβάλδη in Ioannina offers plenty of fun for kids.",
+                  "category": "family",
+                  "coords": [
+                        20.859103,
+                        39.665737
+                  ]
+            },
+            {
+                  "name": "Δημοτική  Παιδική Χαρά",
+                  "text": "Δημοτική Παιδική Χαρά in Ioannina is a popular playground for families.",
+                  "category": "family",
+                  "coords": [
+                        20.851386,
+                        39.659269
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Δροσιάς",
+                  "text": "Παιδική Χαρά Δροσιάς in Ioannina provides a great play environment.",
+                  "category": "family",
+                  "coords": [
+                        20.839266,
+                        39.662855
                   ]
             }
       ]
@@ -4542,6 +4794,24 @@ imageHint: "Kavala Ottoman aqueduct Kamares",
                         22.204172,
                         40.530886
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Αγίας Βαρβάρας",
+                  "text": "Agia Varvara Reservoir Lake in Veria ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.256706,
+                        40.486859
+                  ]
+            },
+            {
+                  "name": "Asomata-Stausee",
+                  "text": "Asomata Reservoir Lake in Veria ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.215604,
+                        40.436521
+                  ]
             }
       ],
       "hu": [
@@ -4795,6 +5065,24 @@ imageHint: "Kavala Ottoman aqueduct Kamares",
                   "coords": [
                         22.204172,
                         40.530886
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Αγίας Βαρβάρας",
+                  "text": "A(z) Agia Varvara Reservoir Lake egy békés tó Veria területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.256706,
+                        40.486859
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Ασωμάτων",
+                  "text": "A(z) Asomata Reservoir Lake egy békés tó Veria területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.215604,
+                        40.436521
                   ]
             }
       ],
@@ -5050,6 +5338,24 @@ imageHint: "Kavala Ottoman aqueduct Kamares",
                         22.204172,
                         40.530886
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Αγίας Βαρβάρας",
+                  "text": "Agia Varvara Reservoir Lake din Veria este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.256706,
+                        40.486859
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Ασωμάτων",
+                  "text": "Asomata Reservoir Lake din Veria este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.215604,
+                        40.436521
+                  ]
             }
       ],
       "en": [
@@ -5303,6 +5609,24 @@ imageHint: "Kavala Ottoman aqueduct Kamares",
                   "coords": [
                         22.204172,
                         40.530886
+                  ]
+            },
+            {
+                  "name": "Agia Varvara Reservoir Lake",
+                  "text": "Agia Varvara Reservoir Lake in Veria is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.256706,
+                        40.486859
+                  ]
+            },
+            {
+                  "name": "Asomata Reservoir Lake",
+                  "text": "Asomata Reservoir Lake in Veria is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.215604,
+                        40.436521
                   ]
             }
       ]
@@ -6980,6 +7304,33 @@ imageHint: "Rhodes Palace of the Grand Master",
                         21.375371,
                         38.628161
                   ]
+            },
+            {
+                  "name": "Lysimachia-See",
+                  "text": "Der Lysimachia-See in Agrinio ist ein natürlicher See, der Besuchern eine malerische Aussicht und eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.376779,
+                        38.559785
+                  ]
+            },
+            {
+                  "name": "Stratos-Stausee",
+                  "text": "Der Stratos-Stausee in Agrinio ist ein weitläufiges Seengebiet, das sich perfekt zur Bewunderung der Naturkulisse eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.337526,
+                        38.704641
+                  ]
+            },
+            {
+                  "name": "Trichonida-See",
+                  "text": "Der Trichonida-See in Agrinio ist ein wunderschöner See, der Möglichkeiten für entspannende Spaziergänge am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.551718,
+                        38.555913
+                  ]
             }
       ],
       "hu": [
@@ -7044,6 +7395,33 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "coords": [
                         21.375371,
                         38.628161
+                  ]
+            },
+            {
+                  "name": "Λίμνη Λυσιμαχία",
+                  "text": "Az Agrinióban található Lysimachia-tó egy természetes tó, amely festői kilátást és nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.376779,
+                        38.559785
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Στράτου",
+                  "text": "Az agriniói Stratos-víztározó egy hatalmas tóvidék, amely tökéletes a természeti táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        21.337526,
+                        38.704641
+                  ]
+            },
+            {
+                  "name": "Λίμνη Τριχωνίδα",
+                  "text": "Az agriniói Trichonida-tó egy gyönyörű tó, amely lehetőséget kínál a vízparti pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        21.551718,
+                        38.555913
                   ]
             }
       ],
@@ -7110,6 +7488,33 @@ imageHint: "Rhodes Palace of the Grand Master",
                         21.375371,
                         38.628161
                   ]
+            },
+            {
+                  "name": "Λίμνη Λυσιμαχία",
+                  "text": "Lacul Lysimachia din Agrinio este un lac natural care oferă vederi pitorești și un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        21.376779,
+                        38.559785
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Στράτου",
+                  "text": "Lacul de acumulare Stratos din Agrinio este o zonă vastă a lacului, perfectă pentru a admira peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        21.337526,
+                        38.704641
+                  ]
+            },
+            {
+                  "name": "Λίμνη Τριχωνίδα",
+                  "text": "Lacul Trichonida din Agrinio este un lac frumos care oferă oportunități pentru plimbări relaxante de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.551718,
+                        38.555913
+                  ]
             }
       ],
       "en": [
@@ -7174,6 +7579,33 @@ imageHint: "Rhodes Palace of the Grand Master",
                   "coords": [
                         21.375371,
                         38.628161
+                  ]
+            },
+            {
+                  "name": "Lake Lysimachia",
+                  "text": "Lake Lysimachia in Agrinio is a natural lake providing scenic views and a tranquil environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        21.376779,
+                        38.559785
+                  ]
+            },
+            {
+                  "name": "Stratos Reservoir Lake",
+                  "text": "Stratos Reservoir Lake in Agrinio is a vast lake area, perfect for admiring the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        21.337526,
+                        38.704641
+                  ]
+            },
+            {
+                  "name": "Lake Trichonida",
+                  "text": "Lake Trichonida in Agrinio is a beautiful lake offering opportunities for relaxing walks along the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.551718,
+                        38.555913
                   ]
             }
       ]
@@ -7269,7 +7701,88 @@ imageHint: "Katerini city park and Olympus in background",
     },
     image: "/poi-images/greece-katerini-cities-v2.webp",
 },  {
-    id: "greece-chania-cities-v2",
+    id: "greece-chania-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "PRIVATE RESERVOIR",
+                  "text": "PRIVATE RESERVOIR in Chania ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        23.944074,
+                        35.485736
+                  ]
+            },
+            {
+                  "name": "Barcade",
+                  "text": "Barcade in Chania ist eine fantastische Spielhalle, in der Familien gemeinsam eine Vielzahl unterhaltsamer Spiele genießen können.",
+                  "category": "family",
+                  "coords": [
+                        24.017346,
+                        35.514255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PRIVATE RESERVOIR",
+                  "text": "A(z) PRIVATE RESERVOIR egy békés tó Chania területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.944074,
+                        35.485736
+                  ]
+            },
+            {
+                  "name": "Barcade",
+                  "text": "A(z) Barcade egy fantasztikus játékterem Chania területén, ahol a családok együtt élvezhetik a különféle szórakoztató játékokat.",
+                  "category": "family",
+                  "coords": [
+                        24.017346,
+                        35.514255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PRIVATE RESERVOIR",
+                  "text": "PRIVATE RESERVOIR din Chania este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.944074,
+                        35.485736
+                  ]
+            },
+            {
+                  "name": "Barcade",
+                  "text": "Barcade din Chania este o sală de jocuri fantastică unde familiile se pot bucura împreună de o varietate de jocuri distractive.",
+                  "category": "family",
+                  "coords": [
+                        24.017346,
+                        35.514255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PRIVATE RESERVOIR",
+                  "text": "PRIVATE RESERVOIR in Chania is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.944074,
+                        35.485736
+                  ]
+            },
+            {
+                  "name": "Barcade",
+                  "text": "Barcade in Chania is a fantastic amusement arcade where families can enjoy a variety of entertaining games together.",
+                  "category": "family",
+                  "coords": [
+                        24.017346,
+                        35.514255
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania"},
@@ -7409,7 +7922,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-kozani-cities-v2",
+    id: "greece-kozani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Παιδική Χαρά",
+                  "text": "Die Παιδική Χαρά in Kozani ist ein schöner Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παιδική Χαρά",
+                  "text": "A Παιδική Χαρά Kozaniban szép hely a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παιδική Χαρά",
+                  "text": "Παιδική Χαρά din Kozani este un loc frumos pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Παιδική Χαρά",
+                  "text": "Παιδική Χαρά in Kozani is a nice place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Kozani", hu: "Kozáni", ro: "Kozani", en: "Kozani"},
@@ -7592,6 +8150,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.402097,
                         41.119137
                   ]
+            },
+            {
+                  "name": "Πλατεία Ευγένιου",
+                  "text": "Πλατεία Ευγένιου in Komotini ist ein wunderbarer Spielplatz, der Kindern und Familien ein sicheres und unterhaltsames Outdoor-Erlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.408587,
+                        41.128757
+                  ]
+            },
+            {
+                  "name": "Καράβι",
+                  "text": "Καράβι in Komotini ist ein wunderbarer Spielplatz, der Kindern und Familien ein sicheres und unterhaltsames Outdoor-Erlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.403822,
+                        41.118123
+                  ]
             }
       ],
       "hu": [
@@ -7728,6 +8304,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.402097,
                         41.119137
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ευγένιου",
+                  "text": "A(z) Πλατεία Ευγένιου egy csodálatos játszótér Komotini területén, amely biztonságos és szórakoztató szabadtéri élményt kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.408587,
+                        41.128757
+                  ]
+            },
+            {
+                  "name": "Καράβι",
+                  "text": "A(z) Καράβι egy csodálatos játszótér Komotini területén, amely biztonságos és szórakoztató szabadtéri élményt kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.403822,
+                        41.118123
                   ]
             }
       ],
@@ -7866,6 +8460,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.402097,
                         41.119137
                   ]
+            },
+            {
+                  "name": "Πλατεία Ευγένιου",
+                  "text": "Πλατεία Ευγένιου din Komotini este un loc de joacă minunat, care oferă o experiență în aer liber sigură și distractivă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        25.408587,
+                        41.128757
+                  ]
+            },
+            {
+                  "name": "Καράβι",
+                  "text": "Καράβι din Komotini este un loc de joacă minunat, care oferă o experiență în aer liber sigură și distractivă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        25.403822,
+                        41.118123
+                  ]
             }
       ],
       "en": [
@@ -8002,6 +8614,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.402097,
                         41.119137
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ευγένιου",
+                  "text": "Πλατεία Ευγένιου in Komotini is a wonderful playground offering a safe and fun outdoor experience for children and families.",
+                  "category": "family",
+                  "coords": [
+                        25.408587,
+                        41.128757
+                  ]
+            },
+            {
+                  "name": "Καράβι",
+                  "text": "Καράβι in Komotini is a wonderful playground offering a safe and fun outdoor experience for children and families.",
+                  "category": "family",
+                  "coords": [
+                        25.403822,
+                        41.118123
                   ]
             }
       ]
@@ -10222,6 +10852,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.265763,
                         40.518934
                   ]
+            },
+            {
+                  "name": "Kastoria-See",
+                  "text": "Der Kastoria-See in Kastoria ist ein malerischer See, der Besucher einlädt, die Natur und landschaftlich reizvolle Spaziergänge zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo ist ein Spielplatz in Kastoria, auf dem Kinder in einer familienfreundlichen Umgebung Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Χριστοπούλου",
+                  "text": "Παιδική Χαρά Χριστοπούλου ist ein Spielplatz in Kastoria, der für das aktive Spielen von Kindern ausgestattet ist.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα (κατεστραμενος Χωρος , αποφυγετε)",
+                  "text": "Dieser Ort in Kastoria wird als Spielplatz geführt, obwohl der Name darauf hindeutet, dass er derzeit beschädigt sein könnte und besser gemieden werden sollte.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
             }
       ],
       "hu": [
@@ -10457,6 +11123,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.265763,
                         40.518934
+                  ]
+            },
+            {
+                  "name": "Λίμνη Καστοριάς",
+                  "text": "A Kastoriában található Kastoria-tó egy festői tó, amely természetjárásra és hangulatos sétákra csábítja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "A Babaloo egy kastoriai játszótér, ahol a gyerekek családbarát környezetben szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Χριστοπούλου",
+                  "text": "A Παιδική Χαρά Χριστοπούλου egy kastoriai játszótér, amely a gyermekek aktív játékidejét szolgálja.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα (κατεστραμενος Χωρος , αποφυγετε)",
+                  "text": "Ez a kastoriai helyszín játszótérként szerepel, bár a neve arra utal, hogy jelenleg megrongálódott, és érdemes elkerülni.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
                   ]
             }
       ],
@@ -10694,6 +11396,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.265763,
                         40.518934
                   ]
+            },
+            {
+                  "name": "Λίμνη Καστοριάς",
+                  "text": "Lacul Kastoria, situat în Kastoria, este un lac pitoresc care invită vizitatorii să se bucure de natură și de plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo este un loc de joacă în Kastoria unde copiii se pot distra într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Χριστοπούλου",
+                  "text": "Παιδική Χαρά Χριστοπούλου este un loc de joacă în Kastoria, dotat pentru timpul de joacă activ al copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα (κατεστραμενος Χωρος , αποφυγετε)",
+                  "text": "Această locație din Kastoria este listată ca loc de joacă, deși numele sugerează că ar putea fi deteriorat în prezent și ar trebui evitat.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
             }
       ],
       "en": [
@@ -10929,6 +11667,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.265763,
                         40.518934
+                  ]
+            },
+            {
+                  "name": "Lake Kastoria",
+                  "text": "Lake Kastoria, located in Kastoria, is a picturesque lake that invites visitors to enjoy nature and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo is a playground in Kastoria where kids can have fun in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Χριστοπούλου",
+                  "text": "Παιδική Χαρά Χριστοπούλου is a playground in Kastoria equipped for children's active playtime.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Παιδικη Χαρα (κατεστραμενος Χωρος , αποφυγετε)",
+                  "text": "This location in Kastoria is listed as a playground, though its name suggests it might currently be damaged and best avoided.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
                   ]
             }
       ]
@@ -12335,6 +13109,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.730456,
                         37.649119
                   ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας) in Argos ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.747593,
+                        37.644539
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου) in Argos ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.798956,
+                        37.644806
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου) in Argos ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        22.725998,
+                        37.669863
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μπόνη",
+                  "text": "Bonis Playground in Argos ist ein wunderbarer Spielplatz, der Kindern und Familien ein sicheres und unterhaltsames Outdoor-Erlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.725548,
+                        37.63356
+                  ]
             }
       ],
       "hu": [
@@ -12570,6 +13380,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.730456,
                         37.649119
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας)",
+                  "text": "A(z) Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας) egy békés tó Argos területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.747593,
+                        37.644539
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου)",
+                  "text": "A(z) Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου) egy békés tó Argos területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.798956,
+                        37.644806
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου)",
+                  "text": "A(z) Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου) egy békés tó Argos területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.725998,
+                        37.669863
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μπόνη",
+                  "text": "A(z) Bonis Playground egy csodálatos játszótér Argos területén, amely biztonságos és szórakoztató szabadtéri élményt kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.725548,
+                        37.63356
                   ]
             }
       ],
@@ -12807,6 +13653,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.730456,
                         37.649119
                   ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας) din Argos este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.747593,
+                        37.644539
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου) din Argos este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.798956,
+                        37.644806
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου) din Argos este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.725998,
+                        37.669863
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μπόνη",
+                  "text": "Bonis Playground din Argos este un loc de joacă minunat, care oferă o experiență în aer liber sigură și distractivă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        22.725548,
+                        37.63356
+                  ]
             }
       ],
       "en": [
@@ -13043,6 +13925,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.730456,
                         37.649119
                   ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Ήρας) in Argos is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.747593,
+                        37.644539
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Αυφίου) in Argos is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.798956,
+                        37.644806
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου)",
+                  "text": "Λιμνοδεξαμενή Δικτύου Ανάβαλου (Τ.Ο.Ε.Β. Κουτσοποδίου) in Argos is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.725998,
+                        37.669863
+                  ]
+            },
+            {
+                  "name": "Bonis Playground",
+                  "text": "Bonis Playground in Argos is a wonderful playground offering a safe and fun outdoor experience for children and families.",
+                  "category": "family",
+                  "coords": [
+                        22.725548,
+                        37.63356
+                  ]
             }
       ]
 },
@@ -13092,7 +14010,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-mesolonghi-cities-v2",
+    id: "greece-mesolonghi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Λιμνοθάλασσα Κλείσοβας",
+                  "text": "Die Lagune von Klisova in Mesolonghi ist ein malerisches Küstenseengebiet, das sich wunderbar zur Beobachtung der lokalen Naturschönheiten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Μεσολογγίου",
+                  "text": "Die Lagune von Mesolonghi ist ein wichtiger See in Mesolonghi, der für seine weite Naturlandschaft und ruhigen Gewässer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λιμνοθάλασσα Κλείσοβας",
+                  "text": "A meszolonghi Klisova-lagúna egy festői partmenti tóvidék, amely csodálatos helyi természeti szépségek megfigyelésére ad lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Μεσολογγίου",
+                  "text": "A Meszolonghi-lagúna egy fontos tó Meszolonghiban, amely hatalmas természeti tájáról és nyugodt vizeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λιμνοθάλασσα Κλείσοβας",
+                  "text": "Laguna Klisova din Mesolonghi este o zonă pitorească a lacului de coastă, minunată pentru a observa frumusețea naturală locală.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Μεσολογγίου",
+                  "text": "Laguna Messolongi este un lac important situat în Mesolonghi, cunoscut pentru peisajele sale naturale vaste și apele calme.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klisova Lagoon",
+                  "text": "Klisova Lagoon in Mesolonghi is a scenic coastal lake area, wonderful for observing the local natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Messolongi Lagoon",
+                  "text": "Messolongi Lagoon is an important lake located in Mesolonghi, known for its vast natural scenery and calm waters.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Messolongi", hu: "Meszolóngi", ro: "Mesolonghi", en: "Mesolonghi"},
@@ -13458,7 +14457,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-agios-nikolaos-cities-v2",
+    id: "greece-agios-nikolaos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voulismeni-See",
+                  "text": "Der Voulismeni-See ist ein berühmter See in Agios Nikolaos, der eine malerische Kulisse für einen gemütlichen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ bietet einen Spielplatz in Agios Nikolaos, auf dem Kinder in der Nähe des Meeres spielen können.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λίμνη Βουλισμένη",
+                  "text": "A Voulismeni-tó egy híres tó Agios Nikolaosban, amely festői környezetet kínál egy kényelmes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ",
+                  "text": "A ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ egy játszótérrel is rendelkezik Agios Nikolaosban, ahol a gyerekek a tenger közelében játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λίμνη Βουλισμένη",
+                  "text": "Lacul Voulismeni este un lac renumit din Agios Nikolaos, oferind un cadru pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ dispune de un loc de joacă în Agios Nikolaos, unde copiii se pot juca aproape de mare.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Voulismeni",
+                  "text": "Lake Voulismeni is a renowned lake in Agios Nikolaos, offering a picturesque setting for a leisurely stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ features a playground in Agios Nikolaos where children can play close to the sea.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Agios Nikolaos", hu: "Ágiosz Nikólaosz", ro: "Agios Nikolaos", en: "Agios Nikolaos"},
@@ -13596,6 +14676,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.740094,
                         35.008997
                   ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μπραμιανών",
+                  "text": "Die Τεχνητή λίμνη Μπραμιανών in Ierapetra ist ein interessanter künstlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        25.69919,
+                        35.042111
+                  ]
             }
       ],
       "hu": [
@@ -13687,6 +14776,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.740094,
                         35.008997
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μπραμιανών",
+                  "text": "A Τεχνητή λίμνη Μπραμιανών Ierapetrában egy érdekes mesterséges tó.",
+                  "category": "natural",
+                  "coords": [
+                        25.69919,
+                        35.042111
                   ]
             }
       ],
@@ -13780,6 +14878,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.740094,
                         35.008997
                   ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μπραμιανών",
+                  "text": "Τεχνητή λίμνη Μπραμιανών din Ierapetra este un lac artificial interesant.",
+                  "category": "natural",
+                  "coords": [
+                        25.69919,
+                        35.042111
+                  ]
             }
       ],
       "en": [
@@ -13871,6 +14978,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.740094,
                         35.008997
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Μπραμιανών",
+                  "text": "Τεχνητή λίμνη Μπραμιανών in Ierapetra is an interesting man-made lake.",
+                  "category": "natural",
+                  "coords": [
+                        25.69919,
+                        35.042111
                   ]
             }
       ]
@@ -14111,6 +15227,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.419964,
                         40.798223
                   ]
+            },
+            {
+                  "name": "Γήπεδο Μίνι Γκολφ",
+                  "text": "Γήπεδο Μίνι Γκολφ in Giannitsa ist eine Minigolfanlage, die eine unterhaltsame und ansprechende Aktivität für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.387176,
+                        40.789863
+                  ]
             }
       ],
       "hu": [
@@ -14211,6 +15336,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.419964,
                         40.798223
+                  ]
+            },
+            {
+                  "name": "Γήπεδο Μίνι Γκολφ",
+                  "text": "A jannicai Γήπεδο Μίνι Γκολφ egy minigolfpálya, amely szórakoztató és vonzó programot nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        22.387176,
+                        40.789863
                   ]
             }
       ],
@@ -14313,6 +15447,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.419964,
                         40.798223
                   ]
+            },
+            {
+                  "name": "Γήπεδο Μίνι Γκολφ",
+                  "text": "Γήπεδο Μίνι Γκολφ din Giannitsa este un teren de minigolf care oferă o activitate distractivă și antrenantă pentru toată familia.",
+                  "category": "family",
+                  "coords": [
+                        22.387176,
+                        40.789863
+                  ]
             }
       ],
       "en": [
@@ -14413,6 +15556,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.419964,
                         40.798223
+                  ]
+            },
+            {
+                  "name": "Γήπεδο Μίνι Γκολφ",
+                  "text": "Γήπεδο Μίνι Γκολφ in Giannitsa is a miniature golf course providing a fun and engaging activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        22.387176,
+                        40.789863
                   ]
             }
       ]
@@ -14579,6 +15731,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.067181,
                         40.625452
                   ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Κουκούλι",
+                  "text": "Die Τεχνητή λίμνη Κουκούλι in Naoussa ist ein ruhiger See für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        22.054611,
+                        40.645086
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά",
+                  "text": "Die παιδική χαρά in Naoussa bietet viel Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        22.070407,
+                        40.627915
+                  ]
             }
       ],
       "hu": [
@@ -14697,6 +15867,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.067181,
                         40.625452
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Κουκούλι",
+                  "text": "A Τεχνητή λίμνη Κουκούλι Naoussában csendes tó sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.054611,
+                        40.645086
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά",
+                  "text": "A παιδική χαρά Naoussában sok szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.070407,
+                        40.627915
                   ]
             }
       ],
@@ -14817,6 +16005,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.067181,
                         40.625452
                   ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Κουκούλι",
+                  "text": "Τεχνητή λίμνη Κουκούλι din Naoussa este un lac liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        22.054611,
+                        40.645086
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά",
+                  "text": "παιδική χαρά din Naoussa oferă multă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.070407,
+                        40.627915
+                  ]
             }
       ],
       "en": [
@@ -14935,6 +16141,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.067181,
                         40.625452
+                  ]
+            },
+            {
+                  "name": "Τεχνητή λίμνη Κουκούλι",
+                  "text": "Τεχνητή λίμνη Κουκούλι in Naoussa is a quiet lake for walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.054611,
+                        40.645086
+                  ]
+            },
+            {
+                  "name": "παιδική χαρά",
+                  "text": "παιδική χαρά in Naoussa offers plenty of fun for kids.",
+                  "category": "family",
+                  "coords": [
+                        22.070407,
+                        40.627915
                   ]
             }
       ]
@@ -16324,7 +17548,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-kalambaka-cities-v2.webp",
   },
   {
-    id: "greece-didymoteicho-cities-v2",
+    id: "greece-didymoteicho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artificial Lake of Tsiggla",
+                  "text": "Artificial Lake of Tsiggla in Didymoteicho ist ein friedlicher See, ideal für landschaftliche Spaziergänge und um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.487832,
+                        41.330908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artificial Lake of Tsiggla",
+                  "text": "A(z) Artificial Lake of Tsiggla egy békés tó Didymoteicho területén, amely tökéletes festői sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.487832,
+                        41.330908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artificial Lake of Tsiggla",
+                  "text": "Artificial Lake of Tsiggla din Didymoteicho este un lac liniștit, perfect pentru plimbări pitorești și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.487832,
+                        41.330908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artificial Lake of Tsiggla",
+                  "text": "Artificial Lake of Tsiggla in Didymoteicho is a peaceful lake, perfect for scenic walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.487832,
+                        41.330908
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Didymoteicho", hu: "Didimótiho", ro: "Didymoteicho", en: "Didymoteicho" },
@@ -16839,6 +18108,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.718866,
                         39.212446
                   ]
+            },
+            {
+                  "name": "Λίμνες Ζερέλια",
+                  "text": "Die Λίμνες Ζερέλια in Almyros sind ein einzigartiges Naturerlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        22.711452,
+                        39.162818
+                  ]
             }
       ],
       "hu": [
@@ -16858,6 +18136,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.718866,
                         39.212446
+                  ]
+            },
+            {
+                  "name": "Λίμνες Ζερέλια",
+                  "text": "A Λίμνες Ζερέλια Almyrosban egy egyedülálló természeti élmény.",
+                  "category": "natural",
+                  "coords": [
+                        22.711452,
+                        39.162818
                   ]
             }
       ],
@@ -16879,6 +18166,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.718866,
                         39.212446
                   ]
+            },
+            {
+                  "name": "Λίμνες Ζερέλια",
+                  "text": "Λίμνες Ζερέλια din Almyros sunt o experiență naturală unică.",
+                  "category": "natural",
+                  "coords": [
+                        22.711452,
+                        39.162818
+                  ]
             }
       ],
       "en": [
@@ -16898,6 +18194,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.718866,
                         39.212446
+                  ]
+            },
+            {
+                  "name": "Λίμνες Ζερέλια",
+                  "text": "Λίμνες Ζερέλια in Almyros are a unique natural experience.",
+                  "category": "natural",
+                  "coords": [
+                        22.711452,
+                        39.162818
                   ]
             }
       ]
@@ -18504,6 +19809,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.182241,
                         39.764576
                   ]
+            },
+            {
+                  "name": "Aoos Stausee",
+                  "text": "Der Artificial Lake Aoos in Metsovo ist ein beeindruckender See inmitten der Berge.",
+                  "category": "natural",
+                  "coords": [
+                        21.103403,
+                        39.828294
+                  ]
             }
       ],
       "hu": [
@@ -18541,6 +19855,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.182241,
                         39.764576
+                  ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πηγών Αώου",
+                  "text": "Az Artificial Lake Aoos Metsovóban egy lenyűgöző tó a hegyek közepén.",
+                  "category": "natural",
+                  "coords": [
+                        21.103403,
+                        39.828294
                   ]
             }
       ],
@@ -18580,6 +19903,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.182241,
                         39.764576
                   ]
+            },
+            {
+                  "name": "Τεχνητή Λίμνη Πηγών Αώου",
+                  "text": "Artificial Lake Aoos din Metsovo este un lac impresionant situat în munți.",
+                  "category": "natural",
+                  "coords": [
+                        21.103403,
+                        39.828294
+                  ]
             }
       ],
       "en": [
@@ -18617,6 +19949,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.182241,
                         39.764576
+                  ]
+            },
+            {
+                  "name": "Artificial Lake Aoos",
+                  "text": "Artificial Lake Aoos in Metsovo is an impressive lake set in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        21.103403,
+                        39.828294
                   ]
             }
       ]
@@ -18675,6 +20016,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.174976,
                         38.867765
                   ]
+            },
+            {
+                  "name": "Amvrakia-See",
+                  "text": "Der Lake Amvrakia in Amfilochia lädt zu entspannten Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
             }
       ],
       "hu": [
@@ -18685,6 +20035,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.174976,
                         38.867765
+                  ]
+            },
+            {
+                  "name": "Λίμνη Αμβρακία",
+                  "text": "Az Amfilochia közelében fekvő Lake Amvrakia békés környezetet kínál egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
                   ]
             }
       ],
@@ -18697,6 +20056,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.174976,
                         38.867765
                   ]
+            },
+            {
+                  "name": "Λίμνη Αμβρακία",
+                  "text": "Lake Amvrakia din Amfilochia oferă un cadru liniștit pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
             }
       ],
       "en": [
@@ -18707,6 +20075,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.174976,
                         38.867765
+                  ]
+            },
+            {
+                  "name": "Lake Amvrakia",
+                  "text": "Lake Amvrakia in Amfilochia offers a peaceful setting for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
                   ]
             }
       ]
@@ -18936,6 +20313,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         20.705688,
                         38.833355
                   ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "Die Salinen von Alexandros auf Lefkada sind ein Seengebiet, das sich durch einzigartige Küstenlandschaften auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "Der Gyra-See ist ein wunderschönes Gewässer auf Lefkada, das sich perfekt dazu eignet, die friedliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Der Marina Playground ist ein Außenbereich auf Lefkada, wo Familien mit ihren Kindern aktiv Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
             }
       ],
       "hu": [
@@ -19117,6 +20521,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         20.705688,
                         38.833355
+                  ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "A lefkadai Alexandros sólepárló egy egyedülálló partmenti tájakkal rendelkező tóvidék.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "A Gyra-tó egy gyönyörű vízfelület Lefkadán, amely tökéletes a békés táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "A Marina Playground egy lefkadai szabadtéri terület, ahol a családok aktív szórakozásra vihetik el gyermekeiket.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
                   ]
             }
       ],
@@ -19300,6 +20731,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         20.705688,
                         38.833355
                   ]
+            },
+            {
+                  "name": "Αλυκές Αλεξάνδρου",
+                  "text": "Salinele Alexandros din Lefkada reprezintă o zonă de lac cu peisaje de coastă unice.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Λιμνοθάλασσα Γύρας",
+                  "text": "Lacul Gyra este un corp de apă frumos din Lefkada, perfect pentru a vă bucura de peisajul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Marina Playground este un spațiu în aer liber din Lefkada, unde familiile își pot aduce copiii pentru distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
+                  ]
             }
       ],
       "en": [
@@ -19481,6 +20939,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         20.705688,
                         38.833355
+                  ]
+            },
+            {
+                  "name": "Alexandros salt pans",
+                  "text": "Alexandros salt pans in Lefkada is a lake area featuring unique coastal landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        20.722807,
+                        38.804601
+                  ]
+            },
+            {
+                  "name": "Gyra Lake",
+                  "text": "Gyra Lake is a beautiful water body in Lefkada, perfect for enjoying peaceful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.699663,
+                        38.842369
+                  ]
+            },
+            {
+                  "name": "Marina Playground",
+                  "text": "Marina Playground is an outdoor space in Lefkada where families can bring their kids for some active fun.",
+                  "category": "family",
+                  "coords": [
+                        20.711158,
+                        38.829357
                   ]
             }
       ]
@@ -19719,6 +21204,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.540245,
                         37.300465
                   ]
+            },
+            {
+                  "name": "Παιδική Χαρά Σκάλας",
+                  "text": "Der Spielplatz Παιδική Χαρά Σκάλας in Patmos Town bietet eine tolle Möglichkeit für Kinder, sich an der frischen Luft auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        26.541087,
+                        37.321148
+                  ]
             }
       ],
       "hu": [
@@ -19819,6 +21313,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.540245,
                         37.300465
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Σκάλας",
+                  "text": "A Patmos Town városában található Παιδική Χαρά Σκάλας játszótér remek szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        26.541087,
+                        37.321148
                   ]
             }
       ],
@@ -19921,6 +21424,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.540245,
                         37.300465
                   ]
+            },
+            {
+                  "name": "Παιδική Χαρά Σκάλας",
+                  "text": "Locul de joacă Παιδική Χαρά Σκάλας din Patmos Town este o opțiune excelentă pentru copiii care doresc să se distreze în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.541087,
+                        37.321148
+                  ]
             }
       ],
       "en": [
@@ -20021,6 +21533,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.540245,
                         37.300465
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Σκάλας",
+                  "text": "The Παιδική Χαρά Σκάλας playground in Patmos Town provides a great outdoor play area for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        26.541087,
+                        37.321148
                   ]
             }
       ]
@@ -20241,6 +21762,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.326658,
                         37.446306
                   ]
+            },
+            {
+                  "name": "Μαού",
+                  "text": "Der Maou in Mykonos Town ist ein ruhiger See für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Der Marathi in Mykonos Town ist ein schöner Ort zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
             }
       ],
       "hu": [
@@ -20368,6 +21907,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.326658,
                         37.446306
+                  ]
+            },
+            {
+                  "name": "Μαού",
+                  "text": "A Maou Mykonos Townban csendes tó a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "A Marathi Mykonos Townban kellemes hely a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
                   ]
             }
       ],
@@ -20497,6 +22054,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.326658,
                         37.446306
                   ]
+            },
+            {
+                  "name": "Μαού",
+                  "text": "Maou din Mykonos Town este un lac liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Marathi din Mykonos Town este un loc plăcut pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
+                  ]
             }
       ],
       "en": [
@@ -20624,6 +22199,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.326658,
                         37.446306
+                  ]
+            },
+            {
+                  "name": "Maou",
+                  "text": "Maou in Mykonos Town is a quiet lake for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.409414,
+                        37.471289
+                  ]
+            },
+            {
+                  "name": "Marathi",
+                  "text": "Marathi in Mykonos Town is a nice place for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        25.357699,
+                        37.465543
                   ]
             }
       ]
@@ -21033,6 +22626,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.162715,
                         37.542398
                   ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μύλου",
+                  "text": "Παιδική Χαρά Μύλου ist ein charmanter Spielplatz in Tinos Stadt, der Kindern einen ansprechenden Ort zum Spielen und Interagieren bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Παλλάδας",
+                  "text": "Παιδική Χαρά Παλλάδας ist ein beliebter Spielplatz in Tinos Stadt, ideal für Familien, die mit ihren Kleinen eine Pause einlegen möchten.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
             }
       ],
       "hu": [
@@ -21124,6 +22735,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.162715,
                         37.542398
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μύλου",
+                  "text": "A Παιδική Χαρά Μύλου egy hangulatos játszótér Tinos Townban, amely vonzó teret kínál a gyerekek interakciójához és játékához.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Παλλάδας",
+                  "text": "A Παιδική Χαρά Παλλάδας egy népszerű játszótér Tinos Townban, amely ideális a kisgyermekes családok pihenésére.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
                   ]
             }
       ],
@@ -21217,6 +22846,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.162715,
                         37.542398
                   ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μύλου",
+                  "text": "Παιδική Χαρά Μύλου este un loc de joacă fermecător din orașul Tinos, oferind un spațiu captivant pentru ca cei mici să interacționeze și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Παλλάδας",
+                  "text": "Παιδική Χαρά Παλλάδας este un loc de joacă popular din orașul Tinos, ideal pentru familiile care fac o pauză alături de cei mici.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
+                  ]
             }
       ],
       "en": [
@@ -21308,6 +22955,24 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.162715,
                         37.542398
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Μύλου",
+                  "text": "Παιδική Χαρά Μύλου is a charming playground in Tinos Town offering an engaging space for children to interact and play.",
+                  "category": "family",
+                  "coords": [
+                        25.158516,
+                        37.540862
+                  ]
+            },
+            {
+                  "name": "Παιδική Χαρά Παλλάδας",
+                  "text": "Παιδική Χαρά Παλλάδας is a popular playground in Tinos Town, ideal for families taking a break with their little ones.",
+                  "category": "family",
+                  "coords": [
+                        25.159767,
+                        37.539064
                   ]
             }
       ]
@@ -21401,7 +23066,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-poros-town-cities-v2.webp",
   },
   {
-    id: "greece-spetses-town-cities-v2",
+    id: "greece-spetses-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Βερβερόντα",
+                  "text": "Der See Ververonda in Spetses Town besticht durch seine schöne Landschaft, die ideal für Naturbeobachtungen ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Βερβερόντα",
+                  "text": "A Spetses Town mellett található Ververonda tó gyönyörű tájával ideális helyszín a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Βερβερόντα",
+                  "text": "Lacul Ververonda din Spetses Town se bucură de un peisaj frumos, perfect pentru cei care iubesc natura.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ververonda",
+                  "text": "Ververonda lake in Spetses Town features a beautiful landscape that is ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Spetses Stadt", hu: "Szpécesz város", ro: "Spetses Town", en: "Spetses Town" },
@@ -22337,7 +24047,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-kalymnos-town-cities-v2.webp",
   },
   {
-    id: "greece-astypalaia-town-cities-v2",
+    id: "greece-astypalaia-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirate Ship Playground",
+                  "text": "Der Pirate Ship Playground in Astypalaia Town bietet kleinen Abenteurern viel Spaß beim Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        26.34109,
+                        36.541578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirate Ship Playground",
+                  "text": "Az Astypalaia Town-ban található Pirate Ship Playground izgalmas kalandokat kínál a kicsiknek mászással és játékkal.",
+                  "category": "family",
+                  "coords": [
+                        26.34109,
+                        36.541578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirate Ship Playground",
+                  "text": "Pirate Ship Playground din Astypalaia Town oferă mici aventuri pline de distracție cu spații de cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        26.34109,
+                        36.541578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirate Ship Playground",
+                  "text": "The Pirate Ship Playground in Astypalaia Town offers young adventurers plenty of fun with climbing and play areas.",
+                  "category": "family",
+                  "coords": [
+                        26.34109,
+                        36.541578
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Astypalaia Stadt", hu: "Asztipalaia város", ro: "Astypalaia Town", en: "Astypalaia Town" },
@@ -22473,6 +24228,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.3723,
                         37.110212
                   ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Εγγαρών",
+                  "text": "Λιμνοδεξαμενή Εγγαρών ist ein Stausee in Naxos Stadt, der Besuchern einen friedlichen Ort bietet, um die umliegende Landschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
             }
       ],
       "hu": [
@@ -22564,6 +24328,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.3723,
                         37.110212
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Εγγαρών",
+                  "text": "A Λιμνοδεξαμενή Εγγαρών egy víztározó tó Naxos Townban, amely békés helyet kínál a látogatóknak a környező táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
                   ]
             }
       ],
@@ -22657,6 +24430,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.3723,
                         37.110212
                   ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Εγγαρών",
+                  "text": "Λιμνοδεξαμενή Εγγαρών este un lac de acumulare din orașul Naxos, oferind vizitatorilor un loc liniștit pentru a admira peisajul din jur.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
             }
       ],
       "en": [
@@ -22748,6 +24530,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.3723,
                         37.110212
+                  ]
+            },
+            {
+                  "name": "Λιμνοδεξαμενή Εγγαρών",
+                  "text": "Λιμνοδεξαμενή Εγγαρών is a reservoir lake in Naxos Town, offering visitors a peaceful spot to admire the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
                   ]
             }
       ]
@@ -24677,7 +26468,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-anafi-town-cities-v2.webp",
   },
   {
-    id: "greece-ios-town-cities-v2",
+    id: "greece-ios-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Φράγµα Μυλοποτάµου",
+                  "text": "Φράγµα Μυλοποτάµου in Ios Stadt ist eine Staudamm- und Seenlandschaft mit beeindruckender Kulisse zum Spazierengehen und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Φράγµα Μυλοποτάµου",
+                  "text": "A Φράγµα Μυλοποτάµου Ios Townban egy gát és tóvidék, amely lenyűgöző tájjal szolgál a sétáláshoz és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Φράγµα Μυλοποτάµου",
+                  "text": "Φράγµα Μυλοποτάµου din orașul Ios este un baraj și o zonă de lac cu un peisaj impresionant pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Φράγµα Μυλοποτάµου",
+                  "text": "Φράγµα Μυλοποτάµου in Ios Town is a dam and lake area with impressive scenery for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Ios Stadt", hu: "Iosz város", ro: "Ios Town", en: "Ios Town" },
