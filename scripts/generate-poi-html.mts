@@ -1278,8 +1278,6 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     de: "Zur Detailseite", hu: "Részletes oldal", ro: "Pagina detaliată", en: "Details page",
     fr: "Page détaillée", tr: "Detay sayfası", hr: "Stranica s detaljima",
   };
-  let ownUrl = "";
-  try { ownUrl = buildPoiPath(lang, poi) || ""; } catch {}
   const radii = [5, 10, 20, 50];
   const chips = radii.map((r) => `<button type="button" class="plz-sgr-chip" data-r="${r}">${r} km</button>`).join("");
   // Category filter — icon-only buttons over the loaded radius result.
@@ -1309,7 +1307,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
   <div class="plz-sgr-chips">${chips}<span class="plz-sgr-sep"></span>${catBtns}</div>
   <div class="plz-sgr-list" id="plzSgrList" hidden></div>
   <script>(function(){
-  var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang)},OWN=${JSON.stringify(ownUrl)};
+  var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang)};
   var CELL=.5,cache={},list=document.getElementById('plzSgrList');
   var PEG='<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg>';
   var PIN='<svg viewBox="0 0 24 24" width="12" height="12" fill="none" aria-hidden="true"><path d="M12 2c-3.9 0-7 3.1-7 7 0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z" fill="currentColor"/><circle cx="12" cy="9" r="2.6" fill="#fff"/></svg>';
@@ -1350,7 +1348,6 @@ function renderSightRadius(poi: POI, lang: Lang): string {
       var seen={},items=[];
       cells.forEach(function(arr,ci){arr.forEach(function(e,ei){
         var d=dist(LAT,LNG,e[1],e[2]);if(d>r)return;
-        if(OWN&&e[4]===OWN&&d<3)return; /* sajat oldal sightjai mar fent vannak */
         var k=e[0].toLowerCase()+'|'+e[1].toFixed(3)+','+e[2].toFixed(3);
         if(seen[k])return;seen[k]=1;items.push({e:e,d:d,ck:cks[ci],ix:ei});
       })});
