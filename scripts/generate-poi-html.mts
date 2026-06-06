@@ -130,12 +130,13 @@ try {
 } catch (e) {
   console.log(`[poi-html] image-index init failed: ${(e as Error).message}`);
 }
-// Fallback: ship `_image-manifest.json` (53K basenames) in repo so delta deploys
-// running on a self-hosted runner without symlinked image dirs can still resolve
-// hero-image fallbacks. Only used when the directory scan came up empty/short.
+// `_image-manifest.json` = a VPS-en TÉNYLEGESEN létező képek listája (62K) —
+// MINDIG merge-elni kell a lokális szkennel, mert lokálban csak ~24K kép van:
+// a csak-VPS-en-élő képeket a dir-szken nem látja → a nearby-kártyák tévesen
+// placeholdert kaptak, miközben a cél-oldalon ott a kép (sync-bug 2026-06-06).
 try {
   const manifestPath = path.resolve(process.cwd(), "public", "data", "_image-manifest.json");
-  if (fs.existsSync(manifestPath) && IMG_SET.size < 1000) {
+  if (fs.existsSync(manifestPath)) {
     const arr = JSON.parse(fs.readFileSync(manifestPath, "utf-8")) as string[];
     for (const f of arr) {
       if (!f.endsWith(".webp")) continue;
@@ -1272,6 +1273,11 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     ro: "Niciun rezultat în această rază.", en: "No results in this radius.",
     fr: "Aucun résultat dans ce rayon.", tr: "Bu yarıçapta sonuç yok.", hr: "Nema rezultata u ovom krugu.",
   };
+  // Label of the details-page link inside the expanded description block.
+  const MORE: Partial<Record<Lang, string>> = {
+    de: "Zur Detailseite", hu: "Részletes oldal", ro: "Pagina detaliată", en: "Details page",
+    fr: "Page détaillée", tr: "Detay sayfası", hr: "Stranica s detaljima",
+  };
   let ownUrl = "";
   try { ownUrl = buildPoiPath(lang, poi) || ""; } catch {}
   const radii = [5, 10, 20, 50];
@@ -1328,8 +1334,8 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
       var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>':'';
-      var nm=e[4]?'<a class="plz-sgr-nm" href="'+esc(e[4])+'">'+esc(e[0])+'</a>':'<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
-      return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
+      var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
+      return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
     }).join('');
   }
   function show(r,btn){
@@ -1361,10 +1367,12 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var nx=it.nextElementSibling;
     if(nx&&nx.classList.contains('plz-sgr-desc')){nx.remove();it.classList.remove('open');return}
     var old=list.querySelector('.plz-sgr-desc');if(old){old.previousElementSibling.classList.remove('open');old.remove()}
-    var ck=it.getAttribute('data-ck'),ix=+it.getAttribute('data-ix');
+    var ck=it.getAttribute('data-ck'),ix=+it.getAttribute('data-ix'),u=it.getAttribute('data-u');
     getDesc(ck).then(function(ds){
-      var t=ds[ix];if(!t)return;
-      var d=document.createElement('div');d.className='plz-sgr-desc';d.textContent=t;
+      var t=ds[ix];if(!t&&!u)return;
+      var d=document.createElement('div');d.className='plz-sgr-desc';
+      if(t){var p=document.createElement('div');p.textContent=t;d.appendChild(p)}
+      if(u){var a=document.createElement('a');a.className='plz-sgr-more';a.href=u;a.textContent=${JSON.stringify((MORE[lang] || MORE.en!) + " →")};d.appendChild(a)}
       it.insertAdjacentElement('afterend',d);it.classList.add('open');
       try{if(window.umami&&window.umami.track)window.umami.track('nearby_desc',{})}catch(e){}
     });
@@ -2715,6 +2723,8 @@ ready();})();</script>
 .plz-sgr-it{cursor:pointer}
 .plz-sgr-it.open{background:#ffffff14;border-radius:8px 8px 0 0}
 .plz-sgr-desc{background:#ffffff0d;border-left:3px solid #3b82f6;border-radius:0 0 8px 8px;padding:.55rem .8rem;margin:0 0 .35rem;font-size:.83rem;line-height:1.5;color:#c9d6f2}
+.plz-sgr-more{display:inline-block;margin-top:.4rem;color:#7fb0ff;font-weight:700;font-size:.78rem;text-decoration:none}
+.plz-sgr-more:hover{text-decoration:underline}
 .plz-sgr-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:.35rem .8rem;max-height:420px;overflow-y:auto;padding-right:.3rem}
 .plz-sgr-it{display:flex;align-items:center;gap:.5rem;padding:.32rem .45rem;border-radius:8px;background:#ffffff08;font-size:.85rem;min-width:0}
 .plz-sgr-d{flex-shrink:0;font-size:.7rem;font-weight:800;color:#7fb0ff;min-width:46px}
