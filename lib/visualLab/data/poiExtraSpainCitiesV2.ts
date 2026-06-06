@@ -427,6 +427,78 @@ export const spainCitiesV2: POI[] = [
                         -5.981349,
                         37.387686
                   ]
+            },
+            {
+                  "name": "lago del parque amate",
+                  "text": "Dieser See in Sevilla bietet eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -5.946116,
+                        37.382191
+                  ]
+            },
+            {
+                  "name": "Huerto del Rey Moro",
+                  "text": "Ein familienfreundlicher Spielplatz in Sevilla für Aktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -5.984519,
+                        37.396143
+                  ]
+            },
+            {
+                  "name": "Divertriana",
+                  "text": "Dieser Spielplatz in Sevilla bietet Kindern Raum zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        -6.008379,
+                        37.388849
+                  ]
+            },
+            {
+                  "name": "Parque infantil Los Descubrimientos",
+                  "text": "Ein öffentlicher Spielplatz in Sevilla für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -6.001653,
+                        37.398074
+                  ]
+            },
+            {
+                  "name": "Plaza La Venus del Espejo",
+                  "text": "Dieser Spielbereich in Sevilla ist ein Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -5.965469,
+                        37.39285
+                  ]
+            },
+            {
+                  "name": "Parque Enriqueta Vita",
+                  "text": "Ein kleiner Spielplatz in Sevilla, ideal für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        -5.971953,
+                        37.380384
+                  ]
+            },
+            {
+                  "name": "Zona de juegos infantil",
+                  "text": "Dieser Kinderbereich in Sevilla bietet Spielmöglichkeiten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -6.004568,
+                        37.373645
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Rodríguez Moreno",
+                  "text": "Ein Spielplatz in Sevilla für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -5.970304,
+                        37.409677
+                  ]
             }
       ],
       "hu": [
@@ -851,6 +923,78 @@ export const spainCitiesV2: POI[] = [
                   "coords": [
                         -5.981349,
                         37.387686
+                  ]
+            },
+            {
+                  "name": "lago del parque amate",
+                  "text": "Ez a sevillai tó nyugodt környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -5.946116,
+                        37.382191
+                  ]
+            },
+            {
+                  "name": "Huerto del Rey Moro",
+                  "text": "Családbarát sevillai játszótér szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -5.984519,
+                        37.396143
+                  ]
+            },
+            {
+                  "name": "Divertriana",
+                  "text": "Ez a sevillai játszótér teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.008379,
+                        37.388849
+                  ]
+            },
+            {
+                  "name": "Parque infantil Los Descubrimientos",
+                  "text": "Nyilvános sevillai játszótér gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -6.001653,
+                        37.398074
+                  ]
+            },
+            {
+                  "name": "Plaza La Venus del Espejo",
+                  "text": "Ez a sevillai játszótér kedvelt célpont a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.965469,
+                        37.39285
+                  ]
+            },
+            {
+                  "name": "Parque Enriqueta Vita",
+                  "text": "Kicsi sevillai játszótér, amely ideális egy rövid játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.971953,
+                        37.380384
+                  ]
+            },
+            {
+                  "name": "Zona de juegos infantil",
+                  "text": "Ez a sevillai gyermekrészleg szabadtéri játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        -6.004568,
+                        37.373645
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Rodríguez Moreno",
+                  "text": "Sevillai játszótér gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.970304,
+                        37.409677
                   ]
             }
       ],
@@ -1277,6 +1421,78 @@ export const spainCitiesV2: POI[] = [
                         -5.981349,
                         37.387686
                   ]
+            },
+            {
+                  "name": "lago del parque amate",
+                  "text": "Acest lac din Sevilla oferă un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -5.946116,
+                        37.382191
+                  ]
+            },
+            {
+                  "name": "Huerto del Rey Moro",
+                  "text": "Un teren de joacă pentru familii în Sevilla, ideal pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -5.984519,
+                        37.396143
+                  ]
+            },
+            {
+                  "name": "Divertriana",
+                  "text": "Acest teren de joacă din Sevilla oferă copiilor spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -6.008379,
+                        37.388849
+                  ]
+            },
+            {
+                  "name": "Parque infantil Los Descubrimientos",
+                  "text": "Un teren de joacă public în Sevilla pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.001653,
+                        37.398074
+                  ]
+            },
+            {
+                  "name": "Plaza La Venus del Espejo",
+                  "text": "Această zonă de joacă din Sevilla este o destinație pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.965469,
+                        37.39285
+                  ]
+            },
+            {
+                  "name": "Parque Enriqueta Vita",
+                  "text": "Un mic teren de joacă în Sevilla, ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -5.971953,
+                        37.380384
+                  ]
+            },
+            {
+                  "name": "Zona de juegos infantil",
+                  "text": "Această zonă pentru copii din Sevilla oferă opțiuni de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -6.004568,
+                        37.373645
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Rodríguez Moreno",
+                  "text": "Un teren de joacă în Sevilla pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.970304,
+                        37.409677
+                  ]
             }
       ],
       "en": [
@@ -1701,6 +1917,78 @@ export const spainCitiesV2: POI[] = [
                   "coords": [
                         -5.981349,
                         37.387686
+                  ]
+            },
+            {
+                  "name": "lago del parque amate",
+                  "text": "This lake in Seville offers a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -5.946116,
+                        37.382191
+                  ]
+            },
+            {
+                  "name": "Huerto del Rey Moro",
+                  "text": "A family-friendly playground in Seville for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -5.984519,
+                        37.396143
+                  ]
+            },
+            {
+                  "name": "Divertriana",
+                  "text": "This playground in Seville provides space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -6.008379,
+                        37.388849
+                  ]
+            },
+            {
+                  "name": "Parque infantil Los Descubrimientos",
+                  "text": "A public playground in Seville for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -6.001653,
+                        37.398074
+                  ]
+            },
+            {
+                  "name": "Plaza La Venus del Espejo",
+                  "text": "This play area in Seville is a destination for families.",
+                  "category": "family",
+                  "coords": [
+                        -5.965469,
+                        37.39285
+                  ]
+            },
+            {
+                  "name": "Parque Enriqueta Vita",
+                  "text": "A small playground in Seville, ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        -5.971953,
+                        37.380384
+                  ]
+            },
+            {
+                  "name": "Zona de juegos infantil",
+                  "text": "This children's area in Seville offers outdoor play options.",
+                  "category": "family",
+                  "coords": [
+                        -6.004568,
+                        37.373645
+                  ]
+            },
+            {
+                  "name": "Parque Antonio Rodríguez Moreno",
+                  "text": "A playground in Seville for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -5.970304,
+                        37.409677
                   ]
             }
       ]
@@ -2300,6 +2588,96 @@ imageHint: "Plaza de Espana Seville sunny day",
                         -0.912971,
                         41.639439
                   ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Ein See in Saragossa, der einen ruhigen Rückzugsort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.886057,
+                        41.608078
+                  ]
+            },
+            {
+                  "name": "Deposito Academia",
+                  "text": "Ein See in Saragossa, der sich gut für einen entspannten Aufenthalt im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.877837,
+                        41.697967
+                  ]
+            },
+            {
+                  "name": "Depósitos de Casablanca",
+                  "text": "Ein Gewässer in Saragossa, das zu Spaziergängen am Ufer einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.918461,
+                        41.6344
+                  ]
+            },
+            {
+                  "name": "Territorio Mapache",
+                  "text": "Ein thematischer Spielplatz in Saragossa, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -0.914835,
+                        41.64933
+                  ]
+            },
+            {
+                  "name": "Área de Fiesta",
+                  "text": "Ein Spielbereich in Saragossa für fröhliche Stunden mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.909952,
+                        41.644052
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Verano Helios",
+                  "text": "Ein sommerlicher Spielplatz in Saragossa für Kinder zum aktiven Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -0.886394,
+                        41.660428
+                  ]
+            },
+            {
+                  "name": "pista de patinaje",
+                  "text": "Eine Eislaufbahn in Saragossa für aktiven Spaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -0.916268,
+                        41.654485
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Buenavista",
+                  "text": "Ein Spielplatz in Saragossa mit verschiedenen Kletter- und Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        -0.893768,
+                        41.631745
+                  ]
+            },
+            {
+                  "name": "Estonoesunsolar 12",
+                  "text": "Ein städtischer Spielplatz in Saragossa für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -0.888983,
+                        41.656149
+                  ]
+            },
+            {
+                  "name": "Patio Aula 2 Años",
+                  "text": "Ein kleiner Spielbereich in Saragossa, speziell für jüngere Kinder gestaltet.",
+                  "category": "family",
+                  "coords": [
+                        -0.910173,
+                        41.6374
+                  ]
             }
       ],
       "hu": [
@@ -2850,6 +3228,96 @@ imageHint: "Plaza de Espana Seville sunny day",
                   "coords": [
                         -0.912971,
                         41.639439
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Egy tó Zaragoza területén, amely nyugodt menedéket nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.886057,
+                        41.608078
+                  ]
+            },
+            {
+                  "name": "Deposito Academia",
+                  "text": "Egy tó Zaragoza területén, amely alkalmas egy pihentető szabadtéri időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        -0.877837,
+                        41.697967
+                  ]
+            },
+            {
+                  "name": "Depósitos de Casablanca",
+                  "text": "Egy vízfelület Zaragoza városában, amely sétákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        -0.918461,
+                        41.6344
+                  ]
+            },
+            {
+                  "name": "Territorio Mapache",
+                  "text": "Egy tematikus játszótér Zaragoza városában, amely nagy örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -0.914835,
+                        41.64933
+                  ]
+            },
+            {
+                  "name": "Área de Fiesta",
+                  "text": "Egy játszóterület Zaragoza városában a vidám családi órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.909952,
+                        41.644052
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Verano Helios",
+                  "text": "Egy nyári játszótér Zaragoza városában az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.886394,
+                        41.660428
+                  ]
+            },
+            {
+                  "name": "pista de patinaje",
+                  "text": "Egy korcsolyapálya Zaragoza városában az aktív szabadtéri szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.916268,
+                        41.654485
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Buenavista",
+                  "text": "Játszótér Zaragoza városában különféle mászó- és játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        -0.893768,
+                        41.631745
+                  ]
+            },
+            {
+                  "name": "Estonoesunsolar 12",
+                  "text": "Városi játszótér Zaragoza városában a gyermekek szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        -0.888983,
+                        41.656149
+                  ]
+            },
+            {
+                  "name": "Patio Aula 2 Años",
+                  "text": "Egy kis játszóterület Zaragoza városában, kifejezetten kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.910173,
+                        41.6374
                   ]
             }
       ],
@@ -3402,6 +3870,96 @@ imageHint: "Plaza de Espana Seville sunny day",
                         -0.912971,
                         41.639439
                   ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Un lac în Zaragoza care oferă un refugiu liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.886057,
+                        41.608078
+                  ]
+            },
+            {
+                  "name": "Deposito Academia",
+                  "text": "Un lac în Zaragoza, potrivit pentru petrecerea timpului relaxat în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.877837,
+                        41.697967
+                  ]
+            },
+            {
+                  "name": "Depósitos de Casablanca",
+                  "text": "O apă în Zaragoza care invită la plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -0.918461,
+                        41.6344
+                  ]
+            },
+            {
+                  "name": "Territorio Mapache",
+                  "text": "Un teren de joacă tematic în Zaragoza care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -0.914835,
+                        41.64933
+                  ]
+            },
+            {
+                  "name": "Área de Fiesta",
+                  "text": "O zonă de joacă în Zaragoza pentru ore vesele alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.909952,
+                        41.644052
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Verano Helios",
+                  "text": "Un teren de joacă de vară în Zaragoza pentru jocuri active.",
+                  "category": "family",
+                  "coords": [
+                        -0.886394,
+                        41.660428
+                  ]
+            },
+            {
+                  "name": "pista de patinaje",
+                  "text": "Un patinoar în Zaragoza pentru distracție activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.916268,
+                        41.654485
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Buenavista",
+                  "text": "Un teren de joacă în Zaragoza cu diverse echipamente de cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -0.893768,
+                        41.631745
+                  ]
+            },
+            {
+                  "name": "Estonoesunsolar 12",
+                  "text": "Un teren de joacă urban în Zaragoza pentru activitățile de recreere ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -0.888983,
+                        41.656149
+                  ]
+            },
+            {
+                  "name": "Patio Aula 2 Años",
+                  "text": "O zonă mică de joacă în Zaragoza, special concepută pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        -0.910173,
+                        41.6374
+                  ]
             }
       ],
       "en": [
@@ -3952,6 +4510,96 @@ imageHint: "Plaza de Espana Seville sunny day",
                   "coords": [
                         -0.912971,
                         41.639439
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "A lake in Zaragoza that offers a peaceful retreat in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.886057,
+                        41.608078
+                  ]
+            },
+            {
+                  "name": "Deposito Academia",
+                  "text": "A lake in Zaragoza suitable for a relaxed time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -0.877837,
+                        41.697967
+                  ]
+            },
+            {
+                  "name": "Depósitos de Casablanca",
+                  "text": "A body of water in Zaragoza that invites you for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -0.918461,
+                        41.6344
+                  ]
+            },
+            {
+                  "name": "Territorio Mapache",
+                  "text": "A themed playground in Zaragoza that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        -0.914835,
+                        41.64933
+                  ]
+            },
+            {
+                  "name": "Área de Fiesta",
+                  "text": "A play area in Zaragoza for joyful hours with the family.",
+                  "category": "family",
+                  "coords": [
+                        -0.909952,
+                        41.644052
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Verano Helios",
+                  "text": "A summer playground in Zaragoza for children's active play.",
+                  "category": "family",
+                  "coords": [
+                        -0.886394,
+                        41.660428
+                  ]
+            },
+            {
+                  "name": "pista de patinaje",
+                  "text": "A skating rink in Zaragoza for active outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        -0.916268,
+                        41.654485
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Buenavista",
+                  "text": "A playground in Zaragoza with various climbing and play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -0.893768,
+                        41.631745
+                  ]
+            },
+            {
+                  "name": "Estonoesunsolar 12",
+                  "text": "An urban playground in Zaragoza for children's recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.888983,
+                        41.656149
+                  ]
+            },
+            {
+                  "name": "Patio Aula 2 Años",
+                  "text": "A small play area in Zaragoza, specially designed for younger children.",
+                  "category": "family",
+                  "coords": [
+                        -0.910173,
+                        41.6374
                   ]
             }
       ]
@@ -6190,6 +6838,42 @@ imageHint: "Malaga city view from Gibralfaro castle",
                         -1.129893,
                         37.987201
                   ]
+            },
+            {
+                  "name": "Jungly Park",
+                  "text": "Ein thematischer Spielplatz in Murcia für aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -1.133289,
+                        37.97062
+                  ]
+            },
+            {
+                  "name": "La Jungla",
+                  "text": "Dieser Spielplatz in Murcia bietet eine abwechslungsreiche Umgebung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.135644,
+                        37.969857
+                  ]
+            },
+            {
+                  "name": "Parque infantil Malecón",
+                  "text": "Ein zentral gelegener Spielplatz in Murcia für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        -1.136483,
+                        37.982749
+                  ]
+            },
+            {
+                  "name": "Parque infantil El Limonero",
+                  "text": "Ein familienfreundlicher Ort in Murcia zum Spielen und Verweilen.",
+                  "category": "family",
+                  "coords": [
+                        -1.137672,
+                        37.982164
+                  ]
             }
       ],
       "hu": [
@@ -6380,6 +7064,42 @@ imageHint: "Malaga city view from Gibralfaro castle",
                   "coords": [
                         -1.129893,
                         37.987201
+                  ]
+            },
+            {
+                  "name": "Jungly Park",
+                  "text": "Tematikus játszótér Murciában az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.133289,
+                        37.97062
+                  ]
+            },
+            {
+                  "name": "La Jungla",
+                  "text": "Ez a murciai játszótér változatos környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.135644,
+                        37.969857
+                  ]
+            },
+            {
+                  "name": "Parque infantil Malecón",
+                  "text": "Központi elhelyezkedésű murciai játszótér családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.136483,
+                        37.982749
+                  ]
+            },
+            {
+                  "name": "Parque infantil El Limonero",
+                  "text": "Családbarát hely Murciában a játékhoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.137672,
+                        37.982164
                   ]
             }
       ],
@@ -6572,6 +7292,42 @@ imageHint: "Malaga city view from Gibralfaro castle",
                         -1.129893,
                         37.987201
                   ]
+            },
+            {
+                  "name": "Jungly Park",
+                  "text": "Un teren de joacă tematic în Murcia pentru joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        -1.133289,
+                        37.97062
+                  ]
+            },
+            {
+                  "name": "La Jungla",
+                  "text": "Acest teren de joacă din Murcia oferă un mediu variat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.135644,
+                        37.969857
+                  ]
+            },
+            {
+                  "name": "Parque infantil Malecón",
+                  "text": "Un teren de joacă situat central în Murcia pentru vizite cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -1.136483,
+                        37.982749
+                  ]
+            },
+            {
+                  "name": "Parque infantil El Limonero",
+                  "text": "Un loc prietenos pentru familii în Murcia pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -1.137672,
+                        37.982164
+                  ]
             }
       ],
       "en": [
@@ -6762,6 +7518,42 @@ imageHint: "Malaga city view from Gibralfaro castle",
                   "coords": [
                         -1.129893,
                         37.987201
+                  ]
+            },
+            {
+                  "name": "Jungly Park",
+                  "text": "A themed playground in Murcia for active play.",
+                  "category": "family",
+                  "coords": [
+                        -1.133289,
+                        37.97062
+                  ]
+            },
+            {
+                  "name": "La Jungla",
+                  "text": "This playground in Murcia offers a varied environment for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.135644,
+                        37.969857
+                  ]
+            },
+            {
+                  "name": "Parque infantil Malecón",
+                  "text": "A centrally located playground in Murcia for family visits.",
+                  "category": "family",
+                  "coords": [
+                        -1.136483,
+                        37.982749
+                  ]
+            },
+            {
+                  "name": "Parque infantil El Limonero",
+                  "text": "A family-friendly spot in Murcia for playing and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        -1.137672,
+                        37.982164
                   ]
             }
       ]
@@ -7172,6 +7964,60 @@ imageHint: "Murcia Cathedral facade sunny day",
                         2.648257,
                         39.567486
                   ]
+            },
+            {
+                  "name": "Montision",
+                  "text": "Ein Spielplatz in Palma de Mallorca, der zum Toben und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        2.62158,
+                        39.584335
+                  ]
+            },
+            {
+                  "name": "Sa Faixina",
+                  "text": "Ein gut gelegener Spielplatz in Palma de Mallorca für eine Pause im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        2.640985,
+                        39.571318
+                  ]
+            },
+            {
+                  "name": "Son Dameto",
+                  "text": "Ein Spielplatz in Palma de Mallorca, ideal für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.628745,
+                        39.578829
+                  ]
+            },
+            {
+                  "name": "Sa Riera",
+                  "text": "Ein weitläufiger Spielbereich in Palma de Mallorca mit vielen Möglichkeiten zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.639995,
+                        39.584126
+                  ]
+            },
+            {
+                  "name": "PlayKing",
+                  "text": "Ein Indoor-Spielplatz in Palma de Mallorca für wetterunabhängigen Spaß.",
+                  "category": "family",
+                  "coords": [
+                        2.642089,
+                        39.586478
+                  ]
+            },
+            {
+                  "name": "Son Moix Blanc",
+                  "text": "Ein lokaler Spielplatz in Palma de Mallorca für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        2.625205,
+                        39.581215
+                  ]
             }
       ],
       "hu": [
@@ -7533,6 +8379,60 @@ imageHint: "Murcia Cathedral facade sunny day",
                   "coords": [
                         2.648257,
                         39.567486
+                  ]
+            },
+            {
+                  "name": "Montision",
+                  "text": "Egy játszótér Palma de Mallorca városában, amely játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        2.62158,
+                        39.584335
+                  ]
+            },
+            {
+                  "name": "Sa Faixina",
+                  "text": "Egy jól elhelyezett játszótér Palma de Mallorca városában egy pihenőhöz a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        2.640985,
+                        39.571318
+                  ]
+            },
+            {
+                  "name": "Son Dameto",
+                  "text": "Egy játszótér Palma de Mallorca városában, amely ideális az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.628745,
+                        39.578829
+                  ]
+            },
+            {
+                  "name": "Sa Riera",
+                  "text": "Egy tágas játszóterület Palma de Mallorca városában számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        2.639995,
+                        39.584126
+                  ]
+            },
+            {
+                  "name": "PlayKing",
+                  "text": "Egy beltéri játszóház Palma de Mallorca városában az időjárástól független szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.642089,
+                        39.586478
+                  ]
+            },
+            {
+                  "name": "Son Moix Blanc",
+                  "text": "Helyi játszótér Palma de Mallorca városában minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        2.625205,
+                        39.581215
                   ]
             }
       ],
@@ -7896,6 +8796,60 @@ imageHint: "Murcia Cathedral facade sunny day",
                         2.648257,
                         39.567486
                   ]
+            },
+            {
+                  "name": "Montision",
+                  "text": "Un teren de joacă în Palma de Mallorca care invită la joacă.",
+                  "category": "family",
+                  "coords": [
+                        2.62158,
+                        39.584335
+                  ]
+            },
+            {
+                  "name": "Sa Faixina",
+                  "text": "Un teren de joacă bine situat în Palma de Mallorca pentru o pauză în natură.",
+                  "category": "family",
+                  "coords": [
+                        2.640985,
+                        39.571318
+                  ]
+            },
+            {
+                  "name": "Son Dameto",
+                  "text": "Un teren de joacă în Palma de Mallorca, ideal pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        2.628745,
+                        39.578829
+                  ]
+            },
+            {
+                  "name": "Sa Riera",
+                  "text": "O zonă de joacă spațioasă în Palma de Mallorca cu multe opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        2.639995,
+                        39.584126
+                  ]
+            },
+            {
+                  "name": "PlayKing",
+                  "text": "Un loc de joacă interior în Palma de Mallorca pentru distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        2.642089,
+                        39.586478
+                  ]
+            },
+            {
+                  "name": "Son Moix Blanc",
+                  "text": "Un teren de joacă local în Palma de Mallorca pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        2.625205,
+                        39.581215
+                  ]
             }
       ],
       "en": [
@@ -8258,6 +9212,60 @@ imageHint: "Murcia Cathedral facade sunny day",
                         2.648257,
                         39.567486
                   ]
+            },
+            {
+                  "name": "Montision",
+                  "text": "A playground in Palma de Mallorca that invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        2.62158,
+                        39.584335
+                  ]
+            },
+            {
+                  "name": "Sa Faixina",
+                  "text": "A well-located playground in Palma de Mallorca for a break in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        2.640985,
+                        39.571318
+                  ]
+            },
+            {
+                  "name": "Son Dameto",
+                  "text": "A playground in Palma de Mallorca, ideal for active children.",
+                  "category": "family",
+                  "coords": [
+                        2.628745,
+                        39.578829
+                  ]
+            },
+            {
+                  "name": "Sa Riera",
+                  "text": "A spacious play area in Palma de Mallorca with many options for play.",
+                  "category": "family",
+                  "coords": [
+                        2.639995,
+                        39.584126
+                  ]
+            },
+            {
+                  "name": "PlayKing",
+                  "text": "An indoor playground in Palma de Mallorca for fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        2.642089,
+                        39.586478
+                  ]
+            },
+            {
+                  "name": "Son Moix Blanc",
+                  "text": "A local playground in Palma de Mallorca for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        2.625205,
+                        39.581215
+                  ]
             }
       ]
 },
@@ -8487,6 +9495,42 @@ imageHint: "Murcia Cathedral facade sunny day",
                         -15.416887,
                         28.108177
                   ]
+            },
+            {
+                  "name": "Presa del Pintor",
+                  "text": "Ein ruhiger See in Las Palmas De Gran Canaria, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -15.490266,
+                        28.071448
+                  ]
+            },
+            {
+                  "name": "Parque infantil en la plaza gabriel mejias pombo",
+                  "text": "Ein familienfreundlicher Spielplatz in Las Palmas De Gran Canaria zum Toben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -15.432234,
+                        28.128497
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Ein Spielplatz in Las Palmas De Gran Canaria, der Kindern spannende Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -15.429079,
+                        28.107162
+                  ]
+            },
+            {
+                  "name": "Telaraña de cuerdas",
+                  "text": "Ein Kletterspielplatz in Las Palmas De Gran Canaria, der die Geschicklichkeit von Kindern fördert.",
+                  "category": "family",
+                  "coords": [
+                        -15.42899,
+                        28.108157
+                  ]
             }
       ],
       "hu": [
@@ -8668,6 +9712,42 @@ imageHint: "Murcia Cathedral facade sunny day",
                   "coords": [
                         -15.416887,
                         28.108177
+                  ]
+            },
+            {
+                  "name": "Presa del Pintor",
+                  "text": "Nyugodt tó Las Palmas De Gran Canaria területén, amely alkalmas egy pihentető sétára.",
+                  "category": "natural",
+                  "coords": [
+                        -15.490266,
+                        28.071448
+                  ]
+            },
+            {
+                  "name": "Parque infantil en la plaza gabriel mejias pombo",
+                  "text": "Családbarát játszótér Las Palmas De Gran Canaria területén a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -15.432234,
+                        28.128497
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Játszótér Las Palmas De Gran Canaria városában, amely izgalmas játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        -15.429079,
+                        28.107162
+                  ]
+            },
+            {
+                  "name": "Telaraña de cuerdas",
+                  "text": "Mászóka-játszótér Las Palmas De Gran Canaria területén, amely fejleszti a gyerekek ügyességét.",
+                  "category": "family",
+                  "coords": [
+                        -15.42899,
+                        28.108157
                   ]
             }
       ],
@@ -8851,6 +9931,42 @@ imageHint: "Murcia Cathedral facade sunny day",
                         -15.416887,
                         28.108177
                   ]
+            },
+            {
+                  "name": "Presa del Pintor",
+                  "text": "Un lac liniștit în Las Palmas De Gran Canaria, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -15.490266,
+                        28.071448
+                  ]
+            },
+            {
+                  "name": "Parque infantil en la plaza gabriel mejias pombo",
+                  "text": "Un loc de joacă în Las Palmas De Gran Canaria pentru recreerea întregii familii.",
+                  "category": "family",
+                  "coords": [
+                        -15.432234,
+                        28.128497
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Un loc de joacă în Las Palmas De Gran Canaria care oferă posibilități variate de distracție.",
+                  "category": "family",
+                  "coords": [
+                        -15.429079,
+                        28.107162
+                  ]
+            },
+            {
+                  "name": "Telaraña de cuerdas",
+                  "text": "Un loc de joacă pentru cățărat în Las Palmas De Gran Canaria, care stimulează agilitatea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -15.42899,
+                        28.108157
+                  ]
             }
       ],
       "en": [
@@ -9032,6 +10148,42 @@ imageHint: "Murcia Cathedral facade sunny day",
                   "coords": [
                         -15.416887,
                         28.108177
+                  ]
+            },
+            {
+                  "name": "Presa del Pintor",
+                  "text": "A peaceful lake in Las Palmas De Gran Canaria, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -15.490266,
+                        28.071448
+                  ]
+            },
+            {
+                  "name": "Parque infantil en la plaza gabriel mejias pombo",
+                  "text": "A family-friendly playground in Las Palmas De Gran Canaria for active play.",
+                  "category": "family",
+                  "coords": [
+                        -15.432234,
+                        28.128497
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "A playground in Las Palmas De Gran Canaria offering exciting play options for kids.",
+                  "category": "family",
+                  "coords": [
+                        -15.429079,
+                        28.107162
+                  ]
+            },
+            {
+                  "name": "Telaraña de cuerdas",
+                  "text": "A climbing playground in Las Palmas De Gran Canaria that encourages children's agility.",
+                  "category": "family",
+                  "coords": [
+                        -15.42899,
+                        28.108157
                   ]
             }
       ]
@@ -9388,6 +10540,222 @@ imageHint: "Las Canteras beach Las Palmas skyline",
                         -2.913736,
                         43.258756
                   ]
+            },
+            {
+                  "name": "Embalse de Gorostitza",
+                  "text": "Dieser Stausee bei Bilbao bietet eine schöne Landschaft für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00497,
+                        43.26602
+                  ]
+            },
+            {
+                  "name": "Arantzelaiko urtegia",
+                  "text": "Ein ruhiger See in Bilbao, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -2.85381,
+                        43.246281
+                  ]
+            },
+            {
+                  "name": "San Antonio urtegia",
+                  "text": "Dieser See in Bilbao ist ein neutraler Ort für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -2.879544,
+                        43.251956
+                  ]
+            },
+            {
+                  "name": "Embalse de Etxebarria",
+                  "text": "Ein Stausee in Bilbao, der sich für einen ruhigen Aufenthalt in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.026322,
+                        43.256473
+                  ]
+            },
+            {
+                  "name": "Artiba",
+                  "text": "Dieser See in Bilbao bietet eine friedliche Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.972445,
+                        43.219364
+                  ]
+            },
+            {
+                  "name": "Embalse de Lingorta",
+                  "text": "Ein kleiner See in Bilbao für kurze Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00564,
+                        43.212636
+                  ]
+            },
+            {
+                  "name": "Kurtzetako urtegia",
+                  "text": "Dieser See in Bilbao ist von Natur umgeben und bietet Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        -2.958891,
+                        43.1924
+                  ]
+            },
+            {
+                  "name": "Presa Askueta Urtegia",
+                  "text": "Ein See in Bilbao, der zu einer Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.976702,
+                        43.260884
+                  ]
+            },
+            {
+                  "name": "Etxerre Vistalabella",
+                  "text": "Dieser See in Bilbao bietet einen weiten Blick auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -2.869067,
+                        43.229798
+                  ]
+            },
+            {
+                  "name": "Txarrotako Presea",
+                  "text": "Ein neutraler See in Bilbao für entspannte Stunden am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.862177,
+                        43.221215
+                  ]
+            },
+            {
+                  "name": "Muelles - Dársena de Axpe",
+                  "text": "Dieses Gewässer in Bilbao bietet eine maritime Kulisse für Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        -2.979689,
+                        43.31007
+                  ]
+            },
+            {
+                  "name": "Lago Fuerte",
+                  "text": "Ein See in Bilbao, der sich für eine kurze Auszeit in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.913049,
+                        43.240186
+                  ]
+            },
+            {
+                  "name": "Desarenador 1",
+                  "text": "Ein ruhiges Gewässer in Bilbao für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997657,
+                        43.303888
+                  ]
+            },
+            {
+                  "name": "Sherwood Park",
+                  "text": "Dieser Spielplatz in Bilbao bietet Kindern viel Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        -2.945203,
+                        43.262603
+                  ]
+            },
+            {
+                  "name": "Jardines Solokoetxe",
+                  "text": "Ein gepflegter Spielplatz in Bilbao für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.920168,
+                        43.256371
+                  ]
+            },
+            {
+                  "name": "Begoñazpi",
+                  "text": "Dieser Spielbereich in Bilbao ist ein Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.915133,
+                        43.256363
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos Landaorlegi",
+                  "text": "Ein Spielplatz in Bilbao, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -2.912875,
+                        43.252009
+                  ]
+            },
+            {
+                  "name": "Zona de juegos de Peñascal",
+                  "text": "Dieser Spielplatz in Bilbao ist ein tolles Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -2.949013,
+                        43.24586
+                  ]
+            },
+            {
+                  "name": "Zona de juegos",
+                  "text": "Ein öffentlicher Spielbereich in Bilbao für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -2.949518,
+                        43.247241
+                  ]
+            },
+            {
+                  "name": "Columpios de Masustegi",
+                  "text": "Dieser Spielplatz in Bilbao bietet Schaukeln und Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.9581,
+                        43.256228
+                  ]
+            },
+            {
+                  "name": "Larreagaburuko parkea",
+                  "text": "Ein Park mit Spielplatz in Bilbao für Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -2.916955,
+                        43.247486
+                  ]
+            },
+            {
+                  "name": "Jolasgunea",
+                  "text": "Dieser Spielbereich in Bilbao bietet sichere Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.954772,
+                        43.264894
+                  ]
+            },
+            {
+                  "name": "Plazuela Don Diego Berguices",
+                  "text": "Ein kleiner Platz mit Spielmöglichkeiten in Bilbao.",
+                  "category": "family",
+                  "coords": [
+                        -2.90018,
+                        43.260043
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos de La Salve",
+                  "text": "Dieser Spielplatz in Bilbao liegt zentral und ist für Familien leicht erreichbar.",
+                  "category": "family",
+                  "coords": [
+                        -2.928138,
+                        43.270225
+                  ]
             }
       ],
       "hu": [
@@ -9695,6 +11063,222 @@ imageHint: "Las Canteras beach Las Palmas skyline",
                   "coords": [
                         -2.913736,
                         43.258756
+                  ]
+            },
+            {
+                  "name": "Embalse de Gorostitza",
+                  "text": "Ez a Bilbao melletti víztározó szép tájat kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00497,
+                        43.26602
+                  ]
+            },
+            {
+                  "name": "Arantzelaiko urtegia",
+                  "text": "Nyugodt tó Bilbaóban, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.85381,
+                        43.246281
+                  ]
+            },
+            {
+                  "name": "San Antonio urtegia",
+                  "text": "Ez a bilbaói tó semleges helyszín a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.879544,
+                        43.251956
+                  ]
+            },
+            {
+                  "name": "Embalse de Etxebarria",
+                  "text": "Víztározó Bilbaóban, amely alkalmas a természetben való nyugodt pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.026322,
+                        43.256473
+                  ]
+            },
+            {
+                  "name": "Artiba",
+                  "text": "Ez a bilbaói tó békés atmoszférát áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.972445,
+                        43.219364
+                  ]
+            },
+            {
+                  "name": "Embalse de Lingorta",
+                  "text": "Kisebb tó Bilbaóban a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00564,
+                        43.212636
+                  ]
+            },
+            {
+                  "name": "Kurtzetako urtegia",
+                  "text": "Ez a bilbaói tó természettel van körülvéve és nyugalmat áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.958891,
+                        43.1924
+                  ]
+            },
+            {
+                  "name": "Presa Askueta Urtegia",
+                  "text": "Bilbaói tó, amely hívogató egy zöld környezetben tett pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.976702,
+                        43.260884
+                  ]
+            },
+            {
+                  "name": "Etxerre Vistalabella",
+                  "text": "Ez a bilbaói tó széles kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -2.869067,
+                        43.229798
+                  ]
+            },
+            {
+                  "name": "Txarrotako Presea",
+                  "text": "Semleges tó Bilbaóban a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.862177,
+                        43.221215
+                  ]
+            },
+            {
+                  "name": "Muelles - Dársena de Axpe",
+                  "text": "Ez a bilbaói vízfelület tengerparti jellegű környezetet kínál a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -2.979689,
+                        43.31007
+                  ]
+            },
+            {
+                  "name": "Lago Fuerte",
+                  "text": "Bilbaói tó, amely alkalmas egy rövid természetbeli kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        -2.913049,
+                        43.240186
+                  ]
+            },
+            {
+                  "name": "Desarenador 1",
+                  "text": "Csendes vízfelület Bilbaóban a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997657,
+                        43.303888
+                  ]
+            },
+            {
+                  "name": "Sherwood Park",
+                  "text": "Ez a bilbaói játszótér sok helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.945203,
+                        43.262603
+                  ]
+            },
+            {
+                  "name": "Jardines Solokoetxe",
+                  "text": "Gondozott bilbaói játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.920168,
+                        43.256371
+                  ]
+            },
+            {
+                  "name": "Begoñazpi",
+                  "text": "Ez a bilbaói játszótér találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.915133,
+                        43.256363
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos Landaorlegi",
+                  "text": "Bilbaói játszótér, amely felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        -2.912875,
+                        43.252009
+                  ]
+            },
+            {
+                  "name": "Zona de juegos de Peñascal",
+                  "text": "Ez a bilbaói játszótér remek célpont egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.949013,
+                        43.24586
+                  ]
+            },
+            {
+                  "name": "Zona de juegos",
+                  "text": "Nyilvános bilbaói játszótér minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.949518,
+                        43.247241
+                  ]
+            },
+            {
+                  "name": "Columpios de Masustegi",
+                  "text": "Ez a bilbaói játszótér hintákat és játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.9581,
+                        43.256228
+                  ]
+            },
+            {
+                  "name": "Larreagaburuko parkea",
+                  "text": "Játszótérrel rendelkező park Bilbaóban szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -2.916955,
+                        43.247486
+                  ]
+            },
+            {
+                  "name": "Jolasgunea",
+                  "text": "Ez a bilbaói játszótér biztonságos játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.954772,
+                        43.264894
+                  ]
+            },
+            {
+                  "name": "Plazuela Don Diego Berguices",
+                  "text": "Kicsi tér játéklehetőségekkel Bilbaóban.",
+                  "category": "family",
+                  "coords": [
+                        -2.90018,
+                        43.260043
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos de La Salve",
+                  "text": "Ez a bilbaói játszótér központi helyen található és könnyen elérhető a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.928138,
+                        43.270225
                   ]
             }
       ],
@@ -10004,6 +11588,222 @@ imageHint: "Las Canteras beach Las Palmas skyline",
                         -2.913736,
                         43.258756
                   ]
+            },
+            {
+                  "name": "Embalse de Gorostitza",
+                  "text": "Acest lac de acumulare de lângă Bilbao oferă un peisaj frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00497,
+                        43.26602
+                  ]
+            },
+            {
+                  "name": "Arantzelaiko urtegia",
+                  "text": "Un lac liniștit în Bilbao, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -2.85381,
+                        43.246281
+                  ]
+            },
+            {
+                  "name": "San Antonio urtegia",
+                  "text": "Acest lac din Bilbao este un loc neutru pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.879544,
+                        43.251956
+                  ]
+            },
+            {
+                  "name": "Embalse de Etxebarria",
+                  "text": "Un lac de acumulare în Bilbao, potrivit pentru o ședere liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -3.026322,
+                        43.256473
+                  ]
+            },
+            {
+                  "name": "Artiba",
+                  "text": "Acest lac din Bilbao oferă o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        -2.972445,
+                        43.219364
+                  ]
+            },
+            {
+                  "name": "Embalse de Lingorta",
+                  "text": "Un lac mic în Bilbao pentru plimbări scurte pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00564,
+                        43.212636
+                  ]
+            },
+            {
+                  "name": "Kurtzetako urtegia",
+                  "text": "Acest lac din Bilbao este înconjurat de natură și oferă liniște.",
+                  "category": "natural",
+                  "coords": [
+                        -2.958891,
+                        43.1924
+                  ]
+            },
+            {
+                  "name": "Presa Askueta Urtegia",
+                  "text": "Un lac în Bilbao care invită la o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -2.976702,
+                        43.260884
+                  ]
+            },
+            {
+                  "name": "Etxerre Vistalabella",
+                  "text": "Acest lac din Bilbao oferă o vedere largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -2.869067,
+                        43.229798
+                  ]
+            },
+            {
+                  "name": "Txarrotako Presea",
+                  "text": "Un lac neutru în Bilbao pentru ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.862177,
+                        43.221215
+                  ]
+            },
+            {
+                  "name": "Muelles - Dársena de Axpe",
+                  "text": "Această apă din Bilbao oferă un cadru maritim pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        -2.979689,
+                        43.31007
+                  ]
+            },
+            {
+                  "name": "Lago Fuerte",
+                  "text": "Un lac în Bilbao, potrivit pentru o scurtă evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.913049,
+                        43.240186
+                  ]
+            },
+            {
+                  "name": "Desarenador 1",
+                  "text": "O apă liniștită în Bilbao pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997657,
+                        43.303888
+                  ]
+            },
+            {
+                  "name": "Sherwood Park",
+                  "text": "Acest teren de joacă din Bilbao oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.945203,
+                        43.262603
+                  ]
+            },
+            {
+                  "name": "Jardines Solokoetxe",
+                  "text": "Un teren de joacă bine întreținut în Bilbao pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.920168,
+                        43.256371
+                  ]
+            },
+            {
+                  "name": "Begoñazpi",
+                  "text": "Această zonă de joacă din Bilbao este un punct de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.915133,
+                        43.256363
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos Landaorlegi",
+                  "text": "Un teren de joacă în Bilbao care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.912875,
+                        43.252009
+                  ]
+            },
+            {
+                  "name": "Zona de juegos de Peñascal",
+                  "text": "Acest teren de joacă din Bilbao este o destinație excelentă pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.949013,
+                        43.24586
+                  ]
+            },
+            {
+                  "name": "Zona de juegos",
+                  "text": "O zonă de joacă publică în Bilbao pentru copiii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.949518,
+                        43.247241
+                  ]
+            },
+            {
+                  "name": "Columpios de Masustegi",
+                  "text": "Acest teren de joacă din Bilbao oferă leagăne și echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.9581,
+                        43.256228
+                  ]
+            },
+            {
+                  "name": "Larreagaburuko parkea",
+                  "text": "Un parc cu teren de joacă în Bilbao pentru activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        -2.916955,
+                        43.247486
+                  ]
+            },
+            {
+                  "name": "Jolasgunea",
+                  "text": "Această zonă de joacă din Bilbao oferă opțiuni sigure de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.954772,
+                        43.264894
+                  ]
+            },
+            {
+                  "name": "Plazuela Don Diego Berguices",
+                  "text": "O mică piațetă cu opțiuni de joacă în Bilbao.",
+                  "category": "family",
+                  "coords": [
+                        -2.90018,
+                        43.260043
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos de La Salve",
+                  "text": "Acest teren de joacă din Bilbao este situat central și ușor accesibil pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.928138,
+                        43.270225
+                  ]
             }
       ],
       "en": [
@@ -10311,6 +12111,222 @@ imageHint: "Las Canteras beach Las Palmas skyline",
                   "coords": [
                         -2.913736,
                         43.258756
+                  ]
+            },
+            {
+                  "name": "Embalse de Gorostitza",
+                  "text": "This reservoir near Bilbao offers beautiful scenery for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00497,
+                        43.26602
+                  ]
+            },
+            {
+                  "name": "Arantzelaiko urtegia",
+                  "text": "A quiet lake in Bilbao, ideal for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        -2.85381,
+                        43.246281
+                  ]
+            },
+            {
+                  "name": "San Antonio urtegia",
+                  "text": "This lake in Bilbao is a neutral spot for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.879544,
+                        43.251956
+                  ]
+            },
+            {
+                  "name": "Embalse de Etxebarria",
+                  "text": "A reservoir in Bilbao suitable for a quiet stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -3.026322,
+                        43.256473
+                  ]
+            },
+            {
+                  "name": "Artiba",
+                  "text": "This lake in Bilbao offers a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -2.972445,
+                        43.219364
+                  ]
+            },
+            {
+                  "name": "Embalse de Lingorta",
+                  "text": "A small lake in Bilbao for short walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.00564,
+                        43.212636
+                  ]
+            },
+            {
+                  "name": "Kurtzetako urtegia",
+                  "text": "This lake in Bilbao is surrounded by nature and offers tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        -2.958891,
+                        43.1924
+                  ]
+            },
+            {
+                  "name": "Presa Askueta Urtegia",
+                  "text": "A lake in Bilbao that invites a break in green surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -2.976702,
+                        43.260884
+                  ]
+            },
+            {
+                  "name": "Etxerre Vistalabella",
+                  "text": "This lake in Bilbao offers a broad view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -2.869067,
+                        43.229798
+                  ]
+            },
+            {
+                  "name": "Txarrotako Presea",
+                  "text": "A neutral lake in Bilbao for relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -2.862177,
+                        43.221215
+                  ]
+            },
+            {
+                  "name": "Muelles - Dársena de Axpe",
+                  "text": "This body of water in Bilbao offers a maritime backdrop for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -2.979689,
+                        43.31007
+                  ]
+            },
+            {
+                  "name": "Lago Fuerte",
+                  "text": "A lake in Bilbao suitable for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -2.913049,
+                        43.240186
+                  ]
+            },
+            {
+                  "name": "Desarenador 1",
+                  "text": "A quiet body of water in Bilbao for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -2.997657,
+                        43.303888
+                  ]
+            },
+            {
+                  "name": "Sherwood Park",
+                  "text": "This playground in Bilbao offers children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.945203,
+                        43.262603
+                  ]
+            },
+            {
+                  "name": "Jardines Solokoetxe",
+                  "text": "A well-maintained playground in Bilbao for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.920168,
+                        43.256371
+                  ]
+            },
+            {
+                  "name": "Begoñazpi",
+                  "text": "This play area in Bilbao is a meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.915133,
+                        43.256363
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos Landaorlegi",
+                  "text": "A playground in Bilbao that invites exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        -2.912875,
+                        43.252009
+                  ]
+            },
+            {
+                  "name": "Zona de juegos de Peñascal",
+                  "text": "This playground in Bilbao is a great destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -2.949013,
+                        43.24586
+                  ]
+            },
+            {
+                  "name": "Zona de juegos",
+                  "text": "A public play area in Bilbao for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.949518,
+                        43.247241
+                  ]
+            },
+            {
+                  "name": "Columpios de Masustegi",
+                  "text": "This playground in Bilbao offers swings and play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.9581,
+                        43.256228
+                  ]
+            },
+            {
+                  "name": "Larreagaburuko parkea",
+                  "text": "A park with a playground in Bilbao for leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -2.916955,
+                        43.247486
+                  ]
+            },
+            {
+                  "name": "Jolasgunea",
+                  "text": "This play area in Bilbao offers safe play options for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.954772,
+                        43.264894
+                  ]
+            },
+            {
+                  "name": "Plazuela Don Diego Berguices",
+                  "text": "A small square with play options in Bilbao.",
+                  "category": "family",
+                  "coords": [
+                        -2.90018,
+                        43.260043
+                  ]
+            },
+            {
+                  "name": "Zona de Juegos de La Salve",
+                  "text": "This playground in Bilbao is centrally located and easily accessible for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.928138,
+                        43.270225
                   ]
             }
       ]
@@ -13398,6 +15414,87 @@ imageHint: "Gijon San Lorenzo beach and church",
                         2.084736,
                         41.360227
                   ]
+            },
+            {
+                  "name": "Pantà de Vallvidrera",
+                  "text": "Ein malerischer See bei L Hospitalet De Llobregat, perfekt für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        2.097587,
+                        41.41451
+                  ]
+            },
+            {
+                  "name": "Plaça Gandhi",
+                  "text": "Ein städtischer Spielplatz in L Hospitalet De Llobregat für den täglichen Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        2.085181,
+                        41.371308
+                  ]
+            },
+            {
+                  "name": "Plaça del Carme",
+                  "text": "Ein schöner Spielplatz in L Hospitalet De Llobregat, der ein Treffpunkt für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        2.07191,
+                        41.367403
+                  ]
+            },
+            {
+                  "name": "Associació A.R.C.A.D.E.",
+                  "text": "Eine Spielhalle in L Hospitalet De Llobregat mit Unterhaltungsangeboten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        2.089562,
+                        41.370557
+                  ]
+            },
+            {
+                  "name": "Ilusiona Gran Vía 2",
+                  "text": "Ein modernes Freizeitzentrum in L Hospitalet De Llobregat mit vielfältigen Spielautomaten.",
+                  "category": "family",
+                  "coords": [
+                        2.128871,
+                        41.358021
+                  ]
+            },
+            {
+                  "name": "El Patufet",
+                  "text": "Ein kleiner Spielplatz in L Hospitalet De Llobregat, ideal für jüngere Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.102324,
+                        41.384709
+                  ]
+            },
+            {
+                  "name": "Àrea de joc infantil del Parc de Can Creixells",
+                  "text": "Ein weitläufiger Spielbereich in L Hospitalet De Llobregat, der viel Platz zum Bewegen bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.103263,
+                        41.3636
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs infantil dels Jardins del Canal de la Infanta",
+                  "text": "Ein gepflegter Spielplatz in den Gärten von L Hospitalet De Llobregat für entspannte Stunden.",
+                  "category": "family",
+                  "coords": [
+                        2.093151,
+                        41.361189
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs Parc de la Remunta",
+                  "text": "Ein moderner Spielplatz in L Hospitalet De Llobregat mit sicheren Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.09316,
+                        41.359768
+                  ]
             }
       ],
       "hu": [
@@ -13633,6 +15730,87 @@ imageHint: "Gijon San Lorenzo beach and church",
                   "coords": [
                         2.084736,
                         41.360227
+                  ]
+            },
+            {
+                  "name": "Pantà de Vallvidrera",
+                  "text": "Gondozott tó L Hospitalet De Llobregat közelében, amely vonzó a természetjárók számára.",
+                  "category": "natural",
+                  "coords": [
+                        2.097587,
+                        41.41451
+                  ]
+            },
+            {
+                  "name": "Plaça Gandhi",
+                  "text": "Városi játszótér L Hospitalet De Llobregat területén a napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.085181,
+                        41.371308
+                  ]
+            },
+            {
+                  "name": "Plaça del Carme",
+                  "text": "Kedvelt játszótér L Hospitalet De Llobregat városában, amely a családok találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        2.07191,
+                        41.367403
+                  ]
+            },
+            {
+                  "name": "Associació A.R.C.A.D.E.",
+                  "text": "Játékterem L Hospitalet De Llobregat városában, szórakozási lehetőségekkel minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        2.089562,
+                        41.370557
+                  ]
+            },
+            {
+                  "name": "Ilusiona Gran Vía 2",
+                  "text": "Modern szórakoztató központ L Hospitalet De Llobregat területén, változatos játékgépekkel.",
+                  "category": "family",
+                  "coords": [
+                        2.128871,
+                        41.358021
+                  ]
+            },
+            {
+                  "name": "El Patufet",
+                  "text": "Kisebb játszótér L Hospitalet De Llobregat városában, ideális a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        2.102324,
+                        41.384709
+                  ]
+            },
+            {
+                  "name": "Àrea de joc infantil del Parc de Can Creixells",
+                  "text": "Tágas játszóterület L Hospitalet De Llobregat területén, amely nagy teret biztosít a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.103263,
+                        41.3636
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs infantil dels Jardins del Canal de la Infanta",
+                  "text": "Gondozott játszótér L Hospitalet De Llobregat kertjeiben a felhőtlen kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.093151,
+                        41.361189
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs Parc de la Remunta",
+                  "text": "Modern játszótér L Hospitalet De Llobregat városában biztonságos eszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        2.09316,
+                        41.359768
                   ]
             }
       ],
@@ -13870,6 +16048,87 @@ imageHint: "Gijon San Lorenzo beach and church",
                         2.084736,
                         41.360227
                   ]
+            },
+            {
+                  "name": "Pantà de Vallvidrera",
+                  "text": "Un lac pitoresc lângă L Hospitalet De Llobregat, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        2.097587,
+                        41.41451
+                  ]
+            },
+            {
+                  "name": "Plaça Gandhi",
+                  "text": "Un loc de joacă urban în L Hospitalet De Llobregat pentru recreerea zilnică.",
+                  "category": "family",
+                  "coords": [
+                        2.085181,
+                        41.371308
+                  ]
+            },
+            {
+                  "name": "Plaça del Carme",
+                  "text": "Un loc de joacă plăcut în L Hospitalet De Llobregat, fiind un punct de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        2.07191,
+                        41.367403
+                  ]
+            },
+            {
+                  "name": "Associació A.R.C.A.D.E.",
+                  "text": "O sală de jocuri în L Hospitalet De Llobregat cu opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        2.089562,
+                        41.370557
+                  ]
+            },
+            {
+                  "name": "Ilusiona Gran Vía 2",
+                  "text": "Un centru modern de divertisment în L Hospitalet De Llobregat cu diverse jocuri arcade.",
+                  "category": "family",
+                  "coords": [
+                        2.128871,
+                        41.358021
+                  ]
+            },
+            {
+                  "name": "El Patufet",
+                  "text": "Un mic loc de joacă în L Hospitalet De Llobregat, ideal pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        2.102324,
+                        41.384709
+                  ]
+            },
+            {
+                  "name": "Àrea de joc infantil del Parc de Can Creixells",
+                  "text": "O zonă de joacă spațioasă în L Hospitalet De Llobregat, oferind mult loc pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        2.103263,
+                        41.3636
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs infantil dels Jardins del Canal de la Infanta",
+                  "text": "Un loc de joacă bine întreținut în grădinile din L Hospitalet De Llobregat pentru ore relaxante.",
+                  "category": "family",
+                  "coords": [
+                        2.093151,
+                        41.361189
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs Parc de la Remunta",
+                  "text": "Un loc de joacă modern în L Hospitalet De Llobregat cu echipamente sigure pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.09316,
+                        41.359768
+                  ]
             }
       ],
       "en": [
@@ -14105,6 +16364,87 @@ imageHint: "Gijon San Lorenzo beach and church",
                   "coords": [
                         2.084736,
                         41.360227
+                  ]
+            },
+            {
+                  "name": "Pantà de Vallvidrera",
+                  "text": "A scenic lake near L Hospitalet De Llobregat, perfect for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        2.097587,
+                        41.41451
+                  ]
+            },
+            {
+                  "name": "Plaça Gandhi",
+                  "text": "An urban playground in L Hospitalet De Llobregat for daily outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        2.085181,
+                        41.371308
+                  ]
+            },
+            {
+                  "name": "Plaça del Carme",
+                  "text": "A pleasant playground in L Hospitalet De Llobregat that serves as a family meeting spot.",
+                  "category": "family",
+                  "coords": [
+                        2.07191,
+                        41.367403
+                  ]
+            },
+            {
+                  "name": "Associació A.R.C.A.D.E.",
+                  "text": "An amusement arcade in L Hospitalet De Llobregat with entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        2.089562,
+                        41.370557
+                  ]
+            },
+            {
+                  "name": "Ilusiona Gran Vía 2",
+                  "text": "A modern entertainment center in L Hospitalet De Llobregat featuring various arcade games.",
+                  "category": "family",
+                  "coords": [
+                        2.128871,
+                        41.358021
+                  ]
+            },
+            {
+                  "name": "El Patufet",
+                  "text": "A small playground in L Hospitalet De Llobregat, perfect for younger children.",
+                  "category": "family",
+                  "coords": [
+                        2.102324,
+                        41.384709
+                  ]
+            },
+            {
+                  "name": "Àrea de joc infantil del Parc de Can Creixells",
+                  "text": "A spacious play area in L Hospitalet De Llobregat offering plenty of room for activities.",
+                  "category": "family",
+                  "coords": [
+                        2.103263,
+                        41.3636
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs infantil dels Jardins del Canal de la Infanta",
+                  "text": "A well-maintained playground in the gardens of L Hospitalet De Llobregat for relaxed play.",
+                  "category": "family",
+                  "coords": [
+                        2.093151,
+                        41.361189
+                  ]
+            },
+            {
+                  "name": "Àrea de jocs Parc de la Remunta",
+                  "text": "A modern playground in L Hospitalet De Llobregat with safe equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        2.09316,
+                        41.359768
                   ]
             }
       ]
@@ -14353,6 +16693,105 @@ imageHint: "Gijon San Lorenzo beach and church",
                         -2.673313,
                         42.846555
                   ]
+            },
+            {
+                  "name": "Balsa de Zerio",
+                  "text": "Ein kleiner See bei Vitoria-Gasteiz für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -2.59621,
+                        42.848402
+                  ]
+            },
+            {
+                  "name": "Salsibarriko putzua",
+                  "text": "Dieser See in Vitoria-Gasteiz bietet eine ruhige Atmosphäre im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        -2.620661,
+                        42.783309
+                  ]
+            },
+            {
+                  "name": "Pub Games",
+                  "text": "Diese Spielhalle in Vitoria-Gasteiz bietet Unterhaltung für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.682607,
+                        42.851268
+                  ]
+            },
+            {
+                  "name": "Las Casitas",
+                  "text": "Ein Spielplatz in Vitoria-Gasteiz mit kleinen Häuschen zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.68453,
+                        42.869247
+                  ]
+            },
+            {
+                  "name": "Vicente Goikoetxea Plaza",
+                  "text": "Dieser Platz in Vitoria-Gasteiz bietet Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.676534,
+                        42.84638
+                  ]
+            },
+            {
+                  "name": "Parque Loreto de Arriola",
+                  "text": "Ein familienfreundlicher Spielplatz in Vitoria-Gasteiz.",
+                  "category": "family",
+                  "coords": [
+                        -2.695132,
+                        42.85886
+                  ]
+            },
+            {
+                  "name": "Galeón",
+                  "text": "Ein thematischer Spielplatz in Vitoria-Gasteiz, ideal für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        -2.695499,
+                        42.862219
+                  ]
+            },
+            {
+                  "name": "Reserva Albina",
+                  "text": "Ein Spielbereich in Vitoria-Gasteiz für naturnahes Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.68507,
+                        42.840752
+                  ]
+            },
+            {
+                  "name": "Errekaleorreko jolasparkea",
+                  "text": "Dieser Spielpark in Vitoria-Gasteiz bietet abwechslungsreiche Geräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.650464,
+                        42.834804
+                  ]
+            },
+            {
+                  "name": "Parque infantil 81",
+                  "text": "Ein öffentlicher Spielplatz in Vitoria-Gasteiz für eine Pause im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -2.699387,
+                        42.835411
+                  ]
+            },
+            {
+                  "name": "Parque infantil 178",
+                  "text": "Dieser Spielplatz in Vitoria-Gasteiz ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.704116,
+                        42.834193
+                  ]
             }
       ],
       "hu": [
@@ -14552,6 +16991,105 @@ imageHint: "Gijon San Lorenzo beach and church",
                   "coords": [
                         -2.673313,
                         42.846555
+                  ]
+            },
+            {
+                  "name": "Balsa de Zerio",
+                  "text": "Kisebb tó Vitoria-Gasteiz közelében a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.59621,
+                        42.848402
+                  ]
+            },
+            {
+                  "name": "Salsibarriko putzua",
+                  "text": "Ez a Vitoria-Gasteiz-i tó nyugodt légkört kínál a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.620661,
+                        42.783309
+                  ]
+            },
+            {
+                  "name": "Pub Games",
+                  "text": "Ez a Vitoria-Gasteiz-i játékterem szórakozást kínál fiataloknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.682607,
+                        42.851268
+                  ]
+            },
+            {
+                  "name": "Las Casitas",
+                  "text": "Vitoria-Gasteiz-i játszótér kis házikókkal a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.68453,
+                        42.869247
+                  ]
+            },
+            {
+                  "name": "Vicente Goikoetxea Plaza",
+                  "text": "Ez a Vitoria-Gasteiz-i tér játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.676534,
+                        42.84638
+                  ]
+            },
+            {
+                  "name": "Parque Loreto de Arriola",
+                  "text": "Családbarát játszótér Vitoria-Gasteizben.",
+                  "category": "family",
+                  "coords": [
+                        -2.695132,
+                        42.85886
+                  ]
+            },
+            {
+                  "name": "Galeón",
+                  "text": "Tematikus játszótér Vitoria-Gasteizben, ideális kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.695499,
+                        42.862219
+                  ]
+            },
+            {
+                  "name": "Reserva Albina",
+                  "text": "Vitoria-Gasteiz-i játszótér a természetközeli játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.68507,
+                        42.840752
+                  ]
+            },
+            {
+                  "name": "Errekaleorreko jolasparkea",
+                  "text": "Ez a Vitoria-Gasteiz-i játszópark változatos eszközöket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.650464,
+                        42.834804
+                  ]
+            },
+            {
+                  "name": "Parque infantil 81",
+                  "text": "Nyilvános Vitoria-Gasteiz-i játszótér egy szabadtéri pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        -2.699387,
+                        42.835411
+                  ]
+            },
+            {
+                  "name": "Parque infantil 178",
+                  "text": "Ez a Vitoria-Gasteiz-i játszótér népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.704116,
+                        42.834193
                   ]
             }
       ],
@@ -14753,6 +17291,105 @@ imageHint: "Gijon San Lorenzo beach and church",
                         -2.673313,
                         42.846555
                   ]
+            },
+            {
+                  "name": "Balsa de Zerio",
+                  "text": "Un lac mic lângă Vitoria-Gasteiz pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -2.59621,
+                        42.848402
+                  ]
+            },
+            {
+                  "name": "Salsibarriko putzua",
+                  "text": "Acest lac din Vitoria-Gasteiz oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.620661,
+                        42.783309
+                  ]
+            },
+            {
+                  "name": "Pub Games",
+                  "text": "Această sală de jocuri din Vitoria-Gasteiz oferă divertisment pentru tineri și familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.682607,
+                        42.851268
+                  ]
+            },
+            {
+                  "name": "Las Casitas",
+                  "text": "Un teren de joacă în Vitoria-Gasteiz cu căsuțe pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.68453,
+                        42.869247
+                  ]
+            },
+            {
+                  "name": "Vicente Goikoetxea Plaza",
+                  "text": "Această piață din Vitoria-Gasteiz oferă opțiuni de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.676534,
+                        42.84638
+                  ]
+            },
+            {
+                  "name": "Parque Loreto de Arriola",
+                  "text": "Un teren de joacă prietenos pentru familii în Vitoria-Gasteiz.",
+                  "category": "family",
+                  "coords": [
+                        -2.695132,
+                        42.85886
+                  ]
+            },
+            {
+                  "name": "Galeón",
+                  "text": "Un teren de joacă tematic în Vitoria-Gasteiz, ideal pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        -2.695499,
+                        42.862219
+                  ]
+            },
+            {
+                  "name": "Reserva Albina",
+                  "text": "O zonă de joacă în Vitoria-Gasteiz pentru joacă în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        -2.68507,
+                        42.840752
+                  ]
+            },
+            {
+                  "name": "Errekaleorreko jolasparkea",
+                  "text": "Acest parc de joacă din Vitoria-Gasteiz oferă echipamente variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.650464,
+                        42.834804
+                  ]
+            },
+            {
+                  "name": "Parque infantil 81",
+                  "text": "Un teren de joacă public în Vitoria-Gasteiz pentru o pauză în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.699387,
+                        42.835411
+                  ]
+            },
+            {
+                  "name": "Parque infantil 178",
+                  "text": "Acest teren de joacă din Vitoria-Gasteiz este un loc de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.704116,
+                        42.834193
+                  ]
             }
       ],
       "en": [
@@ -14952,6 +17589,105 @@ imageHint: "Gijon San Lorenzo beach and church",
                   "coords": [
                         -2.673313,
                         42.846555
+                  ]
+            },
+            {
+                  "name": "Balsa de Zerio",
+                  "text": "A small lake near Vitoria-Gasteiz for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.59621,
+                        42.848402
+                  ]
+            },
+            {
+                  "name": "Salsibarriko putzua",
+                  "text": "This lake in Vitoria-Gasteiz offers a peaceful atmosphere in the green.",
+                  "category": "natural",
+                  "coords": [
+                        -2.620661,
+                        42.783309
+                  ]
+            },
+            {
+                  "name": "Pub Games",
+                  "text": "This amusement arcade in Vitoria-Gasteiz offers entertainment for youths and families.",
+                  "category": "family",
+                  "coords": [
+                        -2.682607,
+                        42.851268
+                  ]
+            },
+            {
+                  "name": "Las Casitas",
+                  "text": "A playground in Vitoria-Gasteiz with little houses for playing.",
+                  "category": "family",
+                  "coords": [
+                        -2.68453,
+                        42.869247
+                  ]
+            },
+            {
+                  "name": "Vicente Goikoetxea Plaza",
+                  "text": "This square in Vitoria-Gasteiz offers play options for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.676534,
+                        42.84638
+                  ]
+            },
+            {
+                  "name": "Parque Loreto de Arriola",
+                  "text": "A family-friendly playground in Vitoria-Gasteiz.",
+                  "category": "family",
+                  "coords": [
+                        -2.695132,
+                        42.85886
+                  ]
+            },
+            {
+                  "name": "Galeón",
+                  "text": "A themed playground in Vitoria-Gasteiz, ideal for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        -2.695499,
+                        42.862219
+                  ]
+            },
+            {
+                  "name": "Reserva Albina",
+                  "text": "A play area in Vitoria-Gasteiz for playing close to nature.",
+                  "category": "family",
+                  "coords": [
+                        -2.68507,
+                        42.840752
+                  ]
+            },
+            {
+                  "name": "Errekaleorreko jolasparkea",
+                  "text": "This play park in Vitoria-Gasteiz offers varied equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.650464,
+                        42.834804
+                  ]
+            },
+            {
+                  "name": "Parque infantil 81",
+                  "text": "A public playground in Vitoria-Gasteiz for an outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        -2.699387,
+                        42.835411
+                  ]
+            },
+            {
+                  "name": "Parque infantil 178",
+                  "text": "This playground in Vitoria-Gasteiz is a popular meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.704116,
+                        42.834193
                   ]
             }
       ]
@@ -19227,6 +21963,105 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
                         -5.841826,
                         43.358635
                   ]
+            },
+            {
+                  "name": "MadLab Oviedo",
+                  "text": "Ein Unterhaltungszentrum in Oviedo, das spannende Aktivitäten für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.843249,
+                        43.365162
+                  ]
+            },
+            {
+                  "name": "Palacio de los Niños",
+                  "text": "Ein großer Spielbereich in Oviedo, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        -5.852245,
+                        43.352256
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Costa Verde\"",
+                  "text": "Ein Spielplatz in Oviedo, der Kindern vielfältige Möglichkeiten zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.837506,
+                        43.375949
+                  ]
+            },
+            {
+                  "name": "Reyes Católicos",
+                  "text": "Ein familienfreundlicher Ort in Oviedo, ideal für einen Ausflug mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -5.83456,
+                        43.372877
+                  ]
+            },
+            {
+                  "name": "Montenuño",
+                  "text": "Ein Spielplatz in Oviedo, der eine sichere und unterhaltsame Umgebung für Kinder schafft.",
+                  "category": "family",
+                  "coords": [
+                        -5.833752,
+                        43.375898
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de la ONCE",
+                  "text": "Dieser Spielplatz in Oviedo bietet moderne Geräte für den täglichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        -5.846918,
+                        43.372075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de los Maestros",
+                  "text": "Ein zentraler Spielplatz in Oviedo, der bei Familien sehr beliebt ist.",
+                  "category": "family",
+                  "coords": [
+                        -5.84275,
+                        43.367676
+                  ]
+            },
+            {
+                  "name": "Parque Colegio Santa María del Naranco",
+                  "text": "Ein schöner Spielplatz in Oviedo, der Kindern Raum für Bewegung im Freien gibt.",
+                  "category": "family",
+                  "coords": [
+                        -5.822395,
+                        43.375085
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Palmira Villa",
+                  "text": "Ein gepflegter Spielplatz in Oviedo, ideal für eine Pause während des Stadtbummels.",
+                  "category": "family",
+                  "coords": [
+                        -5.847302,
+                        43.370157
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Angel Cañedo",
+                  "text": "Ein städtischer Spielplatz in Oviedo, der Kindern Freude und Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.833967,
+                        43.366399
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dolores Medio",
+                  "text": "Ein kleiner Spielplatz in Oviedo, der eine willkommene Abwechslung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.868741,
+                        43.363037
+                  ]
             }
       ],
       "hu": [
@@ -19417,6 +22252,105 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
                   "coords": [
                         -5.841826,
                         43.358635
+                  ]
+            },
+            {
+                  "name": "MadLab Oviedo",
+                  "text": "Szórakoztató központ Oviedo területén, amely izgalmas tevékenységeket kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.843249,
+                        43.365162
+                  ]
+            },
+            {
+                  "name": "Palacio de los Niños",
+                  "text": "Nagy játszóterület Oviedo városában, amelyet kifejezetten gyerekeknek alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        -5.852245,
+                        43.352256
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Costa Verde\"",
+                  "text": "Játszótér Oviedo területén, amely változatos lehetőségeket kínál a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.837506,
+                        43.375949
+                  ]
+            },
+            {
+                  "name": "Reyes Católicos",
+                  "text": "Családbarát helyszín Oviedo városában, amely ideális a gyerekekkel való kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.83456,
+                        43.372877
+                  ]
+            },
+            {
+                  "name": "Montenuño",
+                  "text": "Játszótér Oviedo területén, amely biztonságos és szórakoztató környezetet biztosít.",
+                  "category": "family",
+                  "coords": [
+                        -5.833752,
+                        43.375898
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de la ONCE",
+                  "text": "Ez a játszótér Oviedo városában modern eszközöket kínál a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.846918,
+                        43.372075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de los Maestros",
+                  "text": "Központi játszótér Oviedo területén, amely nagyon népszerű a családok körében.",
+                  "category": "family",
+                  "coords": [
+                        -5.84275,
+                        43.367676
+                  ]
+            },
+            {
+                  "name": "Parque Colegio Santa María del Naranco",
+                  "text": "Szép játszótér Oviedo városában, ahol a gyerekek a szabadban mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.822395,
+                        43.375085
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Palmira Villa",
+                  "text": "Gondozott játszótér Oviedo városában, ideális egy pihenőre a városi séta során.",
+                  "category": "family",
+                  "coords": [
+                        -5.847302,
+                        43.370157
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Angel Cañedo",
+                  "text": "Városi játszótér Oviedo területén, amely örömet és változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -5.833967,
+                        43.366399
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dolores Medio",
+                  "text": "Kisebb játszótér Oviedo városában, amely kellemes kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -5.868741,
+                        43.363037
                   ]
             }
       ],
@@ -19609,6 +22543,105 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
                         -5.841826,
                         43.358635
                   ]
+            },
+            {
+                  "name": "MadLab Oviedo",
+                  "text": "Un centru de divertisment în Oviedo care oferă activități palpitante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -5.843249,
+                        43.365162
+                  ]
+            },
+            {
+                  "name": "Palacio de los Niños",
+                  "text": "O zonă mare de joacă în Oviedo, special concepută pentru nevoile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -5.852245,
+                        43.352256
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Costa Verde\"",
+                  "text": "Un loc de joacă în Oviedo care oferă copiilor diverse opțiuni de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -5.837506,
+                        43.375949
+                  ]
+            },
+            {
+                  "name": "Reyes Católicos",
+                  "text": "Un loc primitor pentru familii în Oviedo, ideal pentru o ieșire cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -5.83456,
+                        43.372877
+                  ]
+            },
+            {
+                  "name": "Montenuño",
+                  "text": "Un loc de joacă în Oviedo care creează un mediu sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.833752,
+                        43.375898
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de la ONCE",
+                  "text": "Acest loc de joacă din Oviedo oferă echipamente moderne pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        -5.846918,
+                        43.372075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de los Maestros",
+                  "text": "Un loc de joacă central în Oviedo, foarte popular în rândul familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -5.84275,
+                        43.367676
+                  ]
+            },
+            {
+                  "name": "Parque Colegio Santa María del Naranco",
+                  "text": "Un loc de joacă plăcut în Oviedo, care oferă copiilor spațiu de mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -5.822395,
+                        43.375085
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Palmira Villa",
+                  "text": "Un loc de joacă bine întreținut în Oviedo, ideal pentru o pauză în timpul plimbării prin oraș.",
+                  "category": "family",
+                  "coords": [
+                        -5.847302,
+                        43.370157
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Angel Cañedo",
+                  "text": "Un loc de joacă urban în Oviedo care oferă copiilor bucurie și diversitate.",
+                  "category": "family",
+                  "coords": [
+                        -5.833967,
+                        43.366399
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dolores Medio",
+                  "text": "Un mic loc de joacă în Oviedo care oferă o relaxare binevenită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.868741,
+                        43.363037
+                  ]
             }
       ],
       "en": [
@@ -19799,6 +22832,105 @@ imageHint: "Pont del Petroli pier Badalona sunrise",
                   "coords": [
                         -5.841826,
                         43.358635
+                  ]
+            },
+            {
+                  "name": "MadLab Oviedo",
+                  "text": "An entertainment center in Oviedo offering exciting activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -5.843249,
+                        43.365162
+                  ]
+            },
+            {
+                  "name": "Palacio de los Niños",
+                  "text": "A large play area in Oviedo specifically designed for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -5.852245,
+                        43.352256
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Costa Verde\"",
+                  "text": "A playground in Oviedo providing children with multiple options for active play.",
+                  "category": "family",
+                  "coords": [
+                        -5.837506,
+                        43.375949
+                  ]
+            },
+            {
+                  "name": "Reyes Católicos",
+                  "text": "A family-friendly spot in Oviedo, ideal for an outing with children.",
+                  "category": "family",
+                  "coords": [
+                        -5.83456,
+                        43.372877
+                  ]
+            },
+            {
+                  "name": "Montenuño",
+                  "text": "A playground in Oviedo that creates a safe and entertaining environment for children.",
+                  "category": "family",
+                  "coords": [
+                        -5.833752,
+                        43.375898
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de la ONCE",
+                  "text": "This playground in Oviedo features modern equipment for daily play and fun.",
+                  "category": "family",
+                  "coords": [
+                        -5.846918,
+                        43.372075
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de los Maestros",
+                  "text": "A central playground in Oviedo that is very popular among families.",
+                  "category": "family",
+                  "coords": [
+                        -5.84275,
+                        43.367676
+                  ]
+            },
+            {
+                  "name": "Parque Colegio Santa María del Naranco",
+                  "text": "A lovely playground in Oviedo giving children space for outdoor movement.",
+                  "category": "family",
+                  "coords": [
+                        -5.822395,
+                        43.375085
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Palmira Villa",
+                  "text": "A well-kept playground in Oviedo, ideal for a break during a city stroll.",
+                  "category": "family",
+                  "coords": [
+                        -5.847302,
+                        43.370157
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Angel Cañedo",
+                  "text": "An urban playground in Oviedo offering joy and variety for children.",
+                  "category": "family",
+                  "coords": [
+                        -5.833967,
+                        43.366399
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dolores Medio",
+                  "text": "A small playground in Oviedo providing a welcome distraction for families.",
+                  "category": "family",
+                  "coords": [
+                        -5.868741,
+                        43.363037
                   ]
             }
       ]
@@ -19993,6 +23125,42 @@ imageHint: "Oviedo Cathedral facade sunny day",
                         2.103947,
                         41.551097
                   ]
+            },
+            {
+                  "name": "Llac d'en Miquel",
+                  "text": "Ein See in Sabadell, der sich gut für einen ruhigen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        2.057985,
+                        41.604126
+                  ]
+            },
+            {
+                  "name": "Llacunes de Can Duran",
+                  "text": "Diese Lagunen in Sabadell bieten einen Blick auf die lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        2.176251,
+                        41.496072
+                  ]
+            },
+            {
+                  "name": "Plaça Galileu",
+                  "text": "Ein kleiner Spielplatz in Sabadell für Kinder der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        2.088197,
+                        41.555714
+                  ]
+            },
+            {
+                  "name": "Jardins Can Gambús",
+                  "text": "Dieser Spielplatz in Sabadell liegt in einer Gartenanlage und ist ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        2.080658,
+                        41.545641
+                  ]
             }
       ],
       "hu": [
@@ -20138,6 +23306,42 @@ imageHint: "Oviedo Cathedral facade sunny day",
                   "coords": [
                         2.103947,
                         41.551097
+                  ]
+            },
+            {
+                  "name": "Llac d'en Miquel",
+                  "text": "Sabadelli tó, amely alkalmas egy nyugodt sétára.",
+                  "category": "natural",
+                  "coords": [
+                        2.057985,
+                        41.604126
+                  ]
+            },
+            {
+                  "name": "Llacunes de Can Duran",
+                  "text": "Ezek a sabadelli lagúnák rálátást biztosítanak a helyi növény- és állatvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        2.176251,
+                        41.496072
+                  ]
+            },
+            {
+                  "name": "Plaça Galileu",
+                  "text": "Kicsi sabadelli játszótér a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.088197,
+                        41.555714
+                  ]
+            },
+            {
+                  "name": "Jardins Can Gambús",
+                  "text": "Ez a sabadelli játszótér egy kertben található és ideális családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.080658,
+                        41.545641
                   ]
             }
       ],
@@ -20285,6 +23489,42 @@ imageHint: "Oviedo Cathedral facade sunny day",
                         2.103947,
                         41.551097
                   ]
+            },
+            {
+                  "name": "Llac d'en Miquel",
+                  "text": "Un lac în Sabadell, potrivit pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        2.057985,
+                        41.604126
+                  ]
+            },
+            {
+                  "name": "Llacunes de Can Duran",
+                  "text": "Aceste lagune din Sabadell oferă o privire asupra florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        2.176251,
+                        41.496072
+                  ]
+            },
+            {
+                  "name": "Plaça Galileu",
+                  "text": "Un mic teren de joacă în Sabadell pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        2.088197,
+                        41.555714
+                  ]
+            },
+            {
+                  "name": "Jardins Can Gambús",
+                  "text": "Acest teren de joacă din Sabadell este situat într-o grădină și este ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        2.080658,
+                        41.545641
+                  ]
             }
       ],
       "en": [
@@ -20430,6 +23670,42 @@ imageHint: "Oviedo Cathedral facade sunny day",
                   "coords": [
                         2.103947,
                         41.551097
+                  ]
+            },
+            {
+                  "name": "Llac d'en Miquel",
+                  "text": "A lake in Sabadell that is well-suited for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        2.057985,
+                        41.604126
+                  ]
+            },
+            {
+                  "name": "Llacunes de Can Duran",
+                  "text": "These lagoons in Sabadell offer a view of the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        2.176251,
+                        41.496072
+                  ]
+            },
+            {
+                  "name": "Plaça Galileu",
+                  "text": "A small playground in Sabadell for local children.",
+                  "category": "family",
+                  "coords": [
+                        2.088197,
+                        41.555714
+                  ]
+            },
+            {
+                  "name": "Jardins Can Gambús",
+                  "text": "This playground in Sabadell is located in a garden area and is ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        2.080658,
+                        41.545641
                   ]
             }
       ]
@@ -20669,6 +23945,33 @@ imageHint: "Torre de l'Aigua Sabadell at night",
                         -6.137508,
                         36.688233
                   ]
+            },
+            {
+                  "name": "Laguna de Torrox",
+                  "text": "Ein See in Jerez de la Frontera, der einen friedlichen Ort in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.150622,
+                        36.665011
+                  ]
+            },
+            {
+                  "name": "Vid Bowling",
+                  "text": "Ein Unterhaltungsort in Jerez de la Frontera für Bowling und Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        -6.155789,
+                        36.692103
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Tráfico",
+                  "text": "Ein Verkehrsübungsplatz in Jerez de la Frontera für Kinder zum spielerischen Lernen.",
+                  "category": "family",
+                  "coords": [
+                        -6.100068,
+                        36.69034
+                  ]
             }
       ],
       "hu": [
@@ -20859,6 +24162,33 @@ imageHint: "Torre de l'Aigua Sabadell at night",
                   "coords": [
                         -6.137508,
                         36.688233
+                  ]
+            },
+            {
+                  "name": "Laguna de Torrox",
+                  "text": "Egy tó Jerez de la Frontera területén, amely békés helyet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -6.150622,
+                        36.665011
+                  ]
+            },
+            {
+                  "name": "Vid Bowling",
+                  "text": "Egy szórakozóhely Jerez de la Frontera városában bowlinghoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.155789,
+                        36.692103
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Tráfico",
+                  "text": "Egy közlekedési gyakorlópálya Jerez de la Frontera városában játékos tanuláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.100068,
+                        36.69034
                   ]
             }
       ],
@@ -21051,6 +24381,33 @@ imageHint: "Torre de l'Aigua Sabadell at night",
                         -6.137508,
                         36.688233
                   ]
+            },
+            {
+                  "name": "Laguna de Torrox",
+                  "text": "Un lac în Jerez de la Frontera care oferă un loc liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.150622,
+                        36.665011
+                  ]
+            },
+            {
+                  "name": "Vid Bowling",
+                  "text": "Un loc de divertisment în Jerez de la Frontera pentru bowling și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -6.155789,
+                        36.692103
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Tráfico",
+                  "text": "Un teren de educație rutieră în Jerez de la Frontera pentru învățarea prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        -6.100068,
+                        36.69034
+                  ]
             }
       ],
       "en": [
@@ -21241,6 +24598,33 @@ imageHint: "Torre de l'Aigua Sabadell at night",
                   "coords": [
                         -6.137508,
                         36.688233
+                  ]
+            },
+            {
+                  "name": "Laguna de Torrox",
+                  "text": "A lake in Jerez de la Frontera that offers a peaceful spot in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.150622,
+                        36.665011
+                  ]
+            },
+            {
+                  "name": "Vid Bowling",
+                  "text": "An entertainment venue in Jerez de la Frontera for bowling and play.",
+                  "category": "family",
+                  "coords": [
+                        -6.155789,
+                        36.692103
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Tráfico",
+                  "text": "A traffic playground in Jerez de la Frontera for children to learn while playing.",
+                  "category": "family",
+                  "coords": [
+                        -6.100068,
+                        36.69034
                   ]
             }
       ]
@@ -21769,6 +25153,69 @@ imageHint: "Mostoles city square and monument",
                         -16.247507,
                         28.468323
                   ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Ein Wasserreservoir bei Santa Cruz de Tenerife mit Blick auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Dieser See bei Santa Cruz de Tenerife bietet eine ruhige Kulisse in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Charca el Cuchillo",
+                  "text": "Ein kleiner See auf Teneriffa für eine kurze Rast im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        -16.230695,
+                        28.508928
+                  ]
+            },
+            {
+                  "name": "Presa Charquita de Valle Grande",
+                  "text": "Ein See in der Nähe von Santa Cruz de Tenerife für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -16.233497,
+                        28.505787
+                  ]
+            },
+            {
+                  "name": "Amiguitos",
+                  "text": "Ein Spielplatz in Santa Cruz de Tenerife für den Spaß der Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        -16.253618,
+                        28.46206
+                  ]
+            },
+            {
+                  "name": "Dream Forest",
+                  "text": "Dieser Spielplatz in Santa Cruz de Tenerife bietet kreative Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -16.258,
+                        28.470081
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Pisaca",
+                  "text": "Ein schöner Spielplatz in Santa Cruz De Tenerife für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        -16.248839,
+                        28.474186
+                  ]
             }
       ],
       "hu": [
@@ -21941,6 +25388,69 @@ imageHint: "Mostoles city square and monument",
                   "coords": [
                         -16.247507,
                         28.468323
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Víztározó Santa Cruz de Tenerife közelében, kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Ez a Santa Cruz de Tenerife melletti tó nyugodt környezetet biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Charca el Cuchillo",
+                  "text": "Kisebb tó Tenerifén egy rövid zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -16.230695,
+                        28.508928
+                  ]
+            },
+            {
+                  "name": "Presa Charquita de Valle Grande",
+                  "text": "Santa Cruz de Tenerife közeli tó a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.233497,
+                        28.505787
+                  ]
+            },
+            {
+                  "name": "Amiguitos",
+                  "text": "Játszótér Santa Cruz de Tenerifében a legkisebbek szórakozására.",
+                  "category": "family",
+                  "coords": [
+                        -16.253618,
+                        28.46206
+                  ]
+            },
+            {
+                  "name": "Dream Forest",
+                  "text": "Ez a Santa Cruz de Tenerife-i játszótér kreatív játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        -16.258,
+                        28.470081
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Pisaca",
+                  "text": "Egy kedves játszótér Santa Cruz De Tenerife városában, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -16.248839,
+                        28.474186
                   ]
             }
       ],
@@ -22115,6 +25625,69 @@ imageHint: "Mostoles city square and monument",
                         -16.247507,
                         28.468323
                   ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Un rezervor de apă lângă Santa Cruz de Tenerife, cu vedere spre peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Acest lac de lângă Santa Cruz de Tenerife oferă un cadru liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Charca el Cuchillo",
+                  "text": "Un lac mic în Tenerife pentru un scurt popas în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.230695,
+                        28.508928
+                  ]
+            },
+            {
+                  "name": "Presa Charquita de Valle Grande",
+                  "text": "Un lac în apropiere de Santa Cruz de Tenerife pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.233497,
+                        28.505787
+                  ]
+            },
+            {
+                  "name": "Amiguitos",
+                  "text": "Un teren de joacă în Santa Cruz de Tenerife pentru distracția celor mici.",
+                  "category": "family",
+                  "coords": [
+                        -16.253618,
+                        28.46206
+                  ]
+            },
+            {
+                  "name": "Dream Forest",
+                  "text": "Acest teren de joacă din Santa Cruz de Tenerife oferă opțiuni creative de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -16.258,
+                        28.470081
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Pisaca",
+                  "text": "Un loc de joacă plăcut în Santa Cruz De Tenerife, unde copiii se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        -16.248839,
+                        28.474186
+                  ]
             }
       ],
       "en": [
@@ -22287,6 +25860,69 @@ imageHint: "Mostoles city square and monument",
                   "coords": [
                         -16.247507,
                         28.468323
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "A water reservoir near Santa Cruz de Tenerife with views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "This lake near Santa Cruz de Tenerife offers a peaceful backdrop in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Charca el Cuchillo",
+                  "text": "A small lake in Tenerife for a short rest in the green.",
+                  "category": "natural",
+                  "coords": [
+                        -16.230695,
+                        28.508928
+                  ]
+            },
+            {
+                  "name": "Presa Charquita de Valle Grande",
+                  "text": "A lake near Santa Cruz de Tenerife for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -16.233497,
+                        28.505787
+                  ]
+            },
+            {
+                  "name": "Amiguitos",
+                  "text": "A playground in Santa Cruz de Tenerife for the fun of the little ones.",
+                  "category": "family",
+                  "coords": [
+                        -16.253618,
+                        28.46206
+                  ]
+            },
+            {
+                  "name": "Dream Forest",
+                  "text": "This playground in Santa Cruz de Tenerife offers creative play options.",
+                  "category": "family",
+                  "coords": [
+                        -16.258,
+                        28.470081
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Pisaca",
+                  "text": "A nice playground in Santa Cruz De Tenerife for children to enjoy and play.",
+                  "category": "family",
+                  "coords": [
+                        -16.248839,
+                        28.474186
                   ]
             }
       ]
@@ -22499,6 +26135,96 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
                         -1.643626,
                         42.815726
                   ]
+            },
+            {
+                  "name": "estanque Arantzadi urmaela",
+                  "text": "Ein kleiner Teich in Pamplona, der zu Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.638995,
+                        42.827278
+                  ]
+            },
+            {
+                  "name": "Balsa de Ezkoritz",
+                  "text": "Ein See in Pamplona, ideal für einen erholsamen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575554,
+                        42.778288
+                  ]
+            },
+            {
+                  "name": "Autobuses viejo",
+                  "text": "Ein Spielbereich in Pamplona an einem historischen Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.645356,
+                        42.813059
+                  ]
+            },
+            {
+                  "name": "Parque El Mosquito",
+                  "text": "Ein Spielplatz in Pamplona, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.66251,
+                        42.81284
+                  ]
+            },
+            {
+                  "name": "Lasertag Aliados",
+                  "text": "Ein Lasertag-Zentrum in Pamplona für spannende Familienabenteuer.",
+                  "category": "family",
+                  "coords": [
+                        -1.635614,
+                        42.807581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil El Lago",
+                  "text": "Ein Spielplatz in Pamplona, der sich in einer schönen Umgebung befindet.",
+                  "category": "family",
+                  "coords": [
+                        -1.616958,
+                        42.808702
+                  ]
+            },
+            {
+                  "name": "Parque Las Aguas",
+                  "text": "Ein Spielplatz in Pamplona für Spiel und Spaß an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        -1.6209,
+                        42.810885
+                  ]
+            },
+            {
+                  "name": "El Barco",
+                  "text": "Ein schiffsähnlicher Spielplatz in Pamplona für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        -1.642251,
+                        42.833365
+                  ]
+            },
+            {
+                  "name": "Cohete",
+                  "text": "Ein thematischer Spielplatz in Pamplona, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        -1.609724,
+                        42.816781
+                  ]
+            },
+            {
+                  "name": "Parque Maderplay",
+                  "text": "Ein Spielplatz in Pamplona mit hölzernen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.646806,
+                        42.788238
+                  ]
             }
       ],
       "hu": [
@@ -22662,6 +26388,96 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
                   "coords": [
                         -1.643626,
                         42.815726
+                  ]
+            },
+            {
+                  "name": "estanque Arantzadi urmaela",
+                  "text": "Egy kis tó Pamplona városában, amely természetmegfigyelésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        -1.638995,
+                        42.827278
+                  ]
+            },
+            {
+                  "name": "Balsa de Ezkoritz",
+                  "text": "Egy tó Pamplona területén, amely ideális egy pihentető szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575554,
+                        42.778288
+                  ]
+            },
+            {
+                  "name": "Autobuses viejo",
+                  "text": "Egy játszóterület Pamplona egy történelmi helyszínén gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.645356,
+                        42.813059
+                  ]
+            },
+            {
+                  "name": "Parque El Mosquito",
+                  "text": "Egy játszótér Pamplona városában, amely teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.66251,
+                        42.81284
+                  ]
+            },
+            {
+                  "name": "Lasertag Aliados",
+                  "text": "Egy lasertag központ Pamplona városában az izgalmas családi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.635614,
+                        42.807581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil El Lago",
+                  "text": "Egy játszótér Pamplona városában, amely szép környezetben található.",
+                  "category": "family",
+                  "coords": [
+                        -1.616958,
+                        42.808702
+                  ]
+            },
+            {
+                  "name": "Parque Las Aguas",
+                  "text": "Egy játszótér Pamplona városában játékhoz és szórakozáshoz a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        -1.6209,
+                        42.810885
+                  ]
+            },
+            {
+                  "name": "El Barco",
+                  "text": "Egy hajó formájú játszótér Pamplona városában a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.642251,
+                        42.833365
+                  ]
+            },
+            {
+                  "name": "Cohete",
+                  "text": "Egy tematikus játszótér Pamplona városában, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        -1.609724,
+                        42.816781
+                  ]
+            },
+            {
+                  "name": "Parque Maderplay",
+                  "text": "Játszótér Pamplona városában fából készült játékeszközökkel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.646806,
+                        42.788238
                   ]
             }
       ],
@@ -22827,6 +26643,96 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
                         -1.643626,
                         42.815726
                   ]
+            },
+            {
+                  "name": "estanque Arantzadi urmaela",
+                  "text": "Un iaz mic în Pamplona care invită la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -1.638995,
+                        42.827278
+                  ]
+            },
+            {
+                  "name": "Balsa de Ezkoritz",
+                  "text": "Un lac în Pamplona, ideal pentru o plimbare relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575554,
+                        42.778288
+                  ]
+            },
+            {
+                  "name": "Autobuses viejo",
+                  "text": "O zonă de joacă într-un loc istoric din Pamplona pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.645356,
+                        42.813059
+                  ]
+            },
+            {
+                  "name": "Parque El Mosquito",
+                  "text": "Un teren de joacă în Pamplona care oferă copiilor spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -1.66251,
+                        42.81284
+                  ]
+            },
+            {
+                  "name": "Lasertag Aliados",
+                  "text": "Un centru de lasertag în Pamplona pentru aventuri de familie captivante.",
+                  "category": "family",
+                  "coords": [
+                        -1.635614,
+                        42.807581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil El Lago",
+                  "text": "Un teren de joacă în Pamplona situat într-un cadru frumos.",
+                  "category": "family",
+                  "coords": [
+                        -1.616958,
+                        42.808702
+                  ]
+            },
+            {
+                  "name": "Parque Las Aguas",
+                  "text": "Un teren de joacă în Pamplona pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -1.6209,
+                        42.810885
+                  ]
+            },
+            {
+                  "name": "El Barco",
+                  "text": "Un teren de joacă în formă de barcă în Pamplona pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        -1.642251,
+                        42.833365
+                  ]
+            },
+            {
+                  "name": "Cohete",
+                  "text": "Un teren de joacă tematic în Pamplona care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -1.609724,
+                        42.816781
+                  ]
+            },
+            {
+                  "name": "Parque Maderplay",
+                  "text": "Un teren de joacă în Pamplona cu echipamente de joacă din lemn pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.646806,
+                        42.788238
+                  ]
             }
       ],
       "en": [
@@ -22990,6 +26896,96 @@ imageHint: "Auditorio de Tenerife Santa Cruz night",
                   "coords": [
                         -1.643626,
                         42.815726
+                  ]
+            },
+            {
+                  "name": "estanque Arantzadi urmaela",
+                  "text": "A small pond in Pamplona that invites you to observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        -1.638995,
+                        42.827278
+                  ]
+            },
+            {
+                  "name": "Balsa de Ezkoritz",
+                  "text": "A lake in Pamplona, ideal for a relaxing outdoor walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575554,
+                        42.778288
+                  ]
+            },
+            {
+                  "name": "Autobuses viejo",
+                  "text": "A play area in a historical spot in Pamplona for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.645356,
+                        42.813059
+                  ]
+            },
+            {
+                  "name": "Parque El Mosquito",
+                  "text": "A playground in Pamplona providing space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -1.66251,
+                        42.81284
+                  ]
+            },
+            {
+                  "name": "Lasertag Aliados",
+                  "text": "A laser tag center in Pamplona for exciting family adventures.",
+                  "category": "family",
+                  "coords": [
+                        -1.635614,
+                        42.807581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil El Lago",
+                  "text": "A playground in Pamplona located in a nice setting.",
+                  "category": "family",
+                  "coords": [
+                        -1.616958,
+                        42.808702
+                  ]
+            },
+            {
+                  "name": "Parque Las Aguas",
+                  "text": "A playground in Pamplona for play and fun in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -1.6209,
+                        42.810885
+                  ]
+            },
+            {
+                  "name": "El Barco",
+                  "text": "A ship-themed playground in Pamplona for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        -1.642251,
+                        42.833365
+                  ]
+            },
+            {
+                  "name": "Cohete",
+                  "text": "A themed playground in Pamplona that sparks children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        -1.609724,
+                        42.816781
+                  ]
+            },
+            {
+                  "name": "Parque Maderplay",
+                  "text": "A playground in Pamplona with wooden play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.646806,
+                        42.788238
                   ]
             }
       ]
@@ -23373,6 +27369,78 @@ imageHint: "Pamplona running of the bulls street",
                         -2.457864,
                         36.831329
                   ]
+            },
+            {
+                  "name": "Balsa CEIP San Luis",
+                  "text": "Ein kleiner See in Almeria, der eine friedliche Atmosphäre für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.441816,
+                        36.84892
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa Rosa",
+                  "text": "Ein Wasserbecken in Almeria, das Teil der lokalen Landschaft und ein Ort der Ruhe ist.",
+                  "category": "natural",
+                  "coords": [
+                        -2.444303,
+                        36.897555
+                  ]
+            },
+            {
+                  "name": "Balsa las Calabazas",
+                  "text": "Ein lokaler See in Almeria, ideal für eine kurze Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -2.451489,
+                        36.895525
+                  ]
+            },
+            {
+                  "name": "Balsa de la Sismológica",
+                  "text": "Ein ruhiger Ort am Wasser in Almeria, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.459547,
+                        36.853675
+                  ]
+            },
+            {
+                  "name": "Balsa de la Calera",
+                  "text": "Ein kleines Gewässer in Almeria, das die Umgebung bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        -2.466839,
+                        36.852713
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa María",
+                  "text": "Ein friedlicher See in Almeria, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44506,
+                        36.891845
+                  ]
+            },
+            {
+                  "name": "Plaza de los derechos humanos",
+                  "text": "Ein öffentlicher Spielplatz in Almeria, der Kindern einen Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.46492,
+                        36.845602
+                  ]
+            },
+            {
+                  "name": "Parque de Villablanca",
+                  "text": "Ein familienfreundlicher Spielplatz in Almeria, ideal für den Nachmittagsausflug.",
+                  "category": "family",
+                  "coords": [
+                        -2.441418,
+                        36.855183
+                  ]
             }
       ],
       "hu": [
@@ -23707,6 +27775,78 @@ imageHint: "Pamplona running of the bulls street",
                   "coords": [
                         -2.457864,
                         36.831329
+                  ]
+            },
+            {
+                  "name": "Balsa CEIP San Luis",
+                  "text": "Kisebb tó Almeria városában, amely békés környezetet biztosít a sétálók számára.",
+                  "category": "natural",
+                  "coords": [
+                        -2.441816,
+                        36.84892
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa Rosa",
+                  "text": "Vízfelület Almeria területén, amely a helyi táj része és a nyugalom szigete.",
+                  "category": "natural",
+                  "coords": [
+                        -2.444303,
+                        36.897555
+                  ]
+            },
+            {
+                  "name": "Balsa las Calabazas",
+                  "text": "Helyi tó Almeria városában, amely ideális egy rövid szabadtéri pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.451489,
+                        36.895525
+                  ]
+            },
+            {
+                  "name": "Balsa de la Sismológica",
+                  "text": "Nyugodt vízparti hely Almeria területén, amely kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        -2.459547,
+                        36.853675
+                  ]
+            },
+            {
+                  "name": "Balsa de la Calera",
+                  "text": "Kisebb vízfelület Almeria városában, amely gazdagítja a környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.466839,
+                        36.852713
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa María",
+                  "text": "Békés tó Almeria területén, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44506,
+                        36.891845
+                  ]
+            },
+            {
+                  "name": "Plaza de los derechos humanos",
+                  "text": "Nyilvános játszótér Almeria városában, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.46492,
+                        36.845602
+                  ]
+            },
+            {
+                  "name": "Parque de Villablanca",
+                  "text": "Családbarát játszótér Almeria területén, ideális egy délutáni kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.441418,
+                        36.855183
                   ]
             }
       ],
@@ -24043,6 +28183,78 @@ imageHint: "Pamplona running of the bulls street",
                         -2.457864,
                         36.831329
                   ]
+            },
+            {
+                  "name": "Balsa CEIP San Luis",
+                  "text": "Un lac mic în Almeria care oferă o atmosferă liniștită pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        -2.441816,
+                        36.84892
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa Rosa",
+                  "text": "Un bazin de apă în Almeria, care face parte din peisajul local și este un loc de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        -2.444303,
+                        36.897555
+                  ]
+            },
+            {
+                  "name": "Balsa las Calabazas",
+                  "text": "Un lac local în Almeria, ideal pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -2.451489,
+                        36.895525
+                  ]
+            },
+            {
+                  "name": "Balsa de la Sismológica",
+                  "text": "Un loc liniștit lângă apă în Almeria, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -2.459547,
+                        36.853675
+                  ]
+            },
+            {
+                  "name": "Balsa de la Calera",
+                  "text": "O mică întindere de apă în Almeria care îmbogățește împrejurimile.",
+                  "category": "natural",
+                  "coords": [
+                        -2.466839,
+                        36.852713
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa María",
+                  "text": "Un lac pașnic în Almeria, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44506,
+                        36.891845
+                  ]
+            },
+            {
+                  "name": "Plaza de los derechos humanos",
+                  "text": "Un loc de joacă public în Almeria care oferă copiilor un spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.46492,
+                        36.845602
+                  ]
+            },
+            {
+                  "name": "Parque de Villablanca",
+                  "text": "Un loc de joacă în Almeria, ideal pentru o ieșire cu familia după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        -2.441418,
+                        36.855183
+                  ]
             }
       ],
       "en": [
@@ -24378,6 +28590,78 @@ imageHint: "Pamplona running of the bulls street",
                         -2.457864,
                         36.831329
                   ]
+            },
+            {
+                  "name": "Balsa CEIP San Luis",
+                  "text": "A small lake in Almeria offering a peaceful atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -2.441816,
+                        36.84892
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa Rosa",
+                  "text": "A water basin in Almeria that is part of the local landscape and a place of quiet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.444303,
+                        36.897555
+                  ]
+            },
+            {
+                  "name": "Balsa las Calabazas",
+                  "text": "A local lake in Almeria, ideal for a short outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        -2.451489,
+                        36.895525
+                  ]
+            },
+            {
+                  "name": "Balsa de la Sismológica",
+                  "text": "A quiet lakeside spot in Almeria inviting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -2.459547,
+                        36.853675
+                  ]
+            },
+            {
+                  "name": "Balsa de la Calera",
+                  "text": "A small water body in Almeria that enhances the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -2.466839,
+                        36.852713
+                  ]
+            },
+            {
+                  "name": "Balsa de Villa María",
+                  "text": "A peaceful lake in Almeria, ideal for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44506,
+                        36.891845
+                  ]
+            },
+            {
+                  "name": "Plaza de los derechos humanos",
+                  "text": "A public playground in Almeria providing children with a place to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.46492,
+                        36.845602
+                  ]
+            },
+            {
+                  "name": "Parque de Villablanca",
+                  "text": "A family-friendly playground in Almeria, ideal for an afternoon outing.",
+                  "category": "family",
+                  "coords": [
+                        -2.441418,
+                        36.855183
+                  ]
             }
       ]
 },
@@ -24616,6 +28900,96 @@ imageHint: "Alcazaba of Almeria fortress walls",
                         -3.34369,
                         40.505162
                   ]
+            },
+            {
+                  "name": "Lago parque de la Mina",
+                  "text": "Ein malerischer See in Alcala De Henares, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -3.365927,
+                        40.492198
+                  ]
+            },
+            {
+                  "name": "Happy Play XL",
+                  "text": "Ein großzügiger Spielbereich in Alcala De Henares, der viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.38734,
+                        40.49247
+                  ]
+            },
+            {
+                  "name": "Skyline Simracing Center",
+                  "text": "Ein spannendes Freizeitzentrum in Alcala De Henares mit Fokus auf Sim-Racing für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.347632,
+                        40.485352
+                  ]
+            },
+            {
+                  "name": "El Jardín del Parnaso",
+                  "text": "Ein ruhiger Spielplatz in Alcala De Henares, eingebettet in eine angenehme Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -3.369799,
+                        40.496414
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Ein lokaler Spielplatz in Alcala De Henares mit verschiedenen Schaukeln für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.352334,
+                        40.489122
+                  ]
+            },
+            {
+                  "name": "Parque de juegos en el Jardín Juan Pablo ll",
+                  "text": "Ein schöner Spielbereich im Juan Pablo II Garten in Alcala De Henares für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -3.360582,
+                        40.503929
+                  ]
+            },
+            {
+                  "name": "Area Infantil José Serrano",
+                  "text": "Ein kleiner Spielplatz in Alcala De Henares, ideal für eine kurze Spielpause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -3.378623,
+                        40.490206
+                  ]
+            },
+            {
+                  "name": "Area de juegos Complutum",
+                  "text": "Ein thematisch gestalteter Spielplatz in Alcala De Henares, der zum Erkunden einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -3.362067,
+                        40.492896
+                  ]
+            },
+            {
+                  "name": "Primer patio",
+                  "text": "Ein zugänglicher Spielbereich in Alcala De Henares für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -3.363006,
+                        40.474761
+                  ]
+            },
+            {
+                  "name": "Parque de juego infantil",
+                  "text": "Ein öffentlicher Spielplatz in Alcala De Henares mit klassischen Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.345754,
+                        40.501197
+                  ]
             }
       ],
       "hu": [
@@ -24806,6 +29180,96 @@ imageHint: "Alcazaba of Almeria fortress walls",
                   "coords": [
                         -3.34369,
                         40.505162
+                  ]
+            },
+            {
+                  "name": "Lago parque de la Mina",
+                  "text": "Egy festői tó Alcala De Henares városában, amely ideális a természetben való sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.365927,
+                        40.492198
+                  ]
+            },
+            {
+                  "name": "Happy Play XL",
+                  "text": "Egy tágas játszóhely Alcala De Henares városában, amely bőséges helyet kínál a játéknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.38734,
+                        40.49247
+                  ]
+            },
+            {
+                  "name": "Skyline Simracing Center",
+                  "text": "Egy izgalmas szabadidőközpont Alcala De Henaresben, amely szimulátoros versenyzést kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.347632,
+                        40.485352
+                  ]
+            },
+            {
+                  "name": "El Jardín del Parnaso",
+                  "text": "Egy nyugodt játszótér Alcala De Henaresben, kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -3.369799,
+                        40.496414
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Egy helyi játszótér Alcala De Henaresben, ahol különféle hinták várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -3.352334,
+                        40.489122
+                  ]
+            },
+            {
+                  "name": "Parque de juegos en el Jardín Juan Pablo ll",
+                  "text": "Egy kedves játszóhely az Alcala De Henares-i Juan Pablo II kertben a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.360582,
+                        40.503929
+                  ]
+            },
+            {
+                  "name": "Area Infantil José Serrano",
+                  "text": "Egy kis játszótér Alcala De Henaresben, amely ideális egy rövid játékidőre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        -3.378623,
+                        40.490206
+                  ]
+            },
+            {
+                  "name": "Area de juegos Complutum",
+                  "text": "Egy tematikus játszótér Alcala De Henaresben, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -3.362067,
+                        40.492896
+                  ]
+            },
+            {
+                  "name": "Primer patio",
+                  "text": "Egy könnyen megközelíthető játszóhely Alcala De Henaresben minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.363006,
+                        40.474761
+                  ]
+            },
+            {
+                  "name": "Parque de juego infantil",
+                  "text": "Egy nyilvános játszótér Alcala De Henaresben klasszikus játékokkal a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.345754,
+                        40.501197
                   ]
             }
       ],
@@ -24998,6 +29462,96 @@ imageHint: "Alcazaba of Almeria fortress walls",
                         -3.34369,
                         40.505162
                   ]
+            },
+            {
+                  "name": "Lago parque de la Mina",
+                  "text": "Un lac pitoresc în Alcala De Henares, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -3.365927,
+                        40.492198
+                  ]
+            },
+            {
+                  "name": "Happy Play XL",
+                  "text": "O zonă de joacă generoasă în Alcala De Henares, care oferă mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -3.38734,
+                        40.49247
+                  ]
+            },
+            {
+                  "name": "Skyline Simracing Center",
+                  "text": "Un centru de divertisment captivant în Alcala De Henares, cu simulatoare de curse pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.347632,
+                        40.485352
+                  ]
+            },
+            {
+                  "name": "El Jardín del Parnaso",
+                  "text": "Un loc de joacă liniștit în Alcala De Henares, situat într-un cadru plăcut.",
+                  "category": "family",
+                  "coords": [
+                        -3.369799,
+                        40.496414
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Un loc de joacă local în Alcala De Henares, dotat cu diverse leagăne pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.352334,
+                        40.489122
+                  ]
+            },
+            {
+                  "name": "Parque de juegos en el Jardín Juan Pablo ll",
+                  "text": "O zonă de joacă frumoasă în grădina Juan Pablo II din Alcala De Henares pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.360582,
+                        40.503929
+                  ]
+            },
+            {
+                  "name": "Area Infantil José Serrano",
+                  "text": "Un mic loc de joacă în Alcala De Henares, ideal pentru o scurtă pauză de joacă cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -3.378623,
+                        40.490206
+                  ]
+            },
+            {
+                  "name": "Area de juegos Complutum",
+                  "text": "Un loc de joacă tematic în Alcala De Henares, care îi invită pe copii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        -3.362067,
+                        40.492896
+                  ]
+            },
+            {
+                  "name": "Primer patio",
+                  "text": "O zonă de joacă accesibilă în Alcala De Henares pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -3.363006,
+                        40.474761
+                  ]
+            },
+            {
+                  "name": "Parque de juego infantil",
+                  "text": "Un loc de joacă public în Alcala De Henares, cu echipamente clasice pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.345754,
+                        40.501197
+                  ]
             }
       ],
       "en": [
@@ -25188,6 +29742,96 @@ imageHint: "Alcazaba of Almeria fortress walls",
                   "coords": [
                         -3.34369,
                         40.505162
+                  ]
+            },
+            {
+                  "name": "Lago parque de la Mina",
+                  "text": "A scenic lake in Alcala De Henares, perfect for relaxing walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -3.365927,
+                        40.492198
+                  ]
+            },
+            {
+                  "name": "Happy Play XL",
+                  "text": "A spacious play area in Alcala De Henares offering plenty of room for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -3.38734,
+                        40.49247
+                  ]
+            },
+            {
+                  "name": "Skyline Simracing Center",
+                  "text": "An exciting entertainment center in Alcala De Henares featuring racing simulators for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -3.347632,
+                        40.485352
+                  ]
+            },
+            {
+                  "name": "El Jardín del Parnaso",
+                  "text": "A quiet playground in Alcala De Henares set within a pleasant environment for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.369799,
+                        40.496414
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "A local playground in Alcala De Henares featuring various swings for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.352334,
+                        40.489122
+                  ]
+            },
+            {
+                  "name": "Parque de juegos en el Jardín Juan Pablo ll",
+                  "text": "A lovely play area located in the Juan Pablo II Garden in Alcala De Henares for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.360582,
+                        40.503929
+                  ]
+            },
+            {
+                  "name": "Area Infantil José Serrano",
+                  "text": "A small playground in Alcala De Henares, perfect for a quick play break with children.",
+                  "category": "family",
+                  "coords": [
+                        -3.378623,
+                        40.490206
+                  ]
+            },
+            {
+                  "name": "Area de juegos Complutum",
+                  "text": "A themed playground in Alcala De Henares that invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        -3.362067,
+                        40.492896
+                  ]
+            },
+            {
+                  "name": "Primer patio",
+                  "text": "An accessible play area in Alcala De Henares suitable for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -3.363006,
+                        40.474761
+                  ]
+            },
+            {
+                  "name": "Parque de juego infantil",
+                  "text": "A public playground in Alcala De Henares featuring classic play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.345754,
+                        40.501197
                   ]
             }
       ]
@@ -26069,6 +30713,78 @@ imageHint: "Cerro de los Angeles Getafe monument",
                         -3.680476,
                         42.346302
                   ]
+            },
+            {
+                  "name": "Humedal de Fuentes Blancas",
+                  "text": "Ein Feuchtgebiet in Burgos, das Naturliebhaber zur Erkundung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.639939,
+                        42.342882
+                  ]
+            },
+            {
+                  "name": "Virtual Magic",
+                  "text": "Ein Virtual-Reality-Unterhaltungszentrum in Burgos für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.664592,
+                        42.350375
+                  ]
+            },
+            {
+                  "name": "Plaza de la Salle",
+                  "text": "Dieser Spielplatz in Burgos bietet verschiedene Spielgeräte für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -3.696999,
+                        42.349754
+                  ]
+            },
+            {
+                  "name": "Parque Pirata",
+                  "text": "Dieser thematische Piratenspielplatz in Burgos bietet unterhaltsame Spielbereiche für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.677495,
+                        42.363126
+                  ]
+            },
+            {
+                  "name": "Plaza Navas de Tolosa",
+                  "text": "Ein öffentlicher Spielplatz in Burgos, der einen sicheren Raum für Familienerholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.682431,
+                        42.345183
+                  ]
+            },
+            {
+                  "name": "Mickey Mouse",
+                  "text": "Dieser nach Mickey Mouse benannte Spielplatz in Burgos ist ein beliebter Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -3.667492,
+                        42.346946
+                  ]
+            },
+            {
+                  "name": "El bosque encantado",
+                  "text": "Dieser Spielplatz in Burgos bietet eine fantasievolle Umgebung für spielende Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.67322,
+                        42.346552
+                  ]
+            },
+            {
+                  "name": "La Selva",
+                  "text": "Ein Spielplatz mit Dschungel-Thema in Burgos, ideal für Familienaktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -3.6777,
+                        42.346381
+                  ]
             }
       ],
       "hu": [
@@ -26268,6 +30984,78 @@ imageHint: "Cerro de los Angeles Getafe monument",
                   "coords": [
                         -3.680476,
                         42.346302
+                  ]
+            },
+            {
+                  "name": "Humedal de Fuentes Blancas",
+                  "text": "Egy vizes élőhely Burgos területén, amely felfedezésre hívja a természetkedvelőket.",
+                  "category": "natural",
+                  "coords": [
+                        -3.639939,
+                        42.342882
+                  ]
+            },
+            {
+                  "name": "Virtual Magic",
+                  "text": "Egy virtuális valóság szórakoztató központ Burgos városában az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.664592,
+                        42.350375
+                  ]
+            },
+            {
+                  "name": "Plaza de la Salle",
+                  "text": "Ez a Burgos városában található játszótér különféle játéklehetőségeket kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.696999,
+                        42.349754
+                  ]
+            },
+            {
+                  "name": "Parque Pirata",
+                  "text": "Ez a Burgosban található kalózos játszótér szórakoztató játéktereket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.677495,
+                        42.363126
+                  ]
+            },
+            {
+                  "name": "Plaza Navas de Tolosa",
+                  "text": "Egy nyilvános játszótér Burgosban, amely biztonságos helyet kínál a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.682431,
+                        42.345183
+                  ]
+            },
+            {
+                  "name": "Mickey Mouse",
+                  "text": "Ez a Mickey Egérről elnevezett játszótér Burgosban népszerű hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.667492,
+                        42.346946
+                  ]
+            },
+            {
+                  "name": "El bosque encantado",
+                  "text": "Ez a Burgosban található játszótér fantáziadús környezetet biztosít a játszó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.67322,
+                        42.346552
+                  ]
+            },
+            {
+                  "name": "La Selva",
+                  "text": "Egy dzsungel témájú játszótér Burgosban, amely ideális a szabadtéri családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -3.6777,
+                        42.346381
                   ]
             }
       ],
@@ -26469,6 +31257,78 @@ imageHint: "Cerro de los Angeles Getafe monument",
                         -3.680476,
                         42.346302
                   ]
+            },
+            {
+                  "name": "Humedal de Fuentes Blancas",
+                  "text": "O zonă umedă în Burgos care invită iubitorii de natură la explorare.",
+                  "category": "natural",
+                  "coords": [
+                        -3.639939,
+                        42.342882
+                  ]
+            },
+            {
+                  "name": "Virtual Magic",
+                  "text": "Un centru de divertisment prin realitate virtuală în Burgos pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.664592,
+                        42.350375
+                  ]
+            },
+            {
+                  "name": "Plaza de la Salle",
+                  "text": "Acest loc de joacă din Burgos oferă diverse echipamente de joacă pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.696999,
+                        42.349754
+                  ]
+            },
+            {
+                  "name": "Parque Pirata",
+                  "text": "Acest loc de joacă tematic cu pirați din Burgos oferă zone de joacă distractive pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.677495,
+                        42.363126
+                  ]
+            },
+            {
+                  "name": "Plaza Navas de Tolosa",
+                  "text": "Un loc de joacă public în Burgos, care oferă un spațiu sigur pentru recreerea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -3.682431,
+                        42.345183
+                  ]
+            },
+            {
+                  "name": "Mickey Mouse",
+                  "text": "Acest loc de joacă numit după Mickey Mouse din Burgos este un loc popular pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -3.667492,
+                        42.346946
+                  ]
+            },
+            {
+                  "name": "El bosque encantado",
+                  "text": "Acest loc de joacă din Burgos oferă un mediu plin de imaginație pentru copiii care se joacă.",
+                  "category": "family",
+                  "coords": [
+                        -3.67322,
+                        42.346552
+                  ]
+            },
+            {
+                  "name": "La Selva",
+                  "text": "Un loc de joacă cu tematică de junglă în Burgos, ideal pentru activități în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -3.6777,
+                        42.346381
+                  ]
             }
       ],
       "en": [
@@ -26669,6 +31529,78 @@ imageHint: "Cerro de los Angeles Getafe monument",
                         -3.680476,
                         42.346302
                   ]
+            },
+            {
+                  "name": "Humedal de Fuentes Blancas",
+                  "text": "A wetland in Burgos that invites nature lovers for exploration.",
+                  "category": "natural",
+                  "coords": [
+                        -3.639939,
+                        42.342882
+                  ]
+            },
+            {
+                  "name": "Virtual Magic",
+                  "text": "A virtual reality entertainment center in Burgos for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -3.664592,
+                        42.350375
+                  ]
+            },
+            {
+                  "name": "Plaza de la Salle",
+                  "text": "This playground in Burgos offers various play equipment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        -3.696999,
+                        42.349754
+                  ]
+            },
+            {
+                  "name": "Parque Pirata",
+                  "text": "This pirate-themed playground in Burgos offers fun play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.677495,
+                        42.363126
+                  ]
+            },
+            {
+                  "name": "Plaza Navas de Tolosa",
+                  "text": "A public playground in Burgos offering a safe space for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        -3.682431,
+                        42.345183
+                  ]
+            },
+            {
+                  "name": "Mickey Mouse",
+                  "text": "This playground named after Mickey Mouse in Burgos is a popular spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -3.667492,
+                        42.346946
+                  ]
+            },
+            {
+                  "name": "El bosque encantado",
+                  "text": "This playground in Burgos provides an imaginative environment for children at play.",
+                  "category": "family",
+                  "coords": [
+                        -3.67322,
+                        42.346552
+                  ]
+            },
+            {
+                  "name": "La Selva",
+                  "text": "A jungle-themed playground in Burgos, ideal for outdoor family activities.",
+                  "category": "family",
+                  "coords": [
+                        -3.6777,
+                        42.346381
+                  ]
             }
       ]
 },
@@ -26844,6 +31776,69 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
                         -1.866479,
                         38.997194
                   ]
+            },
+            {
+                  "name": "Balsa de laminacion",
+                  "text": "Ein Rückhaltebecken in Albacete, das auch als ruhiger Ort für Spaziergänge dient.",
+                  "category": "natural",
+                  "coords": [
+                        -1.889246,
+                        39.037271
+                  ]
+            },
+            {
+                  "name": "Área de Laminación",
+                  "text": "Ein Wasserbereich in Albacete, der zur Entspannung in der Stadt beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.838974,
+                        39.008589
+                  ]
+            },
+            {
+                  "name": "Balsa Laminadora",
+                  "text": "Ein kleines Gewässer in Albacete, ideal für eine kurze Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        -1.78702,
+                        38.953454
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Ein Spielplatz mit Schaukeln in Albacete, der Kindern Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -1.855378,
+                        38.987829
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Ein Spielplatz in Albacete, der für aktive Kinder tolle Möglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.874901,
+                        39.005841
+                  ]
+            },
+            {
+                  "name": "El Parquecillo",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Albacete für die lokale Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -1.86543,
+                        39.004516
+                  ]
+            },
+            {
+                  "name": "Patios",
+                  "text": "Ein Spielbereich in Albacete, der sicher und gut erreichbar für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        -1.85447,
+                        38.985242
+                  ]
             }
       ],
       "hu": [
@@ -26971,6 +31966,69 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
                   "coords": [
                         -1.866479,
                         38.997194
+                  ]
+            },
+            {
+                  "name": "Balsa de laminacion",
+                  "text": "Víztározó Albacete városában, amely nyugodt helyszínként szolgál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.889246,
+                        39.037271
+                  ]
+            },
+            {
+                  "name": "Área de Laminación",
+                  "text": "Vízfelület Albacete területén, amely hozzájárul a városi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.838974,
+                        39.008589
+                  ]
+            },
+            {
+                  "name": "Balsa Laminadora",
+                  "text": "Kisebb vízfelület Albacete városában, ideális egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.78702,
+                        38.953454
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Hintás játszótér Albacete területén, amely örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.855378,
+                        38.987829
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Játszótér Albacete városában, amely remek lehetőségeket kínál az aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.874901,
+                        39.005841
+                  ]
+            },
+            {
+                  "name": "El Parquecillo",
+                  "text": "Kicsi, hangulatos játszótér Albacete területén a helyi közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.86543,
+                        39.004516
+                  ]
+            },
+            {
+                  "name": "Patios",
+                  "text": "Játszóterület Albacete városában, amely biztonságos és könnyen elérhető a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.85447,
+                        38.985242
                   ]
             }
       ],
@@ -27100,6 +32158,69 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
                         -1.866479,
                         38.997194
                   ]
+            },
+            {
+                  "name": "Balsa de laminacion",
+                  "text": "Un bazin de retenție în Albacete, care servește și ca loc liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -1.889246,
+                        39.037271
+                  ]
+            },
+            {
+                  "name": "Área de Laminación",
+                  "text": "O zonă cu apă în Albacete care contribuie la relaxarea în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -1.838974,
+                        39.008589
+                  ]
+            },
+            {
+                  "name": "Balsa Laminadora",
+                  "text": "O mică întindere de apă în Albacete, ideală pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.78702,
+                        38.953454
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Un loc de joacă cu leagăne în Albacete, care aduce bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -1.855378,
+                        38.987829
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "Un loc de joacă în Albacete care oferă posibilități excelente pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        -1.874901,
+                        39.005841
+                  ]
+            },
+            {
+                  "name": "El Parquecillo",
+                  "text": "Un loc de joacă mic și primitor în Albacete pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        -1.86543,
+                        39.004516
+                  ]
+            },
+            {
+                  "name": "Patios",
+                  "text": "O zonă de joacă în Albacete, sigură și ușor accesibilă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.85447,
+                        38.985242
+                  ]
             }
       ],
       "en": [
@@ -27227,6 +32348,69 @@ imageHint: "Burgos Cathedral Gothic facade sunset",
                   "coords": [
                         -1.866479,
                         38.997194
+                  ]
+            },
+            {
+                  "name": "Balsa de laminacion",
+                  "text": "A retention basin in Albacete that also serves as a quiet spot for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -1.889246,
+                        39.037271
+                  ]
+            },
+            {
+                  "name": "Área de Laminación",
+                  "text": "A water area in Albacete contributing to relaxation within the city.",
+                  "category": "natural",
+                  "coords": [
+                        -1.838974,
+                        39.008589
+                  ]
+            },
+            {
+                  "name": "Balsa Laminadora",
+                  "text": "A small water body in Albacete, ideal for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        -1.78702,
+                        38.953454
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "A playground with swings in Albacete that brings joy to children.",
+                  "category": "family",
+                  "coords": [
+                        -1.855378,
+                        38.987829
+                  ]
+            },
+            {
+                  "name": "Tirolina",
+                  "text": "A playground in Albacete offering great opportunities for active children.",
+                  "category": "family",
+                  "coords": [
+                        -1.874901,
+                        39.005841
+                  ]
+            },
+            {
+                  "name": "El Parquecillo",
+                  "text": "A small, cozy playground in Albacete for the local neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -1.86543,
+                        39.004516
+                  ]
+            },
+            {
+                  "name": "Patios",
+                  "text": "A play area in Albacete that is safe and easily accessible for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.85447,
+                        38.985242
                   ]
             }
       ]
@@ -29169,6 +34353,51 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                         -3.839003,
                         40.351626
                   ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Ein kleiner Teich in Alcorcon, ideal für einen kurzen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "Ein Erholungsgebiet mit Seen in Alcorcon, perfekt für Zeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "BIG JUMP Alcorcón",
+                  "text": "Ein großer Trampolinpark in Alcorcon, der aktiven Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.834161,
+                        40.358367
+                  ]
+            },
+            {
+                  "name": "Factoria Retro",
+                  "text": "Ein Unterhaltungszentrum in Alcorcon mit Fokus auf Retro-Spiele und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -3.807856,
+                        40.344869
+                  ]
+            },
+            {
+                  "name": "Mayarí - Viena",
+                  "text": "Ein städtischer Spielplatz in Alcorcon für den täglichen Freizeitspaß der Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.840902,
+                        40.34912
+                  ]
             }
       ],
       "hu": [
@@ -29260,6 +34489,51 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Kisebb tó Alcorcon területén, ideális egy rövid vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "Tavas pihenőövezet Alcorcon városában, amely tökéletes a szabadban töltött időhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "BIG JUMP Alcorcón",
+                  "text": "Nagy trambulinpark Alcorcon területén, amely aktív szórakozást kínál a családnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.834161,
+                        40.358367
+                  ]
+            },
+            {
+                  "name": "Factoria Retro",
+                  "text": "Szórakoztató központ Alcorcon városában, retro játékokkal és családi szórakozással.",
+                  "category": "family",
+                  "coords": [
+                        -3.807856,
+                        40.344869
+                  ]
+            },
+            {
+                  "name": "Mayarí - Viena",
+                  "text": "Városi játszótér Alcorcon területén a gyerekek napi kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        -3.840902,
+                        40.34912
                   ]
             }
       ],
@@ -29353,6 +34627,51 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                         -3.839003,
                         40.351626
                   ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Un iaz mic în Alcorcon, ideal pentru o scurtă plimbare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "O zonă de recreere cu lacuri în Alcorcon, perfectă pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "BIG JUMP Alcorcón",
+                  "text": "Un parc de trambuline mare în Alcorcon, oferind distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.834161,
+                        40.358367
+                  ]
+            },
+            {
+                  "name": "Factoria Retro",
+                  "text": "Un centru de divertisment în Alcorcon axat pe jocuri retro și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.807856,
+                        40.344869
+                  ]
+            },
+            {
+                  "name": "Mayarí - Viena",
+                  "text": "Un loc de joacă urban în Alcorcon pentru distracția zilnică a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -3.840902,
+                        40.34912
+                  ]
             }
       ],
       "en": [
@@ -29444,6 +34763,51 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "A small pond in Alcorcon, ideal for a short walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "A recreation area with lakes in Alcorcon, perfect for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "BIG JUMP Alcorcón",
+                  "text": "A large trampoline park in Alcorcon offering active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -3.834161,
+                        40.358367
+                  ]
+            },
+            {
+                  "name": "Factoria Retro",
+                  "text": "An entertainment center in Alcorcon focused on retro games and family fun.",
+                  "category": "family",
+                  "coords": [
+                        -3.807856,
+                        40.344869
+                  ]
+            },
+            {
+                  "name": "Mayarí - Viena",
+                  "text": "An urban playground in Alcorcon for children's daily leisure and fun.",
+                  "category": "family",
+                  "coords": [
+                        -3.840902,
+                        40.34912
                   ]
             }
       ]
@@ -29702,6 +35066,114 @@ imageHint: "La Laguna old town colorful streets",
                         -2.445336,
                         42.466597
                   ]
+            },
+            {
+                  "name": "Embalse de las Cañas",
+                  "text": "Ein ruhiges Gewässer bei Logroño, das zu Naturbeobachtungen und Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.400004,
+                        42.484068
+                  ]
+            },
+            {
+                  "name": "Pantano de La Grajera",
+                  "text": "Ein beliebtes Naherholungsgebiet bei Logroño, ideal für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504529,
+                        42.444577
+                  ]
+            },
+            {
+                  "name": "Estanque de La Laguna",
+                  "text": "Ein kleiner See in Logroño, der eine friedliche Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.461314,
+                        42.4606
+                  ]
+            },
+            {
+                  "name": "Cascadas de Alberite",
+                  "text": "Ein malerischer Ort mit Wasserfällen bei Logroño, ideal zum Entspannen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44902,
+                        42.403524
+                  ]
+            },
+            {
+                  "name": "Columpios plaza vendimia",
+                  "text": "Ein zentral gelegener Spielplatz in Logroño mit verschiedenen Schaukelmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -2.454231,
+                        42.456257
+                  ]
+            },
+            {
+                  "name": "Columpios plaza Primero de Mayo",
+                  "text": "Ein beliebter Treffpunkt für Familien in Logroño mit Spielgeräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.452717,
+                        42.461151
+                  ]
+            },
+            {
+                  "name": "Caseta parque infantil",
+                  "text": "Ein kleinerer Spielbereich in Logroño, ideal für jüngere Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.413591,
+                        42.463911
+                  ]
+            },
+            {
+                  "name": "Parque Santa María de la Vid",
+                  "text": "Ein gepflegter Spielplatz in Logroño, der Kindern eine sichere Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.439316,
+                        42.455851
+                  ]
+            },
+            {
+                  "name": "Parque del dragón",
+                  "text": "Ein fantasievoll gestalteter Spielplatz in Logroño, der die Kreativität der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        -2.42758,
+                        42.470659
+                  ]
+            },
+            {
+                  "name": "Zona de juegos Manuel García Herreros",
+                  "text": "Ein moderner Spielbereich in Logroño mit abwechslungsreichen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -2.438212,
+                        42.467978
+                  ]
+            },
+            {
+                  "name": "Cuadrado musical",
+                  "text": "Ein einzigartiger Spielplatz in Logroño, der zum musikalischen Experimentieren einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -2.446771,
+                        42.471293
+                  ]
+            },
+            {
+                  "name": "Pixel & Games",
+                  "text": "Ein modernes Spielzentrum in Logroño mit einer Auswahl an Videospielen für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        -2.429688,
+                        42.455244
+                  ]
             }
       ],
       "hu": [
@@ -29865,6 +35337,114 @@ imageHint: "La Laguna old town colorful streets",
                   "coords": [
                         -2.445336,
                         42.466597
+                  ]
+            },
+            {
+                  "name": "Embalse de las Cañas",
+                  "text": "Egy nyugodt víztározó Logroño közelében, amely természetjárásra és sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -2.400004,
+                        42.484068
+                  ]
+            },
+            {
+                  "name": "Pantano de La Grajera",
+                  "text": "Kedvelt pihenőhely Logroño közelében, amely kiválóan alkalmas vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504529,
+                        42.444577
+                  ]
+            },
+            {
+                  "name": "Estanque de La Laguna",
+                  "text": "Egy kis tó Logroño városában, amely békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -2.461314,
+                        42.4606
+                  ]
+            },
+            {
+                  "name": "Cascadas de Alberite",
+                  "text": "Egy festői vízeséses hely Logroño közelében, amely kiváló a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44902,
+                        42.403524
+                  ]
+            },
+            {
+                  "name": "Columpios plaza vendimia",
+                  "text": "Egy központi játszótér Logroñóban, ahol többféle hinta is található.",
+                  "category": "family",
+                  "coords": [
+                        -2.454231,
+                        42.456257
+                  ]
+            },
+            {
+                  "name": "Columpios plaza Primero de Mayo",
+                  "text": "Kedvelt találkozóhely családoknak Logroñóban, játéklehetőségekkel a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.452717,
+                        42.461151
+                  ]
+            },
+            {
+                  "name": "Caseta parque infantil",
+                  "text": "Egy kisebb játszórész Logroñóban, amely ideális a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.413591,
+                        42.463911
+                  ]
+            },
+            {
+                  "name": "Parque Santa María de la Vid",
+                  "text": "Egy gondozott játszótér Logroñóban, amely biztonságos környezetet nyújt a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.439316,
+                        42.455851
+                  ]
+            },
+            {
+                  "name": "Parque del dragón",
+                  "text": "Egy fantáziadúsan kialakított játszótér Logroñóban, amely ösztönzi a gyerekek kreativitását.",
+                  "category": "family",
+                  "coords": [
+                        -2.42758,
+                        42.470659
+                  ]
+            },
+            {
+                  "name": "Zona de juegos Manuel García Herreros",
+                  "text": "Egy modern játszórész Logroñóban, változatos játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -2.438212,
+                        42.467978
+                  ]
+            },
+            {
+                  "name": "Cuadrado musical",
+                  "text": "Egy egyedülálló játszótér Logroñóban, amely zenei kísérletezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -2.446771,
+                        42.471293
+                  ]
+            },
+            {
+                  "name": "Pixel & Games",
+                  "text": "Modern játékterem Logroñóban, videojátékok széles választékával kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.429688,
+                        42.455244
                   ]
             }
       ],
@@ -30030,6 +35610,114 @@ imageHint: "La Laguna old town colorful streets",
                         -2.445336,
                         42.466597
                   ]
+            },
+            {
+                  "name": "Embalse de las Cañas",
+                  "text": "Un rezervor liniștit lângă Logroño, care invită la observarea naturii și la plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -2.400004,
+                        42.484068
+                  ]
+            },
+            {
+                  "name": "Pantano de La Grajera",
+                  "text": "O zonă de recreere populară lângă Logroño, ideală pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504529,
+                        42.444577
+                  ]
+            },
+            {
+                  "name": "Estanque de La Laguna",
+                  "text": "Un lac mic în Logroño, care oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -2.461314,
+                        42.4606
+                  ]
+            },
+            {
+                  "name": "Cascadas de Alberite",
+                  "text": "Un loc pitoresc cu cascade lângă Logroño, ideal pentru relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44902,
+                        42.403524
+                  ]
+            },
+            {
+                  "name": "Columpios plaza vendimia",
+                  "text": "Un loc de joacă situat central în Logroño, dotat cu diverse tipuri de leagăne.",
+                  "category": "family",
+                  "coords": [
+                        -2.454231,
+                        42.456257
+                  ]
+            },
+            {
+                  "name": "Columpios plaza Primero de Mayo",
+                  "text": "Un punct de întâlnire popular pentru familii în Logroño, cu facilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.452717,
+                        42.461151
+                  ]
+            },
+            {
+                  "name": "Caseta parque infantil",
+                  "text": "O zonă de joacă mai mică în Logroño, ideală pentru distracția copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        -2.413591,
+                        42.463911
+                  ]
+            },
+            {
+                  "name": "Parque Santa María de la Vid",
+                  "text": "Un loc de joacă bine întreținut în Logroño, oferind un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.439316,
+                        42.455851
+                  ]
+            },
+            {
+                  "name": "Parque del dragón",
+                  "text": "Un loc de joacă cu design creativ în Logroño, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -2.42758,
+                        42.470659
+                  ]
+            },
+            {
+                  "name": "Zona de juegos Manuel García Herreros",
+                  "text": "O zonă de joacă modernă în Logroño, cu diverse posibilități de distracție.",
+                  "category": "family",
+                  "coords": [
+                        -2.438212,
+                        42.467978
+                  ]
+            },
+            {
+                  "name": "Cuadrado musical",
+                  "text": "Un loc de joacă unic în Logroño, care îi invită pe copii la experimente muzicale.",
+                  "category": "family",
+                  "coords": [
+                        -2.446771,
+                        42.471293
+                  ]
+            },
+            {
+                  "name": "Pixel & Games",
+                  "text": "Un centru de jocuri modern în Logroño, cu o varietate de jocuri video pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -2.429688,
+                        42.455244
+                  ]
             }
       ],
       "en": [
@@ -30193,6 +35881,114 @@ imageHint: "La Laguna old town colorful streets",
                   "coords": [
                         -2.445336,
                         42.466597
+                  ]
+            },
+            {
+                  "name": "Embalse de las Cañas",
+                  "text": "A peaceful reservoir near Logroño, ideal for nature observation and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        -2.400004,
+                        42.484068
+                  ]
+            },
+            {
+                  "name": "Pantano de La Grajera",
+                  "text": "A popular recreation area near Logroño, perfect for walks along the water's edge.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504529,
+                        42.444577
+                  ]
+            },
+            {
+                  "name": "Estanque de La Laguna",
+                  "text": "A small lake in Logroño offering a peaceful atmosphere for visitors to enjoy.",
+                  "category": "natural",
+                  "coords": [
+                        -2.461314,
+                        42.4606
+                  ]
+            },
+            {
+                  "name": "Cascadas de Alberite",
+                  "text": "A scenic spot with waterfalls near Logroño, perfect for relaxing in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        -2.44902,
+                        42.403524
+                  ]
+            },
+            {
+                  "name": "Columpios plaza vendimia",
+                  "text": "A centrally located playground in Logroño offering various swinging options for kids.",
+                  "category": "family",
+                  "coords": [
+                        -2.454231,
+                        42.456257
+                  ]
+            },
+            {
+                  "name": "Columpios plaza Primero de Mayo",
+                  "text": "A popular meeting spot for families in Logroño featuring play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.452717,
+                        42.461151
+                  ]
+            },
+            {
+                  "name": "Caseta parque infantil",
+                  "text": "A smaller play area in Logroño, perfect for younger children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -2.413591,
+                        42.463911
+                  ]
+            },
+            {
+                  "name": "Parque Santa María de la Vid",
+                  "text": "A well-maintained playground in Logroño offering a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.439316,
+                        42.455851
+                  ]
+            },
+            {
+                  "name": "Parque del dragón",
+                  "text": "An imaginatively designed playground in Logroño that sparks children's creativity.",
+                  "category": "family",
+                  "coords": [
+                        -2.42758,
+                        42.470659
+                  ]
+            },
+            {
+                  "name": "Zona de juegos Manuel García Herreros",
+                  "text": "A modern play area in Logroño featuring a variety of activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.438212,
+                        42.467978
+                  ]
+            },
+            {
+                  "name": "Cuadrado musical",
+                  "text": "A unique playground in Logroño that invites children to experiment with music.",
+                  "category": "family",
+                  "coords": [
+                        -2.446771,
+                        42.471293
+                  ]
+            },
+            {
+                  "name": "Pixel & Games",
+                  "text": "A modern arcade in Logroño featuring a selection of video games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -2.429688,
+                        42.455244
                   ]
             }
       ]
@@ -30387,6 +36183,51 @@ imageHint: "Calle Laurel Logrono tapas bars",
                         -6.971749,
                         38.88006
                   ]
+            },
+            {
+                  "name": "Albufeira de Alfarófia",
+                  "text": "Dieser See in Badajoz ist ein ruhiger Ort zum Wandern und Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053217,
+                        38.871032
+                  ]
+            },
+            {
+                  "name": "Estanque del Parque del Rivilla",
+                  "text": "Ein malerischer Teich im Park von Badajoz, der sich für entspannte Spaziergänge am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.96073,
+                        38.871878
+                  ]
+            },
+            {
+                  "name": "Parque de Juegos",
+                  "text": "Dieser Spielpark in Badajoz bietet eine Vielzahl von Aktivitäten für Kinder im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -6.962042,
+                        38.870086
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Ein Spielplatz in Badajoz mit Schaukeln und anderen Geräten für den Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -6.987054,
+                        38.870168
+                  ]
+            },
+            {
+                  "name": "Barco pirata",
+                  "text": "Dieser Spielplatz in Badajoz verfügt über ein Spielschiff für fantasievolles Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -6.95496,
+                        38.877907
+                  ]
             }
       ],
       "hu": [
@@ -30532,6 +36373,51 @@ imageHint: "Calle Laurel Logrono tapas bars",
                   "coords": [
                         -6.971749,
                         38.88006
+                  ]
+            },
+            {
+                  "name": "Albufeira de Alfarófia",
+                  "text": "Ez a Badajoz városában található tó nyugodt hely a sétához és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053217,
+                        38.871032
+                  ]
+            },
+            {
+                  "name": "Estanque del Parque del Rivilla",
+                  "text": "Egy festői tó Badajoz parkjában, amely alkalmas pihentető vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.96073,
+                        38.871878
+                  ]
+            },
+            {
+                  "name": "Parque de Juegos",
+                  "text": "Ez a Badajozban található játékpark különféle szabadtéri tevékenységeket kínál gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.962042,
+                        38.870086
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Egy játszótér Badajozban hintákkal és egyéb eszközökkel a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.987054,
+                        38.870168
+                  ]
+            },
+            {
+                  "name": "Barco pirata",
+                  "text": "Ez a Badajozban található játszótér egy hajó alakú játékkal várja a gyerekeket a kreatív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.95496,
+                        38.877907
                   ]
             }
       ],
@@ -30679,6 +36565,51 @@ imageHint: "Calle Laurel Logrono tapas bars",
                         -6.971749,
                         38.88006
                   ]
+            },
+            {
+                  "name": "Albufeira de Alfarófia",
+                  "text": "Acest lac din Badajoz este un loc liniștit pentru plimbări și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053217,
+                        38.871032
+                  ]
+            },
+            {
+                  "name": "Estanque del Parque del Rivilla",
+                  "text": "Un iaz pitoresc în parcul din Badajoz, potrivit pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.96073,
+                        38.871878
+                  ]
+            },
+            {
+                  "name": "Parque de Juegos",
+                  "text": "Acest parc de joacă din Badajoz oferă o varietate de activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.962042,
+                        38.870086
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "Un loc de joacă în Badajoz cu leagăne și alte echipamente pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        -6.987054,
+                        38.870168
+                  ]
+            },
+            {
+                  "name": "Barco pirata",
+                  "text": "Acest loc de joacă din Badajoz are o navă de joacă pentru jocuri pline de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        -6.95496,
+                        38.877907
+                  ]
             }
       ],
       "en": [
@@ -30824,6 +36755,51 @@ imageHint: "Calle Laurel Logrono tapas bars",
                   "coords": [
                         -6.971749,
                         38.88006
+                  ]
+            },
+            {
+                  "name": "Albufeira de Alfarófia",
+                  "text": "This lake in Badajoz is a quiet spot for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -7.053217,
+                        38.871032
+                  ]
+            },
+            {
+                  "name": "Estanque del Parque del Rivilla",
+                  "text": "A scenic pond in the park of Badajoz, suitable for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -6.96073,
+                        38.871878
+                  ]
+            },
+            {
+                  "name": "Parque de Juegos",
+                  "text": "This play park in Badajoz offers a variety of outdoor activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -6.962042,
+                        38.870086
+                  ]
+            },
+            {
+                  "name": "Columpios",
+                  "text": "A playground in Badajoz with swings and other equipment for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -6.987054,
+                        38.870168
+                  ]
+            },
+            {
+                  "name": "Barco pirata",
+                  "text": "This playground in Badajoz features a play ship for imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        -6.95496,
+                        38.877907
                   ]
             }
       ]
@@ -31460,6 +37436,42 @@ imageHint: "Monument to the Discovery Huelva sunset",
                         -4.88867,
                         36.526377
                   ]
+            },
+            {
+                  "name": "Embalse de la Concepcion",
+                  "text": "Ein beeindruckendes Reservoir bei Marbella, umgeben von schöner Natur für Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        -4.962439,
+                        36.557603
+                  ]
+            },
+            {
+                  "name": "Pantano Nuevo del Angel",
+                  "text": "Ein ruhiger See in der Nähe von Marbella, ideal für entspannte Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965427,
+                        36.522239
+                  ]
+            },
+            {
+                  "name": "El Faro",
+                  "text": "Ein schöner Spielplatz in Marbella, der Kindern viel Freude und Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.860508,
+                        36.507901
+                  ]
+            },
+            {
+                  "name": "Parque (Edificio Valle Azul)",
+                  "text": "Ein lokaler Spielbereich in Marbella für Familien, die in der Nähe wohnen.",
+                  "category": "family",
+                  "coords": [
+                        -4.873952,
+                        36.518403
+                  ]
             }
       ],
       "hu": [
@@ -31560,6 +37572,42 @@ imageHint: "Monument to the Discovery Huelva sunset",
                   "coords": [
                         -4.88867,
                         36.526377
+                  ]
+            },
+            {
+                  "name": "Embalse de la Concepcion",
+                  "text": "Egy lenyűgöző víztározó Marbella közelében, gyönyörű természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -4.962439,
+                        36.557603
+                  ]
+            },
+            {
+                  "name": "Pantano Nuevo del Angel",
+                  "text": "Egy nyugodt tó Marbella közelében, amely ideális a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965427,
+                        36.522239
+                  ]
+            },
+            {
+                  "name": "El Faro",
+                  "text": "Egy kedves játszótér Marbellán, amely örömet és mozgási lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -4.860508,
+                        36.507901
+                  ]
+            },
+            {
+                  "name": "Parque (Edificio Valle Azul)",
+                  "text": "Egy helyi játszórész Marbellán a közelben lakó családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.873952,
+                        36.518403
                   ]
             }
       ],
@@ -31662,6 +37710,42 @@ imageHint: "Monument to the Discovery Huelva sunset",
                         -4.88867,
                         36.526377
                   ]
+            },
+            {
+                  "name": "Embalse de la Concepcion",
+                  "text": "Un rezervor impresionant lângă Marbella, înconjurat de o natură frumoasă pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        -4.962439,
+                        36.557603
+                  ]
+            },
+            {
+                  "name": "Pantano Nuevo del Angel",
+                  "text": "Un lac liniștit lângă Marbella, ideal pentru ore relaxante în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965427,
+                        36.522239
+                  ]
+            },
+            {
+                  "name": "El Faro",
+                  "text": "Un loc de joacă frumos în Marbella, care le oferă copiilor bucurie și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -4.860508,
+                        36.507901
+                  ]
+            },
+            {
+                  "name": "Parque (Edificio Valle Azul)",
+                  "text": "O zonă de joacă locală în Marbella pentru familiile care locuiesc în apropiere.",
+                  "category": "family",
+                  "coords": [
+                        -4.873952,
+                        36.518403
+                  ]
             }
       ],
       "en": [
@@ -31762,6 +37846,42 @@ imageHint: "Monument to the Discovery Huelva sunset",
                   "coords": [
                         -4.88867,
                         36.526377
+                  ]
+            },
+            {
+                  "name": "Embalse de la Concepcion",
+                  "text": "An impressive reservoir near Marbella, surrounded by beautiful nature perfect for outings.",
+                  "category": "natural",
+                  "coords": [
+                        -4.962439,
+                        36.557603
+                  ]
+            },
+            {
+                  "name": "Pantano Nuevo del Angel",
+                  "text": "A peaceful lake near Marbella, perfect for spending relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965427,
+                        36.522239
+                  ]
+            },
+            {
+                  "name": "El Faro",
+                  "text": "A lovely playground in Marbella offering children plenty of fun and activity.",
+                  "category": "family",
+                  "coords": [
+                        -4.860508,
+                        36.507901
+                  ]
+            },
+            {
+                  "name": "Parque (Edificio Valle Azul)",
+                  "text": "A local play area in Marbella suitable for families living in the vicinity.",
+                  "category": "family",
+                  "coords": [
+                        -4.873952,
+                        36.518403
                   ]
             }
       ]
@@ -32632,6 +38752,60 @@ imageHint: "Seu Vella Lleida cathedral on hill",
                         -5.941167,
                         37.301743
                   ]
+            },
+            {
+                  "name": "Bolera",
+                  "text": "Ein Spielplatz in Dos Hermanas, der Kindern Raum zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.921467,
+                        37.266317
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dehesa Doña María",
+                  "text": "Ein moderner Spielplatz in Dos Hermanas, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -5.934081,
+                        37.29859
+                  ]
+            },
+            {
+                  "name": "Arcade Planet",
+                  "text": "Ein Freizeitzentrum in Dos Hermanas mit einer großen Auswahl an Arcade-Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -5.922202,
+                        37.270408
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Jose Barbas",
+                  "text": "Ein lokaler Spielplatz in Dos Hermanas, der sicher und unterhaltsam für Kinder ist.",
+                  "category": "family",
+                  "coords": [
+                        -5.913639,
+                        37.28474
+                  ]
+            },
+            {
+                  "name": "Zonas de Juegos Los Tomateros",
+                  "text": "Ein familienfreundlicher Spielbereich in Dos Hermanas für die tägliche Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        -5.933135,
+                        37.273593
+                  ]
+            },
+            {
+                  "name": "Zona infantil La Motilla",
+                  "text": "Ein Spielplatz in Dos Hermanas, der Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.945307,
+                        37.285887
+                  ]
             }
       ],
       "hu": [
@@ -32678,6 +38852,60 @@ imageHint: "Seu Vella Lleida cathedral on hill",
                   "coords": [
                         -5.941167,
                         37.301743
+                  ]
+            },
+            {
+                  "name": "Bolera",
+                  "text": "Játszótér Dos Hermanas városában, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.921467,
+                        37.266317
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dehesa Doña María",
+                  "text": "Modern játszótér Dos Hermanas területén, amely ideális a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -5.934081,
+                        37.29859
+                  ]
+            },
+            {
+                  "name": "Arcade Planet",
+                  "text": "Szórakoztató központ Dos Hermanas városában, arcade játékok széles választékával.",
+                  "category": "family",
+                  "coords": [
+                        -5.922202,
+                        37.270408
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Jose Barbas",
+                  "text": "Helyi játszótér Dos Hermanas területén, amely biztonságos és szórakoztató.",
+                  "category": "family",
+                  "coords": [
+                        -5.913639,
+                        37.28474
+                  ]
+            },
+            {
+                  "name": "Zonas de Juegos Los Tomateros",
+                  "text": "Családbarát játszóterület Dos Hermanas városában a napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.933135,
+                        37.273593
+                  ]
+            },
+            {
+                  "name": "Zona infantil La Motilla",
+                  "text": "Egy játszótér Dos Hermanas városában, amely kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -5.945307,
+                        37.285887
                   ]
             }
       ],
@@ -32726,6 +38954,60 @@ imageHint: "Seu Vella Lleida cathedral on hill",
                         -5.941167,
                         37.301743
                   ]
+            },
+            {
+                  "name": "Bolera",
+                  "text": "Un loc de joacă în Dos Hermanas care oferă copiilor spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -5.921467,
+                        37.266317
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dehesa Doña María",
+                  "text": "Un loc de joacă modern în Dos Hermanas, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.934081,
+                        37.29859
+                  ]
+            },
+            {
+                  "name": "Arcade Planet",
+                  "text": "Un centru de divertisment în Dos Hermanas cu o selecție largă de jocuri arcade.",
+                  "category": "family",
+                  "coords": [
+                        -5.922202,
+                        37.270408
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Jose Barbas",
+                  "text": "Un loc de joacă local în Dos Hermanas, sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.913639,
+                        37.28474
+                  ]
+            },
+            {
+                  "name": "Zonas de Juegos Los Tomateros",
+                  "text": "O zonă de joacă pentru familii în Dos Hermanas pentru recreerea zilnică.",
+                  "category": "family",
+                  "coords": [
+                        -5.933135,
+                        37.273593
+                  ]
+            },
+            {
+                  "name": "Zona infantil La Motilla",
+                  "text": "Un loc de joacă în Dos Hermanas, oferind distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.945307,
+                        37.285887
+                  ]
             }
       ],
       "en": [
@@ -32772,6 +39054,60 @@ imageHint: "Seu Vella Lleida cathedral on hill",
                   "coords": [
                         -5.941167,
                         37.301743
+                  ]
+            },
+            {
+                  "name": "Bolera",
+                  "text": "A playground in Dos Hermanas providing space for children to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        -5.921467,
+                        37.266317
+                  ]
+            },
+            {
+                  "name": "Parque infantil Dehesa Doña María",
+                  "text": "A modern playground in Dos Hermanas, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -5.934081,
+                        37.29859
+                  ]
+            },
+            {
+                  "name": "Arcade Planet",
+                  "text": "An entertainment center in Dos Hermanas with a wide selection of arcade games.",
+                  "category": "family",
+                  "coords": [
+                        -5.922202,
+                        37.270408
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Jose Barbas",
+                  "text": "A local playground in Dos Hermanas that is safe and entertaining for children.",
+                  "category": "family",
+                  "coords": [
+                        -5.913639,
+                        37.28474
+                  ]
+            },
+            {
+                  "name": "Zonas de Juegos Los Tomateros",
+                  "text": "A family-friendly play area in Dos Hermanas for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -5.933135,
+                        37.273593
+                  ]
+            },
+            {
+                  "name": "Zona infantil La Motilla",
+                  "text": "A playground in Dos Hermanas offering fun for children.",
+                  "category": "family",
+                  "coords": [
+                        -5.945307,
+                        37.285887
                   ]
             }
       ]
@@ -32885,6 +39221,69 @@ imageHint: "Dos Hermanas city town hall facade",
                         -3.456611,
                         40.443772
                   ]
+            },
+            {
+                  "name": "Lago de la Rambla",
+                  "text": "Ein kleiner See in Torrejón De Ardoz, ideal für einen kurzen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.545316,
+                        40.425012
+                  ]
+            },
+            {
+                  "name": "Magic Waho Park",
+                  "text": "Ein magischer Spielplatz in Torrejón De Ardoz, der Kinder zum fantasievollen Spielen anregt.",
+                  "category": "family",
+                  "coords": [
+                        -3.4493,
+                        40.466104
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "Ein dedizierter Spielbereich für Kinder in Torrejón De Ardoz mit verschiedenen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        -3.451849,
+                        40.465703
+                  ]
+            },
+            {
+                  "name": "Merryland",
+                  "text": "Ein fröhlicher Spielplatz in Torrejón De Ardoz, der viel Unterhaltung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.480743,
+                        40.457704
+                  ]
+            },
+            {
+                  "name": "Fun Sicher",
+                  "text": "Ein Freizeitzentrum in Torrejón De Ardoz mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.48065,
+                        40.474473
+                  ]
+            },
+            {
+                  "name": "El Pasado",
+                  "text": "Ein interessanter Spielplatz in Torrejón De Ardoz für täglichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        -3.455561,
+                        40.443691
+                  ]
+            },
+            {
+                  "name": "El futuro",
+                  "text": "Ein modern gestalteter Spielplatz in Torrejón De Ardoz, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -3.45605,
+                        40.446303
+                  ]
             }
       ],
       "hu": [
@@ -32949,6 +39348,69 @@ imageHint: "Dos Hermanas city town hall facade",
                   "coords": [
                         -3.456611,
                         40.443772
+                  ]
+            },
+            {
+                  "name": "Lago de la Rambla",
+                  "text": "Egy kis tó Torrejón De Ardozban, amely ideális egy rövid vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.545316,
+                        40.425012
+                  ]
+            },
+            {
+                  "name": "Magic Waho Park",
+                  "text": "Egy varázslatos játszótér Torrejón De Ardozban, amely fantáziadús játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        -3.4493,
+                        40.466104
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "Kifejezetten gyermekeknek kialakított játszórész Torrejón De Ardozban különféle eszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        -3.451849,
+                        40.465703
+                  ]
+            },
+            {
+                  "name": "Merryland",
+                  "text": "Vidám játszótér Torrejón De Ardozban, amely sok szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.480743,
+                        40.457704
+                  ]
+            },
+            {
+                  "name": "Fun Sicher",
+                  "text": "Szabadidőközpont Torrejón De Ardozban különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.48065,
+                        40.474473
+                  ]
+            },
+            {
+                  "name": "El Pasado",
+                  "text": "Érdekes játszótér Torrejón De Ardozban a mindennapi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.455561,
+                        40.443691
+                  ]
+            },
+            {
+                  "name": "El futuro",
+                  "text": "Modern kialakítású játszótér Torrejón De Ardozban, amely felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -3.45605,
+                        40.446303
                   ]
             }
       ],
@@ -33015,6 +39477,69 @@ imageHint: "Dos Hermanas city town hall facade",
                         -3.456611,
                         40.443772
                   ]
+            },
+            {
+                  "name": "Lago de la Rambla",
+                  "text": "Un lac mic în Torrejón De Ardoz, ideal pentru o scurtă plimbare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.545316,
+                        40.425012
+                  ]
+            },
+            {
+                  "name": "Magic Waho Park",
+                  "text": "Un loc de joacă magic în Torrejón De Ardoz, care îi stimulează pe copii la jocuri creative.",
+                  "category": "family",
+                  "coords": [
+                        -3.4493,
+                        40.466104
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "O zonă de joacă dedicată copiilor în Torrejón De Ardoz, cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        -3.451849,
+                        40.465703
+                  ]
+            },
+            {
+                  "name": "Merryland",
+                  "text": "Un loc de joacă vesel în Torrejón De Ardoz, care oferă multă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.480743,
+                        40.457704
+                  ]
+            },
+            {
+                  "name": "Fun Sicher",
+                  "text": "Un centru de divertisment în Torrejón De Ardoz, cu diverse jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.48065,
+                        40.474473
+                  ]
+            },
+            {
+                  "name": "El Pasado",
+                  "text": "Un loc de joacă interesant în Torrejón De Ardoz pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        -3.455561,
+                        40.443691
+                  ]
+            },
+            {
+                  "name": "El futuro",
+                  "text": "Un loc de joacă cu design modern în Torrejón De Ardoz, care îi invită pe copii la explorare.",
+                  "category": "family",
+                  "coords": [
+                        -3.45605,
+                        40.446303
+                  ]
             }
       ],
       "en": [
@@ -33079,6 +39604,69 @@ imageHint: "Dos Hermanas city town hall facade",
                   "coords": [
                         -3.456611,
                         40.443772
+                  ]
+            },
+            {
+                  "name": "Lago de la Rambla",
+                  "text": "A small lake in Torrejón De Ardoz, perfect for a short walk along the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.545316,
+                        40.425012
+                  ]
+            },
+            {
+                  "name": "Magic Waho Park",
+                  "text": "A magical playground in Torrejón De Ardoz that encourages imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        -3.4493,
+                        40.466104
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "A dedicated play area for children in Torrejón De Ardoz featuring various equipment.",
+                  "category": "family",
+                  "coords": [
+                        -3.451849,
+                        40.465703
+                  ]
+            },
+            {
+                  "name": "Merryland",
+                  "text": "A cheerful playground in Torrejón De Ardoz providing plenty of entertainment for kids.",
+                  "category": "family",
+                  "coords": [
+                        -3.480743,
+                        40.457704
+                  ]
+            },
+            {
+                  "name": "Fun Sicher",
+                  "text": "An entertainment center in Torrejón De Ardoz with various games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -3.48065,
+                        40.474473
+                  ]
+            },
+            {
+                  "name": "El Pasado",
+                  "text": "An interesting playground in Torrejón De Ardoz for daily play and fun.",
+                  "category": "family",
+                  "coords": [
+                        -3.455561,
+                        40.443691
+                  ]
+            },
+            {
+                  "name": "El futuro",
+                  "text": "A modernly designed playground in Torrejón De Ardoz that invites children to explore.",
+                  "category": "family",
+                  "coords": [
+                        -3.45605,
+                        40.446303
                   ]
             }
       ]
@@ -33156,6 +39744,24 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
                         -3.758267,
                         40.229364
                   ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "Ein lokaler See in Parla, der eine friedliche Umgebung für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "La Villa",
+                  "text": "Dieser Spielplatz in Parla bietet einen sicheren und unterhaltsamen Raum für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.767515,
+                        40.238978
+                  ]
             }
       ],
       "hu": [
@@ -33184,6 +39790,24 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
                   "coords": [
                         -3.758267,
                         40.229364
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "Egy helyi tó Parlában, amely nyugodt környezetet biztosít a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "La Villa",
+                  "text": "Ez a Parlában található játszótér biztonságos és szórakoztató helyet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -3.767515,
+                        40.238978
                   ]
             }
       ],
@@ -33214,6 +39838,24 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
                         -3.758267,
                         40.229364
                   ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "Un lac local din Parla, care oferă un mediu liniștit pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "La Villa",
+                  "text": "Acest loc de joacă din Parla oferă un spațiu sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.767515,
+                        40.238978
+                  ]
             }
       ],
       "en": [
@@ -33242,6 +39884,24 @@ imageHint: "Parque Europa Torrejon de Ardoz miniatures",
                   "coords": [
                         -3.758267,
                         40.229364
+                  ]
+            },
+            {
+                  "name": "Los Lagos",
+                  "text": "A local lake in Parla providing a peaceful setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -3.743934,
+                        40.304853
+                  ]
+            },
+            {
+                  "name": "La Villa",
+                  "text": "This playground in Parla offers a safe and fun space for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.767515,
+                        40.238978
                   ]
             }
       ]
@@ -36563,6 +43223,51 @@ imageHint: "Cadiz Cathedral dome from sea",
                         -3.788676,
                         37.767268
                   ]
+            },
+            {
+                  "name": "Alberca de la Vereda",
+                  "text": "Ein kleines Gewässer bei Jaén, das eine ruhige Naturkulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.759528,
+                        37.704212
+                  ]
+            },
+            {
+                  "name": "Abrevadero de la Casería de San Cristóbal",
+                  "text": "Ein historischer Ort bei Jaén, der heute ein ruhiger Ruhepunkt in der Landschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.794213,
+                        37.750294
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Ein lebhafter Freizeitpark in Jaén mit vielen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -3.777364,
+                        37.791451
+                  ]
+            },
+            {
+                  "name": "Playroom",
+                  "text": "Ein Indoor-Spielbereich in Jaén, der wetterunabhängigen Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.777723,
+                        37.790546
+                  ]
+            },
+            {
+                  "name": "Patio de Educación Infantil",
+                  "text": "Ein sicherer Spielbereich in Jaén, der speziell für jüngere Kinder gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        -3.783784,
+                        37.785596
+                  ]
             }
       ],
       "hu": [
@@ -36699,6 +43404,51 @@ imageHint: "Cadiz Cathedral dome from sea",
                   "coords": [
                         -3.788676,
                         37.767268
+                  ]
+            },
+            {
+                  "name": "Alberca de la Vereda",
+                  "text": "Egy kis vízfelület Jaén közelében, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -3.759528,
+                        37.704212
+                  ]
+            },
+            {
+                  "name": "Abrevadero de la Casería de San Cristóbal",
+                  "text": "Történelmi hely Jaén közelében, amely ma csendes pihenőhely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -3.794213,
+                        37.750294
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Vidám szabadidőpark Jaénben, számos látnivalóval a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.777364,
+                        37.791451
+                  ]
+            },
+            {
+                  "name": "Playroom",
+                  "text": "Fedett játszóhely Jaénben, amely időjárástól független szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        -3.777723,
+                        37.790546
+                  ]
+            },
+            {
+                  "name": "Patio de Educación Infantil",
+                  "text": "Biztonságos játszórész Jaénben, amelyet kifejezetten kisgyermekek számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        -3.783784,
+                        37.785596
                   ]
             }
       ],
@@ -36837,6 +43587,51 @@ imageHint: "Cadiz Cathedral dome from sea",
                         -3.788676,
                         37.767268
                   ]
+            },
+            {
+                  "name": "Alberca de la Vereda",
+                  "text": "O mică acumulare de apă lângă Jaén, oferind un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -3.759528,
+                        37.704212
+                  ]
+            },
+            {
+                  "name": "Abrevadero de la Casería de San Cristóbal",
+                  "text": "Un loc istoric lângă Jaén, care astăzi este un punct de liniște în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -3.794213,
+                        37.750294
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "Un parc de distracții plin de viață în Jaén, cu multe atracții pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.777364,
+                        37.791451
+                  ]
+            },
+            {
+                  "name": "Playroom",
+                  "text": "O zonă de joacă interioară în Jaén, oferind distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        -3.777723,
+                        37.790546
+                  ]
+            },
+            {
+                  "name": "Patio de Educación Infantil",
+                  "text": "O zonă de joacă sigură în Jaén, concepută special pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        -3.783784,
+                        37.785596
+                  ]
             }
       ],
       "en": [
@@ -36974,6 +43769,51 @@ imageHint: "Cadiz Cathedral dome from sea",
                         -3.788676,
                         37.767268
                   ]
+            },
+            {
+                  "name": "Alberca de la Vereda",
+                  "text": "A small body of water near Jaén offering a peaceful natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -3.759528,
+                        37.704212
+                  ]
+            },
+            {
+                  "name": "Abrevadero de la Casería de San Cristóbal",
+                  "text": "A historic spot near Jaén that serves as a quiet resting point in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        -3.794213,
+                        37.750294
+                  ]
+            },
+            {
+                  "name": "Sould Park",
+                  "text": "A lively amusement park in Jaén featuring many attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.777364,
+                        37.791451
+                  ]
+            },
+            {
+                  "name": "Playroom",
+                  "text": "An indoor play area in Jaén offering weather-independent fun for children.",
+                  "category": "family",
+                  "coords": [
+                        -3.777723,
+                        37.790546
+                  ]
+            },
+            {
+                  "name": "Patio de Educación Infantil",
+                  "text": "A safe play area in Jaén specifically designed for younger children.",
+                  "category": "family",
+                  "coords": [
+                        -3.783784,
+                        37.785596
+                  ]
             }
       ]
 },
@@ -37104,6 +43944,150 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
                         1.114084,
                         41.151886
                   ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "Ein Wasserbereich in Reus, der zur Entspannung und zum Genießen der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Bassa del Poble",
+                  "text": "Dieser Teich in Reus bietet eine ruhige Atmosphäre für kurze Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.12609,
+                        41.221497
+                  ]
+            },
+            {
+                  "name": "Bassa del Bacallà",
+                  "text": "Ein kleines Gewässer in Reus, ideal zum Beobachten der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.088129,
+                        41.167122
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Ein Unterhaltungszentrum in Reus mit verschiedenen Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.106061,
+                        41.163174
+                  ]
+            },
+            {
+                  "name": "Parc De Mas Abelló",
+                  "text": "Ein öffentlicher Spielplatz in Reus, der zum Spielen und Verweilen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        1.118508,
+                        41.150225
+                  ]
+            },
+            {
+                  "name": "Divercentre",
+                  "text": "Dieser Spielbereich in Reus bietet abwechslungsreiche Möglichkeiten für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.103772,
+                        41.160523
+                  ]
+            },
+            {
+                  "name": "Territori VR",
+                  "text": "Ein VR-Unterhaltungszentrum in Reus, das moderne Erlebnisse für Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.118506,
+                        41.155576
+                  ]
+            },
+            {
+                  "name": "JOY Espai d’OCI",
+                  "text": "Ein Freizeitraum in Reus, der für das Spielen und die Unterhaltung von Kindern konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        1.124085,
+                        41.161621
+                  ]
+            },
+            {
+                  "name": "Happy Moments",
+                  "text": "Dieser Spielplatz in Reus bietet eine fröhliche Umgebung für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        1.09726,
+                        41.148178
+                  ]
+            },
+            {
+                  "name": "el Galliner",
+                  "text": "Ein lokaler Spielbereich in Reus mit verschiedenen Elementen für das tägliche Spiel.",
+                  "category": "family",
+                  "coords": [
+                        1.07974,
+                        41.158419
+                  ]
+            },
+            {
+                  "name": "Mas Iglesias",
+                  "text": "Ein Spielplatz in einem Park von Reus, ideal für einen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.115176,
+                        41.146182
+                  ]
+            },
+            {
+                  "name": "Glorieta de Jaume II",
+                  "text": "Dieser Spielplatz in Reus bietet einen Treffpunkt für Familien im Freien.",
+                  "category": "family",
+                  "coords": [
+                        1.13073,
+                        41.14936
+                  ]
+            },
+            {
+                  "name": "DIADEGRANJA",
+                  "text": "Dieser Spielbereich in Reus bietet eine aktive Umgebung für den Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        1.137141,
+                        41.157561
+                  ]
+            },
+            {
+                  "name": "Salting",
+                  "text": "Ein Spielplatz in Reus, der speziell für körperliche Aktivität und Spaß ausgelegt ist.",
+                  "category": "family",
+                  "coords": [
+                        1.093656,
+                        41.157332
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Carles Macaya Prats",
+                  "text": "Dieser Spielplatz in Reus bietet verschiedene Einrichtungen für Kinder in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        1.117919,
+                        41.132334
+                  ]
+            },
+            {
+                  "name": "Parc infantil del Camí dels Morts",
+                  "text": "Ein kinderfreundlicher Spielplatz in Reus, ideal für tägliche Erholung.",
+                  "category": "family",
+                  "coords": [
+                        1.095413,
+                        41.144813
+                  ]
             }
       ],
       "hu": [
@@ -37186,6 +44170,150 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
                   "coords": [
                         1.114084,
                         41.151886
+                  ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "Egy vizes terület Reusban, amely alkalmas a pihenésre és a környezet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Bassa del Poble",
+                  "text": "Ez a Reusban található tó nyugodt légkört biztosít rövid természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.12609,
+                        41.221497
+                  ]
+            },
+            {
+                  "name": "Bassa del Bacallà",
+                  "text": "Egy kis vízfelület Reusban, amely ideális a helyi táj megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.088129,
+                        41.167122
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Egy szórakoztató központ Reusban, különféle játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        1.106061,
+                        41.163174
+                  ]
+            },
+            {
+                  "name": "Parc De Mas Abelló",
+                  "text": "Egy nyilvános játszótér Reusban, amely szabadtéri játékra és pihenésre hív.",
+                  "category": "family",
+                  "coords": [
+                        1.118508,
+                        41.150225
+                  ]
+            },
+            {
+                  "name": "Divercentre",
+                  "text": "Ez a Reusban található játszótér változatos lehetőségeket kínál a gyerekek szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        1.103772,
+                        41.160523
+                  ]
+            },
+            {
+                  "name": "Territori VR",
+                  "text": "Egy VR szórakoztató központ Reusban, amely modern élményeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        1.118506,
+                        41.155576
+                  ]
+            },
+            {
+                  "name": "JOY Espai d’OCI",
+                  "text": "Egy reusi szabadidős tér, amelyet gyerekek játékára és szórakoztatására terveztek.",
+                  "category": "family",
+                  "coords": [
+                        1.124085,
+                        41.161621
+                  ]
+            },
+            {
+                  "name": "Happy Moments",
+                  "text": "Ez a Reusban található játszótér vidám környezetet biztosít a családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.09726,
+                        41.148178
+                  ]
+            },
+            {
+                  "name": "el Galliner",
+                  "text": "Egy helyi játszótér Reusban, különféle elemekkel a napi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.07974,
+                        41.158419
+                  ]
+            },
+            {
+                  "name": "Mas Iglesias",
+                  "text": "Egy játszótér Reus egyik parkjában, amely ideális egy gyermekes kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.115176,
+                        41.146182
+                  ]
+            },
+            {
+                  "name": "Glorieta de Jaume II",
+                  "text": "Ez a Reusban található játszótér szabadtéri találkozóhelyet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.13073,
+                        41.14936
+                  ]
+            },
+            {
+                  "name": "DIADEGRANJA",
+                  "text": "Ez a Reusban található játszótér aktív környezetet biztosít a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.137141,
+                        41.157561
+                  ]
+            },
+            {
+                  "name": "Salting",
+                  "text": "Egy játszótér Reusban, amelyet kifejezetten a fizikai aktivitásra és szórakozásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        1.093656,
+                        41.157332
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Carles Macaya Prats",
+                  "text": "Ez a Reusban található játszótér különféle létesítményeket kínál a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.117919,
+                        41.132334
+                  ]
+            },
+            {
+                  "name": "Parc infantil del Camí dels Morts",
+                  "text": "Egy gyerekbarát játszótér Reusban, amely ideális a napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.095413,
+                        41.144813
                   ]
             }
       ],
@@ -37270,6 +44398,150 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
                         1.114084,
                         41.151886
                   ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "O zonă cu apă în Reus, potrivită pentru relaxare și pentru a te bucura de împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Bassa del Poble",
+                  "text": "Acest iaz din Reus oferă o atmosferă liniștită pentru scurte plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.12609,
+                        41.221497
+                  ]
+            },
+            {
+                  "name": "Bassa del Bacallà",
+                  "text": "Un mic corp de apă în Reus, ideal pentru a observa peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        1.088129,
+                        41.167122
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Un centru de divertisment în Reus cu diverse jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.106061,
+                        41.163174
+                  ]
+            },
+            {
+                  "name": "Parc De Mas Abelló",
+                  "text": "Un loc de joacă public în Reus, care invită la joacă și relaxare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        1.118508,
+                        41.150225
+                  ]
+            },
+            {
+                  "name": "Divercentre",
+                  "text": "Această zonă de joacă din Reus oferă diverse oportunități pentru activitățile de petrecere a timpului liber ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.103772,
+                        41.160523
+                  ]
+            },
+            {
+                  "name": "Territori VR",
+                  "text": "Un centru de divertisment VR în Reus, care oferă experiențe moderne vizitatorilor.",
+                  "category": "family",
+                  "coords": [
+                        1.118506,
+                        41.155576
+                  ]
+            },
+            {
+                  "name": "JOY Espai d’OCI",
+                  "text": "Un spațiu de agrement în Reus, conceput pentru joaca și divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.124085,
+                        41.161621
+                  ]
+            },
+            {
+                  "name": "Happy Moments",
+                  "text": "Acest loc de joacă din Reus oferă un mediu vesel pentru vizitele în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.09726,
+                        41.148178
+                  ]
+            },
+            {
+                  "name": "el Galliner",
+                  "text": "O zonă de joacă locală în Reus, cu diverse elemente pentru joaca zilnică.",
+                  "category": "family",
+                  "coords": [
+                        1.07974,
+                        41.158419
+                  ]
+            },
+            {
+                  "name": "Mas Iglesias",
+                  "text": "Un loc de joacă într-un parc din Reus, ideal pentru o ieșire cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        1.115176,
+                        41.146182
+                  ]
+            },
+            {
+                  "name": "Glorieta de Jaume II",
+                  "text": "Acest loc de joacă din Reus oferă un punct de întâlnire în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.13073,
+                        41.14936
+                  ]
+            },
+            {
+                  "name": "DIADEGRANJA",
+                  "text": "Această zonă de joacă din Reus oferă un mediu activ pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.137141,
+                        41.157561
+                  ]
+            },
+            {
+                  "name": "Salting",
+                  "text": "Un loc de joacă în Reus, conceput special pentru activitate fizică și distracție.",
+                  "category": "family",
+                  "coords": [
+                        1.093656,
+                        41.157332
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Carles Macaya Prats",
+                  "text": "Acest loc de joacă din Reus oferă diverse facilități pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        1.117919,
+                        41.132334
+                  ]
+            },
+            {
+                  "name": "Parc infantil del Camí dels Morts",
+                  "text": "Un loc de joacă prietenos pentru copii în Reus, ideal pentru recreerea zilnică.",
+                  "category": "family",
+                  "coords": [
+                        1.095413,
+                        41.144813
+                  ]
             }
       ],
       "en": [
@@ -37352,6 +44624,150 @@ imageHint: "Jaen Cathedral and Santa Catalina castle",
                   "coords": [
                         1.114084,
                         41.151886
+                  ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "A water area in Reus suitable for relaxation and enjoying the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Bassa del Poble",
+                  "text": "This pond in Reus offers a quiet atmosphere for short nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.12609,
+                        41.221497
+                  ]
+            },
+            {
+                  "name": "Bassa del Bacallà",
+                  "text": "A small body of water in Reus, ideal for observing the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.088129,
+                        41.167122
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "An entertainment center in Reus with various games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.106061,
+                        41.163174
+                  ]
+            },
+            {
+                  "name": "Parc De Mas Abelló",
+                  "text": "A public playground in Reus that invites outdoor play and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        1.118508,
+                        41.150225
+                  ]
+            },
+            {
+                  "name": "Divercentre",
+                  "text": "This play area in Reus offers varied opportunities for children's leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        1.103772,
+                        41.160523
+                  ]
+            },
+            {
+                  "name": "Territori VR",
+                  "text": "A VR entertainment center in Reus offering modern experiences for visitors.",
+                  "category": "family",
+                  "coords": [
+                        1.118506,
+                        41.155576
+                  ]
+            },
+            {
+                  "name": "JOY Espai d’OCI",
+                  "text": "A leisure space in Reus designed for children's play and entertainment.",
+                  "category": "family",
+                  "coords": [
+                        1.124085,
+                        41.161621
+                  ]
+            },
+            {
+                  "name": "Happy Moments",
+                  "text": "This playground in Reus provides a cheerful environment for family visits.",
+                  "category": "family",
+                  "coords": [
+                        1.09726,
+                        41.148178
+                  ]
+            },
+            {
+                  "name": "el Galliner",
+                  "text": "A local play area in Reus with various elements for daily play.",
+                  "category": "family",
+                  "coords": [
+                        1.07974,
+                        41.158419
+                  ]
+            },
+            {
+                  "name": "Mas Iglesias",
+                  "text": "A playground in a park of Reus, ideal for an outing with children.",
+                  "category": "family",
+                  "coords": [
+                        1.115176,
+                        41.146182
+                  ]
+            },
+            {
+                  "name": "Glorieta de Jaume II",
+                  "text": "This playground in Reus offers an outdoor meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        1.13073,
+                        41.14936
+                  ]
+            },
+            {
+                  "name": "DIADEGRANJA",
+                  "text": "This play area in Reus provides an active environment for family fun.",
+                  "category": "family",
+                  "coords": [
+                        1.137141,
+                        41.157561
+                  ]
+            },
+            {
+                  "name": "Salting",
+                  "text": "A playground in Reus designed especially for physical activity and fun.",
+                  "category": "family",
+                  "coords": [
+                        1.093656,
+                        41.157332
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Carles Macaya Prats",
+                  "text": "This playground in Reus offers various facilities for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        1.117919,
+                        41.132334
+                  ]
+            },
+            {
+                  "name": "Parc infantil del Camí dels Morts",
+                  "text": "A child-friendly playground in Reus, ideal for daily recreation.",
+                  "category": "family",
+                  "coords": [
+                        1.095413,
+                        41.144813
                   ]
             }
       ]
@@ -37519,6 +44935,51 @@ imageHint: "Gaudi Centre Reus facade",
                         -7.863608,
                         42.338727
                   ]
+            },
+            {
+                  "name": "Encoro de Cachamuíña",
+                  "text": "Ein See in Ourense, ideal für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        -7.798717,
+                        42.332676
+                  ]
+            },
+            {
+                  "name": "Encoro de Castadón",
+                  "text": "Dieser See in Ourense bietet eine ruhige Umgebung für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -7.826047,
+                        42.345331
+                  ]
+            },
+            {
+                  "name": "Parque de Camiño Caneiro",
+                  "text": "Ein familienfreundlicher Spielplatz in Ourense für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        -7.856432,
+                        42.342748
+                  ]
+            },
+            {
+                  "name": "Pistas de chave",
+                  "text": "Ein Spielbereich in Ourense, der Platz für Aktivitäten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.859565,
+                        42.320701
+                  ]
+            },
+            {
+                  "name": "Pitch&Putt Ourense",
+                  "text": "Eine Minigolfanlage in Ourense, die Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.873255,
+                        42.324287
+                  ]
             }
       ],
       "hu": [
@@ -37637,6 +45098,51 @@ imageHint: "Gaudi Centre Reus facade",
                   "coords": [
                         -7.863608,
                         42.338727
+                  ]
+            },
+            {
+                  "name": "Encoro de Cachamuíña",
+                  "text": "Egy tó Ourense közelében, amely pihentető környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.798717,
+                        42.332676
+                  ]
+            },
+            {
+                  "name": "Encoro de Castadón",
+                  "text": "Ez az Ourense-i tó nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -7.826047,
+                        42.345331
+                  ]
+            },
+            {
+                  "name": "Parque de Camiño Caneiro",
+                  "text": "Egy családbarát játszótér Ourense városában a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.856432,
+                        42.342748
+                  ]
+            },
+            {
+                  "name": "Pistas de chave",
+                  "text": "Egy játszótér Ourense városában, amely szabadtéri tevékenységekre alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        -7.859565,
+                        42.320701
+                  ]
+            },
+            {
+                  "name": "Pitch&Putt Ourense",
+                  "text": "Egy minigolfpálya Ourense városában, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -7.873255,
+                        42.324287
                   ]
             }
       ],
@@ -37757,6 +45263,51 @@ imageHint: "Gaudi Centre Reus facade",
                         -7.863608,
                         42.338727
                   ]
+            },
+            {
+                  "name": "Encoro de Cachamuíña",
+                  "text": "Un lac în Ourense, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.798717,
+                        42.332676
+                  ]
+            },
+            {
+                  "name": "Encoro de Castadón",
+                  "text": "Acest lac din Ourense oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -7.826047,
+                        42.345331
+                  ]
+            },
+            {
+                  "name": "Parque de Camiño Caneiro",
+                  "text": "Un loc de joacă pentru familii în Ourense, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -7.856432,
+                        42.342748
+                  ]
+            },
+            {
+                  "name": "Pistas de chave",
+                  "text": "O zonă de joacă în Ourense, oferind spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.859565,
+                        42.320701
+                  ]
+            },
+            {
+                  "name": "Pitch&Putt Ourense",
+                  "text": "Un teren de minigolf în Ourense, oferind divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -7.873255,
+                        42.324287
+                  ]
             }
       ],
       "en": [
@@ -37875,6 +45426,51 @@ imageHint: "Gaudi Centre Reus facade",
                   "coords": [
                         -7.863608,
                         42.338727
+                  ]
+            },
+            {
+                  "name": "Encoro de Cachamuíña",
+                  "text": "A lake in Ourense, ideal for walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -7.798717,
+                        42.332676
+                  ]
+            },
+            {
+                  "name": "Encoro de Castadón",
+                  "text": "This lake in Ourense provides a peaceful setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.826047,
+                        42.345331
+                  ]
+            },
+            {
+                  "name": "Parque de Camiño Caneiro",
+                  "text": "A family-friendly playground in Ourense for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        -7.856432,
+                        42.342748
+                  ]
+            },
+            {
+                  "name": "Pistas de chave",
+                  "text": "A play area in Ourense providing space for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -7.859565,
+                        42.320701
+                  ]
+            },
+            {
+                  "name": "Pitch&Putt Ourense",
+                  "text": "A miniature golf course in Ourense offering entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -7.873255,
+                        42.324287
                   ]
             }
       ]
@@ -38159,6 +45755,105 @@ imageHint: "As Burgas thermal springs Ourense",
                         1.237025,
                         41.123084
                   ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Ein kleiner See in Tarragona, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "Ein zentraler Spielplatz in Tarragona, ideal für eine Pause während eines Stadtbummels.",
+                  "category": "family",
+                  "coords": [
+                        1.234941,
+                        41.122645
+                  ]
+            },
+            {
+                  "name": "Queviures Events",
+                  "text": "Ein Spielbereich in Tarragona, der oft für familiäre Anlässe genutzt wird.",
+                  "category": "family",
+                  "coords": [
+                        1.244203,
+                        41.115023
+                  ]
+            },
+            {
+                  "name": "Pam i Pipa",
+                  "text": "Ein freundlicher Kinderspielplatz in Tarragona mit abwechslungsreichen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        1.21548,
+                        41.13409
+                  ]
+            },
+            {
+                  "name": "Salely’s Caffe",
+                  "text": "Ein kinderfreundlicher Ort in Tarragona, der Spiel und Entspannung verbindet.",
+                  "category": "family",
+                  "coords": [
+                        1.27196,
+                        41.120968
+                  ]
+            },
+            {
+                  "name": "El Teu Racó",
+                  "text": "Ein gemütlicher Spielplatz in Tarragona, an dem sich Kinder wohlfühlen können.",
+                  "category": "family",
+                  "coords": [
+                        1.247864,
+                        41.119711
+                  ]
+            },
+            {
+                  "name": "Jump Space",
+                  "text": "Ein dynamischer Spielbereich in Tarragona für Kinder, die gerne aktiv sind.",
+                  "category": "family",
+                  "coords": [
+                        1.230462,
+                        41.11338
+                  ]
+            },
+            {
+                  "name": "Pati P-4 i P-5",
+                  "text": "Ein speziell für Kindergartenkinder gestalteter Spielbereich in Tarragona.",
+                  "category": "family",
+                  "coords": [
+                        1.23771,
+                        41.121411
+                  ]
+            },
+            {
+                  "name": "Parc infantil Sant Benilde",
+                  "text": "Ein lokaler Spielplatz in Tarragona, der Kindern Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.214523,
+                        41.119865
+                  ]
+            },
+            {
+                  "name": "Plaça de Josep Martia Salvadó i Urpí",
+                  "text": "Ein öffentlicher Spielplatz auf einem schönen Platz in Tarragona.",
+                  "category": "family",
+                  "coords": [
+                        1.251723,
+                        41.12007
+                  ]
+            },
+            {
+                  "name": "Parc Infantil Los Naranjos",
+                  "text": "Ein angenehmer Spielplatz in Tarragona, umgeben von einer freundlichen Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        1.214297,
+                        41.117542
+                  ]
             }
       ],
       "hu": [
@@ -38394,6 +46089,105 @@ imageHint: "As Burgas thermal springs Ourense",
                   "coords": [
                         1.237025,
                         41.123084
+                  ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Egy kis tó Tarragonában, amely pihentető vízparti pillanatokra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "Központi játszótér Tarragonában, ideális egy szünetre a városi séta során.",
+                  "category": "family",
+                  "coords": [
+                        1.234941,
+                        41.122645
+                  ]
+            },
+            {
+                  "name": "Queviures Events",
+                  "text": "Játszórész Tarragonában, amelyet gyakran használnak családi eseményekhez.",
+                  "category": "family",
+                  "coords": [
+                        1.244203,
+                        41.115023
+                  ]
+            },
+            {
+                  "name": "Pam i Pipa",
+                  "text": "Barátságos játszótér Tarragonában, változatos játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        1.21548,
+                        41.13409
+                  ]
+            },
+            {
+                  "name": "Salely’s Caffe",
+                  "text": "Gyerekbarát hely Tarragonában, amely ötvözi a játékot és a kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        1.27196,
+                        41.120968
+                  ]
+            },
+            {
+                  "name": "El Teu Racó",
+                  "text": "Hangulatos játszótér Tarragonában, ahol a gyerekek jól érezhetik magukat.",
+                  "category": "family",
+                  "coords": [
+                        1.247864,
+                        41.119711
+                  ]
+            },
+            {
+                  "name": "Jump Space",
+                  "text": "Dinamikus játszórész Tarragonában az aktív gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        1.230462,
+                        41.11338
+                  ]
+            },
+            {
+                  "name": "Pati P-4 i P-5",
+                  "text": "Kifejezetten óvodásoknak kialakított játszórész Tarragonában.",
+                  "category": "family",
+                  "coords": [
+                        1.23771,
+                        41.121411
+                  ]
+            },
+            {
+                  "name": "Parc infantil Sant Benilde",
+                  "text": "Helyi játszótér Tarragonában, amely teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.214523,
+                        41.119865
+                  ]
+            },
+            {
+                  "name": "Plaça de Josep Martia Salvadó i Urpí",
+                  "text": "Nyilvános játszótér egy szép téren Tarragonában.",
+                  "category": "family",
+                  "coords": [
+                        1.251723,
+                        41.12007
+                  ]
+            },
+            {
+                  "name": "Parc Infantil Los Naranjos",
+                  "text": "Kellemes játszótér Tarragonában, barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        1.214297,
+                        41.117542
                   ]
             }
       ],
@@ -38631,6 +46425,105 @@ imageHint: "As Burgas thermal springs Ourense",
                         1.237025,
                         41.123084
                   ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Un lac mic în Tarragona, care invită la momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "Un loc de joacă central în Tarragona, ideal pentru o pauză în timpul unei plimbări prin oraș.",
+                  "category": "family",
+                  "coords": [
+                        1.234941,
+                        41.122645
+                  ]
+            },
+            {
+                  "name": "Queviures Events",
+                  "text": "O zonă de joacă în Tarragona, utilizată adesea pentru evenimente de familie.",
+                  "category": "family",
+                  "coords": [
+                        1.244203,
+                        41.115023
+                  ]
+            },
+            {
+                  "name": "Pam i Pipa",
+                  "text": "Un loc de joacă prietenos în Tarragona, dotat cu diverse echipamente.",
+                  "category": "family",
+                  "coords": [
+                        1.21548,
+                        41.13409
+                  ]
+            },
+            {
+                  "name": "Salely’s Caffe",
+                  "text": "Un loc prietenos pentru copii în Tarragona, care îmbină joaca cu relaxarea.",
+                  "category": "family",
+                  "coords": [
+                        1.27196,
+                        41.120968
+                  ]
+            },
+            {
+                  "name": "El Teu Racó",
+                  "text": "Un loc de joacă primitor în Tarragona, unde copiii se pot simți în largul lor.",
+                  "category": "family",
+                  "coords": [
+                        1.247864,
+                        41.119711
+                  ]
+            },
+            {
+                  "name": "Jump Space",
+                  "text": "O zonă de joacă dinamică în Tarragona pentru copiii cărora le place să fie activi.",
+                  "category": "family",
+                  "coords": [
+                        1.230462,
+                        41.11338
+                  ]
+            },
+            {
+                  "name": "Pati P-4 i P-5",
+                  "text": "O zonă de joacă din Tarragona, concepută special pentru copiii de vârstă preșcolară.",
+                  "category": "family",
+                  "coords": [
+                        1.23771,
+                        41.121411
+                  ]
+            },
+            {
+                  "name": "Parc infantil Sant Benilde",
+                  "text": "Un loc de joacă local în Tarragona, oferind spațiu copiilor pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        1.214523,
+                        41.119865
+                  ]
+            },
+            {
+                  "name": "Plaça de Josep Martia Salvadó i Urpí",
+                  "text": "Un loc de joacă public situat într-o piață frumoasă din Tarragona.",
+                  "category": "family",
+                  "coords": [
+                        1.251723,
+                        41.12007
+                  ]
+            },
+            {
+                  "name": "Parc Infantil Los Naranjos",
+                  "text": "Un loc de joacă plăcut în Tarragona, situat într-un cartier primitor.",
+                  "category": "family",
+                  "coords": [
+                        1.214297,
+                        41.117542
+                  ]
             }
       ],
       "en": [
@@ -38867,6 +46760,105 @@ imageHint: "As Burgas thermal springs Ourense",
                         1.237025,
                         41.123084
                   ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "A small lake in Tarragona inviting visitors to enjoy relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "A central playground in Tarragona, perfect for a break during a city walk.",
+                  "category": "family",
+                  "coords": [
+                        1.234941,
+                        41.122645
+                  ]
+            },
+            {
+                  "name": "Queviures Events",
+                  "text": "A play area in Tarragona often used for family events and celebrations.",
+                  "category": "family",
+                  "coords": [
+                        1.244203,
+                        41.115023
+                  ]
+            },
+            {
+                  "name": "Pam i Pipa",
+                  "text": "A friendly children's playground in Tarragona featuring a variety of equipment.",
+                  "category": "family",
+                  "coords": [
+                        1.21548,
+                        41.13409
+                  ]
+            },
+            {
+                  "name": "Salely’s Caffe",
+                  "text": "A child-friendly spot in Tarragona that combines play with relaxation for families.",
+                  "category": "family",
+                  "coords": [
+                        1.27196,
+                        41.120968
+                  ]
+            },
+            {
+                  "name": "El Teu Racó",
+                  "text": "A cozy playground in Tarragona where children can feel comfortable and have fun.",
+                  "category": "family",
+                  "coords": [
+                        1.247864,
+                        41.119711
+                  ]
+            },
+            {
+                  "name": "Jump Space",
+                  "text": "A dynamic play area in Tarragona for children who love being active and moving.",
+                  "category": "family",
+                  "coords": [
+                        1.230462,
+                        41.11338
+                  ]
+            },
+            {
+                  "name": "Pati P-4 i P-5",
+                  "text": "A play area in Tarragona specifically designed for preschool-aged children.",
+                  "category": "family",
+                  "coords": [
+                        1.23771,
+                        41.121411
+                  ]
+            },
+            {
+                  "name": "Parc infantil Sant Benilde",
+                  "text": "A local playground in Tarragona providing space for children to play and run around.",
+                  "category": "family",
+                  "coords": [
+                        1.214523,
+                        41.119865
+                  ]
+            },
+            {
+                  "name": "Plaça de Josep Martia Salvadó i Urpí",
+                  "text": "A public playground located in a lovely square in Tarragona for families.",
+                  "category": "family",
+                  "coords": [
+                        1.251723,
+                        41.12007
+                  ]
+            },
+            {
+                  "name": "Parc Infantil Los Naranjos",
+                  "text": "A pleasant playground in Tarragona set within a friendly neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        1.214297,
+                        41.117542
+                  ]
             }
       ]
 },
@@ -38916,7 +46908,196 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
     image: "/poi-images/spain-tarragona-cities-v2.webp",
 },
   {
-    id: "spain-girona-cities-v2",
+    id: "spain-girona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaotik World",
+                  "text": "Ein Spiele- und Unterhaltungszentrum in Girona für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        2.788332,
+                        41.988837
+                  ]
+            },
+            {
+                  "name": "Jardí de la Infància",
+                  "text": "Dieser zentrale Spielplatz in Girona bietet eine angenehme Atmosphäre für Familien.",
+                  "category": "family",
+                  "coords": [
+                        2.824168,
+                        41.980854
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Ein Minigolfplatz in Girona, der Unterhaltung und Spaß für Gruppen und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.833482,
+                        41.994148
+                  ]
+            },
+            {
+                  "name": "Luas Park",
+                  "text": "Ein moderner Spielplatz in Girona mit sicheren Geräten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.808462,
+                        41.954177
+                  ]
+            },
+            {
+                  "name": "Plaça Josep Ametller i Viñas",
+                  "text": "Dieser Spielplatz auf einem öffentlichen Platz in Girona ist ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        2.824005,
+                        41.973065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaotik World",
+                  "text": "Egy játék- és szórakoztató központ Gironában, minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        2.788332,
+                        41.988837
+                  ]
+            },
+            {
+                  "name": "Jardí de la Infància",
+                  "text": "Ez a Girona központjában található játszótér kellemes hangulatot biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.824168,
+                        41.980854
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Egy minigolfpálya Gironában, amely szórakozást kínál csoportok és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        2.833482,
+                        41.994148
+                  ]
+            },
+            {
+                  "name": "Luas Park",
+                  "text": "Egy modern játszótér Gironában, biztonságos eszközökkel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        2.808462,
+                        41.954177
+                  ]
+            },
+            {
+                  "name": "Plaça Josep Ametller i Viñas",
+                  "text": "Ez a Girona egyik nyilvános terén található játszótér ideális egy pihenőre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        2.824005,
+                        41.973065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaotik World",
+                  "text": "Un centru de jocuri și divertisment în Girona pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        2.788332,
+                        41.988837
+                  ]
+            },
+            {
+                  "name": "Jardí de la Infància",
+                  "text": "Acest loc de joacă central din Girona oferă o atmosferă plăcută pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        2.824168,
+                        41.980854
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Un teren de minigolf în Girona, care oferă divertisment și distracție pentru grupuri și familii.",
+                  "category": "family",
+                  "coords": [
+                        2.833482,
+                        41.994148
+                  ]
+            },
+            {
+                  "name": "Luas Park",
+                  "text": "Un loc de joacă modern în Girona, cu echipamente sigure pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.808462,
+                        41.954177
+                  ]
+            },
+            {
+                  "name": "Plaça Josep Ametller i Viñas",
+                  "text": "Acest loc de joacă dintr-o piață publică din Girona este ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        2.824005,
+                        41.973065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaotik World",
+                  "text": "A gaming and entertainment center in Girona for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        2.788332,
+                        41.988837
+                  ]
+            },
+            {
+                  "name": "Jardí de la Infància",
+                  "text": "This central playground in Girona provides a pleasant atmosphere for families.",
+                  "category": "family",
+                  "coords": [
+                        2.824168,
+                        41.980854
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "A miniature golf course in Girona offering entertainment and fun for groups and families.",
+                  "category": "family",
+                  "coords": [
+                        2.833482,
+                        41.994148
+                  ]
+            },
+            {
+                  "name": "Luas Park",
+                  "text": "A modern playground in Girona with safe equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        2.808462,
+                        41.954177
+                  ]
+            },
+            {
+                  "name": "Plaça Josep Ametller i Viñas",
+                  "text": "This playground in a public square in Girona is ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        2.824005,
+                        41.973065
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "city",
     name: { de: "Girona", hu: "Girona", ro: "Girona", en: "Girona"},
@@ -38962,7 +47143,196 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
     }
   },
   {
-    id: "spain-caceres-cities-v2",
+    id: "spain-caceres-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantano de Guadiloba",
+                  "text": "Ein See bei Cáceres, der zu entspannten Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.28075,
+                        39.483959
+                  ]
+            },
+            {
+                  "name": "Aguas Vivas",
+                  "text": "Ein Spielplatz in Cáceres, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -6.380125,
+                        39.478841
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Casa Plata",
+                  "text": "Diese Spielfläche in Cáceres bietet verschiedene Geräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -6.375201,
+                        39.45008
+                  ]
+            },
+            {
+                  "name": "Parque infantil San Antonio",
+                  "text": "Ein lokaler Spielplatz in Cáceres für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -6.382687,
+                        39.46076
+                  ]
+            },
+            {
+                  "name": "Magdalena González",
+                  "text": "Ein Kinderspielplatz in Cáceres mit Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        -6.383428,
+                        39.474434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantano de Guadiloba",
+                  "text": "Egy tó Cáceres közelében, amely kellemes sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -6.28075,
+                        39.483959
+                  ]
+            },
+            {
+                  "name": "Aguas Vivas",
+                  "text": "Egy játszótér Cáceres városában, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -6.380125,
+                        39.478841
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Casa Plata",
+                  "text": "Ez a Cáceres-i játszótér különféle játékokat kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -6.375201,
+                        39.45008
+                  ]
+            },
+            {
+                  "name": "Parque infantil San Antonio",
+                  "text": "Egy helyi játszótér Cáceres városában a mindennapi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -6.382687,
+                        39.46076
+                  ]
+            },
+            {
+                  "name": "Magdalena González",
+                  "text": "Egy játszótér Cáceres városában, ahol a gyerekek kedvükre mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        -6.383428,
+                        39.474434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantano de Guadiloba",
+                  "text": "Un lac lângă Cáceres, invitând la plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.28075,
+                        39.483959
+                  ]
+            },
+            {
+                  "name": "Aguas Vivas",
+                  "text": "Un loc de joacă în Cáceres, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        -6.380125,
+                        39.478841
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Casa Plata",
+                  "text": "Acest loc de joacă din Cáceres oferă diverse echipamente pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.375201,
+                        39.45008
+                  ]
+            },
+            {
+                  "name": "Parque infantil San Antonio",
+                  "text": "Un loc de joacă local în Cáceres pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        -6.382687,
+                        39.46076
+                  ]
+            },
+            {
+                  "name": "Magdalena González",
+                  "text": "Un loc de joacă pentru copii în Cáceres, cu spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -6.383428,
+                        39.474434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pantano de Guadiloba",
+                  "text": "A lake near Cáceres inviting for relaxed walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -6.28075,
+                        39.483959
+                  ]
+            },
+            {
+                  "name": "Aguas Vivas",
+                  "text": "A playground in Cáceres where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        -6.380125,
+                        39.478841
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Casa Plata",
+                  "text": "This playground in Cáceres offers various equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -6.375201,
+                        39.45008
+                  ]
+            },
+            {
+                  "name": "Parque infantil San Antonio",
+                  "text": "A local playground in Cáceres for daily recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -6.382687,
+                        39.46076
+                  ]
+            },
+            {
+                  "name": "Magdalena González",
+                  "text": "A children's playground in Cáceres with space for active play.",
+                  "category": "family",
+                  "coords": [
+                        -6.383428,
+                        39.474434
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "city",
     name: { de: "Cáceres", hu: "Cáceres", ro: "Cáceres", en: "Cáceres"},
@@ -40513,6 +48883,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.130114,
                         40.954956
                   ]
+            },
+            {
+                  "name": "La Charcona",
+                  "text": "Dieses Gewässer in Segovia bietet einen natürlichen Rückzugsort für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        -4.058492,
+                        40.993611
+                  ]
+            },
+            {
+                  "name": "Poza artificial",
+                  "text": "Ein künstlich angelegtes Gewässer in Segovia, ideal für kurze Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -4.026778,
+                        40.979205
+                  ]
+            },
+            {
+                  "name": "Río Eresma",
+                  "text": "Ein Flussabschnitt in Segovia, der malerische Ausblicke und Möglichkeiten zum Wandern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.096056,
+                        40.946955
+                  ]
+            },
+            {
+                  "name": "Laguna de la Cantera de Hontoria",
+                  "text": "Eine Lagune in der Nähe von Segovia, bekannt für ihre ruhige Lage in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -4.11461,
+                        40.914292
+                  ]
+            },
+            {
+                  "name": "Embalse de los Batanes",
+                  "text": "Dieser Stausee in Segovia bietet eine friedliche Umgebung zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -4.103533,
+                        40.949438
+                  ]
+            },
+            {
+                  "name": "Embalse del Pontón Alto",
+                  "text": "Ein bedeutender Stausee bei Segovia, der sich hervorragend für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.028317,
+                        40.907404
+                  ]
+            },
+            {
+                  "name": "Área infantil San Marcos",
+                  "text": "Dieser Spielplatz in Segovia bietet einen unterhaltsamen Ort für Kinder in einer historischen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -4.133666,
+                        40.954341
+                  ]
             }
       ],
       "hu": [
@@ -40919,6 +49352,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.130114,
                         40.954956
+                  ]
+            },
+            {
+                  "name": "La Charcona",
+                  "text": "Ez a Segoviában található vízfelület természetes menedéket kínál a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -4.058492,
+                        40.993611
+                  ]
+            },
+            {
+                  "name": "Poza artificial",
+                  "text": "Egy mesterségesen kialakított vízfelület Segoviában, amely ideális rövid természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.026778,
+                        40.979205
+                  ]
+            },
+            {
+                  "name": "Río Eresma",
+                  "text": "Egy folyószakasz Segoviában, amely festői kilátást és túrázási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -4.096056,
+                        40.946955
+                  ]
+            },
+            {
+                  "name": "Laguna de la Cantera de Hontoria",
+                  "text": "Egy Segovia közeli lagúna, amely a tájban elfoglalt nyugodt elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.11461,
+                        40.914292
+                  ]
+            },
+            {
+                  "name": "Embalse de los Batanes",
+                  "text": "Ez a Segoviában található víztározó békés környezetet biztosít a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -4.103533,
+                        40.949438
+                  ]
+            },
+            {
+                  "name": "Embalse del Pontón Alto",
+                  "text": "Egy jelentős víztározó Segovia mellett, amely kiválóan alkalmas természeti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -4.028317,
+                        40.907404
+                  ]
+            },
+            {
+                  "name": "Área infantil San Marcos",
+                  "text": "Ez a Segoviában található játszótér szórakoztató helyet biztosít a gyerekeknek történelmi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -4.133666,
+                        40.954341
                   ]
             }
       ],
@@ -41327,6 +49823,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.130114,
                         40.954956
                   ]
+            },
+            {
+                  "name": "La Charcona",
+                  "text": "Acest corp de apă din Segovia oferă un refugiu natural pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -4.058492,
+                        40.993611
+                  ]
+            },
+            {
+                  "name": "Poza artificial",
+                  "text": "Un corp de apă artificial în Segovia, ideal pentru scurte observații ale naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -4.026778,
+                        40.979205
+                  ]
+            },
+            {
+                  "name": "Río Eresma",
+                  "text": "O secțiune de râu în Segovia, care oferă vederi pitorești și oportunități de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -4.096056,
+                        40.946955
+                  ]
+            },
+            {
+                  "name": "Laguna de la Cantera de Hontoria",
+                  "text": "O lagună lângă Segovia, cunoscută pentru locația sa liniștită în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -4.11461,
+                        40.914292
+                  ]
+            },
+            {
+                  "name": "Embalse de los Batanes",
+                  "text": "Acest rezervuar din Segovia oferă un mediu pașnic pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -4.103533,
+                        40.949438
+                  ]
+            },
+            {
+                  "name": "Embalse del Pontón Alto",
+                  "text": "Un rezervuar important lângă Segovia, excelent pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -4.028317,
+                        40.907404
+                  ]
+            },
+            {
+                  "name": "Área infantil San Marcos",
+                  "text": "Acest loc de joacă din Segovia oferă un spațiu distractiv pentru copii într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        -4.133666,
+                        40.954341
+                  ]
             }
       ],
       "en": [
@@ -41734,6 +50293,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.130114,
                         40.954956
                   ]
+            },
+            {
+                  "name": "La Charcona",
+                  "text": "This body of water in Segovia offers a natural retreat for those seeking recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -4.058492,
+                        40.993611
+                  ]
+            },
+            {
+                  "name": "Poza artificial",
+                  "text": "An artificial body of water in Segovia, ideal for short nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        -4.026778,
+                        40.979205
+                  ]
+            },
+            {
+                  "name": "Río Eresma",
+                  "text": "A river section in Segovia offering scenic views and walking opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        -4.096056,
+                        40.946955
+                  ]
+            },
+            {
+                  "name": "Laguna de la Cantera de Hontoria",
+                  "text": "A lagoon near Segovia, known for its quiet location in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -4.11461,
+                        40.914292
+                  ]
+            },
+            {
+                  "name": "Embalse de los Batanes",
+                  "text": "This reservoir in Segovia offers a peaceful environment for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -4.103533,
+                        40.949438
+                  ]
+            },
+            {
+                  "name": "Embalse del Pontón Alto",
+                  "text": "A significant reservoir near Segovia, excellent for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -4.028317,
+                        40.907404
+                  ]
+            },
+            {
+                  "name": "Área infantil San Marcos",
+                  "text": "This playground in Segovia provides a fun spot for children in a historical setting.",
+                  "category": "family",
+                  "coords": [
+                        -4.133666,
+                        40.954341
+                  ]
             }
       ]
 },
@@ -41944,6 +50566,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -7.576034,
                         43.023683
                   ]
+            },
+            {
+                  "name": "Presa da Fábrica da Luz",
+                  "text": "Ein See in Lugo, der eine schöne Kulisse für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.572846,
+                        43.002407
+                  ]
+            },
+            {
+                  "name": "Estrella Park",
+                  "text": "Eine Spielhalle in Lugo mit abwechslungsreicher Unterhaltung für Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        -7.559842,
+                        43.016468
+                  ]
             }
       ],
       "hu": [
@@ -42107,6 +50747,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -7.576034,
                         43.023683
+                  ]
+            },
+            {
+                  "name": "Presa da Fábrica da Luz",
+                  "text": "Egy tó Lugo közelében, amely szép környezetet biztosít a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -7.572846,
+                        43.002407
+                  ]
+            },
+            {
+                  "name": "Estrella Park",
+                  "text": "Egy játékterem Lugo városában, változatos szórakozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -7.559842,
+                        43.016468
                   ]
             }
       ],
@@ -42272,6 +50930,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -7.576034,
                         43.023683
                   ]
+            },
+            {
+                  "name": "Presa da Fábrica da Luz",
+                  "text": "Un lac în Lugo, oferind un cadru frumos pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        -7.572846,
+                        43.002407
+                  ]
+            },
+            {
+                  "name": "Estrella Park",
+                  "text": "O sală de jocuri în Lugo, oferind divertisment variat pentru tineri.",
+                  "category": "family",
+                  "coords": [
+                        -7.559842,
+                        43.016468
+                  ]
             }
       ],
       "en": [
@@ -42435,6 +51111,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -7.576034,
                         43.023683
+                  ]
+            },
+            {
+                  "name": "Presa da Fábrica da Luz",
+                  "text": "A lake in Lugo providing a beautiful backdrop for outings.",
+                  "category": "natural",
+                  "coords": [
+                        -7.572846,
+                        43.002407
+                  ]
+            },
+            {
+                  "name": "Estrella Park",
+                  "text": "An amusement arcade in Lugo with varied entertainment options.",
+                  "category": "family",
+                  "coords": [
+                        -7.559842,
+                        43.016468
                   ]
             }
       ]
@@ -42709,6 +51403,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -8.666141,
                         42.408805
                   ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "Eine wunderschöne Lagune bei Pontevedra, ideal für Wanderungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "Ein ruhiges Gewässer in Pontevedra, umgeben von einem friedlichen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Ein beliebter Park in Pontevedra mit einem großartigen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Ein gut gelegener Spielplatz in Pontevedra für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Ein charmanter Spielplatz in Pontevedra, der Kindern viel Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
             }
       ],
       "hu": [
@@ -42935,6 +51674,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -8.666141,
                         42.408805
+                  ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "Egy gyönyörű lagúna Pontevedra közelében, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "Egy nyugodt vízfelület Pontevedrában, egy békés erdővel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Kedvelt park Pontevedrában, nagyszerű játszótérrel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Jó elhelyezkedésű játszótér Pontevedrában a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Bájos játszótér Pontevedrában, amely sok változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
                   ]
             }
       ],
@@ -43163,6 +51947,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -8.666141,
                         42.408805
                   ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "O lagună frumoasă lângă Pontevedra, ideală pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "O acumulare de apă liniștită în Pontevedra, înconjurată de o pădure pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Un parc popular în Pontevedra, cu o zonă de joacă excelentă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Un loc de joacă bine situat în Pontevedra pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Un loc de joacă fermecător în Pontevedra, care oferă multă diversitate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
             }
       ],
       "en": [
@@ -43390,6 +52219,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -8.666141,
                         42.408805
                   ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "A beautiful lagoon near Pontevedra, perfect for nature walks and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "A peaceful body of water in Pontevedra, surrounded by a serene forest.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "A popular park in Pontevedra featuring a great play area for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "A well-located playground in Pontevedra suitable for daily recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "A charming playground in Pontevedra offering a variety of activities for kids.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
             }
       ]
 },
@@ -43546,6 +52420,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.531586,
                         42.007737
                   ]
+            },
+            {
+                  "name": "Parque Paseo de La Julia",
+                  "text": "Ein weitläufiger Spielplatz in Palencia, ideal für Spiel und Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -4.530544,
+                        42.002009
+                  ]
             }
       ],
       "hu": [
@@ -43655,6 +52538,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.531586,
                         42.007737
+                  ]
+            },
+            {
+                  "name": "Parque Paseo de La Julia",
+                  "text": "Egy tágas játszótér Palenciában, amely ideális a szabadtéri játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.530544,
+                        42.002009
                   ]
             }
       ],
@@ -43766,6 +52658,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.531586,
                         42.007737
                   ]
+            },
+            {
+                  "name": "Parque Paseo de La Julia",
+                  "text": "Un loc de joacă spațios în Palencia, ideal pentru joacă și mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -4.530544,
+                        42.002009
+                  ]
             }
       ],
       "en": [
@@ -43875,6 +52776,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.531586,
                         42.007737
+                  ]
+            },
+            {
+                  "name": "Parque Paseo de La Julia",
+                  "text": "A spacious playground in Palencia, ideal for outdoor play and exercise.",
+                  "category": "family",
+                  "coords": [
+                        -4.530544,
+                        42.002009
                   ]
             }
       ]
@@ -44392,6 +53302,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -2.46666,
                         41.766622
                   ]
+            },
+            {
+                  "name": "Balsa de Ondara Directorship",
+                  "text": "Ein ruhiger kleiner See bei Soria, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504085,
+                        41.831666
+                  ]
+            },
+            {
+                  "name": "Tobogan Plaza antoniuo machado",
+                  "text": "Ein lokaler Spielplatz in Soria, auf dem Kinder spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        -2.477182,
+                        41.768348
+                  ]
+            },
+            {
+                  "name": "Gaya nuño",
+                  "text": "Dieser Spielplatz in Soria bietet verschiedene Spielmöglichkeiten für Kinder in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -2.476558,
+                        41.769868
+                  ]
             }
       ],
       "hu": [
@@ -44519,6 +53456,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -2.46666,
                         41.766622
+                  ]
+            },
+            {
+                  "name": "Balsa de Ondara Directorship",
+                  "text": "Egy csendes kis tó Soria közelében, amely ideális egy természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504085,
+                        41.831666
+                  ]
+            },
+            {
+                  "name": "Tobogan Plaza antoniuo machado",
+                  "text": "Egy helyi játszótér Soria városában, ahol a gyerekek játszhatnak és jól érezhetik magukat.",
+                  "category": "family",
+                  "coords": [
+                        -2.477182,
+                        41.768348
+                  ]
+            },
+            {
+                  "name": "Gaya nuño",
+                  "text": "Ez a Soria városában található játszótér különféle játéklehetőségeket kínál a gyerekeknek biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -2.476558,
+                        41.769868
                   ]
             }
       ],
@@ -44648,6 +53612,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -2.46666,
                         41.766622
                   ]
+            },
+            {
+                  "name": "Balsa de Ondara Directorship",
+                  "text": "Un mic lac liniștit lângă Soria, ideal pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504085,
+                        41.831666
+                  ]
+            },
+            {
+                  "name": "Tobogan Plaza antoniuo machado",
+                  "text": "Un loc de joacă local în Soria unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        -2.477182,
+                        41.768348
+                  ]
+            },
+            {
+                  "name": "Gaya nuño",
+                  "text": "Acest loc de joacă din Soria oferă diverse oportunități de joacă pentru copii într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        -2.476558,
+                        41.769868
+                  ]
             }
       ],
       "en": [
@@ -44775,6 +53766,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -2.46666,
                         41.766622
+                  ]
+            },
+            {
+                  "name": "Balsa de Ondara Directorship",
+                  "text": "A quiet little lake near Soria, perfect for a peaceful break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -2.504085,
+                        41.831666
+                  ]
+            },
+            {
+                  "name": "Tobogan Plaza antoniuo machado",
+                  "text": "A local playground in Soria where children can play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        -2.477182,
+                        41.768348
+                  ]
+            },
+            {
+                  "name": "Gaya nuño",
+                  "text": "This playground in Soria offers various play opportunities for children in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        -2.476558,
+                        41.769868
                   ]
             }
       ]
@@ -45292,6 +54310,78 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.404475,
                         42.139048
                   ]
+            },
+            {
+                  "name": "Balsa de la Ermita de Loreto",
+                  "text": "Ein kleiner See in Huesca, der zur Beobachtung der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.454208,
+                        42.131572
+                  ]
+            },
+            {
+                  "name": "Balsa de Alcoraz",
+                  "text": "Ein ruhig gelegenes Gewässer in Huesca, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.412341,
+                        42.111549
+                  ]
+            },
+            {
+                  "name": "Balsa del Corral Nuevo",
+                  "text": "Ein See in der Region Huesca mit einer natürlichen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -0.501062,
+                        42.149788
+                  ]
+            },
+            {
+                  "name": "Balsa de Pebredo",
+                  "text": "Dieses Gewässer in Huesca bietet eine friedliche Umgebung für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        -0.444385,
+                        42.095368
+                  ]
+            },
+            {
+                  "name": "Embalse de Montearagón",
+                  "text": "Ein Stausee in Huesca, der für seine weite Wasserfläche bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -0.370906,
+                        42.203574
+                  ]
+            },
+            {
+                  "name": "Alberca de Cortés",
+                  "text": "Ein See in Huesca, der sich gut für ruhige Momente in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.441246,
+                        42.167536
+                  ]
+            },
+            {
+                  "name": "Embalse de Valdabra",
+                  "text": "Ein See bei Huesca, der oft für Spaziergänge am Ufer genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -0.448358,
+                        42.074195
+                  ]
+            },
+            {
+                  "name": "Alberca de Loreto",
+                  "text": "Ein weiteres Gewässer in Huesca, das die lokale Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        -0.451632,
+                        42.12388
+                  ]
             }
       ],
       "hu": [
@@ -45347,6 +54437,78 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.404475,
                         42.139048
+                  ]
+            },
+            {
+                  "name": "Balsa de la Ermita de Loreto",
+                  "text": "Egy kis tó Huesca közelében, amely a táj megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.454208,
+                        42.131572
+                  ]
+            },
+            {
+                  "name": "Balsa de Alcoraz",
+                  "text": "Egy csendes vízfelület Huesca közelében, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -0.412341,
+                        42.111549
+                  ]
+            },
+            {
+                  "name": "Balsa del Corral Nuevo",
+                  "text": "Egy természetes hangulatú tó Huesca régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -0.501062,
+                        42.149788
+                  ]
+            },
+            {
+                  "name": "Balsa de Pebredo",
+                  "text": "Ez a Huesca-i vízfelület békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -0.444385,
+                        42.095368
+                  ]
+            },
+            {
+                  "name": "Embalse de Montearagón",
+                  "text": "Egy víztározó Huesca közelében, amely tágas vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -0.370906,
+                        42.203574
+                  ]
+            },
+            {
+                  "name": "Alberca de Cortés",
+                  "text": "Egy tó Huesca közelében, amely alkalmas a természetbeni pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -0.441246,
+                        42.167536
+                  ]
+            },
+            {
+                  "name": "Embalse de Valdabra",
+                  "text": "Egy tó Huesca közelében, amelyet gyakran látogatnak parti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        -0.448358,
+                        42.074195
+                  ]
+            },
+            {
+                  "name": "Alberca de Loreto",
+                  "text": "Egy újabb vízfelület Huesca közelében, amely gazdagítja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.451632,
+                        42.12388
                   ]
             }
       ],
@@ -45404,6 +54566,78 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.404475,
                         42.139048
                   ]
+            },
+            {
+                  "name": "Balsa de la Ermita de Loreto",
+                  "text": "Un lac mic în Huesca, invitând la observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -0.454208,
+                        42.131572
+                  ]
+            },
+            {
+                  "name": "Balsa de Alcoraz",
+                  "text": "O apă liniștită în Huesca, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.412341,
+                        42.111549
+                  ]
+            },
+            {
+                  "name": "Balsa del Corral Nuevo",
+                  "text": "Un lac în regiunea Huesca, având o atmosferă naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -0.501062,
+                        42.149788
+                  ]
+            },
+            {
+                  "name": "Balsa de Pebredo",
+                  "text": "Această apă din Huesca oferă un mediu liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        -0.444385,
+                        42.095368
+                  ]
+            },
+            {
+                  "name": "Embalse de Montearagón",
+                  "text": "Un lac de acumulare în Huesca, cunoscut pentru suprafața sa mare de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.370906,
+                        42.203574
+                  ]
+            },
+            {
+                  "name": "Alberca de Cortés",
+                  "text": "Un lac în Huesca, potrivit pentru momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.441246,
+                        42.167536
+                  ]
+            },
+            {
+                  "name": "Embalse de Valdabra",
+                  "text": "Un lac lângă Huesca, utilizat adesea pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        -0.448358,
+                        42.074195
+                  ]
+            },
+            {
+                  "name": "Alberca de Loreto",
+                  "text": "O altă apă în Huesca, care îmbogățește peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        -0.451632,
+                        42.12388
+                  ]
             }
       ],
       "en": [
@@ -45459,6 +54693,78 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.404475,
                         42.139048
+                  ]
+            },
+            {
+                  "name": "Balsa de la Ermita de Loreto",
+                  "text": "A small lake in Huesca inviting for landscape viewing.",
+                  "category": "natural",
+                  "coords": [
+                        -0.454208,
+                        42.131572
+                  ]
+            },
+            {
+                  "name": "Balsa de Alcoraz",
+                  "text": "A quiet body of water in Huesca, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -0.412341,
+                        42.111549
+                  ]
+            },
+            {
+                  "name": "Balsa del Corral Nuevo",
+                  "text": "A lake in the Huesca region with a natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -0.501062,
+                        42.149788
+                  ]
+            },
+            {
+                  "name": "Balsa de Pebredo",
+                  "text": "This body of water in Huesca offers a peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -0.444385,
+                        42.095368
+                  ]
+            },
+            {
+                  "name": "Embalse de Montearagón",
+                  "text": "A reservoir in Huesca known for its wide expanse of water.",
+                  "category": "natural",
+                  "coords": [
+                        -0.370906,
+                        42.203574
+                  ]
+            },
+            {
+                  "name": "Alberca de Cortés",
+                  "text": "A lake in Huesca suitable for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.441246,
+                        42.167536
+                  ]
+            },
+            {
+                  "name": "Embalse de Valdabra",
+                  "text": "A lake near Huesca often used for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        -0.448358,
+                        42.074195
+                  ]
+            },
+            {
+                  "name": "Alberca de Loreto",
+                  "text": "Another body of water in Huesca that enriches the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -0.451632,
+                        42.12388
                   ]
             }
       ]
@@ -46156,6 +55462,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.681306,
                         37.972375
                   ]
+            },
+            {
+                  "name": "Ozone",
+                  "text": "Ein Unterhaltungszentrum in Torrevieja mit Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.684952,
+                        37.989242
+                  ]
             }
       ],
       "hu": [
@@ -46238,6 +55553,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.681306,
                         37.972375
+                  ]
+            },
+            {
+                  "name": "Ozone",
+                  "text": "Egy szórakoztató központ Torrevieja városában játékokkal az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.684952,
+                        37.989242
                   ]
             }
       ],
@@ -46322,6 +55646,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.681306,
                         37.972375
                   ]
+            },
+            {
+                  "name": "Ozone",
+                  "text": "Un centru de divertisment în Torrevieja, cu jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.684952,
+                        37.989242
+                  ]
             }
       ],
       "en": [
@@ -46404,6 +55737,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.681306,
                         37.972375
+                  ]
+            },
+            {
+                  "name": "Ozone",
+                  "text": "An entertainment center in Torrevieja with games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.684952,
+                        37.989242
                   ]
             }
       ]
@@ -47092,6 +56434,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.938061,
                         38.095971
                   ]
+            },
+            {
+                  "name": "Parque Barrio Sagrado Corazón",
+                  "text": "Ein lokaler Spielplatz in Orihuela, der der Gemeinschaft einen Platz für Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.937796,
+                        38.073063
+                  ]
             }
       ],
       "hu": [
@@ -47210,6 +56561,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.938061,
                         38.095971
+                  ]
+            },
+            {
+                  "name": "Parque Barrio Sagrado Corazón",
+                  "text": "Egy helyi játszótér Orihuelában, amely a közösség számára biztosít helyet a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.937796,
+                        38.073063
                   ]
             }
       ],
@@ -47330,6 +56690,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.938061,
                         38.095971
                   ]
+            },
+            {
+                  "name": "Parque Barrio Sagrado Corazón",
+                  "text": "Un loc de joacă local în Orihuela, care oferă comunității un spațiu pentru recreere.",
+                  "category": "family",
+                  "coords": [
+                        -0.937796,
+                        38.073063
+                  ]
             }
       ],
       "en": [
@@ -47448,6 +56817,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.938061,
                         38.095971
+                  ]
+            },
+            {
+                  "name": "Parque Barrio Sagrado Corazón",
+                  "text": "A local playground in Orihuela providing the community with a space for recreation.",
+                  "category": "family",
+                  "coords": [
+                        -0.937796,
+                        38.073063
                   ]
             }
       ]
@@ -49144,6 +58522,141 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.627749,
                         36.537893
                   ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Ein familienfreundlicher Spielplatz in Fuengirola, ideal für einen kurzen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -4.61917,
+                        36.550036
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Dieser Platz in Fuengirola ist mit verschiedenen Spielgeräten für Kinder ausgestattet.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Ein kleiner Spielplatz in Fuengirola, der Kindern Raum zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Pacolitos II",
+                  "text": "Ein lokaler Spielplatz in Fuengirola, der eine schöne Abwechslung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.614408,
+                        36.563884
+                  ]
+            },
+            {
+                  "name": "ZI 1",
+                  "text": "Dieser Spielplatz in Fuengirola lädt Kinder zum Entdecken und Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        -4.623091,
+                        36.534397
+                  ]
+            },
+            {
+                  "name": "ZI 2",
+                  "text": "Ein Spielbereich in Fuengirola, der speziell für die Unterhaltung von Kindern gestaltet wurde.",
+                  "category": "family",
+                  "coords": [
+                        -4.622431,
+                        36.535835
+                  ]
+            },
+            {
+                  "name": "Parque Manantial",
+                  "text": "Ein öffentlicher Spielplatz in Fuengirola, der eine sichere Umgebung für Kinder zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.610922,
+                        36.562613
+                  ]
+            },
+            {
+                  "name": "Divergente",
+                  "text": "Diese Spielhalle in Fuengirola bietet eine Auswahl an Spielen und Unterhaltung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -4.638343,
+                        36.548039
+                  ]
+            },
+            {
+                  "name": "Fuengirola Adventure Golf",
+                  "text": "Diese Minigolfanlage in Fuengirola ist ein unterhaltsames Ziel für einen sportlichen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -4.632186,
+                        36.532192
+                  ]
+            },
+            {
+                  "name": "Plaza Concejo",
+                  "text": "Ein kleiner Spielplatz in Fuengirola, der Kindern eine einfache Möglichkeit zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.62139,
+                        36.550347
+                  ]
+            },
+            {
+                  "name": "Parque de Poniente",
+                  "text": "Ein schöner Spielplatz in Fuengirola, auf dem sich Kinder an der frischen Luft austoben können.",
+                  "category": "family",
+                  "coords": [
+                        -4.627859,
+                        36.528937
+                  ]
+            },
+            {
+                  "name": "Pacolitos I",
+                  "text": "Ein lokaler Kinderspielplatz in Fuengirola mit verschiedenen Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -4.615735,
+                        36.563267
+                  ]
+            },
+            {
+                  "name": "Parque Victoria",
+                  "text": "Dieser Spielplatz in Fuengirola bietet Raum für Bewegung und Spiel für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -4.61461,
+                        36.558369
+                  ]
+            },
+            {
+                  "name": "Pulgarcito",
+                  "text": "Ein farbenfroher Spielplatz in Fuengirola, der Kinder zum fantasievollen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -4.620327,
+                        36.554444
+                  ]
+            },
+            {
+                  "name": "Bernabé Tierno",
+                  "text": "Ein modern gestalteter Spielplatz in Fuengirola für die lokale Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -4.618682,
+                        36.548744
+                  ]
             }
       ],
       "hu": [
@@ -49316,6 +58829,141 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.627749,
                         36.537893
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Egy családbarát játszótér Fuengirola városában, amely ideális egy rövid kiruccanáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        -4.61917,
+                        36.550036
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Ez a Fuengirola városában található hely különféle játékokkal van felszerelve a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Egy kis játszótér Fuengirola városában, amely helyet biztosít a gyerekeknek a hancúrozáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Pacolitos II",
+                  "text": "Egy helyi játszótér Fuengirola városában, amely kellemes kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -4.614408,
+                        36.563884
+                  ]
+            },
+            {
+                  "name": "ZI 1",
+                  "text": "Ez a Fuengirola városában található játszótér hívogatja a gyerekeket a felfedezésre és a szabadban való játékra.",
+                  "category": "family",
+                  "coords": [
+                        -4.623091,
+                        36.534397
+                  ]
+            },
+            {
+                  "name": "ZI 2",
+                  "text": "Egy Fuengirola városában található játszóterület, amelyet kifejezetten a gyermekek szórakoztatására alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        -4.622431,
+                        36.535835
+                  ]
+            },
+            {
+                  "name": "Parque Manantial",
+                  "text": "Egy nyilvános játszótér Fuengirola városában, amely biztonságos környezetet nyújt a gyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        -4.610922,
+                        36.562613
+                  ]
+            },
+            {
+                  "name": "Divergente",
+                  "text": "Ez a Fuengirola városában található játékterem különféle játékokat és szórakozást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        -4.638343,
+                        36.548039
+                  ]
+            },
+            {
+                  "name": "Fuengirola Adventure Golf",
+                  "text": "Ez a Fuengirola városában található minigolfpálya szórakoztató úti cél egy sportos családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.632186,
+                        36.532192
+                  ]
+            },
+            {
+                  "name": "Plaza Concejo",
+                  "text": "Egy kis játszótér Fuengirola városában, amely egyszerű játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -4.62139,
+                        36.550347
+                  ]
+            },
+            {
+                  "name": "Parque de Poniente",
+                  "text": "Egy szép játszótér Fuengirola városában, ahol a gyerekek a friss levegőn hancúrozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.627859,
+                        36.528937
+                  ]
+            },
+            {
+                  "name": "Pacolitos I",
+                  "text": "Egy helyi játszótér Fuengirola városában, különféle mászási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -4.615735,
+                        36.563267
+                  ]
+            },
+            {
+                  "name": "Parque Victoria",
+                  "text": "Ez a Fuengirola városában található játszótér mozgási és játéklehetőséget biztosít a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        -4.61461,
+                        36.558369
+                  ]
+            },
+            {
+                  "name": "Pulgarcito",
+                  "text": "Egy színes játszótér Fuengirola városában, amely fantáziadús játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -4.620327,
+                        36.554444
+                  ]
+            },
+            {
+                  "name": "Bernabé Tierno",
+                  "text": "Egy modern kialakítású játszótér Fuengirola városában a helyi környék számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.618682,
+                        36.548744
                   ]
             }
       ],
@@ -49490,6 +59138,141 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.627749,
                         36.537893
                   ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Un loc de joacă prietenos pentru familii în Fuengirola, ideal pentru o scurtă ieșire cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -4.61917,
+                        36.550036
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Acest spațiu din Fuengirola este echipat cu diverse echipamente de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Un mic loc de joacă în Fuengirola care oferă copiilor spațiu pentru a se zbengui și a se juca.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Pacolitos II",
+                  "text": "Un loc de joacă local în Fuengirola care oferă o diversitate plăcută pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -4.614408,
+                        36.563884
+                  ]
+            },
+            {
+                  "name": "ZI 1",
+                  "text": "Acest loc de joacă din Fuengirola invită copiii să exploreze și să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -4.623091,
+                        36.534397
+                  ]
+            },
+            {
+                  "name": "ZI 2",
+                  "text": "O zonă de joacă în Fuengirola, concepută special pentru divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -4.622431,
+                        36.535835
+                  ]
+            },
+            {
+                  "name": "Parque Manantial",
+                  "text": "Un loc de joacă public în Fuengirola care oferă un mediu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -4.610922,
+                        36.562613
+                  ]
+            },
+            {
+                  "name": "Divergente",
+                  "text": "Această sală de jocuri din Fuengirola oferă o selecție de jocuri și divertisment pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -4.638343,
+                        36.548039
+                  ]
+            },
+            {
+                  "name": "Fuengirola Adventure Golf",
+                  "text": "Acest teren de minigolf din Fuengirola este o destinație distractivă pentru o ieșire sportivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.632186,
+                        36.532192
+                  ]
+            },
+            {
+                  "name": "Plaza Concejo",
+                  "text": "Un mic loc de joacă în Fuengirola care oferă copiilor o modalitate simplă de a se juca.",
+                  "category": "family",
+                  "coords": [
+                        -4.62139,
+                        36.550347
+                  ]
+            },
+            {
+                  "name": "Parque de Poniente",
+                  "text": "Un loc de joacă frumos în Fuengirola unde copiii se pot zbengui în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -4.627859,
+                        36.528937
+                  ]
+            },
+            {
+                  "name": "Pacolitos I",
+                  "text": "Un loc de joacă local în Fuengirola cu diverse posibilități de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        -4.615735,
+                        36.563267
+                  ]
+            },
+            {
+                  "name": "Parque Victoria",
+                  "text": "Acest loc de joacă din Fuengirola oferă spațiu pentru mișcare și joacă tinerilor vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -4.61461,
+                        36.558369
+                  ]
+            },
+            {
+                  "name": "Pulgarcito",
+                  "text": "Un loc de joacă colorat în Fuengirola care invită copiii la jocuri pline de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        -4.620327,
+                        36.554444
+                  ]
+            },
+            {
+                  "name": "Bernabé Tierno",
+                  "text": "Un loc de joacă cu design modern în Fuengirola pentru cartierul local.",
+                  "category": "family",
+                  "coords": [
+                        -4.618682,
+                        36.548744
+                  ]
             }
       ],
       "en": [
@@ -49662,6 +59445,141 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.627749,
                         36.537893
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "A family-friendly playground in Fuengirola, ideal for a short outing with children.",
+                  "category": "family",
+                  "coords": [
+                        -4.61917,
+                        36.550036
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "This spot in Fuengirola is equipped with various play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "A small playground in Fuengirola offering space for children to romp and play.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Pacolitos II",
+                  "text": "A local playground in Fuengirola providing a nice diversion for families.",
+                  "category": "family",
+                  "coords": [
+                        -4.614408,
+                        36.563884
+                  ]
+            },
+            {
+                  "name": "ZI 1",
+                  "text": "This playground in Fuengirola invites children to explore and play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -4.623091,
+                        36.534397
+                  ]
+            },
+            {
+                  "name": "ZI 2",
+                  "text": "A play area in Fuengirola designed specifically for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -4.622431,
+                        36.535835
+                  ]
+            },
+            {
+                  "name": "Parque Manantial",
+                  "text": "A public playground in Fuengirola providing a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -4.610922,
+                        36.562613
+                  ]
+            },
+            {
+                  "name": "Divergente",
+                  "text": "This amusement arcade in Fuengirola offers a variety of games and entertainment for visitors.",
+                  "category": "family",
+                  "coords": [
+                        -4.638343,
+                        36.548039
+                  ]
+            },
+            {
+                  "name": "Fuengirola Adventure Golf",
+                  "text": "This miniature golf course in Fuengirola is a fun destination for a sporty family outing.",
+                  "category": "family",
+                  "coords": [
+                        -4.632186,
+                        36.532192
+                  ]
+            },
+            {
+                  "name": "Plaza Concejo",
+                  "text": "A small playground in Fuengirola offering a simple way for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -4.62139,
+                        36.550347
+                  ]
+            },
+            {
+                  "name": "Parque de Poniente",
+                  "text": "A nice playground in Fuengirola where children can let off steam in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -4.627859,
+                        36.528937
+                  ]
+            },
+            {
+                  "name": "Pacolitos I",
+                  "text": "A local playground in Fuengirola with various climbing opportunities.",
+                  "category": "family",
+                  "coords": [
+                        -4.615735,
+                        36.563267
+                  ]
+            },
+            {
+                  "name": "Parque Victoria",
+                  "text": "This playground in Fuengirola offers space for movement and play for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        -4.61461,
+                        36.558369
+                  ]
+            },
+            {
+                  "name": "Pulgarcito",
+                  "text": "A colorful playground in Fuengirola inviting children to imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        -4.620327,
+                        36.554444
+                  ]
+            },
+            {
+                  "name": "Bernabé Tierno",
+                  "text": "A modernly designed playground in Fuengirola for the local neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -4.618682,
+                        36.548744
                   ]
             }
       ]
@@ -49883,6 +59801,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         1.826448,
                         41.718424
                   ]
+            },
+            {
+                  "name": "Bassa Bombers",
+                  "text": "Ein Teich in Manresa, der eine ruhige Atmosphäre für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.823964,
+                        41.666658
+                  ]
+            },
+            {
+                  "name": "Recreatius Bages Centre",
+                  "text": "Ein Spiel- und Unterhaltungszentrum in Manresa mit Aktivitäten für verschiedene Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        1.847623,
+                        41.72433
+                  ]
+            },
+            {
+                  "name": "Parc de Ramon Estrada",
+                  "text": "Dieser Spielplatz in Manresa bietet eine sichere Umgebung für den Familienspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        1.833119,
+                        41.722238
+                  ]
             }
       ],
       "hu": [
@@ -50055,6 +60000,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         1.826448,
                         41.718424
+                  ]
+            },
+            {
+                  "name": "Bassa Bombers",
+                  "text": "Egy tó Manresában, amely nyugodt légkört biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        1.823964,
+                        41.666658
+                  ]
+            },
+            {
+                  "name": "Recreatius Bages Centre",
+                  "text": "Egy játék- és szórakoztató központ Manresában, különböző korosztályoknak szóló tevékenységekkel.",
+                  "category": "family",
+                  "coords": [
+                        1.847623,
+                        41.72433
+                  ]
+            },
+            {
+                  "name": "Parc de Ramon Estrada",
+                  "text": "Ez a Manresában található játszótér biztonságos környezetet nyújt a szabadtéri családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.833119,
+                        41.722238
                   ]
             }
       ],
@@ -50229,6 +60201,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         1.826448,
                         41.718424
                   ]
+            },
+            {
+                  "name": "Bassa Bombers",
+                  "text": "Un iaz în Manresa care oferă o atmosferă liniștită pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        1.823964,
+                        41.666658
+                  ]
+            },
+            {
+                  "name": "Recreatius Bages Centre",
+                  "text": "Un centru de jocuri și divertisment în Manresa, cu activități pentru diferite grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        1.847623,
+                        41.72433
+                  ]
+            },
+            {
+                  "name": "Parc de Ramon Estrada",
+                  "text": "Acest loc de joacă din Manresa oferă un mediu sigur pentru distracția în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        1.833119,
+                        41.722238
+                  ]
             }
       ],
       "en": [
@@ -50401,6 +60400,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         1.826448,
                         41.718424
+                  ]
+            },
+            {
+                  "name": "Bassa Bombers",
+                  "text": "A pond in Manresa offering a quiet atmosphere for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        1.823964,
+                        41.666658
+                  ]
+            },
+            {
+                  "name": "Recreatius Bages Centre",
+                  "text": "A gaming and entertainment center in Manresa with activities for various age groups.",
+                  "category": "family",
+                  "coords": [
+                        1.847623,
+                        41.72433
+                  ]
+            },
+            {
+                  "name": "Parc de Ramon Estrada",
+                  "text": "This playground in Manresa offers a safe environment for outdoor family fun.",
+                  "category": "family",
+                  "coords": [
+                        1.833119,
+                        41.722238
                   ]
             }
       ]
@@ -51179,6 +61205,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.113664,
                         38.685434
                   ]
+            },
+            {
+                  "name": "Laguna de Almodóvar",
+                  "text": "Eine Lagune in Puertollano, die einen Lebensraum für die lokale Fauna bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165468,
+                        38.706126
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Ein natürlich vorkommender See in Puertollano mit malerischer Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -4.085474,
+                        38.754872
+                  ]
+            },
+            {
+                  "name": "Laguna Artificial de \"La Nava\"",
+                  "text": "Ein künstlich angelegter See in Puertollano für die Naherholung.",
+                  "category": "natural",
+                  "coords": [
+                        -4.175024,
+                        38.672634
+                  ]
             }
       ],
       "hu": [
@@ -51207,6 +61260,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.113664,
                         38.685434
+                  ]
+            },
+            {
+                  "name": "Laguna de Almodóvar",
+                  "text": "Egy lagúna Puertollano közelében, amely élőhelyet biztosít a helyi faunának.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165468,
+                        38.706126
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Egy természetes tó Puertollano közelében, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -4.085474,
+                        38.754872
+                  ]
+            },
+            {
+                  "name": "Laguna Artificial de \"La Nava\"",
+                  "text": "Egy mesterségesen kialakított tó Puertollano városában pihenés céljából.",
+                  "category": "natural",
+                  "coords": [
+                        -4.175024,
+                        38.672634
                   ]
             }
       ],
@@ -51237,6 +61317,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -4.113664,
                         38.685434
                   ]
+            },
+            {
+                  "name": "Laguna de Almodóvar",
+                  "text": "O lagună în Puertollano, oferind un habitat pentru fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165468,
+                        38.706126
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Un lac natural în Puertollano, cu o vedere pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -4.085474,
+                        38.754872
+                  ]
+            },
+            {
+                  "name": "Laguna Artificial de \"La Nava\"",
+                  "text": "Un lac artificial în Puertollano pentru recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        -4.175024,
+                        38.672634
+                  ]
             }
       ],
       "en": [
@@ -51265,6 +61372,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -4.113664,
                         38.685434
+                  ]
+            },
+            {
+                  "name": "Laguna de Almodóvar",
+                  "text": "A lagoon in Puertollano providing a habitat for local fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -4.165468,
+                        38.706126
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "A natural lake in Puertollano with a scenic view.",
+                  "category": "natural",
+                  "coords": [
+                        -4.085474,
+                        38.754872
+                  ]
+            },
+            {
+                  "name": "Laguna Artificial de \"La Nava\"",
+                  "text": "An artificially created lake in Puertollano for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -4.175024,
+                        38.672634
                   ]
             }
       ]
@@ -52088,6 +62222,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -5.923079,
                         43.553112
                   ]
+            },
+            {
+                  "name": "Embalse de Tresona / Trasona",
+                  "text": "Ein Stausee in Avilés, der oft für wassersportliche Aktivitäten besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        -5.875916,
+                        43.539603
+                  ]
+            },
+            {
+                  "name": "Humedal de La Furta",
+                  "text": "Ein Feuchtgebiet in Avilés, das für seine natürliche Vielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872607,
+                        43.528226
+                  ]
+            },
+            {
+                  "name": "Embalse de La Granda",
+                  "text": "Dieser See in Avilés bietet eine ruhige Atmosphäre fernab der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.854457,
+                        43.562745
+                  ]
+            },
+            {
+                  "name": "Parque de La Toba",
+                  "text": "Ein familienfreundlicher Spielplatz in Avilés für Kinder aller Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -5.899254,
+                        43.544879
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Llaranes",
+                  "text": "Ein Spielplatz in Avilés, der sicheren Raum zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.901476,
+                        43.549624
+                  ]
+            },
+            {
+                  "name": "Parque de les Escueles del Favila",
+                  "text": "Ein lokaler Spielplatz in Avilés, ideal für einen kurzen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -5.888773,
+                        43.552818
+                  ]
             }
       ],
       "hu": [
@@ -52143,6 +62331,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -5.923079,
                         43.553112
+                  ]
+            },
+            {
+                  "name": "Embalse de Tresona / Trasona",
+                  "text": "Egy víztározó Avilés közelében, amelyet gyakran látogatnak vízisportok miatt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.875916,
+                        43.539603
+                  ]
+            },
+            {
+                  "name": "Humedal de La Furta",
+                  "text": "Egy vizes élőhely Avilés közelében, amely természeti sokszínűségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872607,
+                        43.528226
+                  ]
+            },
+            {
+                  "name": "Embalse de La Granda",
+                  "text": "Ez az Avilés-i tó nyugodt környezetet biztosít távol a várostól.",
+                  "category": "natural",
+                  "coords": [
+                        -5.854457,
+                        43.562745
+                  ]
+            },
+            {
+                  "name": "Parque de La Toba",
+                  "text": "Egy családbarát játszótér Avilés városában minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -5.899254,
+                        43.544879
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Llaranes",
+                  "text": "Egy játszótér Avilés városában, amely biztonságos teret nyújt a kinti játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.901476,
+                        43.549624
+                  ]
+            },
+            {
+                  "name": "Parque de les Escueles del Favila",
+                  "text": "Egy helyi játszótér Avilés városában, ideális egy rövid családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.888773,
+                        43.552818
                   ]
             }
       ],
@@ -52200,6 +62442,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -5.923079,
                         43.553112
                   ]
+            },
+            {
+                  "name": "Embalse de Tresona / Trasona",
+                  "text": "Un lac de acumulare în Avilés, vizitat adesea pentru activități nautice.",
+                  "category": "natural",
+                  "coords": [
+                        -5.875916,
+                        43.539603
+                  ]
+            },
+            {
+                  "name": "Humedal de La Furta",
+                  "text": "O zonă umedă în Avilés, cunoscută pentru diversitatea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872607,
+                        43.528226
+                  ]
+            },
+            {
+                  "name": "Embalse de La Granda",
+                  "text": "Acest lac din Avilés oferă o atmosferă liniștită departe de oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -5.854457,
+                        43.562745
+                  ]
+            },
+            {
+                  "name": "Parque de La Toba",
+                  "text": "Un loc de joacă pentru familii în Avilés, pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -5.899254,
+                        43.544879
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Llaranes",
+                  "text": "Un loc de joacă în Avilés, oferind spațiu sigur pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -5.901476,
+                        43.549624
+                  ]
+            },
+            {
+                  "name": "Parque de les Escueles del Favila",
+                  "text": "Un loc de joacă local în Avilés, ideal pentru o scurtă ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -5.888773,
+                        43.552818
+                  ]
             }
       ],
       "en": [
@@ -52255,6 +62551,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -5.923079,
                         43.553112
+                  ]
+            },
+            {
+                  "name": "Embalse de Tresona / Trasona",
+                  "text": "A reservoir in Avilés often visited for water sports activities.",
+                  "category": "natural",
+                  "coords": [
+                        -5.875916,
+                        43.539603
+                  ]
+            },
+            {
+                  "name": "Humedal de La Furta",
+                  "text": "A wetland in Avilés known for its natural diversity.",
+                  "category": "natural",
+                  "coords": [
+                        -5.872607,
+                        43.528226
+                  ]
+            },
+            {
+                  "name": "Embalse de La Granda",
+                  "text": "This lake in Avilés offers a quiet atmosphere away from the city.",
+                  "category": "natural",
+                  "coords": [
+                        -5.854457,
+                        43.562745
+                  ]
+            },
+            {
+                  "name": "Parque de La Toba",
+                  "text": "A family-friendly playground in Avilés for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -5.899254,
+                        43.544879
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Llaranes",
+                  "text": "A playground in Avilés providing safe space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -5.901476,
+                        43.549624
+                  ]
+            },
+            {
+                  "name": "Parque de les Escueles del Favila",
+                  "text": "A local playground in Avilés, ideal for a short family outing.",
+                  "category": "family",
+                  "coords": [
+                        -5.888773,
+                        43.552818
                   ]
             }
       ]
@@ -52475,6 +62825,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -8.222433,
                         43.489799
                   ]
+            },
+            {
+                  "name": "Lago do Chá",
+                  "text": "Ein ruhiger See bei Ferrol, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.293091,
+                        43.485513
+                  ]
+            },
+            {
+                  "name": "Mi Selva",
+                  "text": "Ein verspielter Ort in Ferrol, der Kindern eine tolle Zeit im Freien ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -8.211126,
+                        43.493708
+                  ]
+            },
+            {
+                  "name": "Capuchino",
+                  "text": "Ein kleiner, charmanter Spielplatz in Ferrol für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -8.21538,
+                        43.491129
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Solaina",
+                  "text": "Ein beliebter Spielplatz in Ferrol, der ein Treffpunkt für Familien der Gegend ist.",
+                  "category": "family",
+                  "coords": [
+                        -8.205509,
+                        43.50029
+                  ]
+            },
+            {
+                  "name": "Parque da Cabana",
+                  "text": "Dieser Spielplatz in Ferrol bietet Kindern verschiedene Aktivitäten an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        -8.256235,
+                        43.490576
+                  ]
             }
       ],
       "hu": [
@@ -52647,6 +63042,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -8.222433,
                         43.489799
+                  ]
+            },
+            {
+                  "name": "Lago do Chá",
+                  "text": "Egy csendes tó Ferrol közelében, amely kiválóan alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -8.293091,
+                        43.485513
+                  ]
+            },
+            {
+                  "name": "Mi Selva",
+                  "text": "Egy játékos hely Ferrol városában, amely nagyszerű időtöltést biztosít a gyerekeknek a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        -8.211126,
+                        43.493708
+                  ]
+            },
+            {
+                  "name": "Capuchino",
+                  "text": "Egy kis, bájos játszótér Ferrol városában a mindennapi szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -8.21538,
+                        43.491129
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Solaina",
+                  "text": "Egy népszerű játszótér Ferrol városában, amely a környékbeli családok találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        -8.205509,
+                        43.50029
+                  ]
+            },
+            {
+                  "name": "Parque da Cabana",
+                  "text": "Ez a Ferrol városában található játszótér különféle szabadtéri tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -8.256235,
+                        43.490576
                   ]
             }
       ],
@@ -52821,6 +63261,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -8.222433,
                         43.489799
                   ]
+            },
+            {
+                  "name": "Lago do Chá",
+                  "text": "Un lac liniștit lângă Ferrol, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -8.293091,
+                        43.485513
+                  ]
+            },
+            {
+                  "name": "Mi Selva",
+                  "text": "Un loc de joacă în Ferrol care le permite copiilor să petreacă timp minunat în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.211126,
+                        43.493708
+                  ]
+            },
+            {
+                  "name": "Capuchino",
+                  "text": "Un loc de joacă mic și fermecător în Ferrol pentru activități de agrement zilnice.",
+                  "category": "family",
+                  "coords": [
+                        -8.21538,
+                        43.491129
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Solaina",
+                  "text": "Un loc de joacă popular în Ferrol, care este un punct de întâlnire pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        -8.205509,
+                        43.50029
+                  ]
+            },
+            {
+                  "name": "Parque da Cabana",
+                  "text": "Acest loc de joacă din Ferrol oferă copiilor diverse activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.256235,
+                        43.490576
+                  ]
             }
       ],
       "en": [
@@ -52993,6 +63478,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -8.222433,
                         43.489799
+                  ]
+            },
+            {
+                  "name": "Lago do Chá",
+                  "text": "A quiet lake near Ferrol, well-suited for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -8.293091,
+                        43.485513
+                  ]
+            },
+            {
+                  "name": "Mi Selva",
+                  "text": "A playful spot in Ferrol allowing children to have a great time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -8.211126,
+                        43.493708
+                  ]
+            },
+            {
+                  "name": "Capuchino",
+                  "text": "A small, charming playground in Ferrol for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.21538,
+                        43.491129
+                  ]
+            },
+            {
+                  "name": "Parque infantil da Solaina",
+                  "text": "A popular playground in Ferrol that serves as a meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        -8.205509,
+                        43.50029
+                  ]
+            },
+            {
+                  "name": "Parque da Cabana",
+                  "text": "This playground in Ferrol offers various outdoor activities for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.256235,
+                        43.490576
                   ]
             }
       ]
@@ -54230,6 +64760,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         0.346644,
                         41.526914
                   ]
+            },
+            {
+                  "name": "Pantà del Trepat",
+                  "text": "Ein Stausee bei Fraga, der als ruhiger Ort für Naturbeobachtungen dient.",
+                  "category": "natural",
+                  "coords": [
+                        0.404337,
+                        41.493945
+                  ]
+            },
+            {
+                  "name": "Pantà de Tarruella",
+                  "text": "Dieser See in Fraga bietet eine friedliche Kulisse für Spaziergänge in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        0.421024,
+                        41.517848
+                  ]
+            },
+            {
+                  "name": "Pantà de la Séquia Tercera",
+                  "text": "Ein künstliches Gewässer in Fraga, das zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        0.401193,
+                        41.461305
+                  ]
+            },
+            {
+                  "name": "Pantà de la Vall Fonda",
+                  "text": "Dieser Stausee in Fraga ist ein ruhiger Rückzugsort in der lokalen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        0.374659,
+                        41.469568
+                  ]
+            },
+            {
+                  "name": "Pantà de la Sèquia Segona",
+                  "text": "Ein kleines Gewässer bei Fraga, ideal für eine Pause während einer Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        0.392032,
+                        41.475674
+                  ]
+            },
+            {
+                  "name": "Pantà de Vincamet",
+                  "text": "Dieser See in Fraga bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        0.400755,
+                        41.5093
+                  ]
             }
       ],
       "hu": [
@@ -54258,6 +64842,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         0.346644,
                         41.526914
+                  ]
+            },
+            {
+                  "name": "Pantà del Trepat",
+                  "text": "Egy víztározó Fraga közelében, amely nyugodt helyként szolgál a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        0.404337,
+                        41.493945
+                  ]
+            },
+            {
+                  "name": "Pantà de Tarruella",
+                  "text": "Ez a Fraga városában található tó békés hátteret biztosít a környékbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        0.421024,
+                        41.517848
+                  ]
+            },
+            {
+                  "name": "Pantà de la Séquia Tercera",
+                  "text": "Egy mesterséges vízfelület Fragában, amely természeti kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        0.401193,
+                        41.461305
+                  ]
+            },
+            {
+                  "name": "Pantà de la Vall Fonda",
+                  "text": "Ez a Fragában található víztározó nyugodt menedék a helyi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        0.374659,
+                        41.469568
+                  ]
+            },
+            {
+                  "name": "Pantà de la Sèquia Segona",
+                  "text": "Egy kis vízfelület Fraga mellett, amely ideális egy pihenőre túrázás közben.",
+                  "category": "natural",
+                  "coords": [
+                        0.392032,
+                        41.475674
+                  ]
+            },
+            {
+                  "name": "Pantà de Vincamet",
+                  "text": "Ez a Fraga városában található tó pihentető vízparti légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        0.400755,
+                        41.5093
                   ]
             }
       ],
@@ -54288,6 +64926,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         0.346644,
                         41.526914
                   ]
+            },
+            {
+                  "name": "Pantà del Trepat",
+                  "text": "Un rezervuar lângă Fraga, care servește ca un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        0.404337,
+                        41.493945
+                  ]
+            },
+            {
+                  "name": "Pantà de Tarruella",
+                  "text": "Acest lac din Fraga oferă un cadru pașnic pentru plimbări în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        0.421024,
+                        41.517848
+                  ]
+            },
+            {
+                  "name": "Pantà de la Séquia Tercera",
+                  "text": "Un corp de apă artificial în Fraga, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        0.401193,
+                        41.461305
+                  ]
+            },
+            {
+                  "name": "Pantà de la Vall Fonda",
+                  "text": "Acest rezervuar din Fraga este un refugiu liniștit în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        0.374659,
+                        41.469568
+                  ]
+            },
+            {
+                  "name": "Pantà de la Sèquia Segona",
+                  "text": "Un mic corp de apă lângă Fraga, ideal pentru o pauză în timpul unei drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        0.392032,
+                        41.475674
+                  ]
+            },
+            {
+                  "name": "Pantà de Vincamet",
+                  "text": "Acest lac din Fraga oferă o atmosferă relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        0.400755,
+                        41.5093
+                  ]
             }
       ],
       "en": [
@@ -54316,6 +65008,60 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         0.346644,
                         41.526914
+                  ]
+            },
+            {
+                  "name": "Pantà del Trepat",
+                  "text": "A reservoir near Fraga serving as a quiet spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        0.404337,
+                        41.493945
+                  ]
+            },
+            {
+                  "name": "Pantà de Tarruella",
+                  "text": "This lake in Fraga provides a peaceful backdrop for walks in the area.",
+                  "category": "natural",
+                  "coords": [
+                        0.421024,
+                        41.517848
+                  ]
+            },
+            {
+                  "name": "Pantà de la Séquia Tercera",
+                  "text": "An artificial body of water in Fraga inviting nature recreation.",
+                  "category": "natural",
+                  "coords": [
+                        0.401193,
+                        41.461305
+                  ]
+            },
+            {
+                  "name": "Pantà de la Vall Fonda",
+                  "text": "This reservoir in Fraga is a quiet retreat in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        0.374659,
+                        41.469568
+                  ]
+            },
+            {
+                  "name": "Pantà de la Sèquia Segona",
+                  "text": "A small body of water near Fraga, ideal for a break during a hike.",
+                  "category": "natural",
+                  "coords": [
+                        0.392032,
+                        41.475674
+                  ]
+            },
+            {
+                  "name": "Pantà de Vincamet",
+                  "text": "This lake in Fraga offers a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        0.400755,
+                        41.5093
                   ]
             }
       ]
@@ -54500,6 +65246,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.725827,
                         41.902561
                   ]
+            },
+            {
+                  "name": "Embalse del Val",
+                  "text": "Ein Stausee bei Tarazona, der eine beeindruckende Landschaft für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.804637,
+                        41.878377
+                  ]
+            },
+            {
+                  "name": "Embalse de Zuzones",
+                  "text": "Ein friedlicher See in der Nähe von Tarazona, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757534,
+                        41.895757
+                  ]
+            },
+            {
+                  "name": "Embalse de Queiles",
+                  "text": "Dieser See bei Tarazona ist ein ruhiges Gewässer, das zur Beobachtung der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.799869,
+                        41.866557
+                  ]
+            },
+            {
+                  "name": "Parque Estación",
+                  "text": "Ein Spielplatz am ehemaligen Bahnhof von Tarazona, der Kindern Spaß und Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.721755,
+                        41.904556
+                  ]
+            },
+            {
+                  "name": "Plaza Carmen Viejo",
+                  "text": "Ein zentral gelegener Spielplatz in Tarazona, der ideal für eine kurze Spielpause ist.",
+                  "category": "family",
+                  "coords": [
+                        -1.728915,
+                        41.904658
+                  ]
             }
       ],
       "hu": [
@@ -54546,6 +65337,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.725827,
                         41.902561
+                  ]
+            },
+            {
+                  "name": "Embalse del Val",
+                  "text": "Egy víztározó Tarazona közelében, amely lenyűgöző tájat kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -1.804637,
+                        41.878377
+                  ]
+            },
+            {
+                  "name": "Embalse de Zuzones",
+                  "text": "Egy békés tó Tarazona közelében, ideális egy kis természetbeni pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757534,
+                        41.895757
+                  ]
+            },
+            {
+                  "name": "Embalse de Queiles",
+                  "text": "Ez a Tarazona közelében található tó egy nyugodt vízfelület, amely a környezet megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -1.799869,
+                        41.866557
+                  ]
+            },
+            {
+                  "name": "Parque Estación",
+                  "text": "Egy játszótér Tarazona egykori vasútállomásánál, amely játékot és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.721755,
+                        41.904556
+                  ]
+            },
+            {
+                  "name": "Plaza Carmen Viejo",
+                  "text": "Egy központi fekvésű játszótér Tarazona városában, amely ideális egy rövid játékszünethez.",
+                  "category": "family",
+                  "coords": [
+                        -1.728915,
+                        41.904658
                   ]
             }
       ],
@@ -54594,6 +65430,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.725827,
                         41.902561
                   ]
+            },
+            {
+                  "name": "Embalse del Val",
+                  "text": "Un lac de acumulare lângă Tarazona care oferă un peisaj impresionant pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.804637,
+                        41.878377
+                  ]
+            },
+            {
+                  "name": "Embalse de Zuzones",
+                  "text": "Un lac liniștit în apropiere de Tarazona, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757534,
+                        41.895757
+                  ]
+            },
+            {
+                  "name": "Embalse de Queiles",
+                  "text": "Acest lac de lângă Tarazona este o apă liniștită care invită la observarea împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -1.799869,
+                        41.866557
+                  ]
+            },
+            {
+                  "name": "Parque Estación",
+                  "text": "Un loc de joacă la fosta gară din Tarazona, oferind copiilor distracție și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -1.721755,
+                        41.904556
+                  ]
+            },
+            {
+                  "name": "Plaza Carmen Viejo",
+                  "text": "Un loc de joacă situat central în Tarazona, ideal pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -1.728915,
+                        41.904658
+                  ]
             }
       ],
       "en": [
@@ -54640,6 +65521,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.725827,
                         41.902561
+                  ]
+            },
+            {
+                  "name": "Embalse del Val",
+                  "text": "A reservoir near Tarazona offering impressive scenery for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -1.804637,
+                        41.878377
+                  ]
+            },
+            {
+                  "name": "Embalse de Zuzones",
+                  "text": "A peaceful lake near Tarazona, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -1.757534,
+                        41.895757
+                  ]
+            },
+            {
+                  "name": "Embalse de Queiles",
+                  "text": "This lake near Tarazona is a calm body of water that invites observation of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -1.799869,
+                        41.866557
+                  ]
+            },
+            {
+                  "name": "Parque Estación",
+                  "text": "A playground at the former station in Tarazona, offering fun and exercise for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.721755,
+                        41.904556
+                  ]
+            },
+            {
+                  "name": "Plaza Carmen Viejo",
+                  "text": "A centrally located playground in Tarazona, ideal for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        -1.728915,
+                        41.904658
                   ]
             }
       ]
@@ -54905,6 +65831,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.499868,
                         41.826383
                   ]
+            },
+            {
+                  "name": "Embalse del Campo",
+                  "text": "Ein See in Borja, der eine angenehme natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575824,
+                        41.813793
+                  ]
+            },
+            {
+                  "name": "Las Pozas",
+                  "text": "Natürliche Wasserbecken in Borja, die zum Verweilen in der Natur einladen.",
+                  "category": "natural",
+                  "coords": [
+                        -1.616633,
+                        41.815631
+                  ]
             }
       ],
       "hu": [
@@ -54960,6 +65904,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.499868,
                         41.826383
+                  ]
+            },
+            {
+                  "name": "Embalse del Campo",
+                  "text": "Egy tó Borja közelében, amely kellemes természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575824,
+                        41.813793
+                  ]
+            },
+            {
+                  "name": "Las Pozas",
+                  "text": "Természetes medencék Borja közelében, amelyek pihenésre hívnak a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.616633,
+                        41.815631
                   ]
             }
       ],
@@ -55017,6 +65979,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.499868,
                         41.826383
                   ]
+            },
+            {
+                  "name": "Embalse del Campo",
+                  "text": "Un lac în Borja, oferind un mediu natural plăcut.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575824,
+                        41.813793
+                  ]
+            },
+            {
+                  "name": "Las Pozas",
+                  "text": "Bazine naturale în Borja, invitând la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -1.616633,
+                        41.815631
+                  ]
             }
       ],
       "en": [
@@ -55072,6 +66052,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.499868,
                         41.826383
+                  ]
+            },
+            {
+                  "name": "Embalse del Campo",
+                  "text": "A lake in Borja offering a pleasant natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        -1.575824,
+                        41.813793
+                  ]
+            },
+            {
+                  "name": "Las Pozas",
+                  "text": "Natural pools in Borja inviting for a stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -1.616633,
+                        41.815631
                   ]
             }
       ]
@@ -55471,7 +66469,52 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
     image: "/poi-images/spain-daroca-cities-v2.webp",
   },
   {
-    id: "spain-alcorisa-cities-v2",
+    id: "spain-alcorisa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gallipuén",
+                  "text": "Ein See in Alcorisa, der für seine ruhige Lage geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -0.413793,
+                        40.869979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gallipuén",
+                  "text": "Egy tó Alcorisa közelében, amelyet csendes elhelyezkedése miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -0.413793,
+                        40.869979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gallipuén",
+                  "text": "Un lac în Alcorisa, apreciat pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -0.413793,
+                        40.869979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gallipuén",
+                  "text": "A lake in Alcorisa valued for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        -0.413793,
+                        40.869979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ES",
     name: { de: "Alcorisa", hu: "Alcorisa", ro: "Alcorisa", en: "Alcorisa" },

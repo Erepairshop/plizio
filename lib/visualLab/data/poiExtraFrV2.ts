@@ -130,6 +130,24 @@ export const poiExtraFrV2: POI[] = [
                         8.757079,
                         41.928891
                   ]
+            },
+            {
+                  "name": "Retenue privée",
+                  "text": "Ein See in Ajaccio, der eine malerische und ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.642955,
+                        41.940815
+                  ]
+            },
+            {
+                  "name": "Air de jeux",
+                  "text": "Ein Spielplatz in Ajaccio, der einen unterhaltsamen Raum für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.770398,
+                        41.944335
+                  ]
             }
       ],
       "hu": [
@@ -256,6 +274,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.757079,
                         41.928891
+                  ]
+            },
+            {
+                  "name": "Retenue privée",
+                  "text": "Ajaccio egyik tava, amely festői és nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        8.642955,
+                        41.940815
+                  ]
+            },
+            {
+                  "name": "Air de jeux",
+                  "text": "Játszótér Ajaccióban, amely vidám helyszínt biztosít a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.770398,
+                        41.944335
                   ]
             }
       ],
@@ -384,6 +420,24 @@ export const poiExtraFrV2: POI[] = [
                         8.757079,
                         41.928891
                   ]
+            },
+            {
+                  "name": "Retenue privée",
+                  "text": "Un lac în Ajaccio care oferă un cadru pitoresc și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        8.642955,
+                        41.940815
+                  ]
+            },
+            {
+                  "name": "Air de jeux",
+                  "text": "Un loc de joacă în Ajaccio care oferă un spațiu distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        8.770398,
+                        41.944335
+                  ]
             }
       ],
       "en": [
@@ -510,6 +564,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.757079,
                         41.928891
+                  ]
+            },
+            {
+                  "name": "Retenue privée",
+                  "text": "A lake in Ajaccio providing a scenic and calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.642955,
+                        41.940815
+                  ]
+            },
+            {
+                  "name": "Air de jeux",
+                  "text": "A playground in Ajaccio offering a fun space for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        8.770398,
+                        41.944335
                   ]
             }
       ]
@@ -2490,6 +2562,51 @@ export const poiExtraFrV2: POI[] = [
                         9.137294,
                         41.393473
                   ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Dieser See bei Bonifacio bietet eine malerische Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Ein ruhiger See in Bonifacio, ideal zum Beobachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Dieser See in Bonifacio lädt zu entspannten Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "Ein Naturschutzgebiet am See in Bonifacio, perfekt für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Ein idyllischer See bei Bonifacio, der zu erholsamen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
             }
       ],
       "hu": [
@@ -2626,6 +2743,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         9.137294,
                         41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Ez a Bonifacio közelében található tó festői helyszínt kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Egy nyugodt tó Bonifacio városában, amely ideális a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Ez a Bonifacio-i tó pihentető pillanatokra hív a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "Egy természetvédelmi terület a tó partján Bonifacio-ban, amely tökéletes túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Idilli tó Bonifacio közelében, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
                   ]
             }
       ],
@@ -2764,6 +2926,51 @@ export const poiExtraFrV2: POI[] = [
                         9.137294,
                         41.393473
                   ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Acest lac de lângă Bonifacio oferă un cadru pitoresc pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Un lac liniștit în Bonifacio, ideal pentru admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Acest lac din Bonifacio invită la momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "O zonă naturală lângă lac în Bonifacio, perfectă pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Un lac idilic lângă Bonifacio, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
             }
       ],
       "en": [
@@ -2900,6 +3107,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         9.137294,
                         41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "This lake near Bonifacio offers a scenic setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "A calm lake in Bonifacio, ideal for observing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "This lake in Bonifacio invites you to relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "A natural lakeside area in Bonifacio, perfect for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "An idyllic lake near Bonifacio, inviting for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
                   ]
             }
       ]
@@ -4766,6 +5018,33 @@ export const poiExtraFrV2: POI[] = [
                         -3.18272,
                         47.616995
                   ]
+            },
+            {
+                  "name": "Jeux Enfants",
+                  "text": "Ein familienfreundlicher Spielplatz in Carnac für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -3.077835,
+                        47.579999
+                  ]
+            },
+            {
+                  "name": "Luna Park Burger",
+                  "text": "Eine Spielhalle in Carnac, ideal für Familienspaß und Spiele.",
+                  "category": "family",
+                  "coords": [
+                        -3.075569,
+                        47.572995
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Ein Minigolfplatz in Carnac, ideal für einen sportlichen Familiennachmittag.",
+                  "category": "family",
+                  "coords": [
+                        -3.092721,
+                        47.606802
+                  ]
             }
       ],
       "hu": [
@@ -5108,6 +5387,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -3.18272,
                         47.616995
+                  ]
+            },
+            {
+                  "name": "Jeux Enfants",
+                  "text": "Családbarát játszótér Carnacban a gyerekek szabadtéri játékához.",
+                  "category": "family",
+                  "coords": [
+                        -3.077835,
+                        47.579999
+                  ]
+            },
+            {
+                  "name": "Luna Park Burger",
+                  "text": "Játékterem Carnacban, amely tökéletes a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.075569,
+                        47.572995
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Minitenyisz-pálya Carnacban, amely ideális egy családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.092721,
+                        47.606802
                   ]
             }
       ],
@@ -5452,6 +5758,33 @@ export const poiExtraFrV2: POI[] = [
                         -3.18272,
                         47.616995
                   ]
+            },
+            {
+                  "name": "Jeux Enfants",
+                  "text": "Un loc de joacă pentru familii în Carnac, pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -3.077835,
+                        47.579999
+                  ]
+            },
+            {
+                  "name": "Luna Park Burger",
+                  "text": "O sală de jocuri în Carnac, ideală pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.075569,
+                        47.572995
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Un teren de minigolf în Carnac, ideal pentru o după-amiază cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -3.092721,
+                        47.606802
+                  ]
             }
       ],
       "en": [
@@ -5795,6 +6128,33 @@ export const poiExtraFrV2: POI[] = [
                         -3.18272,
                         47.616995
                   ]
+            },
+            {
+                  "name": "Jeux Enfants",
+                  "text": "A family-friendly playground in Carnac for kids to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -3.077835,
+                        47.579999
+                  ]
+            },
+            {
+                  "name": "Luna Park Burger",
+                  "text": "An amusement arcade in Carnac perfect for family fun and games.",
+                  "category": "family",
+                  "coords": [
+                        -3.075569,
+                        47.572995
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "A miniature golf course in Carnac ideal for a competitive family afternoon.",
+                  "category": "family",
+                  "coords": [
+                        -3.092721,
+                        47.606802
+                  ]
             }
       ]
 }},
@@ -5869,6 +6229,105 @@ export const poiExtraFrV2: POI[] = [
                         -0.112761,
                         42.887315
                   ]
+            },
+            {
+                  "name": "Lac inférieur de l'Embarrat",
+                  "text": "Ein malerischer Bergsee bei Cauterets, ideal für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.184311,
+                        42.841081
+                  ]
+            },
+            {
+                  "name": "Lac Herrat",
+                  "text": "Dieser ruhige See in den Bergen von Cauterets bietet eine beeindruckende Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060555,
+                        42.848411
+                  ]
+            },
+            {
+                  "name": "Lac de Cantet",
+                  "text": "Ein kleiner Bergsee in Cauterets, perfekt für eine Rast während einer Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062253,
+                        42.849135
+                  ]
+            },
+            {
+                  "name": "Lac de Casdabat",
+                  "text": "Ein abgelegener See in der Region Cauterets, bekannt für seine natürliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062511,
+                        42.846067
+                  ]
+            },
+            {
+                  "name": "Lac de Lahazère",
+                  "text": "Genießen Sie die Ruhe und die frische Bergluft an diesem See in Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.066408,
+                        42.851116
+                  ]
+            },
+            {
+                  "name": "Lac de Badet",
+                  "text": "Ein hochgelegener See bei Cauterets, der von einer beeindruckenden Gipfellandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -0.061639,
+                        42.82974
+                  ]
+            },
+            {
+                  "name": "Lac Méya",
+                  "text": "Dieser Bergsee bietet eine friedliche Atmosphäre inmitten der Natur von Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.121601,
+                        42.830846
+                  ]
+            },
+            {
+                  "name": "Lacs Estibe Aute",
+                  "text": "Diese Bergseen sind ein beliebtes Ziel für anspruchsvolle Wanderungen in Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.116192,
+                        42.816466
+                  ]
+            },
+            {
+                  "name": "Lac d'Estaing",
+                  "text": "Ein leicht zugänglicher und wunderschöner See in Cauterets, ideal für Familienausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        -0.207686,
+                        42.907435
+                  ]
+            },
+            {
+                  "name": "Lac Grand",
+                  "text": "Ein großer, klarer Bergsee, der zum Verweilen und Bewundern der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.067439,
+                        42.845901
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Eine gepflegte Minigolfanlage, die Freizeitspaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.115647,
+                        42.887869
+                  ]
             }
       ],
       "hu": [
@@ -5940,6 +6399,105 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.112761,
                         42.887315
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de l'Embarrat",
+                  "text": "Festői hegyi tó Cauterets közelében, ideális túrázóknak és természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        -0.184311,
+                        42.841081
+                  ]
+            },
+            {
+                  "name": "Lac Herrat",
+                  "text": "Ez a csendes tó Cauterets hegyeiben lenyűgöző kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060555,
+                        42.848411
+                  ]
+            },
+            {
+                  "name": "Lac de Cantet",
+                  "text": "Egy kis hegyi tó Cauterets-ben, tökéletes pihenéshez túrázás közben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062253,
+                        42.849135
+                  ]
+            },
+            {
+                  "name": "Lac de Casdabat",
+                  "text": "Egy eldugott tó Cauterets régiójában, amely természetes szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062511,
+                        42.846067
+                  ]
+            },
+            {
+                  "name": "Lac de Lahazère",
+                  "text": "Élvezze a nyugalmat és a friss hegyi levegőt ennél a Cauterets-i tónál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.066408,
+                        42.851116
+                  ]
+            },
+            {
+                  "name": "Lac de Badet",
+                  "text": "Magaslati tó Cauterets közelében, amelyet lenyűgöző hegycsúcsok vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -0.061639,
+                        42.82974
+                  ]
+            },
+            {
+                  "name": "Lac Méya",
+                  "text": "Ez a hegyi tó békés légkört kínál Cauterets természetének közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -0.121601,
+                        42.830846
+                  ]
+            },
+            {
+                  "name": "Lacs Estibe Aute",
+                  "text": "Ezek a hegyi tavak népszerű célpontjai a kihívást jelentő túráknak Cauterets-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.116192,
+                        42.816466
+                  ]
+            },
+            {
+                  "name": "Lac d'Estaing",
+                  "text": "Egy könnyen megközelíthető és gyönyörű tó Cauterets-ben, ideális családi kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.207686,
+                        42.907435
+                  ]
+            },
+            {
+                  "name": "Lac Grand",
+                  "text": "Egy nagy, tiszta hegyi tó, amely pihenésre és a természet csodálatára hív.",
+                  "category": "natural",
+                  "coords": [
+                        -0.067439,
+                        42.845901
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Gondozott minigolfpálya, amely minden korosztály számára szabadidős szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        -0.115647,
+                        42.887869
                   ]
             }
       ],
@@ -6013,6 +6571,105 @@ export const poiExtraFrV2: POI[] = [
                         -0.112761,
                         42.887315
                   ]
+            },
+            {
+                  "name": "Lac inférieur de l'Embarrat",
+                  "text": "Un lac montan pitoresc lângă Cauterets, ideal pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.184311,
+                        42.841081
+                  ]
+            },
+            {
+                  "name": "Lac Herrat",
+                  "text": "Acest lac liniștit din munții Cauterets oferă o priveliște impresionantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060555,
+                        42.848411
+                  ]
+            },
+            {
+                  "name": "Lac de Cantet",
+                  "text": "Un mic lac montan în Cauterets, perfect pentru un popas în timpul unei drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062253,
+                        42.849135
+                  ]
+            },
+            {
+                  "name": "Lac de Casdabat",
+                  "text": "Un lac retras în regiunea Cauterets, cunoscut pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062511,
+                        42.846067
+                  ]
+            },
+            {
+                  "name": "Lac de Lahazère",
+                  "text": "Bucurați-vă de liniște și aerul proaspăt de munte la acest lac din Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.066408,
+                        42.851116
+                  ]
+            },
+            {
+                  "name": "Lac de Badet",
+                  "text": "Un lac de altitudine lângă Cauterets, înconjurat de un peisaj montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        -0.061639,
+                        42.82974
+                  ]
+            },
+            {
+                  "name": "Lac Méya",
+                  "text": "Acest lac montan oferă o atmosferă liniștită în mijlocul naturii din Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.121601,
+                        42.830846
+                  ]
+            },
+            {
+                  "name": "Lacs Estibe Aute",
+                  "text": "Aceste lacuri montane sunt o destinație populară pentru drumeții solicitante în Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.116192,
+                        42.816466
+                  ]
+            },
+            {
+                  "name": "Lac d'Estaing",
+                  "text": "Un lac ușor accesibil și frumos în Cauterets, ideal pentru excursii în familie.",
+                  "category": "natural",
+                  "coords": [
+                        -0.207686,
+                        42.907435
+                  ]
+            },
+            {
+                  "name": "Lac Grand",
+                  "text": "Un lac montan mare și clar, care invită la relaxare și admirarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -0.067439,
+                        42.845901
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Un teren de minigolf bine întreținut, care oferă distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -0.115647,
+                        42.887869
+                  ]
             }
       ],
       "en": [
@@ -6084,6 +6741,105 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.112761,
                         42.887315
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de l'Embarrat",
+                  "text": "A picturesque mountain lake near Cauterets, ideal for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -0.184311,
+                        42.841081
+                  ]
+            },
+            {
+                  "name": "Lac Herrat",
+                  "text": "This quiet lake in the mountains of Cauterets offers impressive views.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060555,
+                        42.848411
+                  ]
+            },
+            {
+                  "name": "Lac de Cantet",
+                  "text": "A small mountain lake in Cauterets, perfect for a break during a hike.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062253,
+                        42.849135
+                  ]
+            },
+            {
+                  "name": "Lac de Casdabat",
+                  "text": "A secluded lake in the Cauterets region, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -0.062511,
+                        42.846067
+                  ]
+            },
+            {
+                  "name": "Lac de Lahazère",
+                  "text": "Enjoy the tranquility and fresh mountain air at this lake in Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.066408,
+                        42.851116
+                  ]
+            },
+            {
+                  "name": "Lac de Badet",
+                  "text": "A high-altitude lake near Cauterets, surrounded by impressive mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.061639,
+                        42.82974
+                  ]
+            },
+            {
+                  "name": "Lac Méya",
+                  "text": "This mountain lake offers a peaceful atmosphere in the heart of Cauterets' nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.121601,
+                        42.830846
+                  ]
+            },
+            {
+                  "name": "Lacs Estibe Aute",
+                  "text": "These mountain lakes are a popular destination for challenging hikes in Cauterets.",
+                  "category": "natural",
+                  "coords": [
+                        -0.116192,
+                        42.816466
+                  ]
+            },
+            {
+                  "name": "Lac d'Estaing",
+                  "text": "An easily accessible and beautiful lake in Cauterets, ideal for family outings.",
+                  "category": "natural",
+                  "coords": [
+                        -0.207686,
+                        42.907435
+                  ]
+            },
+            {
+                  "name": "Lac Grand",
+                  "text": "A large, clear mountain lake that invites you to stay and admire nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.067439,
+                        42.845901
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "A well-maintained miniature golf course offering leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -0.115647,
+                        42.887869
                   ]
             }
       ]
@@ -6159,6 +6915,42 @@ export const poiExtraFrV2: POI[] = [
                         6.827729,
                         45.928886
                   ]
+            },
+            {
+                  "name": "Lacs de Chéserys",
+                  "text": "Die Lacs de Chéserys in Chamonix bieten ein beeindruckendes Bergpanorama und kristallklares Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        6.89723,
+                        45.98212
+                  ]
+            },
+            {
+                  "name": "Lac de la Persevérance",
+                  "text": "Der Lac de la Persevérance ist ein hochgelegener Bergsee in Chamonix mit spektakulärer Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.889226,
+                        45.988243
+                  ]
+            },
+            {
+                  "name": "Lac Noir d'en Haut",
+                  "text": "Der Lac Noir d'en Haut in Chamonix besticht durch seine dunkle Wasseroberfläche inmitten schroffer Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        6.855446,
+                        45.964294
+                  ]
+            },
+            {
+                  "name": "Retenue de la Flégère",
+                  "text": "Die Retenue de la Flégère ist ein künstliches Gewässer in Chamonix mit weitem Blick auf das Mont-Blanc-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        6.888497,
+                        45.961518
+                  ]
             }
       ],
       "hu": [
@@ -6230,6 +7022,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.827729,
                         45.928886
+                  ]
+            },
+            {
+                  "name": "Lacs de Chéserys",
+                  "text": "A chamonix-i Lacs de Chéserys lenyűgöző hegyi panorámát és kristálytiszta vizet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.89723,
+                        45.98212
+                  ]
+            },
+            {
+                  "name": "Lac de la Persevérance",
+                  "text": "A Lac de la Persevérance egy magasan fekvő hegyi tó Chamonix-ban, látványos kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        6.889226,
+                        45.988243
+                  ]
+            },
+            {
+                  "name": "Lac Noir d'en Haut",
+                  "text": "A chamonix-i Lac Noir d'en Haut sötét víztükrével tűnik ki a zord sziklák között.",
+                  "category": "natural",
+                  "coords": [
+                        6.855446,
+                        45.964294
+                  ]
+            },
+            {
+                  "name": "Retenue de la Flégère",
+                  "text": "A Retenue de la Flégère egy mesterséges tó Chamonix-ban, tágas kilátással a Mont Blanc-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        6.888497,
+                        45.961518
                   ]
             }
       ],
@@ -6303,6 +7131,42 @@ export const poiExtraFrV2: POI[] = [
                         6.827729,
                         45.928886
                   ]
+            },
+            {
+                  "name": "Lacs de Chéserys",
+                  "text": "Lacs de Chéserys din Chamonix oferă o panoramă montană impresionantă și ape de cristal.",
+                  "category": "natural",
+                  "coords": [
+                        6.89723,
+                        45.98212
+                  ]
+            },
+            {
+                  "name": "Lac de la Persevérance",
+                  "text": "Lac de la Persevérance este un lac montan situat la altitudine în Chamonix, cu vederi spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        6.889226,
+                        45.988243
+                  ]
+            },
+            {
+                  "name": "Lac Noir d'en Haut",
+                  "text": "Lac Noir d'en Haut din Chamonix impresionează prin suprafața sa de apă întunecată în mijlocul stâncilor abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        6.855446,
+                        45.964294
+                  ]
+            },
+            {
+                  "name": "Retenue de la Flégère",
+                  "text": "Retenue de la Flégère este un lac artificial din Chamonix cu o vedere largă asupra masivului Mont Blanc.",
+                  "category": "natural",
+                  "coords": [
+                        6.888497,
+                        45.961518
+                  ]
             }
       ],
       "en": [
@@ -6374,6 +7238,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.827729,
                         45.928886
+                  ]
+            },
+            {
+                  "name": "Lacs de Chéserys",
+                  "text": "Lacs de Chéserys in Chamonix offer an impressive mountain panorama and crystal-clear water.",
+                  "category": "natural",
+                  "coords": [
+                        6.89723,
+                        45.98212
+                  ]
+            },
+            {
+                  "name": "Lac de la Persevérance",
+                  "text": "Lac de la Persevérance is a high-altitude mountain lake in Chamonix with spectacular views.",
+                  "category": "natural",
+                  "coords": [
+                        6.889226,
+                        45.988243
+                  ]
+            },
+            {
+                  "name": "Lac Noir d'en Haut",
+                  "text": "Lac Noir d'en Haut in Chamonix stands out for its dark water surface amidst rugged rocks.",
+                  "category": "natural",
+                  "coords": [
+                        6.855446,
+                        45.964294
+                  ]
+            },
+            {
+                  "name": "Retenue de la Flégère",
+                  "text": "Retenue de la Flégère is an artificial body of water in Chamonix with a wide view of the Mont Blanc massif.",
+                  "category": "natural",
+                  "coords": [
+                        6.888497,
+                        45.961518
                   ]
             }
       ]
@@ -6749,6 +7649,87 @@ export const poiExtraFrV2: POI[] = [
                         6.616,
                         45.431
                   ]
+            },
+            {
+                  "name": "Lac de Tuéda",
+                  "text": "Ein idyllischer See im Herzen des Vanoise-Nationalparks, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.586835,
+                        45.362234
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Dieser kleine See in Courchevel bietet eine ruhige Umgebung für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Ein hochgelegener Bergsee, der Wanderern in Courchevel eine wunderbare Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Ein klarer Bergsee in Courchevel, bekannt für seine schöne Farbe und Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "Einer der höchstgelegenen Seen der Region, umgeben von alpiner Flora.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac du Pêtre",
+                  "text": "Ein entlegener Bergsee in Courchevel, ideal für eine friedliche Wanderung.",
+                  "category": "natural",
+                  "coords": [
+                        6.655164,
+                        45.35125
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Ein schöner Bergsee in Courchevel, der Teil einer beliebten Wanderroute ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Ein kleiner See in Courchevel, der zur Entspannung in der alpinen Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "Diese Bergseen bieten eine faszinierende Kulisse für Wanderungen in Courchevel.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
+                  ]
             }
       ],
       "hu": [
@@ -6830,6 +7811,87 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.616,
                         45.431
+                  ]
+            },
+            {
+                  "name": "Lac de Tuéda",
+                  "text": "Idilli tó a Vanoise Nemzeti Park szívében, tökéletes a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.586835,
+                        45.362234
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Ez a kis tó Courchevelben nyugodt környezetet biztosít egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Magaslati hegyi tó, amely csodálatos kilátást nyújt a túrázóknak Courchevelben.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Tiszta hegyi tó Courchevelben, amely szép színéről és környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "A régió egyik legmagasabban fekvő tava, alpesi flórával körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac du Pêtre",
+                  "text": "Egy távoli hegyi tó Courchevelben, ideális egy békés túrához.",
+                  "category": "natural",
+                  "coords": [
+                        6.655164,
+                        45.35125
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Szép hegyi tó Courchevelben, amely egy népszerű túraútvonal része.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Egy kis tó Courchevelben, amely pihenésre hív az alpesi természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "Ezek a hegyi tavak lenyűgöző hátteret biztosítanak a Courchevel-i túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
                   ]
             }
       ],
@@ -6913,6 +7975,87 @@ export const poiExtraFrV2: POI[] = [
                         6.616,
                         45.431
                   ]
+            },
+            {
+                  "name": "Lac de Tuéda",
+                  "text": "Un lac idilic în inima Parcului Național Vanoise, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.586835,
+                        45.362234
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Acest lac mic din Courchevel oferă un cadru liniștit pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Un lac montan la altitudine, care oferă drumeților o vedere minunată în Courchevel.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Un lac montan clar în Courchevel, cunoscut pentru culoarea și împrejurimile sale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "Unul dintre cele mai înalte lacuri din regiune, înconjurat de floră alpină.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac du Pêtre",
+                  "text": "Un lac montan retras în Courchevel, ideal pentru o drumeție liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        6.655164,
+                        45.35125
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Un lac montan frumos în Courchevel, care face parte dintr-un traseu de drumeție popular.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Un lac mic în Courchevel, care invită la relaxare în natura alpină.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "Aceste lacuri montane oferă un cadru fascinant pentru drumeții în Courchevel.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
+                  ]
             }
       ],
       "en": [
@@ -6994,6 +8137,87 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.616,
                         45.431
+                  ]
+            },
+            {
+                  "name": "Lac de Tuéda",
+                  "text": "An idyllic lake in the heart of the Vanoise National Park, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.586835,
+                        45.362234
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "This small lake in Courchevel provides a quiet setting for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "A high-altitude mountain lake offering hikers a wonderful view in Courchevel.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "A clear mountain lake in Courchevel, known for its beautiful color and surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "One of the highest lakes in the region, surrounded by alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac du Pêtre",
+                  "text": "A remote mountain lake in Courchevel, ideal for a peaceful hike.",
+                  "category": "natural",
+                  "coords": [
+                        6.655164,
+                        45.35125
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "A beautiful mountain lake in Courchevel, which is part of a popular hiking route.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "A small lake in Courchevel, inviting relaxation in alpine nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "These mountain lakes provide a fascinating backdrop for hikes in Courchevel.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
                   ]
             }
       ]
@@ -8503,6 +9727,141 @@ export const poiExtraFrV2: POI[] = [
                         -0.009612,
                         42.731739
                   ]
+            },
+            {
+                  "name": "Lago de Marboré",
+                  "text": "Ein schöner See in Gavarnie, bekannt für seine beeindruckende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        0.040256,
+                        42.695564
+                  ]
+            },
+            {
+                  "name": "Lac Couy",
+                  "text": "Ein friedlicher See in Gavarnie, perfekt zum Wandern und Natur genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -0.083491,
+                        42.783901
+                  ]
+            },
+            {
+                  "name": "Lac du Pouey Mourou",
+                  "text": "Ein malerischer See in Gavarnie, der ruhige Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.091261,
+                        42.769072
+                  ]
+            },
+            {
+                  "name": "Petit Lac du Col",
+                  "text": "Ein kleiner, malerischer See in Gavarnie, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -0.094787,
+                        42.776726
+                  ]
+            },
+            {
+                  "name": "Lago Helado de Monte Perdido / Ibón Chelau de Treserols",
+                  "text": "Ein malerischer See in Gavarnie mit atemberaubender Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        0.02643,
+                        42.681003
+                  ]
+            },
+            {
+                  "name": "Réservoir de Gèdre",
+                  "text": "Ein See bei Gavarnie, geeignet für ruhige Spaziergänge und schöne Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        0.01723,
+                        42.789824
+                  ]
+            },
+            {
+                  "name": "Lac des Gloriettes",
+                  "text": "Ein See in Gavarnie mit friedlicher Atmosphäre und schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        0.049107,
+                        42.751347
+                  ]
+            },
+            {
+                  "name": "Lac d'Antarrouyes",
+                  "text": "Ein Bergsee in Gavarnie, ideal für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.031459,
+                        42.807577
+                  ]
+            },
+            {
+                  "name": "Lac de Cestrède",
+                  "text": "Ein ruhiger See in Gavarnie, bekannt für seine gelassene Umgebung und Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -0.038344,
+                        42.805616
+                  ]
+            },
+            {
+                  "name": "Lac des Espécières",
+                  "text": "Ein malerischer See in Gavarnie, perfekt für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060595,
+                        42.714213
+                  ]
+            },
+            {
+                  "name": "Lac d'Aspé",
+                  "text": "Ein friedlicher See in der Region Gavarnie, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.080941,
+                        42.78114
+                  ]
+            },
+            {
+                  "name": "Lac du Cardal",
+                  "text": "Ein kleiner See in Gavarnie, der ein ruhiges Plätzchen für Naturspaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.102165,
+                        42.737138
+                  ]
+            },
+            {
+                  "name": "Réservoir de Coumély",
+                  "text": "Ein Seegebiet in Gavarnie, das sich zum Wandern und Genießen der Aussicht eignet.",
+                  "category": "natural",
+                  "coords": [
+                        0.007955,
+                        42.771277
+                  ]
+            },
+            {
+                  "name": "Lac Glacé",
+                  "text": "Ein malerischer See in Gavarnie, der eine schöne und ruhige Bergkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.090008,
+                        42.777129
+                  ]
+            },
+            {
+                  "name": "Barage d'Ossoue",
+                  "text": "Ein See in Gavarnie, der eine malerische Kulisse für Aktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.097182,
+                        42.757878
+                  ]
             }
       ],
       "hu": [
@@ -8564,6 +9923,141 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.009612,
                         42.731739
+                  ]
+            },
+            {
+                  "name": "Lago de Marboré",
+                  "text": "Gyönyörű tó Gavarnie-ban, amely lenyűgöző hegyi tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        0.040256,
+                        42.695564
+                  ]
+            },
+            {
+                  "name": "Lac Couy",
+                  "text": "Békés tó Gavarnie-ban, amely tökéletes sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -0.083491,
+                        42.783901
+                  ]
+            },
+            {
+                  "name": "Lac du Pouey Mourou",
+                  "text": "Festői tó Gavarnie környékén, amely csendes kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.091261,
+                        42.769072
+                  ]
+            },
+            {
+                  "name": "Petit Lac du Col",
+                  "text": "Kicsi, festői tó Gavarnie-ban, ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.094787,
+                        42.776726
+                  ]
+            },
+            {
+                  "name": "Lago Helado de Monte Perdido / Ibón Chelau de Treserols",
+                  "text": "Festői tó Gavarnie-ban, lenyűgöző kilátással a környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        0.02643,
+                        42.681003
+                  ]
+            },
+            {
+                  "name": "Réservoir de Gèdre",
+                  "text": "Tó Gavarnie közelében, amely alkalmas csendes sétákra és a kilátás élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        0.01723,
+                        42.789824
+                  ]
+            },
+            {
+                  "name": "Lac des Gloriettes",
+                  "text": "Tó Gavarnie-ban, amely nyugodt környezetet és szép tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        0.049107,
+                        42.751347
+                  ]
+            },
+            {
+                  "name": "Lac d'Antarrouyes",
+                  "text": "Hegyi tó Gavarnie-ban, ideális túrázók és a természet kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        -0.031459,
+                        42.807577
+                  ]
+            },
+            {
+                  "name": "Lac de Cestrède",
+                  "text": "Csendes tó Gavarnie-ban, amely nyugodt környezetéről és tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -0.038344,
+                        42.805616
+                  ]
+            },
+            {
+                  "name": "Lac des Espécières",
+                  "text": "Festői tó Gavarnie-ban, amely tökéletes egy kellemes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060595,
+                        42.714213
+                  ]
+            },
+            {
+                  "name": "Lac d'Aspé",
+                  "text": "Békés tó Gavarnie környékén, amely nyugodt légkört áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.080941,
+                        42.78114
+                  ]
+            },
+            {
+                  "name": "Lac du Cardal",
+                  "text": "Kisebb tó Gavarnie-ban, amely nyugodt helyszínt biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -0.102165,
+                        42.737138
+                  ]
+            },
+            {
+                  "name": "Réservoir de Coumély",
+                  "text": "Tó Gavarnie-ban, amely alkalmas sétákra és a kilátás élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        0.007955,
+                        42.771277
+                  ]
+            },
+            {
+                  "name": "Lac Glacé",
+                  "text": "Festői tó Gavarnie-ban, amely gyönyörű és csendes hegyi környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.090008,
+                        42.777129
+                  ]
+            },
+            {
+                  "name": "Barage d'Ossoue",
+                  "text": "Tó Gavarnie-ban, amely festői hátteret biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        -0.097182,
+                        42.757878
                   ]
             }
       ],
@@ -8627,6 +10121,141 @@ export const poiExtraFrV2: POI[] = [
                         -0.009612,
                         42.731739
                   ]
+            },
+            {
+                  "name": "Lago de Marboré",
+                  "text": "Un lac frumos în Gavarnie, cunoscut pentru peisajul montan uimitor.",
+                  "category": "natural",
+                  "coords": [
+                        0.040256,
+                        42.695564
+                  ]
+            },
+            {
+                  "name": "Lac Couy",
+                  "text": "Un lac liniștit în Gavarnie, perfect pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.083491,
+                        42.783901
+                  ]
+            },
+            {
+                  "name": "Lac du Pouey Mourou",
+                  "text": "Un lac pitoresc în zona Gavarnie care oferă vederi liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        -0.091261,
+                        42.769072
+                  ]
+            },
+            {
+                  "name": "Petit Lac du Col",
+                  "text": "Un lac mic și pitoresc în Gavarnie, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.094787,
+                        42.776726
+                  ]
+            },
+            {
+                  "name": "Lago Helado de Monte Perdido / Ibón Chelau de Treserols",
+                  "text": "Un lac pitoresc în Gavarnie care oferă vederi uimitoare asupra împrejurimimilor.",
+                  "category": "natural",
+                  "coords": [
+                        0.02643,
+                        42.681003
+                  ]
+            },
+            {
+                  "name": "Réservoir de Gèdre",
+                  "text": "Un lac lângă Gavarnie, potrivit pentru plimbări liniștite și peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        0.01723,
+                        42.789824
+                  ]
+            },
+            {
+                  "name": "Lac des Gloriettes",
+                  "text": "Un lac în Gavarnie care oferă un cadru liniștit și un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        0.049107,
+                        42.751347
+                  ]
+            },
+            {
+                  "name": "Lac d'Antarrouyes",
+                  "text": "Un lac montan în Gavarnie, ideal pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.031459,
+                        42.807577
+                  ]
+            },
+            {
+                  "name": "Lac de Cestrède",
+                  "text": "Un lac liniștit în Gavarnie, cunoscut pentru mediul și peisajul său senin.",
+                  "category": "natural",
+                  "coords": [
+                        -0.038344,
+                        42.805616
+                  ]
+            },
+            {
+                  "name": "Lac des Espécières",
+                  "text": "Un lac pitoresc în Gavarnie, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060595,
+                        42.714213
+                  ]
+            },
+            {
+                  "name": "Lac d'Aspé",
+                  "text": "Un lac liniștit în regiunea Gavarnie care oferă o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.080941,
+                        42.78114
+                  ]
+            },
+            {
+                  "name": "Lac du Cardal",
+                  "text": "Un lac mic în Gavarnie care oferă un loc liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.102165,
+                        42.737138
+                  ]
+            },
+            {
+                  "name": "Réservoir de Coumély",
+                  "text": "O zonă lacustră în Gavarnie, potrivită pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        0.007955,
+                        42.771277
+                  ]
+            },
+            {
+                  "name": "Lac Glacé",
+                  "text": "Un lac pitoresc în Gavarnie care oferă un cadru montan frumos și liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -0.090008,
+                        42.777129
+                  ]
+            },
+            {
+                  "name": "Barage d'Ossoue",
+                  "text": "Un lac în Gavarnie care oferă un fundal pitoresc pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.097182,
+                        42.757878
+                  ]
             }
       ],
       "en": [
@@ -8688,6 +10317,141 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.009612,
                         42.731739
+                  ]
+            },
+            {
+                  "name": "Lago de Marboré",
+                  "text": "A beautiful lake in Gavarnie known for its stunning mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        0.040256,
+                        42.695564
+                  ]
+            },
+            {
+                  "name": "Lac Couy",
+                  "text": "A peaceful lake in Gavarnie, perfect for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.083491,
+                        42.783901
+                  ]
+            },
+            {
+                  "name": "Lac du Pouey Mourou",
+                  "text": "A scenic lake in the Gavarnie area offering quiet views.",
+                  "category": "natural",
+                  "coords": [
+                        -0.091261,
+                        42.769072
+                  ]
+            },
+            {
+                  "name": "Petit Lac du Col",
+                  "text": "A small, picturesque lake in Gavarnie ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.094787,
+                        42.776726
+                  ]
+            },
+            {
+                  "name": "Lago Helado de Monte Perdido / Ibón Chelau de Treserols",
+                  "text": "A scenic lake in Gavarnie offering breathtaking views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        0.02643,
+                        42.681003
+                  ]
+            },
+            {
+                  "name": "Réservoir de Gèdre",
+                  "text": "A lake near Gavarnie suitable for a quiet walk and scenic appreciation.",
+                  "category": "natural",
+                  "coords": [
+                        0.01723,
+                        42.789824
+                  ]
+            },
+            {
+                  "name": "Lac des Gloriettes",
+                  "text": "A lake in Gavarnie offering a peaceful setting and beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        0.049107,
+                        42.751347
+                  ]
+            },
+            {
+                  "name": "Lac d'Antarrouyes",
+                  "text": "A mountain lake in Gavarnie ideal for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -0.031459,
+                        42.807577
+                  ]
+            },
+            {
+                  "name": "Lac de Cestrède",
+                  "text": "A quiet lake in Gavarnie known for its serene environment and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -0.038344,
+                        42.805616
+                  ]
+            },
+            {
+                  "name": "Lac des Espécières",
+                  "text": "A picturesque lake in Gavarnie perfect for a scenic stroll.",
+                  "category": "natural",
+                  "coords": [
+                        -0.060595,
+                        42.714213
+                  ]
+            },
+            {
+                  "name": "Lac d'Aspé",
+                  "text": "A peaceful lake in the Gavarnie region offering a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -0.080941,
+                        42.78114
+                  ]
+            },
+            {
+                  "name": "Lac du Cardal",
+                  "text": "A small lake in Gavarnie providing a tranquil spot for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        -0.102165,
+                        42.737138
+                  ]
+            },
+            {
+                  "name": "Réservoir de Coumély",
+                  "text": "A lake area in Gavarnie suitable for walking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        0.007955,
+                        42.771277
+                  ]
+            },
+            {
+                  "name": "Lac Glacé",
+                  "text": "A scenic lake in Gavarnie offering a beautiful and quiet mountain setting.",
+                  "category": "natural",
+                  "coords": [
+                        -0.090008,
+                        42.777129
+                  ]
+            },
+            {
+                  "name": "Barage d'Ossoue",
+                  "text": "A lake in Gavarnie that provides a scenic backdrop for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        -0.097182,
+                        42.757878
                   ]
             }
       ]
@@ -8763,6 +10527,15 @@ export const poiExtraFrV2: POI[] = [
                         1.523939,
                         49.077549
                   ]
+            },
+            {
+                  "name": "Square Laurence",
+                  "text": "Ein kleiner Spielplatz in Giverny, ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.490534,
+                        49.091972
+                  ]
             }
       ],
       "hu": [
@@ -8834,6 +10607,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         1.523939,
                         49.077549
+                  ]
+            },
+            {
+                  "name": "Square Laurence",
+                  "text": "Egy kis játszótér Giverny-ben, ideális egy szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        1.490534,
+                        49.091972
                   ]
             }
       ],
@@ -8907,6 +10689,15 @@ export const poiExtraFrV2: POI[] = [
                         1.523939,
                         49.077549
                   ]
+            },
+            {
+                  "name": "Square Laurence",
+                  "text": "Un mic loc de joacă în Giverny, ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        1.490534,
+                        49.091972
+                  ]
             }
       ],
       "en": [
@@ -8978,6 +10769,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         1.523939,
                         49.077549
+                  ]
+            },
+            {
+                  "name": "Square Laurence",
+                  "text": "A small playground in Giverny, ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        1.490534,
+                        49.091972
                   ]
             }
       ]
@@ -9423,6 +11223,24 @@ export const poiExtraFrV2: POI[] = [
                         -1.431146,
                         43.667487
                   ]
+            },
+            {
+                  "name": "Mini-Golf du Port",
+                  "text": "Ein unterhaltsamer Minigolfplatz in Soorts-Hossegor für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.436734,
+                        43.650083
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du parc Rosny",
+                  "text": "Ein Spielplatz in Soorts-Hossegor, auf dem Kinder im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -1.428134,
+                        43.660954
+                  ]
             }
       ],
       "hu": [
@@ -9574,6 +11392,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.431146,
                         43.667487
+                  ]
+            },
+            {
+                  "name": "Mini-Golf du Port",
+                  "text": "Szórakoztató minigolfpálya Soorts-Hossegorban az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.436734,
+                        43.650083
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du parc Rosny",
+                  "text": "Játszótér Soorts-Hossegorban, ahol a gyerekek a szabadban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.428134,
+                        43.660954
                   ]
             }
       ],
@@ -9727,6 +11563,24 @@ export const poiExtraFrV2: POI[] = [
                         -1.431146,
                         43.667487
                   ]
+            },
+            {
+                  "name": "Mini-Golf du Port",
+                  "text": "Un teren de minigolf distractiv în Soorts-Hossegor pentru toată familia.",
+                  "category": "family",
+                  "coords": [
+                        -1.436734,
+                        43.650083
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du parc Rosny",
+                  "text": "Un loc de joacă în Soorts-Hossegor unde copiii se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -1.428134,
+                        43.660954
+                  ]
             }
       ],
       "en": [
@@ -9878,6 +11732,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.431146,
                         43.667487
+                  ]
+            },
+            {
+                  "name": "Mini-Golf du Port",
+                  "text": "A fun miniature golf course in Soorts-Hossegor for all the family.",
+                  "category": "family",
+                  "coords": [
+                        -1.436734,
+                        43.650083
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du parc Rosny",
+                  "text": "A playground in Soorts-Hossegor where children can enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -1.428134,
+                        43.660954
                   ]
             }
       ]
@@ -11808,6 +13680,51 @@ export const poiExtraFrV2: POI[] = [
                         7.10532,
                         43.569901
                   ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Ein See in Juan-les-Pins, der einen angenehmen Rahmen für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Ein Spielplatz in Juan-les-Pins, der eine unterhaltsame Umgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "Ein Kinderspielbereich in Juan-les-Pins, perfekt für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Square Loucé",
+                  "text": "Ein kleiner Spielplatz in Juan-les-Pins, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        7.073602,
+                        43.569675
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "Ein lokaler Spielplatz in Juan-les-Pins, ideal für den Freizeitspaß von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
             }
       ],
       "hu": [
@@ -11978,6 +13895,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.10532,
                         43.569901
+                  ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Tó Juan-les-Pins-ben, amely kellemes környezetet nyújt egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Játszótér Juan-les-Pins-ben, amely vidám környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "Gyermekjátszóhely Juan-les-Pins-ben, amely tökéletes családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Square Loucé",
+                  "text": "Kisebb játszótér Juan-les-Pins-ben, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.073602,
+                        43.569675
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "Helyi játszótér Juan-les-Pins-ben, amely ideális a gyerekek szabadtéri szórakozásához.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
                   ]
             }
       ],
@@ -12150,6 +14112,51 @@ export const poiExtraFrV2: POI[] = [
                         7.10532,
                         43.569901
                   ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Un lac în Juan-les-Pins care oferă un cadru plăcut pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Un loc de joacă în Juan-les-Pins care oferă un mediu distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "O zonă de joacă pentru copii în Juan-les-Pins, perfectă pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Square Loucé",
+                  "text": "Un mic loc de joacă în Juan-les-Pins unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        7.073602,
+                        43.569675
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "Un loc de joacă local în Juan-les-Pins, ideal pentru distracția copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
             }
       ],
       "en": [
@@ -12321,6 +14328,51 @@ export const poiExtraFrV2: POI[] = [
                         7.10532,
                         43.569901
                   ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "A lake in Juan-les-Pins offering a pleasant setting for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "A playground in Juan-les-Pins providing a fun environment for children.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "A children's play area in Juan-les-Pins perfect for family outings.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Square Loucé",
+                  "text": "A small playground in Juan-les-Pins where kids can play safely.",
+                  "category": "family",
+                  "coords": [
+                        7.073602,
+                        43.569675
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "A local playground in Juan-les-Pins ideal for children's outdoor fun.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
             }
       ]
 }},
@@ -12415,6 +14467,69 @@ export const poiExtraFrV2: POI[] = [
                         6.677571,
                         45.511706
                   ]
+            },
+            {
+                  "name": "Lac du Carroley",
+                  "text": "Ein Bergsee in La Plagne, der Wanderern eine Erfrischung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.722045,
+                        45.523182
+                  ]
+            },
+            {
+                  "name": "Lac des Pierres Blanches",
+                  "text": "Dieser See bietet einen wunderbaren Blick auf die umliegenden Gipfel von La Plagne.",
+                  "category": "natural",
+                  "coords": [
+                        6.733214,
+                        45.535458
+                  ]
+            },
+            {
+                  "name": "Réservoir d'altitude Plagne Centre",
+                  "text": "Ein Speichersee in Plagne Centre, der als Orientierungspunkt für Wanderer dient.",
+                  "category": "natural",
+                  "coords": [
+                        6.669077,
+                        45.501534
+                  ]
+            },
+            {
+                  "name": "Lac de la Lovatière",
+                  "text": "Ein malerischer See bei La Plagne, ideal für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        6.672871,
+                        45.509402
+                  ]
+            },
+            {
+                  "name": "Retenue de Forcle",
+                  "text": "Ein kleiner Bergsee, der friedliche Momente in der alpinen Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.703956,
+                        45.496012
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Dieser Minigolfplatz bietet abwechslungsreichen Spielspaß für Familien in La Plagne.",
+                  "category": "family",
+                  "coords": [
+                        6.675865,
+                        45.505199
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants - ESF Club Piou Piou",
+                  "text": "Ein Übungsgelände für Kinder, um spielerisch die ersten Schritte im Schnee zu machen.",
+                  "category": "family",
+                  "coords": [
+                        6.677602,
+                        45.506167
+                  ]
             }
       ],
       "hu": [
@@ -12506,6 +14621,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.677571,
                         45.511706
+                  ]
+            },
+            {
+                  "name": "Lac du Carroley",
+                  "text": "Hegyi tó La Plagne-ban, amely frissítőt kínál a túrázóknak a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.722045,
+                        45.523182
+                  ]
+            },
+            {
+                  "name": "Lac des Pierres Blanches",
+                  "text": "Ez a tó csodálatos kilátást nyújt La Plagne környező hegycsúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        6.733214,
+                        45.535458
+                  ]
+            },
+            {
+                  "name": "Réservoir d'altitude Plagne Centre",
+                  "text": "Víztározó Plagne Centre-ben, amely tájékozódási pontként szolgál a túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.669077,
+                        45.501534
+                  ]
+            },
+            {
+                  "name": "Lac de la Lovatière",
+                  "text": "Festői tó La Plagne közelében, ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.672871,
+                        45.509402
+                  ]
+            },
+            {
+                  "name": "Retenue de Forcle",
+                  "text": "Egy kis hegyi tó, amely békés pillanatokat kínál az alpesi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        6.703956,
+                        45.496012
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Ez a minigolfpálya változatos szórakozást kínál a családoknak La Plagne-ban.",
+                  "category": "family",
+                  "coords": [
+                        6.675865,
+                        45.505199
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants - ESF Club Piou Piou",
+                  "text": "Gyakorlóterep gyerekeknek, hogy játékosan tegyék meg első lépéseiket a hóban.",
+                  "category": "family",
+                  "coords": [
+                        6.677602,
+                        45.506167
                   ]
             }
       ],
@@ -12599,6 +14777,69 @@ export const poiExtraFrV2: POI[] = [
                         6.677571,
                         45.511706
                   ]
+            },
+            {
+                  "name": "Lac du Carroley",
+                  "text": "Un lac montan în La Plagne, care oferă drumeților o revigorare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.722045,
+                        45.523182
+                  ]
+            },
+            {
+                  "name": "Lac des Pierres Blanches",
+                  "text": "Acest lac oferă o vedere minunată asupra vârfurilor înconjurătoare din La Plagne.",
+                  "category": "natural",
+                  "coords": [
+                        6.733214,
+                        45.535458
+                  ]
+            },
+            {
+                  "name": "Réservoir d'altitude Plagne Centre",
+                  "text": "Un lac de acumulare în Plagne Centre, care servește ca punct de reper pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        6.669077,
+                        45.501534
+                  ]
+            },
+            {
+                  "name": "Lac de la Lovatière",
+                  "text": "Un lac pitoresc lângă La Plagne, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.672871,
+                        45.509402
+                  ]
+            },
+            {
+                  "name": "Retenue de Forcle",
+                  "text": "Un mic lac montan, care oferă momente liniștite în peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        6.703956,
+                        45.496012
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Acest teren de minigolf oferă distracție variată pentru familii în La Plagne.",
+                  "category": "family",
+                  "coords": [
+                        6.675865,
+                        45.505199
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants - ESF Club Piou Piou",
+                  "text": "O zonă de antrenament pentru copii, pentru a face primii pași în zăpadă prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.677602,
+                        45.506167
+                  ]
             }
       ],
       "en": [
@@ -12690,6 +14931,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.677571,
                         45.511706
+                  ]
+            },
+            {
+                  "name": "Lac du Carroley",
+                  "text": "A mountain lake in La Plagne, offering hikers a refreshment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.722045,
+                        45.523182
+                  ]
+            },
+            {
+                  "name": "Lac des Pierres Blanches",
+                  "text": "This lake offers a wonderful view of the surrounding peaks of La Plagne.",
+                  "category": "natural",
+                  "coords": [
+                        6.733214,
+                        45.535458
+                  ]
+            },
+            {
+                  "name": "Réservoir d'altitude Plagne Centre",
+                  "text": "A reservoir in Plagne Centre that serves as a landmark for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        6.669077,
+                        45.501534
+                  ]
+            },
+            {
+                  "name": "Lac de la Lovatière",
+                  "text": "A picturesque lake near La Plagne, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.672871,
+                        45.509402
+                  ]
+            },
+            {
+                  "name": "Retenue de Forcle",
+                  "text": "A small mountain lake offering peaceful moments in the alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.703956,
+                        45.496012
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "This miniature golf course offers varied fun for families in La Plagne.",
+                  "category": "family",
+                  "coords": [
+                        6.675865,
+                        45.505199
+                  ]
+            },
+            {
+                  "name": "Piou Piou ESF Childrens Ski School",
+                  "text": "A practice area for children to take their first steps in the snow through play.",
+                  "category": "family",
+                  "coords": [
+                        6.677602,
+                        45.506167
                   ]
             }
       ]
@@ -13135,6 +15439,24 @@ export const poiExtraFrV2: POI[] = [
                         4.795082,
                         43.743728
                   ]
+            },
+            {
+                  "name": "Lac du Peirou",
+                  "text": "Ein malerischer See in Les Baux-de-Provence, perfekt für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        4.828733,
+                        43.770262
+                  ]
+            },
+            {
+                  "name": "Lac de Barreau",
+                  "text": "Ein friedlicher See in Les Baux-de-Provence, der eine ruhige natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.804448,
+                        43.81024
+                  ]
             }
       ],
       "hu": [
@@ -13206,6 +15528,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         4.795082,
                         43.743728
+                  ]
+            },
+            {
+                  "name": "Lac du Peirou",
+                  "text": "Festői tó Les Baux-de-Provence-ban, tökéletes egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        4.828733,
+                        43.770262
+                  ]
+            },
+            {
+                  "name": "Lac de Barreau",
+                  "text": "Békés tó Les Baux-de-Provence-ban, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        4.804448,
+                        43.81024
                   ]
             }
       ],
@@ -13279,6 +15619,24 @@ export const poiExtraFrV2: POI[] = [
                         4.795082,
                         43.743728
                   ]
+            },
+            {
+                  "name": "Lac du Peirou",
+                  "text": "Un lac pitoresc în Les Baux-de-Provence, perfect pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        4.828733,
+                        43.770262
+                  ]
+            },
+            {
+                  "name": "Lac de Barreau",
+                  "text": "Un lac liniștit în Les Baux-de-Provence care oferă un cadru natural calm.",
+                  "category": "natural",
+                  "coords": [
+                        4.804448,
+                        43.81024
+                  ]
             }
       ],
       "en": [
@@ -13350,6 +15708,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         4.795082,
                         43.743728
+                  ]
+            },
+            {
+                  "name": "Lac du Peirou",
+                  "text": "A scenic lake in Les Baux-de-Provence perfect for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        4.828733,
+                        43.770262
+                  ]
+            },
+            {
+                  "name": "Lac de Barreau",
+                  "text": "A peaceful lake in Les Baux-de-Provence offering a calm natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        4.804448,
+                        43.81024
                   ]
             }
       ]
@@ -13726,6 +16102,33 @@ export const poiExtraFrV2: POI[] = [
                         5.36286,
                         43.76414
                   ]
+            },
+            {
+                  "name": "Bassin de décantation de Saint-Christophe",
+                  "text": "Ein Seegebiet in Lourmarin, das einen ruhigen Ort zum Spazierengehen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.353027,
+                        43.705753
+                  ]
+            },
+            {
+                  "name": "Bassin de l'étang",
+                  "text": "Ein See in Lourmarin, geeignet für einen friedlichen Spaziergang und um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        5.43876,
+                        43.774291
+                  ]
+            },
+            {
+                  "name": "Lac du domaine des Iscles",
+                  "text": "Ein See in Lourmarin, der einen malerischen Rahmen für Entspannung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.316438,
+                        43.729487
+                  ]
             }
       ],
       "hu": [
@@ -13767,6 +16170,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.36286,
                         43.76414
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation de Saint-Christophe",
+                  "text": "Tó Lourmarinban, amely csendes helyszínt biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.353027,
+                        43.705753
+                  ]
+            },
+            {
+                  "name": "Bassin de l'étang",
+                  "text": "Tó Lourmarinban, amely alkalmas egy békés sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        5.43876,
+                        43.774291
+                  ]
+            },
+            {
+                  "name": "Lac du domaine des Iscles",
+                  "text": "Tó Lourmarinban, amely festői környezetet kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.316438,
+                        43.729487
                   ]
             }
       ],
@@ -13810,6 +16240,33 @@ export const poiExtraFrV2: POI[] = [
                         5.36286,
                         43.76414
                   ]
+            },
+            {
+                  "name": "Bassin de décantation de Saint-Christophe",
+                  "text": "O zonă lacustră în Lourmarin care oferă un loc liniștit pentru plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        5.353027,
+                        43.705753
+                  ]
+            },
+            {
+                  "name": "Bassin de l'étang",
+                  "text": "Un lac în Lourmarin, potrivit pentru o plimbare liniștită și pentru a admira peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        5.43876,
+                        43.774291
+                  ]
+            },
+            {
+                  "name": "Lac du domaine des Iscles",
+                  "text": "Un lac în Lourmarin care oferă un cadru pitoresc pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.316438,
+                        43.729487
+                  ]
             }
       ],
       "en": [
@@ -13851,6 +16308,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.36286,
                         43.76414
+                  ]
+            },
+            {
+                  "name": "Bassin de décantation de Saint-Christophe",
+                  "text": "A lake area in Lourmarin providing a quiet spot for walking.",
+                  "category": "natural",
+                  "coords": [
+                        5.353027,
+                        43.705753
+                  ]
+            },
+            {
+                  "name": "Bassin de l'étang",
+                  "text": "A lake in Lourmarin suitable for a peaceful walk and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        5.43876,
+                        43.774291
+                  ]
+            },
+            {
+                  "name": "Lac du domaine des Iscles",
+                  "text": "A lake in Lourmarin offering a scenic setting for outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        5.316438,
+                        43.729487
                   ]
             }
       ]
@@ -13935,6 +16419,33 @@ export const poiExtraFrV2: POI[] = [
                         6.58084,
                         45.838094
                   ]
+            },
+            {
+                  "name": "Lac du Plan Dessert",
+                  "text": "Ein ruhiger See bei Megève, ideal zum Angeln und für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.578688,
+                        45.792004
+                  ]
+            },
+            {
+                  "name": "Lacs de la Cavettaz",
+                  "text": "Diese kleinen Seen bieten eine friedliche Naturkulisse für Wanderer in Megève.",
+                  "category": "natural",
+                  "coords": [
+                        6.656313,
+                        45.923112
+                  ]
+            },
+            {
+                  "name": "Pumptrack",
+                  "text": "Ein moderner Pumptrack für Kinder und Jugendliche, um ihre Geschicklichkeit auf Rollen zu testen.",
+                  "category": "family",
+                  "coords": [
+                        6.623229,
+                        45.862232
+                  ]
             }
       ],
       "hu": [
@@ -14015,6 +16526,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.58084,
                         45.838094
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Dessert",
+                  "text": "Csendes tó Megève közelében, ideális horgászathoz és pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.578688,
+                        45.792004
+                  ]
+            },
+            {
+                  "name": "Lacs de la Cavettaz",
+                  "text": "Ezek a kis tavak békés természeti környezetet biztosítanak a Megève-i túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.656313,
+                        45.923112
+                  ]
+            },
+            {
+                  "name": "Pumptrack",
+                  "text": "Modern pumptrack gyerekeknek és fiataloknak, hogy teszteljék ügyességüket kerekeken.",
+                  "category": "family",
+                  "coords": [
+                        6.623229,
+                        45.862232
                   ]
             }
       ],
@@ -14097,6 +16635,33 @@ export const poiExtraFrV2: POI[] = [
                         6.58084,
                         45.838094
                   ]
+            },
+            {
+                  "name": "Lac du Plan Dessert",
+                  "text": "Un lac liniștit lângă Megève, ideal pentru pescuit și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        6.578688,
+                        45.792004
+                  ]
+            },
+            {
+                  "name": "Lacs de la Cavettaz",
+                  "text": "Aceste lacuri mici oferă un cadru natural liniștit pentru drumeții din Megève.",
+                  "category": "natural",
+                  "coords": [
+                        6.656313,
+                        45.923112
+                  ]
+            },
+            {
+                  "name": "Pumptrack",
+                  "text": "Un pumptrack modern pentru copii și tineri, pentru a-și testa abilitățile pe roți.",
+                  "category": "family",
+                  "coords": [
+                        6.623229,
+                        45.862232
+                  ]
             }
       ],
       "en": [
@@ -14177,6 +16742,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.58084,
                         45.838094
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Dessert",
+                  "text": "A quiet lake near Megève, ideal for fishing and relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.578688,
+                        45.792004
+                  ]
+            },
+            {
+                  "name": "Lacs de la Cavettaz",
+                  "text": "These small lakes provide a peaceful natural setting for hikers in Megève.",
+                  "category": "natural",
+                  "coords": [
+                        6.656313,
+                        45.923112
+                  ]
+            },
+            {
+                  "name": "Pumptrack",
+                  "text": "A modern pumptrack for children and young people to test their skills on wheels.",
+                  "category": "family",
+                  "coords": [
+                        6.623229,
+                        45.862232
                   ]
             }
       ]
@@ -14572,6 +17164,123 @@ export const poiExtraFrV2: POI[] = [
                         6.564977,
                         45.400541
                   ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Ein malerischer See in Méribel, der eine ruhige Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Ein friedlicher See in Méribel, ideal für einen erfrischenden Spaziergang in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Ein wunderschöner Bergsee in Méribel, bekannt für seine malerische Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Ein großer See in Méribel, der eine friedliche Umgebung zum Spazierengehen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.55747,
+                        45.350034
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "Ein Hochgebirgssee in Méribel, perfekt für einen ruhigen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Ein malerischer See in Méribel, der Wanderern ein ruhiges Plätzchen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Lac de la Rosière",
+                  "text": "Ein malerischer See in Méribel, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.665507,
+                        45.411293
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Ein schöner See in Meribel, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lac du Plane",
+                  "text": "Der Lac du Plane in Meribel bietet eine malerische Kulisse für einen Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        6.532402,
+                        45.366124
+                  ]
+            },
+            {
+                  "name": "Lac de Praz Pétaux",
+                  "text": "Ein ruhiger See in Meribel, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.539075,
+                        45.379103
+                  ]
+            },
+            {
+                  "name": "Laraja",
+                  "text": "Ein idyllischer See in der Nähe von Meribel, umgeben von herrlicher Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.499529,
+                        45.449883
+                  ]
+            },
+            {
+                  "name": "Lac des Bâches",
+                  "text": "Der Lac des Bâches in Meribel ist ein schönes Ziel für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.523047,
+                        45.411464
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "Die Lacs Merlet in Meribel sind bekannt für ihr klares Wasser und die ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
+                  ]
             }
       ],
       "hu": [
@@ -14633,6 +17342,123 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.564977,
                         45.400541
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Festői tó Méribelben, amely nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Békés tó Méribelben, ideális egy frissítő hegyi sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Gyönyörű hegyi tó Méribelben, amely festői kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Nagy tó Méribelben, amely nyugodt helyszínt biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.55747,
+                        45.350034
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "Magaslati hegyi tó Méribelben, tökéletes egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Festői tó Méribelben, amely nyugodt pihenőhelyet kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Lac de la Rosière",
+                  "text": "Gidres-völgyi festői tó Méribelben, ideális sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        6.665507,
+                        45.411293
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Egy szép tó Meribelben, amely ideális a természetben való sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lac du Plane",
+                  "text": "A Meribelben található Lac du Plane festői környezetet kínál egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.532402,
+                        45.366124
+                  ]
+            },
+            {
+                  "name": "Lac de Praz Pétaux",
+                  "text": "Egy nyugodt tó Meribelben, amely pihentető órákra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        6.539075,
+                        45.379103
+                  ]
+            },
+            {
+                  "name": "Laraja",
+                  "text": "Egy idilli tó Meribel közelében, csodálatos hegyi tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        6.499529,
+                        45.449883
+                  ]
+            },
+            {
+                  "name": "Lac des Bâches",
+                  "text": "A Meribelben található Lac des Bâches szép célpont a túrázók és a természetkedvelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.523047,
+                        45.411464
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "A Meribelben található Lacs Merlet tiszta vizéről és nyugodt környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
                   ]
             }
       ],
@@ -14696,6 +17522,123 @@ export const poiExtraFrV2: POI[] = [
                         6.564977,
                         45.400541
                   ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "Un lac pitoresc în Méribel care oferă un cadru calm pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "Un lac liniștit în Méribel, ideal pentru o plimbare revigorantă la munte.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "Un lac montan frumos în Méribel, cunoscut pentru vederile sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "Un lac mare în Méribel care oferă un cadru liniștit pentru plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        6.55747,
+                        45.350034
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "Un lac de munte înalt în Méribel, perfect pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "Un lac pitoresc în Méribel care oferă un loc liniștit pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Lac de la Rosière",
+                  "text": "Un lac pitoresc în Méribel, ideal pentru plimbări și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        6.665507,
+                        45.411293
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "Un lac frumos în Meribel, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lac du Plane",
+                  "text": "Lac du Plane din Meribel oferă un cadru pitoresc pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        6.532402,
+                        45.366124
+                  ]
+            },
+            {
+                  "name": "Lac de Praz Pétaux",
+                  "text": "Un lac liniștit în Meribel, care invită la ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        6.539075,
+                        45.379103
+                  ]
+            },
+            {
+                  "name": "Laraja",
+                  "text": "Un lac idilic lângă Meribel, înconjurat de un peisaj montan magnific.",
+                  "category": "natural",
+                  "coords": [
+                        6.499529,
+                        45.449883
+                  ]
+            },
+            {
+                  "name": "Lac des Bâches",
+                  "text": "Lac des Bâches din Meribel este o destinație frumoasă pentru drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.523047,
+                        45.411464
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "Lacs Merlet din Meribel sunt cunoscute pentru apa lor limpede și mediul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
+                  ]
             }
       ],
       "en": [
@@ -14757,6 +17700,123 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.564977,
                         45.400541
+                  ]
+            },
+            {
+                  "name": "Lac Biollay",
+                  "text": "A scenic lake in Méribel providing a calm environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.630433,
+                        45.407876
+                  ]
+            },
+            {
+                  "name": "Lac des Creux",
+                  "text": "A peaceful lake in Méribel ideal for a refreshing walk in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        6.625493,
+                        45.376452
+                  ]
+            },
+            {
+                  "name": "Lac Bleu",
+                  "text": "A beautiful mountain lake in Méribel known for its scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        6.610724,
+                        45.405599
+                  ]
+            },
+            {
+                  "name": "Grand Lac",
+                  "text": "A large lake in Méribel offering a peaceful setting for walking and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.55747,
+                        45.350034
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Supérieur",
+                  "text": "A high mountain lake in Méribel perfect for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        6.640304,
+                        45.360222
+                  ]
+            },
+            {
+                  "name": "Lac Merlet Inférieur",
+                  "text": "A scenic lake in Méribel providing a tranquil spot for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        6.648522,
+                        45.358534
+                  ]
+            },
+            {
+                  "name": "Lac de la Rosière",
+                  "text": "A picturesque lake in Méribel ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.665507,
+                        45.411293
+                  ]
+            },
+            {
+                  "name": "Plan du Vah",
+                  "text": "A beautiful lake in Meribel, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.644548,
+                        45.404981
+                  ]
+            },
+            {
+                  "name": "Lac du Plane",
+                  "text": "Lac du Plane in Meribel offers a picturesque setting for an outing.",
+                  "category": "natural",
+                  "coords": [
+                        6.532402,
+                        45.366124
+                  ]
+            },
+            {
+                  "name": "Lac de Praz Pétaux",
+                  "text": "A peaceful lake in Meribel, inviting for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        6.539075,
+                        45.379103
+                  ]
+            },
+            {
+                  "name": "Laraja",
+                  "text": "An idyllic lake near Meribel, surrounded by magnificent mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        6.499529,
+                        45.449883
+                  ]
+            },
+            {
+                  "name": "Lac des Bâches",
+                  "text": "Lac des Bâches in Meribel is a beautiful destination for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.523047,
+                        45.411464
+                  ]
+            },
+            {
+                  "name": "Lacs Merlet",
+                  "text": "The Lacs Merlet in Meribel are known for their clear water and peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        6.644575,
+                        45.359276
                   ]
             }
       ]
@@ -15601,6 +18661,24 @@ export const poiExtraFrV2: POI[] = [
                         7.335949,
                         43.705739
                   ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Ein toller Spielplatz in Saint Jean Cap Ferrat, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Dieser Spielbereich in Saint Jean Cap Ferrat ist ideal für kleine Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
             }
       ],
       "hu": [
@@ -15689,6 +18767,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.335949,
                         43.705739
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Egy nagyszerű játszótér Saint Jean Cap Ferratban, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Ez a Saint Jean Cap Ferrat-i játszóhely ideális a kisgyermekek számára a felfedezéshez és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
                   ]
             }
       ],
@@ -15779,6 +18875,24 @@ export const poiExtraFrV2: POI[] = [
                         7.335949,
                         43.705739
                   ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Un loc de joacă minunat în Saint Jean Cap Ferrat, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Această zonă de joacă din Saint Jean Cap Ferrat este ideală pentru copiii mici, pentru a explora și a se juca.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
             }
       ],
       "en": [
@@ -15868,6 +18982,24 @@ export const poiExtraFrV2: POI[] = [
                         7.335949,
                         43.705739
                   ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "A great playground in Saint Jean Cap Ferrat, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "This play area in Saint Jean Cap Ferrat is ideal for young children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
             }
       ]
 }},
@@ -15932,6 +19064,15 @@ export const poiExtraFrV2: POI[] = [
                         7.098417,
                         43.627375
                   ]
+            },
+            {
+                  "name": "Jeu de Paume",
+                  "text": "Ein öffentlicher Platz in Saint-Paul-de-Vence, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        7.09988,
+                        43.686664
+                  ]
             }
       ],
       "hu": [
@@ -15993,6 +19134,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
+                  ]
+            },
+            {
+                  "name": "Jeu de Paume",
+                  "text": "Nyilvános tér Saint-Paul-de-Vence-ben, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.09988,
+                        43.686664
                   ]
             }
       ],
@@ -16056,6 +19206,15 @@ export const poiExtraFrV2: POI[] = [
                         7.098417,
                         43.627375
                   ]
+            },
+            {
+                  "name": "Jeu de Paume",
+                  "text": "O piață publică în Saint-Paul-de-Vence, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        7.09988,
+                        43.686664
+                  ]
             }
       ],
       "en": [
@@ -16117,6 +19276,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
+                  ]
+            },
+            {
+                  "name": "Jeu de Paume",
+                  "text": "A public square in Saint-Paul-de-Vence where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        7.09988,
+                        43.686664
                   ]
             }
       ]
@@ -17484,6 +20652,96 @@ export const poiExtraFrV2: POI[] = [
                         6.65028,
                         44.89521
                   ]
+            },
+            {
+                  "name": "Lac de l'Eychauda",
+                  "text": "Ein beeindruckender Bergsee in Serre Chevalier, ideal für eine Wanderung mit Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.477415,
+                        44.932088
+                  ]
+            },
+            {
+                  "name": "Lac de Cristol",
+                  "text": "Der Lac de Cristol in Serre Chevalier besticht durch seine natürliche Schönheit und klare Luft.",
+                  "category": "natural",
+                  "coords": [
+                        6.590296,
+                        44.993891
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Ein kreisförmiger See in Serre Chevalier, der eine wunderbare Kulisse für Naturfotos bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.588464,
+                        44.988533
+                  ]
+            },
+            {
+                  "name": "Grand Lac de l'Oule",
+                  "text": "Der Grand Lac de l'Oule in Serre Chevalier lädt zu erholsamen Spaziergängen am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.610493,
+                        44.984655
+                  ]
+            },
+            {
+                  "name": "Lac la Barre",
+                  "text": "Ein malerischer See in Serre Chevalier, perfekt für eine Pause in der alpinen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.612814,
+                        44.985668
+                  ]
+            },
+            {
+                  "name": "Lac biotope",
+                  "text": "Ein naturbelassener See in Serre Chevalier, ideal zum Beobachten der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        6.553666,
+                        44.948523
+                  ]
+            },
+            {
+                  "name": "Plan d'eau du Pontillas",
+                  "text": "Ein ruhiges Gewässer in Serre Chevalier, das zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.554606,
+                        44.94861
+                  ]
+            },
+            {
+                  "name": "Mini golf du lac",
+                  "text": "Eine unterhaltsame Minigolfanlage am See in Serre Chevalier für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.553131,
+                        44.949498
+                  ]
+            },
+            {
+                  "name": "Parc Loisir",
+                  "text": "Ein vielseitiger Spielplatz in Serre Chevalier, der Kindern viel Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.585739,
+                        44.933357
+                  ]
+            },
+            {
+                  "name": "Camp des Marmottes",
+                  "text": "Ein toller Themenspielplatz in Serre Chevalier, der für Abenteuer und Familienspaß sorgt.",
+                  "category": "family",
+                  "coords": [
+                        6.570973,
+                        44.923552
+                  ]
             }
       ],
       "hu": [
@@ -17535,6 +20793,96 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.65028,
                         44.89521
+                  ]
+            },
+            {
+                  "name": "Lac de l'Eychauda",
+                  "text": "Egy lenyűgöző hegyi tó Serre Chevalier-ben, ideális egy kilátással teli túrához.",
+                  "category": "natural",
+                  "coords": [
+                        6.477415,
+                        44.932088
+                  ]
+            },
+            {
+                  "name": "Lac de Cristol",
+                  "text": "A Serre Chevalier-ben található Lac de Cristol természeti szépségével és tiszta levegőjével hódít.",
+                  "category": "natural",
+                  "coords": [
+                        6.590296,
+                        44.993891
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Egy kör alakú tó Serre Chevalier-ben, amely csodálatos hátteret kínál a természetfotókhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.588464,
+                        44.988533
+                  ]
+            },
+            {
+                  "name": "Grand Lac de l'Oule",
+                  "text": "A Serre Chevalier-ben található Grand Lac de l'Oule pihentető sétákra hív a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        6.610493,
+                        44.984655
+                  ]
+            },
+            {
+                  "name": "Lac la Barre",
+                  "text": "Egy festői tó Serre Chevalier-ben, amely tökéletes egy pihenőhöz az alpesi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        6.612814,
+                        44.985668
+                  ]
+            },
+            {
+                  "name": "Lac biotope",
+                  "text": "Egy természetes állapotú tó Serre Chevalier-ben, ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        6.553666,
+                        44.948523
+                  ]
+            },
+            {
+                  "name": "Plan d'eau du Pontillas",
+                  "text": "Egy nyugodt vízfelület Serre Chevalier-ben, amely a természetben való kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.554606,
+                        44.94861
+                  ]
+            },
+            {
+                  "name": "Mini golf du lac",
+                  "text": "Egy szórakoztató minigolfpálya a tónál Serre Chevalier-ben az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        6.553131,
+                        44.949498
+                  ]
+            },
+            {
+                  "name": "Parc Loisir",
+                  "text": "Egy sokoldalú játszótér Serre Chevalier-ben, amely sok helyet kínál a gyerekeknek a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.585739,
+                        44.933357
+                  ]
+            },
+            {
+                  "name": "Camp des Marmottes",
+                  "text": "Egy nagyszerű tematikus játszótér Serre Chevalier-ben, amely kalandot és családi szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        6.570973,
+                        44.923552
                   ]
             }
       ],
@@ -17588,6 +20936,96 @@ export const poiExtraFrV2: POI[] = [
                         6.65028,
                         44.89521
                   ]
+            },
+            {
+                  "name": "Lac de l'Eychauda",
+                  "text": "Un lac montan impresionant în Serre Chevalier, ideal pentru o drumeție cu priveliște.",
+                  "category": "natural",
+                  "coords": [
+                        6.477415,
+                        44.932088
+                  ]
+            },
+            {
+                  "name": "Lac de Cristol",
+                  "text": "Lac de Cristol din Serre Chevalier impresionează prin frumusețea sa naturală și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        6.590296,
+                        44.993891
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "Un lac circular în Serre Chevalier, care oferă un cadru minunat pentru fotografii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.588464,
+                        44.988533
+                  ]
+            },
+            {
+                  "name": "Grand Lac de l'Oule",
+                  "text": "Grand Lac de l'Oule din Serre Chevalier invită la plimbări relaxante pe malul mării.",
+                  "category": "natural",
+                  "coords": [
+                        6.610493,
+                        44.984655
+                  ]
+            },
+            {
+                  "name": "Lac la Barre",
+                  "text": "Un lac pitoresc în Serre Chevalier, perfect pentru o pauză în peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        6.612814,
+                        44.985668
+                  ]
+            },
+            {
+                  "name": "Lac biotope",
+                  "text": "Un lac natural în Serre Chevalier, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        6.553666,
+                        44.948523
+                  ]
+            },
+            {
+                  "name": "Plan d'eau du Pontillas",
+                  "text": "Un corp de apă liniștit în Serre Chevalier, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.554606,
+                        44.94861
+                  ]
+            },
+            {
+                  "name": "Mini golf du lac",
+                  "text": "Un teren de minigolf distractiv pe lacul din Serre Chevalier pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.553131,
+                        44.949498
+                  ]
+            },
+            {
+                  "name": "Parc Loisir",
+                  "text": "Un loc de joacă versatil în Serre Chevalier, care oferă copiilor mult spațiu pentru a se zbengui.",
+                  "category": "family",
+                  "coords": [
+                        6.585739,
+                        44.933357
+                  ]
+            },
+            {
+                  "name": "Camp des Marmottes",
+                  "text": "Un loc de joacă tematic minunat în Serre Chevalier, care oferă aventură și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.570973,
+                        44.923552
+                  ]
             }
       ],
       "en": [
@@ -17639,6 +21077,96 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.65028,
                         44.89521
+                  ]
+            },
+            {
+                  "name": "Lac de l'Eychauda",
+                  "text": "An impressive mountain lake in Serre Chevalier, ideal for a hike with a view.",
+                  "category": "natural",
+                  "coords": [
+                        6.477415,
+                        44.932088
+                  ]
+            },
+            {
+                  "name": "Lac de Cristol",
+                  "text": "Lac de Cristol in Serre Chevalier impresses with its natural beauty and clear air.",
+                  "category": "natural",
+                  "coords": [
+                        6.590296,
+                        44.993891
+                  ]
+            },
+            {
+                  "name": "Lac Rond",
+                  "text": "A circular lake in Serre Chevalier, offering a wonderful backdrop for nature photos.",
+                  "category": "natural",
+                  "coords": [
+                        6.588464,
+                        44.988533
+                  ]
+            },
+            {
+                  "name": "Grand Lac de l'Oule",
+                  "text": "The Grand Lac de l'Oule in Serre Chevalier invites for relaxing walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        6.610493,
+                        44.984655
+                  ]
+            },
+            {
+                  "name": "Lac la Barre",
+                  "text": "A scenic lake in Serre Chevalier, perfect for a break in the alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.612814,
+                        44.985668
+                  ]
+            },
+            {
+                  "name": "Lac biotope",
+                  "text": "A natural lake in Serre Chevalier, ideal for observing the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        6.553666,
+                        44.948523
+                  ]
+            },
+            {
+                  "name": "Plan d'eau du Pontillas",
+                  "text": "A peaceful body of water in Serre Chevalier, inviting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.554606,
+                        44.94861
+                  ]
+            },
+            {
+                  "name": "Mini golf du lac",
+                  "text": "A fun mini golf course by the lake in Serre Chevalier for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.553131,
+                        44.949498
+                  ]
+            },
+            {
+                  "name": "Parc Loisir",
+                  "text": "A versatile playground in Serre Chevalier, offering plenty of space for children to run around.",
+                  "category": "family",
+                  "coords": [
+                        6.585739,
+                        44.933357
+                  ]
+            },
+            {
+                  "name": "Camp des Marmottes",
+                  "text": "A great themed playground in Serre Chevalier, providing adventure and family fun.",
+                  "category": "family",
+                  "coords": [
+                        6.570973,
+                        44.923552
                   ]
             }
       ]
@@ -17714,6 +21242,150 @@ export const poiExtraFrV2: POI[] = [
                         6.907071,
                         45.46931
                   ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Ein großer Stausee bei Tignes, bekannt für seine beeindruckende Staumauer und Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Ein herrlicher Hochgebirgssee, der ein Ziel für anspruchsvolle Wanderungen in Tignes ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac du Grattaleu",
+                  "text": "Dieser kleine Bergsee liegt in einer wilden und unberührten Landschaft bei Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.858754,
+                        45.4615
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Ein beeindruckender Stausee im Hochgebirge, ideal für eine Wanderung in Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Ein kleiner, versteckter See, der Ruhe und eine schöne alpine Flora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac de l'Ouillette",
+                  "text": "Ein See in herrlicher Lage, der für seine Spiegelungen der Berge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.992272,
+                        45.428847
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Ein malerischer Bergsee, der ein ruhiges Ziel für Wanderer in Tignes darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Ein kleiner alpiner See, der zum Entspannen inmitten der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac Verdet",
+                  "text": "Dieser See besticht durch seine klare Wasserqualität und die ruhige Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        6.845612,
+                        45.461238
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Ein abgelegener Bergsee, der ein Gefühl von Einsamkeit und Naturerlebnis vermittelt.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Gouille d'Eau",
+                  "text": "Ein kleines Gewässer in den Bergen von Tignes, perfekt für eine kurze Rast.",
+                  "category": "natural",
+                  "coords": [
+                        6.870765,
+                        45.455318
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Ein hochgelegener See mit wildem Charme, ideal für erfahrene Bergwanderer.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Séry",
+                  "text": "Der Lac du Plan Séry in Tignes bietet eine friedliche Kulisse für malerische Spaziergänge und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        6.818165,
+                        45.467085
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "Dieser Bergsee in Tignes besticht durch seine beeindruckende Lage und lädt zu erholsamen Wanderungen ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Retenue des Brévières",
+                  "text": "Die Retenue des Brévières in Tignes ist ein ruhiges Gewässer, das sich ideal für einen entspannten Aufenthalt in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.916679,
+                        45.51123
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "Der Lac du Saut in Tignes ist ein malerischer See, der Besuchern eine wunderschöne Aussicht und Ruhe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
+                  ]
             }
       ],
       "hu": [
@@ -17785,6 +21457,150 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.907071,
                         45.46931
+                  ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Nagy víztározó Tignes közelében, amely lenyűgöző gátjáról és kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Csodálatos magashegyi tó, amely kihívást jelentő túrák célpontja Tignes-ben.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac du Grattaleu",
+                  "text": "Ez a kis hegyi tó vad és érintetlen tájon fekszik Tignes közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.858754,
+                        45.4615
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Lenyűgöző magashegyi víztározó, amely ideális egy Tignes-i túrához.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Kicsi, rejtett tó, amely nyugalmat és szép alpesi flórát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac de l'Ouillette",
+                  "text": "Csodálatos elhelyezkedésű tó, amely a hegyek tükröződéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.992272,
+                        45.428847
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Festői hegyi tó, amely nyugodt célpont a Tignes-i túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Kicsi alpesi tó, amely pihenésre hív a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac Verdet",
+                  "text": "Ez a tó tiszta vízminőségével és nyugodt környezetével nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        6.845612,
+                        45.461238
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Eldugott hegyi tó, amely a magány és a természet élményének érzését nyújtja.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Gouille d'Eau",
+                  "text": "Kis vízfelület Tignes hegyeiben, tökéletes egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        6.870765,
+                        45.455318
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Magaslati tó vad bájjal, ideális tapasztalt hegyi túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Séry",
+                  "text": "A Tignes településen található Lac du Plan Séry békés környezetet kínál festői sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.818165,
+                        45.467085
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "Ez a Tignes-i tengerszem lenyűgöző elhelyezkedésével vonzza a látogatókat, és pihentető túrákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Retenue des Brévières",
+                  "text": "A Tignes-i Retenue des Brévières egy csendes vízfelület, amely ideális a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.916679,
+                        45.51123
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "A Tignes-i Lac du Saut egy festői tó, amely gyönyörű kilátást és nyugalmat kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
                   ]
             }
       ],
@@ -17858,6 +21674,150 @@ export const poiExtraFrV2: POI[] = [
                         6.907071,
                         45.46931
                   ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Un lac de acumulare mare lângă Tignes, cunoscut pentru barajul și vederea sa impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Un lac de munte superb, care este o destinație pentru drumeții solicitante în Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac du Grattaleu",
+                  "text": "Acest lac montan mic este situat într-un peisaj sălbatic și neatins lângă Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.858754,
+                        45.4615
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Un lac de acumulare impresionant la mare altitudine, ideal pentru o drumeție în Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Un lac mic și ascuns, care oferă liniște și o floră alpină frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac de l'Ouillette",
+                  "text": "Un lac într-o locație superbă, cunoscut pentru reflexiile munților.",
+                  "category": "natural",
+                  "coords": [
+                        6.992272,
+                        45.428847
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Un lac montan pitoresc, care reprezintă o destinație liniștită pentru drumeții din Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Un mic lac alpin care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac Verdet",
+                  "text": "Acest lac impresionează prin calitatea apei clare și mediul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        6.845612,
+                        45.461238
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Un lac montan retras, care oferă o senzație de singurătate și experiență în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Gouille d'Eau",
+                  "text": "O mică întindere de apă în munții Tignes, perfectă pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        6.870765,
+                        45.455318
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Un lac la altitudine cu farmec sălbatic, ideal pentru drumeții montani experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Séry",
+                  "text": "Lac du Plan Séry din Tignes oferă un cadru liniștit pentru plimbări pitorești și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.818165,
+                        45.467085
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "Acest lac proglaciar din Tignes impresionează prin locația sa deosebită și invită la drumeții relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Retenue des Brévières",
+                  "text": "Retenue des Brévières din Tignes este o întindere de apă liniștită, ideală pentru o ședere relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.916679,
+                        45.51123
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "Lac du Saut din Tignes este un lac pitoresc care oferă vizitatorilor priveliști frumoase și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
+                  ]
             }
       ],
       "en": [
@@ -17929,6 +21889,150 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.907071,
                         45.46931
+                  ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "A large reservoir near Tignes, known for its impressive dam and views.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "A magnificent high-mountain lake that is a destination for challenging hikes in Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac du Grattaleu",
+                  "text": "This small mountain lake is located in a wild and untouched landscape near Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.858754,
+                        45.4615
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "An impressive high-mountain reservoir, ideal for a hike in Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "A small, hidden lake offering peace and beautiful alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac de l'Ouillette",
+                  "text": "A lake in a wonderful location, known for its reflections of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        6.992272,
+                        45.428847
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "A picturesque mountain lake that represents a quiet destination for hikers in Tignes.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "A small alpine lake inviting relaxation in the heart of nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac Verdet",
+                  "text": "This lake impresses with its clear water quality and quiet surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        6.845612,
+                        45.461238
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "A remote mountain lake providing a sense of solitude and nature experience.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Gouille d'Eau",
+                  "text": "A small body of water in the mountains of Tignes, perfect for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        6.870765,
+                        45.455318
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "A high-altitude lake with wild charm, ideal for experienced mountain hikers.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac du Plan Séry",
+                  "text": "The Lac du Plan Séry in Tignes offers a peaceful setting for scenic walks and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        6.818165,
+                        45.467085
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "This proglacial lake in Tignes impresses with its stunning location and invites for relaxing hikes.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Retenue des Brévières",
+                  "text": "The Retenue des Brévières in Tignes is a calm body of water, ideal for a relaxed stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.916679,
+                        45.51123
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "The Lac du Saut in Tignes is a picturesque lake offering beautiful views and tranquility to visitors.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
                   ]
             }
       ]
@@ -18004,6 +22108,168 @@ export const poiExtraFrV2: POI[] = [
                         6.936829,
                         45.395671
                   ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Der Lac du Chevril in Val D Isere ist ein großer Stausee, der die alpine Landschaft der Region prägt.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Lac de Tignes",
+                  "text": "Der Lac de Tignes bietet in Val D Isere eine malerische Kulisse für Spaziergänge und Wassersport.",
+                  "category": "natural",
+                  "coords": [
+                        6.903965,
+                        45.46569
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Der Grand Lac de Chardonet ist ein abgelegener Gebirgssee in Val D Isere, ideal für ruhige Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac de la Bailletta",
+                  "text": "Der Lac de la Bailletta in Val D Isere besticht durch seine ruhige Lage inmitten alpiner Wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        7.025066,
+                        45.466726
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Fond",
+                  "text": "Der Lac du Grand Fond in Val D Isere bietet Wanderern ein klares Gewässer in felsiger Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.009004,
+                        45.391825
+                  ]
+            },
+            {
+                  "name": "Lac de la Rocheure",
+                  "text": "Der Lac de la Rocheure ist ein malerischer Gebirgssee in Val D Isere, umgeben von Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        6.965048,
+                        45.378324
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Der Lac de la Sassière in Val D Isere ist ein idyllisches Ziel für Bergwanderer und Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Der Lac du Grapillon in Val D Isere liegt versteckt in der alpinen Landschaft und lädt zur Ruhe ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac du Santel",
+                  "text": "Der Lac du Santel ist ein kleiner, klarer Bergsee in Val D Isere, ideal für eine kurze Rast.",
+                  "category": "natural",
+                  "coords": [
+                        7.020567,
+                        45.475395
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Der Lac du Grand Huit in Val D Isere ist ein hochgelegener See, der für seine klare Sicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Der Lac du Plan du Cheval in Val D Isere ist ein malerischer Ort für Wanderungen in der Hochgebirgswelt.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Der Lac de la Leisse in Val D Isere bietet eine wilde und unberührte Naturkulisse für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Lac Céma",
+                  "text": "Der Lac Céma in Val D Isere ist ein malerisches Ziel für Wanderungen und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        7.038065,
+                        45.422884
+                  ]
+            },
+            {
+                  "name": "Lac supérieur de Rhêmes-Golette",
+                  "text": "Dieser Alpensee in Val D Isere bietet eine ruhige Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        7.042987,
+                        45.491064
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de Rhêmes-Golette",
+                  "text": "Ein klarer Bergsee in Val D Isere, der ideal für Naturfreunde und Wanderer ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.041074,
+                        45.489499
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Der Lac du Grand Creux lädt zu erholsamen Momenten in der Berglandschaft von Val D Isere ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "Ein interessantes Ausflugsziel für Wanderer in der alpinen Umgebung von Val D Isere.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "Der Lac du Saut ist ein ruhig gelegener See in Val D Isere, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
+                  ]
             }
       ],
       "hu": [
@@ -18075,6 +22341,168 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.936829,
                         45.395671
+                  ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "A Val D Isere-i Lac du Chevril egy nagy víztározó, amely meghatározza a régió alpesi táját.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Lac de Tignes",
+                  "text": "A Lac de Tignes festői környezetet biztosít Val D Isere-ben a sétákhoz és vízi sportokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.903965,
+                        45.46569
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "A Grand Lac de Chardonet egy félreeső hegyi tó Val D Isere-ben, ideális a nyugodt természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac de la Bailletta",
+                  "text": "A Val D Isere-i Lac de la Bailletta nyugodt fekvésével tűnik ki az alpesi rétek között.",
+                  "category": "natural",
+                  "coords": [
+                        7.025066,
+                        45.466726
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Fond",
+                  "text": "A Val D Isere-i Lac du Grand Fond tiszta vizet kínál a túrázóknak sziklás környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.009004,
+                        45.391825
+                  ]
+            },
+            {
+                  "name": "Lac de la Rocheure",
+                  "text": "A Lac de la Rocheure egy festői hegyi tó Val D Isere-ben, csúcsokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        6.965048,
+                        45.378324
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "A Val D Isere-i Lac de la Sassière idilli célpont a hegyi túrázóknak és a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "A Val D Isere-i Lac du Grapillon rejtve fekszik az alpesi tájban, és nyugalomra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac du Santel",
+                  "text": "A Lac du Santel egy kicsi, tiszta hegyi tó Val D Isere-ben, ideális egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        7.020567,
+                        45.475395
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "A Val D Isere-i Lac du Grand Huit egy magasan fekvő tó, amely tiszta kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "A Val D Isere-i Lac du Plan du Cheval festői helyszín a magashegyi túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "A Val D Isere-i Lac de la Leisse vad és érintetlen természeti környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Lac Céma",
+                  "text": "A Val D Isere városában található Lac Céma festői úti cél túrázáshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        7.038065,
+                        45.422884
+                  ]
+            },
+            {
+                  "name": "Lac supérieur de Rhêmes-Golette",
+                  "text": "Ez a Val D Isere-i alpesi tó nyugodt környezetet kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        7.042987,
+                        45.491064
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de Rhêmes-Golette",
+                  "text": "Tiszta hegyi tó Val D Isere-ben, amely ideális a természet kedvelőinek és a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        7.041074,
+                        45.489499
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "A Lac du Grand Creux pihentető pillanatokra hív Val D Isere hegyi tájai között.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "Érdekes kirándulóhely túrázók számára Val D Isere alpesi környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "A Lac du Saut egy csendes tó Val D Isere-ben, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
                   ]
             }
       ],
@@ -18148,6 +22576,168 @@ export const poiExtraFrV2: POI[] = [
                         6.936829,
                         45.395671
                   ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Lac du Chevril din Val D Isere este un mare lac de acumulare care marchează peisajul alpin al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Lac de Tignes",
+                  "text": "Lac de Tignes oferă în Val D Isere un cadru pitoresc pentru plimbări și sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        6.903965,
+                        45.46569
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Grand Lac de Chardonet este un lac montan izolat în Val D Isere, ideal pentru experiențe liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac de la Bailletta",
+                  "text": "Lac de la Bailletta din Val D Isere impresionează prin locația sa liniștită în mijlocul pajiștilor alpine.",
+                  "category": "natural",
+                  "coords": [
+                        7.025066,
+                        45.466726
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Fond",
+                  "text": "Lac du Grand Fond din Val D Isere oferă drumeților un corp de apă limpede într-un cadru stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        7.009004,
+                        45.391825
+                  ]
+            },
+            {
+                  "name": "Lac de la Rocheure",
+                  "text": "Lac de la Rocheure este un lac montan pitoresc în Val D Isere, înconjurat de vârfuri.",
+                  "category": "natural",
+                  "coords": [
+                        6.965048,
+                        45.378324
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Lac de la Sassière din Val D Isere este o destinație idilică pentru drumeții montani și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Lac du Grapillon din Val D Isere este ascuns în peisajul alpin și invită la liniște.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac du Santel",
+                  "text": "Lac du Santel este un mic lac montan limpede în Val D Isere, ideal pentru un scurt popas.",
+                  "category": "natural",
+                  "coords": [
+                        7.020567,
+                        45.475395
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Lac du Grand Huit din Val D Isere este un lac situat la altitudine, cunoscut pentru vizibilitatea sa clară.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Lac du Plan du Cheval din Val D Isere este un loc pitoresc pentru drumeții în lumea montană înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Lac de la Leisse din Val D Isere oferă vizitatorilor un cadru natural sălbatic și neatins.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Lac Céma",
+                  "text": "Lac Céma din Val D Isere este o destinație pitorească pentru drumeții și observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        7.038065,
+                        45.422884
+                  ]
+            },
+            {
+                  "name": "Lac supérieur de Rhêmes-Golette",
+                  "text": "Acest lac alpin din Val D Isere oferă un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.042987,
+                        45.491064
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de Rhêmes-Golette",
+                  "text": "Un lac montan limpede în Val D Isere, ideal pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        7.041074,
+                        45.489499
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Lac du Grand Creux invită la momente de relaxare în peisajul montan din Val D Isere.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "O destinație interesantă pentru drumeții în mediul alpin din Val D Isere.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "Lac du Saut este un lac liniștit în Val D Isere, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
+                  ]
             }
       ],
       "en": [
@@ -18219,6 +22809,168 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.936829,
                         45.395671
+                  ]
+            },
+            {
+                  "name": "Lac du Chevril",
+                  "text": "Lac du Chevril in Val D Isere is a large reservoir that shapes the region's alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.94246,
+                        45.482111
+                  ]
+            },
+            {
+                  "name": "Lac de Tignes",
+                  "text": "Lac de Tignes in Val D Isere provides a picturesque backdrop for walks and water sports.",
+                  "category": "natural",
+                  "coords": [
+                        6.903965,
+                        45.46569
+                  ]
+            },
+            {
+                  "name": "Grand Lac de Chardonet",
+                  "text": "Grand Lac de Chardonet is a remote mountain lake in Val D Isere, ideal for peaceful nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        6.883035,
+                        45.465677
+                  ]
+            },
+            {
+                  "name": "Lac de la Bailletta",
+                  "text": "Lac de la Bailletta in Val D Isere stands out for its quiet location amidst alpine meadows.",
+                  "category": "natural",
+                  "coords": [
+                        7.025066,
+                        45.466726
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Fond",
+                  "text": "Lac du Grand Fond in Val D Isere offers hikers clear water in rocky surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.009004,
+                        45.391825
+                  ]
+            },
+            {
+                  "name": "Lac de la Rocheure",
+                  "text": "Lac de la Rocheure is a picturesque mountain lake in Val D Isere, surrounded by peaks.",
+                  "category": "natural",
+                  "coords": [
+                        6.965048,
+                        45.378324
+                  ]
+            },
+            {
+                  "name": "Lac de la Sassière",
+                  "text": "Lac de la Sassière in Val D Isere is an idyllic destination for mountain hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        7.008879,
+                        45.482388
+                  ]
+            },
+            {
+                  "name": "Lac du Grapillon",
+                  "text": "Lac du Grapillon in Val D Isere is hidden in the alpine landscape and invites for tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        6.926496,
+                        45.409666
+                  ]
+            },
+            {
+                  "name": "Lac du Santel",
+                  "text": "Lac du Santel is a small, clear mountain lake in Val D Isere, ideal for a short rest.",
+                  "category": "natural",
+                  "coords": [
+                        7.020567,
+                        45.475395
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Huit",
+                  "text": "Lac du Grand Huit in Val D Isere is a high-altitude lake known for its clear views.",
+                  "category": "natural",
+                  "coords": [
+                        6.881282,
+                        45.470364
+                  ]
+            },
+            {
+                  "name": "Lac du Plan du Cheval",
+                  "text": "Lac du Plan du Cheval in Val D Isere is a picturesque spot for hikes in the high mountain world.",
+                  "category": "natural",
+                  "coords": [
+                        6.977456,
+                        45.47924
+                  ]
+            },
+            {
+                  "name": "Lac de la Leisse",
+                  "text": "Lac de la Leisse in Val D Isere offers a wild and untouched natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        6.910994,
+                        45.419
+                  ]
+            },
+            {
+                  "name": "Lac Céma",
+                  "text": "Lac Céma in Val D Isere is a picturesque destination for hiking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        7.038065,
+                        45.422884
+                  ]
+            },
+            {
+                  "name": "Lac supérieur de Rhêmes-Golette",
+                  "text": "This alpine lake in Val D Isere offers a serene setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        7.042987,
+                        45.491064
+                  ]
+            },
+            {
+                  "name": "Lac inférieur de Rhêmes-Golette",
+                  "text": "A clear mountain lake in Val D Isere, ideal for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        7.041074,
+                        45.489499
+                  ]
+            },
+            {
+                  "name": "Lac du Grand Creux",
+                  "text": "Lac du Grand Creux invites you to relaxing moments in the mountain landscape of Val D Isere.",
+                  "category": "natural",
+                  "coords": [
+                        6.995646,
+                        45.478701
+                  ]
+            },
+            {
+                  "name": "Lac proglacière de Roselin",
+                  "text": "An interesting destination for hikers in the alpine environment of Val D Isere.",
+                  "category": "natural",
+                  "coords": [
+                        6.883125,
+                        45.428882
+                  ]
+            },
+            {
+                  "name": "Lac du Saut",
+                  "text": "Lac du Saut is a quietly located lake in Val D Isere, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        6.971136,
+                        45.486973
                   ]
             }
       ]

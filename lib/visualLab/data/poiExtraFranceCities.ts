@@ -186,6 +186,132 @@ export const poiExtraFranceCities: POI[] = [
                         5.718458,
                         45.188164
                   ]
+            },
+            {
+                  "name": "Lac de la Taillat",
+                  "text": "Ein malerischer See bei Grenoble, ideal für friedliche Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        5.800731,
+                        45.189868
+                  ]
+            },
+            {
+                  "name": "Lac de Fiancey",
+                  "text": "Ein ruhiger See bei Grenoble, der eine entspannende Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.69224,
+                        45.222186
+                  ]
+            },
+            {
+                  "name": "Eva Grenoble",
+                  "text": "Ein Virtual-Reality-Zentrum in Grenoble für Hightech-Spielspaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.687015,
+                        45.203555
+                  ]
+            },
+            {
+                  "name": "Seven Squares",
+                  "text": "Ein Freizeitzentrum in Grenoble mit verschiedenen Spielen für einen abwechslungsreichen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        5.755763,
+                        45.18386
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "Eine spannende Laser-Tag-Arena in Grenoble, ideal für aktive Familienwettbewerbe.",
+                  "category": "family",
+                  "coords": [
+                        5.774173,
+                        45.18461
+                  ]
+            },
+            {
+                  "name": "Parc des abeilles",
+                  "text": "Ein charmanter Themen-Spielplatz in Grenoble, auf dem Kinder in grüner Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        5.75442,
+                        45.188889
+                  ]
+            },
+            {
+                  "name": "La Grande Vallée",
+                  "text": "Ein großer Spielbereich in Grenoble, der verschiedene Aktivitäten zum Vergnügen der Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.736231,
+                        45.183887
+                  ]
+            },
+            {
+                  "name": "Cour de l'Alma",
+                  "text": "Ein lokaler Spielplatz in Grenoble, der Raum für Kinder aus der Nachbarschaft zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.733947,
+                        45.191494
+                  ]
+            },
+            {
+                  "name": "Square Minimail",
+                  "text": "Ein kleiner städtischer Spielplatz in Grenoble, ideal für eine kurze Familienpause.",
+                  "category": "family",
+                  "coords": [
+                        5.689452,
+                        45.195557
+                  ]
+            },
+            {
+                  "name": "Dracque la dragonne",
+                  "text": "Ein lustiger und fantasievoller Spielplatz in Grenoble, den Kinder erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        5.713258,
+                        45.187421
+                  ]
+            },
+            {
+                  "name": "La Tourbière",
+                  "text": "Ein Spielplatz in Grenoble in einer angenehmen Umgebung für Familienzeit im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.742456,
+                        45.170145
+                  ]
+            },
+            {
+                  "name": "Parc de jeux du Marais",
+                  "text": "Ein Erholungsgebiet in Grenoble mit Spielstrukturen für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        5.751017,
+                        45.16477
+                  ]
+            },
+            {
+                  "name": "Square Général Mangin",
+                  "text": "Ein Nachbarschaftsplatz in Grenoble mit einem eigenen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        5.719168,
+                        45.17904
+                  ]
+            },
+            {
+                  "name": "Les Petites Alpes",
+                  "text": "Ein von den Bergen inspirierter Themen-Spielplatz in Grenoble für aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        5.731763,
+                        45.158386
+                  ]
             }
       ],
       "hu": [
@@ -327,6 +453,132 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.718458,
                         45.188164
+                  ]
+            },
+            {
+                  "name": "Lac de la Taillat",
+                  "text": "Festői tó Grenoble környékén, amely ideális nyugodt sétákhoz és a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.800731,
+                        45.189868
+                  ]
+            },
+            {
+                  "name": "Lac de Fiancey",
+                  "text": "Csendes tó Grenoble közelében, amely pihentető környezetet kínál a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.69224,
+                        45.222186
+                  ]
+            },
+            {
+                  "name": "Eva Grenoble",
+                  "text": "Virtuális valóság központ Grenoble-ban a csúcstechnológiás közös játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        5.687015,
+                        45.203555
+                  ]
+            },
+            {
+                  "name": "Seven Squares",
+                  "text": "Szabadidőközpont Grenoble-ban különféle játékokkal egy változatos családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        5.755763,
+                        45.18386
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "Izgalmas lézerjáték-aréna Grenoble-ban, amely tökéletes az aktív családi versenyekhez.",
+                  "category": "family",
+                  "coords": [
+                        5.774173,
+                        45.18461
+                  ]
+            },
+            {
+                  "name": "Parc des abeilles",
+                  "text": "Bájos tematikus játszótér Grenoble-ban, ahol a gyerekek zöld környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        5.75442,
+                        45.188889
+                  ]
+            },
+            {
+                  "name": "La Grande Vallée",
+                  "text": "Nagy játszóterület Grenoble-ban, amely különféle tevékenységeket kínál a gyerekek örömére.",
+                  "category": "family",
+                  "coords": [
+                        5.736231,
+                        45.183887
+                  ]
+            },
+            {
+                  "name": "Cour de l'Alma",
+                  "text": "Helyi játszótér Grenoble-ban, amely helyet biztosít a környékbeli gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.733947,
+                        45.191494
+                  ]
+            },
+            {
+                  "name": "Square Minimail",
+                  "text": "Kis városi játszótér Grenoble-ban, amely ideális egy gyors családi szünethez.",
+                  "category": "family",
+                  "coords": [
+                        5.689452,
+                        45.195557
+                  ]
+            },
+            {
+                  "name": "Dracque la dragonne",
+                  "text": "Vidám és ötletes játszótér Grenoble-ban, amelyet a gyerekek felfedezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.713258,
+                        45.187421
+                  ]
+            },
+            {
+                  "name": "La Tourbière",
+                  "text": "Játszótér Grenoble-ban, kellemes környezetben a szabadtéri családi időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        5.742456,
+                        45.170145
+                  ]
+            },
+            {
+                  "name": "Parc de jeux du Marais",
+                  "text": "Szabadidős terület Grenoble-ban játéklehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        5.751017,
+                        45.16477
+                  ]
+            },
+            {
+                  "name": "Square Général Mangin",
+                  "text": "Környékbeli tér Grenoble-ban, külön játszótérrel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        5.719168,
+                        45.17904
+                  ]
+            },
+            {
+                  "name": "Les Petites Alpes",
+                  "text": "Hegyek ihlette tematikus játszótér Grenoble-ban az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        5.731763,
+                        45.158386
                   ]
             }
       ],
@@ -470,6 +722,132 @@ export const poiExtraFranceCities: POI[] = [
                         5.718458,
                         45.188164
                   ]
+            },
+            {
+                  "name": "Lac de la Taillat",
+                  "text": "Un lac pitoresc lângă Grenoble, ideal pentru plimbări liniștite și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.800731,
+                        45.189868
+                  ]
+            },
+            {
+                  "name": "Lac de Fiancey",
+                  "text": "Un lac liniștit lângă Grenoble, care oferă un mediu relaxant pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.69224,
+                        45.222186
+                  ]
+            },
+            {
+                  "name": "Eva Grenoble",
+                  "text": "Un centru de realitate virtuală în Grenoble pentru distracție high-tech cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        5.687015,
+                        45.203555
+                  ]
+            },
+            {
+                  "name": "Seven Squares",
+                  "text": "Un centru de agrement în Grenoble cu diverse jocuri pentru o zi variată în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.755763,
+                        45.18386
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "O arenă incitantă de laser tag în Grenoble, perfectă pentru competiții active în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.774173,
+                        45.18461
+                  ]
+            },
+            {
+                  "name": "Parc des abeilles",
+                  "text": "Un teren de joacă tematic fermecător în Grenoble, unde copiii se pot juca într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        5.75442,
+                        45.188889
+                  ]
+            },
+            {
+                  "name": "La Grande Vallée",
+                  "text": "O zonă mare de joacă în Grenoble care oferă diverse activități pentru bucuria copiilor.",
+                  "category": "family",
+                  "coords": [
+                        5.736231,
+                        45.183887
+                  ]
+            },
+            {
+                  "name": "Cour de l'Alma",
+                  "text": "Un teren de joacă local în Grenoble care oferă spațiu copiilor din cartier pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        5.733947,
+                        45.191494
+                  ]
+            },
+            {
+                  "name": "Square Minimail",
+                  "text": "Un mic teren de joacă urban în Grenoble, ideal pentru o scurtă pauză în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.689452,
+                        45.195557
+                  ]
+            },
+            {
+                  "name": "Dracque la dragonne",
+                  "text": "Un teren de joacă distractiv și plin de imaginație în Grenoble, pe care copiii îl pot explora.",
+                  "category": "family",
+                  "coords": [
+                        5.713258,
+                        45.187421
+                  ]
+            },
+            {
+                  "name": "La Tourbière",
+                  "text": "Un teren de joacă în Grenoble situat într-un mediu plăcut pentru timp în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.742456,
+                        45.170145
+                  ]
+            },
+            {
+                  "name": "Parc de jeux du Marais",
+                  "text": "O zonă recreativă în Grenoble cu structuri de joacă pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        5.751017,
+                        45.16477
+                  ]
+            },
+            {
+                  "name": "Square Général Mangin",
+                  "text": "O piațetă de cartier în Grenoble cu un loc de joacă dedicat copiilor.",
+                  "category": "family",
+                  "coords": [
+                        5.719168,
+                        45.17904
+                  ]
+            },
+            {
+                  "name": "Les Petites Alpes",
+                  "text": "Un teren de joacă tematic în Grenoble, inspirat de munți, pentru joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        5.731763,
+                        45.158386
+                  ]
             }
       ],
       "en": [
@@ -611,6 +989,132 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.718458,
                         45.188164
+                  ]
+            },
+            {
+                  "name": "Lac de la Taillat",
+                  "text": "A scenic lake near Grenoble ideal for peaceful walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        5.800731,
+                        45.189868
+                  ]
+            },
+            {
+                  "name": "Lac de Fiancey",
+                  "text": "A quiet lake near Grenoble offering a relaxing environment for strolls.",
+                  "category": "natural",
+                  "coords": [
+                        5.69224,
+                        45.222186
+                  ]
+            },
+            {
+                  "name": "Eva Grenoble",
+                  "text": "A virtual reality center in Grenoble for high-tech gaming fun with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        5.687015,
+                        45.203555
+                  ]
+            },
+            {
+                  "name": "Seven Squares",
+                  "text": "A leisure center in Grenoble with various games for a diverse family day out.",
+                  "category": "family",
+                  "coords": [
+                        5.755763,
+                        45.18386
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "An exciting laser tag arena in Grenoble perfect for active family competitions.",
+                  "category": "family",
+                  "coords": [
+                        5.774173,
+                        45.18461
+                  ]
+            },
+            {
+                  "name": "Parc des abeilles",
+                  "text": "A charming themed playground in Grenoble where children can play in a green setting.",
+                  "category": "family",
+                  "coords": [
+                        5.75442,
+                        45.188889
+                  ]
+            },
+            {
+                  "name": "La Grande Vallée",
+                  "text": "A large play area in Grenoble offering various activities for children's enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        5.736231,
+                        45.183887
+                  ]
+            },
+            {
+                  "name": "Cour de l'Alma",
+                  "text": "A local playground in Grenoble providing space for neighborhood kids to play together.",
+                  "category": "family",
+                  "coords": [
+                        5.733947,
+                        45.191494
+                  ]
+            },
+            {
+                  "name": "Square Minimail",
+                  "text": "A small urban playground in Grenoble ideal for a quick family break.",
+                  "category": "family",
+                  "coords": [
+                        5.689452,
+                        45.195557
+                  ]
+            },
+            {
+                  "name": "Dracque la dragonne",
+                  "text": "A fun and imaginative playground in Grenoble for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        5.713258,
+                        45.187421
+                  ]
+            },
+            {
+                  "name": "La Tourbière",
+                  "text": "A playground in Grenoble located in a pleasant environment for outdoor family time.",
+                  "category": "family",
+                  "coords": [
+                        5.742456,
+                        45.170145
+                  ]
+            },
+            {
+                  "name": "Parc de jeux du Marais",
+                  "text": "A recreational area in Grenoble with play structures for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        5.751017,
+                        45.16477
+                  ]
+            },
+            {
+                  "name": "Square Général Mangin",
+                  "text": "A neighborhood square in Grenoble with a dedicated play area for children.",
+                  "category": "family",
+                  "coords": [
+                        5.719168,
+                        45.17904
+                  ]
+            },
+            {
+                  "name": "Les Petites Alpes",
+                  "text": "A themed playground in Grenoble inspired by the mountains for active play.",
+                  "category": "family",
+                  "coords": [
+                        5.731763,
+                        45.158386
                   ]
             }
       ],
@@ -1887,6 +2391,213 @@ export const poiExtraFranceCities: POI[] = [
                         3.894867,
                         43.599093
                   ]
+            },
+            {
+                  "name": "Étang du Méjean",
+                  "text": "Der Étang du Méjean bei Montpellier ist ein ruhiger See, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        3.919758,
+                        43.54657
+                  ]
+            },
+            {
+                  "name": "Bras mort du Lez",
+                  "text": "Der Bras mort du Lez in Montpellier ist ein friedliches Gewässer in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        3.877851,
+                        43.649311
+                  ]
+            },
+            {
+                  "name": "Bras secondaire du Lez",
+                  "text": "Der Bras secondaire du Lez in Montpellier lädt zu ruhigen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        3.886011,
+                        43.644361
+                  ]
+            },
+            {
+                  "name": "Lac du Crès",
+                  "text": "Der Lac du Crès bei Montpellier ist ein beliebtes Ziel für erholsame Ausflüge am See.",
+                  "category": "natural",
+                  "coords": [
+                        3.930887,
+                        43.654874
+                  ]
+            },
+            {
+                  "name": "SALLE DE JEUX",
+                  "text": "Die SALLE DE JEUX in Montpellier bietet abwechslungsreiche Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.880356,
+                        43.607482
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy in Montpellier ist ein Minigolfplatz, der Spaß für die ganze Familie garantiert.",
+                  "category": "family",
+                  "coords": [
+                        3.882349,
+                        43.581106
+                  ]
+            },
+            {
+                  "name": "AlphaNef",
+                  "text": "AlphaNef in Montpellier ist ein Freizeitzentrum mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        3.879088,
+                        43.612612
+                  ]
+            },
+            {
+                  "name": "Les Mandrous",
+                  "text": "Les Mandrous in Montpellier ist ein schöner Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.901921,
+                        43.631983
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Laser Game in Montpellier bietet spannende Action und Teamspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.856429,
+                        43.588957
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Parc Domaine de Méric",
+                  "text": "Die Aire de jeux du Parc Domaine de Méric in Montpellier ist ein herrlicher Ort zum Spielen im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        3.892396,
+                        43.630929
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Georges Clémenceau",
+                  "text": "Die Aire de jeux du parc Georges Clémenceau in Montpellier ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.87212,
+                        43.604186
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants",
+                  "text": "Der Jardin d'enfants in Montpellier ist ein sicher gestalteter Bereich für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.911408,
+                        43.605802
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Planchon",
+                  "text": "Die Aire de jeux du Square Planchon in Montpellier lädt Kinder zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        3.879761,
+                        43.605767
+                  ]
+            },
+            {
+                  "name": "Square Saint-Roch",
+                  "text": "Der Square Saint-Roch in Montpellier bietet einen angenehmen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.876018,
+                        43.608817
+                  ]
+            },
+            {
+                  "name": "Aire du père Louis",
+                  "text": "Die Aire du père Louis in Montpellier ist ein schöner Platz für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        3.896551,
+                        43.610659
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Alexender Bell",
+                  "text": "Die Aire de jeux Alexender Bell in Montpellier bietet moderne Spielgeräte für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.907052,
+                        43.611393
+                  ]
+            },
+            {
+                  "name": "Le Lunaret",
+                  "text": "Le Lunaret in Montpellier ist ein weitläufiger Spielbereich für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.873688,
+                        43.63988
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Place de l'Aiguelongue",
+                  "text": "Die Aire de jeux Place de l'Aiguelongue in Montpellier ist ein einladender Spielplatz im Viertel.",
+                  "category": "family",
+                  "coords": [
+                        3.880828,
+                        43.627964
+                  ]
+            },
+            {
+                  "name": "Aire des Rhinocéros Statues",
+                  "text": "Die Aire des Rhinocéros Statues in Montpellier bietet einen einzigartigen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        3.877919,
+                        43.64358
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Jean Baumel",
+                  "text": "Die Aire de jeux du Square Jean Baumel in Montpellier ist ein ruhiger Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.85836,
+                        43.640334
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Grisettes",
+                  "text": "Die Aire de jeux des Grisettes in Montpellier bietet modernen Spielspaß in freundlicher Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        3.85777,
+                        43.582928
+                  ]
+            },
+            {
+                  "name": "Aire Ferdinand de Lesseps",
+                  "text": "Diese Spielplatz in Montpellier bietet eine sichere und unterhaltsame Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.878589,
+                        43.593325
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square des Prés d'Arènes",
+                  "text": "Der Square des Prés d'Arènes in Montpellier verfügt über einen kinderfreundlichen Spielbereich.",
+                  "category": "family",
+                  "coords": [
+                        3.889924,
+                        43.59082
+                  ]
             }
       ],
       "hu": [
@@ -2048,6 +2759,213 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.894867,
                         43.599093
+                  ]
+            },
+            {
+                  "name": "Étang du Méjean",
+                  "text": "A Montpellier melletti Étang du Méjean egy csendes tó, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        3.919758,
+                        43.54657
+                  ]
+            },
+            {
+                  "name": "Bras mort du Lez",
+                  "text": "A montpellieri Bras mort du Lez egy békés vízfelület természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        3.877851,
+                        43.649311
+                  ]
+            },
+            {
+                  "name": "Bras secondaire du Lez",
+                  "text": "A montpellieri Bras secondaire du Lez nyugodt pillanatokra hív a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        3.886011,
+                        43.644361
+                  ]
+            },
+            {
+                  "name": "Lac du Crès",
+                  "text": "A Montpellier melletti Lac du Crès népszerű úti cél a tóparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        3.930887,
+                        43.654874
+                  ]
+            },
+            {
+                  "name": "SALLE DE JEUX",
+                  "text": "A montpellieri SALLE DE JEUX változatos szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.880356,
+                        43.607482
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "A montpellieri Goolfy egy minigolfpálya, amely garantált szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        3.882349,
+                        43.581106
+                  ]
+            },
+            {
+                  "name": "AlphaNef",
+                  "text": "A montpellieri AlphaNef egy szabadidőközpont különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        3.879088,
+                        43.612612
+                  ]
+            },
+            {
+                  "name": "Les Mandrous",
+                  "text": "A montpellieri Les Mandrous egy kellemes játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.901921,
+                        43.631983
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "A montpellieri Laser Game izgalmas akciót és csapatszórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.856429,
+                        43.588957
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Parc Domaine de Méric",
+                  "text": "A montpellieri Aire de jeux du Parc Domaine de Méric egy csodás játszótér zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        3.892396,
+                        43.630929
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Georges Clémenceau",
+                  "text": "A montpellieri Aire de jeux du parc Georges Clémenceau népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        3.87212,
+                        43.604186
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants",
+                  "text": "A montpellieri Jardin d'enfants egy biztonságosan kialakított terület kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        3.911408,
+                        43.605802
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Planchon",
+                  "text": "A montpellieri Aire de jeux du Square Planchon felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        3.879761,
+                        43.605767
+                  ]
+            },
+            {
+                  "name": "Square Saint-Roch",
+                  "text": "A montpellieri Square Saint-Roch kellemes játszókörnyezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.876018,
+                        43.608817
+                  ]
+            },
+            {
+                  "name": "Aire du père Louis",
+                  "text": "A montpellieri Aire du père Louis egy szép hely a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.896551,
+                        43.610659
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Alexender Bell",
+                  "text": "A montpellieri Aire de jeux Alexender Bell modern játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.907052,
+                        43.611393
+                  ]
+            },
+            {
+                  "name": "Le Lunaret",
+                  "text": "A montpellieri Le Lunaret egy tágas játszótér családok számára.",
+                  "category": "family",
+                  "coords": [
+                        3.873688,
+                        43.63988
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Place de l'Aiguelongue",
+                  "text": "A montpellieri Aire de jeux Place de l'Aiguelongue egy hívogató játszótér a környéken.",
+                  "category": "family",
+                  "coords": [
+                        3.880828,
+                        43.627964
+                  ]
+            },
+            {
+                  "name": "Aire des Rhinocéros Statues",
+                  "text": "A montpellieri Aire des Rhinocéros Statues egyedülálló játszóteret kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.877919,
+                        43.64358
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Jean Baumel",
+                  "text": "A montpellieri Aire de jeux du Square Jean Baumel egy nyugodt hely a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.85836,
+                        43.640334
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Grisettes",
+                  "text": "A montpellieri Aire de jeux des Grisettes modern játékélményt nyújt barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        3.85777,
+                        43.582928
+                  ]
+            },
+            {
+                  "name": "Aire Ferdinand de Lesseps",
+                  "text": "Ez a Montpellier-ben található játszótér biztonságos és szórakoztató környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.878589,
+                        43.593325
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square des Prés d'Arènes",
+                  "text": "A montpellier-i Square des Prés d'Arènes játszótere gyermekbarát területet biztosít a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        3.889924,
+                        43.59082
                   ]
             }
       ],
@@ -2211,6 +3129,213 @@ export const poiExtraFranceCities: POI[] = [
                         3.894867,
                         43.599093
                   ]
+            },
+            {
+                  "name": "Étang du Méjean",
+                  "text": "Étang du Méjean de lângă Montpellier este un lac liniștit, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        3.919758,
+                        43.54657
+                  ]
+            },
+            {
+                  "name": "Bras mort du Lez",
+                  "text": "Bras mort du Lez din Montpellier este o întindere de apă liniștită într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        3.877851,
+                        43.649311
+                  ]
+            },
+            {
+                  "name": "Bras secondaire du Lez",
+                  "text": "Bras secundaire du Lez din Montpellier invită la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        3.886011,
+                        43.644361
+                  ]
+            },
+            {
+                  "name": "Lac du Crès",
+                  "text": "Lac du Crès de lângă Montpellier este o destinație populară pentru excursii relaxante la lac.",
+                  "category": "natural",
+                  "coords": [
+                        3.930887,
+                        43.654874
+                  ]
+            },
+            {
+                  "name": "SALLE DE JEUX",
+                  "text": "SALLE DE JEUX din Montpellier oferă divertisment variat pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.880356,
+                        43.607482
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy din Montpellier este un teren de minigolf care garantează distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.882349,
+                        43.581106
+                  ]
+            },
+            {
+                  "name": "AlphaNef",
+                  "text": "AlphaNef din Montpellier este un centru de recreere cu diverse posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.879088,
+                        43.612612
+                  ]
+            },
+            {
+                  "name": "Les Mandrous",
+                  "text": "Les Mandrous din Montpellier este un loc de joacă plăcut pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.901921,
+                        43.631983
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Laser Game din Montpellier oferă acțiune captivantă și distracție în echipă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.856429,
+                        43.588957
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Parc Domaine de Méric",
+                  "text": "Aire de joacă din Parc Domaine de Méric din Montpellier este un loc minunat pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        3.892396,
+                        43.630929
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Georges Clémenceau",
+                  "text": "Aire de joacă din parcul Georges Clémenceau din Montpellier este un loc de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.87212,
+                        43.604186
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants",
+                  "text": "Jardin d'enfants din Montpellier este o zonă sigură pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        3.911408,
+                        43.605802
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Planchon",
+                  "text": "Aire de joacă de la Square Planchon din Montpellier invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.879761,
+                        43.605767
+                  ]
+            },
+            {
+                  "name": "Square Saint-Roch",
+                  "text": "Square Saint-Roch din Montpellier oferă o zonă de joacă plăcută pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.876018,
+                        43.608817
+                  ]
+            },
+            {
+                  "name": "Aire du père Louis",
+                  "text": "Aire du père Louis din Montpellier este un loc frumos pentru joaca copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.896551,
+                        43.610659
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Alexender Bell",
+                  "text": "Aire de joacă Alexender Bell din Montpellier oferă echipamente moderne de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.907052,
+                        43.611393
+                  ]
+            },
+            {
+                  "name": "Le Lunaret",
+                  "text": "Le Lunaret din Montpellier este o zonă de joacă spațioasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.873688,
+                        43.63988
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Place de l'Aiguelongue",
+                  "text": "Aire de joacă din Place de l'Aiguelongue din Montpellier este un loc de joacă primitor în cartier.",
+                  "category": "family",
+                  "coords": [
+                        3.880828,
+                        43.627964
+                  ]
+            },
+            {
+                  "name": "Aire des Rhinocéros Statues",
+                  "text": "Aire des Rhinocéros Statues din Montpellier oferă o zonă de joacă unică pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.877919,
+                        43.64358
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Jean Baumel",
+                  "text": "Aire de joacă de la Square Jean Baumel din Montpellier este un loc liniștit pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.85836,
+                        43.640334
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Grisettes",
+                  "text": "Aire de joacă des Grisettes din Montpellier oferă distracție modernă într-un mediu prietenos.",
+                  "category": "family",
+                  "coords": [
+                        3.85777,
+                        43.582928
+                  ]
+            },
+            {
+                  "name": "Aire Ferdinand de Lesseps",
+                  "text": "Acest teren de joacă din Montpellier oferă un mediu sigur și distractiv pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        3.878589,
+                        43.593325
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square des Prés d'Arènes",
+                  "text": "Square des Prés d'Arènes din Montpellier dispune de o zonă de joacă potrivită pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        3.889924,
+                        43.59082
+                  ]
             }
       ],
       "en": [
@@ -2372,6 +3497,213 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.894867,
                         43.599093
+                  ]
+            },
+            {
+                  "name": "Étang du Méjean",
+                  "text": "Étang du Méjean near Montpellier is a quiet lake, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        3.919758,
+                        43.54657
+                  ]
+            },
+            {
+                  "name": "Bras mort du Lez",
+                  "text": "Bras mort du Lez in Montpellier is a peaceful body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        3.877851,
+                        43.649311
+                  ]
+            },
+            {
+                  "name": "Bras secondaire du Lez",
+                  "text": "Bras secondaire du Lez in Montpellier invites quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        3.886011,
+                        43.644361
+                  ]
+            },
+            {
+                  "name": "Lac du Crès",
+                  "text": "Lac du Crès near Montpellier is a popular destination for relaxing trips by the lake.",
+                  "category": "natural",
+                  "coords": [
+                        3.930887,
+                        43.654874
+                  ]
+            },
+            {
+                  "name": "SALLE DE JEUX",
+                  "text": "SALLE DE JEUX in Montpellier offers diverse entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        3.880356,
+                        43.607482
+                  ]
+            },
+            {
+                  "name": "Goolfy",
+                  "text": "Goolfy in Montpellier is a miniature golf course that guarantees fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        3.882349,
+                        43.581106
+                  ]
+            },
+            {
+                  "name": "AlphaNef",
+                  "text": "AlphaNef in Montpellier is a leisure center with various play options.",
+                  "category": "family",
+                  "coords": [
+                        3.879088,
+                        43.612612
+                  ]
+            },
+            {
+                  "name": "Les Mandrous",
+                  "text": "Les Mandrous in Montpellier is a lovely playground for children.",
+                  "category": "family",
+                  "coords": [
+                        3.901921,
+                        43.631983
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Laser Game in Montpellier offers exciting action and team fun for families.",
+                  "category": "family",
+                  "coords": [
+                        3.856429,
+                        43.588957
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Parc Domaine de Méric",
+                  "text": "The playground at Parc Domaine de Méric in Montpellier is a wonderful spot for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        3.892396,
+                        43.630929
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du parc Georges Clémenceau",
+                  "text": "The playground at Georges Clémenceau Park in Montpellier is a popular meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        3.87212,
+                        43.604186
+                  ]
+            },
+            {
+                  "name": "Jardin d'enfants",
+                  "text": "The Jardin d'enfants in Montpellier is a safely designed area for young children.",
+                  "category": "family",
+                  "coords": [
+                        3.911408,
+                        43.605802
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Planchon",
+                  "text": "The playground at Square Planchon in Montpellier invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        3.879761,
+                        43.605767
+                  ]
+            },
+            {
+                  "name": "Square Saint-Roch",
+                  "text": "Square Saint-Roch in Montpellier provides a pleasant play area for children.",
+                  "category": "family",
+                  "coords": [
+                        3.876018,
+                        43.608817
+                  ]
+            },
+            {
+                  "name": "Aire du père Louis",
+                  "text": "The Aire du père Louis in Montpellier is a nice spot for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.896551,
+                        43.610659
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Alexender Bell",
+                  "text": "The Alexender Bell playground in Montpellier offers modern play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        3.907052,
+                        43.611393
+                  ]
+            },
+            {
+                  "name": "Le Lunaret",
+                  "text": "Le Lunaret in Montpellier is a spacious play area for families.",
+                  "category": "family",
+                  "coords": [
+                        3.873688,
+                        43.63988
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Place de l'Aiguelongue",
+                  "text": "The playground at Place de l'Aiguelongue in Montpellier is an inviting neighborhood playground.",
+                  "category": "family",
+                  "coords": [
+                        3.880828,
+                        43.627964
+                  ]
+            },
+            {
+                  "name": "Aire des Rhinocéros Statues",
+                  "text": "The Aire des Rhinocéros Statues in Montpellier offers a unique play area for children.",
+                  "category": "family",
+                  "coords": [
+                        3.877919,
+                        43.64358
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square Jean Baumel",
+                  "text": "The playground at Square Jean Baumel in Montpellier is a quiet spot for play.",
+                  "category": "family",
+                  "coords": [
+                        3.85836,
+                        43.640334
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Grisettes",
+                  "text": "The playground at des Grisettes in Montpellier offers modern play fun in a friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        3.85777,
+                        43.582928
+                  ]
+            },
+            {
+                  "name": "Aire Ferdinand de Lesseps",
+                  "text": "This playground in Montpellier offers a safe and fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.878589,
+                        43.593325
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Square des Prés d'Arènes",
+                  "text": "The Square des Prés d'Arènes in Montpellier features a play area suitable for children.",
+                  "category": "family",
+                  "coords": [
+                        3.889924,
+                        43.59082
                   ]
             }
       ],

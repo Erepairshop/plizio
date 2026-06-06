@@ -252,6 +252,9 @@ try {
 function svKey(lat: number, lng: number): string { return `${lat.toFixed(4)},${lng.toFixed(4)}`; }
 // Inline pegman SVG (Street View figura) — orange badge, white figure.
 const SV_PEGMAN_SVG = `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><circle cx="12" cy="4.4" r="2.5" fill="currentColor"/><path d="M12 7.6c-2 0-3.3 1.2-3.3 3v3.6c0 .5.4 1 1 1h.3l.4 4.9c0 .5.5.9 1 .9h1.2c.5 0 1-.4 1-.9l.4-4.9h.3c.6 0 1-.5 1-1v-3.6c0-1.8-1.3-3-3.3-3z" fill="currentColor"/></svg>`;
+// Maps pin SVG — sightokhoz, ahol NINCS Street View: direkt Google Maps
+// hely-profil link (nev+koord query -> a Maps a listing-oldalra oldja fel).
+const GMAPS_PIN_SVG = `<svg viewBox="0 0 24 24" width="13" height="13" fill="none" aria-hidden="true"><path d="M12 2c-3.9 0-7 3.1-7 7 0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z" fill="currentColor"/><circle cx="12" cy="9" r="2.6" fill="#fff"/></svg>`;
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
 let SIGHT_IMG_MAP: Record<string, string> = {};
@@ -1273,9 +1276,31 @@ function renderSightRadius(poi: POI, lang: Lang): string {
   try { ownUrl = buildPoiPath(lang, poi) || ""; } catch {}
   const radii = [5, 10, 20, 50];
   const chips = radii.map((r) => `<button type="button" class="plz-sgr-chip" data-r="${r}">${r} km</button>`).join("");
+  // Category filter — icon-only buttons over the loaded radius result.
+  // Buckets are regex-matched client-side over the raw grid category string
+  // (the grid stores free-form categories; "kul" is the catch-all bucket).
+  const CT: Partial<Record<Lang, Record<string, string>>> = {
+    de: { all: "Alle", kul: "Kultur & Sehenswertes", nat: "Natur", rec: "Freizeit", fam: "Familie" },
+    hu: { all: "Összes", kul: "Kultúra és látnivalók", nat: "Természet", rec: "Szabadidő", fam: "Családi" },
+    ro: { all: "Toate", kul: "Cultură și obiective", nat: "Natură", rec: "Recreere", fam: "Familie" },
+    en: { all: "All", kul: "Culture & landmarks", nat: "Nature", rec: "Leisure", fam: "Family" },
+    fr: { all: "Tout", kul: "Culture et sites", nat: "Nature", rec: "Loisirs", fam: "Famille" },
+    tr: { all: "Tümü", kul: "Kültür ve simgeler", nat: "Doğa", rec: "Eğlence", fam: "Aile" },
+    hr: { all: "Sve", kul: "Kultura i znamenitosti", nat: "Priroda", rec: "Rekreacija", fam: "Obitelj" },
+  };
+  const ct = CT[lang] || CT.en!;
+  const CAT_ICON: Record<string, string> = {
+    all: `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="7" cy="7" r="2.4"/><circle cx="17" cy="7" r="2.4"/><circle cx="7" cy="17" r="2.4"/><circle cx="17" cy="17" r="2.4"/></svg>`,
+    kul: `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M4 9h16M12 3l9 6H3l9-6M6 9v12M12 9v12M18 9v12"/></svg>`,
+    nat: `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 4 13C4 8 8 4 20 4c0 12-4 16-9 16z"/><path d="M4 20c4-4 8-7 12-9"/></svg>`,
+    rec: `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="10" r="6"/><circle cx="12" cy="10" r="1.4"/><path d="M12 4v12M6.8 7l10.4 6M17.2 7L6.8 13M12 16l-4.2 6M12 16l4.2 6"/></svg>`,
+    fam: `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="6.5" r="2.6"/><path d="M4.5 21v-4.5a4.5 4.5 0 0 1 9 0V21"/><circle cx="17.5" cy="9.5" r="2"/><path d="M14.8 21v-3a3.2 3.2 0 0 1 5.7-2"/></svg>`,
+  };
+  const catBtns = ["all", "kul", "nat", "rec", "fam"].map((k) =>
+    `<button type="button" class="plz-sgr-cat${k === "all" ? " on" : ""}" data-c="${k}" title="${escapeHtml(ct[k])}" aria-label="${escapeHtml(ct[k])}">${CAT_ICON[k]}</button>`).join("");
   return `<section class="plz-sgr" id="sec-sgr">
   <h2>${escapeHtml(H[lang] || H.en!)}</h2>
-  <div class="plz-sgr-chips">${chips}</div>
+  <div class="plz-sgr-chips">${chips}<span class="plz-sgr-sep"></span>${catBtns}</div>
   <div class="plz-sgr-list" id="plzSgrList" hidden></div>
   <script>(function(){
   var LAT=${plat.toFixed(5)},LNG=${plng.toFixed(5)},LANG=${JSON.stringify(lang)},OWN=${JSON.stringify(ownUrl)};
@@ -1290,29 +1315,68 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     cache[k]=fetch('/data/sight-grid/'+LANG+'/'+k+'.json').then(function(r){return r.ok?r.json():[]}).catch(function(){return[]});
     return cache[k]}
   function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
+  var CUR=null,CAT='all',LOADED=false;
+  function bucket(c){c=(c||'').toLowerCase();
+    if(/family|playground|spielplatz|zoo|aquar|theme|adventure|funfair|amusement/.test(c))return'fam';
+    if(/natur|park|lake|garden|beach|strand|cave|waterfall|island|promenad|forest|wald|botan|cliff|gorge|spring/.test(c))return'nat';
+    if(/recreat|sport|freizeit|stadion|stadium|pool|bath|spa|therm|leisure|marina|golf/.test(c))return'rec';
+    return'kul'}
+  function render(){
+    if(!CUR)return;
+    var items=CAT==='all'?CUR:CUR.filter(function(x){return bucket(x.e[3])===CAT});
+    if(!items.length){list.innerHTML='<div class="plz-sgr-load">${escapeHtml(NONE[lang] || NONE.en!)}</div>';return}
+    var top=items.slice(0,120);
+    list.innerHTML=top.map(function(x){var e=x.e;
+      var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>':'';
+      var nm=e[4]?'<a class="plz-sgr-nm" href="'+esc(e[4])+'">'+esc(e[0])+'</a>':'<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
+      return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
+    }).join('');
+  }
   function show(r,btn){
+    LOADED=true;
     var bs=document.querySelectorAll('.plz-sgr-chip');for(var i=0;i<bs.length;i++)bs[i].classList.toggle('on',bs[i]===btn);
     list.hidden=false;list.innerHTML='<div class="plz-sgr-load"><span class="plz-sgr-spin"></span></div>';
     try{if(window.umami&&window.umami.track)window.umami.track('nearby_radius',{r:r})}catch(e){}
-    Promise.all(cellsFor(r).map(getCell)).then(function(cells){
+    var cks=cellsFor(r);
+    Promise.all(cks.map(getCell)).then(function(cells){
       var seen={},items=[];
-      cells.forEach(function(arr){arr.forEach(function(e){
+      cells.forEach(function(arr,ci){arr.forEach(function(e,ei){
         var d=dist(LAT,LNG,e[1],e[2]);if(d>r)return;
         if(OWN&&e[4]===OWN&&d<3)return; /* sajat oldal sightjai mar fent vannak */
         var k=e[0].toLowerCase()+'|'+e[1].toFixed(3)+','+e[2].toFixed(3);
-        if(seen[k])return;seen[k]=1;items.push({e:e,d:d});
+        if(seen[k])return;seen[k]=1;items.push({e:e,d:d,ck:cks[ci],ix:ei});
       })});
       items.sort(function(a,b){return a.d-b.d});
-      if(!items.length){list.innerHTML='<div class="plz-sgr-load">${escapeHtml(NONE[lang] || NONE.en!)}</div>';return}
-      var top=items.slice(0,120);
-      list.innerHTML=top.map(function(x){var e=x.e;
-        var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>':'';
-        var nm=e[4]?'<a class="plz-sgr-nm" href="'+esc(e[4])+'">'+esc(e[0])+'</a>':'<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
-        return '<div class="plz-sgr-it"><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
-      }).join('');
+      CUR=items;render();
     });
   }
+  /* kattintasra kibomlo rovid leiras — a <cell>d.json desc-sidecarbol */
+  var dcache={};
+  function getDesc(ck){if(dcache[ck])return dcache[ck];
+    dcache[ck]=fetch('/data/sight-grid/'+LANG+'/'+ck+'d.json').then(function(r){return r.ok?r.json():[]}).catch(function(){return[]});
+    return dcache[ck]}
+  list.addEventListener('click',function(ev){
+    if(ev.target.closest('a'))return;
+    var it=ev.target.closest('.plz-sgr-it');if(!it)return;
+    var nx=it.nextElementSibling;
+    if(nx&&nx.classList.contains('plz-sgr-desc')){nx.remove();it.classList.remove('open');return}
+    var old=list.querySelector('.plz-sgr-desc');if(old){old.previousElementSibling.classList.remove('open');old.remove()}
+    var ck=it.getAttribute('data-ck'),ix=+it.getAttribute('data-ix');
+    getDesc(ck).then(function(ds){
+      var t=ds[ix];if(!t)return;
+      var d=document.createElement('div');d.className='plz-sgr-desc';d.textContent=t;
+      it.insertAdjacentElement('afterend',d);it.classList.add('open');
+      try{if(window.umami&&window.umami.track)window.umami.track('nearby_desc',{})}catch(e){}
+    });
+  });
   document.querySelectorAll('.plz-sgr-chip').forEach(function(b){b.addEventListener('click',function(){show(+b.getAttribute('data-r'),b)})});
+  document.querySelectorAll('.plz-sgr-cat').forEach(function(b){b.addEventListener('click',function(){
+    CAT=b.getAttribute('data-c');
+    var bs=document.querySelectorAll('.plz-sgr-cat');for(var i=0;i<bs.length;i++)bs[i].classList.toggle('on',bs[i]===b);
+    try{if(window.umami&&window.umami.track)window.umami.track('nearby_cat',{c:CAT})}catch(e){}
+    if(!LOADED){var d=document.querySelector('.plz-sgr-chip[data-r="10"]');if(d){show(10,d);return}}
+    render();
+  })});
   })();</script>
   </section>`;
 }
@@ -1343,7 +1407,10 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
   let tipsHtml = "";
   try {
     const tp = path.resolve(process.cwd(), "public", "data", "city-tips", `${poi.id}.json`);
-    if (fs.existsSync(tp)) {
+    // Itinerary-s varosokon a PlizioGo-widget mutatja a pickeket (a widget a
+    // tervezo elkeszulteig marad) — ott a kartya tips-blokkja kimarad, ne duplikaljon.
+    const hasItin = fs.existsSync(path.resolve(process.cwd(), "public", "data", "itinerary", `${poi.id}.json`));
+    if (!hasItin && fs.existsSync(tp)) {
       const ct = JSON.parse(fs.readFileSync(tp, "utf-8"));
       const L = (o: any) => (o && (o[lang] || o.en)) || [];
       const tipLis = L(ct.tips).map((x: string) => `<li>${escapeHtml(x)}</li>`).join("");
@@ -2136,6 +2203,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       if (SV_OK[svKey(slat, slng)]) {
         const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${slat.toFixed(6)}%2C${slng.toFixed(6)}`;
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
+      } else {
+        // Nincs SV: Maps-pin ikon, nev+koord query -> hely-profil a Mapsben.
+        const q = encodeURIComponent(`${s.name} ${slat.toFixed(5)},${slng.toFixed(5)}`);
+        svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
     }
     return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}${sightCatBadge(s)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
@@ -2624,6 +2695,8 @@ ready();})();</script>
 .plz-sight-sv{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;margin-left:8px;vertical-align:-5px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35);transition:transform .15s,box-shadow .15s}
 .plz-sight-sv:hover{transform:scale(1.18);box-shadow:0 2px 8px rgba(251,188,4,.6);background:#f9ab00}
 .plz-sight-sv svg{display:block}
+.plz-sight-gm{background:#ea4335}
+.plz-sight-gm:hover{background:#d33426;box-shadow:0 2px 8px rgba(234,67,53,.6)}
 .plz-sight-cat{display:inline-block;margin-left:8px;vertical-align:2px;background:#ffffff10;border:1px solid #ffffff22;border-radius:999px;padding:2px 9px;font-size:.62rem;font-weight:700;color:#9fc4ff;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
 .plz-hero-sv{position:absolute;right:10px;bottom:10px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 2px 6px rgba(0,0,0,.45);transition:transform .15s,box-shadow .15s}
 .plz-hero-sv:hover{transform:scale(1.12);box-shadow:0 3px 10px rgba(251,188,4,.65);background:#f9ab00}
@@ -2635,6 +2708,13 @@ ready();})();</script>
 .plz-sgr-chip{background:#ffffff12;border:1px solid #ffffff2a;color:#dfe9ff;border-radius:999px;padding:.4rem .95rem;font-size:.85rem;font-weight:700;cursor:pointer;transition:background .15s,border-color .15s}
 .plz-sgr-chip:hover{background:#ffffff20}
 .plz-sgr-chip.on{background:linear-gradient(135deg,#3b82f6,#2563eb);border-color:#3b82f6;color:#fff}
+.plz-sgr-sep{width:1px;align-self:stretch;background:#ffffff22;margin:0 .15rem}
+.plz-sgr-cat{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;background:#ffffff12;border:1px solid #ffffff2a;color:#aebadb;border-radius:999px;cursor:pointer;transition:background .15s,border-color .15s,color .15s}
+.plz-sgr-cat:hover{background:#ffffff20;color:#dfe9ff}
+.plz-sgr-cat.on{background:linear-gradient(135deg,#10b981,#059669);border-color:#10b981;color:#fff}
+.plz-sgr-it{cursor:pointer}
+.plz-sgr-it.open{background:#ffffff14;border-radius:8px 8px 0 0}
+.plz-sgr-desc{background:#ffffff0d;border-left:3px solid #3b82f6;border-radius:0 0 8px 8px;padding:.55rem .8rem;margin:0 0 .35rem;font-size:.83rem;line-height:1.5;color:#c9d6f2}
 .plz-sgr-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:.35rem .8rem;max-height:420px;overflow-y:auto;padding-right:.3rem}
 .plz-sgr-it{display:flex;align-items:center;gap:.5rem;padding:.32rem .45rem;border-radius:8px;background:#ffffff08;font-size:.85rem;min-width:0}
 .plz-sgr-d{flex-shrink:0;font-size:.7rem;font-weight:800;color:#7fb0ff;min-width:46px}

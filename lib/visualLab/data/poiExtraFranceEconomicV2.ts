@@ -142,6 +142,195 @@ export const franceEconomicV2: POI[] = [
                         2.240972,
                         48.892
                   ]
+            },
+            {
+                  "name": "Réservoir de Grenelle",
+                  "text": "Das Reservoir de Grenelle im Bereich La Defense ist ein markantes technisches Bauwerk am Stadtrand.",
+                  "category": "natural",
+                  "coords": [
+                        2.301459,
+                        48.836933
+                  ]
+            },
+            {
+                  "name": "Lac Supérieur",
+                  "text": "Der Lac Supérieur bietet eine ruhige Wasserfläche, die sich harmonisch in die Umgebung von La Defense einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        2.141173,
+                        48.89467
+                  ]
+            },
+            {
+                  "name": "Lac de Croissy",
+                  "text": "Dieser See bei La Defense ist ein beliebter Ort für Spaziergänge und bietet eine angenehme Naturatmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        2.13871,
+                        48.887664
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Ein traditionelles Fahrgeschäft in La Defense, das Kindern viel Freude und ein klassisches Vergnügen bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.267966,
+                        48.884912
+                  ]
+            },
+            {
+                  "name": "Aire de la mare St James",
+                  "text": "Ein schön gelegener Spielbereich in La Defense, der zum Entdecken und Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        2.258348,
+                        48.87701
+                  ]
+            },
+            {
+                  "name": "La grande pataugeoire",
+                  "text": "Ein beliebter Wasserspielbereich in La Defense, der besonders an warmen Tagen viel Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.261632,
+                        48.877947
+                  ]
+            },
+            {
+                  "name": "Le labyrinthe de l'ours",
+                  "text": "Ein liebevoll gestalteter Spielbereich in La Defense, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        2.262796,
+                        48.879332
+                  ]
+            },
+            {
+                  "name": "Tremplins",
+                  "text": "Dieser Bereich in La Defense bietet Kindern spannende Möglichkeiten zum Springen und Aktivsein.",
+                  "category": "family",
+                  "coords": [
+                        2.265927,
+                        48.877739
+                  ]
+            },
+            {
+                  "name": "Square Jean-Nicolas Corvisart",
+                  "text": "Ein ruhig gelegener Platz in La Defense mit sicheren Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.245078,
+                        48.903648
+                  ]
+            },
+            {
+                  "name": "Square du Puits",
+                  "text": "Der Square du Puits bietet eine angenehme Atmosphäre für Familien mit kleinen Kindern in La Defense.",
+                  "category": "family",
+                  "coords": [
+                        2.24163,
+                        48.881108
+                  ]
+            },
+            {
+                  "name": "Square de l'Hôtel de Ville",
+                  "text": "Dieser öffentliche Spielplatz in La Defense bietet Kindern einen sicheren Raum zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        2.23897,
+                        48.88438
+                  ]
+            },
+            {
+                  "name": "Square Jeannne d’Arc - Ridel",
+                  "text": "Ein familienfreundlicher Spielplatz in La Defense, der zum Spielen und Entspannen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        2.247624,
+                        48.903324
+                  ]
+            },
+            {
+                  "name": "Square des Lauriers",
+                  "text": "Dieser Spielplatz in La Defense ist ein idealer Ort für Kinder, um sich an der frischen Luft zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        2.217595,
+                        48.908908
+                  ]
+            },
+            {
+                  "name": "Jardin Jean Jerphanion",
+                  "text": "Ein schöner öffentlicher Spielplatz in La Defense, der Abwechslung und Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.251353,
+                        48.908202
+                  ]
+            },
+            {
+                  "name": "Jardins aux éléphants",
+                  "text": "Dieser Spielbereich in La Defense bietet Kindern vielfältige Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.239039,
+                        48.885297
+                  ]
+            },
+            {
+                  "name": "Jardins Boieldieu",
+                  "text": "Ein zentral gelegener Spielplatz in La Defense, der ein idealer Treffpunkt für Familien mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        2.23863,
+                        48.888049
+                  ]
+            },
+            {
+                  "name": "La trompette",
+                  "text": "Diese kleine Oase in La Defense bietet Kindern einen abwechslungsreichen Ort zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.237379,
+                        48.876403
+                  ]
+            },
+            {
+                  "name": "Les Terraces de L'universite",
+                  "text": "Ein moderner Spielplatz in La Defense, der zum Entdecken und Bewegen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        2.211253,
+                        48.89983
+                  ]
+            },
+            {
+                  "name": "Les Miroirs déformants",
+                  "text": "Dieser originelle Spielbereich in La Defense sorgt für Spaß und Freude bei kleinen Besuchern.",
+                  "category": "family",
+                  "coords": [
+                        2.26747,
+                        48.878516
+                  ]
+            },
+            {
+                  "name": "Les Aires de jeux d'Eugénie",
+                  "text": "Ein einladender Spielplatz in La Defense, der ideal für eine kurze Spielpause im Alltag ist.",
+                  "category": "family",
+                  "coords": [
+                        2.269574,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Square Rouget de Lisle",
+                  "text": "Dieser öffentliche Spielplatz in La Defense bietet Raum für fantasievolles Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        2.230801,
+                        48.880118
+                  ]
             }
       ],
       "hu": [
@@ -193,6 +382,195 @@ export const franceEconomicV2: POI[] = [
                   "coords": [
                         2.240972,
                         48.892
+                  ]
+            },
+            {
+                  "name": "Réservoir de Grenelle",
+                  "text": "A La Defense környékén található Réservoir de Grenelle egy jellegzetes műszaki építmény a város szélén.",
+                  "category": "natural",
+                  "coords": [
+                        2.301459,
+                        48.836933
+                  ]
+            },
+            {
+                  "name": "Lac Supérieur",
+                  "text": "A Lac Supérieur csendes vízfelületet kínál, amely harmonikusan illeszkedik a La Defense környékébe.",
+                  "category": "natural",
+                  "coords": [
+                        2.141173,
+                        48.89467
+                  ]
+            },
+            {
+                  "name": "Lac de Croissy",
+                  "text": "Ez a La Defense közeli tó népszerű sétálóhely, és kellemes természeti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        2.13871,
+                        48.887664
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Hagyományos körhinta La Defense-ben, amely nagy örömet és klasszikus szórakozást nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.267966,
+                        48.884912
+                  ]
+            },
+            {
+                  "name": "Aire de la mare St James",
+                  "text": "Szép fekvésű játszóhely La Defense-ben, amely szabadtéri felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        2.258348,
+                        48.87701
+                  ]
+            },
+            {
+                  "name": "La grande pataugeoire",
+                  "text": "Népszerű vizes játszótér La Defense-ben, amely különösen a meleg napokon nyújt nagy élményt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.261632,
+                        48.877947
+                  ]
+            },
+            {
+                  "name": "Le labyrinthe de l'ours",
+                  "text": "Gondosan kialakított játszóhely La Defense-ben, amely megmozgatja a gyermekek fantáziáját.",
+                  "category": "family",
+                  "coords": [
+                        2.262796,
+                        48.879332
+                  ]
+            },
+            {
+                  "name": "Tremplins",
+                  "text": "Ez a La Defense-i terület izgalmas lehetőségeket kínál a gyerekeknek az ugráláshoz és az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.265927,
+                        48.877739
+                  ]
+            },
+            {
+                  "name": "Square Jean-Nicolas Corvisart",
+                  "text": "Csendes elhelyezkedésű tér La Defense-ben, biztonságos játéklehetőségekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        2.245078,
+                        48.903648
+                  ]
+            },
+            {
+                  "name": "Square du Puits",
+                  "text": "A Square du Puits kellemes környezetet biztosít a kisgyermekes családok számára La Defense-ben.",
+                  "category": "family",
+                  "coords": [
+                        2.24163,
+                        48.881108
+                  ]
+            },
+            {
+                  "name": "Square de l'Hôtel de Ville",
+                  "text": "Ez a nyilvános játszótér La Defense területén biztonságos helyet kínál a gyerekeknek a játékhoz és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.23897,
+                        48.88438
+                  ]
+            },
+            {
+                  "name": "Square Jeannne d’Arc - Ridel",
+                  "text": "Családbarát játszótér La Defense területén, amely szabadtéri játékra és kikapcsolódásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        2.247624,
+                        48.903324
+                  ]
+            },
+            {
+                  "name": "Square des Lauriers",
+                  "text": "Ez a játszótér La Defense területén ideális hely a gyermekek számára a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.217595,
+                        48.908908
+                  ]
+            },
+            {
+                  "name": "Jardin Jean Jerphanion",
+                  "text": "Szép nyilvános játszótér La Defense területén, amely kikapcsolódást és szórakozást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.251353,
+                        48.908202
+                  ]
+            },
+            {
+                  "name": "Jardins aux éléphants",
+                  "text": "Ez a játszóterület La Defense területén változatos lehetőségeket kínál a gyerekeknek a mászáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.239039,
+                        48.885297
+                  ]
+            },
+            {
+                  "name": "Jardins Boieldieu",
+                  "text": "Központi elhelyezkedésű játszótér La Defense területén, amely ideális találkozóhely gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        2.23863,
+                        48.888049
+                  ]
+            },
+            {
+                  "name": "La trompette",
+                  "text": "Ez a kis oázis La Defense területén változatos helyszínt biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.237379,
+                        48.876403
+                  ]
+            },
+            {
+                  "name": "Les Terraces de L'universite",
+                  "text": "Modern játszótér La Defense területén, amely felfedezésre és mozgásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        2.211253,
+                        48.89983
+                  ]
+            },
+            {
+                  "name": "Les Miroirs déformants",
+                  "text": "Ez az eredeti játszóterület La Defense területén jókedvet és örömet szerez a kis látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        2.26747,
+                        48.878516
+                  ]
+            },
+            {
+                  "name": "Les Aires de jeux d'Eugénie",
+                  "text": "Hívogató játszótér La Defense területén, amely ideális egy rövid játékos szünetre a mindennapokban.",
+                  "category": "family",
+                  "coords": [
+                        2.269574,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Square Rouget de Lisle",
+                  "text": "Ez a nyilvános játszótér La Defense területén helyet ad a fantáziadús szabadtéri játéknak.",
+                  "category": "family",
+                  "coords": [
+                        2.230801,
+                        48.880118
                   ]
             }
       ],
@@ -246,6 +624,195 @@ export const franceEconomicV2: POI[] = [
                         2.240972,
                         48.892
                   ]
+            },
+            {
+                  "name": "Réservoir de Grenelle",
+                  "text": "Rezervorul de Grenelle din zona La Defense este o structură tehnică proeminentă la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        2.301459,
+                        48.836933
+                  ]
+            },
+            {
+                  "name": "Lac Supérieur",
+                  "text": "Lac Supérieur oferă o suprafață de apă liniștită, care se integrează armonios în împrejurimile La Defense.",
+                  "category": "natural",
+                  "coords": [
+                        2.141173,
+                        48.89467
+                  ]
+            },
+            {
+                  "name": "Lac de Croissy",
+                  "text": "Acest lac de lângă La Defense este un loc popular pentru plimbări și oferă o atmosferă naturală plăcută.",
+                  "category": "natural",
+                  "coords": [
+                        2.13871,
+                        48.887664
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "Un carusel tradițional în La Defense, care oferă copiilor multă bucurie și o distracție clasică.",
+                  "category": "family",
+                  "coords": [
+                        2.267966,
+                        48.884912
+                  ]
+            },
+            {
+                  "name": "Aire de la mare St James",
+                  "text": "O zonă de joacă frumos situată în La Defense, care invită la explorare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        2.258348,
+                        48.87701
+                  ]
+            },
+            {
+                  "name": "La grande pataugeoire",
+                  "text": "O zonă de joacă cu apă populară în La Defense, care oferă multă distracție copiilor, în special în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        2.261632,
+                        48.877947
+                  ]
+            },
+            {
+                  "name": "Le labyrinthe de l'ours",
+                  "text": "O zonă de joacă concepută cu drag în La Defense, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        2.262796,
+                        48.879332
+                  ]
+            },
+            {
+                  "name": "Tremplins",
+                  "text": "Această zonă din La Defense oferă copiilor posibilități palpitante de a sări și de a fi activi.",
+                  "category": "family",
+                  "coords": [
+                        2.265927,
+                        48.877739
+                  ]
+            },
+            {
+                  "name": "Square Jean-Nicolas Corvisart",
+                  "text": "O piațetă situată liniștit în La Defense, cu facilități de joacă sigure pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.245078,
+                        48.903648
+                  ]
+            },
+            {
+                  "name": "Square du Puits",
+                  "text": "Square du Puits oferă o atmosferă plăcută pentru familiile cu copii mici în La Defense.",
+                  "category": "family",
+                  "coords": [
+                        2.24163,
+                        48.881108
+                  ]
+            },
+            {
+                  "name": "Square de l'Hôtel de Ville",
+                  "text": "Acest loc de joacă public din La Defense oferă copiilor un spațiu sigur pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        2.23897,
+                        48.88438
+                  ]
+            },
+            {
+                  "name": "Square Jeannne d’Arc - Ridel",
+                  "text": "Un loc de joacă pentru familii în La Defense, care invită la joc și relaxare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        2.247624,
+                        48.903324
+                  ]
+            },
+            {
+                  "name": "Square des Lauriers",
+                  "text": "Acest loc de joacă din La Defense este un loc ideal pentru copii pentru a face mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        2.217595,
+                        48.908908
+                  ]
+            },
+            {
+                  "name": "Jardin Jean Jerphanion",
+                  "text": "Un loc de joacă public frumos în La Defense, care oferă diversitate și distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        2.251353,
+                        48.908202
+                  ]
+            },
+            {
+                  "name": "Jardins aux éléphants",
+                  "text": "Această zonă de joacă din La Defense oferă copiilor diverse oportunități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        2.239039,
+                        48.885297
+                  ]
+            },
+            {
+                  "name": "Jardins Boieldieu",
+                  "text": "Un loc de joacă situat central în La Defense, fiind un punct de întâlnire ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        2.23863,
+                        48.888049
+                  ]
+            },
+            {
+                  "name": "La trompette",
+                  "text": "Această mică oază din La Defense oferă copiilor un loc variat pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        2.237379,
+                        48.876403
+                  ]
+            },
+            {
+                  "name": "Les Terraces de L'universite",
+                  "text": "Un loc de joacă modern în La Defense, care invită la explorare și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        2.211253,
+                        48.89983
+                  ]
+            },
+            {
+                  "name": "Les Miroirs déformants",
+                  "text": "Această zonă de joacă originală din La Defense aduce distracție și bucurie micilor vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        2.26747,
+                        48.878516
+                  ]
+            },
+            {
+                  "name": "Les Aires de jeux d'Eugénie",
+                  "text": "Un loc de joacă primitor în La Defense, ideal pentru o scurtă pauză de joacă în viața de zi cu zi.",
+                  "category": "family",
+                  "coords": [
+                        2.269574,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Square Rouget de Lisle",
+                  "text": "Acest loc de joacă public din La Defense oferă spațiu pentru joacă imaginativă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        2.230801,
+                        48.880118
+                  ]
             }
       ],
       "en": [
@@ -297,6 +864,195 @@ export const franceEconomicV2: POI[] = [
                   "coords": [
                         2.240972,
                         48.892
+                  ]
+            },
+            {
+                  "name": "Réservoir de Grenelle",
+                  "text": "The Réservoir de Grenelle in the La Defense area is a prominent technical structure on the outskirts of the city.",
+                  "category": "natural",
+                  "coords": [
+                        2.301459,
+                        48.836933
+                  ]
+            },
+            {
+                  "name": "Lac Supérieur",
+                  "text": "The Lac Supérieur offers a calm water surface that fits harmoniously into the surroundings of La Defense.",
+                  "category": "natural",
+                  "coords": [
+                        2.141173,
+                        48.89467
+                  ]
+            },
+            {
+                  "name": "Lac de Croissy",
+                  "text": "This lake near La Defense is a popular spot for walks and offers a pleasant natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        2.13871,
+                        48.887664
+                  ]
+            },
+            {
+                  "name": "Manège",
+                  "text": "A traditional ride in La Defense offering children much joy and a classic amusement.",
+                  "category": "family",
+                  "coords": [
+                        2.267966,
+                        48.884912
+                  ]
+            },
+            {
+                  "name": "Aire de la mare St James",
+                  "text": "A beautifully located play area in La Defense inviting for outdoor exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        2.258348,
+                        48.87701
+                  ]
+            },
+            {
+                  "name": "La grande pataugeoire",
+                  "text": "A popular water play area in La Defense offering lots of fun for children, especially on warm days.",
+                  "category": "family",
+                  "coords": [
+                        2.261632,
+                        48.877947
+                  ]
+            },
+            {
+                  "name": "Le labyrinthe de l'ours",
+                  "text": "A lovingly designed play area in La Defense that stimulates children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        2.262796,
+                        48.879332
+                  ]
+            },
+            {
+                  "name": "Tremplins",
+                  "text": "This area in La Defense offers children exciting opportunities for jumping and being active.",
+                  "category": "family",
+                  "coords": [
+                        2.265927,
+                        48.877739
+                  ]
+            },
+            {
+                  "name": "Square Jean-Nicolas Corvisart",
+                  "text": "A quietly located square in La Defense with safe play options for children.",
+                  "category": "family",
+                  "coords": [
+                        2.245078,
+                        48.903648
+                  ]
+            },
+            {
+                  "name": "Square du Puits",
+                  "text": "Square du Puits offers a pleasant atmosphere for families with small children in La Defense.",
+                  "category": "family",
+                  "coords": [
+                        2.24163,
+                        48.881108
+                  ]
+            },
+            {
+                  "name": "Square de l'Hôtel de Ville",
+                  "text": "This public playground in La Defense offers children a safe space for play and physical activity.",
+                  "category": "family",
+                  "coords": [
+                        2.23897,
+                        48.88438
+                  ]
+            },
+            {
+                  "name": "Square Jeannne d’Arc - Ridel",
+                  "text": "A family-friendly playground in La Defense that invites outdoor play and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        2.247624,
+                        48.903324
+                  ]
+            },
+            {
+                  "name": "Square des Lauriers",
+                  "text": "This playground in La Defense is an ideal spot for children to be active in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        2.217595,
+                        48.908908
+                  ]
+            },
+            {
+                  "name": "Jardin Jean Jerphanion",
+                  "text": "A lovely public playground in La Defense offering variety and fun for families.",
+                  "category": "family",
+                  "coords": [
+                        2.251353,
+                        48.908202
+                  ]
+            },
+            {
+                  "name": "Jardins aux éléphants",
+                  "text": "This play area in La Defense provides children with various opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        2.239039,
+                        48.885297
+                  ]
+            },
+            {
+                  "name": "Jardins Boieldieu",
+                  "text": "A centrally located playground in La Defense, making it an ideal meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        2.23863,
+                        48.888049
+                  ]
+            },
+            {
+                  "name": "La trompette",
+                  "text": "This small oasis in La Defense provides children with a diverse place to play.",
+                  "category": "family",
+                  "coords": [
+                        2.237379,
+                        48.876403
+                  ]
+            },
+            {
+                  "name": "Les Terraces de L'universite",
+                  "text": "A modern playground in La Defense that invites exploration and movement.",
+                  "category": "family",
+                  "coords": [
+                        2.211253,
+                        48.89983
+                  ]
+            },
+            {
+                  "name": "Les Miroirs déformants",
+                  "text": "This original play area in La Defense brings fun and joy to little visitors.",
+                  "category": "family",
+                  "coords": [
+                        2.26747,
+                        48.878516
+                  ]
+            },
+            {
+                  "name": "Les Aires de jeux d'Eugénie",
+                  "text": "An inviting playground in La Defense, perfect for a short play break during the day.",
+                  "category": "family",
+                  "coords": [
+                        2.269574,
+                        48.878126
+                  ]
+            },
+            {
+                  "name": "Square Rouget de Lisle",
+                  "text": "This public playground in La Defense provides space for imaginative outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        2.230801,
+                        48.880118
                   ]
             }
       ]

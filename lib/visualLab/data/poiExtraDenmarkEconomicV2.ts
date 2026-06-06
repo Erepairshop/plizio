@@ -3271,6 +3271,141 @@ export const denmarkEconomicV2: POI[] = [
                         10.200528,
                         56.152457
                   ]
+            },
+            {
+                  "name": "Brabrand Sø",
+                  "text": "Brabrand Lake ist ein großer See im Aarhus Tech Hub, der sich hervorragend für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        10.119919,
+                        56.143999
+                  ]
+            },
+            {
+                  "name": "Tuemosen",
+                  "text": "Tuemosen ist ein friedlicher See im Aarhus Tech Hub, der eine ruhige Umgebung für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.243132,
+                        56.091549
+                  ]
+            },
+            {
+                  "name": "Engkær",
+                  "text": "Engkær ist ein naturbelassener See im Aarhus Tech Hub, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        10.088252,
+                        56.177627
+                  ]
+            },
+            {
+                  "name": "Årslev Engsø",
+                  "text": "Årslev Engsø ist ein malerischer See im Aarhus Tech Hub, der ideale Bedingungen für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.065016,
+                        56.139453
+                  ]
+            },
+            {
+                  "name": "Egå Engsø",
+                  "text": "Egå Engsø ist ein ruhiger See im Aarhus Tech Hub, der zu erholsamen Stunden im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.222155,
+                        56.216775
+                  ]
+            },
+            {
+                  "name": "Aarhus Minigolf",
+                  "text": "Aarhus Minigolf bietet Familien im Aarhus Tech Hub ein unterhaltsames Erlebnis beim gemeinsamen Spiel.",
+                  "category": "family",
+                  "coords": [
+                        10.203905,
+                        56.148935
+                  ]
+            },
+            {
+                  "name": "Kloden: Den Kinesiske Drage",
+                  "text": "Kloden: Den Kinesiske Drage ist ein thematischer Spielplatz im Aarhus Tech Hub, der Kinder zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.215091,
+                        56.15362
+                  ]
+            },
+            {
+                  "name": "Den Indadvendte Legeplads",
+                  "text": "Den Indadvendte Legeplads ist ein besonderer Spielplatz im Aarhus Tech Hub, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.192522,
+                        56.144342
+                  ]
+            },
+            {
+                  "name": "Sharks Minigolf",
+                  "text": "Sharks Minigolf im Aarhus Tech Hub ist ein tolles Ziel für einen sportlichen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        10.206089,
+                        56.155657
+                  ]
+            },
+            {
+                  "name": "Børnenes jord",
+                  "text": "Børnenes jord ist ein familienfreundlicher Spielplatz im Aarhus Tech Hub, der vielseitigen Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.208106,
+                        56.162567
+                  ]
+            },
+            {
+                  "name": "Kloden: Det Iskolde Nord",
+                  "text": "Kloden: Det Iskolde Nord ist ein interessanter Spielplatz im Aarhus Tech Hub, der Kindern fantasievolles Spielen ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        10.214107,
+                        56.154047
+                  ]
+            },
+            {
+                  "name": "Kloden: Vulkanen og Den Amerikanske Ørn",
+                  "text": "Kloden: Vulkanen og Den Amerikanske Ørn ist ein spannender Spielplatz im Aarhus Tech Hub für abenteuerlustige Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.213137,
+                        56.153563
+                  ]
+            },
+            {
+                  "name": "Ø1 - Stedet på Øen",
+                  "text": "Dieser Spielplatz in Aarhus Tech Hub lädt Familien zu einer aktiven Zeit im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        10.21761,
+                        56.162714
+                  ]
+            },
+            {
+                  "name": "Cykeløen",
+                  "text": "Ein lokaler Spielplatz in Aarhus Tech Hub, ideal für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        10.221895,
+                        56.162725
+                  ]
+            },
+            {
+                  "name": "Skolemarken",
+                  "text": "Ein Spielplatz in Aarhus Tech Hub, der sich hervorragend für einen Familienausflug eignet.",
+                  "category": "family",
+                  "coords": [
+                        10.197352,
+                        56.145896
+                  ]
             }
       ],
       "hu": [
@@ -3740,6 +3875,141 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         10.200528,
                         56.152457
+                  ]
+            },
+            {
+                  "name": "Brabrand Sø",
+                  "text": "A Brabrand Lake egy nagy tó az Aarhus Tech Hub közelében, amely kiválóan alkalmas vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.119919,
+                        56.143999
+                  ]
+            },
+            {
+                  "name": "Tuemosen",
+                  "text": "A Tuemosen egy békés tó az Aarhus Tech Hub területén, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        10.243132,
+                        56.091549
+                  ]
+            },
+            {
+                  "name": "Engkær",
+                  "text": "Az Engkær egy természetközeli tó az Aarhus Tech Hub területén, amely ideális egy zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.088252,
+                        56.177627
+                  ]
+            },
+            {
+                  "name": "Årslev Engsø",
+                  "text": "Az Årslev Engsø egy festői tó az Aarhus Tech Hub területén, amely ideális feltételeket kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.065016,
+                        56.139453
+                  ]
+            },
+            {
+                  "name": "Egå Engsø",
+                  "text": "Az Egå Engsø egy nyugodt tó az Aarhus Tech Hub területén, amely pihentető szabadtéri órákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        10.222155,
+                        56.216775
+                  ]
+            },
+            {
+                  "name": "Aarhus Minigolf",
+                  "text": "Az Aarhus Minigolf szórakoztató közös játékélményt kínál a családoknak az Aarhus Tech Hub területén.",
+                  "category": "family",
+                  "coords": [
+                        10.203905,
+                        56.148935
+                  ]
+            },
+            {
+                  "name": "Kloden: Den Kinesiske Drage",
+                  "text": "A Kloden: Den Kinesiske Drage egy tematikus játszótér az Aarhus Tech Hub területén, amely játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        10.215091,
+                        56.15362
+                  ]
+            },
+            {
+                  "name": "Den Indadvendte Legeplads",
+                  "text": "A Den Indadvendte Legeplads egy különleges játszótér az Aarhus Tech Hub területén, amely felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        10.192522,
+                        56.144342
+                  ]
+            },
+            {
+                  "name": "Sharks Minigolf",
+                  "text": "A Sharks Minigolf az Aarhus Tech Hub területén remek úti cél egy sportos családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.206089,
+                        56.155657
+                  ]
+            },
+            {
+                  "name": "Børnenes jord",
+                  "text": "A Børnenes jord egy családbarát játszótér az Aarhus Tech Hub területén, amely sokoldalú szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.208106,
+                        56.162567
+                  ]
+            },
+            {
+                  "name": "Kloden: Det Iskolde Nord",
+                  "text": "A Kloden: Det Iskolde Nord egy érdekes játszótér az Aarhus Tech Hub területén, amely képzeletgazdag játékot tesz lehetővé.",
+                  "category": "family",
+                  "coords": [
+                        10.214107,
+                        56.154047
+                  ]
+            },
+            {
+                  "name": "Kloden: Vulkanen og Den Amerikanske Ørn",
+                  "text": "A Kloden: Vulkanen og Den Amerikanske Ørn egy izgalmas játszótér az Aarhus Tech Hub területén a kalandvágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        10.213137,
+                        56.153563
+                  ]
+            },
+            {
+                  "name": "Ø1 - Stedet på Øen",
+                  "text": "Ez a játszótér az Aarhus Tech Hub területén aktív szabadtéri időtöltésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        10.21761,
+                        56.162714
+                  ]
+            },
+            {
+                  "name": "Cykeløen",
+                  "text": "Egy helyi játszótér az Aarhus Tech Hub területén, amely ideális a gyerekek számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.221895,
+                        56.162725
+                  ]
+            },
+            {
+                  "name": "Skolemarken",
+                  "text": "Egy játszótér az Aarhus Tech Hub területén, amely kiválóan alkalmas családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.197352,
+                        56.145896
                   ]
             }
       ],
@@ -4211,6 +4481,141 @@ export const denmarkEconomicV2: POI[] = [
                         10.200528,
                         56.152457
                   ]
+            },
+            {
+                  "name": "Brabrand Sø",
+                  "text": "Brabrand Lake este un lac mare în Aarhus Tech Hub, fiind excelent pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        10.119919,
+                        56.143999
+                  ]
+            },
+            {
+                  "name": "Tuemosen",
+                  "text": "Tuemosen este un lac pașnic în Aarhus Tech Hub, oferind un mediu liniștit vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        10.243132,
+                        56.091549
+                  ]
+            },
+            {
+                  "name": "Engkær",
+                  "text": "Engkær este un lac natural în Aarhus Tech Hub, ideal pentru o ieșire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.088252,
+                        56.177627
+                  ]
+            },
+            {
+                  "name": "Årslev Engsø",
+                  "text": "Årslev Engsø este un lac pitoresc în Aarhus Tech Hub, oferind condiții ideale pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        10.065016,
+                        56.139453
+                  ]
+            },
+            {
+                  "name": "Egå Engsø",
+                  "text": "Egå Engsø este un lac liniștit în Aarhus Tech Hub, invitând la ore de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.222155,
+                        56.216775
+                  ]
+            },
+            {
+                  "name": "Aarhus Minigolf",
+                  "text": "Aarhus Minigolf oferă familiilor din Aarhus Tech Hub o experiență distractivă de joc împreună.",
+                  "category": "family",
+                  "coords": [
+                        10.203905,
+                        56.148935
+                  ]
+            },
+            {
+                  "name": "Kloden: Den Kinesiske Drage",
+                  "text": "Kloden: Den Kinesiske Drage este un teren de joacă tematic în Aarhus Tech Hub, invitând copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.215091,
+                        56.15362
+                  ]
+            },
+            {
+                  "name": "Den Indadvendte Legeplads",
+                  "text": "Den Indadvendte Legeplads este un teren de joacă special în Aarhus Tech Hub, invitând la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.192522,
+                        56.144342
+                  ]
+            },
+            {
+                  "name": "Sharks Minigolf",
+                  "text": "Sharks Minigolf din Aarhus Tech Hub este o destinație excelentă pentru o ieșire sportivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.206089,
+                        56.155657
+                  ]
+            },
+            {
+                  "name": "Børnenes jord",
+                  "text": "Børnenes jord este un teren de joacă pentru familii în Aarhus Tech Hub, oferind distracție variată.",
+                  "category": "family",
+                  "coords": [
+                        10.208106,
+                        56.162567
+                  ]
+            },
+            {
+                  "name": "Kloden: Det Iskolde Nord",
+                  "text": "Kloden: Det Iskolde Nord este un teren de joacă interesant în Aarhus Tech Hub, permițând copiilor un joc plin de imaginație.",
+                  "category": "family",
+                  "coords": [
+                        10.214107,
+                        56.154047
+                  ]
+            },
+            {
+                  "name": "Kloden: Vulkanen og Den Amerikanske Ørn",
+                  "text": "Kloden: Vulkanen og Den Amerikanske Ørn este un teren de joacă palpitant în Aarhus Tech Hub pentru copiii aventuroși.",
+                  "category": "family",
+                  "coords": [
+                        10.213137,
+                        56.153563
+                  ]
+            },
+            {
+                  "name": "Ø1 - Stedet på Øen",
+                  "text": "Acest loc de joacă din Aarhus Tech Hub invită familiile la un timp activ în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.21761,
+                        56.162714
+                  ]
+            },
+            {
+                  "name": "Cykeløen",
+                  "text": "Un loc de joacă local în Aarhus Tech Hub, ideal pentru copii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        10.221895,
+                        56.162725
+                  ]
+            },
+            {
+                  "name": "Skolemarken",
+                  "text": "Un loc de joacă în Aarhus Tech Hub, excelent pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        10.197352,
+                        56.145896
+                  ]
             }
       ],
       "en": [
@@ -4680,6 +5085,141 @@ export const denmarkEconomicV2: POI[] = [
                   "coords": [
                         10.200528,
                         56.152457
+                  ]
+            },
+            {
+                  "name": "Brabrand Lake",
+                  "text": "Brabrand Lake is a large lake in Aarhus Tech Hub, excellent for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        10.119919,
+                        56.143999
+                  ]
+            },
+            {
+                  "name": "Tuemosen",
+                  "text": "Tuemosen is a peaceful lake in Aarhus Tech Hub, providing a calm environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        10.243132,
+                        56.091549
+                  ]
+            },
+            {
+                  "name": "Engkær",
+                  "text": "Engkær is a natural lake in Aarhus Tech Hub, ideal for an outing in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        10.088252,
+                        56.177627
+                  ]
+            },
+            {
+                  "name": "Årslev Engsø",
+                  "text": "Årslev Engsø is a scenic lake in Aarhus Tech Hub, offering ideal conditions for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        10.065016,
+                        56.139453
+                  ]
+            },
+            {
+                  "name": "Egå Engsø",
+                  "text": "Egå Engsø is a tranquil lake in Aarhus Tech Hub, inviting visitors for relaxing hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        10.222155,
+                        56.216775
+                  ]
+            },
+            {
+                  "name": "Aarhus Minigolf",
+                  "text": "Aarhus Minigolf offers families in Aarhus Tech Hub a fun shared play experience.",
+                  "category": "family",
+                  "coords": [
+                        10.203905,
+                        56.148935
+                  ]
+            },
+            {
+                  "name": "Kloden: Den Kinesiske Drage",
+                  "text": "Kloden: Den Kinesiske Drage is a themed playground in Aarhus Tech Hub, inviting children to play.",
+                  "category": "family",
+                  "coords": [
+                        10.215091,
+                        56.15362
+                  ]
+            },
+            {
+                  "name": "Den Indadvendte Legeplads",
+                  "text": "Den Indadvendte Legeplads is a unique playground in Aarhus Tech Hub, inviting children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        10.192522,
+                        56.144342
+                  ]
+            },
+            {
+                  "name": "Sharks Minigolf",
+                  "text": "Sharks Minigolf in Aarhus Tech Hub is a great destination for a sporty family outing.",
+                  "category": "family",
+                  "coords": [
+                        10.206089,
+                        56.155657
+                  ]
+            },
+            {
+                  "name": "Børnenes jord",
+                  "text": "Børnenes jord is a family-friendly playground in Aarhus Tech Hub, offering versatile play fun.",
+                  "category": "family",
+                  "coords": [
+                        10.208106,
+                        56.162567
+                  ]
+            },
+            {
+                  "name": "Kloden: Det Iskolde Nord",
+                  "text": "Kloden: Det Iskolde Nord is an interesting playground in Aarhus Tech Hub, allowing children imaginative play.",
+                  "category": "family",
+                  "coords": [
+                        10.214107,
+                        56.154047
+                  ]
+            },
+            {
+                  "name": "Kloden: Vulkanen og Den Amerikanske Ørn",
+                  "text": "Kloden: Vulkanen og Den Amerikanske Ørn is an exciting playground in Aarhus Tech Hub for adventurous children.",
+                  "category": "family",
+                  "coords": [
+                        10.213137,
+                        56.153563
+                  ]
+            },
+            {
+                  "name": "Ø1 - Stedet på Øen",
+                  "text": "This playground in Aarhus Tech Hub invites families for active outdoor time.",
+                  "category": "family",
+                  "coords": [
+                        10.21761,
+                        56.162714
+                  ]
+            },
+            {
+                  "name": "The Bike Island",
+                  "text": "A local playground in Aarhus Tech Hub, ideal for children to run around and play.",
+                  "category": "family",
+                  "coords": [
+                        10.221895,
+                        56.162725
+                  ]
+            },
+            {
+                  "name": "Skolemarken",
+                  "text": "A playground in Aarhus Tech Hub that is great for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        10.197352,
+                        56.145896
                   ]
             }
       ]

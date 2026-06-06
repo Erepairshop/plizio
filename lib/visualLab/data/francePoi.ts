@@ -1435,6 +1435,78 @@ export const franceCities: POI[] = [
                         5.364925,
                         43.299804
                   ]
+            },
+            {
+                  "name": "Station de Filtrage Du Merlan",
+                  "text": "Ein markantes Gewässer in Marseille, das das Stadtbild bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        5.403,
+                        43.337826
+                  ]
+            },
+            {
+                  "name": "Réservoir du Vallon Dol",
+                  "text": "Ein bekanntes Reservoir in Marseille, das für seine ruhige Atmosphäre geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        5.401013,
+                        43.362701
+                  ]
+            },
+            {
+                  "name": "Bassin d’entraînement à la survie en mer",
+                  "text": "Ein technisches Becken in Marseille, das als ruhiger Wasserpunkt in der Stadt liegt.",
+                  "category": "natural",
+                  "coords": [
+                        5.358874,
+                        43.32157
+                  ]
+            },
+            {
+                  "name": "Bassin d'essais de la COMEX",
+                  "text": "Dieses Becken in Marseille ist ein interessantes Element der lokalen Wasserlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.401457,
+                        43.238802
+                  ]
+            },
+            {
+                  "name": "Jardin Émile Duclaux",
+                  "text": "Ein freundlicher Spielplatz in Marseille, der Kinder zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        5.359253,
+                        43.293188
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Chave",
+                  "text": "Ein zentral gelegener Spielplatz in Marseille, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        5.398894,
+                        43.295857
+                  ]
+            },
+            {
+                  "name": "Wagon-jeux",
+                  "text": "Ein fantasievoll gestalteter Spielbereich in Marseille für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        5.391921,
+                        43.311067
+                  ]
+            },
+            {
+                  "name": "Halle Ambroise Croizat",
+                  "text": "Ein überdachter oder geschützter Spielbereich in Marseille, der Spaß bei jedem Wetter bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.374462,
+                        43.307678
+                  ]
             }
       ],
       "hu": [
@@ -1506,6 +1578,78 @@ export const franceCities: POI[] = [
                   "coords": [
                         5.364925,
                         43.299804
+                  ]
+            },
+            {
+                  "name": "Station de Filtrage Du Merlan",
+                  "text": "Egy jellegzetes vízfelület Marseille-ben, amely gazdagítja a városképet.",
+                  "category": "natural",
+                  "coords": [
+                        5.403,
+                        43.337826
+                  ]
+            },
+            {
+                  "name": "Réservoir du Vallon Dol",
+                  "text": "Egy jól ismert víztározó Marseille-ben, amelyet nyugodt légköréért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        5.401013,
+                        43.362701
+                  ]
+            },
+            {
+                  "name": "Bassin d’entraînement à la survie en mer",
+                  "text": "Egy technikai jellegű medence Marseille-ben, amely nyugodt vízi pontként szolgál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        5.358874,
+                        43.32157
+                  ]
+            },
+            {
+                  "name": "Bassin d'essais de la COMEX",
+                  "text": "Ez a marseille-i medence a helyi vízi táj érdekes eleme.",
+                  "category": "natural",
+                  "coords": [
+                        5.401457,
+                        43.238802
+                  ]
+            },
+            {
+                  "name": "Jardin Émile Duclaux",
+                  "text": "Egy barátságos játszótér Marseille-ben, amely felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        5.359253,
+                        43.293188
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Chave",
+                  "text": "Egy központi fekvésű játszótér Marseille-ben, amely ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.398894,
+                        43.295857
+                  ]
+            },
+            {
+                  "name": "Wagon-jeux",
+                  "text": "Egy fantáziadúsan kialakított játszóterület Marseille-ben a kis kalandorok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.391921,
+                        43.311067
+                  ]
+            },
+            {
+                  "name": "Halle Ambroise Croizat",
+                  "text": "Egy fedett vagy védett játszóterület Marseille-ben, amely minden időben szórakozást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        5.374462,
+                        43.307678
                   ]
             }
       ],
@@ -1579,6 +1723,78 @@ export const franceCities: POI[] = [
                         5.364925,
                         43.299804
                   ]
+            },
+            {
+                  "name": "Station de Filtrage Du Merlan",
+                  "text": "Un corp de apă distinctiv în Marsilia, care îmbogățește peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        5.403,
+                        43.337826
+                  ]
+            },
+            {
+                  "name": "Réservoir du Vallon Dol",
+                  "text": "Un rezervor cunoscut în Marsilia, apreciat pentru atmosfera sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        5.401013,
+                        43.362701
+                  ]
+            },
+            {
+                  "name": "Bassin d’entraînement à la survie en mer",
+                  "text": "Un bazin tehnic în Marsilia, situat ca un punct de apă liniștit în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        5.358874,
+                        43.32157
+                  ]
+            },
+            {
+                  "name": "Bassin d'essais de la COMEX",
+                  "text": "Acest bazin din Marsilia este un element interesant al peisajului acvatic local.",
+                  "category": "natural",
+                  "coords": [
+                        5.401457,
+                        43.238802
+                  ]
+            },
+            {
+                  "name": "Jardin Émile Duclaux",
+                  "text": "Un loc de joacă primitor în Marsilia, care invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.359253,
+                        43.293188
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Chave",
+                  "text": "Un loc de joacă situat central în Marsilia, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        5.398894,
+                        43.295857
+                  ]
+            },
+            {
+                  "name": "Wagon-jeux",
+                  "text": "O zonă de joacă concepută cu imaginație în Marsilia pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        5.391921,
+                        43.311067
+                  ]
+            },
+            {
+                  "name": "Halle Ambroise Croizat",
+                  "text": "O zonă de joacă acoperită sau protejată în Marsilia, oferind distracție pe orice vreme.",
+                  "category": "family",
+                  "coords": [
+                        5.374462,
+                        43.307678
+                  ]
             }
       ],
       "en": [
@@ -1650,6 +1866,78 @@ export const franceCities: POI[] = [
                   "coords": [
                         5.364925,
                         43.299804
+                  ]
+            },
+            {
+                  "name": "Station de Filtrage Du Merlan",
+                  "text": "A distinctive body of water in Marseille, enriching the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.403,
+                        43.337826
+                  ]
+            },
+            {
+                  "name": "Réservoir du Vallon Dol",
+                  "text": "A well-known reservoir in Marseille, appreciated for its calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        5.401013,
+                        43.362701
+                  ]
+            },
+            {
+                  "name": "Bassin d’entraînement à la survie en mer",
+                  "text": "A technical basin in Marseille, situated as a quiet water point in the city.",
+                  "category": "natural",
+                  "coords": [
+                        5.358874,
+                        43.32157
+                  ]
+            },
+            {
+                  "name": "Bassin d'essais de la COMEX",
+                  "text": "This basin in Marseille is an interesting element of the local water landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.401457,
+                        43.238802
+                  ]
+            },
+            {
+                  "name": "Jardin Émile Duclaux",
+                  "text": "A friendly playground in Marseille, inviting children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        5.359253,
+                        43.293188
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Chave",
+                  "text": "A centrally located playground in Marseille, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        5.398894,
+                        43.295857
+                  ]
+            },
+            {
+                  "name": "Wagon-jeux",
+                  "text": "An imaginatively designed play area in Marseille for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        5.391921,
+                        43.311067
+                  ]
+            },
+            {
+                  "name": "Halle Ambroise Croizat",
+                  "text": "A covered or protected play area in Marseille, offering fun in all weather.",
+                  "category": "family",
+                  "coords": [
+                        5.374462,
+                        43.307678
                   ]
             }
       ],
@@ -2201,6 +2489,231 @@ export const franceCities: POI[] = [
                         1.446,
                         43.601
                   ]
+            },
+            {
+                  "name": "Lac de Sesquières",
+                  "text": "Ein malerischer See in Toulouse, der zu entspannten Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.41792,
+                        43.651176
+                  ]
+            },
+            {
+                  "name": "Bassin de Radoub",
+                  "text": "Dieses Gewässer in Toulouse bietet eine ruhige Kulisse für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        1.45934,
+                        43.589335
+                  ]
+            },
+            {
+                  "name": "Lac Saint-Caprais",
+                  "text": "Ein schöner See in Toulouse, ideal für einen Ausflug ins Grüne und zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        1.482169,
+                        43.645394
+                  ]
+            },
+            {
+                  "name": "Lac des pêcheurs de la Ramée",
+                  "text": "Dieser See in Toulouse ist ein beliebtes Ziel für alle, die Ruhe und Natur suchen.",
+                  "category": "natural",
+                  "coords": [
+                        1.361446,
+                        43.57005
+                  ]
+            },
+            {
+                  "name": "Lac du Vieux Pigeonnier",
+                  "text": "Ein idyllischer See in Toulouse, der eine wunderbare Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.35877,
+                        43.585528
+                  ]
+            },
+            {
+                  "name": "Lac de la Ramée",
+                  "text": "Ein weitläufiger See in Toulouse, der zu verschiedenen Freizeitaktivitäten in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.350291,
+                        43.569893
+                  ]
+            },
+            {
+                  "name": "Soupetard",
+                  "text": "Ein öffentlicher Spielplatz in Toulouse, der Kindern viel Platz zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.472014,
+                        43.608863
+                  ]
+            },
+            {
+                  "name": "Le moulin à nef de la Garonne",
+                  "text": "Dieser Spielbereich in Toulouse ist ein beliebter Treffpunkt für Familien aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        1.430327,
+                        43.600501
+                  ]
+            },
+            {
+                  "name": "Roquelaine",
+                  "text": "Ein gut ausgestatteter Spielplatz in Toulouse, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.448376,
+                        43.612471
+                  ]
+            },
+            {
+                  "name": "Les Pavillons Sauvages",
+                  "text": "Ein einladender Spielplatz in Toulouse, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        1.430428,
+                        43.617087
+                  ]
+            },
+            {
+                  "name": "Square Saint-Cyprien",
+                  "text": "Dieser Spielplatz in Toulouse bietet eine angenehme Atmosphäre für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.42451,
+                        43.597838
+                  ]
+            },
+            {
+                  "name": "La Maourine",
+                  "text": "Ein schöner Ort in Toulouse für Kinder, um sich im Freien auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        1.450019,
+                        43.630813
+                  ]
+            },
+            {
+                  "name": "Jardin Abadie",
+                  "text": "Dieser Spielplatz in Toulouse lädt zu einer spielerischen Pause im Grünen ein.",
+                  "category": "family",
+                  "coords": [
+                        1.445626,
+                        43.616935
+                  ]
+            },
+            {
+                  "name": "Parc des Fontaines",
+                  "text": "Ein zentraler Spielbereich in Toulouse, der ideal für den täglichen Spielspaß ist.",
+                  "category": "family",
+                  "coords": [
+                        1.419296,
+                        43.601353
+                  ]
+            },
+            {
+                  "name": "Ponts Jumeaux 2",
+                  "text": "Ein moderner öffentlicher Spielplatz in Toulouse, der Freude am Bewegen vermittelt.",
+                  "category": "family",
+                  "coords": [
+                        1.422694,
+                        43.614263
+                  ]
+            },
+            {
+                  "name": "Square Pujol",
+                  "text": "Dieser Spielplatz in Toulouse bietet abwechslungsreiche Geräte für Kinder verschiedener Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        1.430737,
+                        43.598667
+                  ]
+            },
+            {
+                  "name": "Jardin Viguerie",
+                  "text": "Ein schön gelegener Spielplatz in Toulouse, der zum Verweilen und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        1.434966,
+                        43.600894
+                  ]
+            },
+            {
+                  "name": "Île du Ramier 2",
+                  "text": "Dieser Bereich in Toulouse bietet Kindern eine sichere Umgebung für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        1.43989,
+                        43.591358
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès",
+                  "text": "Ein zentraler Treffpunkt für Familien in Toulouse mit einem ansprechenden Spielplatz.",
+                  "category": "family",
+                  "coords": [
+                        1.449742,
+                        43.606716
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès 2",
+                  "text": "Dieser Spielplatz in Toulouse bietet vielfältige Spielmöglichkeiten für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        1.452548,
+                        43.608035
+                  ]
+            },
+            {
+                  "name": "Jeux métro Empalot",
+                  "text": "Ein gut erreichbarer Spielplatz in Toulouse, ideal für eine Pause zwischendurch.",
+                  "category": "family",
+                  "coords": [
+                        1.442334,
+                        43.579736
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Robespierre",
+                  "text": "Dieser öffentliche Spielbereich in Toulouse lädt Kinder zum aktiven Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        1.44913,
+                        43.585926
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du télégraphe Claude Chappe",
+                  "text": "Ein themenbezogener Spielplatz in Toulouse, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        1.473108,
+                        43.60174
+                  ]
+            },
+            {
+                  "name": "Ausone",
+                  "text": "Dieser moderne Spielplatz in Toulouse ist ein idealer Ort für tägliche Abenteuer.",
+                  "category": "family",
+                  "coords": [
+                        1.452365,
+                        43.624195
+                  ]
+            },
+            {
+                  "name": "Michelet Nord",
+                  "text": "Ein einladender Spielbereich in Toulouse, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        1.455403,
+                        43.603789
+                  ]
             }
       ],
       "hu": [
@@ -2272,6 +2785,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.446,
                         43.601
+                  ]
+            },
+            {
+                  "name": "Lac de Sesquières",
+                  "text": "Malerikus tó Toulouse-ban, amely pihentető vízparti sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        1.41792,
+                        43.651176
+                  ]
+            },
+            {
+                  "name": "Bassin de Radoub",
+                  "text": "Ez a Toulouse-i vízfelület nyugodt hátteret biztosít a természet megfigyeléséhez és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        1.45934,
+                        43.589335
+                  ]
+            },
+            {
+                  "name": "Lac Saint-Caprais",
+                  "text": "Szép tó Toulouse-ban, amely ideális a zöldbe való kiruccanáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        1.482169,
+                        43.645394
+                  ]
+            },
+            {
+                  "name": "Lac des pêcheurs de la Ramée",
+                  "text": "Ez a Toulouse-i tó kedvelt célpont azok számára, akik nyugalmat és természetet keresnek.",
+                  "category": "natural",
+                  "coords": [
+                        1.361446,
+                        43.57005
+                  ]
+            },
+            {
+                  "name": "Lac du Vieux Pigeonnier",
+                  "text": "Idilli tó Toulouse-ban, amely csodálatos hátteret biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.35877,
+                        43.585528
+                  ]
+            },
+            {
+                  "name": "Lac de la Ramée",
+                  "text": "Kiterjedt tó Toulouse-ban, amely különféle szabadtéri szabadidős tevékenységekre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        1.350291,
+                        43.569893
+                  ]
+            },
+            {
+                  "name": "Soupetard",
+                  "text": "Nyilvános játszótér Toulouse-ban, amely tágas helyet biztosít a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.472014,
+                        43.608863
+                  ]
+            },
+            {
+                  "name": "Le moulin à nef de la Garonne",
+                  "text": "Ez a Toulouse-i játszóterület a környékbeli családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        1.430327,
+                        43.600501
+                  ]
+            },
+            {
+                  "name": "Roquelaine",
+                  "text": "Jól felszerelt játszótér Toulouse-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.448376,
+                        43.612471
+                  ]
+            },
+            {
+                  "name": "Les Pavillons Sauvages",
+                  "text": "Hívogató játszótér Toulouse-ban, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        1.430428,
+                        43.617087
+                  ]
+            },
+            {
+                  "name": "Square Saint-Cyprien",
+                  "text": "Ez a Toulouse-i játszótér kellemes légkört biztosít a gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.42451,
+                        43.597838
+                  ]
+            },
+            {
+                  "name": "La Maourine",
+                  "text": "Szép hely Toulouse-ban a gyerekek számára, hogy a szabadban mozoghassanak.",
+                  "category": "family",
+                  "coords": [
+                        1.450019,
+                        43.630813
+                  ]
+            },
+            {
+                  "name": "Jardin Abadie",
+                  "text": "Ez a Toulouse-i játszótér játékos kikapcsolódásra hívogat a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        1.445626,
+                        43.616935
+                  ]
+            },
+            {
+                  "name": "Parc des Fontaines",
+                  "text": "Központi játszóterület Toulouse-ban, amely ideális a mindennapi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.419296,
+                        43.601353
+                  ]
+            },
+            {
+                  "name": "Ponts Jumeaux 2",
+                  "text": "Modern nyilvános játszótér Toulouse-ban, amely a mozgás örömét kínálja.",
+                  "category": "family",
+                  "coords": [
+                        1.422694,
+                        43.614263
+                  ]
+            },
+            {
+                  "name": "Square Pujol",
+                  "text": "Ez a Toulouse-i játszótér változatos eszközöket kínál a különböző korosztályú gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.430737,
+                        43.598667
+                  ]
+            },
+            {
+                  "name": "Jardin Viguerie",
+                  "text": "Szép fekvésű játszótér Toulouse-ban, amely időtöltésre és játékra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        1.434966,
+                        43.600894
+                  ]
+            },
+            {
+                  "name": "Île du Ramier 2",
+                  "text": "Ez a Toulouse-i terület biztonságos környezetet kínál a gyerekeknek a játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.43989,
+                        43.591358
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès",
+                  "text": "Központi találkozóhely családoknak Toulouse-ban, vonzó játszótérrel.",
+                  "category": "family",
+                  "coords": [
+                        1.449742,
+                        43.606716
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès 2",
+                  "text": "Ez a Toulouse-i játszótér változatos játéklehetőségeket kínál a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        1.452548,
+                        43.608035
+                  ]
+            },
+            {
+                  "name": "Jeux métro Empalot",
+                  "text": "Könnyen megközelíthető játszótér Toulouse-ban, ideális egy köztes szünetre.",
+                  "category": "family",
+                  "coords": [
+                        1.442334,
+                        43.579736
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Robespierre",
+                  "text": "Ez a nyilvános Toulouse-i játszóterület aktív játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        1.44913,
+                        43.585926
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du télégraphe Claude Chappe",
+                  "text": "Tematikus játszótér Toulouse-ban, amely megmozgatja a gyerekek fantáziáját.",
+                  "category": "family",
+                  "coords": [
+                        1.473108,
+                        43.60174
+                  ]
+            },
+            {
+                  "name": "Ausone",
+                  "text": "Ez a modern játszótér Toulouse-ban ideális hely a mindennapi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        1.452365,
+                        43.624195
+                  ]
+            },
+            {
+                  "name": "Michelet Nord",
+                  "text": "Hívogató játszóterület Toulouse-ban, amely sok örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.455403,
+                        43.603789
                   ]
             }
       ],
@@ -2345,6 +3083,231 @@ export const franceCities: POI[] = [
                         1.446,
                         43.601
                   ]
+            },
+            {
+                  "name": "Lac de Sesquières",
+                  "text": "Un lac pitoresc în Toulouse, care invită la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        1.41792,
+                        43.651176
+                  ]
+            },
+            {
+                  "name": "Bassin de Radoub",
+                  "text": "Această apă din Toulouse oferă un cadru liniștit pentru observarea naturii și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        1.45934,
+                        43.589335
+                  ]
+            },
+            {
+                  "name": "Lac Saint-Caprais",
+                  "text": "Un lac frumos în Toulouse, ideal pentru o ieșire în natură și pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        1.482169,
+                        43.645394
+                  ]
+            },
+            {
+                  "name": "Lac des pêcheurs de la Ramée",
+                  "text": "Acest lac din Toulouse este o destinație populară pentru cei care caută liniște și natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.361446,
+                        43.57005
+                  ]
+            },
+            {
+                  "name": "Lac du Vieux Pigeonnier",
+                  "text": "Un lac idilic în Toulouse, care oferă un cadru minunat pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        1.35877,
+                        43.585528
+                  ]
+            },
+            {
+                  "name": "Lac de la Ramée",
+                  "text": "Un lac vast în Toulouse, care invită la diverse activități de agrement în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.350291,
+                        43.569893
+                  ]
+            },
+            {
+                  "name": "Soupetard",
+                  "text": "Un loc de joacă public în Toulouse, care oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        1.472014,
+                        43.608863
+                  ]
+            },
+            {
+                  "name": "Le moulin à nef de la Garonne",
+                  "text": "Această zonă de joacă din Toulouse este un punct de întâlnire popular pentru familiile din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        1.430327,
+                        43.600501
+                  ]
+            },
+            {
+                  "name": "Roquelaine",
+                  "text": "Un loc de joacă bine echipat în Toulouse, care oferă copiilor opțiuni de joacă variate.",
+                  "category": "family",
+                  "coords": [
+                        1.448376,
+                        43.612471
+                  ]
+            },
+            {
+                  "name": "Les Pavillons Sauvages",
+                  "text": "Un loc de joacă primitor în Toulouse, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        1.430428,
+                        43.617087
+                  ]
+            },
+            {
+                  "name": "Square Saint-Cyprien",
+                  "text": "Acest loc de joacă din Toulouse oferă o atmosferă plăcută pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        1.42451,
+                        43.597838
+                  ]
+            },
+            {
+                  "name": "La Maourine",
+                  "text": "Un loc frumos în Toulouse pentru copii, unde aceștia se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        1.450019,
+                        43.630813
+                  ]
+            },
+            {
+                  "name": "Jardin Abadie",
+                  "text": "Acest loc de joacă din Toulouse invită la o pauză de joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        1.445626,
+                        43.616935
+                  ]
+            },
+            {
+                  "name": "Parc des Fontaines",
+                  "text": "O zonă de joacă centrală în Toulouse, ideală pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        1.419296,
+                        43.601353
+                  ]
+            },
+            {
+                  "name": "Ponts Jumeaux 2",
+                  "text": "Un loc de joacă public modern în Toulouse, care transmite bucuria de a face mișcare.",
+                  "category": "family",
+                  "coords": [
+                        1.422694,
+                        43.614263
+                  ]
+            },
+            {
+                  "name": "Square Pujol",
+                  "text": "Acest loc de joacă din Toulouse oferă echipamente variate pentru copii de diferite grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        1.430737,
+                        43.598667
+                  ]
+            },
+            {
+                  "name": "Jardin Viguerie",
+                  "text": "Un loc de joacă frumos situat în Toulouse, care invită la petrecerea timpului și la joacă.",
+                  "category": "family",
+                  "coords": [
+                        1.434966,
+                        43.600894
+                  ]
+            },
+            {
+                  "name": "Île du Ramier 2",
+                  "text": "Această zonă din Toulouse oferă copiilor un mediu sigur pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        1.43989,
+                        43.591358
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès",
+                  "text": "Un punct de întâlnire central pentru familii în Toulouse, cu un loc de joacă atractiv.",
+                  "category": "family",
+                  "coords": [
+                        1.449742,
+                        43.606716
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès 2",
+                  "text": "Acest loc de joacă din Toulouse oferă diverse posibilități de joacă pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        1.452548,
+                        43.608035
+                  ]
+            },
+            {
+                  "name": "Jeux métro Empalot",
+                  "text": "Un loc de joacă ușor accesibil în Toulouse, ideal pentru o pauză între activități.",
+                  "category": "family",
+                  "coords": [
+                        1.442334,
+                        43.579736
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Robespierre",
+                  "text": "Această zonă publică de joacă din Toulouse invită copiii la joc activ.",
+                  "category": "family",
+                  "coords": [
+                        1.44913,
+                        43.585926
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du télégraphe Claude Chappe",
+                  "text": "Un loc de joacă tematic în Toulouse, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.473108,
+                        43.60174
+                  ]
+            },
+            {
+                  "name": "Ausone",
+                  "text": "Acest loc de joacă modern din Toulouse este un loc ideal pentru aventuri zilnice.",
+                  "category": "family",
+                  "coords": [
+                        1.452365,
+                        43.624195
+                  ]
+            },
+            {
+                  "name": "Michelet Nord",
+                  "text": "O zonă de joacă primitoare în Toulouse, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.455403,
+                        43.603789
+                  ]
             }
       ],
       "en": [
@@ -2416,6 +3379,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.446,
                         43.601
+                  ]
+            },
+            {
+                  "name": "Lac de Sesquières",
+                  "text": "A scenic lake in Toulouse that invites you to enjoy relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        1.41792,
+                        43.651176
+                  ]
+            },
+            {
+                  "name": "Bassin de Radoub",
+                  "text": "This body of water in Toulouse provides a peaceful setting for nature observation and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        1.45934,
+                        43.589335
+                  ]
+            },
+            {
+                  "name": "Lac Saint-Caprais",
+                  "text": "A lovely lake in Toulouse, ideal for a trip into nature and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        1.482169,
+                        43.645394
+                  ]
+            },
+            {
+                  "name": "Lac des pêcheurs de la Ramée",
+                  "text": "This lake in Toulouse is a popular destination for those seeking peace and nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.361446,
+                        43.57005
+                  ]
+            },
+            {
+                  "name": "Lac du Vieux Pigeonnier",
+                  "text": "An idyllic lake in Toulouse providing a wonderful backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.35877,
+                        43.585528
+                  ]
+            },
+            {
+                  "name": "Lac de la Ramée",
+                  "text": "A large lake in Toulouse that invites various leisure activities in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.350291,
+                        43.569893
+                  ]
+            },
+            {
+                  "name": "Soupetard",
+                  "text": "A public playground in Toulouse offering children plenty of space to run around.",
+                  "category": "family",
+                  "coords": [
+                        1.472014,
+                        43.608863
+                  ]
+            },
+            {
+                  "name": "Le moulin à nef de la Garonne",
+                  "text": "This play area in Toulouse is a popular meeting spot for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        1.430327,
+                        43.600501
+                  ]
+            },
+            {
+                  "name": "Roquelaine",
+                  "text": "A well-equipped playground in Toulouse offering children a variety of play options.",
+                  "category": "family",
+                  "coords": [
+                        1.448376,
+                        43.612471
+                  ]
+            },
+            {
+                  "name": "Les Pavillons Sauvages",
+                  "text": "An inviting playground in Toulouse where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        1.430428,
+                        43.617087
+                  ]
+            },
+            {
+                  "name": "Square Saint-Cyprien",
+                  "text": "This playground in Toulouse offers a pleasant atmosphere for families with children.",
+                  "category": "family",
+                  "coords": [
+                        1.42451,
+                        43.597838
+                  ]
+            },
+            {
+                  "name": "La Maourine",
+                  "text": "A nice place in Toulouse for children to be active outdoors.",
+                  "category": "family",
+                  "coords": [
+                        1.450019,
+                        43.630813
+                  ]
+            },
+            {
+                  "name": "Jardin Abadie",
+                  "text": "This playground in Toulouse invites you to a playful break in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        1.445626,
+                        43.616935
+                  ]
+            },
+            {
+                  "name": "Parc des Fontaines",
+                  "text": "A central play area in Toulouse, ideal for daily fun and games.",
+                  "category": "family",
+                  "coords": [
+                        1.419296,
+                        43.601353
+                  ]
+            },
+            {
+                  "name": "Ponts Jumeaux 2",
+                  "text": "A modern public playground in Toulouse that promotes the joy of movement.",
+                  "category": "family",
+                  "coords": [
+                        1.422694,
+                        43.614263
+                  ]
+            },
+            {
+                  "name": "Square Pujol",
+                  "text": "This playground in Toulouse offers varied equipment for children of different ages.",
+                  "category": "family",
+                  "coords": [
+                        1.430737,
+                        43.598667
+                  ]
+            },
+            {
+                  "name": "Jardin Viguerie",
+                  "text": "A beautifully located playground in Toulouse that invites you to stay and play.",
+                  "category": "family",
+                  "coords": [
+                        1.434966,
+                        43.600894
+                  ]
+            },
+            {
+                  "name": "Île du Ramier 2",
+                  "text": "This area in Toulouse provides children with a safe environment for fun and games.",
+                  "category": "family",
+                  "coords": [
+                        1.43989,
+                        43.591358
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès",
+                  "text": "A central meeting point for families in Toulouse with an appealing playground.",
+                  "category": "family",
+                  "coords": [
+                        1.449742,
+                        43.606716
+                  ]
+            },
+            {
+                  "name": "Jean Jaurès 2",
+                  "text": "This playground in Toulouse offers diverse play opportunities for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        1.452548,
+                        43.608035
+                  ]
+            },
+            {
+                  "name": "Jeux métro Empalot",
+                  "text": "An easily accessible playground in Toulouse, ideal for a quick break.",
+                  "category": "family",
+                  "coords": [
+                        1.442334,
+                        43.579736
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Robespierre",
+                  "text": "This public play area in Toulouse invites children to engage in active play.",
+                  "category": "family",
+                  "coords": [
+                        1.44913,
+                        43.585926
+                  ]
+            },
+            {
+                  "name": "Aire de jeu du télégraphe Claude Chappe",
+                  "text": "A themed playground in Toulouse that sparks children's imaginations.",
+                  "category": "family",
+                  "coords": [
+                        1.473108,
+                        43.60174
+                  ]
+            },
+            {
+                  "name": "Ausone",
+                  "text": "This modern playground in Toulouse is an ideal spot for daily adventures.",
+                  "category": "family",
+                  "coords": [
+                        1.452365,
+                        43.624195
+                  ]
+            },
+            {
+                  "name": "Michelet Nord",
+                  "text": "An inviting play area in Toulouse that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        1.455403,
+                        43.603789
                   ]
             }
       ],
@@ -2654,6 +3842,123 @@ export const franceCities: POI[] = [
                         7.26339,
                         43.69508
                   ]
+            },
+            {
+                  "name": "Parc Carol de Roumanie",
+                  "text": "Eine charmante Minigolfanlage in Nizza, die Spaß für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        7.230594,
+                        43.688231
+                  ]
+            },
+            {
+                  "name": "Parc d'Estienne d'Orves",
+                  "text": "Ein weitläufiger Spielbereich in Nizza, eingebettet in eine angenehme Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.244451,
+                        43.699292
+                  ]
+            },
+            {
+                  "name": "Jardin Charles Caressa",
+                  "text": "Ein schöner Gartenspielplatz in Nizza, ideal für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        7.291189,
+                        43.712554
+                  ]
+            },
+            {
+                  "name": "Jardin Comte de Falicon",
+                  "text": "Ein gepflegter Spielplatz in Nizza, der eine sichere Umgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.255288,
+                        43.725849
+                  ]
+            },
+            {
+                  "name": "Square Alphonse Daudet",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Nizza für eine Pause im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        7.252046,
+                        43.707799
+                  ]
+            },
+            {
+                  "name": "Jeux d'enfants",
+                  "text": "Ein klassischer Spielbereich in Nizza, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        7.281678,
+                        43.694825
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Ein toller Ort in Nizza für Kinder, um an der frischen Luft zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Parc Bellanda",
+                  "text": "Dieser Spielplatz in Nizza ist ein beliebter Treffpunkt für Familien der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.277566,
+                        43.7179
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Ein spezieller Spielbereich in Nizza, der die Neugier von Kindern weckt.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Lou Jardin de Gusta",
+                  "text": "Ein einladender Spielplatz in Nizza für ein entspanntes Familienerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        7.227795,
+                        43.703124
+                  ]
+            },
+            {
+                  "name": "Square de Pessicart",
+                  "text": "Ein ruhiger Spielplatz in Nizza, ideal für ein ungestörtes Spiel.",
+                  "category": "family",
+                  "coords": [
+                        7.251118,
+                        43.709984
+                  ]
+            },
+            {
+                  "name": "La Baleine",
+                  "text": "Ein fantasievoll benannter Spielplatz in Nizza, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.27585,
+                        43.698405
+                  ]
+            },
+            {
+                  "name": "Square Mirasol",
+                  "text": "Ein angenehmer Spielbereich in Nizza, perfekt für einen Nachmittagsausflug.",
+                  "category": "family",
+                  "coords": [
+                        7.249549,
+                        43.710721
+                  ]
             }
       ],
       "hu": [
@@ -2795,6 +4100,123 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.26339,
                         43.69508
+                  ]
+            },
+            {
+                  "name": "Parc Carol de Roumanie",
+                  "text": "Egy bájos minigolfpálya Nizzában, amely szórakozást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.230594,
+                        43.688231
+                  ]
+            },
+            {
+                  "name": "Parc d'Estienne d'Orves",
+                  "text": "Egy tágas játszóterület Nizzában, kellemes környezetben elhelyezve.",
+                  "category": "family",
+                  "coords": [
+                        7.244451,
+                        43.699292
+                  ]
+            },
+            {
+                  "name": "Jardin Charles Caressa",
+                  "text": "Egy szép kerti játszótér Nizzában, ideális a gyerekek számára a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.291189,
+                        43.712554
+                  ]
+            },
+            {
+                  "name": "Jardin Comte de Falicon",
+                  "text": "Egy gondozott játszótér Nizzában, amely biztonságos környezetet nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.255288,
+                        43.725849
+                  ]
+            },
+            {
+                  "name": "Square Alphonse Daudet",
+                  "text": "Egy kicsi, hangulatos játszótér Nizzában a zöldövezeti pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        7.252046,
+                        43.707799
+                  ]
+            },
+            {
+                  "name": "Jeux d'enfants",
+                  "text": "Egy klasszikus játszóterület Nizzában, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.281678,
+                        43.694825
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Egy remek hely Nizzában a gyerekek számára a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Parc Bellanda",
+                  "text": "Ez a nizzai játszótér kedvelt találkozóhely a környékbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.277566,
+                        43.7179
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Egy különleges játszóterület Nizzában, amely felkelti a gyerekek kíváncsiságát.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Lou Jardin de Gusta",
+                  "text": "Egy hívogató játszótér Nizzában a pihentető családi élményhez.",
+                  "category": "family",
+                  "coords": [
+                        7.227795,
+                        43.703124
+                  ]
+            },
+            {
+                  "name": "Square de Pessicart",
+                  "text": "Egy nyugodt játszótér Nizzában, ideális a zavartalan játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.251118,
+                        43.709984
+                  ]
+            },
+            {
+                  "name": "La Baleine",
+                  "text": "Egy fantáziadús nevű játszótér Nizzában, amely felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        7.27585,
+                        43.698405
+                  ]
+            },
+            {
+                  "name": "Square Mirasol",
+                  "text": "Egy kellemes játszóterület Nizzában, tökéletes egy délutáni kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.249549,
+                        43.710721
                   ]
             }
       ],
@@ -2938,6 +4360,123 @@ export const franceCities: POI[] = [
                         7.26339,
                         43.69508
                   ]
+            },
+            {
+                  "name": "Parc Carol de Roumanie",
+                  "text": "Un teren de minigolf fermecător în Nisa, care promite distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.230594,
+                        43.688231
+                  ]
+            },
+            {
+                  "name": "Parc d'Estienne d'Orves",
+                  "text": "O zonă de joacă spațioasă în Nisa, situată într-un mediu plăcut.",
+                  "category": "family",
+                  "coords": [
+                        7.244451,
+                        43.699292
+                  ]
+            },
+            {
+                  "name": "Jardin Charles Caressa",
+                  "text": "Un loc de joacă frumos într-o grădină din Nisa, ideal pentru copii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        7.291189,
+                        43.712554
+                  ]
+            },
+            {
+                  "name": "Jardin Comte de Falicon",
+                  "text": "Un loc de joacă bine întreținut în Nisa, oferind un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.255288,
+                        43.725849
+                  ]
+            },
+            {
+                  "name": "Square Alphonse Daudet",
+                  "text": "Un loc de joacă mic și primitor în Nisa pentru o pauză în natură.",
+                  "category": "family",
+                  "coords": [
+                        7.252046,
+                        43.707799
+                  ]
+            },
+            {
+                  "name": "Jeux d'enfants",
+                  "text": "O zonă de joacă clasică în Nisa, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        7.281678,
+                        43.694825
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Un loc minunat în Nisa pentru copii, unde se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Parc Bellanda",
+                  "text": "Acest loc de joacă din Nisa este un punct de întâlnire popular pentru familiile din zonă.",
+                  "category": "family",
+                  "coords": [
+                        7.277566,
+                        43.7179
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "O zonă de joacă specială în Nisa, care trezește curiozitatea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Lou Jardin de Gusta",
+                  "text": "Un loc de joacă primitor în Nisa pentru o experiență relaxantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.227795,
+                        43.703124
+                  ]
+            },
+            {
+                  "name": "Square de Pessicart",
+                  "text": "Un loc de joacă liniștit în Nisa, ideal pentru joacă neîntreruptă.",
+                  "category": "family",
+                  "coords": [
+                        7.251118,
+                        43.709984
+                  ]
+            },
+            {
+                  "name": "La Baleine",
+                  "text": "Un loc de joacă cu un nume plin de imaginație în Nisa, care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        7.27585,
+                        43.698405
+                  ]
+            },
+            {
+                  "name": "Square Mirasol",
+                  "text": "O zonă de joacă plăcută în Nisa, perfectă pentru o ieșire de după-amiază.",
+                  "category": "family",
+                  "coords": [
+                        7.249549,
+                        43.710721
+                  ]
             }
       ],
       "en": [
@@ -3079,6 +4618,123 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.26339,
                         43.69508
+                  ]
+            },
+            {
+                  "name": "Parc Carol de Roumanie",
+                  "text": "A charming minigolf course in Nizza, promising fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.230594,
+                        43.688231
+                  ]
+            },
+            {
+                  "name": "Parc d'Estienne d'Orves",
+                  "text": "A spacious play area in Nizza, set in a pleasant environment.",
+                  "category": "family",
+                  "coords": [
+                        7.244451,
+                        43.699292
+                  ]
+            },
+            {
+                  "name": "Jardin Charles Caressa",
+                  "text": "A lovely garden playground in Nizza, ideal for children to enjoy themselves.",
+                  "category": "family",
+                  "coords": [
+                        7.291189,
+                        43.712554
+                  ]
+            },
+            {
+                  "name": "Jardin Comte de Falicon",
+                  "text": "A well-maintained playground in Nizza, providing a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        7.255288,
+                        43.725849
+                  ]
+            },
+            {
+                  "name": "Square Alphonse Daudet",
+                  "text": "A small, cozy playground in Nizza for a break in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        7.252046,
+                        43.707799
+                  ]
+            },
+            {
+                  "name": "Jeux d'enfants",
+                  "text": "A classic play area in Nizza that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        7.281678,
+                        43.694825
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "A great spot in Nizza for children to play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Parc Bellanda",
+                  "text": "This playground in Nizza is a popular meeting point for local families.",
+                  "category": "family",
+                  "coords": [
+                        7.277566,
+                        43.7179
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "A special play area in Nizza that sparks children's curiosity.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Lou Jardin de Gusta",
+                  "text": "An inviting playground in Nizza for a relaxed family experience.",
+                  "category": "family",
+                  "coords": [
+                        7.227795,
+                        43.703124
+                  ]
+            },
+            {
+                  "name": "Square de Pessicart",
+                  "text": "A quiet playground in Nizza, ideal for undisturbed play.",
+                  "category": "family",
+                  "coords": [
+                        7.251118,
+                        43.709984
+                  ]
+            },
+            {
+                  "name": "La Baleine",
+                  "text": "An imaginatively named playground in Nizza that invites exploration.",
+                  "category": "family",
+                  "coords": [
+                        7.27585,
+                        43.698405
+                  ]
+            },
+            {
+                  "name": "Square Mirasol",
+                  "text": "A pleasant play area in Nizza, perfect for an afternoon outing.",
+                  "category": "family",
+                  "coords": [
+                        7.249549,
+                        43.710721
                   ]
             }
       ]
@@ -3272,6 +4928,87 @@ export const franceCities: POI[] = [
                         -1.58138,
                         47.224
                   ]
+            },
+            {
+                  "name": "aire de jeu de belle isle",
+                  "text": "Dieser Spielplatz in Nantes bietet einen schönen Ort zum Spielen am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        -1.542636,
+                        47.246549
+                  ]
+            },
+            {
+                  "name": "Quiz Room",
+                  "text": "Die Quiz Room in Nantes bietet interaktiven Spielspaß für Gruppen und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.570467,
+                        47.20812
+                  ]
+            },
+            {
+                  "name": "Parc aux champignons",
+                  "text": "Dieser Spielplatz in Nantes ist ein origineller Ort für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.540353,
+                        47.241541
+                  ]
+            },
+            {
+                  "name": "tv quiz",
+                  "text": "Diese Spielhalle in Nantes bietet unterhaltsame Aktivitäten für einen Ausflug.",
+                  "category": "family",
+                  "coords": [
+                        -1.560849,
+                        47.20568
+                  ]
+            },
+            {
+                  "name": "Parc du Croissant",
+                  "text": "Der Parc du Croissant in Nantes bietet Spielbereiche in einer Grünanlage.",
+                  "category": "family",
+                  "coords": [
+                        -1.523545,
+                        47.23525
+                  ]
+            },
+            {
+                  "name": "Square Marco Polo",
+                  "text": "Der Square Marco Polo in Nantes ist ein Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -1.515453,
+                        47.240328
+                  ]
+            },
+            {
+                  "name": "On va marcher sur la lune",
+                  "text": "Dieser thematische Spielplatz in Nantes bietet ein kreatives Erlebnis für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.569346,
+                        47.205625
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Capucins",
+                  "text": "Dieser Spielplatz in Nantes ist ein schöner Ort für Freizeitaktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -1.562633,
+                        47.22549
+                  ]
+            },
+            {
+                  "name": "Jardin des enfants",
+                  "text": "Ein schöner Spielplatz in Nantes für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -1.566347,
+                        47.212877
+                  ]
             }
       ],
       "hu": [
@@ -3433,6 +5170,87 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.58138,
                         47.224
+                  ]
+            },
+            {
+                  "name": "aire de jeu de belle isle",
+                  "text": "Ez a nantes-i játszótér kellemes helyet biztosít a játékhoz a víz közelében.",
+                  "category": "family",
+                  "coords": [
+                        -1.542636,
+                        47.246549
+                  ]
+            },
+            {
+                  "name": "Quiz Room",
+                  "text": "A nantes-i Quiz Room interaktív játékélményt kínál csoportoknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.570467,
+                        47.20812
+                  ]
+            },
+            {
+                  "name": "Parc aux champignons",
+                  "text": "Ez a nantes-i játszótér eredeti helyszín a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.540353,
+                        47.241541
+                  ]
+            },
+            {
+                  "name": "tv quiz",
+                  "text": "Ez a nantes-i játékterem szórakoztató tevékenységeket kínál egy kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.560849,
+                        47.20568
+                  ]
+            },
+            {
+                  "name": "Parc du Croissant",
+                  "text": "A nantes-i Parc du Croissant játszótereket kínál egy parkosított környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -1.523545,
+                        47.23525
+                  ]
+            },
+            {
+                  "name": "Square Marco Polo",
+                  "text": "A nantes-i Square Marco Polo találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.515453,
+                        47.240328
+                  ]
+            },
+            {
+                  "name": "On va marcher sur la lune",
+                  "text": "Ez a tematikus nantes-i játszótér kreatív élményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.569346,
+                        47.205625
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Capucins",
+                  "text": "Ez a nantes-i játszótér kellemes hely a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -1.562633,
+                        47.22549
+                  ]
+            },
+            {
+                  "name": "Jardin des enfants",
+                  "text": "Egy kedves játszótér Nantes-ban, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.566347,
+                        47.212877
                   ]
             }
       ],
@@ -3596,6 +5414,87 @@ export const franceCities: POI[] = [
                         -1.58138,
                         47.224
                   ]
+            },
+            {
+                  "name": "aire de jeu de belle isle",
+                  "text": "Acest teren de joacă din Nantes oferă un loc plăcut pentru joacă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        -1.542636,
+                        47.246549
+                  ]
+            },
+            {
+                  "name": "Quiz Room",
+                  "text": "Quiz Room din Nantes oferă divertisment interactiv pentru grupuri și familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.570467,
+                        47.20812
+                  ]
+            },
+            {
+                  "name": "Parc aux champignons",
+                  "text": "Acest teren de joacă din Nantes este un loc inedit pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.540353,
+                        47.241541
+                  ]
+            },
+            {
+                  "name": "tv quiz",
+                  "text": "Această sală de jocuri din Nantes oferă activități distractive pentru o ieșire.",
+                  "category": "family",
+                  "coords": [
+                        -1.560849,
+                        47.20568
+                  ]
+            },
+            {
+                  "name": "Parc du Croissant",
+                  "text": "Parc du Croissant din Nantes oferă zone de joacă într-un cadru amenajat.",
+                  "category": "family",
+                  "coords": [
+                        -1.523545,
+                        47.23525
+                  ]
+            },
+            {
+                  "name": "Square Marco Polo",
+                  "text": "Square Marco Polo din Nantes este un punct de întâlnire pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.515453,
+                        47.240328
+                  ]
+            },
+            {
+                  "name": "On va marcher sur la lune",
+                  "text": "Acest teren de joacă tematic din Nantes oferă o experiență creativă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.569346,
+                        47.205625
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Capucins",
+                  "text": "Acest teren de joacă din Nantes este un loc plăcut pentru activități recreative în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -1.562633,
+                        47.22549
+                  ]
+            },
+            {
+                  "name": "Jardin des enfants",
+                  "text": "Un loc de joacă plăcut în Nantes pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.566347,
+                        47.212877
+                  ]
             }
       ],
       "en": [
@@ -3757,6 +5656,87 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.58138,
                         47.224
+                  ]
+            },
+            {
+                  "name": "aire de jeu de belle isle",
+                  "text": "This playground in Nantes offers a nice place for play near the water.",
+                  "category": "family",
+                  "coords": [
+                        -1.542636,
+                        47.246549
+                  ]
+            },
+            {
+                  "name": "Quiz Room",
+                  "text": "The Quiz Room in Nantes offers interactive game fun for groups and families.",
+                  "category": "family",
+                  "coords": [
+                        -1.570467,
+                        47.20812
+                  ]
+            },
+            {
+                  "name": "Parc aux champignons",
+                  "text": "This playground in Nantes is an original spot for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.540353,
+                        47.241541
+                  ]
+            },
+            {
+                  "name": "tv quiz",
+                  "text": "This amusement arcade in Nantes offers entertaining activities for an outing.",
+                  "category": "family",
+                  "coords": [
+                        -1.560849,
+                        47.20568
+                  ]
+            },
+            {
+                  "name": "Parc du Croissant",
+                  "text": "Parc du Croissant in Nantes offers play areas in a landscaped setting.",
+                  "category": "family",
+                  "coords": [
+                        -1.523545,
+                        47.23525
+                  ]
+            },
+            {
+                  "name": "Square Marco Polo",
+                  "text": "Square Marco Polo in Nantes is a meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -1.515453,
+                        47.240328
+                  ]
+            },
+            {
+                  "name": "On va marcher sur la lune",
+                  "text": "This themed playground in Nantes offers a creative experience for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.569346,
+                        47.205625
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Capucins",
+                  "text": "This playground in Nantes is a nice spot for outdoor recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -1.562633,
+                        47.22549
+                  ]
+            },
+            {
+                  "name": "Jardin des enfants",
+                  "text": "A lovely playground in Nantes for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -1.566347,
+                        47.212877
                   ]
             }
       ],
@@ -4024,6 +6004,231 @@ export const franceCities: POI[] = [
                         -0.567523,
                         44.83017
                   ]
+            },
+            {
+                  "name": "Le Lac",
+                  "text": "Ein bekannter See in Bordeaux, der eine schöne Kulisse für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.577362,
+                        44.886246
+                  ]
+            },
+            {
+                  "name": "Lac Raymond Carsac",
+                  "text": "Dieser See in Bordeaux ist ein ruhiger Ort für Entspannung und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        -0.551543,
+                        44.776456
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention de Béquigneaux",
+                  "text": "Ein ruhiges Gewässer in Bordeaux, das zu einem entspannten Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -0.585768,
+                        44.870697
+                  ]
+            },
+            {
+                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
+                  "text": "Dieses Wasserbecken in Bordeaux bietet eine angenehme Umgebung für eine Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -0.639361,
+                        44.874406
+                  ]
+            },
+            {
+                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
+                  "text": "Ein speziell gestaltetes Gewässer in Bordeaux, das Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.653207,
+                        44.872059
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention du Bourgailh",
+                  "text": "Dieses Gewässer in Bordeaux fügt sich harmonisch in die umgebende Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        -0.669983,
+                        44.806359
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Visitation",
+                  "text": "Ein öffentlicher Spielplatz in Bordeaux, der Kindern Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.594778,
+                        44.848252
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Dieser Spielplatz in Bordeaux ist mit verschiedenen Geräten für viel Spielspaß ausgestattet.",
+                  "category": "family",
+                  "coords": [
+                        -0.531631,
+                        44.833052
+                  ]
+            },
+            {
+                  "name": "Espace motricité enfant de la piscine",
+                  "text": "Ein Spielbereich in Bordeaux, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        -0.553991,
+                        44.807172
+                  ]
+            },
+            {
+                  "name": "voitures électriques pour enfants",
+                  "text": "Ein unterhaltsames Angebot in Bordeaux, das Kindern besondere Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -0.601814,
+                        44.853252
+                  ]
+            },
+            {
+                  "name": "École maternelle Saint-Maurice",
+                  "text": "Ein gut angelegter Spielplatz in Bordeaux, der ein idealer Ort zum Toben ist.",
+                  "category": "family",
+                  "coords": [
+                        -0.545753,
+                        44.815226
+                  ]
+            },
+            {
+                  "name": "École maternelle La Ferrade",
+                  "text": "Dieser Spielplatz in Bordeaux bietet Kindern vielfältige Möglichkeiten für Aktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -0.566007,
+                        44.810026
+                  ]
+            },
+            {
+                  "name": "Le petit train de Ravezies",
+                  "text": "Ein schöner Ort in Bordeaux, der Kindern Freude am Spiel an der frischen Luft ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -0.578054,
+                        44.866841
+                  ]
+            },
+            {
+                  "name": "VORTEX EXPERIENCE VR Bordeaux",
+                  "text": "Dieses moderne Unterhaltungszentrum in Bordeaux bietet spannende Erlebnisse für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.574506,
+                        44.862897
+                  ]
+            },
+            {
+                  "name": "Quizz Room",
+                  "text": "Eine Spielhalle in Bordeaux, die zu unterhaltsamen Stunden mit verschiedenen Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -0.564098,
+                        44.868728
+                  ]
+            },
+            {
+                  "name": "Square Joséphine",
+                  "text": "Ein einladender öffentlicher Spielplatz in Bordeaux für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -0.620553,
+                        44.844307
+                  ]
+            },
+            {
+                  "name": "Île aux Enfants",
+                  "text": "Ein abwechslungsreicher Spielplatz in Bordeaux, der ideal auf Kinder ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        -0.577206,
+                        44.849061
+                  ]
+            },
+            {
+                  "name": "Square Francis de Pressensé",
+                  "text": "Dieser Spielplatz in Bordeaux bietet Kindern einen angenehmen Ort zum Spielen im Grünen.",
+                  "category": "family",
+                  "coords": [
+                        -0.575373,
+                        44.83222
+                  ]
+            },
+            {
+                  "name": "Kidooland",
+                  "text": "Ein beliebter Spielplatz in Bordeaux, der Kindern viel Spaß und Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.561766,
+                        44.870785
+                  ]
+            },
+            {
+                  "name": "Place des Droits de l'Enfant",
+                  "text": "Ein öffentlicher Spielbereich in Bordeaux, der Raum für Begegnung und Spiel bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.564281,
+                        44.84584
+                  ]
+            },
+            {
+                  "name": "Place Etienne Dolet",
+                  "text": "Dieser Spielplatz in Bordeaux lädt Kinder zu aktiver Erholung an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        -0.566946,
+                        44.81121
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Langevin",
+                  "text": "Ein gut ausgestatteter Spielplatz in Bordeaux für vielfältige Aktivitäten unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        -0.569043,
+                        44.808515
+                  ]
+            },
+            {
+                  "name": "Plaine de jeu",
+                  "text": "Diese Spielfläche in Bordeaux bietet Kindern viel Raum für Bewegung und gemeinsame Spiele.",
+                  "category": "family",
+                  "coords": [
+                        -0.571033,
+                        44.872533
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux Parc de Lussy",
+                  "text": "Ein schöner Spielplatz in Bordeaux für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -0.606179,
+                        44.840196
+                  ]
+            },
+            {
+                  "name": "Aire de jeux (Jardin Georges Mandel)",
+                  "text": "Diese Spielfläche in Bordeaux bietet Kindern Raum zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        -0.593679,
+                        44.842076
+                  ]
             }
       ],
       "hu": [
@@ -4185,6 +6390,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.567523,
                         44.83017
+                  ]
+            },
+            {
+                  "name": "Le Lac",
+                  "text": "Ismert tó Bordeaux-ban, amely szép hátteret biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        -0.577362,
+                        44.886246
+                  ]
+            },
+            {
+                  "name": "Lac Raymond Carsac",
+                  "text": "Ez a Bordeaux-i tó nyugodt hely a pihenésre és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        -0.551543,
+                        44.776456
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention de Béquigneaux",
+                  "text": "Nyugodt vízfelület Bordeaux-ban, amely pihentető sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.585768,
+                        44.870697
+                  ]
+            },
+            {
+                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
+                  "text": "Ez a Bordeaux-i vízmedence kellemes környezetet biztosít a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -0.639361,
+                        44.874406
+                  ]
+            },
+            {
+                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
+                  "text": "Speciálisan kialakított vízfelület Bordeaux-ban, amely pihenést kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.653207,
+                        44.872059
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention du Bourgailh",
+                  "text": "Ez a Bordeaux-i vízfelület harmonikusan illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -0.669983,
+                        44.806359
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Visitation",
+                  "text": "Nyilvános játszótér Bordeaux-ban, amely helyet biztosít a gyerekeknek a játékhoz és felfedezéshez.",
+                  "category": "family",
+                  "coords": [
+                        -0.594778,
+                        44.848252
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Ez a Bordeaux-i játszótér különféle eszközökkel van felszerelve a nagy játékélmény érdekében.",
+                  "category": "family",
+                  "coords": [
+                        -0.531631,
+                        44.833052
+                  ]
+            },
+            {
+                  "name": "Espace motricité enfant de la piscine",
+                  "text": "Bordeaux-i játszóterület, amelyet kifejezetten a gyermekek igényeire szabtak.",
+                  "category": "family",
+                  "coords": [
+                        -0.553991,
+                        44.807172
+                  ]
+            },
+            {
+                  "name": "voitures électriques pour enfants",
+                  "text": "Szórakoztató lehetőség Bordeaux-ban, amely különleges örömet szerez a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -0.601814,
+                        44.853252
+                  ]
+            },
+            {
+                  "name": "École maternelle Saint-Maurice",
+                  "text": "Jól kialakított játszótér Bordeaux-ban, amely ideális hely a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.545753,
+                        44.815226
+                  ]
+            },
+            {
+                  "name": "École maternelle La Ferrade",
+                  "text": "Ez a Bordeaux-i játszótér változatos lehetőségeket kínál a gyerekeknek a szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -0.566007,
+                        44.810026
+                  ]
+            },
+            {
+                  "name": "Le petit train de Ravezies",
+                  "text": "Szép hely Bordeaux-ban, amely lehetővé teszi a gyerekeknek a friss levegőn való játékot.",
+                  "category": "family",
+                  "coords": [
+                        -0.578054,
+                        44.866841
+                  ]
+            },
+            {
+                  "name": "VORTEX EXPERIENCE VR Bordeaux",
+                  "text": "Ez a modern Bordeaux-i szórakoztató központ izgalmas élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.574506,
+                        44.862897
+                  ]
+            },
+            {
+                  "name": "Quizz Room",
+                  "text": "Bordeaux-i játékterem, amely szórakoztató órákra hívogat különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        -0.564098,
+                        44.868728
+                  ]
+            },
+            {
+                  "name": "Square Joséphine",
+                  "text": "Hívogató nyilvános játszótér Bordeaux-ban a mindennapi szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -0.620553,
+                        44.844307
+                  ]
+            },
+            {
+                  "name": "Île aux Enfants",
+                  "text": "Változatos játszótér Bordeaux-ban, amely ideális a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.577206,
+                        44.849061
+                  ]
+            },
+            {
+                  "name": "Square Francis de Pressensé",
+                  "text": "Ez a Bordeaux-i játszótér kellemes helyet kínál a gyerekeknek a zöldben való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.575373,
+                        44.83222
+                  ]
+            },
+            {
+                  "name": "Kidooland",
+                  "text": "Kedvelt játszótér Bordeaux-ban, amely sok szórakozást és változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -0.561766,
+                        44.870785
+                  ]
+            },
+            {
+                  "name": "Place des Droits de l'Enfant",
+                  "text": "Nyilvános Bordeaux-i játszóterület, amely helyet biztosít a találkozásokhoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.564281,
+                        44.84584
+                  ]
+            },
+            {
+                  "name": "Place Etienne Dolet",
+                  "text": "Ez a Bordeaux-i játszótér aktív kikapcsolódásra hívja a gyerekeket a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        -0.566946,
+                        44.81121
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Langevin",
+                  "text": "Jól felszerelt játszótér Bordeaux-ban a változatos szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -0.569043,
+                        44.808515
+                  ]
+            },
+            {
+                  "name": "Plaine de jeu",
+                  "text": "Ez a Bordeaux-i játszófelület tágas helyet biztosít a gyerekeknek a mozgáshoz és a közös játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.571033,
+                        44.872533
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux Parc de Lussy",
+                  "text": "Szép játszótér Bordeaux-ban a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.606179,
+                        44.840196
+                  ]
+            },
+            {
+                  "name": "Aire de jeux (Jardin Georges Mandel)",
+                  "text": "Ez a bordeaux-i játszótér teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.593679,
+                        44.842076
                   ]
             }
       ],
@@ -4348,6 +6778,231 @@ export const franceCities: POI[] = [
                         -0.567523,
                         44.83017
                   ]
+            },
+            {
+                  "name": "Le Lac",
+                  "text": "Un lac cunoscut în Bordeaux, care oferă un cadru frumos pentru activități de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        -0.577362,
+                        44.886246
+                  ]
+            },
+            {
+                  "name": "Lac Raymond Carsac",
+                  "text": "Acest lac din Bordeaux este un loc liniștit pentru relaxare și bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.551543,
+                        44.776456
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention de Béquigneaux",
+                  "text": "O apă liniștită în Bordeaux, care invită la o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -0.585768,
+                        44.870697
+                  ]
+            },
+            {
+                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
+                  "text": "Acest bazin din Bordeaux oferă un mediu plăcut pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -0.639361,
+                        44.874406
+                  ]
+            },
+            {
+                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
+                  "text": "O apă special amenajată în Bordeaux, care oferă relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -0.653207,
+                        44.872059
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention du Bourgailh",
+                  "text": "Această apă din Bordeaux se integrează armonios în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -0.669983,
+                        44.806359
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Visitation",
+                  "text": "Un loc de joacă public în Bordeaux, care oferă copiilor spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        -0.594778,
+                        44.848252
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Acest loc de joacă din Bordeaux este echipat cu diverse dispozitive pentru multă distracție.",
+                  "category": "family",
+                  "coords": [
+                        -0.531631,
+                        44.833052
+                  ]
+            },
+            {
+                  "name": "Espace motricité enfant de la piscine",
+                  "text": "O zonă de joacă în Bordeaux, adaptată special nevoilor copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -0.553991,
+                        44.807172
+                  ]
+            },
+            {
+                  "name": "voitures électriques pour enfants",
+                  "text": "O ofertă distractivă în Bordeaux, care aduce o bucurie deosebită copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -0.601814,
+                        44.853252
+                  ]
+            },
+            {
+                  "name": "École maternelle Saint-Maurice",
+                  "text": "Un loc de joacă bine amenajat în Bordeaux, fiind un loc ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -0.545753,
+                        44.815226
+                  ]
+            },
+            {
+                  "name": "École maternelle La Ferrade",
+                  "text": "Acest loc de joacă din Bordeaux oferă copiilor diverse posibilități pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.566007,
+                        44.810026
+                  ]
+            },
+            {
+                  "name": "Le petit train de Ravezies",
+                  "text": "Un loc frumos în Bordeaux, care le permite copiilor să se bucure de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.578054,
+                        44.866841
+                  ]
+            },
+            {
+                  "name": "VORTEX EXPERIENCE VR Bordeaux",
+                  "text": "Acest centru de divertisment modern din Bordeaux oferă experiențe captivante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.574506,
+                        44.862897
+                  ]
+            },
+            {
+                  "name": "Quizz Room",
+                  "text": "O sală de jocuri în Bordeaux, care invită la ore distractive cu diverse jocuri.",
+                  "category": "family",
+                  "coords": [
+                        -0.564098,
+                        44.868728
+                  ]
+            },
+            {
+                  "name": "Square Joséphine",
+                  "text": "Un loc de joacă public primitor în Bordeaux pentru petrecerea zilnică a timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.620553,
+                        44.844307
+                  ]
+            },
+            {
+                  "name": "Île aux Enfants",
+                  "text": "Un loc de joacă variat în Bordeaux, ideal adaptat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -0.577206,
+                        44.849061
+                  ]
+            },
+            {
+                  "name": "Square Francis de Pressensé",
+                  "text": "Acest loc de joacă din Bordeaux oferă copiilor un loc plăcut pentru joacă în natură.",
+                  "category": "family",
+                  "coords": [
+                        -0.575373,
+                        44.83222
+                  ]
+            },
+            {
+                  "name": "Kidooland",
+                  "text": "Un loc de joacă popular în Bordeaux, care oferă copiilor multă distracție și diversitate.",
+                  "category": "family",
+                  "coords": [
+                        -0.561766,
+                        44.870785
+                  ]
+            },
+            {
+                  "name": "Place des Droits de l'Enfant",
+                  "text": "O zonă de joacă publică în Bordeaux, care oferă spațiu pentru întâlniri și joacă.",
+                  "category": "family",
+                  "coords": [
+                        -0.564281,
+                        44.84584
+                  ]
+            },
+            {
+                  "name": "Place Etienne Dolet",
+                  "text": "Acest loc de joacă din Bordeaux invită copiii la o recreere activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.566946,
+                        44.81121
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Langevin",
+                  "text": "Un loc de joacă bine echipat în Bordeaux pentru diverse activități sub cerul liber.",
+                  "category": "family",
+                  "coords": [
+                        -0.569043,
+                        44.808515
+                  ]
+            },
+            {
+                  "name": "Plaine de jeu",
+                  "text": "Acest spațiu de joacă din Bordeaux oferă copiilor mult loc pentru mișcare și jocuri comune.",
+                  "category": "family",
+                  "coords": [
+                        -0.571033,
+                        44.872533
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux Parc de Lussy",
+                  "text": "Un loc de joacă frumos în Bordeaux pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -0.606179,
+                        44.840196
+                  ]
+            },
+            {
+                  "name": "Aire de jeux (Jardin Georges Mandel)",
+                  "text": "Acest spațiu de joacă din Bordeaux oferă copiilor loc de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -0.593679,
+                        44.842076
+                  ]
             }
       ],
       "en": [
@@ -4509,6 +7164,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.567523,
                         44.83017
+                  ]
+            },
+            {
+                  "name": "Le Lac",
+                  "text": "A well-known lake in Bordeaux providing a beautiful setting for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        -0.577362,
+                        44.886246
+                  ]
+            },
+            {
+                  "name": "Lac Raymond Carsac",
+                  "text": "This lake in Bordeaux is a peaceful spot for relaxation and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.551543,
+                        44.776456
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention de Béquigneaux",
+                  "text": "A peaceful body of water in Bordeaux that invites you for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        -0.585768,
+                        44.870697
+                  ]
+            },
+            {
+                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
+                  "text": "This basin in Bordeaux offers a pleasant environment for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        -0.639361,
+                        44.874406
+                  ]
+            },
+            {
+                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
+                  "text": "A specially designed body of water in Bordeaux offering relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -0.653207,
+                        44.872059
+                  ]
+            },
+            {
+                  "name": "Bassin de rétention du Bourgailh",
+                  "text": "This body of water in Bordeaux blends harmoniously into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -0.669983,
+                        44.806359
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Visitation",
+                  "text": "A public playground in Bordeaux providing children with space to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        -0.594778,
+                        44.848252
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "This playground in Bordeaux is equipped with various features for lots of fun.",
+                  "category": "family",
+                  "coords": [
+                        -0.531631,
+                        44.833052
+                  ]
+            },
+            {
+                  "name": "Espace motricité enfant de la piscine",
+                  "text": "A play area in Bordeaux specifically tailored to the needs of children.",
+                  "category": "family",
+                  "coords": [
+                        -0.553991,
+                        44.807172
+                  ]
+            },
+            {
+                  "name": "voitures électriques pour enfants",
+                  "text": "An entertaining activity in Bordeaux that brings special joy to children.",
+                  "category": "family",
+                  "coords": [
+                        -0.601814,
+                        44.853252
+                  ]
+            },
+            {
+                  "name": "École maternelle Saint-Maurice",
+                  "text": "A well-designed playground in Bordeaux, making it an ideal spot to run around.",
+                  "category": "family",
+                  "coords": [
+                        -0.545753,
+                        44.815226
+                  ]
+            },
+            {
+                  "name": "École maternelle La Ferrade",
+                  "text": "This playground in Bordeaux offers children varied opportunities for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.566007,
+                        44.810026
+                  ]
+            },
+            {
+                  "name": "Le petit train de Ravezies",
+                  "text": "A lovely spot in Bordeaux that allows children to enjoy playing in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -0.578054,
+                        44.866841
+                  ]
+            },
+            {
+                  "name": "VORTEX EXPERIENCE VR Bordeaux",
+                  "text": "This modern entertainment center in Bordeaux offers exciting experiences for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.574506,
+                        44.862897
+                  ]
+            },
+            {
+                  "name": "Quizz Room",
+                  "text": "An amusement arcade in Bordeaux that invites you to spend fun hours with various games.",
+                  "category": "family",
+                  "coords": [
+                        -0.564098,
+                        44.868728
+                  ]
+            },
+            {
+                  "name": "Square Joséphine",
+                  "text": "An inviting public playground in Bordeaux for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.620553,
+                        44.844307
+                  ]
+            },
+            {
+                  "name": "Île aux Enfants",
+                  "text": "A diverse playground in Bordeaux that is perfectly oriented towards children.",
+                  "category": "family",
+                  "coords": [
+                        -0.577206,
+                        44.849061
+                  ]
+            },
+            {
+                  "name": "Square Francis de Pressensé",
+                  "text": "This playground in Bordeaux provides children with a pleasant place to play in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        -0.575373,
+                        44.83222
+                  ]
+            },
+            {
+                  "name": "Kidooland",
+                  "text": "A popular playground in Bordeaux offering children plenty of fun and variety.",
+                  "category": "family",
+                  "coords": [
+                        -0.561766,
+                        44.870785
+                  ]
+            },
+            {
+                  "name": "Place des Droits de l'Enfant",
+                  "text": "A public play area in Bordeaux providing space for social interaction and play.",
+                  "category": "family",
+                  "coords": [
+                        -0.564281,
+                        44.84584
+                  ]
+            },
+            {
+                  "name": "Place Etienne Dolet",
+                  "text": "This playground in Bordeaux invites children for active recreation in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        -0.566946,
+                        44.81121
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Langevin",
+                  "text": "A well-equipped playground in Bordeaux for various outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.569043,
+                        44.808515
+                  ]
+            },
+            {
+                  "name": "Plaine de jeu",
+                  "text": "This play space in Bordeaux offers children plenty of room for movement and shared games.",
+                  "category": "family",
+                  "coords": [
+                        -0.571033,
+                        44.872533
+                  ]
+            },
+            {
+                  "name": "Aire de Jeux Parc de Lussy",
+                  "text": "A nice playground in Bordeaux for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -0.606179,
+                        44.840196
+                  ]
+            },
+            {
+                  "name": "Aire de jeux (Jardin Georges Mandel)",
+                  "text": "This play area in Bordeaux offers children space to play.",
+                  "category": "family",
+                  "coords": [
+                        -0.593679,
+                        44.842076
                   ]
             }
       ],
@@ -6470,6 +9350,42 @@ export const franceCities: POI[] = [
                         7.023118,
                         43.552597
                   ]
+            },
+            {
+                  "name": "Bassin de Rétention d'Eau",
+                  "text": "Ein ruhig gelegener See in Cannes, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        7.012636,
+                        43.624397
+                  ]
+            },
+            {
+                  "name": "Place Henri Bergia",
+                  "text": "Ein zentraler Spielplatz in Cannes für abwechslungsreichen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        7.006481,
+                        43.553045
+                  ]
+            },
+            {
+                  "name": "Emile Negrin",
+                  "text": "Ein beliebter Treffpunkt für Familien in Cannes mit Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.005514,
+                        43.559118
+                  ]
+            },
+            {
+                  "name": "Jeux de l'avenue Alexandra",
+                  "text": "Eine gepflegte Spielfläche in Cannes, die zum Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.0409,
+                        43.54672
+                  ]
             }
       ],
       "hu": [
@@ -6571,6 +9487,42 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.023118,
                         43.552597
+                  ]
+            },
+            {
+                  "name": "Bassin de Rétention d'Eau",
+                  "text": "Csendes tó Cannes-ban, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        7.012636,
+                        43.624397
+                  ]
+            },
+            {
+                  "name": "Place Henri Bergia",
+                  "text": "Központi játszótér Cannes-ban a változatos családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.006481,
+                        43.553045
+                  ]
+            },
+            {
+                  "name": "Emile Negrin",
+                  "text": "Népszerű találkozóhely családoknak Cannes-ban, játéklehetőségekkel a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.005514,
+                        43.559118
+                  ]
+            },
+            {
+                  "name": "Jeux de l'avenue Alexandra",
+                  "text": "Gondozott játszótér Cannes-ban, amely szabadtéri játékra csábít.",
+                  "category": "family",
+                  "coords": [
+                        7.0409,
+                        43.54672
                   ]
             }
       ],
@@ -6674,6 +9626,42 @@ export const franceCities: POI[] = [
                         7.023118,
                         43.552597
                   ]
+            },
+            {
+                  "name": "Bassin de Rétention d'Eau",
+                  "text": "Un lac liniștit în Cannes, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        7.012636,
+                        43.624397
+                  ]
+            },
+            {
+                  "name": "Place Henri Bergia",
+                  "text": "Un loc de joacă central în Cannes pentru distracție variată în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.006481,
+                        43.553045
+                  ]
+            },
+            {
+                  "name": "Emile Negrin",
+                  "text": "Un loc de întâlnire popular pentru familii în Cannes, cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.005514,
+                        43.559118
+                  ]
+            },
+            {
+                  "name": "Jeux de l'avenue Alexandra",
+                  "text": "Un spațiu de joacă bine întreținut în Cannes, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.0409,
+                        43.54672
+                  ]
             }
       ],
       "en": [
@@ -6775,6 +9763,42 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.023118,
                         43.552597
+                  ]
+            },
+            {
+                  "name": "Bassin de Rétention d'Eau",
+                  "text": "A quiet lake in Cannes, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        7.012636,
+                        43.624397
+                  ]
+            },
+            {
+                  "name": "Place Henri Bergia",
+                  "text": "A central playground in Cannes for varied family fun.",
+                  "category": "family",
+                  "coords": [
+                        7.006481,
+                        43.553045
+                  ]
+            },
+            {
+                  "name": "Emile Negrin",
+                  "text": "A popular meeting point for families in Cannes with play facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        7.005514,
+                        43.559118
+                  ]
+            },
+            {
+                  "name": "Jeux de l'avenue Alexandra",
+                  "text": "A well-maintained play area in Cannes that invites outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        7.0409,
+                        43.54672
                   ]
             }
       ],
@@ -7256,6 +10280,24 @@ export const franceCities: POI[] = [
                         1.85028,
                         50.96095
                   ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Ein moderner Spielplatz in Calais, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Ein schöner Ort in Calais für Kinder zum Spielen und für Familien zum Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
             }
       ],
       "hu": [
@@ -7417,6 +10459,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.85028,
                         50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Egy modern játszótér Calais-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Egy szép hely Calais-ban a gyerekeknek a játékhoz, a családoknak pedig a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
                   ]
             }
       ],
@@ -7580,6 +10640,24 @@ export const franceCities: POI[] = [
                         1.85028,
                         50.96095
                   ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Un loc de joacă modern în Calais, oferind copiilor diverse posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Un loc frumos în Calais pentru joaca copiilor și relaxarea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
             }
       ],
       "en": [
@@ -7741,6 +10819,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.85028,
                         50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "A modern playground in Calais, offering children varied play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "A lovely spot in Calais for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
                   ]
             }
       ],
@@ -8037,6 +11133,60 @@ export const franceCities: POI[] = [
                         4.024167,
                         49.259167
                   ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Ein See in Reims, der zu einem entspannten Spaziergang in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.991004,
+                        49.281267
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Dieser Spielplatz in Reims bietet Spaß und Bewegung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        4.021561,
+                        49.253739
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "Eine Spielhalle in Reims mit spannenden Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.988161,
+                        49.239885
+                  ]
+            },
+            {
+                  "name": "Square des Droits de l'Enfant",
+                  "text": "Ein familienfreundlicher Spielplatz in Reims für kleine Abenteurer.",
+                  "category": "family",
+                  "coords": [
+                        4.002203,
+                        49.241807
+                  ]
+            },
+            {
+                  "name": "Cours de récréation",
+                  "text": "Ein Spielbereich in Reims, der Kindern Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.058746,
+                        49.253025
+                  ]
+            },
+            {
+                  "name": "Cour de récréation",
+                  "text": "Ein Ort in Reims, an dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        4.036345,
+                        49.243879
+                  ]
             }
       ],
       "hu": [
@@ -8218,6 +11368,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.024167,
                         49.259167
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Egy tó Reimsben, amely kellemes környezetet kínál a sétáláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.991004,
+                        49.281267
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Ez a reimsi játszótér szórakozást és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        4.021561,
+                        49.253739
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "Egy reimsi játékterem izgalmas tevékenységekkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        3.988161,
+                        49.239885
+                  ]
+            },
+            {
+                  "name": "Square des Droits de l'Enfant",
+                  "text": "Családbarát játszótér Reimsben a kis kalandorok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.002203,
+                        49.241807
+                  ]
+            },
+            {
+                  "name": "Cours de récréation",
+                  "text": "Egy reimsi játszóhely, amely teret biztosít a gyerekeknek a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.058746,
+                        49.253025
+                  ]
+            },
+            {
+                  "name": "Cour de récréation",
+                  "text": "Egy hely Reimsben, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.036345,
+                        49.243879
                   ]
             }
       ],
@@ -8401,6 +11605,60 @@ export const franceCities: POI[] = [
                         4.024167,
                         49.259167
                   ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "Un lac în Reims, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.991004,
+                        49.281267
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "Acest loc de joacă din Reims oferă distracție și mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        4.021561,
+                        49.253739
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "O sală de jocuri în Reims cu activități captivante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.988161,
+                        49.239885
+                  ]
+            },
+            {
+                  "name": "Square des Droits de l'Enfant",
+                  "text": "Un loc de joacă prietenos pentru familii în Reims, pentru micii aventurieri.",
+                  "category": "family",
+                  "coords": [
+                        4.002203,
+                        49.241807
+                  ]
+            },
+            {
+                  "name": "Cours de récréation",
+                  "text": "O zonă de joacă în Reims care oferă copiilor spațiu de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        4.058746,
+                        49.253025
+                  ]
+            },
+            {
+                  "name": "Cour de récréation",
+                  "text": "Un loc în Reims unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        4.036345,
+                        49.243879
+                  ]
             }
       ],
       "en": [
@@ -8582,6 +11840,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.024167,
                         49.259167
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage",
+                  "text": "A lake in Reims, offering a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        3.991004,
+                        49.281267
+                  ]
+            },
+            {
+                  "name": "Toboggan",
+                  "text": "This playground in Reims offers fun and outdoor activity for children.",
+                  "category": "family",
+                  "coords": [
+                        4.021561,
+                        49.253739
+                  ]
+            },
+            {
+                  "name": "Laser Game Evolution",
+                  "text": "An amusement arcade in Reims with exciting activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        3.988161,
+                        49.239885
+                  ]
+            },
+            {
+                  "name": "Square des Droits de l'Enfant",
+                  "text": "A family-friendly playground in Reims for little adventurers.",
+                  "category": "family",
+                  "coords": [
+                        4.002203,
+                        49.241807
+                  ]
+            },
+            {
+                  "name": "Cours de récréation",
+                  "text": "A play area in Reims providing space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        4.058746,
+                        49.253025
+                  ]
+            },
+            {
+                  "name": "Cour de récréation",
+                  "text": "A place in Reims where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        4.036345,
+                        49.243879
                   ]
             }
       ],

@@ -94,6 +94,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.429723,
                         59.307805
                   ]
+            },
+            {
+                  "name": "Hiirekese Mängutuba",
+                  "text": "Ein lebendiger Indoor-Spielplatz in Keila für aktives Vergnügen zu jeder Zeit.",
+                  "category": "family",
+                  "coords": [
+                        24.414006,
+                        59.3072
+                  ]
             }
       ],
       "hu": [
@@ -185,6 +194,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.429723,
                         59.307805
+                  ]
+            },
+            {
+                  "name": "Hiirekese Mängutuba",
+                  "text": "Egy életteli fedett játszótér Keila városában az aktív szórakozáshoz bármikor.",
+                  "category": "family",
+                  "coords": [
+                        24.414006,
+                        59.3072
                   ]
             }
       ],
@@ -278,6 +296,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.429723,
                         59.307805
                   ]
+            },
+            {
+                  "name": "Hiirekese Mängutuba",
+                  "text": "Un loc de joacă interior plin de viață în Keila pentru distracție activă în orice moment.",
+                  "category": "family",
+                  "coords": [
+                        24.414006,
+                        59.3072
+                  ]
             }
       ],
       "en": [
@@ -370,6 +397,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.429723,
                         59.307805
                   ]
+            },
+            {
+                  "name": "Hiirekese Mängutuba",
+                  "text": "A lively indoor playground in Keila for active fun at any time.",
+                  "category": "family",
+                  "coords": [
+                        24.414006,
+                        59.3072
+                  ]
             }
       ]
 },
@@ -436,6 +472,42 @@ export const estoniaCitiesV2: POI[] = [
                         24.764317,
                         59.169383
                   ]
+            },
+            {
+                  "name": "Pirgu paisjärv",
+                  "text": "Pirgu paisjärv ist ein Stausee in Kohila, der eine ruhige Kulisse für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.818079,
+                        59.114129
+                  ]
+            },
+            {
+                  "name": "Roobuka paistiik",
+                  "text": "Roobuka paistiik ist ein Teich in Kohila, der eine friedliche Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.67677,
+                        59.231261
+                  ]
+            },
+            {
+                  "name": "Kõnnu järv",
+                  "text": "Kõnnu järv ist ein See in Kohila, der von einer unberührten Naturlandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.744294,
+                        59.114597
+                  ]
+            },
+            {
+                  "name": "Alesti järv",
+                  "text": "Alesti järv ist ein See in Kohila, der zum Entspannen und Verweilen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.854987,
+                        59.167077
+                  ]
             }
       ],
       "hu": [
@@ -455,6 +527,42 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.764317,
                         59.169383
+                  ]
+            },
+            {
+                  "name": "Pirgu paisjärv",
+                  "text": "A Pirgu paisjärv egy víztározó Kohilában, amely nyugodt környezetet biztosít a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.818079,
+                        59.114129
+                  ]
+            },
+            {
+                  "name": "Roobuka paistiik",
+                  "text": "A Roobuka paistiik egy tó Kohilában, amely békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        24.67677,
+                        59.231261
+                  ]
+            },
+            {
+                  "name": "Kõnnu järv",
+                  "text": "A Kõnnu järv egy tó Kohilában, amelyet érintetlen természeti táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        24.744294,
+                        59.114597
+                  ]
+            },
+            {
+                  "name": "Alesti järv",
+                  "text": "Az Alesti järv egy tó Kohilában, amely pihenésre és szabadtéri tartózkodásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.854987,
+                        59.167077
                   ]
             }
       ],
@@ -476,6 +584,42 @@ export const estoniaCitiesV2: POI[] = [
                         24.764317,
                         59.169383
                   ]
+            },
+            {
+                  "name": "Pirgu paisjärv",
+                  "text": "Pirgu paisjärv este un lac de acumulare în Kohila, oferind un cadru liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.818079,
+                        59.114129
+                  ]
+            },
+            {
+                  "name": "Roobuka paistiik",
+                  "text": "Roobuka paistiik este un iaz în Kohila, oferind o atmosferă pașnică pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.67677,
+                        59.231261
+                  ]
+            },
+            {
+                  "name": "Kõnnu järv",
+                  "text": "Kõnnu järv este un lac în Kohila, înconjurat de un peisaj natural virgin.",
+                  "category": "natural",
+                  "coords": [
+                        24.744294,
+                        59.114597
+                  ]
+            },
+            {
+                  "name": "Alesti järv",
+                  "text": "Alesti järv este un lac în Kohila, invitând la relaxare și petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.854987,
+                        59.167077
+                  ]
             }
       ],
       "en": [
@@ -495,6 +639,42 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.764317,
                         59.169383
+                  ]
+            },
+            {
+                  "name": "Pirgu paisjärv",
+                  "text": "Pirgu paisjärv is a reservoir in Kohila, providing a quiet setting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.818079,
+                        59.114129
+                  ]
+            },
+            {
+                  "name": "Roobuka paistiik",
+                  "text": "Roobuka paistiik is a pond in Kohila, offering a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.67677,
+                        59.231261
+                  ]
+            },
+            {
+                  "name": "Kõnnu järv",
+                  "text": "Kõnnu järv is a lake in Kohila, surrounded by a pristine natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.744294,
+                        59.114597
+                  ]
+            },
+            {
+                  "name": "Alesti järv",
+                  "text": "Alesti järv is a lake in Kohila, inviting for relaxation and spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.854987,
+                        59.167077
                   ]
             }
       ]
@@ -742,6 +922,33 @@ export const estoniaCitiesV2: POI[] = [
                         24.647463,
                         58.404649
                   ]
+            },
+            {
+                  "name": "Seljametsa järv",
+                  "text": "Ein ruhiger See in Sindi, umgeben von herrlicher Natur für erholsame Stunden.",
+                  "category": "natural",
+                  "coords": [
+                        24.674145,
+                        58.343464
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "Ein friedliches Gewässer in Sindi, ideal für Naturliebhaber und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Ein malerischer See in Sindi, der zu Entdeckungen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
             }
       ],
       "hu": [
@@ -779,6 +986,33 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.647463,
                         58.404649
+                  ]
+            },
+            {
+                  "name": "Seljametsa järv",
+                  "text": "Egy nyugodt tó Sindi városában, csodálatos természettel körülvéve a pihentető órákért.",
+                  "category": "natural",
+                  "coords": [
+                        24.674145,
+                        58.343464
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "Egy békés vízfelület Sindi városában, ideális a természet kedvelőinek és sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Egy festői tó Sindi városában, amely szabadtéri felfedezésekre hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
                   ]
             }
       ],
@@ -818,6 +1052,33 @@ export const estoniaCitiesV2: POI[] = [
                         24.647463,
                         58.404649
                   ]
+            },
+            {
+                  "name": "Seljametsa järv",
+                  "text": "Un lac liniștit în Sindi, înconjurat de o natură minunată pentru ore relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        24.674145,
+                        58.343464
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "O apă liniștită în Sindi, ideală pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Un lac pitoresc în Sindi, care invită la descoperiri în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
             }
       ],
       "en": [
@@ -855,6 +1116,33 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.647463,
                         58.404649
+                  ]
+            },
+            {
+                  "name": "Seljametsa järv",
+                  "text": "A peaceful lake in Sindi, surrounded by beautiful nature for relaxing hours.",
+                  "category": "natural",
+                  "coords": [
+                        24.674145,
+                        58.343464
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "A peaceful body of water in Sindi, ideal for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "A picturesque lake in Sindi that invites outdoor exploration.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
                   ]
             }
       ]

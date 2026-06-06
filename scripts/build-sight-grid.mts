@@ -22,6 +22,8 @@ type Entry = [string, number, number, string, string | null, number];
 // lang -> cellKey -> dedupKey -> entry
 const grid: Record<string, Map<string, Map<string, Entry>>> = {};
 for (const l of LANGS) grid[l] = new Map();
+// "<lang>|<cell>|<dedupKey>" -> rovid leiras (a <cell>d.json sidecarhoz)
+const descs = new Map<string, string>();
 
 let total = 0;
 for (const p of mod.ALL_POI_SOURCES as any[]) {
@@ -46,6 +48,10 @@ for (const p of mod.ALL_POI_SOURCES as any[]) {
       if (m.has(dk)) continue;
       const sv = SV_OK[`${lat.toFixed(4)},${lng.toFixed(4)}`] ? 1 : 0;
       m.set(dk, [name, +lat.toFixed(5), +lng.toFixed(5), it.category || "landmark", purl, sv]);
+      // Rovid leiras a kattintasra-kibomlo blokkhoz — kulon <cell>d.json
+      // sidecarba kerul (index-aligned), hogy a fo cella-fajl kicsi maradjon.
+      const txt = typeof it.text === "string" ? it.text.trim() : "";
+      descs.set(`${l}|${cell}|${dk}`, txt.length > 280 ? txt.slice(0, 277).replace(/\s+\S*$/, "") + "…" : txt);
       total++;
     }
   }
@@ -53,7 +59,7 @@ for (const p of mod.ALL_POI_SOURCES as any[]) {
 
 const outRoot = path.resolve("public/data/sight-grid");
 fs.rmSync(outRoot, { recursive: true, force: true });
-let files = 0; let bytes = 0;
+let files = 0; let bytes = 0; let descBytes = 0;
 for (const l of LANGS) {
   const dir = path.join(outRoot, l);
   fs.mkdirSync(dir, { recursive: true });
@@ -61,6 +67,10 @@ for (const l of LANGS) {
     const j = JSON.stringify([...m.values()]);
     fs.writeFileSync(path.join(dir, `${cell}.json`), j);
     files++; bytes += j.length;
+    // index-aligned desc sidecar (csak kattintaskor toltodik a kliensen)
+    const dj = JSON.stringify([...m.keys()].map((dk) => descs.get(`${l}|${cell}|${dk}`) || ""));
+    fs.writeFileSync(path.join(dir, `${cell}d.json`), dj);
+    descBytes += dj.length;
   }
 }
-console.log(`sight-grid: ${total} entries | ${files} cell files | ${(bytes / 1024 / 1024).toFixed(1)} MB total`);
+console.log(`sight-grid: ${total} entries | ${files} cell files | ${(bytes / 1024 / 1024).toFixed(1)} MB grid + ${(descBytes / 1024 / 1024).toFixed(1)} MB desc`);

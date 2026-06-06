@@ -111,6 +111,24 @@ export const poiExtraEsV2: POI[] = [
                         -2.510857,
                         36.82536
                   ]
+            },
+            {
+                  "name": "Recinto de la alberca",
+                  "text": "Diese Wasseranlage in Aguadulce bietet eine friedliche Umgebung für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -2.471685,
+                        36.841227
+                  ]
+            },
+            {
+                  "name": "Aljibe del Cañarete",
+                  "text": "Ein ruhiger See in Aguadulce, der sich gut für eine kurze Pause in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.556283,
+                        36.836931
+                  ]
             }
       ],
       "hu": [
@@ -218,6 +236,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.510857,
                         36.82536
+                  ]
+            },
+            {
+                  "name": "Recinto de la alberca",
+                  "text": "Ez az Aguadulce területén található vízfelület nyugodt környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.471685,
+                        36.841227
+                  ]
+            },
+            {
+                  "name": "Aljibe del Cañarete",
+                  "text": "Nyugodt tó Aguadulce területén, amely kiválóan alkalmas egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.556283,
+                        36.836931
                   ]
             }
       ],
@@ -327,6 +363,24 @@ export const poiExtraEsV2: POI[] = [
                         -2.510857,
                         36.82536
                   ]
+            },
+            {
+                  "name": "Recinto de la alberca",
+                  "text": "Această zonă cu apă din Aguadulce oferă un mediu liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.471685,
+                        36.841227
+                  ]
+            },
+            {
+                  "name": "Aljibe del Cañarete",
+                  "text": "Un lac liniștit în Aguadulce, potrivit pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -2.556283,
+                        36.836931
+                  ]
             }
       ],
       "en": [
@@ -434,6 +488,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.510857,
                         36.82536
+                  ]
+            },
+            {
+                  "name": "Recinto de la alberca",
+                  "text": "This water area in Aguadulce offers a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.471685,
+                        36.841227
+                  ]
+            },
+            {
+                  "name": "Aljibe del Cañarete",
+                  "text": "A quiet lake in Aguadulce, suitable for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -2.556283,
+                        36.836931
                   ]
             }
       ]
@@ -1252,6 +1324,78 @@ export const poiExtraEsV2: POI[] = [
                         3.164536,
                         39.838454
                   ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Dieser See in Alcudia bietet eine ruhige Kulisse für einen Spaziergang in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
+            },
+            {
+                  "name": "Maristany",
+                  "text": "Ein malerischer See in Alcudia, ideal zum Entspannen und Beobachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        3.119305,
+                        39.84309
+                  ]
+            },
+            {
+                  "name": "Esperanza-See",
+                  "text": "Dieser See in Alcudia bietet eine angenehme Atmosphäre für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        3.112925,
+                        39.824222
+                  ]
+            },
+            {
+                  "name": "Lago Menor",
+                  "text": "Ein kleiner See in Alcudia, der zu einem ruhigen Aufenthalt im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        3.10868,
+                        39.834795
+                  ]
+            },
+            {
+                  "name": "Water Games",
+                  "text": "Ein Wasserspielplatz in Alcudia, der Kindern Spaß und Abkühlung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.122694,
+                        39.835308
+                  ]
+            },
+            {
+                  "name": "carrer Ponent",
+                  "text": "Ein lokaler Spielplatz in Alcudia mit verschiedenen Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        3.114477,
+                        39.853597
+                  ]
+            },
+            {
+                  "name": "Plaça de la Quarantena",
+                  "text": "Ein zentral gelegener Spielplatz in Alcudia, ideal für eine Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.139406,
+                        39.838272
+                  ]
+            },
+            {
+                  "name": "Petit Mar",
+                  "text": "Ein kleiner Spielbereich in Alcudia, der zum Spielen und Verweilen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        3.134031,
+                        39.841146
+                  ]
             }
       ],
       "hu": [
@@ -1366,6 +1510,78 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.164536,
                         39.838454
+                  ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Ez az Alcudia területén található tó nyugodt hátteret biztosít egy környékbeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
+            },
+            {
+                  "name": "Maristany",
+                  "text": "Feltöltődést nyújtó tó Alcudia területén, amely ideális a pihenésre és a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        3.119305,
+                        39.84309
+                  ]
+            },
+            {
+                  "name": "Estany des Ponts (Lago Esperanza)",
+                  "text": "Ez az Alcudia városában található tó kellemes hangulatot áraszt egy természeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        3.112925,
+                        39.824222
+                  ]
+            },
+            {
+                  "name": "Lago Menor",
+                  "text": "Kisebb tó Alcudia területén, amely nyugodt szabadtéri időtöltésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        3.10868,
+                        39.834795
+                  ]
+            },
+            {
+                  "name": "Water Games",
+                  "text": "Vízi játszótér Alcudia területén, amely szórakozást és felfrissülést kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        3.122694,
+                        39.835308
+                  ]
+            },
+            {
+                  "name": "carrer Ponent",
+                  "text": "Helyi játszótér Alcudia városában, különféle mászási és játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        3.114477,
+                        39.853597
+                  ]
+            },
+            {
+                  "name": "Plaça de la Quarantena",
+                  "text": "Központi fekvésű játszótér Alcudia városában, amely ideális egy családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        3.139406,
+                        39.838272
+                  ]
+            },
+            {
+                  "name": "Petit Mar",
+                  "text": "Kis játszóterület Alcudia területén, amely szabadtéri játékra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        3.134031,
+                        39.841146
                   ]
             }
       ],
@@ -1482,6 +1698,78 @@ export const poiExtraEsV2: POI[] = [
                         3.164536,
                         39.838454
                   ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Acest lac din Alcudia oferă un cadru liniștit pentru o plimbare în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
+            },
+            {
+                  "name": "Maristany",
+                  "text": "Un lac pitoresc în Alcudia, ideal pentru relaxare și observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        3.119305,
+                        39.84309
+                  ]
+            },
+            {
+                  "name": "Estany des Ponts (Lago Esperanza)",
+                  "text": "Acest lac din Alcudia oferă o atmosferă plăcută pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        3.112925,
+                        39.824222
+                  ]
+            },
+            {
+                  "name": "Lago Menor",
+                  "text": "Un lac mic în Alcudia care invită la un moment de liniște în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        3.10868,
+                        39.834795
+                  ]
+            },
+            {
+                  "name": "Water Games",
+                  "text": "Un teren de joacă acvatic în Alcudia care oferă copiilor distracție și răcoare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.122694,
+                        39.835308
+                  ]
+            },
+            {
+                  "name": "carrer Ponent",
+                  "text": "Un teren de joacă local în Alcudia cu diverse opțiuni de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.114477,
+                        39.853597
+                  ]
+            },
+            {
+                  "name": "Plaça de la Quarantena",
+                  "text": "Un teren de joacă situat central în Alcudia, ideal pentru o pauză cu familia.",
+                  "category": "family",
+                  "coords": [
+                        3.139406,
+                        39.838272
+                  ]
+            },
+            {
+                  "name": "Petit Mar",
+                  "text": "O mică zonă de joacă în Alcudia care invită la joacă și relaxare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        3.134031,
+                        39.841146
+                  ]
             }
       ],
       "en": [
@@ -1597,6 +1885,78 @@ export const poiExtraEsV2: POI[] = [
                         3.164536,
                         39.838454
                   ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "This lake in Alcudia provides a calm backdrop for a walk in the area.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
+            },
+            {
+                  "name": "Maristany",
+                  "text": "A scenic lake in Alcudia, ideal for relaxing and observing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        3.119305,
+                        39.84309
+                  ]
+            },
+            {
+                  "name": "Lake Esperanza",
+                  "text": "This lake in Alcudia offers a pleasant atmosphere for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        3.112925,
+                        39.824222
+                  ]
+            },
+            {
+                  "name": "Lago Menor",
+                  "text": "A small lake in Alcudia that invites a quiet moment outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        3.10868,
+                        39.834795
+                  ]
+            },
+            {
+                  "name": "Water Games",
+                  "text": "A water playground in Alcudia offering fun and cooling for children outdoors.",
+                  "category": "family",
+                  "coords": [
+                        3.122694,
+                        39.835308
+                  ]
+            },
+            {
+                  "name": "carrer Ponent",
+                  "text": "A local playground in Alcudia with various opportunities for climbing and playing.",
+                  "category": "family",
+                  "coords": [
+                        3.114477,
+                        39.853597
+                  ]
+            },
+            {
+                  "name": "Plaça de la Quarantena",
+                  "text": "A centrally located playground in Alcudia, ideal for a break with the family.",
+                  "category": "family",
+                  "coords": [
+                        3.139406,
+                        39.838272
+                  ]
+            },
+            {
+                  "name": "Petit Mar",
+                  "text": "A small play area in Alcudia that invites outdoor play and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        3.134031,
+                        39.841146
+                  ]
             }
       ]
 }},
@@ -1678,6 +2038,15 @@ export const poiExtraEsV2: POI[] = [
                         -3.985805,
                         37.004056
                   ]
+            },
+            {
+                  "name": "Humedal la Pantaneta",
+                  "text": "Ein Feuchtgebiet in Alhama De Granada, das eine interessante Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.984707,
+                        36.984516
+                  ]
             }
       ],
       "hu": [
@@ -1756,6 +2125,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.985805,
                         37.004056
+                  ]
+            },
+            {
+                  "name": "Humedal la Pantaneta",
+                  "text": "Egy vizes élőhely Alhama De Granada közelében, amely érdekes természeti látványt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.984707,
+                        36.984516
                   ]
             }
       ],
@@ -1836,6 +2214,15 @@ export const poiExtraEsV2: POI[] = [
                         -3.985805,
                         37.004056
                   ]
+            },
+            {
+                  "name": "Humedal la Pantaneta",
+                  "text": "O zonă umedă în Alhama De Granada, care oferă un peisaj natural interesant.",
+                  "category": "natural",
+                  "coords": [
+                        -3.984707,
+                        36.984516
+                  ]
             }
       ],
       "en": [
@@ -1914,6 +2301,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.985805,
                         37.004056
+                  ]
+            },
+            {
+                  "name": "Humedal la Pantaneta",
+                  "text": "A wetland area in Alhama De Granada offering an interesting natural backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -3.984707,
+                        36.984516
                   ]
             }
       ]
@@ -2881,6 +3277,15 @@ export const poiExtraEsV2: POI[] = [
                         0.024967,
                         42.172593
                   ]
+            },
+            {
+                  "name": "Balsa superior de Basacol",
+                  "text": "Dieser See in Alquezar bietet eine ruhige Umgebung inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        0.018851,
+                        42.183133
+                  ]
             }
       ],
       "hu": [
@@ -2926,6 +3331,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.024967,
                         42.172593
+                  ]
+            },
+            {
+                  "name": "Balsa superior de Basacol",
+                  "text": "Ez az Alquezar területén található tó nyugodt környezetet biztosít a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        0.018851,
+                        42.183133
                   ]
             }
       ],
@@ -2973,6 +3387,15 @@ export const poiExtraEsV2: POI[] = [
                         0.024967,
                         42.172593
                   ]
+            },
+            {
+                  "name": "Balsa superior de Basacol",
+                  "text": "Acest lac din Alquezar oferă un mediu liniștit în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        0.018851,
+                        42.183133
+                  ]
             }
       ],
       "en": [
@@ -3018,6 +3441,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.024967,
                         42.172593
+                  ]
+            },
+            {
+                  "name": "Balsa superior de Basacol",
+                  "text": "This lake in Alquezar offers a quiet environment surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        0.018851,
+                        42.183133
                   ]
             }
       ]
@@ -3921,6 +4353,42 @@ export const poiExtraEsV2: POI[] = [
                         -5.799554,
                         36.744896
                   ]
+            },
+            {
+                  "name": "Embalse de Bornos",
+                  "text": "Ein weitläufiger Stausee in Arcos De La Frontera, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717373,
+                        36.816044
+                  ]
+            },
+            {
+                  "name": "Embalse de Arcos",
+                  "text": "Dieser See in Arcos De La Frontera bietet eine malerische Kulisse für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -5.787717,
+                        36.762623
+                  ]
+            },
+            {
+                  "name": "Playground Parque Jerez",
+                  "text": "Ein moderner Spielplatz in Arcos De La Frontera mit viel Platz zum Toben für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -5.818386,
+                        36.750247
+                  ]
+            },
+            {
+                  "name": "Playground Parque Portichuelo",
+                  "text": "Ein schön angelegter Spielbereich in Arcos De La Frontera für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -5.815722,
+                        36.755753
+                  ]
             }
       ],
       "hu": [
@@ -4032,6 +4500,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.799554,
                         36.744896
+                  ]
+            },
+            {
+                  "name": "Embalse de Bornos",
+                  "text": "Tágas víztározó Arcos De La Frontera területén, amely ideális sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717373,
+                        36.816044
+                  ]
+            },
+            {
+                  "name": "Embalse de Arcos",
+                  "text": "Ez az Arcos De La Frontera területén található tó festői helyszínt biztosít a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -5.787717,
+                        36.762623
+                  ]
+            },
+            {
+                  "name": "Playground Parque Jerez",
+                  "text": "Modern játszótér Arcos De La Frontera városában, nagy területtel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.818386,
+                        36.750247
+                  ]
+            },
+            {
+                  "name": "Playground Parque Portichuelo",
+                  "text": "Szépen kialakított játszóterület Arcos De La Frontera városában gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.815722,
+                        36.755753
                   ]
             }
       ],
@@ -4145,6 +4649,42 @@ export const poiExtraEsV2: POI[] = [
                         -5.799554,
                         36.744896
                   ]
+            },
+            {
+                  "name": "Embalse de Bornos",
+                  "text": "Un lac de acumulare vast în Arcos De La Frontera, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717373,
+                        36.816044
+                  ]
+            },
+            {
+                  "name": "Embalse de Arcos",
+                  "text": "Acest lac din Arcos De La Frontera oferă un cadru pitoresc pentru activități de recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -5.787717,
+                        36.762623
+                  ]
+            },
+            {
+                  "name": "Playground Parque Jerez",
+                  "text": "Un teren de joacă modern în Arcos De La Frontera cu mult spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.818386,
+                        36.750247
+                  ]
+            },
+            {
+                  "name": "Playground Parque Portichuelo",
+                  "text": "O zonă de joacă frumos amenajată în Arcos De La Frontera pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.815722,
+                        36.755753
+                  ]
             }
       ],
       "en": [
@@ -4256,6 +4796,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.799554,
                         36.744896
+                  ]
+            },
+            {
+                  "name": "Embalse de Bornos",
+                  "text": "A spacious reservoir in Arcos De La Frontera, ideal for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717373,
+                        36.816044
+                  ]
+            },
+            {
+                  "name": "Embalse de Arcos",
+                  "text": "This lake in Arcos De La Frontera offers a scenic setting for waterfront recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -5.787717,
+                        36.762623
+                  ]
+            },
+            {
+                  "name": "Playground Parque Jerez",
+                  "text": "A modern playground in Arcos De La Frontera with plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -5.818386,
+                        36.750247
+                  ]
+            },
+            {
+                  "name": "Playground Parque Portichuelo",
+                  "text": "A nicely designed play area in Arcos De La Frontera for families with children.",
+                  "category": "family",
+                  "coords": [
+                        -5.815722,
+                        36.755753
                   ]
             }
       ]
@@ -4733,6 +5309,24 @@ export const poiExtraEsV2: POI[] = [
                         -4.69817,
                         40.65626
                   ]
+            },
+            {
+                  "name": "Embalse del Castro de Las Cogotas",
+                  "text": "Der Embalse del Castro de Las Cogotas ist ein Stausee bei Avila, der eine weite Wasserfläche in der Landschaft bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.698076,
+                        40.700719
+                  ]
+            },
+            {
+                  "name": "Laguna de Taeña",
+                  "text": "Die Laguna de Taeña ist ein kleiner See in Avila, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.631442,
+                        40.708337
+                  ]
             }
       ],
       "hu": [
@@ -4844,6 +5438,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.69817,
                         40.65626
+                  ]
+            },
+            {
+                  "name": "Embalse del Castro de Las Cogotas",
+                  "text": "Az Embalse del Castro de Las Cogotas egy víztározó Avila közelében, amely tágas vízfelületet alkot a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        -4.698076,
+                        40.700719
+                  ]
+            },
+            {
+                  "name": "Laguna de Taeña",
+                  "text": "A Laguna de Taeña egy kis tó Avila területén, amely nyugodt légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -4.631442,
+                        40.708337
                   ]
             }
       ],
@@ -4957,6 +5569,24 @@ export const poiExtraEsV2: POI[] = [
                         -4.69817,
                         40.65626
                   ]
+            },
+            {
+                  "name": "Embalse del Castro de Las Cogotas",
+                  "text": "Embalse del Castro de Las Cogotas este un lac de acumulare lângă Avila, formând o suprafață vastă de apă în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -4.698076,
+                        40.700719
+                  ]
+            },
+            {
+                  "name": "Laguna de Taeña",
+                  "text": "Laguna de Taeña este un mic lac în Avila, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -4.631442,
+                        40.708337
+                  ]
             }
       ],
       "en": [
@@ -5068,6 +5698,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.69817,
                         40.65626
+                  ]
+            },
+            {
+                  "name": "Embalse del Castro de Las Cogotas",
+                  "text": "Embalse del Castro de Las Cogotas is a reservoir near Avila, creating a large water surface in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -4.698076,
+                        40.700719
+                  ]
+            },
+            {
+                  "name": "Laguna de Taeña",
+                  "text": "Laguna de Taeña is a small lake in Avila, providing a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -4.631442,
+                        40.708337
                   ]
             }
       ]
@@ -6289,6 +6937,15 @@ export const poiExtraEsV2: POI[] = [
                         3.227135,
                         41.947794
                   ]
+            },
+            {
+                  "name": "Plaça Paco Font Marquès",
+                  "text": "Die Plaça Paco Font Marquès ist ein Spielplatz in Begur, der Kindern Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.206675,
+                        41.954821
+                  ]
             }
       ],
       "hu": [
@@ -6394,6 +7051,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.227135,
                         41.947794
+                  ]
+            },
+            {
+                  "name": "Plaça Paco Font Marquès",
+                  "text": "A Plaça Paco Font Marquès egy játszótér Begur területén, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.206675,
+                        41.954821
                   ]
             }
       ],
@@ -6501,6 +7167,15 @@ export const poiExtraEsV2: POI[] = [
                         3.227135,
                         41.947794
                   ]
+            },
+            {
+                  "name": "Plaça Paco Font Marquès",
+                  "text": "Plaça Paco Font Marquès este un loc de joacă în Begur, oferind spațiu copiilor pentru a se juca.",
+                  "category": "family",
+                  "coords": [
+                        3.206675,
+                        41.954821
+                  ]
             }
       ],
       "en": [
@@ -6606,6 +7281,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.227135,
                         41.947794
+                  ]
+            },
+            {
+                  "name": "Plaça Paco Font Marquès",
+                  "text": "Plaça Paco Font Marquès is a playground in Begur, offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        3.206675,
+                        41.954821
                   ]
             }
       ]
@@ -7116,6 +7800,51 @@ export const poiExtraEsV2: POI[] = [
                         -0.005821,
                         40.034644
                   ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Ein kleiner See in Benicassim, ideal für eine Pause während eines Spaziergangs.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Ein moderner Spielplatz in Benicassim, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Dieser Park in Benicassim bietet einen schönen Bereich für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "Ein öffentlicher Spielbereich in Benicassim, ideal für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Ein zentral gelegener Spielplatz in Benicassim für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
             }
       ],
       "hu": [
@@ -7216,6 +7945,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.005821,
                         40.034644
+                  ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Egy kis tó Benicassim városában, ideális egy pihenőre séta közben.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Egy modern játszótér Benicassim városában, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Ez a Benicassim-i park szép területet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "Egy nyilvános játszóterület Benicassim városában, ideális gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Egy központi fekvésű játszótér Benicassim városában egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
                   ]
             }
       ],
@@ -7318,6 +8092,51 @@ export const poiExtraEsV2: POI[] = [
                         -0.005821,
                         40.034644
                   ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "Un lac mic în Benicassim, ideal pentru o pauză în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "Un loc de joacă modern în Benicassim, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "Acest parc din Benicassim oferă o zonă frumoasă pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "O zonă de joacă publică în Benicassim, ideală pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "Un loc de joacă situat central în Benicassim pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
             }
       ],
       "en": [
@@ -7419,6 +8238,51 @@ export const poiExtraEsV2: POI[] = [
                         -0.005821,
                         40.034644
                   ]
+            },
+            {
+                  "name": "Bassa la Magdalena",
+                  "text": "A small lake in Benicassim, ideal for a break during a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -0.007625,
+                        40.036252
+                  ]
+            },
+            {
+                  "name": "Plaça de les Corts Valencianes",
+                  "text": "A modern playground in Benicassim where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        0.058972,
+                        40.051623
+                  ]
+            },
+            {
+                  "name": "Parc Joan XXIII",
+                  "text": "This park in Benicassim offers a nice area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        0.055988,
+                        40.05471
+                  ]
+            },
+            {
+                  "name": "Parc Públic Illot la Foradada",
+                  "text": "A public play area in Benicassim, ideal for families with children.",
+                  "category": "family",
+                  "coords": [
+                        0.045539,
+                        40.039091
+                  ]
+            },
+            {
+                  "name": "Plaza de Mosén Oliver",
+                  "text": "A centrally located playground in Benicassim for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        0.063119,
+                        40.055984
+                  ]
             }
       ]
 }},
@@ -7518,6 +8382,15 @@ export const poiExtraEsV2: POI[] = [
                         2.772142,
                         41.648742
                   ]
+            },
+            {
+                  "name": "Pantà de Valldemaria",
+                  "text": "Der Pantà de Valldemaria ist ein See in Blanes, ideal für einen Ausflug in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        2.752172,
+                        41.734591
+                  ]
             }
       ],
       "hu": [
@@ -7614,6 +8487,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.772142,
                         41.648742
+                  ]
+            },
+            {
+                  "name": "Pantà de Valldemaria",
+                  "text": "A Pantà de Valldemaria egy tó Blanes területén, ideális egy természetközeli kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        2.752172,
+                        41.734591
                   ]
             }
       ],
@@ -7712,6 +8594,15 @@ export const poiExtraEsV2: POI[] = [
                         2.772142,
                         41.648742
                   ]
+            },
+            {
+                  "name": "Pantà de Valldemaria",
+                  "text": "Pantà de Valldemaria este un lac în Blanes, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        2.752172,
+                        41.734591
+                  ]
             }
       ],
       "en": [
@@ -7808,6 +8699,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.772142,
                         41.648742
+                  ]
+            },
+            {
+                  "name": "Pantà de Valldemaria",
+                  "text": "Pantà de Valldemaria is a lake in Blanes, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        2.752172,
+                        41.734591
                   ]
             }
       ]
@@ -8553,6 +9453,33 @@ export const poiExtraEsV2: POI[] = [
                         3.366945,
                         39.556078
                   ]
+            },
+            {
+                  "name": "bassa de reg",
+                  "text": "Die bassa de reg ist ein Wasserbecken in Cala Millor, das das lokale Landschaftsbild prägt.",
+                  "category": "natural",
+                  "coords": [
+                        3.401449,
+                        39.652015
+                  ]
+            },
+            {
+                  "name": "Cristóbal",
+                  "text": "Cristóbal ist eine Minigolfanlage in Cala Millor, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.382403,
+                        39.587498
+                  ]
+            },
+            {
+                  "name": "Solino",
+                  "text": "Solino ist ein Spielplatz in Cala Millor, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        3.367723,
+                        39.579358
+                  ]
             }
       ],
       "hu": [
@@ -8658,6 +9585,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.366945,
                         39.556078
+                  ]
+            },
+            {
+                  "name": "bassa de reg",
+                  "text": "A bassa de reg egy víztározó Cala Millor területén, amely meghatározza a helyi tájképet.",
+                  "category": "natural",
+                  "coords": [
+                        3.401449,
+                        39.652015
+                  ]
+            },
+            {
+                  "name": "Cristóbal",
+                  "text": "A Cristóbal egy minigolfpálya Cala Millor területén, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        3.382403,
+                        39.587498
+                  ]
+            },
+            {
+                  "name": "Solino",
+                  "text": "A Solino egy játszótér Cala Millor területén, ahol a gyermekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        3.367723,
+                        39.579358
                   ]
             }
       ],
@@ -8765,6 +9719,33 @@ export const poiExtraEsV2: POI[] = [
                         3.366945,
                         39.556078
                   ]
+            },
+            {
+                  "name": "bassa de reg",
+                  "text": "Bassa de reg este un bazin de apă în Cala Millor, care contribuie la aspectul peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        3.401449,
+                        39.652015
+                  ]
+            },
+            {
+                  "name": "Cristóbal",
+                  "text": "Cristóbal este un teren de minigolf în Cala Millor, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.382403,
+                        39.587498
+                  ]
+            },
+            {
+                  "name": "Solino",
+                  "text": "Solino este un loc de joacă în Cala Millor, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        3.367723,
+                        39.579358
+                  ]
             }
       ],
       "en": [
@@ -8871,6 +9852,33 @@ export const poiExtraEsV2: POI[] = [
                         3.366945,
                         39.556078
                   ]
+            },
+            {
+                  "name": "bassa de reg",
+                  "text": "Bassa de reg is a water reservoir in Cala Millor, shaping the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        3.401449,
+                        39.652015
+                  ]
+            },
+            {
+                  "name": "Cristóbal",
+                  "text": "Cristóbal is a miniature golf course in Cala Millor, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        3.382403,
+                        39.587498
+                  ]
+            },
+            {
+                  "name": "Solino",
+                  "text": "Solino is a playground in Cala Millor, where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        3.367723,
+                        39.579358
+                  ]
             }
       ]
 }},
@@ -8952,6 +9960,42 @@ export const poiExtraEsV2: POI[] = [
                         3.20244,
                         41.8961
                   ]
+            },
+            {
+                  "name": "Minigolf Terrablanca",
+                  "text": "Ein Minigolfplatz in Calella De Palafrugell, der Spaß für die ganze Familie verspricht.",
+                  "category": "family",
+                  "coords": [
+                        3.175044,
+                        41.904866
+                  ]
+            },
+            {
+                  "name": "Plaça de l'Atlàntic",
+                  "text": "Ein öffentlicher Spielplatz in Calella De Palafrugell für die tägliche Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        3.181014,
+                        41.885945
+                  ]
+            },
+            {
+                  "name": "Parc infantil Port Pelegrí",
+                  "text": "Ein küstennaher Spielplatz in Calella De Palafrugell mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        3.181468,
+                        41.888007
+                  ]
+            },
+            {
+                  "name": "Jardí de Walter Kuchler",
+                  "text": "Ein gepflegter Garten mit Spielbereich in Calella De Palafrugell für entspannte Stunden.",
+                  "category": "family",
+                  "coords": [
+                        3.194921,
+                        41.896036
+                  ]
             }
       ],
       "hu": [
@@ -9030,6 +10074,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.20244,
                         41.8961
+                  ]
+            },
+            {
+                  "name": "Minigolf Terrablanca",
+                  "text": "Minigolf pálya Calella De Palafrugell területén, amely szórakozást ígér az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        3.175044,
+                        41.904866
+                  ]
+            },
+            {
+                  "name": "Plaça de l'Atlàntic",
+                  "text": "Nyilvános játszótér Calella De Palafrugell területén a gyerekek mindennapi kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        3.181014,
+                        41.885945
+                  ]
+            },
+            {
+                  "name": "Parc infantil Port Pelegrí",
+                  "text": "Partközeli játszótér Calella De Palafrugell területén, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        3.181468,
+                        41.888007
+                  ]
+            },
+            {
+                  "name": "Jardí de Walter Kuchler",
+                  "text": "Gondozott kert játszótérrel Calella De Palafrugell területén a pihentető órákért.",
+                  "category": "family",
+                  "coords": [
+                        3.194921,
+                        41.896036
                   ]
             }
       ],
@@ -9110,6 +10190,42 @@ export const poiExtraEsV2: POI[] = [
                         3.20244,
                         41.8961
                   ]
+            },
+            {
+                  "name": "Minigolf Terrablanca",
+                  "text": "Un teren de minigolf în Calella De Palafrugell care promite distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.175044,
+                        41.904866
+                  ]
+            },
+            {
+                  "name": "Plaça de l'Atlàntic",
+                  "text": "Un teren de joacă public în Calella De Palafrugell pentru recreerea zilnică a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        3.181014,
+                        41.885945
+                  ]
+            },
+            {
+                  "name": "Parc infantil Port Pelegrí",
+                  "text": "Un teren de joacă lângă coastă în Calella De Palafrugell cu diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        3.181468,
+                        41.888007
+                  ]
+            },
+            {
+                  "name": "Jardí de Walter Kuchler",
+                  "text": "O grădină îngrijită cu zonă de joacă în Calella De Palafrugell pentru ore relaxante.",
+                  "category": "family",
+                  "coords": [
+                        3.194921,
+                        41.896036
+                  ]
             }
       ],
       "en": [
@@ -9188,6 +10304,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.20244,
                         41.8961
+                  ]
+            },
+            {
+                  "name": "Minigolf Terrablanca",
+                  "text": "A miniature golf course in Calella De Palafrugell that promises fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        3.175044,
+                        41.904866
+                  ]
+            },
+            {
+                  "name": "Plaça de l'Atlàntic",
+                  "text": "A public playground in Calella De Palafrugell for children's daily recreation.",
+                  "category": "family",
+                  "coords": [
+                        3.181014,
+                        41.885945
+                  ]
+            },
+            {
+                  "name": "Parc infantil Port Pelegrí",
+                  "text": "A playground near the coast in Calella De Palafrugell with various play options.",
+                  "category": "family",
+                  "coords": [
+                        3.181468,
+                        41.888007
+                  ]
+            },
+            {
+                  "name": "Jardí de Walter Kuchler",
+                  "text": "A well-kept garden with a play area in Calella De Palafrugell for relaxing hours.",
+                  "category": "family",
+                  "coords": [
+                        3.194921,
+                        41.896036
                   ]
             }
       ]
@@ -9941,6 +11093,15 @@ export const poiExtraEsV2: POI[] = [
                         -8.826469,
                         42.534531
                   ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa ist ein See in Cambados, der zu einem erholsamen Spaziergang am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
             }
       ],
       "hu": [
@@ -10048,6 +11209,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.826469,
                         42.534531
+                  ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "Az A Lagoa egy tó Cambados területén, amely pihentető vízparti sétára hív.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
                   ]
             }
       ],
@@ -10157,6 +11327,15 @@ export const poiExtraEsV2: POI[] = [
                         -8.826469,
                         42.534531
                   ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa este un lac în Cambados, care invită la o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
             }
       ],
       "en": [
@@ -10264,6 +11443,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.826469,
                         42.534531
+                  ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa is a lake in Cambados, inviting visitors to a relaxing walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
                   ]
             }
       ]
@@ -10379,6 +11567,24 @@ export const poiExtraEsV2: POI[] = [
                         1.084974,
                         41.064407
                   ]
+            },
+            {
+                  "name": "Mini Park",
+                  "text": "Ein kleiner Freizeitpark in Cambrils, der Unterhaltung für jüngere Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.027484,
+                        41.056152
+                  ]
+            },
+            {
+                  "name": "Parc infantil",
+                  "text": "Ein klassischer Spielplatz in Cambrils für die aktive Erholung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        1.057057,
+                        41.064901
+                  ]
             }
       ],
       "hu": [
@@ -10490,6 +11696,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.084974,
                         41.064407
+                  ]
+            },
+            {
+                  "name": "Mini Park",
+                  "text": "Kisebb szabadidőpark Cambrils területén, amely szórakozást nyújt a kisgyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.027484,
+                        41.056152
+                  ]
+            },
+            {
+                  "name": "Parc infantil",
+                  "text": "Hagyományos játszótér Cambrils területén a gyerekek aktív kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        1.057057,
+                        41.064901
                   ]
             }
       ],
@@ -10603,6 +11827,24 @@ export const poiExtraEsV2: POI[] = [
                         1.084974,
                         41.064407
                   ]
+            },
+            {
+                  "name": "Mini Park",
+                  "text": "Un mic parc de distracții în Cambrils care oferă divertisment pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        1.027484,
+                        41.056152
+                  ]
+            },
+            {
+                  "name": "Parc infantil",
+                  "text": "Un teren de joacă clasic în Cambrils pentru recreerea activă a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.057057,
+                        41.064901
+                  ]
             }
       ],
       "en": [
@@ -10714,6 +11956,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.084974,
                         41.064407
+                  ]
+            },
+            {
+                  "name": "Mini Park",
+                  "text": "A small leisure park in Cambrils offering entertainment for younger children.",
+                  "category": "family",
+                  "coords": [
+                        1.027484,
+                        41.056152
+                  ]
+            },
+            {
+                  "name": "Parc infantil",
+                  "text": "A classic playground in Cambrils for children's active recreation.",
+                  "category": "family",
+                  "coords": [
+                        1.057057,
+                        41.064901
                   ]
             }
       ]
@@ -11480,6 +12740,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.012523,
                         37.580648
                   ]
+            },
+            {
+                  "name": "Space Jump",
+                  "text": "Ein Trampolinpark in Cartagena, der aktive Bewegung und Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.967228,
+                        37.614157
+                  ]
             }
       ],
       "hu": [
@@ -11618,6 +12887,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.012523,
                         37.580648
+                  ]
+            },
+            {
+                  "name": "Space Jump",
+                  "text": "Trambulinpark Cartagena városában, amely aktív mozgást és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.967228,
+                        37.614157
                   ]
             }
       ],
@@ -11758,6 +13036,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.012523,
                         37.580648
                   ]
+            },
+            {
+                  "name": "Space Jump",
+                  "text": "Un parc de trambuline în Cartagena care oferă mișcare activă și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.967228,
+                        37.614157
+                  ]
             }
       ],
       "en": [
@@ -11896,6 +13183,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.012523,
                         37.580648
+                  ]
+            },
+            {
+                  "name": "Space Jump",
+                  "text": "A trampoline park in Cartagena offering active movement and fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.967228,
+                        37.614157
                   ]
             }
       ]
@@ -14495,6 +15791,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.776458,
                         37.884033
                   ]
+            },
+            {
+                  "name": "Parque del Pintor Carlos Cerrato López",
+                  "text": "Ein schön gestalteter Spielplatz in Cordoba, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        -4.79373,
+                        37.873693
+                  ]
             }
       ],
       "hu": [
@@ -14606,6 +15911,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.776458,
                         37.884033
+                  ]
+            },
+            {
+                  "name": "Parque del Pintor Carlos Cerrato López",
+                  "text": "Egy szépen kialakított játszótér Cordoba városában, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -4.79373,
+                        37.873693
                   ]
             }
       ],
@@ -14719,6 +16033,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.776458,
                         37.884033
                   ]
+            },
+            {
+                  "name": "Parque del Pintor Carlos Cerrato López",
+                  "text": "Un loc de joacă frumos amenajat în Cordoba, care le oferă copiilor multă bucurie.",
+                  "category": "family",
+                  "coords": [
+                        -4.79373,
+                        37.873693
+                  ]
             }
       ],
       "en": [
@@ -14831,6 +16154,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.776458,
                         37.884033
                   ]
+            },
+            {
+                  "name": "Parque del Pintor Carlos Cerrato López",
+                  "text": "A beautifully designed playground in Cordoba that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        -4.79373,
+                        37.873693
+                  ]
             }
       ]
 }},
@@ -14912,6 +16244,24 @@ export const poiExtraEsV2: POI[] = [
                         -13.861484,
                         28.730188
                   ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana ist ein Minigolfplatz in Corralejo, der Unterhaltung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia ist eine Minigolfanlage in Corralejo, ideal für einen aktiven Nachmittag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
             }
       ],
       "hu": [
@@ -14990,6 +16340,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.861484,
                         28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "A La Cantina Mexicana egy minigolfpálya Corralejo területén, amely szabadtéri szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "A Minigolf Fantasia egy minigolfpálya Corralejo területén, ideális egy aktív délutánhoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
                   ]
             }
       ],
@@ -15070,6 +16438,24 @@ export const poiExtraEsV2: POI[] = [
                         -13.861484,
                         28.730188
                   ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana este un teren de minigolf în Corralejo, oferind divertisment în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia este un teren de minigolf în Corralejo, ideal pentru o după-amiază activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
             }
       ],
       "en": [
@@ -15148,6 +16534,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.861484,
                         28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana is a miniature golf course in Corralejo, providing outdoor entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia is a miniature golf course in Corralejo, ideal for an active afternoon with the family.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
                   ]
             }
       ]
@@ -15250,6 +16654,150 @@ export const poiExtraEsV2: POI[] = [
                         -16.747985,
                         28.092997
                   ]
+            },
+            {
+                  "name": "Estanque de la Atalaya",
+                  "text": "Dieser Teich in Costa Adeje bietet einen ruhigen Ort zum Verweilen und Beobachten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.741528,
+                        28.127613
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Ein ruhiger Stausee in Costa Adeje, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Dieses Wasserbecken in Costa Adeje dient als friedlicher Rückzugsort für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Ein kleiner See in Costa Adeje, der eine ruhige Atmosphäre für einen kurzen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "Eine Wasseranlage in Costa Adeje, die einen ruhigen Blick auf die Umgebung ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Dieser ruhige Teich in Costa Adeje lädt zu einer kurzen Pause im Freien ein.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Ein kleines Wasserreservoir in Costa Adeje, das sich harmonisch in die Natur fügt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Presa Los Pepes",
+                  "text": "Dieser See in Costa Adeje bietet eine ruhige Umgebung für entspannte Momente.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756988,
+                        28.13404
+                  ]
+            },
+            {
+                  "name": "Presa de Curbelo",
+                  "text": "Ein stiller See in Costa Adeje, ideal für eine kleine Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.766239,
+                        28.122051
+                  ]
+            },
+            {
+                  "name": "Presa Vieja",
+                  "text": "Diese Wasserstelle in Costa Adeje bietet einen friedlichen Anblick in der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -16.754113,
+                        28.128463
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Ein kleines Becken in Costa Adeje, das Ruhe und Entspannung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Charco La Negra",
+                  "text": "Ein naturbelassener Teich in Costa Adeje, der sich für eine kurze Beobachtungspause eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.6969,
+                        28.147248
+                  ]
+            },
+            {
+                  "name": "Fantasy Park",
+                  "text": "Ein Themen-Spielplatz in Costa Adeje mit vielfältigen Möglichkeiten zum Entdecken für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -16.735742,
+                        28.083294
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Sohana",
+                  "text": "Ein moderner Spielplatz in Costa Adeje, der sicher und unterhaltsam für Kinder gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        -16.739201,
+                        28.091093
+                  ]
+            },
+            {
+                  "name": "Mini Park Mini Golf",
+                  "text": "Eine Minigolfanlage in Costa Adeje, die Spaß und Geschicklichkeit für die ganze Familie kombiniert.",
+                  "category": "family",
+                  "coords": [
+                        -16.735748,
+                        28.092214
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Ein kreativer Indoor-Spielplatz in Costa Adeje, der Kindern fantasievolles Spielen ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
             }
       ],
       "hu": [
@@ -15348,6 +16896,150 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.747985,
                         28.092997
+                  ]
+            },
+            {
+                  "name": "Estanque de la Atalaya",
+                  "text": "Ez a Costa Adeje területén található tavacska nyugodt helyet kínál a pihenésre és a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -16.741528,
+                        28.127613
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Nyugodt víztározó Costa Adeje területén, a helyi tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Ez a Costa Adeje területén található vízmedence békés menedéket nyújt a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Kisebb tó Costa Adeje területén, amely nyugodt légkört biztosít egy rövid sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "Vízfelület Costa Adeje területén, amely nyugodt kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Ez a nyugodt tó Costa Adeje területén egy rövid szabadtéri pihenőre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Kisebb víztározó Costa Adeje területén, amely harmonikusan illeszkedik a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Presa Los Pepes",
+                  "text": "Ez a tó Costa Adeje területén nyugodt környezetet biztosít a pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756988,
+                        28.13404
+                  ]
+            },
+            {
+                  "name": "Presa de Curbelo",
+                  "text": "Csendes tó Costa Adeje területén, amely ideális egy kis erdei kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -16.766239,
+                        28.122051
+                  ]
+            },
+            {
+                  "name": "Presa Vieja",
+                  "text": "Ez a Costa Adeje területén található vízfelület békés látványt nyújt a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        -16.754113,
+                        28.128463
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Kisebb medence Costa Adeje területén, amely nyugalmat és pihenést kínál a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Charco La Negra",
+                  "text": "Természetközeli tó Costa Adeje területén, amely alkalmas egy rövid megfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.6969,
+                        28.147248
+                  ]
+            },
+            {
+                  "name": "Fantasy Park",
+                  "text": "Tematikus játszótér Costa Adeje városában, változatos felfedezni valókkal a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -16.735742,
+                        28.083294
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Sohana",
+                  "text": "Modern játszótér Costa Adeje városában, amely biztonságos és szórakoztató a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -16.739201,
+                        28.091093
+                  ]
+            },
+            {
+                  "name": "Mini Park Mini Golf",
+                  "text": "Minigolf pálya Costa Adeje területén, amely szórakozást és ügyességet kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -16.735748,
+                        28.092214
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Kreatív beltéri játszótér Costa Adeje városában, amely fantáziadús játékot tesz lehetővé a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
                   ]
             }
       ],
@@ -15448,6 +17140,150 @@ export const poiExtraEsV2: POI[] = [
                         -16.747985,
                         28.092997
                   ]
+            },
+            {
+                  "name": "Estanque de la Atalaya",
+                  "text": "Acest iaz din Costa Adeje oferă un loc liniștit pentru relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -16.741528,
+                        28.127613
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Un lac de acumulare liniștit în Costa Adeje, integrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Acest bazin de apă din Costa Adeje servește ca refugiu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Un lac mic în Costa Adeje care oferă o atmosferă liniștită pentru o scurtă plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "O zonă cu apă în Costa Adeje care permite o vedere liniștită asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Acest iaz liniștit din Costa Adeje invită la o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Un mic rezervor de apă în Costa Adeje care se integrează armonios în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Presa Los Pepes",
+                  "text": "Acest lac din Costa Adeje oferă un mediu liniștit pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756988,
+                        28.13404
+                  ]
+            },
+            {
+                  "name": "Presa de Curbelo",
+                  "text": "Un lac liniștit în Costa Adeje, ideal pentru o mică evadare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.766239,
+                        28.122051
+                  ]
+            },
+            {
+                  "name": "Presa Vieja",
+                  "text": "Această zonă cu apă din Costa Adeje oferă o priveliște liniștită în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -16.754113,
+                        28.128463
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Un mic bazin în Costa Adeje care oferă liniște și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Charco La Negra",
+                  "text": "Un iaz natural în Costa Adeje, potrivit pentru o scurtă pauză de observare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.6969,
+                        28.147248
+                  ]
+            },
+            {
+                  "name": "Fantasy Park",
+                  "text": "Un teren de joacă tematic în Costa Adeje cu diverse oportunități de explorare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -16.735742,
+                        28.083294
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Sohana",
+                  "text": "Un teren de joacă modern în Costa Adeje, conceput să fie sigur și distractiv pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -16.739201,
+                        28.091093
+                  ]
+            },
+            {
+                  "name": "Mini Park Mini Golf",
+                  "text": "Un teren de minigolf în Costa Adeje care combină distracția și îndemânarea pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -16.735748,
+                        28.092214
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Un teren de joacă interior creativ în Costa Adeje care le permite copiilor să se joace cu imaginație.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
             }
       ],
       "en": [
@@ -15546,6 +17382,150 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.747985,
                         28.092997
+                  ]
+            },
+            {
+                  "name": "Estanque de la Atalaya",
+                  "text": "This pond in Costa Adeje offers a quiet spot to linger and observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.741528,
+                        28.127613
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "A quiet reservoir in Costa Adeje, nestled in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "This water basin in Costa Adeje serves as a peaceful retreat for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "A small lake in Costa Adeje offering a calm atmosphere for a short walk.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "A water feature in Costa Adeje providing a quiet view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "This quiet pond in Costa Adeje invites a short outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "A small water reservoir in Costa Adeje that blends harmoniously with nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Presa Los Pepes",
+                  "text": "This lake in Costa Adeje offers a quiet setting for relaxed moments.",
+                  "category": "natural",
+                  "coords": [
+                        -16.756988,
+                        28.13404
+                  ]
+            },
+            {
+                  "name": "Presa de Curbelo",
+                  "text": "A still lake in Costa Adeje, ideal for a short timeout in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.766239,
+                        28.122051
+                  ]
+            },
+            {
+                  "name": "Presa Vieja",
+                  "text": "This water spot in Costa Adeje offers a peaceful sight in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.754113,
+                        28.128463
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "A small basin in Costa Adeje offering peace and relaxation outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Charco La Negra",
+                  "text": "A natural pond in Costa Adeje suitable for a short observation break.",
+                  "category": "natural",
+                  "coords": [
+                        -16.6969,
+                        28.147248
+                  ]
+            },
+            {
+                  "name": "Fantasy Park",
+                  "text": "A themed playground in Costa Adeje with varied opportunities for children to explore.",
+                  "category": "family",
+                  "coords": [
+                        -16.735742,
+                        28.083294
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Sohana",
+                  "text": "A modern playground in Costa Adeje designed to be safe and entertaining for children.",
+                  "category": "family",
+                  "coords": [
+                        -16.739201,
+                        28.091093
+                  ]
+            },
+            {
+                  "name": "Mini Park Mini Golf",
+                  "text": "A miniature golf course in Costa Adeje combining fun and skill for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -16.735748,
+                        28.092214
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "A creative indoor playground in Costa Adeje allowing children to play imaginatively.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
                   ]
             }
       ]
@@ -17901,6 +19881,15 @@ export const poiExtraEsV2: POI[] = [
                         -3.900603,
                         36.795397
                   ]
+            },
+            {
+                  "name": "Alberca de Lisar",
+                  "text": "Ein historisches Wasserbecken in Frigiliana mit einer ruhigen und malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -3.89616,
+                        36.794863
+                  ]
             }
       ],
       "hu": [
@@ -17968,6 +19957,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.900603,
                         36.795397
+                  ]
+            },
+            {
+                  "name": "Alberca de Lisar",
+                  "text": "Egy történelmi víztározó Frigiliana városában, nyugodt és festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -3.89616,
+                        36.794863
                   ]
             }
       ],
@@ -18037,6 +20035,15 @@ export const poiExtraEsV2: POI[] = [
                         -3.900603,
                         36.795397
                   ]
+            },
+            {
+                  "name": "Alberca de Lisar",
+                  "text": "Un bazin de apă istoric în Frigiliana, cu un cadru liniștit și pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -3.89616,
+                        36.794863
+                  ]
             }
       ],
       "en": [
@@ -18104,6 +20111,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.900603,
                         36.795397
+                  ]
+            },
+            {
+                  "name": "Alberca de Lisar",
+                  "text": "A historic water basin in Frigiliana with a peaceful and scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        -3.89616,
+                        36.794863
                   ]
             }
       ]
@@ -18469,6 +20485,60 @@ export const poiExtraEsV2: POI[] = [
                         -3.597976,
                         37.174927
                   ]
+            },
+            {
+                  "name": "Paraíso Jump",
+                  "text": "Ein großer Trampolinpark in Granada, ideal für sportliche Betätigung und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -3.607224,
+                        37.168304
+                  ]
+            },
+            {
+                  "name": "Gaming Project",
+                  "text": "Ein Unterhaltungszentrum in Granada mit einer Vielzahl von modernen Spielen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -3.612678,
+                        37.181078
+                  ]
+            },
+            {
+                  "name": "Moebius",
+                  "text": "Ein innovativ gestalteter Spielplatz in Granada, der Kinder zum aktiven Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -3.605087,
+                        37.162452
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Las Flores\"",
+                  "text": "Ein bunter Spielplatz in Granada, der sicheres Spielen in einer angenehmen Umgebung ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -3.605055,
+                        37.167699
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Óscar Romero",
+                  "text": "Ein gut ausgestatteter Spielbereich in Granada für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -3.598815,
+                        37.157292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Glorieta de Arabial",
+                  "text": "Ein lokaler Spielplatz in Granada, ideal für eine Pause während eines Stadtbummels.",
+                  "category": "family",
+                  "coords": [
+                        -3.609021,
+                        37.17451
+                  ]
             }
       ],
       "hu": [
@@ -18580,6 +20650,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.597976,
                         37.174927
+                  ]
+            },
+            {
+                  "name": "Paraíso Jump",
+                  "text": "Nagy trambulinpark Granada városában, ideális sportoláshoz és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -3.607224,
+                        37.168304
+                  ]
+            },
+            {
+                  "name": "Gaming Project",
+                  "text": "Szórakoztató központ Granada városában, modern játékok széles választékával minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -3.612678,
+                        37.181078
+                  ]
+            },
+            {
+                  "name": "Moebius",
+                  "text": "Innovatív kialakítású játszótér Granada városában, amely aktív játékra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        -3.605087,
+                        37.162452
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Las Flores\"",
+                  "text": "Színes játszótér Granada városában, amely biztonságos játékot tesz lehetővé kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -3.605055,
+                        37.167699
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Óscar Romero",
+                  "text": "Jól felszerelt játszóterület Granada városában minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.598815,
+                        37.157292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Glorieta de Arabial",
+                  "text": "Helyi játszótér Granada városában, amely ideális egy pihenőhöz a városnézés során.",
+                  "category": "family",
+                  "coords": [
+                        -3.609021,
+                        37.17451
                   ]
             }
       ],
@@ -18693,6 +20817,60 @@ export const poiExtraEsV2: POI[] = [
                         -3.597976,
                         37.174927
                   ]
+            },
+            {
+                  "name": "Paraíso Jump",
+                  "text": "Un parc mare de trambuline în Granada, ideal pentru activități sportive și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        -3.607224,
+                        37.168304
+                  ]
+            },
+            {
+                  "name": "Gaming Project",
+                  "text": "Un centru de divertisment în Granada cu o varietate de jocuri moderne pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -3.612678,
+                        37.181078
+                  ]
+            },
+            {
+                  "name": "Moebius",
+                  "text": "Un teren de joacă cu design inovator în Granada care invită copiii la joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        -3.605087,
+                        37.162452
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Las Flores\"",
+                  "text": "Un teren de joacă colorat în Granada care permite joaca în siguranță într-un mediu plăcut.",
+                  "category": "family",
+                  "coords": [
+                        -3.605055,
+                        37.167699
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Óscar Romero",
+                  "text": "O zonă de joacă bine echipată în Granada pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -3.598815,
+                        37.157292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Glorieta de Arabial",
+                  "text": "Un teren de joacă local în Granada, ideal pentru o pauză în timpul unei plimbări prin oraș.",
+                  "category": "family",
+                  "coords": [
+                        -3.609021,
+                        37.17451
+                  ]
             }
       ],
       "en": [
@@ -18804,6 +20982,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.597976,
                         37.174927
+                  ]
+            },
+            {
+                  "name": "Paraíso Jump",
+                  "text": "A large trampoline park in Granada, ideal for physical activity and family fun.",
+                  "category": "family",
+                  "coords": [
+                        -3.607224,
+                        37.168304
+                  ]
+            },
+            {
+                  "name": "Gaming Project",
+                  "text": "An entertainment center in Granada with a variety of modern games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -3.612678,
+                        37.181078
+                  ]
+            },
+            {
+                  "name": "Moebius",
+                  "text": "An innovatively designed playground in Granada that invites children to active play.",
+                  "category": "family",
+                  "coords": [
+                        -3.605087,
+                        37.162452
+                  ]
+            },
+            {
+                  "name": "Parque infantil \"Las Flores\"",
+                  "text": "A colorful playground in Granada that allows safe play in a pleasant environment.",
+                  "category": "family",
+                  "coords": [
+                        -3.605055,
+                        37.167699
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Óscar Romero",
+                  "text": "A well-equipped play area in Granada for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -3.598815,
+                        37.157292
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Glorieta de Arabial",
+                  "text": "A local playground in Granada, ideal for a break during a city stroll.",
+                  "category": "family",
+                  "coords": [
+                        -3.609021,
+                        37.17451
                   ]
             }
       ]
@@ -19447,6 +21679,87 @@ export const poiExtraEsV2: POI[] = [
                         -1.757715,
                         43.378385
                   ]
+            },
+            {
+                  "name": "San Joakin",
+                  "text": "San Joakin ist ein See in Hondarribia, der eine ruhige Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.809968,
+                        43.34968
+                  ]
+            },
+            {
+                  "name": "Arrizurreta ur-biltegia",
+                  "text": "Arrizurreta ur-biltegia ist ein Wasserreservoir in Hondarribia, das landschaftlich reizvoll gelegen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -1.780594,
+                        43.309219
+                  ]
+            },
+            {
+                  "name": "San Lorentzo",
+                  "text": "San Lorentzo ist ein See in Hondarribia, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -1.795855,
+                        43.347658
+                  ]
+            },
+            {
+                  "name": "Ur gezako aintzira",
+                  "text": "Der Ur gezako aintzira ist ein See in Hondarribia, der eine natürliche Umgebung für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.791907,
+                        43.348218
+                  ]
+            },
+            {
+                  "name": "Txoritegi",
+                  "text": "Txoritegi ist ein See in Hondarribia, der eine friedliche Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.794181,
+                        43.349098
+                  ]
+            },
+            {
+                  "name": "Haur parkea",
+                  "text": "Der Haur parkea ist ein Kinderspielplatz in Hondarribia, der zum Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -1.795389,
+                        43.365248
+                  ]
+            },
+            {
+                  "name": "Soroetako jolastokia",
+                  "text": "Soroetako jolastokia ist ein Spielplatz in Hondarribia, der eine sichere Umgebung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.797396,
+                        43.366321
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Die Minigolfanlage in Hondarribia bietet abwechslungsreichen Freizeitspaß für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        -1.774276,
+                        43.372757
+                  ]
+            },
+            {
+                  "name": "Parque del dragon",
+                  "text": "Der Parque del dragon ist ein fantasievoller Spielplatz in Hondarribia für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.794827,
+                        43.363983
+                  ]
             }
       ],
       "hu": [
@@ -19572,6 +21885,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.757715,
                         43.378385
+                  ]
+            },
+            {
+                  "name": "San Joakin",
+                  "text": "A San Joakin egy tó Hondarribia területén, amely nyugodt környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -1.809968,
+                        43.34968
+                  ]
+            },
+            {
+                  "name": "Arrizurreta ur-biltegia",
+                  "text": "Az Arrizurreta ur-biltegia egy víztározó Hondarribia területén, amely festői környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        -1.780594,
+                        43.309219
+                  ]
+            },
+            {
+                  "name": "San Lorentzo",
+                  "text": "A San Lorentzo egy tó Hondarribia területén, amely ideális egy természetközeli pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.795855,
+                        43.347658
+                  ]
+            },
+            {
+                  "name": "Ur gezako aintzira",
+                  "text": "Az Ur gezako aintzira egy tó Hondarribia területén, amely természetes környezetet kínál a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -1.791907,
+                        43.348218
+                  ]
+            },
+            {
+                  "name": "Txoritegi",
+                  "text": "A Txoritegi egy tó Hondarribia területén, amely békés hangulatot áraszt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -1.794181,
+                        43.349098
+                  ]
+            },
+            {
+                  "name": "Haur parkea",
+                  "text": "A Haur parkea egy gyermekjátszótér Hondarribia területén, amely szabadtéri játékra hívja a kicsiket.",
+                  "category": "family",
+                  "coords": [
+                        -1.795389,
+                        43.365248
+                  ]
+            },
+            {
+                  "name": "Soroetako jolastokia",
+                  "text": "A Soroetako jolastokia egy játszótér Hondarribia területén, amely biztonságos környezetet nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -1.797396,
+                        43.366321
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "A hondarribiai minigolfpálya változatos kikapcsolódást kínál kicsiknek és nagyoknak egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        -1.774276,
+                        43.372757
+                  ]
+            },
+            {
+                  "name": "Parque del dragon",
+                  "text": "A Parque del dragon egy fantáziadús játszótér gyerekeknek Hondarribia területén.",
+                  "category": "family",
+                  "coords": [
+                        -1.794827,
+                        43.363983
                   ]
             }
       ],
@@ -19699,6 +22093,87 @@ export const poiExtraEsV2: POI[] = [
                         -1.757715,
                         43.378385
                   ]
+            },
+            {
+                  "name": "San Joakin",
+                  "text": "San Joakin este un lac în Hondarribia, oferind un cadru liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -1.809968,
+                        43.34968
+                  ]
+            },
+            {
+                  "name": "Arrizurreta ur-biltegia",
+                  "text": "Arrizurreta ur-biltegia este un rezervor de apă în Hondarribia, situat într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -1.780594,
+                        43.309219
+                  ]
+            },
+            {
+                  "name": "San Lorentzo",
+                  "text": "San Lorentzo este un lac în Hondarribia, ideal pentru o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -1.795855,
+                        43.347658
+                  ]
+            },
+            {
+                  "name": "Ur gezako aintzira",
+                  "text": "Ur gezako aintzira este un lac în Hondarribia, oferind un mediu natural pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -1.791907,
+                        43.348218
+                  ]
+            },
+            {
+                  "name": "Txoritegi",
+                  "text": "Txoritegi este un lac în Hondarribia, oferind o atmosferă liniștită pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -1.794181,
+                        43.349098
+                  ]
+            },
+            {
+                  "name": "Haur parkea",
+                  "text": "Haur parkea este un loc de joacă pentru copii în Hondarribia, care invită la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -1.795389,
+                        43.365248
+                  ]
+            },
+            {
+                  "name": "Soroetako jolastokia",
+                  "text": "Soroetako jolastokia este un loc de joacă în Hondarribia, oferind un mediu sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.797396,
+                        43.366321
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Terenul de minigolf din Hondarribia oferă distracție variată pentru tineri și adulți.",
+                  "category": "family",
+                  "coords": [
+                        -1.774276,
+                        43.372757
+                  ]
+            },
+            {
+                  "name": "Parque del dragon",
+                  "text": "Parque del dragon este un loc de joacă plin de imaginație pentru copii în Hondarribia.",
+                  "category": "family",
+                  "coords": [
+                        -1.794827,
+                        43.363983
+                  ]
             }
       ],
       "en": [
@@ -19825,6 +22300,87 @@ export const poiExtraEsV2: POI[] = [
                         -1.757715,
                         43.378385
                   ]
+            },
+            {
+                  "name": "San Joakin",
+                  "text": "San Joakin is a lake in Hondarribia, providing a quiet setting for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        -1.809968,
+                        43.34968
+                  ]
+            },
+            {
+                  "name": "Arrizurreta ur-biltegia",
+                  "text": "Arrizurreta ur-biltegia is a water reservoir in Hondarribia, located in a scenic area.",
+                  "category": "natural",
+                  "coords": [
+                        -1.780594,
+                        43.309219
+                  ]
+            },
+            {
+                  "name": "San Lorentzo",
+                  "text": "San Lorentzo is a lake in Hondarribia, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -1.795855,
+                        43.347658
+                  ]
+            },
+            {
+                  "name": "Ur gezako aintzira",
+                  "text": "Ur gezako aintzira is a lake in Hondarribia, offering a natural environment for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -1.791907,
+                        43.348218
+                  ]
+            },
+            {
+                  "name": "Txoritegi",
+                  "text": "Txoritegi is a lake in Hondarribia, providing a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -1.794181,
+                        43.349098
+                  ]
+            },
+            {
+                  "name": "Haur parkea",
+                  "text": "Haur parkea is a children's playground in Hondarribia, inviting outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -1.795389,
+                        43.365248
+                  ]
+            },
+            {
+                  "name": "Soroetako jolastokia",
+                  "text": "Soroetako jolastokia is a playground in Hondarribia, providing a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        -1.797396,
+                        43.366321
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "The minigolf course in Hondarribia offers diverse leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -1.774276,
+                        43.372757
+                  ]
+            },
+            {
+                  "name": "Parque del dragon",
+                  "text": "Parque del dragon is an imaginative playground for children in Hondarribia.",
+                  "category": "family",
+                  "coords": [
+                        -1.794827,
+                        43.363983
+                  ]
             }
       ]
 }},
@@ -19922,6 +22478,24 @@ export const poiExtraEsV2: POI[] = [
                         1.454733,
                         38.915478
                   ]
+            },
+            {
+                  "name": "Area de Jocs Passeig de Joan Carles I",
+                  "text": "Ein Spielplatz an der Promenade von Ibiza, der Kindern Raum zum Toben am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.44346,
+                        38.915292
+                  ]
+            },
+            {
+                  "name": "Parc infantil Iboshim",
+                  "text": "Ein kleiner, gemütlicher Spielplatz in Ibiza, ideal für junge Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.451153,
+                        38.910235
+                  ]
             }
       ],
       "hu": [
@@ -20016,6 +22590,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.454733,
                         38.915478
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Passeig de Joan Carles I",
+                  "text": "Játszótér Ibiza sétányán, amely tengerparti játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.44346,
+                        38.915292
+                  ]
+            },
+            {
+                  "name": "Parc infantil Iboshim",
+                  "text": "Kicsi, hangulatos játszótér Ibiza városában, ideális fiatal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.451153,
+                        38.910235
                   ]
             }
       ],
@@ -20112,6 +22704,24 @@ export const poiExtraEsV2: POI[] = [
                         1.454733,
                         38.915478
                   ]
+            },
+            {
+                  "name": "Area de Jocs Passeig de Joan Carles I",
+                  "text": "Un teren de joacă pe faleza din Ibiza care oferă copiilor spațiu de joacă lângă mare.",
+                  "category": "family",
+                  "coords": [
+                        1.44346,
+                        38.915292
+                  ]
+            },
+            {
+                  "name": "Parc infantil Iboshim",
+                  "text": "Un teren de joacă mic și primitor în Ibiza, ideal pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        1.451153,
+                        38.910235
+                  ]
             }
       ],
       "en": [
@@ -20206,6 +22816,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.454733,
                         38.915478
+                  ]
+            },
+            {
+                  "name": "Area de Jocs Passeig de Joan Carles I",
+                  "text": "A playground on the promenade of Ibiza offering children space to play by the sea.",
+                  "category": "family",
+                  "coords": [
+                        1.44346,
+                        38.915292
+                  ]
+            },
+            {
+                  "name": "Parc infantil Iboshim",
+                  "text": "A small, cozy playground in Ibiza, ideal for young families.",
+                  "category": "family",
+                  "coords": [
+                        1.451153,
+                        38.910235
                   ]
             }
       ]
@@ -21261,6 +23889,15 @@ export const poiExtraEsV2: POI[] = [
                         -0.717247,
                         37.612475
                   ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Ein Minigolfplatz in La Manga Del Mar Menor, der Unterhaltung für Urlauber und Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.726133,
+                        37.625859
+                  ]
             }
       ],
       "hu": [
@@ -21400,6 +24037,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.717247,
                         37.612475
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Minigolf pálya La Manga Del Mar Menor területén, amely szórakozást nyújt a nyaralóknak és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.726133,
+                        37.625859
                   ]
             }
       ],
@@ -21541,6 +24187,15 @@ export const poiExtraEsV2: POI[] = [
                         -0.717247,
                         37.612475
                   ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Un teren de minigolf în La Manga Del Mar Menor care oferă divertisment pentru turiști și familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.726133,
+                        37.625859
+                  ]
             }
       ],
       "en": [
@@ -21680,6 +24335,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.717247,
                         37.612475
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "A miniature golf course in La Manga Del Mar Menor offering entertainment for vacationers and families.",
+                  "category": "family",
+                  "coords": [
+                        -0.726133,
+                        37.625859
                   ]
             }
       ]
@@ -21959,6 +24623,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.571167,
                         42.600583
                   ]
+            },
+            {
+                  "name": "Laguna de las Carrizas",
+                  "text": "Die Laguna de las Carrizas ist ein See in Leon, der als Lebensraum in der Natur dient.",
+                  "category": "natural",
+                  "coords": [
+                        -5.610017,
+                        42.614914
+                  ]
+            },
+            {
+                  "name": "Parque del Gran Capitán",
+                  "text": "Der Parque del Gran Capitán ist ein Park mit Spielbereich in Leon, ideal für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -5.592323,
+                        42.599245
+                  ]
             }
       ],
       "hu": [
@@ -22048,6 +24730,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.571167,
                         42.600583
+                  ]
+            },
+            {
+                  "name": "Laguna de las Carrizas",
+                  "text": "A Laguna de las Carrizas egy tó Leon területén, amely természeti élőhelyként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -5.610017,
+                        42.614914
+                  ]
+            },
+            {
+                  "name": "Parque del Gran Capitán",
+                  "text": "A Parque del Gran Capitán egy park játszótérrel Leon területén, amely ideális a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -5.592323,
+                        42.599245
                   ]
             }
       ],
@@ -22139,6 +24839,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.571167,
                         42.600583
                   ]
+            },
+            {
+                  "name": "Laguna de las Carrizas",
+                  "text": "Laguna de las Carrizas este un lac în Leon, care servește ca habitat natural.",
+                  "category": "natural",
+                  "coords": [
+                        -5.610017,
+                        42.614914
+                  ]
+            },
+            {
+                  "name": "Parque del Gran Capitán",
+                  "text": "Parque del Gran Capitán este un parc cu zonă de joacă în Leon, ideal pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.592323,
+                        42.599245
+                  ]
             }
       ],
       "en": [
@@ -22228,6 +24946,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.571167,
                         42.600583
+                  ]
+            },
+            {
+                  "name": "Laguna de las Carrizas",
+                  "text": "Laguna de las Carrizas is a lake in Leon, serving as a natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -5.610017,
+                        42.614914
+                  ]
+            },
+            {
+                  "name": "Parque del Gran Capitán",
+                  "text": "Parque del Gran Capitán is a park with a play area in Leon, ideal for children.",
+                  "category": "family",
+                  "coords": [
+                        -5.592323,
+                        42.599245
                   ]
             }
       ]
@@ -22388,6 +25124,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.792173,
                         43.431041
                   ]
+            },
+            {
+                  "name": "Laguna de La Llosa",
+                  "text": "Eine ruhige Lagune in Llanes, die eine malerische Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.783618,
+                        43.370301
+                  ]
+            },
+            {
+                  "name": "Zona infantil",
+                  "text": "Ein einfacher Spielbereich in Llanes für die tägliche Bewegung von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -4.757962,
+                        43.422004
+                  ]
+            },
+            {
+                  "name": "Parque de las Marismas",
+                  "text": "Ein Spielplatz in Llanes, der in einer natürlichen Marschlandschaft gelegen ist.",
+                  "category": "family",
+                  "coords": [
+                        -4.756339,
+                        43.419349
+                  ]
             }
       ],
       "hu": [
@@ -22544,6 +25307,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.792173,
                         43.431041
+                  ]
+            },
+            {
+                  "name": "Laguna de La Llosa",
+                  "text": "Nyugodt lagúna Llanes területén, amely festői környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.783618,
+                        43.370301
+                  ]
+            },
+            {
+                  "name": "Zona infantil",
+                  "text": "Egyszerű játszóterület Llanes városában a gyerekek napi szabadtéri mozgásához.",
+                  "category": "family",
+                  "coords": [
+                        -4.757962,
+                        43.422004
+                  ]
+            },
+            {
+                  "name": "Parque de las Marismas",
+                  "text": "Játszótér Llanes területén, amely természetes mocsaras környezetben található.",
+                  "category": "family",
+                  "coords": [
+                        -4.756339,
+                        43.419349
                   ]
             }
       ],
@@ -22702,6 +25492,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.792173,
                         43.431041
                   ]
+            },
+            {
+                  "name": "Laguna de La Llosa",
+                  "text": "O lagună liniștită în Llanes care oferă un cadru pitoresc pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -4.783618,
+                        43.370301
+                  ]
+            },
+            {
+                  "name": "Zona infantil",
+                  "text": "O zonă de joacă simplă în Llanes pentru mișcarea zilnică a copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -4.757962,
+                        43.422004
+                  ]
+            },
+            {
+                  "name": "Parque de las Marismas",
+                  "text": "Un teren de joacă în Llanes situat într-un peisaj natural de mlaștină.",
+                  "category": "family",
+                  "coords": [
+                        -4.756339,
+                        43.419349
+                  ]
             }
       ],
       "en": [
@@ -22858,6 +25675,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.792173,
                         43.431041
+                  ]
+            },
+            {
+                  "name": "Laguna de La Llosa",
+                  "text": "A quiet lagoon in Llanes offering a scenic environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -4.783618,
+                        43.370301
+                  ]
+            },
+            {
+                  "name": "Zona infantil",
+                  "text": "A simple play area in Llanes for children's daily outdoor movement.",
+                  "category": "family",
+                  "coords": [
+                        -4.757962,
+                        43.422004
+                  ]
+            },
+            {
+                  "name": "Parque de las Marismas",
+                  "text": "A playground in Llanes situated in a natural marshland landscape.",
+                  "category": "family",
+                  "coords": [
+                        -4.756339,
+                        43.419349
                   ]
             }
       ]
@@ -23278,6 +26122,114 @@ export const poiExtraEsV2: POI[] = [
                         -16.705254,
                         28.025636
                   ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Die Presa de Cabo Blanco ist ein See in Los Cristianos, der die Umgebung mit Wasser versorgt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Die Presa del Ancón ist ein Wasserreservoir in Los Cristianos, das in die Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Das Depósito Chayofa II ist ein Speichersee in Los Cristianos für die lokale Wasserwirtschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "Das Depósito Chayofa I ist ein wichtiges Wasserbecken in der Region von Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Das Depósito Charca la Camella ist ein kleinerer See in Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Die Presa Charca las Casas ist ein Staubecken in Los Cristianos zur Wasserspeicherung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Die Balsa El Mojón ist ein künstlicher See in Los Cristianos für landwirtschaftliche Zwecke.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Balsa Bonny",
+                  "text": "Die Balsa Bonny ist ein Wasserreservoir in Los Cristianos, das zur Bewässerung dient.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683142,
+                        28.007313
+                  ]
+            },
+            {
+                  "name": "Balsa Valle de San Lorenzo",
+                  "text": "Die Balsa Valle de San Lorenzo ist ein See in der Nähe von Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.649494,
+                        28.05514
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Bricobilandia ist ein Indoorspielplatz in Los Cristianos für kreative Kinderaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
+            },
+            {
+                  "name": "Minigolf Santiago",
+                  "text": "Minigolf Santiago ist eine familienfreundliche Minigolfanlage in Los Cristianos.",
+                  "category": "family",
+                  "coords": [
+                        -16.732081,
+                        28.055833
+                  ]
+            },
+            {
+                  "name": "Treasure Island",
+                  "text": "Treasure Island ist eine Minigolfanlage mit Thema in Los Cristianos für Urlauber.",
+                  "category": "family",
+                  "coords": [
+                        -16.729907,
+                        28.064865
+                  ]
             }
       ],
       "hu": [
@@ -23376,6 +26328,114 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.705254,
                         28.025636
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "A Presa de Cabo Blanco egy tó Los Cristianos területén, amely vízzel látja el a környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "A Presa del Ancón egy víztározó Los Cristianos területén, amely a tájba illeszkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "A Depósito Chayofa II egy tározó Los Cristianos területén a helyi vízgazdálkodás számára.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "A Depósito Chayofa I egy fontos víztározó Los Cristianos régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "A Depósito Charca la Camella egy kisebb tó Los Cristianos területén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "A Presa Charca las Casas egy víztározó Los Cristianos területén víz tárolására.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "A Balsa El Mojón egy mesterséges tó Los Cristianos területén mezőgazdasági célokra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Balsa Bonny",
+                  "text": "A Balsa Bonny egy víztározó Los Cristianos területén, amelyet öntözésre használnak.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683142,
+                        28.007313
+                  ]
+            },
+            {
+                  "name": "Balsa Valle de San Lorenzo",
+                  "text": "A Balsa Valle de San Lorenzo egy tó Los Cristianos közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -16.649494,
+                        28.05514
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "A Bricobilandia egy beltéri játszótér Los Cristianos területén kreatív gyermekfoglalkozásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
+            },
+            {
+                  "name": "Minigolf Santiago",
+                  "text": "A Minigolf Santiago egy családbarát minigolfpálya Los Cristianos területén.",
+                  "category": "family",
+                  "coords": [
+                        -16.732081,
+                        28.055833
+                  ]
+            },
+            {
+                  "name": "Treasure Island",
+                  "text": "A Treasure Island egy tematikus minigolfpálya Los Cristianos területén a nyaralók számára.",
+                  "category": "family",
+                  "coords": [
+                        -16.729907,
+                        28.064865
                   ]
             }
       ],
@@ -23476,6 +26536,114 @@ export const poiExtraEsV2: POI[] = [
                         -16.705254,
                         28.025636
                   ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Presa de Cabo Blanco este un lac în Los Cristianos, care asigură alimentarea cu apă a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Presa del Ancón este un rezervor de apă în Los Cristianos, integrat în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Depósito Chayofa II este un lac de acumulare în Los Cristianos pentru gestionarea locală a apei.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "Depósito Chayofa I este un bazin de apă important în regiunea Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Depósito Charca la Camella este un lac mai mic în Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Presa Charca las Casas este un bazin de acumulare în Los Cristianos pentru stocarea apei.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Balsa El Mojón este un lac artificial în Los Cristianos pentru scopuri agricole.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Balsa Bonny",
+                  "text": "Balsa Bonny este un rezervor de apă în Los Cristianos, utilizat pentru irigații.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683142,
+                        28.007313
+                  ]
+            },
+            {
+                  "name": "Balsa Valle de San Lorenzo",
+                  "text": "Balsa Valle de San Lorenzo este un lac în apropiere de Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.649494,
+                        28.05514
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Bricobilandia este un loc de joacă interior în Los Cristianos pentru activități creative pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
+            },
+            {
+                  "name": "Minigolf Santiago",
+                  "text": "Minigolf Santiago este un teren de minigolf prietenos pentru familii în Los Cristianos.",
+                  "category": "family",
+                  "coords": [
+                        -16.732081,
+                        28.055833
+                  ]
+            },
+            {
+                  "name": "Treasure Island",
+                  "text": "Treasure Island este un teren de minigolf tematic în Los Cristianos pentru turiști.",
+                  "category": "family",
+                  "coords": [
+                        -16.729907,
+                        28.064865
+                  ]
             }
       ],
       "en": [
@@ -23574,6 +26742,114 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.705254,
                         28.025636
+                  ]
+            },
+            {
+                  "name": "Presa de Cabo Blanco",
+                  "text": "Presa de Cabo Blanco is a lake in Los Cristianos, providing water for the area.",
+                  "category": "natural",
+                  "coords": [
+                        -16.666997,
+                        28.067479
+                  ]
+            },
+            {
+                  "name": "Presa del Ancón",
+                  "text": "Presa del Ancón is a water reservoir in Los Cristianos, integrated into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683945,
+                        28.107956
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa II",
+                  "text": "Depósito Chayofa II is a reservoir in Los Cristianos for local water management.",
+                  "category": "natural",
+                  "coords": [
+                        -16.693987,
+                        28.081212
+                  ]
+            },
+            {
+                  "name": "Depósito Chayofa I",
+                  "text": "Depósito Chayofa I is an important water reservoir in the Los Cristianos region.",
+                  "category": "natural",
+                  "coords": [
+                        -16.69379,
+                        28.080204
+                  ]
+            },
+            {
+                  "name": "Depósito Charca la Camella",
+                  "text": "Depósito Charca la Camella is a smaller lake in Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.681537,
+                        28.078865
+                  ]
+            },
+            {
+                  "name": "Presa Charca las Casas",
+                  "text": "Presa Charca las Casas is a reservoir in Los Cristianos for water storage.",
+                  "category": "natural",
+                  "coords": [
+                        -16.68459,
+                        28.106645
+                  ]
+            },
+            {
+                  "name": "Balsa El Mojón",
+                  "text": "Balsa El Mojón is an artificial lake in Los Cristianos for agricultural purposes.",
+                  "category": "natural",
+                  "coords": [
+                        -16.710824,
+                        28.070421
+                  ]
+            },
+            {
+                  "name": "Balsa Bonny",
+                  "text": "Balsa Bonny is a water reservoir in Los Cristianos, used for irrigation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.683142,
+                        28.007313
+                  ]
+            },
+            {
+                  "name": "Balsa Valle de San Lorenzo",
+                  "text": "Balsa Valle de San Lorenzo is a lake near Los Cristianos.",
+                  "category": "natural",
+                  "coords": [
+                        -16.649494,
+                        28.05514
+                  ]
+            },
+            {
+                  "name": "Bricobilandia",
+                  "text": "Bricobilandia is an indoor playground in Los Cristianos for creative children's activities.",
+                  "category": "family",
+                  "coords": [
+                        -16.722152,
+                        28.069558
+                  ]
+            },
+            {
+                  "name": "Minigolf Santiago",
+                  "text": "Minigolf Santiago is a family-friendly miniature golf course in Los Cristianos.",
+                  "category": "family",
+                  "coords": [
+                        -16.732081,
+                        28.055833
+                  ]
+            },
+            {
+                  "name": "Treasure Island",
+                  "text": "Treasure Island is a themed miniature golf course in Los Cristianos for vacationers.",
+                  "category": "family",
+                  "coords": [
+                        -16.729907,
+                        28.064865
                   ]
             }
       ]
@@ -23689,6 +26965,168 @@ export const poiExtraEsV2: POI[] = [
                         -3.68835,
                         40.45306
                   ]
+            },
+            {
+                  "name": "Lago del Parque Enrique Tierno Galván",
+                  "text": "Dieser See in einem Park in Madrid bietet eine entspannende Aussicht und Wege zum Spazierengehen.",
+                  "category": "natural",
+                  "coords": [
+                        -3.682548,
+                        40.386828
+                  ]
+            },
+            {
+                  "name": "Lago Laguna",
+                  "text": "Ein kleiner See in Madrid, ideal für eine kurze Pause vom städtischen Trubel.",
+                  "category": "natural",
+                  "coords": [
+                        -3.746297,
+                        40.399227
+                  ]
+            },
+            {
+                  "name": "Depósito de Canal de Isabel II",
+                  "text": "Ein technisches Wasserreservoir in Madrid, das einen ruhigen Anblick im Stadtbild bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.630091,
+                        40.422583
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Ein kleiner Teich in Madrid, der zu ruhigen Momenten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Estanque Guillermo Pingarrón",
+                  "text": "Dieser Teich in Madrid bietet eine ruhige Atmosphäre für Parkbesucher.",
+                  "category": "natural",
+                  "coords": [
+                        -3.64773,
+                        40.38665
+                  ]
+            },
+            {
+                  "name": "Estanque y lago de Parquesur",
+                  "text": "Ein See- und Teichkomplex in Madrid, ideal für längere Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -3.725275,
+                        40.378285
+                  ]
+            },
+            {
+                  "name": "Lago de la Casa de Campo",
+                  "text": "Ein großer, bekannter See in Madrid, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.731932,
+                        40.418823
+                  ]
+            },
+            {
+                  "name": "Esqueleto",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.712569,
+                        40.399175
+                  ]
+            },
+            {
+                  "name": "Geometría Abstracta",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.721138,
+                        40.387014
+                  ]
+            },
+            {
+                  "name": "Espacio infantil Almendro 3",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.709088,
+                        40.412771
+                  ]
+            },
+            {
+                  "name": "Next Level Arcade Bar",
+                  "text": "Eine Spielhalle in Madrid mit verschiedenen Unterhaltungsmöglichkeiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -3.713626,
+                        40.431519
+                  ]
+            },
+            {
+                  "name": "Barco Pirata",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.738668,
+                        40.400424
+                  ]
+            },
+            {
+                  "name": "Parque Toboganes",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.710272,
+                        40.397921
+                  ]
+            },
+            {
+                  "name": "Zona de ejercicios",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.660793,
+                        40.420476
+                  ]
+            },
+            {
+                  "name": "Parque del Barco Pirata",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.706471,
+                        40.396793
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.710455,
+                        40.451068
+                  ]
+            },
+            {
+                  "name": "Parque Farolillo",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.731595,
+                        40.394896
+                  ]
+            },
+            {
+                  "name": "Área infantil 10079",
+                  "text": "Ein familienfreundlicher Spielplatz in Madrid, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.733237,
+                        40.404489
+                  ]
             }
       ],
       "hu": [
@@ -23800,6 +27238,168 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.68835,
                         40.45306
+                  ]
+            },
+            {
+                  "name": "Lago del Parque Enrique Tierno Galván",
+                  "text": "Ez a madridi parkban található tó pihentető kilátást és sétálóutakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -3.682548,
+                        40.386828
+                  ]
+            },
+            {
+                  "name": "Lago Laguna",
+                  "text": "Kisebb tó Madrid területén, amely ideális egy rövid szünethez a városi nyüzsgéstől.",
+                  "category": "natural",
+                  "coords": [
+                        -3.746297,
+                        40.399227
+                  ]
+            },
+            {
+                  "name": "Depósito de Canal de Isabel II",
+                  "text": "Technikai víztározó Madridban, amely nyugodt látványt nyújt a városképben.",
+                  "category": "natural",
+                  "coords": [
+                        -3.630091,
+                        40.422583
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Kisebb tavacska Madrid területén, amely nyugodt szabadtéri pillanatokra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Estanque Guillermo Pingarrón",
+                  "text": "Ez a madridi tó nyugodt légkört biztosít a park látogatóinak.",
+                  "category": "natural",
+                  "coords": [
+                        -3.64773,
+                        40.38665
+                  ]
+            },
+            {
+                  "name": "Estanque y lago de Parquesur",
+                  "text": "Tó- és medencekomplexum Madrid területén, amely ideális hosszabb vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.725275,
+                        40.378285
+                  ]
+            },
+            {
+                  "name": "Lago de la Casa de Campo",
+                  "text": "Nagy, ismert tó Madrid területén, amely változatos kikapcsolódási lehetőséget kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        -3.731932,
+                        40.418823
+                  ]
+            },
+            {
+                  "name": "Esqueleto",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.712569,
+                        40.399175
+                  ]
+            },
+            {
+                  "name": "Geometría Abstracta",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.721138,
+                        40.387014
+                  ]
+            },
+            {
+                  "name": "Espacio infantil Almendro 3",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.709088,
+                        40.412771
+                  ]
+            },
+            {
+                  "name": "Next Level Arcade Bar",
+                  "text": "Szórakoztató játékterem Madrid városában, különféle játékokkal minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -3.713626,
+                        40.431519
+                  ]
+            },
+            {
+                  "name": "Barco Pirata",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.738668,
+                        40.400424
+                  ]
+            },
+            {
+                  "name": "Parque Toboganes",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.710272,
+                        40.397921
+                  ]
+            },
+            {
+                  "name": "Zona de ejercicios",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.660793,
+                        40.420476
+                  ]
+            },
+            {
+                  "name": "Parque del Barco Pirata",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.706471,
+                        40.396793
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.710455,
+                        40.451068
+                  ]
+            },
+            {
+                  "name": "Parque Farolillo",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.731595,
+                        40.394896
+                  ]
+            },
+            {
+                  "name": "Área infantil 10079",
+                  "text": "Családbarát játszótér Madrid területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -3.733237,
+                        40.404489
                   ]
             }
       ],
@@ -23913,6 +27513,168 @@ export const poiExtraEsV2: POI[] = [
                         -3.68835,
                         40.45306
                   ]
+            },
+            {
+                  "name": "Lago del Parque Enrique Tierno Galván",
+                  "text": "Acest lac dintr-un parc din Madrid oferă o priveliște relaxantă și alei pentru plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -3.682548,
+                        40.386828
+                  ]
+            },
+            {
+                  "name": "Lago Laguna",
+                  "text": "Un lac mic în Madrid, ideal pentru o scurtă pauză de la agitația orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -3.746297,
+                        40.399227
+                  ]
+            },
+            {
+                  "name": "Depósito de Canal de Isabel II",
+                  "text": "Un rezervor tehnic de apă în Madrid care oferă o priveliște liniștită în peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        -3.630091,
+                        40.422583
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "Un iaz mic în Madrid care invită la momente liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Estanque Guillermo Pingarrón",
+                  "text": "Acest iaz din Madrid oferă o atmosferă liniștită pentru vizitatorii parcului.",
+                  "category": "natural",
+                  "coords": [
+                        -3.64773,
+                        40.38665
+                  ]
+            },
+            {
+                  "name": "Estanque y lago de Parquesur",
+                  "text": "Un complex de lacuri și iazuri în Madrid, ideal pentru plimbări lungi pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.725275,
+                        40.378285
+                  ]
+            },
+            {
+                  "name": "Lago de la Casa de Campo",
+                  "text": "Un lac mare și cunoscut în Madrid care oferă diverse oportunități de recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -3.731932,
+                        40.418823
+                  ]
+            },
+            {
+                  "name": "Esqueleto",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.712569,
+                        40.399175
+                  ]
+            },
+            {
+                  "name": "Geometría Abstracta",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.721138,
+                        40.387014
+                  ]
+            },
+            {
+                  "name": "Espacio infantil Almendro 3",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.709088,
+                        40.412771
+                  ]
+            },
+            {
+                  "name": "Next Level Arcade Bar",
+                  "text": "O sală de jocuri în Madrid cu diverse opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -3.713626,
+                        40.431519
+                  ]
+            },
+            {
+                  "name": "Barco Pirata",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.738668,
+                        40.400424
+                  ]
+            },
+            {
+                  "name": "Parque Toboganes",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.710272,
+                        40.397921
+                  ]
+            },
+            {
+                  "name": "Zona de ejercicios",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.660793,
+                        40.420476
+                  ]
+            },
+            {
+                  "name": "Parque del Barco Pirata",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.706471,
+                        40.396793
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.710455,
+                        40.451068
+                  ]
+            },
+            {
+                  "name": "Parque Farolillo",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.731595,
+                        40.394896
+                  ]
+            },
+            {
+                  "name": "Área infantil 10079",
+                  "text": "Un teren de joacă pentru familii în Madrid, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -3.733237,
+                        40.404489
+                  ]
             }
       ],
       "en": [
@@ -24024,6 +27786,168 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.68835,
                         40.45306
+                  ]
+            },
+            {
+                  "name": "Lago del Parque Enrique Tierno Galván",
+                  "text": "This lake in a park in Madrid offers a relaxing view and paths for walking.",
+                  "category": "natural",
+                  "coords": [
+                        -3.682548,
+                        40.386828
+                  ]
+            },
+            {
+                  "name": "Lago Laguna",
+                  "text": "A small lake in Madrid, ideal for a short break from the urban hustle and bustle.",
+                  "category": "natural",
+                  "coords": [
+                        -3.746297,
+                        40.399227
+                  ]
+            },
+            {
+                  "name": "Depósito de Canal de Isabel II",
+                  "text": "A technical water reservoir in Madrid providing a quiet sight in the cityscape.",
+                  "category": "natural",
+                  "coords": [
+                        -3.630091,
+                        40.422583
+                  ]
+            },
+            {
+                  "name": "Estanque Chico",
+                  "text": "A small pond in Madrid that invites quiet moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -3.77158,
+                        40.402489
+                  ]
+            },
+            {
+                  "name": "Estanque Guillermo Pingarrón",
+                  "text": "This pond in Madrid offers a calm atmosphere for park visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -3.64773,
+                        40.38665
+                  ]
+            },
+            {
+                  "name": "Estanque y lago de Parquesur",
+                  "text": "A lake and pond complex in Madrid, ideal for longer walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.725275,
+                        40.378285
+                  ]
+            },
+            {
+                  "name": "Lago de la Casa de Campo",
+                  "text": "A large, well-known lake in Madrid offering varied opportunities for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -3.731932,
+                        40.418823
+                  ]
+            },
+            {
+                  "name": "Esqueleto",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.712569,
+                        40.399175
+                  ]
+            },
+            {
+                  "name": "Geometría Abstracta",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.721138,
+                        40.387014
+                  ]
+            },
+            {
+                  "name": "Espacio infantil Almendro 3",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.709088,
+                        40.412771
+                  ]
+            },
+            {
+                  "name": "Next Level Arcade Bar",
+                  "text": "An amusement arcade in Madrid with games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -3.713626,
+                        40.431519
+                  ]
+            },
+            {
+                  "name": "Barco Pirata",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.738668,
+                        40.400424
+                  ]
+            },
+            {
+                  "name": "Parque Toboganes",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.710272,
+                        40.397921
+                  ]
+            },
+            {
+                  "name": "Zona de ejercicios",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.660793,
+                        40.420476
+                  ]
+            },
+            {
+                  "name": "Parque del Barco Pirata",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.706471,
+                        40.396793
+                  ]
+            },
+            {
+                  "name": "Zona Infantil",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.710455,
+                        40.451068
+                  ]
+            },
+            {
+                  "name": "Parque Farolillo",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.731595,
+                        40.394896
+                  ]
+            },
+            {
+                  "name": "Área infantil 10079",
+                  "text": "A family-friendly playground in Madrid for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -3.733237,
+                        40.404489
                   ]
             }
       ]
@@ -24504,6 +28428,60 @@ export const poiExtraEsV2: POI[] = [
                         -16.851,
                         28.295
                   ]
+            },
+            {
+                  "name": "Embalse de Taco",
+                  "text": "Der Embalse de Taco ist ein See bei Masca, der eine wichtige Wasserquelle darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.833448,
+                        28.373848
+                  ]
+            },
+            {
+                  "name": "Balsa El Palmar",
+                  "text": "Die Balsa El Palmar ist ein Wasserbecken in der Region Masca zur Wasserversorgung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845925,
+                        28.324482
+                  ]
+            },
+            {
+                  "name": "Balsa de Teno Alto",
+                  "text": "Die Balsa de Teno Alto ist ein See in den Bergen bei Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.878302,
+                        28.337181
+                  ]
+            },
+            {
+                  "name": "Balsa de Ravelo",
+                  "text": "Die Balsa de Ravelo ist ein kleiner Speichersee in der Umgebung von Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.835696,
+                        28.363749
+                  ]
+            },
+            {
+                  "name": "Depósito La Cuesta",
+                  "text": "Das Depósito La Cuesta ist ein Reservoir in Masca für die lokale Nutzung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845842,
+                        28.361285
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dorta Pérez",
+                  "text": "Der Parque Infantil Dorta Pérez ist ein Spielplatz in Masca für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -16.814823,
+                        28.296883
+                  ]
             }
       ],
       "hu": [
@@ -24582,6 +28560,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.851,
                         28.295
+                  ]
+            },
+            {
+                  "name": "Embalse de Taco",
+                  "text": "Az Embalse de Taco egy tó Masca közelében, amely fontos vízforrás.",
+                  "category": "natural",
+                  "coords": [
+                        -16.833448,
+                        28.373848
+                  ]
+            },
+            {
+                  "name": "Balsa El Palmar",
+                  "text": "A Balsa El Palmar egy víztározó Masca régiójában a vízellátás biztosítására.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845925,
+                        28.324482
+                  ]
+            },
+            {
+                  "name": "Balsa de Teno Alto",
+                  "text": "A Balsa de Teno Alto egy tó a hegyekben, Masca közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -16.878302,
+                        28.337181
+                  ]
+            },
+            {
+                  "name": "Balsa de Ravelo",
+                  "text": "A Balsa de Ravelo egy kis víztározó Masca környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.835696,
+                        28.363749
+                  ]
+            },
+            {
+                  "name": "Depósito La Cuesta",
+                  "text": "A Depósito La Cuesta egy víztározó Masca területén helyi használatra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845842,
+                        28.361285
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dorta Pérez",
+                  "text": "A Parque Infantil Dorta Pérez egy játszótér Masca területén a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        -16.814823,
+                        28.296883
                   ]
             }
       ],
@@ -24662,6 +28694,60 @@ export const poiExtraEsV2: POI[] = [
                         -16.851,
                         28.295
                   ]
+            },
+            {
+                  "name": "Embalse de Taco",
+                  "text": "Embalse de Taco este un lac lângă Masca, reprezentând o sursă importantă de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -16.833448,
+                        28.373848
+                  ]
+            },
+            {
+                  "name": "Balsa El Palmar",
+                  "text": "Balsa El Palmar este un bazin de apă în regiunea Masca pentru alimentarea cu apă.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845925,
+                        28.324482
+                  ]
+            },
+            {
+                  "name": "Balsa de Teno Alto",
+                  "text": "Balsa de Teno Alto este un lac în munți, lângă Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.878302,
+                        28.337181
+                  ]
+            },
+            {
+                  "name": "Balsa de Ravelo",
+                  "text": "Balsa de Ravelo este un mic lac de acumulare în împrejurimile localității Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.835696,
+                        28.363749
+                  ]
+            },
+            {
+                  "name": "Depósito La Cuesta",
+                  "text": "Depósito La Cuesta este un rezervor în Masca pentru uz local.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845842,
+                        28.361285
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dorta Pérez",
+                  "text": "Parque Infantil Dorta Pérez este un loc de joacă în Masca pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -16.814823,
+                        28.296883
+                  ]
             }
       ],
       "en": [
@@ -24740,6 +28826,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.851,
                         28.295
+                  ]
+            },
+            {
+                  "name": "Embalse de Taco",
+                  "text": "Embalse de Taco is a lake near Masca, representing an important water source.",
+                  "category": "natural",
+                  "coords": [
+                        -16.833448,
+                        28.373848
+                  ]
+            },
+            {
+                  "name": "Balsa El Palmar",
+                  "text": "Balsa El Palmar is a water reservoir in the Masca region for water supply.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845925,
+                        28.324482
+                  ]
+            },
+            {
+                  "name": "Balsa de Teno Alto",
+                  "text": "Balsa de Teno Alto is a lake in the mountains near Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.878302,
+                        28.337181
+                  ]
+            },
+            {
+                  "name": "Balsa de Ravelo",
+                  "text": "Balsa de Ravelo is a small reservoir in the surroundings of Masca.",
+                  "category": "natural",
+                  "coords": [
+                        -16.835696,
+                        28.363749
+                  ]
+            },
+            {
+                  "name": "Depósito La Cuesta",
+                  "text": "Depósito La Cuesta is a reservoir in Masca for local use.",
+                  "category": "natural",
+                  "coords": [
+                        -16.845842,
+                        28.361285
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dorta Pérez",
+                  "text": "Parque Infantil Dorta Pérez is a playground in Masca for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        -16.814823,
+                        28.296883
                   ]
             }
       ]
@@ -26125,6 +30265,69 @@ export const poiExtraEsV2: POI[] = [
                         -4.6401,
                         36.597359
                   ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Parque Los Deportes",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.616531,
+                        36.567428
+                  ]
+            },
+            {
+                  "name": "Parque Syalis",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.614132,
+                        36.570166
+                  ]
+            },
+            {
+                  "name": "María de las Mercedes",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.614637,
+                        36.568805
+                  ]
+            },
+            {
+                  "name": "Parque de la Reina",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.615142,
+                        36.571858
+                  ]
+            },
+            {
+                  "name": "Parque Europa",
+                  "text": "Ein familienfreundlicher Spielplatz in Mijas, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.60659,
+                        36.573874
+                  ]
             }
       ],
       "hu": [
@@ -26192,6 +30395,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.6401,
                         36.597359
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Parque Los Deportes",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.616531,
+                        36.567428
+                  ]
+            },
+            {
+                  "name": "Parque Syalis",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.614132,
+                        36.570166
+                  ]
+            },
+            {
+                  "name": "María de las Mercedes",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.614637,
+                        36.568805
+                  ]
+            },
+            {
+                  "name": "Parque de la Reina",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.615142,
+                        36.571858
+                  ]
+            },
+            {
+                  "name": "Parque Europa",
+                  "text": "Családbarát játszótér Mijas területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.60659,
+                        36.573874
                   ]
             }
       ],
@@ -26261,6 +30527,69 @@ export const poiExtraEsV2: POI[] = [
                         -4.6401,
                         36.597359
                   ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Parque Los Deportes",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.616531,
+                        36.567428
+                  ]
+            },
+            {
+                  "name": "Parque Syalis",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.614132,
+                        36.570166
+                  ]
+            },
+            {
+                  "name": "María de las Mercedes",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.614637,
+                        36.568805
+                  ]
+            },
+            {
+                  "name": "Parque de la Reina",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.615142,
+                        36.571858
+                  ]
+            },
+            {
+                  "name": "Parque Europa",
+                  "text": "Un teren de joacă pentru familii în Mijas, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.60659,
+                        36.573874
+                  ]
             }
       ],
       "en": [
@@ -26328,6 +30657,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.6401,
                         36.597359
+                  ]
+            },
+            {
+                  "name": "Las Canteras",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.619164,
+                        36.565712
+                  ]
+            },
+            {
+                  "name": "San Álvaro",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.619897,
+                        36.562304
+                  ]
+            },
+            {
+                  "name": "Parque Los Deportes",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.616531,
+                        36.567428
+                  ]
+            },
+            {
+                  "name": "Parque Syalis",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.614132,
+                        36.570166
+                  ]
+            },
+            {
+                  "name": "María de las Mercedes",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.614637,
+                        36.568805
+                  ]
+            },
+            {
+                  "name": "Parque de la Reina",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.615142,
+                        36.571858
+                  ]
+            },
+            {
+                  "name": "Parque Europa",
+                  "text": "A family-friendly playground in Mijas for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.60659,
+                        36.573874
                   ]
             }
       ]
@@ -27080,6 +31472,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.679901,
                         43.383129
                   ]
+            },
+            {
+                  "name": "La estrella",
+                  "text": "Ein familienfreundlicher Spielplatz in Mundaka, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.727813,
+                        43.421151
+                  ]
             }
       ],
       "hu": [
@@ -27148,6 +31549,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.679901,
                         43.383129
+                  ]
+            },
+            {
+                  "name": "La estrella",
+                  "text": "Családbarát játszótér Mundaka területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.727813,
+                        43.421151
                   ]
             }
       ],
@@ -27218,6 +31628,15 @@ export const poiExtraEsV2: POI[] = [
                         -2.679901,
                         43.383129
                   ]
+            },
+            {
+                  "name": "La estrella",
+                  "text": "Un teren de joacă pentru familii în Mundaka, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.727813,
+                        43.421151
+                  ]
             }
       ],
       "en": [
@@ -27286,6 +31705,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.679901,
                         43.383129
+                  ]
+            },
+            {
+                  "name": "La estrella",
+                  "text": "A family-friendly playground in Mundaka for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -2.727813,
+                        43.421151
                   ]
             }
       ]
@@ -27844,6 +32272,33 @@ export const poiExtraEsV2: POI[] = [
                         -8.877337,
                         42.539398
                   ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa ist ein natürlicher See in O Grove, ideal für Vogelbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
+            },
+            {
+                  "name": "Aldea Os Grobits",
+                  "text": "Aldea Os Grobits ist ein fantasievoller Themen-Spielplatz für Kinder in O Grove.",
+                  "category": "family",
+                  "coords": [
+                        -8.84922,
+                        42.487779
+                  ]
+            },
+            {
+                  "name": "Parque do Corgo",
+                  "text": "Der Parque do Corgo ist ein Park mit Spielmöglichkeiten in O Grove für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -8.865117,
+                        42.496686
+                  ]
             }
       ],
       "hu": [
@@ -27920,6 +32375,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.877337,
                         42.539398
+                  ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "Az A Lagoa egy természetes tó O Grove területén, amely kiváló madármegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
+            },
+            {
+                  "name": "Aldea Os Grobits",
+                  "text": "Az Aldea Os Grobits egy fantáziadús tematikus játszótér gyerekeknek O Grove területén.",
+                  "category": "family",
+                  "coords": [
+                        -8.84922,
+                        42.487779
+                  ]
+            },
+            {
+                  "name": "Parque do Corgo",
+                  "text": "A Parque do Corgo egy park játéklehetőségekkel O Grove területén családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -8.865117,
+                        42.496686
                   ]
             }
       ],
@@ -27998,6 +32480,33 @@ export const poiExtraEsV2: POI[] = [
                         -8.877337,
                         42.539398
                   ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa este un lac natural în O Grove, ideal pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
+            },
+            {
+                  "name": "Aldea Os Grobits",
+                  "text": "Aldea Os Grobits este un loc de joacă tematic plin de imaginație pentru copii în O Grove.",
+                  "category": "family",
+                  "coords": [
+                        -8.84922,
+                        42.487779
+                  ]
+            },
+            {
+                  "name": "Parque do Corgo",
+                  "text": "Parque do Corgo este un parc cu facilități de joacă în O Grove pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -8.865117,
+                        42.496686
+                  ]
             }
       ],
       "en": [
@@ -28075,6 +32584,33 @@ export const poiExtraEsV2: POI[] = [
                         -8.877337,
                         42.539398
                   ]
+            },
+            {
+                  "name": "A Lagoa",
+                  "text": "A Lagoa is a natural lake in O Grove, ideal for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        -8.869789,
+                        42.528093
+                  ]
+            },
+            {
+                  "name": "Aldea Os Grobits",
+                  "text": "Aldea Os Grobits is an imaginative themed playground for children in O Grove.",
+                  "category": "family",
+                  "coords": [
+                        -8.84922,
+                        42.487779
+                  ]
+            },
+            {
+                  "name": "Parque do Corgo",
+                  "text": "Parque do Corgo is a park with play facilities in O Grove for families.",
+                  "category": "family",
+                  "coords": [
+                        -8.865117,
+                        42.496686
+                  ]
             }
       ]
 }},
@@ -28112,6 +32648,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.650455,
                         42.483812
                   ]
+            },
+            {
+                  "name": "La Sarda",
+                  "text": "Ein lokaler See in Olite, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.654207,
+                        42.46541
+                  ]
             }
       ],
       "hu": [
@@ -28146,6 +32691,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.650455,
                         42.483812
+                  ]
+            },
+            {
+                  "name": "La Sarda",
+                  "text": "Egy helyi tó Olite közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.654207,
+                        42.46541
                   ]
             }
       ],
@@ -28182,6 +32736,15 @@ export const poiExtraEsV2: POI[] = [
                         -1.650455,
                         42.483812
                   ]
+            },
+            {
+                  "name": "La Sarda",
+                  "text": "Un lac local în Olite, oferind un cadru liniștit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -1.654207,
+                        42.46541
+                  ]
             }
       ],
       "en": [
@@ -28216,6 +32779,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.650455,
                         42.483812
+                  ]
+            },
+            {
+                  "name": "La Sarda",
+                  "text": "A local lake in Olite offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -1.654207,
+                        42.46541
                   ]
             }
       ]
@@ -29983,6 +34555,33 @@ export const poiExtraEsV2: POI[] = [
                         -13.791229,
                         28.850147
                   ]
+            },
+            {
+                  "name": "Laguna Azul",
+                  "text": "Die Laguna Azul ist ein See in Playa Blanca, der durch seine Farbe besticht.",
+                  "category": "natural",
+                  "coords": [
+                        -13.876519,
+                        28.890488
+                  ]
+            },
+            {
+                  "name": "Games Room",
+                  "text": "Eine Spielhalle in Playa Blanca mit verschiedenen Spielen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -13.843553,
+                        28.861289
+                  ]
+            },
+            {
+                  "name": "Rubicon Shop&Fun",
+                  "text": "Eine Minigolfanlage in Playa Blanca, die Freizeitspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -13.814362,
+                        28.859749
+                  ]
             }
       ],
       "hu": [
@@ -30126,6 +34725,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.791229,
                         28.850147
+                  ]
+            },
+            {
+                  "name": "Laguna Azul",
+                  "text": "A Laguna Azul egy tó Playa Blanca területén, amely színével ragadja meg a tekintetet.",
+                  "category": "natural",
+                  "coords": [
+                        -13.876519,
+                        28.890488
+                  ]
+            },
+            {
+                  "name": "Games Room",
+                  "text": "Egy játékterem Playa Blanca városában, különféle játékokkal a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -13.843553,
+                        28.861289
+                  ]
+            },
+            {
+                  "name": "Rubicon Shop&Fun",
+                  "text": "Egy minigolfpálya Playa Blanca városában, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -13.814362,
+                        28.859749
                   ]
             }
       ],
@@ -30271,6 +34897,33 @@ export const poiExtraEsV2: POI[] = [
                         -13.791229,
                         28.850147
                   ]
+            },
+            {
+                  "name": "Laguna Azul",
+                  "text": "Laguna Azul este un lac în Playa Blanca, care impresionează prin culoarea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -13.876519,
+                        28.890488
+                  ]
+            },
+            {
+                  "name": "Games Room",
+                  "text": "O sală de jocuri în Playa Blanca cu diverse jocuri pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        -13.843553,
+                        28.861289
+                  ]
+            },
+            {
+                  "name": "Rubicon Shop&Fun",
+                  "text": "O facilitate de minigolf în Playa Blanca care oferă distracție recreativă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -13.814362,
+                        28.859749
+                  ]
             }
       ],
       "en": [
@@ -30415,6 +35068,33 @@ export const poiExtraEsV2: POI[] = [
                         -13.791229,
                         28.850147
                   ]
+            },
+            {
+                  "name": "Laguna Azul",
+                  "text": "Laguna Azul is a lake in Playa Blanca, notable for its striking color.",
+                  "category": "natural",
+                  "coords": [
+                        -13.876519,
+                        28.890488
+                  ]
+            },
+            {
+                  "name": "Games Room",
+                  "text": "An amusement arcade in Playa Blanca featuring various games for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -13.843553,
+                        28.861289
+                  ]
+            },
+            {
+                  "name": "Rubicon Shop&Fun",
+                  "text": "A miniature golf facility in Playa Blanca offering recreational fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -13.814362,
+                        28.859749
+                  ]
             }
       ]
 }},
@@ -30507,6 +35187,15 @@ export const poiExtraEsV2: POI[] = [
                         3.117193,
                         39.928767
                   ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Ein lokaler See in Pollenca, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
             }
       ],
       "hu": [
@@ -30596,6 +35285,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.117193,
                         39.928767
+                  ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Egy helyi tó Pollenca közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
                   ]
             }
       ],
@@ -30687,6 +35385,15 @@ export const poiExtraEsV2: POI[] = [
                         3.117193,
                         39.928767
                   ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "Un lac local în Pollenca, oferind un cadru liniștit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
+                  ]
             }
       ],
       "en": [
@@ -30776,6 +35483,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.117193,
                         39.928767
+                  ]
+            },
+            {
+                  "name": "pedrera de Son Fe",
+                  "text": "A local lake in Pollenca offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        3.065412,
+                        39.827077
                   ]
             }
       ]
@@ -30869,6 +35585,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.275983,
                         37.442664
                   ]
+            },
+            {
+                  "name": "Parque de Tráfico",
+                  "text": "Ein spezieller Übungsplatz in Priego De Cordoba, auf dem Kinder spielerisch lernen können.",
+                  "category": "family",
+                  "coords": [
+                        -4.205605,
+                        37.443495
+                  ]
             }
       ],
       "hu": [
@@ -30958,6 +35683,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.275983,
                         37.442664
+                  ]
+            },
+            {
+                  "name": "Parque de Tráfico",
+                  "text": "Egy speciális gyakorlóterület Priego De Cordoba városában, ahol a gyerekek játékosan tanulhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.205605,
+                        37.443495
                   ]
             }
       ],
@@ -31049,6 +35783,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.275983,
                         37.442664
                   ]
+            },
+            {
+                  "name": "Parque de Tráfico",
+                  "text": "Un loc de joacă special în Priego De Cordoba, unde copiii pot învăța prin joc.",
+                  "category": "family",
+                  "coords": [
+                        -4.205605,
+                        37.443495
+                  ]
             }
       ],
       "en": [
@@ -31138,6 +35881,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.275983,
                         37.442664
+                  ]
+            },
+            {
+                  "name": "Parque de Tráfico",
+                  "text": "A special traffic park in Priego De Cordoba where children can learn through play.",
+                  "category": "family",
+                  "coords": [
+                        -4.205605,
+                        37.443495
                   ]
             }
       ]
@@ -31231,6 +35983,87 @@ export const poiExtraEsV2: POI[] = [
                         -16.544608,
                         28.413676
                   ]
+            },
+            {
+                  "name": "Balsa de la Cruz Santa",
+                  "text": "Ein See in Puerto De La Cruz, der eine ruhige Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.57058,
+                        28.382045
+                  ]
+            },
+            {
+                  "name": "Balsa de Benijos",
+                  "text": "Ein See in Puerto De La Cruz, ideal für einen entspannten Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.55455,
+                        28.369775
+                  ]
+            },
+            {
+                  "name": "Balsa Aguamansa",
+                  "text": "Dieser See in Puerto De La Cruz lädt zum Verweilen und Beobachten der Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        -16.496714,
+                        28.367329
+                  ]
+            },
+            {
+                  "name": "Charca Ascanio",
+                  "text": "Ein ruhiges Gewässer in Puerto De La Cruz, das sich für eine kurze Auszeit im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.511415,
+                        28.398072
+                  ]
+            },
+            {
+                  "name": "Depósito Los Laureles",
+                  "text": "Ein See in Puerto De La Cruz, der einen malerischen Ort für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.470482,
+                        28.427656
+                  ]
+            },
+            {
+                  "name": "Natürliches Schwimmbecken",
+                  "text": "Ein natürlicher Badeplatz in Puerto De La Cruz für eine erfrischende Abkühlung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.536079,
+                        28.417214
+                  ]
+            },
+            {
+                  "name": "La Cupula",
+                  "text": "Ein schöner Ort in Puerto De La Cruz für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -16.536911,
+                        28.410465
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "Ein öffentlicher Spielbereich in Puerto De La Cruz für Kinder verschiedener Altersstufen.",
+                  "category": "family",
+                  "coords": [
+                        -16.54962,
+                        28.394933
+                  ]
+            },
+            {
+                  "name": "Parque infantil Calle Cruz Roja",
+                  "text": "Ein Spielplatz in Puerto De La Cruz, auf dem Kinder sicher spielen und toben können.",
+                  "category": "family",
+                  "coords": [
+                        -16.55318,
+                        28.412877
+                  ]
             }
       ],
       "hu": [
@@ -31320,6 +36153,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.544608,
                         28.413676
+                  ]
+            },
+            {
+                  "name": "Balsa de la Cruz Santa",
+                  "text": "Egy tó Puerto De La Cruz területén, amely nyugodt környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.57058,
+                        28.382045
+                  ]
+            },
+            {
+                  "name": "Balsa de Benijos",
+                  "text": "Egy tó Puerto De La Cruz területén, amely ideális egy pihentető sétához a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -16.55455,
+                        28.369775
+                  ]
+            },
+            {
+                  "name": "Balsa Aguamansa",
+                  "text": "Ez a Puerto De La Cruz-i tó kikapcsolódásra és a táj megfigyelésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        -16.496714,
+                        28.367329
+                  ]
+            },
+            {
+                  "name": "Charca Ascanio",
+                  "text": "Egy csendes vízfelület Puerto De La Cruz városában, amely alkalmas egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        -16.511415,
+                        28.398072
+                  ]
+            },
+            {
+                  "name": "Depósito Los Laureles",
+                  "text": "Egy tó Puerto De La Cruz területén, amely festői helyszínt kínál a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -16.470482,
+                        28.427656
+                  ]
+            },
+            {
+                  "name": "Piscina natural abandonada de Laja de la Sal",
+                  "text": "Egy természetes fürdőhely Puerto De La Cruz városában a frissítő hűsöléshez.",
+                  "category": "natural",
+                  "coords": [
+                        -16.536079,
+                        28.417214
+                  ]
+            },
+            {
+                  "name": "La Cupula",
+                  "text": "Egy szép hely Puerto De La Cruz városában, ahol a családok és gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -16.536911,
+                        28.410465
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "Egy nyilvános játszóhely Puerto De La Cruz városában különböző korosztályú gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -16.54962,
+                        28.394933
+                  ]
+            },
+            {
+                  "name": "Parque infantil Calle Cruz Roja",
+                  "text": "Egy játszótér Puerto De La Cruz városában, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -16.55318,
+                        28.412877
                   ]
             }
       ],
@@ -31411,6 +36325,87 @@ export const poiExtraEsV2: POI[] = [
                         -16.544608,
                         28.413676
                   ]
+            },
+            {
+                  "name": "Balsa de la Cruz Santa",
+                  "text": "Un lac în Puerto De La Cruz care oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.57058,
+                        28.382045
+                  ]
+            },
+            {
+                  "name": "Balsa de Benijos",
+                  "text": "Un lac în Puerto De La Cruz, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.55455,
+                        28.369775
+                  ]
+            },
+            {
+                  "name": "Balsa Aguamansa",
+                  "text": "Acest lac din Puerto De La Cruz invită la relaxare și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -16.496714,
+                        28.367329
+                  ]
+            },
+            {
+                  "name": "Charca Ascanio",
+                  "text": "O apă liniștită în Puerto De La Cruz, potrivită pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.511415,
+                        28.398072
+                  ]
+            },
+            {
+                  "name": "Depósito Los Laureles",
+                  "text": "Un lac în Puerto De La Cruz care oferă un loc pitoresc pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -16.470482,
+                        28.427656
+                  ]
+            },
+            {
+                  "name": "Piscina natural abandonada de Laja de la Sal",
+                  "text": "Un loc natural de scăldat în Puerto De La Cruz pentru o răcorire revigorantă.",
+                  "category": "natural",
+                  "coords": [
+                        -16.536079,
+                        28.417214
+                  ]
+            },
+            {
+                  "name": "La Cupula",
+                  "text": "Un loc frumos în Puerto De La Cruz pentru familii cu copii, ideal pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -16.536911,
+                        28.410465
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "O zonă publică de joacă în Puerto De La Cruz pentru copii de diferite vârste.",
+                  "category": "family",
+                  "coords": [
+                        -16.54962,
+                        28.394933
+                  ]
+            },
+            {
+                  "name": "Parque infantil Calle Cruz Roja",
+                  "text": "Un teren de joacă în Puerto De La Cruz unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        -16.55318,
+                        28.412877
+                  ]
             }
       ],
       "en": [
@@ -31500,6 +36495,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.544608,
                         28.413676
+                  ]
+            },
+            {
+                  "name": "Balsa de la Cruz Santa",
+                  "text": "A lake in Puerto De La Cruz that provides a tranquil environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -16.57058,
+                        28.382045
+                  ]
+            },
+            {
+                  "name": "Balsa de Benijos",
+                  "text": "A lake in Puerto De La Cruz, ideal for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.55455,
+                        28.369775
+                  ]
+            },
+            {
+                  "name": "Balsa Aguamansa",
+                  "text": "This lake in Puerto De La Cruz invites you to relax and observe the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.496714,
+                        28.367329
+                  ]
+            },
+            {
+                  "name": "Charca Ascanio",
+                  "text": "A quiet body of water in Puerto De La Cruz, suitable for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -16.511415,
+                        28.398072
+                  ]
+            },
+            {
+                  "name": "Depósito Los Laureles",
+                  "text": "A lake in Puerto De La Cruz that offers a scenic spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.470482,
+                        28.427656
+                  ]
+            },
+            {
+                  "name": "swimming hole",
+                  "text": "A natural swimming hole in Puerto De La Cruz for a refreshing dip.",
+                  "category": "natural",
+                  "coords": [
+                        -16.536079,
+                        28.417214
+                  ]
+            },
+            {
+                  "name": "La Cupula",
+                  "text": "A nice place in Puerto De La Cruz for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        -16.536911,
+                        28.410465
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "A public play area in Puerto De La Cruz for children of various ages.",
+                  "category": "family",
+                  "coords": [
+                        -16.54962,
+                        28.394933
+                  ]
+            },
+            {
+                  "name": "Parque infantil Calle Cruz Roja",
+                  "text": "A playground in Puerto De La Cruz where children can play and run around safely.",
+                  "category": "family",
+                  "coords": [
+                        -16.55318,
+                        28.412877
                   ]
             }
       ]
@@ -31636,6 +36712,24 @@ export const poiExtraEsV2: POI[] = [
                         -15.798782,
                         27.857973
                   ]
+            },
+            {
+                  "name": "Presa de La Candelaria",
+                  "text": "Ein lokaler See in Puerto De Mogan, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -15.709381,
+                        27.804486
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Fin",
+                  "text": "Eine Minigolfanlage in Puerto De Mogan, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -15.75189,
+                        27.817081
+                  ]
             }
       ],
       "hu": [
@@ -31768,6 +36862,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.798782,
                         27.857973
+                  ]
+            },
+            {
+                  "name": "Presa de La Candelaria",
+                  "text": "Egy helyi tó Puerto De Mogan közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -15.709381,
+                        27.804486
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Fin",
+                  "text": "Minigolfpálya Puerto De Mogan területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -15.75189,
+                        27.817081
                   ]
             }
       ],
@@ -31902,6 +37014,24 @@ export const poiExtraEsV2: POI[] = [
                         -15.798782,
                         27.857973
                   ]
+            },
+            {
+                  "name": "Presa de La Candelaria",
+                  "text": "Un lac local în Puerto De Mogan, oferind un cadru liniștit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -15.709381,
+                        27.804486
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Fin",
+                  "text": "Un teren de minigolf în Puerto De Mogan care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -15.75189,
+                        27.817081
+                  ]
             }
       ],
       "en": [
@@ -32034,6 +37164,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.798782,
                         27.857973
+                  ]
+            },
+            {
+                  "name": "Presa de La Candelaria",
+                  "text": "A local lake in Puerto De Mogan offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -15.709381,
+                        27.804486
+                  ]
+            },
+            {
+                  "name": "Mini-Golf Fin",
+                  "text": "A miniature golf course in Puerto De Mogan for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -15.75189,
+                        27.817081
                   ]
             }
       ]
@@ -32539,6 +37687,24 @@ export const poiExtraEsV2: POI[] = [
                         -7.030441,
                         43.542308
                   ]
+            },
+            {
+                  "name": "A Barreira",
+                  "text": "Ein See in Ribadeo, der eine ruhige Atmosphäre für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.029806,
+                        43.497802
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Cargadoiro",
+                  "text": "Ein Spielplatz in Ribadeo, ideal für Familien, die Zeit im Freien verbringen möchten.",
+                  "category": "family",
+                  "coords": [
+                        -7.03789,
+                        43.544477
+                  ]
             }
       ],
       "hu": [
@@ -32702,6 +37868,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.030441,
                         43.542308
+                  ]
+            },
+            {
+                  "name": "A Barreira",
+                  "text": "Egy tó Ribadeo területén, amely nyugodt légkört biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -7.029806,
+                        43.497802
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Cargadoiro",
+                  "text": "Egy játszótér Ribadeo városában, ideális a szabadban időt tölteni vágyó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -7.03789,
+                        43.544477
                   ]
             }
       ],
@@ -32867,6 +38051,24 @@ export const poiExtraEsV2: POI[] = [
                         -7.030441,
                         43.542308
                   ]
+            },
+            {
+                  "name": "A Barreira",
+                  "text": "Un lac în Ribadeo care oferă o atmosferă liniștită pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -7.029806,
+                        43.497802
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Cargadoiro",
+                  "text": "Un teren de joacă în Ribadeo, ideal pentru familiile care doresc să petreacă timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.03789,
+                        43.544477
+                  ]
             }
       ],
       "en": [
@@ -33030,6 +38232,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.030441,
                         43.542308
+                  ]
+            },
+            {
+                  "name": "A Barreira",
+                  "text": "A lake in Ribadeo that offers a peaceful atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -7.029806,
+                        43.497802
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Cargadoiro",
+                  "text": "A playground in Ribadeo, ideal for families looking to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -7.03789,
+                        43.544477
                   ]
             }
       ]
@@ -33623,6 +38843,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.165433,
                         36.737632
                   ]
+            },
+            {
+                  "name": "Embalse de Coto Alto",
+                  "text": "Ein Stausee bei Ronda, der von einer beeindruckenden Berglandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -5.197001,
+                        36.689443
+                  ]
+            },
+            {
+                  "name": "Embalse de Montejaque",
+                  "text": "Dieser See in der Nähe von Ronda bietet eine ruhige Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -5.244694,
+                        36.751889
+                  ]
             }
       ],
       "hu": [
@@ -33734,6 +38972,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.165433,
                         36.737632
+                  ]
+            },
+            {
+                  "name": "Embalse de Coto Alto",
+                  "text": "Egy víztározó Ronda közelében, amelyet lenyűgöző hegyi táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -5.197001,
+                        36.689443
+                  ]
+            },
+            {
+                  "name": "Embalse de Montejaque",
+                  "text": "Ez a Ronda környéki tó nyugodt légkört kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.244694,
+                        36.751889
                   ]
             }
       ],
@@ -33847,6 +39103,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.165433,
                         36.737632
                   ]
+            },
+            {
+                  "name": "Embalse de Coto Alto",
+                  "text": "Un lac de acumulare lângă Ronda, înconjurat de un peisaj montan impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        -5.197001,
+                        36.689443
+                  ]
+            },
+            {
+                  "name": "Embalse de Montejaque",
+                  "text": "Acest lac din apropierea Rondei oferă o atmosferă liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -5.244694,
+                        36.751889
+                  ]
             }
       ],
       "en": [
@@ -33958,6 +39232,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.165433,
                         36.737632
+                  ]
+            },
+            {
+                  "name": "Embalse de Coto Alto",
+                  "text": "A reservoir near Ronda surrounded by an impressive mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -5.197001,
+                        36.689443
+                  ]
+            },
+            {
+                  "name": "Embalse de Montejaque",
+                  "text": "This lake near Ronda offers a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -5.244694,
+                        36.751889
                   ]
             }
       ]
@@ -34435,6 +39727,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.665542,
                         40.961624
                   ]
+            },
+            {
+                  "name": "Charca de las Torres",
+                  "text": "Ein lokaler See in Salamanca, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.663239,
+                        40.905423
+                  ]
+            },
+            {
+                  "name": "Zona 84",
+                  "text": "Eine Spielhalle in Salamanca mit verschiedenen Unterhaltungsmöglichkeiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -5.6603,
+                        40.968406
+                  ]
+            },
+            {
+                  "name": "Club Infantil",
+                  "text": "Ein familienfreundlicher Spielplatz in Salamanca, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.648889,
+                        40.950642
+                  ]
+            },
+            {
+                  "name": "Elite Gaming Center",
+                  "text": "Eine Spielhalle in Salamanca mit verschiedenen Unterhaltungsmöglichkeiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -5.659282,
+                        40.97074
+                  ]
+            },
+            {
+                  "name": "Pumpy Gaming Center",
+                  "text": "Eine Spielhalle in Salamanca mit verschiedenen Unterhaltungsmöglichkeiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -5.668046,
+                        40.972443
+                  ]
+            },
+            {
+                  "name": "Parque Amarillo",
+                  "text": "Ein familienfreundlicher Spielplatz in Salamanca, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.66643,
+                        40.952049
+                  ]
             }
       ],
       "hu": [
@@ -34546,6 +39892,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.665542,
                         40.961624
+                  ]
+            },
+            {
+                  "name": "Charca de las Torres",
+                  "text": "Egy helyi tó Salamanca közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.663239,
+                        40.905423
+                  ]
+            },
+            {
+                  "name": "Zona 84",
+                  "text": "Szórakoztató játékterem Salamanca városában, különféle játékokkal minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -5.6603,
+                        40.968406
+                  ]
+            },
+            {
+                  "name": "Club Infantil",
+                  "text": "Családbarát játszótér Salamanca területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.648889,
+                        40.950642
+                  ]
+            },
+            {
+                  "name": "Elite Gaming Center",
+                  "text": "Szórakoztató játékterem Salamanca városában, különféle játékokkal minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -5.659282,
+                        40.97074
+                  ]
+            },
+            {
+                  "name": "Pumpy Gaming Center",
+                  "text": "Szórakoztató játékterem Salamanca városában, különféle játékokkal minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -5.668046,
+                        40.972443
+                  ]
+            },
+            {
+                  "name": "Parque Amarillo",
+                  "text": "Családbarát játszótér Salamanca területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.66643,
+                        40.952049
                   ]
             }
       ],
@@ -34659,6 +40059,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.665542,
                         40.961624
                   ]
+            },
+            {
+                  "name": "Charca de las Torres",
+                  "text": "Un lac local în Salamanca, oferind un cadru liniștit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -5.663239,
+                        40.905423
+                  ]
+            },
+            {
+                  "name": "Zona 84",
+                  "text": "O sală de jocuri în Salamanca cu diverse opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -5.6603,
+                        40.968406
+                  ]
+            },
+            {
+                  "name": "Club Infantil",
+                  "text": "Un teren de joacă pentru familii în Salamanca, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.648889,
+                        40.950642
+                  ]
+            },
+            {
+                  "name": "Elite Gaming Center",
+                  "text": "O sală de jocuri în Salamanca cu diverse opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -5.659282,
+                        40.97074
+                  ]
+            },
+            {
+                  "name": "Pumpy Gaming Center",
+                  "text": "O sală de jocuri în Salamanca cu diverse opțiuni de divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -5.668046,
+                        40.972443
+                  ]
+            },
+            {
+                  "name": "Parque Amarillo",
+                  "text": "Un teren de joacă pentru familii în Salamanca, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.66643,
+                        40.952049
+                  ]
             }
       ],
       "en": [
@@ -34770,6 +40224,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.665542,
                         40.961624
+                  ]
+            },
+            {
+                  "name": "Charca de las Torres",
+                  "text": "A local lake in Salamanca offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -5.663239,
+                        40.905423
+                  ]
+            },
+            {
+                  "name": "Zona 84",
+                  "text": "An amusement arcade in Salamanca with games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -5.6603,
+                        40.968406
+                  ]
+            },
+            {
+                  "name": "Club Infantil",
+                  "text": "A family-friendly playground in Salamanca for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.648889,
+                        40.950642
+                  ]
+            },
+            {
+                  "name": "Elite Gaming Center",
+                  "text": "An amusement arcade in Salamanca with games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -5.659282,
+                        40.97074
+                  ]
+            },
+            {
+                  "name": "Pumpy Gaming Center",
+                  "text": "An amusement arcade in Salamanca with games for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -5.668046,
+                        40.972443
+                  ]
+            },
+            {
+                  "name": "Parque Amarillo",
+                  "text": "A family-friendly playground in Salamanca for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.66643,
+                        40.952049
                   ]
             }
       ]
@@ -35262,6 +40770,60 @@ export const poiExtraEsV2: POI[] = [
                         1.171917,
                         41.055771
                   ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "Ein gemeinschaftlicher Badebereich in Salou für eine Abkühlung an heißen Tagen.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Ein See in Salou, der zur Entspannung und zum Genießen der Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "Central Games",
+                  "text": "Ein Unterhaltungszentrum in Salou mit Spielen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.151146,
+                        41.071046
+                  ]
+            },
+            {
+                  "name": "Área infantil",
+                  "text": "Ein für Kinder konzipierter Spielbereich in Salou für Spaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        1.159708,
+                        41.087718
+                  ]
+            },
+            {
+                  "name": "Laberinto Blacksmith",
+                  "text": "Ein abenteuerlicher Spielbereich in Salou, der zum Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        1.156468,
+                        41.08945
+                  ]
+            },
+            {
+                  "name": "El Huerto Encantado",
+                  "text": "Ein fantasievoll gestalteter Spielplatz in Salou für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        1.159979,
+                        41.086345
+                  ]
             }
       ],
       "hu": [
@@ -35340,6 +40902,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.171917,
                         41.055771
+                  ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "Egy közösségi fürdőhely Salou városában a forró napokon való hűsöléshez.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Egy tó Salou területén, amely kikapcsolódásra és a környezet élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "Central Games",
+                  "text": "Egy szórakoztató központ Salou városában játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        1.151146,
+                        41.071046
+                  ]
+            },
+            {
+                  "name": "Área infantil",
+                  "text": "Gyermekeknek kialakított játszóterület Salou városában a szórakozáshoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.159708,
+                        41.087718
+                  ]
+            },
+            {
+                  "name": "Laberinto Blacksmith",
+                  "text": "Egy kalandos játszóterület Salou városában, amely felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        1.156468,
+                        41.08945
+                  ]
+            },
+            {
+                  "name": "El Huerto Encantado",
+                  "text": "Egy fantáziadúsan kialakított játszótér Salou városában a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        1.159979,
+                        41.086345
                   ]
             }
       ],
@@ -35420,6 +41036,60 @@ export const poiExtraEsV2: POI[] = [
                         1.171917,
                         41.055771
                   ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "O zonă de înot comunitară în Salou pentru răcorire în zilele toride.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "Un lac în Salou care invită la relaxare și la savurarea împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "Central Games",
+                  "text": "Un centru de divertisment în Salou cu jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.151146,
+                        41.071046
+                  ]
+            },
+            {
+                  "name": "Área infantil",
+                  "text": "O zonă de joacă concepută pentru copii în Salou pentru distracție și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        1.159708,
+                        41.087718
+                  ]
+            },
+            {
+                  "name": "Laberinto Blacksmith",
+                  "text": "O zonă de joacă plină de aventură în Salou care invită la explorare.",
+                  "category": "family",
+                  "coords": [
+                        1.156468,
+                        41.08945
+                  ]
+            },
+            {
+                  "name": "El Huerto Encantado",
+                  "text": "Un teren de joacă proiectat cu imaginație în Salou pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        1.159979,
+                        41.086345
+                  ]
             }
       ],
       "en": [
@@ -35498,6 +41168,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.171917,
                         41.055771
+                  ]
+            },
+            {
+                  "name": "Piscina Comunitaria",
+                  "text": "A community swimming area in Salou for cooling off on hot days.",
+                  "category": "natural",
+                  "coords": [
+                        1.116379,
+                        41.144192
+                  ]
+            },
+            {
+                  "name": "Llac",
+                  "text": "A lake in Salou that invites you to relax and enjoy the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.202064,
+                        41.122227
+                  ]
+            },
+            {
+                  "name": "Central Games",
+                  "text": "An entertainment center in Salou with games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.151146,
+                        41.071046
+                  ]
+            },
+            {
+                  "name": "Área infantil",
+                  "text": "A play area designed for children in Salou for fun and activity.",
+                  "category": "family",
+                  "coords": [
+                        1.159708,
+                        41.087718
+                  ]
+            },
+            {
+                  "name": "Laberinto Blacksmith",
+                  "text": "An adventurous play area in Salou that invites exploration.",
+                  "category": "family",
+                  "coords": [
+                        1.156468,
+                        41.08945
+                  ]
+            },
+            {
+                  "name": "El Huerto Encantado",
+                  "text": "An imaginatively designed playground in Salou for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        1.159979,
+                        41.086345
                   ]
             }
       ]
@@ -35640,6 +41364,78 @@ export const poiExtraEsV2: POI[] = [
                         -1.999589,
                         43.320706
                   ]
+            },
+            {
+                  "name": "Andatza Lakua",
+                  "text": "Ein lokaler See in San Sebastian, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.017829,
+                        43.271363
+                  ]
+            },
+            {
+                  "name": "Redonchel",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.937249,
+                        43.324242
+                  ]
+            },
+            {
+                  "name": "Arantzazuko Ama ikastola",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.95491,
+                        43.296174
+                  ]
+            },
+            {
+                  "name": "Mikel Laboa plaza",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.000679,
+                        43.314039
+                  ]
+            },
+            {
+                  "name": "Izurun plaza",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.99412,
+                        43.310555
+                  ]
+            },
+            {
+                  "name": "Parque de juegos infantil",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.012608,
+                        43.303042
+                  ]
+            },
+            {
+                  "name": "Jolastoki Estalia",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.942852,
+                        43.318487
+                  ]
+            },
+            {
+                  "name": "La Real",
+                  "text": "Ein familienfreundlicher Spielplatz in San Sebastian, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.000653,
+                        43.312104
+                  ]
             }
       ],
       "hu": [
@@ -35778,6 +41574,78 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.999589,
                         43.320706
+                  ]
+            },
+            {
+                  "name": "Andatza Lakua",
+                  "text": "Egy helyi tó San Sebastian közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.017829,
+                        43.271363
+                  ]
+            },
+            {
+                  "name": "Redonchel",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.937249,
+                        43.324242
+                  ]
+            },
+            {
+                  "name": "Arantzazuko Ama ikastola",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.95491,
+                        43.296174
+                  ]
+            },
+            {
+                  "name": "Mikel Laboa plaza",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.000679,
+                        43.314039
+                  ]
+            },
+            {
+                  "name": "Izurun plaza",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.99412,
+                        43.310555
+                  ]
+            },
+            {
+                  "name": "Parque de juegos infantil",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.012608,
+                        43.303042
+                  ]
+            },
+            {
+                  "name": "Jolastoki Estalia",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.942852,
+                        43.318487
+                  ]
+            },
+            {
+                  "name": "La Real",
+                  "text": "Családbarát játszótér San Sebastian területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.000653,
+                        43.312104
                   ]
             }
       ],
@@ -35918,6 +41786,78 @@ export const poiExtraEsV2: POI[] = [
                         -1.999589,
                         43.320706
                   ]
+            },
+            {
+                  "name": "Andatza Lakua",
+                  "text": "Un lac local în San Sebastian, oferind un cadru liniștit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -2.017829,
+                        43.271363
+                  ]
+            },
+            {
+                  "name": "Redonchel",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.937249,
+                        43.324242
+                  ]
+            },
+            {
+                  "name": "Arantzazuko Ama ikastola",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.95491,
+                        43.296174
+                  ]
+            },
+            {
+                  "name": "Mikel Laboa plaza",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.000679,
+                        43.314039
+                  ]
+            },
+            {
+                  "name": "Izurun plaza",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.99412,
+                        43.310555
+                  ]
+            },
+            {
+                  "name": "Parque de juegos infantil",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.012608,
+                        43.303042
+                  ]
+            },
+            {
+                  "name": "Jolastoki Estalia",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -1.942852,
+                        43.318487
+                  ]
+            },
+            {
+                  "name": "La Real",
+                  "text": "Un teren de joacă pentru familii în San Sebastian, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.000653,
+                        43.312104
+                  ]
             }
       ],
       "en": [
@@ -36056,6 +41996,78 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.999589,
                         43.320706
+                  ]
+            },
+            {
+                  "name": "Andatza Lakua",
+                  "text": "A local lake in San Sebastian offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.017829,
+                        43.271363
+                  ]
+            },
+            {
+                  "name": "Redonchel",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -1.937249,
+                        43.324242
+                  ]
+            },
+            {
+                  "name": "Arantzazuko Ama ikastola",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -1.95491,
+                        43.296174
+                  ]
+            },
+            {
+                  "name": "Mikel Laboa plaza",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -2.000679,
+                        43.314039
+                  ]
+            },
+            {
+                  "name": "Izurun plaza",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -1.99412,
+                        43.310555
+                  ]
+            },
+            {
+                  "name": "Parque de juegos infantil",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -2.012608,
+                        43.303042
+                  ]
+            },
+            {
+                  "name": "Jolastoki Estalia",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -1.942852,
+                        43.318487
+                  ]
+            },
+            {
+                  "name": "La Real",
+                  "text": "A family-friendly playground in San Sebastian for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -2.000653,
+                        43.312104
                   ]
             }
       ]
@@ -36697,6 +42709,15 @@ export const poiExtraEsV2: POI[] = [
                         -6.371215,
                         36.802686
                   ]
+            },
+            {
+                  "name": "Parque de Bolas La Jungla",
+                  "text": "Ein Indoor-Spielplatz in Sanlúcar de Barrameda mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        -6.352459,
+                        36.784775
+                  ]
             }
       ],
       "hu": [
@@ -36784,6 +42805,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.371215,
                         36.802686
+                  ]
+            },
+            {
+                  "name": "Parque de Bolas La Jungla",
+                  "text": "Egy beltéri játszóház Sanlúcar de Barrameda városában számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        -6.352459,
+                        36.784775
                   ]
             }
       ],
@@ -36873,6 +42903,15 @@ export const poiExtraEsV2: POI[] = [
                         -6.371215,
                         36.802686
                   ]
+            },
+            {
+                  "name": "Parque de Bolas La Jungla",
+                  "text": "Un loc de joacă interior în Sanlúcar de Barrameda cu multe opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -6.352459,
+                        36.784775
+                  ]
             }
       ],
       "en": [
@@ -36960,6 +42999,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.371215,
                         36.802686
+                  ]
+            },
+            {
+                  "name": "Parque de Bolas La Jungla",
+                  "text": "An indoor playground in Sanlúcar de Barrameda with many play options.",
+                  "category": "family",
+                  "coords": [
+                        -6.352459,
+                        36.784775
                   ]
             }
       ]
@@ -37085,6 +43133,51 @@ export const poiExtraEsV2: POI[] = [
                         1.286008,
                         38.971944
                   ]
+            },
+            {
+                  "name": "Minigolf Maricel",
+                  "text": "Eine Minigolfanlage in Sant Antoni De Portmany, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.30878,
+                        38.974211
+                  ]
+            },
+            {
+                  "name": "Parque infantil Plaça d'Espanya",
+                  "text": "Ein familienfreundlicher Spielplatz in Sant Antoni De Portmany, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.300368,
+                        38.979942
+                  ]
+            },
+            {
+                  "name": "Parc des mercat pagès",
+                  "text": "Ein familienfreundlicher Spielplatz in Sant Antoni De Portmany, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.299322,
+                        38.980947
+                  ]
+            },
+            {
+                  "name": "Royal Park Vintage",
+                  "text": "Eine Minigolfanlage in Sant Antoni De Portmany, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.301133,
+                        38.967111
+                  ]
+            },
+            {
+                  "name": "BIG PUTTS Ibiza",
+                  "text": "Eine Minigolfanlage in Sant Antoni De Portmany, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.307681,
+                        38.980276
+                  ]
             }
       ],
       "hu": [
@@ -37206,6 +43299,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.286008,
                         38.971944
+                  ]
+            },
+            {
+                  "name": "Minigolf Maricel",
+                  "text": "Minigolfpálya Sant Antoni De Portmany területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        1.30878,
+                        38.974211
+                  ]
+            },
+            {
+                  "name": "Parque infantil Plaça d'Espanya",
+                  "text": "Családbarát játszótér Sant Antoni De Portmany területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        1.300368,
+                        38.979942
+                  ]
+            },
+            {
+                  "name": "Parc des mercat pagès",
+                  "text": "Családbarát játszótér Sant Antoni De Portmany területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        1.299322,
+                        38.980947
+                  ]
+            },
+            {
+                  "name": "Royal Park Vintage",
+                  "text": "Minigolfpálya Sant Antoni De Portmany területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        1.301133,
+                        38.967111
+                  ]
+            },
+            {
+                  "name": "BIG PUTTS Ibiza",
+                  "text": "Minigolfpálya Sant Antoni De Portmany területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        1.307681,
+                        38.980276
                   ]
             }
       ],
@@ -37329,6 +43467,51 @@ export const poiExtraEsV2: POI[] = [
                         1.286008,
                         38.971944
                   ]
+            },
+            {
+                  "name": "Minigolf Maricel",
+                  "text": "Un teren de minigolf în Sant Antoni De Portmany care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.30878,
+                        38.974211
+                  ]
+            },
+            {
+                  "name": "Parque infantil Plaça d'Espanya",
+                  "text": "Un teren de joacă pentru familii în Sant Antoni De Portmany, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        1.300368,
+                        38.979942
+                  ]
+            },
+            {
+                  "name": "Parc des mercat pagès",
+                  "text": "Un teren de joacă pentru familii în Sant Antoni De Portmany, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        1.299322,
+                        38.980947
+                  ]
+            },
+            {
+                  "name": "Royal Park Vintage",
+                  "text": "Un teren de minigolf în Sant Antoni De Portmany care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.301133,
+                        38.967111
+                  ]
+            },
+            {
+                  "name": "BIG PUTTS Ibiza",
+                  "text": "Un teren de minigolf în Sant Antoni De Portmany care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.307681,
+                        38.980276
+                  ]
             }
       ],
       "en": [
@@ -37450,6 +43633,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.286008,
                         38.971944
+                  ]
+            },
+            {
+                  "name": "Minigolf Maricel",
+                  "text": "A miniature golf course in Sant Antoni De Portmany for family fun.",
+                  "category": "family",
+                  "coords": [
+                        1.30878,
+                        38.974211
+                  ]
+            },
+            {
+                  "name": "Parque infantil Plaça d'Espanya",
+                  "text": "A family-friendly playground in Sant Antoni De Portmany for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        1.300368,
+                        38.979942
+                  ]
+            },
+            {
+                  "name": "Parc des mercat pagès",
+                  "text": "A family-friendly playground in Sant Antoni De Portmany for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        1.299322,
+                        38.980947
+                  ]
+            },
+            {
+                  "name": "Royal Park Vintage",
+                  "text": "A miniature golf course in Sant Antoni De Portmany for family fun.",
+                  "category": "family",
+                  "coords": [
+                        1.301133,
+                        38.967111
+                  ]
+            },
+            {
+                  "name": "BIG PUTTS Ibiza",
+                  "text": "A miniature golf course in Sant Antoni De Portmany for family fun.",
+                  "category": "family",
+                  "coords": [
+                        1.307681,
+                        38.980276
                   ]
             }
       ]
@@ -39579,6 +45807,42 @@ export const poiExtraEsV2: POI[] = [
                         2.697167,
                         39.806639
                   ]
+            },
+            {
+                  "name": "Embassament de Cúber",
+                  "text": "Ein lokaler See in Soller, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        2.78769,
+                        39.784437
+                  ]
+            },
+            {
+                  "name": "Embassament de la Coma de Son Torrella",
+                  "text": "Ein lokaler See in Soller, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        2.7792,
+                        39.787873
+                  ]
+            },
+            {
+                  "name": "Parc del Pont d'en Barona",
+                  "text": "Ein familienfreundlicher Spielplatz in Soller, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.708145,
+                        39.773703
+                  ]
+            },
+            {
+                  "name": "La Filadora",
+                  "text": "Ein familienfreundlicher Spielplatz in Soller, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        2.708536,
+                        39.769831
+                  ]
             }
       ],
       "hu": [
@@ -39646,6 +45910,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.697167,
                         39.806639
+                  ]
+            },
+            {
+                  "name": "Embassament de Cúber",
+                  "text": "Egy helyi tó Soller közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        2.78769,
+                        39.784437
+                  ]
+            },
+            {
+                  "name": "Embassament de la Coma de Son Torrella",
+                  "text": "Egy helyi tó Soller közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        2.7792,
+                        39.787873
+                  ]
+            },
+            {
+                  "name": "Parc del Pont d'en Barona",
+                  "text": "Családbarát játszótér Soller területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        2.708145,
+                        39.773703
+                  ]
+            },
+            {
+                  "name": "La Filadora",
+                  "text": "Családbarát játszótér Soller területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        2.708536,
+                        39.769831
                   ]
             }
       ],
@@ -39715,6 +46015,42 @@ export const poiExtraEsV2: POI[] = [
                         2.697167,
                         39.806639
                   ]
+            },
+            {
+                  "name": "Embassament de Cúber",
+                  "text": "Un lac local în Soller, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        2.78769,
+                        39.784437
+                  ]
+            },
+            {
+                  "name": "Embassament de la Coma de Son Torrella",
+                  "text": "Un lac local în Soller, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        2.7792,
+                        39.787873
+                  ]
+            },
+            {
+                  "name": "Parc del Pont d'en Barona",
+                  "text": "Un teren de joacă pentru familii în Soller, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.708145,
+                        39.773703
+                  ]
+            },
+            {
+                  "name": "La Filadora",
+                  "text": "Un teren de joacă pentru familii în Soller, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.708536,
+                        39.769831
+                  ]
             }
       ],
       "en": [
@@ -39782,6 +46118,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.697167,
                         39.806639
+                  ]
+            },
+            {
+                  "name": "Embassament de Cúber",
+                  "text": "A local lake in Soller offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        2.78769,
+                        39.784437
+                  ]
+            },
+            {
+                  "name": "Embassament de la Coma de Son Torrella",
+                  "text": "A local lake in Soller offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        2.7792,
+                        39.787873
+                  ]
+            },
+            {
+                  "name": "Parc del Pont d'en Barona",
+                  "text": "A family-friendly playground in Soller for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        2.708145,
+                        39.773703
+                  ]
+            },
+            {
+                  "name": "La Filadora",
+                  "text": "A family-friendly playground in Soller for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        2.708536,
+                        39.769831
                   ]
             }
       ]
@@ -39886,6 +46258,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.604156,
                         36.012731
                   ]
+            },
+            {
+                  "name": "Carim",
+                  "text": "Ein Freizeitzentrum in Tarifa mit verschiedenen Spielen für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        -5.605946,
+                        36.015817
+                  ]
+            },
+            {
+                  "name": "Vizconde de Castellnou",
+                  "text": "Ein kinderfreundlicher Spielplatz in Tarifa, ideal für eine Pause am Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        -5.601938,
+                        36.020038
+                  ]
+            },
+            {
+                  "name": "Juan de Austria",
+                  "text": "Ein schöner Ort in Tarifa, an dem Kinder im Freien spielen und toben können.",
+                  "category": "family",
+                  "coords": [
+                        -5.607338,
+                        36.011027
+                  ]
+            },
+            {
+                  "name": "Alameda",
+                  "text": "Ein zentraler Spielplatz in Tarifa, der sich gut für Familien eignet.",
+                  "category": "family",
+                  "coords": [
+                        -5.604128,
+                        36.011618
+                  ]
+            },
+            {
+                  "name": "28 de Febrero",
+                  "text": "Ein bunter Spielplatz in Tarifa, der Kindern einen sicheren Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.604127,
+                        36.015664
+                  ]
+            },
+            {
+                  "name": "Los Cangrejos",
+                  "text": "Ein beliebter Spielplatz in Tarifa, auf dem Kinder neue Freunde finden können.",
+                  "category": "family",
+                  "coords": [
+                        -5.611442,
+                        36.02018
+                  ]
             }
       ],
       "hu": [
@@ -39986,6 +46412,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.604156,
                         36.012731
+                  ]
+            },
+            {
+                  "name": "Carim",
+                  "text": "Egy szabadidőközpont Tarifa városában, különféle játékokkal gyerekeknek és felnőtteknek.",
+                  "category": "family",
+                  "coords": [
+                        -5.605946,
+                        36.015817
+                  ]
+            },
+            {
+                  "name": "Vizconde de Castellnou",
+                  "text": "Gyermekbarát játszótér Tarifa városában, ideális egy délutáni pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        -5.601938,
+                        36.020038
+                  ]
+            },
+            {
+                  "name": "Juan de Austria",
+                  "text": "Egy szép hely Tarifa városában, ahol a gyerekek a szabadban játszhatnak és mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.607338,
+                        36.011027
+                  ]
+            },
+            {
+                  "name": "Alameda",
+                  "text": "Központi játszótér Tarifa városában, amely kiválóan alkalmas családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -5.604128,
+                        36.011618
+                  ]
+            },
+            {
+                  "name": "28 de Febrero",
+                  "text": "Egy színes játszótér Tarifa városában, amely biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.604127,
+                        36.015664
+                  ]
+            },
+            {
+                  "name": "Los Cangrejos",
+                  "text": "Népszerű játszótér Tarifa városában, ahol a gyerekek új barátokat szerezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        -5.611442,
+                        36.02018
                   ]
             }
       ],
@@ -40088,6 +46568,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.604156,
                         36.012731
                   ]
+            },
+            {
+                  "name": "Carim",
+                  "text": "Un centru de petrecere a timpului liber în Tarifa, cu diverse jocuri pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        -5.605946,
+                        36.015817
+                  ]
+            },
+            {
+                  "name": "Vizconde de Castellnou",
+                  "text": "Un loc de joacă prietenos pentru copii în Tarifa, ideal pentru o pauză de după-amiază.",
+                  "category": "family",
+                  "coords": [
+                        -5.601938,
+                        36.020038
+                  ]
+            },
+            {
+                  "name": "Juan de Austria",
+                  "text": "Un loc frumos în Tarifa, unde copiii se pot juca și se pot mișca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -5.607338,
+                        36.011027
+                  ]
+            },
+            {
+                  "name": "Alameda",
+                  "text": "Un loc de joacă central în Tarifa, care este potrivit pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.604128,
+                        36.011618
+                  ]
+            },
+            {
+                  "name": "28 de Febrero",
+                  "text": "Un loc de joacă colorat în Tarifa, care le oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -5.604127,
+                        36.015664
+                  ]
+            },
+            {
+                  "name": "Los Cangrejos",
+                  "text": "Un loc de joacă popular în Tarifa, unde copiii își pot face prieteni noi.",
+                  "category": "family",
+                  "coords": [
+                        -5.611442,
+                        36.02018
+                  ]
             }
       ],
       "en": [
@@ -40188,6 +46722,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.604156,
                         36.012731
+                  ]
+            },
+            {
+                  "name": "Carim",
+                  "text": "An amusement center in Tarifa with various games for children and adults.",
+                  "category": "family",
+                  "coords": [
+                        -5.605946,
+                        36.015817
+                  ]
+            },
+            {
+                  "name": "Vizconde de Castellnou",
+                  "text": "A child-friendly playground in Tarifa, ideal for an afternoon break.",
+                  "category": "family",
+                  "coords": [
+                        -5.601938,
+                        36.020038
+                  ]
+            },
+            {
+                  "name": "Juan de Austria",
+                  "text": "A nice spot in Tarifa where children can play and run around outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -5.607338,
+                        36.011027
+                  ]
+            },
+            {
+                  "name": "Alameda",
+                  "text": "A central playground in Tarifa that is well-suited for families.",
+                  "category": "family",
+                  "coords": [
+                        -5.604128,
+                        36.011618
+                  ]
+            },
+            {
+                  "name": "28 de Febrero",
+                  "text": "A colorful playground in Tarifa offering children a safe space to play.",
+                  "category": "family",
+                  "coords": [
+                        -5.604127,
+                        36.015664
+                  ]
+            },
+            {
+                  "name": "Los Cangrejos",
+                  "text": "A popular playground in Tarifa where children can make new friends.",
+                  "category": "family",
+                  "coords": [
+                        -5.611442,
+                        36.02018
                   ]
             }
       ]
@@ -40303,6 +46891,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.029444,
                         39.855722
                   ]
+            },
+            {
+                  "name": "Parque del Pez",
+                  "text": "Ein Spielplatz in Toledo, der Kindern Spaß und Unterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.0361,
+                        39.869583
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vecinos",
+                  "text": "Ein lokaler Spielplatz in Toledo für Familien aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        -4.022694,
+                        39.869714
+                  ]
+            },
+            {
+                  "name": "Juan de Mariana",
+                  "text": "Ein Spielplatz in Toledo, ideal für Kinder zum Austoben und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -4.025623,
+                        39.857996
+                  ]
             }
       ],
       "hu": [
@@ -40414,6 +47029,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.029444,
                         39.855722
+                  ]
+            },
+            {
+                  "name": "Parque del Pez",
+                  "text": "Egy játszótér Toledo városában, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -4.0361,
+                        39.869583
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vecinos",
+                  "text": "Egy helyi játszótér Toledo városában a környékbeli családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.022694,
+                        39.869714
+                  ]
+            },
+            {
+                  "name": "Juan de Mariana",
+                  "text": "Egy játszótér Toledo városában, amely ideális a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.025623,
+                        39.857996
                   ]
             }
       ],
@@ -40527,6 +47169,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.029444,
                         39.855722
                   ]
+            },
+            {
+                  "name": "Parque del Pez",
+                  "text": "Un teren de joacă în Toledo care oferă distracție și divertisment copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -4.0361,
+                        39.869583
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vecinos",
+                  "text": "Un teren de joacă local în Toledo pentru familiile din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        -4.022694,
+                        39.869714
+                  ]
+            },
+            {
+                  "name": "Juan de Mariana",
+                  "text": "Un teren de joacă în Toledo, ideal pentru copii să se joace și să se distreze.",
+                  "category": "family",
+                  "coords": [
+                        -4.025623,
+                        39.857996
+                  ]
             }
       ],
       "en": [
@@ -40639,6 +47308,33 @@ export const poiExtraEsV2: POI[] = [
                         -4.029444,
                         39.855722
                   ]
+            },
+            {
+                  "name": "Parque del Pez",
+                  "text": "A playground in Toledo providing fun and entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        -4.0361,
+                        39.869583
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vecinos",
+                  "text": "A local playground in Toledo for families in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        -4.022694,
+                        39.869714
+                  ]
+            },
+            {
+                  "name": "Juan de Mariana",
+                  "text": "A playground in Toledo, ideal for children to play and run around.",
+                  "category": "family",
+                  "coords": [
+                        -4.025623,
+                        39.857996
+                  ]
             }
       ]
 }},
@@ -40740,6 +47436,96 @@ export const poiExtraEsV2: POI[] = [
                         -4.467862,
                         36.654597
                   ]
+            },
+            {
+                  "name": "Laguna de la Casilla",
+                  "text": "Ein lokaler See in Torremolinos, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.457551,
+                        36.67564
+                  ]
+            },
+            {
+                  "name": "Río Viejo",
+                  "text": "Ein lokaler See in Torremolinos, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.453623,
+                        36.674331
+                  ]
+            },
+            {
+                  "name": "Laguna Eucaliptal",
+                  "text": "Ein lokaler See in Torremolinos, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.454414,
+                        36.670409
+                  ]
+            },
+            {
+                  "name": "Laguna Grande",
+                  "text": "Ein lokaler See in Torremolinos, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.456436,
+                        36.671609
+                  ]
+            },
+            {
+                  "name": "Laguna Escondida",
+                  "text": "Ein lokaler See in Torremolinos, der eine ruhige Umgebung und Naturerlebnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.459155,
+                        36.674046
+                  ]
+            },
+            {
+                  "name": "Playa Mini Golf + burger",
+                  "text": "Eine Minigolfanlage in Torremolinos, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.5237,
+                        36.592856
+                  ]
+            },
+            {
+                  "name": "Piratas Park",
+                  "text": "Ein familienfreundlicher Spielplatz in Torremolinos, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.515808,
+                        36.610626
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Epi y Blas'",
+                  "text": "Ein familienfreundlicher Spielplatz in Torremolinos, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.508243,
+                        36.617581
+                  ]
+            },
+            {
+                  "name": "Minigolf Park",
+                  "text": "Eine Minigolfanlage in Torremolinos, die Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.494302,
+                        36.624165
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Espinete'",
+                  "text": "Ein familienfreundlicher Spielplatz in Torremolinos, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -4.506205,
+                        36.622729
+                  ]
             }
       ],
       "hu": [
@@ -40838,6 +47624,96 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.467862,
                         36.654597
+                  ]
+            },
+            {
+                  "name": "Laguna de la Casilla",
+                  "text": "Egy helyi tó Torremolinos közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.457551,
+                        36.67564
+                  ]
+            },
+            {
+                  "name": "Río Viejo",
+                  "text": "Egy helyi tó Torremolinos közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.453623,
+                        36.674331
+                  ]
+            },
+            {
+                  "name": "Laguna Eucaliptal",
+                  "text": "Egy helyi tó Torremolinos közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.454414,
+                        36.670409
+                  ]
+            },
+            {
+                  "name": "Laguna Grande",
+                  "text": "Egy helyi tó Torremolinos közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.456436,
+                        36.671609
+                  ]
+            },
+            {
+                  "name": "Laguna Escondida",
+                  "text": "Egy helyi tó Torremolinos közelében, amely nyugodt környezetet és szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.459155,
+                        36.674046
+                  ]
+            },
+            {
+                  "name": "Playa Mini Golf + burger",
+                  "text": "Minigolfpálya Torremolinos területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.5237,
+                        36.592856
+                  ]
+            },
+            {
+                  "name": "Piratas Park",
+                  "text": "Családbarát játszótér Torremolinos területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.515808,
+                        36.610626
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Epi y Blas'",
+                  "text": "Családbarát játszótér Torremolinos területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.508243,
+                        36.617581
+                  ]
+            },
+            {
+                  "name": "Minigolf Park",
+                  "text": "Minigolfpálya Torremolinos területén, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.494302,
+                        36.624165
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Espinete'",
+                  "text": "Családbarát játszótér Torremolinos területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.506205,
+                        36.622729
                   ]
             }
       ],
@@ -40938,6 +47814,96 @@ export const poiExtraEsV2: POI[] = [
                         -4.467862,
                         36.654597
                   ]
+            },
+            {
+                  "name": "Laguna de la Casilla",
+                  "text": "Un lac local în Torremolinos, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.457551,
+                        36.67564
+                  ]
+            },
+            {
+                  "name": "Río Viejo",
+                  "text": "Un lac local în Torremolinos, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.453623,
+                        36.674331
+                  ]
+            },
+            {
+                  "name": "Laguna Eucaliptal",
+                  "text": "Un lac local în Torremolinos, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.454414,
+                        36.670409
+                  ]
+            },
+            {
+                  "name": "Laguna Grande",
+                  "text": "Un lac local în Torremolinos, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.456436,
+                        36.671609
+                  ]
+            },
+            {
+                  "name": "Laguna Escondida",
+                  "text": "Un lac local în Torremolinos, oferind un cadru linișlit și peisaje naturale frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.459155,
+                        36.674046
+                  ]
+            },
+            {
+                  "name": "Playa Mini Golf + burger",
+                  "text": "Un teren de minigolf în Torremolinos care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.5237,
+                        36.592856
+                  ]
+            },
+            {
+                  "name": "Piratas Park",
+                  "text": "Un teren de joacă pentru familii în Torremolinos, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.515808,
+                        36.610626
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Epi y Blas'",
+                  "text": "Un teren de joacă pentru familii în Torremolinos, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.508243,
+                        36.617581
+                  ]
+            },
+            {
+                  "name": "Minigolf Park",
+                  "text": "Un teren de minigolf în Torremolinos care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.494302,
+                        36.624165
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Espinete'",
+                  "text": "Un teren de joacă pentru familii în Torremolinos, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -4.506205,
+                        36.622729
+                  ]
             }
       ],
       "en": [
@@ -41037,6 +48003,96 @@ export const poiExtraEsV2: POI[] = [
                         -4.467862,
                         36.654597
                   ]
+            },
+            {
+                  "name": "Laguna de la Casilla",
+                  "text": "A local lake in Torremolinos offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.457551,
+                        36.67564
+                  ]
+            },
+            {
+                  "name": "Río Viejo",
+                  "text": "A local lake in Torremolinos offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.453623,
+                        36.674331
+                  ]
+            },
+            {
+                  "name": "Laguna Eucaliptal",
+                  "text": "A local lake in Torremolinos offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.454414,
+                        36.670409
+                  ]
+            },
+            {
+                  "name": "Laguna Grande",
+                  "text": "A local lake in Torremolinos offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.456436,
+                        36.671609
+                  ]
+            },
+            {
+                  "name": "Laguna Escondida",
+                  "text": "A local lake in Torremolinos offering a peaceful setting and natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.459155,
+                        36.674046
+                  ]
+            },
+            {
+                  "name": "Playa Mini Golf + burger",
+                  "text": "A miniature golf course in Torremolinos for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -4.5237,
+                        36.592856
+                  ]
+            },
+            {
+                  "name": "Piratas Park",
+                  "text": "A family-friendly playground in Torremolinos for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.515808,
+                        36.610626
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Epi y Blas'",
+                  "text": "A family-friendly playground in Torremolinos for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.508243,
+                        36.617581
+                  ]
+            },
+            {
+                  "name": "Minigolf Park",
+                  "text": "A miniature golf course in Torremolinos for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -4.494302,
+                        36.624165
+                  ]
+            },
+            {
+                  "name": "Parque Infantil 'Espinete'",
+                  "text": "A family-friendly playground in Torremolinos for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -4.506205,
+                        36.622729
+                  ]
             }
       ]
 }},
@@ -41118,6 +48174,15 @@ export const poiExtraEsV2: POI[] = [
                         2.92726,
                         41.7189
                   ]
+            },
+            {
+                  "name": "Diposite Giverola alt",
+                  "text": "Ein erhöht gelegenes Wasserbecken in Tossa De Mar mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        2.946564,
+                        41.740616
+                  ]
             }
       ],
       "hu": [
@@ -41196,6 +48261,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.92726,
                         41.7189
+                  ]
+            },
+            {
+                  "name": "Diposite Giverola alt",
+                  "text": "Egy magasan fekvő víztározó Tossa De Marban, kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        2.946564,
+                        41.740616
                   ]
             }
       ],
@@ -41276,6 +48350,15 @@ export const poiExtraEsV2: POI[] = [
                         2.92726,
                         41.7189
                   ]
+            },
+            {
+                  "name": "Diposite Giverola alt",
+                  "text": "Un bazin de apă situat la înălțime în Tossa De Mar, cu vedere spre împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        2.946564,
+                        41.740616
+                  ]
             }
       ],
       "en": [
@@ -41354,6 +48437,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.92726,
                         41.7189
+                  ]
+            },
+            {
+                  "name": "Diposite Giverola alt",
+                  "text": "An elevated water basin in Tossa De Mar with views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        2.946564,
+                        41.740616
                   ]
             }
       ]
@@ -41655,6 +48747,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.964645,
                         36.254179
                   ]
+            },
+            {
+                  "name": "Ciudad de la Infancia",
+                  "text": "Ein familienfreundlicher Spielplatz in Vejer De La Frontera, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.965016,
+                        36.246611
+                  ]
+            },
+            {
+                  "name": "Plaza Manzanares",
+                  "text": "Ein familienfreundlicher Spielplatz in Vejer De La Frontera, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.961821,
+                        36.253313
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Hijuela de Lucas",
+                  "text": "Ein familienfreundlicher Spielplatz in Vejer De La Frontera, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.969891,
+                        36.245041
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Blas Infante",
+                  "text": "Ein familienfreundlicher Spielplatz in Vejer De La Frontera, der Kindern Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.971123,
+                        36.250077
+                  ]
+            },
+            {
+                  "name": "Rafael Alberti",
+                  "text": "Ein familienfreundlicher Spielplatz in Vejer De La Frontera, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -5.961198,
+                        36.247695
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de Almería",
+                  "text": "Dieser Spielplatz in Vejer De La Frontera bietet eine sichere Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -5.970242,
+                        36.251062
+                  ]
             }
       ],
       "hu": [
@@ -41722,6 +48868,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.964645,
                         36.254179
+                  ]
+            },
+            {
+                  "name": "Ciudad de la Infancia",
+                  "text": "Családbarát játszótér Vejer De La Frontera területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.965016,
+                        36.246611
+                  ]
+            },
+            {
+                  "name": "Plaza Manzanares",
+                  "text": "Családbarát játszótér Vejer De La Frontera területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.961821,
+                        36.253313
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Hijuela de Lucas",
+                  "text": "Családbarát játszótér Vejer De La Frontera területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.969891,
+                        36.245041
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Blas Infante",
+                  "text": "Családbarát játszótér Vejer De La Frontera területén, ahol a gyerekek kedvükre játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -5.971123,
+                        36.250077
+                  ]
+            },
+            {
+                  "name": "Rafael Alberti",
+                  "text": "Családbarát játszótér Vejer De La Frontera területén, amely kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -5.961198,
+                        36.247695
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de Almería",
+                  "text": "Ez a játszótér Vejer De La Frontera városában biztonságos környezetet nyújt a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.970242,
+                        36.251062
                   ]
             }
       ],
@@ -41791,6 +48991,60 @@ export const poiExtraEsV2: POI[] = [
                         -5.964645,
                         36.254179
                   ]
+            },
+            {
+                  "name": "Ciudad de la Infancia",
+                  "text": "Un teren de joacă pentru familii în Vejer De La Frontera, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.965016,
+                        36.246611
+                  ]
+            },
+            {
+                  "name": "Plaza Manzanares",
+                  "text": "Un teren de joacă pentru familii în Vejer De La Frontera, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.961821,
+                        36.253313
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Hijuela de Lucas",
+                  "text": "Un teren de joacă pentru familii în Vejer De La Frontera, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.969891,
+                        36.245041
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Blas Infante",
+                  "text": "Un teren de joacă pentru familii în Vejer De La Frontera, oferind spațiu de recreere pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.971123,
+                        36.250077
+                  ]
+            },
+            {
+                  "name": "Rafael Alberti",
+                  "text": "Un loc de joacă în Vejer De La Frontera, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -5.961198,
+                        36.247695
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de Almería",
+                  "text": "Acest loc de joacă din Vejer De La Frontera oferă un mediu sigur pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -5.970242,
+                        36.251062
+                  ]
             }
       ],
       "en": [
@@ -41858,6 +49112,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.964645,
                         36.254179
+                  ]
+            },
+            {
+                  "name": "Ciudad de la Infancia",
+                  "text": "A family-friendly playground in Vejer De La Frontera for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.965016,
+                        36.246611
+                  ]
+            },
+            {
+                  "name": "Plaza Manzanares",
+                  "text": "A family-friendly playground in Vejer De La Frontera for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.961821,
+                        36.253313
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Hijuela de Lucas",
+                  "text": "A family-friendly playground in Vejer De La Frontera for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.969891,
+                        36.245041
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Blas Infante",
+                  "text": "A family-friendly playground in Vejer De La Frontera for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -5.971123,
+                        36.250077
+                  ]
+            },
+            {
+                  "name": "Rafael Alberti",
+                  "text": "A family-friendly playground in Vejer De La Frontera where children can play.",
+                  "category": "family",
+                  "coords": [
+                        -5.961198,
+                        36.247695
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Plaza de Almería",
+                  "text": "This playground in Vejer De La Frontera provides a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -5.970242,
+                        36.251062
                   ]
             }
       ]
@@ -41929,6 +49237,51 @@ export const poiExtraEsV2: POI[] = [
                         0.794786,
                         42.703962
                   ]
+            },
+            {
+                  "name": "Lac Redon",
+                  "text": "Ein wunderschöner Bergsee bei Vielha, ideal für Wanderungen und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        0.778688,
+                        42.64064
+                  ]
+            },
+            {
+                  "name": "Estanh des Trueites",
+                  "text": "Ein idyllischer See in den Bergen von Vielha, der zu einer Rast einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        0.869348,
+                        42.745818
+                  ]
+            },
+            {
+                  "name": "Estanh dera Pincèla",
+                  "text": "Ein klarer Bergsee in Vielha, umgeben von unberührter Natur.",
+                  "category": "natural",
+                  "coords": [
+                        0.872418,
+                        42.745004
+                  ]
+            },
+            {
+                  "name": "Estanh dera Solana",
+                  "text": "Genießen Sie die Ruhe an diesem abgelegenen Bergsee in der Region Vielha.",
+                  "category": "natural",
+                  "coords": [
+                        0.819141,
+                        42.755934
+                  ]
+            },
+            {
+                  "name": "Estahòt d'Auba",
+                  "text": "Ein malerisches Gewässer in den Pyrenäen bei Vielha, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        0.730154,
+                        42.677615
+                  ]
             }
       ],
       "hu": [
@@ -41996,6 +49349,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.794786,
                         42.703962
+                  ]
+            },
+            {
+                  "name": "Lac Redon",
+                  "text": "Egy gyönyörű hegyi tó Vielha közelében, ideális túrázáshoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        0.778688,
+                        42.64064
+                  ]
+            },
+            {
+                  "name": "Estanh des Trueites",
+                  "text": "Egy idilli tó Vielha hegyei között, amely pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        0.869348,
+                        42.745818
+                  ]
+            },
+            {
+                  "name": "Estanh dera Pincèla",
+                  "text": "Egy tiszta hegyi tó Vielha közelében, érintetlen természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        0.872418,
+                        42.745004
+                  ]
+            },
+            {
+                  "name": "Estanh dera Solana",
+                  "text": "Élvezze a nyugalmat ennél az eldugott hegyi tónál Vielha régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        0.819141,
+                        42.755934
+                  ]
+            },
+            {
+                  "name": "Estahòt d'Auba",
+                  "text": "Egy festői vízfelület a Pireneusokban, Vielha közelében, tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        0.730154,
+                        42.677615
                   ]
             }
       ],
@@ -42065,6 +49463,51 @@ export const poiExtraEsV2: POI[] = [
                         0.794786,
                         42.703962
                   ]
+            },
+            {
+                  "name": "Lac Redon",
+                  "text": "Un lac montan superb lângă Vielha, ideal pentru drumeții și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        0.778688,
+                        42.64064
+                  ]
+            },
+            {
+                  "name": "Estanh des Trueites",
+                  "text": "Un lac idilic în munții din Vielha, care invită la un popas.",
+                  "category": "natural",
+                  "coords": [
+                        0.869348,
+                        42.745818
+                  ]
+            },
+            {
+                  "name": "Estanh dera Pincèla",
+                  "text": "Un lac montan limpede în Vielha, înconjurat de natură virgină.",
+                  "category": "natural",
+                  "coords": [
+                        0.872418,
+                        42.745004
+                  ]
+            },
+            {
+                  "name": "Estanh dera Solana",
+                  "text": "Bucurați-vă de liniște la acest lac montan izolat din regiunea Vielha.",
+                  "category": "natural",
+                  "coords": [
+                        0.819141,
+                        42.755934
+                  ]
+            },
+            {
+                  "name": "Estahòt d'Auba",
+                  "text": "O zonă cu apă pitorească în Pirinei, lângă Vielha, perfectă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        0.730154,
+                        42.677615
+                  ]
             }
       ],
       "en": [
@@ -42132,6 +49575,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.794786,
                         42.703962
+                  ]
+            },
+            {
+                  "name": "Lac Redon",
+                  "text": "A beautiful mountain lake near Vielha, ideal for hiking and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        0.778688,
+                        42.64064
+                  ]
+            },
+            {
+                  "name": "Estanh des Trueites",
+                  "text": "An idyllic lake in the mountains of Vielha that invites you to rest.",
+                  "category": "natural",
+                  "coords": [
+                        0.869348,
+                        42.745818
+                  ]
+            },
+            {
+                  "name": "Estanh dera Pincèla",
+                  "text": "A clear mountain lake in Vielha, surrounded by untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        0.872418,
+                        42.745004
+                  ]
+            },
+            {
+                  "name": "Estanh dera Solana",
+                  "text": "Enjoy the tranquility at this secluded mountain lake in the Vielha region.",
+                  "category": "natural",
+                  "coords": [
+                        0.819141,
+                        42.755934
+                  ]
+            },
+            {
+                  "name": "Estahòt d'Auba",
+                  "text": "A scenic body of water in the Pyrenees near Vielha, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        0.730154,
+                        42.677615
                   ]
             }
       ]
@@ -42504,6 +49992,42 @@ export const poiExtraEsV2: POI[] = [
                         -2.165988,
                         43.28994
                   ]
+            },
+            {
+                  "name": "Lagunak",
+                  "text": "Ein Spielplatz in Zarautz, der ideal für Familien mit Kindern zum Verweilen ist.",
+                  "category": "family",
+                  "coords": [
+                        -2.17326,
+                        43.284356
+                  ]
+            },
+            {
+                  "name": "Balearen parkea",
+                  "text": "Ein familienfreundlicher Bereich in Zarautz, der zum Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -2.172469,
+                        43.2806
+                  ]
+            },
+            {
+                  "name": "Sagasti plaza",
+                  "text": "Ein zentraler Spielplatz in Zarautz, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.173276,
+                        43.282667
+                  ]
+            },
+            {
+                  "name": "Jolastokia",
+                  "text": "Ein schöner Ort in Zarautz für Kinder, um im Freien zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.1517,
+                        43.282736
+                  ]
             }
       ],
       "hu": [
@@ -42598,6 +50122,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.165988,
                         43.28994
+                  ]
+            },
+            {
+                  "name": "Lagunak",
+                  "text": "Játszótér Zarautz területén, amely ideális a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.17326,
+                        43.284356
+                  ]
+            },
+            {
+                  "name": "Balearen parkea",
+                  "text": "Családbarát terület Zarautz városában, amely játékra és felfedezésre hív.",
+                  "category": "family",
+                  "coords": [
+                        -2.172469,
+                        43.2806
+                  ]
+            },
+            {
+                  "name": "Sagasti plaza",
+                  "text": "Központi játszótér Zarautz területén, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        -2.173276,
+                        43.282667
+                  ]
+            },
+            {
+                  "name": "Jolastokia",
+                  "text": "Kedvelt helyszín Zarautz városában a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.1517,
+                        43.282736
                   ]
             }
       ],
@@ -42694,6 +50254,42 @@ export const poiExtraEsV2: POI[] = [
                         -2.165988,
                         43.28994
                   ]
+            },
+            {
+                  "name": "Lagunak",
+                  "text": "Un loc de joacă în Zarautz, ideal pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.17326,
+                        43.284356
+                  ]
+            },
+            {
+                  "name": "Balearen parkea",
+                  "text": "O zonă prietenoasă pentru familii în Zarautz, care invită la joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        -2.172469,
+                        43.2806
+                  ]
+            },
+            {
+                  "name": "Sagasti plaza",
+                  "text": "Un loc de joacă central în Zarautz, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        -2.173276,
+                        43.282667
+                  ]
+            },
+            {
+                  "name": "Jolastokia",
+                  "text": "Un loc plăcut în Zarautz pentru copiii care doresc să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.1517,
+                        43.282736
+                  ]
             }
       ],
       "en": [
@@ -42788,6 +50384,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.165988,
                         43.28994
+                  ]
+            },
+            {
+                  "name": "Lagunak",
+                  "text": "A playground in Zarautz, ideal for families with children to spend time.",
+                  "category": "family",
+                  "coords": [
+                        -2.17326,
+                        43.284356
+                  ]
+            },
+            {
+                  "name": "Balearen parkea",
+                  "text": "A family-friendly area in Zarautz that invites children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        -2.172469,
+                        43.2806
+                  ]
+            },
+            {
+                  "name": "Sagasti plaza",
+                  "text": "A central playground in Zarautz where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        -2.173276,
+                        43.282667
+                  ]
+            },
+            {
+                  "name": "Jolastokia",
+                  "text": "A pleasant spot in Zarautz for children to enjoy outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -2.1517,
+                        43.282736
                   ]
             }
       ]
@@ -44658,6 +52290,141 @@ export const poiExtraEsV2: POI[] = [
                         -16.314892,
                         28.489712
                   ]
+            },
+            {
+                  "name": "Balsa del Boquerón",
+                  "text": "Ein Wasserbecken in San Cristobal De La Laguna, das sich in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.373597,
+                        28.510079
+                  ]
+            },
+            {
+                  "name": "Balsa Valle Molina",
+                  "text": "Dieser See in San Cristobal De La Laguna bietet eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -16.363871,
+                        28.50963
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Ein funktionales Wasserbecken in San Cristobal De La Laguna in einer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Ein Stausee in San Cristobal De La Laguna, der ein schönes Ziel für einen Ausflug ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Presa de Don Hipólito",
+                  "text": "Ein friedlicher Ort am Wasser in San Cristobal De La Laguna für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -16.326826,
+                        28.520263
+                  ]
+            },
+            {
+                  "name": "Charca los Patos",
+                  "text": "Ein kleiner Teich in San Cristobal De La Laguna, ideal für eine kurze Beobachtung der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -16.35653,
+                        28.543058
+                  ]
+            },
+            {
+                  "name": "Presa Tejina",
+                  "text": "Ein Stausee in San Cristobal De La Laguna, umgeben von der typischen Vegetation der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -16.358375,
+                        28.53463
+                  ]
+            },
+            {
+                  "name": "Presa Charca de Don Eduardo",
+                  "text": "Ein ruhiges Gewässer in San Cristobal De La Laguna, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.329291,
+                        28.522337
+                  ]
+            },
+            {
+                  "name": "Charca de Don Adolfo",
+                  "text": "Ein kleines Wasserreservoir in San Cristobal De La Laguna mit einer friedlichen Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.353619,
+                        28.541628
+                  ]
+            },
+            {
+                  "name": "Laserwarcenter",
+                  "text": "Ein modernes Freizeitzentrum in San Cristobal De La Laguna für spannende Spiele.",
+                  "category": "family",
+                  "coords": [
+                        -16.301095,
+                        28.458527
+                  ]
+            },
+            {
+                  "name": "Vértice",
+                  "text": "Ein gut ausgestatteter Spielplatz in San Cristobal De La Laguna für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -16.290796,
+                        28.475797
+                  ]
+            },
+            {
+                  "name": "Cancha 3º y 4º",
+                  "text": "Ein Sport- und Spielbereich in San Cristobal De La Laguna, ideal für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -16.29866,
+                        28.476803
+                  ]
+            },
+            {
+                  "name": "Área de juegos infantil 8 Islas",
+                  "text": "Ein thematisch gestalteter Spielplatz in San Cristobal De La Laguna für viel Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        -16.296489,
+                        28.465899
+                  ]
+            },
+            {
+                  "name": "Parque de juegos Tagoror",
+                  "text": "Ein sicherer Spielplatz in San Cristobal De La Laguna, auf dem Familien Zeit verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -16.297138,
+                        28.466887
+                  ]
+            },
+            {
+                  "name": "Canary Jump Tenerife",
+                  "text": "Ein aufregender Trampolinpark in San Cristobal De La Laguna für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -16.303592,
+                        28.456511
+                  ]
             }
       ],
       "hu": [
@@ -44739,6 +52506,141 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.314892,
                         28.489712
+                  ]
+            },
+            {
+                  "name": "Balsa del Boquerón",
+                  "text": "Egy víztározó San Cristobal De La Laguna közelében, amely illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -16.373597,
+                        28.510079
+                  ]
+            },
+            {
+                  "name": "Balsa Valle Molina",
+                  "text": "Ez a San Cristobal De La Laguna-i tó nyugodt környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -16.363871,
+                        28.50963
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Egy funkcionális víztározó San Cristobal De La Laguna területén, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Egy víztározó San Cristobal De La Laguna közelében, amely szép célpont egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Presa de Don Hipólito",
+                  "text": "Egy békés vízparti hely San Cristobal De La Laguna közelében a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -16.326826,
+                        28.520263
+                  ]
+            },
+            {
+                  "name": "Charca los Patos",
+                  "text": "Egy kis tavacska San Cristobal De La Laguna területén, ideális a természet rövid megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -16.35653,
+                        28.543058
+                  ]
+            },
+            {
+                  "name": "Presa Tejina",
+                  "text": "Egy víztározó San Cristobal De La Laguna közelében, a régióra jellemző növényzettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -16.358375,
+                        28.53463
+                  ]
+            },
+            {
+                  "name": "Presa Charca de Don Eduardo",
+                  "text": "Egy nyugodt vízfelület San Cristobal De La Laguna közelében, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        -16.329291,
+                        28.522337
+                  ]
+            },
+            {
+                  "name": "Charca de Don Adolfo",
+                  "text": "Egy kis víztározó San Cristobal De La Laguna közelében, békés légkörrel.",
+                  "category": "natural",
+                  "coords": [
+                        -16.353619,
+                        28.541628
+                  ]
+            },
+            {
+                  "name": "Laserwarcenter",
+                  "text": "Egy modern szabadidőközpont San Cristobal De La Laguna városában izgalmas játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -16.301095,
+                        28.458527
+                  ]
+            },
+            {
+                  "name": "Vértice",
+                  "text": "Egy jól felszerelt játszótér San Cristobal De La Laguna városában minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -16.290796,
+                        28.475797
+                  ]
+            },
+            {
+                  "name": "Cancha 3º y 4º",
+                  "text": "Sport- és játszóterület San Cristobal De La Laguna városában, ideális aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -16.29866,
+                        28.476803
+                  ]
+            },
+            {
+                  "name": "Área de juegos infantil 8 Islas",
+                  "text": "Egy tematikus játszótér San Cristobal De La Laguna városában a nagy játékélményért.",
+                  "category": "family",
+                  "coords": [
+                        -16.296489,
+                        28.465899
+                  ]
+            },
+            {
+                  "name": "Parque de juegos Tagoror",
+                  "text": "Egy biztonságos játszótér San Cristobal De La Laguna városában, ahol a családok időt tölthetnek.",
+                  "category": "family",
+                  "coords": [
+                        -16.297138,
+                        28.466887
+                  ]
+            },
+            {
+                  "name": "Canary Jump Tenerife",
+                  "text": "Egy izgalmas trambulinpark San Cristobal De La Laguna városában az aktív családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        -16.303592,
+                        28.456511
                   ]
             }
       ],
@@ -44822,6 +52724,141 @@ export const poiExtraEsV2: POI[] = [
                         -16.314892,
                         28.489712
                   ]
+            },
+            {
+                  "name": "Balsa del Boquerón",
+                  "text": "Un bazin de apă în San Cristobal De La Laguna, care se integrează în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        -16.373597,
+                        28.510079
+                  ]
+            },
+            {
+                  "name": "Balsa Valle Molina",
+                  "text": "Acest lac din San Cristobal De La Laguna oferă un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.363871,
+                        28.50963
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "Un bazin de apă funcțional în San Cristobal De La Laguna, într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "Un lac de acumulare în San Cristobal De La Laguna, care este o destinație frumoasă pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Presa de Don Hipólito",
+                  "text": "Un loc liniștit pe malul apei în San Cristobal De La Laguna pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -16.326826,
+                        28.520263
+                  ]
+            },
+            {
+                  "name": "Charca los Patos",
+                  "text": "Un iaz mic în San Cristobal De La Laguna, ideal pentru o scurtă observare a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -16.35653,
+                        28.543058
+                  ]
+            },
+            {
+                  "name": "Presa Tejina",
+                  "text": "Un lac de acumulare în San Cristobal De La Laguna, înconjurat de vegetația tipică regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -16.358375,
+                        28.53463
+                  ]
+            },
+            {
+                  "name": "Presa Charca de Don Eduardo",
+                  "text": "O zonă cu apă liniștită în San Cristobal De La Laguna, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -16.329291,
+                        28.522337
+                  ]
+            },
+            {
+                  "name": "Charca de Don Adolfo",
+                  "text": "Un mic rezervor de apă în San Cristobal De La Laguna, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -16.353619,
+                        28.541628
+                  ]
+            },
+            {
+                  "name": "Laserwarcenter",
+                  "text": "Un centru de divertisment modern în San Cristobal De La Laguna pentru jocuri palpitante.",
+                  "category": "family",
+                  "coords": [
+                        -16.301095,
+                        28.458527
+                  ]
+            },
+            {
+                  "name": "Vértice",
+                  "text": "Un loc de joacă bine echipat în San Cristobal De La Laguna pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -16.290796,
+                        28.475797
+                  ]
+            },
+            {
+                  "name": "Cancha 3º y 4º",
+                  "text": "O zonă de sport și joacă în San Cristobal De La Laguna, ideală pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        -16.29866,
+                        28.476803
+                  ]
+            },
+            {
+                  "name": "Área de juegos infantil 8 Islas",
+                  "text": "Un loc de joacă tematic în San Cristobal De La Laguna pentru multă distracție.",
+                  "category": "family",
+                  "coords": [
+                        -16.296489,
+                        28.465899
+                  ]
+            },
+            {
+                  "name": "Parque de juegos Tagoror",
+                  "text": "Un loc de joacă sigur în San Cristobal De La Laguna, unde familiile pot petrece timpul.",
+                  "category": "family",
+                  "coords": [
+                        -16.297138,
+                        28.466887
+                  ]
+            },
+            {
+                  "name": "Canary Jump Tenerife",
+                  "text": "Un parc de trambuline palpitant în San Cristobal De La Laguna pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -16.303592,
+                        28.456511
+                  ]
             }
       ],
       "en": [
@@ -44903,6 +52940,141 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.314892,
                         28.489712
+                  ]
+            },
+            {
+                  "name": "Balsa del Boquerón",
+                  "text": "A water basin in San Cristobal De La Laguna that blends into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -16.373597,
+                        28.510079
+                  ]
+            },
+            {
+                  "name": "Balsa Valle Molina",
+                  "text": "This lake in San Cristobal De La Laguna provides a calm environment for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -16.363871,
+                        28.50963
+                  ]
+            },
+            {
+                  "name": "Depósito Tristán",
+                  "text": "A functional water basin in San Cristobal De La Laguna in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        -16.278328,
+                        28.458198
+                  ]
+            },
+            {
+                  "name": "Presa de Tahodio",
+                  "text": "A reservoir in San Cristobal De La Laguna that is a nice destination for an outing.",
+                  "category": "natural",
+                  "coords": [
+                        -16.270484,
+                        28.510604
+                  ]
+            },
+            {
+                  "name": "Presa de Don Hipólito",
+                  "text": "A peaceful spot by the water in San Cristobal De La Laguna for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -16.326826,
+                        28.520263
+                  ]
+            },
+            {
+                  "name": "Charca los Patos",
+                  "text": "A small pond in San Cristobal De La Laguna, ideal for a short nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.35653,
+                        28.543058
+                  ]
+            },
+            {
+                  "name": "Presa Tejina",
+                  "text": "A reservoir in San Cristobal De La Laguna, surrounded by the region's typical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.358375,
+                        28.53463
+                  ]
+            },
+            {
+                  "name": "Presa Charca de Don Eduardo",
+                  "text": "A calm body of water in San Cristobal De La Laguna that invites you to linger.",
+                  "category": "natural",
+                  "coords": [
+                        -16.329291,
+                        28.522337
+                  ]
+            },
+            {
+                  "name": "Charca de Don Adolfo",
+                  "text": "A small water reservoir in San Cristobal De La Laguna with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -16.353619,
+                        28.541628
+                  ]
+            },
+            {
+                  "name": "Laserwarcenter",
+                  "text": "A modern amusement center in San Cristobal De La Laguna for exciting games.",
+                  "category": "family",
+                  "coords": [
+                        -16.301095,
+                        28.458527
+                  ]
+            },
+            {
+                  "name": "Vértice",
+                  "text": "A well-equipped playground in San Cristobal De La Laguna for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -16.290796,
+                        28.475797
+                  ]
+            },
+            {
+                  "name": "Cancha 3º y 4º",
+                  "text": "A sports and play area in San Cristobal De La Laguna, ideal for active children.",
+                  "category": "family",
+                  "coords": [
+                        -16.29866,
+                        28.476803
+                  ]
+            },
+            {
+                  "name": "Área de juegos infantil 8 Islas",
+                  "text": "A themed playground in San Cristobal De La Laguna for lots of fun and games.",
+                  "category": "family",
+                  "coords": [
+                        -16.296489,
+                        28.465899
+                  ]
+            },
+            {
+                  "name": "Parque de juegos Tagoror",
+                  "text": "A safe playground in San Cristobal De La Laguna where families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -16.297138,
+                        28.466887
+                  ]
+            },
+            {
+                  "name": "Canary Jump Tenerife",
+                  "text": "An exciting trampoline park in San Cristobal De La Laguna for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        -16.303592,
+                        28.456511
                   ]
             }
       ]

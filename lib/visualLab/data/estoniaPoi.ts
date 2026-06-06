@@ -519,6 +519,132 @@ const estoniaAllPoiBase: POI[] = [
                         24.764208,
                         59.421594
                   ]
+            },
+            {
+                  "name": "Kaelajärv",
+                  "text": "Der Kaelajärv ist ein malerischer See in Tallinn, der eine friedliche Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.69209,
+                        59.465361
+                  ]
+            },
+            {
+                  "name": "Saartevahe järv",
+                  "text": "Der Saartevahe järv ist ein ruhiger See in Tallinn, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        24.708942,
+                        59.478286
+                  ]
+            },
+            {
+                  "name": "Pae järv",
+                  "text": "Der Pae järv ist ein schöner See in Tallinn, der sich perfekt eignet, um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.803224,
+                        59.432514
+                  ]
+            },
+            {
+                  "name": "Obersee",
+                  "text": "Der Ülemiste järv ist ein großer See in Tallinn, der für seine bedeutende Präsenz im Stadtbild bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.767168,
+                        59.401821
+                  ]
+            },
+            {
+                  "name": "Raku järv",
+                  "text": "Der Raku järv ist ein friedlicher See in Tallinn, der den Besuchern eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.746063,
+                        59.356362
+                  ]
+            },
+            {
+                  "name": "Elamusgolf",
+                  "text": "Elamusgolf in Tallinn bietet ein unterhaltsames Minigolf-Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        24.744032,
+                        59.433191
+                  ]
+            },
+            {
+                  "name": "Mabrik",
+                  "text": "Mabrik ist eine Spielhalle in Tallinn, die verschiedene Spiele für Kinder und Erwachsene anbietet.",
+                  "category": "family",
+                  "coords": [
+                        24.749483,
+                        59.426831
+                  ]
+            },
+            {
+                  "name": "Super Skypark",
+                  "text": "Der Super Skypark in Tallinn ist ein aktiver Spielplatz, auf dem Familien verschiedene Aktivitäten genießen können.",
+                  "category": "family",
+                  "coords": [
+                        24.792777,
+                        59.424183
+                  ]
+            },
+            {
+                  "name": "YoMaNa",
+                  "text": "YoMaNa ist eine attraktive Spielhalle in Tallinn, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        24.739529,
+                        59.413644
+                  ]
+            },
+            {
+                  "name": "Niipi mängumaa",
+                  "text": "Niipi mängumaa ist ein spezieller Indoor-Spielplatz in Tallinn, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        24.70947,
+                        59.447796
+                  ]
+            },
+            {
+                  "name": "Pilvemaa Mängumaailm",
+                  "text": "Pilvemaa Mängumaailm bietet eine Vielzahl von Unterhaltungsmöglichkeiten für Familien in Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.742097,
+                        59.41166
+                  ]
+            },
+            {
+                  "name": "Vana-Kalamaja laste mänguväljak",
+                  "text": "Der Spielplatz Vana-Kalamaja bietet eine sichere und unterhaltsame Umgebung für Kinder in der Stadt Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.737956,
+                        59.444893
+                  ]
+            },
+            {
+                  "name": "Hirvepargi mänguväljak",
+                  "text": "Der Spielplatz Hirvepargi ist ein charmanter Ort in Tallinn, an dem Familien gemeinsam Zeit im Freien verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        24.735382,
+                        59.4343
+                  ]
+            },
+            {
+                  "name": "Tornide väljaku mänguplats",
+                  "text": "Der Spielplatz am Tornide väljak ist ein zentraler Spielbereich in Tallinn, ideal für einheimische Familien und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        24.743509,
+                        59.441455
+                  ]
             }
       ],
       "hu": [
@@ -961,6 +1087,132 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.764208,
                         59.421594
+                  ]
+            },
+            {
+                  "name": "Kaelajärv",
+                  "text": "A Tallinnban található Kaelajärv egy festői tó, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.69209,
+                        59.465361
+                  ]
+            },
+            {
+                  "name": "Saartevahe järv",
+                  "text": "A Saartevahe järv egy csendes tó Tallinnban, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.708942,
+                        59.478286
+                  ]
+            },
+            {
+                  "name": "Pae järv",
+                  "text": "A Pae järv egy festői tó Tallinnban, amely tökéletes a helyi táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.803224,
+                        59.432514
+                  ]
+            },
+            {
+                  "name": "Ülemiste järv",
+                  "text": "Az Ülemiste järv egy nagy tó Tallinnban, amely a városi tájban betöltött jelentős szerepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.767168,
+                        59.401821
+                  ]
+            },
+            {
+                  "name": "Raku järv",
+                  "text": "A Raku järv egy békés tó Tallinnban, amely nyugodt környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.746063,
+                        59.356362
+                  ]
+            },
+            {
+                  "name": "Elamusgolf",
+                  "text": "A tallinni Elamusgolf szórakoztató minigolf-élményt nyújt az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        24.744032,
+                        59.433191
+                  ]
+            },
+            {
+                  "name": "Mabrik",
+                  "text": "A Mabrik egy tallinni játékterem, amely különféle játékokat kínál gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        24.749483,
+                        59.426831
+                  ]
+            },
+            {
+                  "name": "Super Skypark",
+                  "text": "A tallinni Super Skypark egy aktív játszótér, ahol a családok különféle tevékenységeket élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        24.792777,
+                        59.424183
+                  ]
+            },
+            {
+                  "name": "YoMaNa",
+                  "text": "A YoMaNa egy izgalmas játékterem Tallinnban, amely tökéletes egy családi kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.739529,
+                        59.413644
+                  ]
+            },
+            {
+                  "name": "Niipi mängumaa",
+                  "text": "A Niipi mängumaa egy tallinni fedett játszótér, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        24.70947,
+                        59.447796
+                  ]
+            },
+            {
+                  "name": "Pilvemaa Mängumaailm",
+                  "text": "A Pilvemaa Mängumaailm különféle szórakozási lehetőségeket kínál családok számára Tallinnban.",
+                  "category": "family",
+                  "coords": [
+                        24.742097,
+                        59.41166
+                  ]
+            },
+            {
+                  "name": "Vana-Kalamaja laste mänguväljak",
+                  "text": "A Vana-Kalamaja játszótér biztonságos és szórakoztató környezetet biztosít a gyerekeknek Tallinn városában.",
+                  "category": "family",
+                  "coords": [
+                        24.737956,
+                        59.444893
+                  ]
+            },
+            {
+                  "name": "Hirvepargi mänguväljak",
+                  "text": "A Hirvepargi játszótér egy bájos hely Tallinnban, ahol a családok együtt tölthetik az időt a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        24.735382,
+                        59.4343
+                  ]
+            },
+            {
+                  "name": "Tornide väljaku mänguplats",
+                  "text": "A Tornide väljaku játszótér egy központi játszóhely Tallinnban, amely ideális a helyi családok és látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        24.743509,
+                        59.441455
                   ]
             }
       ],
@@ -1405,6 +1657,132 @@ const estoniaAllPoiBase: POI[] = [
                         24.764208,
                         59.421594
                   ]
+            },
+            {
+                  "name": "Kaelajärv",
+                  "text": "Kaelajärv este un lac pitoresc din Tallinn, oferind un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        24.69209,
+                        59.465361
+                  ]
+            },
+            {
+                  "name": "Saartevahe järv",
+                  "text": "Saartevahe järv este un lac liniștit situat în Tallinn, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        24.708942,
+                        59.478286
+                  ]
+            },
+            {
+                  "name": "Pae järv",
+                  "text": "Pae järv este un lac pitoresc din Tallinn, perfect pentru a vă bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.803224,
+                        59.432514
+                  ]
+            },
+            {
+                  "name": "Ülemiste järv",
+                  "text": "Ülemiste järv este un lac mare din Tallinn, cunoscut pentru prezența sa semnificativă în peisajul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        24.767168,
+                        59.401821
+                  ]
+            },
+            {
+                  "name": "Raku järv",
+                  "text": "Raku järv este un lac liniștit din Tallinn, oferind un mediu calm pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        24.746063,
+                        59.356362
+                  ]
+            },
+            {
+                  "name": "Elamusgolf",
+                  "text": "Elamusgolf din Tallinn oferă o experiență distractivă de minigolf pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        24.744032,
+                        59.433191
+                  ]
+            },
+            {
+                  "name": "Mabrik",
+                  "text": "Mabrik este o sală de jocuri din Tallinn, care oferă diverse jocuri pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        24.749483,
+                        59.426831
+                  ]
+            },
+            {
+                  "name": "Super Skypark",
+                  "text": "Super Skypark din Tallinn este un teren de joacă activ unde familiile se pot bucura de diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        24.792777,
+                        59.424183
+                  ]
+            },
+            {
+                  "name": "YoMaNa",
+                  "text": "YoMaNa este o sală de jocuri captivantă din Tallinn, perfectă pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        24.739529,
+                        59.413644
+                  ]
+            },
+            {
+                  "name": "Niipi mängumaa",
+                  "text": "Niipi mängumaa este un loc de joacă interior din Tallinn, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        24.70947,
+                        59.447796
+                  ]
+            },
+            {
+                  "name": "Pilvemaa Mängumaailm",
+                  "text": "Pilvemaa Mängumaailm oferă o varietate de opțiuni de divertisment pentru familiile din Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.742097,
+                        59.41166
+                  ]
+            },
+            {
+                  "name": "Vana-Kalamaja laste mänguväljak",
+                  "text": "Locul de joacă Vana-Kalamaja oferă un mediu sigur și distractiv pentru copii în orașul Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.737956,
+                        59.444893
+                  ]
+            },
+            {
+                  "name": "Hirvepargi mänguväljak",
+                  "text": "Locul de joacă Hirvepargi este un loc fermecător din Tallinn, unde familiile pot petrece timp împreună în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.735382,
+                        59.4343
+                  ]
+            },
+            {
+                  "name": "Tornide väljaku mänguplats",
+                  "text": "Locul de joacă Tornide väljaku este o zonă de joacă centrală din Tallinn, ideală pentru familiile locale și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.743509,
+                        59.441455
+                  ]
             }
       ],
       "en": [
@@ -1848,6 +2226,132 @@ const estoniaAllPoiBase: POI[] = [
                         24.764208,
                         59.421594
                   ]
+            },
+            {
+                  "name": "Kaelajärv",
+                  "text": "Kaelajärv is a scenic lake in Tallinn, offering a peaceful natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        24.69209,
+                        59.465361
+                  ]
+            },
+            {
+                  "name": "Saartevahe järv",
+                  "text": "Saartevahe järv is a quiet lake located in Tallinn, ideal for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.708942,
+                        59.478286
+                  ]
+            },
+            {
+                  "name": "Pae järv",
+                  "text": "Pae järv is a scenic lake in Tallinn, perfect for enjoying the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.803224,
+                        59.432514
+                  ]
+            },
+            {
+                  "name": "Ülemiste järv",
+                  "text": "Ülemiste järv is a large lake in Tallinn, known for its significant presence in the city landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.767168,
+                        59.401821
+                  ]
+            },
+            {
+                  "name": "Raku järv",
+                  "text": "Raku järv is a peaceful lake in Tallinn, offering a calm environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        24.746063,
+                        59.356362
+                  ]
+            },
+            {
+                  "name": "Elamusgolf",
+                  "text": "Elamusgolf in Tallinn provides a fun miniature golf experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        24.744032,
+                        59.433191
+                  ]
+            },
+            {
+                  "name": "Mabrik",
+                  "text": "Mabrik is an amusement arcade in Tallinn, offering various games for children and adults.",
+                  "category": "family",
+                  "coords": [
+                        24.749483,
+                        59.426831
+                  ]
+            },
+            {
+                  "name": "Super Skypark",
+                  "text": "Super Skypark in Tallinn is an active playground where families can enjoy diverse activities.",
+                  "category": "family",
+                  "coords": [
+                        24.792777,
+                        59.424183
+                  ]
+            },
+            {
+                  "name": "YoMaNa",
+                  "text": "YoMaNa is an engaging amusement arcade in Tallinn, perfect for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        24.739529,
+                        59.413644
+                  ]
+            },
+            {
+                  "name": "Niipi mängumaa",
+                  "text": "Niipi mängumaa is a dedicated indoor playground in Tallinn for children to play safely.",
+                  "category": "family",
+                  "coords": [
+                        24.70947,
+                        59.447796
+                  ]
+            },
+            {
+                  "name": "Pilvemaa Mängumaailm",
+                  "text": "Pilvemaa Mängumaailm offers a variety of entertainment options for families in Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.742097,
+                        59.41166
+                  ]
+            },
+            {
+                  "name": "Vana-Kalamaja laste mänguväljak",
+                  "text": "Vana-Kalamaja playground provides a safe and fun environment for children in the city of Tallinn.",
+                  "category": "family",
+                  "coords": [
+                        24.737956,
+                        59.444893
+                  ]
+            },
+            {
+                  "name": "Hirvepargi mänguväljak",
+                  "text": "Hirvepargi playground is a charming spot in Tallinn where families can spend time together outdoors.",
+                  "category": "family",
+                  "coords": [
+                        24.735382,
+                        59.4343
+                  ]
+            },
+            {
+                  "name": "Tornide väljaku mänguplats",
+                  "text": "Tornide väljaku playground is a central play area in Tallinn, ideal for local families and visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.743509,
+                        59.441455
+                  ]
             }
       ]
 },
@@ -1899,7 +2403,412 @@ const estoniaAllPoiBase: POI[] = [
     },
   },
   {
-    id: "ee-tartu",
+    id: "ee-tartu", "sights": {
+      "de": [
+            {
+                  "name": "Rahinge järv",
+                  "text": "Ein attraktiver See in Tartu, ideal für Freizeitaktivitäten und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        26.608053,
+                        58.372858
+                  ]
+            },
+            {
+                  "name": "Väike-Anne kanal",
+                  "text": "Ein beliebter See in Tartu, der eine entspannte Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.749306,
+                        58.371114
+                  ]
+            },
+            {
+                  "name": "Anne kanal",
+                  "text": "Ein bekannter See in Tartu, der Einheimische und Besucher zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.743011,
+                        58.375485
+                  ]
+            },
+            {
+                  "name": "Kabina järv",
+                  "text": "Ein idyllisches Gewässer in Tartu, perfekt für einen ruhigen Nachmittag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.826492,
+                        58.341936
+                  ]
+            },
+            {
+                  "name": "Haage järv",
+                  "text": "Ein natürlicher See in Tartu, der zu Spaziergängen und Naturbeobachtungen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.605345,
+                        58.349085
+                  ]
+            },
+            {
+                  "name": "Vaksali Pargi Mänguväljak",
+                  "text": "Ein zentraler Spielplatz in Tartu, ideal für Familien während eines Stadtbesuchs.",
+                  "category": "family",
+                  "coords": [
+                        26.707514,
+                        58.374898
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus",
+                  "text": "Ein moderner Trampolinpark in Tartu für aktiven Spielspaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        26.720181,
+                        58.368582
+                  ]
+            },
+            {
+                  "name": "Rio Minigolf",
+                  "text": "Ein unterhaltsamer Minigolfplatz in Tartu für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        26.719403,
+                        58.365538
+                  ]
+            },
+            {
+                  "name": "Hüppa",
+                  "text": "Ein aufregendes Trampolinzentrum in Tartu für Kinder und sportliche Besucher.",
+                  "category": "family",
+                  "coords": [
+                        26.767914,
+                        58.37431
+                  ]
+            },
+            {
+                  "name": "kolahoov",
+                  "text": "Ein kreativer Spielplatz in Tartu, der Kindern viel Raum für Fantasie lässt.",
+                  "category": "family",
+                  "coords": [
+                        26.691407,
+                        58.393876
+                  ]
+            },
+            {
+                  "name": "Tähtvere mänguväljak",
+                  "text": "Ein weitläufiger Spielplatz in Tartu mit verschiedenen Geräten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        26.699957,
+                        58.387724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rahinge järv",
+                  "text": "Egy vonzó tó Tartuban, amely ideális szabadidős tevékenységekhez és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.608053,
+                        58.372858
+                  ]
+            },
+            {
+                  "name": "Väike-Anne kanal",
+                  "text": "Egy népszerű tó Tartuban, amely pihentető hangulatot kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.749306,
+                        58.371114
+                  ]
+            },
+            {
+                  "name": "Anne kanal",
+                  "text": "Egy jól ismert tó Tartuban, amely kikapcsolódásra hívja a helyieket és a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.743011,
+                        58.375485
+                  ]
+            },
+            {
+                  "name": "Kabina järv",
+                  "text": "Egy idilli vízfelület Tartuban, amely tökéletes egy csendes délutánhoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        26.826492,
+                        58.341936
+                  ]
+            },
+            {
+                  "name": "Haage järv",
+                  "text": "Egy természetes tó Tartuban, amely sétákra és természetmegfigyelésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        26.605345,
+                        58.349085
+                  ]
+            },
+            {
+                  "name": "Vaksali Pargi Mänguväljak",
+                  "text": "Egy központi játszótér Tartuban, ideális családoknak a városlátogatás során.",
+                  "category": "family",
+                  "coords": [
+                        26.707514,
+                        58.374898
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus",
+                  "text": "Egy modern trambulinpark Tartuban az aktív játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.720181,
+                        58.368582
+                  ]
+            },
+            {
+                  "name": "Rio Minigolf",
+                  "text": "Egy szórakoztató minigolfpálya Tartuban az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        26.719403,
+                        58.365538
+                  ]
+            },
+            {
+                  "name": "Hüppa",
+                  "text": "Egy izgalmas trambulin központ Tartuban gyermekek és sportos látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        26.767914,
+                        58.37431
+                  ]
+            },
+            {
+                  "name": "kolahoov",
+                  "text": "Egy kreatív játszótér Tartuban, amely tág teret enged a gyermekek képzeletének.",
+                  "category": "family",
+                  "coords": [
+                        26.691407,
+                        58.393876
+                  ]
+            },
+            {
+                  "name": "Tähtvere mänguväljak",
+                  "text": "Egy tágas játszótér Tartuban, különféle eszközökkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.699957,
+                        58.387724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rahinge järv",
+                  "text": "Un lac atractiv în Tartu, ideal pentru activități recreative și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.608053,
+                        58.372858
+                  ]
+            },
+            {
+                  "name": "Väike-Anne kanal",
+                  "text": "Un lac popular în Tartu, care oferă o atmosferă relaxantă la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.749306,
+                        58.371114
+                  ]
+            },
+            {
+                  "name": "Anne kanal",
+                  "text": "Un lac cunoscut în Tartu, care invită localnicii și vizitatorii la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.743011,
+                        58.375485
+                  ]
+            },
+            {
+                  "name": "Kabina järv",
+                  "text": "O apă idilică în Tartu, perfectă pentru o după-amiază liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.826492,
+                        58.341936
+                  ]
+            },
+            {
+                  "name": "Haage järv",
+                  "text": "Un lac natural în Tartu, care invită la plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.605345,
+                        58.349085
+                  ]
+            },
+            {
+                  "name": "Vaksali Pargi Mänguväljak",
+                  "text": "Un loc de joacă central în Tartu, ideal pentru familii în timpul unei vizite în oraș.",
+                  "category": "family",
+                  "coords": [
+                        26.707514,
+                        58.374898
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus",
+                  "text": "Un parc de trambuline modern în Tartu pentru distracție activă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        26.720181,
+                        58.368582
+                  ]
+            },
+            {
+                  "name": "Rio Minigolf",
+                  "text": "Un teren de minigolf distractiv în Tartu pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        26.719403,
+                        58.365538
+                  ]
+            },
+            {
+                  "name": "Hüppa",
+                  "text": "Un centru de trambuline interesant în Tartu pentru copii și vizitatori sportivi.",
+                  "category": "family",
+                  "coords": [
+                        26.767914,
+                        58.37431
+                  ]
+            },
+            {
+                  "name": "kolahoov",
+                  "text": "Un loc de joacă creativ în Tartu, care lasă copiilor mult spațiu pentru imaginație.",
+                  "category": "family",
+                  "coords": [
+                        26.691407,
+                        58.393876
+                  ]
+            },
+            {
+                  "name": "Tähtvere mänguväljak",
+                  "text": "Un loc de joacă vast în Tartu, cu diverse echipamente pentru toate grupele de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        26.699957,
+                        58.387724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rahinge järv",
+                  "text": "An attractive lake in Tartu, ideal for leisure activities and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        26.608053,
+                        58.372858
+                  ]
+            },
+            {
+                  "name": "Väike-Anne kanal",
+                  "text": "A popular lake in Tartu offering a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.749306,
+                        58.371114
+                  ]
+            },
+            {
+                  "name": "Anne kanal",
+                  "text": "A well-known lake in Tartu that invites locals and visitors for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.743011,
+                        58.375485
+                  ]
+            },
+            {
+                  "name": "Kabina järv",
+                  "text": "An idyllic body of water in Tartu, perfect for a quiet afternoon outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        26.826492,
+                        58.341936
+                  ]
+            },
+            {
+                  "name": "Haage järv",
+                  "text": "A natural lake in Tartu that invites you for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.605345,
+                        58.349085
+                  ]
+            },
+            {
+                  "name": "Vaksali Pargi Mänguväljak",
+                  "text": "A central playground in Tartu, ideal for families during a city visit.",
+                  "category": "family",
+                  "coords": [
+                        26.707514,
+                        58.374898
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus",
+                  "text": "A modern trampoline park in Tartu for active fun and movement.",
+                  "category": "family",
+                  "coords": [
+                        26.720181,
+                        58.368582
+                  ]
+            },
+            {
+                  "name": "Rio Minigolf",
+                  "text": "A fun miniature golf course in Tartu for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        26.719403,
+                        58.365538
+                  ]
+            },
+            {
+                  "name": "Hüppa",
+                  "text": "An exciting trampoline center in Tartu for children and sporty visitors.",
+                  "category": "family",
+                  "coords": [
+                        26.767914,
+                        58.37431
+                  ]
+            },
+            {
+                  "name": "kolahoov",
+                  "text": "A creative playground in Tartu that gives children plenty of room for imagination.",
+                  "category": "family",
+                  "coords": [
+                        26.691407,
+                        58.393876
+                  ]
+            },
+            {
+                  "name": "Tähtvere mänguväljak",
+                  "text": "A spacious playground in Tartu with various equipment for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        26.699957,
+                        58.387724
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [26.7290, 58.3780],
@@ -2390,6 +3299,51 @@ const estoniaAllPoiBase: POI[] = [
                         24.512046,
                         58.371153
                   ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "Türgi paisjärv ist ein See in Paernu, der einen ruhigen Ort für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Pahkoja järv ist ein See in Paernu, der durch seine natürliche und friedliche Umgebung besticht.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus Up",
+                  "text": "Batuudikeskus Up ist ein Trampolinpark in Paernu, der aktiven Spaß und Action für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.50268,
+                        58.388032
+                  ]
+            },
+            {
+                  "name": "Excavator",
+                  "text": "Excavator ist ein Spielplatz in Paernu, auf dem Kinder in einer sicheren Umgebung spielen und toben können.",
+                  "category": "family",
+                  "coords": [
+                        24.501186,
+                        58.373604
+                  ]
+            },
+            {
+                  "name": "Lillelapse mängutuba",
+                  "text": "Lillelapse mängutuba ist ein Spielplatz in Paernu, der speziell auf die Bedürfnisse jüngerer Kinder zugeschnitten ist.",
+                  "category": "family",
+                  "coords": [
+                        24.509389,
+                        58.405311
+                  ]
             }
       ],
       "hu": [
@@ -2832,6 +3786,51 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.512046,
                         58.371153
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "A Türgi paisjärv egy tó Paernuban, amely nyugodt helyszínt biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "A Pahkoja järv egy tó Paernuban, amely természeti és békés környezetével vonzza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus Up",
+                  "text": "A Batuudikeskus Up egy trambulinpark Paernuban, amely aktív szórakozást és akciót kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        24.50268,
+                        58.388032
+                  ]
+            },
+            {
+                  "name": "Excavator",
+                  "text": "Az Excavator egy játszótér Paernuban, ahol a gyerekek biztonságos környezetben játszhatnak és mozoghatnak.",
+                  "category": "family",
+                  "coords": [
+                        24.501186,
+                        58.373604
+                  ]
+            },
+            {
+                  "name": "Lillelapse mängutuba",
+                  "text": "A Lillelapse mängutuba egy játszótér Paernuban, amelyet kifejezetten a kisebb gyermekek igényeihez alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        24.509389,
+                        58.405311
                   ]
             }
       ],
@@ -3276,6 +4275,51 @@ const estoniaAllPoiBase: POI[] = [
                         24.512046,
                         58.371153
                   ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "Türgi paisjärv este un lac în Paernu, oferind un loc liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Pahkoja järv este un lac în Paernu, atrăgând vizitatorii prin mediul său natural și pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus Up",
+                  "text": "Batuudikeskus Up este un parc de trambuline în Paernu, oferind distracție activă și acțiune pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        24.50268,
+                        58.388032
+                  ]
+            },
+            {
+                  "name": "Excavator",
+                  "text": "Excavator este un teren de joacă în Paernu, unde copiii se pot juca și alerga într-un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        24.501186,
+                        58.373604
+                  ]
+            },
+            {
+                  "name": "Lillelapse mängutuba",
+                  "text": "Lillelapse mängutuba este un teren de joacă în Paernu, special conceput pentru nevoile copiilor mai mici.",
+                  "category": "family",
+                  "coords": [
+                        24.509389,
+                        58.405311
+                  ]
             }
       ],
       "en": [
@@ -3718,6 +4762,51 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.512046,
                         58.371153
+                  ]
+            },
+            {
+                  "name": "Türgi paisjärv",
+                  "text": "Türgi paisjärv is a lake in Paernu, providing a quiet spot for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        24.616731,
+                        58.376793
+                  ]
+            },
+            {
+                  "name": "Pahkoja järv",
+                  "text": "Pahkoja järv is a lake in Paernu, attracting visitors with its natural and peaceful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.608938,
+                        58.386876
+                  ]
+            },
+            {
+                  "name": "Batuudikeskus Up",
+                  "text": "Batuudikeskus Up is a trampoline park in Paernu, offering active fun and action for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        24.50268,
+                        58.388032
+                  ]
+            },
+            {
+                  "name": "Excavator",
+                  "text": "Excavator is a playground in Paernu, where children can play and run in a safe environment.",
+                  "category": "family",
+                  "coords": [
+                        24.501186,
+                        58.373604
+                  ]
+            },
+            {
+                  "name": "Lillelapse mängutuba",
+                  "text": "Lillelapse mängutuba is a playground in Paernu, specifically designed for the needs of younger children.",
+                  "category": "family",
+                  "coords": [
+                        24.509389,
+                        58.405311
                   ]
             }
       ]
@@ -4211,6 +5300,33 @@ const estoniaAllPoiBase: POI[] = [
                         28.172236,
                         59.377378
                   ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär ist ein ruhiges Seegebiet in Narva, das sich perfekt für einen friedlichen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narwa-Stausee",
+                  "text": "Der Narva-Stausee ist ein bedeutendes Gewässer in Narva, das weite Ausblicke und eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Dieser Spielplatz in Narva bietet Kindern einen unterhaltsamen Außenbereich zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
             }
       ],
       "hu": [
@@ -4554,6 +5670,33 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         28.172236,
                         59.377378
+                  ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "A Väike-Kadastiku karjäär egy csendes tavi terület Narvában, amely tökéletes egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva veehoidla / Нарвское водохранилище",
+                  "text": "A Narvai-víztározó egy jelentős vízfelület Narvában, amely tágas kilátást és nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Ez a narvai játszótér szórakoztató szabadtéri helyet kínál a gyerekeknek a játékhoz és az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
                   ]
             }
       ],
@@ -4899,6 +6042,33 @@ const estoniaAllPoiBase: POI[] = [
                         28.172236,
                         59.377378
                   ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär este o zonă de lac liniștită din Narva, perfectă pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva veehoidla / Нарвское водохранилище",
+                  "text": "Rezervorul Narva este un corp de apă semnificativ din Narva, oferind vederi vaste și o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Acest loc de joacă din Narva oferă un spațiu distractiv în aer liber pentru ca copiii să se joace și să rămână activi.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
             }
       ],
       "en": [
@@ -5243,6 +6413,33 @@ const estoniaAllPoiBase: POI[] = [
                         28.172236,
                         59.377378
                   ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär is a quiet lake area in Narva, perfect for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva Reservoir",
+                  "text": "Narva Reservoir is a significant body of water in Narva, offering vast views and a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "This playground in Narva offers a fun outdoor space for children to play and stay active.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
             }
       ]
 },
@@ -5484,6 +6681,33 @@ const estoniaAllPoiBase: POI[] = [
                         23.535127,
                         58.944162
                   ]
+            },
+            {
+                  "name": "Piiskopilinnuse lastepark",
+                  "text": "Ein schöner Spielplatz an der Bischofsburg in Haapsalu mit historischem Flair.",
+                  "category": "family",
+                  "coords": [
+                        23.537149,
+                        58.947239
+                  ]
+            },
+            {
+                  "name": "Iloni park",
+                  "text": "Ein freundlicher Spielplatz in Haapsalu, der zum Verweilen im Grünen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        23.534976,
+                        58.947671
+                  ]
+            },
+            {
+                  "name": "Promenaadi mänguväljak",
+                  "text": "Ein schöner Spielplatz in Haapsalu, auf dem Kinder im Freien spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        23.543589,
+                        58.95013
+                  ]
             }
       ],
       "hu": [
@@ -5674,6 +6898,33 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.535127,
                         58.944162
+                  ]
+            },
+            {
+                  "name": "Piiskopilinnuse lastepark",
+                  "text": "Egy szép játszótér a Haapsalu-i püspöki várnál, történelmi hangulattal.",
+                  "category": "family",
+                  "coords": [
+                        23.537149,
+                        58.947239
+                  ]
+            },
+            {
+                  "name": "Iloni park",
+                  "text": "Egy barátságos játszótér Haapsalu városában, amely zöld környezetben várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        23.534976,
+                        58.947671
+                  ]
+            },
+            {
+                  "name": "Promenaadi mänguväljak",
+                  "text": "Egy kedves játszótér Haapsalu városában, ahol a gyerekek a szabadban játszhatnak és jól érezhetik magukat.",
+                  "category": "family",
+                  "coords": [
+                        23.543589,
+                        58.95013
                   ]
             }
       ],
@@ -5866,6 +7117,33 @@ const estoniaAllPoiBase: POI[] = [
                         23.535127,
                         58.944162
                   ]
+            },
+            {
+                  "name": "Piiskopilinnuse lastepark",
+                  "text": "Un loc de joacă frumos la castelul episcopal din Haapsalu, cu un aer istoric.",
+                  "category": "family",
+                  "coords": [
+                        23.537149,
+                        58.947239
+                  ]
+            },
+            {
+                  "name": "Iloni park",
+                  "text": "Un loc de joacă prietenos în Haapsalu, care invită la relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        23.534976,
+                        58.947671
+                  ]
+            },
+            {
+                  "name": "Promenaadi mänguväljak",
+                  "text": "Un loc de joacă frumos în Haapsalu, unde copiii se pot juca în aer liber și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        23.543589,
+                        58.95013
+                  ]
             }
       ],
       "en": [
@@ -6056,6 +7334,33 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.535127,
                         58.944162
+                  ]
+            },
+            {
+                  "name": "Piiskopilinnuse lastepark",
+                  "text": "A beautiful playground at the Bishop's Castle in Haapsalu with historical flair.",
+                  "category": "family",
+                  "coords": [
+                        23.537149,
+                        58.947239
+                  ]
+            },
+            {
+                  "name": "Iloni park",
+                  "text": "A friendly playground in Haapsalu that invites you to spend time in the greenery.",
+                  "category": "family",
+                  "coords": [
+                        23.534976,
+                        58.947671
+                  ]
+            },
+            {
+                  "name": "Promenaadi mänguväljak",
+                  "text": "A lovely playground in Haapsalu where children can play outdoors and have fun.",
+                  "category": "family",
+                  "coords": [
+                        23.543589,
+                        58.95013
                   ]
             }
       ]
@@ -6636,6 +7941,96 @@ export const estoniaCities: POI[] = [
                         25.624339,
                         58.366747
                   ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Der Pärsti järv ist ein malerischer See bei Viljandi, der für seine ruhige und natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Der Karula järv ist ein friedlicher See in der Gegend von Viljandi und ein schöner Ort für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Der Sinialliku järv ist ein malerischer See in Viljandi, der eine ruhige Umgebung für einen entspannten Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Der Rahetsema järv ist ein ruhiger See bei Viljandi, ideal um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Der Raaudna tehisjärv ist ein künstlicher See in Viljandi, der ein angenehmes Areal zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Der Kamaveski järv ist ein kleiner und friedlicher See in Viljandi, der von einer Naturlandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Der Kõlu järv ist ein ruhiger See in der Region Viljandi, der sich perfekt für ein stilles Naturerlebnis eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla ist ein Stausee in Viljandi, der eine friedliche Wasserkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Der Varesemäe tehisjärv ist ein lokaler künstlicher See in Viljandi, ideal für einen entspannten Bummel.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Der Kuuni järv ist ein malerischer See in der Gegend von Viljandi, der eine ruhige Flucht in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
             }
       ],
       "hu": [
@@ -6853,6 +8248,96 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.624339,
                         58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "A Viljandi közelében található Pärsti järv egy festői tó, amely nyugodt és természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "A Karula järv egy békés tó Viljandi környékén, amely gyönyörű helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "A Sinialliku järv egy festői tó Viljandiban, amely nyugodt környezetet biztosít egy pihentető látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "A Rahetsema järv egy csendes tó Viljandi közelében, amely ideális a helyi táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "A Raudna tehisjärv egy mesterséges tó Viljandiban, amely kellemes területet kínál sétához és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "A Kamaveski järv egy kicsi és békés tó Viljandiban, természetes tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "A Kõlu järv egy nyugodt tó Viljandi régiójában, amely tökéletes egy csendes szabadtéri élményhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Az Alustre-Päärna veehoidla egy víztározó Viljandiban, amely nyugodt vízi környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "A Varesemäe tehisjärv egy helyi mesterséges tó Viljandiban, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "A Kuuni järv egy festői tó Viljandi környékén, amely csendes menekülést kínál a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
                   ]
             }
       ],
@@ -7072,6 +8557,96 @@ export const estoniaCities: POI[] = [
                         25.624339,
                         58.366747
                   ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Pärsti järv este un lac pitoresc de lângă Viljandi, cunoscut pentru împrejurimile sale liniștite și naturale.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Karula järv este un lac liniștit din zona Viljandi, oferind un loc frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Sinialliku järv este un lac pitoresc din Viljandi, oferind un mediu calm pentru o vizită relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Rahetsema järv este un lac liniștit de lângă Viljandi, ideal pentru a vă bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Raudna tehisjärv este un lac artificial din Viljandi, care oferă o zonă plăcută pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Kamaveski järv este un lac mic și liniștit din Viljandi, înconjurat de un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Kõlu järv este un lac liniștit situat în regiunea Viljandi, perfect pentru o experiență liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla este un rezervor din Viljandi, oferind un cadru acvatic liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Varesemäe tehisjärv este un lac artificial local din Viljandi, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Kuuni järv este un lac pitoresc din zona Viljandi, oferind o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
             }
       ],
       "en": [
@@ -7289,6 +8864,96 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.624339,
                         58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Pärsti järv is a scenic lake near Viljandi, known for its tranquil and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Karula järv is a peaceful lake in the Viljandi area, offering a beautiful spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Sinialliku järv is a scenic lake in Viljandi, providing a calm environment for a relaxing visit.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Rahetsema järv is a quiet lake near Viljandi, ideal for enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Raudna tehisjärv is an artificial lake in Viljandi, offering a pleasant area for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Kamaveski järv is a small and peaceful lake in Viljandi, surrounded by a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Kõlu järv is a calm lake located in the Viljandi region, perfect for a quiet outdoor experience.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla is a reservoir in Viljandi, providing a peaceful water setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Varesemäe tehisjärv is a local artificial lake in Viljandi, ideal for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Kuuni järv is a scenic lake in the Viljandi area, offering a quiet escape into nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
                   ]
             }
       ]
@@ -7876,6 +9541,231 @@ export const estoniaCities: POI[] = [
                         27.008182,
                         57.840742
                   ]
+            },
+            {
+                  "name": "Verijärv",
+                  "text": "Verijärv ist ein See in Voru, der für seine malerische Lage und die Legenden der Region bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.054044,
+                        57.808385
+                  ]
+            },
+            {
+                  "name": "Kogõrijärv",
+                  "text": "Kogõrijärv ist ein See in Voru, der eine friedliche Umgebung inmitten der estnischen Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.964337,
+                        57.872899
+                  ]
+            },
+            {
+                  "name": "Oha järv",
+                  "text": "Oha järv ist ein See in Voru, der sich hervorragend für entspannte Momente am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.954823,
+                        57.881684
+                  ]
+            },
+            {
+                  "name": "Pappjärv",
+                  "text": "Pappjärv ist ein See in Voru, der Besuchern eine naturnahe und ruhige Kulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.031076,
+                        57.816573
+                  ]
+            },
+            {
+                  "name": "Kasaritsa Valgjärv",
+                  "text": "Kasaritsa Valgjärv ist ein See in Voru, der durch seine idyllische Umgebung und klares Wasser besticht.",
+                  "category": "natural",
+                  "coords": [
+                        27.038886,
+                        57.812204
+                  ]
+            },
+            {
+                  "name": "Pütäljärv",
+                  "text": "Pütäljärv ist ein See in Voru, der eine kleine Oase der Ruhe in der Landschaft darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        27.024735,
+                        57.809509
+                  ]
+            },
+            {
+                  "name": "Vähkjärv",
+                  "text": "Vähkjärv ist ein See in Voru, der ideal für Spaziergänger und Naturliebhaber ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.005842,
+                        57.806991
+                  ]
+            },
+            {
+                  "name": "Räpo järv",
+                  "text": "Räpo järv ist ein See in Voru, der eine angenehme Atmosphäre für eine Pause im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.095701,
+                        57.791109
+                  ]
+            },
+            {
+                  "name": "Pütälijärv",
+                  "text": "Pütälijärv ist ein See in Voru, der durch seine stille und naturbelassene Lage überzeugt.",
+                  "category": "natural",
+                  "coords": [
+                        26.983108,
+                        57.893544
+                  ]
+            },
+            {
+                  "name": "Albri järv",
+                  "text": "Albri järv ist ein See in Voru, der einen friedlichen Rückzugsort für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.975831,
+                        57.871038
+                  ]
+            },
+            {
+                  "name": "Kubija paisjärv",
+                  "text": "Kubija paisjärv ist ein See in Voru, der sich harmonisch in die umliegende Waldlandschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        27.006707,
+                        57.815312
+                  ]
+            },
+            {
+                  "name": "Kubija järv",
+                  "text": "Kubija järv ist ein See in Voru, der als beliebter Erholungsort am Stadtrand bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.000763,
+                        57.814382
+                  ]
+            },
+            {
+                  "name": "Peräjärv",
+                  "text": "Peräjärv ist ein See in Voru, der zum Entdecken der lokalen Flora und Fauna einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.019784,
+                        57.800613
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Edejärv ist ein See in Voru, der eine entspannte Umgebung für einen Aufenthalt in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.01553,
+                        57.800579
+                  ]
+            },
+            {
+                  "name": "Määräjärv",
+                  "text": "Määräjärv ist ein See in Voru, der einen ruhigen Platz am Wasser für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.060048,
+                        57.794239
+                  ]
+            },
+            {
+                  "name": "Tsianahajärv",
+                  "text": "Der Tsianahajärv ist ein See in Voru, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.067936,
+                        57.765932
+                  ]
+            },
+            {
+                  "name": "Kaasjärv",
+                  "text": "Der Kaasjärv ist ein See in Voru, der eine ruhige Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.072429,
+                        57.799095
+                  ]
+            },
+            {
+                  "name": "Juba järv",
+                  "text": "Der Juba järv ist ein See in Voru, ideal für eine kleine Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.950712,
+                        57.823383
+                  ]
+            },
+            {
+                  "name": "Mäestjärv",
+                  "text": "Der Mäestjärv ist ein See in Voru, der zu einem entspannten Spaziergang in der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.123959,
+                        57.801059
+                  ]
+            },
+            {
+                  "name": "Väikene Mäestjärv",
+                  "text": "Der Väikene Mäestjärv ist ein See in Voru, der eine friedliche Kulisse für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.128228,
+                        57.799746
+                  ]
+            },
+            {
+                  "name": "Kunnaland",
+                  "text": "Der Kunnaland ist ein See in Voru, der eine natürliche Atmosphäre für einen Ausflug bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.133265,
+                        57.798854
+                  ]
+            },
+            {
+                  "name": "Kalporo järv",
+                  "text": "Der Kalporo järv ist ein See in Voru, der sich für eine ruhige Beobachtung der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.103605,
+                        57.801853
+                  ]
+            },
+            {
+                  "name": "Väimela paisjärv",
+                  "text": "Der Väimela paisjärv ist ein Stausee in Voru, der einen schönen Blick auf das Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.008064,
+                        57.898159
+                  ]
+            },
+            {
+                  "name": "Pikkjärv",
+                  "text": "Der Pikkjärv ist ein See in Voru, der durch seine längliche Form und ruhige Lage besticht.",
+                  "category": "natural",
+                  "coords": [
+                        27.087049,
+                        57.803417
+                  ]
+            },
+            {
+                  "name": "Kalijärv",
+                  "text": "Der Kalijärv ist ein See in Voru, der eine malerische Umgebung für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.139128,
+                        57.851009
+                  ]
             }
       ],
       "hu": [
@@ -8003,6 +9893,231 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.008182,
                         57.840742
+                  ]
+            },
+            {
+                  "name": "Verijärv",
+                  "text": "A Verijärv egy tó Voruban, amely festői fekvéséről és a régió legendáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.054044,
+                        57.808385
+                  ]
+            },
+            {
+                  "name": "Kogõrijärv",
+                  "text": "A Kogõrijärv egy tó Voruban, amely békés környezetet biztosít az észt természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        26.964337,
+                        57.872899
+                  ]
+            },
+            {
+                  "name": "Oha järv",
+                  "text": "Az Oha järv egy tó Voruban, amely kiválóan alkalmas a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        26.954823,
+                        57.881684
+                  ]
+            },
+            {
+                  "name": "Pappjärv",
+                  "text": "A Pappjärv egy tó Voruban, amely természetközeli és nyugodt környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.031076,
+                        57.816573
+                  ]
+            },
+            {
+                  "name": "Kasaritsa Valgjärv",
+                  "text": "A Kasaritsa Valgjärv egy tó Voruban, amely idilli környezetével és tiszta vizével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        27.038886,
+                        57.812204
+                  ]
+            },
+            {
+                  "name": "Pütäljärv",
+                  "text": "A Pütäljärv egy tó Voruban, amely a nyugalom kis oázisa a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        27.024735,
+                        57.809509
+                  ]
+            },
+            {
+                  "name": "Vähkjärv",
+                  "text": "A Vähkjärv egy tó Voruban, amely ideális a sétálók és a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        27.005842,
+                        57.806991
+                  ]
+            },
+            {
+                  "name": "Räpo järv",
+                  "text": "A Räpo järv egy tó Voruban, amely kellemes légkört biztosít egy természetbeni pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        27.095701,
+                        57.791109
+                  ]
+            },
+            {
+                  "name": "Pütälijärv",
+                  "text": "A Pütälijärv egy tó Voruban, amely csendes és természetes fekvésével hódít.",
+                  "category": "natural",
+                  "coords": [
+                        26.983108,
+                        57.893544
+                  ]
+            },
+            {
+                  "name": "Albri järv",
+                  "text": "Az Albri järv egy tó Voruban, amely békés menedéket kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.975831,
+                        57.871038
+                  ]
+            },
+            {
+                  "name": "Kubija paisjärv",
+                  "text": "A Kubija paisjärv egy tó Voruban, amely harmonikusan illeszkedik a környező erdei tájba.",
+                  "category": "natural",
+                  "coords": [
+                        27.006707,
+                        57.815312
+                  ]
+            },
+            {
+                  "name": "Kubija järv",
+                  "text": "A Kubija järv egy tó Voruban, amely a város szélén található népszerű pihenőhelyként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.000763,
+                        57.814382
+                  ]
+            },
+            {
+                  "name": "Peräjärv",
+                  "text": "A Peräjärv egy tó Voruban, amely a helyi növény- és állatvilág felfedezésére hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.019784,
+                        57.800613
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Az Edejärv egy tó Voruban, amely pihentető környezetet biztosít a természetben való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.01553,
+                        57.800579
+                  ]
+            },
+            {
+                  "name": "Määräjärv",
+                  "text": "A Määräjärv egy tó Voruban, amely nyugodt vízparti helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        27.060048,
+                        57.794239
+                  ]
+            },
+            {
+                  "name": "Tsianahajärv",
+                  "text": "A Tsianahajärv egy tó Voru területén, amely kiváló helyszín egy természetközeli sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.067936,
+                        57.765932
+                  ]
+            },
+            {
+                  "name": "Kaasjärv",
+                  "text": "A Kaasjärv egy tó Voru területén, amely nyugodt környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        27.072429,
+                        57.799095
+                  ]
+            },
+            {
+                  "name": "Juba järv",
+                  "text": "A Juba järv egy tó Voru területén, amely ideális egy kis kikapcsolódáshoz a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        26.950712,
+                        57.823383
+                  ]
+            },
+            {
+                  "name": "Mäestjärv",
+                  "text": "A Mäestjärv egy tó Voru területén, amely pihentető sétára invitál a tájban.",
+                  "category": "natural",
+                  "coords": [
+                        27.123959,
+                        57.801059
+                  ]
+            },
+            {
+                  "name": "Väikene Mäestjärv",
+                  "text": "A Väikene Mäestjärv egy tó Voru területén, amely békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.128228,
+                        57.799746
+                  ]
+            },
+            {
+                  "name": "Kunnaland",
+                  "text": "A Kunnaland egy tó Voru területén, amely természetes környezetet kínál egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.133265,
+                        57.798854
+                  ]
+            },
+            {
+                  "name": "Kalporo järv",
+                  "text": "A Kalporo järv egy tó Voru területén, amely alkalmas a természet csendes megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.103605,
+                        57.801853
+                  ]
+            },
+            {
+                  "name": "Väimela paisjärv",
+                  "text": "A Väimela paisjärv egy víztározó Voru területén, amely szép kilátást nyújt a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        27.008064,
+                        57.898159
+                  ]
+            },
+            {
+                  "name": "Pikkjärv",
+                  "text": "A Pikkjärv egy tó Voru területén, amely hosszi kás alakjával és nyugodt fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        27.087049,
+                        57.803417
+                  ]
+            },
+            {
+                  "name": "Kalijärv",
+                  "text": "A Kalijärv egy tó Voru területén, amely festői környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.139128,
+                        57.851009
                   ]
             }
       ],
@@ -8132,6 +10247,231 @@ export const estoniaCities: POI[] = [
                         27.008182,
                         57.840742
                   ]
+            },
+            {
+                  "name": "Verijärv",
+                  "text": "Verijärv este un lac în Voru, cunoscut pentru locația sa pitorească și legendele regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        27.054044,
+                        57.808385
+                  ]
+            },
+            {
+                  "name": "Kogõrijärv",
+                  "text": "Kogõrijärv este un lac în Voru, oferind un mediu pașnic în mijlocul naturii estoniene.",
+                  "category": "natural",
+                  "coords": [
+                        26.964337,
+                        57.872899
+                  ]
+            },
+            {
+                  "name": "Oha järv",
+                  "text": "Oha järv este un lac în Voru, fiind excelent pentru momente de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.954823,
+                        57.881684
+                  ]
+            },
+            {
+                  "name": "Pappjärv",
+                  "text": "Pappjärv este un lac în Voru, oferind vizitatorilor un cadru liniștit și aproape de natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.031076,
+                        57.816573
+                  ]
+            },
+            {
+                  "name": "Kasaritsa Valgjärv",
+                  "text": "Kasaritsa Valgjärv este un lac în Voru, remarcându-se prin mediul idilic și apa limpede.",
+                  "category": "natural",
+                  "coords": [
+                        27.038886,
+                        57.812204
+                  ]
+            },
+            {
+                  "name": "Pütäljärv",
+                  "text": "Pütäljärv este un lac în Voru, reprezentând o mică oază de liniște în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        27.024735,
+                        57.809509
+                  ]
+            },
+            {
+                  "name": "Vähkjärv",
+                  "text": "Vähkjärv este un lac în Voru, ideal pentru plimbări și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.005842,
+                        57.806991
+                  ]
+            },
+            {
+                  "name": "Räpo järv",
+                  "text": "Räpo järv este un lac în Voru, oferind o atmosferă plăcută pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.095701,
+                        57.791109
+                  ]
+            },
+            {
+                  "name": "Pütälijärv",
+                  "text": "Pütälijärv este un lac în Voru, convingând prin locația sa liniștită și naturală.",
+                  "category": "natural",
+                  "coords": [
+                        26.983108,
+                        57.893544
+                  ]
+            },
+            {
+                  "name": "Albri järv",
+                  "text": "Albri järv este un lac în Voru, oferind un refugiu pașnic pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        26.975831,
+                        57.871038
+                  ]
+            },
+            {
+                  "name": "Kubija paisjärv",
+                  "text": "Kubija paisjärv este un lac în Voru, integrându-se armonios în peisajul forestier înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.006707,
+                        57.815312
+                  ]
+            },
+            {
+                  "name": "Kubija järv",
+                  "text": "Kubija järv este un lac în Voru, cunoscut ca un loc popular de recreere la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        27.000763,
+                        57.814382
+                  ]
+            },
+            {
+                  "name": "Peräjärv",
+                  "text": "Peräjärv este un lac în Voru, invitând la descoperirea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        27.019784,
+                        57.800613
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Edejärv este un lac în Voru, oferind un mediu relaxant pentru petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.01553,
+                        57.800579
+                  ]
+            },
+            {
+                  "name": "Määräjärv",
+                  "text": "Määräjärv este un lac în Voru, oferind un loc liniștit pe malul apei pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.060048,
+                        57.794239
+                  ]
+            },
+            {
+                  "name": "Tsianahajärv",
+                  "text": "Tsianahajärv este un lac în Voru, fiind un loc plăcut pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.067936,
+                        57.765932
+                  ]
+            },
+            {
+                  "name": "Kaasjärv",
+                  "text": "Kaasjärv este un lac în Voru, oferind un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.072429,
+                        57.799095
+                  ]
+            },
+            {
+                  "name": "Juba järv",
+                  "text": "Juba järv este un lac în Voru, ideal pentru o scurtă relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.950712,
+                        57.823383
+                  ]
+            },
+            {
+                  "name": "Mäestjärv",
+                  "text": "Mäestjärv este un lac în Voru, care invită la o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.123959,
+                        57.801059
+                  ]
+            },
+            {
+                  "name": "Väikene Mäestjärv",
+                  "text": "Väikene Mäestjärv este un lac în Voru, oferind un cadru liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        27.128228,
+                        57.799746
+                  ]
+            },
+            {
+                  "name": "Kunnaland",
+                  "text": "Kunnaland este un lac în Voru, oferind o atmosferă naturală pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        27.133265,
+                        57.798854
+                  ]
+            },
+            {
+                  "name": "Kalporo järv",
+                  "text": "Kalporo järv este un lac în Voru, potrivit pentru observarea liniștită a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.103605,
+                        57.801853
+                  ]
+            },
+            {
+                  "name": "Väimela paisjärv",
+                  "text": "Väimela paisjärv este un lac de acumulare în Voru, oferind o priveliște frumoasă asupra apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.008064,
+                        57.898159
+                  ]
+            },
+            {
+                  "name": "Pikkjärv",
+                  "text": "Pikkjärv este un lac în Voru, remarcabil prin forma sa alungită și locația liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        27.087049,
+                        57.803417
+                  ]
+            },
+            {
+                  "name": "Kalijärv",
+                  "text": "Kalijärv este un lac în Voru, oferind un cadru pitoresc pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        27.139128,
+                        57.851009
+                  ]
             }
       ],
       "en": [
@@ -8260,6 +10600,231 @@ export const estoniaCities: POI[] = [
                         27.008182,
                         57.840742
                   ]
+            },
+            {
+                  "name": "Verijärv",
+                  "text": "Verijärv is a lake in Voru, known for its scenic location and regional legends.",
+                  "category": "natural",
+                  "coords": [
+                        27.054044,
+                        57.808385
+                  ]
+            },
+            {
+                  "name": "Kogõrijärv",
+                  "text": "Kogõrijärv is a lake in Voru, providing a peaceful environment in the heart of Estonian nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.964337,
+                        57.872899
+                  ]
+            },
+            {
+                  "name": "Oha järv",
+                  "text": "Oha järv is a lake in Voru, perfect for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.954823,
+                        57.881684
+                  ]
+            },
+            {
+                  "name": "Pappjärv",
+                  "text": "Pappjärv is a lake in Voru, offering visitors a quiet and nature-filled setting.",
+                  "category": "natural",
+                  "coords": [
+                        27.031076,
+                        57.816573
+                  ]
+            },
+            {
+                  "name": "Kasaritsa Valgjärv",
+                  "text": "Kasaritsa Valgjärv is a lake in Voru, known for its idyllic surroundings and clear water.",
+                  "category": "natural",
+                  "coords": [
+                        27.038886,
+                        57.812204
+                  ]
+            },
+            {
+                  "name": "Pütäljärv",
+                  "text": "Pütäljärv is a lake in Voru, representing a small oasis of peace in the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.024735,
+                        57.809509
+                  ]
+            },
+            {
+                  "name": "Vähkjärv",
+                  "text": "Vähkjärv is a lake in Voru, ideal for walkers and nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        27.005842,
+                        57.806991
+                  ]
+            },
+            {
+                  "name": "Räpo järv",
+                  "text": "Räpo järv is a lake in Voru, providing a pleasant atmosphere for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.095701,
+                        57.791109
+                  ]
+            },
+            {
+                  "name": "Pütälijärv",
+                  "text": "Pütälijärv is a lake in Voru, impressing with its quiet and natural location.",
+                  "category": "natural",
+                  "coords": [
+                        26.983108,
+                        57.893544
+                  ]
+            },
+            {
+                  "name": "Albri järv",
+                  "text": "Albri järv is a lake in Voru, providing a peaceful retreat for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        26.975831,
+                        57.871038
+                  ]
+            },
+            {
+                  "name": "Kubija paisjärv",
+                  "text": "Kubija paisjärv is a lake in Voru, harmoniously blending into the surrounding forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.006707,
+                        57.815312
+                  ]
+            },
+            {
+                  "name": "Kubija järv",
+                  "text": "Kubija järv is a lake in Voru, known as a popular recreational spot on the outskirts of the city.",
+                  "category": "natural",
+                  "coords": [
+                        27.000763,
+                        57.814382
+                  ]
+            },
+            {
+                  "name": "Peräjärv",
+                  "text": "Peräjärv is a lake in Voru, inviting for exploration of the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.019784,
+                        57.800613
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Edejärv is a lake in Voru, providing a relaxed environment for a stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.01553,
+                        57.800579
+                  ]
+            },
+            {
+                  "name": "Määräjärv",
+                  "text": "Määräjärv is a lake in Voru, offering a quiet spot by the water for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        27.060048,
+                        57.794239
+                  ]
+            },
+            {
+                  "name": "Tsianahajärv",
+                  "text": "Tsianahajärv is a lake in Voru, offering a pleasant setting for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.067936,
+                        57.765932
+                  ]
+            },
+            {
+                  "name": "Kaasjärv",
+                  "text": "Kaasjärv is a lake in Voru, providing a quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        27.072429,
+                        57.799095
+                  ]
+            },
+            {
+                  "name": "Juba järv",
+                  "text": "Juba järv is a lake in Voru, ideal for a short break by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.950712,
+                        57.823383
+                  ]
+            },
+            {
+                  "name": "Mäestjärv",
+                  "text": "Mäestjärv is a lake in Voru, inviting visitors to a relaxing walk in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        27.123959,
+                        57.801059
+                  ]
+            },
+            {
+                  "name": "Väikene Mäestjärv",
+                  "text": "Väikene Mäestjärv is a lake in Voru, providing a peaceful backdrop for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        27.128228,
+                        57.799746
+                  ]
+            },
+            {
+                  "name": "Kunnaland",
+                  "text": "Kunnaland is a lake in Voru, offering a natural atmosphere for an outing.",
+                  "category": "natural",
+                  "coords": [
+                        27.133265,
+                        57.798854
+                  ]
+            },
+            {
+                  "name": "Kalporo järv",
+                  "text": "Kalporo järv is a lake in Voru, suitable for quiet nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        27.103605,
+                        57.801853
+                  ]
+            },
+            {
+                  "name": "Väimela paisjärv",
+                  "text": "Väimela paisjärv is a reservoir lake in Voru, offering a nice view of the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.008064,
+                        57.898159
+                  ]
+            },
+            {
+                  "name": "Pikkjärv",
+                  "text": "Pikkjärv is a lake in Voru, notable for its elongated shape and quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        27.087049,
+                        57.803417
+                  ]
+            },
+            {
+                  "name": "Kalijärv",
+                  "text": "Kalijärv is a lake in Voru, offering a scenic setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        27.139128,
+                        57.851009
+                  ]
             }
       ]
 },
@@ -8370,6 +10935,42 @@ export const estoniaCities: POI[] = [
                         24.790158,
                         58.999538
                   ]
+            },
+            {
+                  "name": "Öökulli järv",
+                  "text": "Der Öökulli järv ist ein malerischer See in Rapla, ideal für einen ruhigen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.85131,
+                        58.98007
+                  ]
+            },
+            {
+                  "name": "Kuusiku veehoidla",
+                  "text": "Kuusiku veehoidla ist ein ruhiger Stausee in Rapla, der einen friedlichen Ort zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.724961,
+                        58.968168
+                  ]
+            },
+            {
+                  "name": "Sõerumäe paisjärv",
+                  "text": "Der Sõerumäe paisjärv ist ein ruhiger Stausee in Rapla, ideal um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.77167,
+                        58.995569
+                  ]
+            },
+            {
+                  "name": "Hellenurme mänguväljak",
+                  "text": "Der Spielplatz Hellenurme in Rapla ist ein toller Ort für Kinder zum Spielen und um die Natur zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        24.781694,
+                        59.004488
+                  ]
             }
       ],
       "hu": [
@@ -8434,6 +11035,42 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         24.790158,
                         58.999538
+                  ]
+            },
+            {
+                  "name": "Öökulli järv",
+                  "text": "Az Öökulli järv egy festői tó Raplában, amely tökéletes egy csendes természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.85131,
+                        58.98007
+                  ]
+            },
+            {
+                  "name": "Kuusiku veehoidla",
+                  "text": "A Kuusiku veehoidla egy nyugodt víztározó Raplában, amely békés helyet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.724961,
+                        58.968168
+                  ]
+            },
+            {
+                  "name": "Sõerumäe paisjärv",
+                  "text": "A Sõerumäe paisjärv egy csendes mesterséges tó Raplában, amely ideális a helyi táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.77167,
+                        58.995569
+                  ]
+            },
+            {
+                  "name": "Hellenurme mänguväljak",
+                  "text": "A raplai Hellenurme játszótér nagyszerű hely a gyerekek számára a játékhoz és a szabadban való tartózkodáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.781694,
+                        59.004488
                   ]
             }
       ],
@@ -8500,6 +11137,42 @@ export const estoniaCities: POI[] = [
                         24.790158,
                         58.999538
                   ]
+            },
+            {
+                  "name": "Öökulli järv",
+                  "text": "Öökulli järv este un lac pitoresc din Rapla, perfect pentru a vă bucura de o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.85131,
+                        58.98007
+                  ]
+            },
+            {
+                  "name": "Kuusiku veehoidla",
+                  "text": "Kuusiku veehoidla este un rezervor calm din Rapla, oferind un loc liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.724961,
+                        58.968168
+                  ]
+            },
+            {
+                  "name": "Sõerumäe paisjärv",
+                  "text": "Sõerumäe paisjärv este un lac artificial liniștit din Rapla, ideal pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        24.77167,
+                        58.995569
+                  ]
+            },
+            {
+                  "name": "Hellenurme mänguväljak",
+                  "text": "Locul de joacă Hellenurme din Rapla este un loc minunat pentru ca copiii să se joace și să se bucure de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.781694,
+                        59.004488
+                  ]
             }
       ],
       "en": [
@@ -8564,6 +11237,42 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         24.790158,
                         58.999538
+                  ]
+            },
+            {
+                  "name": "Öökulli järv",
+                  "text": "Öökulli järv is a scenic lake in Rapla, perfect for enjoying a quiet walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.85131,
+                        58.98007
+                  ]
+            },
+            {
+                  "name": "Kuusiku veehoidla",
+                  "text": "Kuusiku veehoidla is a calm reservoir in Rapla, providing a peaceful spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.724961,
+                        58.968168
+                  ]
+            },
+            {
+                  "name": "Sõerumäe paisjärv",
+                  "text": "Sõerumäe paisjärv is a quiet artificial lake in Rapla, ideal for taking in the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.77167,
+                        58.995569
+                  ]
+            },
+            {
+                  "name": "Hellenurme mänguväljak",
+                  "text": "Hellenurme playground in Rapla is a great spot for children to play and enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        24.781694,
+                        59.004488
                   ]
             }
       ]
@@ -8979,6 +11688,24 @@ export const estoniaCities: POI[] = [
                         27.415629,
                         59.357568
                   ]
+            },
+            {
+                  "name": "Isandajärv",
+                  "text": "Der Isandajärv ist ein friedlicher See in Jõhvi, der einen ruhigen Rahmen für eine kurze Auszeit bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.550301,
+                        59.333478
+                  ]
+            },
+            {
+                  "name": "Code 7 batuudikeskus",
+                  "text": "Das Trampolinzentrum Code 7 in Jõhvi bietet energetischen Spaß und aktive Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        27.419253,
+                        59.357375
+                  ]
             }
       ],
       "hu": [
@@ -9034,6 +11761,24 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.415629,
                         59.357568
+                  ]
+            },
+            {
+                  "name": "Isandajärv",
+                  "text": "Az Isandajärv egy békés tó Jõhviban, amely nyugodt környezetet biztosít egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        27.550301,
+                        59.333478
+                  ]
+            },
+            {
+                  "name": "Code 7 batuudikeskus",
+                  "text": "A Jõhviban található Code 7 batuudikeskus energikus szórakozást és aktív kikapcsolódást kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        27.419253,
+                        59.357375
                   ]
             }
       ],
@@ -9091,6 +11836,24 @@ export const estoniaCities: POI[] = [
                         27.415629,
                         59.357568
                   ]
+            },
+            {
+                  "name": "Isandajärv",
+                  "text": "Isandajärv este un lac liniștit din Jõhvi, oferind un cadru calm pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        27.550301,
+                        59.333478
+                  ]
+            },
+            {
+                  "name": "Code 7 batuudikeskus",
+                  "text": "Centrul de trambuline Code 7 din Jõhvi oferă distracție plină de energie și divertisment activ pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        27.419253,
+                        59.357375
+                  ]
             }
       ],
       "en": [
@@ -9146,6 +11909,24 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.415629,
                         59.357568
+                  ]
+            },
+            {
+                  "name": "Isandajärv",
+                  "text": "Isandajärv is a peaceful lake in Jõhvi, offering a calm setting for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        27.550301,
+                        59.333478
+                  ]
+            },
+            {
+                  "name": "Code 7 batuudikeskus",
+                  "text": "Code 7 trampoline center in Jõhvi offers energetic fun and active entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        27.419253,
+                        59.357375
                   ]
             }
       ]
@@ -9248,6 +12029,105 @@ export const estoniaCities: POI[] = [
                         27.064473,
                         58.053714
                   ]
+            },
+            {
+                  "name": "Peri järv",
+                  "text": "Ein ruhiger See in Polva, der sich hervorragend für einen erholsamen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.095805,
+                        58.019047
+                  ]
+            },
+            {
+                  "name": "Latõrna järv",
+                  "text": "Dieser See in Polva bietet eine friedliche Kulisse für Naturfreunde und Spaziergänger.",
+                  "category": "natural",
+                  "coords": [
+                        27.167535,
+                        58.098341
+                  ]
+            },
+            {
+                  "name": "Miiaste järv",
+                  "text": "Ein malerisches Gewässer in Polva, ideal um die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        27.173573,
+                        58.095972
+                  ]
+            },
+            {
+                  "name": "Kauksi järv",
+                  "text": "Ein idyllischer See in Polva, der zu einer Pause im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.188364,
+                        58.080259
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Genießen Sie die ruhige Atmosphäre an diesem See in Polva bei einem Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.971724,
+                        58.090358
+                  ]
+            },
+            {
+                  "name": "Tagajärv",
+                  "text": "Ein naturbelassener See in Polva, der eine schöne Umgebung für einen Ausflug bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.970259,
+                        58.091954
+                  ]
+            },
+            {
+                  "name": "Metste järv",
+                  "text": "Dieser See in Polva ist ein friedlicher Ort, um die Natur zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        27.042433,
+                        58.020682
+                  ]
+            },
+            {
+                  "name": "Kunna järv",
+                  "text": "Ein stiller See in Polva, ideal für eine kleine Auszeit vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        27.000604,
+                        58.02978
+                  ]
+            },
+            {
+                  "name": "Põlva järv",
+                  "text": "Der See in Polva bietet eine schöne Kulisse für Aktivitäten im Freien und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        27.061965,
+                        58.061465
+                  ]
+            },
+            {
+                  "name": "Saesaare paisjärv",
+                  "text": "Ein Stausee in Polva, der sich harmonisch in die umliegende Natur einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        27.046213,
+                        58.126209
+                  ]
+            },
+            {
+                  "name": "Mammaste mänguväljak",
+                  "text": "Ein familienfreundlicher Spielplatz in Polva, ideal für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        27.054383,
+                        58.060478
+                  ]
             }
       ],
       "hu": [
@@ -9303,6 +12183,105 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.064473,
                         58.053714
+                  ]
+            },
+            {
+                  "name": "Peri järv",
+                  "text": "Egy nyugodt tó Polva közelében, amely kiválóan alkalmas egy pihentető sétára a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        27.095805,
+                        58.019047
+                  ]
+            },
+            {
+                  "name": "Latõrna järv",
+                  "text": "Ez a Polva városában található tó békés környezetet kínál a természet kedvelőinek és a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.167535,
+                        58.098341
+                  ]
+            },
+            {
+                  "name": "Miiaste järv",
+                  "text": "Egy festői vízfelület Polva területén, amely ideális a környező táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        27.173573,
+                        58.095972
+                  ]
+            },
+            {
+                  "name": "Kauksi järv",
+                  "text": "Egy idilli tó Polva városában, amely egy zöld környezetben tett pihenőre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        27.188364,
+                        58.080259
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Élvezze a Polva városában található tó nyugodt légkörét a szabadban való tartózkodás közben.",
+                  "category": "natural",
+                  "coords": [
+                        26.971724,
+                        58.090358
+                  ]
+            },
+            {
+                  "name": "Tagajärv",
+                  "text": "Egy természetközeli tó Polva közelében, amely szép környezetet kínál egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.970259,
+                        58.091954
+                  ]
+            },
+            {
+                  "name": "Metste järv",
+                  "text": "Ez a Polva városában található tó egy békés hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.042433,
+                        58.020682
+                  ]
+            },
+            {
+                  "name": "Kunna järv",
+                  "text": "Egy csendes tó Polva városában, amely ideális egy kis kikapcsolódásra a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        27.000604,
+                        58.02978
+                  ]
+            },
+            {
+                  "name": "Põlva järv",
+                  "text": "A polvai tó szép hátteret biztosít a szabadtéri tevékenységekhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.061965,
+                        58.061465
+                  ]
+            },
+            {
+                  "name": "Saesaare paisjärv",
+                  "text": "Egy víztározó Polva városában, amely harmonikusan illeszkedik a környező természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        27.046213,
+                        58.126209
+                  ]
+            },
+            {
+                  "name": "Mammaste mänguväljak",
+                  "text": "Családbarát játszótér Polva városában, amely ideális a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.054383,
+                        58.060478
                   ]
             }
       ],
@@ -9360,6 +12339,105 @@ export const estoniaCities: POI[] = [
                         27.064473,
                         58.053714
                   ]
+            },
+            {
+                  "name": "Peri järv",
+                  "text": "Un lac liniștit în Polva, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.095805,
+                        58.019047
+                  ]
+            },
+            {
+                  "name": "Latõrna järv",
+                  "text": "Acest lac din Polva oferă un cadru liniștit pentru iubitorii de natură și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        27.167535,
+                        58.098341
+                  ]
+            },
+            {
+                  "name": "Miiaste järv",
+                  "text": "O zonă cu apă pitorească în Polva, ideală pentru a te bucura de peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.173573,
+                        58.095972
+                  ]
+            },
+            {
+                  "name": "Kauksi järv",
+                  "text": "Un lac idilic în Polva, care invită la o pauză în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.188364,
+                        58.080259
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Bucurați-vă de atmosfera liniștită de la acest lac din Polva în timpul unei ieșiri în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.971724,
+                        58.090358
+                  ]
+            },
+            {
+                  "name": "Tagajärv",
+                  "text": "Un lac natural în Polva, care oferă un cadru frumos pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        26.970259,
+                        58.091954
+                  ]
+            },
+            {
+                  "name": "Metste järv",
+                  "text": "Acest lac din Polva este un loc liniștit pentru a observa natura.",
+                  "category": "natural",
+                  "coords": [
+                        27.042433,
+                        58.020682
+                  ]
+            },
+            {
+                  "name": "Kunna järv",
+                  "text": "Un lac liniștit în Polva, ideal pentru o mică pauză de la viața de zi cu zi.",
+                  "category": "natural",
+                  "coords": [
+                        27.000604,
+                        58.02978
+                  ]
+            },
+            {
+                  "name": "Põlva järv",
+                  "text": "Lacul din Polva oferă un cadru frumos pentru activități în aer liber și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        27.061965,
+                        58.061465
+                  ]
+            },
+            {
+                  "name": "Saesaare paisjärv",
+                  "text": "Un lac de acumulare în Polva, care se integrează armonios în natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        27.046213,
+                        58.126209
+                  ]
+            },
+            {
+                  "name": "Mammaste mänguväljak",
+                  "text": "Un loc de joacă pentru familii în Polva, ideal pentru ca copiii să se zbenguie.",
+                  "category": "family",
+                  "coords": [
+                        27.054383,
+                        58.060478
+                  ]
             }
       ],
       "en": [
@@ -9415,6 +12493,105 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.064473,
                         58.053714
+                  ]
+            },
+            {
+                  "name": "Peri järv",
+                  "text": "A peaceful lake in Polva, perfect for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.095805,
+                        58.019047
+                  ]
+            },
+            {
+                  "name": "Latõrna järv",
+                  "text": "This lake in Polva offers a peaceful setting for nature lovers and walkers.",
+                  "category": "natural",
+                  "coords": [
+                        27.167535,
+                        58.098341
+                  ]
+            },
+            {
+                  "name": "Miiaste järv",
+                  "text": "A scenic body of water in Polva, ideal for enjoying the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.173573,
+                        58.095972
+                  ]
+            },
+            {
+                  "name": "Kauksi järv",
+                  "text": "An idyllic lake in Polva that invites you to take a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.188364,
+                        58.080259
+                  ]
+            },
+            {
+                  "name": "Edejärv",
+                  "text": "Enjoy the calm atmosphere at this lake in Polva during an outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        26.971724,
+                        58.090358
+                  ]
+            },
+            {
+                  "name": "Tagajärv",
+                  "text": "A natural lake in Polva that provides a beautiful setting for an outing.",
+                  "category": "natural",
+                  "coords": [
+                        26.970259,
+                        58.091954
+                  ]
+            },
+            {
+                  "name": "Metste järv",
+                  "text": "This lake in Polva is a peaceful spot to observe nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.042433,
+                        58.020682
+                  ]
+            },
+            {
+                  "name": "Kunna järv",
+                  "text": "A quiet lake in Polva, ideal for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        27.000604,
+                        58.02978
+                  ]
+            },
+            {
+                  "name": "Põlva järv",
+                  "text": "The lake in Polva offers a beautiful backdrop for outdoor activities and walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.061965,
+                        58.061465
+                  ]
+            },
+            {
+                  "name": "Saesaare paisjärv",
+                  "text": "A reservoir lake in Polva that blends harmoniously into the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.046213,
+                        58.126209
+                  ]
+            },
+            {
+                  "name": "Mammaste mänguväljak",
+                  "text": "A family-friendly playground in Polva, ideal for children to run around and play.",
+                  "category": "family",
+                  "coords": [
+                        27.054383,
+                        58.060478
                   ]
             }
       ]
@@ -9607,6 +12784,51 @@ export const estoniaCities: POI[] = [
                         26.044553,
                         57.775722
                   ]
+            },
+            {
+                  "name": "Zāģezers",
+                  "text": "Der Zāģezers ist ein See in Valga, der Einheimische und Besucher zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.970958,
+                        57.796924
+                  ]
+            },
+            {
+                  "name": "Pedeli kolmas paisjärv",
+                  "text": "Der Pedeli kolmas paisjärv ist ein künstlicher See in Valga, ideal für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        26.041412,
+                        57.782205
+                  ]
+            },
+            {
+                  "name": "Pedeli neljas paisjärv",
+                  "text": "Der Pedeli neljas paisjärv ist ein See in Valga, der Teil der lokalen Erholungslandschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.046116,
+                        57.784976
+                  ]
+            },
+            {
+                  "name": "Pedeli paisjärv",
+                  "text": "Der Pedeli paisjärv ist ein zentraler See in Valga, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        26.029518,
+                        57.779418
+                  ]
+            },
+            {
+                  "name": "Pedeli teine paisjärv",
+                  "text": "Der Pedeli teine paisjärv ist ein See in Valga, der eine angenehme Umgebung für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.035855,
+                        57.781023
+                  ]
             }
       ],
       "hu": [
@@ -9752,6 +12974,51 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         26.044553,
                         57.775722
+                  ]
+            },
+            {
+                  "name": "Zāģezers",
+                  "text": "A Zāģezers egy tó Valga területén, amely pihenésre hívja a helyieket és a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        25.970958,
+                        57.796924
+                  ]
+            },
+            {
+                  "name": "Pedeli kolmas paisjärv",
+                  "text": "A Pedeli kolmas paisjärv egy mesterséges tó Valga területén, ideális a szabadban való tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.041412,
+                        57.782205
+                  ]
+            },
+            {
+                  "name": "Pedeli neljas paisjärv",
+                  "text": "A Pedeli neljas paisjärv egy tó Valga területén, amely a helyi szabadidős terület része.",
+                  "category": "natural",
+                  "coords": [
+                        26.046116,
+                        57.784976
+                  ]
+            },
+            {
+                  "name": "Pedeli paisjärv",
+                  "text": "A Pedeli paisjärv egy központi tó Valga területén, amely kiválóan alkalmas vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        26.029518,
+                        57.779418
+                  ]
+            },
+            {
+                  "name": "Pedeli teine paisjärv",
+                  "text": "A Pedeli teine paisjärv egy tó Valga területén, amely kellemes környezetet biztosít a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.035855,
+                        57.781023
                   ]
             }
       ],
@@ -9899,6 +13166,51 @@ export const estoniaCities: POI[] = [
                         26.044553,
                         57.775722
                   ]
+            },
+            {
+                  "name": "Zāģezers",
+                  "text": "Zāģezers este un lac în Valga, care invită localnicii și vizitatorii la relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        25.970958,
+                        57.796924
+                  ]
+            },
+            {
+                  "name": "Pedeli kolmas paisjärv",
+                  "text": "Pedeli kolmas paisjärv este un lac artificial în Valga, ideal pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.041412,
+                        57.782205
+                  ]
+            },
+            {
+                  "name": "Pedeli neljas paisjärv",
+                  "text": "Pedeli neljas paisjärv este un lac în Valga, care face parte din zona locală de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.046116,
+                        57.784976
+                  ]
+            },
+            {
+                  "name": "Pedeli paisjärv",
+                  "text": "Pedeli paisjärv este un lac central în Valga, potrivit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.029518,
+                        57.779418
+                  ]
+            },
+            {
+                  "name": "Pedeli teine paisjärv",
+                  "text": "Pedeli teine paisjärv este un lac în Valga, oferind un mediu plăcut pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.035855,
+                        57.781023
+                  ]
             }
       ],
       "en": [
@@ -10044,6 +13356,51 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         26.044553,
                         57.775722
+                  ]
+            },
+            {
+                  "name": "Zāģezers",
+                  "text": "Zāģezers is a lake in Valga, inviting locals and visitors to relax by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.970958,
+                        57.796924
+                  ]
+            },
+            {
+                  "name": "Pedeli kolmas paisjärv",
+                  "text": "Pedeli kolmas paisjärv is an artificial lake in Valga, ideal for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        26.041412,
+                        57.782205
+                  ]
+            },
+            {
+                  "name": "Pedeli neljas paisjärv",
+                  "text": "Pedeli neljas paisjärv is a lake in Valga, forming part of the local recreational landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.046116,
+                        57.784976
+                  ]
+            },
+            {
+                  "name": "Pedeli paisjärv",
+                  "text": "Pedeli paisjärv is a central lake in Valga, well-suited for strolls along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        26.029518,
+                        57.779418
+                  ]
+            },
+            {
+                  "name": "Pedeli teine paisjärv",
+                  "text": "Pedeli teine paisjärv is a lake in Valga, providing a pleasant environment for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.035855,
+                        57.781023
                   ]
             }
       ]
@@ -13136,6 +16493,24 @@ export const estoniaNature: POI[] = [
                         26.392202,
                         58.744591
                   ]
+            },
+            {
+                  "name": "Siimusti karjääri järv",
+                  "text": "Ein kleiner See in der Nähe von Jogeva, der zu einem gemütlichen Naturerlebnis einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.317649,
+                        58.735077
+                  ]
+            },
+            {
+                  "name": "Kuremaa järv",
+                  "text": "Ein bekannter See in Jogeva, der viel Platz für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.549731,
+                        58.717872
+                  ]
             }
       ],
       "hu": [
@@ -13209,6 +16584,24 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.392202,
                         58.744591
+                  ]
+            },
+            {
+                  "name": "Siimusti karjääri järv",
+                  "text": "Egy kis tó Jogeva közelében, amely egy kellemes természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        26.317649,
+                        58.735077
+                  ]
+            },
+            {
+                  "name": "Kuremaa järv",
+                  "text": "Egy ismert tó Jogeva városában, amely tágas helyet kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.549731,
+                        58.717872
                   ]
             }
       ],
@@ -13284,6 +16677,24 @@ export const estoniaNature: POI[] = [
                         26.392202,
                         58.744591
                   ]
+            },
+            {
+                  "name": "Siimusti karjääri järv",
+                  "text": "Un lac mic lângă Jogeva, care invită la o experiență plăcută în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.317649,
+                        58.735077
+                  ]
+            },
+            {
+                  "name": "Kuremaa järv",
+                  "text": "Un lac cunoscut în Jogeva, care oferă mult spațiu pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.549731,
+                        58.717872
+                  ]
             }
       ],
       "en": [
@@ -13357,6 +16768,24 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.392202,
                         58.744591
+                  ]
+            },
+            {
+                  "name": "Siimusti karjääri järv",
+                  "text": "A small lake near Jogeva that invites you to a cozy nature experience.",
+                  "category": "natural",
+                  "coords": [
+                        26.317649,
+                        58.735077
+                  ]
+            },
+            {
+                  "name": "Kuremaa järv",
+                  "text": "A well-known lake in Jogeva offering plenty of space for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.549731,
+                        58.717872
                   ]
             }
       ]
@@ -13648,6 +17077,78 @@ export const estoniaNature: POI[] = [
                         24.968073,
                         58.142472
                   ]
+            },
+            {
+                  "name": "Sauna järv",
+                  "text": "Der Sauna järv ist ein ruhiger See in Kilingi-Nõmme, der einen natürlichen Ort zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.944369,
+                        58.145423
+                  ]
+            },
+            {
+                  "name": "Oraveski järv",
+                  "text": "Der Oraveski järv ist ein ruhiger See in Kilingi-Nõmme, der den Besuchern eine schöne Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.884053,
+                        58.14291
+                  ]
+            },
+            {
+                  "name": "Lavi järv",
+                  "text": "Der Lavi järv ist ein friedlicher See in Kilingi-Nõmme, perfekt um die lokale Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        24.954051,
+                        58.143076
+                  ]
+            },
+            {
+                  "name": "Nõmme paisjärv",
+                  "text": "Der Nõmme paisjärv ist ein Stausee in Kilingi-Nõmme, der eine ruhige Wasserkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.970219,
+                        58.13606
+                  ]
+            },
+            {
+                  "name": "Kurgoja järv",
+                  "text": "Der Kurgoja järv ist ein ruhiger See in Kilingi-Nõmme, ideal für einen entspannten Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.923948,
+                        58.140181
+                  ]
+            },
+            {
+                  "name": "Väike-Kurgoja järv",
+                  "text": "Der Väike-Kurgoja järv ist ein kleiner und friedlicher See in Kilingi-Nõmme.",
+                  "category": "natural",
+                  "coords": [
+                        24.923727,
+                        58.139235
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärv",
+                  "text": "Der Saarde paisjärv ist ein malerischer Stausee in Kilingi-Nõmme, der eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.971789,
+                        58.141973
+                  ]
+            },
+            {
+                  "name": "Mägipõllu paisjärv",
+                  "text": "Der Mägipõllu paisjärv ist ein ruhiger Stausee in Kilingi-Nõmme, ideal für eine kurze Auszeit in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.878695,
+                        58.161856
+                  ]
             }
       ],
       "hu": [
@@ -13685,6 +17186,78 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.968073,
                         58.142472
+                  ]
+            },
+            {
+                  "name": "Sauna järv",
+                  "text": "A Sauna järv egy csendes tó Kilingi-Nõmmében, amely természetes helyet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.944369,
+                        58.145423
+                  ]
+            },
+            {
+                  "name": "Oraveski järv",
+                  "text": "Az Oraveski järv egy nyugodt tó Kilingi-Nõmmében, amely gyönyörű környezetet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        24.884053,
+                        58.14291
+                  ]
+            },
+            {
+                  "name": "Lavi järv",
+                  "text": "A Lavi järv egy békés tó Kilingi-Nõmmében, amely tökéletes a helyi természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        24.954051,
+                        58.143076
+                  ]
+            },
+            {
+                  "name": "Nõmme paisjärv",
+                  "text": "A Nõmme paisjärv egy mesterséges tó Kilingi-Nõmmében, amely nyugodt vízi tájat biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        24.970219,
+                        58.13606
+                  ]
+            },
+            {
+                  "name": "Kurgoja järv",
+                  "text": "A Kurgoja järv egy csendes tó Kilingi-Nõmmében, amely ideális egy pihentető szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        24.923948,
+                        58.140181
+                  ]
+            },
+            {
+                  "name": "Väike-Kurgoja järv",
+                  "text": "A Väike-Kurgoja järv egy kicsi és békés tó Kilingi-Nõmmében.",
+                  "category": "natural",
+                  "coords": [
+                        24.923727,
+                        58.139235
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärv",
+                  "text": "A Saarde paisjärv egy festői víztározó Kilingi-Nõmmében, amely nyugodt környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        24.971789,
+                        58.141973
+                  ]
+            },
+            {
+                  "name": "Mägipõllu paisjärv",
+                  "text": "A Mägipõllu paisjärv egy csendes mesterséges tó Kilingi-Nõmmében, amely tökéletes egy rövid természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        24.878695,
+                        58.161856
                   ]
             }
       ],
@@ -13724,6 +17297,78 @@ export const estoniaNature: POI[] = [
                         24.968073,
                         58.142472
                   ]
+            },
+            {
+                  "name": "Sauna järv",
+                  "text": "Sauna järv este un lac liniștit din Kilingi-Nõmme, oferind un loc natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.944369,
+                        58.145423
+                  ]
+            },
+            {
+                  "name": "Oraveski järv",
+                  "text": "Oraveski järv este un lac calm din Kilingi-Nõmme, oferind un mediu frumos pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        24.884053,
+                        58.14291
+                  ]
+            },
+            {
+                  "name": "Lavi järv",
+                  "text": "Lavi järv este un lac liniștit din Kilingi-Nõmme, perfect pentru a vă bucura de natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        24.954051,
+                        58.143076
+                  ]
+            },
+            {
+                  "name": "Nõmme paisjärv",
+                  "text": "Nõmme paisjärv este un lac artificial din Kilingi-Nõmme, oferind un peisaj acvatic calm.",
+                  "category": "natural",
+                  "coords": [
+                        24.970219,
+                        58.13606
+                  ]
+            },
+            {
+                  "name": "Kurgoja järv",
+                  "text": "Kurgoja järv este un lac liniștit din Kilingi-Nõmme, ideal pentru o plimbare relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.923948,
+                        58.140181
+                  ]
+            },
+            {
+                  "name": "Väike-Kurgoja järv",
+                  "text": "Väike-Kurgoja järv este un lac mic și liniștit situat în Kilingi-Nõmme.",
+                  "category": "natural",
+                  "coords": [
+                        24.923727,
+                        58.139235
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärv",
+                  "text": "Saarde paisjärv este un rezervor pitoresc din Kilingi-Nõmme, oferind un mediu calm.",
+                  "category": "natural",
+                  "coords": [
+                        24.971789,
+                        58.141973
+                  ]
+            },
+            {
+                  "name": "Mägipõllu paisjärv",
+                  "text": "Mägipõllu paisjärv este un lac artificial liniștit din Kilingi-Nõmme, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.878695,
+                        58.161856
+                  ]
             }
       ],
       "en": [
@@ -13761,6 +17406,78 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.968073,
                         58.142472
+                  ]
+            },
+            {
+                  "name": "Sauna järv",
+                  "text": "Sauna järv is a quiet lake in Kilingi-Nõmme, providing a natural spot for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.944369,
+                        58.145423
+                  ]
+            },
+            {
+                  "name": "Oraveski järv",
+                  "text": "Oraveski järv is a calm lake in Kilingi-Nõmme, offering a beautiful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        24.884053,
+                        58.14291
+                  ]
+            },
+            {
+                  "name": "Lavi järv",
+                  "text": "Lavi järv is a peaceful lake in Kilingi-Nõmme, perfect for enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.954051,
+                        58.143076
+                  ]
+            },
+            {
+                  "name": "Nõmme paisjärv",
+                  "text": "Nõmme paisjärv is an artificial lake in Kilingi-Nõmme, providing a calm water scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.970219,
+                        58.13606
+                  ]
+            },
+            {
+                  "name": "Kurgoja järv",
+                  "text": "Kurgoja järv is a quiet lake in Kilingi-Nõmme, ideal for a relaxing walk outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.923948,
+                        58.140181
+                  ]
+            },
+            {
+                  "name": "Väike-Kurgoja järv",
+                  "text": "Väike-Kurgoja järv is a small and peaceful lake located in Kilingi-Nõmme.",
+                  "category": "natural",
+                  "coords": [
+                        24.923727,
+                        58.139235
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärv",
+                  "text": "Saarde paisjärv is a scenic reservoir in Kilingi-Nõmme, offering a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.971789,
+                        58.141973
+                  ]
+            },
+            {
+                  "name": "Mägipõllu paisjärv",
+                  "text": "Mägipõllu paisjärv is a quiet artificial lake in Kilingi-Nõmme, perfect for a short natural break.",
+                  "category": "natural",
+                  "coords": [
+                        24.878695,
+                        58.161856
                   ]
             }
       ]
@@ -14034,6 +17751,15 @@ export const estoniaNature: POI[] = [
                         23.037122,
                         58.575821
                   ]
+            },
+            {
+                  "name": "Väike-Marjassoo järv",
+                  "text": "Der Väike-Marjassoo järv ist ein See in Orissaare, der durch seine natürliche Schönheit besticht.",
+                  "category": "natural",
+                  "coords": [
+                        22.944146,
+                        58.545384
+                  ]
             }
       ],
       "hu": [
@@ -14053,6 +17779,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         23.037122,
                         58.575821
+                  ]
+            },
+            {
+                  "name": "Väike-Marjassoo järv",
+                  "text": "A Väike-Marjassoo järv egy tó Orissaare területén, amely természetes szépségével ragadja meg a látogatót.",
+                  "category": "natural",
+                  "coords": [
+                        22.944146,
+                        58.545384
                   ]
             }
       ],
@@ -14074,6 +17809,15 @@ export const estoniaNature: POI[] = [
                         23.037122,
                         58.575821
                   ]
+            },
+            {
+                  "name": "Väike-Marjassoo järv",
+                  "text": "Väike-Marjassoo järv este un lac în Orissaare, care impresionează prin frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        22.944146,
+                        58.545384
+                  ]
             }
       ],
       "en": [
@@ -14093,6 +17837,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         23.037122,
                         58.575821
+                  ]
+            },
+            {
+                  "name": "Väike-Marjassoo järv",
+                  "text": "Väike-Marjassoo järv is a lake in Orissaare, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        22.944146,
+                        58.545384
                   ]
             }
       ]
@@ -14254,6 +18007,168 @@ export const estoniaNature: POI[] = [
                         26.418604,
                         58.220963
                   ]
+            },
+            {
+                  "name": "Arbi järv",
+                  "text": "Der Arbi järv ist ein malerischer See in Elva, bekannt für seine natürliche Schönheit und ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        26.413442,
+                        58.225228
+                  ]
+            },
+            {
+                  "name": "Külajärv",
+                  "text": "Der Külajärv ist ein friedlicher See in Elva, der den Besuchern eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.405165,
+                        58.260993
+                  ]
+            },
+            {
+                  "name": "Kogrejärv",
+                  "text": "Der Kogrejärv ist ein ruhiger See in Elva, ideal für einen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        26.40934,
+                        58.257613
+                  ]
+            },
+            {
+                  "name": "Asema järv",
+                  "text": "Der Asema järv ist ein ruhiger See in Elva, der eine friedliche Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.427055,
+                        58.283891
+                  ]
+            },
+            {
+                  "name": "Vaikne järv",
+                  "text": "Der Vaikne järv ist ein friedlicher See in Elva, der einen ruhigen und malerischen Ort für einen Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.427475,
+                        58.209117
+                  ]
+            },
+            {
+                  "name": "Voika järv",
+                  "text": "Der Voika järv ist ein malerischer See in Elva, ideal für ein entspanntes Naturerlebnis.",
+                  "category": "natural",
+                  "coords": [
+                        26.490149,
+                        58.25412
+                  ]
+            },
+            {
+                  "name": "Vanajärv",
+                  "text": "Der Vanajärv ist ein ruhiger und malerischer See in Elva.",
+                  "category": "natural",
+                  "coords": [
+                        26.532851,
+                        58.224363
+                  ]
+            },
+            {
+                  "name": "Jõnni järv",
+                  "text": "Der Jõnni järv ist ein ruhiger See in Elva, der eine friedliche Umgebung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.424732,
+                        58.285459
+                  ]
+            },
+            {
+                  "name": "Viti järv",
+                  "text": "Der Viti järv ist ein malerischer See in Elva, der eine ruhige und schöne Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.422042,
+                        58.157191
+                  ]
+            },
+            {
+                  "name": "Umbjärv",
+                  "text": "Der Umbjärv ist ein friedlicher See in Elva, ideal für eine ruhige Auszeit in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.42922,
+                        58.193833
+                  ]
+            },
+            {
+                  "name": "Linajärv",
+                  "text": "Der Linajärv ist ein ruhiger See in Elva, ideal um die Gelassenheit der Gegend zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.404357,
+                        58.236922
+                  ]
+            },
+            {
+                  "name": "Ristiku järv",
+                  "text": "Der Ristiku järv ist ein ruhiger See in Elva, der den Besuchern eine friedliche Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.427125,
+                        58.267468
+                  ]
+            },
+            {
+                  "name": "Verevi järv",
+                  "text": "Der Verevi järv ist ein beliebter See in Elva, der für seine angenehmen Bade- und Erholungsbereiche bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.404015,
+                        58.232933
+                  ]
+            },
+            {
+                  "name": "Viinamärdi järv",
+                  "text": "Der Viinamärdi järv ist ein malerischer See in Elva, der eine ruhige Umgebung für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.542595,
+                        58.253957
+                  ]
+            },
+            {
+                  "name": "Viisjaagu järv",
+                  "text": "Der Viisjaagu järv ist ein friedlicher See in Elva, perfekt um die lokale Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.433785,
+                        58.262639
+                  ]
+            },
+            {
+                  "name": "Vissi järv",
+                  "text": "Der Vissi järv ist ein ruhiger See in Elva, der eine gelassene Landschaft für einen entspannten Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.435025,
+                        58.256836
+                  ]
+            },
+            {
+                  "name": "Kentsi järv",
+                  "text": "Dieser See in Elva bietet eine ruhige Umgebung für einen Spaziergang oder um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.321348,
+                        58.265926
+                  ]
+            },
+            {
+                  "name": "Seeneriigi mänguväljak",
+                  "text": "Ein familienfreundlicher Spielplatz in Elva, auf dem Kinder im Freien spielen und Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        26.412036,
+                        58.228441
+                  ]
             }
       ],
       "hu": [
@@ -14363,6 +18278,168 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.418604,
                         58.220963
+                  ]
+            },
+            {
+                  "name": "Arbi järv",
+                  "text": "Az Arbi järv egy festői tó Elvában, amely természeti szépségéről és nyugodt környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.413442,
+                        58.225228
+                  ]
+            },
+            {
+                  "name": "Külajärv",
+                  "text": "A Külajärv egy békés tó Elvában, amely pihentető légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.405165,
+                        58.260993
+                  ]
+            },
+            {
+                  "name": "Kogrejärv",
+                  "text": "A Kogrejärv egy csendes tó Elvában, amely ideális egy természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.40934,
+                        58.257613
+                  ]
+            },
+            {
+                  "name": "Asema järv",
+                  "text": "Az Asema järv egy nyugodt tó Elvában, amely békés környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.427055,
+                        58.283891
+                  ]
+            },
+            {
+                  "name": "Vaikne järv",
+                  "text": "A Vaikne järv egy békés tó Elvában, amely csendes és festői helyet kínál a látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.427475,
+                        58.209117
+                  ]
+            },
+            {
+                  "name": "Voika järv",
+                  "text": "A Voika järv egy festői tó Elvában, amely tökéletes egy pihentető szabadtéri élményhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.490149,
+                        58.25412
+                  ]
+            },
+            {
+                  "name": "Vanajärv",
+                  "text": "A Vanajärv egy nyugodt és festői tó Elvában.",
+                  "category": "natural",
+                  "coords": [
+                        26.532851,
+                        58.224363
+                  ]
+            },
+            {
+                  "name": "Jõnni järv",
+                  "text": "A Jõnni järv egy csendes tó Elvában, amely békés környezetet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.424732,
+                        58.285459
+                  ]
+            },
+            {
+                  "name": "Viti järv",
+                  "text": "A Viti järv egy festői tó Elvában, amely nyugodt és gyönyörű tájat biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        26.422042,
+                        58.157191
+                  ]
+            },
+            {
+                  "name": "Umbjärv",
+                  "text": "Az Umbjärv egy békés tó Elvában, amely ideális egy csendes pihenőhöz természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.42922,
+                        58.193833
+                  ]
+            },
+            {
+                  "name": "Linajärv",
+                  "text": "A Linajärv egy nyugodt tó Elvában, amely tökéletes a környék nyugalmának élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        26.404357,
+                        58.236922
+                  ]
+            },
+            {
+                  "name": "Ristiku järv",
+                  "text": "A Ristiku järv egy csendes tó Elvában, amely békés légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.427125,
+                        58.267468
+                  ]
+            },
+            {
+                  "name": "Verevi järv",
+                  "text": "A Verevi järv egy népszerű tó Elvában, amely kellemes fürdő- és üdülőhelyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.404015,
+                        58.232933
+                  ]
+            },
+            {
+                  "name": "Viinamärdi järv",
+                  "text": "A Viinamärdi järv egy festői tó Elvában, amely nyugodt környezetet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.542595,
+                        58.253957
+                  ]
+            },
+            {
+                  "name": "Viisjaagu järv",
+                  "text": "A Viisjaagu järv egy békés tó Elvában, amely tökéletes a helyi természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        26.433785,
+                        58.262639
+                  ]
+            },
+            {
+                  "name": "Vissi järv",
+                  "text": "A Vissi järv egy nyugodt tó Elvában, amely békés tájat kínál egy pihentető látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.435025,
+                        58.256836
+                  ]
+            },
+            {
+                  "name": "Kentsi järv",
+                  "text": "Ez a tó Elva területén nyugodt környezetet biztosít egy sétához vagy a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.321348,
+                        58.265926
+                  ]
+            },
+            {
+                  "name": "Seeneriigi mänguväljak",
+                  "text": "Családbarát játszótér Elva városában, ahol a gyerekek a szabadban játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        26.412036,
+                        58.228441
                   ]
             }
       ],
@@ -14474,6 +18551,168 @@ export const estoniaNature: POI[] = [
                         26.418604,
                         58.220963
                   ]
+            },
+            {
+                  "name": "Arbi järv",
+                  "text": "Arbi järv este un lac pitoresc din Elva, cunoscut pentru frumusețea sa naturală și cadrul liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.413442,
+                        58.225228
+                  ]
+            },
+            {
+                  "name": "Külajärv",
+                  "text": "Külajärv este un lac liniștit din Elva, oferind o atmosferă relaxantă pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        26.405165,
+                        58.260993
+                  ]
+            },
+            {
+                  "name": "Kogrejärv",
+                  "text": "Kogrejärv este un lac liniștit situat în Elva, ideal pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.40934,
+                        58.257613
+                  ]
+            },
+            {
+                  "name": "Asema järv",
+                  "text": "Asema järv este un lac calm din Elva, oferind un mediu senin pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.427055,
+                        58.283891
+                  ]
+            },
+            {
+                  "name": "Vaikne järv",
+                  "text": "Vaikne järv este un lac liniștit din Elva, oferind un loc liniștit și pitoresc pentru o vizită.",
+                  "category": "natural",
+                  "coords": [
+                        26.427475,
+                        58.209117
+                  ]
+            },
+            {
+                  "name": "Voika järv",
+                  "text": "Voika järv este un lac pitoresc din Elva, perfect pentru o experiență relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.490149,
+                        58.25412
+                  ]
+            },
+            {
+                  "name": "Vanajärv",
+                  "text": "Vanajärv este un lac calm și pitoresc situat în Elva.",
+                  "category": "natural",
+                  "coords": [
+                        26.532851,
+                        58.224363
+                  ]
+            },
+            {
+                  "name": "Jõnni järv",
+                  "text": "Jõnni järv este un lac liniștit din Elva, oferind un cadru liniștit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.424732,
+                        58.285459
+                  ]
+            },
+            {
+                  "name": "Viti järv",
+                  "text": "Viti järv este un lac pitoresc din Elva, oferind un peisaj calm și frumos.",
+                  "category": "natural",
+                  "coords": [
+                        26.422042,
+                        58.157191
+                  ]
+            },
+            {
+                  "name": "Umbjärv",
+                  "text": "Umbjärv este un lac liniștit din Elva, ideal pentru o pauză liniștită în împrejurimile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        26.42922,
+                        58.193833
+                  ]
+            },
+            {
+                  "name": "Linajärv",
+                  "text": "Linajärv este un lac liniștit situat în Elva, perfect pentru a vă bucura de seninătatea zonei.",
+                  "category": "natural",
+                  "coords": [
+                        26.404357,
+                        58.236922
+                  ]
+            },
+            {
+                  "name": "Ristiku järv",
+                  "text": "Ristiku järv este un lac liniștit din Elva, oferind o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        26.427125,
+                        58.267468
+                  ]
+            },
+            {
+                  "name": "Verevi järv",
+                  "text": "Lacul Verevi este un lac popular din Elva, cunoscut pentru zonele sale plăcute de înot și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        26.404015,
+                        58.232933
+                  ]
+            },
+            {
+                  "name": "Viinamärdi järv",
+                  "text": "Viinamärdi järv este un lac pitoresc din Elva, oferind un mediu calm pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        26.542595,
+                        58.253957
+                  ]
+            },
+            {
+                  "name": "Viisjaagu järv",
+                  "text": "Viisjaagu järv este un lac liniștit din Elva, perfect pentru a vă bucura de natura locală.",
+                  "category": "natural",
+                  "coords": [
+                        26.433785,
+                        58.262639
+                  ]
+            },
+            {
+                  "name": "Vissi järv",
+                  "text": "Vissi järv este un lac calm din Elva, oferind un peisaj senin pentru o vizită relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        26.435025,
+                        58.256836
+                  ]
+            },
+            {
+                  "name": "Kentsi järv",
+                  "text": "Acest lac din Elva oferă un mediu liniștit pentru o plimbare sau pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.321348,
+                        58.265926
+                  ]
+            },
+            {
+                  "name": "Seeneriigi mänguväljak",
+                  "text": "Un teren de joacă pentru familii în Elva, unde copiii se pot juca și se pot distra în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.412036,
+                        58.228441
+                  ]
             }
       ],
       "en": [
@@ -14583,6 +18822,168 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.418604,
                         58.220963
+                  ]
+            },
+            {
+                  "name": "Arbi järv",
+                  "text": "Arbi järv is a scenic lake in Elva, known for its natural beauty and calm setting.",
+                  "category": "natural",
+                  "coords": [
+                        26.413442,
+                        58.225228
+                  ]
+            },
+            {
+                  "name": "Külajärv",
+                  "text": "Külajärv is a peaceful lake in Elva, offering a relaxing atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.405165,
+                        58.260993
+                  ]
+            },
+            {
+                  "name": "Kogrejärv",
+                  "text": "Kogrejärv is a quiet lake located in Elva, ideal for enjoying a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.40934,
+                        58.257613
+                  ]
+            },
+            {
+                  "name": "Asema järv",
+                  "text": "Asema järv is a calm lake in Elva, providing a serene environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        26.427055,
+                        58.283891
+                  ]
+            },
+            {
+                  "name": "Vaikne järv",
+                  "text": "Vaikne järv is a peaceful lake in Elva, offering a quiet and scenic spot for a visit.",
+                  "category": "natural",
+                  "coords": [
+                        26.427475,
+                        58.209117
+                  ]
+            },
+            {
+                  "name": "Voika järv",
+                  "text": "Voika järv is a scenic lake in Elva, perfect for a relaxing outdoor experience.",
+                  "category": "natural",
+                  "coords": [
+                        26.490149,
+                        58.25412
+                  ]
+            },
+            {
+                  "name": "Vanajärv",
+                  "text": "Vanajärv is a calm and scenic lake located in Elva.",
+                  "category": "natural",
+                  "coords": [
+                        26.532851,
+                        58.224363
+                  ]
+            },
+            {
+                  "name": "Jõnni järv",
+                  "text": "Jõnni järv is a quiet lake in Elva, offering a peaceful setting in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.424732,
+                        58.285459
+                  ]
+            },
+            {
+                  "name": "Viti järv",
+                  "text": "Viti järv is a scenic lake in Elva, providing a calm and beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.422042,
+                        58.157191
+                  ]
+            },
+            {
+                  "name": "Umbjärv",
+                  "text": "Umbjärv is a peaceful lake in Elva, ideal for a quiet break in natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.42922,
+                        58.193833
+                  ]
+            },
+            {
+                  "name": "Linajärv",
+                  "text": "Linajärv is a calm lake located in Elva, perfect for enjoying the serenity of the area.",
+                  "category": "natural",
+                  "coords": [
+                        26.404357,
+                        58.236922
+                  ]
+            },
+            {
+                  "name": "Ristiku järv",
+                  "text": "Ristiku järv is a quiet lake in Elva, offering a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.427125,
+                        58.267468
+                  ]
+            },
+            {
+                  "name": "Verevi järv",
+                  "text": "Verevi järv is a popular lake in Elva, known for its pleasant swimming and recreation areas.",
+                  "category": "natural",
+                  "coords": [
+                        26.404015,
+                        58.232933
+                  ]
+            },
+            {
+                  "name": "Viinamärdi järv",
+                  "text": "Viinamärdi järv is a scenic lake in Elva, offering a calm environment for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        26.542595,
+                        58.253957
+                  ]
+            },
+            {
+                  "name": "Viisjaagu järv",
+                  "text": "Viisjaagu järv is a peaceful lake in Elva, perfect for enjoying the local nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.433785,
+                        58.262639
+                  ]
+            },
+            {
+                  "name": "Vissi järv",
+                  "text": "Vissi järv is a calm lake in Elva, offering a serene landscape for a relaxing visit.",
+                  "category": "natural",
+                  "coords": [
+                        26.435025,
+                        58.256836
+                  ]
+            },
+            {
+                  "name": "Kentsi järv",
+                  "text": "This lake in Elva offers a calm environment for a walk or to enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.321348,
+                        58.265926
+                  ]
+            },
+            {
+                  "name": "Seeneriigi mänguväljak",
+                  "text": "A family-friendly playground in Elva where children can play and have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        26.412036,
+                        58.228441
                   ]
             }
       ]
@@ -14708,6 +19109,69 @@ export const estoniaNature: POI[] = [
                         25.565273,
                         58.104553
                   ]
+            },
+            {
+                  "name": "Killaste järv",
+                  "text": "Ein malerischer See in Karksi Nuia, ideal für einen ruhigen Moment in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.5278,
+                        58.086306
+                  ]
+            },
+            {
+                  "name": "Leeli järv",
+                  "text": "Genießen Sie die friedliche Umgebung an diesem See in Karksi Nuia.",
+                  "category": "natural",
+                  "coords": [
+                        25.488098,
+                        58.110478
+                  ]
+            },
+            {
+                  "name": "Pöögle järv",
+                  "text": "Ein idyllisches Gewässer in Karksi Nuia, perfekt für Spaziergänger und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.476648,
+                        58.120196
+                  ]
+            },
+            {
+                  "name": "Veevre paisjärv",
+                  "text": "Dieser Stausee in Karksi Nuia bietet eine ruhige Atmosphäre für einen Ausflug.",
+                  "category": "natural",
+                  "coords": [
+                        25.522547,
+                        58.08129
+                  ]
+            },
+            {
+                  "name": "Nuuda järv",
+                  "text": "Ein stiller See in Karksi Nuia, der zu einem entspannten Aufenthalt im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.536301,
+                        58.085174
+                  ]
+            },
+            {
+                  "name": "Karksi järv",
+                  "text": "Der See in Karksi Nuia ist ein schönes Ziel für Naturbeobachtungen und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        25.549717,
+                        58.111131
+                  ]
+            },
+            {
+                  "name": "Kopli järv",
+                  "text": "Ein ruhiges Gewässer in Karksi Nuia, ideal für einen Spaziergang in der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        25.540122,
+                        58.084659
+                  ]
             }
       ],
       "hu": [
@@ -14781,6 +19245,69 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.565273,
                         58.104553
+                  ]
+            },
+            {
+                  "name": "Killaste järv",
+                  "text": "Egy festői tó Karksi Nuia városában, ideális egy csendes pillanatra a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.5278,
+                        58.086306
+                  ]
+            },
+            {
+                  "name": "Leeli järv",
+                  "text": "Élvezze a békés környezetet ennél a Karksi Nuia-i tónál.",
+                  "category": "natural",
+                  "coords": [
+                        25.488098,
+                        58.110478
+                  ]
+            },
+            {
+                  "name": "Pöögle järv",
+                  "text": "Egy idilli vízfelület Karksi Nuia területén, tökéletes a sétálóknak és a természet szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.476648,
+                        58.120196
+                  ]
+            },
+            {
+                  "name": "Veevre paisjärv",
+                  "text": "Ez a Karksi Nuia-i víztározó nyugodt légkört biztosít egy kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.522547,
+                        58.08129
+                  ]
+            },
+            {
+                  "name": "Nuuda järv",
+                  "text": "Egy csendes tó Karksi Nuia városában, amely egy pihentető szabadtéri tartózkodásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.536301,
+                        58.085174
+                  ]
+            },
+            {
+                  "name": "Karksi järv",
+                  "text": "A Karksi Nuia-i tó szép célpont a természet megfigyeléséhez és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.549717,
+                        58.111131
+                  ]
+            },
+            {
+                  "name": "Kopli järv",
+                  "text": "Egy nyugodt vízfelület Karksi Nuia városában, ideális egy sétához a friss levegőn.",
+                  "category": "natural",
+                  "coords": [
+                        25.540122,
+                        58.084659
                   ]
             }
       ],
@@ -14856,6 +19383,69 @@ export const estoniaNature: POI[] = [
                         25.565273,
                         58.104553
                   ]
+            },
+            {
+                  "name": "Killaste järv",
+                  "text": "Un lac pitoresc în Karksi Nuia, ideal pentru un moment de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.5278,
+                        58.086306
+                  ]
+            },
+            {
+                  "name": "Leeli järv",
+                  "text": "Bucurați-vă de împrejurimile liniștite de la acest lac din Karksi Nuia.",
+                  "category": "natural",
+                  "coords": [
+                        25.488098,
+                        58.110478
+                  ]
+            },
+            {
+                  "name": "Pöögle järv",
+                  "text": "O zonă cu apă idilică în Karksi Nuia, perfectă pentru plimbări și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.476648,
+                        58.120196
+                  ]
+            },
+            {
+                  "name": "Veevre paisjärv",
+                  "text": "Acest lac de acumulare din Karksi Nuia oferă o atmosferă liniștită pentru o excursie.",
+                  "category": "natural",
+                  "coords": [
+                        25.522547,
+                        58.08129
+                  ]
+            },
+            {
+                  "name": "Nuuda järv",
+                  "text": "Un lac liniștit în Karksi Nuia, care invită la o ședere relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.536301,
+                        58.085174
+                  ]
+            },
+            {
+                  "name": "Karksi järv",
+                  "text": "Lacul din Karksi Nuia este o destinație frumoasă pentru observarea naturii și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.549717,
+                        58.111131
+                  ]
+            },
+            {
+                  "name": "Kopli järv",
+                  "text": "O zonă cu apă liniștită în Karksi Nuia, ideală pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.540122,
+                        58.084659
+                  ]
             }
       ],
       "en": [
@@ -14929,6 +19519,69 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.565273,
                         58.104553
+                  ]
+            },
+            {
+                  "name": "Killaste järv",
+                  "text": "A scenic lake in Karksi Nuia, ideal for a quiet moment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.5278,
+                        58.086306
+                  ]
+            },
+            {
+                  "name": "Leeli järv",
+                  "text": "Enjoy the peaceful surroundings at this lake in Karksi Nuia.",
+                  "category": "natural",
+                  "coords": [
+                        25.488098,
+                        58.110478
+                  ]
+            },
+            {
+                  "name": "Pöögle järv",
+                  "text": "An idyllic body of water in Karksi Nuia, perfect for walkers and nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        25.476648,
+                        58.120196
+                  ]
+            },
+            {
+                  "name": "Veevre paisjärv",
+                  "text": "This reservoir lake in Karksi Nuia offers a calm atmosphere for an outing.",
+                  "category": "natural",
+                  "coords": [
+                        25.522547,
+                        58.08129
+                  ]
+            },
+            {
+                  "name": "Nuuda järv",
+                  "text": "A quiet lake in Karksi Nuia that invites you to a relaxed outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        25.536301,
+                        58.085174
+                  ]
+            },
+            {
+                  "name": "Karksi järv",
+                  "text": "The lake in Karksi Nuia is a beautiful destination for nature observation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        25.549717,
+                        58.111131
+                  ]
+            },
+            {
+                  "name": "Kopli järv",
+                  "text": "A calm body of water in Karksi Nuia, ideal for a walk in the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        25.540122,
+                        58.084659
                   ]
             }
       ]

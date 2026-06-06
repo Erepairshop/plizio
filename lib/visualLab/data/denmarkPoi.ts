@@ -94,7 +94,916 @@ export const denmarkCountry: POI = {
 
 export const denmarkRegions: POI[] = [
  {
- id: "city-copenhagen",
+ id: "city-copenhagen", "sights": {
+      "de": [
+            {
+                  "name": "Peblinge-See",
+                  "text": "Peblinge Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Soppesøen",
+                  "text": "Soppesøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.563565,
+                        55.700603
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Vagthussøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Bademosen",
+                  "text": "Bademosen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.493366,
+                        55.722569
+                  ]
+            },
+            {
+                  "name": "Bøgebjerg Engsøer",
+                  "text": "Bøgebjerg Engsøer ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.492007,
+                        55.723922
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "Vestmosen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Gentofte Sø",
+                  "text": "Gentofte Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.535132,
+                        55.748461
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams-See",
+                  "text": "Sortedams Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt-Joergens-See",
+                  "text": "Sankt Jørgens Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Grønjordssøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Tivoli Søen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Emdrup Sø",
+                  "text": "Emdrup Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.550449,
+                        55.722712
+                  ]
+            },
+            {
+                  "name": "Det Japanske Tårn",
+                  "text": "Det Japanske Tårn in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.567201,
+                        55.666469
+                  ]
+            },
+            {
+                  "name": "Børnehusets legeplads",
+                  "text": "Børnehusets legeplads in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.602916,
+                        55.680139
+                  ]
+            },
+            {
+                  "name": "Camping Kødbyen - Minigolf, bar & burgers",
+                  "text": "Camping Kødbyen bietet Minigolf in Kopenhagen für eine unterhaltsame Familienaktivität an.",
+                  "category": "family",
+                  "coords": [
+                        12.558895,
+                        55.666888
+                  ]
+            },
+            {
+                  "name": "Wizball",
+                  "text": "Wizball ist eine Spielhalle in Kopenhagen, die lustige Spiele für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.549202,
+                        55.679581
+                  ]
+            },
+            {
+                  "name": "Maximum København",
+                  "text": "Maximum København ist eine Spielhalle in Kopenhagen, die lustige Spiele für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.560186,
+                        55.663658
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Langelinieanlægget",
+                  "text": "Legepladsen i Langelinieanlægget in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.599721,
+                        55.690942
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz im Königsgarten",
+                  "text": "Legepladsen i Kongens Have in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.580729,
+                        55.685718
+                  ]
+            },
+            {
+                  "name": "Tårnlegepladsen",
+                  "text": "Tårnlegepladsen in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.569783,
+                        55.697254
+                  ]
+            },
+            {
+                  "name": "Legepladsen Enghave",
+                  "text": "Legepladsen Enghave in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.54161,
+                        55.667709
+                  ]
+            },
+            {
+                  "name": "Dragelegepladsen",
+                  "text": "Dragelegepladsen in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        12.597151,
+                        55.673695
+                  ]
+            },
+            {
+                  "name": "Den bemandede legeplads i Nørrebroparken",
+                  "text": "Den bemandede legeplads i Nørrebroparken in Kopenhagen ist ein Spielplatz mit Betreuung für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        12.542223,
+                        55.694482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peblinge Sø",
+                  "text": "A Peblinge Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Soppesøen",
+                  "text": "A Soppesøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.563565,
+                        55.700603
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "A Vagthussøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Az Utterslev gadekær egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Bademosen",
+                  "text": "A Bademosen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.493366,
+                        55.722569
+                  ]
+            },
+            {
+                  "name": "Bøgebjerg Engsøer",
+                  "text": "A Bøgebjerg Engsøer egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.492007,
+                        55.723922
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "A Vestmosen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Gentofte Sø",
+                  "text": "A Gentofte Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.535132,
+                        55.748461
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "A Damhussøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "A Sortedams Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "A Sankt Jørgens Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "A Grønjordssøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "A Tivoli Søen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Emdrup Sø",
+                  "text": "Az Emdrup Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.550449,
+                        55.722712
+                  ]
+            },
+            {
+                  "name": "Det Japanske Tårn",
+                  "text": "A Det Japanske Tårn Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.567201,
+                        55.666469
+                  ]
+            },
+            {
+                  "name": "Børnehusets legeplads",
+                  "text": "A Børnehusets legeplads Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.602916,
+                        55.680139
+                  ]
+            },
+            {
+                  "name": "Camping Kødbyen - Minigolf, bar & burgers",
+                  "text": "A Camping Kødbyen Koppenhága területén minigolfozási lehetőséget kínál egy szórakoztató családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.558895,
+                        55.666888
+                  ]
+            },
+            {
+                  "name": "Wizball",
+                  "text": "A Wizball egy szórakoztató játékterem Koppenhága területén, amely vidám játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.549202,
+                        55.679581
+                  ]
+            },
+            {
+                  "name": "Maximum København",
+                  "text": "A Maximum København egy szórakoztató játékterem Koppenhága területén, amely vidám játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.560186,
+                        55.663658
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Langelinieanlægget",
+                  "text": "A Legepladsen i Langelinieanlægget Koppenhága területén egy családbarát játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.599721,
+                        55.690942
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Kongens Have",
+                  "text": "A Legepladsen i Kongens Have Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.580729,
+                        55.685718
+                  ]
+            },
+            {
+                  "name": "Tårnlegepladsen",
+                  "text": "A Tårnlegepladsen Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.569783,
+                        55.697254
+                  ]
+            },
+            {
+                  "name": "Legepladsen Enghave",
+                  "text": "A Legepladsen Enghave Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.54161,
+                        55.667709
+                  ]
+            },
+            {
+                  "name": "Dragelegepladsen",
+                  "text": "A Dragelegepladsen Koppenhága területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.597151,
+                        55.673695
+                  ]
+            },
+            {
+                  "name": "Den bemandede legeplads i Nørrebroparken",
+                  "text": "A Den bemandede legeplads i Nørrebroparken Koppenhága területén egy felügyelt játszótér gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.542223,
+                        55.694482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peblinge Sø",
+                  "text": "Peblinge Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Soppesøen",
+                  "text": "Soppesøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.563565,
+                        55.700603
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Vagthussøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Bademosen",
+                  "text": "Bademosen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.493366,
+                        55.722569
+                  ]
+            },
+            {
+                  "name": "Bøgebjerg Engsøer",
+                  "text": "Bøgebjerg Engsøer este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.492007,
+                        55.723922
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "Vestmosen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Gentofte Sø",
+                  "text": "Gentofte Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.535132,
+                        55.748461
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "Sortedams Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "Sankt Jørgens Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Grønjordssøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Tivoli Søen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Emdrup Sø",
+                  "text": "Emdrup Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.550449,
+                        55.722712
+                  ]
+            },
+            {
+                  "name": "Det Japanske Tårn",
+                  "text": "Det Japanske Tårn din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.567201,
+                        55.666469
+                  ]
+            },
+            {
+                  "name": "Børnehusets legeplads",
+                  "text": "Børnehusets legeplads din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.602916,
+                        55.680139
+                  ]
+            },
+            {
+                  "name": "Camping Kødbyen - Minigolf, bar & burgers",
+                  "text": "Camping Kødbyen oferă minigolf în Copenhaga pentru o activitate distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.558895,
+                        55.666888
+                  ]
+            },
+            {
+                  "name": "Wizball",
+                  "text": "Wizball este o sală de jocuri din Copenhaga care oferă jocuri distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.549202,
+                        55.679581
+                  ]
+            },
+            {
+                  "name": "Maximum København",
+                  "text": "Maximum København este o sală de jocuri din Copenhaga care oferă jocuri distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.560186,
+                        55.663658
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Langelinieanlægget",
+                  "text": "Legepladsen i Langelinieanlægget din Copenhaga este un loc de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.599721,
+                        55.690942
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Kongens Have",
+                  "text": "Legepladsen i Kongens Have din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.580729,
+                        55.685718
+                  ]
+            },
+            {
+                  "name": "Tårnlegepladsen",
+                  "text": "Tårnlegepladsen din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.569783,
+                        55.697254
+                  ]
+            },
+            {
+                  "name": "Legepladsen Enghave",
+                  "text": "Legepladsen Enghave din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.54161,
+                        55.667709
+                  ]
+            },
+            {
+                  "name": "Dragelegepladsen",
+                  "text": "Dragelegepladsen din Copenhaga este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        12.597151,
+                        55.673695
+                  ]
+            },
+            {
+                  "name": "Den bemandede legeplads i Nørrebroparken",
+                  "text": "Den bemandede legeplads i Nørrebroparken din Copenhaga este un loc de joacă supravegheat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.542223,
+                        55.694482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peblinge Sø",
+                  "text": "Peblinge Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Soppesøen",
+                  "text": "Soppesøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.563565,
+                        55.700603
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Vagthussøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Bademosen",
+                  "text": "Bademosen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.493366,
+                        55.722569
+                  ]
+            },
+            {
+                  "name": "Bøgebjerg Engsøer",
+                  "text": "Bøgebjerg Engsøer is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.492007,
+                        55.723922
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "Vestmosen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Gentofte Sø",
+                  "text": "Gentofte Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.535132,
+                        55.748461
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "Sortedams Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "Sankt Jørgens Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Grønjordssøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Tivoli Søen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Emdrup Sø",
+                  "text": "Emdrup Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.550449,
+                        55.722712
+                  ]
+            },
+            {
+                  "name": "Det Japanske Tårn",
+                  "text": "Det Japanske Tårn in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.567201,
+                        55.666469
+                  ]
+            },
+            {
+                  "name": "Børnehusets legeplads",
+                  "text": "Børnehusets legeplads in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.602916,
+                        55.680139
+                  ]
+            },
+            {
+                  "name": "Camping Kødbyen - Minigolf, bar & burgers",
+                  "text": "Camping Kødbyen offers miniature golf in Copenhagen for a fun family activity.",
+                  "category": "family",
+                  "coords": [
+                        12.558895,
+                        55.666888
+                  ]
+            },
+            {
+                  "name": "Wizball",
+                  "text": "Wizball is an amusement arcade in Copenhagen offering fun games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.549202,
+                        55.679581
+                  ]
+            },
+            {
+                  "name": "Maximum København",
+                  "text": "Maximum København is an amusement arcade in Copenhagen offering fun games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.560186,
+                        55.663658
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Langelinieanlægget",
+                  "text": "Legepladsen i Langelinieanlægget in Copenhagen is a family-friendly playground for children.",
+                  "category": "family",
+                  "coords": [
+                        12.599721,
+                        55.690942
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Kongens Have",
+                  "text": "Legepladsen i Kongens Have in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.580729,
+                        55.685718
+                  ]
+            },
+            {
+                  "name": "Tårnlegepladsen",
+                  "text": "Tårnlegepladsen in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.569783,
+                        55.697254
+                  ]
+            },
+            {
+                  "name": "Legepladsen Enghave",
+                  "text": "Legepladsen Enghave in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.54161,
+                        55.667709
+                  ]
+            },
+            {
+                  "name": "Dragelegepladsen",
+                  "text": "Dragelegepladsen in Copenhagen is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        12.597151,
+                        55.673695
+                  ]
+            },
+            {
+                  "name": "Den bemandede legeplads i Nørrebroparken",
+                  "text": "Den bemandede legeplads i Nørrebroparken in Copenhagen is a staffed playground for children.",
+                  "category": "family",
+                  "coords": [
+                        12.542223,
+                        55.694482
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "denmark",
  coords: [12.5683, 55.6761],
@@ -2593,6 +3502,159 @@ export const denmarkRegions: POI[] = [
                         10.392735,
                         55.396048
                   ]
+            },
+            {
+                  "name": "Brønshøj Sø",
+                  "text": "Ein ruhiger See in Odense, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        10.412524,
+                        55.394909
+                  ]
+            },
+            {
+                  "name": "Broby Sø",
+                  "text": "Dieser See in Odense bietet eine malerische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        10.309278,
+                        55.444825
+                  ]
+            },
+            {
+                  "name": "Munkemaen",
+                  "text": "Ein idyllischer See in Odense, der zum Verweilen und Genießen der Aussicht einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        10.384084,
+                        55.428398
+                  ]
+            },
+            {
+                  "name": "Højby Gadekær",
+                  "text": "Ein kleiner See in Odense, der eine friedliche Atmosphäre im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.441641,
+                        55.33106
+                  ]
+            },
+            {
+                  "name": "Svanedammen",
+                  "text": "Ein naturbelassener See in Odense, perfekt für eine kurze Auszeit vom Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        10.405525,
+                        55.40958
+                  ]
+            },
+            {
+                  "name": "Skattekisten",
+                  "text": "Ein fantasievoller Spielplatz in Odense, auf dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        10.411289,
+                        55.392096
+                  ]
+            },
+            {
+                  "name": "Putter Team",
+                  "text": "Eine Minigolfanlage in Odense, die Spaß und Wettbewerb für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.372442,
+                        55.399285
+                  ]
+            },
+            {
+                  "name": "Jumping Fun",
+                  "text": "Ein moderner Trampolinpark in Odense für aktive Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        10.390721,
+                        55.405465
+                  ]
+            },
+            {
+                  "name": "Professor Labris Plads",
+                  "text": "Ein zentraler Spielplatz in Odense, ideal für eine Pause während des Stadtbummels.",
+                  "category": "family",
+                  "coords": [
+                        10.394324,
+                        55.391758
+                  ]
+            },
+            {
+                  "name": "Odense Minigolf",
+                  "text": "Ein gepflegter Minigolfplatz in Odense für eine unterhaltsame Zeit im Freien.",
+                  "category": "family",
+                  "coords": [
+                        10.347122,
+                        55.400612
+                  ]
+            },
+            {
+                  "name": "Minigolfklub Putter Team Odense",
+                  "text": "Ein Minigolfclub in Odense, der sich hervorragend für Familien und Freizeitspieler eignet.",
+                  "category": "family",
+                  "coords": [
+                        10.378846,
+                        55.407799
+                  ]
+            },
+            {
+                  "name": "CAMELUS",
+                  "text": "Ein bunter Spielplatz in Odense, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        10.372954,
+                        55.378569
+                  ]
+            },
+            {
+                  "name": "Legeplads i Eventyrhaven",
+                  "text": "Ein herrlicher Spielplatz im Odenseer Märchengarten, eingebettet in eine grüne Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        10.389823,
+                        55.394323
+                  ]
+            },
+            {
+                  "name": "Vesterbro Minigolf",
+                  "text": "Ein attraktiver Minigolfplatz in Odense für sportlichen Spaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.374451,
+                        55.39478
+                  ]
+            },
+            {
+                  "name": "Trafikskolen",
+                  "text": "Ein lehrreicher Spielplatz in Odense, auf dem Kinder spielerisch die Welt entdecken.",
+                  "category": "family",
+                  "coords": [
+                        10.413968,
+                        55.406663
+                  ]
+            },
+            {
+                  "name": "Safaribanen",
+                  "text": "Ein aufregender Spielplatz in Odense, der zu Abenteuern im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.374002,
+                        55.375601
+                  ]
+            },
+            {
+                  "name": "Den Store Legeplads",
+                  "text": "Ein großzügig angelegter Spielplatz in Odense mit vielen Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.422206,
+                        55.385353
+                  ]
             }
       ],
       "hu": [
@@ -2981,6 +4043,159 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.392735,
                         55.396048
+                  ]
+            },
+            {
+                  "name": "Brønshøj Sø",
+                  "text": "Egy nyugodt tó Odense városában, amely ideális pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.412524,
+                        55.394909
+                  ]
+            },
+            {
+                  "name": "Broby Sø",
+                  "text": "Ez az Odense-i tó festői környezetet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        10.309278,
+                        55.444825
+                  ]
+            },
+            {
+                  "name": "Munkemaen",
+                  "text": "Egy idilli tó Odense városában, amely pihenésre és a kilátás élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        10.384084,
+                        55.428398
+                  ]
+            },
+            {
+                  "name": "Højby Gadekær",
+                  "text": "Egy kis tó Odense városában, amely békés hangulatot áraszt a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        10.441641,
+                        55.33106
+                  ]
+            },
+            {
+                  "name": "Svanedammen",
+                  "text": "Egy természetközeli tó Odense városában, amely tökéletes egy rövid szünetre a mindennapokból.",
+                  "category": "natural",
+                  "coords": [
+                        10.405525,
+                        55.40958
+                  ]
+            },
+            {
+                  "name": "Skattekisten",
+                  "text": "Egy ötletes játszótér Odense városában, ahol a gyerekek biztonságosan játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        10.411289,
+                        55.392096
+                  ]
+            },
+            {
+                  "name": "Putter Team",
+                  "text": "Egy minigolfpálya Odense városában, amely szórakozást és versenyt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.372442,
+                        55.399285
+                  ]
+            },
+            {
+                  "name": "Jumping Fun",
+                  "text": "Egy modern trambulinpark Odense városában aktív gyermekek és fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.390721,
+                        55.405465
+                  ]
+            },
+            {
+                  "name": "Professor Labris Plads",
+                  "text": "Egy központi játszótér Odense városában, ideális egy pihenőhöz városnézés közben.",
+                  "category": "family",
+                  "coords": [
+                        10.394324,
+                        55.391758
+                  ]
+            },
+            {
+                  "name": "Odense Minigolf",
+                  "text": "Egy gondozott minigolfpálya Odense városában a szórakoztató szabadtéri időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.347122,
+                        55.400612
+                  ]
+            },
+            {
+                  "name": "Minigolfklub Putter Team Odense",
+                  "text": "Egy minigolf klub Odense városában, amely kiválóan alkalmas családoknak és hobbijátékosoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.378846,
+                        55.407799
+                  ]
+            },
+            {
+                  "name": "CAMELUS",
+                  "text": "Egy színes játszótér Odense városában, amely serkenti a gyermekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        10.372954,
+                        55.378569
+                  ]
+            },
+            {
+                  "name": "Legeplads i Eventyrhaven",
+                  "text": "Egy csodálatos játszótér az Odense-i mesekertben, zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        10.389823,
+                        55.394323
+                  ]
+            },
+            {
+                  "name": "Vesterbro Minigolf",
+                  "text": "Egy vonzó minigolfpálya Odense városában a családi sportos szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.374451,
+                        55.39478
+                  ]
+            },
+            {
+                  "name": "Trafikskolen",
+                  "text": "Egy oktató jellegű játszótér Odense városában, ahol a gyerekek játékosan fedezik fel a világot.",
+                  "category": "family",
+                  "coords": [
+                        10.413968,
+                        55.406663
+                  ]
+            },
+            {
+                  "name": "Safaribanen",
+                  "text": "Egy izgalmas játszótér Odense városában, amely szabadtéri kalandokra hív.",
+                  "category": "family",
+                  "coords": [
+                        10.374002,
+                        55.375601
+                  ]
+            },
+            {
+                  "name": "Den Store Legeplads",
+                  "text": "Egy tágas játszótér Odense városában, számos játéklehetőséggel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.422206,
+                        55.385353
                   ]
             }
       ],
@@ -3371,6 +4586,159 @@ export const denmarkRegions: POI[] = [
                         10.392735,
                         55.396048
                   ]
+            },
+            {
+                  "name": "Brønshøj Sø",
+                  "text": "Un lac liniștit în Odense, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.412524,
+                        55.394909
+                  ]
+            },
+            {
+                  "name": "Broby Sø",
+                  "text": "Acest lac din Odense oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.309278,
+                        55.444825
+                  ]
+            },
+            {
+                  "name": "Munkemaen",
+                  "text": "Un lac idilic în Odense, care invită la relaxare și admirarea priveliștii.",
+                  "category": "natural",
+                  "coords": [
+                        10.384084,
+                        55.428398
+                  ]
+            },
+            {
+                  "name": "Højby Gadekær",
+                  "text": "Un lac mic în Odense, care oferă o atmosferă liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.441641,
+                        55.33106
+                  ]
+            },
+            {
+                  "name": "Svanedammen",
+                  "text": "Un lac natural în Odense, perfect pentru o scurtă pauză de la viața de zi cu zi.",
+                  "category": "natural",
+                  "coords": [
+                        10.405525,
+                        55.40958
+                  ]
+            },
+            {
+                  "name": "Skattekisten",
+                  "text": "Un loc de joacă plin de imaginație în Odense, unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        10.411289,
+                        55.392096
+                  ]
+            },
+            {
+                  "name": "Putter Team",
+                  "text": "Un teren de minigolf în Odense, care oferă distracție și competiție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.372442,
+                        55.399285
+                  ]
+            },
+            {
+                  "name": "Jumping Fun",
+                  "text": "Un parc de trambuline modern în Odense pentru copii și tineri activi.",
+                  "category": "family",
+                  "coords": [
+                        10.390721,
+                        55.405465
+                  ]
+            },
+            {
+                  "name": "Professor Labris Plads",
+                  "text": "Un loc de joacă central în Odense, ideal pentru o pauză în timpul plimbării prin oraș.",
+                  "category": "family",
+                  "coords": [
+                        10.394324,
+                        55.391758
+                  ]
+            },
+            {
+                  "name": "Odense Minigolf",
+                  "text": "Un teren de minigolf bine întreținut în Odense pentru un timp distractiv în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.347122,
+                        55.400612
+                  ]
+            },
+            {
+                  "name": "Minigolfklub Putter Team Odense",
+                  "text": "Un club de minigolf în Odense, excelent pentru familii și jucători ocazionali.",
+                  "category": "family",
+                  "coords": [
+                        10.378846,
+                        55.407799
+                  ]
+            },
+            {
+                  "name": "CAMELUS",
+                  "text": "Un loc de joacă colorat în Odense, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        10.372954,
+                        55.378569
+                  ]
+            },
+            {
+                  "name": "Legeplads i Eventyrhaven",
+                  "text": "Un loc de joacă minunat în grădina cu povești din Odense, situat într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        10.389823,
+                        55.394323
+                  ]
+            },
+            {
+                  "name": "Vesterbro Minigolf",
+                  "text": "Un teren de minigolf atractiv în Odense pentru distracție sportivă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        10.374451,
+                        55.39478
+                  ]
+            },
+            {
+                  "name": "Trafikskolen",
+                  "text": "Un loc de joacă educativ în Odense, unde copiii descoperă lumea prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        10.413968,
+                        55.406663
+                  ]
+            },
+            {
+                  "name": "Safaribanen",
+                  "text": "Un loc de joacă interesant în Odense, care invită la aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.374002,
+                        55.375601
+                  ]
+            },
+            {
+                  "name": "Den Store Legeplads",
+                  "text": "Un loc de joacă spațios în Odense, cu multe posibilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.422206,
+                        55.385353
+                  ]
             }
       ],
       "en": [
@@ -3759,6 +5127,159 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.392735,
                         55.396048
+                  ]
+            },
+            {
+                  "name": "Brønshøj Sø",
+                  "text": "A peaceful lake in Odense, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.412524,
+                        55.394909
+                  ]
+            },
+            {
+                  "name": "Broby Sø",
+                  "text": "This lake in Odense offers a picturesque setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        10.309278,
+                        55.444825
+                  ]
+            },
+            {
+                  "name": "Munkemaen",
+                  "text": "An idyllic lake in Odense that invites you to linger and enjoy the view.",
+                  "category": "natural",
+                  "coords": [
+                        10.384084,
+                        55.428398
+                  ]
+            },
+            {
+                  "name": "Højby Gadekær",
+                  "text": "A small lake in Odense offering a peaceful outdoor atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        10.441641,
+                        55.33106
+                  ]
+            },
+            {
+                  "name": "Svanedammen",
+                  "text": "A natural lake in Odense, perfect for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        10.405525,
+                        55.40958
+                  ]
+            },
+            {
+                  "name": "Skattekisten",
+                  "text": "An imaginative playground in Odense where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        10.411289,
+                        55.392096
+                  ]
+            },
+            {
+                  "name": "Putter Team",
+                  "text": "A miniature golf course in Odense offering fun and competition for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.372442,
+                        55.399285
+                  ]
+            },
+            {
+                  "name": "Jumping Fun",
+                  "text": "A modern trampoline park in Odense for active children and teenagers.",
+                  "category": "family",
+                  "coords": [
+                        10.390721,
+                        55.405465
+                  ]
+            },
+            {
+                  "name": "Professor Labris Plads",
+                  "text": "A central playground in Odense, ideal for a break during a city stroll.",
+                  "category": "family",
+                  "coords": [
+                        10.394324,
+                        55.391758
+                  ]
+            },
+            {
+                  "name": "Odense Minigolf",
+                  "text": "A well-maintained miniature golf course in Odense for a fun time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        10.347122,
+                        55.400612
+                  ]
+            },
+            {
+                  "name": "Minigolfklub Putter Team Odense",
+                  "text": "A miniature golf club in Odense that is great for families and recreational players.",
+                  "category": "family",
+                  "coords": [
+                        10.378846,
+                        55.407799
+                  ]
+            },
+            {
+                  "name": "CAMELUS",
+                  "text": "A colorful playground in Odense that stimulates children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        10.372954,
+                        55.378569
+                  ]
+            },
+            {
+                  "name": "Legeplads i Eventyrhaven",
+                  "text": "A wonderful playground in the Odense fairy tale garden, nestled in green surroundings.",
+                  "category": "family",
+                  "coords": [
+                        10.389823,
+                        55.394323
+                  ]
+            },
+            {
+                  "name": "Vesterbro Minigolf",
+                  "text": "An attractive miniature golf course in Odense for sporting fun with the family.",
+                  "category": "family",
+                  "coords": [
+                        10.374451,
+                        55.39478
+                  ]
+            },
+            {
+                  "name": "Trafikskolen",
+                  "text": "An educational playground in Odense where children discover the world through play.",
+                  "category": "family",
+                  "coords": [
+                        10.413968,
+                        55.406663
+                  ]
+            },
+            {
+                  "name": "Safaribanen",
+                  "text": "An exciting playground in Odense that invites outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        10.374002,
+                        55.375601
+                  ]
+            },
+            {
+                  "name": "Den Store Legeplads",
+                  "text": "A spacious playground in Odense with many play options for children.",
+                  "category": "family",
+                  "coords": [
+                        10.422206,
+                        55.385353
                   ]
             }
       ]
@@ -4393,6 +5914,78 @@ export const denmarkCities: POI[] = [
                         9.885926,
                         57.054805
                   ]
+            },
+            {
+                  "name": "Kjærs Møllesø",
+                  "text": "Kjærs Møllesø ist ein See in Aalborg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.922338,
+                        57.036718
+                  ]
+            },
+            {
+                  "name": "Lergraven",
+                  "text": "Lergraven ist ein See in Aalborg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.919697,
+                        57.021558
+                  ]
+            },
+            {
+                  "name": "Voerbjerg Sø",
+                  "text": "Voerbjerg Sø ist ein See in Aalborg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.896629,
+                        57.093052
+                  ]
+            },
+            {
+                  "name": "Fuglesøerne",
+                  "text": "Fuglesøerne ist ein See in Aalborg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.914815,
+                        57.012366
+                  ]
+            },
+            {
+                  "name": "Leos Legeland Aalborg",
+                  "text": "Leos Legeland Aalborg in Aalborg ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        9.933715,
+                        57.03334
+                  ]
+            },
+            {
+                  "name": "Aalborg Minigolf",
+                  "text": "Aalborg Minigolf bietet Minigolf in Aalborg für eine unterhaltsame Familienaktivität an.",
+                  "category": "family",
+                  "coords": [
+                        9.887687,
+                        57.054548
+                  ]
+            },
+            {
+                  "name": "Cykleren",
+                  "text": "Cykleren in Aalborg ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        9.930336,
+                        57.073598
+                  ]
+            },
+            {
+                  "name": "Stoppestedet",
+                  "text": "Stoppestedet in Aalborg ist ein familienfreundlicher Spielplatz für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        9.93748,
+                        57.058463
+                  ]
             }
       ],
       "hu": [
@@ -4871,6 +6464,78 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.885926,
                         57.054805
+                  ]
+            },
+            {
+                  "name": "Kjærs Møllesø",
+                  "text": "A Kjærs Møllesø egy tó Aalborg területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.922338,
+                        57.036718
+                  ]
+            },
+            {
+                  "name": "Lergraven",
+                  "text": "A Lergraven egy tó Aalborg területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.919697,
+                        57.021558
+                  ]
+            },
+            {
+                  "name": "Voerbjerg Sø",
+                  "text": "A Voerbjerg Sø egy tó Aalborg területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.896629,
+                        57.093052
+                  ]
+            },
+            {
+                  "name": "Fuglesøerne",
+                  "text": "A Fuglesøerne egy tó Aalborg területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.914815,
+                        57.012366
+                  ]
+            },
+            {
+                  "name": "Leos Legeland Aalborg",
+                  "text": "A Leos Legeland Aalborg Aalborg területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.933715,
+                        57.03334
+                  ]
+            },
+            {
+                  "name": "Aalborg Minigolf",
+                  "text": "Az Aalborg Minigolf Aalborg területén minigolfozási lehetőséget kínál egy szórakoztató családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.887687,
+                        57.054548
+                  ]
+            },
+            {
+                  "name": "Cykleren",
+                  "text": "A Cykleren Aalborg területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.930336,
+                        57.073598
+                  ]
+            },
+            {
+                  "name": "Stoppestedet",
+                  "text": "A Stoppestedet Aalborg területén egy családbarát játszótér, ahol a gyerekek játszhatnak és szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        9.93748,
+                        57.058463
                   ]
             }
       ],
@@ -5351,6 +7016,78 @@ export const denmarkCities: POI[] = [
                         9.885926,
                         57.054805
                   ]
+            },
+            {
+                  "name": "Kjærs Møllesø",
+                  "text": "Kjærs Møllesø este un lac din Aalborg, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.922338,
+                        57.036718
+                  ]
+            },
+            {
+                  "name": "Lergraven",
+                  "text": "Lergraven este un lac din Aalborg, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.919697,
+                        57.021558
+                  ]
+            },
+            {
+                  "name": "Voerbjerg Sø",
+                  "text": "Voerbjerg Sø este un lac din Aalborg, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.896629,
+                        57.093052
+                  ]
+            },
+            {
+                  "name": "Fuglesøerne",
+                  "text": "Fuglesøerne este un lac din Aalborg, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        9.914815,
+                        57.012366
+                  ]
+            },
+            {
+                  "name": "Leos Legeland Aalborg",
+                  "text": "Leos Legeland Aalborg din Aalborg este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        9.933715,
+                        57.03334
+                  ]
+            },
+            {
+                  "name": "Aalborg Minigolf",
+                  "text": "Aalborg Minigolf oferă minigolf în Aalborg pentru o activitate distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.887687,
+                        57.054548
+                  ]
+            },
+            {
+                  "name": "Cykleren",
+                  "text": "Cykleren din Aalborg este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        9.930336,
+                        57.073598
+                  ]
+            },
+            {
+                  "name": "Stoppestedet",
+                  "text": "Stoppestedet din Aalborg este un loc de joacă prietenos pentru familii, unde copiii se pot juca și se pot distra.",
+                  "category": "family",
+                  "coords": [
+                        9.93748,
+                        57.058463
+                  ]
             }
       ],
       "en": [
@@ -5829,6 +7566,78 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.885926,
                         57.054805
+                  ]
+            },
+            {
+                  "name": "Kjærs Møllesø",
+                  "text": "Kjærs Møllesø is a lake in Aalborg, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.922338,
+                        57.036718
+                  ]
+            },
+            {
+                  "name": "Lergraven",
+                  "text": "Lergraven is a lake in Aalborg, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.919697,
+                        57.021558
+                  ]
+            },
+            {
+                  "name": "Voerbjerg Sø",
+                  "text": "Voerbjerg Sø is a lake in Aalborg, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.896629,
+                        57.093052
+                  ]
+            },
+            {
+                  "name": "Fuglesøerne",
+                  "text": "Fuglesøerne is a lake in Aalborg, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.914815,
+                        57.012366
+                  ]
+            },
+            {
+                  "name": "Leos Legeland Aalborg",
+                  "text": "Leos Legeland Aalborg in Aalborg is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.933715,
+                        57.03334
+                  ]
+            },
+            {
+                  "name": "Aalborg Minigolf",
+                  "text": "Aalborg Minigolf offers miniature golf in Aalborg for a fun family activity.",
+                  "category": "family",
+                  "coords": [
+                        9.887687,
+                        57.054548
+                  ]
+            },
+            {
+                  "name": "Cykleren",
+                  "text": "Cykleren in Aalborg is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.930336,
+                        57.073598
+                  ]
+            },
+            {
+                  "name": "Stoppestedet",
+                  "text": "Stoppestedet in Aalborg is a family-friendly playground for kids to play and have fun.",
+                  "category": "family",
+                  "coords": [
+                        9.93748,
+                        57.058463
                   ]
             }
       ]
@@ -7707,7 +9516,448 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/roskilde.webp",
  },
  {
- id: "city-esbjerg",
+ id: "city-esbjerg", "sights": {
+      "de": [
+            {
+                  "name": "Lergravssøen",
+                  "text": "Lergravssøen ist ein See in Esbjerg, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        8.470398,
+                        55.465297
+                  ]
+            },
+            {
+                  "name": "Kvaglund Sø",
+                  "text": "Kvaglund Sø ist ein See in Esbjerg, der einen malerischen Ort zum Wandern und Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.469942,
+                        55.494914
+                  ]
+            },
+            {
+                  "name": "Gjesing Sø",
+                  "text": "Gjesing Sø ist ein See in Esbjerg, der eine ruhige Atmosphäre für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.441555,
+                        55.514412
+                  ]
+            },
+            {
+                  "name": "Søgård Sø",
+                  "text": "Søgård Sø ist ein See in Esbjerg, ideal für eine Pause in der Natur und entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        8.382051,
+                        55.522846
+                  ]
+            },
+            {
+                  "name": "Spangsbjerg Møllesø",
+                  "text": "Spangsbjerg Møllesø ist ein See in Esbjerg, der eine schöne Kulisse für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.449048,
+                        55.494513
+                  ]
+            },
+            {
+                  "name": "Sildesøen",
+                  "text": "Sildesøen ist ein See in Esbjerg, der zum Entspannen in einer natürlichen Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.421029,
+                        55.489895
+                  ]
+            },
+            {
+                  "name": "Tarp Sø",
+                  "text": "Tarp Sø ist ein See in Esbjerg, der einen ruhigen Ort für Naturliebhaber darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        8.457646,
+                        55.528359
+                  ]
+            },
+            {
+                  "name": "Vognsbøl Sø",
+                  "text": "Vognsbøl Sø ist ein See in Esbjerg, der sich hervorragend für einen erholsamen Spaziergang am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        8.438307,
+                        55.488456
+                  ]
+            },
+            {
+                  "name": "Lykkens Have",
+                  "text": "Lykkens Have ist ein Spielplatz in Esbjerg, der Kindern einen tollen Ort zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.453192,
+                        55.463778
+                  ]
+            },
+            {
+                  "name": "Hermans Hule",
+                  "text": "Hermans Hule ist ein Spielplatz in Esbjerg, der eine unterhaltsame Umgebung für Familien mit Kindern bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.465307,
+                        55.46372
+                  ]
+            },
+            {
+                  "name": "Lydlegeplads",
+                  "text": "Lydlegeplads ist ein Spielplatz in Esbjerg, der Kindern eine spannende Möglichkeit zum Entdecken und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.451302,
+                        55.470267
+                  ]
+            },
+            {
+                  "name": "Vognbølparkens Legeplads",
+                  "text": "Vognbølparkens Legeplads ist ein Spielplatz in Esbjerg, ideal für einen aktiven Familienausflug im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.442948,
+                        55.48423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lergravssøen",
+                  "text": "A Lergravssøen egy tó Esbjerg területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.470398,
+                        55.465297
+                  ]
+            },
+            {
+                  "name": "Kvaglund Sø",
+                  "text": "A Kvaglund Sø egy tó Esbjergben, amely festői helyszínt biztosít a sétáláshoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        8.469942,
+                        55.494914
+                  ]
+            },
+            {
+                  "name": "Gjesing Sø",
+                  "text": "A Gjesing Sø egy tó Esbjergben, amely nyugodt légkört biztosít a szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.441555,
+                        55.514412
+                  ]
+            },
+            {
+                  "name": "Søgård Sø",
+                  "text": "A Søgård Sø egy tó Esbjergben, amely ideális a természetben való kikapcsolódáshoz és pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.382051,
+                        55.522846
+                  ]
+            },
+            {
+                  "name": "Spangsbjerg Møllesø",
+                  "text": "A Spangsbjerg Møllesø egy tó Esbjergben, amely szép környezetet biztosít egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        8.449048,
+                        55.494513
+                  ]
+            },
+            {
+                  "name": "Sildesøen",
+                  "text": "A Sildesøen egy tó Esbjergben, amely pihenésre hív a természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        8.421029,
+                        55.489895
+                  ]
+            },
+            {
+                  "name": "Tarp Sø",
+                  "text": "A Tarp Sø egy tó Esbjergben, amely nyugodt helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        8.457646,
+                        55.528359
+                  ]
+            },
+            {
+                  "name": "Vognsbøl Sø",
+                  "text": "A Vognsbøl Sø egy tó Esbjergben, amely kiválóan alkalmas egy pihentető sétára a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        8.438307,
+                        55.488456
+                  ]
+            },
+            {
+                  "name": "Lykkens Have",
+                  "text": "A Lykkens Have egy játszótér Esbjergben, amely remek helyet biztosít a gyerekeknek a játékhoz és szaladgáláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.453192,
+                        55.463778
+                  ]
+            },
+            {
+                  "name": "Hermans Hule",
+                  "text": "A Hermans Hule egy játszótér Esbjergben, amely szórakoztató környezetet kínál a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.465307,
+                        55.46372
+                  ]
+            },
+            {
+                  "name": "Lydlegeplads",
+                  "text": "A Lydlegeplads egy játszótér Esbjergben, amely izgalmas lehetőséget kínál a gyerekeknek a felfedezésre és a játékra.",
+                  "category": "family",
+                  "coords": [
+                        8.451302,
+                        55.470267
+                  ]
+            },
+            {
+                  "name": "Vognbølparkens Legeplads",
+                  "text": "A Vognbølparkens Legeplads egy játszótér Esbjergben, amely ideális egy aktív családi kiránduláshoz a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        8.442948,
+                        55.48423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lergravssøen",
+                  "text": "Lergravssøen este un lac din Esbjerg, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        8.470398,
+                        55.465297
+                  ]
+            },
+            {
+                  "name": "Kvaglund Sø",
+                  "text": "Kvaglund Sø este un lac în Esbjerg, oferind un loc pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.469942,
+                        55.494914
+                  ]
+            },
+            {
+                  "name": "Gjesing Sø",
+                  "text": "Gjesing Sø este un lac în Esbjerg, oferind o atmosferă liniștită pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        8.441555,
+                        55.514412
+                  ]
+            },
+            {
+                  "name": "Søgård Sø",
+                  "text": "Søgård Sø este un lac în Esbjerg, ideal pentru o pauză în natură și plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        8.382051,
+                        55.522846
+                  ]
+            },
+            {
+                  "name": "Spangsbjerg Møllesø",
+                  "text": "Spangsbjerg Møllesø este un lac în Esbjerg, oferind un cadru frumos pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        8.449048,
+                        55.494513
+                  ]
+            },
+            {
+                  "name": "Sildesøen",
+                  "text": "Sildesøen este un lac în Esbjerg, care invită la relaxare într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        8.421029,
+                        55.489895
+                  ]
+            },
+            {
+                  "name": "Tarp Sø",
+                  "text": "Tarp Sø este un lac în Esbjerg, reprezentând un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.457646,
+                        55.528359
+                  ]
+            },
+            {
+                  "name": "Vognsbøl Sø",
+                  "text": "Vognsbøl Sø este un lac în Esbjerg, excelent pentru o plimbare relaxantă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        8.438307,
+                        55.488456
+                  ]
+            },
+            {
+                  "name": "Lykkens Have",
+                  "text": "Lykkens Have este un teren de joacă în Esbjerg, oferind copiilor un loc minunat pentru joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        8.453192,
+                        55.463778
+                  ]
+            },
+            {
+                  "name": "Hermans Hule",
+                  "text": "Hermans Hule este un teren de joacă în Esbjerg, oferind un mediu distractiv pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        8.465307,
+                        55.46372
+                  ]
+            },
+            {
+                  "name": "Lydlegeplads",
+                  "text": "Lydlegeplads este un teren de joacă în Esbjerg, oferind copiilor o oportunitate interesantă de explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.451302,
+                        55.470267
+                  ]
+            },
+            {
+                  "name": "Vognbølparkens Legeplads",
+                  "text": "Vognbølparkens Legeplads este un teren de joacă în Esbjerg, ideal pentru o ieșire activă în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.442948,
+                        55.48423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lergravssøen",
+                  "text": "Lergravssøen is a lake in Esbjerg, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        8.470398,
+                        55.465297
+                  ]
+            },
+            {
+                  "name": "Kvaglund Sø",
+                  "text": "Kvaglund Sø is a lake in Esbjerg, providing a scenic spot for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        8.469942,
+                        55.494914
+                  ]
+            },
+            {
+                  "name": "Gjesing Sø",
+                  "text": "Gjesing Sø is a lake in Esbjerg, offering a peaceful atmosphere for outdoor walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.441555,
+                        55.514412
+                  ]
+            },
+            {
+                  "name": "Søgård Sø",
+                  "text": "Søgård Sø is a lake in Esbjerg, ideal for a break in nature and relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.382051,
+                        55.522846
+                  ]
+            },
+            {
+                  "name": "Spangsbjerg Møllesø",
+                  "text": "Spangsbjerg Møllesø is a lake in Esbjerg, offering a beautiful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        8.449048,
+                        55.494513
+                  ]
+            },
+            {
+                  "name": "Sildesøen",
+                  "text": "Sildesøen is a lake in Esbjerg, inviting for relaxation in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        8.421029,
+                        55.489895
+                  ]
+            },
+            {
+                  "name": "Tarp Sø",
+                  "text": "Tarp Sø is a lake in Esbjerg, providing a quiet spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        8.457646,
+                        55.528359
+                  ]
+            },
+            {
+                  "name": "Vognsbøl Sø",
+                  "text": "Vognsbøl Sø is a lake in Esbjerg, perfect for a relaxing stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        8.438307,
+                        55.488456
+                  ]
+            },
+            {
+                  "name": "Lykkens Have",
+                  "text": "Lykkens Have is a playground in Esbjerg, providing children with a great place to run and play.",
+                  "category": "family",
+                  "coords": [
+                        8.453192,
+                        55.463778
+                  ]
+            },
+            {
+                  "name": "Hermans Hule",
+                  "text": "Hermans Hule is a playground in Esbjerg, offering a fun environment for families with children.",
+                  "category": "family",
+                  "coords": [
+                        8.465307,
+                        55.46372
+                  ]
+            },
+            {
+                  "name": "Lydlegeplads",
+                  "text": "Lydlegeplads is a playground in Esbjerg, offering an exciting opportunity for children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        8.451302,
+                        55.470267
+                  ]
+            },
+            {
+                  "name": "Vognbølparkens Legeplads",
+                  "text": "Vognbølparkens Legeplads is a playground in Esbjerg, ideal for an active family outing outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.442948,
+                        55.48423
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [8.4508, 55.4765],
@@ -7931,6 +10181,114 @@ export const denmarkCities: POI[] = [
                         9.412669,
                         56.449016
                   ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Nørresø ist ein malerischer See in Viborg, der zu Spaziergängen am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.426467,
+                        56.459119
+                  ]
+            },
+            {
+                  "name": "Loldrup Sø",
+                  "text": "Loldrup Sø ist ein ruhiger See bei Viborg, der eine idyllische Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.446733,
+                        56.488348
+                  ]
+            },
+            {
+                  "name": "Vansø",
+                  "text": "Vansø ist ein kleiner See in Viborg, der von Natur umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.505662,
+                        56.481449
+                  ]
+            },
+            {
+                  "name": "Vedsø",
+                  "text": "Vedsø ist ein See in der Nähe von Viborg, der eine schöne Kulisse für Ausflüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.40505,
+                        56.403797
+                  ]
+            },
+            {
+                  "name": "Vintmølle Sø",
+                  "text": "Vintmølle Sø ist ein See in Viborg, der sich gut für eine Pause im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.392547,
+                        56.419839
+                  ]
+            },
+            {
+                  "name": "Rødding Sø",
+                  "text": "Rødding Sø ist ein See bei Viborg, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.495552,
+                        56.500051
+                  ]
+            },
+            {
+                  "name": "Bredmose",
+                  "text": "Bredmose ist ein See in Viborg, der eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.369394,
+                        56.475115
+                  ]
+            },
+            {
+                  "name": "Rødedam",
+                  "text": "Rødedam ist ein See in Viborg, der das Landschaftsbild bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        9.477756,
+                        56.415539
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Søndersø ist ein großer See in Viborg, der viele Freizeitmöglichkeiten am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.413983,
+                        56.440336
+                  ]
+            },
+            {
+                  "name": "Hald Sø",
+                  "text": "Hald Sø ist ein bekannter See bei Viborg, der für seine beeindruckende Tiefe und Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.348546,
+                        56.382406
+                  ]
+            },
+            {
+                  "name": "Legeland Viborg",
+                  "text": "Legeland Viborg bietet vielfältige Spiel- und Kletterattraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.389132,
+                        56.442094
+                  ]
+            },
+            {
+                  "name": "Menveds Plads",
+                  "text": "Menveds Plads ist ein zentral gelegener Spielplatz in Viborg.",
+                  "category": "family",
+                  "coords": [
+                        9.419932,
+                        56.45131
+                  ]
             }
       ],
       "hu": [
@@ -8112,6 +10470,114 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.412669,
                         56.449016
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "A Nørresø egy festői tó Viborgban, amely kellemes sétákra hív a parton.",
+                  "category": "natural",
+                  "coords": [
+                        9.426467,
+                        56.459119
+                  ]
+            },
+            {
+                  "name": "Loldrup Sø",
+                  "text": "A Loldrup Sø egy nyugodt tó Viborg közelében, idilli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.446733,
+                        56.488348
+                  ]
+            },
+            {
+                  "name": "Vansø",
+                  "text": "A Vansø egy kis tó Viborg területén, természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.505662,
+                        56.481449
+                  ]
+            },
+            {
+                  "name": "Vedsø",
+                  "text": "A Vedsø egy tó Viborg környékén, szép környezetet kínálva a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.40505,
+                        56.403797
+                  ]
+            },
+            {
+                  "name": "Vintmølle Sø",
+                  "text": "A Vintmølle Sø egy tó Viborg városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.392547,
+                        56.419839
+                  ]
+            },
+            {
+                  "name": "Rødding Sø",
+                  "text": "A Rødding Sø egy tó Viborg közelében, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.495552,
+                        56.500051
+                  ]
+            },
+            {
+                  "name": "Bredmose",
+                  "text": "A Bredmose egy tó Viborg területén, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.369394,
+                        56.475115
+                  ]
+            },
+            {
+                  "name": "Rødedam",
+                  "text": "A Rødedam egy tó Viborg városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.477756,
+                        56.415539
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "A Søndersø egy nagy tó Viborgban, amely számos kikapcsolódási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.413983,
+                        56.440336
+                  ]
+            },
+            {
+                  "name": "Hald Sø",
+                  "text": "A Hald Sø egy ismert tó Viborg közelében, lenyűgöző természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.348546,
+                        56.382406
+                  ]
+            },
+            {
+                  "name": "Legeland Viborg",
+                  "text": "A Legeland Viborg változatos játék- és mászóélményeket kínál a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.389132,
+                        56.442094
+                  ]
+            },
+            {
+                  "name": "Menveds Plads",
+                  "text": "A Menveds Plads egy központi fekvésű játszótér Viborg városában.",
+                  "category": "family",
+                  "coords": [
+                        9.419932,
+                        56.45131
                   ]
             }
       ],
@@ -8295,6 +10761,114 @@ export const denmarkCities: POI[] = [
                         9.412669,
                         56.449016
                   ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Nørresø este un lac pitoresc în Viborg, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.426467,
+                        56.459119
+                  ]
+            },
+            {
+                  "name": "Loldrup Sø",
+                  "text": "Loldrup Sø este un lac liniștit lângă Viborg, oferind o atmosferă idilică.",
+                  "category": "natural",
+                  "coords": [
+                        9.446733,
+                        56.488348
+                  ]
+            },
+            {
+                  "name": "Vansø",
+                  "text": "Vansø este un mic lac în Viborg, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.505662,
+                        56.481449
+                  ]
+            },
+            {
+                  "name": "Vedsø",
+                  "text": "Vedsø este un lac în apropiere de Viborg, oferind un cadru frumos pentru excursii.",
+                  "category": "natural",
+                  "coords": [
+                        9.40505,
+                        56.403797
+                  ]
+            },
+            {
+                  "name": "Vintmølle Sø",
+                  "text": "Vintmølle Sø este un lac în Viborg, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.392547,
+                        56.419839
+                  ]
+            },
+            {
+                  "name": "Rødding Sø",
+                  "text": "Rødding Sø este un lac lângă Viborg, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.495552,
+                        56.500051
+                  ]
+            },
+            {
+                  "name": "Bredmose",
+                  "text": "Bredmose este un lac în Viborg, oferind o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.369394,
+                        56.475115
+                  ]
+            },
+            {
+                  "name": "Rødedam",
+                  "text": "Rødedam este un lac situat în Viborg.",
+                  "category": "natural",
+                  "coords": [
+                        9.477756,
+                        56.415539
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Søndersø este un lac mare în Viborg, oferind numeroase oportunități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.413983,
+                        56.440336
+                  ]
+            },
+            {
+                  "name": "Hald Sø",
+                  "text": "Hald Sø este un lac cunoscut lângă Viborg, renumit pentru peisajele sale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        9.348546,
+                        56.382406
+                  ]
+            },
+            {
+                  "name": "Legeland Viborg",
+                  "text": "Legeland Viborg oferă diverse atracții de joacă și cățărat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.389132,
+                        56.442094
+                  ]
+            },
+            {
+                  "name": "Menveds Plads",
+                  "text": "Menveds Plads este un teren de joacă situat central în Viborg.",
+                  "category": "family",
+                  "coords": [
+                        9.419932,
+                        56.45131
+                  ]
             }
       ],
       "en": [
@@ -8476,6 +11050,114 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.412669,
                         56.449016
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Nørresø is a scenic lake in Viborg, inviting visitors for a stroll by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.426467,
+                        56.459119
+                  ]
+            },
+            {
+                  "name": "Loldrup Sø",
+                  "text": "Loldrup Sø is a peaceful lake near Viborg, offering an idyllic atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.446733,
+                        56.488348
+                  ]
+            },
+            {
+                  "name": "Vansø",
+                  "text": "Vansø is a small lake in Viborg, surrounded by greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.505662,
+                        56.481449
+                  ]
+            },
+            {
+                  "name": "Vedsø",
+                  "text": "Vedsø is a lake near Viborg, providing a lovely backdrop for outings.",
+                  "category": "natural",
+                  "coords": [
+                        9.40505,
+                        56.403797
+                  ]
+            },
+            {
+                  "name": "Vintmølle Sø",
+                  "text": "Vintmølle Sø is a lake in Viborg, suitable for an outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        9.392547,
+                        56.419839
+                  ]
+            },
+            {
+                  "name": "Rødding Sø",
+                  "text": "Rødding Sø is a lake near Viborg, inviting visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.495552,
+                        56.500051
+                  ]
+            },
+            {
+                  "name": "Bredmose",
+                  "text": "Bredmose is a lake in Viborg, offering a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        9.369394,
+                        56.475115
+                  ]
+            },
+            {
+                  "name": "Rødedam",
+                  "text": "Rødedam is a lake in Viborg, enhancing the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.477756,
+                        56.415539
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Søndersø is a large lake in Viborg, offering many recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        9.413983,
+                        56.440336
+                  ]
+            },
+            {
+                  "name": "Hald Sø",
+                  "text": "Hald Sø is a well-known lake near Viborg, famous for its impressive natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        9.348546,
+                        56.382406
+                  ]
+            },
+            {
+                  "name": "Legeland Viborg",
+                  "text": "Legeland Viborg provides various play and climbing attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        9.389132,
+                        56.442094
+                  ]
+            },
+            {
+                  "name": "Menveds Plads",
+                  "text": "Menveds Plads is a centrally located playground in Viborg.",
+                  "category": "family",
+                  "coords": [
+                        9.419932,
+                        56.45131
                   ]
             }
       ]
@@ -8757,6 +11439,33 @@ export const denmarkCities: POI[] = [
                         10.039687,
                         56.456539
                   ]
+            },
+            {
+                  "name": "Offermosen",
+                  "text": "Ein naturnaher Spielplatz in Randers, ideal für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        10.028425,
+                        56.457669
+                  ]
+            },
+            {
+                  "name": "SK80",
+                  "text": "Ein moderner Spiel- und Freizeitbereich in Randers für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        10.045614,
+                        56.434867
+                  ]
+            },
+            {
+                  "name": "Den Cirkulære Legeplads",
+                  "text": "Ein architektonisch interessanter Spielplatz in Randers mit abwechslungsreichen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        10.051946,
+                        56.471187
+                  ]
             }
       ],
       "hu": [
@@ -8992,6 +11701,33 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         10.039687,
                         56.456539
+                  ]
+            },
+            {
+                  "name": "Offermosen",
+                  "text": "Egy természetközeli játszótér Randers városában, ideális a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        10.028425,
+                        56.457669
+                  ]
+            },
+            {
+                  "name": "SK80",
+                  "text": "Egy modern játék- és szabadidős terület Randers városában gyermekek és fiatalok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.045614,
+                        56.434867
+                  ]
+            },
+            {
+                  "name": "Den Cirkulære Legeplads",
+                  "text": "Egy építészetileg érdekes játszótér Randers városában, változatos eszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        10.051946,
+                        56.471187
                   ]
             }
       ],
@@ -9229,6 +11965,33 @@ export const denmarkCities: POI[] = [
                         10.039687,
                         56.456539
                   ]
+            },
+            {
+                  "name": "Offermosen",
+                  "text": "Un loc de joacă aproape de natură în Randers, ideal pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        10.028425,
+                        56.457669
+                  ]
+            },
+            {
+                  "name": "SK80",
+                  "text": "O zonă modernă de joacă și recreere în Randers pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        10.045614,
+                        56.434867
+                  ]
+            },
+            {
+                  "name": "Den Cirkulære Legeplads",
+                  "text": "Un loc de joacă interesant din punct de vedere arhitectural în Randers, cu echipamente variate.",
+                  "category": "family",
+                  "coords": [
+                        10.051946,
+                        56.471187
+                  ]
             }
       ],
       "en": [
@@ -9464,6 +12227,33 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         10.039687,
                         56.456539
+                  ]
+            },
+            {
+                  "name": "Offermosen",
+                  "text": "A playground close to nature in Randers, ideal for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        10.028425,
+                        56.457669
+                  ]
+            },
+            {
+                  "name": "SK80",
+                  "text": "A modern play and leisure area in Randers for children and young people.",
+                  "category": "family",
+                  "coords": [
+                        10.045614,
+                        56.434867
+                  ]
+            },
+            {
+                  "name": "Den Cirkulære Legeplads",
+                  "text": "An architecturally interesting playground in Randers with varied equipment.",
+                  "category": "family",
+                  "coords": [
+                        10.051946,
+                        56.471187
                   ]
             }
       ]
@@ -9736,6 +12526,222 @@ export const denmarkCities: POI[] = [
                         9.555242,
                         56.174506
                   ]
+            },
+            {
+                  "name": "Almind Sø",
+                  "text": "Almind Sø ist ein See in Silkeborg, der für sein klares Wasser und die umliegende Waldlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.545671,
+                        56.150974
+                  ]
+            },
+            {
+                  "name": "Vejlsø",
+                  "text": "Vejlsø ist ein See in Silkeborg, der eine malerische Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.559502,
+                        56.149959
+                  ]
+            },
+            {
+                  "name": "Ørnsø",
+                  "text": "Ørnsø ist ein See in Silkeborg, der zu gemütlichen Spaziergängen in ruhiger Umgebung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.519197,
+                        56.155097
+                  ]
+            },
+            {
+                  "name": "Avnsø",
+                  "text": "Avnsø ist ein See in Silkeborg, der Besuchern eine friedliche Atmosphäre inmitten der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.572448,
+                        56.142646
+                  ]
+            },
+            {
+                  "name": "Slåensø",
+                  "text": "Slåensø ist ein See in Silkeborg, der für seine idyllische Lage und das saubere Wasser geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        9.618867,
+                        56.123044
+                  ]
+            },
+            {
+                  "name": "Uglesø",
+                  "text": "Uglesø ist ein See in Silkeborg, der einen naturnahen Ort zum Ausruhen und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.565682,
+                        56.141374
+                  ]
+            },
+            {
+                  "name": "Tranevig",
+                  "text": "Tranevig ist ein See in Silkeborg, der sich hervorragend für Erkundungen in der dänischen Seenplatte eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.516882,
+                        56.146069
+                  ]
+            },
+            {
+                  "name": "Vejlbo Mose",
+                  "text": "Vejlbo Mose ist ein See in Silkeborg, der eine einzigartige Moorlandschaft zum Entdecken bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.553167,
+                        56.154154
+                  ]
+            },
+            {
+                  "name": "Pøtsø",
+                  "text": "Pøtsø ist ein See in Silkeborg, der eine ruhige und ungestörte Umgebung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.524065,
+                        56.159731
+                  ]
+            },
+            {
+                  "name": "Gjessø",
+                  "text": "Gjessø ist ein See in Silkeborg, der als schöner Ort für Spaziergänge am Ufer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.496028,
+                        56.114304
+                  ]
+            },
+            {
+                  "name": "Ellesø",
+                  "text": "Ellesø ist ein See in Silkeborg, der eine charmante Kulisse für Naturliebhaber darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        9.574353,
+                        56.129538
+                  ]
+            },
+            {
+                  "name": "Hummelsø",
+                  "text": "Hummelsø ist ein See in Silkeborg, der Besuchern einen friedlichen Rückzugsort im Grünen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.552169,
+                        56.109518
+                  ]
+            },
+            {
+                  "name": "Jenskær",
+                  "text": "Jenskær ist ein See in Silkeborg, der durch seine natürliche Schönheit und Ruhe besticht.",
+                  "category": "natural",
+                  "coords": [
+                        9.500946,
+                        56.125924
+                  ]
+            },
+            {
+                  "name": "Gubsø",
+                  "text": "Gubsø ist ein See in Silkeborg, der eine entspannte Atmosphäre für einen Tag im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.529513,
+                        56.202007
+                  ]
+            },
+            {
+                  "name": "Silkeborg Langsø",
+                  "text": "Silkeborg Langsø ist ein See in Silkeborg, der das Stadtbild prägt und viele Wege am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.554362,
+                        56.168746
+                  ]
+            },
+            {
+                  "name": "Lyngsø",
+                  "text": "Lyngsø ist ein See in Silkeborg, der eine ruhige Oase unweit des Stadtzentrums darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        9.543833,
+                        56.158747
+                  ]
+            },
+            {
+                  "name": "Brassø",
+                  "text": "Brassø ist ein See in Silkeborg, der Teil des Gudenå-Systems ist und eine herrliche Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.575662,
+                        56.144765
+                  ]
+            },
+            {
+                  "name": "Borre Sø",
+                  "text": "Borre Sø ist ein See in Silkeborg, der von bewaldeten Hügeln umgeben ist und zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.611582,
+                        56.130183
+                  ]
+            },
+            {
+                  "name": "Dalsøen",
+                  "text": "Dalsøen ist ein See in Silkeborg, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.540929,
+                        56.194361
+                  ]
+            },
+            {
+                  "name": "Thorsø",
+                  "text": "Thorsø ist ein See in Silkeborg, der als beliebter Ort für Wanderungen und Freizeitaktivitäten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.537482,
+                        56.126219
+                  ]
+            },
+            {
+                  "name": "Schoubyes Sø",
+                  "text": "Schoubyes Sø ist ein See in Silkeborg, der durch seine idyllische Lage im Wald besticht.",
+                  "category": "natural",
+                  "coords": [
+                        9.616963,
+                        56.16738
+                  ]
+            },
+            {
+                  "name": "Indelukkets minigolf",
+                  "text": "Indelukkets minigolf ist eine Minigolfanlage in Silkeborg, die Spielspaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.560689,
+                        56.160442
+                  ]
+            },
+            {
+                  "name": "Theodoras Have",
+                  "text": "Theodoras Have ist ein Spielplatz in Silkeborg, der Kindern einen freundlichen Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.547146,
+                        56.165535
+                  ]
+            },
+            {
+                  "name": "Søndretorv legeplads",
+                  "text": "Søndretorv legeplads ist ein Spielplatz in Silkeborg, ideal für eine kurze Spielpause während eines Stadtbesuchs.",
+                  "category": "family",
+                  "coords": [
+                        9.551273,
+                        56.166786
+                  ]
             }
       ],
       "hu": [
@@ -9962,6 +12968,222 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.555242,
                         56.174506
+                  ]
+            },
+            {
+                  "name": "Almind Sø",
+                  "text": "Az Almind Sø egy tó Silkeborgban, amely tiszta vizéről és az azt körülvevő erdei tájról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.545671,
+                        56.150974
+                  ]
+            },
+            {
+                  "name": "Vejlsø",
+                  "text": "A Vejlsø egy tó Silkeborgban, amely festői környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.559502,
+                        56.149959
+                  ]
+            },
+            {
+                  "name": "Ørnsø",
+                  "text": "Az Ørnsø egy tó Silkeborgban, amely kellemes sétákra hív a nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.519197,
+                        56.155097
+                  ]
+            },
+            {
+                  "name": "Avnsø",
+                  "text": "Az Avnsø egy tó Silkeborgban, amely békés légkört kínál a látogatóknak a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        9.572448,
+                        56.142646
+                  ]
+            },
+            {
+                  "name": "Slåensø",
+                  "text": "A Slåensø egy tó Silkeborgban, amelyet idilli fekvése és tiszta vize miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        9.618867,
+                        56.123044
+                  ]
+            },
+            {
+                  "name": "Uglesø",
+                  "text": "Az Uglesø egy tó Silkeborgban, amely természetközeli helyet kínál a pihenésre és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.565682,
+                        56.141374
+                  ]
+            },
+            {
+                  "name": "Tranevig",
+                  "text": "A Tranevig egy tó Silkeborgban, amely kiválóan alkalmas a dán tóvidék felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.516882,
+                        56.146069
+                  ]
+            },
+            {
+                  "name": "Vejlbo Mose",
+                  "text": "A Vejlbo Mose egy tó Silkeborgban, amely egyedülálló lápi tájat kínál a felfedezéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.553167,
+                        56.154154
+                  ]
+            },
+            {
+                  "name": "Pøtsø",
+                  "text": "A Pøtsø egy tó Silkeborgban, amely nyugodt és zavartalan környezetet biztosít a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.524065,
+                        56.159731
+                  ]
+            },
+            {
+                  "name": "Gjessø",
+                  "text": "A Gjessø egy tó Silkeborgban, amely a tóparti séták kedvelt helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        9.496028,
+                        56.114304
+                  ]
+            },
+            {
+                  "name": "Ellesø",
+                  "text": "Az Ellesø egy tó Silkeborgban, amely bájos környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        9.574353,
+                        56.129538
+                  ]
+            },
+            {
+                  "name": "Hummelsø",
+                  "text": "A Hummelsø egy tó Silkeborgban, amely békés menedéket kínál a látogatóknak a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        9.552169,
+                        56.109518
+                  ]
+            },
+            {
+                  "name": "Jenskær",
+                  "text": "A Jenskær egy tó Silkeborgban, amely természeti szépségével és nyugalmával hódít.",
+                  "category": "natural",
+                  "coords": [
+                        9.500946,
+                        56.125924
+                  ]
+            },
+            {
+                  "name": "Gubsø",
+                  "text": "A Gubsø egy tó Silkeborgban, amely pihentető légkört biztosít egy szabadtéri naphoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.529513,
+                        56.202007
+                  ]
+            },
+            {
+                  "name": "Silkeborg Langsø",
+                  "text": "A Silkeborg Langsø egy tó Silkeborgban, amely meghatározza a városképet és számos vízparti utat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.554362,
+                        56.168746
+                  ]
+            },
+            {
+                  "name": "Lyngsø",
+                  "text": "A Lyngsø egy tó Silkeborgban, amely egy csendes oázis a városközpont közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.543833,
+                        56.158747
+                  ]
+            },
+            {
+                  "name": "Brassø",
+                  "text": "A Brassø egy tó Silkeborgban, a Gudenå rendszer része, amely csodálatos kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        9.575662,
+                        56.144765
+                  ]
+            },
+            {
+                  "name": "Borre Sø",
+                  "text": "A Borre Sø egy tó Silkeborgban, amelyet erdős dombok vesznek körül, és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.611582,
+                        56.130183
+                  ]
+            },
+            {
+                  "name": "Dalsøen",
+                  "text": "A Dalsøen egy tó Silkeborgban, amely békés környezetet biztosít a természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.540929,
+                        56.194361
+                  ]
+            },
+            {
+                  "name": "Thorsø",
+                  "text": "A Thorsø egy tó Silkeborgban, amely a túrázók és a szabadidős tevékenységek kedvelt helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        9.537482,
+                        56.126219
+                  ]
+            },
+            {
+                  "name": "Schoubyes Sø",
+                  "text": "A Schoubyes Sø egy tó Silkeborgban, amely az erdőben található idilli fekvésével tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        9.616963,
+                        56.16738
+                  ]
+            },
+            {
+                  "name": "Indelukkets minigolf",
+                  "text": "Az Indelukkets minigolf egy minigolfpálya Silkeborgban, amely játékos szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.560689,
+                        56.160442
+                  ]
+            },
+            {
+                  "name": "Theodoras Have",
+                  "text": "A Theodoras Have egy játszótér Silkeborgban, amely barátságos helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.547146,
+                        56.165535
+                  ]
+            },
+            {
+                  "name": "Søndretorv legeplads",
+                  "text": "A Søndretorv legeplads egy játszótér Silkeborgban, amely ideális egy rövid játékos szünethez városnézés közben.",
+                  "category": "family",
+                  "coords": [
+                        9.551273,
+                        56.166786
                   ]
             }
       ],
@@ -10190,6 +13412,222 @@ export const denmarkCities: POI[] = [
                         9.555242,
                         56.174506
                   ]
+            },
+            {
+                  "name": "Almind Sø",
+                  "text": "Almind Sø este un lac în Silkeborg, cunoscut pentru apa sa limpede și peisajul forestier înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        9.545671,
+                        56.150974
+                  ]
+            },
+            {
+                  "name": "Vejlsø",
+                  "text": "Vejlsø este un lac în Silkeborg, oferind un cadru pitoresc pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.559502,
+                        56.149959
+                  ]
+            },
+            {
+                  "name": "Ørnsø",
+                  "text": "Ørnsø este un lac în Silkeborg, invitând la plimbări plăcute într-un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.519197,
+                        56.155097
+                  ]
+            },
+            {
+                  "name": "Avnsø",
+                  "text": "Avnsø este un lac în Silkeborg, oferind vizitatorilor o atmosferă pașnică în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.572448,
+                        56.142646
+                  ]
+            },
+            {
+                  "name": "Slåensø",
+                  "text": "Slåensø este un lac în Silkeborg, apreciat pentru locația sa idilică și apa curată.",
+                  "category": "natural",
+                  "coords": [
+                        9.618867,
+                        56.123044
+                  ]
+            },
+            {
+                  "name": "Uglesø",
+                  "text": "Uglesø este un lac în Silkeborg, oferind un loc aproape de natură pentru odihnă și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.565682,
+                        56.141374
+                  ]
+            },
+            {
+                  "name": "Tranevig",
+                  "text": "Tranevig este un lac în Silkeborg, excelent pentru explorări în zona lacurilor daneze.",
+                  "category": "natural",
+                  "coords": [
+                        9.516882,
+                        56.146069
+                  ]
+            },
+            {
+                  "name": "Vejlbo Mose",
+                  "text": "Vejlbo Mose este un lac în Silkeborg, oferind un peisaj de mlaștină unic pentru explorare.",
+                  "category": "natural",
+                  "coords": [
+                        9.553167,
+                        56.154154
+                  ]
+            },
+            {
+                  "name": "Pøtsø",
+                  "text": "Pøtsø este un lac în Silkeborg, oferind un mediu liniștit și neperturbat în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.524065,
+                        56.159731
+                  ]
+            },
+            {
+                  "name": "Gjessø",
+                  "text": "Gjessø este un lac în Silkeborg, cunoscut ca un loc frumos pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.496028,
+                        56.114304
+                  ]
+            },
+            {
+                  "name": "Ellesø",
+                  "text": "Ellesø este un lac în Silkeborg, reprezentând un cadru fermecător pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.574353,
+                        56.129538
+                  ]
+            },
+            {
+                  "name": "Hummelsø",
+                  "text": "Hummelsø este un lac în Silkeborg, oferind vizitatorilor un refugiu pașnic în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.552169,
+                        56.109518
+                  ]
+            },
+            {
+                  "name": "Jenskær",
+                  "text": "Jenskær este un lac în Silkeborg, impresionând prin frumusețea naturală și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.500946,
+                        56.125924
+                  ]
+            },
+            {
+                  "name": "Gubsø",
+                  "text": "Gubsø este un lac în Silkeborg, oferind o atmosferă relaxantă pentru o zi în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.529513,
+                        56.202007
+                  ]
+            },
+            {
+                  "name": "Silkeborg Langsø",
+                  "text": "Silkeborg Langsø este un lac în Silkeborg, care definește peisajul orașului și oferă multe trasee pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.554362,
+                        56.168746
+                  ]
+            },
+            {
+                  "name": "Lyngsø",
+                  "text": "Lyngsø este un lac în Silkeborg, reprezentând o oază de liniște nu departe de centrul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        9.543833,
+                        56.158747
+                  ]
+            },
+            {
+                  "name": "Brassø",
+                  "text": "Brassø este un lac în Silkeborg, parte a sistemului Gudenå, oferind vederi magnifice.",
+                  "category": "natural",
+                  "coords": [
+                        9.575662,
+                        56.144765
+                  ]
+            },
+            {
+                  "name": "Borre Sø",
+                  "text": "Borre Sø este un lac în Silkeborg, înconjurat de dealuri împădurite, invitând la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.611582,
+                        56.130183
+                  ]
+            },
+            {
+                  "name": "Dalsøen",
+                  "text": "Dalsøen este un lac în Silkeborg, oferind un mediu pașnic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.540929,
+                        56.194361
+                  ]
+            },
+            {
+                  "name": "Thorsø",
+                  "text": "Thorsø este un lac în Silkeborg, cunoscut ca un loc popular pentru drumeții și activități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        9.537482,
+                        56.126219
+                  ]
+            },
+            {
+                  "name": "Schoubyes Sø",
+                  "text": "Schoubyes Sø este un lac în Silkeborg, remarcându-se prin locația sa idilică în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        9.616963,
+                        56.16738
+                  ]
+            },
+            {
+                  "name": "Indelukkets minigolf",
+                  "text": "Indelukkets minigolf este un teren de minigolf în Silkeborg, oferind distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.560689,
+                        56.160442
+                  ]
+            },
+            {
+                  "name": "Theodoras Have",
+                  "text": "Theodoras Have este un teren de joacă în Silkeborg, oferind copiilor un loc prietenos pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.547146,
+                        56.165535
+                  ]
+            },
+            {
+                  "name": "Søndretorv legeplads",
+                  "text": "Søndretorv legeplads este un teren de joacă în Silkeborg, ideal pentru o scurtă pauză de joacă în timpul unei vizite în oraș.",
+                  "category": "family",
+                  "coords": [
+                        9.551273,
+                        56.166786
+                  ]
             }
       ],
       "en": [
@@ -10416,6 +13854,222 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.555242,
                         56.174506
+                  ]
+            },
+            {
+                  "name": "Almind Sø",
+                  "text": "Almind Sø is a lake in Silkeborg, known for its clear water and the surrounding forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.545671,
+                        56.150974
+                  ]
+            },
+            {
+                  "name": "Vejlsø",
+                  "text": "Vejlsø is a lake in Silkeborg, offering a scenic backdrop for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.559502,
+                        56.149959
+                  ]
+            },
+            {
+                  "name": "Ørnsø",
+                  "text": "Ørnsø is a lake in Silkeborg, inviting for pleasant walks in a quiet environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.519197,
+                        56.155097
+                  ]
+            },
+            {
+                  "name": "Avnsø",
+                  "text": "Avnsø is a lake in Silkeborg, providing visitors with a peaceful atmosphere in the heart of nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.572448,
+                        56.142646
+                  ]
+            },
+            {
+                  "name": "Slåensø",
+                  "text": "Slåensø is a lake in Silkeborg, valued for its idyllic location and clean water.",
+                  "category": "natural",
+                  "coords": [
+                        9.618867,
+                        56.123044
+                  ]
+            },
+            {
+                  "name": "Uglesø",
+                  "text": "Uglesø is a lake in Silkeborg, offering a nature-oriented spot for rest and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.565682,
+                        56.141374
+                  ]
+            },
+            {
+                  "name": "Tranevig",
+                  "text": "Tranevig is a lake in Silkeborg, excellent for exploring the Danish lake district.",
+                  "category": "natural",
+                  "coords": [
+                        9.516882,
+                        56.146069
+                  ]
+            },
+            {
+                  "name": "Vejlbo Mose",
+                  "text": "Vejlbo Mose is a lake in Silkeborg, offering a unique moorland landscape to discover.",
+                  "category": "natural",
+                  "coords": [
+                        9.553167,
+                        56.154154
+                  ]
+            },
+            {
+                  "name": "Pøtsø",
+                  "text": "Pøtsø is a lake in Silkeborg, providing a quiet and undisturbed environment in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.524065,
+                        56.159731
+                  ]
+            },
+            {
+                  "name": "Gjessø",
+                  "text": "Gjessø is a lake in Silkeborg, known as a lovely spot for lakeside walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.496028,
+                        56.114304
+                  ]
+            },
+            {
+                  "name": "Ellesø",
+                  "text": "Ellesø is a lake in Silkeborg, providing a charming setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.574353,
+                        56.129538
+                  ]
+            },
+            {
+                  "name": "Hummelsø",
+                  "text": "Hummelsø is a lake in Silkeborg, offering visitors a peaceful retreat in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.552169,
+                        56.109518
+                  ]
+            },
+            {
+                  "name": "Jenskær",
+                  "text": "Jenskær is a lake in Silkeborg, known for its natural beauty and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        9.500946,
+                        56.125924
+                  ]
+            },
+            {
+                  "name": "Gubsø",
+                  "text": "Gubsø is a lake in Silkeborg, offering a relaxed atmosphere for a day outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.529513,
+                        56.202007
+                  ]
+            },
+            {
+                  "name": "Silkeborg Langsø",
+                  "text": "Silkeborg Langsø is a lake in Silkeborg, shaping the cityscape and offering many waterside paths.",
+                  "category": "natural",
+                  "coords": [
+                        9.554362,
+                        56.168746
+                  ]
+            },
+            {
+                  "name": "Lyngsø",
+                  "text": "Lyngsø is a lake in Silkeborg, representing a quiet oasis not far from the city center.",
+                  "category": "natural",
+                  "coords": [
+                        9.543833,
+                        56.158747
+                  ]
+            },
+            {
+                  "name": "Brassø",
+                  "text": "Brassø is a lake in Silkeborg, part of the Gudenå system, offering magnificent views.",
+                  "category": "natural",
+                  "coords": [
+                        9.575662,
+                        56.144765
+                  ]
+            },
+            {
+                  "name": "Borre Sø",
+                  "text": "Borre Sø is a lake in Silkeborg, surrounded by forested hills and inviting for a stay.",
+                  "category": "natural",
+                  "coords": [
+                        9.611582,
+                        56.130183
+                  ]
+            },
+            {
+                  "name": "Dalsøen",
+                  "text": "Dalsøen is a lake in Silkeborg, providing a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.540929,
+                        56.194361
+                  ]
+            },
+            {
+                  "name": "Thorsø",
+                  "text": "Thorsø is a lake in Silkeborg, known as a popular spot for hiking and leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.537482,
+                        56.126219
+                  ]
+            },
+            {
+                  "name": "Schoubyes Sø",
+                  "text": "Schoubyes Sø is a lake in Silkeborg, standing out with its idyllic forest location.",
+                  "category": "natural",
+                  "coords": [
+                        9.616963,
+                        56.16738
+                  ]
+            },
+            {
+                  "name": "Indelukkets minigolf",
+                  "text": "Indelukkets minigolf is a miniature golf course in Silkeborg, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.560689,
+                        56.160442
+                  ]
+            },
+            {
+                  "name": "Theodoras Have",
+                  "text": "Theodoras Have is a playground in Silkeborg, providing children with a friendly spot for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        9.547146,
+                        56.165535
+                  ]
+            },
+            {
+                  "name": "Søndretorv legeplads",
+                  "text": "Søndretorv legeplads is a playground in Silkeborg, ideal for a short play break during a city visit.",
+                  "category": "family",
+                  "coords": [
+                        9.551273,
+                        56.166786
                   ]
             }
       ]
@@ -11271,6 +14925,132 @@ export const denmarkCities: POI[] = [
                         9.466371,
                         55.486185
                   ]
+            },
+            {
+                  "name": "Marielundsøen",
+                  "text": "Ein malerischer Waldsee in Kolding, umgeben von schöner Natur für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.489526,
+                        55.500337
+                  ]
+            },
+            {
+                  "name": "Bramdrupdam",
+                  "text": "Ein ruhiges Gewässer in Kolding, das eine erholsame Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.460362,
+                        55.522862
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Ein attraktiver See in Kolding, ideal für Beobachtungen der lokalen Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.427407,
+                        55.557872
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Ein idyllischer See in Kolding, der zu jeder Jahreszeit einen Besuch wert ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.426185,
+                        55.545786
+                  ]
+            },
+            {
+                  "name": "Slotssøen",
+                  "text": "Der historische Schlosssee in Kolding bietet eine wunderschöne Kulisse am Fuße der Burg.",
+                  "category": "natural",
+                  "coords": [
+                        9.475308,
+                        55.493087
+                  ]
+            },
+            {
+                  "name": "Bowl'n'Fun Koldings Legeland",
+                  "text": "Ein spannender Indoor-Spielplatz in Kolding für wetterunabhängigen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        9.463659,
+                        55.510459
+                  ]
+            },
+            {
+                  "name": "Færden",
+                  "text": "Ein freundlicher Spielplatz in Kolding, der Kinder zur Bewegung anregt.",
+                  "category": "family",
+                  "coords": [
+                        9.474269,
+                        55.487595
+                  ]
+            },
+            {
+                  "name": "Knudepunktet",
+                  "text": "Ein zentral gelegener Spielplatz in Kolding als Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.493609,
+                        55.488707
+                  ]
+            },
+            {
+                  "name": "Legen",
+                  "text": "Ein moderner Spielplatz in Kolding mit sicheren und abwechslungsreichen Geräten.",
+                  "category": "family",
+                  "coords": [
+                        9.476417,
+                        55.486857
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Ein ruhiger Spielplatz in Kolding, ideal für entspanntes Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        9.491438,
+                        55.488401
+                  ]
+            },
+            {
+                  "name": "Vinden i piletræerne",
+                  "text": "Ein thematisch gestalteter Spielplatz in Kolding, der zum Träumen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.487774,
+                        55.488063
+                  ]
+            },
+            {
+                  "name": "Fun Zone Arcade",
+                  "text": "Eine aufregende Spielhalle in Kolding mit einer Auswahl an modernen Unterhaltungsspielen.",
+                  "category": "family",
+                  "coords": [
+                        9.46141,
+                        55.514527
+                  ]
+            },
+            {
+                  "name": "Seest Samling",
+                  "text": "Ein lokaler Spielplatz in Kolding, perfekt für eine Pause an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.44092,
+                        55.48471
+                  ]
+            },
+            {
+                  "name": "Christiansøvej legeplads",
+                  "text": "Ein gemütlicher Spielplatz in Kolding, der Kindern ein sicheres Umfeld bietet.",
+                  "category": "family",
+                  "coords": [
+                        9.500237,
+                        55.507555
+                  ]
             }
       ],
       "hu": [
@@ -11524,6 +15304,132 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.466371,
                         55.486185
+                  ]
+            },
+            {
+                  "name": "Marielundsøen",
+                  "text": "Egy festői erdei tó Koldingban, gyönyörű természetben, sétákhoz ideális.",
+                  "category": "natural",
+                  "coords": [
+                        9.489526,
+                        55.500337
+                  ]
+            },
+            {
+                  "name": "Bramdrupdam",
+                  "text": "Egy nyugodt vízfelület Koldingban, amely pihentető környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.460362,
+                        55.522862
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Egy vonzó tó Koldingban, amely ideális a helyi vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.427407,
+                        55.557872
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Egy idilli tó Koldingban, amelyet minden évszakban érdemes meglátogatni.",
+                  "category": "natural",
+                  "coords": [
+                        9.426185,
+                        55.545786
+                  ]
+            },
+            {
+                  "name": "Slotssøen",
+                  "text": "A történelmi kastélytó Koldingban csodálatos hátteret kínál a vár tövében.",
+                  "category": "natural",
+                  "coords": [
+                        9.475308,
+                        55.493087
+                  ]
+            },
+            {
+                  "name": "Bowl'n'Fun Koldings Legeland",
+                  "text": "Egy izgalmas fedett játszótér Koldingban az időjárástól független szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.463659,
+                        55.510459
+                  ]
+            },
+            {
+                  "name": "Færden",
+                  "text": "Egy barátságos játszótér Koldingban, amely mozgásra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        9.474269,
+                        55.487595
+                  ]
+            },
+            {
+                  "name": "Knudepunktet",
+                  "text": "Egy központi fekvésű játszótér Koldingban, amely találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.493609,
+                        55.488707
+                  ]
+            },
+            {
+                  "name": "Legen",
+                  "text": "Egy modern játszótér Koldingban, biztonságos és változatos eszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        9.476417,
+                        55.486857
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Egy csendes játszótér Koldingban, ideális a pihentető szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.491438,
+                        55.488401
+                  ]
+            },
+            {
+                  "name": "Vinden i piletræerne",
+                  "text": "Egy tematikus játszótér Koldingban, amely álmodozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        9.487774,
+                        55.488063
+                  ]
+            },
+            {
+                  "name": "Fun Zone Arcade",
+                  "text": "Egy izgalmas játékterem Koldingban, modern szórakoztató játékok széles választékával.",
+                  "category": "family",
+                  "coords": [
+                        9.46141,
+                        55.514527
+                  ]
+            },
+            {
+                  "name": "Seest Samling",
+                  "text": "Egy helyi játszótér Koldingban, tökéletes egy kis friss levegőhöz.",
+                  "category": "family",
+                  "coords": [
+                        9.44092,
+                        55.48471
+                  ]
+            },
+            {
+                  "name": "Christiansøvej legeplads",
+                  "text": "Egy otthonos játszótér Koldingban, amely biztonságos környezetet nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.500237,
+                        55.507555
                   ]
             }
       ],
@@ -11779,6 +15685,132 @@ export const denmarkCities: POI[] = [
                         9.466371,
                         55.486185
                   ]
+            },
+            {
+                  "name": "Marielundsøen",
+                  "text": "Un lac de pădure pitoresc în Kolding, înconjurat de o natură frumoasă pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.489526,
+                        55.500337
+                  ]
+            },
+            {
+                  "name": "Bramdrupdam",
+                  "text": "O apă liniștită în Kolding, care oferă un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        9.460362,
+                        55.522862
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "Un lac atractiv în Kolding, ideal pentru observarea faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.427407,
+                        55.557872
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "Un lac idilic în Kolding, care merită vizitat în orice anotimp.",
+                  "category": "natural",
+                  "coords": [
+                        9.426185,
+                        55.545786
+                  ]
+            },
+            {
+                  "name": "Slotssøen",
+                  "text": "Lacul istoric al castelului din Kolding oferă un cadru minunat la poalele cetății.",
+                  "category": "natural",
+                  "coords": [
+                        9.475308,
+                        55.493087
+                  ]
+            },
+            {
+                  "name": "Bowl'n'Fun Koldings Legeland",
+                  "text": "Un loc de joacă interior interesant în Kolding pentru distracție indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        9.463659,
+                        55.510459
+                  ]
+            },
+            {
+                  "name": "Færden",
+                  "text": "Un loc de joacă prietenos în Kolding, care încurajează copiii să facă mișcare.",
+                  "category": "family",
+                  "coords": [
+                        9.474269,
+                        55.487595
+                  ]
+            },
+            {
+                  "name": "Knudepunktet",
+                  "text": "Un loc de joacă situat central în Kolding, ca punct de întâlnire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.493609,
+                        55.488707
+                  ]
+            },
+            {
+                  "name": "Legen",
+                  "text": "Un loc de joacă modern în Kolding, cu echipamente sigure și variate.",
+                  "category": "family",
+                  "coords": [
+                        9.476417,
+                        55.486857
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Un loc de joacă liniștit în Kolding, ideal pentru joaca relaxantă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.491438,
+                        55.488401
+                  ]
+            },
+            {
+                  "name": "Vinden i piletræerne",
+                  "text": "Un loc de joacă tematic în Kolding, care invită la visare.",
+                  "category": "family",
+                  "coords": [
+                        9.487774,
+                        55.488063
+                  ]
+            },
+            {
+                  "name": "Fun Zone Arcade",
+                  "text": "O sală de jocuri interesantă în Kolding, cu o selecție de jocuri de divertisment moderne.",
+                  "category": "family",
+                  "coords": [
+                        9.46141,
+                        55.514527
+                  ]
+            },
+            {
+                  "name": "Seest Samling",
+                  "text": "Un loc de joacă local în Kolding, perfect pentru o pauză la aer curat.",
+                  "category": "family",
+                  "coords": [
+                        9.44092,
+                        55.48471
+                  ]
+            },
+            {
+                  "name": "Christiansøvej legeplads",
+                  "text": "Un loc de joacă primitor în Kolding, care oferă copiilor un mediu sigur.",
+                  "category": "family",
+                  "coords": [
+                        9.500237,
+                        55.507555
+                  ]
             }
       ],
       "en": [
@@ -12033,6 +16065,132 @@ export const denmarkCities: POI[] = [
                         9.466371,
                         55.486185
                   ]
+            },
+            {
+                  "name": "Marielundsøen",
+                  "text": "A picturesque forest lake in Kolding, surrounded by beautiful nature for walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.489526,
+                        55.500337
+                  ]
+            },
+            {
+                  "name": "Bramdrupdam",
+                  "text": "A quiet body of water in Kolding offering a relaxing environment.",
+                  "category": "natural",
+                  "coords": [
+                        9.460362,
+                        55.522862
+                  ]
+            },
+            {
+                  "name": "Nørresø",
+                  "text": "An attractive lake in Kolding, ideal for observing local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        9.427407,
+                        55.557872
+                  ]
+            },
+            {
+                  "name": "Søndersø",
+                  "text": "An idyllic lake in Kolding that is worth a visit in every season.",
+                  "category": "natural",
+                  "coords": [
+                        9.426185,
+                        55.545786
+                  ]
+            },
+            {
+                  "name": "Slotssøen",
+                  "text": "The historic castle lake in Kolding offers a beautiful backdrop at the foot of the castle.",
+                  "category": "natural",
+                  "coords": [
+                        9.475308,
+                        55.493087
+                  ]
+            },
+            {
+                  "name": "Bowl'n'Fun Koldings Legeland",
+                  "text": "An exciting indoor playground in Kolding for fun regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        9.463659,
+                        55.510459
+                  ]
+            },
+            {
+                  "name": "Færden",
+                  "text": "A friendly playground in Kolding that encourages children to be active.",
+                  "category": "family",
+                  "coords": [
+                        9.474269,
+                        55.487595
+                  ]
+            },
+            {
+                  "name": "Knudepunktet",
+                  "text": "A centrally located playground in Kolding as a meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        9.493609,
+                        55.488707
+                  ]
+            },
+            {
+                  "name": "Legen",
+                  "text": "A modern playground in Kolding with safe and varied equipment.",
+                  "category": "family",
+                  "coords": [
+                        9.476417,
+                        55.486857
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "A quiet playground in Kolding, ideal for relaxed outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        9.491438,
+                        55.488401
+                  ]
+            },
+            {
+                  "name": "Vinden i piletræerne",
+                  "text": "A themed playground in Kolding that invites children to dream and play.",
+                  "category": "family",
+                  "coords": [
+                        9.487774,
+                        55.488063
+                  ]
+            },
+            {
+                  "name": "Fun Zone Arcade",
+                  "text": "An exciting amusement arcade in Kolding with a variety of modern entertainment games.",
+                  "category": "family",
+                  "coords": [
+                        9.46141,
+                        55.514527
+                  ]
+            },
+            {
+                  "name": "Seest Samling",
+                  "text": "A local playground in Kolding, perfect for a break in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        9.44092,
+                        55.48471
+                  ]
+            },
+            {
+                  "name": "Christiansøvej legeplads",
+                  "text": "A cozy playground in Kolding offering a safe environment for children.",
+                  "category": "family",
+                  "coords": [
+                        9.500237,
+                        55.507555
+                  ]
             }
       ]
 },
@@ -12078,7 +16236,52 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/kolding.webp",
  },
  {
- id: "city-frederikshavn",
+ id: "city-frederikshavn", "sights": {
+      "de": [
+            {
+                  "name": "Frederikshavn Adventure Minigolf",
+                  "text": "Frederikshavn Adventure Minigolf ist eine Minigolfanlage in Frederikshavn, die spannende Bahnen für Groß und Klein bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.528204,
+                        57.464691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Frederikshavn Adventure Minigolf",
+                  "text": "A Frederikshavn Adventure Minigolf egy minigolfpálya Frederikshavnban, amely izgalmas pályákat kínál kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.528204,
+                        57.464691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Frederikshavn Adventure Minigolf",
+                  "text": "Frederikshavn Adventure Minigolf este un teren de minigolf în Frederikshavn, oferind piste palpitante pentru cei mari și mici.",
+                  "category": "family",
+                  "coords": [
+                        10.528204,
+                        57.464691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Frederikshavn Adventure Minigolf",
+                  "text": "Frederikshavn Adventure Minigolf is a miniature golf course in Frederikshavn, offering exciting courses for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.528204,
+                        57.464691
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [10.5366, 57.4419],
@@ -12266,6 +16469,33 @@ export const denmarkCities: POI[] = [
                         8.642156,
                         56.348438
                   ]
+            },
+            {
+                  "name": "Munkbro Fiskesø",
+                  "text": "Munkbro Fiskesø ist ein See in Holstebro, der ideal zum Angeln und Entspannen ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.644012,
+                        56.320263
+                  ]
+            },
+            {
+                  "name": "Uhresø",
+                  "text": "Uhresø ist ein See in Holstebro, der eine ruhige Umgebung für Naturliebhaber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.657972,
+                        56.348629
+                  ]
+            },
+            {
+                  "name": "Vandkraftsøen",
+                  "text": "Vandkraftsøen ist ein See in Holstebro, der sich gut für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        8.667061,
+                        56.352218
+                  ]
             }
       ],
       "hu": [
@@ -12411,6 +16641,33 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.642156,
                         56.348438
+                  ]
+            },
+            {
+                  "name": "Munkbro Fiskesø",
+                  "text": "A Munkbro Fiskesø egy tó Holstebro városában, amely ideális horgászatra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        8.644012,
+                        56.320263
+                  ]
+            },
+            {
+                  "name": "Uhresø",
+                  "text": "Az Uhresø egy tó Holstebro területén, nyugodt környezetet biztosítva.",
+                  "category": "natural",
+                  "coords": [
+                        8.657972,
+                        56.348629
+                  ]
+            },
+            {
+                  "name": "Vandkraftsøen",
+                  "text": "A Vandkraftsøen egy tó Holstebro városában, amely alkalmas sétákra és természetfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        8.667061,
+                        56.352218
                   ]
             }
       ],
@@ -12558,6 +16815,33 @@ export const denmarkCities: POI[] = [
                         8.642156,
                         56.348438
                   ]
+            },
+            {
+                  "name": "Munkbro Fiskesø",
+                  "text": "Munkbro Fiskesø este un lac în Holstebro, ideal pentru pescuit și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.644012,
+                        56.320263
+                  ]
+            },
+            {
+                  "name": "Uhresø",
+                  "text": "Uhresø este un lac în Holstebro, oferind un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.657972,
+                        56.348629
+                  ]
+            },
+            {
+                  "name": "Vandkraftsøen",
+                  "text": "Vandkraftsøen este un lac în Holstebro, potrivit pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.667061,
+                        56.352218
+                  ]
             }
       ],
       "en": [
@@ -12703,6 +16987,33 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.642156,
                         56.348438
+                  ]
+            },
+            {
+                  "name": "Munkbro Fiskesø",
+                  "text": "Munkbro Fiskesø is a lake in Holstebro, ideal for fishing and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.644012,
+                        56.320263
+                  ]
+            },
+            {
+                  "name": "Uhresø",
+                  "text": "Uhresø is a lake in Holstebro, offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        8.657972,
+                        56.348629
+                  ]
+            },
+            {
+                  "name": "Vandkraftsøen",
+                  "text": "Vandkraftsøen is a lake in Holstebro, suitable for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        8.667061,
+                        56.352218
                   ]
             }
       ]

@@ -506,6 +506,231 @@ export const finlandRegions: POI[] = [
                         24.956723,
                         60.192525
                   ]
+            },
+            {
+                  "name": "Ilmalan lumensulatuskenttä",
+                  "text": "Ilmala snow-melting field ist ein See in Helsinki, der eine ruhige Naturatmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.937387,
+                        60.217895
+                  ]
+            },
+            {
+                  "name": "Helsingin Leikkiluola",
+                  "text": "Helsingin Leikkiluola ist ein Spielplatz in Helsinki, der Kindern aufregende Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.952609,
+                        60.179495
+                  ]
+            },
+            {
+                  "name": "Peliholvi",
+                  "text": "Peliholvi ist eine Spielhalle in Helsinki, die verschiedene Unterhaltungsmöglichkeiten für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.941822,
+                        60.18758
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Katri Valan puisto",
+                  "text": "Leikkipaikka Katri Valan puisto ist ein Spielplatz in Helsinki, der eine grüne Umgebung zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.964473,
+                        60.185703
+                  ]
+            },
+            {
+                  "name": "Hohto Golf West Coast",
+                  "text": "Hohto Golf West Coast ist eine Minigolfanlage in Helsinki, die Spaß für alle Altersgruppen garantiert.",
+                  "category": "family",
+                  "coords": [
+                        24.939397,
+                        60.16727
+                  ]
+            },
+            {
+                  "name": "Pikseli",
+                  "text": "Pikseli ist eine Spielhalle in Helsinki mit modernen Spielen für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.97858,
+                        60.186476
+                  ]
+            },
+            {
+                  "name": "360XP",
+                  "text": "360XP ist eine Spielhalle in Helsinki, die spannende Aktivitäten für Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.943709,
+                        60.159998
+                  ]
+            },
+            {
+                  "name": "Eagle Club Konepaja",
+                  "text": "Eagle Club Konepaja ist eine Spielhalle in Helsinki, ein beliebter Ort für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        24.944822,
+                        60.193673
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Brahe",
+                  "text": "Leikkipuisto Brahe ist ein Spielplatz in Helsinki, der Kindern vielseitige Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.949855,
+                        60.188899
+                  ]
+            },
+            {
+                  "name": "Sammonpuistikko",
+                  "text": "Sammonpuistikko ist ein Spielplatz in Helsinki, ideal für einen kurzen Aufenthalt im Freien.",
+                  "category": "family",
+                  "coords": [
+                        24.921664,
+                        60.172772
+                  ]
+            },
+            {
+                  "name": "Topeliuksenpuisto",
+                  "text": "Topeliuksenpuisto ist ein Spielplatz in Helsinki, gelegen in einer angenehmen Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        24.919855,
+                        60.181095
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Temppeliaukio",
+                  "text": "Leikkipaikka Temppeliaukio ist ein zentraler Spielplatz in Helsinki, umgeben von städtischer Natur.",
+                  "category": "family",
+                  "coords": [
+                        24.926244,
+                        60.173434
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Köydenpunojanpuistikko",
+                  "text": "Leikkipaikka Köydenpunojanpuistikko ist ein Spielplatz in Helsinki, der Spaß für kleine Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.925444,
+                        60.163331
+                  ]
+            },
+            {
+                  "name": "Lasten liikennekaupunki",
+                  "text": "Lasten liikennekaupunki ist ein Spielplatz in Helsinki, wo Kinder spielerisch am Verkehr teilnehmen können.",
+                  "category": "family",
+                  "coords": [
+                        24.923648,
+                        60.191562
+                  ]
+            },
+            {
+                  "name": "Sähköttäjänpuiston leikkipaikka",
+                  "text": "Sähköttäjänpuiston leikkipaikka ist ein lokaler Spielplatz in Helsinki für Kinder der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        24.940023,
+                        60.197054
+                  ]
+            },
+            {
+                  "name": "Laivastonpuiston leikkipaikka",
+                  "text": "Laivastonpuiston leikkipaikka ist ein Spielplatz in Helsinki mit einer schönen Aussicht auf die Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        24.96807,
+                        60.168749
+                  ]
+            },
+            {
+                  "name": "Kaivopuiston Minigolf",
+                  "text": "Kaivopuiston Minigolf ist eine Minigolfanlage in Helsinki, ein klassisches Ziel für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        24.939961,
+                        60.15432
+                  ]
+            },
+            {
+                  "name": "Tokoinranta",
+                  "text": "Tokoinranta ist ein Spielplatz in Helsinki, der direkt am Wasser gelegen ist.",
+                  "category": "family",
+                  "coords": [
+                        24.947641,
+                        60.179977
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Ruoholahti",
+                  "text": "Leikkipuisto Ruoholahti ist ein Spielplatz in Helsinki, der vielfältige Möglichkeiten zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.91828,
+                        60.161225
+                  ]
+            },
+            {
+                  "name": "Taivallahden minigolf",
+                  "text": "Taivallahden minigolf ist eine Minigolfanlage in Helsinki, ideal für einen entspannten Nachmittag.",
+                  "category": "family",
+                  "coords": [
+                        24.911717,
+                        60.175431
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Taivallahti",
+                  "text": "Leikkipuisto Taivallahti ist ein Spielplatz in Helsinki, der eine gute Ausstattung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.919253,
+                        60.176449
+                  ]
+            },
+            {
+                  "name": "Kaarlenpuisto",
+                  "text": "Kaarlenpuisto ist ein Spielplatz in Helsinki, ein ruhiger Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        24.951079,
+                        60.187281
+                  ]
+            },
+            {
+                  "name": "Porthaninpuistikko",
+                  "text": "Porthaninpuistikko ist ein Spielplatz in Helsinki, der zum Verweilen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        24.951922,
+                        60.182933
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Meripuisto",
+                  "text": "Leikkipuisto Meripuisto ist ein Spielplatz in Helsinki mit einer angenehmen maritimen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        24.946849,
+                        60.155411
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Tervasaari",
+                  "text": "Leikkipaikka Tervasaari ist ein Spielplatz in Helsinki, gelegen auf einer malerischen Insel.",
+                  "category": "family",
+                  "coords": [
+                        24.969483,
+                        60.174045
+                  ]
             }
       ],
       "hu": [
@@ -948,6 +1173,231 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.956723,
                         60.192525
+                  ]
+            },
+            {
+                  "name": "Ilmalan lumensulatuskenttä",
+                  "text": "Ilmala snow-melting field egy tó Helsinki területén, amely nyugodt természeti környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        24.937387,
+                        60.217895
+                  ]
+            },
+            {
+                  "name": "Helsingin Leikkiluola",
+                  "text": "Helsingin Leikkiluola egy játszótér Helsinki városában, amely izgalmas játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.952609,
+                        60.179495
+                  ]
+            },
+            {
+                  "name": "Peliholvi",
+                  "text": "Peliholvi egy játékterem Helsinki területén, amely különféle szórakozási lehetőségeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.941822,
+                        60.18758
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Katri Valan puisto",
+                  "text": "Leikkipaikka Katri Valan puisto egy játszótér Helsinki városában, amely zöld környezetben várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        24.964473,
+                        60.185703
+                  ]
+            },
+            {
+                  "name": "Hohto Golf West Coast",
+                  "text": "Hohto Golf West Coast egy minigolfpálya Helsinki területén, amely garantált szórakozást nyújt minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        24.939397,
+                        60.16727
+                  ]
+            },
+            {
+                  "name": "Pikseli",
+                  "text": "Pikseli egy játékterem Helsinki városában, modern játékokkal gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.97858,
+                        60.186476
+                  ]
+            },
+            {
+                  "name": "360XP",
+                  "text": "360XP egy játékterem Helsinki területén, amely izgalmas tevékenységeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.943709,
+                        60.159998
+                  ]
+            },
+            {
+                  "name": "Eagle Club Konepaja",
+                  "text": "Eagle Club Konepaja egy játékterem Helsinki városában, a családi szórakozás kedvelt helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        24.944822,
+                        60.193673
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Brahe",
+                  "text": "Leikkipuisto Brahe egy játszótér Helsinki területén, amely sokoldalú játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.949855,
+                        60.188899
+                  ]
+            },
+            {
+                  "name": "Sammonpuistikko",
+                  "text": "Sammonpuistikko egy játszótér Helsinki városában, amely ideális egy rövid szabadtéri kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.921664,
+                        60.172772
+                  ]
+            },
+            {
+                  "name": "Topeliuksenpuisto",
+                  "text": "Topeliuksenpuisto egy játszótér Helsinki területén, egy kellemes parkos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        24.919855,
+                        60.181095
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Temppeliaukio",
+                  "text": "Leikkipaikka Temppeliaukio egy központi játszótér Helsinki városában, városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        24.926244,
+                        60.173434
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Köydenpunojanpuistikko",
+                  "text": "Leikkipaikka Köydenpunojanpuistikko egy játszótér Helsinki területén, amely szórakozást kínál a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.925444,
+                        60.163331
+                  ]
+            },
+            {
+                  "name": "Lasten liikennekaupunki",
+                  "text": "Lasten liikennekaupunki egy játszótér Helsinki városában, ahol a gyerekek játékosan ismerkedhetnek a közlekedéssel.",
+                  "category": "family",
+                  "coords": [
+                        24.923648,
+                        60.191562
+                  ]
+            },
+            {
+                  "name": "Sähköttäjänpuiston leikkipaikka",
+                  "text": "Sähköttäjänpuiston leikkipaikka egy helyi játszótér Helsinki területén a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.940023,
+                        60.197054
+                  ]
+            },
+            {
+                  "name": "Laivastonpuiston leikkipaikka",
+                  "text": "Laivastonpuiston leikkipaikka egy játszótér Helsinki városában, szép kilátással a környezetre.",
+                  "category": "family",
+                  "coords": [
+                        24.96807,
+                        60.168749
+                  ]
+            },
+            {
+                  "name": "Kaivopuiston Minigolf",
+                  "text": "Kaivopuiston Minigolf egy minigolfpálya Helsinki területén, a családi kirándulások kedvelt célpontja.",
+                  "category": "family",
+                  "coords": [
+                        24.939961,
+                        60.15432
+                  ]
+            },
+            {
+                  "name": "Tokoinranta",
+                  "text": "Tokoinranta egy játszótér Helsinki városában, amely közvetlenül a vízparton található.",
+                  "category": "family",
+                  "coords": [
+                        24.947641,
+                        60.179977
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Ruoholahti",
+                  "text": "Leikkipuisto Ruoholahti egy játszótér Helsinki területén, amely változatos lehetőségeket kínál a játékra.",
+                  "category": "family",
+                  "coords": [
+                        24.91828,
+                        60.161225
+                  ]
+            },
+            {
+                  "name": "Taivallahden minigolf",
+                  "text": "Taivallahden minigolf egy minigolfpálya Helsinki városában, amely ideális egy pihentető délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        24.911717,
+                        60.175431
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Taivallahti",
+                  "text": "Leikkipuisto Taivallahti egy játszótér Helsinki területén, amely jól felszerelt játékeszközökkel várja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        24.919253,
+                        60.176449
+                  ]
+            },
+            {
+                  "name": "Kaarlenpuisto",
+                  "text": "Kaarlenpuisto egy játszótér Helsinki városában, csendes helyszín a gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        24.951079,
+                        60.187281
+                  ]
+            },
+            {
+                  "name": "Porthaninpuistikko",
+                  "text": "Porthaninpuistikko egy játszótér Helsinki területén, amely szabadtéri kikapcsolódásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        24.951922,
+                        60.182933
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Meripuisto",
+                  "text": "Leikkipuisto Meripuisto egy játszótér Helsinki városában, kellemes tengerparti hangulattal.",
+                  "category": "family",
+                  "coords": [
+                        24.946849,
+                        60.155411
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Tervasaari",
+                  "text": "Leikkipaikka Tervasaari egy játszótér Helsinki területén, egy festői szigeten.",
+                  "category": "family",
+                  "coords": [
+                        24.969483,
+                        60.174045
                   ]
             }
       ],
@@ -1392,6 +1842,231 @@ export const finlandRegions: POI[] = [
                         24.956723,
                         60.192525
                   ]
+            },
+            {
+                  "name": "Ilmalan lumensulatuskenttä",
+                  "text": "Ilmala snow-melting field este un lac în Helsinki, oferind o atmosferă naturală liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.937387,
+                        60.217895
+                  ]
+            },
+            {
+                  "name": "Helsingin Leikkiluola",
+                  "text": "Helsingin Leikkiluola este un teren de joacă în Helsinki, oferind copiilor posibilități de joacă captivante.",
+                  "category": "family",
+                  "coords": [
+                        24.952609,
+                        60.179495
+                  ]
+            },
+            {
+                  "name": "Peliholvi",
+                  "text": "Peliholvi este o sală de jocuri în Helsinki, oferind diverse opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.941822,
+                        60.18758
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Katri Valan puisto",
+                  "text": "Leikkipaikka Katri Valan puisto este un teren de joacă în Helsinki, oferind un mediu verde pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.964473,
+                        60.185703
+                  ]
+            },
+            {
+                  "name": "Hohto Golf West Coast",
+                  "text": "Hohto Golf West Coast este un teren de minigolf în Helsinki, care garantează distracția pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.939397,
+                        60.16727
+                  ]
+            },
+            {
+                  "name": "Pikseli",
+                  "text": "Pikseli este o sală de jocuri în Helsinki, cu jocuri moderne pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        24.97858,
+                        60.186476
+                  ]
+            },
+            {
+                  "name": "360XP",
+                  "text": "360XP este o sală de jocuri în Helsinki, oferind activități captivante pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.943709,
+                        60.159998
+                  ]
+            },
+            {
+                  "name": "Eagle Club Konepaja",
+                  "text": "Eagle Club Konepaja este o sală de jocuri în Helsinki, un loc popular pentru divertismentul în familie.",
+                  "category": "family",
+                  "coords": [
+                        24.944822,
+                        60.193673
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Brahe",
+                  "text": "Leikkipuisto Brahe este un teren de joacă în Helsinki, oferind copiilor diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.949855,
+                        60.188899
+                  ]
+            },
+            {
+                  "name": "Sammonpuistikko",
+                  "text": "Sammonpuistikko este un teren de joacă în Helsinki, ideal pentru o scurtă oprire în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.921664,
+                        60.172772
+                  ]
+            },
+            {
+                  "name": "Topeliuksenpuisto",
+                  "text": "Topeliuksenpuisto este un teren de joacă în Helsinki, situat într-o zonă de parc plăcută.",
+                  "category": "family",
+                  "coords": [
+                        24.919855,
+                        60.181095
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Temppeliaukio",
+                  "text": "Leikkipaikka Temppeliaukio este un teren de joacă central în Helsinki, înconjurat de natură urbană.",
+                  "category": "family",
+                  "coords": [
+                        24.926244,
+                        60.173434
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Köydenpunojanpuistikko",
+                  "text": "Leikkipaikka Köydenpunojanpuistikko este un teren de joacă în Helsinki, oferind distracție pentru micii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.925444,
+                        60.163331
+                  ]
+            },
+            {
+                  "name": "Lasten liikennekaupunki",
+                  "text": "Lasten liikennekaupunki este un teren de joacă în Helsinki, unde copiii pot învăța despre trafic prin joc.",
+                  "category": "family",
+                  "coords": [
+                        24.923648,
+                        60.191562
+                  ]
+            },
+            {
+                  "name": "Sähköttäjänpuiston leikkipaikka",
+                  "text": "Sähköttäjänpuiston leikkipaikka este un teren de joacă local în Helsinki pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        24.940023,
+                        60.197054
+                  ]
+            },
+            {
+                  "name": "Laivastonpuiston leikkipaikka",
+                  "text": "Laivastonpuiston leikkipaikka este un teren de joacă în Helsinki, oferind o priveliște frumoasă asupra împrejurimilor.",
+                  "category": "family",
+                  "coords": [
+                        24.96807,
+                        60.168749
+                  ]
+            },
+            {
+                  "name": "Kaivopuiston Minigolf",
+                  "text": "Kaivopuiston Minigolf este un teren de minigolf în Helsinki, o destinație clasică pentru excursii în familie.",
+                  "category": "family",
+                  "coords": [
+                        24.939961,
+                        60.15432
+                  ]
+            },
+            {
+                  "name": "Tokoinranta",
+                  "text": "Tokoinranta este un teren de joacă în Helsinki, situat chiar pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        24.947641,
+                        60.179977
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Ruoholahti",
+                  "text": "Leikkipuisto Ruoholahti este un teren de joacă în Helsinki, oferind diverse oportunități pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.91828,
+                        60.161225
+                  ]
+            },
+            {
+                  "name": "Taivallahden minigolf",
+                  "text": "Taivallahden minigolf este un teren de minigolf în Helsinki, ideal pentru o după-amiază relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        24.911717,
+                        60.175431
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Taivallahti",
+                  "text": "Leikkipuisto Taivallahti este un teren de joacă în Helsinki, oferind dotări bune pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        24.919253,
+                        60.176449
+                  ]
+            },
+            {
+                  "name": "Kaarlenpuisto",
+                  "text": "Kaarlenpuisto este un teren de joacă în Helsinki, un loc liniștit pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        24.951079,
+                        60.187281
+                  ]
+            },
+            {
+                  "name": "Porthaninpuistikko",
+                  "text": "Porthaninpuistikko este un teren de joacă în Helsinki, care invită la petrecerea timpului în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.951922,
+                        60.182933
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Meripuisto",
+                  "text": "Leikkipuisto Meripuisto este un teren de joacă în Helsinki, având o atmosferă maritimă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        24.946849,
+                        60.155411
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Tervasaari",
+                  "text": "Leikkipaikka Tervasaari este un teren de joacă în Helsinki, situat pe o insulă pitorească.",
+                  "category": "family",
+                  "coords": [
+                        24.969483,
+                        60.174045
+                  ]
             }
       ],
       "en": [
@@ -1834,6 +2509,231 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.956723,
                         60.192525
+                  ]
+            },
+            {
+                  "name": "Ilmala snow-melting field",
+                  "text": "Ilmala snow-melting field is a lake in Helsinki, providing a calm natural atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.937387,
+                        60.217895
+                  ]
+            },
+            {
+                  "name": "Helsingin Leikkiluola",
+                  "text": "Helsingin Leikkiluola is a playground in Helsinki, offering exciting play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        24.952609,
+                        60.179495
+                  ]
+            },
+            {
+                  "name": "Peliholvi",
+                  "text": "Peliholvi is an amusement arcade in Helsinki, offering various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        24.941822,
+                        60.18758
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Katri Valan puisto",
+                  "text": "Leikkipaikka Katri Valan puisto is a playground in Helsinki, providing a green setting for play.",
+                  "category": "family",
+                  "coords": [
+                        24.964473,
+                        60.185703
+                  ]
+            },
+            {
+                  "name": "Hohto Golf West Coast",
+                  "text": "Hohto Golf West Coast is a miniature golf course in Helsinki, guaranteeing fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.939397,
+                        60.16727
+                  ]
+            },
+            {
+                  "name": "Pikseli",
+                  "text": "Pikseli is an amusement arcade in Helsinki with modern games for children and families.",
+                  "category": "family",
+                  "coords": [
+                        24.97858,
+                        60.186476
+                  ]
+            },
+            {
+                  "name": "360XP",
+                  "text": "360XP is an amusement arcade in Helsinki, offering exciting activities for visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.943709,
+                        60.159998
+                  ]
+            },
+            {
+                  "name": "Eagle Club Konepaja",
+                  "text": "Eagle Club Konepaja is an amusement arcade in Helsinki, a popular spot for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        24.944822,
+                        60.193673
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Brahe",
+                  "text": "Leikkipuisto Brahe is a playground in Helsinki, providing versatile play options for children.",
+                  "category": "family",
+                  "coords": [
+                        24.949855,
+                        60.188899
+                  ]
+            },
+            {
+                  "name": "Sammonpuistikko",
+                  "text": "Sammonpuistikko is a playground in Helsinki, ideal for a short outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        24.921664,
+                        60.172772
+                  ]
+            },
+            {
+                  "name": "Topeliuksenpuisto",
+                  "text": "Topeliuksenpuisto is a playground in Helsinki, located in a pleasant park setting.",
+                  "category": "family",
+                  "coords": [
+                        24.919855,
+                        60.181095
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Temppeliaukio",
+                  "text": "Leikkipaikka Temppeliaukio is a central playground in Helsinki, surrounded by urban nature.",
+                  "category": "family",
+                  "coords": [
+                        24.926244,
+                        60.173434
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Köydenpunojanpuistikko",
+                  "text": "Leikkipaikka Köydenpunojanpuistikko is a playground in Helsinki, offering fun for small visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.925444,
+                        60.163331
+                  ]
+            },
+            {
+                  "name": "Lasten liikennekaupunki",
+                  "text": "Lasten liikennekaupunki is a playground in Helsinki where children can learn about traffic through play.",
+                  "category": "family",
+                  "coords": [
+                        24.923648,
+                        60.191562
+                  ]
+            },
+            {
+                  "name": "Sähköttäjänpuiston leikkipaikka",
+                  "text": "Sähköttäjänpuiston leikkipaikka is a local playground in Helsinki for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        24.940023,
+                        60.197054
+                  ]
+            },
+            {
+                  "name": "Laivastonpuiston leikkipaikka",
+                  "text": "Laivastonpuiston leikkipaikka is a playground in Helsinki with a nice view of the surroundings.",
+                  "category": "family",
+                  "coords": [
+                        24.96807,
+                        60.168749
+                  ]
+            },
+            {
+                  "name": "Kaivopuiston Minigolf",
+                  "text": "Kaivopuiston Minigolf is a miniature golf course in Helsinki, a classic destination for family outings.",
+                  "category": "family",
+                  "coords": [
+                        24.939961,
+                        60.15432
+                  ]
+            },
+            {
+                  "name": "Tokoinranta",
+                  "text": "Tokoinranta is a playground in Helsinki, located right by the waterfront.",
+                  "category": "family",
+                  "coords": [
+                        24.947641,
+                        60.179977
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Ruoholahti",
+                  "text": "Leikkipuisto Ruoholahti is a playground in Helsinki, providing various opportunities for play.",
+                  "category": "family",
+                  "coords": [
+                        24.91828,
+                        60.161225
+                  ]
+            },
+            {
+                  "name": "Taivallahden minigolf",
+                  "text": "Taivallahden minigolf is a miniature golf course in Helsinki, ideal for a relaxing afternoon.",
+                  "category": "family",
+                  "coords": [
+                        24.911717,
+                        60.175431
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Taivallahti",
+                  "text": "Leikkipuisto Taivallahti is a playground in Helsinki, offering good facilities for children.",
+                  "category": "family",
+                  "coords": [
+                        24.919253,
+                        60.176449
+                  ]
+            },
+            {
+                  "name": "Kaarlenpuisto",
+                  "text": "Kaarlenpuisto is a playground in Helsinki, a quiet spot for children to play.",
+                  "category": "family",
+                  "coords": [
+                        24.951079,
+                        60.187281
+                  ]
+            },
+            {
+                  "name": "Porthaninpuistikko",
+                  "text": "Porthaninpuistikko is a playground in Helsinki, inviting visitors to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        24.951922,
+                        60.182933
+                  ]
+            },
+            {
+                  "name": "Leikkipuisto Meripuisto",
+                  "text": "Leikkipuisto Meripuisto is a playground in Helsinki with a pleasant maritime atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        24.946849,
+                        60.155411
+                  ]
+            },
+            {
+                  "name": "Leikkipaikka Tervasaari",
+                  "text": "Leikkipaikka Tervasaari is a playground in Helsinki, located on a scenic island.",
+                  "category": "family",
+                  "coords": [
+                        24.969483,
+                        60.174045
                   ]
             }
       ]
@@ -2376,6 +3276,204 @@ export const finlandRegions: POI[] = [
                         22.263789,
                         60.456217
                   ]
+            },
+            {
+                  "name": "Maarian allas",
+                  "text": "Maarian allas ist ein See in Turku, der eine ruhige Umgebung für Naturspaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.345527,
+                        60.515227
+                  ]
+            },
+            {
+                  "name": "Tasausallas",
+                  "text": "Tasausallas ist ein See in Turku, der eine schöne Kulisse für entspannte Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.33613,
+                        60.486619
+                  ]
+            },
+            {
+                  "name": "Littoistenjärvi",
+                  "text": "Littoistenjärvi ist ein See in Turku, ideal für Naturbeobachtungen und Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        22.389866,
+                        60.453663
+                  ]
+            },
+            {
+                  "name": "Haunisten allas",
+                  "text": "Haunisten allas ist ein See in Turku, der Besucher mit seiner ruhigen Atmosphäre und Landschaft anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        22.207218,
+                        60.502749
+                  ]
+            },
+            {
+                  "name": "Caribian minigolf",
+                  "text": "Caribian minigolf in Turku bietet ein unterhaltsames Minigolf-Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        22.290049,
+                        60.460782
+                  ]
+            },
+            {
+                  "name": "Trampolin Park Turku",
+                  "text": "Trampolin Park Turku ist ein Indoor-Trampolinpark, der aktiven Spaß und Bewegung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.283182,
+                        60.475151
+                  ]
+            },
+            {
+                  "name": "Ruukinaukion leikkipaikka",
+                  "text": "Ruukinaukion leikkipaikka in Turku ist ein schöner Spielplatz im Freien für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.305581,
+                        60.453068
+                  ]
+            },
+            {
+                  "name": "Civiksenkentän leikkipaikka",
+                  "text": "Civiksenkentän leikkipaikka bietet verschiedene Spielgeräte für Kinder in einer angenehmen Umgebung in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.290941,
+                        60.464144
+                  ]
+            },
+            {
+                  "name": "Kupittaanlähteen leikkipaikka",
+                  "text": "Kupittaanlähteen leikkipaikka ist ein beliebter Spielplatz in Turku für täglichen Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        22.289988,
+                        60.446644
+                  ]
+            },
+            {
+                  "name": "Puolalanmäen leikkipaikka",
+                  "text": "Puolalanmäen leikkipaikka in Turku ist ein einladender Ort für Kinder zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.258656,
+                        60.453355
+                  ]
+            },
+            {
+                  "name": "Turjanpuiston leikkipaikka",
+                  "text": "Turjanpuiston leikkipaikka in Turku bietet Kindern viel Platz für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        22.300273,
+                        60.436125
+                  ]
+            },
+            {
+                  "name": "Barkerinpuiston leikkipaikka",
+                  "text": "Barkerinpuiston leikkipaikka ist ein familienfreundlicher Spielplatz in zentraler Lage in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248279,
+                        60.442169
+                  ]
+            },
+            {
+                  "name": "Iso-Heikkilänpuiston leikkikenttä",
+                  "text": "Iso-Heikkilänpuiston leikkikenttä bietet eine sichere Umgebung für Kinder zum Spielen in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.229166,
+                        60.452039
+                  ]
+            },
+            {
+                  "name": "Tuomaanpuiston leikkipaikka",
+                  "text": "Tuomaanpuiston leikkipaikka in Turku ist ein idealer Ort für kurze Spielpausen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        22.282312,
+                        60.458206
+                  ]
+            },
+            {
+                  "name": "Ratagolf",
+                  "text": "Ratagolf in Turku bietet eine klassische Minigolf-Herausforderung für Familien und Freunde.",
+                  "category": "family",
+                  "coords": [
+                        22.257181,
+                        60.477117
+                  ]
+            },
+            {
+                  "name": "Yrjänänpuiston leikkipaikka",
+                  "text": "Yrjänänpuiston leikkipaikka ist ein gut ausgestatteter Spielbereich für Kinder im Stadtteil Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.263617,
+                        60.460068
+                  ]
+            },
+            {
+                  "name": "Kurjenkaivonkentän leikkipuisto",
+                  "text": "Kurjenkaivonkentän leikkipuisto bietet Kindern in Turku vielfältige Möglichkeiten zum Toben und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        22.286904,
+                        60.450523
+                  ]
+            },
+            {
+                  "name": "Kastunpuiston leikkipuisto",
+                  "text": "Kastunpuiston leikkipuisto in Turku ist ein beliebter Treffpunkt für Familien mit Kindern in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        22.276562,
+                        60.467977
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 1",
+                  "text": "Vilkkilänmäen leikkipaikka 1 bietet eine angenehme Atmosphäre für Kinder zum Spielen im Freien in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248768,
+                        60.438769
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 2",
+                  "text": "Vilkkilänmäen leikkipaikka 2 ist ein weiterer schöner Spielbereich für Kinder in der Region Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.24996,
+                        60.438325
+                  ]
+            },
+            {
+                  "name": "Liikennekaupunki",
+                  "text": "Traffic Town in Turku ist ein Verkehrsspielplatz, auf dem Kinder spielerisch die Verkehrsregeln lernen können.",
+                  "category": "family",
+                  "coords": [
+                        22.286566,
+                        60.445194
+                  ]
+            },
+            {
+                  "name": "Luolavuorenpuiston leikkipaikka",
+                  "text": "Luolavuorenpuiston leikkipaikka bietet Kindern in Turku eine abwechslungsreiche Umgebung für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        22.277089,
+                        60.430491
+                  ]
             }
       ],
       "hu": [
@@ -2827,6 +3925,204 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         22.263789,
                         60.456217
+                  ]
+            },
+            {
+                  "name": "Maarian allas",
+                  "text": "A Maarian allas egy tó Turku területén, amely nyugodt környezetet kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.345527,
+                        60.515227
+                  ]
+            },
+            {
+                  "name": "Tasausallas",
+                  "text": "A Tasausallas egy tó Turku városában, amely szép helyszínt biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.33613,
+                        60.486619
+                  ]
+            },
+            {
+                  "name": "Littoistenjärvi",
+                  "text": "A Littoistenjärvi egy tó Turku területén, amely ideális természetjárásra és szabadtéri kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        22.389866,
+                        60.453663
+                  ]
+            },
+            {
+                  "name": "Haunisten allas",
+                  "text": "A Haunisten allas egy tó Turku városában, amely nyugodt légkörével és tájaival várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        22.207218,
+                        60.502749
+                  ]
+            },
+            {
+                  "name": "Caribian minigolf",
+                  "text": "A Caribian minigolf Turkuban szórakoztató minigolf-élményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        22.290049,
+                        60.460782
+                  ]
+            },
+            {
+                  "name": "Trampolin Park Turku",
+                  "text": "A Trampolin Park Turku egy fedett trambulinpark, amely aktív szórakozást és mozgást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        22.283182,
+                        60.475151
+                  ]
+            },
+            {
+                  "name": "Ruukinaukion leikkipaikka",
+                  "text": "A Ruukinaukion leikkipaikka egy szép szabadtéri játszótér Turkuban gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.305581,
+                        60.453068
+                  ]
+            },
+            {
+                  "name": "Civiksenkentän leikkipaikka",
+                  "text": "A Civiksenkentän leikkipaikka különféle játéklehetőségeket kínál a gyerekeknek kellemes környezetben, Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.290941,
+                        60.464144
+                  ]
+            },
+            {
+                  "name": "Kupittaanlähteen leikkipaikka",
+                  "text": "A Kupittaanlähteen leikkipaikka egy népszerű játszótér Turkuban a napi szabadidős szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.289988,
+                        60.446644
+                  ]
+            },
+            {
+                  "name": "Puolalanmäen leikkipaikka",
+                  "text": "A Puolalanmäen leikkipaikka Turkuban egy hívogató hely a gyerekeknek a mászáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.258656,
+                        60.453355
+                  ]
+            },
+            {
+                  "name": "Turjanpuiston leikkipaikka",
+                  "text": "A Turjanpuiston leikkipaikka Turkuban bőséges helyet kínál a gyerekeknek a friss levegőn való mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.300273,
+                        60.436125
+                  ]
+            },
+            {
+                  "name": "Barkerinpuiston leikkipaikka",
+                  "text": "A Barkerinpuiston leikkipaikka egy családbarát játszótér központi helyen, Turku városában.",
+                  "category": "family",
+                  "coords": [
+                        22.248279,
+                        60.442169
+                  ]
+            },
+            {
+                  "name": "Iso-Heikkilänpuiston leikkikenttä",
+                  "text": "Az Iso-Heikkilänpuiston leikkikenttä biztonságos környezetet nyújt a gyerekek játékához Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.229166,
+                        60.452039
+                  ]
+            },
+            {
+                  "name": "Tuomaanpuiston leikkipaikka",
+                  "text": "A Tuomaanpuiston leikkipaikka Turkuban ideális hely rövid szabadtéri játékidőkhöz.",
+                  "category": "family",
+                  "coords": [
+                        22.282312,
+                        60.458206
+                  ]
+            },
+            {
+                  "name": "Ratagolf",
+                  "text": "A Ratagolf Turkuban klasszikus minigolf-kihívást kínál családoknak és barátoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.257181,
+                        60.477117
+                  ]
+            },
+            {
+                  "name": "Yrjänänpuiston leikkipaikka",
+                  "text": "Az Yrjänänpuiston leikkipaikka egy jól felszerelt játszóhely gyerekeknek Turku egyik negyedében.",
+                  "category": "family",
+                  "coords": [
+                        22.263617,
+                        60.460068
+                  ]
+            },
+            {
+                  "name": "Kurjenkaivonkentän leikkipuisto",
+                  "text": "A Kurjenkaivonkentän leikkipuisto változatos lehetőségeket kínál a gyerekeknek a játékra és felfedezésre Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.286904,
+                        60.450523
+                  ]
+            },
+            {
+                  "name": "Kastunpuiston leikkipuisto",
+                  "text": "A Kastunpuiston leikkipuisto Turkuban a környékbeli kisgyermekes családok kedvelt találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        22.276562,
+                        60.467977
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 1",
+                  "text": "A Vilkkilänmäen leikkipaikka 1 kellemes légkört biztosít a gyerekek szabadtéri játékához Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.248768,
+                        60.438769
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 2",
+                  "text": "A Vilkkilänmäen leikkipaikka 2 egy másik kedves játszóhely a gyerekeknek Turku régiójában.",
+                  "category": "family",
+                  "coords": [
+                        22.24996,
+                        60.438325
+                  ]
+            },
+            {
+                  "name": "Liikennekaupunki",
+                  "text": "A Traffic Town egy közlekedési játszótér Turkuban, ahol a gyerekek játékosan ismerkedhetnek meg a szabályokkal.",
+                  "category": "family",
+                  "coords": [
+                        22.286566,
+                        60.445194
+                  ]
+            },
+            {
+                  "name": "Luolavuorenpuiston leikkipaikka",
+                  "text": "A Luolavuorenpuiston leikkipaikka változatos környezetet biztosít a játékhoz és szórakozáshoz Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.277089,
+                        60.430491
                   ]
             }
       ],
@@ -3280,6 +4576,204 @@ export const finlandRegions: POI[] = [
                         22.263789,
                         60.456217
                   ]
+            },
+            {
+                  "name": "Maarian allas",
+                  "text": "Maarian allas este un lac în Turku, oferind un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.345527,
+                        60.515227
+                  ]
+            },
+            {
+                  "name": "Tasausallas",
+                  "text": "Tasausallas este un lac în Turku, oferind un cadru frumos pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        22.33613,
+                        60.486619
+                  ]
+            },
+            {
+                  "name": "Littoistenjärvi",
+                  "text": "Littoistenjärvi este un lac în Turku, ideal pentru observarea naturii și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.389866,
+                        60.453663
+                  ]
+            },
+            {
+                  "name": "Haunisten allas",
+                  "text": "Haunisten allas este un lac în Turku, care atrage vizitatorii cu atmosfera sa liniștită și peisajele sale.",
+                  "category": "natural",
+                  "coords": [
+                        22.207218,
+                        60.502749
+                  ]
+            },
+            {
+                  "name": "Caribian minigolf",
+                  "text": "Caribian minigolf din Turku oferă o experiență distractivă de minigolf pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        22.290049,
+                        60.460782
+                  ]
+            },
+            {
+                  "name": "Trampolin Park Turku",
+                  "text": "Trampolin Park Turku este un parc de trambuline acoperit, oferind distracție activă și mișcare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        22.283182,
+                        60.475151
+                  ]
+            },
+            {
+                  "name": "Ruukinaukion leikkipaikka",
+                  "text": "Ruukinaukion leikkipaikka din Turku este un loc de joacă în aer liber frumos pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        22.305581,
+                        60.453068
+                  ]
+            },
+            {
+                  "name": "Civiksenkentän leikkipaikka",
+                  "text": "Civiksenkentän leikkipaikka oferă diverse echipamente de joacă pentru copii într-un mediu plăcut din Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.290941,
+                        60.464144
+                  ]
+            },
+            {
+                  "name": "Kupittaanlähteen leikkipaikka",
+                  "text": "Kupittaanlähteen leikkipaikka este un loc de joacă popular în Turku pentru distracție zilnică.",
+                  "category": "family",
+                  "coords": [
+                        22.289988,
+                        60.446644
+                  ]
+            },
+            {
+                  "name": "Puolalanmäen leikkipaikka",
+                  "text": "Puolalanmäen leikkipaikka din Turku este un loc primitor pentru copii pentru cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        22.258656,
+                        60.453355
+                  ]
+            },
+            {
+                  "name": "Turjanpuiston leikkipaikka",
+                  "text": "Turjanpuiston leikkipaikka din Turku oferă copiilor mult spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.300273,
+                        60.436125
+                  ]
+            },
+            {
+                  "name": "Barkerinpuiston leikkipaikka",
+                  "text": "Barkerinpuiston leikkipaikka este un loc de joacă prietenos pentru familii, situat central în Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248279,
+                        60.442169
+                  ]
+            },
+            {
+                  "name": "Iso-Heikkilänpuiston leikkikenttä",
+                  "text": "Iso-Heikkilänpuiston leikkikenttä oferă un mediu sigur pentru joaca copiilor în Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.229166,
+                        60.452039
+                  ]
+            },
+            {
+                  "name": "Tuomaanpuiston leikkipaikka",
+                  "text": "Tuomaanpuiston leikkipaikka din Turku este un loc ideal pentru pauze scurte de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.282312,
+                        60.458206
+                  ]
+            },
+            {
+                  "name": "Ratagolf",
+                  "text": "Ratagolf din Turku oferă o provocare clasică de minigolf pentru familii și prieteni.",
+                  "category": "family",
+                  "coords": [
+                        22.257181,
+                        60.477117
+                  ]
+            },
+            {
+                  "name": "Yrjänänpuiston leikkipaikka",
+                  "text": "Yrjänänpuiston leikkipaikka este o zonă de joacă bine echipată pentru copii într-un cartier din Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.263617,
+                        60.460068
+                  ]
+            },
+            {
+                  "name": "Kurjenkaivonkentän leikkipuisto",
+                  "text": "Kurjenkaivonkentän leikkipuisto oferă copiilor din Turku diverse oportunități de joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        22.286904,
+                        60.450523
+                  ]
+            },
+            {
+                  "name": "Kastunpuiston leikkipuisto",
+                  "text": "Kastunpuiston leikkipuisto din Turku este un loc de întâlnire popular pentru familiile cu copii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        22.276562,
+                        60.467977
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 1",
+                  "text": "Vilkkilänmäen leikkipaikka 1 oferă o atmosferă plăcută pentru joaca copiilor în aer liber în Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248768,
+                        60.438769
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 2",
+                  "text": "Vilkkilänmäen leikkipaikka 2 este o altă zonă de joacă drăguță pentru copii în regiunea Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.24996,
+                        60.438325
+                  ]
+            },
+            {
+                  "name": "Liikennekaupunki",
+                  "text": "Traffic Town din Turku este un loc de joacă cu tematică rutieră, unde copiii pot învăța regulile prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        22.286566,
+                        60.445194
+                  ]
+            },
+            {
+                  "name": "Luolavuorenpuiston leikkipaikka",
+                  "text": "Luolavuorenpuiston leikkipaikka oferă copiilor din Turku un mediu variat pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        22.277089,
+                        60.430491
+                  ]
             }
       ],
       "en": [
@@ -3732,6 +5226,204 @@ export const finlandRegions: POI[] = [
                         22.263789,
                         60.456217
                   ]
+            },
+            {
+                  "name": "Maarian allas",
+                  "text": "Maarian allas is a lake in Turku, offering a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.345527,
+                        60.515227
+                  ]
+            },
+            {
+                  "name": "Tasausallas",
+                  "text": "Tasausallas is a lake in Turku, providing a nice setting for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        22.33613,
+                        60.486619
+                  ]
+            },
+            {
+                  "name": "Littoistenjärvi",
+                  "text": "Littoistenjärvi is a lake in Turku, ideal for nature observation and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.389866,
+                        60.453663
+                  ]
+            },
+            {
+                  "name": "Haunisten allas",
+                  "text": "Haunisten allas is a lake in Turku, attracting visitors with its calm atmosphere and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.207218,
+                        60.502749
+                  ]
+            },
+            {
+                  "name": "Caribian minigolf",
+                  "text": "Caribian minigolf in Turku offers a fun miniature golf experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        22.290049,
+                        60.460782
+                  ]
+            },
+            {
+                  "name": "Trampolin Park Turku",
+                  "text": "Trampolin Park Turku is an indoor trampoline park providing active fun and exercise for children.",
+                  "category": "family",
+                  "coords": [
+                        22.283182,
+                        60.475151
+                  ]
+            },
+            {
+                  "name": "Ruukinaukion leikkipaikka",
+                  "text": "Ruukinaukion leikkipaikka in Turku is a nice outdoor playground for children and families.",
+                  "category": "family",
+                  "coords": [
+                        22.305581,
+                        60.453068
+                  ]
+            },
+            {
+                  "name": "Civiksenkentän leikkipaikka",
+                  "text": "Civiksenkentän leikkipaikka offers various play equipment for children in a pleasant environment in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.290941,
+                        60.464144
+                  ]
+            },
+            {
+                  "name": "Kupittaanlähteen leikkipaikka",
+                  "text": "Kupittaanlähteen leikkipaikka is a popular playground in Turku for daily recreational fun.",
+                  "category": "family",
+                  "coords": [
+                        22.289988,
+                        60.446644
+                  ]
+            },
+            {
+                  "name": "Puolalanmäen leikkipaikka",
+                  "text": "Puolalanmäen leikkipaikka in Turku is an inviting spot for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        22.258656,
+                        60.453355
+                  ]
+            },
+            {
+                  "name": "Turjanpuiston leikkipaikka",
+                  "text": "Turjanpuiston leikkipaikka in Turku offers plenty of space for children to move around in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        22.300273,
+                        60.436125
+                  ]
+            },
+            {
+                  "name": "Barkerinpuiston leikkipaikka",
+                  "text": "Barkerinpuiston leikkipaikka is a family-friendly playground in a central location in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248279,
+                        60.442169
+                  ]
+            },
+            {
+                  "name": "Iso-Heikkilänpuiston leikkikenttä",
+                  "text": "Iso-Heikkilänpuiston leikkikenttä provides a safe environment for children's play in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.229166,
+                        60.452039
+                  ]
+            },
+            {
+                  "name": "Tuomaanpuiston leikkipaikka",
+                  "text": "Tuomaanpuiston leikkipaikka in Turku is an ideal spot for short outdoor play sessions.",
+                  "category": "family",
+                  "coords": [
+                        22.282312,
+                        60.458206
+                  ]
+            },
+            {
+                  "name": "Ratagolf",
+                  "text": "Ratagolf in Turku offers a classic miniature golf challenge for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        22.257181,
+                        60.477117
+                  ]
+            },
+            {
+                  "name": "Yrjänänpuiston leikkipaikka",
+                  "text": "Yrjänänpuiston leikkipaikka is a well-equipped play area for children in a Turku neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        22.263617,
+                        60.460068
+                  ]
+            },
+            {
+                  "name": "Kurjenkaivonkentän leikkipuisto",
+                  "text": "Kurjenkaivonkentän leikkipuisto offers children in Turku diverse opportunities for play and discovery.",
+                  "category": "family",
+                  "coords": [
+                        22.286904,
+                        60.450523
+                  ]
+            },
+            {
+                  "name": "Kastunpuiston leikkipuisto",
+                  "text": "Kastunpuiston leikkipuisto in Turku is a popular meeting spot for local families with children.",
+                  "category": "family",
+                  "coords": [
+                        22.276562,
+                        60.467977
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 1",
+                  "text": "Vilkkilänmäen leikkipaikka 1 provides a pleasant atmosphere for children's outdoor play in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.248768,
+                        60.438769
+                  ]
+            },
+            {
+                  "name": "Vilkkilänmäen leikkipaikka 2",
+                  "text": "Vilkkilänmäen leikkipaikka 2 is another nice play area for children in the Turku region.",
+                  "category": "family",
+                  "coords": [
+                        22.24996,
+                        60.438325
+                  ]
+            },
+            {
+                  "name": "Traffic Town",
+                  "text": "Traffic Town in Turku is a traffic-themed playground where children can learn road rules while playing.",
+                  "category": "family",
+                  "coords": [
+                        22.286566,
+                        60.445194
+                  ]
+            },
+            {
+                  "name": "Luolavuorenpuiston leikkipaikka",
+                  "text": "Luolavuorenpuiston leikkipaikka provides children in Turku with a varied environment for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        22.277089,
+                        60.430491
+                  ]
             }
       ]
 },
@@ -4060,6 +5752,231 @@ export const finlandCities: POI[] = [
                         24.659828,
                         60.241078
                   ]
+            },
+            {
+                  "name": "Metsälampi",
+                  "text": "Metsälampi ist ein See in Espoo, der eine ruhige Naturumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.643308,
+                        60.226158
+                  ]
+            },
+            {
+                  "name": "Palolampi",
+                  "text": "Palolampi ist ein See in Espoo, ideal für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.606856,
+                        60.195109
+                  ]
+            },
+            {
+                  "name": "Gallträsk",
+                  "text": "Gallträsk ist ein See in Espoo, bekannt für seine landschaftliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        24.730239,
+                        60.218908
+                  ]
+            },
+            {
+                  "name": "Lajalampi",
+                  "text": "Lajalampi ist ein See in Espoo, der eine friedliche Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.603639,
+                        60.254268
+                  ]
+            },
+            {
+                  "name": "Hannusjärvi",
+                  "text": "Hannusjärvi ist ein See in Espoo, umgeben von schöner Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.683148,
+                        60.150693
+                  ]
+            },
+            {
+                  "name": "Sulalampi",
+                  "text": "Sulalampi ist ein See in Espoo, ein ruhiger Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        24.622575,
+                        60.27181
+                  ]
+            },
+            {
+                  "name": "Svartbäckträsket",
+                  "text": "Svartbäckträsket ist ein See in Espoo, der eine naturbelassene Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.57879,
+                        60.224114
+                  ]
+            },
+            {
+                  "name": "Kakarlampi",
+                  "text": "Kakarlampi ist ein See in Espoo, ideal für eine kleine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.567902,
+                        60.239261
+                  ]
+            },
+            {
+                  "name": "Kirkkojärvi",
+                  "text": "Kirkkojärvi ist ein See in Espoo, der eine weite Aussicht auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.675824,
+                        60.213975
+                  ]
+            },
+            {
+                  "name": "Lintulampi",
+                  "text": "Lintulampi ist ein See in Espoo, bekannt für seine ruhige Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        24.619252,
+                        60.267221
+                  ]
+            },
+            {
+                  "name": "Hakjärvi",
+                  "text": "Hakjärvi ist ein See in Espoo, der eine friedliche Atmosphäre ausstrahlt.",
+                  "category": "natural",
+                  "coords": [
+                        24.608551,
+                        60.245318
+                  ]
+            },
+            {
+                  "name": "Mutalampi",
+                  "text": "Mutalampi ist ein See in Espoo, ein ruhiges Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.597726,
+                        60.268309
+                  ]
+            },
+            {
+                  "name": "Matalajärvi",
+                  "text": "Matalajärvi ist ein See in Espoo, der für seine natürliche Umgebung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        24.692609,
+                        60.25168
+                  ]
+            },
+            {
+                  "name": "Lippajärvi",
+                  "text": "Der Lippajärvi ist ein See in Espoo, der eine ruhige Kulisse für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.726469,
+                        60.230807
+                  ]
+            },
+            {
+                  "name": "Kalkutu",
+                  "text": "Der Kalkutu ist ein See in Espoo, ideal für erholsame Momente im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.561755,
+                        60.210531
+                  ]
+            },
+            {
+                  "name": "Igelträsk",
+                  "text": "Der Igelträsk ist ein See in Espoo, der Besucher mit seiner natürlichen Umgebung anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        24.521805,
+                        60.195827
+                  ]
+            },
+            {
+                  "name": "Bockträsk",
+                  "text": "Der Bockträsk ist ein ruhiger See in Espoo, der sich gut für Naturbetrachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.521884,
+                        60.228008
+                  ]
+            },
+            {
+                  "name": "Vitträsk",
+                  "text": "Der Vitträsk ist ein malerischer See in Espoo, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.490788,
+                        60.183773
+                  ]
+            },
+            {
+                  "name": "Bodominjärvi",
+                  "text": "Der Lake Bodom ist ein bekannter See in Espoo, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.671375,
+                        60.25621
+                  ]
+            },
+            {
+                  "name": "Dämman",
+                  "text": "Der Dämman ist ein See in Espoo, der eine friedliche Umgebung für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.598239,
+                        60.217356
+                  ]
+            },
+            {
+                  "name": "Nupurinjärvi",
+                  "text": "Der Nupurinjärvi ist ein See in Espoo, ideal für einen ruhigen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        24.586765,
+                        60.237903
+                  ]
+            },
+            {
+                  "name": "Loojärvi",
+                  "text": "Der Loojärvi ist ein See in Espoo, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.510691,
+                        60.212641
+                  ]
+            },
+            {
+                  "name": "Sorlampi",
+                  "text": "Der Sorlampi ist ein See in Espoo, der eine angenehme Atmosphäre für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.617228,
+                        60.257296
+                  ]
+            },
+            {
+                  "name": "Pitkäjärvi",
+                  "text": "Der Pitkäjärvi ist ein langgestreckter See in Espoo, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        24.749542,
+                        60.255228
+                  ]
+            },
+            {
+                  "name": "Hösmärinniityn leikkipaikka",
+                  "text": "Der Spielplatz Hösmärinniitty in Espoo bietet Kindern verschiedene Möglichkeiten zum Spielen und Bewegen.",
+                  "category": "family",
+                  "coords": [
+                        24.677477,
+                        60.197806
+                  ]
             }
       ],
       "hu": [
@@ -4088,6 +6005,231 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.659828,
                         60.241078
+                  ]
+            },
+            {
+                  "name": "Metsälampi",
+                  "text": "Metsälampi egy tó Espoo területén, amely nyugodt természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.643308,
+                        60.226158
+                  ]
+            },
+            {
+                  "name": "Palolampi",
+                  "text": "Palolampi egy tó Espoo területén, ideális a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.606856,
+                        60.195109
+                  ]
+            },
+            {
+                  "name": "Gallträsk",
+                  "text": "Gallträsk egy tó Espoo területén, amely táji szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.730239,
+                        60.218908
+                  ]
+            },
+            {
+                  "name": "Lajalampi",
+                  "text": "Lajalampi egy tó Espoo területén, amely békés környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.603639,
+                        60.254268
+                  ]
+            },
+            {
+                  "name": "Hannusjärvi",
+                  "text": "Hannusjärvi egy tó Espoo területén, szép erdei tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.683148,
+                        60.150693
+                  ]
+            },
+            {
+                  "name": "Sulalampi",
+                  "text": "Sulalampi egy tó Espoo területén, csendes helyszín a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.622575,
+                        60.27181
+                  ]
+            },
+            {
+                  "name": "Svartbäckträsket",
+                  "text": "Svartbäckträsket egy tó Espoo területén, amely érintetlen természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.57879,
+                        60.224114
+                  ]
+            },
+            {
+                  "name": "Kakarlampi",
+                  "text": "Kakarlampi egy tó Espoo területén, ideális egy rövid erdei pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        24.567902,
+                        60.239261
+                  ]
+            },
+            {
+                  "name": "Kirkkojärvi",
+                  "text": "Kirkkojärvi egy tó Espoo területén, amely tágas kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        24.675824,
+                        60.213975
+                  ]
+            },
+            {
+                  "name": "Lintulampi",
+                  "text": "Lintulampi egy tó Espoo területén, amely csendes vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.619252,
+                        60.267221
+                  ]
+            },
+            {
+                  "name": "Hakjärvi",
+                  "text": "Hakjärvi egy tó Espoo területén, amely békés hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        24.608551,
+                        60.245318
+                  ]
+            },
+            {
+                  "name": "Mutalampi",
+                  "text": "Mutalampi egy tó Espoo területén, nyugodt célpont a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        24.597726,
+                        60.268309
+                  ]
+            },
+            {
+                  "name": "Matalajärvi",
+                  "text": "Matalajärvi egy tó Espoo területén, amelyet természetes környezete miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        24.692609,
+                        60.25168
+                  ]
+            },
+            {
+                  "name": "Lippajärvi",
+                  "text": "A Lippajärvi egy tó Espoo területén, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.726469,
+                        60.230807
+                  ]
+            },
+            {
+                  "name": "Kalkutu",
+                  "text": "A Kalkutu egy tó Espoo városában, amely ideális helyszín a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.561755,
+                        60.210531
+                  ]
+            },
+            {
+                  "name": "Igelträsk",
+                  "text": "Az Igelträsk egy tó Espoo területén, amely természetes környezetével várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        24.521805,
+                        60.195827
+                  ]
+            },
+            {
+                  "name": "Bockträsk",
+                  "text": "A Bockträsk egy csendes tó Espoo területén, amely kiválóan alkalmas a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.521884,
+                        60.228008
+                  ]
+            },
+            {
+                  "name": "Vitträsk",
+                  "text": "A Vitträsk egy festői tó Espoo területén, amely hívogató a természetben való pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        24.490788,
+                        60.183773
+                  ]
+            },
+            {
+                  "name": "Bodominjärvi",
+                  "text": "A Bodomi-tó egy ismert tó Espoo városában, amelyet szép táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        24.671375,
+                        60.25621
+                  ]
+            },
+            {
+                  "name": "Dämman",
+                  "text": "A Dämman egy tó Espoo területén, amely békés környezetet kínál a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.598239,
+                        60.217356
+                  ]
+            },
+            {
+                  "name": "Nupurinjärvi",
+                  "text": "A Nupurinjärvi egy tó Espoo területén, amely ideális egy csendes szabadtéri tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.586765,
+                        60.237903
+                  ]
+            },
+            {
+                  "name": "Loojärvi",
+                  "text": "A Loojärvi egy tó Espoo városában, amely pihentető kikapcsolódást kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        24.510691,
+                        60.212641
+                  ]
+            },
+            {
+                  "name": "Sorlampi",
+                  "text": "A Sorlampi egy tó Espoo területén, amely kellemes környezetet biztosít a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        24.617228,
+                        60.257296
+                  ]
+            },
+            {
+                  "name": "Pitkäjärvi",
+                  "text": "A Pitkäjärvi egy elnyúló tó Espoo területén, amely ideális a part menti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.749542,
+                        60.255228
+                  ]
+            },
+            {
+                  "name": "Hösmärinniityn leikkipaikka",
+                  "text": "A Hösmärinniitty játszótér Espoo városában különféle játék- és mozgáslehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.677477,
+                        60.197806
                   ]
             }
       ],
@@ -4118,6 +6260,231 @@ export const finlandCities: POI[] = [
                         24.659828,
                         60.241078
                   ]
+            },
+            {
+                  "name": "Metsälampi",
+                  "text": "Metsälampi este un lac în Espoo, oferind un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        24.643308,
+                        60.226158
+                  ]
+            },
+            {
+                  "name": "Palolampi",
+                  "text": "Palolampi este un lac în Espoo, ideal pentru ore de relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.606856,
+                        60.195109
+                  ]
+            },
+            {
+                  "name": "Gallträsk",
+                  "text": "Gallträsk este un lac în Espoo, cunoscut pentru frumusețea sa peisajistică.",
+                  "category": "natural",
+                  "coords": [
+                        24.730239,
+                        60.218908
+                  ]
+            },
+            {
+                  "name": "Lajalampi",
+                  "text": "Lajalampi este un lac în Espoo, oferind un cadru pașnic pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.603639,
+                        60.254268
+                  ]
+            },
+            {
+                  "name": "Hannusjärvi",
+                  "text": "Hannusjärvi este un lac în Espoo, înconjurat de un peisaj forestier frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.683148,
+                        60.150693
+                  ]
+            },
+            {
+                  "name": "Sulalampi",
+                  "text": "Sulalampi este un lac în Espoo, un loc liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.622575,
+                        60.27181
+                  ]
+            },
+            {
+                  "name": "Svartbäckträsket",
+                  "text": "Svartbäckträsket este un lac în Espoo, oferind un mediu natural conservat.",
+                  "category": "natural",
+                  "coords": [
+                        24.57879,
+                        60.224114
+                  ]
+            },
+            {
+                  "name": "Kakarlampi",
+                  "text": "Kakarlampi este un lac în Espoo, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.567902,
+                        60.239261
+                  ]
+            },
+            {
+                  "name": "Kirkkojärvi",
+                  "text": "Kirkkojärvi este un lac în Espoo, oferind o vedere largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        24.675824,
+                        60.213975
+                  ]
+            },
+            {
+                  "name": "Lintulampi",
+                  "text": "Lintulampi este un lac în Espoo, cunoscut pentru suprafața sa de apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.619252,
+                        60.267221
+                  ]
+            },
+            {
+                  "name": "Hakjärvi",
+                  "text": "Hakjärvi este un lac în Espoo, care emană o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        24.608551,
+                        60.245318
+                  ]
+            },
+            {
+                  "name": "Mutalampi",
+                  "text": "Mutalampi este un lac în Espoo, o destinație liniștită pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.597726,
+                        60.268309
+                  ]
+            },
+            {
+                  "name": "Matalajärvi",
+                  "text": "Matalajärvi este un lac în Espoo, apreciat pentru mediul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        24.692609,
+                        60.25168
+                  ]
+            },
+            {
+                  "name": "Lippajärvi",
+                  "text": "Lippajärvi este un lac din Espoo, oferind un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.726469,
+                        60.230807
+                  ]
+            },
+            {
+                  "name": "Kalkutu",
+                  "text": "Kalkutu este un lac din Espoo, ideal pentru momente de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.561755,
+                        60.210531
+                  ]
+            },
+            {
+                  "name": "Igelträsk",
+                  "text": "Igelträsk este un lac din Espoo, care atrage vizitatorii prin mediul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        24.521805,
+                        60.195827
+                  ]
+            },
+            {
+                  "name": "Bockträsk",
+                  "text": "Bockträsk este un lac liniștit din Espoo, potrivit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.521884,
+                        60.228008
+                  ]
+            },
+            {
+                  "name": "Vitträsk",
+                  "text": "Vitträsk este un lac pitoresc din Espoo, invitând la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        24.490788,
+                        60.183773
+                  ]
+            },
+            {
+                  "name": "Bodominjärvi",
+                  "text": "Lacul Bodom este un lac cunoscut din Espoo, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.671375,
+                        60.25621
+                  ]
+            },
+            {
+                  "name": "Dämman",
+                  "text": "Dämman este un lac din Espoo, oferind un mediu pașnic pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        24.598239,
+                        60.217356
+                  ]
+            },
+            {
+                  "name": "Nupurinjärvi",
+                  "text": "Nupurinjärvi este un lac din Espoo, ideal pentru o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.586765,
+                        60.237903
+                  ]
+            },
+            {
+                  "name": "Loojärvi",
+                  "text": "Loojärvi este un lac din Espoo, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.510691,
+                        60.212641
+                  ]
+            },
+            {
+                  "name": "Sorlampi",
+                  "text": "Sorlampi este un lac din Espoo, oferind o atmosferă plăcută pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.617228,
+                        60.257296
+                  ]
+            },
+            {
+                  "name": "Pitkäjärvi",
+                  "text": "Pitkäjärvi este un lac alungit din Espoo, ideal pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.749542,
+                        60.255228
+                  ]
+            },
+            {
+                  "name": "Hösmärinniityn leikkipaikka",
+                  "text": "Locul de joacă Hösmärinniitty din Espoo oferă copiilor diverse oportunități de joacă și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        24.677477,
+                        60.197806
+                  ]
             }
       ],
       "en": [
@@ -4146,6 +6513,231 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.659828,
                         60.241078
+                  ]
+            },
+            {
+                  "name": "Metsälampi",
+                  "text": "Metsälampi is a lake in Espoo, offering a quiet natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.643308,
+                        60.226158
+                  ]
+            },
+            {
+                  "name": "Palolampi",
+                  "text": "Palolampi is a lake in Espoo, ideal for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.606856,
+                        60.195109
+                  ]
+            },
+            {
+                  "name": "Gallträsk",
+                  "text": "Gallträsk is a lake in Espoo, known for its scenic beauty.",
+                  "category": "natural",
+                  "coords": [
+                        24.730239,
+                        60.218908
+                  ]
+            },
+            {
+                  "name": "Lajalampi",
+                  "text": "Lajalampi is a lake in Espoo, providing a peaceful backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.603639,
+                        60.254268
+                  ]
+            },
+            {
+                  "name": "Hannusjärvi",
+                  "text": "Hannusjärvi is a lake in Espoo, surrounded by beautiful forest scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.683148,
+                        60.150693
+                  ]
+            },
+            {
+                  "name": "Sulalampi",
+                  "text": "Sulalampi is a lake in Espoo, a quiet spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        24.622575,
+                        60.27181
+                  ]
+            },
+            {
+                  "name": "Svartbäckträsket",
+                  "text": "Svartbäckträsket is a lake in Espoo, offering a preserved natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.57879,
+                        60.224114
+                  ]
+            },
+            {
+                  "name": "Kakarlampi",
+                  "text": "Kakarlampi is a lake in Espoo, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.567902,
+                        60.239261
+                  ]
+            },
+            {
+                  "name": "Kirkkojärvi",
+                  "text": "Kirkkojärvi is a lake in Espoo, offering a wide view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.675824,
+                        60.213975
+                  ]
+            },
+            {
+                  "name": "Lintulampi",
+                  "text": "Lintulampi is a lake in Espoo, known for its calm water surface.",
+                  "category": "natural",
+                  "coords": [
+                        24.619252,
+                        60.267221
+                  ]
+            },
+            {
+                  "name": "Hakjärvi",
+                  "text": "Hakjärvi is a lake in Espoo, radiating a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.608551,
+                        60.245318
+                  ]
+            },
+            {
+                  "name": "Mutalampi",
+                  "text": "Mutalampi is a lake in Espoo, a quiet destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.597726,
+                        60.268309
+                  ]
+            },
+            {
+                  "name": "Matalajärvi",
+                  "text": "Matalajärvi is a lake in Espoo, appreciated for its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.692609,
+                        60.25168
+                  ]
+            },
+            {
+                  "name": "Lippajärvi",
+                  "text": "Lippajärvi is a lake in Espoo, providing a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.726469,
+                        60.230807
+                  ]
+            },
+            {
+                  "name": "Kalkutu",
+                  "text": "Kalkutu is a lake in Espoo, ideal for relaxing moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.561755,
+                        60.210531
+                  ]
+            },
+            {
+                  "name": "Igelträsk",
+                  "text": "Igelträsk is a lake in Espoo, attracting visitors with its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.521805,
+                        60.195827
+                  ]
+            },
+            {
+                  "name": "Bockträsk",
+                  "text": "Bockträsk is a quiet lake in Espoo, well-suited for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        24.521884,
+                        60.228008
+                  ]
+            },
+            {
+                  "name": "Vitträsk",
+                  "text": "Vitträsk is a scenic lake in Espoo, inviting visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.490788,
+                        60.183773
+                  ]
+            },
+            {
+                  "name": "Lake Bodom",
+                  "text": "Lake Bodom is a well-known lake in Espoo, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.671375,
+                        60.25621
+                  ]
+            },
+            {
+                  "name": "Dämman",
+                  "text": "Dämman is a lake in Espoo, offering a peaceful environment for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        24.598239,
+                        60.217356
+                  ]
+            },
+            {
+                  "name": "Nupurinjärvi",
+                  "text": "Nupurinjärvi is a lake in Espoo, ideal for a quiet stay outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        24.586765,
+                        60.237903
+                  ]
+            },
+            {
+                  "name": "Loojärvi",
+                  "text": "Loojärvi is a lake in Espoo, inviting visitors to spend time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.510691,
+                        60.212641
+                  ]
+            },
+            {
+                  "name": "Sorlampi",
+                  "text": "Sorlampi is a lake in Espoo, offering a pleasant atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.617228,
+                        60.257296
+                  ]
+            },
+            {
+                  "name": "Pitkäjärvi",
+                  "text": "Pitkäjärvi is a long lake in Espoo, ideal for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        24.749542,
+                        60.255228
+                  ]
+            },
+            {
+                  "name": "Hösmärinniitty playground",
+                  "text": "Hösmärinniitty playground in Espoo offers children various opportunities for play and movement.",
+                  "category": "family",
+                  "coords": [
+                        24.677477,
+                        60.197806
                   ]
             }
       ]
@@ -4626,6 +7218,222 @@ export const finlandCities: POI[] = [
                         25.471092,
                         64.997245
                   ]
+            },
+            {
+                  "name": "Pelibunkkeri ja Megazone Oulu",
+                  "text": "Das Pelibunkkeri ja Megazone Oulu bietet Spiel und Spaß für Familien in einer modernen Spielhalle.",
+                  "category": "family",
+                  "coords": [
+                        25.476545,
+                        65.011513
+                  ]
+            },
+            {
+                  "name": "Hupisaarten keskusleikkipuisto",
+                  "text": "Der Hupisaarten keskusleikkipuisto in Oulu ist ein beliebter, großer Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        25.47841,
+                        65.018622
+                  ]
+            },
+            {
+                  "name": "Lasten liikennepuisto",
+                  "text": "Der Lasten liikennepuisto in Oulu ist ein Verkehrsspielplatz, auf dem Kinder spielerisch lernen können.",
+                  "category": "family",
+                  "coords": [
+                        25.45587,
+                        65.008842
+                  ]
+            },
+            {
+                  "name": "Intiönkangas",
+                  "text": "Der Spielplatz Intiönkangas in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.504568,
+                        65.015698
+                  ]
+            },
+            {
+                  "name": "Antti Pietilän puisto",
+                  "text": "Der Spielplatz Antti Pietilän puisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.531762,
+                        65.014169
+                  ]
+            },
+            {
+                  "name": "Kumpulanpuisto",
+                  "text": "Der Spielplatz Kumpulanpuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.525853,
+                        65.012565
+                  ]
+            },
+            {
+                  "name": "Aution aukean leikkipaikka",
+                  "text": "Der Spielplatz Aution aukean leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.479829,
+                        65.035025
+                  ]
+            },
+            {
+                  "name": "Kyösti Kallion puiston leikkipaikka",
+                  "text": "Der Spielplatz Kyösti Kallion puiston leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.461486,
+                        65.004998
+                  ]
+            },
+            {
+                  "name": "Castrenin leikkipuisto",
+                  "text": "Der Spielplatz Castrenin leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.488108,
+                        65.032549
+                  ]
+            },
+            {
+                  "name": "Jääkäripuiston leikkipuisto",
+                  "text": "Der Spielplatz Jääkäripuiston leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.501151,
+                        65.018947
+                  ]
+            },
+            {
+                  "name": "Hartaanpuiston leikkipaikka",
+                  "text": "Der Spielplatz Hartaanpuiston leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.455835,
+                        65.027618
+                  ]
+            },
+            {
+                  "name": "Uumajanpuisto",
+                  "text": "Der Spielplatz Uumajanpuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.493257,
+                        65.00352
+                  ]
+            },
+            {
+                  "name": "Hovisuon leikkipuisto",
+                  "text": "Der Spielplatz Hovisuon leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.51883,
+                        65.026676
+                  ]
+            },
+            {
+                  "name": "Kivekkään leikkipaikka",
+                  "text": "Der Spielplatz Kivekkään leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.502259,
+                        65.024218
+                  ]
+            },
+            {
+                  "name": "Merikosken leikkipuisto",
+                  "text": "Der Spielplatz Merikosken leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.473163,
+                        65.024792
+                  ]
+            },
+            {
+                  "name": "Tuiranpuiston leikkipuisto",
+                  "text": "Der Spielplatz Tuiranpuiston leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.462619,
+                        65.026231
+                  ]
+            },
+            {
+                  "name": "Puusepänpuiston leikkipaikka",
+                  "text": "Der Spielplatz Puusepänpuiston leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.486357,
+                        65.014756
+                  ]
+            },
+            {
+                  "name": "Salmelanpuiston leikkipuisto",
+                  "text": "Der Spielplatz Salmelanpuiston leikkipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.492511,
+                        65.019006
+                  ]
+            },
+            {
+                  "name": "Kainuunpuiston leikkipaikka",
+                  "text": "Der Spielplatz Kainuunpuiston leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.520175,
+                        64.995388
+                  ]
+            },
+            {
+                  "name": "Valurinpuisto",
+                  "text": "Der Spielplatz Valurinpuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.517446,
+                        65.018826
+                  ]
+            },
+            {
+                  "name": "Kariniemenpuisto",
+                  "text": "Der Spielplatz Kariniemenpuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.529892,
+                        65.021611
+                  ]
+            },
+            {
+                  "name": "Tirolinpuiston leikkipaikka",
+                  "text": "Der Spielplatz Tirolinpuiston leikkipaikka in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.461619,
+                        65.035164
+                  ]
+            },
+            {
+                  "name": "Veturipuisto",
+                  "text": "Der Spielplatz Veturipuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.481621,
+                        64.992737
+                  ]
+            },
+            {
+                  "name": "Keinupuisto",
+                  "text": "Der Spielplatz Keinupuisto in Oulu ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.485783,
+                        64.989762
+                  ]
             }
       ],
       "hu": [
@@ -5059,6 +7867,222 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.471092,
                         64.997245
+                  ]
+            },
+            {
+                  "name": "Pelibunkkeri ja Megazone Oulu",
+                  "text": "Az Oulu városában található Pelibunkkeri ja Megazone Oulu játékot és szórakozást kínál a családoknak egy modern játékteremben.",
+                  "category": "family",
+                  "coords": [
+                        25.476545,
+                        65.011513
+                  ]
+            },
+            {
+                  "name": "Hupisaarten keskusleikkipuisto",
+                  "text": "Az Oulu területén fekvő Hupisaarten keskusleikkipuisto egy kedvelt, nagy játszótér a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.47841,
+                        65.018622
+                  ]
+            },
+            {
+                  "name": "Lasten liikennepuisto",
+                  "text": "Az Oulu városában található Lasten liikennepuisto egy közlekedési játszótér, ahol a gyerekek játszva tanulhatnak.",
+                  "category": "family",
+                  "coords": [
+                        25.45587,
+                        65.008842
+                  ]
+            },
+            {
+                  "name": "Intiönkangas",
+                  "text": "A(z) Oulu városában található Intiönkangas játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.504568,
+                        65.015698
+                  ]
+            },
+            {
+                  "name": "Antti Pietilän puisto",
+                  "text": "A(z) Oulu városában található Antti Pietilän puisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.531762,
+                        65.014169
+                  ]
+            },
+            {
+                  "name": "Kumpulanpuisto",
+                  "text": "A(z) Oulu városában található Kumpulanpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.525853,
+                        65.012565
+                  ]
+            },
+            {
+                  "name": "Aution aukean leikkipaikka",
+                  "text": "A(z) Oulu városában található Aution aukean leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.479829,
+                        65.035025
+                  ]
+            },
+            {
+                  "name": "Kyösti Kallion puiston leikkipaikka",
+                  "text": "A(z) Oulu városában található Kyösti Kallion puiston leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.461486,
+                        65.004998
+                  ]
+            },
+            {
+                  "name": "Castrenin leikkipuisto",
+                  "text": "A(z) Oulu városában található Castrenin leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.488108,
+                        65.032549
+                  ]
+            },
+            {
+                  "name": "Jääkäripuiston leikkipuisto",
+                  "text": "A(z) Oulu városában található Jääkäripuiston leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.501151,
+                        65.018947
+                  ]
+            },
+            {
+                  "name": "Hartaanpuiston leikkipaikka",
+                  "text": "A(z) Oulu városában található Hartaanpuiston leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.455835,
+                        65.027618
+                  ]
+            },
+            {
+                  "name": "Uumajanpuisto",
+                  "text": "A(z) Oulu városában található Uumajanpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.493257,
+                        65.00352
+                  ]
+            },
+            {
+                  "name": "Hovisuon leikkipuisto",
+                  "text": "A(z) Oulu városában található Hovisuon leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.51883,
+                        65.026676
+                  ]
+            },
+            {
+                  "name": "Kivekkään leikkipaikka",
+                  "text": "A(z) Oulu városában található Kivekkään leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.502259,
+                        65.024218
+                  ]
+            },
+            {
+                  "name": "Merikosken leikkipuisto",
+                  "text": "A(z) Oulu városában található Merikosken leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.473163,
+                        65.024792
+                  ]
+            },
+            {
+                  "name": "Tuiranpuiston leikkipuisto",
+                  "text": "A(z) Oulu városában található Tuiranpuiston leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.462619,
+                        65.026231
+                  ]
+            },
+            {
+                  "name": "Puusepänpuiston leikkipaikka",
+                  "text": "A(z) Oulu városában található Puusepänpuiston leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.486357,
+                        65.014756
+                  ]
+            },
+            {
+                  "name": "Salmelanpuiston leikkipuisto",
+                  "text": "A(z) Oulu városában található Salmelanpuiston leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.492511,
+                        65.019006
+                  ]
+            },
+            {
+                  "name": "Kainuunpuiston leikkipaikka",
+                  "text": "A(z) Oulu városában található Kainuunpuiston leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.520175,
+                        64.995388
+                  ]
+            },
+            {
+                  "name": "Valurinpuisto",
+                  "text": "A(z) Oulu városában található Valurinpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.517446,
+                        65.018826
+                  ]
+            },
+            {
+                  "name": "Kariniemenpuisto",
+                  "text": "A(z) Oulu városában található Kariniemenpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.529892,
+                        65.021611
+                  ]
+            },
+            {
+                  "name": "Tirolinpuiston leikkipaikka",
+                  "text": "A(z) Oulu városában található Tirolinpuiston leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.461619,
+                        65.035164
+                  ]
+            },
+            {
+                  "name": "Veturipuisto",
+                  "text": "A(z) Oulu városában található Veturipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.481621,
+                        64.992737
+                  ]
+            },
+            {
+                  "name": "Keinupuisto",
+                  "text": "A(z) Oulu városában található Keinupuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.485783,
+                        64.989762
                   ]
             }
       ],
@@ -5494,6 +8518,222 @@ export const finlandCities: POI[] = [
                         25.471092,
                         64.997245
                   ]
+            },
+            {
+                  "name": "Pelibunkkeri ja Megazone Oulu",
+                  "text": "Pelibunkkeri ja Megazone Oulu oferă jocuri și distracție pentru familii într-o sală de jocuri modernă.",
+                  "category": "family",
+                  "coords": [
+                        25.476545,
+                        65.011513
+                  ]
+            },
+            {
+                  "name": "Hupisaarten keskusleikkipuisto",
+                  "text": "Hupisaarten keskusleikkipuisto din Oulu este un teren de joacă mare și popular pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.47841,
+                        65.018622
+                  ]
+            },
+            {
+                  "name": "Lasten liikennepuisto",
+                  "text": "Lasten liikennepuisto din Oulu este un parc de educație rutieră unde copiii pot învăța prin joc.",
+                  "category": "family",
+                  "coords": [
+                        25.45587,
+                        65.008842
+                  ]
+            },
+            {
+                  "name": "Intiönkangas",
+                  "text": "Locul de joacă Intiönkangas din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.504568,
+                        65.015698
+                  ]
+            },
+            {
+                  "name": "Antti Pietilän puisto",
+                  "text": "Locul de joacă Antti Pietilän puisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.531762,
+                        65.014169
+                  ]
+            },
+            {
+                  "name": "Kumpulanpuisto",
+                  "text": "Locul de joacă Kumpulanpuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.525853,
+                        65.012565
+                  ]
+            },
+            {
+                  "name": "Aution aukean leikkipaikka",
+                  "text": "Locul de joacă Aution aukean leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.479829,
+                        65.035025
+                  ]
+            },
+            {
+                  "name": "Kyösti Kallion puiston leikkipaikka",
+                  "text": "Locul de joacă Kyösti Kallion puiston leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.461486,
+                        65.004998
+                  ]
+            },
+            {
+                  "name": "Castrenin leikkipuisto",
+                  "text": "Locul de joacă Castrenin leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.488108,
+                        65.032549
+                  ]
+            },
+            {
+                  "name": "Jääkäripuiston leikkipuisto",
+                  "text": "Locul de joacă Jääkäripuiston leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.501151,
+                        65.018947
+                  ]
+            },
+            {
+                  "name": "Hartaanpuiston leikkipaikka",
+                  "text": "Locul de joacă Hartaanpuiston leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.455835,
+                        65.027618
+                  ]
+            },
+            {
+                  "name": "Uumajanpuisto",
+                  "text": "Locul de joacă Uumajanpuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.493257,
+                        65.00352
+                  ]
+            },
+            {
+                  "name": "Hovisuon leikkipuisto",
+                  "text": "Locul de joacă Hovisuon leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.51883,
+                        65.026676
+                  ]
+            },
+            {
+                  "name": "Kivekkään leikkipaikka",
+                  "text": "Locul de joacă Kivekkään leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.502259,
+                        65.024218
+                  ]
+            },
+            {
+                  "name": "Merikosken leikkipuisto",
+                  "text": "Locul de joacă Merikosken leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.473163,
+                        65.024792
+                  ]
+            },
+            {
+                  "name": "Tuiranpuiston leikkipuisto",
+                  "text": "Locul de joacă Tuiranpuiston leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.462619,
+                        65.026231
+                  ]
+            },
+            {
+                  "name": "Puusepänpuiston leikkipaikka",
+                  "text": "Locul de joacă Puusepänpuiston leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.486357,
+                        65.014756
+                  ]
+            },
+            {
+                  "name": "Salmelanpuiston leikkipuisto",
+                  "text": "Locul de joacă Salmelanpuiston leikkipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.492511,
+                        65.019006
+                  ]
+            },
+            {
+                  "name": "Kainuunpuiston leikkipaikka",
+                  "text": "Locul de joacă Kainuunpuiston leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.520175,
+                        64.995388
+                  ]
+            },
+            {
+                  "name": "Valurinpuisto",
+                  "text": "Locul de joacă Valurinpuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.517446,
+                        65.018826
+                  ]
+            },
+            {
+                  "name": "Kariniemenpuisto",
+                  "text": "Locul de joacă Kariniemenpuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.529892,
+                        65.021611
+                  ]
+            },
+            {
+                  "name": "Tirolinpuiston leikkipaikka",
+                  "text": "Locul de joacă Tirolinpuiston leikkipaikka din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.461619,
+                        65.035164
+                  ]
+            },
+            {
+                  "name": "Veturipuisto",
+                  "text": "Locul de joacă Veturipuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.481621,
+                        64.992737
+                  ]
+            },
+            {
+                  "name": "Keinupuisto",
+                  "text": "Locul de joacă Keinupuisto din Oulu este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.485783,
+                        64.989762
+                  ]
             }
       ],
       "en": [
@@ -5927,6 +9167,222 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.471092,
                         64.997245
+                  ]
+            },
+            {
+                  "name": "Pelibunkkeri ja Megazone Oulu",
+                  "text": "Pelibunkkeri ja Megazone Oulu offers games and fun for families in a modern amusement arcade.",
+                  "category": "family",
+                  "coords": [
+                        25.476545,
+                        65.011513
+                  ]
+            },
+            {
+                  "name": "Hupisaarten keskusleikkipuisto",
+                  "text": "Hupisaarten keskusleikkipuisto in Oulu is a popular, large playground for children.",
+                  "category": "family",
+                  "coords": [
+                        25.47841,
+                        65.018622
+                  ]
+            },
+            {
+                  "name": "Lasten liikennepuisto",
+                  "text": "Lasten liikennepuisto in Oulu is a traffic playground where children can learn through play.",
+                  "category": "family",
+                  "coords": [
+                        25.45587,
+                        65.008842
+                  ]
+            },
+            {
+                  "name": "Intiönkangas",
+                  "text": "The Intiönkangas playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.504568,
+                        65.015698
+                  ]
+            },
+            {
+                  "name": "Antti Pietilän puisto",
+                  "text": "The Antti Pietilän puisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.531762,
+                        65.014169
+                  ]
+            },
+            {
+                  "name": "Kumpulanpuisto",
+                  "text": "The Kumpulanpuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.525853,
+                        65.012565
+                  ]
+            },
+            {
+                  "name": "Aution aukean leikkipaikka",
+                  "text": "The Aution aukean leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.479829,
+                        65.035025
+                  ]
+            },
+            {
+                  "name": "Kyösti Kallion puiston leikkipaikka",
+                  "text": "The Kyösti Kallion puiston leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.461486,
+                        65.004998
+                  ]
+            },
+            {
+                  "name": "Castrenin leikkipuisto",
+                  "text": "The Castrenin leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.488108,
+                        65.032549
+                  ]
+            },
+            {
+                  "name": "Jääkäripuiston leikkipuisto",
+                  "text": "The Jääkäripuiston leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.501151,
+                        65.018947
+                  ]
+            },
+            {
+                  "name": "Hartaanpuiston leikkipaikka",
+                  "text": "The Hartaanpuiston leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.455835,
+                        65.027618
+                  ]
+            },
+            {
+                  "name": "Uumajanpuisto",
+                  "text": "The Uumajanpuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.493257,
+                        65.00352
+                  ]
+            },
+            {
+                  "name": "Hovisuon leikkipuisto",
+                  "text": "The Hovisuon leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.51883,
+                        65.026676
+                  ]
+            },
+            {
+                  "name": "Kivekkään leikkipaikka",
+                  "text": "The Kivekkään leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.502259,
+                        65.024218
+                  ]
+            },
+            {
+                  "name": "Merikosken leikkipuisto",
+                  "text": "The Merikosken leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.473163,
+                        65.024792
+                  ]
+            },
+            {
+                  "name": "Tuiranpuiston leikkipuisto",
+                  "text": "The Tuiranpuiston leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.462619,
+                        65.026231
+                  ]
+            },
+            {
+                  "name": "Puusepänpuiston leikkipaikka",
+                  "text": "The Puusepänpuiston leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.486357,
+                        65.014756
+                  ]
+            },
+            {
+                  "name": "Salmelanpuiston leikkipuisto",
+                  "text": "The Salmelanpuiston leikkipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.492511,
+                        65.019006
+                  ]
+            },
+            {
+                  "name": "Kainuunpuiston leikkipaikka",
+                  "text": "The Kainuunpuiston leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.520175,
+                        64.995388
+                  ]
+            },
+            {
+                  "name": "Valurinpuisto",
+                  "text": "The Valurinpuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.517446,
+                        65.018826
+                  ]
+            },
+            {
+                  "name": "Kariniemenpuisto",
+                  "text": "The Kariniemenpuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.529892,
+                        65.021611
+                  ]
+            },
+            {
+                  "name": "Tirolinpuiston leikkipaikka",
+                  "text": "The Tirolinpuiston leikkipaikka playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.461619,
+                        65.035164
+                  ]
+            },
+            {
+                  "name": "Veturipuisto",
+                  "text": "The Veturipuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.481621,
+                        64.992737
+                  ]
+            },
+            {
+                  "name": "Keinupuisto",
+                  "text": "The Keinupuisto playground in Oulu is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.485783,
+                        64.989762
                   ]
             }
       ]
@@ -7171,6 +10627,150 @@ export const finlandCities: POI[] = [
                         25.666881,
                         60.990803
                   ]
+            },
+            {
+                  "name": "Merrasjärvi",
+                  "text": "Der Merrasjärvi ist ein See in Lahti, der eine ruhige Umgebung für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.685085,
+                        61.017891
+                  ]
+            },
+            {
+                  "name": "Kymijärvi",
+                  "text": "Der Kymijärvi ist ein See in Lahti, der eine schöne Landschaft für Freizeitaktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.793079,
+                        60.971183
+                  ]
+            },
+            {
+                  "name": "Vesijärvi",
+                  "text": "Der Vesijärvi ist ein bedeutender See in Lahti, bekannt für seine weiten Wasserflächen.",
+                  "category": "natural",
+                  "coords": [
+                        25.486819,
+                        61.08416
+                  ]
+            },
+            {
+                  "name": "Iso Tiilijärvi",
+                  "text": "Der Iso Tiilijärvi ist ein See in Lahti, der ideale Bedingungen für einen Naturaufenthalt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.50963,
+                        61.003496
+                  ]
+            },
+            {
+                  "name": "Sopenkorven leikkialue",
+                  "text": "Der Spielplatz Sopenkorven in Lahti ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.629225,
+                        60.979898
+                  ]
+            },
+            {
+                  "name": "Lahden Pinja & Lahden Poppeli private playground",
+                  "text": "Dieser private Spielplatz in Lahti bietet Kindern eine sichere und unterhaltsame Spielumgebung.",
+                  "category": "family",
+                  "coords": [
+                        25.678094,
+                        60.980821
+                  ]
+            },
+            {
+                  "name": "Mustakallionmäen puisto",
+                  "text": "Der Mustakallionmäen puisto in Lahti ist ein Park mit Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.674132,
+                        60.990361
+                  ]
+            },
+            {
+                  "name": "Sairaalapuiston leikkialue",
+                  "text": "Der Spielplatz Sairaalapuiston in Lahti bietet vielfältige Aktivitäten für Kinder im Freien.",
+                  "category": "family",
+                  "coords": [
+                        25.665615,
+                        60.979776
+                  ]
+            },
+            {
+                  "name": "Loviisanpässinpuisto",
+                  "text": "Der Loviisanpässinpuisto in Lahti ist ein familienfreundlicher Spielplatz in zentraler Lage.",
+                  "category": "family",
+                  "coords": [
+                        25.661829,
+                        60.978493
+                  ]
+            },
+            {
+                  "name": "Radiomäen leikkialue",
+                  "text": "Der Spielplatz Radiomäen in Lahti bietet eine abwechslungsreiche Umgebung für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        25.651834,
+                        60.980476
+                  ]
+            },
+            {
+                  "name": "Lahden Minigolfkeskus",
+                  "text": "Das Lahden Minigolfkeskus bietet Freizeitspaß für Familien und Minigolf-Begeisterte in Lahti.",
+                  "category": "family",
+                  "coords": [
+                        25.647751,
+                        60.969175
+                  ]
+            },
+            {
+                  "name": "Ainonpuiston leikkialue",
+                  "text": "Der Spielplatz Ainonpuiston in Lahti ist ein schöner Ort für Kinder in einer Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        25.669769,
+                        60.981384
+                  ]
+            },
+            {
+                  "name": "Tenavan leikkialue",
+                  "text": "Der Spielplatz Tenavan in Lahti bietet altersgerechte Spielgeräte für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        25.713077,
+                        60.979009
+                  ]
+            },
+            {
+                  "name": "Esikkopuiston leikkialue",
+                  "text": "Der Spielplatz Esikkopuiston in Lahti lädt Familien zu einem Besuch im Grünen ein.",
+                  "category": "family",
+                  "coords": [
+                        25.661029,
+                        60.970275
+                  ]
+            },
+            {
+                  "name": "Suopuiston leikkialue",
+                  "text": "Der Spielplatz Suopuiston in Lahti ist ein beliebter Ort für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        25.678464,
+                        60.994444
+                  ]
+            },
+            {
+                  "name": "Lounaanpuiston leikkialue",
+                  "text": "Der Spielplatz Lounaanpuiston in Lahti bietet eine freundliche Atmosphäre für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.698613,
+                        60.984854
+                  ]
             }
       ],
       "hu": [
@@ -7487,6 +11087,150 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.666881,
                         60.990803
+                  ]
+            },
+            {
+                  "name": "Merrasjärvi",
+                  "text": "A Merrasjärvi egy tó Lahti területén, amely csendes környezetet kínál a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        25.685085,
+                        61.017891
+                  ]
+            },
+            {
+                  "name": "Kymijärvi",
+                  "text": "A Kymijärvi egy tó Lahti területén, amely szép tájat kínál a szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.793079,
+                        60.971183
+                  ]
+            },
+            {
+                  "name": "Vesijärvi",
+                  "text": "A Vesijärvi egy jelentős tó Lahtiban, amely tágas vízfelületeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.486819,
+                        61.08416
+                  ]
+            },
+            {
+                  "name": "Iso Tiilijärvi",
+                  "text": "Az Iso Tiilijärvi egy tó Lahti területén, amely kiváló feltételeket kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.50963,
+                        61.003496
+                  ]
+            },
+            {
+                  "name": "Sopenkorven leikkialue",
+                  "text": "A Sopenkorven játszótér Lahtiban népszerű találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.629225,
+                        60.979898
+                  ]
+            },
+            {
+                  "name": "Lahden Pinja & Lahden Poppeli private playground",
+                  "text": "Ez a privát játszótér Lahtiban biztonságos és szórakoztató környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.678094,
+                        60.980821
+                  ]
+            },
+            {
+                  "name": "Mustakallionmäen puisto",
+                  "text": "A Mustakallionmäen puisto Lahtiban egy park, amely játéklehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.674132,
+                        60.990361
+                  ]
+            },
+            {
+                  "name": "Sairaalapuiston leikkialue",
+                  "text": "A Sairaalapuiston játszótér Lahtiban változatos szabadtéri tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.665615,
+                        60.979776
+                  ]
+            },
+            {
+                  "name": "Loviisanpässinpuisto",
+                  "text": "A Loviisanpässinpuisto Lahtiban egy központi elhelyezkedésű, családbarát játszótér.",
+                  "category": "family",
+                  "coords": [
+                        25.661829,
+                        60.978493
+                  ]
+            },
+            {
+                  "name": "Radiomäen leikkialue",
+                  "text": "A Radiomäen játszótér Lahtiban változatos környezetet biztosít a játékhoz és a szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.651834,
+                        60.980476
+                  ]
+            },
+            {
+                  "name": "Lahden Minigolfkeskus",
+                  "text": "A Lahden Minigolfkeskus szabadidős szórakozást kínál családoknak és a minigolf kedvelőinek Lahtiban.",
+                  "category": "family",
+                  "coords": [
+                        25.647751,
+                        60.969175
+                  ]
+            },
+            {
+                  "name": "Ainonpuiston leikkialue",
+                  "text": "Az Ainonpuiston játszótér Lahtiban egy szép hely a gyerekeknek egy parkosított környezetben.",
+                  "category": "family",
+                  "coords": [
+                        25.669769,
+                        60.981384
+                  ]
+            },
+            {
+                  "name": "Tenavan leikkialue",
+                  "text": "A Tenavan játszótér Lahtiban korosztálynak megfelelő játékokat kínál a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        25.713077,
+                        60.979009
+                  ]
+            },
+            {
+                  "name": "Esikkopuiston leikkialue",
+                  "text": "Az Esikkopuiston játszótér Lahtiban hívogató helyszín a családoknak a zöldben.",
+                  "category": "family",
+                  "coords": [
+                        25.661029,
+                        60.970275
+                  ]
+            },
+            {
+                  "name": "Suopuiston leikkialue",
+                  "text": "A Suopuiston játszótér Lahtiban népszerű hely a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        25.678464,
+                        60.994444
+                  ]
+            },
+            {
+                  "name": "Lounaanpuiston leikkialue",
+                  "text": "A Lounaanpuiston játszótér Lahtiban barátságos légkört biztosít a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.698613,
+                        60.984854
                   ]
             }
       ],
@@ -7805,6 +11549,150 @@ export const finlandCities: POI[] = [
                         25.666881,
                         60.990803
                   ]
+            },
+            {
+                  "name": "Merrasjärvi",
+                  "text": "Merrasjärvi este un lac din Lahti, oferind un mediu liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.685085,
+                        61.017891
+                  ]
+            },
+            {
+                  "name": "Kymijärvi",
+                  "text": "Kymijärvi este un lac din Lahti, oferind un peisaj frumos pentru activități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.793079,
+                        60.971183
+                  ]
+            },
+            {
+                  "name": "Vesijärvi",
+                  "text": "Vesijärvi este un lac important din Lahti, cunoscut pentru suprafețele sale vaste de apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.486819,
+                        61.08416
+                  ]
+            },
+            {
+                  "name": "Iso Tiilijärvi",
+                  "text": "Iso Tiilijärvi este un lac din Lahti, oferind condiții ideale pentru o ieșire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.50963,
+                        61.003496
+                  ]
+            },
+            {
+                  "name": "Sopenkorven leikkialue",
+                  "text": "Locul de joacă Sopenkorven din Lahti este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.629225,
+                        60.979898
+                  ]
+            },
+            {
+                  "name": "Lahden Pinja & Lahden Poppeli private playground",
+                  "text": "Acest loc de joacă privat din Lahti oferă copiilor un mediu de joacă sigur și distractiv.",
+                  "category": "family",
+                  "coords": [
+                        25.678094,
+                        60.980821
+                  ]
+            },
+            {
+                  "name": "Mustakallionmäen puisto",
+                  "text": "Mustakallionmäen puisto din Lahti este un parc ce oferă facilități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.674132,
+                        60.990361
+                  ]
+            },
+            {
+                  "name": "Sairaalapuiston leikkialue",
+                  "text": "Locul de joacă Sairaalapuiston din Lahti oferă diverse activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.665615,
+                        60.979776
+                  ]
+            },
+            {
+                  "name": "Loviisanpässinpuisto",
+                  "text": "Loviisanpässinpuisto din Lahti este un loc de joacă prietenos pentru familii, situat central.",
+                  "category": "family",
+                  "coords": [
+                        25.661829,
+                        60.978493
+                  ]
+            },
+            {
+                  "name": "Radiomäen leikkialue",
+                  "text": "Locul de joacă Radiomäen din Lahti oferă un mediu variat pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        25.651834,
+                        60.980476
+                  ]
+            },
+            {
+                  "name": "Lahden Minigolfkeskus",
+                  "text": "Lahden Minigolfkeskus oferă distracție pentru familii și pasionații de minigolf din Lahti.",
+                  "category": "family",
+                  "coords": [
+                        25.647751,
+                        60.969175
+                  ]
+            },
+            {
+                  "name": "Ainonpuiston leikkialue",
+                  "text": "Locul de joacă Ainonpuiston din Lahti este un loc frumos pentru copii într-un cadru de parc.",
+                  "category": "family",
+                  "coords": [
+                        25.669769,
+                        60.981384
+                  ]
+            },
+            {
+                  "name": "Tenavan leikkialue",
+                  "text": "Locul de joacă Tenavan din Lahti oferă echipamente de joacă adecvate vârstei pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        25.713077,
+                        60.979009
+                  ]
+            },
+            {
+                  "name": "Esikkopuiston leikkialue",
+                  "text": "Locul de joacă Esikkopuiston din Lahti invită familiile la o vizită în natură.",
+                  "category": "family",
+                  "coords": [
+                        25.661029,
+                        60.970275
+                  ]
+            },
+            {
+                  "name": "Suopuiston leikkialue",
+                  "text": "Locul de joacă Suopuiston din Lahti este un loc popular pentru activitățile zilnice de recreere.",
+                  "category": "family",
+                  "coords": [
+                        25.678464,
+                        60.994444
+                  ]
+            },
+            {
+                  "name": "Lounaanpuiston leikkialue",
+                  "text": "Locul de joacă Lounaanpuiston din Lahti oferă o atmosferă prietenoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.698613,
+                        60.984854
+                  ]
             }
       ],
       "en": [
@@ -8121,6 +12009,150 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.666881,
                         60.990803
+                  ]
+            },
+            {
+                  "name": "Merrasjärvi",
+                  "text": "Merrasjärvi is a lake in Lahti, offering a quiet environment for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.685085,
+                        61.017891
+                  ]
+            },
+            {
+                  "name": "Kymijärvi",
+                  "text": "Kymijärvi is a lake in Lahti, offering beautiful scenery for leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        25.793079,
+                        60.971183
+                  ]
+            },
+            {
+                  "name": "Vesijärvi",
+                  "text": "Vesijärvi is a major lake in Lahti, known for its vast water areas.",
+                  "category": "natural",
+                  "coords": [
+                        25.486819,
+                        61.08416
+                  ]
+            },
+            {
+                  "name": "Iso Tiilijärvi",
+                  "text": "Iso Tiilijärvi is a lake in Lahti, offering ideal conditions for a nature outing.",
+                  "category": "natural",
+                  "coords": [
+                        25.50963,
+                        61.003496
+                  ]
+            },
+            {
+                  "name": "Sopenkorven leikkialue",
+                  "text": "Sopenkorven playground in Lahti is a popular meeting spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.629225,
+                        60.979898
+                  ]
+            },
+            {
+                  "name": "Lahden Pinja & Lahden Poppeli private playground",
+                  "text": "This private playground in Lahti provides a safe and fun play environment for children.",
+                  "category": "family",
+                  "coords": [
+                        25.678094,
+                        60.980821
+                  ]
+            },
+            {
+                  "name": "Mustakallionmäen puisto",
+                  "text": "Mustakallionmäen puisto in Lahti is a park with play facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        25.674132,
+                        60.990361
+                  ]
+            },
+            {
+                  "name": "Sairaalapuiston leikkialue",
+                  "text": "Sairaalapuiston playground in Lahti offers various outdoor activities for children.",
+                  "category": "family",
+                  "coords": [
+                        25.665615,
+                        60.979776
+                  ]
+            },
+            {
+                  "name": "Loviisanpässinpuisto",
+                  "text": "Loviisanpässinpuisto in Lahti is a family-friendly playground in a central location.",
+                  "category": "family",
+                  "coords": [
+                        25.661829,
+                        60.978493
+                  ]
+            },
+            {
+                  "name": "Radiomäen leikkialue",
+                  "text": "Radiomäen playground in Lahti offers a diverse environment for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        25.651834,
+                        60.980476
+                  ]
+            },
+            {
+                  "name": "Lahden Minigolfkeskus",
+                  "text": "Lahden Minigolfkeskus offers leisure fun for families and minigolf enthusiasts in Lahti.",
+                  "category": "family",
+                  "coords": [
+                        25.647751,
+                        60.969175
+                  ]
+            },
+            {
+                  "name": "Ainonpuiston leikkialue",
+                  "text": "Ainonpuiston playground in Lahti is a lovely spot for children within a park setting.",
+                  "category": "family",
+                  "coords": [
+                        25.669769,
+                        60.981384
+                  ]
+            },
+            {
+                  "name": "Tenavan leikkialue",
+                  "text": "Tenavan playground in Lahti offers age-appropriate play equipment for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        25.713077,
+                        60.979009
+                  ]
+            },
+            {
+                  "name": "Esikkopuiston leikkialue",
+                  "text": "Esikkopuiston playground in Lahti invites families for a visit in a green area.",
+                  "category": "family",
+                  "coords": [
+                        25.661029,
+                        60.970275
+                  ]
+            },
+            {
+                  "name": "Suopuiston leikkialue",
+                  "text": "Suopuiston playground in Lahti is a popular spot for daily leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        25.678464,
+                        60.994444
+                  ]
+            },
+            {
+                  "name": "Lounaanpuiston leikkialue",
+                  "text": "Lounaanpuiston playground in Lahti offers a friendly atmosphere for families.",
+                  "category": "family",
+                  "coords": [
+                        25.698613,
+                        60.984854
                   ]
             }
       ]
@@ -8574,6 +12606,222 @@ export const finlandCities: POI[] = [
                         25.751753,
                         62.240111
                   ]
+            },
+            {
+                  "name": "Kaakkolampi",
+                  "text": "Der Kaakkolampi ist ein malerischer See in Jyväskylä, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        25.820235,
+                        62.268308
+                  ]
+            },
+            {
+                  "name": "Palokkajärvi",
+                  "text": "Der Palokkajärvi ist ein malerischer See in Jyväskylä, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        25.747211,
+                        62.273259
+                  ]
+            },
+            {
+                  "name": "Alvajärvi",
+                  "text": "Der Alvajärvi ist ein malerischer See in Jyväskylä, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        25.721117,
+                        62.313293
+                  ]
+            },
+            {
+                  "name": "Päijänne",
+                  "text": "Der Päijänne ist ein malerischer See in Jyväskylä, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        25.561191,
+                        61.704783
+                  ]
+            },
+            {
+                  "name": "Tuukkasenlampi",
+                  "text": "Der Tuukkasenlampi ist ein malerischer See in Jyväskylä, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        25.757893,
+                        62.262476
+                  ]
+            },
+            {
+                  "name": "Ristinolla",
+                  "text": "Der Spielplatz Ristinolla in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.753296,
+                        62.265427
+                  ]
+            },
+            {
+                  "name": "Tanhukaari 3A leikkipaikka",
+                  "text": "Der Spielplatz Tanhukaari 3A leikkipaikka in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.756212,
+                        62.227165
+                  ]
+            },
+            {
+                  "name": "Viitaniemen liikennepuisto",
+                  "text": "Der Spielplatz Viitaniemen liikennepuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.737067,
+                        62.252512
+                  ]
+            },
+            {
+                  "name": "Eevastiina",
+                  "text": "Der Spielplatz Eevastiina in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.742968,
+                        62.22161
+                  ]
+            },
+            {
+                  "name": "Tikanpesä Patikka",
+                  "text": "Der Spielplatz Tikanpesä Patikka in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.754094,
+                        62.220986
+                  ]
+            },
+            {
+                  "name": "Yrttisuon perhepuisto",
+                  "text": "Der Spielplatz Yrttisuon perhepuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.761396,
+                        62.223469
+                  ]
+            },
+            {
+                  "name": "Kypärämäenpuisto",
+                  "text": "Der Spielplatz Kypärämäenpuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.698122,
+                        62.236611
+                  ]
+            },
+            {
+                  "name": "Anttoninpuisto",
+                  "text": "Der Spielplatz Anttoninpuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.74747,
+                        62.264139
+                  ]
+            },
+            {
+                  "name": "Lohikosken toimintapuisto",
+                  "text": "Der Spielplatz Lohikosken toimintapuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.759418,
+                        62.266793
+                  ]
+            },
+            {
+                  "name": "Holstin korttelileikkipuisto",
+                  "text": "Der Spielplatz Holstin korttelileikkipuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.763786,
+                        62.257843
+                  ]
+            },
+            {
+                  "name": "Eilan puisto",
+                  "text": "Der Spielplatz Eilan puisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.73223,
+                        62.250688
+                  ]
+            },
+            {
+                  "name": "Suuruspään korttelipuisto",
+                  "text": "Der Spielplatz Suuruspään korttelipuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.77106,
+                        62.233342
+                  ]
+            },
+            {
+                  "name": "Huuhkaja",
+                  "text": "Der Spielplatz Huuhkaja in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.746879,
+                        62.218871
+                  ]
+            },
+            {
+                  "name": "Koskenkujan puisto",
+                  "text": "Der Spielplatz Koskenkujan puisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.753641,
+                        62.254844
+                  ]
+            },
+            {
+                  "name": "Kangasleikki",
+                  "text": "Der Spielplatz Kangasleikki in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.755968,
+                        62.251686
+                  ]
+            },
+            {
+                  "name": "Ilveksen perhepuisto",
+                  "text": "Der Spielplatz Ilveksen perhepuisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.803704,
+                        62.246321
+                  ]
+            },
+            {
+                  "name": "Tavi",
+                  "text": "Der Spielplatz Tavi in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.782759,
+                        62.245422
+                  ]
+            },
+            {
+                  "name": "Kankaanpuiston metsäleikkipaikka",
+                  "text": "Der Spielplatz Kankaanpuiston metsäleikkipaikka in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.756834,
+                        62.250318
+                  ]
+            },
+            {
+                  "name": "Esbjergin puisto",
+                  "text": "Der Spielplatz Esbjergin puisto in Jyväskylä ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        25.703458,
+                        62.249457
+                  ]
             }
       ],
       "hu": [
@@ -8980,6 +13228,222 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.751753,
                         62.240111
+                  ]
+            },
+            {
+                  "name": "Kaakkolampi",
+                  "text": "A(z) Kaakkolampi egy festői tó Jyväskylä városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.820235,
+                        62.268308
+                  ]
+            },
+            {
+                  "name": "Palokkajärvi",
+                  "text": "A(z) Palokkajärvi egy festői tó Jyväskylä városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.747211,
+                        62.273259
+                  ]
+            },
+            {
+                  "name": "Alvajärvi",
+                  "text": "A(z) Alvajärvi egy festői tó Jyväskylä városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.721117,
+                        62.313293
+                  ]
+            },
+            {
+                  "name": "Päijänne",
+                  "text": "A(z) Päijänne egy festői tó Jyväskylä városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.561191,
+                        61.704783
+                  ]
+            },
+            {
+                  "name": "Tuukkasenlampi",
+                  "text": "A(z) Tuukkasenlampi egy festői tó Jyväskylä városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.757893,
+                        62.262476
+                  ]
+            },
+            {
+                  "name": "Ristinolla",
+                  "text": "A(z) Jyväskylä városában található Ristinolla játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.753296,
+                        62.265427
+                  ]
+            },
+            {
+                  "name": "Tanhukaari 3A leikkipaikka",
+                  "text": "A(z) Jyväskylä városában található Tanhukaari 3A leikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.756212,
+                        62.227165
+                  ]
+            },
+            {
+                  "name": "Viitaniemen liikennepuisto",
+                  "text": "A(z) Jyväskylä városában található Viitaniemen liikennepuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.737067,
+                        62.252512
+                  ]
+            },
+            {
+                  "name": "Eevastiina",
+                  "text": "A(z) Jyväskylä városában található Eevastiina játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.742968,
+                        62.22161
+                  ]
+            },
+            {
+                  "name": "Tikanpesä Patikka",
+                  "text": "A(z) Jyväskylä városában található Tikanpesä Patikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.754094,
+                        62.220986
+                  ]
+            },
+            {
+                  "name": "Yrttisuon perhepuisto",
+                  "text": "A(z) Jyväskylä városában található Yrttisuon perhepuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.761396,
+                        62.223469
+                  ]
+            },
+            {
+                  "name": "Kypärämäenpuisto",
+                  "text": "A(z) Jyväskylä városában található Kypärämäenpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.698122,
+                        62.236611
+                  ]
+            },
+            {
+                  "name": "Anttoninpuisto",
+                  "text": "A(z) Jyväskylä városában található Anttoninpuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.74747,
+                        62.264139
+                  ]
+            },
+            {
+                  "name": "Lohikosken toimintapuisto",
+                  "text": "A(z) Jyväskylä városában található Lohikosken toimintapuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.759418,
+                        62.266793
+                  ]
+            },
+            {
+                  "name": "Holstin korttelileikkipuisto",
+                  "text": "A(z) Jyväskylä városában található Holstin korttelileikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.763786,
+                        62.257843
+                  ]
+            },
+            {
+                  "name": "Eilan puisto",
+                  "text": "A(z) Jyväskylä városában található Eilan puisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.73223,
+                        62.250688
+                  ]
+            },
+            {
+                  "name": "Suuruspään korttelipuisto",
+                  "text": "A(z) Jyväskylä városában található Suuruspään korttelipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.77106,
+                        62.233342
+                  ]
+            },
+            {
+                  "name": "Huuhkaja",
+                  "text": "A(z) Jyväskylä városában található Huuhkaja játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.746879,
+                        62.218871
+                  ]
+            },
+            {
+                  "name": "Koskenkujan puisto",
+                  "text": "A(z) Jyväskylä városában található Koskenkujan puisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.753641,
+                        62.254844
+                  ]
+            },
+            {
+                  "name": "Kangasleikki",
+                  "text": "A(z) Jyväskylä városában található Kangasleikki játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.755968,
+                        62.251686
+                  ]
+            },
+            {
+                  "name": "Ilveksen perhepuisto",
+                  "text": "A(z) Jyväskylä városában található Ilveksen perhepuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.803704,
+                        62.246321
+                  ]
+            },
+            {
+                  "name": "Tavi",
+                  "text": "A(z) Jyväskylä városában található Tavi játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.782759,
+                        62.245422
+                  ]
+            },
+            {
+                  "name": "Kankaanpuiston metsäleikkipaikka",
+                  "text": "A(z) Jyväskylä városában található Kankaanpuiston metsäleikkipaikka játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.756834,
+                        62.250318
+                  ]
+            },
+            {
+                  "name": "Esbjergin puisto",
+                  "text": "A(z) Jyväskylä városában található Esbjergin puisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.703458,
+                        62.249457
                   ]
             }
       ],
@@ -9388,6 +13852,222 @@ export const finlandCities: POI[] = [
                         25.751753,
                         62.240111
                   ]
+            },
+            {
+                  "name": "Kaakkolampi",
+                  "text": "Kaakkolampi este un lac pitoresc din Jyväskylä, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.820235,
+                        62.268308
+                  ]
+            },
+            {
+                  "name": "Palokkajärvi",
+                  "text": "Palokkajärvi este un lac pitoresc din Jyväskylä, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.747211,
+                        62.273259
+                  ]
+            },
+            {
+                  "name": "Alvajärvi",
+                  "text": "Alvajärvi este un lac pitoresc din Jyväskylä, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.721117,
+                        62.313293
+                  ]
+            },
+            {
+                  "name": "Päijänne",
+                  "text": "Päijänne este un lac pitoresc din Jyväskylä, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.561191,
+                        61.704783
+                  ]
+            },
+            {
+                  "name": "Tuukkasenlampi",
+                  "text": "Tuukkasenlampi este un lac pitoresc din Jyväskylä, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.757893,
+                        62.262476
+                  ]
+            },
+            {
+                  "name": "Ristinolla",
+                  "text": "Locul de joacă Ristinolla din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.753296,
+                        62.265427
+                  ]
+            },
+            {
+                  "name": "Tanhukaari 3A leikkipaikka",
+                  "text": "Locul de joacă Tanhukaari 3A leikkipaikka din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.756212,
+                        62.227165
+                  ]
+            },
+            {
+                  "name": "Viitaniemen liikennepuisto",
+                  "text": "Locul de joacă Viitaniemen liikennepuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.737067,
+                        62.252512
+                  ]
+            },
+            {
+                  "name": "Eevastiina",
+                  "text": "Locul de joacă Eevastiina din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.742968,
+                        62.22161
+                  ]
+            },
+            {
+                  "name": "Tikanpesä Patikka",
+                  "text": "Locul de joacă Tikanpesä Patikka din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.754094,
+                        62.220986
+                  ]
+            },
+            {
+                  "name": "Yrttisuon perhepuisto",
+                  "text": "Locul de joacă Yrttisuon perhepuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.761396,
+                        62.223469
+                  ]
+            },
+            {
+                  "name": "Kypärämäenpuisto",
+                  "text": "Locul de joacă Kypärämäenpuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.698122,
+                        62.236611
+                  ]
+            },
+            {
+                  "name": "Anttoninpuisto",
+                  "text": "Locul de joacă Anttoninpuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.74747,
+                        62.264139
+                  ]
+            },
+            {
+                  "name": "Lohikosken toimintapuisto",
+                  "text": "Locul de joacă Lohikosken toimintapuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.759418,
+                        62.266793
+                  ]
+            },
+            {
+                  "name": "Holstin korttelileikkipuisto",
+                  "text": "Locul de joacă Holstin korttelileikkipuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.763786,
+                        62.257843
+                  ]
+            },
+            {
+                  "name": "Eilan puisto",
+                  "text": "Locul de joacă Eilan puisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.73223,
+                        62.250688
+                  ]
+            },
+            {
+                  "name": "Suuruspään korttelipuisto",
+                  "text": "Locul de joacă Suuruspään korttelipuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.77106,
+                        62.233342
+                  ]
+            },
+            {
+                  "name": "Huuhkaja",
+                  "text": "Locul de joacă Huuhkaja din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.746879,
+                        62.218871
+                  ]
+            },
+            {
+                  "name": "Koskenkujan puisto",
+                  "text": "Locul de joacă Koskenkujan puisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.753641,
+                        62.254844
+                  ]
+            },
+            {
+                  "name": "Kangasleikki",
+                  "text": "Locul de joacă Kangasleikki din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.755968,
+                        62.251686
+                  ]
+            },
+            {
+                  "name": "Ilveksen perhepuisto",
+                  "text": "Locul de joacă Ilveksen perhepuisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.803704,
+                        62.246321
+                  ]
+            },
+            {
+                  "name": "Tavi",
+                  "text": "Locul de joacă Tavi din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.782759,
+                        62.245422
+                  ]
+            },
+            {
+                  "name": "Kankaanpuiston metsäleikkipaikka",
+                  "text": "Locul de joacă Kankaanpuiston metsäleikkipaikka din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.756834,
+                        62.250318
+                  ]
+            },
+            {
+                  "name": "Esbjergin puisto",
+                  "text": "Locul de joacă Esbjergin puisto din Jyväskylä este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.703458,
+                        62.249457
+                  ]
             }
       ],
       "en": [
@@ -9794,6 +14474,222 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.751753,
                         62.240111
+                  ]
+            },
+            {
+                  "name": "Kaakkolampi",
+                  "text": "Kaakkolampi is a scenic lake in Jyväskylä, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.820235,
+                        62.268308
+                  ]
+            },
+            {
+                  "name": "Palokkajärvi",
+                  "text": "Palokkajärvi is a scenic lake in Jyväskylä, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.747211,
+                        62.273259
+                  ]
+            },
+            {
+                  "name": "Alvajärvi",
+                  "text": "Alvajärvi is a scenic lake in Jyväskylä, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.721117,
+                        62.313293
+                  ]
+            },
+            {
+                  "name": "Päijänne",
+                  "text": "Päijänne is a scenic lake in Jyväskylä, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.561191,
+                        61.704783
+                  ]
+            },
+            {
+                  "name": "Tuukkasenlampi",
+                  "text": "Tuukkasenlampi is a scenic lake in Jyväskylä, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.757893,
+                        62.262476
+                  ]
+            },
+            {
+                  "name": "Ristinolla",
+                  "text": "The Ristinolla playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.753296,
+                        62.265427
+                  ]
+            },
+            {
+                  "name": "Tanhukaari 3A leikkipaikka",
+                  "text": "The Tanhukaari 3A leikkipaikka playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.756212,
+                        62.227165
+                  ]
+            },
+            {
+                  "name": "Viitaniemen liikennepuisto",
+                  "text": "The Viitaniemen liikennepuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.737067,
+                        62.252512
+                  ]
+            },
+            {
+                  "name": "Eevastiina",
+                  "text": "The Eevastiina playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.742968,
+                        62.22161
+                  ]
+            },
+            {
+                  "name": "Tikanpesä Patikka",
+                  "text": "The Tikanpesä Patikka playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.754094,
+                        62.220986
+                  ]
+            },
+            {
+                  "name": "Yrttisuon perhepuisto",
+                  "text": "The Yrttisuon perhepuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.761396,
+                        62.223469
+                  ]
+            },
+            {
+                  "name": "Kypärämäenpuisto",
+                  "text": "The Kypärämäenpuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.698122,
+                        62.236611
+                  ]
+            },
+            {
+                  "name": "Anttoninpuisto",
+                  "text": "The Anttoninpuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.74747,
+                        62.264139
+                  ]
+            },
+            {
+                  "name": "Lohikosken toimintapuisto",
+                  "text": "The Lohikosken toimintapuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.759418,
+                        62.266793
+                  ]
+            },
+            {
+                  "name": "Holstin korttelileikkipuisto",
+                  "text": "The Holstin korttelileikkipuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.763786,
+                        62.257843
+                  ]
+            },
+            {
+                  "name": "Eilan puisto",
+                  "text": "The Eilan puisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.73223,
+                        62.250688
+                  ]
+            },
+            {
+                  "name": "Suuruspään korttelipuisto",
+                  "text": "The Suuruspään korttelipuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.77106,
+                        62.233342
+                  ]
+            },
+            {
+                  "name": "Huuhkaja",
+                  "text": "The Huuhkaja playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.746879,
+                        62.218871
+                  ]
+            },
+            {
+                  "name": "Koskenkujan puisto",
+                  "text": "The Koskenkujan puisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.753641,
+                        62.254844
+                  ]
+            },
+            {
+                  "name": "Kangasleikki",
+                  "text": "The Kangasleikki playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.755968,
+                        62.251686
+                  ]
+            },
+            {
+                  "name": "Ilveksen perhepuisto",
+                  "text": "The Ilveksen perhepuisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.803704,
+                        62.246321
+                  ]
+            },
+            {
+                  "name": "Tavi",
+                  "text": "The Tavi playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.782759,
+                        62.245422
+                  ]
+            },
+            {
+                  "name": "Kankaanpuiston metsäleikkipaikka",
+                  "text": "The Kankaanpuiston metsäleikkipaikka playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.756834,
+                        62.250318
+                  ]
+            },
+            {
+                  "name": "Esbjergin puisto",
+                  "text": "The Esbjergin puisto playground in Jyväskylä is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        25.703458,
+                        62.249457
                   ]
             }
       ]
@@ -10247,6 +15143,132 @@ export const finlandCities: POI[] = [
                         27.643376,
                         62.902807
                   ]
+            },
+            {
+                  "name": "Iso-Valkeinen",
+                  "text": "Iso-Valkeinen ist ein ruhiger See in Kuopio, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.67967,
+                        62.928009
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Saarijärvi ist ein See in Kuopio, der eine friedliche Umgebung für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.694994,
+                        62.914518
+                  ]
+            },
+            {
+                  "name": "Kivilampi",
+                  "text": "Kivilampi ist ein kleinerer See in Kuopio, der zu einer ruhigen Zeit in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.646304,
+                        62.85936
+                  ]
+            },
+            {
+                  "name": "Neulalampi",
+                  "text": "Neulalampi ist ein See in Kuopio, bekannt für seine natürliche Schönheit und die umliegenden Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        27.608607,
+                        62.859553
+                  ]
+            },
+            {
+                  "name": "Kallavesi",
+                  "text": "Kallavesi ist ein großer und bedeutender See in Kuopio, der weite Ausblicke und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.662625,
+                        62.769917
+                  ]
+            },
+            {
+                  "name": "Pohjois-Kallavesi",
+                  "text": "Northern Kallavesi bietet weite Wasserflächen und eine ruhige Atmosphäre im Norden von Kuopio.",
+                  "category": "natural",
+                  "coords": [
+                        27.527834,
+                        62.937047
+                  ]
+            },
+            {
+                  "name": "Kolmisoppi",
+                  "text": "Kolmisoppi ist ein malerischer See in Kuopio, der sich gut für kurze Ausflüge ins Grüne eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.606566,
+                        62.869951
+                  ]
+            },
+            {
+                  "name": "Pelihuone Game Over",
+                  "text": "Pelihuone Game Over in Kuopio bietet verschiedene Arcade-Spiele und Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        27.676862,
+                        62.891245
+                  ]
+            },
+            {
+                  "name": "Pikku Kakkosen leikkipuisto",
+                  "text": "Pikku Kakkosen leikkipuisto in Kuopio ist ein beliebter und gut ausgestatteter Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        27.68611,
+                        62.887053
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "Traffic Park in Kuopio ist ein spezieller Spielplatz, auf dem Kinder spielerisch das Verhalten im Verkehr lernen.",
+                  "category": "family",
+                  "coords": [
+                        27.662062,
+                        62.89305
+                  ]
+            },
+            {
+                  "name": "Sopen puisto",
+                  "text": "Sopen puisto bietet einen angenehmen Spielbereich für Kinder in einer grünen Umgebung in Kuopio.",
+                  "category": "family",
+                  "coords": [
+                        27.630994,
+                        62.876815
+                  ]
+            },
+            {
+                  "name": "Itkonniemenpuisto",
+                  "text": "Itkonniemenpuisto in Kuopio ist ein schöner Ort für Familien, um Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        27.719774,
+                        62.898257
+                  ]
+            },
+            {
+                  "name": "Ajurinpuisto",
+                  "text": "Ajurinpuisto bietet Kindern in Kuopio einen sicheren Ort zum Spielen und Entdecken im Freien.",
+                  "category": "family",
+                  "coords": [
+                        27.67465,
+                        62.895378
+                  ]
+            },
+            {
+                  "name": "Rahusenkankaan leikkipuisto",
+                  "text": "Rahusenkankaan leikkipuisto ist ein moderner Spielplatz in Kuopio, der Kindern viel Freude bereitet.",
+                  "category": "family",
+                  "coords": [
+                        27.688073,
+                        62.913652
+                  ]
             }
       ],
       "hu": [
@@ -10653,6 +15675,132 @@ export const finlandCities: POI[] = [
                   "coords": [
                         27.643376,
                         62.902807
+                  ]
+            },
+            {
+                  "name": "Iso-Valkeinen",
+                  "text": "Az Iso-Valkeinen egy nyugodt tó Kuopio területén, ideális a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.67967,
+                        62.928009
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "A Saarijärvi egy tó Kuopio városában, amely békés környezetet kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.694994,
+                        62.914518
+                  ]
+            },
+            {
+                  "name": "Kivilampi",
+                  "text": "A Kivilampi egy kisebb tó Kuopio területén, amely nyugodt időtöltésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        27.646304,
+                        62.85936
+                  ]
+            },
+            {
+                  "name": "Neulalampi",
+                  "text": "A Neulalampi egy tó Kuopio városában, amely természetes szépségéről és a környező ösvényekről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.608607,
+                        62.859553
+                  ]
+            },
+            {
+                  "name": "Kallavesi",
+                  "text": "A Kallavesi egy nagy és jelentős tó Kuopio területén, amely tágas kilátást és természetélményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        27.662625,
+                        62.769917
+                  ]
+            },
+            {
+                  "name": "Pohjois-Kallavesi",
+                  "text": "Az északi Kallavesi tágas vízfelületeket és nyugodt légkört kínál Kuopio északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        27.527834,
+                        62.937047
+                  ]
+            },
+            {
+                  "name": "Kolmisoppi",
+                  "text": "A Kolmisoppi egy festői tó Kuopio területén, amely kiválóan alkalmas rövid kirándulásokhoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        27.606566,
+                        62.869951
+                  ]
+            },
+            {
+                  "name": "Pelihuone Game Over",
+                  "text": "A Pelihuone Game Over Kuopio városában különféle arcade játékokat és szórakozást kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        27.676862,
+                        62.891245
+                  ]
+            },
+            {
+                  "name": "Pikku Kakkosen leikkipuisto",
+                  "text": "A Pikku Kakkosen leikkipuisto Kuopio egyik népszerű és jól felszerelt játszótere a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.68611,
+                        62.887053
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "A Traffic Park Kuopio városában egy különleges játszótér, ahol a gyerekek játékosan tanulják a közlekedést.",
+                  "category": "family",
+                  "coords": [
+                        27.662062,
+                        62.89305
+                  ]
+            },
+            {
+                  "name": "Sopen puisto",
+                  "text": "A Sopen puisto kellemes játszóhelyet kínál a gyerekeknek zöld környezetben, Kuopio területén.",
+                  "category": "family",
+                  "coords": [
+                        27.630994,
+                        62.876815
+                  ]
+            },
+            {
+                  "name": "Itkonniemenpuisto",
+                  "text": "Az Itkonniemenpuisto Kuopio városában egy kedves hely a családoknak a szabadtéri időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        27.719774,
+                        62.898257
+                  ]
+            },
+            {
+                  "name": "Ajurinpuisto",
+                  "text": "Az Ajurinpuisto biztonságos helyet kínál a gyerekeknek a játékhoz és felfedezéshez Kuopio területén.",
+                  "category": "family",
+                  "coords": [
+                        27.67465,
+                        62.895378
+                  ]
+            },
+            {
+                  "name": "Rahusenkankaan leikkipuisto",
+                  "text": "A Rahusenkankaan leikkipuisto egy modern játszótér Kuopio városában, amely sok örömet okoz a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.688073,
+                        62.913652
                   ]
             }
       ],
@@ -11061,6 +16209,132 @@ export const finlandCities: POI[] = [
                         27.643376,
                         62.902807
                   ]
+            },
+            {
+                  "name": "Iso-Valkeinen",
+                  "text": "Iso-Valkeinen este un lac liniștit în Kuopio, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.67967,
+                        62.928009
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Saarijärvi este un lac în Kuopio, oferind un mediu pașnic pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.694994,
+                        62.914518
+                  ]
+            },
+            {
+                  "name": "Kivilampi",
+                  "text": "Kivilampi este un lac mai mic în Kuopio, care invită la momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.646304,
+                        62.85936
+                  ]
+            },
+            {
+                  "name": "Neulalampi",
+                  "text": "Neulalampi este un lac în Kuopio, cunoscut pentru frumusețea sa naturală și potecile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        27.608607,
+                        62.859553
+                  ]
+            },
+            {
+                  "name": "Kallavesi",
+                  "text": "Kallavesi este un lac mare și important în Kuopio, oferind vederi largi și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.662625,
+                        62.769917
+                  ]
+            },
+            {
+                  "name": "Pohjois-Kallavesi",
+                  "text": "Northern Kallavesi oferă suprafețe vaste de apă și o atmosferă liniștită în nordul Kuopio.",
+                  "category": "natural",
+                  "coords": [
+                        27.527834,
+                        62.937047
+                  ]
+            },
+            {
+                  "name": "Kolmisoppi",
+                  "text": "Kolmisoppi este un lac pitoresc în Kuopio, potrivit pentru scurte excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.606566,
+                        62.869951
+                  ]
+            },
+            {
+                  "name": "Pelihuone Game Over",
+                  "text": "Pelihuone Game Over din Kuopio oferă diverse jocuri arcade și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        27.676862,
+                        62.891245
+                  ]
+            },
+            {
+                  "name": "Pikku Kakkosen leikkipuisto",
+                  "text": "Pikku Kakkosen leikkipuisto din Kuopio este un loc de joacă popular și bine echipat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        27.68611,
+                        62.887053
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "Traffic Park din Kuopio este un loc de joacă special unde copiii învață despre trafic prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        27.662062,
+                        62.89305
+                  ]
+            },
+            {
+                  "name": "Sopen puisto",
+                  "text": "Sopen puisto oferă o zonă de joacă plăcută pentru copii într-un cadru verde din Kuopio.",
+                  "category": "family",
+                  "coords": [
+                        27.630994,
+                        62.876815
+                  ]
+            },
+            {
+                  "name": "Itkonniemenpuisto",
+                  "text": "Itkonniemenpuisto din Kuopio este un loc frumos pentru familii de a petrece timpul în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        27.719774,
+                        62.898257
+                  ]
+            },
+            {
+                  "name": "Ajurinpuisto",
+                  "text": "Ajurinpuisto oferă copiilor din Kuopio un loc sigur pentru joacă și explorare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        27.67465,
+                        62.895378
+                  ]
+            },
+            {
+                  "name": "Rahusenkankaan leikkipuisto",
+                  "text": "Rahusenkankaan leikkipuisto este un loc de joacă modern în Kuopio, care aduce multă bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        27.688073,
+                        62.913652
+                  ]
             }
       ],
       "en": [
@@ -11468,6 +16742,132 @@ export const finlandCities: POI[] = [
                         27.643376,
                         62.902807
                   ]
+            },
+            {
+                  "name": "Iso-Valkeinen",
+                  "text": "Iso-Valkeinen is a peaceful lake in Kuopio, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.67967,
+                        62.928009
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Saarijärvi is a lake in Kuopio, offering a peaceful environment for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        27.694994,
+                        62.914518
+                  ]
+            },
+            {
+                  "name": "Kivilampi",
+                  "text": "Kivilampi is a smaller lake in Kuopio, inviting a quiet time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.646304,
+                        62.85936
+                  ]
+            },
+            {
+                  "name": "Neulalampi",
+                  "text": "Neulalampi is a lake in Kuopio, known for its natural beauty and surrounding trails.",
+                  "category": "natural",
+                  "coords": [
+                        27.608607,
+                        62.859553
+                  ]
+            },
+            {
+                  "name": "Kallavesi",
+                  "text": "Kallavesi is a large and significant lake in Kuopio, offering vast views and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        27.662625,
+                        62.769917
+                  ]
+            },
+            {
+                  "name": "Northern Kallavesi",
+                  "text": "Northern Kallavesi offers wide water areas and a calm atmosphere in the north of Kuopio.",
+                  "category": "natural",
+                  "coords": [
+                        27.527834,
+                        62.937047
+                  ]
+            },
+            {
+                  "name": "Kolmisoppi",
+                  "text": "Kolmisoppi is a scenic lake in Kuopio, well-suited for short trips into nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.606566,
+                        62.869951
+                  ]
+            },
+            {
+                  "name": "Pelihuone Game Over",
+                  "text": "Pelihuone Game Over in Kuopio offers various arcade games and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        27.676862,
+                        62.891245
+                  ]
+            },
+            {
+                  "name": "Pikku Kakkosen leikkipuisto",
+                  "text": "Pikku Kakkosen leikkipuisto in Kuopio is a popular and well-equipped playground for children.",
+                  "category": "family",
+                  "coords": [
+                        27.68611,
+                        62.887053
+                  ]
+            },
+            {
+                  "name": "Traffic Park",
+                  "text": "Traffic Park in Kuopio is a special playground where children learn about traffic rules while playing.",
+                  "category": "family",
+                  "coords": [
+                        27.662062,
+                        62.89305
+                  ]
+            },
+            {
+                  "name": "Sopen puisto",
+                  "text": "Sopen puisto offers a pleasant play area for children in a green setting in Kuopio.",
+                  "category": "family",
+                  "coords": [
+                        27.630994,
+                        62.876815
+                  ]
+            },
+            {
+                  "name": "Itkonniemenpuisto",
+                  "text": "Itkonniemenpuisto in Kuopio is a lovely spot for families to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        27.719774,
+                        62.898257
+                  ]
+            },
+            {
+                  "name": "Ajurinpuisto",
+                  "text": "Ajurinpuisto offers children in Kuopio a safe place to play and explore outdoors.",
+                  "category": "family",
+                  "coords": [
+                        27.67465,
+                        62.895378
+                  ]
+            },
+            {
+                  "name": "Rahusenkankaan leikkipuisto",
+                  "text": "Rahusenkankaan leikkipuisto is a modern playground in Kuopio that brings much joy to children.",
+                  "category": "family",
+                  "coords": [
+                        27.688073,
+                        62.913652
+                  ]
             }
       ]
 },
@@ -11514,7 +16914,556 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-joensuu",
+    id: "city-joensuu", "sights": {
+      "de": [
+            {
+                  "name": "Ukonlampi",
+                  "text": "Der Ukonlampi ist ein See in Joensuu, der eine ruhige Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.812014,
+                        62.665163
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Der Saimaa ist ein riesiges Seensystem in Joensuu, ideal für vielfältige Wasseraktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Kuntokeidas",
+                  "text": "Kuntokeidas in Joensuu bietet Minigolf und andere Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        29.736152,
+                        62.599503
+                  ]
+            },
+            {
+                  "name": "Golfaa.fi",
+                  "text": "Golfaa.fi in Joensuu bietet digitale Golf-Unterhaltung für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        29.763148,
+                        62.604122
+                  ]
+            },
+            {
+                  "name": "Hohtominigolf Joensuu",
+                  "text": "Hohtominigolf Joensuu bietet ein besonderes Minigolf-Erlebnis in leuchtendem Ambiente.",
+                  "category": "family",
+                  "coords": [
+                        29.760397,
+                        62.601115
+                  ]
+            },
+            {
+                  "name": "Vekarapuisto",
+                  "text": "Der Vekarapuisto in Joensuu ist ein Park mit Spielbereichen, die ideal für Kinder sind.",
+                  "category": "family",
+                  "coords": [
+                        29.747137,
+                        62.602184
+                  ]
+            },
+            {
+                  "name": "Ystävyydenpuisto",
+                  "text": "Der Spielplatz Ystävyydenpuisto in Joensuu ist ein Treffpunkt für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        29.751462,
+                        62.602618
+                  ]
+            },
+            {
+                  "name": "Ollinpuisto",
+                  "text": "Der Spielplatz Ollinpuisto in Joensuu bietet eine sichere Umgebung für Spielspaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        29.797338,
+                        62.622747
+                  ]
+            },
+            {
+                  "name": "Hasaniemen leikkipaikka",
+                  "text": "Der Spielplatz Hasaniemen in Joensuu lädt zum Spielen in einer naturnahen Umgebung ein.",
+                  "category": "family",
+                  "coords": [
+                        29.737631,
+                        62.591431
+                  ]
+            },
+            {
+                  "name": "Pajumäenpuisto",
+                  "text": "Der Pajumäenpuisto in Joensuu ist ein beliebter Park mit Spielmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        29.763437,
+                        62.592338
+                  ]
+            },
+            {
+                  "name": "Yliopistokadun leikkipaikka",
+                  "text": "Der Spielplatz Yliopistokadun in Joensuu bietet Kindern Abwechslung vom Stadtalltag.",
+                  "category": "family",
+                  "coords": [
+                        29.740726,
+                        62.607946
+                  ]
+            },
+            {
+                  "name": "Kirvunpuiston leikkipuisto",
+                  "text": "Der Kirvunpuiston leikkipuisto in Joensuu ist ein gut ausgestatteter Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        29.801095,
+                        62.588797
+                  ]
+            },
+            {
+                  "name": "Martinpuiston leikkipaikka",
+                  "text": "Der Spielplatz Martinpuiston in Joensuu bietet Kindern verschiedene Spielgeräte im Freien.",
+                  "category": "family",
+                  "coords": [
+                        29.728151,
+                        62.60669
+                  ]
+            },
+            {
+                  "name": "Iivolanpuisto",
+                  "text": "Der Iivolanpuisto in Joensuu ist ein familienfreundlicher Park mit Raum für Spiel und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        29.792127,
+                        62.614132
+                  ]
+            },
+            {
+                  "name": "Porkkatie playground",
+                  "text": "Der Spielplatz Porkkatie in Joensuu bietet eine angenehme Atmosphäre für Kinder und Eltern.",
+                  "category": "family",
+                  "coords": [
+                        29.805105,
+                        62.585535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukonlampi",
+                  "text": "Az Ukonlampi egy tó Joensuu területén, amely csendes környezetet kínál a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        29.812014,
+                        62.665163
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "A Saimaa egy hatalmas tórendszer Joensuu környékén, ideális a különféle vízi tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Kuntokeidas",
+                  "text": "A Kuntokeidas Joensuuban minigolfot és egyéb szabadidős tevékenységeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        29.736152,
+                        62.599503
+                  ]
+            },
+            {
+                  "name": "Golfaa.fi",
+                  "text": "A Golfaa.fi Joensuuban digitális golfszórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        29.763148,
+                        62.604122
+                  ]
+            },
+            {
+                  "name": "Hohtominigolf Joensuu",
+                  "text": "A Hohtominigolf Joensuu különleges minigolf élményt kínál világító környezetben.",
+                  "category": "family",
+                  "coords": [
+                        29.760397,
+                        62.601115
+                  ]
+            },
+            {
+                  "name": "Vekarapuisto",
+                  "text": "A Vekarapuisto Joensuuban egy park játékterekkel, amelyek ideálisak a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        29.747137,
+                        62.602184
+                  ]
+            },
+            {
+                  "name": "Ystävyydenpuisto",
+                  "text": "Az Ystävyydenpuisto játszótér Joensuuban találkozóhely a gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        29.751462,
+                        62.602618
+                  ]
+            },
+            {
+                  "name": "Ollinpuisto",
+                  "text": "Az Ollinpuisto játszótér Joensuuban biztonságos környezetet nyújt a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        29.797338,
+                        62.622747
+                  ]
+            },
+            {
+                  "name": "Hasaniemen leikkipaikka",
+                  "text": "A Hasaniemen játszótér Joensuuban játékra hív a természethez közeli környezetben.",
+                  "category": "family",
+                  "coords": [
+                        29.737631,
+                        62.591431
+                  ]
+            },
+            {
+                  "name": "Pajumäenpuisto",
+                  "text": "A Pajumäenpuisto Joensuuban egy népszerű park játéklehetőségekkel a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        29.763437,
+                        62.592338
+                  ]
+            },
+            {
+                  "name": "Yliopistokadun leikkipaikka",
+                  "text": "Az Yliopistokadun játszótér Joensuuban változatosságot kínál a gyerekeknek a városi mindennapokból.",
+                  "category": "family",
+                  "coords": [
+                        29.740726,
+                        62.607946
+                  ]
+            },
+            {
+                  "name": "Kirvunpuiston leikkipuisto",
+                  "text": "A Kirvunpuiston játszótér Joensuuban egy jól felszerelt hely a játékhoz és mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        29.801095,
+                        62.588797
+                  ]
+            },
+            {
+                  "name": "Martinpuiston leikkipaikka",
+                  "text": "A Martinpuiston játszótér Joensuuban különféle szabadtéri játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        29.728151,
+                        62.60669
+                  ]
+            },
+            {
+                  "name": "Iivolanpuisto",
+                  "text": "Az Iivolanpuisto Joensuuban egy családbarát park, ahol hely van a játéknak és a pihenésnek.",
+                  "category": "family",
+                  "coords": [
+                        29.792127,
+                        62.614132
+                  ]
+            },
+            {
+                  "name": "Porkkatie playground",
+                  "text": "A Porkkatie játszótér Joensuuban kellemes légkört biztosít a gyerekeknek és a szülőknek.",
+                  "category": "family",
+                  "coords": [
+                        29.805105,
+                        62.585535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukonlampi",
+                  "text": "Ukonlampi este un lac din Joensuu, oferind un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.812014,
+                        62.665163
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Saimaa este un sistem vast de lacuri din Joensuu, ideal pentru diverse activități acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Kuntokeidas",
+                  "text": "Kuntokeidas din Joensuu oferă minigolf și alte activități recreative pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        29.736152,
+                        62.599503
+                  ]
+            },
+            {
+                  "name": "Golfaa.fi",
+                  "text": "Golfaa.fi din Joensuu oferă divertisment digital de golf pentru vizitatori de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        29.763148,
+                        62.604122
+                  ]
+            },
+            {
+                  "name": "Hohtominigolf Joensuu",
+                  "text": "Hohtominigolf Joensuu oferă o experiență specială de minigolf într-o ambianță luminoasă.",
+                  "category": "family",
+                  "coords": [
+                        29.760397,
+                        62.601115
+                  ]
+            },
+            {
+                  "name": "Vekarapuisto",
+                  "text": "Vekarapuisto din Joensuu este un parc cu zone de joacă ideale pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        29.747137,
+                        62.602184
+                  ]
+            },
+            {
+                  "name": "Ystävyydenpuisto",
+                  "text": "Locul de joacă Ystävyydenpuisto din Joensuu este un punct de întâlnire pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        29.751462,
+                        62.602618
+                  ]
+            },
+            {
+                  "name": "Ollinpuisto",
+                  "text": "Locul de joacă Ollinpuisto din Joensuu oferă un mediu sigur pentru distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        29.797338,
+                        62.622747
+                  ]
+            },
+            {
+                  "name": "Hasaniemen leikkipaikka",
+                  "text": "Locul de joacă Hasaniemen din Joensuu invită la joacă într-un mediu apropiat de natură.",
+                  "category": "family",
+                  "coords": [
+                        29.737631,
+                        62.591431
+                  ]
+            },
+            {
+                  "name": "Pajumäenpuisto",
+                  "text": "Pajumäenpuisto din Joensuu este un parc popular cu facilități de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        29.763437,
+                        62.592338
+                  ]
+            },
+            {
+                  "name": "Yliopistokadun leikkipaikka",
+                  "text": "Locul de joacă Yliopistokadun din Joensuu oferă copiilor o alternativă la rutina urbană.",
+                  "category": "family",
+                  "coords": [
+                        29.740726,
+                        62.607946
+                  ]
+            },
+            {
+                  "name": "Kirvunpuiston leikkipuisto",
+                  "text": "Locul de joacă Kirvunpuiston din Joensuu este un spațiu bine echipat pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        29.801095,
+                        62.588797
+                  ]
+            },
+            {
+                  "name": "Martinpuiston leikkipaikka",
+                  "text": "Locul de joacă Martinpuiston din Joensuu oferă copiilor diverse echipamente de joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        29.728151,
+                        62.60669
+                  ]
+            },
+            {
+                  "name": "Iivolanpuisto",
+                  "text": "Iivolanpuisto din Joensuu este un parc prietenos pentru familii, cu spațiu pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        29.792127,
+                        62.614132
+                  ]
+            },
+            {
+                  "name": "Porkkatie playground",
+                  "text": "Locul de joacă Porkkatie din Joensuu oferă o atmosferă plăcută pentru copii și părinți.",
+                  "category": "family",
+                  "coords": [
+                        29.805105,
+                        62.585535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukonlampi",
+                  "text": "Ukonlampi is a lake in Joensuu, offering a quiet environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        29.812014,
+                        62.665163
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Saimaa is a vast lake system in Joensuu, ideal for various water activities.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Kuntokeidas",
+                  "text": "Kuntokeidas in Joensuu offers minigolf and other leisure activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        29.736152,
+                        62.599503
+                  ]
+            },
+            {
+                  "name": "Golfaa.fi",
+                  "text": "Golfaa.fi in Joensuu offers digital golf entertainment for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        29.763148,
+                        62.604122
+                  ]
+            },
+            {
+                  "name": "Hohtominigolf Joensuu",
+                  "text": "Hohtominigolf Joensuu offers a special minigolf experience in a glowing environment.",
+                  "category": "family",
+                  "coords": [
+                        29.760397,
+                        62.601115
+                  ]
+            },
+            {
+                  "name": "Vekarapuisto",
+                  "text": "Vekarapuisto in Joensuu is a park with play areas that are ideal for children.",
+                  "category": "family",
+                  "coords": [
+                        29.747137,
+                        62.602184
+                  ]
+            },
+            {
+                  "name": "Ystävyydenpuisto",
+                  "text": "Ystävyydenpuisto playground in Joensuu is a meeting spot for children and families.",
+                  "category": "family",
+                  "coords": [
+                        29.751462,
+                        62.602618
+                  ]
+            },
+            {
+                  "name": "Ollinpuisto",
+                  "text": "Ollinpuisto playground in Joensuu offers a safe environment for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        29.797338,
+                        62.622747
+                  ]
+            },
+            {
+                  "name": "Hasaniemen leikkipaikka",
+                  "text": "Hasaniemen playground in Joensuu invites children to play in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        29.737631,
+                        62.591431
+                  ]
+            },
+            {
+                  "name": "Pajumäenpuisto",
+                  "text": "Pajumäenpuisto in Joensuu is a popular park with play facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        29.763437,
+                        62.592338
+                  ]
+            },
+            {
+                  "name": "Yliopistokadun leikkipaikka",
+                  "text": "Yliopistokadun playground in Joensuu offers children a break from the urban routine.",
+                  "category": "family",
+                  "coords": [
+                        29.740726,
+                        62.607946
+                  ]
+            },
+            {
+                  "name": "Kirvunpuiston leikkipuisto",
+                  "text": "Kirvunpuiston playground in Joensuu is a well-equipped area for children to play.",
+                  "category": "family",
+                  "coords": [
+                        29.801095,
+                        62.588797
+                  ]
+            },
+            {
+                  "name": "Martinpuiston leikkipaikka",
+                  "text": "Martinpuiston playground in Joensuu offers children various outdoor play equipment.",
+                  "category": "family",
+                  "coords": [
+                        29.728151,
+                        62.60669
+                  ]
+            },
+            {
+                  "name": "Iivolanpuisto",
+                  "text": "Iivolanpuisto in Joensuu is a family-friendly park with room for play and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        29.792127,
+                        62.614132
+                  ]
+            },
+            {
+                  "name": "Porkkatie playground",
+                  "text": "Porkkatie playground in Joensuu offers a pleasant atmosphere for children and parents.",
+                  "category": "family",
+                  "coords": [
+                        29.805105,
+                        62.585535
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [29.7636, 62.6015],
@@ -11946,6 +17895,60 @@ export const finlandCities: POI[] = [
                         21.610135,
                         63.094737
                   ]
+            },
+            {
+                  "name": "Månttun",
+                  "text": "Der Månttun ist ein malerischer See in Vaasa, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        21.532561,
+                        63.07556
+                  ]
+            },
+            {
+                  "name": "Härkänträsket",
+                  "text": "Der Härkänträsket ist ein malerischer See in Vaasa, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        21.479805,
+                        63.055892
+                  ]
+            },
+            {
+                  "name": "Onkilahden toimintapuiston leikkialue",
+                  "text": "Der Spielplatz Onkilahden toimintapuiston leikkialue in Vaasa ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.612162,
+                        63.105875
+                  ]
+            },
+            {
+                  "name": "Loutsinkadun leikkialue",
+                  "text": "Der Spielplatz Loutsinkadun leikkialue in Vaasa ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.587827,
+                        63.110476
+                  ]
+            },
+            {
+                  "name": "Edvininpolun leikkialue",
+                  "text": "Der Spielplatz Edvininpolun leikkialue in Vaasa ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.668937,
+                        63.107301
+                  ]
+            },
+            {
+                  "name": "Botnia Minigolf",
+                  "text": "Botnia Minigolf in Vaasa bietet ein unterhaltsames Minigolf-Erlebnis für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        21.580349,
+                        63.098281
+                  ]
             }
       ],
       "hu": [
@@ -12334,6 +18337,60 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.610135,
                         63.094737
+                  ]
+            },
+            {
+                  "name": "Månttun",
+                  "text": "A(z) Månttun egy festői tó Vaasa városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.532561,
+                        63.07556
+                  ]
+            },
+            {
+                  "name": "Härkänträsket",
+                  "text": "A(z) Härkänträsket egy festői tó Vaasa városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        21.479805,
+                        63.055892
+                  ]
+            },
+            {
+                  "name": "Onkilahden toimintapuiston leikkialue",
+                  "text": "A(z) Vaasa városában található Onkilahden toimintapuiston leikkialue játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.612162,
+                        63.105875
+                  ]
+            },
+            {
+                  "name": "Loutsinkadun leikkialue",
+                  "text": "A(z) Vaasa városában található Loutsinkadun leikkialue játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.587827,
+                        63.110476
+                  ]
+            },
+            {
+                  "name": "Edvininpolun leikkialue",
+                  "text": "A(z) Vaasa városában található Edvininpolun leikkialue játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.668937,
+                        63.107301
+                  ]
+            },
+            {
+                  "name": "Botnia Minigolf",
+                  "text": "A(z) Botnia Minigolf Vaasa városában szórakoztató minigolf-élményt kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        21.580349,
+                        63.098281
                   ]
             }
       ],
@@ -12724,6 +18781,60 @@ export const finlandCities: POI[] = [
                         21.610135,
                         63.094737
                   ]
+            },
+            {
+                  "name": "Månttun",
+                  "text": "Månttun este un lac pitoresc din Vaasa, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.532561,
+                        63.07556
+                  ]
+            },
+            {
+                  "name": "Härkänträsket",
+                  "text": "Härkänträsket este un lac pitoresc din Vaasa, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.479805,
+                        63.055892
+                  ]
+            },
+            {
+                  "name": "Onkilahden toimintapuiston leikkialue",
+                  "text": "Locul de joacă Onkilahden toimintapuiston leikkialue din Vaasa este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        21.612162,
+                        63.105875
+                  ]
+            },
+            {
+                  "name": "Loutsinkadun leikkialue",
+                  "text": "Locul de joacă Loutsinkadun leikkialue din Vaasa este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        21.587827,
+                        63.110476
+                  ]
+            },
+            {
+                  "name": "Edvininpolun leikkialue",
+                  "text": "Locul de joacă Edvininpolun leikkialue din Vaasa este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        21.668937,
+                        63.107301
+                  ]
+            },
+            {
+                  "name": "Botnia Minigolf",
+                  "text": "Botnia Minigolf din Vaasa oferă o experiență distractivă de minigolf pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        21.580349,
+                        63.098281
+                  ]
             }
       ],
       "en": [
@@ -13112,6 +19223,60 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.610135,
                         63.094737
+                  ]
+            },
+            {
+                  "name": "Månttun",
+                  "text": "Månttun is a scenic lake in Vaasa, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.532561,
+                        63.07556
+                  ]
+            },
+            {
+                  "name": "Härkänträsket",
+                  "text": "Härkänträsket is a scenic lake in Vaasa, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.479805,
+                        63.055892
+                  ]
+            },
+            {
+                  "name": "Onkilahden toimintapuiston leikkialue",
+                  "text": "The Onkilahden toimintapuiston leikkialue playground in Vaasa is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        21.612162,
+                        63.105875
+                  ]
+            },
+            {
+                  "name": "Loutsinkadun leikkialue",
+                  "text": "The Loutsinkadun leikkialue playground in Vaasa is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        21.587827,
+                        63.110476
+                  ]
+            },
+            {
+                  "name": "Edvininpolun leikkialue",
+                  "text": "The Edvininpolun leikkialue playground in Vaasa is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        21.668937,
+                        63.107301
+                  ]
+            },
+            {
+                  "name": "Botnia Minigolf",
+                  "text": "Botnia Minigolf in Vaasa offers a fun minigolf experience for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        21.580349,
+                        63.098281
                   ]
             }
       ]
@@ -15947,6 +22112,105 @@ export const finlandCities: POI[] = [
                         25.708358,
                         66.498429
                   ]
+            },
+            {
+                  "name": "Rautiojärvi",
+                  "text": "Rautiojärvi ist ein See in Rovaniemi, der eine friedliche Kulisse für Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.714751,
+                        66.450856
+                  ]
+            },
+            {
+                  "name": "Keinuvuopaja",
+                  "text": "Keinuvuopaja ist ein See in Rovaniemi, ideal für ruhige Spaziergänge und zum Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.764827,
+                        66.486601
+                  ]
+            },
+            {
+                  "name": "Pöyliöjärvi",
+                  "text": "Pöyliöjärvi ist ein malerischer See in Rovaniemi, der zu jeder Jahreszeit eine schöne Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.791432,
+                        66.454413
+                  ]
+            },
+            {
+                  "name": "Toramojärvi",
+                  "text": "Toramojärvi ist ein See in Rovaniemi, der für seine ruhige Lage und die natürliche Umgebung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.879059,
+                        66.474511
+                  ]
+            },
+            {
+                  "name": "Salmijärvi",
+                  "text": "Salmijärvi in Rovaniemi bietet eine entspannte Atmosphäre am Wasser für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        25.771985,
+                        66.480994
+                  ]
+            },
+            {
+                  "name": "RolloHalli",
+                  "text": "RolloHalli in Rovaniemi ist ein Indoor-Trampolinpark, der aktiven Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.782983,
+                        66.518718
+                  ]
+            },
+            {
+                  "name": "Angry Birds -leikkipuisto",
+                  "text": "Angry Birds Park in Rovaniemi ist ein thematisierter Spielplatz, der viel Spaß für Kinder und Fans bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.733561,
+                        66.498025
+                  ]
+            },
+            {
+                  "name": "Lainaanpuiston leikkipaikka",
+                  "text": "Lainaanpuiston leikkipaikka ist ein schön gelegener Spielplatz in Rovaniemi für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        25.733989,
+                        66.50732
+                  ]
+            },
+            {
+                  "name": "Luiron Puisto",
+                  "text": "Luiron Puisto bietet Kindern in Rovaniemi einen abwechslungsreichen Spielbereich an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        25.701232,
+                        66.484461
+                  ]
+            },
+            {
+                  "name": "Vanhan torin leikkipaikka",
+                  "text": "Vanhan torin leikkipaikka ist ein zentral gelegener Spielplatz in Rovaniemi, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.734204,
+                        66.504796
+                  ]
+            },
+            {
+                  "name": "Tievapuiston leikkipaikka",
+                  "text": "Tievapuiston leikkipaikka in Rovaniemi bietet Kindern Raum für Bewegung und Spiel im Freien.",
+                  "category": "family",
+                  "coords": [
+                        25.698962,
+                        66.500212
+                  ]
             }
       ],
       "hu": [
@@ -16128,6 +22392,105 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.708358,
                         66.498429
+                  ]
+            },
+            {
+                  "name": "Rautiojärvi",
+                  "text": "A Rautiojärvi egy tó Rovaniemiben, amely békés helyszínt biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.714751,
+                        66.450856
+                  ]
+            },
+            {
+                  "name": "Keinuvuopaja",
+                  "text": "A Keinuvuopaja egy tó Rovaniemi területén, ideális csendes sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.764827,
+                        66.486601
+                  ]
+            },
+            {
+                  "name": "Pöyliöjärvi",
+                  "text": "A Pöyliöjärvi egy festői tó Rovaniemiben, amely minden évszakban szép természeti környezetet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.791432,
+                        66.454413
+                  ]
+            },
+            {
+                  "name": "Toramojärvi",
+                  "text": "A Toramojärvi egy tó Rovaniemi városában, amelyet nyugodt fekvése és természetes környezete miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        25.879059,
+                        66.474511
+                  ]
+            },
+            {
+                  "name": "Salmijärvi",
+                  "text": "A Salmijärvi Rovaniemiben pihentető vízparti légkört kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.771985,
+                        66.480994
+                  ]
+            },
+            {
+                  "name": "RolloHalli",
+                  "text": "A RolloHalli Rovaniemiben egy fedett trambulinpark, amely aktív szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        25.782983,
+                        66.518718
+                  ]
+            },
+            {
+                  "name": "Angry Birds -leikkipuisto",
+                  "text": "Az Angry Birds Park Rovaniemiben egy tematikus játszótér, amely sok szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.733561,
+                        66.498025
+                  ]
+            },
+            {
+                  "name": "Lainaanpuiston leikkipaikka",
+                  "text": "A Lainaanpuiston leikkipaikka egy szépen elhelyezkedő játszótér Rovaniemiben a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        25.733989,
+                        66.50732
+                  ]
+            },
+            {
+                  "name": "Luiron Puisto",
+                  "text": "A Luiron Puisto változatos szabadtéri játszóhelyet kínál a gyerekeknek Rovaniemi városában.",
+                  "category": "family",
+                  "coords": [
+                        25.701232,
+                        66.484461
+                  ]
+            },
+            {
+                  "name": "Vanhan torin leikkipaikka",
+                  "text": "A Vanhan torin leikkipaikka egy központi játszótér Rovaniemiben, amely ideális a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.734204,
+                        66.504796
+                  ]
+            },
+            {
+                  "name": "Tievapuiston leikkipaikka",
+                  "text": "A Tievapuiston leikkipaikka Rovaniemiben teret kínál a gyerekeknek a szabadtéri mozgáshoz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.698962,
+                        66.500212
                   ]
             }
       ],
@@ -16311,6 +22674,105 @@ export const finlandCities: POI[] = [
                         25.708358,
                         66.498429
                   ]
+            },
+            {
+                  "name": "Rautiojärvi",
+                  "text": "Rautiojärvi este un lac în Rovaniemi, oferind un cadru pașnic pentru experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.714751,
+                        66.450856
+                  ]
+            },
+            {
+                  "name": "Keinuvuopaja",
+                  "text": "Keinuvuopaja este un lac în Rovaniemi, ideal pentru plimbări liniștite și pentru a savura peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        25.764827,
+                        66.486601
+                  ]
+            },
+            {
+                  "name": "Pöyliöjärvi",
+                  "text": "Pöyliöjärvi este un lac pitoresc în Rovaniemi, oferind un cadru natural frumos în orice anotimp.",
+                  "category": "natural",
+                  "coords": [
+                        25.791432,
+                        66.454413
+                  ]
+            },
+            {
+                  "name": "Toramojärvi",
+                  "text": "Toramojärvi este un lac în Rovaniemi, apreciat pentru locația sa liniștită și mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        25.879059,
+                        66.474511
+                  ]
+            },
+            {
+                  "name": "Salmijärvi",
+                  "text": "Salmijärvi din Rovaniemi oferă o atmosferă relaxantă pe malul apei pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.771985,
+                        66.480994
+                  ]
+            },
+            {
+                  "name": "RolloHalli",
+                  "text": "RolloHalli din Rovaniemi este un parc de trambuline acoperit, oferind distracție activă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        25.782983,
+                        66.518718
+                  ]
+            },
+            {
+                  "name": "Angry Birds -leikkipuisto",
+                  "text": "Angry Birds Park din Rovaniemi este un loc de joacă tematic, oferind multă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.733561,
+                        66.498025
+                  ]
+            },
+            {
+                  "name": "Lainaanpuiston leikkipaikka",
+                  "text": "Lainaanpuiston leikkipaikka este un loc de joacă frumos situat în Rovaniemi pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.733989,
+                        66.50732
+                  ]
+            },
+            {
+                  "name": "Luiron Puisto",
+                  "text": "Luiron Puisto oferă copiilor din Rovaniemi o zonă de joacă variată în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        25.701232,
+                        66.484461
+                  ]
+            },
+            {
+                  "name": "Vanhan torin leikkipaikka",
+                  "text": "Vanhan torin leikkipaikka este un loc de joacă situat central în Rovaniemi, ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.734204,
+                        66.504796
+                  ]
+            },
+            {
+                  "name": "Tievapuiston leikkipaikka",
+                  "text": "Tievapuiston leikkipaikka din Rovaniemi oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        25.698962,
+                        66.500212
+                  ]
             }
       ],
       "en": [
@@ -16492,6 +22954,105 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.708358,
                         66.498429
+                  ]
+            },
+            {
+                  "name": "Rautiojärvi",
+                  "text": "Rautiojärvi is a lake in Rovaniemi, providing a peaceful setting for nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        25.714751,
+                        66.450856
+                  ]
+            },
+            {
+                  "name": "Keinuvuopaja",
+                  "text": "Keinuvuopaja is a lake in Rovaniemi, ideal for quiet walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.764827,
+                        66.486601
+                  ]
+            },
+            {
+                  "name": "Pöyliöjärvi",
+                  "text": "Pöyliöjärvi is a scenic lake in Rovaniemi, offering a beautiful natural setting in all seasons.",
+                  "category": "natural",
+                  "coords": [
+                        25.791432,
+                        66.454413
+                  ]
+            },
+            {
+                  "name": "Toramojärvi",
+                  "text": "Toramojärvi is a lake in Rovaniemi, valued for its quiet location and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.879059,
+                        66.474511
+                  ]
+            },
+            {
+                  "name": "Salmijärvi",
+                  "text": "Salmijärvi in Rovaniemi offers a relaxing waterfront atmosphere for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.771985,
+                        66.480994
+                  ]
+            },
+            {
+                  "name": "RolloHalli",
+                  "text": "RolloHalli in Rovaniemi is an indoor trampoline park providing active fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        25.782983,
+                        66.518718
+                  ]
+            },
+            {
+                  "name": "Angry Birds Park",
+                  "text": "Angry Birds Park in Rovaniemi is a themed playground offering lots of fun for children.",
+                  "category": "family",
+                  "coords": [
+                        25.733561,
+                        66.498025
+                  ]
+            },
+            {
+                  "name": "Lainaanpuiston leikkipaikka",
+                  "text": "Lainaanpuiston leikkipaikka is a nicely located playground in Rovaniemi for children.",
+                  "category": "family",
+                  "coords": [
+                        25.733989,
+                        66.50732
+                  ]
+            },
+            {
+                  "name": "Luiron Puisto",
+                  "text": "Luiron Puisto offers children in Rovaniemi a varied play area in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        25.701232,
+                        66.484461
+                  ]
+            },
+            {
+                  "name": "Vanhan torin leikkipaikka",
+                  "text": "Vanhan torin leikkipaikka is a centrally located playground in Rovaniemi, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        25.734204,
+                        66.504796
+                  ]
+            },
+            {
+                  "name": "Tievapuiston leikkipaikka",
+                  "text": "Tievapuiston leikkipaikka in Rovaniemi offers children space for movement and outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        25.698962,
+                        66.500212
                   ]
             }
       ]
@@ -19569,6 +26130,150 @@ export const finlandNatureExtended: POI[] = [
                         19.940477,
                         60.089987
                   ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Der Torpfjärden ist ein See in Mariehamn, der durch seine natürliche Schönheit besticht.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Der Byträsk ist ein See in Mariehamn, der eine ruhige Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Der Dalkarby Träsk ist ein See in Mariehamn, ideal für entspannte Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Der Badhusparkens Lekpark in Mariehamn ist ein schöner Spielplatz in einer Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Der Lindans lekpark in Mariehamn ist ein familienfreundlicher Ort für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Dieser Spielplatz in Mariehamn bietet eine sichere Umgebung für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Der Spielplatz Klinten in Mariehamn ist ein beliebter Ort für Spiel und Spaß im Viertel.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Die Ångbåtsbryggan Äventyrsgolf bietet ein spannendes Minigolf-Abenteuer für Familien in Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Der Klintens Lekpark in Mariehamn lädt Kinder zu aktivem Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Der Kasbergets lekpark in Mariehamn bietet eine abwechslungsreiche Spiellandschaft für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Der Johannegläntans lekpark in Mariehamn ist ein freundlicher Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Ein lokaler Spielplatz in Mariehamn, der Kindern Raum zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Dieser Spielplatz in Mariehamn ist ein schöner Ort für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "Eine kinderfreundliche Anlage in Mariehamn, ideal für eine Pause im Freien.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Ein Spielplatz im Herzen von Mariehamn, der zum Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Eine Minigolfanlage in Mariehamn, perfekt für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
             }
       ],
       "hu": [
@@ -19849,6 +26554,150 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         19.940477,
                         60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "A Torpfjärden egy tó Mariehamnban, amely természeti szépségével bűvöli el a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "A Byträsk egy tó Mariehamn területén, amely csendes környezetet nyújt a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "A Dalkarby Träsk egy tó Mariehamnban, amely ideális a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "A Badhusparkens Lekpark Mariehamnban egy szép játszótér egy parkosított területen.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "A Lindans lekpark Mariehamnban egy családbarát hely minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Ez a játszótér Mariehamnban biztonságos környezetet nyújt a legkisebb látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "A Klinten játszótér Mariehamnban népszerű hely a játékhoz és szórakozáshoz a környéken.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Az Ångbåtsbryggan Äventyrsgolf izgalmas minigolf kalandot kínál családoknak Mariehamnban.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "A Klintens Lekpark Mariehamnban aktív szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "A Kasbergets lekpark Mariehamnban változatos játszótájat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "A Johannegläntans lekpark Mariehamnban egy barátságos találkozóhely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Helyi játszótér Mariehamn városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Ez a mariehamni játszótér kellemes hely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "Gyermekbarát létesítmény Mariehamnban, amely ideális egy szabadtéri szünethez.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Játszótér Mariehamn szívében, amely játékra és felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Minigolfpálya Mariehamn városában, tökéletes egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
                   ]
             }
       ],
@@ -20131,6 +26980,150 @@ export const finlandNatureExtended: POI[] = [
                         19.940477,
                         60.089987
                   ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Torpfjärden este un lac din Mariehamn, care impresionează prin frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Byträsk este un lac din Mariehamn, oferind un cadru liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Dalkarby Träsk este un lac din Mariehamn, ideal pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Badhusparkens Lekpark din Mariehamn este un loc de joacă frumos situat într-un parc.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Lindans lekpark din Mariehamn este un loc prietenos pentru familii, potrivit pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Acest loc de joacă din Mariehamn oferă un mediu sigur pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Locul de joacă Klinten din Mariehamn este un loc popular pentru joacă și distracție în cartier.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Ångbåtsbryggan Äventyrsgolf oferă o aventură palpitantă de minigolf pentru familiile din Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Klintens Lekpark din Mariehamn invită copiii la joacă activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Kasbergets lekpark din Mariehamn oferă un peisaj de joacă variat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Johannegläntans lekpark din Mariehamn este un punct de întâlnire prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Un loc de joacă local în Mariehamn, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Acest loc de joacă din Mariehamn este un loc plăcut pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "O facilitate pentru copii în Mariehamn, ideală pentru o pauză în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Un loc de joacă în inima orașului Mariehamn, care invită copiii la joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Un teren de minigolf în Mariehamn, perfect pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
             }
       ],
       "en": [
@@ -20411,6 +27404,150 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         19.940477,
                         60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Torpfjärden is a lake in Mariehamn, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Byträsk is a lake in Mariehamn, providing a quiet setting for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Dalkarby Träsk is a lake in Mariehamn, ideal for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Badhusparkens Lekpark in Mariehamn is a lovely playground located within a park.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Lindans lekpark in Mariehamn is a family-friendly spot for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "This playground in Mariehamn provides a safe environment for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Klinten playground in Mariehamn is a popular spot for play and fun in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Ångbåtsbryggan Äventyrsgolf offers an exciting minigolf adventure for families in Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Klintens Lekpark in Mariehamn invites children for active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Kasbergets lekpark in Mariehamn offers a diverse play landscape for children.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Johannegläntans lekpark in Mariehamn is a friendly meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "A local playground in Mariehamn offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "This playground in Mariehamn is a nice spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "A child-friendly facility in Mariehamn, ideal for an outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "A playground in the heart of Mariehamn, inviting children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "A miniature golf course in Mariehamn, perfect for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
                   ]
             }
       ]
@@ -20693,6 +27830,78 @@ export const finlandNatureExtended: POI[] = [
                         24.075301,
                         60.246959
                   ]
+            },
+            {
+                  "name": "Hormajärvi",
+                  "text": "Der Hormajärvi ist ein malerischer See in Lohja, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        24.016064,
+                        60.28771
+                  ]
+            },
+            {
+                  "name": "Lohjanjärvi",
+                  "text": "Der Lohjanjärvi ist ein malerischer See in Lohja, ideal für ruhige Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        23.913342,
+                        60.232799
+                  ]
+            },
+            {
+                  "name": "Ojaniitun leikkipuisto",
+                  "text": "Der Spielplatz Ojaniitun leikkipuisto in Lohja ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        24.094988,
+                        60.240867
+                  ]
+            },
+            {
+                  "name": "Postikadun leikkipuisto",
+                  "text": "Der Spielplatz Postikadun leikkipuisto in Lohja ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        24.061062,
+                        60.249755
+                  ]
+            },
+            {
+                  "name": "Kurjenkadun leikkipuisto",
+                  "text": "Der Spielplatz Kurjenkadun leikkipuisto in Lohja ist ein schönes Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        24.082968,
+                        60.252509
+                  ]
+            },
+            {
+                  "name": "Gunnarlan leikkipuisto",
+                  "text": "Ein schöner Spielplatz in Lohja für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        24.061673,
+                        60.235632
+                  ]
+            },
+            {
+                  "name": "Pienten piha",
+                  "text": "Dieser Spielplatz in Lohja bietet eine sichere Umgebung für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        24.09746,
+                        60.242448
+                  ]
+            },
+            {
+                  "name": "Kiipeilykumpu",
+                  "text": "Ein lokaler Spielplatz in Lohja mit Möglichkeiten zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        24.095801,
+                        60.241887
+                  ]
             }
       ],
       "hu": [
@@ -20928,6 +28137,78 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.075301,
                         60.246959
+                  ]
+            },
+            {
+                  "name": "Hormajärvi",
+                  "text": "A(z) Hormajärvi egy festői tó Lohja városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.016064,
+                        60.28771
+                  ]
+            },
+            {
+                  "name": "Lohjanjärvi",
+                  "text": "A(z) Lohjanjärvi egy festői tó Lohja városában, amely ideális nyugodt sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        23.913342,
+                        60.232799
+                  ]
+            },
+            {
+                  "name": "Ojaniitun leikkipuisto",
+                  "text": "A(z) Lohja városában található Ojaniitun leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.094988,
+                        60.240867
+                  ]
+            },
+            {
+                  "name": "Postikadun leikkipuisto",
+                  "text": "A(z) Lohja városában található Postikadun leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.061062,
+                        60.249755
+                  ]
+            },
+            {
+                  "name": "Kurjenkadun leikkipuisto",
+                  "text": "A(z) Lohja városában található Kurjenkadun leikkipuisto játszótér vidám szabadtéri kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.082968,
+                        60.252509
+                  ]
+            },
+            {
+                  "name": "Gunnarlan leikkipuisto",
+                  "text": "Egy kedves játszótér Lohja városában, ahol a gyerekek kikapcsolódhatnak.",
+                  "category": "family",
+                  "coords": [
+                        24.061673,
+                        60.235632
+                  ]
+            },
+            {
+                  "name": "Pienten piha",
+                  "text": "Ez a lohjai játszótér biztonságos környezetet nyújt a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        24.09746,
+                        60.242448
+                  ]
+            },
+            {
+                  "name": "Kiipeilykumpu",
+                  "text": "Helyi játszótér Lohja városában mászási és játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        24.095801,
+                        60.241887
                   ]
             }
       ],
@@ -21165,6 +28446,78 @@ export const finlandNatureExtended: POI[] = [
                         24.075301,
                         60.246959
                   ]
+            },
+            {
+                  "name": "Hormajärvi",
+                  "text": "Hormajärvi este un lac pitoresc din Lohja, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.016064,
+                        60.28771
+                  ]
+            },
+            {
+                  "name": "Lohjanjärvi",
+                  "text": "Lohjanjärvi este un lac pitoresc din Lohja, ideal pentru plimbări liniștite și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.913342,
+                        60.232799
+                  ]
+            },
+            {
+                  "name": "Ojaniitun leikkipuisto",
+                  "text": "Locul de joacă Ojaniitun leikkipuisto din Lohja este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        24.094988,
+                        60.240867
+                  ]
+            },
+            {
+                  "name": "Postikadun leikkipuisto",
+                  "text": "Locul de joacă Postikadun leikkipuisto din Lohja este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        24.061062,
+                        60.249755
+                  ]
+            },
+            {
+                  "name": "Kurjenkadun leikkipuisto",
+                  "text": "Locul de joacă Kurjenkadun leikkipuisto din Lohja este o destinație plăcută în aer liber pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        24.082968,
+                        60.252509
+                  ]
+            },
+            {
+                  "name": "Gunnarlan leikkipuisto",
+                  "text": "Un loc de joacă plăcut în Lohja pentru recreerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        24.061673,
+                        60.235632
+                  ]
+            },
+            {
+                  "name": "Pienten piha",
+                  "text": "Acest loc de joacă din Lohja oferă un mediu sigur pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        24.09746,
+                        60.242448
+                  ]
+            },
+            {
+                  "name": "Kiipeilykumpu",
+                  "text": "Un loc de joacă local în Lohja, cu oportunități de cățărat și joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.095801,
+                        60.241887
+                  ]
             }
       ],
       "en": [
@@ -21400,6 +28753,78 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.075301,
                         60.246959
+                  ]
+            },
+            {
+                  "name": "Hormajärvi",
+                  "text": "Hormajärvi is a scenic lake in Lohja, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.016064,
+                        60.28771
+                  ]
+            },
+            {
+                  "name": "Lohjanjärvi",
+                  "text": "Lohjanjärvi is a scenic lake in Lohja, ideal for peaceful walks and enjoying the nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.913342,
+                        60.232799
+                  ]
+            },
+            {
+                  "name": "Ojaniitun leikkipuisto",
+                  "text": "The Ojaniitun leikkipuisto playground in Lohja is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        24.094988,
+                        60.240867
+                  ]
+            },
+            {
+                  "name": "Postikadun leikkipuisto",
+                  "text": "The Postikadun leikkipuisto playground in Lohja is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        24.061062,
+                        60.249755
+                  ]
+            },
+            {
+                  "name": "Kurjenkadun leikkipuisto",
+                  "text": "The Kurjenkadun leikkipuisto playground in Lohja is a fun outdoor destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        24.082968,
+                        60.252509
+                  ]
+            },
+            {
+                  "name": "Gunnarlan leikkipuisto",
+                  "text": "A nice playground in Lohja for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        24.061673,
+                        60.235632
+                  ]
+            },
+            {
+                  "name": "Pienten piha",
+                  "text": "This playground in Lohja offers a safe environment for small children.",
+                  "category": "family",
+                  "coords": [
+                        24.09746,
+                        60.242448
+                  ]
+            },
+            {
+                  "name": "Kiipeilykumpu",
+                  "text": "A local playground in Lohja with climbing and play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        24.095801,
+                        60.241887
                   ]
             }
       ]
@@ -23056,6 +30481,33 @@ export const finlandNatureExtended: POI[] = [
                         23.629478,
                         60.814099
                   ]
+            },
+            {
+                  "name": "Rehtijärvi",
+                  "text": "Rehtijärvi ist ein See in Forssa, der eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.491474,
+                        60.84169
+                  ]
+            },
+            {
+                  "name": "Forssan Minigolf Puttaamo",
+                  "text": "Forssan Minigolf Puttaamo bietet ein unterhaltsames Minigolf-Erlebnis für Familien in Forssa.",
+                  "category": "family",
+                  "coords": [
+                        23.612183,
+                        60.816828
+                  ]
+            },
+            {
+                  "name": "Loitinaronpuiston leikkipaikka",
+                  "text": "Loitinaronpuiston leikkipaikka in Forssa ist ein einladender Spielbereich für Kinder im Freien.",
+                  "category": "family",
+                  "coords": [
+                        23.662194,
+                        60.816797
+                  ]
             }
       ],
       "hu": [
@@ -23111,6 +30563,33 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         23.629478,
                         60.814099
+                  ]
+            },
+            {
+                  "name": "Rehtijärvi",
+                  "text": "A Rehtijärvi egy tó Forssa területén, amely nyugodt környezetet biztosít sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.491474,
+                        60.84169
+                  ]
+            },
+            {
+                  "name": "Forssan Minigolf Puttaamo",
+                  "text": "A Forssan Minigolf Puttaamo szórakoztató minigolf-élményt kínál családoknak Forssa városában.",
+                  "category": "family",
+                  "coords": [
+                        23.612183,
+                        60.816828
+                  ]
+            },
+            {
+                  "name": "Loitinaronpuiston leikkipaikka",
+                  "text": "A Loitinaronpuiston leikkipaikka Forssában egy hívogató szabadtéri játszóhely a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        23.662194,
+                        60.816797
                   ]
             }
       ],
@@ -23168,6 +30647,33 @@ export const finlandNatureExtended: POI[] = [
                         23.629478,
                         60.814099
                   ]
+            },
+            {
+                  "name": "Rehtijärvi",
+                  "text": "Rehtijärvi este un lac în Forssa, oferind un mediu liniștit pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.491474,
+                        60.84169
+                  ]
+            },
+            {
+                  "name": "Forssan Minigolf Puttaamo",
+                  "text": "Forssan Minigolf Puttaamo oferă o experiență distractivă de minigolf pentru familii în Forssa.",
+                  "category": "family",
+                  "coords": [
+                        23.612183,
+                        60.816828
+                  ]
+            },
+            {
+                  "name": "Loitinaronpuiston leikkipaikka",
+                  "text": "Loitinaronpuiston leikkipaikka din Forssa este o zonă de joacă primitoare în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        23.662194,
+                        60.816797
+                  ]
             }
       ],
       "en": [
@@ -23223,6 +30729,33 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         23.629478,
                         60.814099
+                  ]
+            },
+            {
+                  "name": "Rehtijärvi",
+                  "text": "Rehtijärvi is a lake in Forssa, offering a peaceful setting for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        23.491474,
+                        60.84169
+                  ]
+            },
+            {
+                  "name": "Forssan Minigolf Puttaamo",
+                  "text": "Forssan Minigolf Puttaamo provides a fun miniature golf experience for families in Forssa.",
+                  "category": "family",
+                  "coords": [
+                        23.612183,
+                        60.816828
+                  ]
+            },
+            {
+                  "name": "Loitinaronpuiston leikkipaikka",
+                  "text": "Loitinaronpuiston leikkipaikka in Forssa is an inviting outdoor play area for children.",
+                  "category": "family",
+                  "coords": [
+                        23.662194,
+                        60.816797
                   ]
             }
       ]
@@ -23478,6 +31011,195 @@ export const finlandNatureExtended: POI[] = [
                         24.771003,
                         60.735927
                   ]
+            },
+            {
+                  "name": "Vähäjärvi",
+                  "text": "Ein See in Riihimaki, ideal für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.661074,
+                        60.690902
+                  ]
+            },
+            {
+                  "name": "Erkylänjärvi",
+                  "text": "Ein ruhiges Gewässer in Riihimaki, das zum Verweilen und Genießen der Landschaft einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.888589,
+                        60.707183
+                  ]
+            },
+            {
+                  "name": "Paalijärvi",
+                  "text": "Dieser See in Riihimaki bietet eine malerische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.680263,
+                        60.683785
+                  ]
+            },
+            {
+                  "name": "Josefiinanpuisto",
+                  "text": "Ein öffentlicher Spielbereich in Riihimaki, der sicher zum Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        24.749153,
+                        60.751311
+                  ]
+            },
+            {
+                  "name": "Ruotsinkadunpuisto",
+                  "text": "Ein lokaler Treffpunkt für Familien in Riihimaki mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        24.777622,
+                        60.747746
+                  ]
+            },
+            {
+                  "name": "Kisapuisto",
+                  "text": "Ein Spielplatz in Riihimaki, der Kindern Abwechslung und Freude bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.80152,
+                        60.733568
+                  ]
+            },
+            {
+                  "name": "Toukolanpuisto",
+                  "text": "Ein kleiner Park mit Spielgeräten in Riihimaki, ideal für den täglichen Ausflug.",
+                  "category": "family",
+                  "coords": [
+                        24.818663,
+                        60.739277
+                  ]
+            },
+            {
+                  "name": "Tellervonpuisto",
+                  "text": "Spielplatz in Riihimaki, der eine schöne Umgebung für Kinder zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.739276,
+                        60.749887
+                  ]
+            },
+            {
+                  "name": "Suojalanpuisto",
+                  "text": "Ein ruhiger Spielort für Kinder in einem Wohngebiet von Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.75768,
+                        60.753098
+                  ]
+            },
+            {
+                  "name": "Rajalanpuisto",
+                  "text": "Dieser Spielplatz in Riihimaki verfügt über verschiedene Geräte für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        24.759898,
+                        60.757675
+                  ]
+            },
+            {
+                  "name": "Atrapuisto",
+                  "text": "Ein schöner Platz zum Spielen für Kinder in der Stadt Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.816156,
+                        60.745852
+                  ]
+            },
+            {
+                  "name": "Kanervapuisto",
+                  "text": "Ein kinderfreundlicher Spielbereich in Riihimaki, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.799792,
+                        60.747607
+                  ]
+            },
+            {
+                  "name": "Perhospuisto",
+                  "text": "Dieser kleine Park in Riihimaki bietet Spielspaß in einer grünen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        24.775199,
+                        60.756397
+                  ]
+            },
+            {
+                  "name": "Marjatanpuisto",
+                  "text": "Ein sicherer Ort für Kinder zum Spielen und Klettern in Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.735766,
+                        60.748865
+                  ]
+            },
+            {
+                  "name": "Vainionpuisto",
+                  "text": "Ein lokaler Spielplatz in Riihimaki, der Platz für Outdoor-Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.755034,
+                        60.739935
+                  ]
+            },
+            {
+                  "name": "Lehtolantienpuisto",
+                  "text": "Dieser Spielplatz in Riihimaki lädt zum Verweilen und Spielen an der frischen Luft ein.",
+                  "category": "family",
+                  "coords": [
+                        24.745135,
+                        60.738366
+                  ]
+            },
+            {
+                  "name": "Sammalpuisto",
+                  "text": "Ein kleiner Spielbereich in Riihimaki, gut geeignet für einen kurzen Ausflug.",
+                  "category": "family",
+                  "coords": [
+                        24.789227,
+                        60.717345
+                  ]
+            },
+            {
+                  "name": "Kantakadun leikkipuisto",
+                  "text": "Spielplatz in Riihimaki mit klassischen Geräten für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        24.779412,
+                        60.752895
+                  ]
+            },
+            {
+                  "name": "Töyrypuisto",
+                  "text": "Ein hübscher Spielplatz in Riihimaki, der zum täglichen Spielen im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        24.764116,
+                        60.734488
+                  ]
+            },
+            {
+                  "name": "Antinpuiston leikkipaikka",
+                  "text": "Spielstelle in Riihimaki, die eine sichere Umgebung für Kleinkinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.754264,
+                        60.726031
+                  ]
+            },
+            {
+                  "name": "Hirsimäenpuiston leikkipaikka",
+                  "text": "Ein lokaler Park mit Spielplatz in Riihimaki, ideal für eine Pause mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        24.754574,
+                        60.729929
+                  ]
             }
       ],
       "hu": [
@@ -23686,6 +31408,195 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.771003,
                         60.735927
+                  ]
+            },
+            {
+                  "name": "Vähäjärvi",
+                  "text": "Egy tó Riihimaki területén, amely ideális pihentető erdei sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.661074,
+                        60.690902
+                  ]
+            },
+            {
+                  "name": "Erkylänjärvi",
+                  "text": "Csendes vízfelület Riihimaki közelében, amely pihenésre és a táj élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        24.888589,
+                        60.707183
+                  ]
+            },
+            {
+                  "name": "Paalijärvi",
+                  "text": "Ez a Riihimaki melletti tó festői környezetet biztosít a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.680263,
+                        60.683785
+                  ]
+            },
+            {
+                  "name": "Josefiinanpuisto",
+                  "text": "Riihimaki egyik nyilvános játszótere, amely biztonságos környezetet nyújt a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        24.749153,
+                        60.751311
+                  ]
+            },
+            {
+                  "name": "Ruotsinkadunpuisto",
+                  "text": "Helyi találkozóhely családoknak Riihimaki városában, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        24.777622,
+                        60.747746
+                  ]
+            },
+            {
+                  "name": "Kisapuisto",
+                  "text": "Játszótér Riihimaki területén, amely változatosságot és örömöt kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.80152,
+                        60.733568
+                  ]
+            },
+            {
+                  "name": "Toukolanpuisto",
+                  "text": "Kisebb park játékokkal Riihimaki városában, ideális napi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.818663,
+                        60.739277
+                  ]
+            },
+            {
+                  "name": "Tellervonpuisto",
+                  "text": "Riihimaki játszótere, amely kellemes környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        24.739276,
+                        60.749887
+                  ]
+            },
+            {
+                  "name": "Suojalanpuisto",
+                  "text": "Csendes játszóhely gyerekeknek Riihimaki egyik lakóövezetében.",
+                  "category": "family",
+                  "coords": [
+                        24.75768,
+                        60.753098
+                  ]
+            },
+            {
+                  "name": "Rajalanpuisto",
+                  "text": "Ez a riihimaki játszótér különféle eszközökkel várja a kis felfedezőket.",
+                  "category": "family",
+                  "coords": [
+                        24.759898,
+                        60.757675
+                  ]
+            },
+            {
+                  "name": "Atrapuisto",
+                  "text": "Kellemes hely a játékhoz a gyermekek számára Riihimaki városában.",
+                  "category": "family",
+                  "coords": [
+                        24.816156,
+                        60.745852
+                  ]
+            },
+            {
+                  "name": "Kanervapuisto",
+                  "text": "Gyermekbarát játszóövezet Riihimaki területén, amely ideális a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        24.799792,
+                        60.747607
+                  ]
+            },
+            {
+                  "name": "Perhospuisto",
+                  "text": "Ez a kis park Riihimaki városában játékos kikapcsolódást kínál zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        24.775199,
+                        60.756397
+                  ]
+            },
+            {
+                  "name": "Marjatanpuisto",
+                  "text": "Biztonságos hely a játékra és mászásra a gyerekeknek Riihimaki városában.",
+                  "category": "family",
+                  "coords": [
+                        24.735766,
+                        60.748865
+                  ]
+            },
+            {
+                  "name": "Vainionpuisto",
+                  "text": "Helyi játszótér Riihimaki városában, amely helyet biztosít a szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        24.755034,
+                        60.739935
+                  ]
+            },
+            {
+                  "name": "Lehtolantienpuisto",
+                  "text": "Ez a riihimaki játszótér játékra és szabadtéri időtöltésre hív.",
+                  "category": "family",
+                  "coords": [
+                        24.745135,
+                        60.738366
+                  ]
+            },
+            {
+                  "name": "Sammalpuisto",
+                  "text": "Kisebb játszóterület Riihimaki városában, alkalmas egy rövid kiruccanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.789227,
+                        60.717345
+                  ]
+            },
+            {
+                  "name": "Kantakadun leikkipuisto",
+                  "text": "Játszótér Riihimaki területén, klasszikus játékokkal minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.779412,
+                        60.752895
+                  ]
+            },
+            {
+                  "name": "Töyrypuisto",
+                  "text": "Csinos játszótér Riihimaki városában, amely mindennapi szabadtéri játékra csábít.",
+                  "category": "family",
+                  "coords": [
+                        24.764116,
+                        60.734488
+                  ]
+            },
+            {
+                  "name": "Antinpuiston leikkipaikka",
+                  "text": "Játszóhely Riihimaki területén, amely biztonságos környezetet nyújt a kisgyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.754264,
+                        60.726031
+                  ]
+            },
+            {
+                  "name": "Hirsimäenpuiston leikkipaikka",
+                  "text": "Helyi park játszótérrel Riihimaki városában, ideális pihenőhely gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        24.754574,
+                        60.729929
                   ]
             }
       ],
@@ -23896,6 +31807,195 @@ export const finlandNatureExtended: POI[] = [
                         24.771003,
                         60.735927
                   ]
+            },
+            {
+                  "name": "Vähäjärvi",
+                  "text": "Un lac în Riihimaki, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.661074,
+                        60.690902
+                  ]
+            },
+            {
+                  "name": "Erkylänjärvi",
+                  "text": "O apă liniștită în Riihimaki, care invită la relaxare și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        24.888589,
+                        60.707183
+                  ]
+            },
+            {
+                  "name": "Paalijärvi",
+                  "text": "Acest lac din Riihimaki oferă un cadru pitoresc pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.680263,
+                        60.683785
+                  ]
+            },
+            {
+                  "name": "Josefiinanpuisto",
+                  "text": "O zonă de joacă publică în Riihimaki, care invită la joacă în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        24.749153,
+                        60.751311
+                  ]
+            },
+            {
+                  "name": "Ruotsinkadunpuisto",
+                  "text": "Un punct de întâlnire local pentru familii în Riihimaki, cu diverse facilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.777622,
+                        60.747746
+                  ]
+            },
+            {
+                  "name": "Kisapuisto",
+                  "text": "Un loc de joacă în Riihimaki, care oferă varietate și bucurie copiilor.",
+                  "category": "family",
+                  "coords": [
+                        24.80152,
+                        60.733568
+                  ]
+            },
+            {
+                  "name": "Toukolanpuisto",
+                  "text": "Un mic parc cu echipamente de joacă în Riihimaki, ideal pentru o ieșire zilnică.",
+                  "category": "family",
+                  "coords": [
+                        24.818663,
+                        60.739277
+                  ]
+            },
+            {
+                  "name": "Tellervonpuisto",
+                  "text": "Loc de joacă în Riihimaki, care oferă un mediu plăcut pentru zburdălnicia copiilor.",
+                  "category": "family",
+                  "coords": [
+                        24.739276,
+                        60.749887
+                  ]
+            },
+            {
+                  "name": "Suojalanpuisto",
+                  "text": "Un loc de joacă liniștit pentru copii într-o zonă rezidențială din Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.75768,
+                        60.753098
+                  ]
+            },
+            {
+                  "name": "Rajalanpuisto",
+                  "text": "Acest loc de joacă din Riihimaki are diverse echipamente pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        24.759898,
+                        60.757675
+                  ]
+            },
+            {
+                  "name": "Atrapuisto",
+                  "text": "Un loc frumos de joacă pentru copii în orașul Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.816156,
+                        60.745852
+                  ]
+            },
+            {
+                  "name": "Kanervapuisto",
+                  "text": "O zonă de joacă prietenoasă cu copiii în Riihimaki, ideală pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.799792,
+                        60.747607
+                  ]
+            },
+            {
+                  "name": "Perhospuisto",
+                  "text": "Acest mic parc din Riihimaki oferă distracție în aer liber într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        24.775199,
+                        60.756397
+                  ]
+            },
+            {
+                  "name": "Marjatanpuisto",
+                  "text": "Un loc sigur pentru copii unde se pot juca și cățăra în Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.735766,
+                        60.748865
+                  ]
+            },
+            {
+                  "name": "Vainionpuisto",
+                  "text": "Un loc de joacă local în Riihimaki, care oferă spațiu pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.755034,
+                        60.739935
+                  ]
+            },
+            {
+                  "name": "Lehtolantienpuisto",
+                  "text": "Acest loc de joacă din Riihimaki invită la petrecerea timpului și la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.745135,
+                        60.738366
+                  ]
+            },
+            {
+                  "name": "Sammalpuisto",
+                  "text": "O mică zonă de joacă în Riihimaki, potrivită pentru o scurtă ieșire.",
+                  "category": "family",
+                  "coords": [
+                        24.789227,
+                        60.717345
+                  ]
+            },
+            {
+                  "name": "Kantakadun leikkipuisto",
+                  "text": "Loc de joacă în Riihimaki cu echipamente clasice pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.779412,
+                        60.752895
+                  ]
+            },
+            {
+                  "name": "Töyrypuisto",
+                  "text": "Un loc de joacă drăguț în Riihimaki, care invită la joaca zilnică în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.764116,
+                        60.734488
+                  ]
+            },
+            {
+                  "name": "Antinpuiston leikkipaikka",
+                  "text": "Loc de joacă în Riihimaki care oferă un mediu sigur pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        24.754264,
+                        60.726031
+                  ]
+            },
+            {
+                  "name": "Hirsimäenpuiston leikkipaikka",
+                  "text": "Un parc local cu loc de joacă în Riihimaki, ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        24.754574,
+                        60.729929
+                  ]
             }
       ],
       "en": [
@@ -24105,6 +32205,195 @@ export const finlandNatureExtended: POI[] = [
                         24.771003,
                         60.735927
                   ]
+            },
+            {
+                  "name": "Vähäjärvi",
+                  "text": "A lake in Riihimaki, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.661074,
+                        60.690902
+                  ]
+            },
+            {
+                  "name": "Erkylänjärvi",
+                  "text": "A quiet body of water in Riihimaki, inviting you to relax and enjoy the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.888589,
+                        60.707183
+                  ]
+            },
+            {
+                  "name": "Paalijärvi",
+                  "text": "This lake in Riihimaki offers a scenic backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.680263,
+                        60.683785
+                  ]
+            },
+            {
+                  "name": "Josefiinanpuisto",
+                  "text": "A public play area in Riihimaki that offers a safe environment for playing.",
+                  "category": "family",
+                  "coords": [
+                        24.749153,
+                        60.751311
+                  ]
+            },
+            {
+                  "name": "Ruotsinkadunpuisto",
+                  "text": "A local meeting point for families in Riihimaki with various play options.",
+                  "category": "family",
+                  "coords": [
+                        24.777622,
+                        60.747746
+                  ]
+            },
+            {
+                  "name": "Kisapuisto",
+                  "text": "A playground in Riihimaki providing variety and fun for children.",
+                  "category": "family",
+                  "coords": [
+                        24.80152,
+                        60.733568
+                  ]
+            },
+            {
+                  "name": "Toukolanpuisto",
+                  "text": "A small park with play equipment in Riihimaki, ideal for a daily outing.",
+                  "category": "family",
+                  "coords": [
+                        24.818663,
+                        60.739277
+                  ]
+            },
+            {
+                  "name": "Tellervonpuisto",
+                  "text": "Playground in Riihimaki offering a nice environment for children to run around.",
+                  "category": "family",
+                  "coords": [
+                        24.739276,
+                        60.749887
+                  ]
+            },
+            {
+                  "name": "Suojalanpuisto",
+                  "text": "A quiet place for children to play in a residential area of Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.75768,
+                        60.753098
+                  ]
+            },
+            {
+                  "name": "Rajalanpuisto",
+                  "text": "This playground in Riihimaki features various equipment for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        24.759898,
+                        60.757675
+                  ]
+            },
+            {
+                  "name": "Atrapuisto",
+                  "text": "A nice spot for children to play in the city of Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.816156,
+                        60.745852
+                  ]
+            },
+            {
+                  "name": "Kanervapuisto",
+                  "text": "A child-friendly play area in Riihimaki, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        24.799792,
+                        60.747607
+                  ]
+            },
+            {
+                  "name": "Perhospuisto",
+                  "text": "This small park in Riihimaki offers play fun in a green environment.",
+                  "category": "family",
+                  "coords": [
+                        24.775199,
+                        60.756397
+                  ]
+            },
+            {
+                  "name": "Marjatanpuisto",
+                  "text": "A safe place for children to play and climb in Riihimaki.",
+                  "category": "family",
+                  "coords": [
+                        24.735766,
+                        60.748865
+                  ]
+            },
+            {
+                  "name": "Vainionpuisto",
+                  "text": "A local playground in Riihimaki offering space for outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        24.755034,
+                        60.739935
+                  ]
+            },
+            {
+                  "name": "Lehtolantienpuisto",
+                  "text": "This playground in Riihimaki invites you to stay and play in the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        24.745135,
+                        60.738366
+                  ]
+            },
+            {
+                  "name": "Sammalpuisto",
+                  "text": "A small play area in Riihimaki, well-suited for a short outing.",
+                  "category": "family",
+                  "coords": [
+                        24.789227,
+                        60.717345
+                  ]
+            },
+            {
+                  "name": "Kantakadun leikkipuisto",
+                  "text": "Playground in Riihimaki with classic equipment for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.779412,
+                        60.752895
+                  ]
+            },
+            {
+                  "name": "Töyrypuisto",
+                  "text": "A pretty playground in Riihimaki that invites daily outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        24.764116,
+                        60.734488
+                  ]
+            },
+            {
+                  "name": "Antinpuiston leikkipaikka",
+                  "text": "Play area in Riihimaki providing a safe environment for small children.",
+                  "category": "family",
+                  "coords": [
+                        24.754264,
+                        60.726031
+                  ]
+            },
+            {
+                  "name": "Hirsimäenpuiston leikkipaikka",
+                  "text": "A local park with a playground in Riihimaki, ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        24.754574,
+                        60.729929
+                  ]
             }
       ]
 },
@@ -24242,6 +32531,123 @@ export const finlandNatureExtended: POI[] = [
                         24.027498,
                         61.247786
                   ]
+            },
+            {
+                  "name": "Kirjaslampi",
+                  "text": "Ein ruhiger See in Valkeakoski, ideal für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.041995,
+                        61.272501
+                  ]
+            },
+            {
+                  "name": "Iso Leppäjärvi",
+                  "text": "Ein natürlicher See in Valkeakoski, der eine schöne Kulisse für Outdoor-Aktivitäten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.01949,
+                        61.324097
+                  ]
+            },
+            {
+                  "name": "Pikku-Ulvaja",
+                  "text": "Ein kleiner See in der Region Valkeakoski, umgeben von malerischer Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.030355,
+                        61.279489
+                  ]
+            },
+            {
+                  "name": "Viuhanjärvi",
+                  "text": "Dieser See in Valkeakoski lädt zum Entspannen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        24.049176,
+                        61.232934
+                  ]
+            },
+            {
+                  "name": "Niittystenjärvi",
+                  "text": "Ein See in Valkeakoski, bekannt für seine ruhige Atmosphäre und schöne Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        23.893007,
+                        61.249385
+                  ]
+            },
+            {
+                  "name": "Vähä Leppäjärvi",
+                  "text": "Ein kleiner See bei Valkeakoski, perfekt für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        23.997716,
+                        61.321447
+                  ]
+            },
+            {
+                  "name": "Vanajavesi",
+                  "text": "Ein bedeutender See in Valkeakoski, der sich ideal für Wassersport und Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.154309,
+                        61.128166
+                  ]
+            },
+            {
+                  "name": "Mallasvesi",
+                  "text": "Ein großer See in Valkeakoski, der für seine malerische Landschaft und Angelmöglichkeiten geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        24.16454,
+                        61.302161
+                  ]
+            },
+            {
+                  "name": "Roine",
+                  "text": "Ein bekannter See in der Nähe von Valkeakoski mit klarem Wasser und schöner Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        24.08495,
+                        61.376967
+                  ]
+            },
+            {
+                  "name": "Lotilanjärvi",
+                  "text": "Ein ruhiger See in Valkeakoski, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.000488,
+                        61.271718
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "Ein Verkehrskindergarten in Valkeakoski, wo Kinder spielerisch Verkehrsregeln lernen können.",
+                  "category": "family",
+                  "coords": [
+                        24.024012,
+                        61.270493
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Ein familienfreundlicher Spielplatz im Kaaripuisto von Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        24.042482,
+                        61.282531
+                  ]
+            },
+            {
+                  "name": "Korentinojan puisto",
+                  "text": "Ein Park mit Spielmöglichkeiten für Kinder in Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        23.986982,
+                        61.275121
+                  ]
             }
       ],
       "hu": [
@@ -24333,6 +32739,123 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.027498,
                         61.247786
+                  ]
+            },
+            {
+                  "name": "Kirjaslampi",
+                  "text": "Csendes tó Valkeakoskiban, ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.041995,
+                        61.272501
+                  ]
+            },
+            {
+                  "name": "Iso Leppäjärvi",
+                  "text": "Természetes tó Valkeakoskiban, amely szép hátteret biztosít a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.01949,
+                        61.324097
+                  ]
+            },
+            {
+                  "name": "Pikku-Ulvaja",
+                  "text": "Kisebb tó Valkeakoski régiójában, festői tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        24.030355,
+                        61.279489
+                  ]
+            },
+            {
+                  "name": "Viuhanjärvi",
+                  "text": "Ez a valkeakoski tó hívogató hely a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        24.049176,
+                        61.232934
+                  ]
+            },
+            {
+                  "name": "Niittystenjärvi",
+                  "text": "Valkeakoski egyik tava, amely nyugodt légköréről és szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.893007,
+                        61.249385
+                  ]
+            },
+            {
+                  "name": "Vähä Leppäjärvi",
+                  "text": "Kisméretű tó Valkeakoski közelében, tökéletes egy rövid zöldövezeti kiránduláshoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.997716,
+                        61.321447
+                  ]
+            },
+            {
+                  "name": "Vanajavesi",
+                  "text": "Valkeakoski egyik jelentős tava, amely ideális vízi sportokhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.154309,
+                        61.128166
+                  ]
+            },
+            {
+                  "name": "Mallasvesi",
+                  "text": "Nagy tó Valkeakoskiban, amelyet festői tája és horgászati lehetőségei miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        24.16454,
+                        61.302161
+                  ]
+            },
+            {
+                  "name": "Roine",
+                  "text": "Ismert tó Valkeakoski közelében, tiszta vízzel és szép környezettel.",
+                  "category": "natural",
+                  "coords": [
+                        24.08495,
+                        61.376967
+                  ]
+            },
+            {
+                  "name": "Lotilanjärvi",
+                  "text": "Csendes tó Valkeakoskiban, amely hívogat a természeti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        24.000488,
+                        61.271718
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "Kresz-park Valkeakoskiban, ahol a gyerekek játékosan tanulhatják meg a közlekedési szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        24.024012,
+                        61.270493
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Családbarát játszótér Valkeakoski Kaaripuisto részén.",
+                  "category": "family",
+                  "coords": [
+                        24.042482,
+                        61.282531
+                  ]
+            },
+            {
+                  "name": "Korentinojan puisto",
+                  "text": "Park játéklehetőségekkel gyerekek számára Valkeakoskiban.",
+                  "category": "family",
+                  "coords": [
+                        23.986982,
+                        61.275121
                   ]
             }
       ],
@@ -24426,6 +32949,123 @@ export const finlandNatureExtended: POI[] = [
                         24.027498,
                         61.247786
                   ]
+            },
+            {
+                  "name": "Kirjaslampi",
+                  "text": "Un lac liniștit în Valkeakoski, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.041995,
+                        61.272501
+                  ]
+            },
+            {
+                  "name": "Iso Leppäjärvi",
+                  "text": "Un lac natural în Valkeakoski care oferă un cadru frumos pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        24.01949,
+                        61.324097
+                  ]
+            },
+            {
+                  "name": "Pikku-Ulvaja",
+                  "text": "Un lac mic în regiunea Valkeakoski, înconjurat de un peisaj pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        24.030355,
+                        61.279489
+                  ]
+            },
+            {
+                  "name": "Viuhanjärvi",
+                  "text": "Acest lac din Valkeakoski este un loc primitor pentru relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.049176,
+                        61.232934
+                  ]
+            },
+            {
+                  "name": "Niittystenjärvi",
+                  "text": "Un lac din Valkeakoski, cunoscut pentru atmosfera sa liniștită și priveliștile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        23.893007,
+                        61.249385
+                  ]
+            },
+            {
+                  "name": "Vähä Leppäjärvi",
+                  "text": "Un lac de dimensiuni mici lângă Valkeakoski, perfect pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.997716,
+                        61.321447
+                  ]
+            },
+            {
+                  "name": "Vanajavesi",
+                  "text": "Un lac important din Valkeakoski, ideal pentru sporturi nautice și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        24.154309,
+                        61.128166
+                  ]
+            },
+            {
+                  "name": "Mallasvesi",
+                  "text": "Un lac mare în Valkeakoski, apreciat pentru peisajul său pitoresc și posibilitățile de pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        24.16454,
+                        61.302161
+                  ]
+            },
+            {
+                  "name": "Roine",
+                  "text": "Un lac cunoscut lângă Valkeakoski, cu apă curată și împrejurimi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        24.08495,
+                        61.376967
+                  ]
+            },
+            {
+                  "name": "Lotilanjärvi",
+                  "text": "Un lac liniștit în Valkeakoski, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.000488,
+                        61.271718
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "Un parc auto pentru copii în Valkeakoski, unde aceștia pot învăța regulile de circulație prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        24.024012,
+                        61.270493
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Un loc de joacă pentru familii în Kaaripuisto, Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        24.042482,
+                        61.282531
+                  ]
+            },
+            {
+                  "name": "Korentinojan puisto",
+                  "text": "Un parc cu facilități de joacă pentru copii în Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        23.986982,
+                        61.275121
+                  ]
             }
       ],
       "en": [
@@ -24517,6 +33157,123 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         24.027498,
                         61.247786
+                  ]
+            },
+            {
+                  "name": "Kirjaslampi",
+                  "text": "A peaceful lake in Valkeakoski, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        24.041995,
+                        61.272501
+                  ]
+            },
+            {
+                  "name": "Iso Leppäjärvi",
+                  "text": "A natural lake in Valkeakoski providing a nice backdrop for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        24.01949,
+                        61.324097
+                  ]
+            },
+            {
+                  "name": "Pikku-Ulvaja",
+                  "text": "A small lake in the Valkeakoski region, surrounded by scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.030355,
+                        61.279489
+                  ]
+            },
+            {
+                  "name": "Viuhanjärvi",
+                  "text": "This lake in Valkeakoski is an inviting spot for relaxing by the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.049176,
+                        61.232934
+                  ]
+            },
+            {
+                  "name": "Niittystenjärvi",
+                  "text": "A lake in Valkeakoski known for its calm atmosphere and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        23.893007,
+                        61.249385
+                  ]
+            },
+            {
+                  "name": "Vähä Leppäjärvi",
+                  "text": "A small-sized lake near Valkeakoski, perfect for a short trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.997716,
+                        61.321447
+                  ]
+            },
+            {
+                  "name": "Vanajavesi",
+                  "text": "A significant lake in Valkeakoski, ideal for water sports and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.154309,
+                        61.128166
+                  ]
+            },
+            {
+                  "name": "Mallasvesi",
+                  "text": "A large lake in Valkeakoski appreciated for its scenic landscape and fishing possibilities.",
+                  "category": "natural",
+                  "coords": [
+                        24.16454,
+                        61.302161
+                  ]
+            },
+            {
+                  "name": "Roine",
+                  "text": "A well-known lake near Valkeakoski with clear water and beautiful surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.08495,
+                        61.376967
+                  ]
+            },
+            {
+                  "name": "Lotilanjärvi",
+                  "text": "A quiet lake in Valkeakoski that invites nature-based recreation.",
+                  "category": "natural",
+                  "coords": [
+                        24.000488,
+                        61.271718
+                  ]
+            },
+            {
+                  "name": "Liikennepuisto",
+                  "text": "A traffic park in Valkeakoski where children can learn traffic rules while playing.",
+                  "category": "family",
+                  "coords": [
+                        24.024012,
+                        61.270493
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "A family-friendly playground in the Kaaripuisto area of Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        24.042482,
+                        61.282531
+                  ]
+            },
+            {
+                  "name": "Korentinojan puisto",
+                  "text": "A park with play facilities for children in Valkeakoski.",
+                  "category": "family",
+                  "coords": [
+                        23.986982,
+                        61.275121
                   ]
             }
       ]
@@ -24736,6 +33493,159 @@ export const finlandNatureExtended: POI[] = [
                         26.041803,
                         61.208968
                   ]
+            },
+            {
+                  "name": "Läpiänjärvi",
+                  "text": "Läpiänjärvi ist ein See in Heinola, der eine ruhige Kulisse für Erholung in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.054541,
+                        61.133587
+                  ]
+            },
+            {
+                  "name": "Kortejärvi",
+                  "text": "Kortejärvi ist ein See in Heinola, ideal für entspannte Momente und Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        26.101675,
+                        61.186249
+                  ]
+            },
+            {
+                  "name": "Rautjärvi",
+                  "text": "Rautjärvi ist ein malerischer See in Heinola, der Besucher mit seiner natürlichen Schönheit anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        26.090718,
+                        61.18749
+                  ]
+            },
+            {
+                  "name": "Pikijärvet",
+                  "text": "Pikijärvet bietet eine ruhige Atmosphäre und schöne Naturerlebnisse in der Region Heinola.",
+                  "category": "natural",
+                  "coords": [
+                        26.09638,
+                        61.202015
+                  ]
+            },
+            {
+                  "name": "Kotajärvi",
+                  "text": "Kotajärvi ist ein See in Heinola, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.077995,
+                        61.250435
+                  ]
+            },
+            {
+                  "name": "Valkjärvi",
+                  "text": "Valkjärvi ist ein See in Heinola, bekannt für seine klare Umgebung und Möglichkeiten zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        25.917264,
+                        61.199496
+                  ]
+            },
+            {
+                  "name": "Kausanlampi",
+                  "text": "Der Kausanlampi ist ein See in Heinola, der eine ruhige Umgebung für Spaziergänge in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.908015,
+                        61.196119
+                  ]
+            },
+            {
+                  "name": "Mustalampi",
+                  "text": "Der Mustalampi ist ein See in Heinola, der für seine natürliche Landschaft und Ruhe bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.917976,
+                        61.189479
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Der Saarijärvi ist ein See in Heinola, der sich ideal für Naturbeobachtungen und Erholung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.914793,
+                        61.170155
+                  ]
+            },
+            {
+                  "name": "Tarkjärvi",
+                  "text": "Der Tarkjärvi ist ein See in Heinola, der eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.021529,
+                        61.261212
+                  ]
+            },
+            {
+                  "name": "Joutjärvi",
+                  "text": "Der Joutjärvi ist ein See in Heinola, der für seine malerische Umgebung und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.152302,
+                        61.24571
+                  ]
+            },
+            {
+                  "name": "Konnivesi",
+                  "text": "Der Konnivesi ist ein großer See in Heinola, der Möglichkeiten für Wassersport und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.142112,
+                        61.166761
+                  ]
+            },
+            {
+                  "name": "Ruotsalainen",
+                  "text": "Der Ruotsalainen ist ein See in Heinola, der für seine weiten Wasserflächen und Naturlandschaften geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.820194,
+                        61.227369
+                  ]
+            },
+            {
+                  "name": "Levijärvi",
+                  "text": "Der Levijärvi ist ein See in Heinola, der Besuchern eine ruhige Naturkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.110248,
+                        61.120884
+                  ]
+            },
+            {
+                  "name": "Ristijärvi",
+                  "text": "Der Ristijärvi ist ein See in Heinola, der für seine friedliche Lage und Waldumgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.017702,
+                        61.276121
+                  ]
+            },
+            {
+                  "name": "Suurijärvi",
+                  "text": "Der Suurijärvi ist ein See in Heinola, der zu erholsamen Stunden in der finnischen Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.010239,
+                        61.125437
+                  ]
+            },
+            {
+                  "name": "Heinolan liikennepuisto",
+                  "text": "Der Heinolan liikennepuisto ist ein Verkehrskindergarten und Spielplatz für Familien in Heinola.",
+                  "category": "family",
+                  "coords": [
+                        26.044825,
+                        61.203664
+                  ]
             }
       ],
       "hu": [
@@ -24908,6 +33818,159 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         26.041803,
                         61.208968
+                  ]
+            },
+            {
+                  "name": "Läpiänjärvi",
+                  "text": "A Läpiänjärvi egy tó Heinola területén, amely nyugodt helyszínt biztosít a természetbeni kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.054541,
+                        61.133587
+                  ]
+            },
+            {
+                  "name": "Kortejärvi",
+                  "text": "A Kortejärvi egy tó Heinola városában, ideális pihentető pillanatokhoz és vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        26.101675,
+                        61.186249
+                  ]
+            },
+            {
+                  "name": "Rautjärvi",
+                  "text": "A Rautjärvi egy festői tó Heinola területén, amely természetes szépségével vonzza a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        26.090718,
+                        61.18749
+                  ]
+            },
+            {
+                  "name": "Pikijärvet",
+                  "text": "A Pikijärvet nyugodt légkört és szép természetélményeket kínál Heinola régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        26.09638,
+                        61.202015
+                  ]
+            },
+            {
+                  "name": "Kotajärvi",
+                  "text": "A Kotajärvi egy tó Heinola városában, amely békés környezetet kínál a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.077995,
+                        61.250435
+                  ]
+            },
+            {
+                  "name": "Valkjärvi",
+                  "text": "A Valkjärvi egy tó Heinolában, amely tiszta környezetéről és kikapcsolódási lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.917264,
+                        61.199496
+                  ]
+            },
+            {
+                  "name": "Kausanlampi",
+                  "text": "A Kausanlampi egy tó Heinola területén, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.908015,
+                        61.196119
+                  ]
+            },
+            {
+                  "name": "Mustalampi",
+                  "text": "A Mustalampi egy tó Heinola városában, amely természeti tájairól és nyugalmáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.917976,
+                        61.189479
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "A Saarijärvi egy tó Heinola közelében, amely ideális természetjárásra és pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.914793,
+                        61.170155
+                  ]
+            },
+            {
+                  "name": "Tarkjärvi",
+                  "text": "A Tarkjärvi egy tó Heinola területén, amely békés erdei környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.021529,
+                        61.261212
+                  ]
+            },
+            {
+                  "name": "Joutjärvi",
+                  "text": "A Joutjärvi egy tó Heinola városában, amely festői környezetéről és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.152302,
+                        61.24571
+                  ]
+            },
+            {
+                  "name": "Konnivesi",
+                  "text": "A Konnivesi egy jelentős tó Heinola területén, amely vízi kikapcsolódást és pihenést kínál.",
+                  "category": "natural",
+                  "coords": [
+                        26.142112,
+                        61.166761
+                  ]
+            },
+            {
+                  "name": "Ruotsalainen",
+                  "text": "A Ruotsalainen egy tó Heinola városában, amelyet tágas vízfelülete és természeti tájai miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        25.820194,
+                        61.227369
+                  ]
+            },
+            {
+                  "name": "Levijärvi",
+                  "text": "A Levijärvi egy tó Heinola területén, amely nyugodt természeti környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        26.110248,
+                        61.120884
+                  ]
+            },
+            {
+                  "name": "Ristijärvi",
+                  "text": "A Ristijärvi egy tó Heinola városában, amely békés fekvéséről és erdei környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.017702,
+                        61.276121
+                  ]
+            },
+            {
+                  "name": "Suurijärvi",
+                  "text": "A Suurijärvi egy tó Heinola közelében, amely pihentető kikapcsolódást kínál a finn természetben.",
+                  "category": "natural",
+                  "coords": [
+                        26.010239,
+                        61.125437
+                  ]
+            },
+            {
+                  "name": "Heinolan liikennepuisto",
+                  "text": "A Heinolan liikennepuisto egy közlekedési park és játszótér családok számára Heinola városában.",
+                  "category": "family",
+                  "coords": [
+                        26.044825,
+                        61.203664
                   ]
             }
       ],
@@ -25082,6 +34145,159 @@ export const finlandNatureExtended: POI[] = [
                         26.041803,
                         61.208968
                   ]
+            },
+            {
+                  "name": "Läpiänjärvi",
+                  "text": "Läpiänjärvi este un lac în Heinola, oferind un cadru liniștit pentru recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.054541,
+                        61.133587
+                  ]
+            },
+            {
+                  "name": "Kortejärvi",
+                  "text": "Kortejärvi este un lac în Heinola, ideal pentru momente de relaxare și plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        26.101675,
+                        61.186249
+                  ]
+            },
+            {
+                  "name": "Rautjärvi",
+                  "text": "Rautjärvi este un lac pitoresc în Heinola, care atrage vizitatorii cu frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        26.090718,
+                        61.18749
+                  ]
+            },
+            {
+                  "name": "Pikijärvet",
+                  "text": "Pikijärvet oferă o atmosferă liniștită și experiențe frumoase în natură în regiunea Heinola.",
+                  "category": "natural",
+                  "coords": [
+                        26.09638,
+                        61.202015
+                  ]
+            },
+            {
+                  "name": "Kotajärvi",
+                  "text": "Kotajärvi este un lac în Heinola, oferind un mediu pașnic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.077995,
+                        61.250435
+                  ]
+            },
+            {
+                  "name": "Valkjärvi",
+                  "text": "Valkjärvi este un lac în Heinola, cunoscut pentru mediul său curat și oportunitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.917264,
+                        61.199496
+                  ]
+            },
+            {
+                  "name": "Kausanlampi",
+                  "text": "Kausanlampi este un lac din Heinola, oferind un cadru liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.908015,
+                        61.196119
+                  ]
+            },
+            {
+                  "name": "Mustalampi",
+                  "text": "Mustalampi este un lac din Heinola, cunoscut pentru peisajul natural și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        25.917976,
+                        61.189479
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Saarijärvi este un lac din Heinola, ideal pentru observarea naturii și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        25.914793,
+                        61.170155
+                  ]
+            },
+            {
+                  "name": "Tarkjärvi",
+                  "text": "Tarkjärvi este un lac din Heinola, oferind o atmosferă liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.021529,
+                        61.261212
+                  ]
+            },
+            {
+                  "name": "Joutjärvi",
+                  "text": "Joutjärvi este un lac din Heinola, cunoscut pentru cadrul său pitoresc și traseele de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        26.152302,
+                        61.24571
+                  ]
+            },
+            {
+                  "name": "Konnivesi",
+                  "text": "Konnivesi este un lac important din Heinola, oferind posibilități de recreere și peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        26.142112,
+                        61.166761
+                  ]
+            },
+            {
+                  "name": "Ruotsalainen",
+                  "text": "Ruotsalainen este un lac din Heinola, apreciat pentru întinderile sale de apă și peisajele naturale.",
+                  "category": "natural",
+                  "coords": [
+                        25.820194,
+                        61.227369
+                  ]
+            },
+            {
+                  "name": "Levijärvi",
+                  "text": "Levijärvi este un lac din Heinola, oferind vizitatorilor un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        26.110248,
+                        61.120884
+                  ]
+            },
+            {
+                  "name": "Ristijärvi",
+                  "text": "Ristijärvi este un lac din Heinola, cunoscut pentru locația sa liniștită și cadrul forestier.",
+                  "category": "natural",
+                  "coords": [
+                        26.017702,
+                        61.276121
+                  ]
+            },
+            {
+                  "name": "Suurijärvi",
+                  "text": "Suurijärvi este un lac din Heinola, care invită la momente de relaxare în natura finlandeză.",
+                  "category": "natural",
+                  "coords": [
+                        26.010239,
+                        61.125437
+                  ]
+            },
+            {
+                  "name": "Heinolan liikennepuisto",
+                  "text": "Heinolan liikennepuisto este un parc de educație rutieră și teren de joacă pentru familii în Heinola.",
+                  "category": "family",
+                  "coords": [
+                        26.044825,
+                        61.203664
+                  ]
             }
       ],
       "en": [
@@ -25254,6 +34470,159 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         26.041803,
                         61.208968
+                  ]
+            },
+            {
+                  "name": "Läpiänjärvi",
+                  "text": "Läpiänjärvi is a lake in Heinola, offering a peaceful setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        26.054541,
+                        61.133587
+                  ]
+            },
+            {
+                  "name": "Kortejärvi",
+                  "text": "Kortejärvi is a lake in Heinola, ideal for relaxing moments and walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        26.101675,
+                        61.186249
+                  ]
+            },
+            {
+                  "name": "Rautjärvi",
+                  "text": "Rautjärvi is a scenic lake in Heinola, attracting visitors with its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        26.090718,
+                        61.18749
+                  ]
+            },
+            {
+                  "name": "Pikijärvet",
+                  "text": "Pikijärvet offers a calm atmosphere and beautiful nature experiences in the Heinola region.",
+                  "category": "natural",
+                  "coords": [
+                        26.09638,
+                        61.202015
+                  ]
+            },
+            {
+                  "name": "Kotajärvi",
+                  "text": "Kotajärvi is a lake in Heinola, providing a peaceful environment for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        26.077995,
+                        61.250435
+                  ]
+            },
+            {
+                  "name": "Valkjärvi",
+                  "text": "Valkjärvi is a lake in Heinola, known for its clear surroundings and recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        25.917264,
+                        61.199496
+                  ]
+            },
+            {
+                  "name": "Kausanlampi",
+                  "text": "Kausanlampi is a lake in Heinola, offering a peaceful setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        25.908015,
+                        61.196119
+                  ]
+            },
+            {
+                  "name": "Mustalampi",
+                  "text": "Mustalampi is a lake in Heinola, known for its natural scenery and tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        25.917976,
+                        61.189479
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Saarijärvi is a lake in Heinola, ideal for nature viewing and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.914793,
+                        61.170155
+                  ]
+            },
+            {
+                  "name": "Tarkjärvi",
+                  "text": "Tarkjärvi is a lake in Heinola, offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.021529,
+                        61.261212
+                  ]
+            },
+            {
+                  "name": "Joutjärvi",
+                  "text": "Joutjärvi is a lake in Heinola, known for its scenic surroundings and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        26.152302,
+                        61.24571
+                  ]
+            },
+            {
+                  "name": "Konnivesi",
+                  "text": "Konnivesi is a major lake in Heinola, offering opportunities for recreation and beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.142112,
+                        61.166761
+                  ]
+            },
+            {
+                  "name": "Ruotsalainen",
+                  "text": "Ruotsalainen is a lake in Heinola, appreciated for its vast waters and natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        25.820194,
+                        61.227369
+                  ]
+            },
+            {
+                  "name": "Levijärvi",
+                  "text": "Levijärvi is a lake in Heinola, providing a calm natural setting for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        26.110248,
+                        61.120884
+                  ]
+            },
+            {
+                  "name": "Ristijärvi",
+                  "text": "Ristijärvi is a lake in Heinola, known for its peaceful location and forest surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        26.017702,
+                        61.276121
+                  ]
+            },
+            {
+                  "name": "Suurijärvi",
+                  "text": "Suurijärvi is a lake in Heinola, inviting for relaxing moments in Finnish nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.010239,
+                        61.125437
+                  ]
+            },
+            {
+                  "name": "Heinolan liikennepuisto",
+                  "text": "Heinolan liikennepuisto is a traffic park and playground for families in Heinola.",
+                  "category": "family",
+                  "coords": [
+                        26.044825,
+                        61.203664
                   ]
             }
       ]
@@ -25509,6 +34878,222 @@ export const finlandNatureExtended: POI[] = [
                         27.28549,
                         61.678051
                   ]
+            },
+            {
+                  "name": "Urpolanlampi",
+                  "text": "Ein malerischer kleiner See in Mikkeli, der zu ruhigen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.261469,
+                        61.674517
+                  ]
+            },
+            {
+                  "name": "Moisionlampi",
+                  "text": "Ein See in Mikkeli, der eine entspannte Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.273123,
+                        61.658361
+                  ]
+            },
+            {
+                  "name": "Nielus",
+                  "text": "Ein Gewässer in der Nähe von Mikkeli, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        27.241087,
+                        61.640522
+                  ]
+            },
+            {
+                  "name": "Pikku-Surnu",
+                  "text": "Ein kleiner See in Mikkeli, der durch seine natürliche Ruhe besticht.",
+                  "category": "natural",
+                  "coords": [
+                        27.278388,
+                        61.625185
+                  ]
+            },
+            {
+                  "name": "Lahnalampi",
+                  "text": "Dieser See in Mikkeli bietet eine friedliche Umgebung für Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        27.385058,
+                        61.693047
+                  ]
+            },
+            {
+                  "name": "Sihvonen",
+                  "text": "Ein ruhiger Ort am Wasser in Mikkeli, perfekt zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        27.397696,
+                        61.695825
+                  ]
+            },
+            {
+                  "name": "Elehvänlampi",
+                  "text": "Ein kleiner See in Mikkeli, umgeben von schöner finnischer Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        27.408823,
+                        61.687759
+                  ]
+            },
+            {
+                  "name": "Siltanen",
+                  "text": "Ein See bei Mikkeli, der sich gut für einen kurzen Aufenthalt in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.255071,
+                        61.751114
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Ein typisch finnischer See in Mikkeli, ideal für Wanderungen am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        27.24793,
+                        61.732618
+                  ]
+            },
+            {
+                  "name": "Särkijärvi",
+                  "text": "Ein Gewässer in Mikkeli, das eine ruhige Kulisse für Erholungssuchende bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.251002,
+                        61.721262
+                  ]
+            },
+            {
+                  "name": "Höytiäinen",
+                  "text": "Ein beeindruckender See in Mikkeli, bekannt für seine weite Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        27.26119,
+                        61.756221
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Teil des großen Saimaa-Seensystems in Mikkeli, ideal für Wassersport und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Paloinlampi",
+                  "text": "Ein kleiner, friedlicher See in Mikkeli, fernab vom Trubel.",
+                  "category": "natural",
+                  "coords": [
+                        27.199297,
+                        61.716731
+                  ]
+            },
+            {
+                  "name": "Hirsilammit",
+                  "text": "Kleine Seen in Mikkeli, die eine idyllische Atmosphäre in der Natur bieten.",
+                  "category": "natural",
+                  "coords": [
+                        27.174113,
+                        61.731893
+                  ]
+            },
+            {
+                  "name": "Iso-Surnu",
+                  "text": "Ein See in Mikkeli, der sich harmonisch in die umliegende Waldlandschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        27.276752,
+                        61.632076
+                  ]
+            },
+            {
+                  "name": "Naisvuoren leikkipuisto",
+                  "text": "Ein beliebter Spielplatz in Mikkeli mit tollen Klettermöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        27.273094,
+                        61.693531
+                  ]
+            },
+            {
+                  "name": "Likolammen leikkipuisto",
+                  "text": "Ein Spielplatz am See in Mikkeli, der Spielspaß und Natur verbindet.",
+                  "category": "family",
+                  "coords": [
+                        27.270672,
+                        61.69681
+                  ]
+            },
+            {
+                  "name": "Mikamar Games",
+                  "text": "Eine Spielhalle in Mikkeli mit verschiedenen Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        27.274961,
+                        61.692419
+                  ]
+            },
+            {
+                  "name": "Ilmarisenpuisto",
+                  "text": "Ein weitläufiger Spielpark in Mikkeli mit verschiedenen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        27.254982,
+                        61.682587
+                  ]
+            },
+            {
+                  "name": "Teljonpuisto",
+                  "text": "Ein freundlicher Spielplatz in Mikkeli, der Kindern viel Raum zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        27.288868,
+                        61.692253
+                  ]
+            },
+            {
+                  "name": "Rouhialan leikkipuisto",
+                  "text": "Dieser Spielplatz in Mikkeli ist ein idealer Ort für den täglichen Spielspaß.",
+                  "category": "family",
+                  "coords": [
+                        27.267804,
+                        61.702491
+                  ]
+            },
+            {
+                  "name": "Peitsarin päiväkoti",
+                  "text": "Ein Spielbereich in Mikkeli, der speziell auf die Bedürfnisse jüngerer Kinder ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        27.300478,
+                        61.700853
+                  ]
+            },
+            {
+                  "name": "Leijonapuisto",
+                  "text": "Ein großzügiger Spielplatz in Mikkeli mit Platz für Sport und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        27.281501,
+                        61.688293
+                  ]
+            },
+            {
+                  "name": "Ritvalanpuisto",
+                  "text": "Ein schöner Spielplatz in Mikkeli, der Familien zum gemeinsamen Verweilen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        27.30567,
+                        61.681187
+                  ]
             }
       ],
       "hu": [
@@ -25717,6 +35302,222 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.28549,
                         61.678051
+                  ]
+            },
+            {
+                  "name": "Urpolanlampi",
+                  "text": "Festői kis tó Mikkeli területén, amely nyugodt sétákra hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.261469,
+                        61.674517
+                  ]
+            },
+            {
+                  "name": "Moisionlampi",
+                  "text": "Tó Mikkeli városában, amely nyugodt légkört kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        27.273123,
+                        61.658361
+                  ]
+            },
+            {
+                  "name": "Nielus",
+                  "text": "Mikkeli közeli vízfelület, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.241087,
+                        61.640522
+                  ]
+            },
+            {
+                  "name": "Pikku-Surnu",
+                  "text": "Kisebb tó Mikkeli területén, amely természetes nyugalmával hódít.",
+                  "category": "natural",
+                  "coords": [
+                        27.278388,
+                        61.625185
+                  ]
+            },
+            {
+                  "name": "Lahnalampi",
+                  "text": "Ez a mikkeli tó békés környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.385058,
+                        61.693047
+                  ]
+            },
+            {
+                  "name": "Sihvonen",
+                  "text": "Nyugodt vízparti hely Mikkeli területén, tökéletes a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        27.397696,
+                        61.695825
+                  ]
+            },
+            {
+                  "name": "Elehvänlampi",
+                  "text": "Kisebb tó Mikkeli városában, gyönyörű finn tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        27.408823,
+                        61.687759
+                  ]
+            },
+            {
+                  "name": "Siltanen",
+                  "text": "Tó Mikkeli közelében, amely alkalmas egy rövid természeti kitérőre.",
+                  "category": "natural",
+                  "coords": [
+                        27.255071,
+                        61.751114
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Tipikus finn tó Mikkeli területén, ideális vízparti túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.24793,
+                        61.732618
+                  ]
+            },
+            {
+                  "name": "Särkijärvi",
+                  "text": "Vízfelület Mikkeli városában, amely nyugodt környezetet biztosít a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        27.251002,
+                        61.721262
+                  ]
+            },
+            {
+                  "name": "Höytiäinen",
+                  "text": "Lenyűgöző tó Mikkeli területén, amely tágas vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.26119,
+                        61.756221
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "A nagy Saimaa-tórendszer része Mikkeli városában, ideális vízi sportokhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Paloinlampi",
+                  "text": "Kicsi, békés tó Mikkeli területén, távol a város zajától.",
+                  "category": "natural",
+                  "coords": [
+                        27.199297,
+                        61.716731
+                  ]
+            },
+            {
+                  "name": "Hirsilammit",
+                  "text": "Apró tavak Mikkeli városában, amelyek idilli hangulatot árasztanak a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        27.174113,
+                        61.731893
+                  ]
+            },
+            {
+                  "name": "Iso-Surnu",
+                  "text": "Tó Mikkeli területén, amely harmonikusan illeszkedik a környező erdei tájba.",
+                  "category": "natural",
+                  "coords": [
+                        27.276752,
+                        61.632076
+                  ]
+            },
+            {
+                  "name": "Naisvuoren leikkipuisto",
+                  "text": "Népszerű játszótér Mikkeli városában, remek mászási lehetőségekkel a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.273094,
+                        61.693531
+                  ]
+            },
+            {
+                  "name": "Likolammen leikkipuisto",
+                  "text": "Tóparti játszótér Mikkeli városában, amely ötvözi a játékot és a természetet.",
+                  "category": "family",
+                  "coords": [
+                        27.270672,
+                        61.69681
+                  ]
+            },
+            {
+                  "name": "Mikamar Games",
+                  "text": "Játékterem Mikkeli városában, különféle játékokkal a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        27.274961,
+                        61.692419
+                  ]
+            },
+            {
+                  "name": "Ilmarisenpuisto",
+                  "text": "Tágas játszópark Mikkeli városában, különféle tevékenységekkel gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        27.254982,
+                        61.682587
+                  ]
+            },
+            {
+                  "name": "Teljonpuisto",
+                  "text": "Barátságos játszótér Mikkeli területén, amely tágas teret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        27.288868,
+                        61.692253
+                  ]
+            },
+            {
+                  "name": "Rouhialan leikkipuisto",
+                  "text": "Ez a mikkeli játszótér ideális hely a mindennapi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.267804,
+                        61.702491
+                  ]
+            },
+            {
+                  "name": "Peitsarin päiväkoti",
+                  "text": "Mikkeli egyik játszóövezete, amely kifejezetten a kisebb gyermekek igényeire szabott.",
+                  "category": "family",
+                  "coords": [
+                        27.300478,
+                        61.700853
+                  ]
+            },
+            {
+                  "name": "Leijonapuisto",
+                  "text": "Nagyméretű játszótér Mikkeli városában, hellyel a sportoláshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.281501,
+                        61.688293
+                  ]
+            },
+            {
+                  "name": "Ritvalanpuisto",
+                  "text": "Szép játszótér Mikkeli területén, amely közös kikapcsolódásra hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        27.30567,
+                        61.681187
                   ]
             }
       ],
@@ -25927,6 +35728,222 @@ export const finlandNatureExtended: POI[] = [
                         27.28549,
                         61.678051
                   ]
+            },
+            {
+                  "name": "Urpolanlampi",
+                  "text": "Un mic lac pitoresc în Mikkeli, care invită la plimbări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        27.261469,
+                        61.674517
+                  ]
+            },
+            {
+                  "name": "Moisionlampi",
+                  "text": "Un lac în Mikkeli, care oferă o atmosferă relaxată lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        27.273123,
+                        61.658361
+                  ]
+            },
+            {
+                  "name": "Nielus",
+                  "text": "O apă în apropiere de Mikkeli, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.241087,
+                        61.640522
+                  ]
+            },
+            {
+                  "name": "Pikku-Surnu",
+                  "text": "Un mic lac în Mikkeli, care impresionează prin liniștea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        27.278388,
+                        61.625185
+                  ]
+            },
+            {
+                  "name": "Lahnalampi",
+                  "text": "Acest lac din Mikkeli oferă un mediu liniștit pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.385058,
+                        61.693047
+                  ]
+            },
+            {
+                  "name": "Sihvonen",
+                  "text": "Un loc liniștit lângă apă în Mikkeli, perfect pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.397696,
+                        61.695825
+                  ]
+            },
+            {
+                  "name": "Elehvänlampi",
+                  "text": "Un mic lac în Mikkeli, înconjurat de frumosul peisaj finlandez.",
+                  "category": "natural",
+                  "coords": [
+                        27.408823,
+                        61.687759
+                  ]
+            },
+            {
+                  "name": "Siltanen",
+                  "text": "Un lac lângă Mikkeli, potrivit pentru o scurtă oprire în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.255071,
+                        61.751114
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "Un lac tipic finlandez în Mikkeli, ideal pentru drumeții pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        27.24793,
+                        61.732618
+                  ]
+            },
+            {
+                  "name": "Särkijärvi",
+                  "text": "O apă în Mikkeli care oferă un cadru liniștit pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.251002,
+                        61.721262
+                  ]
+            },
+            {
+                  "name": "Höytiäinen",
+                  "text": "Un lac impresionant în Mikkeli, cunoscut pentru suprafața sa vastă de apă.",
+                  "category": "natural",
+                  "coords": [
+                        27.26119,
+                        61.756221
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Parte a marelui sistem de lacuri Saimaa din Mikkeli, ideal pentru sporturi nautice și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Paloinlampi",
+                  "text": "Un lac mic și liniștit în Mikkeli, departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        27.199297,
+                        61.716731
+                  ]
+            },
+            {
+                  "name": "Hirsilammit",
+                  "text": "Lacuri mici în Mikkeli care oferă o atmosferă idilică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.174113,
+                        61.731893
+                  ]
+            },
+            {
+                  "name": "Iso-Surnu",
+                  "text": "Un lac în Mikkeli care se integrează armonios în peisajul forestier din jur.",
+                  "category": "natural",
+                  "coords": [
+                        27.276752,
+                        61.632076
+                  ]
+            },
+            {
+                  "name": "Naisvuoren leikkipuisto",
+                  "text": "Un loc de joacă popular în Mikkeli, cu oportunități excelente de cățărare pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        27.273094,
+                        61.693531
+                  ]
+            },
+            {
+                  "name": "Likolammen leikkipuisto",
+                  "text": "Un loc de joacă lângă lac în Mikkeli, care îmbină distracția cu natura.",
+                  "category": "family",
+                  "coords": [
+                        27.270672,
+                        61.69681
+                  ]
+            },
+            {
+                  "name": "Mikamar Games",
+                  "text": "O sală de jocuri în Mikkeli cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        27.274961,
+                        61.692419
+                  ]
+            },
+            {
+                  "name": "Ilmarisenpuisto",
+                  "text": "Un parc de joacă spațios în Mikkeli, cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        27.254982,
+                        61.682587
+                  ]
+            },
+            {
+                  "name": "Teljonpuisto",
+                  "text": "Un loc de joacă prietenos în Mikkeli, care oferă copiilor mult spațiu de mișcare.",
+                  "category": "family",
+                  "coords": [
+                        27.288868,
+                        61.692253
+                  ]
+            },
+            {
+                  "name": "Rouhialan leikkipuisto",
+                  "text": "Acest loc de joacă din Mikkeli este un loc ideal pentru distracția zilnică.",
+                  "category": "family",
+                  "coords": [
+                        27.267804,
+                        61.702491
+                  ]
+            },
+            {
+                  "name": "Peitsarin päiväkoti",
+                  "text": "O zonă de joacă în Mikkeli, concepută special pentru nevoile copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        27.300478,
+                        61.700853
+                  ]
+            },
+            {
+                  "name": "Leijonapuisto",
+                  "text": "Un loc de joacă generos în Mikkeli, cu spațiu pentru sport și joacă.",
+                  "category": "family",
+                  "coords": [
+                        27.281501,
+                        61.688293
+                  ]
+            },
+            {
+                  "name": "Ritvalanpuisto",
+                  "text": "Un loc de joacă frumos în Mikkeli, care invită familiile la petrecerea timpului împreună.",
+                  "category": "family",
+                  "coords": [
+                        27.30567,
+                        61.681187
+                  ]
             }
       ],
       "en": [
@@ -26136,6 +36153,222 @@ export const finlandNatureExtended: POI[] = [
                         27.28549,
                         61.678051
                   ]
+            },
+            {
+                  "name": "Urpolanlampi",
+                  "text": "A scenic little lake in Mikkeli, inviting for quiet walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.261469,
+                        61.674517
+                  ]
+            },
+            {
+                  "name": "Moisionlampi",
+                  "text": "A lake in Mikkeli offering a relaxed atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.273123,
+                        61.658361
+                  ]
+            },
+            {
+                  "name": "Nielus",
+                  "text": "A body of water near Mikkeli, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        27.241087,
+                        61.640522
+                  ]
+            },
+            {
+                  "name": "Pikku-Surnu",
+                  "text": "A small lake in Mikkeli known for its natural tranquility.",
+                  "category": "natural",
+                  "coords": [
+                        27.278388,
+                        61.625185
+                  ]
+            },
+            {
+                  "name": "Lahnalampi",
+                  "text": "This lake in Mikkeli provides a peaceful environment for trips into the green.",
+                  "category": "natural",
+                  "coords": [
+                        27.385058,
+                        61.693047
+                  ]
+            },
+            {
+                  "name": "Sihvonen",
+                  "text": "A quiet spot by the water in Mikkeli, perfect for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.397696,
+                        61.695825
+                  ]
+            },
+            {
+                  "name": "Elehvänlampi",
+                  "text": "A small lake in Mikkeli surrounded by beautiful Finnish scenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.408823,
+                        61.687759
+                  ]
+            },
+            {
+                  "name": "Siltanen",
+                  "text": "A lake near Mikkeli suitable for a short stay in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.255071,
+                        61.751114
+                  ]
+            },
+            {
+                  "name": "Saarijärvi",
+                  "text": "A typical Finnish lake in Mikkeli, ideal for hikes along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        27.24793,
+                        61.732618
+                  ]
+            },
+            {
+                  "name": "Särkijärvi",
+                  "text": "A body of water in Mikkeli providing a quiet backdrop for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.251002,
+                        61.721262
+                  ]
+            },
+            {
+                  "name": "Höytiäinen",
+                  "text": "An impressive lake in Mikkeli, known for its wide expanse of water.",
+                  "category": "natural",
+                  "coords": [
+                        27.26119,
+                        61.756221
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Part of the large Saimaa lake system in Mikkeli, ideal for water sports and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Paloinlampi",
+                  "text": "A small, peaceful lake in Mikkeli, far from the hustle and bustle.",
+                  "category": "natural",
+                  "coords": [
+                        27.199297,
+                        61.716731
+                  ]
+            },
+            {
+                  "name": "Hirsilammit",
+                  "text": "Small lakes in Mikkeli offering an idyllic atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.174113,
+                        61.731893
+                  ]
+            },
+            {
+                  "name": "Iso-Surnu",
+                  "text": "A lake in Mikkeli that blends harmoniously into the surrounding forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.276752,
+                        61.632076
+                  ]
+            },
+            {
+                  "name": "Naisvuoren leikkipuisto",
+                  "text": "A popular playground in Mikkeli with great climbing opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        27.273094,
+                        61.693531
+                  ]
+            },
+            {
+                  "name": "Likolammen leikkipuisto",
+                  "text": "A lakeside playground in Mikkeli combining fun and nature.",
+                  "category": "family",
+                  "coords": [
+                        27.270672,
+                        61.69681
+                  ]
+            },
+            {
+                  "name": "Mikamar Games",
+                  "text": "An amusement arcade in Mikkeli featuring various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        27.274961,
+                        61.692419
+                  ]
+            },
+            {
+                  "name": "Ilmarisenpuisto",
+                  "text": "A spacious play park in Mikkeli with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        27.254982,
+                        61.682587
+                  ]
+            },
+            {
+                  "name": "Teljonpuisto",
+                  "text": "A friendly playground in Mikkeli offering children plenty of room to run around.",
+                  "category": "family",
+                  "coords": [
+                        27.288868,
+                        61.692253
+                  ]
+            },
+            {
+                  "name": "Rouhialan leikkipuisto",
+                  "text": "This playground in Mikkeli is an ideal spot for daily play fun.",
+                  "category": "family",
+                  "coords": [
+                        27.267804,
+                        61.702491
+                  ]
+            },
+            {
+                  "name": "Peitsarin päiväkoti",
+                  "text": "A play area in Mikkeli specially designed for the needs of younger children.",
+                  "category": "family",
+                  "coords": [
+                        27.300478,
+                        61.700853
+                  ]
+            },
+            {
+                  "name": "Leijonapuisto",
+                  "text": "A generous playground in Mikkeli with space for sports and games.",
+                  "category": "family",
+                  "coords": [
+                        27.281501,
+                        61.688293
+                  ]
+            },
+            {
+                  "name": "Ritvalanpuisto",
+                  "text": "A nice playground in Mikkeli that invites families to spend time together.",
+                  "category": "family",
+                  "coords": [
+                        27.30567,
+                        61.681187
+                  ]
             }
       ]
 },
@@ -26246,6 +36479,78 @@ export const finlandNatureExtended: POI[] = [
                         27.191004,
                         63.562511
                   ]
+            },
+            {
+                  "name": "Ylemmäinen",
+                  "text": "Ein malerischer See in Iisalmi, der sich gut für Spaziergänge am Ufer eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.11591,
+                        63.577112
+                  ]
+            },
+            {
+                  "name": "Iso-Ahmo",
+                  "text": "Ein ruhiger See in Iisalmi, ideal zum Entspannen und Beobachten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.260502,
+                        63.534097
+                  ]
+            },
+            {
+                  "name": "Tismiö",
+                  "text": "Ein kleinerer See in der Umgebung von Iisalmi mit friedlicher Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        27.143801,
+                        63.597538
+                  ]
+            },
+            {
+                  "name": "Keskimmäinen",
+                  "text": "Ein schöner See in Iisalmi, der einen ruhigen Rückzugsort im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.115385,
+                        63.59616
+                  ]
+            },
+            {
+                  "name": "Kilpijärvi",
+                  "text": "Ein natürlicher See in Iisalmi, der zur Erholung am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.282754,
+                        63.554742
+                  ]
+            },
+            {
+                  "name": "Porovesi",
+                  "text": "Ein bekannter See in Iisalmi, der für seine Größe und Wassersportmöglichkeiten geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        27.127963,
+                        63.549313
+                  ]
+            },
+            {
+                  "name": "Paloisjärvi",
+                  "text": "Ein zentraler See in Iisalmi, ideal für Aktivitäten im Freien und schöne Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        27.222388,
+                        63.563928
+                  ]
+            },
+            {
+                  "name": "Pikku-Ii",
+                  "text": "Ein kleinerer See in Iisalmi, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        27.167354,
+                        63.605221
+                  ]
             }
       ],
       "hu": [
@@ -26310,6 +36615,78 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.191004,
                         63.562511
+                  ]
+            },
+            {
+                  "name": "Ylemmäinen",
+                  "text": "Festői tó Iisalmi városában, amely alkalmas vízparti sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        27.11591,
+                        63.577112
+                  ]
+            },
+            {
+                  "name": "Iso-Ahmo",
+                  "text": "Csendes tó Iisalmi városában, ideális pihenésre és természetfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        27.260502,
+                        63.534097
+                  ]
+            },
+            {
+                  "name": "Tismiö",
+                  "text": "Kisebb tó Iisalmi környékén, békés hangulattal.",
+                  "category": "natural",
+                  "coords": [
+                        27.143801,
+                        63.597538
+                  ]
+            },
+            {
+                  "name": "Keskimmäinen",
+                  "text": "Szép tó Iisalmi városában, amely nyugodt szabadtéri menedéket nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        27.115385,
+                        63.59616
+                  ]
+            },
+            {
+                  "name": "Kilpijärvi",
+                  "text": "Természetes tó Iisalmi városában, amely hívogat a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        27.282754,
+                        63.554742
+                  ]
+            },
+            {
+                  "name": "Porovesi",
+                  "text": "Ismert tó Iisalmi városában, mérete és vízi sportlehetőségei miatt kedvelt.",
+                  "category": "natural",
+                  "coords": [
+                        27.127963,
+                        63.549313
+                  ]
+            },
+            {
+                  "name": "Paloisjärvi",
+                  "text": "Központi elhelyezkedésű tó Iisalmi városában, ideális szabadtéri tevékenységekhez és szép kilátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.222388,
+                        63.563928
+                  ]
+            },
+            {
+                  "name": "Pikku-Ii",
+                  "text": "Kisebb tó Iisalmi városában, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        27.167354,
+                        63.605221
                   ]
             }
       ],
@@ -26376,6 +36753,78 @@ export const finlandNatureExtended: POI[] = [
                         27.191004,
                         63.562511
                   ]
+            },
+            {
+                  "name": "Ylemmäinen",
+                  "text": "Un lac pitoresc în Iisalmi, potrivit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.11591,
+                        63.577112
+                  ]
+            },
+            {
+                  "name": "Iso-Ahmo",
+                  "text": "Un lac liniștit în Iisalmi, ideal pentru relaxare și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        27.260502,
+                        63.534097
+                  ]
+            },
+            {
+                  "name": "Tismiö",
+                  "text": "Un lac mai mic în zona Iisalmi, cu o atmosferă pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        27.143801,
+                        63.597538
+                  ]
+            },
+            {
+                  "name": "Keskimmäinen",
+                  "text": "Un lac frumos în Iisalmi care oferă un refugiu liniștit în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.115385,
+                        63.59616
+                  ]
+            },
+            {
+                  "name": "Kilpijärvi",
+                  "text": "Un lac natural în Iisalmi care invită la recreere pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.282754,
+                        63.554742
+                  ]
+            },
+            {
+                  "name": "Porovesi",
+                  "text": "Un lac cunoscut în Iisalmi, apreciat pentru mărimea sa și posibilitățile de sporturi nautice.",
+                  "category": "natural",
+                  "coords": [
+                        27.127963,
+                        63.549313
+                  ]
+            },
+            {
+                  "name": "Paloisjärvi",
+                  "text": "Un lac central în Iisalmi, ideal pentru activități în aer liber și priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        27.222388,
+                        63.563928
+                  ]
+            },
+            {
+                  "name": "Pikku-Ii",
+                  "text": "Un lac mai mic în Iisalmi, care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        27.167354,
+                        63.605221
+                  ]
             }
       ],
       "en": [
@@ -26441,6 +36890,78 @@ export const finlandNatureExtended: POI[] = [
                         27.191004,
                         63.562511
                   ]
+            },
+            {
+                  "name": "Ylemmäinen",
+                  "text": "A scenic lake in Iisalmi suitable for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        27.11591,
+                        63.577112
+                  ]
+            },
+            {
+                  "name": "Iso-Ahmo",
+                  "text": "A quiet lake in Iisalmi, ideal for relaxing and observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.260502,
+                        63.534097
+                  ]
+            },
+            {
+                  "name": "Tismiö",
+                  "text": "A smaller lake in the Iisalmi area with a peaceful atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        27.143801,
+                        63.597538
+                  ]
+            },
+            {
+                  "name": "Keskimmäinen",
+                  "text": "A lovely lake in Iisalmi providing a calm outdoor retreat.",
+                  "category": "natural",
+                  "coords": [
+                        27.115385,
+                        63.59616
+                  ]
+            },
+            {
+                  "name": "Kilpijärvi",
+                  "text": "A natural lake in Iisalmi inviting for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.282754,
+                        63.554742
+                  ]
+            },
+            {
+                  "name": "Porovesi",
+                  "text": "A well-known lake in Iisalmi appreciated for its size and water sport opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        27.127963,
+                        63.549313
+                  ]
+            },
+            {
+                  "name": "Paloisjärvi",
+                  "text": "A centrally located lake in Iisalmi ideal for outdoor activities and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        27.222388,
+                        63.563928
+                  ]
+            },
+            {
+                  "name": "Pikku-Ii",
+                  "text": "A smaller lake in Iisalmi that fits harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.167354,
+                        63.605221
+                  ]
             }
       ]
 },
@@ -26487,7 +37008,124 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-varkaus",
+    id: "city-varkaus", "sights": {
+      "de": [
+            {
+                  "name": "Haukivesi",
+                  "text": "Der Haukivesi ist ein Teil des Saimaa-Seensystems bei Varkaus und bekannt für seine Inselwelt.",
+                  "category": "natural",
+                  "coords": [
+                        28.346667,
+                        62.120052
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Der Saimaa ist Finnlands größter See bei Varkaus und bietet beeindruckende Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Rauhalahti",
+                  "text": "Der Rauhalahti ist ein See in Varkaus, der eine ruhige Kulisse für Freizeitaktivitäten im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.180027,
+                        62.270916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haukivesi",
+                  "text": "A Haukivesi a Saimaa-tórendszer része Varkaus mellett, amely szigetvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.346667,
+                        62.120052
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "A Saimaa Finnország legnagyobb tava Varkausnál, amely lenyűgöző természeti élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Rauhalahti",
+                  "text": "A Rauhalahti egy tó Varkaus területén, amely nyugodt hátteret biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.180027,
+                        62.270916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haukivesi",
+                  "text": "Haukivesi face parte din sistemul lacustru Saimaa lângă Varkaus, fiind cunoscut pentru insulele sale.",
+                  "category": "natural",
+                  "coords": [
+                        28.346667,
+                        62.120052
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Saimaa este cel mai mare lac din Finlanda, situat lângă Varkaus, oferind experiențe naturale impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Rauhalahti",
+                  "text": "Rauhalahti este un lac din Varkaus, oferind un cadru liniștit pentru activități recreative în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.180027,
+                        62.270916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haukivesi",
+                  "text": "Haukivesi is part of the Saimaa lake system near Varkaus, known for its archipelago.",
+                  "category": "natural",
+                  "coords": [
+                        28.346667,
+                        62.120052
+                  ]
+            },
+            {
+                  "name": "Saimaa",
+                  "text": "Saimaa is Finland's largest lake near Varkaus, offering impressive nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        28.622639,
+                        61.837622
+                  ]
+            },
+            {
+                  "name": "Rauhalahti",
+                  "text": "Rauhalahti is a lake in Varkaus, providing a calm backdrop for outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        28.180027,
+                        62.270916
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-north-savo-fi",
     coords: [28.1880, 62.3170],

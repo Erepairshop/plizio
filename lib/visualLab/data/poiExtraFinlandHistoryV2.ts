@@ -2299,6 +2299,231 @@ export const finlandHistoryV2: POI[] = [
                         23.129786,
                         63.842911
                   ]
+            },
+            {
+                  "name": "Päiväjärvi",
+                  "text": "Ein kleiner See im Stadtteil Neristan in Kokkola.",
+                  "category": "natural",
+                  "coords": [
+                        23.246227,
+                        63.890076
+                  ]
+            },
+            {
+                  "name": "Öjanjärvi",
+                  "text": "Ein lokaler See in Kokkola, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        23.001732,
+                        63.802474
+                  ]
+            },
+            {
+                  "name": "Möllersfjärden",
+                  "text": "Ein ruhiger Seeabschnitt in Kokkola, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.16914,
+                        63.90826
+                  ]
+            },
+            {
+                  "name": "Smalasundet",
+                  "text": "Ein schmales Gewässer in Kokkola, das die Landschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        23.177836,
+                        63.903545
+                  ]
+            },
+            {
+                  "name": "Byrkholmsfjärden",
+                  "text": "Ein Teil der Seenlandschaft in Kokkola mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        22.95728,
+                        63.804249
+                  ]
+            },
+            {
+                  "name": "Tarharannanpuisto",
+                  "text": "Ein moderner Spielplatz in Kokkola für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        23.12262,
+                        63.823755
+                  ]
+            },
+            {
+                  "name": "Laaksopuisto",
+                  "text": "Ein schöner Spielplatz im Grünen in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154123,
+                        63.819328
+                  ]
+            },
+            {
+                  "name": "Invalidikylänpuisto",
+                  "text": "Dieser Spielplatz in Kokkola bietet viel Platz zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        23.107435,
+                        63.838386
+                  ]
+            },
+            {
+                  "name": "Riskanpuisto",
+                  "text": "Ein familienfreundlicher Park mit Spielgeräten in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.10582,
+                        63.840665
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Ein gut ausgestatteter Spielplatz in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.123887,
+                        63.826161
+                  ]
+            },
+            {
+                  "name": "Voikukkapuisto",
+                  "text": "Ein bunter Spielplatz in Kokkola, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        23.144309,
+                        63.817469
+                  ]
+            },
+            {
+                  "name": "Brennerinpuisto",
+                  "text": "Ein beliebter Treffpunkt für Familien in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.1072,
+                        63.842533
+                  ]
+            },
+            {
+                  "name": "Kallenpuisto",
+                  "text": "Ein kleiner Spielplatz in der Nachbarschaft von Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.157366,
+                        63.843436
+                  ]
+            },
+            {
+                  "name": "Kuutamopuisto",
+                  "text": "Dieser Spielplatz in Kokkola lädt zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        23.172266,
+                        63.851483
+                  ]
+            },
+            {
+                  "name": "Aurinkopuisto",
+                  "text": "Ein sonniger Ort für Kinder zum Spielen in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.162642,
+                        63.849478
+                  ]
+            },
+            {
+                  "name": "Ulkometsän puisto",
+                  "text": "Ein ruhiger Spielplatz in einer Parkanlage in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.149853,
+                        63.856995
+                  ]
+            },
+            {
+                  "name": "Torkinmäenpuisto",
+                  "text": "Ein moderner Spielbereich für Kinder in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154554,
+                        63.836785
+                  ]
+            },
+            {
+                  "name": "Alapuisto",
+                  "text": "Ein gut besuchter Spielplatz im Zentrum von Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168229,
+                        63.857768
+                  ]
+            },
+            {
+                  "name": "Pajupillin puisto",
+                  "text": "Ein kleiner, feiner Spielplatz für Kinder in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168376,
+                        63.855456
+                  ]
+            },
+            {
+                  "name": "Rytimäenpuisto",
+                  "text": "Dieser Spielplatz in Kokkola bietet Abwechslung im Alltag.",
+                  "category": "family",
+                  "coords": [
+                        23.160741,
+                        63.853347
+                  ]
+            },
+            {
+                  "name": "Säveltäjänpuisto",
+                  "text": "Ein thematisch gestalteter Spielplatz in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.148252,
+                        63.853422
+                  ]
+            },
+            {
+                  "name": "Kulimäenpuisto",
+                  "text": "Ein schöner Ort für Familien im Stadtteil Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.184066,
+                        63.844378
+                  ]
+            },
+            {
+                  "name": "Karpalopuisto",
+                  "text": "Ein Spielplatz in Kokkola, umgeben von Natur.",
+                  "category": "family",
+                  "coords": [
+                        23.181571,
+                        63.842245
+                  ]
+            },
+            {
+                  "name": "Korpinpuisto",
+                  "text": "Ein lokaler Spielpark für Kinder in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.180675,
+                        63.840759
+                  ]
+            },
+            {
+                  "name": "Suomuurainpuisto",
+                  "text": "Ein einladender Spielbereich in Kokkola für Familien.",
+                  "category": "family",
+                  "coords": [
+                        23.185332,
+                        63.839227
+                  ]
             }
       ],
       "hu": [
@@ -2453,6 +2678,231 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.129786,
                         63.842911
+                  ]
+            },
+            {
+                  "name": "Päiväjärvi",
+                  "text": "Egy kis tó Kokkola Neristan negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        23.246227,
+                        63.890076
+                  ]
+            },
+            {
+                  "name": "Öjanjärvi",
+                  "text": "Helyi tó Kokkolában, amely ideális a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        23.001732,
+                        63.802474
+                  ]
+            },
+            {
+                  "name": "Möllersfjärden",
+                  "text": "Nyugodt tórész Kokkolában, természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        23.16914,
+                        63.90826
+                  ]
+            },
+            {
+                  "name": "Smalasundet",
+                  "text": "Keskeny vízfelület Kokkolában, amely meghatározza a tájat.",
+                  "category": "natural",
+                  "coords": [
+                        23.177836,
+                        63.903545
+                  ]
+            },
+            {
+                  "name": "Byrkholmsfjärden",
+                  "text": "Kokkola tóvidékének része szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        22.95728,
+                        63.804249
+                  ]
+            },
+            {
+                  "name": "Tarharannanpuisto",
+                  "text": "Modern játszótér Kokkolában minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        23.12262,
+                        63.823755
+                  ]
+            },
+            {
+                  "name": "Laaksopuisto",
+                  "text": "Szép játszótér zöld környezetben Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.154123,
+                        63.819328
+                  ]
+            },
+            {
+                  "name": "Invalidikylänpuisto",
+                  "text": "Ez a kokkolai játszótér sok helyet kínál a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        23.107435,
+                        63.838386
+                  ]
+            },
+            {
+                  "name": "Riskanpuisto",
+                  "text": "Családbarát park játszóeszközökkel Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.10582,
+                        63.840665
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Jól felszerelt játszótér Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.123887,
+                        63.826161
+                  ]
+            },
+            {
+                  "name": "Voikukkapuisto",
+                  "text": "Színes játszótér Kokkolában, ideális családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        23.144309,
+                        63.817469
+                  ]
+            },
+            {
+                  "name": "Brennerinpuisto",
+                  "text": "Népszerű találkozóhely családok számára Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.1072,
+                        63.842533
+                  ]
+            },
+            {
+                  "name": "Kallenpuisto",
+                  "text": "Egy kis játszótér Kokkola egyik környékén.",
+                  "category": "family",
+                  "coords": [
+                        23.157366,
+                        63.843436
+                  ]
+            },
+            {
+                  "name": "Kuutamopuisto",
+                  "text": "Ez a kokkolai játszótér felfedezésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        23.172266,
+                        63.851483
+                  ]
+            },
+            {
+                  "name": "Aurinkopuisto",
+                  "text": "Napsütötte hely gyerekeknek a játékhoz Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.162642,
+                        63.849478
+                  ]
+            },
+            {
+                  "name": "Ulkometsän puisto",
+                  "text": "Nyugodt játszótér egy kokkolai parkban.",
+                  "category": "family",
+                  "coords": [
+                        23.149853,
+                        63.856995
+                  ]
+            },
+            {
+                  "name": "Torkinmäenpuisto",
+                  "text": "Modern játszóhely gyerekeknek Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.154554,
+                        63.836785
+                  ]
+            },
+            {
+                  "name": "Alapuisto",
+                  "text": "Kedvelt játszótér Kokkola központjában.",
+                  "category": "family",
+                  "coords": [
+                        23.168229,
+                        63.857768
+                  ]
+            },
+            {
+                  "name": "Pajupillin puisto",
+                  "text": "Kicsi, de igényes játszótér gyerekeknek Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.168376,
+                        63.855456
+                  ]
+            },
+            {
+                  "name": "Rytimäenpuisto",
+                  "text": "Ez a kokkolai játszótér változatosságot kínál a mindennapokban.",
+                  "category": "family",
+                  "coords": [
+                        23.160741,
+                        63.853347
+                  ]
+            },
+            {
+                  "name": "Säveltäjänpuisto",
+                  "text": "Tematikusan kialakított játszótér Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.148252,
+                        63.853422
+                  ]
+            },
+            {
+                  "name": "Kulimäenpuisto",
+                  "text": "Szép hely családok számára Kokkola városrészében.",
+                  "category": "family",
+                  "coords": [
+                        23.184066,
+                        63.844378
+                  ]
+            },
+            {
+                  "name": "Karpalopuisto",
+                  "text": "Játszótér Kokkolában, természettel körülvéve.",
+                  "category": "family",
+                  "coords": [
+                        23.181571,
+                        63.842245
+                  ]
+            },
+            {
+                  "name": "Korpinpuisto",
+                  "text": "Helyi játszópark gyerekeknek Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.180675,
+                        63.840759
+                  ]
+            },
+            {
+                  "name": "Suomuurainpuisto",
+                  "text": "Hívogató játszóhely családok számára Kokkolában.",
+                  "category": "family",
+                  "coords": [
+                        23.185332,
+                        63.839227
                   ]
             }
       ],
@@ -2609,6 +3059,231 @@ export const finlandHistoryV2: POI[] = [
                         23.129786,
                         63.842911
                   ]
+            },
+            {
+                  "name": "Päiväjärvi",
+                  "text": "Un lac mic în districtul Neristan din Kokkola.",
+                  "category": "natural",
+                  "coords": [
+                        23.246227,
+                        63.890076
+                  ]
+            },
+            {
+                  "name": "Öjanjärvi",
+                  "text": "Un lac local în Kokkola, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        23.001732,
+                        63.802474
+                  ]
+            },
+            {
+                  "name": "Möllersfjärden",
+                  "text": "O porțiune liniștită de lac în Kokkola, înconjurată de natură.",
+                  "category": "natural",
+                  "coords": [
+                        23.16914,
+                        63.90826
+                  ]
+            },
+            {
+                  "name": "Smalasundet",
+                  "text": "Un curs de apă îngust în Kokkola care definește peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        23.177836,
+                        63.903545
+                  ]
+            },
+            {
+                  "name": "Byrkholmsfjärden",
+                  "text": "O parte a zonei lacustre din Kokkola cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        22.95728,
+                        63.804249
+                  ]
+            },
+            {
+                  "name": "Tarharannanpuisto",
+                  "text": "Un teren de joacă modern în Kokkola pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.12262,
+                        63.823755
+                  ]
+            },
+            {
+                  "name": "Laaksopuisto",
+                  "text": "Un teren de joacă plăcut într-o zonă verde din Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154123,
+                        63.819328
+                  ]
+            },
+            {
+                  "name": "Invalidikylänpuisto",
+                  "text": "Acest teren de joacă din Kokkola oferă mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.107435,
+                        63.838386
+                  ]
+            },
+            {
+                  "name": "Riskanpuisto",
+                  "text": "Un parc primitor pentru familii cu echipamente de joacă în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.10582,
+                        63.840665
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "Un teren de joacă bine echipat în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.123887,
+                        63.826161
+                  ]
+            },
+            {
+                  "name": "Voikukkapuisto",
+                  "text": "Un teren de joacă colorat în Kokkola, ideal pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        23.144309,
+                        63.817469
+                  ]
+            },
+            {
+                  "name": "Brennerinpuisto",
+                  "text": "Un loc de întâlnire popular pentru familii în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.1072,
+                        63.842533
+                  ]
+            },
+            {
+                  "name": "Kallenpuisto",
+                  "text": "Un mic teren de joacă într-un cartier din Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.157366,
+                        63.843436
+                  ]
+            },
+            {
+                  "name": "Kuutamopuisto",
+                  "text": "Acest teren de joacă din Kokkola invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        23.172266,
+                        63.851483
+                  ]
+            },
+            {
+                  "name": "Aurinkopuisto",
+                  "text": "Un loc însorit pentru copii unde se pot juca în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.162642,
+                        63.849478
+                  ]
+            },
+            {
+                  "name": "Ulkometsän puisto",
+                  "text": "Un teren de joacă liniștit într-un parc din Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.149853,
+                        63.856995
+                  ]
+            },
+            {
+                  "name": "Torkinmäenpuisto",
+                  "text": "O zonă de joacă modernă pentru copii în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154554,
+                        63.836785
+                  ]
+            },
+            {
+                  "name": "Alapuisto",
+                  "text": "Un teren de joacă popular în centrul orașului Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168229,
+                        63.857768
+                  ]
+            },
+            {
+                  "name": "Pajupillin puisto",
+                  "text": "Un teren de joacă mic și cochet pentru copii în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168376,
+                        63.855456
+                  ]
+            },
+            {
+                  "name": "Rytimäenpuisto",
+                  "text": "Acest teren de joacă din Kokkola oferă divertisment în fiecare zi.",
+                  "category": "family",
+                  "coords": [
+                        23.160741,
+                        63.853347
+                  ]
+            },
+            {
+                  "name": "Säveltäjänpuisto",
+                  "text": "Un teren de joacă tematic în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.148252,
+                        63.853422
+                  ]
+            },
+            {
+                  "name": "Kulimäenpuisto",
+                  "text": "Un loc plăcut pentru familii în districtul Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.184066,
+                        63.844378
+                  ]
+            },
+            {
+                  "name": "Karpalopuisto",
+                  "text": "Un teren de joacă în Kokkola, înconjurat de natură.",
+                  "category": "family",
+                  "coords": [
+                        23.181571,
+                        63.842245
+                  ]
+            },
+            {
+                  "name": "Korpinpuisto",
+                  "text": "Un parc de joacă local pentru copii în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.180675,
+                        63.840759
+                  ]
+            },
+            {
+                  "name": "Suomuurainpuisto",
+                  "text": "O zonă de joacă primitoare pentru familii în Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.185332,
+                        63.839227
+                  ]
             }
       ],
       "en": [
@@ -2763,6 +3438,231 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.129786,
                         63.842911
+                  ]
+            },
+            {
+                  "name": "Päiväjärvi",
+                  "text": "A small lake in the Neristan district of Kokkola.",
+                  "category": "natural",
+                  "coords": [
+                        23.246227,
+                        63.890076
+                  ]
+            },
+            {
+                  "name": "Öjanjärvi",
+                  "text": "A local lake in Kokkola, ideal for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        23.001732,
+                        63.802474
+                  ]
+            },
+            {
+                  "name": "Möllersfjärden",
+                  "text": "A peaceful lake section in Kokkola, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.16914,
+                        63.90826
+                  ]
+            },
+            {
+                  "name": "Smalasundet",
+                  "text": "A narrow body of water in Kokkola that shapes the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.177836,
+                        63.903545
+                  ]
+            },
+            {
+                  "name": "Byrkholmsfjärden",
+                  "text": "A part of the lake area in Kokkola with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        22.95728,
+                        63.804249
+                  ]
+            },
+            {
+                  "name": "Tarharannanpuisto",
+                  "text": "A modern playground in Kokkola for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.12262,
+                        63.823755
+                  ]
+            },
+            {
+                  "name": "Laaksopuisto",
+                  "text": "A nice playground in a green area in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154123,
+                        63.819328
+                  ]
+            },
+            {
+                  "name": "Invalidikylänpuisto",
+                  "text": "This playground in Kokkola offers plenty of space for playing.",
+                  "category": "family",
+                  "coords": [
+                        23.107435,
+                        63.838386
+                  ]
+            },
+            {
+                  "name": "Riskanpuisto",
+                  "text": "A family-friendly park with play equipment in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.10582,
+                        63.840665
+                  ]
+            },
+            {
+                  "name": "Kaaripuisto",
+                  "text": "A well-equipped playground in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.123887,
+                        63.826161
+                  ]
+            },
+            {
+                  "name": "Voikukkapuisto",
+                  "text": "A colorful playground in Kokkola, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        23.144309,
+                        63.817469
+                  ]
+            },
+            {
+                  "name": "Brennerinpuisto",
+                  "text": "A popular meeting place for families in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.1072,
+                        63.842533
+                  ]
+            },
+            {
+                  "name": "Kallenpuisto",
+                  "text": "A small playground in a neighborhood of Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.157366,
+                        63.843436
+                  ]
+            },
+            {
+                  "name": "Kuutamopuisto",
+                  "text": "This playground in Kokkola invites children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        23.172266,
+                        63.851483
+                  ]
+            },
+            {
+                  "name": "Aurinkopuisto",
+                  "text": "A sunny spot for children to play in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.162642,
+                        63.849478
+                  ]
+            },
+            {
+                  "name": "Ulkometsän puisto",
+                  "text": "A quiet playground in a park area in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.149853,
+                        63.856995
+                  ]
+            },
+            {
+                  "name": "Torkinmäenpuisto",
+                  "text": "A modern play area for children in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.154554,
+                        63.836785
+                  ]
+            },
+            {
+                  "name": "Alapuisto",
+                  "text": "A popular playground in the center of Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168229,
+                        63.857768
+                  ]
+            },
+            {
+                  "name": "Pajupillin puisto",
+                  "text": "A small, fine playground for children in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.168376,
+                        63.855456
+                  ]
+            },
+            {
+                  "name": "Rytimäenpuisto",
+                  "text": "This playground in Kokkola offers variety in everyday life.",
+                  "category": "family",
+                  "coords": [
+                        23.160741,
+                        63.853347
+                  ]
+            },
+            {
+                  "name": "Säveltäjänpuisto",
+                  "text": "A themed playground in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.148252,
+                        63.853422
+                  ]
+            },
+            {
+                  "name": "Kulimäenpuisto",
+                  "text": "A nice place for families in the Kokkola district.",
+                  "category": "family",
+                  "coords": [
+                        23.184066,
+                        63.844378
+                  ]
+            },
+            {
+                  "name": "Karpalopuisto",
+                  "text": "A playground in Kokkola, surrounded by nature.",
+                  "category": "family",
+                  "coords": [
+                        23.181571,
+                        63.842245
+                  ]
+            },
+            {
+                  "name": "Korpinpuisto",
+                  "text": "A local play park for children in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.180675,
+                        63.840759
+                  ]
+            },
+            {
+                  "name": "Suomuurainpuisto",
+                  "text": "An inviting play area for families in Kokkola.",
+                  "category": "family",
+                  "coords": [
+                        23.185332,
+                        63.839227
                   ]
             }
       ]
