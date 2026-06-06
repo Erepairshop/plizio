@@ -26390,11 +26390,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Geschützter Landschaftsteil Drei Schwestern",
                   "text": "Der Geschützte Landschaftsteil Drei Schwestern ist ein ausgewiesenes Naturschutzgebiet in Gaflei.",
-                  "category": "natural",
-                  "coords": [
-                        -102.573508,
-                        -21.902738
-                  ]
+                  "category": "natural"
             },
             {
                   "name": "Kuhgrat",
@@ -26590,11 +26586,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Geschützter Landschaftsteil Drei Schwestern",
                   "text": "A Geschützter Landschaftsteil Drei Schwestern egy kijelölt természetvédelmi terület Gaflei területén.",
-                  "category": "natural",
-                  "coords": [
-                        -102.573508,
-                        -21.902738
-                  ]
+                  "category": "natural"
             },
             {
                   "name": "Kuhgrat",
@@ -26790,11 +26782,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Geschützter Landschaftsteil Drei Schwestern",
                   "text": "Geschützter Landschaftsteil Drei Schwestern este o rezervație naturală desemnată în Gaflei.",
-                  "category": "natural",
-                  "coords": [
-                        -102.573508,
-                        -21.902738
-                  ]
+                  "category": "natural"
             },
             {
                   "name": "Kuhgrat",
@@ -26990,11 +26978,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
             {
                   "name": "Geschützter Landschaftsteil Drei Schwestern",
                   "text": "Geschützter Landschaftsteil Drei Schwestern is a designated nature reserve in Gaflei.",
-                  "category": "natural",
-                  "coords": [
-                        -102.573508,
-                        -21.902738
-                  ]
+                  "category": "natural"
             },
             {
                   "name": "Kuhgrat",
