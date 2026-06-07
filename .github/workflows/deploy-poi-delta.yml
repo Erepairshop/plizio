@@ -7,14 +7,22 @@ name: Deploy POI Delta (content-only)
 # Input: POI_IDS — comma-separated POI ids OR a path to a file under public/data/.
 # Example: "schwachhausen-extra,st-pauli-extra,merzig-extra"
 # Example: "file:public/data/_thin-descadv-applied.txt"
+# Special: "none" → skip HTML regen entirely (data-only deploy: public/data sync
+#          + optional sight-grid rebuild).
+# rebuild_grid: "true" → rebuild the spatial sight-grid (Umgebung "sights nearby"
+#          cells) + copy into the release. Use after sights merges (fam rounds).
 
 on:
   workflow_dispatch:
     inputs:
       poi_ids:
-        description: 'Comma-separated POI ids OR "file:<repo-path-to-txt>"'
+        description: 'Comma-separated POI ids OR "file:<repo-path-to-txt>" OR "none" (data-only)'
         required: true
         default: 'file:public/data/_thin-descadv-applied.txt'
+      rebuild_grid:
+        description: 'Rebuild sight-grid (after sights merge): true/false'
+        required: false
+        default: 'false'
 
 concurrency:
   group: deploy-poi-delta
@@ -34,7 +42,11 @@ jobs:
         id: ids
         run: |
           INPUT='${{ github.event.inputs.poi_ids }}'
-          if [[ "$INPUT" == file:* ]]; then
+          if [[ "$INPUT" == "none" ]]; then
+            echo "POI_IDS_FILE=" >> $GITHUB_ENV
+            echo "count=0" >> $GITHUB_OUTPUT
+            echo "[delta] data-only mode (no HTML regen)"
+          elif [[ "$INPUT" == file:* ]]; then
             FP="${INPUT#file:}"
             if [ ! -f "$FP" ]; then
               echo "::error::POI ids file not found: $FP"
@@ -70,7 +82,37 @@ jobs:
           echo "active=$ACTIVE" >> $GITHUB_OUTPUT
           echo "[delta] active release: $ACTIVE"
 
+      # Content JSONs are fetched client-side from /data/... — copy the committed
+      # public/data into the live release so tips/itinerary/i18n/sights changes go
+      # live WITHOUT a full build. Additive rsync (no --delete), excludes the
+      # generated-only dirs that don't exist in the checkout.
+      - name: Sync public/data content into active release
+        run: |
+          ACTIVE='${{ steps.release.outputs.active }}'
+          rsync -a --exclude 'sight-grid/' --exclude 'pois/' public/data/ "$ACTIVE/data/"
+          echo "[delta] public/data synced into $ACTIVE/data"
+
+      # Spatial sight-grid rebuild (Umgebung "sights nearby" cells). Heavy
+      # (~16GB heap, reads all POI sources) — opt-in via rebuild_grid input.
+      # build-poi-url-index must run first (_poi-url-index.json is not committed).
+      - name: Build POI URL index (grid prerequisite)
+        if: github.event.inputs.rebuild_grid == 'true'
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-poi-url-index.mts
+
+      - name: Build + deploy sight grid
+        if: github.event.inputs.rebuild_grid == 'true'
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: |
+          npx tsx scripts/build-sight-grid.mts
+          ACTIVE='${{ steps.release.outputs.active }}'
+          rsync -a public/data/sight-grid/ "$ACTIVE/data/sight-grid/"
+          echo "[delta] sight-grid rebuilt + synced"
+
       - name: Prepare V2 data chunks (required by generate-poi-html)
+        if: github.event.inputs.poi_ids != 'none'
         run: |
           # generate-poi-html.mts imports _all_v2_pois_*.json chunks that
           # prepare_v2_data.mjs writes from poiExtra*V2.ts. Re-run on each delta
@@ -80,6 +122,7 @@ jobs:
           npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -15
 
       - name: Generate targeted POI HTMLs into a staging out/
+        if: github.event.inputs.poi_ids != 'none'
         run: |
           mkdir -p out_delta
           # Use tsx (in node_modules) — works on Node 20, no --experimental-strip-types needed.
@@ -95,6 +138,7 @@ jobs:
           fi
 
       - name: Diff + copy changed HTMLs into active release
+        if: github.event.inputs.poi_ids != 'none'
         run: |
           ACTIVE='${{ steps.release.outputs.active }}'
           COPIED=0
@@ -113,6 +157,7 @@ jobs:
           echo "- Active release: $ACTIVE" >> $GITHUB_STEP_SUMMARY
 
       - name: Update sitemap lastmod + IndexNow ping
+        if: github.event.inputs.poi_ids != 'none'
         run: |
           # Refresh sitemap.xml `lastmod` for affected URLs (so Googlebot re-crawls)
           # + reset IndexNow cooldown + immediate Bing/Yandex/Seznam ping.
@@ -123,6 +168,7 @@ jobs:
           fi
 
       - name: Smoke test + diagnostic
+        if: github.event.inputs.poi_ids != 'none'
         run: |
           set +e
           # List ALL paths written (debug — what slugs did buildPoiPath actually produce?)
@@ -134,23 +180,6 @@ jobs:
             echo "- [$CODE] $URL" >> $GITHUB_STEP_SUMMARY
             echo "[$CODE] $URL"
           done
-          # CF purge for the touched POI URLs (only if CF_API_TOKEN secret is set)
-          if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
-            echo "[delta] purging CF cache for changed POI URLs..."
-            URLS_JSON=$(find out_delta -name 'index.html' -type f | while read -r f; do
-              REL="${f#out_delta/}"
-              URL="https://plizio.com/${REL%/index.html}/"
-              echo "$URL"
-            done | jq -R . | jq -s '{files: .}')
-            echo "$URLS_JSON" | jq -c '.files | _nwise(30)' | while IFS= read -r chunk; do
-              curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
-                -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
-                -H "Content-Type: application/json" \
-                --data "{\"files\": $chunk}" | jq -r '.success'
-            done
-          else
-            echo "[delta] CF_API_TOKEN secret not set, skipping CF purge"
-          fi
           # CF purge for the touched POI URLs (only if CF_API_TOKEN secret is set)
           if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
             echo "[delta] purging CF cache for changed POI URLs..."
