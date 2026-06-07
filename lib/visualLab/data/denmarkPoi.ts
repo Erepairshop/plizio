@@ -320,6 +320,132 @@ export const denmarkRegions: POI[] = [
                         12.542223,
                         55.694482
                   ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "GoMonkey Søndermarken in Kopenhagen ist ein Themenpark für Abenteuer mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen in Kopenhagen ist ein Badebereich für Wasserspaß und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        12.565574,
+                        55.654352
+                  ]
+            },
+            {
+                  "name": "Kajakpolobane",
+                  "text": "Kajakpolobane in Kopenhagen ist ein Schwimmbecken für sportliche Aktivitäten im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.60629,
+                        55.676234
+                  ]
+            },
+            {
+                  "name": "Bonderen",
+                  "text": "Bonderen in Kopenhagen ist ein Zoo, der Besuchern die Tierwelt näher bringt.",
+                  "category": "family",
+                  "coords": [
+                        12.598087,
+                        55.652755
+                  ]
+            },
+            {
+                  "name": "Motionsbassin",
+                  "text": "Motionsbassin in Kopenhagen ist ein Badebereich für sportliches Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        12.554059,
+                        55.646689
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Tivoli Gardens in Kopenhagen ist ein berühmter Themenpark für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        12.56857,
+                        55.673428
+                  ]
+            },
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Søndre Refshalebassin Badezone in Kopenhagen ist ein Bereich zum Schwimmen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        12.609618,
+                        55.690079
+                  ]
+            },
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Kalvebod Bølge Badezone in Kopenhagen ist ein moderner Badebereich am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.575751,
+                        55.66895
+                  ]
+            },
+            {
+                  "name": "Badezone Sandkaj",
+                  "text": "Badezone Sandkaj in Kopenhagen ist ein beliebter Ort für eine Erfrischung im Hafen.",
+                  "category": "family",
+                  "coords": [
+                        12.597159,
+                        55.706255
+                  ]
+            },
+            {
+                  "name": "Badezone Teglholm Brygge",
+                  "text": "Badezone Teglholm Brygge in Kopenhagen bietet Möglichkeiten zum Schwimmen in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        12.545534,
+                        55.651239
+                  ]
+            },
+            {
+                  "name": "Richard Boones Vej 'Vandtrappen'",
+                  "text": "Richard Boones Vej 'Vandtrappen' in Kopenhagen ist ein Badebereich für Wasserfreunde.",
+                  "category": "family",
+                  "coords": [
+                        12.546822,
+                        55.648024
+                  ]
+            },
+            {
+                  "name": "Glaecier",
+                  "text": "Glaecier in Kopenhagen ist ein Wasserpark mit Attraktionen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.606475,
+                        55.690357
+                  ]
+            },
+            {
+                  "name": "Dyppezone Havnegade",
+                  "text": "Dyppezone Havnegade in Kopenhagen ist ein Schwimmbecken für eine Abkühlung im Hafen.",
+                  "category": "family",
+                  "coords": [
+                        12.592776,
+                        55.678118
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "La Banchina Badezone in Kopenhagen ist ein Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        12.610545,
+                        55.68942
+                  ]
             }
       ],
       "hu": [
@@ -546,6 +672,132 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.542223,
                         55.694482
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "A GoMonkey Søndermarken Koppenhágában egy élménypark a családi kalandokhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Havnevigen",
+                  "text": "A Havnevigen Koppenhágában egy fürdőhely a vízi szórakozáshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.565574,
+                        55.654352
+                  ]
+            },
+            {
+                  "name": "Kajakpolobane",
+                  "text": "A Kajakpolobane Koppenhágában egy úszómedence a vízi sporttevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.60629,
+                        55.676234
+                  ]
+            },
+            {
+                  "name": "Bonderen",
+                  "text": "A Bonderen Koppenhágában egy állatkert, amely közelebb hozza az állatvilágot a látogatókhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.598087,
+                        55.652755
+                  ]
+            },
+            {
+                  "name": "Motionsbassin",
+                  "text": "A Motionsbassin Koppenhágában egy fürdőhely a sportos úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.554059,
+                        55.646689
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "A Tivoli Gardens Koppenhágában egy híres élménypark a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.56857,
+                        55.673428
+                  ]
+            },
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "A Søndre Refshalebassin Badezone Koppenhágában egy szabadtéri úszásra alkalmas terület.",
+                  "category": "family",
+                  "coords": [
+                        12.609618,
+                        55.690079
+                  ]
+            },
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "A Kalvebod Bølge Badezone Koppenhágában egy modern vízparti fürdőhely.",
+                  "category": "family",
+                  "coords": [
+                        12.575751,
+                        55.66895
+                  ]
+            },
+            {
+                  "name": "Badezone Sandkaj",
+                  "text": "A Badezone Sandkaj Koppenhágában egy népszerű hely a kikötői felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        12.597159,
+                        55.706255
+                  ]
+            },
+            {
+                  "name": "Badezone Teglholm Brygge",
+                  "text": "A Badezone Teglholm Brygge Koppenhágában úszási lehetőséget kínál a városban.",
+                  "category": "family",
+                  "coords": [
+                        12.545534,
+                        55.651239
+                  ]
+            },
+            {
+                  "name": "Richard Boones Vej 'Vandtrappen'",
+                  "text": "A Richard Boones Vej 'Vandtrappen' Koppenhágában egy fürdőhely a víz kedvelői számára.",
+                  "category": "family",
+                  "coords": [
+                        12.546822,
+                        55.648024
+                  ]
+            },
+            {
+                  "name": "Glaecier",
+                  "text": "A Glaecier Koppenhágában egy vízi park az egész család számára kínált látnivalókkal.",
+                  "category": "family",
+                  "coords": [
+                        12.606475,
+                        55.690357
+                  ]
+            },
+            {
+                  "name": "Dyppezone Havnegade",
+                  "text": "A Dyppezone Havnegade Koppenhágában egy úszómedence a kikötői hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        12.592776,
+                        55.678118
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "A La Banchina Badezone Koppenhágában egy hely az úszáshoz és a lazításhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.610545,
+                        55.68942
                   ]
             }
       ],
@@ -774,6 +1026,132 @@ export const denmarkRegions: POI[] = [
                         12.542223,
                         55.694482
                   ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "GoMonkey Søndermarken din Copenhaga este un parc tematic pentru aventuri cu familia.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen din Copenhaga este o zonă de înot pentru distracție acvatică și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        12.565574,
+                        55.654352
+                  ]
+            },
+            {
+                  "name": "Kajakpolobane",
+                  "text": "Kajakpolobane din Copenhaga este o piscină pentru activități sportive în apă.",
+                  "category": "family",
+                  "coords": [
+                        12.60629,
+                        55.676234
+                  ]
+            },
+            {
+                  "name": "Bonderen",
+                  "text": "Bonderen din Copenhaga este o grădină zoologică care apropie vizitatorii de lumea animală.",
+                  "category": "family",
+                  "coords": [
+                        12.598087,
+                        55.652755
+                  ]
+            },
+            {
+                  "name": "Motionsbassin",
+                  "text": "Motionsbassin din Copenhaga este o zonă de scăldat pentru înot sportiv.",
+                  "category": "family",
+                  "coords": [
+                        12.554059,
+                        55.646689
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Tivoli Gardens din Copenhaga este un parc tematic faimos pentru divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.56857,
+                        55.673428
+                  ]
+            },
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Søndre Refshalebassin Badezone din Copenhaga este o zonă pentru înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.609618,
+                        55.690079
+                  ]
+            },
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Kalvebod Bølge Badezone din Copenhaga este o zonă de scăldat modernă la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        12.575751,
+                        55.66895
+                  ]
+            },
+            {
+                  "name": "Badezone Sandkaj",
+                  "text": "Badezone Sandkaj din Copenhaga este un loc popular pentru o răcorire în port.",
+                  "category": "family",
+                  "coords": [
+                        12.597159,
+                        55.706255
+                  ]
+            },
+            {
+                  "name": "Badezone Teglholm Brygge",
+                  "text": "Badezone Teglholm Brygge din Copenhaga oferă oportunități de înot în oraș.",
+                  "category": "family",
+                  "coords": [
+                        12.545534,
+                        55.651239
+                  ]
+            },
+            {
+                  "name": "Richard Boones Vej 'Vandtrappen'",
+                  "text": "Richard Boones Vej 'Vandtrappen' din Copenhaga este o zonă de scăldat pentru iubitorii de apă.",
+                  "category": "family",
+                  "coords": [
+                        12.546822,
+                        55.648024
+                  ]
+            },
+            {
+                  "name": "Glaecier",
+                  "text": "Glaecier din Copenhaga este un parc acvatic cu atracții pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.606475,
+                        55.690357
+                  ]
+            },
+            {
+                  "name": "Dyppezone Havnegade",
+                  "text": "Dyppezone Havnegade din Copenhaga este o piscină pentru o răcorire în port.",
+                  "category": "family",
+                  "coords": [
+                        12.592776,
+                        55.678118
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "La Banchina Badezone din Copenhaga este un loc pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        12.610545,
+                        55.68942
+                  ]
             }
       ],
       "en": [
@@ -1000,6 +1378,132 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.542223,
                         55.694482
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "GoMonkey Søndermarken in Copenhagen is a theme park for family adventures.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen in Copenhagen is a swimming area for water fun and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        12.565574,
+                        55.654352
+                  ]
+            },
+            {
+                  "name": "Kajakpolobane",
+                  "text": "Kajakpolobane in Copenhagen is a swimming pool for water sports activities.",
+                  "category": "family",
+                  "coords": [
+                        12.60629,
+                        55.676234
+                  ]
+            },
+            {
+                  "name": "Bonderen",
+                  "text": "Bonderen in Copenhagen is a zoo that brings visitors closer to the animal world.",
+                  "category": "family",
+                  "coords": [
+                        12.598087,
+                        55.652755
+                  ]
+            },
+            {
+                  "name": "Motionsbassin",
+                  "text": "Motionsbassin in Copenhagen is a swimming area for fitness swimming.",
+                  "category": "family",
+                  "coords": [
+                        12.554059,
+                        55.646689
+                  ]
+            },
+            {
+                  "name": "Tivoli Gardens",
+                  "text": "Tivoli Gardens in Copenhagen is a famous theme park for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        12.56857,
+                        55.673428
+                  ]
+            },
+            {
+                  "name": "Søndre Refshalebassin Badezone",
+                  "text": "Søndre Refshalebassin Badezone in Copenhagen is an area for outdoor swimming.",
+                  "category": "family",
+                  "coords": [
+                        12.609618,
+                        55.690079
+                  ]
+            },
+            {
+                  "name": "Kalvebod Bølge Badezone",
+                  "text": "Kalvebod Bølge Badezone in Copenhagen is a modern waterfront swimming area.",
+                  "category": "family",
+                  "coords": [
+                        12.575751,
+                        55.66895
+                  ]
+            },
+            {
+                  "name": "Badezone Sandkaj",
+                  "text": "Badezone Sandkaj in Copenhagen is a popular spot for a refreshing dip in the harbor.",
+                  "category": "family",
+                  "coords": [
+                        12.597159,
+                        55.706255
+                  ]
+            },
+            {
+                  "name": "Badezone Teglholm Brygge",
+                  "text": "Badezone Teglholm Brygge in Copenhagen offers opportunities for swimming in the city.",
+                  "category": "family",
+                  "coords": [
+                        12.545534,
+                        55.651239
+                  ]
+            },
+            {
+                  "name": "Richard Boones Vej 'Vandtrappen'",
+                  "text": "Richard Boones Vej 'Vandtrappen' in Copenhagen is a swimming area for water lovers.",
+                  "category": "family",
+                  "coords": [
+                        12.546822,
+                        55.648024
+                  ]
+            },
+            {
+                  "name": "Glaecier",
+                  "text": "Glaecier in Copenhagen is a water park with attractions for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.606475,
+                        55.690357
+                  ]
+            },
+            {
+                  "name": "Dyppezone Havnegade",
+                  "text": "Dyppezone Havnegade in Copenhagen is a swimming pool for a cooling dip in the harbor.",
+                  "category": "family",
+                  "coords": [
+                        12.592776,
+                        55.678118
+                  ]
+            },
+            {
+                  "name": "La Banchina Badezone",
+                  "text": "La Banchina Badezone in Copenhagen is a spot for swimming and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        12.610545,
+                        55.68942
                   ]
             }
       ]
@@ -1551,6 +2055,33 @@ export const denmarkRegions: POI[] = [
                         10.200528,
                         56.152457
                   ]
+            },
+            {
+                  "name": "Akvariet",
+                  "text": "Dieses Aquarium in Aarhus bietet Besuchern die Möglichkeit, verschiedene Wasserlebewesen zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        10.1888,
+                        56.170339
+                  ]
+            },
+            {
+                  "name": "Den Permanente Badeanstalt",
+                  "text": "Diese öffentliche Badeanstalt in Aarhus bietet einen traditionellen Rahmen zum Schwimmen und Entspannen an der Küste.",
+                  "category": "family",
+                  "coords": [
+                        10.231887,
+                        56.176506
+                  ]
+            },
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "Diese Badezone in Aarhus bietet eine ausgewiesene Bahn für das Schwimmen im offenen Wasser und für Sport.",
+                  "category": "family",
+                  "coords": [
+                        10.229538,
+                        56.16774
+                  ]
             }
       ],
       "hu": [
@@ -2056,6 +2587,33 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200528,
                         56.152457
+                  ]
+            },
+            {
+                  "name": "Akvariet",
+                  "text": "Ez az Aarhus-i akvárium lehetőséget nyújt a látogatóknak különféle vízi fajok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        10.1888,
+                        56.170339
+                  ]
+            },
+            {
+                  "name": "Den Permanente Badeanstalt",
+                  "text": "Ez az Aarhus-i közfürdő hagyományos környezetet biztosít az úszáshoz és a tengerparti pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.231887,
+                        56.176506
+                  ]
+            },
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "Ez az Aarhus-i úszóhely kijelölt pályát biztosít a nyílt vízi úszáshoz és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.229538,
+                        56.16774
                   ]
             }
       ],
@@ -2563,6 +3121,33 @@ export const denmarkRegions: POI[] = [
                         10.200528,
                         56.152457
                   ]
+            },
+            {
+                  "name": "Akvariet",
+                  "text": "Acest acvariu din Aarhus oferă vizitatorilor șansa de a vedea diverse specii acvatice.",
+                  "category": "family",
+                  "coords": [
+                        10.1888,
+                        56.170339
+                  ]
+            },
+            {
+                  "name": "Den Permanente Badeanstalt",
+                  "text": "Această baie publică din Aarhus oferă un cadru tradițional pentru înot și relaxare la coastă.",
+                  "category": "family",
+                  "coords": [
+                        10.231887,
+                        56.176506
+                  ]
+            },
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "Această zonă de înot din Aarhus oferă o culoar dedicat pentru înot în apă deschisă și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        10.229538,
+                        56.16774
+                  ]
             }
       ],
       "en": [
@@ -3068,6 +3653,33 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200528,
                         56.152457
+                  ]
+            },
+            {
+                  "name": "Akvariet",
+                  "text": "This aquarium in Aarhus offers visitors a chance to see various aquatic species.",
+                  "category": "family",
+                  "coords": [
+                        10.1888,
+                        56.170339
+                  ]
+            },
+            {
+                  "name": "Den Permanente Badeanstalt",
+                  "text": "This public bath in Aarhus provides a traditional setting for swimming and coastal relaxation.",
+                  "category": "family",
+                  "coords": [
+                        10.231887,
+                        56.176506
+                  ]
+            },
+            {
+                  "name": "Aarhus Havsvømmebane",
+                  "text": "This swimming area in Aarhus offers a designated lane for open-water swimming and exercise.",
+                  "category": "family",
+                  "coords": [
+                        10.229538,
+                        56.16774
                   ]
             }
       ]
@@ -3655,6 +4267,42 @@ export const denmarkRegions: POI[] = [
                         10.422206,
                         55.385353
                   ]
+            },
+            {
+                  "name": "Leos Legeland Odense",
+                  "text": "Leos Legeland Odense ist ein Paradies für Kinder und perfekt für einen aktiven Familientag.",
+                  "category": "family",
+                  "coords": [
+                        10.421337,
+                        55.403964
+                  ]
+            },
+            {
+                  "name": "SDU Svømmehal",
+                  "text": "Die SDU Svømmehal in Odense ist ein ausgezeichneter Ort für sportliches Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        10.430093,
+                        55.37
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Der Swimming Pool in Odense bietet eine angenehme Umgebung für Badebegeisterte.",
+                  "category": "family",
+                  "coords": [
+                        10.392228,
+                        55.369898
+                  ]
+            },
+            {
+                  "name": "Odense Havnebad",
+                  "text": "Das Odense Havnebad ist ein moderner Ort für ein erfrischendes Bad im Hafenbereich.",
+                  "category": "family",
+                  "coords": [
+                        10.382492,
+                        55.406978
+                  ]
             }
       ],
       "hu": [
@@ -4196,6 +4844,42 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.422206,
                         55.385353
+                  ]
+            },
+            {
+                  "name": "Leos Legeland Odense",
+                  "text": "A Leos Legeland Odense a gyerekek paradicsoma, és tökéletes egy aktív családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        10.421337,
+                        55.403964
+                  ]
+            },
+            {
+                  "name": "SDU Svømmehal",
+                  "text": "Az SDU Svømmehal Odense városában kiváló hely a sportolásra és a pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        10.430093,
+                        55.37
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Az odensei Swimming Pool kellemes környezetet biztosít a fürdőzés kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        10.392228,
+                        55.369898
+                  ]
+            },
+            {
+                  "name": "Odense Havnebad",
+                  "text": "Az Odense Havnebad modern helyszín egy frissítő fürdőzéshez a kikötői negyedben.",
+                  "category": "family",
+                  "coords": [
+                        10.382492,
+                        55.406978
                   ]
             }
       ],
@@ -4739,6 +5423,42 @@ export const denmarkRegions: POI[] = [
                         10.422206,
                         55.385353
                   ]
+            },
+            {
+                  "name": "Leos Legeland Odense",
+                  "text": "Leos Legeland Odense este un paradis pentru copii și perfect pentru o zi activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.421337,
+                        55.403964
+                  ]
+            },
+            {
+                  "name": "SDU Svømmehal",
+                  "text": "SDU Svømmehal din Odense este un loc excelent pentru înot sportiv și recreere.",
+                  "category": "family",
+                  "coords": [
+                        10.430093,
+                        55.37
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Swimming Pool din Odense oferă un mediu plăcut pentru pasionații de scăldat.",
+                  "category": "family",
+                  "coords": [
+                        10.392228,
+                        55.369898
+                  ]
+            },
+            {
+                  "name": "Odense Havnebad",
+                  "text": "Odense Havnebad este un loc modern pentru o baie răcoritoare în zona portului.",
+                  "category": "family",
+                  "coords": [
+                        10.382492,
+                        55.406978
+                  ]
             }
       ],
       "en": [
@@ -5281,6 +6001,42 @@ export const denmarkRegions: POI[] = [
                         10.422206,
                         55.385353
                   ]
+            },
+            {
+                  "name": "Leos Legeland Odense",
+                  "text": "Leos Legeland Odense is a paradise for kids and perfect for an active family day.",
+                  "category": "family",
+                  "coords": [
+                        10.421337,
+                        55.403964
+                  ]
+            },
+            {
+                  "name": "SDU Svømmehal",
+                  "text": "SDU Svømmehal in Odense is an excellent place for lap swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        10.430093,
+                        55.37
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "The Swimming Pool in Odense provides a pleasant environment for swimming enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        10.392228,
+                        55.369898
+                  ]
+            },
+            {
+                  "name": "Odense Havnebad",
+                  "text": "Odense Havnebad is a modern spot for a refreshing dip in the harbor area.",
+                  "category": "family",
+                  "coords": [
+                        10.382492,
+                        55.406978
+                  ]
             }
       ]
 },
@@ -5357,52 +6113,7 @@ export const denmarkRegions: POI[] = [
  image: "/geo-images/denmark/jutland.webp",
  },
  {
- id: "reg-zealand", "sights": {
-      "de": [
-            {
-                  "name": "Hallingelille Strand",
-                  "text": "Hallingelille Strand liegt in der Region Seeland.",
-                  "category": "recreational",
-                  "coords": [
-                        11.818346,
-                        55.494821
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hallingelille Strand",
-                  "text": "A Hallingelille Strand Sjælland régióban található.",
-                  "category": "recreational",
-                  "coords": [
-                        11.818346,
-                        55.494821
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hallingelille Strand",
-                  "text": "Plaja Hallingelille este situată în regiunea Zealand.",
-                  "category": "recreational",
-                  "coords": [
-                        11.818346,
-                        55.494821
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hallingelille Strand",
-                  "text": "Hallingelille Strand is located in the Zealand region.",
-                  "category": "recreational",
-                  "coords": [
-                        11.818346,
-                        55.494821
-                  ]
-            }
-      ]
-},
+ id: "reg-zealand", "sights": {"de": [{"name": "Hallingelille Strand", "text": "In der naturbelassenen Region Seeland erwartet der Hallingelille Strand seine Besucher mit nordischem Küstenflair. Dieser Strandabschnitt in Dänemark ist ein idyllischer Ort, um die frische Meeresluft bei einem Spaziergang tief einzuatmen oder im kühlen Nass zu baden. Die ruhige und ursprüngliche Atmosphäre lädt zum Abschalten vom Alltag ein. Wetterfeste Kleidung ist besonders an windigen Tagen eine gute Idee für den Strandbesuch.", "category": "recreational", "coords": [11.818346, 55.494821]}], "hu": [{"name": "Hallingelille Strand", "text": "A természetközeli Sjælland régióban fekvő Hallingelille Strand északi tengerparti hangulattal várja látogatóit. Ez a dániai partszakasz egy idilli helyszín, ahol egy séta során mélyen beszívhatjuk a friss tengeri levegőt, vagy megmártózhatunk a hűs habokban. A csendes és érintetlen környezet tökéletes a mindennapokból való kiszakadásra. A szelesebb napokon érdemes időjárásnak megfelelő öltözékkel készülni a strandoláshoz.", "category": "recreational", "coords": [11.818346, 55.494821]}], "ro": [{"name": "Hallingelille Strand", "text": "În regiunea naturală a Zeelandei, Hallingelille Strand își așteaptă vizitatorii cu un fler de coastă nordic. Această secțiune de plajă din Danemarca este un loc idilic pentru a respira adânc aerul curat al mării în timpul unei plimbări sau pentru a face o baie în apa răcoroasă. Atmosfera liniștită și neatinsă te invită să te deconectezi de viața de zi cu zi. Îmbrăcămintea rezistentă la intemperii este o idee bună pentru vizita la plajă, mai ales în zilele cu vânt.", "category": "recreational", "coords": [11.818346, 55.494821]}], "en": [{"name": "Hallingelille Strand", "text": "In the deeply natural region of Zealand, Hallingelille Strand welcomes its visitors with authentic Nordic coastal flair. This beach section in Denmark serves as an idyllic spot to deeply breathe the fresh sea air during a walk or to bathe in the cool waters. The quiet and pristine atmosphere perfectly invites you to disconnect from everyday life. Weatherproof clothing is a smart idea for your beach visit, especially on breezier days.", "category": "recreational", "coords": [11.818346, 55.494821]}]},
  type: "region",
  parent: "denmark",
  coords: [11.7600, 55.4800],
@@ -7684,736 +8395,7 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/aalborg.webp",
  },
  {
- id: "city-helsingor", "sights": {
-      "de": [
-            {
-                  "name": "Gummistranden",
-                  "text": "Ein Strand nahe der Stadt Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.608653,
-                        56.043667
-                  ]
-            },
-            {
-                  "name": "Snekkersten Strand",
-                  "text": "Snekkersten Strand bei Helsingør ist ein beliebter Küstenabschnitt.",
-                  "category": "recreational",
-                  "coords": [
-                        12.581387,
-                        56.005347
-                  ]
-            },
-            {
-                  "name": "Julebæk Strand",
-                  "text": "Julebæk Strand befindet sich in der malerischen Umgebung von Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.574621,
-                        56.059753
-                  ]
-            },
-            {
-                  "name": "Helsingør Bymuseum",
-                  "text": "Das Helsingør Bymuseum zeigt die Geschichte der Stadt Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.61258,
-                        56.036419
-                  ]
-            },
-            {
-                  "name": "Skibsklarerergaarden",
-                  "text": "Die Skibsklarerergaarden ist ein Museum in einem historischen Handelshaus in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.615068,
-                        56.034816
-                  ]
-            },
-            {
-                  "name": "Marienlyst Slot",
-                  "text": "Das Marienlyst Slot ist ein ehemaliges königliches Lustschloss in Helsingør.",
-                  "category": "castle",
-                  "coords": [
-                        12.601967,
-                        56.04201
-                  ]
-            },
-            {
-                  "name": "Øresundsakvariet",
-                  "text": "Das Øresund Aquarium ist ein Salzwasseraquarium in Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.610898,
-                        56.041223
-                  ]
-            },
-            {
-                  "name": "M/S Museet for Søfart",
-                  "text": "Das M/S Museet for Søfart ist ein preisgekröntes Schifffahrtsmuseum in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.616248,
-                        56.038967
-                  ]
-            },
-            {
-                  "name": "Værftsmuseet",
-                  "text": "Das Værftsmuseet dokumentiert die Geschichte der Schiffswerft von Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.614184,
-                        56.037763
-                  ]
-            },
-            {
-                  "name": "Håndværkeren",
-                  "text": "Håndværkeren ist ein kultureller Veranstaltungsort und Theater in Helsingør.",
-                  "category": "cultural",
-                  "coords": [
-                        12.610772,
-                        56.038129
-                  ]
-            },
-            {
-                  "name": "Kronborg Slot",
-                  "text": "Schloss Kronborg ist eine weltberühmte Festung und UNESCO-Welterbestätte in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.621251,
-                        56.039285
-                  ]
-            },
-            {
-                  "name": "Vandlaboratoriet",
-                  "text": "Das Vandlaboratoriet ist ein interaktives Lernzentrum zum Thema Wasser in Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.61302,
-                        56.041572
-                  ]
-            },
-            {
-                  "name": "Kongenshave",
-                  "text": "Die Kongenshave ist eine Parkanlage in Helsingør.",
-                  "category": "park",
-                  "coords": [
-                        12.597139,
-                        56.044098
-                  ]
-            },
-            {
-                  "name": "Galleri Orange",
-                  "text": "Die Galleri Orange zeigt zeitgenössische Kunst in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.614329,
-                        56.041071
-                  ]
-            },
-            {
-                  "name": "Sthens Kirke",
-                  "text": "Die Sthens Kirke ist eine moderne Kirche in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.58781,
-                        56.019824
-                  ]
-            },
-            {
-                  "name": "Sankt Olai Kirke",
-                  "text": "Die Sankt Olai Kirke ist der Dom von Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.614058,
-                        56.035702
-                  ]
-            },
-            {
-                  "name": "Vestervang Kirke",
-                  "text": "Die Vestervang Kirke ist ein Kirchengebäude in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.589669,
-                        56.03335
-                  ]
-            },
-            {
-                  "name": "Kronborg Slotskirke",
-                  "text": "Die Kronborg Slotskirke ist die historische Kapelle im Schloss Kronborg.",
-                  "category": "religious",
-                  "coords": [
-                        12.622165,
-                        56.038705
-                  ]
-            },
-            {
-                  "name": "Sankt Vincent Kirke",
-                  "text": "Die Saint Vincent Church ist eine Kirche in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.607921,
-                        56.037449
-                  ]
-            },
-            {
-                  "name": "Gedser Rev",
-                  "text": "Das Fyrskib Gedser Rev ist ein historisches Feuerschiff, das im Hafen von Helsingør liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        12.615661,
-                        56.037816
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gummistranden",
-                  "text": "Strand Helsingør városa közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        12.608653,
-                        56.043667
-                  ]
-            },
-            {
-                  "name": "Snekkersten Strand",
-                  "text": "A Helsingør melletti Snekkersten Strand egy népszerű tengerparti szakasz.",
-                  "category": "recreational",
-                  "coords": [
-                        12.581387,
-                        56.005347
-                  ]
-            },
-            {
-                  "name": "Julebæk Strand",
-                  "text": "A Julebæk Strand Helsingør festői környezetében található.",
-                  "category": "recreational",
-                  "coords": [
-                        12.574621,
-                        56.059753
-                  ]
-            },
-            {
-                  "name": "Helsingør Bymuseum",
-                  "text": "A Helsingør Bymuseum Helsingør városának történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.61258,
-                        56.036419
-                  ]
-            },
-            {
-                  "name": "Skibsklarerergaarden",
-                  "text": "A Skibsklarerergaarden egy múzeum egy történelmi kereskedőházban Helsingørben.",
-                  "category": "museum",
-                  "coords": [
-                        12.615068,
-                        56.034816
-                  ]
-            },
-            {
-                  "name": "Marienlyst Slot",
-                  "text": "A Marienlyst Slot egy egykori királyi kastély Helsingørben.",
-                  "category": "castle",
-                  "coords": [
-                        12.601967,
-                        56.04201
-                  ]
-            },
-            {
-                  "name": "Øresundsakvariet",
-                  "text": "Az Øresund Aquarium egy sós vizi akvárium Helsingørben.",
-                  "category": "family",
-                  "coords": [
-                        12.610898,
-                        56.041223
-                  ]
-            },
-            {
-                  "name": "M/S Museet for Søfart",
-                  "text": "Az M/S Museet for Søfart egy díjnyertes hajózási múzeum Helsingørben.",
-                  "category": "museum",
-                  "coords": [
-                        12.616248,
-                        56.038967
-                  ]
-            },
-            {
-                  "name": "Værftsmuseet",
-                  "text": "A Værftsmuseet a helsingőri hajógyár történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        12.614184,
-                        56.037763
-                  ]
-            },
-            {
-                  "name": "Håndværkeren",
-                  "text": "A Håndværkeren egy kulturális helyszín és színház Helsingőrben.",
-                  "category": "cultural",
-                  "coords": [
-                        12.610772,
-                        56.038129
-                  ]
-            },
-            {
-                  "name": "Kronborg Slot",
-                  "text": "Kronborg vára egy világhírű erőd és UNESCO világörökségi helyszín Helsingőrben.",
-                  "category": "museum",
-                  "coords": [
-                        12.621251,
-                        56.039285
-                  ]
-            },
-            {
-                  "name": "Vandlaboratoriet",
-                  "text": "A Vandlaboratoriet egy interaktív oktatási központ a víz témakörében Helsingőrben.",
-                  "category": "family",
-                  "coords": [
-                        12.61302,
-                        56.041572
-                  ]
-            },
-            {
-                  "name": "Kongenshave",
-                  "text": "A Kongenshave egy park Helsingőrben.",
-                  "category": "park",
-                  "coords": [
-                        12.597139,
-                        56.044098
-                  ]
-            },
-            {
-                  "name": "Galleri Orange",
-                  "text": "A Galleri Orange kortárs művészeti alkotásokat mutat be Helsingőrben.",
-                  "category": "museum",
-                  "coords": [
-                        12.614329,
-                        56.041071
-                  ]
-            },
-            {
-                  "name": "Sthens Kirke",
-                  "text": "A Sthens Kirke egy modern templom Helsingőrben.",
-                  "category": "religious",
-                  "coords": [
-                        12.58781,
-                        56.019824
-                  ]
-            },
-            {
-                  "name": "Sankt Olai Kirke",
-                  "text": "A Sankt Olai Kirke Helsingőr székesegyháza.",
-                  "category": "religious",
-                  "coords": [
-                        12.614058,
-                        56.035702
-                  ]
-            },
-            {
-                  "name": "Vestervang Kirke",
-                  "text": "A Vestervang Kirke egy templomépület Helsingőrben.",
-                  "category": "religious",
-                  "coords": [
-                        12.589669,
-                        56.03335
-                  ]
-            },
-            {
-                  "name": "Kronborg Slotskirke",
-                  "text": "A Kronborg Slotskirke a Kronborg-vár történelmi kápolnája.",
-                  "category": "religious",
-                  "coords": [
-                        12.622165,
-                        56.038705
-                  ]
-            },
-            {
-                  "name": "Sankt Vincent Kirke",
-                  "text": "A Saint Vincent Church egy templom Helsingőrben.",
-                  "category": "religious",
-                  "coords": [
-                        12.607921,
-                        56.037449
-                  ]
-            },
-            {
-                  "name": "Gedser Rev",
-                  "text": "A Fyrskib Gedser Rev egy történelmi világítóhajó Helsingőr kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        12.615661,
-                        56.037816
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gummistranden",
-                  "text": "O plajă lângă orașul Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.608653,
-                        56.043667
-                  ]
-            },
-            {
-                  "name": "Snekkersten Strand",
-                  "text": "Plaja Snekkersten de lângă Helsingør este o porțiune populară de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        12.581387,
-                        56.005347
-                  ]
-            },
-            {
-                  "name": "Julebæk Strand",
-                  "text": "Plaja Julebæk este situată în împrejurimile pitorești ale orașului Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.574621,
-                        56.059753
-                  ]
-            },
-            {
-                  "name": "Helsingør Bymuseum",
-                  "text": "Helsingør Bymuseum prezintă istoria orașului Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.61258,
-                        56.036419
-                  ]
-            },
-            {
-                  "name": "Skibsklarerergaarden",
-                  "text": "Skibsklarerergaarden este un muzeu într-o casă comercială istorică din Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.615068,
-                        56.034816
-                  ]
-            },
-            {
-                  "name": "Marienlyst Slot",
-                  "text": "Marienlyst Slot este un fost castel regal din Helsingør.",
-                  "category": "castle",
-                  "coords": [
-                        12.601967,
-                        56.04201
-                  ]
-            },
-            {
-                  "name": "Øresundsakvariet",
-                  "text": "Øresund Aquarium este un acvariu cu apă sărată din Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.610898,
-                        56.041223
-                  ]
-            },
-            {
-                  "name": "M/S Museet for Søfart",
-                  "text": "M/S Museet for Søfart este un muzeu maritim premiat din Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.616248,
-                        56.038967
-                  ]
-            },
-            {
-                  "name": "Værftsmuseet",
-                  "text": "Værftsmuseet documentează istoria șantierului naval din Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.614184,
-                        56.037763
-                  ]
-            },
-            {
-                  "name": "Håndværkeren",
-                  "text": "Håndværkeren este un loc cultural și teatru din Helsingør.",
-                  "category": "cultural",
-                  "coords": [
-                        12.610772,
-                        56.038129
-                  ]
-            },
-            {
-                  "name": "Kronborg Slot",
-                  "text": "Castelul Kronborg este o cetate faimoasă și sit al Patrimoniului Mondial UNESCO în Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.621251,
-                        56.039285
-                  ]
-            },
-            {
-                  "name": "Vandlaboratoriet",
-                  "text": "Vandlaboratoriet este un centru educațional interactiv despre apă în Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.61302,
-                        56.041572
-                  ]
-            },
-            {
-                  "name": "Kongenshave",
-                  "text": "Kongenshave este un parc din Helsingør.",
-                  "category": "park",
-                  "coords": [
-                        12.597139,
-                        56.044098
-                  ]
-            },
-            {
-                  "name": "Galleri Orange",
-                  "text": "Galleri Orange expune artă contemporană în Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.614329,
-                        56.041071
-                  ]
-            },
-            {
-                  "name": "Sthens Kirke",
-                  "text": "Sthens Kirke este o biserică modernă din Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.58781,
-                        56.019824
-                  ]
-            },
-            {
-                  "name": "Sankt Olai Kirke",
-                  "text": "Sankt Olai Kirke este catedrala din Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.614058,
-                        56.035702
-                  ]
-            },
-            {
-                  "name": "Vestervang Kirke",
-                  "text": "Vestervang Kirke este o clădire de biserică din Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.589669,
-                        56.03335
-                  ]
-            },
-            {
-                  "name": "Kronborg Slotskirke",
-                  "text": "Kronborg Slotskirke este capela istorică din interiorul castelului Kronborg.",
-                  "category": "religious",
-                  "coords": [
-                        12.622165,
-                        56.038705
-                  ]
-            },
-            {
-                  "name": "Sankt Vincent Kirke",
-                  "text": "Saint Vincent Church este o biserică din Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.607921,
-                        56.037449
-                  ]
-            },
-            {
-                  "name": "Gedser Rev",
-                  "text": "Fyrskib Gedser Rev este o navă-far istorică situată în portul Helsingør.",
-                  "category": "landmark",
-                  "coords": [
-                        12.615661,
-                        56.037816
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gummistranden",
-                  "text": "A beach near the town of Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.608653,
-                        56.043667
-                  ]
-            },
-            {
-                  "name": "Snekkersten Strand",
-                  "text": "Snekkersten Strand near Helsingør is a popular coastal area.",
-                  "category": "recreational",
-                  "coords": [
-                        12.581387,
-                        56.005347
-                  ]
-            },
-            {
-                  "name": "Julebæk Strand",
-                  "text": "Julebæk Strand is located in the picturesque surroundings of Helsingør.",
-                  "category": "recreational",
-                  "coords": [
-                        12.574621,
-                        56.059753
-                  ]
-            },
-            {
-                  "name": "Helsingør Bymuseum",
-                  "text": "Helsingør Bymuseum showcases the history of the city of Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.61258,
-                        56.036419
-                  ]
-            },
-            {
-                  "name": "Skibsklarerergaarden",
-                  "text": "Skibsklarerergaarden is a museum in a historic merchant house in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.615068,
-                        56.034816
-                  ]
-            },
-            {
-                  "name": "Marienlyst Slot",
-                  "text": "Marienlyst Slot is a former royal pleasure palace in Helsingør.",
-                  "category": "castle",
-                  "coords": [
-                        12.601967,
-                        56.04201
-                  ]
-            },
-            {
-                  "name": "Øresund Aquarium",
-                  "text": "Øresund Aquarium is a saltwater aquarium in Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.610898,
-                        56.041223
-                  ]
-            },
-            {
-                  "name": "M/S Museet for Søfart",
-                  "text": "M/S Museet for Søfart is an award-winning maritime museum in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.616248,
-                        56.038967
-                  ]
-            },
-            {
-                  "name": "Værftsmuseet",
-                  "text": "Værftsmuseet documents the history of the Helsingør shipyard.",
-                  "category": "museum",
-                  "coords": [
-                        12.614184,
-                        56.037763
-                  ]
-            },
-            {
-                  "name": "Håndværkeren",
-                  "text": "Håndværkeren is a cultural venue and theatre in Helsingør.",
-                  "category": "cultural",
-                  "coords": [
-                        12.610772,
-                        56.038129
-                  ]
-            },
-            {
-                  "name": "Kronborg Slot",
-                  "text": "Kronborg Castle is a world-famous fortress and UNESCO World Heritage site in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.621251,
-                        56.039285
-                  ]
-            },
-            {
-                  "name": "Vandlaboratoriet",
-                  "text": "Vandlaboratoriet is an interactive water laboratory and learning center in Helsingør.",
-                  "category": "family",
-                  "coords": [
-                        12.61302,
-                        56.041572
-                  ]
-            },
-            {
-                  "name": "Kongenshave",
-                  "text": "Kongenshave is a park in Helsingør.",
-                  "category": "park",
-                  "coords": [
-                        12.597139,
-                        56.044098
-                  ]
-            },
-            {
-                  "name": "Galleri Orange",
-                  "text": "Galleri Orange displays contemporary art in Helsingør.",
-                  "category": "museum",
-                  "coords": [
-                        12.614329,
-                        56.041071
-                  ]
-            },
-            {
-                  "name": "Sthens Kirke",
-                  "text": "Sthens Kirke is a modern church in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.58781,
-                        56.019824
-                  ]
-            },
-            {
-                  "name": "Sankt Olai Kirke",
-                  "text": "Sankt Olai Kirke is the cathedral of Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.614058,
-                        56.035702
-                  ]
-            },
-            {
-                  "name": "Vestervang Kirke",
-                  "text": "Vestervang Kirke is a church building in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.589669,
-                        56.03335
-                  ]
-            },
-            {
-                  "name": "Kronborg Slotskirke",
-                  "text": "Kronborg Slotskirke is the historic chapel located within Kronborg Castle.",
-                  "category": "religious",
-                  "coords": [
-                        12.622165,
-                        56.038705
-                  ]
-            },
-            {
-                  "name": "Saint Vincent Church",
-                  "text": "Saint Vincent Church is a church in Helsingør.",
-                  "category": "religious",
-                  "coords": [
-                        12.607921,
-                        56.037449
-                  ]
-            },
-            {
-                  "name": "Gedser Rev",
-                  "text": "Fyrskib Gedser Rev is a historic lightship located in the Helsingør harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        12.615661,
-                        56.037816
-                  ]
-            }
-      ]
-},
+ id: "city-helsingor", "sights": {"de": [{"name": "Gummistranden", "text": "Ein Strand nahe der Stadt Helsingør.", "category": "recreational", "coords": [12.608653, 56.043667]}, {"name": "Snekkersten Strand", "text": "Der beliebte Snekkersten Strand bei Helsingør ist ein charmantes Ziel an der dänischen Küste. Die Gegend ist wie geschaffen für erfrischende Badegänge und entspanntes Verweilen mit Blick auf das glitzernde Wasser. Man spürt hier eine freundliche und oft recht lebendige Stimmung, die den Strandbesuch besonders kurzweilig macht. Für Spaziergänge entlang der Ostseeküste ist dieser Ort ein hervorragender Startpunkt.", "category": "recreational", "coords": [12.581387, 56.005347]}, {"name": "Julebæk Strand", "text": "In der malerischen Umgebung von Helsingør bietet der Julebæk Strand ein wunderschönes Naturerlebnis am dänischen Gewässer. Wer Ruhe sucht, kann an diesem beschaulichen Küstenstreifen entspannte Stunden beim Baden und Sonnen verbringen. Die unberührte Atmosphäre zieht Naturfreunde an, die das leise Rauschen der Wellen schätzen. Ein Besuch im Sommer verspricht herrliche Nachmittage am Meer.", "category": "recreational", "coords": [12.574621, 56.059753]}, {"name": "Helsingør Bymuseum", "text": "Das Helsingør Bymuseum zeigt die Geschichte der Stadt Helsingør.", "category": "museum", "coords": [12.61258, 56.036419]}, {"name": "Skibsklarerergaarden", "text": "Die Skibsklarerergaarden ist ein Museum in einem historischen Handelshaus in Helsingør.", "category": "museum", "coords": [12.615068, 56.034816]}, {"name": "Marienlyst Slot", "text": "Das Marienlyst Slot ist ein ehemaliges königliches Lustschloss in Helsingør.", "category": "castle", "coords": [12.601967, 56.04201]}, {"name": "Øresundsakvariet", "text": "Das Øresund Aquarium ist ein Salzwasseraquarium in Helsingør.", "category": "family", "coords": [12.610898, 56.041223]}, {"name": "M/S Museet for Søfart", "text": "Das M/S Museet for Søfart ist ein preisgekröntes Schifffahrtsmuseum in Helsingør.", "category": "museum", "coords": [12.616248, 56.038967]}, {"name": "Værftsmuseet", "text": "Das Værftsmuseet dokumentiert die Geschichte der Schiffswerft von Helsingør.", "category": "museum", "coords": [12.614184, 56.037763]}, {"name": "Håndværkeren", "text": "Håndværkeren ist ein kultureller Veranstaltungsort und Theater in Helsingør.", "category": "cultural", "coords": [12.610772, 56.038129]}, {"name": "Kronborg Slot", "text": "Schloss Kronborg ist eine weltberühmte Festung und UNESCO-Welterbestätte in Helsingør.", "category": "museum", "coords": [12.621251, 56.039285]}, {"name": "Vandlaboratoriet", "text": "Das Vandlaboratoriet ist ein interaktives Lernzentrum zum Thema Wasser in Helsingør.", "category": "family", "coords": [12.61302, 56.041572]}, {"name": "Kongenshave", "text": "Die Kongenshave ist eine Parkanlage in Helsingør.", "category": "park", "coords": [12.597139, 56.044098]}, {"name": "Galleri Orange", "text": "Die Galleri Orange zeigt zeitgenössische Kunst in Helsingør.", "category": "museum", "coords": [12.614329, 56.041071]}, {"name": "Sthens Kirke", "text": "Die Sthens Kirke ist eine moderne Kirche in Helsingør.", "category": "religious", "coords": [12.58781, 56.019824]}, {"name": "Sankt Olai Kirke", "text": "Die Sankt Olai Kirke ist der Dom von Helsingør.", "category": "religious", "coords": [12.614058, 56.035702]}, {"name": "Vestervang Kirke", "text": "Die Vestervang Kirke ist ein Kirchengebäude in Helsingør.", "category": "religious", "coords": [12.589669, 56.03335]}, {"name": "Kronborg Slotskirke", "text": "Die Kronborg Slotskirke ist die historische Kapelle im Schloss Kronborg.", "category": "religious", "coords": [12.622165, 56.038705]}, {"name": "Sankt Vincent Kirke", "text": "Die Saint Vincent Church ist eine Kirche in Helsingør.", "category": "religious", "coords": [12.607921, 56.037449]}, {"name": "Gedser Rev", "text": "Das Fyrskib Gedser Rev ist ein historisches Feuerschiff, das im Hafen von Helsingør liegt.", "category": "landmark", "coords": [12.615661, 56.037816]}], "hu": [{"name": "Gummistranden", "text": "Strand Helsingør városa közelében.", "category": "recreational", "coords": [12.608653, 56.043667]}, {"name": "Snekkersten Strand", "text": "A Helsingør melletti kedvelt Snekkersten Strand egy bájos célpont a dán tengerparton. A környék mintha csak frissítő fürdőzésre és a csillogó víz látványában való gyönyörködésre lett volna teremtve. A barátságos és gyakran igen élénk hangulat különösen szórakoztatóvá teszi a strandolást. A Balti-tenger partján tett sétákhoz is nagyszerű kiindulópont ez a hely.", "category": "recreational", "coords": [12.581387, 56.005347]}, {"name": "Julebæk Strand", "text": "A Helsingør festői környezetében található Julebæk Strand csodálatos természetközeli élményt nyújt a dán vizeknél. Aki békére vágyik, az ezen a csendes partszakaszon pihentető órákat tölthet fürdőzéssel és napozással. Az érintetlen atmoszféra vonzza a természet szerelmeseit, akik nagyra értékelik a hullámok halk morajlását. Egy nyári látogatás nagyszerű tengerparti délutánokat ígér.", "category": "recreational", "coords": [12.574621, 56.059753]}, {"name": "Helsingør Bymuseum", "text": "A Helsingør Bymuseum Helsingør városának történelmét mutatja be.", "category": "museum", "coords": [12.61258, 56.036419]}, {"name": "Skibsklarerergaarden", "text": "A Skibsklarerergaarden egy múzeum egy történelmi kereskedőházban Helsingørben.", "category": "museum", "coords": [12.615068, 56.034816]}, {"name": "Marienlyst Slot", "text": "A Marienlyst Slot egy egykori királyi kastély Helsingørben.", "category": "castle", "coords": [12.601967, 56.04201]}, {"name": "Øresundsakvariet", "text": "Az Øresund Aquarium egy sós vizi akvárium Helsingørben.", "category": "family", "coords": [12.610898, 56.041223]}, {"name": "M/S Museet for Søfart", "text": "Az M/S Museet for Søfart egy díjnyertes hajózási múzeum Helsingørben.", "category": "museum", "coords": [12.616248, 56.038967]}, {"name": "Værftsmuseet", "text": "A Værftsmuseet a helsingőri hajógyár történetét dokumentálja.", "category": "museum", "coords": [12.614184, 56.037763]}, {"name": "Håndværkeren", "text": "A Håndværkeren egy kulturális helyszín és színház Helsingőrben.", "category": "cultural", "coords": [12.610772, 56.038129]}, {"name": "Kronborg Slot", "text": "Kronborg vára egy világhírű erőd és UNESCO világörökségi helyszín Helsingőrben.", "category": "museum", "coords": [12.621251, 56.039285]}, {"name": "Vandlaboratoriet", "text": "A Vandlaboratoriet egy interaktív oktatási központ a víz témakörében Helsingőrben.", "category": "family", "coords": [12.61302, 56.041572]}, {"name": "Kongenshave", "text": "A Kongenshave egy park Helsingőrben.", "category": "park", "coords": [12.597139, 56.044098]}, {"name": "Galleri Orange", "text": "A Galleri Orange kortárs művészeti alkotásokat mutat be Helsingőrben.", "category": "museum", "coords": [12.614329, 56.041071]}, {"name": "Sthens Kirke", "text": "A Sthens Kirke egy modern templom Helsingőrben.", "category": "religious", "coords": [12.58781, 56.019824]}, {"name": "Sankt Olai Kirke", "text": "A Sankt Olai Kirke Helsingőr székesegyháza.", "category": "religious", "coords": [12.614058, 56.035702]}, {"name": "Vestervang Kirke", "text": "A Vestervang Kirke egy templomépület Helsingőrben.", "category": "religious", "coords": [12.589669, 56.03335]}, {"name": "Kronborg Slotskirke", "text": "A Kronborg Slotskirke a Kronborg-vár történelmi kápolnája.", "category": "religious", "coords": [12.622165, 56.038705]}, {"name": "Sankt Vincent Kirke", "text": "A Saint Vincent Church egy templom Helsingőrben.", "category": "religious", "coords": [12.607921, 56.037449]}, {"name": "Gedser Rev", "text": "A Fyrskib Gedser Rev egy történelmi világítóhajó Helsingőr kikötőjében.", "category": "landmark", "coords": [12.615661, 56.037816]}], "ro": [{"name": "Gummistranden", "text": "O plajă lângă orașul Helsingør.", "category": "recreational", "coords": [12.608653, 56.043667]}, {"name": "Snekkersten Strand", "text": "Populara Snekkersten Strand de lângă Helsingør este o destinație fermecătoare pe coasta daneză. Zona este perfectă pentru o baie revigorantă și pentru a vă relaxa privind apa strălucitoare. Veți simți aici o atmosferă prietenoasă și adesea destul de vibrantă, care face vizita la plajă deosebit de distractivă. Pentru plimbări de-a lungul coastei Mării Baltice, acest loc este un punct de plecare excelent.", "category": "recreational", "coords": [12.581387, 56.005347]}, {"name": "Julebæk Strand", "text": "În împrejurimile pitorești din Helsingør, Julebæk Strand oferă o experiență naturală minunată la apele daneze. Cei care caută liniște pot petrece ore relaxante înotând și făcând plajă pe această fâșie de coastă contemplativă. Atmosfera curată atrage iubitorii de natură care apreciază sunetul liniștit al valurilor. O vizită în timpul verii promite după-amiezi glorioase la malul mării.", "category": "recreational", "coords": [12.574621, 56.059753]}, {"name": "Helsingør Bymuseum", "text": "Helsingør Bymuseum prezintă istoria orașului Helsingør.", "category": "museum", "coords": [12.61258, 56.036419]}, {"name": "Skibsklarerergaarden", "text": "Skibsklarerergaarden este un muzeu într-o casă comercială istorică din Helsingør.", "category": "museum", "coords": [12.615068, 56.034816]}, {"name": "Marienlyst Slot", "text": "Marienlyst Slot este un fost castel regal din Helsingør.", "category": "castle", "coords": [12.601967, 56.04201]}, {"name": "Øresundsakvariet", "text": "Øresund Aquarium este un acvariu cu apă sărată din Helsingør.", "category": "family", "coords": [12.610898, 56.041223]}, {"name": "M/S Museet for Søfart", "text": "M/S Museet for Søfart este un muzeu maritim premiat din Helsingør.", "category": "museum", "coords": [12.616248, 56.038967]}, {"name": "Værftsmuseet", "text": "Værftsmuseet documentează istoria șantierului naval din Helsingør.", "category": "museum", "coords": [12.614184, 56.037763]}, {"name": "Håndværkeren", "text": "Håndværkeren este un loc cultural și teatru din Helsingør.", "category": "cultural", "coords": [12.610772, 56.038129]}, {"name": "Kronborg Slot", "text": "Castelul Kronborg este o cetate faimoasă și sit al Patrimoniului Mondial UNESCO în Helsingør.", "category": "museum", "coords": [12.621251, 56.039285]}, {"name": "Vandlaboratoriet", "text": "Vandlaboratoriet este un centru educațional interactiv despre apă în Helsingør.", "category": "family", "coords": [12.61302, 56.041572]}, {"name": "Kongenshave", "text": "Kongenshave este un parc din Helsingør.", "category": "park", "coords": [12.597139, 56.044098]}, {"name": "Galleri Orange", "text": "Galleri Orange expune artă contemporană în Helsingør.", "category": "museum", "coords": [12.614329, 56.041071]}, {"name": "Sthens Kirke", "text": "Sthens Kirke este o biserică modernă din Helsingør.", "category": "religious", "coords": [12.58781, 56.019824]}, {"name": "Sankt Olai Kirke", "text": "Sankt Olai Kirke este catedrala din Helsingør.", "category": "religious", "coords": [12.614058, 56.035702]}, {"name": "Vestervang Kirke", "text": "Vestervang Kirke este o clădire de biserică din Helsingør.", "category": "religious", "coords": [12.589669, 56.03335]}, {"name": "Kronborg Slotskirke", "text": "Kronborg Slotskirke este capela istorică din interiorul castelului Kronborg.", "category": "religious", "coords": [12.622165, 56.038705]}, {"name": "Sankt Vincent Kirke", "text": "Saint Vincent Church este o biserică din Helsingør.", "category": "religious", "coords": [12.607921, 56.037449]}, {"name": "Gedser Rev", "text": "Fyrskib Gedser Rev este o navă-far istorică situată în portul Helsingør.", "category": "landmark", "coords": [12.615661, 56.037816]}], "en": [{"name": "Gummistranden", "text": "A beach near the town of Helsingør.", "category": "recreational", "coords": [12.608653, 56.043667]}, {"name": "Snekkersten Strand", "text": "The highly popular Snekkersten Strand near Helsingør is a truly charming destination on the Danish coast. The area is practically tailor-made for taking refreshing swims and relaxing while gazing out at the sparkling waters. You can sense a friendly and often quite lively mood here, making the beach visit particularly enjoyable. For long walks along the Baltic coast, this location serves as an excellent starting point.", "category": "recreational", "coords": [12.581387, 56.005347]}, {"name": "Julebæk Strand", "text": "Situated in the picturesque surroundings of Helsingør, Julebæk Strand provides a wonderful natural experience by the Danish waters. Anyone seeking peace can spend relaxing hours swimming and sunbathing along this contemplative stretch of coast. The pristine atmosphere strongly attracts nature lovers who truly appreciate the quiet sound of the waves. A visit during the summer months promises glorious afternoons by the sea.", "category": "recreational", "coords": [12.574621, 56.059753]}, {"name": "Helsingør Bymuseum", "text": "Helsingør Bymuseum showcases the history of the city of Helsingør.", "category": "museum", "coords": [12.61258, 56.036419]}, {"name": "Skibsklarerergaarden", "text": "Skibsklarerergaarden is a museum in a historic merchant house in Helsingør.", "category": "museum", "coords": [12.615068, 56.034816]}, {"name": "Marienlyst Slot", "text": "Marienlyst Slot is a former royal pleasure palace in Helsingør.", "category": "castle", "coords": [12.601967, 56.04201]}, {"name": "Øresund Aquarium", "text": "Øresund Aquarium is a saltwater aquarium in Helsingør.", "category": "family", "coords": [12.610898, 56.041223]}, {"name": "M/S Museet for Søfart", "text": "M/S Museet for Søfart is an award-winning maritime museum in Helsingør.", "category": "museum", "coords": [12.616248, 56.038967]}, {"name": "Værftsmuseet", "text": "Værftsmuseet documents the history of the Helsingør shipyard.", "category": "museum", "coords": [12.614184, 56.037763]}, {"name": "Håndværkeren", "text": "Håndværkeren is a cultural venue and theatre in Helsingør.", "category": "cultural", "coords": [12.610772, 56.038129]}, {"name": "Kronborg Slot", "text": "Kronborg Castle is a world-famous fortress and UNESCO World Heritage site in Helsingør.", "category": "museum", "coords": [12.621251, 56.039285]}, {"name": "Vandlaboratoriet", "text": "Vandlaboratoriet is an interactive water laboratory and learning center in Helsingør.", "category": "family", "coords": [12.61302, 56.041572]}, {"name": "Kongenshave", "text": "Kongenshave is a park in Helsingør.", "category": "park", "coords": [12.597139, 56.044098]}, {"name": "Galleri Orange", "text": "Galleri Orange displays contemporary art in Helsingør.", "category": "museum", "coords": [12.614329, 56.041071]}, {"name": "Sthens Kirke", "text": "Sthens Kirke is a modern church in Helsingør.", "category": "religious", "coords": [12.58781, 56.019824]}, {"name": "Sankt Olai Kirke", "text": "Sankt Olai Kirke is the cathedral of Helsingør.", "category": "religious", "coords": [12.614058, 56.035702]}, {"name": "Vestervang Kirke", "text": "Vestervang Kirke is a church building in Helsingør.", "category": "religious", "coords": [12.589669, 56.03335]}, {"name": "Kronborg Slotskirke", "text": "Kronborg Slotskirke is the historic chapel located within Kronborg Castle.", "category": "religious", "coords": [12.622165, 56.038705]}, {"name": "Saint Vincent Church", "text": "Saint Vincent Church is a church in Helsingør.", "category": "religious", "coords": [12.607921, 56.037449]}, {"name": "Gedser Rev", "text": "Fyrskib Gedser Rev is a historic lightship located in the Helsingør harbor.", "category": "landmark", "coords": [12.615661, 56.037816]}]},
  type: "city",
  parent: "denmark",
  coords: [12.6136, 56.0361],
@@ -9625,6 +9607,15 @@ export const denmarkCities: POI[] = [
                         8.442948,
                         55.48423
                   ]
+            },
+            {
+                  "name": "Aqtiv",
+                  "text": "Aqtiv in Esbjerg ist ein Badebereich für aktiven Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.414961,
+                        55.483315
+                  ]
             }
       ],
       "hu": [
@@ -9734,6 +9725,15 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.442948,
                         55.48423
+                  ]
+            },
+            {
+                  "name": "Aqtiv",
+                  "text": "Az Aqtiv Esbjergben egy fürdőhely az aktív vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.414961,
+                        55.483315
                   ]
             }
       ],
@@ -9845,6 +9845,15 @@ export const denmarkCities: POI[] = [
                         8.442948,
                         55.48423
                   ]
+            },
+            {
+                  "name": "Aqtiv",
+                  "text": "Aqtiv din Esbjerg este o zonă de înot pentru distracție activă în apă.",
+                  "category": "family",
+                  "coords": [
+                        8.414961,
+                        55.483315
+                  ]
             }
       ],
       "en": [
@@ -9954,6 +9963,15 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.442948,
                         55.48423
+                  ]
+            },
+            {
+                  "name": "Aqtiv",
+                  "text": "Aqtiv in Esbjerg is a swimming area for active water fun.",
+                  "category": "family",
+                  "coords": [
+                        8.414961,
+                        55.483315
                   ]
             }
       ]
@@ -10289,6 +10307,24 @@ export const denmarkCities: POI[] = [
                         9.419932,
                         56.45131
                   ]
+            },
+            {
+                  "name": "Nørresø Badet",
+                  "text": "Dieses öffentliche Bad in Viborg bietet einen Platz zum Schwimmen und zur Erholung im Freien am See.",
+                  "category": "family",
+                  "coords": [
+                        9.423313,
+                        56.462125
+                  ]
+            },
+            {
+                  "name": "Kildekrattet",
+                  "text": "Dieses öffentliche Bad in Viborg bietet Einrichtungen zum Schwimmen und zum Genießen der lokalen Landschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.431926,
+                        56.459188
+                  ]
             }
       ],
       "hu": [
@@ -10578,6 +10614,24 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.419932,
                         56.45131
+                  ]
+            },
+            {
+                  "name": "Nørresø Badet",
+                  "text": "Ez a Viborg-i közfürdő lehetőséget nyújt úszásra és szabadtéri kikapcsolódásra a tó partján.",
+                  "category": "family",
+                  "coords": [
+                        9.423313,
+                        56.462125
+                  ]
+            },
+            {
+                  "name": "Kildekrattet",
+                  "text": "Ez a Viborg-i közfürdő úszási lehetőséget és a helyi táj élvezetét kínálja.",
+                  "category": "family",
+                  "coords": [
+                        9.431926,
+                        56.459188
                   ]
             }
       ],
@@ -10869,6 +10923,24 @@ export const denmarkCities: POI[] = [
                         9.419932,
                         56.45131
                   ]
+            },
+            {
+                  "name": "Nørresø Badet",
+                  "text": "Această baie publică din Viborg oferă un loc pentru înot și recreere în aer liber pe malul lacului.",
+                  "category": "family",
+                  "coords": [
+                        9.423313,
+                        56.462125
+                  ]
+            },
+            {
+                  "name": "Kildekrattet",
+                  "text": "Această baie publică din Viborg oferă facilități pentru înot și pentru a se bucura de peisajul local.",
+                  "category": "family",
+                  "coords": [
+                        9.431926,
+                        56.459188
+                  ]
             }
       ],
       "en": [
@@ -11158,6 +11230,24 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.419932,
                         56.45131
+                  ]
+            },
+            {
+                  "name": "Nørresø Badet",
+                  "text": "This public bath in Viborg offers a spot for swimming and outdoor recreation by the lake.",
+                  "category": "family",
+                  "coords": [
+                        9.423313,
+                        56.462125
+                  ]
+            },
+            {
+                  "name": "Kildekrattet",
+                  "text": "This public bath in Viborg provides facilities for swimming and enjoying the local scenery.",
+                  "category": "family",
+                  "coords": [
+                        9.431926,
+                        56.459188
                   ]
             }
       ]
@@ -12300,1780 +12390,7 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/randers.webp",
  },
  {
- id: "city-silkeborg", "sights": {
-      "de": [
-            {
-                  "name": "Bredhøj",
-                  "text": "Bredhøj ist eine archäologische Stätte in Silkeborg, die Zeugnis früherer Kulturen ablegt.",
-                  "category": "historical",
-                  "coords": [
-                        9.55448,
-                        56.186712
-                  ]
-            },
-            {
-                  "name": "Silkeborg Bunkermuseum",
-                  "text": "Dieses Museum in Silkeborg ist in einem ehemaligen Bunker aus dem Zweiten Weltkrieg untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        9.523695,
-                        56.152691
-                  ]
-            },
-            {
-                  "name": "Museum Jorn",
-                  "text": "Das Museum Jorn zeigt die bedeutende Sammlung des dänischen Künstlers Asger Jorn.",
-                  "category": "museum",
-                  "coords": [
-                        9.558326,
-                        56.161151
-                  ]
-            },
-            {
-                  "name": "Museum Silkeborg",
-                  "text": "Das Museum Silkeborg ist bekannt für den Tollund-Mann, eine gut erhaltene Moorleiche.",
-                  "category": "museum",
-                  "coords": [
-                        9.553081,
-                        56.168867
-                  ]
-            },
-            {
-                  "name": "Aqua",
-                  "text": "AQUA ist ein Süßwasseraquarium und Tierpark, der die heimische Natur präsentiert.",
-                  "category": "family",
-                  "coords": [
-                        9.562358,
-                        56.153762
-                  ]
-            },
-            {
-                  "name": "Jysk Musikteater",
-                  "text": "Das Jysk Musikteater ist ein modernes Zentrum für Musik- und Theateraufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        9.555889,
-                        56.170421
-                  ]
-            },
-            {
-                  "name": "Det Ny Teater",
-                  "text": "Das Det Ny Teater in Silkeborg bietet ein vielfältiges Programm an Bühnenstücken.",
-                  "category": "cultural",
-                  "coords": [
-                        9.524069,
-                        56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad ist ein beliebter Badeplatz am See Almindsø in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "Ein Strand in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
-                  "name": "Friluftscenen",
-                  "text": "Eine Freilichtbühne in Silkeborg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.563331,
-                        56.15779
-                  ]
-            },
-            {
-                  "name": "Dronningestolen",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft von Silkeborg bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.562973,
-                        56.163722
-                  ]
-            },
-            {
-                  "name": "Silkeborg Slot",
-                  "text": "Die Überreste der Burg von Silkeborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.556285,
-                        56.173961
-                  ]
-            },
-            {
-                  "name": "Indelukket",
-                  "text": "Ein beliebter Park und Erholungsraum in Silkeborg.",
-                  "category": "park",
-                  "coords": [
-                        9.561993,
-                        56.159528
-                  ]
-            },
-            {
-                  "name": "Kroghs Bænk",
-                  "text": "Ein malerischer Aussichtspunkt in der Region Silkeborg.",
-                  "category": "natural",
-                  "coords": [
-                        9.545232,
-                        56.146504
-                  ]
-            },
-            {
-                  "name": "Galleri Moderne",
-                  "text": "Eine Kunstgalerie in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.545649,
-                        56.166308
-                  ]
-            },
-            {
-                  "name": "Kunstner Paletten",
-                  "text": "Eine Galerie für lokale Kunst in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.550315,
-                        56.167552
-                  ]
-            },
-            {
-                  "name": "Galleri Thomasberg",
-                  "text": "Eine Kunstgalerie in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.54465,
-                        56.167608
-                  ]
-            },
-            {
-                  "name": "Galleri Nygade 26A",
-                  "text": "Eine kleine Kunstgalerie in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.546749,
-                        56.167437
-                  ]
-            },
-            {
-                  "name": "Texas Collective",
-                  "text": "Ein Kunstkollektiv und eine Galerie in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.5486,
-                        56.167443
-                  ]
-            },
-            {
-                  "name": "Alderslyst Kirke",
-                  "text": "Eine Kirche im Stadtteil Alderslyst von Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.553567,
-                        56.181745
-                  ]
-            },
-            {
-                  "name": "Balle Kirke",
-                  "text": "Eine historische Kirche im Kirchspiel Balle in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.52274,
-                        56.196042
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "Die Frauenkirche in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.543748,
-                        56.168406
-                  ]
-            },
-            {
-                  "name": "Silkeborg Kirke",
-                  "text": "Die Hauptpfarrkirche von Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.551506,
-                        56.169676
-                  ]
-            },
-            {
-                  "name": "Mariehøj Kirke",
-                  "text": "Ein modernes Kirchengebäude in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.536439,
-                        56.158953
-                  ]
-            },
-            {
-                  "name": "Viborgbroen",
-                  "text": "Eine Brücke über das Gewässer in Silkeborg.",
-                  "category": "landmark",
-                  "coords": [
-                        9.555242,
-                        56.174506
-                  ]
-            },
-            {
-                  "name": "Almind Sø",
-                  "text": "Almind Sø ist ein See in Silkeborg, der für sein klares Wasser und die umliegende Waldlandschaft bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        9.545671,
-                        56.150974
-                  ]
-            },
-            {
-                  "name": "Vejlsø",
-                  "text": "Vejlsø ist ein See in Silkeborg, der eine malerische Kulisse für Naturbeobachtungen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.559502,
-                        56.149959
-                  ]
-            },
-            {
-                  "name": "Ørnsø",
-                  "text": "Ørnsø ist ein See in Silkeborg, der zu gemütlichen Spaziergängen in ruhiger Umgebung einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.519197,
-                        56.155097
-                  ]
-            },
-            {
-                  "name": "Avnsø",
-                  "text": "Avnsø ist ein See in Silkeborg, der Besuchern eine friedliche Atmosphäre inmitten der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.572448,
-                        56.142646
-                  ]
-            },
-            {
-                  "name": "Slåensø",
-                  "text": "Slåensø ist ein See in Silkeborg, der für seine idyllische Lage und das saubere Wasser geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        9.618867,
-                        56.123044
-                  ]
-            },
-            {
-                  "name": "Uglesø",
-                  "text": "Uglesø ist ein See in Silkeborg, der einen naturnahen Ort zum Ausruhen und Entspannen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.565682,
-                        56.141374
-                  ]
-            },
-            {
-                  "name": "Tranevig",
-                  "text": "Tranevig ist ein See in Silkeborg, der sich hervorragend für Erkundungen in der dänischen Seenplatte eignet.",
-                  "category": "natural",
-                  "coords": [
-                        9.516882,
-                        56.146069
-                  ]
-            },
-            {
-                  "name": "Vejlbo Mose",
-                  "text": "Vejlbo Mose ist ein See in Silkeborg, der eine einzigartige Moorlandschaft zum Entdecken bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.553167,
-                        56.154154
-                  ]
-            },
-            {
-                  "name": "Pøtsø",
-                  "text": "Pøtsø ist ein See in Silkeborg, der eine ruhige und ungestörte Umgebung in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.524065,
-                        56.159731
-                  ]
-            },
-            {
-                  "name": "Gjessø",
-                  "text": "Gjessø ist ein See in Silkeborg, der als schöner Ort für Spaziergänge am Ufer bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        9.496028,
-                        56.114304
-                  ]
-            },
-            {
-                  "name": "Ellesø",
-                  "text": "Ellesø ist ein See in Silkeborg, der eine charmante Kulisse für Naturliebhaber darstellt.",
-                  "category": "natural",
-                  "coords": [
-                        9.574353,
-                        56.129538
-                  ]
-            },
-            {
-                  "name": "Hummelsø",
-                  "text": "Hummelsø ist ein See in Silkeborg, der Besuchern einen friedlichen Rückzugsort im Grünen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.552169,
-                        56.109518
-                  ]
-            },
-            {
-                  "name": "Jenskær",
-                  "text": "Jenskær ist ein See in Silkeborg, der durch seine natürliche Schönheit und Ruhe besticht.",
-                  "category": "natural",
-                  "coords": [
-                        9.500946,
-                        56.125924
-                  ]
-            },
-            {
-                  "name": "Gubsø",
-                  "text": "Gubsø ist ein See in Silkeborg, der eine entspannte Atmosphäre für einen Tag im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.529513,
-                        56.202007
-                  ]
-            },
-            {
-                  "name": "Silkeborg Langsø",
-                  "text": "Silkeborg Langsø ist ein See in Silkeborg, der das Stadtbild prägt und viele Wege am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.554362,
-                        56.168746
-                  ]
-            },
-            {
-                  "name": "Lyngsø",
-                  "text": "Lyngsø ist ein See in Silkeborg, der eine ruhige Oase unweit des Stadtzentrums darstellt.",
-                  "category": "natural",
-                  "coords": [
-                        9.543833,
-                        56.158747
-                  ]
-            },
-            {
-                  "name": "Brassø",
-                  "text": "Brassø ist ein See in Silkeborg, der Teil des Gudenå-Systems ist und eine herrliche Aussicht bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.575662,
-                        56.144765
-                  ]
-            },
-            {
-                  "name": "Borre Sø",
-                  "text": "Borre Sø ist ein See in Silkeborg, der von bewaldeten Hügeln umgeben ist und zum Verweilen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.611582,
-                        56.130183
-                  ]
-            },
-            {
-                  "name": "Dalsøen",
-                  "text": "Dalsøen ist ein See in Silkeborg, der eine friedliche Umgebung für Naturfreunde bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.540929,
-                        56.194361
-                  ]
-            },
-            {
-                  "name": "Thorsø",
-                  "text": "Thorsø ist ein See in Silkeborg, der als beliebter Ort für Wanderungen und Freizeitaktivitäten bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        9.537482,
-                        56.126219
-                  ]
-            },
-            {
-                  "name": "Schoubyes Sø",
-                  "text": "Schoubyes Sø ist ein See in Silkeborg, der durch seine idyllische Lage im Wald besticht.",
-                  "category": "natural",
-                  "coords": [
-                        9.616963,
-                        56.16738
-                  ]
-            },
-            {
-                  "name": "Indelukkets minigolf",
-                  "text": "Indelukkets minigolf ist eine Minigolfanlage in Silkeborg, die Spielspaß für die ganze Familie bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.560689,
-                        56.160442
-                  ]
-            },
-            {
-                  "name": "Theodoras Have",
-                  "text": "Theodoras Have ist ein Spielplatz in Silkeborg, der Kindern einen freundlichen Ort zum Spielen im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.547146,
-                        56.165535
-                  ]
-            },
-            {
-                  "name": "Søndretorv legeplads",
-                  "text": "Søndretorv legeplads ist ein Spielplatz in Silkeborg, ideal für eine kurze Spielpause während eines Stadtbesuchs.",
-                  "category": "family",
-                  "coords": [
-                        9.551273,
-                        56.166786
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bredhøj",
-                  "text": "Bredhøj egy régészeti lelőhely Silkeborg területén.",
-                  "category": "historical",
-                  "coords": [
-                        9.55448,
-                        56.186712
-                  ]
-            },
-            {
-                  "name": "Silkeborg Bunkermuseum",
-                  "text": "Ez a silkeborgi múzeum egy második világháborús bunkerben kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        9.523695,
-                        56.152691
-                  ]
-            },
-            {
-                  "name": "Museum Jorn",
-                  "text": "A Museum Jorn Asger Jorn dán művész jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.558326,
-                        56.161151
-                  ]
-            },
-            {
-                  "name": "Museum Silkeborg",
-                  "text": "A Museum Silkeborg a Tollundi férfi nevű lápi múmiáról híres.",
-                  "category": "museum",
-                  "coords": [
-                        9.553081,
-                        56.168867
-                  ]
-            },
-            {
-                  "name": "Aqua",
-                  "text": "Az AQUA egy édesvízi akvárium és vadaspark Silkeborgban.",
-                  "category": "family",
-                  "coords": [
-                        9.562358,
-                        56.153762
-                  ]
-            },
-            {
-                  "name": "Jysk Musikteater",
-                  "text": "A Jysk Musikteater a zenei és színházi előadások modern központja Silkeborgban.",
-                  "category": "cultural",
-                  "coords": [
-                        9.555889,
-                        56.170421
-                  ]
-            },
-            {
-                  "name": "Det Ny Teater",
-                  "text": "A silkeborgi Det Ny Teater változatos színházi előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        9.524069,
-                        56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "A Vestre Søbad egy népszerű fürdőhely a silkeborgi Almindsø-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "Strand Silkeborgban.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
-                  "name": "Friluftscenen",
-                  "text": "Szabadtéri színpad Silkeborgban.",
-                  "category": "cultural",
-                  "coords": [
-                        9.563331,
-                        56.15779
-                  ]
-            },
-            {
-                  "name": "Dronningestolen",
-                  "text": "Kilátóhely, amely széles kilátást nyújt Silkeborg vidékére.",
-                  "category": "natural",
-                  "coords": [
-                        9.562973,
-                        56.163722
-                  ]
-            },
-            {
-                  "name": "Silkeborg Slot",
-                  "text": "A silkeborgi vár romjai.",
-                  "category": "historical",
-                  "coords": [
-                        9.556285,
-                        56.173961
-                  ]
-            },
-            {
-                  "name": "Indelukket",
-                  "text": "Népszerű park és szabadidős terület Silkeborgban.",
-                  "category": "park",
-                  "coords": [
-                        9.561993,
-                        56.159528
-                  ]
-            },
-            {
-                  "name": "Kroghs Bænk",
-                  "text": "Festői kilátóhely Silkeborg régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        9.545232,
-                        56.146504
-                  ]
-            },
-            {
-                  "name": "Galleri Moderne",
-                  "text": "Művészeti galéria Silkeborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.545649,
-                        56.166308
-                  ]
-            },
-            {
-                  "name": "Kunstner Paletten",
-                  "text": "Helyi művészetet bemutató galéria Silkeborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.550315,
-                        56.167552
-                  ]
-            },
-            {
-                  "name": "Galleri Thomasberg",
-                  "text": "Művészeti galéria Silkeborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.54465,
-                        56.167608
-                  ]
-            },
-            {
-                  "name": "Galleri Nygade 26A",
-                  "text": "Kisebb művészeti galéria Silkeborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.546749,
-                        56.167437
-                  ]
-            },
-            {
-                  "name": "Texas Collective",
-                  "text": "Művészeti kollektíva és galéria Silkeborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.5486,
-                        56.167443
-                  ]
-            },
-            {
-                  "name": "Alderslyst Kirke",
-                  "text": "Templom Silkeborg Alderslyst negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        9.553567,
-                        56.181745
-                  ]
-            },
-            {
-                  "name": "Balle Kirke",
-                  "text": "Történelmi templom Silkeborg Balle egyházközségében.",
-                  "category": "religious",
-                  "coords": [
-                        9.52274,
-                        56.196042
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "A Miasszonyunk-templom Silkeborgban.",
-                  "category": "religious",
-                  "coords": [
-                        9.543748,
-                        56.168406
-                  ]
-            },
-            {
-                  "name": "Silkeborg Kirke",
-                  "text": "Silkeborg fő plébániatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        9.551506,
-                        56.169676
-                  ]
-            },
-            {
-                  "name": "Mariehøj Kirke",
-                  "text": "Modern templomépület Silkeborgban.",
-                  "category": "religious",
-                  "coords": [
-                        9.536439,
-                        56.158953
-                  ]
-            },
-            {
-                  "name": "Viborgbroen",
-                  "text": "Híd Silkeborg vizei felett.",
-                  "category": "landmark",
-                  "coords": [
-                        9.555242,
-                        56.174506
-                  ]
-            },
-            {
-                  "name": "Almind Sø",
-                  "text": "Az Almind Sø egy tó Silkeborgban, amely tiszta vizéről és az azt körülvevő erdei tájról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        9.545671,
-                        56.150974
-                  ]
-            },
-            {
-                  "name": "Vejlsø",
-                  "text": "A Vejlsø egy tó Silkeborgban, amely festői környezetet biztosít a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        9.559502,
-                        56.149959
-                  ]
-            },
-            {
-                  "name": "Ørnsø",
-                  "text": "Az Ørnsø egy tó Silkeborgban, amely kellemes sétákra hív a nyugodt környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.519197,
-                        56.155097
-                  ]
-            },
-            {
-                  "name": "Avnsø",
-                  "text": "Az Avnsø egy tó Silkeborgban, amely békés légkört kínál a látogatóknak a természet lágy ölén.",
-                  "category": "natural",
-                  "coords": [
-                        9.572448,
-                        56.142646
-                  ]
-            },
-            {
-                  "name": "Slåensø",
-                  "text": "A Slåensø egy tó Silkeborgban, amelyet idilli fekvése és tiszta vize miatt kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        9.618867,
-                        56.123044
-                  ]
-            },
-            {
-                  "name": "Uglesø",
-                  "text": "Az Uglesø egy tó Silkeborgban, amely természetközeli helyet kínál a pihenésre és kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        9.565682,
-                        56.141374
-                  ]
-            },
-            {
-                  "name": "Tranevig",
-                  "text": "A Tranevig egy tó Silkeborgban, amely kiválóan alkalmas a dán tóvidék felfedezésére.",
-                  "category": "natural",
-                  "coords": [
-                        9.516882,
-                        56.146069
-                  ]
-            },
-            {
-                  "name": "Vejlbo Mose",
-                  "text": "A Vejlbo Mose egy tó Silkeborgban, amely egyedülálló lápi tájat kínál a felfedezéshez.",
-                  "category": "natural",
-                  "coords": [
-                        9.553167,
-                        56.154154
-                  ]
-            },
-            {
-                  "name": "Pøtsø",
-                  "text": "A Pøtsø egy tó Silkeborgban, amely nyugodt és zavartalan környezetet biztosít a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.524065,
-                        56.159731
-                  ]
-            },
-            {
-                  "name": "Gjessø",
-                  "text": "A Gjessø egy tó Silkeborgban, amely a tóparti séták kedvelt helyszíne.",
-                  "category": "natural",
-                  "coords": [
-                        9.496028,
-                        56.114304
-                  ]
-            },
-            {
-                  "name": "Ellesø",
-                  "text": "Az Ellesø egy tó Silkeborgban, amely bájos környezetet biztosít a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        9.574353,
-                        56.129538
-                  ]
-            },
-            {
-                  "name": "Hummelsø",
-                  "text": "A Hummelsø egy tó Silkeborgban, amely békés menedéket kínál a látogatóknak a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        9.552169,
-                        56.109518
-                  ]
-            },
-            {
-                  "name": "Jenskær",
-                  "text": "A Jenskær egy tó Silkeborgban, amely természeti szépségével és nyugalmával hódít.",
-                  "category": "natural",
-                  "coords": [
-                        9.500946,
-                        56.125924
-                  ]
-            },
-            {
-                  "name": "Gubsø",
-                  "text": "A Gubsø egy tó Silkeborgban, amely pihentető légkört biztosít egy szabadtéri naphoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.529513,
-                        56.202007
-                  ]
-            },
-            {
-                  "name": "Silkeborg Langsø",
-                  "text": "A Silkeborg Langsø egy tó Silkeborgban, amely meghatározza a városképet és számos vízparti utat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        9.554362,
-                        56.168746
-                  ]
-            },
-            {
-                  "name": "Lyngsø",
-                  "text": "A Lyngsø egy tó Silkeborgban, amely egy csendes oázis a városközpont közelében.",
-                  "category": "natural",
-                  "coords": [
-                        9.543833,
-                        56.158747
-                  ]
-            },
-            {
-                  "name": "Brassø",
-                  "text": "A Brassø egy tó Silkeborgban, a Gudenå rendszer része, amely csodálatos kilátást nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        9.575662,
-                        56.144765
-                  ]
-            },
-            {
-                  "name": "Borre Sø",
-                  "text": "A Borre Sø egy tó Silkeborgban, amelyet erdős dombok vesznek körül, és pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        9.611582,
-                        56.130183
-                  ]
-            },
-            {
-                  "name": "Dalsøen",
-                  "text": "A Dalsøen egy tó Silkeborgban, amely békés környezetet biztosít a természetbarátok számára.",
-                  "category": "natural",
-                  "coords": [
-                        9.540929,
-                        56.194361
-                  ]
-            },
-            {
-                  "name": "Thorsø",
-                  "text": "A Thorsø egy tó Silkeborgban, amely a túrázók és a szabadidős tevékenységek kedvelt helyszíne.",
-                  "category": "natural",
-                  "coords": [
-                        9.537482,
-                        56.126219
-                  ]
-            },
-            {
-                  "name": "Schoubyes Sø",
-                  "text": "A Schoubyes Sø egy tó Silkeborgban, amely az erdőben található idilli fekvésével tűnik ki.",
-                  "category": "natural",
-                  "coords": [
-                        9.616963,
-                        56.16738
-                  ]
-            },
-            {
-                  "name": "Indelukkets minigolf",
-                  "text": "Az Indelukkets minigolf egy minigolfpálya Silkeborgban, amely játékos szórakozást kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        9.560689,
-                        56.160442
-                  ]
-            },
-            {
-                  "name": "Theodoras Have",
-                  "text": "A Theodoras Have egy játszótér Silkeborgban, amely barátságos helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.547146,
-                        56.165535
-                  ]
-            },
-            {
-                  "name": "Søndretorv legeplads",
-                  "text": "A Søndretorv legeplads egy játszótér Silkeborgban, amely ideális egy rövid játékos szünethez városnézés közben.",
-                  "category": "family",
-                  "coords": [
-                        9.551273,
-                        56.166786
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bredhøj",
-                  "text": "Bredhøj este un sit arheologic situat în zona Silkeborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.55448,
-                        56.186712
-                  ]
-            },
-            {
-                  "name": "Silkeborg Bunkermuseum",
-                  "text": "Acest muzeu din Silkeborg este amenajat într-un fost buncăr din Al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        9.523695,
-                        56.152691
-                  ]
-            },
-            {
-                  "name": "Museum Jorn",
-                  "text": "Museum Jorn expune colecția importantă a artistului danez Asger Jorn.",
-                  "category": "museum",
-                  "coords": [
-                        9.558326,
-                        56.161151
-                  ]
-            },
-            {
-                  "name": "Museum Silkeborg",
-                  "text": "Museum Silkeborg este faimos pentru Omul din Tollund, o mumie din mlaștină bine conservată.",
-                  "category": "museum",
-                  "coords": [
-                        9.553081,
-                        56.168867
-                  ]
-            },
-            {
-                  "name": "Aqua",
-                  "text": "AQUA este un acvariu de apă dulce și parc zoologic din Silkeborg.",
-                  "category": "family",
-                  "coords": [
-                        9.562358,
-                        56.153762
-                  ]
-            },
-            {
-                  "name": "Jysk Musikteater",
-                  "text": "Jysk Musikteater este un centru modern pentru spectacole de muzică și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        9.555889,
-                        56.170421
-                  ]
-            },
-            {
-                  "name": "Det Ny Teater",
-                  "text": "Det Ny Teater din Silkeborg oferă un program variat de spectacole de teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        9.524069,
-                        56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad este un loc popular pentru scăldat pe lacul Almindsø din Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "O plajă în Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
-                  "name": "Friluftscenen",
-                  "text": "Un teatru în aer liber în Silkeborg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.563331,
-                        56.15779
-                  ]
-            },
-            {
-                  "name": "Dronningestolen",
-                  "text": "Un punct de observație care oferă o vedere panoramică asupra zonei Silkeborg.",
-                  "category": "natural",
-                  "coords": [
-                        9.562973,
-                        56.163722
-                  ]
-            },
-            {
-                  "name": "Silkeborg Slot",
-                  "text": "Ruinele castelului Silkeborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.556285,
-                        56.173961
-                  ]
-            },
-            {
-                  "name": "Indelukket",
-                  "text": "Un parc și spațiu de recreere popular în Silkeborg.",
-                  "category": "park",
-                  "coords": [
-                        9.561993,
-                        56.159528
-                  ]
-            },
-            {
-                  "name": "Kroghs Bænk",
-                  "text": "Un punct de observație pitoresc în regiunea Silkeborg.",
-                  "category": "natural",
-                  "coords": [
-                        9.545232,
-                        56.146504
-                  ]
-            },
-            {
-                  "name": "Galleri Moderne",
-                  "text": "O galerie de artă în Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.545649,
-                        56.166308
-                  ]
-            },
-            {
-                  "name": "Kunstner Paletten",
-                  "text": "O galerie care expune artă locală în Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.550315,
-                        56.167552
-                  ]
-            },
-            {
-                  "name": "Galleri Thomasberg",
-                  "text": "O galerie de artă în Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.54465,
-                        56.167608
-                  ]
-            },
-            {
-                  "name": "Galleri Nygade 26A",
-                  "text": "O mică galerie de artă în Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.546749,
-                        56.167437
-                  ]
-            },
-            {
-                  "name": "Texas Collective",
-                  "text": "Un colectiv de artă și o galerie în Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.5486,
-                        56.167443
-                  ]
-            },
-            {
-                  "name": "Alderslyst Kirke",
-                  "text": "O biserică în cartierul Alderslyst din Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.553567,
-                        56.181745
-                  ]
-            },
-            {
-                  "name": "Balle Kirke",
-                  "text": "O biserică istorică ce deservește parohia Balle din Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.52274,
-                        56.196042
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "Biserica Maicii Domnului din Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.543748,
-                        56.168406
-                  ]
-            },
-            {
-                  "name": "Silkeborg Kirke",
-                  "text": "Biserica parohială principală din Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.551506,
-                        56.169676
-                  ]
-            },
-            {
-                  "name": "Mariehøj Kirke",
-                  "text": "O clădire modernă de biserică în Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.536439,
-                        56.158953
-                  ]
-            },
-            {
-                  "name": "Viborgbroen",
-                  "text": "Un pod peste apă în Silkeborg.",
-                  "category": "landmark",
-                  "coords": [
-                        9.555242,
-                        56.174506
-                  ]
-            },
-            {
-                  "name": "Almind Sø",
-                  "text": "Almind Sø este un lac în Silkeborg, cunoscut pentru apa sa limpede și peisajul forestier înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        9.545671,
-                        56.150974
-                  ]
-            },
-            {
-                  "name": "Vejlsø",
-                  "text": "Vejlsø este un lac în Silkeborg, oferind un cadru pitoresc pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.559502,
-                        56.149959
-                  ]
-            },
-            {
-                  "name": "Ørnsø",
-                  "text": "Ørnsø este un lac în Silkeborg, invitând la plimbări plăcute într-un mediu liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        9.519197,
-                        56.155097
-                  ]
-            },
-            {
-                  "name": "Avnsø",
-                  "text": "Avnsø este un lac în Silkeborg, oferind vizitatorilor o atmosferă pașnică în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.572448,
-                        56.142646
-                  ]
-            },
-            {
-                  "name": "Slåensø",
-                  "text": "Slåensø este un lac în Silkeborg, apreciat pentru locația sa idilică și apa curată.",
-                  "category": "natural",
-                  "coords": [
-                        9.618867,
-                        56.123044
-                  ]
-            },
-            {
-                  "name": "Uglesø",
-                  "text": "Uglesø este un lac în Silkeborg, oferind un loc aproape de natură pentru odihnă și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        9.565682,
-                        56.141374
-                  ]
-            },
-            {
-                  "name": "Tranevig",
-                  "text": "Tranevig este un lac în Silkeborg, excelent pentru explorări în zona lacurilor daneze.",
-                  "category": "natural",
-                  "coords": [
-                        9.516882,
-                        56.146069
-                  ]
-            },
-            {
-                  "name": "Vejlbo Mose",
-                  "text": "Vejlbo Mose este un lac în Silkeborg, oferind un peisaj de mlaștină unic pentru explorare.",
-                  "category": "natural",
-                  "coords": [
-                        9.553167,
-                        56.154154
-                  ]
-            },
-            {
-                  "name": "Pøtsø",
-                  "text": "Pøtsø este un lac în Silkeborg, oferind un mediu liniștit și neperturbat în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.524065,
-                        56.159731
-                  ]
-            },
-            {
-                  "name": "Gjessø",
-                  "text": "Gjessø este un lac în Silkeborg, cunoscut ca un loc frumos pentru plimbări pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        9.496028,
-                        56.114304
-                  ]
-            },
-            {
-                  "name": "Ellesø",
-                  "text": "Ellesø este un lac în Silkeborg, reprezentând un cadru fermecător pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.574353,
-                        56.129538
-                  ]
-            },
-            {
-                  "name": "Hummelsø",
-                  "text": "Hummelsø este un lac în Silkeborg, oferind vizitatorilor un refugiu pașnic în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.552169,
-                        56.109518
-                  ]
-            },
-            {
-                  "name": "Jenskær",
-                  "text": "Jenskær este un lac în Silkeborg, impresionând prin frumusețea naturală și liniște.",
-                  "category": "natural",
-                  "coords": [
-                        9.500946,
-                        56.125924
-                  ]
-            },
-            {
-                  "name": "Gubsø",
-                  "text": "Gubsø este un lac în Silkeborg, oferind o atmosferă relaxantă pentru o zi în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        9.529513,
-                        56.202007
-                  ]
-            },
-            {
-                  "name": "Silkeborg Langsø",
-                  "text": "Silkeborg Langsø este un lac în Silkeborg, care definește peisajul orașului și oferă multe trasee pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        9.554362,
-                        56.168746
-                  ]
-            },
-            {
-                  "name": "Lyngsø",
-                  "text": "Lyngsø este un lac în Silkeborg, reprezentând o oază de liniște nu departe de centrul orașului.",
-                  "category": "natural",
-                  "coords": [
-                        9.543833,
-                        56.158747
-                  ]
-            },
-            {
-                  "name": "Brassø",
-                  "text": "Brassø este un lac în Silkeborg, parte a sistemului Gudenå, oferind vederi magnifice.",
-                  "category": "natural",
-                  "coords": [
-                        9.575662,
-                        56.144765
-                  ]
-            },
-            {
-                  "name": "Borre Sø",
-                  "text": "Borre Sø este un lac în Silkeborg, înconjurat de dealuri împădurite, invitând la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        9.611582,
-                        56.130183
-                  ]
-            },
-            {
-                  "name": "Dalsøen",
-                  "text": "Dalsøen este un lac în Silkeborg, oferind un mediu pașnic pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.540929,
-                        56.194361
-                  ]
-            },
-            {
-                  "name": "Thorsø",
-                  "text": "Thorsø este un lac în Silkeborg, cunoscut ca un loc popular pentru drumeții și activități recreative.",
-                  "category": "natural",
-                  "coords": [
-                        9.537482,
-                        56.126219
-                  ]
-            },
-            {
-                  "name": "Schoubyes Sø",
-                  "text": "Schoubyes Sø este un lac în Silkeborg, remarcându-se prin locația sa idilică în pădure.",
-                  "category": "natural",
-                  "coords": [
-                        9.616963,
-                        56.16738
-                  ]
-            },
-            {
-                  "name": "Indelukkets minigolf",
-                  "text": "Indelukkets minigolf este un teren de minigolf în Silkeborg, oferind distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        9.560689,
-                        56.160442
-                  ]
-            },
-            {
-                  "name": "Theodoras Have",
-                  "text": "Theodoras Have este un teren de joacă în Silkeborg, oferind copiilor un loc prietenos pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        9.547146,
-                        56.165535
-                  ]
-            },
-            {
-                  "name": "Søndretorv legeplads",
-                  "text": "Søndretorv legeplads este un teren de joacă în Silkeborg, ideal pentru o scurtă pauză de joacă în timpul unei vizite în oraș.",
-                  "category": "family",
-                  "coords": [
-                        9.551273,
-                        56.166786
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bredhøj",
-                  "text": "Bredhøj is an archaeological site located in the Silkeborg area.",
-                  "category": "historical",
-                  "coords": [
-                        9.55448,
-                        56.186712
-                  ]
-            },
-            {
-                  "name": "Silkeborg Bunkermuseum",
-                  "text": "This museum in Silkeborg is housed in a former bunker from World War II.",
-                  "category": "museum",
-                  "coords": [
-                        9.523695,
-                        56.152691
-                  ]
-            },
-            {
-                  "name": "Museum Jorn",
-                  "text": "Museum Jorn showcases the significant collection of the Danish artist Asger Jorn.",
-                  "category": "museum",
-                  "coords": [
-                        9.558326,
-                        56.161151
-                  ]
-            },
-            {
-                  "name": "Museum Silkeborg",
-                  "text": "Museum Silkeborg is famous for the Tollund Man, a well-preserved bog body.",
-                  "category": "museum",
-                  "coords": [
-                        9.553081,
-                        56.168867
-                  ]
-            },
-            {
-                  "name": "Aqua",
-                  "text": "AQUA is a freshwater aquarium and wildlife park showcasing local nature in Silkeborg.",
-                  "category": "family",
-                  "coords": [
-                        9.562358,
-                        56.153762
-                  ]
-            },
-            {
-                  "name": "Jysk Musikteater",
-                  "text": "Jysk Musikteater is a modern center for musical and theatrical performances in Silkeborg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.555889,
-                        56.170421
-                  ]
-            },
-            {
-                  "name": "Det Ny Teater",
-                  "text": "Det Ny Teater in Silkeborg offers a diverse program of theatrical performances.",
-                  "category": "cultural",
-                  "coords": [
-                        9.524069,
-                        56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad is a popular bathing area on Lake Almindsø in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "A beach in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
-                  "name": "Friluftscenen",
-                  "text": "An outdoor theatre in Silkeborg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.563331,
-                        56.15779
-                  ]
-            },
-            {
-                  "name": "Dronningestolen",
-                  "text": "A viewpoint offering a scenic look over the Silkeborg area.",
-                  "category": "natural",
-                  "coords": [
-                        9.562973,
-                        56.163722
-                  ]
-            },
-            {
-                  "name": "Silkeborg Slot",
-                  "text": "The remains of Silkeborg Castle.",
-                  "category": "historical",
-                  "coords": [
-                        9.556285,
-                        56.173961
-                  ]
-            },
-            {
-                  "name": "Indelukket",
-                  "text": "A popular park and recreational area in Silkeborg.",
-                  "category": "park",
-                  "coords": [
-                        9.561993,
-                        56.159528
-                  ]
-            },
-            {
-                  "name": "Kroghs Bænk",
-                  "text": "A scenic viewpoint in the Silkeborg region.",
-                  "category": "natural",
-                  "coords": [
-                        9.545232,
-                        56.146504
-                  ]
-            },
-            {
-                  "name": "Galleri Moderne",
-                  "text": "An art gallery in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.545649,
-                        56.166308
-                  ]
-            },
-            {
-                  "name": "Kunstner Paletten",
-                  "text": "A gallery showcasing local art in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.550315,
-                        56.167552
-                  ]
-            },
-            {
-                  "name": "Galleri Thomasberg",
-                  "text": "An art gallery located in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.54465,
-                        56.167608
-                  ]
-            },
-            {
-                  "name": "Galleri Nygade 26A",
-                  "text": "A small art gallery in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.546749,
-                        56.167437
-                  ]
-            },
-            {
-                  "name": "Texas Collective",
-                  "text": "An art collective and gallery in Silkeborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.5486,
-                        56.167443
-                  ]
-            },
-            {
-                  "name": "Alderslyst Kirke",
-                  "text": "A church in the Alderslyst district of Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.553567,
-                        56.181745
-                  ]
-            },
-            {
-                  "name": "Balle Kirke",
-                  "text": "A historic church serving the Balle parish in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.52274,
-                        56.196042
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "The Church of Our Lady in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.543748,
-                        56.168406
-                  ]
-            },
-            {
-                  "name": "Silkeborg Kirke",
-                  "text": "The main parish church of Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.551506,
-                        56.169676
-                  ]
-            },
-            {
-                  "name": "Mariehøj Kirke",
-                  "text": "A modern church building in Silkeborg.",
-                  "category": "religious",
-                  "coords": [
-                        9.536439,
-                        56.158953
-                  ]
-            },
-            {
-                  "name": "Viborgbroen",
-                  "text": "A bridge crossing the water in Silkeborg.",
-                  "category": "landmark",
-                  "coords": [
-                        9.555242,
-                        56.174506
-                  ]
-            },
-            {
-                  "name": "Almind Sø",
-                  "text": "Almind Sø is a lake in Silkeborg, known for its clear water and the surrounding forest landscape.",
-                  "category": "natural",
-                  "coords": [
-                        9.545671,
-                        56.150974
-                  ]
-            },
-            {
-                  "name": "Vejlsø",
-                  "text": "Vejlsø is a lake in Silkeborg, offering a scenic backdrop for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        9.559502,
-                        56.149959
-                  ]
-            },
-            {
-                  "name": "Ørnsø",
-                  "text": "Ørnsø is a lake in Silkeborg, inviting for pleasant walks in a quiet environment.",
-                  "category": "natural",
-                  "coords": [
-                        9.519197,
-                        56.155097
-                  ]
-            },
-            {
-                  "name": "Avnsø",
-                  "text": "Avnsø is a lake in Silkeborg, providing visitors with a peaceful atmosphere in the heart of nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.572448,
-                        56.142646
-                  ]
-            },
-            {
-                  "name": "Slåensø",
-                  "text": "Slåensø is a lake in Silkeborg, valued for its idyllic location and clean water.",
-                  "category": "natural",
-                  "coords": [
-                        9.618867,
-                        56.123044
-                  ]
-            },
-            {
-                  "name": "Uglesø",
-                  "text": "Uglesø is a lake in Silkeborg, offering a nature-oriented spot for rest and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        9.565682,
-                        56.141374
-                  ]
-            },
-            {
-                  "name": "Tranevig",
-                  "text": "Tranevig is a lake in Silkeborg, excellent for exploring the Danish lake district.",
-                  "category": "natural",
-                  "coords": [
-                        9.516882,
-                        56.146069
-                  ]
-            },
-            {
-                  "name": "Vejlbo Mose",
-                  "text": "Vejlbo Mose is a lake in Silkeborg, offering a unique moorland landscape to discover.",
-                  "category": "natural",
-                  "coords": [
-                        9.553167,
-                        56.154154
-                  ]
-            },
-            {
-                  "name": "Pøtsø",
-                  "text": "Pøtsø is a lake in Silkeborg, providing a quiet and undisturbed environment in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.524065,
-                        56.159731
-                  ]
-            },
-            {
-                  "name": "Gjessø",
-                  "text": "Gjessø is a lake in Silkeborg, known as a lovely spot for lakeside walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.496028,
-                        56.114304
-                  ]
-            },
-            {
-                  "name": "Ellesø",
-                  "text": "Ellesø is a lake in Silkeborg, providing a charming setting for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        9.574353,
-                        56.129538
-                  ]
-            },
-            {
-                  "name": "Hummelsø",
-                  "text": "Hummelsø is a lake in Silkeborg, offering visitors a peaceful retreat in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        9.552169,
-                        56.109518
-                  ]
-            },
-            {
-                  "name": "Jenskær",
-                  "text": "Jenskær is a lake in Silkeborg, known for its natural beauty and tranquility.",
-                  "category": "natural",
-                  "coords": [
-                        9.500946,
-                        56.125924
-                  ]
-            },
-            {
-                  "name": "Gubsø",
-                  "text": "Gubsø is a lake in Silkeborg, offering a relaxed atmosphere for a day outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        9.529513,
-                        56.202007
-                  ]
-            },
-            {
-                  "name": "Silkeborg Langsø",
-                  "text": "Silkeborg Langsø is a lake in Silkeborg, shaping the cityscape and offering many waterside paths.",
-                  "category": "natural",
-                  "coords": [
-                        9.554362,
-                        56.168746
-                  ]
-            },
-            {
-                  "name": "Lyngsø",
-                  "text": "Lyngsø is a lake in Silkeborg, representing a quiet oasis not far from the city center.",
-                  "category": "natural",
-                  "coords": [
-                        9.543833,
-                        56.158747
-                  ]
-            },
-            {
-                  "name": "Brassø",
-                  "text": "Brassø is a lake in Silkeborg, part of the Gudenå system, offering magnificent views.",
-                  "category": "natural",
-                  "coords": [
-                        9.575662,
-                        56.144765
-                  ]
-            },
-            {
-                  "name": "Borre Sø",
-                  "text": "Borre Sø is a lake in Silkeborg, surrounded by forested hills and inviting for a stay.",
-                  "category": "natural",
-                  "coords": [
-                        9.611582,
-                        56.130183
-                  ]
-            },
-            {
-                  "name": "Dalsøen",
-                  "text": "Dalsøen is a lake in Silkeborg, providing a peaceful environment for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        9.540929,
-                        56.194361
-                  ]
-            },
-            {
-                  "name": "Thorsø",
-                  "text": "Thorsø is a lake in Silkeborg, known as a popular spot for hiking and leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        9.537482,
-                        56.126219
-                  ]
-            },
-            {
-                  "name": "Schoubyes Sø",
-                  "text": "Schoubyes Sø is a lake in Silkeborg, standing out with its idyllic forest location.",
-                  "category": "natural",
-                  "coords": [
-                        9.616963,
-                        56.16738
-                  ]
-            },
-            {
-                  "name": "Indelukkets minigolf",
-                  "text": "Indelukkets minigolf is a miniature golf course in Silkeborg, offering fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        9.560689,
-                        56.160442
-                  ]
-            },
-            {
-                  "name": "Theodoras Have",
-                  "text": "Theodoras Have is a playground in Silkeborg, providing children with a friendly spot for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        9.547146,
-                        56.165535
-                  ]
-            },
-            {
-                  "name": "Søndretorv legeplads",
-                  "text": "Søndretorv legeplads is a playground in Silkeborg, ideal for a short play break during a city visit.",
-                  "category": "family",
-                  "coords": [
-                        9.551273,
-                        56.166786
-                  ]
-            }
-      ]
-},
+ id: "city-silkeborg", "sights": {"de": [{"name": "Bredhøj", "text": "Bredhøj ist eine archäologische Stätte in Silkeborg, die Zeugnis früherer Kulturen ablegt.", "category": "historical", "coords": [9.55448, 56.186712]}, {"name": "Silkeborg Bunkermuseum", "text": "Dieses Museum in Silkeborg ist in einem ehemaligen Bunker aus dem Zweiten Weltkrieg untergebracht.", "category": "museum", "coords": [9.523695, 56.152691]}, {"name": "Museum Jorn", "text": "Das Museum Jorn zeigt die bedeutende Sammlung des dänischen Künstlers Asger Jorn.", "category": "museum", "coords": [9.558326, 56.161151]}, {"name": "Museum Silkeborg", "text": "Das Museum Silkeborg ist bekannt für den Tollund-Mann, eine gut erhaltene Moorleiche.", "category": "museum", "coords": [9.553081, 56.168867]}, {"name": "Aqua", "text": "AQUA ist ein Süßwasseraquarium und Tierpark, der die heimische Natur präsentiert.", "category": "family", "coords": [9.562358, 56.153762]}, {"name": "Jysk Musikteater", "text": "Das Jysk Musikteater ist ein modernes Zentrum für Musik- und Theateraufführungen.", "category": "cultural", "coords": [9.555889, 56.170421]}, {"name": "Det Ny Teater", "text": "Das Det Ny Teater in Silkeborg bietet ein vielfältiges Programm an Bühnenstücken.", "category": "cultural", "coords": [9.524069, 56.151582]}, {"name": "Vestre Søbad", "text": "Vestre Søbad ist ein beliebter Badeplatz am See Almindsø in Silkeborg.", "category": "recreational", "coords": [9.543666, 56.152063]}, {"name": "Aggerholm", "text": "Ein Strand in Silkeborg.", "category": "recreational", "coords": [9.536475, 56.153306]}, {"name": "Friluftscenen", "text": "Eine Freilichtbühne in Silkeborg.", "category": "cultural", "coords": [9.563331, 56.15779]}, {"name": "Dronningestolen", "text": "Der Aussichtspunkt Dronningestolen in Silkeborg bietet einen weiten Blick über die umliegende dänische Landschaft. Naturfreunde können an diesem Ort die weite Aussicht in ruhiger Atmosphäre genießen.", "category": "natural", "coords": [9.562973, 56.163722]}, {"name": "Silkeborg Slot", "text": "Die Überreste der Burg von Silkeborg.", "category": "historical", "coords": [9.556285, 56.173961]}, {"name": "Indelukket", "text": "Ein beliebter Park und Erholungsraum in Silkeborg.", "category": "park", "coords": [9.561993, 56.159528]}, {"name": "Kroghs Bænk", "text": "Ein malerischer Aussichtspunkt in der Region Silkeborg.", "category": "natural", "coords": [9.545232, 56.146504]}, {"name": "Galleri Moderne", "text": "Eine Kunstgalerie in Silkeborg.", "category": "museum", "coords": [9.545649, 56.166308]}, {"name": "Kunstner Paletten", "text": "Eine Galerie für lokale Kunst in Silkeborg.", "category": "museum", "coords": [9.550315, 56.167552]}, {"name": "Galleri Thomasberg", "text": "Eine Kunstgalerie in Silkeborg.", "category": "museum", "coords": [9.54465, 56.167608]}, {"name": "Galleri Nygade 26A", "text": "Eine kleine Kunstgalerie in Silkeborg.", "category": "museum", "coords": [9.546749, 56.167437]}, {"name": "Texas Collective", "text": "Ein Kunstkollektiv und eine Galerie in Silkeborg.", "category": "museum", "coords": [9.5486, 56.167443]}, {"name": "Alderslyst Kirke", "text": "Eine Kirche im Stadtteil Alderslyst von Silkeborg.", "category": "religious", "coords": [9.553567, 56.181745]}, {"name": "Balle Kirke", "text": "Eine historische Kirche im Kirchspiel Balle in Silkeborg.", "category": "religious", "coords": [9.52274, 56.196042]}, {"name": "Vor Frue Kirke", "text": "Die Frauenkirche in Silkeborg.", "category": "religious", "coords": [9.543748, 56.168406]}, {"name": "Silkeborg Kirke", "text": "Die Hauptpfarrkirche von Silkeborg.", "category": "religious", "coords": [9.551506, 56.169676]}, {"name": "Mariehøj Kirke", "text": "Ein modernes Kirchengebäude in Silkeborg.", "category": "religious", "coords": [9.536439, 56.158953]}, {"name": "Viborgbroen", "text": "Eine Brücke über das Gewässer in Silkeborg.", "category": "landmark", "coords": [9.555242, 56.174506]}, {"name": "Almind Sø", "text": "Almind Sø ist ein See in Silkeborg, der für sein klares Wasser und die umliegende Waldlandschaft bekannt ist.", "category": "natural", "coords": [9.545671, 56.150974]}, {"name": "Vejlsø", "text": "Vejlsø ist ein See in Silkeborg, der eine malerische Kulisse für Naturbeobachtungen bietet.", "category": "natural", "coords": [9.559502, 56.149959]}, {"name": "Ørnsø", "text": "Ørnsø ist ein See in Silkeborg, der zu gemütlichen Spaziergängen in ruhiger Umgebung einlädt.", "category": "natural", "coords": [9.519197, 56.155097]}, {"name": "Avnsø", "text": "Avnsø ist ein See in Silkeborg, der Besuchern eine friedliche Atmosphäre inmitten der Natur bietet.", "category": "natural", "coords": [9.572448, 56.142646]}, {"name": "Slåensø", "text": "Slåensø ist ein See in Silkeborg, der für seine idyllische Lage und das saubere Wasser geschätzt wird.", "category": "natural", "coords": [9.618867, 56.123044]}, {"name": "Uglesø", "text": "Uglesø ist ein See in Silkeborg, der einen naturnahen Ort zum Ausruhen und Entspannen bietet.", "category": "natural", "coords": [9.565682, 56.141374]}, {"name": "Tranevig", "text": "Tranevig ist ein See in Silkeborg, der sich hervorragend für Erkundungen in der dänischen Seenplatte eignet.", "category": "natural", "coords": [9.516882, 56.146069]}, {"name": "Vejlbo Mose", "text": "Vejlbo Mose ist ein See in Silkeborg, der eine einzigartige Moorlandschaft zum Entdecken bietet.", "category": "natural", "coords": [9.553167, 56.154154]}, {"name": "Pøtsø", "text": "Pøtsø ist ein See in Silkeborg, der eine ruhige und ungestörte Umgebung in der Natur bietet.", "category": "natural", "coords": [9.524065, 56.159731]}, {"name": "Gjessø", "text": "Gjessø ist ein See in Silkeborg, der als schöner Ort für Spaziergänge am Ufer bekannt ist.", "category": "natural", "coords": [9.496028, 56.114304]}, {"name": "Ellesø", "text": "Ellesø ist ein See in Silkeborg, der eine charmante Kulisse für Naturliebhaber darstellt.", "category": "natural", "coords": [9.574353, 56.129538]}, {"name": "Hummelsø", "text": "Hummelsø ist ein See in Silkeborg, der Besuchern einen friedlichen Rückzugsort im Grünen bietet.", "category": "natural", "coords": [9.552169, 56.109518]}, {"name": "Jenskær", "text": "Jenskær ist ein See in Silkeborg, der durch seine natürliche Schönheit und Ruhe besticht.", "category": "natural", "coords": [9.500946, 56.125924]}, {"name": "Gubsø", "text": "Gubsø ist ein See in Silkeborg, der eine entspannte Atmosphäre für einen Tag im Freien bietet.", "category": "natural", "coords": [9.529513, 56.202007]}, {"name": "Silkeborg Langsø", "text": "Silkeborg Langsø ist ein See in Silkeborg, der das Stadtbild prägt und viele Wege am Wasser bietet.", "category": "natural", "coords": [9.554362, 56.168746]}, {"name": "Lyngsø", "text": "Lyngsø ist ein See in Silkeborg, der eine ruhige Oase unweit des Stadtzentrums darstellt.", "category": "natural", "coords": [9.543833, 56.158747]}, {"name": "Brassø", "text": "Brassø ist ein See in Silkeborg, der Teil des Gudenå-Systems ist und eine herrliche Aussicht bietet.", "category": "natural", "coords": [9.575662, 56.144765]}, {"name": "Borre Sø", "text": "Borre Sø ist ein See in Silkeborg, der von bewaldeten Hügeln umgeben ist und zum Verweilen einlädt.", "category": "natural", "coords": [9.611582, 56.130183]}, {"name": "Dalsøen", "text": "Dalsøen ist ein See in Silkeborg, der eine friedliche Umgebung für Naturfreunde bietet.", "category": "natural", "coords": [9.540929, 56.194361]}, {"name": "Thorsø", "text": "Thorsø ist ein See in Silkeborg, der als beliebter Ort für Wanderungen und Freizeitaktivitäten bekannt ist.", "category": "natural", "coords": [9.537482, 56.126219]}, {"name": "Schoubyes Sø", "text": "Schoubyes Sø ist ein See in Silkeborg, der durch seine idyllische Lage im Wald besticht.", "category": "natural", "coords": [9.616963, 56.16738]}, {"name": "Indelukkets minigolf", "text": "Indelukkets minigolf ist eine Minigolfanlage in Silkeborg, die Spielspaß für die ganze Familie bietet.", "category": "family", "coords": [9.560689, 56.160442]}, {"name": "Theodoras Have", "text": "Theodoras Have ist ein Spielplatz in Silkeborg, der Kindern einen freundlichen Ort zum Spielen im Freien bietet.", "category": "family", "coords": [9.547146, 56.165535]}, {"name": "Søndretorv legeplads", "text": "Søndretorv legeplads ist ein Spielplatz in Silkeborg, ideal für eine kurze Spielpause während eines Stadtbesuchs.", "category": "family", "coords": [9.551273, 56.166786]}], "hu": [{"name": "Bredhøj", "text": "Bredhøj egy régészeti lelőhely Silkeborg területén.", "category": "historical", "coords": [9.55448, 56.186712]}, {"name": "Silkeborg Bunkermuseum", "text": "Ez a silkeborgi múzeum egy második világháborús bunkerben kapott helyet.", "category": "museum", "coords": [9.523695, 56.152691]}, {"name": "Museum Jorn", "text": "A Museum Jorn Asger Jorn dán művész jelentős gyűjteményét mutatja be.", "category": "museum", "coords": [9.558326, 56.161151]}, {"name": "Museum Silkeborg", "text": "A Museum Silkeborg a Tollundi férfi nevű lápi múmiáról híres.", "category": "museum", "coords": [9.553081, 56.168867]}, {"name": "Aqua", "text": "Az AQUA egy édesvízi akvárium és vadaspark Silkeborgban.", "category": "family", "coords": [9.562358, 56.153762]}, {"name": "Jysk Musikteater", "text": "A Jysk Musikteater a zenei és színházi előadások modern központja Silkeborgban.", "category": "cultural", "coords": [9.555889, 56.170421]}, {"name": "Det Ny Teater", "text": "A silkeborgi Det Ny Teater változatos színházi előadásokat kínál.", "category": "cultural", "coords": [9.524069, 56.151582]}, {"name": "Vestre Søbad", "text": "A Vestre Søbad egy népszerű fürdőhely a silkeborgi Almindsø-tónál.", "category": "recreational", "coords": [9.543666, 56.152063]}, {"name": "Aggerholm", "text": "Strand Silkeborgban.", "category": "recreational", "coords": [9.536475, 56.153306]}, {"name": "Friluftscenen", "text": "Szabadtéri színpad Silkeborgban.", "category": "cultural", "coords": [9.563331, 56.15779]}, {"name": "Dronningestolen", "text": "A silkeborgi Dronningestolen kilátópontról messzire el lehet látni a környező dán tájon. A természetkedvelők ezen a helyen nyugodt légkörben élvezhetik a lenyűgöző panorámát.", "category": "natural", "coords": [9.562973, 56.163722]}, {"name": "Silkeborg Slot", "text": "A silkeborgi vár romjai.", "category": "historical", "coords": [9.556285, 56.173961]}, {"name": "Indelukket", "text": "Népszerű park és szabadidős terület Silkeborgban.", "category": "park", "coords": [9.561993, 56.159528]}, {"name": "Kroghs Bænk", "text": "Festői kilátóhely Silkeborg régiójában.", "category": "natural", "coords": [9.545232, 56.146504]}, {"name": "Galleri Moderne", "text": "Művészeti galéria Silkeborgban.", "category": "museum", "coords": [9.545649, 56.166308]}, {"name": "Kunstner Paletten", "text": "Helyi művészetet bemutató galéria Silkeborgban.", "category": "museum", "coords": [9.550315, 56.167552]}, {"name": "Galleri Thomasberg", "text": "Művészeti galéria Silkeborgban.", "category": "museum", "coords": [9.54465, 56.167608]}, {"name": "Galleri Nygade 26A", "text": "Kisebb művészeti galéria Silkeborgban.", "category": "museum", "coords": [9.546749, 56.167437]}, {"name": "Texas Collective", "text": "Művészeti kollektíva és galéria Silkeborgban.", "category": "museum", "coords": [9.5486, 56.167443]}, {"name": "Alderslyst Kirke", "text": "Templom Silkeborg Alderslyst negyedében.", "category": "religious", "coords": [9.553567, 56.181745]}, {"name": "Balle Kirke", "text": "Történelmi templom Silkeborg Balle egyházközségében.", "category": "religious", "coords": [9.52274, 56.196042]}, {"name": "Vor Frue Kirke", "text": "A Miasszonyunk-templom Silkeborgban.", "category": "religious", "coords": [9.543748, 56.168406]}, {"name": "Silkeborg Kirke", "text": "Silkeborg fő plébániatemploma.", "category": "religious", "coords": [9.551506, 56.169676]}, {"name": "Mariehøj Kirke", "text": "Modern templomépület Silkeborgban.", "category": "religious", "coords": [9.536439, 56.158953]}, {"name": "Viborgbroen", "text": "Híd Silkeborg vizei felett.", "category": "landmark", "coords": [9.555242, 56.174506]}, {"name": "Almind Sø", "text": "Az Almind Sø egy tó Silkeborgban, amely tiszta vizéről és az azt körülvevő erdei tájról ismert.", "category": "natural", "coords": [9.545671, 56.150974]}, {"name": "Vejlsø", "text": "A Vejlsø egy tó Silkeborgban, amely festői környezetet biztosít a természet megfigyeléséhez.", "category": "natural", "coords": [9.559502, 56.149959]}, {"name": "Ørnsø", "text": "Az Ørnsø egy tó Silkeborgban, amely kellemes sétákra hív a nyugodt környezetben.", "category": "natural", "coords": [9.519197, 56.155097]}, {"name": "Avnsø", "text": "Az Avnsø egy tó Silkeborgban, amely békés légkört kínál a látogatóknak a természet lágy ölén.", "category": "natural", "coords": [9.572448, 56.142646]}, {"name": "Slåensø", "text": "A Slåensø egy tó Silkeborgban, amelyet idilli fekvése és tiszta vize miatt kedvelnek.", "category": "natural", "coords": [9.618867, 56.123044]}, {"name": "Uglesø", "text": "Az Uglesø egy tó Silkeborgban, amely természetközeli helyet kínál a pihenésre és kikapcsolódásra.", "category": "natural", "coords": [9.565682, 56.141374]}, {"name": "Tranevig", "text": "A Tranevig egy tó Silkeborgban, amely kiválóan alkalmas a dán tóvidék felfedezésére.", "category": "natural", "coords": [9.516882, 56.146069]}, {"name": "Vejlbo Mose", "text": "A Vejlbo Mose egy tó Silkeborgban, amely egyedülálló lápi tájat kínál a felfedezéshez.", "category": "natural", "coords": [9.553167, 56.154154]}, {"name": "Pøtsø", "text": "A Pøtsø egy tó Silkeborgban, amely nyugodt és zavartalan környezetet biztosít a természetben.", "category": "natural", "coords": [9.524065, 56.159731]}, {"name": "Gjessø", "text": "A Gjessø egy tó Silkeborgban, amely a tóparti séták kedvelt helyszíne.", "category": "natural", "coords": [9.496028, 56.114304]}, {"name": "Ellesø", "text": "Az Ellesø egy tó Silkeborgban, amely bájos környezetet biztosít a természet kedvelőinek.", "category": "natural", "coords": [9.574353, 56.129538]}, {"name": "Hummelsø", "text": "A Hummelsø egy tó Silkeborgban, amely békés menedéket kínál a látogatóknak a zöldben.", "category": "natural", "coords": [9.552169, 56.109518]}, {"name": "Jenskær", "text": "A Jenskær egy tó Silkeborgban, amely természeti szépségével és nyugalmával hódít.", "category": "natural", "coords": [9.500946, 56.125924]}, {"name": "Gubsø", "text": "A Gubsø egy tó Silkeborgban, amely pihentető légkört biztosít egy szabadtéri naphoz.", "category": "natural", "coords": [9.529513, 56.202007]}, {"name": "Silkeborg Langsø", "text": "A Silkeborg Langsø egy tó Silkeborgban, amely meghatározza a városképet és számos vízparti utat kínál.", "category": "natural", "coords": [9.554362, 56.168746]}, {"name": "Lyngsø", "text": "A Lyngsø egy tó Silkeborgban, amely egy csendes oázis a városközpont közelében.", "category": "natural", "coords": [9.543833, 56.158747]}, {"name": "Brassø", "text": "A Brassø egy tó Silkeborgban, a Gudenå rendszer része, amely csodálatos kilátást nyújt.", "category": "natural", "coords": [9.575662, 56.144765]}, {"name": "Borre Sø", "text": "A Borre Sø egy tó Silkeborgban, amelyet erdős dombok vesznek körül, és pihenésre hív.", "category": "natural", "coords": [9.611582, 56.130183]}, {"name": "Dalsøen", "text": "A Dalsøen egy tó Silkeborgban, amely békés környezetet biztosít a természetbarátok számára.", "category": "natural", "coords": [9.540929, 56.194361]}, {"name": "Thorsø", "text": "A Thorsø egy tó Silkeborgban, amely a túrázók és a szabadidős tevékenységek kedvelt helyszíne.", "category": "natural", "coords": [9.537482, 56.126219]}, {"name": "Schoubyes Sø", "text": "A Schoubyes Sø egy tó Silkeborgban, amely az erdőben található idilli fekvésével tűnik ki.", "category": "natural", "coords": [9.616963, 56.16738]}, {"name": "Indelukkets minigolf", "text": "Az Indelukkets minigolf egy minigolfpálya Silkeborgban, amely játékos szórakozást kínál az egész családnak.", "category": "family", "coords": [9.560689, 56.160442]}, {"name": "Theodoras Have", "text": "A Theodoras Have egy játszótér Silkeborgban, amely barátságos helyet biztosít a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [9.547146, 56.165535]}, {"name": "Søndretorv legeplads", "text": "A Søndretorv legeplads egy játszótér Silkeborgban, amely ideális egy rövid játékos szünethez városnézés közben.", "category": "family", "coords": [9.551273, 56.166786]}], "ro": [{"name": "Bredhøj", "text": "Bredhøj este un sit arheologic situat în zona Silkeborg.", "category": "historical", "coords": [9.55448, 56.186712]}, {"name": "Silkeborg Bunkermuseum", "text": "Acest muzeu din Silkeborg este amenajat într-un fost buncăr din Al Doilea Război Mondial.", "category": "museum", "coords": [9.523695, 56.152691]}, {"name": "Museum Jorn", "text": "Museum Jorn expune colecția importantă a artistului danez Asger Jorn.", "category": "museum", "coords": [9.558326, 56.161151]}, {"name": "Museum Silkeborg", "text": "Museum Silkeborg este faimos pentru Omul din Tollund, o mumie din mlaștină bine conservată.", "category": "museum", "coords": [9.553081, 56.168867]}, {"name": "Aqua", "text": "AQUA este un acvariu de apă dulce și parc zoologic din Silkeborg.", "category": "family", "coords": [9.562358, 56.153762]}, {"name": "Jysk Musikteater", "text": "Jysk Musikteater este un centru modern pentru spectacole de muzică și teatru.", "category": "cultural", "coords": [9.555889, 56.170421]}, {"name": "Det Ny Teater", "text": "Det Ny Teater din Silkeborg oferă un program variat de spectacole de teatru.", "category": "cultural", "coords": [9.524069, 56.151582]}, {"name": "Vestre Søbad", "text": "Vestre Søbad este un loc popular pentru scăldat pe lacul Almindsø din Silkeborg.", "category": "recreational", "coords": [9.543666, 56.152063]}, {"name": "Aggerholm", "text": "O plajă în Silkeborg.", "category": "recreational", "coords": [9.536475, 56.153306]}, {"name": "Friluftscenen", "text": "Un teatru în aer liber în Silkeborg.", "category": "cultural", "coords": [9.563331, 56.15779]}, {"name": "Dronningestolen", "text": "Punctul de belvedere Dronningestolen din Silkeborg oferă o priveliște vastă asupra peisajului danez înconjurător. Iubitorii de natură se pot bucura de panorama impresionantă într-o atmosferă liniștită.", "category": "natural", "coords": [9.562973, 56.163722]}, {"name": "Silkeborg Slot", "text": "Ruinele castelului Silkeborg.", "category": "historical", "coords": [9.556285, 56.173961]}, {"name": "Indelukket", "text": "Un parc și spațiu de recreere popular în Silkeborg.", "category": "park", "coords": [9.561993, 56.159528]}, {"name": "Kroghs Bænk", "text": "Un punct de observație pitoresc în regiunea Silkeborg.", "category": "natural", "coords": [9.545232, 56.146504]}, {"name": "Galleri Moderne", "text": "O galerie de artă în Silkeborg.", "category": "museum", "coords": [9.545649, 56.166308]}, {"name": "Kunstner Paletten", "text": "O galerie care expune artă locală în Silkeborg.", "category": "museum", "coords": [9.550315, 56.167552]}, {"name": "Galleri Thomasberg", "text": "O galerie de artă în Silkeborg.", "category": "museum", "coords": [9.54465, 56.167608]}, {"name": "Galleri Nygade 26A", "text": "O mică galerie de artă în Silkeborg.", "category": "museum", "coords": [9.546749, 56.167437]}, {"name": "Texas Collective", "text": "Un colectiv de artă și o galerie în Silkeborg.", "category": "museum", "coords": [9.5486, 56.167443]}, {"name": "Alderslyst Kirke", "text": "O biserică în cartierul Alderslyst din Silkeborg.", "category": "religious", "coords": [9.553567, 56.181745]}, {"name": "Balle Kirke", "text": "O biserică istorică ce deservește parohia Balle din Silkeborg.", "category": "religious", "coords": [9.52274, 56.196042]}, {"name": "Vor Frue Kirke", "text": "Biserica Maicii Domnului din Silkeborg.", "category": "religious", "coords": [9.543748, 56.168406]}, {"name": "Silkeborg Kirke", "text": "Biserica parohială principală din Silkeborg.", "category": "religious", "coords": [9.551506, 56.169676]}, {"name": "Mariehøj Kirke", "text": "O clădire modernă de biserică în Silkeborg.", "category": "religious", "coords": [9.536439, 56.158953]}, {"name": "Viborgbroen", "text": "Un pod peste apă în Silkeborg.", "category": "landmark", "coords": [9.555242, 56.174506]}, {"name": "Almind Sø", "text": "Almind Sø este un lac în Silkeborg, cunoscut pentru apa sa limpede și peisajul forestier înconjurător.", "category": "natural", "coords": [9.545671, 56.150974]}, {"name": "Vejlsø", "text": "Vejlsø este un lac în Silkeborg, oferind un cadru pitoresc pentru observarea naturii.", "category": "natural", "coords": [9.559502, 56.149959]}, {"name": "Ørnsø", "text": "Ørnsø este un lac în Silkeborg, invitând la plimbări plăcute într-un mediu liniștit.", "category": "natural", "coords": [9.519197, 56.155097]}, {"name": "Avnsø", "text": "Avnsø este un lac în Silkeborg, oferind vizitatorilor o atmosferă pașnică în mijlocul naturii.", "category": "natural", "coords": [9.572448, 56.142646]}, {"name": "Slåensø", "text": "Slåensø este un lac în Silkeborg, apreciat pentru locația sa idilică și apa curată.", "category": "natural", "coords": [9.618867, 56.123044]}, {"name": "Uglesø", "text": "Uglesø este un lac în Silkeborg, oferind un loc aproape de natură pentru odihnă și relaxare.", "category": "natural", "coords": [9.565682, 56.141374]}, {"name": "Tranevig", "text": "Tranevig este un lac în Silkeborg, excelent pentru explorări în zona lacurilor daneze.", "category": "natural", "coords": [9.516882, 56.146069]}, {"name": "Vejlbo Mose", "text": "Vejlbo Mose este un lac în Silkeborg, oferind un peisaj de mlaștină unic pentru explorare.", "category": "natural", "coords": [9.553167, 56.154154]}, {"name": "Pøtsø", "text": "Pøtsø este un lac în Silkeborg, oferind un mediu liniștit și neperturbat în natură.", "category": "natural", "coords": [9.524065, 56.159731]}, {"name": "Gjessø", "text": "Gjessø este un lac în Silkeborg, cunoscut ca un loc frumos pentru plimbări pe mal.", "category": "natural", "coords": [9.496028, 56.114304]}, {"name": "Ellesø", "text": "Ellesø este un lac în Silkeborg, reprezentând un cadru fermecător pentru iubitorii de natură.", "category": "natural", "coords": [9.574353, 56.129538]}, {"name": "Hummelsø", "text": "Hummelsø este un lac în Silkeborg, oferind vizitatorilor un refugiu pașnic în natură.", "category": "natural", "coords": [9.552169, 56.109518]}, {"name": "Jenskær", "text": "Jenskær este un lac în Silkeborg, impresionând prin frumusețea naturală și liniște.", "category": "natural", "coords": [9.500946, 56.125924]}, {"name": "Gubsø", "text": "Gubsø este un lac în Silkeborg, oferind o atmosferă relaxantă pentru o zi în aer liber.", "category": "natural", "coords": [9.529513, 56.202007]}, {"name": "Silkeborg Langsø", "text": "Silkeborg Langsø este un lac în Silkeborg, care definește peisajul orașului și oferă multe trasee pe malul apei.", "category": "natural", "coords": [9.554362, 56.168746]}, {"name": "Lyngsø", "text": "Lyngsø este un lac în Silkeborg, reprezentând o oază de liniște nu departe de centrul orașului.", "category": "natural", "coords": [9.543833, 56.158747]}, {"name": "Brassø", "text": "Brassø este un lac în Silkeborg, parte a sistemului Gudenå, oferind vederi magnifice.", "category": "natural", "coords": [9.575662, 56.144765]}, {"name": "Borre Sø", "text": "Borre Sø este un lac în Silkeborg, înconjurat de dealuri împădurite, invitând la relaxare.", "category": "natural", "coords": [9.611582, 56.130183]}, {"name": "Dalsøen", "text": "Dalsøen este un lac în Silkeborg, oferind un mediu pașnic pentru iubitorii de natură.", "category": "natural", "coords": [9.540929, 56.194361]}, {"name": "Thorsø", "text": "Thorsø este un lac în Silkeborg, cunoscut ca un loc popular pentru drumeții și activități recreative.", "category": "natural", "coords": [9.537482, 56.126219]}, {"name": "Schoubyes Sø", "text": "Schoubyes Sø este un lac în Silkeborg, remarcându-se prin locația sa idilică în pădure.", "category": "natural", "coords": [9.616963, 56.16738]}, {"name": "Indelukkets minigolf", "text": "Indelukkets minigolf este un teren de minigolf în Silkeborg, oferind distracție pentru întreaga familie.", "category": "family", "coords": [9.560689, 56.160442]}, {"name": "Theodoras Have", "text": "Theodoras Have este un teren de joacă în Silkeborg, oferind copiilor un loc prietenos pentru joacă în aer liber.", "category": "family", "coords": [9.547146, 56.165535]}, {"name": "Søndretorv legeplads", "text": "Søndretorv legeplads este un teren de joacă în Silkeborg, ideal pentru o scurtă pauză de joacă în timpul unei vizite în oraș.", "category": "family", "coords": [9.551273, 56.166786]}], "en": [{"name": "Bredhøj", "text": "Bredhøj is an archaeological site located in the Silkeborg area.", "category": "historical", "coords": [9.55448, 56.186712]}, {"name": "Silkeborg Bunkermuseum", "text": "This museum in Silkeborg is housed in a former bunker from World War II.", "category": "museum", "coords": [9.523695, 56.152691]}, {"name": "Museum Jorn", "text": "Museum Jorn showcases the significant collection of the Danish artist Asger Jorn.", "category": "museum", "coords": [9.558326, 56.161151]}, {"name": "Museum Silkeborg", "text": "Museum Silkeborg is famous for the Tollund Man, a well-preserved bog body.", "category": "museum", "coords": [9.553081, 56.168867]}, {"name": "Aqua", "text": "AQUA is a freshwater aquarium and wildlife park showcasing local nature in Silkeborg.", "category": "family", "coords": [9.562358, 56.153762]}, {"name": "Jysk Musikteater", "text": "Jysk Musikteater is a modern center for musical and theatrical performances in Silkeborg.", "category": "cultural", "coords": [9.555889, 56.170421]}, {"name": "Det Ny Teater", "text": "Det Ny Teater in Silkeborg offers a diverse program of theatrical performances.", "category": "cultural", "coords": [9.524069, 56.151582]}, {"name": "Vestre Søbad", "text": "Vestre Søbad is a popular bathing area on Lake Almindsø in Silkeborg.", "category": "recreational", "coords": [9.543666, 56.152063]}, {"name": "Aggerholm", "text": "A beach in Silkeborg.", "category": "recreational", "coords": [9.536475, 56.153306]}, {"name": "Friluftscenen", "text": "An outdoor theatre in Silkeborg.", "category": "cultural", "coords": [9.563331, 56.15779]}, {"name": "Dronningestolen", "text": "The Dronningestolen viewpoint in Silkeborg offers an expansive look over the surrounding Danish landscape. Nature lovers can enjoy the wide panorama in a peaceful setting at this location.", "category": "natural", "coords": [9.562973, 56.163722]}, {"name": "Silkeborg Slot", "text": "The remains of Silkeborg Castle.", "category": "historical", "coords": [9.556285, 56.173961]}, {"name": "Indelukket", "text": "A popular park and recreational area in Silkeborg.", "category": "park", "coords": [9.561993, 56.159528]}, {"name": "Kroghs Bænk", "text": "A scenic viewpoint in the Silkeborg region.", "category": "natural", "coords": [9.545232, 56.146504]}, {"name": "Galleri Moderne", "text": "An art gallery in Silkeborg.", "category": "museum", "coords": [9.545649, 56.166308]}, {"name": "Kunstner Paletten", "text": "A gallery showcasing local art in Silkeborg.", "category": "museum", "coords": [9.550315, 56.167552]}, {"name": "Galleri Thomasberg", "text": "An art gallery located in Silkeborg.", "category": "museum", "coords": [9.54465, 56.167608]}, {"name": "Galleri Nygade 26A", "text": "A small art gallery in Silkeborg.", "category": "museum", "coords": [9.546749, 56.167437]}, {"name": "Texas Collective", "text": "An art collective and gallery in Silkeborg.", "category": "museum", "coords": [9.5486, 56.167443]}, {"name": "Alderslyst Kirke", "text": "A church in the Alderslyst district of Silkeborg.", "category": "religious", "coords": [9.553567, 56.181745]}, {"name": "Balle Kirke", "text": "A historic church serving the Balle parish in Silkeborg.", "category": "religious", "coords": [9.52274, 56.196042]}, {"name": "Vor Frue Kirke", "text": "The Church of Our Lady in Silkeborg.", "category": "religious", "coords": [9.543748, 56.168406]}, {"name": "Silkeborg Kirke", "text": "The main parish church of Silkeborg.", "category": "religious", "coords": [9.551506, 56.169676]}, {"name": "Mariehøj Kirke", "text": "A modern church building in Silkeborg.", "category": "religious", "coords": [9.536439, 56.158953]}, {"name": "Viborgbroen", "text": "A bridge crossing the water in Silkeborg.", "category": "landmark", "coords": [9.555242, 56.174506]}, {"name": "Almind Sø", "text": "Almind Sø is a lake in Silkeborg, known for its clear water and the surrounding forest landscape.", "category": "natural", "coords": [9.545671, 56.150974]}, {"name": "Vejlsø", "text": "Vejlsø is a lake in Silkeborg, offering a scenic backdrop for nature observation.", "category": "natural", "coords": [9.559502, 56.149959]}, {"name": "Ørnsø", "text": "Ørnsø is a lake in Silkeborg, inviting for pleasant walks in a quiet environment.", "category": "natural", "coords": [9.519197, 56.155097]}, {"name": "Avnsø", "text": "Avnsø is a lake in Silkeborg, providing visitors with a peaceful atmosphere in the heart of nature.", "category": "natural", "coords": [9.572448, 56.142646]}, {"name": "Slåensø", "text": "Slåensø is a lake in Silkeborg, valued for its idyllic location and clean water.", "category": "natural", "coords": [9.618867, 56.123044]}, {"name": "Uglesø", "text": "Uglesø is a lake in Silkeborg, offering a nature-oriented spot for rest and relaxation.", "category": "natural", "coords": [9.565682, 56.141374]}, {"name": "Tranevig", "text": "Tranevig is a lake in Silkeborg, excellent for exploring the Danish lake district.", "category": "natural", "coords": [9.516882, 56.146069]}, {"name": "Vejlbo Mose", "text": "Vejlbo Mose is a lake in Silkeborg, offering a unique moorland landscape to discover.", "category": "natural", "coords": [9.553167, 56.154154]}, {"name": "Pøtsø", "text": "Pøtsø is a lake in Silkeborg, providing a quiet and undisturbed environment in nature.", "category": "natural", "coords": [9.524065, 56.159731]}, {"name": "Gjessø", "text": "Gjessø is a lake in Silkeborg, known as a lovely spot for lakeside walks.", "category": "natural", "coords": [9.496028, 56.114304]}, {"name": "Ellesø", "text": "Ellesø is a lake in Silkeborg, providing a charming setting for nature lovers.", "category": "natural", "coords": [9.574353, 56.129538]}, {"name": "Hummelsø", "text": "Hummelsø is a lake in Silkeborg, offering visitors a peaceful retreat in the greenery.", "category": "natural", "coords": [9.552169, 56.109518]}, {"name": "Jenskær", "text": "Jenskær is a lake in Silkeborg, known for its natural beauty and tranquility.", "category": "natural", "coords": [9.500946, 56.125924]}, {"name": "Gubsø", "text": "Gubsø is a lake in Silkeborg, offering a relaxed atmosphere for a day outdoors.", "category": "natural", "coords": [9.529513, 56.202007]}, {"name": "Silkeborg Langsø", "text": "Silkeborg Langsø is a lake in Silkeborg, shaping the cityscape and offering many waterside paths.", "category": "natural", "coords": [9.554362, 56.168746]}, {"name": "Lyngsø", "text": "Lyngsø is a lake in Silkeborg, representing a quiet oasis not far from the city center.", "category": "natural", "coords": [9.543833, 56.158747]}, {"name": "Brassø", "text": "Brassø is a lake in Silkeborg, part of the Gudenå system, offering magnificent views.", "category": "natural", "coords": [9.575662, 56.144765]}, {"name": "Borre Sø", "text": "Borre Sø is a lake in Silkeborg, surrounded by forested hills and inviting for a stay.", "category": "natural", "coords": [9.611582, 56.130183]}, {"name": "Dalsøen", "text": "Dalsøen is a lake in Silkeborg, providing a peaceful environment for nature lovers.", "category": "natural", "coords": [9.540929, 56.194361]}, {"name": "Thorsø", "text": "Thorsø is a lake in Silkeborg, known as a popular spot for hiking and leisure activities.", "category": "natural", "coords": [9.537482, 56.126219]}, {"name": "Schoubyes Sø", "text": "Schoubyes Sø is a lake in Silkeborg, standing out with its idyllic forest location.", "category": "natural", "coords": [9.616963, 56.16738]}, {"name": "Indelukkets minigolf", "text": "Indelukkets minigolf is a miniature golf course in Silkeborg, offering fun for the whole family.", "category": "family", "coords": [9.560689, 56.160442]}, {"name": "Theodoras Have", "text": "Theodoras Have is a playground in Silkeborg, providing children with a friendly spot for outdoor play.", "category": "family", "coords": [9.547146, 56.165535]}, {"name": "Søndretorv legeplads", "text": "Søndretorv legeplads is a playground in Silkeborg, ideal for a short play break during a city visit.", "category": "family", "coords": [9.551273, 56.166786]}]},
  type: "city",
  parent: "DK",
  coords: [9.5210, 56.1697],
@@ -14116,520 +12433,7 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/silkeborg.webp",
  },
  {
- id: "city-hilleroed", "sights": {
-      "de": [
-            {
-                  "name": "Teglgårdssøens badestrand",
-                  "text": "Badestrand am Teglgård-See in Hillerød.",
-                  "category": "recreational",
-                  "coords": [
-                        12.314212,
-                        55.924806
-                  ]
-            },
-            {
-                  "name": "Nationalhistorisches Museum",
-                  "text": "Im Schloss Frederiksborg untergebracht, zeigt dieses Nationalmuseum dänische Geschichte und Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        12.301515,
-                        55.935174
-                  ]
-            },
-            {
-                  "name": "Folkemuseet",
-                  "text": "Ein lokales Kulturgeschichtsmuseum in Hillerød, das das Leben in Nordseeland dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        12.299713,
-                        55.928159
-                  ]
-            },
-            {
-                  "name": "Badstueslottet",
-                  "text": "Ein kleines, historisches Renaissanceschloss im Schlosspark von Frederiksborg.",
-                  "category": "castle",
-                  "coords": [
-                        12.301161,
-                        55.939038
-                  ]
-            },
-            {
-                  "name": "Rokkestenen",
-                  "text": "Ein berühmter Findling im Gribskov-Wald, der sich leicht bewegen lässt.",
-                  "category": "historical",
-                  "coords": [
-                        12.26441,
-                        55.917742
-                  ]
-            },
-            {
-                  "name": "Hillerød Ny Teater",
-                  "text": "Ein modernes Theater in Hillerød, das eine Vielzahl von Bühnenaufführungen präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        12.293999,
-                        55.920426
-                  ]
-            },
-            {
-                  "name": "Nordsjællands folkemuseum",
-                  "text": "Ein regionales Museum, das sich mit der Volkskunde und Geschichte Nordseelands befasst.",
-                  "category": "museum",
-                  "coords": [
-                        12.308847,
-                        55.933717
-                  ]
-            },
-            {
-                  "name": "Annaborg",
-                  "text": "Ein historisches Gebäude in Hillerød, das heute als Kunstgalerie genutzt wird.",
-                  "category": "museum",
-                  "coords": [
-                        12.296548,
-                        55.935091
-                  ]
-            },
-            {
-                  "name": "Frederik VII's lysthus",
-                  "text": "Ruinen eines historischen Lusthauses, das einst König Frederik VII. gehörte.",
-                  "category": "historical",
-                  "coords": [
-                        12.32097,
-                        55.923272
-                  ]
-            },
-            {
-                  "name": "Skansebakken",
-                  "text": "Ein Aussichtspunkt in Hillerød, der weite Ausblicke über die Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        12.335554,
-                        55.934025
-                  ]
-            },
-            {
-                  "name": "Selskovs suttetræ",
-                  "text": "Ein traditioneller 'Schnullerbaum' im Selskov-Wald für die Jüngsten.",
-                  "category": "landmark",
-                  "coords": [
-                        12.283997,
-                        55.946208
-                  ]
-            },
-            {
-                  "name": "Grønnevang Kirke",
-                  "text": "Eine moderne evangelisch-lutherische Kirche in einem Wohngebiet von Hillerød.",
-                  "category": "religious",
-                  "coords": [
-                        12.344571,
-                        55.937384
-                  ]
-            },
-            {
-                  "name": "Hillerød Kirke",
-                  "text": "Die Hauptkirche der Stadt Hillerød, im Herzen des Zentrums gelegen.",
-                  "category": "religious",
-                  "coords": [
-                        12.306764,
-                        55.929572
-                  ]
-            },
-            {
-                  "name": "Sankt Vilhelms Kirke",
-                  "text": "Eine katholische Kirche in Hillerød, die der lokalen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        12.297978,
-                        55.930549
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Teglgårdssøens badestrand",
-                  "text": "Fürdőstrand a Teglgård-tónál, Hillerød.",
-                  "category": "recreational",
-                  "coords": [
-                        12.314212,
-                        55.924806
-                  ]
-            },
-            {
-                  "name": "Det Nationalhistoriske Museum",
-                  "text": "A Frederiksborg-kastélyban található nemzeti múzeum a dán történelmet és művészetet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.301515,
-                        55.935174
-                  ]
-            },
-            {
-                  "name": "Folkemuseet",
-                  "text": "Hillerődi helytörténeti múzeum, amely az észak-zealandi életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.299713,
-                        55.928159
-                  ]
-            },
-            {
-                  "name": "Badstueslottet",
-                  "text": "Kisméretű, történelmi reneszánsz kastély a Frederiksborg kastélyparkban.",
-                  "category": "castle",
-                  "coords": [
-                        12.301161,
-                        55.939038
-                  ]
-            },
-            {
-                  "name": "Rokkestenen",
-                  "text": "Híres vándorkő a Gribskov-erdőben, amely könnyen mozgatható.",
-                  "category": "historical",
-                  "coords": [
-                        12.26441,
-                        55.917742
-                  ]
-            },
-            {
-                  "name": "Hillerød Ny Teater",
-                  "text": "Modern színház Hillerődben, amely számos színpadi előadást mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        12.293999,
-                        55.920426
-                  ]
-            },
-            {
-                  "name": "Nordsjællands folkemuseum",
-                  "text": "Regionális múzeum, amely Észak-Zealand néprajzával és történelmével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        12.308847,
-                        55.933717
-                  ]
-            },
-            {
-                  "name": "Annaborg",
-                  "text": "Történelmi épület Hillerődben, amely ma művészeti galériaként működik.",
-                  "category": "museum",
-                  "coords": [
-                        12.296548,
-                        55.935091
-                  ]
-            },
-            {
-                  "name": "Frederik VII's lysthus",
-                  "text": "VII. Frigyes király egykori nyári lakjának romjai.",
-                  "category": "historical",
-                  "coords": [
-                        12.32097,
-                        55.923272
-                  ]
-            },
-            {
-                  "name": "Skansebakken",
-                  "text": "Kilátópont Hillerődben, ahonnan szép kilátás nyílik a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        12.335554,
-                        55.934025
-                  ]
-            },
-            {
-                  "name": "Selskovs suttetræ",
-                  "text": "Hagyományos „cumifa” a Selskov-erdőben a legkisebbek számára.",
-                  "category": "landmark",
-                  "coords": [
-                        12.283997,
-                        55.946208
-                  ]
-            },
-            {
-                  "name": "Grønnevang Kirke",
-                  "text": "Modern evangélikus templom Hillerőd egyik lakóövezetében.",
-                  "category": "religious",
-                  "coords": [
-                        12.344571,
-                        55.937384
-                  ]
-            },
-            {
-                  "name": "Hillerød Kirke",
-                  "text": "Hillerőd városának főtemploma a központ szívében.",
-                  "category": "religious",
-                  "coords": [
-                        12.306764,
-                        55.929572
-                  ]
-            },
-            {
-                  "name": "Sankt Vilhelms Kirke",
-                  "text": "Katolikus templom Hillerődben, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        12.297978,
-                        55.930549
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Teglgårdssøens badestrand",
-                  "text": "Plajă de înot pe lacul Teglgård din Hillerød.",
-                  "category": "recreational",
-                  "coords": [
-                        12.314212,
-                        55.924806
-                  ]
-            },
-            {
-                  "name": "Det Nationalhistoriske Museum",
-                  "text": "Găzduit în Castelul Frederiksborg, acest muzeu național prezintă istoria și arta daneză.",
-                  "category": "museum",
-                  "coords": [
-                        12.301515,
-                        55.935174
-                  ]
-            },
-            {
-                  "name": "Folkemuseet",
-                  "text": "Un muzeu local de istorie culturală din Hillerød, care documentează viața din Zeelanda de Nord.",
-                  "category": "museum",
-                  "coords": [
-                        12.299713,
-                        55.928159
-                  ]
-            },
-            {
-                  "name": "Badstueslottet",
-                  "text": "Un mic castel istoric în stil renascentist situat în parcul castelului Frederiksborg.",
-                  "category": "castle",
-                  "coords": [
-                        12.301161,
-                        55.939038
-                  ]
-            },
-            {
-                  "name": "Rokkestenen",
-                  "text": "O celebră piatră oscilantă în pădurea Gribskov, care poate fi mișcată ușor.",
-                  "category": "historical",
-                  "coords": [
-                        12.26441,
-                        55.917742
-                  ]
-            },
-            {
-                  "name": "Hillerød Ny Teater",
-                  "text": "Un teatru modern din Hillerød care prezintă o varietate de spectacole de scenă.",
-                  "category": "cultural",
-                  "coords": [
-                        12.293999,
-                        55.920426
-                  ]
-            },
-            {
-                  "name": "Nordsjællands folkemuseum",
-                  "text": "Un muzeu regional dedicat folclorului și istoriei Zeelandei de Nord.",
-                  "category": "museum",
-                  "coords": [
-                        12.308847,
-                        55.933717
-                  ]
-            },
-            {
-                  "name": "Annaborg",
-                  "text": "O clădire istorică din Hillerød, utilizată în prezent ca galerie de artă.",
-                  "category": "museum",
-                  "coords": [
-                        12.296548,
-                        55.935091
-                  ]
-            },
-            {
-                  "name": "Frederik VII's lysthus",
-                  "text": "Ruinele unei case de vacanță istorice care a aparținut regelui Frederik al VII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        12.32097,
-                        55.923272
-                  ]
-            },
-            {
-                  "name": "Skansebakken",
-                  "text": "Un punct de belvedere în Hillerød care oferă vederi largi asupra peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        12.335554,
-                        55.934025
-                  ]
-            },
-            {
-                  "name": "Selskovs suttetræ",
-                  "text": "Un „copac cu suzete” tradițional în pădurea Selskov pentru cei mici.",
-                  "category": "landmark",
-                  "coords": [
-                        12.283997,
-                        55.946208
-                  ]
-            },
-            {
-                  "name": "Grønnevang Kirke",
-                  "text": "O biserică evanghelică-lutherană modernă într-o zonă rezidențială din Hillerød.",
-                  "category": "religious",
-                  "coords": [
-                        12.344571,
-                        55.937384
-                  ]
-            },
-            {
-                  "name": "Hillerød Kirke",
-                  "text": "Biserica principală a orașului Hillerød, situată în inima centrului.",
-                  "category": "religious",
-                  "coords": [
-                        12.306764,
-                        55.929572
-                  ]
-            },
-            {
-                  "name": "Sankt Vilhelms Kirke",
-                  "text": "O biserică catolică din Hillerød care servește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        12.297978,
-                        55.930549
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Teglgårdssøens badestrand",
-                  "text": "Swimming beach at Teglgård Lake in Hillerød.",
-                  "category": "recreational",
-                  "coords": [
-                        12.314212,
-                        55.924806
-                  ]
-            },
-            {
-                  "name": "The Museum of National History",
-                  "text": "Housed in Frederiksborg Castle, this national museum showcases Danish history and art.",
-                  "category": "museum",
-                  "coords": [
-                        12.301515,
-                        55.935174
-                  ]
-            },
-            {
-                  "name": "Folkemuseet",
-                  "text": "A local cultural history museum in Hillerød documenting life in North Zealand.",
-                  "category": "museum",
-                  "coords": [
-                        12.299713,
-                        55.928159
-                  ]
-            },
-            {
-                  "name": "Bath House Castle",
-                  "text": "A small, historic Renaissance castle located in the Frederiksborg castle park.",
-                  "category": "castle",
-                  "coords": [
-                        12.301161,
-                        55.939038
-                  ]
-            },
-            {
-                  "name": "Rokkestenen",
-                  "text": "A famous glacial erratic in Gribskov forest that can be rocked easily.",
-                  "category": "historical",
-                  "coords": [
-                        12.26441,
-                        55.917742
-                  ]
-            },
-            {
-                  "name": "Hillerød Ny Teater",
-                  "text": "A modern theatre in Hillerød presenting a variety of stage performances.",
-                  "category": "cultural",
-                  "coords": [
-                        12.293999,
-                        55.920426
-                  ]
-            },
-            {
-                  "name": "Nordsjællands folkemuseum",
-                  "text": "A regional museum focusing on the folklore and history of North Zealand.",
-                  "category": "museum",
-                  "coords": [
-                        12.308847,
-                        55.933717
-                  ]
-            },
-            {
-                  "name": "Annaborg",
-                  "text": "A historic building in Hillerød currently used as an art gallery.",
-                  "category": "museum",
-                  "coords": [
-                        12.296548,
-                        55.935091
-                  ]
-            },
-            {
-                  "name": "Frederik VII's lysthus",
-                  "text": "Ruins of a historic summer house that once belonged to King Frederik VII.",
-                  "category": "historical",
-                  "coords": [
-                        12.32097,
-                        55.923272
-                  ]
-            },
-            {
-                  "name": "Skansebakken",
-                  "text": "A viewpoint in Hillerød offering broad views over the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        12.335554,
-                        55.934025
-                  ]
-            },
-            {
-                  "name": "Selskovs suttetræ",
-                  "text": "A traditional 'pacifier tree' in Selskov forest for young children.",
-                  "category": "landmark",
-                  "coords": [
-                        12.283997,
-                        55.946208
-                  ]
-            },
-            {
-                  "name": "Grønnevang Kirke",
-                  "text": "A modern Evangelical Lutheran church in a residential area of Hillerød.",
-                  "category": "religious",
-                  "coords": [
-                        12.344571,
-                        55.937384
-                  ]
-            },
-            {
-                  "name": "Hillerød Kirke",
-                  "text": "The main church of Hillerød city, located in the heart of the center.",
-                  "category": "religious",
-                  "coords": [
-                        12.306764,
-                        55.929572
-                  ]
-            },
-            {
-                  "name": "Sankt Vilhelms Kirke",
-                  "text": "A Catholic church in Hillerød serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        12.297978,
-                        55.930549
-                  ]
-            }
-      ]
-},
+ id: "city-hilleroed", "sights": {"de": [{"name": "Teglgårdssøens badestrand", "text": "Der Badestrand am idyllischen Teglgård-See in Hillerød ist eine herrliche Süßwasseralternative zum Meer. Badegäste können hier im klaren Seewasser schwimmen und auf den umliegenden Wiesenflächen Sonne tanken. Die familiäre und naturnahe Stimmung macht diesen Seezugang zu einem beliebten Treffpunkt in der warmen Jahreszeit. Es empfiehlt sich, ein Picknick einzupacken, um den Aufenthalt in vollen Zügen zu genießen.", "category": "recreational", "coords": [12.314212, 55.924806]}, {"name": "Nationalhistorisches Museum", "text": "Im Schloss Frederiksborg untergebracht, zeigt dieses Nationalmuseum dänische Geschichte und Kunst.", "category": "museum", "coords": [12.301515, 55.935174]}, {"name": "Folkemuseet", "text": "Ein lokales Kulturgeschichtsmuseum in Hillerød, das das Leben in Nordseeland dokumentiert.", "category": "museum", "coords": [12.299713, 55.928159]}, {"name": "Badstueslottet", "text": "Ein kleines, historisches Renaissanceschloss im Schlosspark von Frederiksborg.", "category": "castle", "coords": [12.301161, 55.939038]}, {"name": "Rokkestenen", "text": "Ein berühmter Findling im Gribskov-Wald, der sich leicht bewegen lässt.", "category": "historical", "coords": [12.26441, 55.917742]}, {"name": "Hillerød Ny Teater", "text": "Ein modernes Theater in Hillerød, das eine Vielzahl von Bühnenaufführungen präsentiert.", "category": "cultural", "coords": [12.293999, 55.920426]}, {"name": "Nordsjællands folkemuseum", "text": "Ein regionales Museum, das sich mit der Volkskunde und Geschichte Nordseelands befasst.", "category": "museum", "coords": [12.308847, 55.933717]}, {"name": "Annaborg", "text": "Ein historisches Gebäude in Hillerød, das heute als Kunstgalerie genutzt wird.", "category": "museum", "coords": [12.296548, 55.935091]}, {"name": "Frederik VII's lysthus", "text": "Ruinen eines historischen Lusthauses, das einst König Frederik VII. gehörte.", "category": "historical", "coords": [12.32097, 55.923272]}, {"name": "Skansebakken", "text": "Ein Aussichtspunkt in Hillerød, der weite Ausblicke über die Landschaft bietet.", "category": "natural", "coords": [12.335554, 55.934025]}, {"name": "Selskovs suttetræ", "text": "Ein traditioneller 'Schnullerbaum' im Selskov-Wald für die Jüngsten.", "category": "landmark", "coords": [12.283997, 55.946208]}, {"name": "Grønnevang Kirke", "text": "Eine moderne evangelisch-lutherische Kirche in einem Wohngebiet von Hillerød.", "category": "religious", "coords": [12.344571, 55.937384]}, {"name": "Hillerød Kirke", "text": "Die Hauptkirche der Stadt Hillerød, im Herzen des Zentrums gelegen.", "category": "religious", "coords": [12.306764, 55.929572]}, {"name": "Sankt Vilhelms Kirke", "text": "Eine katholische Kirche in Hillerød, die der lokalen Gemeinde dient.", "category": "religious", "coords": [12.297978, 55.930549]}], "hu": [{"name": "Teglgårdssøens badestrand", "text": "A hillerødi idillikus Teglgård-tó partján fekvő strand pompás édesvízi alternatívája a tengernek. A fürdőzők a tiszta tóvízben úszhatnak, és a környező füves területeken szívhatják magukba a napfényt. A családias és természetközeli hangulat a meleg évszakban kedvelt találkozóhellyé teszi ezt a tóparti részt. Érdemes egy piknikkosarat is csomagolni, hogy a látogatás minden percét kiélvezhessük.", "category": "recreational", "coords": [12.314212, 55.924806]}, {"name": "Det Nationalhistoriske Museum", "text": "A Frederiksborg-kastélyban található nemzeti múzeum a dán történelmet és művészetet mutatja be.", "category": "museum", "coords": [12.301515, 55.935174]}, {"name": "Folkemuseet", "text": "Hillerődi helytörténeti múzeum, amely az észak-zealandi életet mutatja be.", "category": "museum", "coords": [12.299713, 55.928159]}, {"name": "Badstueslottet", "text": "Kisméretű, történelmi reneszánsz kastély a Frederiksborg kastélyparkban.", "category": "castle", "coords": [12.301161, 55.939038]}, {"name": "Rokkestenen", "text": "Híres vándorkő a Gribskov-erdőben, amely könnyen mozgatható.", "category": "historical", "coords": [12.26441, 55.917742]}, {"name": "Hillerød Ny Teater", "text": "Modern színház Hillerődben, amely számos színpadi előadást mutat be.", "category": "cultural", "coords": [12.293999, 55.920426]}, {"name": "Nordsjællands folkemuseum", "text": "Regionális múzeum, amely Észak-Zealand néprajzával és történelmével foglalkozik.", "category": "museum", "coords": [12.308847, 55.933717]}, {"name": "Annaborg", "text": "Történelmi épület Hillerődben, amely ma művészeti galériaként működik.", "category": "museum", "coords": [12.296548, 55.935091]}, {"name": "Frederik VII's lysthus", "text": "VII. Frigyes király egykori nyári lakjának romjai.", "category": "historical", "coords": [12.32097, 55.923272]}, {"name": "Skansebakken", "text": "Kilátópont Hillerődben, ahonnan szép kilátás nyílik a környékre.", "category": "natural", "coords": [12.335554, 55.934025]}, {"name": "Selskovs suttetræ", "text": "Hagyományos „cumifa” a Selskov-erdőben a legkisebbek számára.", "category": "landmark", "coords": [12.283997, 55.946208]}, {"name": "Grønnevang Kirke", "text": "Modern evangélikus templom Hillerőd egyik lakóövezetében.", "category": "religious", "coords": [12.344571, 55.937384]}, {"name": "Hillerød Kirke", "text": "Hillerőd városának főtemploma a központ szívében.", "category": "religious", "coords": [12.306764, 55.929572]}, {"name": "Sankt Vilhelms Kirke", "text": "Katolikus templom Hillerődben, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [12.297978, 55.930549]}], "ro": [{"name": "Teglgårdssøens badestrand", "text": "Plaja de la idilicul lac Teglgård din Hillerød este o alternativă excelentă de apă dulce la mare. Cei care doresc să se scalde pot înota în apa limpede a lacului și se pot bronza pe pajiștile din jur. Atmosfera familiară și apropiată de natură face din acest acces la lac un punct de întâlnire popular în sezonul cald. Este foarte recomandat să împachetați un picnic pentru a vă bucura la maximum de ședere.", "category": "recreational", "coords": [12.314212, 55.924806]}, {"name": "Det Nationalhistoriske Museum", "text": "Găzduit în Castelul Frederiksborg, acest muzeu național prezintă istoria și arta daneză.", "category": "museum", "coords": [12.301515, 55.935174]}, {"name": "Folkemuseet", "text": "Un muzeu local de istorie culturală din Hillerød, care documentează viața din Zeelanda de Nord.", "category": "museum", "coords": [12.299713, 55.928159]}, {"name": "Badstueslottet", "text": "Un mic castel istoric în stil renascentist situat în parcul castelului Frederiksborg.", "category": "castle", "coords": [12.301161, 55.939038]}, {"name": "Rokkestenen", "text": "O celebră piatră oscilantă în pădurea Gribskov, care poate fi mișcată ușor.", "category": "historical", "coords": [12.26441, 55.917742]}, {"name": "Hillerød Ny Teater", "text": "Un teatru modern din Hillerød care prezintă o varietate de spectacole de scenă.", "category": "cultural", "coords": [12.293999, 55.920426]}, {"name": "Nordsjællands folkemuseum", "text": "Un muzeu regional dedicat folclorului și istoriei Zeelandei de Nord.", "category": "museum", "coords": [12.308847, 55.933717]}, {"name": "Annaborg", "text": "O clădire istorică din Hillerød, utilizată în prezent ca galerie de artă.", "category": "museum", "coords": [12.296548, 55.935091]}, {"name": "Frederik VII's lysthus", "text": "Ruinele unei case de vacanță istorice care a aparținut regelui Frederik al VII-lea.", "category": "historical", "coords": [12.32097, 55.923272]}, {"name": "Skansebakken", "text": "Un punct de belvedere în Hillerød care oferă vederi largi asupra peisajului.", "category": "natural", "coords": [12.335554, 55.934025]}, {"name": "Selskovs suttetræ", "text": "Un „copac cu suzete” tradițional în pădurea Selskov pentru cei mici.", "category": "landmark", "coords": [12.283997, 55.946208]}, {"name": "Grønnevang Kirke", "text": "O biserică evanghelică-lutherană modernă într-o zonă rezidențială din Hillerød.", "category": "religious", "coords": [12.344571, 55.937384]}, {"name": "Hillerød Kirke", "text": "Biserica principală a orașului Hillerød, situată în inima centrului.", "category": "religious", "coords": [12.306764, 55.929572]}, {"name": "Sankt Vilhelms Kirke", "text": "O biserică catolică din Hillerød care servește comunitatea locală.", "category": "religious", "coords": [12.297978, 55.930549]}], "en": [{"name": "Teglgårdssøens badestrand", "text": "The bathing beach by the idyllic Teglgård Lake in Hillerød serves as a wonderful freshwater alternative to the sea. Bathers can easily swim in the clear lake water and soak up the sun on the surrounding grassy areas. The familiar and nature-oriented mood makes this lake access point a highly popular gathering spot during the warm season. Packing a small picnic is highly recommended to fully enjoy your stay.", "category": "recreational", "coords": [12.314212, 55.924806]}, {"name": "The Museum of National History", "text": "Housed in Frederiksborg Castle, this national museum showcases Danish history and art.", "category": "museum", "coords": [12.301515, 55.935174]}, {"name": "Folkemuseet", "text": "A local cultural history museum in Hillerød documenting life in North Zealand.", "category": "museum", "coords": [12.299713, 55.928159]}, {"name": "Bath House Castle", "text": "A small, historic Renaissance castle located in the Frederiksborg castle park.", "category": "castle", "coords": [12.301161, 55.939038]}, {"name": "Rokkestenen", "text": "A famous glacial erratic in Gribskov forest that can be rocked easily.", "category": "historical", "coords": [12.26441, 55.917742]}, {"name": "Hillerød Ny Teater", "text": "A modern theatre in Hillerød presenting a variety of stage performances.", "category": "cultural", "coords": [12.293999, 55.920426]}, {"name": "Nordsjællands folkemuseum", "text": "A regional museum focusing on the folklore and history of North Zealand.", "category": "museum", "coords": [12.308847, 55.933717]}, {"name": "Annaborg", "text": "A historic building in Hillerød currently used as an art gallery.", "category": "museum", "coords": [12.296548, 55.935091]}, {"name": "Frederik VII's lysthus", "text": "Ruins of a historic summer house that once belonged to King Frederik VII.", "category": "historical", "coords": [12.32097, 55.923272]}, {"name": "Skansebakken", "text": "A viewpoint in Hillerød offering broad views over the landscape.", "category": "natural", "coords": [12.335554, 55.934025]}, {"name": "Selskovs suttetræ", "text": "A traditional 'pacifier tree' in Selskov forest for young children.", "category": "landmark", "coords": [12.283997, 55.946208]}, {"name": "Grønnevang Kirke", "text": "A modern Evangelical Lutheran church in a residential area of Hillerød.", "category": "religious", "coords": [12.344571, 55.937384]}, {"name": "Hillerød Kirke", "text": "The main church of Hillerød city, located in the heart of the center.", "category": "religious", "coords": [12.306764, 55.929572]}, {"name": "Sankt Vilhelms Kirke", "text": "A Catholic church in Hillerød serving the local community.", "category": "religious", "coords": [12.297978, 55.930549]}]},
  type: "city",
  parent: "DK",
  coords: [12.3020, 55.9260],
@@ -16246,6 +14050,24 @@ export const denmarkCities: POI[] = [
                         10.528204,
                         57.464691
                   ]
+            },
+            {
+                  "name": "Quality Hotel™ The Reef",
+                  "text": "Quality Hotel™ The Reef in Frederikshavn ist ein Wasserpark für abenteuerlustige Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.537008,
+                        57.4388
+                  ]
+            },
+            {
+                  "name": "FunHouse",
+                  "text": "FunHouse in Frederikshavn ist ein Themenpark für spielerische Familienerlebnisse.",
+                  "category": "family",
+                  "coords": [
+                        10.5259,
+                        57.46359
+                  ]
             }
       ],
       "hu": [
@@ -16256,6 +14078,24 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         10.528204,
                         57.464691
+                  ]
+            },
+            {
+                  "name": "Quality Hotel™ The Reef",
+                  "text": "A Quality Hotel™ The Reef Frederikshavnban egy vízi park a kalandvágyó családoknak.",
+                  "category": "family",
+                  "coords": [
+                        10.537008,
+                        57.4388
+                  ]
+            },
+            {
+                  "name": "FunHouse",
+                  "text": "A FunHouse Frederikshavnban egy élménypark a játékos családi élményekhez.",
+                  "category": "family",
+                  "coords": [
+                        10.5259,
+                        57.46359
                   ]
             }
       ],
@@ -16268,6 +14108,24 @@ export const denmarkCities: POI[] = [
                         10.528204,
                         57.464691
                   ]
+            },
+            {
+                  "name": "Quality Hotel™ The Reef",
+                  "text": "Quality Hotel™ The Reef din Frederikshavn este un parc acvatic pentru familii dornice de aventură.",
+                  "category": "family",
+                  "coords": [
+                        10.537008,
+                        57.4388
+                  ]
+            },
+            {
+                  "name": "FunHouse",
+                  "text": "FunHouse din Frederikshavn este un parc tematic pentru experiențe ludice în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.5259,
+                        57.46359
+                  ]
             }
       ],
       "en": [
@@ -16278,6 +14136,24 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         10.528204,
                         57.464691
+                  ]
+            },
+            {
+                  "name": "Quality Hotel™ The Reef",
+                  "text": "Quality Hotel™ The Reef in Frederikshavn is a water park for adventurous families.",
+                  "category": "family",
+                  "coords": [
+                        10.537008,
+                        57.4388
+                  ]
+            },
+            {
+                  "name": "FunHouse",
+                  "text": "FunHouse in Frederikshavn is a theme park for playful family experiences.",
+                  "category": "family",
+                  "coords": [
+                        10.5259,
+                        57.46359
                   ]
             }
       ]
@@ -16496,6 +14372,15 @@ export const denmarkCities: POI[] = [
                         8.667061,
                         56.352218
                   ]
+            },
+            {
+                  "name": "Wild´n´Fun.dk",
+                  "text": "Dieser Freizeitpark in Holstebro bietet aktive Unterhaltung und familienfreundliche Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        8.610297,
+                        56.330474
+                  ]
             }
       ],
       "hu": [
@@ -16668,6 +14553,15 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.667061,
                         56.352218
+                  ]
+            },
+            {
+                  "name": "Wild´n´Fun.dk",
+                  "text": "Ez a Holstebro-i élménypark aktív szórakozást és családbarát látnivalókat kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.610297,
+                        56.330474
                   ]
             }
       ],
@@ -16842,6 +14736,15 @@ export const denmarkCities: POI[] = [
                         8.667061,
                         56.352218
                   ]
+            },
+            {
+                  "name": "Wild´n´Fun.dk",
+                  "text": "Acest parc tematic din Holstebro oferă divertisment activ și atracții potrivite pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.610297,
+                        56.330474
+                  ]
             }
       ],
       "en": [
@@ -17014,6 +14917,15 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.667061,
                         56.352218
+                  ]
+            },
+            {
+                  "name": "Wild´n´Fun.dk",
+                  "text": "This theme park in Holstebro offers active entertainment and family-friendly attractions.",
+                  "category": "family",
+                  "coords": [
+                        8.610297,
+                        56.330474
                   ]
             }
       ]
@@ -17322,52 +15234,7 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/round-tower.webp",
  },
  {
- id: "land-copenhagen-opera-house", "sights": {
-      "de": [
-            {
-                  "name": "Christiania Beach",
-                  "text": "Christiania Beach ist ein Uferbereich in der Nähe des Opernhauses Kopenhagen.",
-                  "category": "recreational",
-                  "coords": [
-                        12.609349,
-                        55.67942
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Christiania Beach",
-                  "text": "A Christiania Beach egy vízparti terület a Koppenhágai Operaház közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        12.609349,
-                        55.67942
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Christiania Beach",
-                  "text": "Christiania Beach este o zonă de țărm din apropierea Operei din Copenhaga.",
-                  "category": "recreational",
-                  "coords": [
-                        12.609349,
-                        55.67942
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Christiania Beach",
-                  "text": "Christiania Beach is a waterfront area near the Copenhagen Opera House.",
-                  "category": "recreational",
-                  "coords": [
-                        12.609349,
-                        55.67942
-                  ]
-            }
-      ]
-},
+ id: "land-copenhagen-opera-house", "sights": {"de": [{"name": "Christiania Beach", "text": "Unweit des Opernhauses Kopenhagen bietet der Christiania Beach ein faszinierendes städtisches Stranderlebnis mitten in Dänemark. An diesem Uferbereich können Besucher das Wasser genießen und das lebendige Kopenhagener Flair auf sich wirken lassen. Die Atmosphäre ist unkonventionell und sehr entspannt, was den Strand zu einem interessanten Ausflugsziel macht. An warmen Tagen ist dies der perfekte Ort, um das Treiben am Wasser zu beobachten.", "category": "recreational", "coords": [12.609349, 55.67942]}], "hu": [{"name": "Christiania Beach", "text": "A koppenhágai Operaház közelében elhelyezkedő Christiania Beach egy lenyűgöző városi strandélményt kínál Dánia szívében. Ezen a vízparti részen a látogatók élvezhetik a vizet, és átadhatják magukat a pezsgő koppenhágai hangulatnak. A környezet meglehetősen rendhagyó és rendkívül laza, ami érdekes kirándulóhellyé teszi a partszakaszt. Meleg napokon ez a tökéletes helyszín a vízparti forgatag megfigyelésére.", "category": "recreational", "coords": [12.609349, 55.67942]}], "ro": [{"name": "Christiania Beach", "text": "Nu departe de Opera din Copenhaga, Christiania Beach oferă o experiență urbană fascinantă de plajă chiar în Danemarca. În această zonă a malului, vizitatorii se pot bucura de apă și pot absorbi flerul vibrant al orașului Copenhaga. Atmosfera este neconvențională și foarte relaxată, transformând plaja într-o destinație interesantă. În zilele calde, acesta este locul perfect pentru a observa forfota de pe malul apei.", "category": "recreational", "coords": [12.609349, 55.67942]}], "en": [{"name": "Christiania Beach", "text": "Located not far from the Copenhagen Opera House, Christiania Beach offers a fascinating urban beach experience right in Denmark. At this waterfront area, visitors can easily enjoy the water and fully absorb the vibrant Copenhagen flair. The atmosphere is notably unconventional and highly relaxed, making the beach an interesting excursion destination. On warm days, this is the absolute perfect spot to sit and watch the bustling activity by the water.", "category": "recreational", "coords": [12.609349, 55.67942]}]},
  type: "landmark",
  parent: "DK",
  coords: [12.6032, 55.6829],
@@ -17410,124 +15277,7 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/copenhagen-opera-house.webp",
  },
  {
- id: "land-louisiana-museum", "sights": {
-      "de": [
-            {
-                  "name": "Babylone Strand",
-                  "text": "Babylone Strand liegt in der Nähe des bekannten Louisiana Museum of Modern Art.",
-                  "category": "recreational",
-                  "coords": [
-                        12.547373,
-                        55.975613
-                  ]
-            },
-            {
-                  "name": "Stranden ved Ida Tesdorpfs Vej",
-                  "text": "Die Stranden ved Ida Tesdorpfs Vej liegt unweit des Louisiana Museum of Modern Art.",
-                  "category": "recreational",
-                  "coords": [
-                        12.5401,
-                        55.960836
-                  ]
-            },
-            {
-                  "name": "Bjerre Strand",
-                  "text": "Strand in der Nähe des Louisiana Museums für moderne Kunst.",
-                  "category": "recreational",
-                  "coords": [
-                        12.536834,
-                        55.957249
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Babylone Strand",
-                  "text": "A Babylone Strand a híres Louisiana Modern Művészeti Múzeum közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        12.547373,
-                        55.975613
-                  ]
-            },
-            {
-                  "name": "Stranden ved Ida Tesdorpfs Vej",
-                  "text": "A Stranden ved Ida Tesdorpfs Vej nem messze található a Louisiana Modern Művészeti Múzeumtól.",
-                  "category": "recreational",
-                  "coords": [
-                        12.5401,
-                        55.960836
-                  ]
-            },
-            {
-                  "name": "Bjerre Strand",
-                  "text": "Strand a Louisiana Modern Művészeti Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        12.536834,
-                        55.957249
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Babylone Strand",
-                  "text": "Plaja Babylone este situată în apropierea cunoscutului Muzeu de Artă Modernă Louisiana.",
-                  "category": "recreational",
-                  "coords": [
-                        12.547373,
-                        55.975613
-                  ]
-            },
-            {
-                  "name": "Stranden ved Ida Tesdorpfs Vej",
-                  "text": "Plaja Stranden ved Ida Tesdorpfs Vej se află nu departe de Muzeul de Artă Modernă Louisiana.",
-                  "category": "recreational",
-                  "coords": [
-                        12.5401,
-                        55.960836
-                  ]
-            },
-            {
-                  "name": "Bjerre Strand",
-                  "text": "Plajă în apropierea Muzeului de Artă Modernă Louisiana.",
-                  "category": "recreational",
-                  "coords": [
-                        12.536834,
-                        55.957249
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Babylone Strand",
-                  "text": "Babylone Strand is situated near the well-known Louisiana Museum of Modern Art.",
-                  "category": "recreational",
-                  "coords": [
-                        12.547373,
-                        55.975613
-                  ]
-            },
-            {
-                  "name": "Stranden ved Ida Tesdorpfs Vej",
-                  "text": "Stranden ved Ida Tesdorpfs Vej is located not far from the Louisiana Museum of Modern Art.",
-                  "category": "recreational",
-                  "coords": [
-                        12.5401,
-                        55.960836
-                  ]
-            },
-            {
-                  "name": "Bjerre Strand",
-                  "text": "Beach near the Louisiana Museum of Modern Art.",
-                  "category": "recreational",
-                  "coords": [
-                        12.536834,
-                        55.957249
-                  ]
-            }
-      ]
-},
+ id: "land-louisiana-museum", "sights": {"de": [{"name": "Babylone Strand", "text": "Der Babylone Strand liegt in der attraktiven Gegend nahe des Louisiana Museum of Modern Art und verbindet Natur mit Kultur. Nach einem Museumsbesuch lädt dieser Küstenabschnitt zu einem erfrischenden Sprung ins Wasser oder zu einem ausgedehnten Spaziergang ein. Die ruhige Ausstrahlung des Strandes bietet einen angenehmen Kontrast zu den kulturellen Eindrücken. Ein windgeschütztes Plätzchen ist ideal, um hier die Seele baumeln zu lassen.", "category": "recreational", "coords": [12.547373, 55.975613]}, {"name": "Stranden ved Ida Tesdorpfs Vej", "text": "Die Stranden ved Ida Tesdorpfs Vej liegt unweit des Louisiana Museum of Modern Art.", "category": "recreational", "coords": [12.5401, 55.960836]}, {"name": "Bjerre Strand", "text": "Ebenfalls in der Nähe des bekannten Louisiana Museums erstreckt sich der idyllische Bjerre Strand an der dänischen Küste. Dieser Strandabschnitt ist wunderbar geeignet, um beim Schwimmen oder Sonnenbaden die Stille der Natur zu genießen. Hier findet man ein entspanntes Refugium abseits des städtischen Trubels. Ein gemütlicher Nachmittag am Ufer ist die perfekte Möglichkeit, die frische Seeluft auszukosten.", "category": "recreational", "coords": [12.536834, 55.957249]}], "hu": [{"name": "Babylone Strand", "text": "A Louisiana Museum of Modern Art vonzó szomszédságában található Babylone Strand gyönyörűen ötvözi a természetet a kultúrával. Egy múzeumlátogatás után ez a partszakasz frissítő csobbanásra vagy egy hosszú sétára csábít. A strand békés kisugárzása nagyon kellemes kontrasztot nyújt a kulturális élmények után. Egy szélvédett hely megtalálása ideális ahhoz, hogy itt igazán kikapcsolódhassunk.", "category": "recreational", "coords": [12.547373, 55.975613]}, {"name": "Stranden ved Ida Tesdorpfs Vej", "text": "A Stranden ved Ida Tesdorpfs Vej nem messze található a Louisiana Modern Művészeti Múzeumtól.", "category": "recreational", "coords": [12.5401, 55.960836]}, {"name": "Bjerre Strand", "text": "Szintén a híres Louisiana Múzeum közelében húzódik az idillikus Bjerre Strand a dán partvidéken. Ez a strandszakasz csodálatos lehetőséget kínál arra, hogy úszás vagy napozás közben élvezzük a természet nyugalmát. Itt egy pihentető menedékre lelhetünk, távol a város zajától. Egy kényelmes, vízparton töltött délután tökéletes alkalom a friss tengeri levegő kiélvezésére.", "category": "recreational", "coords": [12.536834, 55.957249]}], "ro": [{"name": "Babylone Strand", "text": "Babylone Strand este situată în zona atractivă din apropiere de Louisiana Museum of Modern Art și combină minunat natura cu cultura. După o vizită la muzeu, această porțiune de coastă te invită la o baie răcoritoare în apă sau la o plimbare lungă. Aura liniștită a plajei oferă un contrast plăcut cu impresiile culturale. Găsirea unui loc ferit de vânt este ideală pentru a vă lăsa mintea să hoinărească aici.", "category": "recreational", "coords": [12.547373, 55.975613]}, {"name": "Stranden ved Ida Tesdorpfs Vej", "text": "Plaja Stranden ved Ida Tesdorpfs Vej se află nu departe de Muzeul de Artă Modernă Louisiana.", "category": "recreational", "coords": [12.5401, 55.960836]}, {"name": "Bjerre Strand", "text": "Tot în apropierea celebrului Muzeu Louisiana se întinde și idilica plajă Bjerre Strand pe coasta daneză. Această porțiune de plajă este minunat potrivită pentru a vă bucura de liniștea naturii în timp ce înotați sau faceți plajă. Aici veți găsi un refugiu relaxant departe de agitația orașului. O după-amiază confortabilă pe mal este modalitatea perfectă de a savura aerul proaspăt al mării.", "category": "recreational", "coords": [12.536834, 55.957249]}], "en": [{"name": "Babylone Strand", "text": "Babylone Strand is situated in the attractive area near the Louisiana Museum of Modern Art, beautifully combining nature with culture. After a museum visit, this coastal stretch immediately invites you for a refreshing jump into the water or an extended walk. The quiet aura of the beach provides a thoroughly pleasant contrast to the cultural impressions. Finding a wind-sheltered spot is ideal to fully let your mind wander here.", "category": "recreational", "coords": [12.547373, 55.975613]}, {"name": "Stranden ved Ida Tesdorpfs Vej", "text": "Stranden ved Ida Tesdorpfs Vej is located not far from the Louisiana Museum of Modern Art.", "category": "recreational", "coords": [12.5401, 55.960836]}, {"name": "Bjerre Strand", "text": "Also extending near the famous Louisiana Museum is the idyllic Bjerre Strand along the Danish coast. This beach section is wonderfully suited for completely enjoying the silence of nature while swimming or sunbathing. Here you will easily find a relaxing refuge far away from any urban bustle. Spending a cozy afternoon on the shore is the absolute perfect way to savor the fresh sea air.", "category": "recreational", "coords": [12.536834, 55.957249]}]},
  type: "landmark",
  parent: "DK",
  coords: [12.5317, 55.9689],
@@ -17959,88 +15709,7 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/port-esbjerg.webp",
  },
  {
- id: "port-frederikshavn", "sights": {
-      "de": [
-            {
-                  "name": "Palmestranden",
-                  "text": "Ein Strand nahe dem Hafen von Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.540579,
-                        57.461464
-                  ]
-            },
-            {
-                  "name": "Strandby Strand",
-                  "text": "Strandby Strand befindet sich nahe dem Hafen von Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.515973,
-                        57.480671
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Palmestranden",
-                  "text": "Strand Frederikshavn kikötőjének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        10.540579,
-                        57.461464
-                  ]
-            },
-            {
-                  "name": "Strandby Strand",
-                  "text": "A Strandby Strand a frederikshavni kikötő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        10.515973,
-                        57.480671
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Palmestranden",
-                  "text": "O plajă lângă portul Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.540579,
-                        57.461464
-                  ]
-            },
-            {
-                  "name": "Strandby Strand",
-                  "text": "Plaja Strandby este situată în apropierea portului Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.515973,
-                        57.480671
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Palmestranden",
-                  "text": "A beach near the port of Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.540579,
-                        57.461464
-                  ]
-            },
-            {
-                  "name": "Strandby Strand",
-                  "text": "Strandby Strand is located near the port of Frederikshavn.",
-                  "category": "recreational",
-                  "coords": [
-                        10.515973,
-                        57.480671
-                  ]
-            }
-      ]
-},
+ id: "port-frederikshavn", "sights": {"de": [{"name": "Palmestranden", "text": "Ein Strand nahe dem Hafen von Frederikshavn.", "category": "recreational", "coords": [10.540579, 57.461464]}, {"name": "Strandby Strand", "text": "Nahe dem Hafen von Frederikshavn bietet der Strandby Strand maritimes dänisches Lebensgefühl pur. Der flache Küstenverlauf lädt zu ausgiebigen Badegängen und entspannten Strandspaziergängen ein. Die familiäre und ruhige Atmosphäre wird von den Besuchern sehr geschätzt. Es ist ein herrlicher Ort, um die vorbeifahrenden Boote zu beobachten und den Tag am Meer zu verbringen.", "category": "recreational", "coords": [10.515973, 57.480671]}], "hu": [{"name": "Palmestranden", "text": "Strand Frederikshavn kikötőjének közelében.", "category": "recreational", "coords": [10.540579, 57.461464]}, {"name": "Strandby Strand", "text": "A frederikshavni kikötőhöz közeli Strandby Strand tiszta dán tengerparti életérzéssel ajándékozza meg az érkezőket. A sekély partszakasz hosszas fürdőzésekre és pihentető tengerparti sétákra invitál. A családias és csendes hangulatot rendkívül nagyra értékelik a látogatók. Ez egy pompás helyszín arra, hogy az elhaladó hajókat figyeljük és a tengernél töltsük a napot.", "category": "recreational", "coords": [10.515973, 57.480671]}], "ro": [{"name": "Palmestranden", "text": "O plajă lângă portul Frederikshavn.", "category": "recreational", "coords": [10.540579, 57.461464]}, {"name": "Strandby Strand", "text": "Aproape de portul Frederikshavn, Strandby Strand oferă un stil de viață maritim danez pur. Linia de coastă plată vă invită la băi lungi și la plimbări relaxante pe plajă. Atmosfera familiară și liniștită este foarte apreciată de vizitatori. Este un loc minunat pentru a privi bărcile care trec și pentru a petrece o zi întreagă la mare.", "category": "recreational", "coords": [10.515973, 57.480671]}], "en": [{"name": "Palmestranden", "text": "A beach near the port of Frederikshavn.", "category": "recreational", "coords": [10.540579, 57.461464]}, {"name": "Strandby Strand", "text": "Close to the Port of Frederikshavn, Strandby Strand offers an absolutely pure maritime Danish lifestyle feel. The flat coastal layout generously invites you for extensive bathing sessions and highly relaxing beach walks. The familiar and quiet atmosphere is deeply appreciated by visiting guests. It is a truly glorious spot to watch passing boats and spend an entire day by the sea.", "category": "recreational", "coords": [10.515973, 57.480671]}]},
  type: "port",
  parent: "DK",
  coords: [10.5402, 57.4460],
@@ -18394,88 +16063,7 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/christiansfeld.webp",
  },
  {
- id: "hist-dybbol-banke", "sights": {
-      "de": [
-            {
-                  "name": "Vemmingbund",
-                  "text": "Vemmingbund ist ein Strand in der Nähe von Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.704018,
-                        54.897486
-                  ]
-            },
-            {
-                  "name": "Adsbøl Strand",
-                  "text": "Strand in der Nähe von Historiecenter Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.62693,
-                        54.935135
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vemmingbund",
-                  "text": "Vemmingbund egy strand a Dybbøl Banke közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        9.704018,
-                        54.897486
-                  ]
-            },
-            {
-                  "name": "Adsbøl Strand",
-                  "text": "Strand a Historiecenter Dybbøl Banke közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        9.62693,
-                        54.935135
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vemmingbund",
-                  "text": "Vemmingbund este o plajă situată în apropiere de Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.704018,
-                        54.897486
-                  ]
-            },
-            {
-                  "name": "Adsbøl Strand",
-                  "text": "Plajă în apropierea centrului istoric Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.62693,
-                        54.935135
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vemmingbund",
-                  "text": "Vemmingbund is a beach near Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.704018,
-                        54.897486
-                  ]
-            },
-            {
-                  "name": "Adsbøl Strand",
-                  "text": "Beach near the Historiecenter Dybbøl Banke.",
-                  "category": "recreational",
-                  "coords": [
-                        9.62693,
-                        54.935135
-                  ]
-            }
-      ]
-},
+ id: "hist-dybbol-banke", "sights": {"de": [{"name": "Vemmingbund", "text": "Vemmingbund ist ein Strand in der Nähe von Dybbøl Banke.", "category": "recreational", "coords": [9.704018, 54.897486]}, {"name": "Adsbøl Strand", "text": "Eingebettet in die historische Region nahe der Dybbøl Banke ist der Adsbøl Strand ein friedlicher Rückzugsort am Wasser. Besucher finden hier ideale Bedingungen für ein kühles Bad in der Ostsee oder für entspanntes Sonnenbaden. Die beschauliche Atmosphäre verspricht eine echte Pause vom Trubel des Alltags. Ein Besuch in den Vormittagsstunden offenbart die volle landschaftliche Schönheit dieser Küste.", "category": "recreational", "coords": [9.62693, 54.935135]}], "hu": [{"name": "Vemmingbund", "text": "Vemmingbund egy strand a Dybbøl Banke közelében.", "category": "recreational", "coords": [9.704018, 54.897486]}, {"name": "Adsbøl Strand", "text": "A Dybbøl Banke közeli történelmi régióban elterülő Adsbøl Strand egy békés, vízparti menedék. A látogatók itt ideális feltételeket találnak egy hűsítő fürdőzéshez a Balti-tengerben vagy egy kis pihentető napozáshoz. A szemlélődő atmoszféra igazi szünetet garantál a mindennapok rohanásában. Egy délelőtti látogatás során feltárul e partszakasz teljes táji szépsége.", "category": "recreational", "coords": [9.62693, 54.935135]}], "ro": [{"name": "Vemmingbund", "text": "Vemmingbund este o plajă situată în apropiere de Dybbøl Banke.", "category": "recreational", "coords": [9.704018, 54.897486]}, {"name": "Adsbøl Strand", "text": "Integrată în regiunea istorică de lângă Dybbøl Banke, Adsbøl Strand este un refugiu liniștit pe malul apei. Vizitatorii vor găsi aici condiții ideale pentru o baie răcoroasă în Marea Baltică sau pentru o baie de soare relaxantă. Atmosfera contemplativă promite o adevărată pauză de la agitația vieții de zi cu zi. O vizită în orele dimineții dezvăluie întreaga frumusețe pitorească a acestei coaste.", "category": "recreational", "coords": [9.62693, 54.935135]}], "en": [{"name": "Vemmingbund", "text": "Vemmingbund is a beach near Dybbøl Banke.", "category": "recreational", "coords": [9.704018, 54.897486]}, {"name": "Adsbøl Strand", "text": "Nestled in the historic region near Dybbøl Banke, Adsbøl Strand serves as a deeply peaceful waterfront retreat. Visitors will easily find ideal conditions here for taking a cool bath in the Baltic Sea or for totally relaxed sunbathing. The contemplative atmosphere faithfully promises a genuine break from the hustle and bustle of everyday life. A visit during the morning hours fully reveals the scenic beauty of this coast.", "category": "recreational", "coords": [9.62693, 54.935135]}]},
  type: "historical",
  parent: "DK",
  coords: [9.6837, 54.9124],
@@ -18964,88 +16552,7 @@ export const denmarkNature: POI[] = [
  image: "/geo-images/denmark/himmelbjerget.webp",
  },
  {
- id: "nat-arreso", "sights": {
-      "de": [
-            {
-                  "name": "Stængehus Strand",
-                  "text": "Stængehus Strand liegt bei den Arresø-Naturgebieten.",
-                  "category": "recreational",
-                  "coords": [
-                        12.024885,
-                        56.039131
-                  ]
-            },
-            {
-                  "name": "Stængehus - Melby Strand",
-                  "text": "Stængehus - Melby Strand ist Teil der Naturlandschaft nahe Arresø.",
-                  "category": "recreational",
-                  "coords": [
-                        11.994233,
-                        56.025242
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stængehus Strand",
-                  "text": "A Stængehus Strand az Arresø természeti területek közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        12.024885,
-                        56.039131
-                  ]
-            },
-            {
-                  "name": "Stængehus - Melby Strand",
-                  "text": "A Stængehus - Melby Strand az Arresø melletti természetvédelmi terület része.",
-                  "category": "recreational",
-                  "coords": [
-                        11.994233,
-                        56.025242
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stængehus Strand",
-                  "text": "Plaja Stængehus este situată lângă zonele naturale Arresø.",
-                  "category": "recreational",
-                  "coords": [
-                        12.024885,
-                        56.039131
-                  ]
-            },
-            {
-                  "name": "Stængehus - Melby Strand",
-                  "text": "Plaja Stængehus - Melby face parte din peisajul natural de lângă Arresø.",
-                  "category": "recreational",
-                  "coords": [
-                        11.994233,
-                        56.025242
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stængehus Strand",
-                  "text": "Stængehus Strand is located near the Arresø natural areas.",
-                  "category": "recreational",
-                  "coords": [
-                        12.024885,
-                        56.039131
-                  ]
-            },
-            {
-                  "name": "Stængehus - Melby Strand",
-                  "text": "Stængehus - Melby Strand is part of the natural landscape near Arresø.",
-                  "category": "recreational",
-                  "coords": [
-                        11.994233,
-                        56.025242
-                  ]
-            }
-      ]
-},
+ id: "nat-arreso", "sights": {"de": [{"name": "Stængehus Strand", "text": "Der Stængehus Strand liegt eingebettet in die weiten Naturgebiete rund um den Arresø. Diese naturnahe Kulisse bietet Besuchern eine entspannte Atmosphäre für ausgedehnte Spaziergänge und ruhige Momente am Wasser. Ideal ist ein Besuch vor allem für alle, die abseits des großen Trubels Erholung suchen.", "category": "recreational", "coords": [12.024885, 56.039131]}, {"name": "Stængehus - Melby Strand", "text": "Als Teil der malerischen Naturlandschaft nahe dem Arresø fügt sich der Stængehus - Melby Strand harmonisch in seine Umgebung ein. Besucher können hier die unberührte Küstenstimmung genießen und sich beim Sonnenbaden oder Spazierengehen erholen. Wer die Natur liebt, wird an diesem ruhigen Küstenabschnitt besonders in den wärmeren Monaten eine herrliche Zeit verbringen.", "category": "recreational", "coords": [11.994233, 56.025242]}], "hu": [{"name": "Stængehus Strand", "text": "A Stængehus Strand az Arresø körüli kiterjedt természeti területek szívében fekszik. Ez a természetközeli környezet pihentető légkört biztosít hosszú sétákhoz és a vízparti nyugalom élvezetéhez. Érdemes ide ellátogatni mindazoknak, akik a nagy nyüzsgéstől távol keresnek felüdülést.", "category": "recreational", "coords": [12.024885, 56.039131]}, {"name": "Stængehus - Melby Strand", "text": "Az Arresø melletti festői természeti táj részeként a Stængehus - Melby Strand harmonikusan illeszkedik környezetébe. A látogatók itt élvezhetik az érintetlen partvidéki hangulatot, miközben napoznak vagy sétálnak egyet a szabadban. A természet kedvelői számára ez a csendes partszakasz különösen a melegebb hónapokban kínál csodás kikapcsolódást.", "category": "recreational", "coords": [11.994233, 56.025242]}], "ro": [{"name": "Stængehus Strand", "text": "Plaja Stængehus Strand este situată în mijlocul zonelor naturale extinse din jurul lacului Arresø. Acest cadru natural oferă vizitatorilor o atmosferă relaxantă, perfectă pentru plimbări lungi și momente de liniște pe malul apei. Este un refugiu minunat pentru cei care caută recreere departe de agitația cotidiană.", "category": "recreational", "coords": [12.024885, 56.039131]}, {"name": "Stængehus - Melby Strand", "text": "Ca parte a peisajului natural pitoresc din apropierea lacului Arresø, Stængehus - Melby Strand se integrează armonios în mediul său. Aici, vizitatorii se pot bucura de atmosfera de coastă neatinsă și se pot relaxa făcând plajă sau plimbându-se. Iubitorii de natură vor petrece un timp minunat pe această porțiune liniștită de coastă, mai ales în lunile calde.", "category": "recreational", "coords": [11.994233, 56.025242]}], "en": [{"name": "Stængehus Strand", "text": "Stængehus Strand is nestled within the expansive natural areas surrounding Lake Arresø. This nature-centric setting provides visitors with a relaxing atmosphere for long walks and quiet moments by the water. It makes a wonderful retreat for anyone seeking recreation away from the usual crowds.", "category": "recreational", "coords": [12.024885, 56.039131]}, {"name": "Stængehus - Melby Strand", "text": "As part of the picturesque natural landscape near Arresø, Stængehus - Melby Strand blends harmoniously into its surroundings. Visitors can enjoy the untouched coastal atmosphere here while relaxing by sunbathing or taking a walk. Nature lovers will have a wonderful time on this quiet stretch of coast, especially during the warmer months.", "category": "recreational", "coords": [11.994233, 56.025242]}]},
  type: "lake",
  parent: "DK",
  coords: [12.05, 56.03],

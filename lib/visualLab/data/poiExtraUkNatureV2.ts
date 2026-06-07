@@ -233,52 +233,7 @@ imageHint: "River Thames flowing through green English countryside",
     },
     image: "/poi-images/uk-river-thames-nature-v2.webp",
 },  {
-    id: "uk-the-needles-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Alum Bay Beach",
-                  "text": "Alum Bay Beach in der Nähe der Needles-Felsen.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.569528,
-                        50.66903
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Alum Bay Beach",
-                  "text": "Alum Bay Beach strand a Needles-sziklák közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.569528,
-                        50.66903
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Alum Bay Beach",
-                  "text": "Alum Bay Beach lângă stâncile Needles.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.569528,
-                        50.66903
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Alum Bay Beach",
-                  "text": "Alum Bay Beach near The Needles.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.569528,
-                        50.66903
-                  ]
-            }
-      ]
-},
+    id: "uk-the-needles-nature-v2", "sights": {"de": [{"name": "Alum Bay Beach", "text": "Gelegen in der Nähe der markanten Needles-Felsen, beeindruckt diese Bucht durch ihre dramatische Kulisse. Das Ufer lädt dazu ein, das faszinierende Zusammenspiel von Steilküste und Meer zu betrachten. Bei einem Spaziergang lässt sich die einzigartige geologische Atmosphäre der Insel spüren. Eine Kamera sollte bei diesem Ausflug definitiv nicht fehlen.", "category": "recreational", "coords": [-1.569528, 50.66903]}], "hu": [{"name": "Alum Bay Beach", "text": "A feltűnő Needles sziklák közelében fekvő öböl drámai hátterével nyűgöz le. A part a meredek partok és a tenger lenyűgöző kölcsönhatásának megfigyelésére hív. Egy séta során érezhető a sziget egyedülálló geológiai atmoszférája. Egy fényképezőgép semmiképpen sem hiányozhat erről a kirándulásról.", "category": "recreational", "coords": [-1.569528, 50.66903]}], "ro": [{"name": "Alum Bay Beach", "text": "Situat în apropiere de stâncile izbitoare Needles, acest golf impresionează prin fundalul său dramatic. Țărmul vă invită să observați interacțiunea fascinantă dintre coasta abruptă și mare. În timpul unei plimbări, se poate simți atmosfera geologică unică a insulei. O cameră foto cu siguranță nu ar trebui să lipsească în această excursie.", "category": "recreational", "coords": [-1.569528, 50.66903]}], "en": [{"name": "Alum Bay Beach", "text": "Located near the striking Needles rocks, this bay impresses with its dramatic backdrop. The shore invites you to observe the fascinating interplay between the steep cliffs and the sea. During a walk, one can truly feel the unique geological atmosphere of the island. A camera should definitely not be forgotten on this trip.", "category": "recreational", "coords": [-1.569528, 50.66903]}]},
     parent: "GB",
     type: "landmark",
     name: { de: "The Needles", hu: "The Needles", ro: "The Needles", en: "The Needles"},
@@ -508,88 +463,7 @@ imageHint: "Seven Sisters white chalk cliffs East Sussex",
     image: "/poi-images/uk-seven-sisters-nature-v2.webp",
 },
   {
-    id: "uk-white-cliffs-of-dover-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "St Margaret's Bay",
-                  "text": "St Margaret's Bay liegt unterhalb der White Cliffs of Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.386508,
-                        51.150602
-                  ]
-            },
-            {
-                  "name": "Langdon Beach",
-                  "text": "Ein Küstenabschnitt nahe den White Cliffs of Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.35069,
-                        51.133598
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "St Margaret's Bay",
-                  "text": "St Margaret's Bay a White Cliffs of Dover alatt található.",
-                  "category": "recreational",
-                  "coords": [
-                        1.386508,
-                        51.150602
-                  ]
-            },
-            {
-                  "name": "Langdon Beach",
-                  "text": "Partszakasz a White Cliffs of Dover közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        1.35069,
-                        51.133598
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "St Margaret's Bay",
-                  "text": "St Margaret's Bay este situată sub White Cliffs of Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.386508,
-                        51.150602
-                  ]
-            },
-            {
-                  "name": "Langdon Beach",
-                  "text": "O zonă de coastă în apropierea Stâncilor Albe din Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.35069,
-                        51.133598
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "St Margaret's Bay",
-                  "text": "St Margaret's Bay is located below the White Cliffs of Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.386508,
-                        51.150602
-                  ]
-            },
-            {
-                  "name": "Langdon Beach",
-                  "text": "A beach near the White Cliffs of Dover.",
-                  "category": "recreational",
-                  "coords": [
-                        1.35069,
-                        51.133598
-                  ]
-            }
-      ]
-},
+    id: "uk-white-cliffs-of-dover-nature-v2", "sights": {"de": [{"name": "St Margaret's Bay", "text": "St Margaret's Bay liegt unterhalb der White Cliffs of Dover.", "category": "recreational", "coords": [1.386508, 51.150602]}, {"name": "Langdon Beach", "text": "Direkt unter den ikonischen White Cliffs of Dover bietet dieser Strandabschnitt ein raues Naturerlebnis. Die imposanten weißen Kreidefelsen ragen majestätisch über der Küste auf und schaffen eine beeindruckende Umgebung. Besucher erwartet hier eine unvergessliche Kulisse für entspannte oder abenteuerliche Küstenwanderungen. Der Zugang erfordert etwas Trittsicherheit, lohnt sich aber für die fantastische Aussicht.", "category": "recreational", "coords": [1.35069, 51.133598]}], "hu": [{"name": "St Margaret's Bay", "text": "St Margaret's Bay a White Cliffs of Dover alatt található.", "category": "recreational", "coords": [1.386508, 51.150602]}, {"name": "Langdon Beach", "text": "Közvetlenül az ikonikus doveri fehér sziklák alatt ez a strandszakasz zord természeti élményt kínál. Az impozáns fehér krétasziklák fenségesen magasodnak a tengerpart fölé, lenyűgöző környezetet teremtve. A látogatókra egy felejthetetlen háttér vár a pihentető vagy kalandos tengerparti túrákhoz. A megközelítéshez biztos láb szükséges, de a fantasztikus kilátás miatt megéri.", "category": "recreational", "coords": [1.35069, 51.133598]}], "ro": [{"name": "St Margaret's Bay", "text": "St Margaret's Bay este situată sub White Cliffs of Dover.", "category": "recreational", "coords": [1.386508, 51.150602]}, {"name": "Langdon Beach", "text": "Chiar sub emblematicele Stânci Albe din Dover, această secțiune de plajă oferă o experiență naturală aspră. Stâncile albe și impunătoare de cretă se înalță maiestuos deasupra coastei, creând un mediu impresionant. Vizitatorii se pot aștepta la un cadru de neuitat pentru drumeții de coastă relaxante sau aventuroase. Accesul necesită o oarecare siguranță pe picioare, dar merită pentru priveliștea fantastică.", "category": "recreational", "coords": [1.35069, 51.133598]}], "en": [{"name": "St Margaret's Bay", "text": "St Margaret's Bay is located below the White Cliffs of Dover.", "category": "recreational", "coords": [1.386508, 51.150602]}, {"name": "Langdon Beach", "text": "Directly beneath the iconic White Cliffs of Dover, this stretch of beach offers a rugged nature experience. The imposing white chalk cliffs rise majestically above the coast, creating an impressive environment. Visitors can expect an unforgettable backdrop for relaxing or adventurous coastal hikes. Access requires some surefootedness but is well worth it for the fantastic views.", "category": "recreational", "coords": [1.35069, 51.133598]}]},
     parent: "GB",
     type: "landmark",
     name: { de: "White Cliffs of Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover"},

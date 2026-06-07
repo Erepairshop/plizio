@@ -947,52 +947,7 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "muara-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tanjung Batu Beach",
-                  "text": "Tanjung Batu Beach ist ein Strand in Muara.",
-                  "category": "recreational",
-                  "coords": [
-                        115.062006,
-                        5.039082
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tanjung Batu Beach",
-                  "text": "A Tanjung Batu Beach egy strand Muara városában.",
-                  "category": "recreational",
-                  "coords": [
-                        115.062006,
-                        5.039082
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tanjung Batu Beach",
-                  "text": "Tanjung Batu Beach este o plajă situată în Muara.",
-                  "category": "recreational",
-                  "coords": [
-                        115.062006,
-                        5.039082
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tanjung Batu Beach",
-                  "text": "Tanjung Batu Beach is a beach located in Muara.",
-                  "category": "recreational",
-                  "coords": [
-                        115.062006,
-                        5.039082
-                  ]
-            }
-      ]
-},
+    id: "muara-cities-v2", "sights": {"de": [{"name": "Tanjung Batu Beach", "text": "Der Tanjung Batu Beach in Muara ist ein friedvoller Sandstrand, der eine willkommene Auszeit vom Alltag an der Küste Bruneis bietet. Hier umgibt die Besucher eine ruhige, naturbelassene Atmosphäre, die ideal für ungestörte Momente am Meer ist. Die Weitläufigkeit des Strandes eignet sich hervorragend für lange Spaziergänge oder ein entspanntes Picknick mit Blick auf den Horizont. Ein Besuch am späten Nachmittag verspricht kühlere Temperaturen und ein wunderbares Licht.", "category": "recreational", "coords": [115.062006, 5.039082]}], "hu": [{"name": "Tanjung Batu Beach", "text": "A muarai Tanjung Batu Beach egy békés homokos strand, amely kellemes kikapcsolódást kínál Brunei partjainál a mindennapokból. A látogatókat itt csendes, természetes környezet veszi körül, amely ideális a zavartalan tengerparti pillanatokhoz. A strand tágassága kiválóan alkalmas hosszú sétákhoz vagy egy nyugodt piknikhez, miközben a horizontot fürsszük. A késő délutáni látogatás hűvösebb hőmérsékletet és csodálatos fényviszonyokat ígér.", "category": "recreational", "coords": [115.062006, 5.039082]}], "ro": [{"name": "Tanjung Batu Beach", "text": "Plaja Tanjung Batu din Muara este o plajă de nisip pașnică, care oferă o evadare binevenită din viața cotidiană pe coasta Bruneiului. Aici, vizitatorii sunt înconjurați de o atmosferă liniștită, naturală, ideală pentru momente netulburate la mare. Vasta întindere a plajei este perfectă pentru plimbări lungi sau pentru un picnic relaxant cu vedere la orizont. O vizită după-amiaza târziu promite temperaturi mai răcoroase și o lumină minunată.", "category": "recreational", "coords": [115.062006, 5.039082]}], "en": [{"name": "Tanjung Batu Beach", "text": "Tanjung Batu Beach in Muara is a peaceful sandy beach offering a welcome escape from daily life along the coast of Brunei. Visitors are surrounded by a quiet, natural atmosphere that is ideal for undisturbed moments by the sea. The vastness of the beach is perfect for long walks or a relaxing picnic while looking out at the horizon. Visiting in the late afternoon promises cooler temperatures and wonderful natural light.", "category": "recreational", "coords": [115.062006, 5.039082]}]},
     type: "city",
     parent: "BN-BM",
     coords: [115.0500, 5.0333],

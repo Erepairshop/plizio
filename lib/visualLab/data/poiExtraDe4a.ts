@@ -4469,6 +4469,15 @@ export const poiExtraDe4a: POI[] = [
                         8.584768,
                         53.535401
                   ]
+            },
+            {
+                  "name": "Freibad Grünhöfe",
+                  "text": "Dieses Freibad in Bremerhaven lädt Familien zum Schwimmen und zu Aktivitäten im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        8.615308,
+                        53.517551
+                  ]
             }
       ],
       "hu": [
@@ -4763,6 +4772,15 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.584768,
                         53.535401
+                  ]
+            },
+            {
+                  "name": "Freibad Grünhöfe",
+                  "text": "Ez a bremerhaveni strand úszásra és szabadtéri tevékenységekre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        8.615308,
+                        53.517551
                   ]
             }
       ],
@@ -5059,6 +5077,15 @@ export const poiExtraDe4a: POI[] = [
                         8.584768,
                         53.535401
                   ]
+            },
+            {
+                  "name": "Freibad Grünhöfe",
+                  "text": "Acest ștrand din Bremerhaven invită familiile la înot și activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.615308,
+                        53.517551
+                  ]
             }
       ],
       "en": [
@@ -5354,6 +5381,15 @@ export const poiExtraDe4a: POI[] = [
                         8.584768,
                         53.535401
                   ]
+            },
+            {
+                  "name": "Freibad Grünhöfe",
+                  "text": "This outdoor pool in Bremerhaven invites families for swimming and outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        8.615308,
+                        53.517551
+                  ]
             }
       ]
 }
@@ -5427,52 +5463,7 @@ export const poiExtraDe4a: POI[] = [
     }, image: "/poi-images/landmark-dom-bremen-extra.webp"},
 
   {
-    id: "industry-airbus-bremen-extra", "sights": {
-      "de": [
-            {
-                  "name": "Badestrand Silbersee",
-                  "text": "Der Badestrand Silbersee befindet sich in der Nähe des Airbus-Werks in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.747773,
-                        53.011706
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Badestrand Silbersee",
-                  "text": "A Silbersee strand a brémai Airbus-gyár közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        8.747773,
-                        53.011706
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Badestrand Silbersee",
-                  "text": "Plaja Silbersee este situată în apropierea fabricii Airbus din Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.747773,
-                        53.011706
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Badestrand Silbersee",
-                  "text": "The Silbersee beach is located near the Airbus factory in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.747773,
-                        53.011706
-                  ]
-            }
-      ]
-},
+    id: "industry-airbus-bremen-extra", "sights": {"de": [{"name": "Badestrand Silbersee", "text": "Unweit des Bremer Airbus-Werks lockt der Badestrand Silbersee als stadtnahe Oase der Erholung. Die ruhige Atmosphäre am Seeufer bietet einen tollen Ausgleich zum urbanen Trubel, perfekt für ein paar entspannte Stunden im Freien. Schwimmer und Sonnenanbeter finden hier gleichermaßen ihr Glück in unkomplizierter, nachbarschaftlicher Umgebung. An heißen Sommertagen ist dieser Strand ein beliebter Rückzugsort, weshalb ein früher Besuch angeraten ist.", "category": "recreational", "coords": [8.747773, 53.011706]}], "hu": [{"name": "Badestrand Silbersee", "text": "A brémai Airbus-gyártól nem messze található Badestrand Silbersee a városközeli pihenés oázisaként csábít. A tóparti nyugodt légkör nagyszerű ellensúlya a városi nyüzsgésnek, és tökéletes egy pár pihentető óra eltöltéséhez a szabadban. Az úszók és a napozni vágyók egyaránt megtalálják itt a számításukat az egyszerű, szomszédias környezetben. A forró nyári napokon ez a strand nagyon népszerű menedékhely, ezért korai látogatás javasolt.", "category": "recreational", "coords": [8.747773, 53.011706]}], "ro": [{"name": "Badestrand Silbersee", "text": "Nu departe de fabrica Airbus din Bremen, Badestrand Silbersee atrage ca o oază de recreere aproape de oraș. Atmosfera liniștită de pe malul lacului oferă un contrast minunat cu agitația urbană, fiind perfectă pentru câteva ore de relaxare în aer liber. Înotătorii și iubitorii de soare își găsesc deopotrivă fericirea aici, într-un mediu necomplicat și prietenos. În zilele fierbinți de vară, această plajă este o retragere populară, motiv pentru care este recomandată o vizită matinală.", "category": "recreational", "coords": [8.747773, 53.011706]}], "en": [{"name": "Badestrand Silbersee", "text": "Located just a short distance from the Airbus plant in Bremen, the Badestrand Silbersee calls out as a truly refreshing urban oasis. The tranquil atmosphere along the lakeshore provides a fantastic counterbalance to the city's hustle and bustle, perfect for a few relaxed hours outdoors. Swimmers and sun worshippers alike easily find their bliss here in an uncomplicated, distinctly neighborly environment. On sweltering summer days, this beach is a deeply popular retreat, so an early visit is definitely recommended.", "category": "recreational", "coords": [8.747773, 53.011706]}]},
     type: "industry",
     parent: "DE-HB",
     coords: [8.7860, 53.0480],
@@ -6088,6 +6079,69 @@ export const poiExtraDe4a: POI[] = [
                         8.818483,
                         53.085042
                   ]
+            },
+            {
+                  "name": "Bewegungsbad",
+                  "text": "Das Bewegungsbad im Viertel Bremen ist ein Schwimmbecken für gezielte körperliche Aktivität.",
+                  "category": "family",
+                  "coords": [
+                        8.80241,
+                        53.06972
+                  ]
+            },
+            {
+                  "name": "Hamam Bremen",
+                  "text": "Das Hamam Bremen bietet traditionelle Bademöglichkeiten zur Entspannung und Körperpflege.",
+                  "category": "family",
+                  "coords": [
+                        8.796738,
+                        53.081226
+                  ]
+            },
+            {
+                  "name": "Vitalbad",
+                  "text": "Das Vitalbad im Viertel Bremen ist eine öffentliche Badeeinrichtung für Erholung und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        8.884061,
+                        53.078469
+                  ]
+            },
+            {
+                  "name": "Studiobad",
+                  "text": "Das Studiobad im Viertel Bremen ist ein Schwimmbecken für sportliche Betätigung und Kurse.",
+                  "category": "family",
+                  "coords": [
+                        8.856526,
+                        53.107349
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee (FKK-Schwimmbereich)",
+                  "text": "Der Stadtwaldsee (FKK-Schwimmbereich) in Bremen bietet eine Zone für hüllenloses Baden in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        8.833936,
+                        53.111838
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee",
+                  "text": "Der Stadtwaldsee in Bremen ist ein Bereich für Schwimmen und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.831099,
+                        53.109759
+                  ]
+            },
+            {
+                  "name": "Freizeitklinik",
+                  "text": "Die Freizeitklinik in Bremen ist eine Anlage für Erholung und Freizeitgestaltung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
             }
       ],
       "hu": [
@@ -6437,6 +6491,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.818483,
                         53.085042
+                  ]
+            },
+            {
+                  "name": "Bewegungsbad",
+                  "text": "A brémai negyedben található Bewegungsbad egy medence a célzott fizikai aktivitáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.80241,
+                        53.06972
+                  ]
+            },
+            {
+                  "name": "Hamam Bremen",
+                  "text": "A brémai Hamam hagyományos fürdőzési lehetőségeket kínál a pihenéshez és testápoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.796738,
+                        53.081226
+                  ]
+            },
+            {
+                  "name": "Vitalbad",
+                  "text": "A brémai negyedben található Vitalbad egy nyilvános fürdőhely a pihenéshez és úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.884061,
+                        53.078469
+                  ]
+            },
+            {
+                  "name": "Studiobad",
+                  "text": "A brémai negyedben található Studiobad egy úszómedence sportoláshoz és tanfolyamokhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.856526,
+                        53.107349
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee (FKK-Schwimmbereich)",
+                  "text": "A brémai Stadtwaldsee FKK-úszórészlege lehetőséget nyújt a természetes fürdőzésre.",
+                  "category": "family",
+                  "coords": [
+                        8.833936,
+                        53.111838
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee",
+                  "text": "A brémai Stadtwaldsee egy vízparti terület az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.831099,
+                        53.109759
+                  ]
+            },
+            {
+                  "name": "Freizeitklinik",
+                  "text": "A brémai Freizeitklinik egy vízparti pihenő- és szabadidős létesítmény.",
+                  "category": "family",
+                  "coords": [
+                        8.773048,
+                        53.086134
                   ]
             }
       ],
@@ -6788,6 +6905,69 @@ export const poiExtraDe4a: POI[] = [
                         8.818483,
                         53.085042
                   ]
+            },
+            {
+                  "name": "Bewegungsbad",
+                  "text": "Bewegungsbad din Viertel Bremen este o piscină pentru activitate fizică țintită.",
+                  "category": "family",
+                  "coords": [
+                        8.80241,
+                        53.06972
+                  ]
+            },
+            {
+                  "name": "Hamam Bremen",
+                  "text": "Hamam Bremen oferă facilități tradiționale de scăldat pentru relaxare și îngrijire personală.",
+                  "category": "family",
+                  "coords": [
+                        8.796738,
+                        53.081226
+                  ]
+            },
+            {
+                  "name": "Vitalbad",
+                  "text": "Vitalbad din Viertel Bremen este o unitate publică de scăldat pentru recreere și înot.",
+                  "category": "family",
+                  "coords": [
+                        8.884061,
+                        53.078469
+                  ]
+            },
+            {
+                  "name": "Studiobad",
+                  "text": "Studiobad din Viertel Bremen este o piscină pentru activități sportive și cursuri.",
+                  "category": "family",
+                  "coords": [
+                        8.856526,
+                        53.107349
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee (FKK-Schwimmbereich)",
+                  "text": "Stadtwaldsee (zona de înot FKK) din Bremen oferă o zonă pentru scăldat fără haine în natură.",
+                  "category": "family",
+                  "coords": [
+                        8.833936,
+                        53.111838
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee",
+                  "text": "Stadtwaldsee din Bremen este o zonă pentru înot și relaxare la apă.",
+                  "category": "family",
+                  "coords": [
+                        8.831099,
+                        53.109759
+                  ]
+            },
+            {
+                  "name": "Freizeitklinik",
+                  "text": "Freizeitklinik din Bremen este o unitate pentru recreere și petrecere a timpului liber la apă.",
+                  "category": "family",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
             }
       ],
       "en": [
@@ -7137,6 +7317,69 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.818483,
                         53.085042
+                  ]
+            },
+            {
+                  "name": "Bewegungsbad",
+                  "text": "The Bewegungsbad in Das Viertel Bremen is a swimming pool for targeted physical activity.",
+                  "category": "family",
+                  "coords": [
+                        8.80241,
+                        53.06972
+                  ]
+            },
+            {
+                  "name": "Hamam Bremen",
+                  "text": "The Hamam Bremen offers traditional bathing facilities for relaxation and personal care.",
+                  "category": "family",
+                  "coords": [
+                        8.796738,
+                        53.081226
+                  ]
+            },
+            {
+                  "name": "Vitalbad",
+                  "text": "The Vitalbad in Das Viertel Bremen is a public bathing facility for recreation and swimming.",
+                  "category": "family",
+                  "coords": [
+                        8.884061,
+                        53.078469
+                  ]
+            },
+            {
+                  "name": "Studiobad",
+                  "text": "The Studiobad in Das Viertel Bremen is a swimming pool for sports activities and classes.",
+                  "category": "family",
+                  "coords": [
+                        8.856526,
+                        53.107349
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee (FKK-Schwimmbereich)",
+                  "text": "The Stadtwaldsee (FKK swimming area) in Das Viertel Bremen offers a zone for nude bathing in nature.",
+                  "category": "family",
+                  "coords": [
+                        8.833936,
+                        53.111838
+                  ]
+            },
+            {
+                  "name": "Stadtwaldsee",
+                  "text": "The Stadtwaldsee in Das Viertel Bremen is an area for swimming and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.831099,
+                        53.109759
+                  ]
+            },
+            {
+                  "name": "Freizeitklinik",
+                  "text": "The Freizeitklinik in Das Viertel Bremen is a facility for recreation and leisure by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.773048,
+                        53.086134
                   ]
             }
       ]

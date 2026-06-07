@@ -408,88 +408,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-vogns-hoje-relief-v2.webp",
   },
   {
-    id: "denmark-mols-kyst-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fuglsø Strand",
-                  "text": "Strand an der Küste der Region Mols.",
-                  "category": "recreational",
-                  "coords": [
-                        10.54342,
-                        56.181545
-                  ]
-            },
-            {
-                  "name": "Strands Strand",
-                  "text": "Strand an der Küste der Region Mols.",
-                  "category": "recreational",
-                  "coords": [
-                        10.485452,
-                        56.174071
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fuglsø Strand",
-                  "text": "Strand a Mols-partvidéken.",
-                  "category": "recreational",
-                  "coords": [
-                        10.54342,
-                        56.181545
-                  ]
-            },
-            {
-                  "name": "Strands Strand",
-                  "text": "Strand a Mols-partvidéken.",
-                  "category": "recreational",
-                  "coords": [
-                        10.485452,
-                        56.174071
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fuglsø Strand",
-                  "text": "Plajă pe coasta regiunii Mols.",
-                  "category": "recreational",
-                  "coords": [
-                        10.54342,
-                        56.181545
-                  ]
-            },
-            {
-                  "name": "Strands Strand",
-                  "text": "Plajă pe coasta regiunii Mols.",
-                  "category": "recreational",
-                  "coords": [
-                        10.485452,
-                        56.174071
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fuglsø Strand",
-                  "text": "Beach on the coast of the Mols region.",
-                  "category": "recreational",
-                  "coords": [
-                        10.54342,
-                        56.181545
-                  ]
-            },
-            {
-                  "name": "Strands Strand",
-                  "text": "Beach on the coast of the Mols region.",
-                  "category": "recreational",
-                  "coords": [
-                        10.485452,
-                        56.174071
-                  ]
-            }
-      ]
-},
+    id: "denmark-mols-kyst-relief-v2", "sights": {"de": [{"name": "Fuglsø Strand", "text": "An der Küste der Region Mols in Dänemark liegt der charmante Fuglsø Strand. Besucher erwartet ein idyllischer Küstenabschnitt, der zu erholsamen Spaziergängen und zum Entspannen am Wasser einlädt. Dieser Ort eignet sich hervorragend für einen ruhigen Ausflug während der wärmeren Jahreszeit.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand ist ein malerischer Küstenabschnitt in der Region Mols, Dänemark. Die Umgebung bietet ideale Bedingungen für einen entspannten Tag am Meer, sei es zum Sonnenbaden oder für ausgedehnte Strandspaziergänge. Ein Besuch am späten Nachmittag verspricht oft eine besonders schöne Atmosphäre.", "category": "recreational", "coords": [10.485452, 56.174071]}], "hu": [{"name": "Fuglsø Strand", "text": "A dániai Mols régió partján található a bájos Fuglsø Strand. A látogatókat egy idilli partszakasz várja, amely pihentető sétákra és a víz melletti kikapcsolódásra hívogat. Ez a hely kiválóan alkalmas egy csendes kirándulásra a melegebb hónapokban.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "A Strands Strand egy festői partszakasz a dániai Mols régióban. A környék ideális feltételeket kínál egy pihentető tengerparti naphoz, legyen szó napozásról vagy hosszú tengerparti sétákról. Késő délutáni látogatás esetén gyakran különösen szép hangulatra lehet számítani.", "category": "recreational", "coords": [10.485452, 56.174071]}], "ro": [{"name": "Fuglsø Strand", "text": "Pe coasta regiunii Mols din Danemarca se află fermecătoarea Fuglsø Strand. Vizitatorii sunt întâmpinați de o întindere idilică de coastă care îi invită la plimbări relaxante și la odihnă lângă apă. Acest loc este perfect pentru o ieșire liniștită în timpul sezonului cald.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand este o întindere pitorească de coastă din regiunea Mols, Danemarca. Împrejurimile oferă condiții ideale pentru o zi relaxantă la mare, fie pentru a face plajă, fie pentru plimbări lungi pe țărm. O vizită după-amiaza târziu promite adesea o atmosferă deosebit de frumoasă.", "category": "recreational", "coords": [10.485452, 56.174071]}], "en": [{"name": "Fuglsø Strand", "text": "Situated on the coast of the Mols region in Denmark, the charming Fuglsø Strand awaits visitors. Guests will find an idyllic stretch of coastline that invites for relaxing walks and unwinding by the water. This spot is perfectly suited for a quiet outing during the warmer months.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand is a picturesque stretch of coastline in the Mols region of Denmark. The surroundings offer ideal conditions for a relaxing day by the sea, whether for sunbathing or for taking long walks along the shore. A visit in the late afternoon often promises a particularly beautiful atmosphere.", "category": "recreational", "coords": [10.485452, 56.174071]}]},
     type: "landmark",
     parent: "DK",
     name: { de: "Mols Kyst", hu: "Mols Kyst", ro: "Mols Kyst", en: "Mols Kyst" },
@@ -579,52 +498,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-kragelund-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-fakse-kalkbrud-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Strandhoved strand",
-                  "text": "Strandhoved Strand liegt in der Nähe des Fakse Kalkbrud.",
-                  "category": "recreational",
-                  "coords": [
-                        12.152718,
-                        55.209306
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Strandhoved strand",
-                  "text": "Strandhoved strand a Fakse Kalkbrud közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        12.152718,
-                        55.209306
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Strandhoved strand",
-                  "text": "Strandhoved strand este situată în apropierea Fakse Kalkbrud.",
-                  "category": "recreational",
-                  "coords": [
-                        12.152718,
-                        55.209306
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Strandhoved strand",
-                  "text": "Strandhoved strand is located near the Fakse Kalkbrud.",
-                  "category": "recreational",
-                  "coords": [
-                        12.152718,
-                        55.209306
-                  ]
-            }
-      ]
-},
+    id: "denmark-fakse-kalkbrud-relief-v2", "sights": {"de": [{"name": "Strandhoved strand", "text": "In der Nähe des Kalkbruchs Fakse Kalkbrud in Dänemark lädt der Strandhoved Strand zum Verweilen ein. Die besondere landschaftliche Prägung der Region sorgt für ein interessantes Küstenerlebnis, das sich gut mit Erkundungen der Umgebung verbinden lässt. Für einen angenehmen Aufenthalt sollten Besucher bei gutem Wetter anreisen.", "category": "recreational", "coords": [12.152718, 55.209306]}], "hu": [{"name": "Strandhoved strand", "text": "A dániai Fakse Kalkbrud mészkőbánya közelében található Strandhoved Strand hívogat egy kis pihenésre. A régió különleges táji jellege érdekes tengerparti élményt nyújt, amely jól összekapcsolható a környék felfedezésével. A kellemes tartózkodás érdekében érdemes jó időben érkezni.", "category": "recreational", "coords": [12.152718, 55.209306]}], "ro": [{"name": "Strandhoved strand", "text": "În apropierea carierei de calcar Fakse Kalkbrud din Danemarca, Strandhoved Strand vă invită să zăboviți un pic. Caracterul peisagistic deosebit al regiunii asigură o experiență de coastă interesantă, care poate fi ușor combinată cu explorarea împrejurimilor. Pentru o ședere plăcută, vizitatorii ar trebui să ajungă când vremea este bună.", "category": "recreational", "coords": [12.152718, 55.209306]}], "en": [{"name": "Strandhoved strand", "text": "Located near the Fakse Kalkbrud limestone quarry in Denmark, Strandhoved Strand invites visitors to linger. The special landscape character of the region provides an interesting coastal experience that can be easily combined with exploring the surroundings. For a pleasant stay, visitors should plan their arrival during good weather.", "category": "recreational", "coords": [12.152718, 55.209306]}]},
     type: "landmark",
     parent: "DK",
     name: { de: "Fakse Kalkbrud", hu: "Fakse Kalkbrud", ro: "Fakse Kalkbrud", en: "Fakse Kalkbrud" },
@@ -804,52 +678,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-knudshoved-relief-v2.webp",
   },
   {
-    id: "denmark-borre-bakkekam-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Klintholm Havn Strand",
-                  "text": "Der Strand von Klintholm Havn liegt in der Nähe der Bakkekammen-Hügel bei Borre.",
-                  "category": "recreational",
-                  "coords": [
-                        12.47629,
-                        54.950835
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Klintholm Havn Strand",
-                  "text": "A Klintholm Havn strandja a Borre melletti Bakkekammen dombok közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        12.47629,
-                        54.950835
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Klintholm Havn Strand",
-                  "text": "Plaja Klintholm Havn este situată în apropierea dealurilor Bakkekammen de lângă Borre.",
-                  "category": "recreational",
-                  "coords": [
-                        12.47629,
-                        54.950835
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Klintholm Havn Strand",
-                  "text": "Klintholm Havn beach is situated near the Bakkekammen hills by Borre.",
-                  "category": "recreational",
-                  "coords": [
-                        12.47629,
-                        54.950835
-                  ]
-            }
-      ]
-},
+    id: "denmark-borre-bakkekam-relief-v2", "sights": {"de": [{"name": "Klintholm Havn Strand", "text": "Nahe der Bakkekammen-Hügel bei Borre in Dänemark erstreckt sich der Klintholm Havn Strand. Diese reizvolle Lage am Hafenort bietet Besuchern die Möglichkeit, maritime Eindrücke mit einem Aufenthalt am Sandstrand zu kombinieren. Wer die Gegend in Ruhe erkunden möchte, profitiert von einem Besuch außerhalb der Stoßzeiten.", "category": "recreational", "coords": [12.47629, 54.950835]}], "hu": [{"name": "Klintholm Havn Strand", "text": "A dániai Borre közelében fekvő Bakkekammen-dombok mellett húzódik a Klintholm Havn Strand. Ez a bájos kikötővárosi elhelyezkedés lehetőséget nyújt a látogatóknak, hogy a tengeri élményeket egy homokos strandon töltött pihenéssel ötvözzék. Aki nyugodtan szeretné felfedezni a környéket, annak érdemes a csúcsidőn kívül érkeznie.", "category": "recreational", "coords": [12.47629, 54.950835]}], "ro": [{"name": "Klintholm Havn Strand", "text": "Lângă dealurile Bakkekammen de lângă Borre, în Danemarca, se întinde Klintholm Havn Strand. Această locație fermecătoare de lângă port oferă vizitatorilor posibilitatea de a combina impresiile maritime cu o ședere pe plaja de nisip. Cei care doresc să exploreze zona în liniște vor profita de o vizită în afara orelor de vârf.", "category": "recreational", "coords": [12.47629, 54.950835]}], "en": [{"name": "Klintholm Havn Strand", "text": "Near the Bakkekammen hills by Borre in Denmark, you will find the Klintholm Havn Strand. This charming harbor location gives visitors the chance to combine maritime impressions with a stay on the sandy beach. Those wanting to explore the area in peace will benefit from visiting outside peak hours.", "category": "recreational", "coords": [12.47629, 54.950835]}]},
     type: "peak",
     parent: "DK",
     name: { de: "Borre Bakkekam", hu: "Borre Bakkekam", ro: "Borre Bakkekam", en: "Borre Bakkekam" },
@@ -1029,52 +858,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-dovre-hoje-relief-v2.webp",
   },
   {
-    id: "denmark-boserup-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Herslev Strand",
-                  "text": "Herslev Strand liegt in der grünen Umgebung von Boserup.",
-                  "category": "recreational",
-                  "coords": [
-                        11.98654,
-                        55.677822
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Herslev Strand",
-                  "text": "A Herslev Strand Boserup zöld környezetében található.",
-                  "category": "recreational",
-                  "coords": [
-                        11.98654,
-                        55.677822
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Herslev Strand",
-                  "text": "Plaja Herslev este situată în împrejurimile verzi ale localității Boserup.",
-                  "category": "recreational",
-                  "coords": [
-                        11.98654,
-                        55.677822
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Herslev Strand",
-                  "text": "Herslev Strand is located in the green surroundings of Boserup.",
-                  "category": "recreational",
-                  "coords": [
-                        11.98654,
-                        55.677822
-                  ]
-            }
-      ]
-},
+    id: "denmark-boserup-relief-v2", "sights": {"de": [{"name": "Herslev Strand", "text": "Umgeben von der grünen Landschaft von Boserup in Dänemark, ist der Herslev Strand ein wunderbarer Rückzugsort am Wasser. Die ruhige Umgebung eignet sich hervorragend für Besucher, die Natur und Erholung fernab des städtischen Trubels suchen. Für ein ungestörtes Erlebnis am Ufer lohnt es sich, frühzeitig einen Platz zu finden.", "category": "recreational", "coords": [11.98654, 55.677822]}], "hu": [{"name": "Herslev Strand", "text": "A dániai Boserup zöldellő tájával körülvett Herslev Strand egy csodálatos vízparti menedékhely. A nyugodt környezet kiválóan alkalmas azoknak a látogatóknak, akik természetre és kikapcsolódásra vágynak, távol a város zajától. A zavartalan parti élmény érdekében érdemes korán helyet találni.", "category": "recreational", "coords": [11.98654, 55.677822]}], "ro": [{"name": "Herslev Strand", "text": "Înconjurat de peisajul verde din Boserup, Danemarca, Herslev Strand este un refugiu minunat pe malul apei. Mediul liniștit este perfect pentru vizitatorii care caută natură și relaxare, departe de agitația orașului. Pentru o experiență netulburată pe țărm, merită să vă găsiți un loc devreme.", "category": "recreational", "coords": [11.98654, 55.677822]}], "en": [{"name": "Herslev Strand", "text": "Surrounded by the green landscape of Boserup in Denmark, Herslev Strand is a wonderful waterside retreat. The tranquil environment is perfectly suited for visitors seeking nature and relaxation away from the city bustle. For an undisturbed experience on the shore, it is worth arriving early to find a spot.", "category": "recreational", "coords": [11.98654, 55.677822]}]},
     type: "landmark",
     parent: "DK",
     name: { de: "Boserup", hu: "Boserup", ro: "Boserup", en: "Boserup" },
@@ -1389,52 +1173,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-vognserup-relief-v2.webp",
   },
   {
-    id: "denmark-mols-bjerge-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bogens Strand",
-                  "text": "Bogens Strand liegt in der schönen Landschaft von Mols Bjerge.",
-                  "category": "recreational",
-                  "coords": [
-                        10.579481,
-                        56.209736
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bogens Strand",
-                  "text": "A Bogens Strand Mols Bjerge gyönyörű táján fekszik.",
-                  "category": "recreational",
-                  "coords": [
-                        10.579481,
-                        56.209736
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bogens Strand",
-                  "text": "Plaja Bogens este situată în peisajul frumos al Mols Bjerge.",
-                  "category": "recreational",
-                  "coords": [
-                        10.579481,
-                        56.209736
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bogens Strand",
-                  "text": "Bogens Strand is located in the beautiful landscape of Mols Bjerge.",
-                  "category": "recreational",
-                  "coords": [
-                        10.579481,
-                        56.209736
-                  ]
-            }
-      ]
-},
+    id: "denmark-mols-bjerge-relief-v2", "sights": {"de": [{"name": "Bogens Strand", "text": "In der wunderschönen Landschaft des Nationalparks Mols Bjerge in Dänemark erwartet Sie der Bogens Strand. Dieses idyllische Fleckchen Küste lädt Besucher dazu ein, inmitten der Natur spazieren zu gehen oder einfach nur am Wasser zu verweilen. Besonders im späten Frühling oder Sommer ist dies ein großartiges Ausflugsziel für Naturliebhaber.", "category": "recreational", "coords": [10.579481, 56.209736]}], "hu": [{"name": "Bogens Strand", "text": "A dániai Mols Bjerge lenyűgöző táján várja Önt a Bogens Strand. Ez az idilli partszakasz arra invitálja a látogatókat, hogy sétáljanak a természet lágy ölén, vagy egyszerűen csak időzzenek a víz mellett. Késő tavasszal és nyáron ez egy különösen nagyszerű kirándulóhely a természetkedvelők számára.", "category": "recreational", "coords": [10.579481, 56.209736]}], "ro": [{"name": "Bogens Strand", "text": "În peisajul minunat al Mols Bjerge din Danemarca vă așteaptă Bogens Strand. Această întindere idilică de coastă invită vizitatorii să se plimbe în mijlocul naturii sau pur și simplu să se relaxeze lângă apă. Mai ales la sfârșitul primăverii sau vara, aceasta este o destinație excelentă de excursie pentru iubitorii de natură.", "category": "recreational", "coords": [10.579481, 56.209736]}], "en": [{"name": "Bogens Strand", "text": "Set in the beautiful landscape of Mols Bjerge in Denmark, Bogens Strand awaits your visit. This idyllic stretch of coastline invites guests to take walks surrounded by nature or simply relax by the water. Especially in late spring or summer, this is a great excursion destination for nature lovers.", "category": "recreational", "coords": [10.579481, 56.209736]}]},
     type: "mountain",
     parent: "DK",
     name: { de: "Mols Bjerge", hu: "Mols Bjerge", ro: "Mols Bjerge", en: "Mols Bjerge" },
@@ -1974,52 +1713,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-kalundborg-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-odsherred-bakke-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gudmindrup Strand",
-                  "text": "Gudmindrup Strand befindet sich in der hügeligen Gegend von Odsherred.",
-                  "category": "recreational",
-                  "coords": [
-                        11.526105,
-                        55.898506
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gudmindrup Strand",
-                  "text": "A Gudmindrup Strand Odsherred dombos vidékén található.",
-                  "category": "recreational",
-                  "coords": [
-                        11.526105,
-                        55.898506
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gudmindrup Strand",
-                  "text": "Plaja Gudmindrup este situată în zona deluroasă Odsherred.",
-                  "category": "recreational",
-                  "coords": [
-                        11.526105,
-                        55.898506
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gudmindrup Strand",
-                  "text": "Gudmindrup Strand is located in the hilly area of Odsherred.",
-                  "category": "recreational",
-                  "coords": [
-                        11.526105,
-                        55.898506
-                  ]
-            }
-      ]
-},
+    id: "denmark-odsherred-bakke-relief-v2", "sights": {"de": [{"name": "Gudmindrup Strand", "text": "In der hügeligen Landschaft von Odsherred in Dänemark ist der Gudmindrup Strand ein beliebtes Ziel an der Küste. Die weitläufige Strandlandschaft lockt Besucher an, die das Meer genießen und sich in der Sonne entspannen möchten. Ein Besuch während der warmen Sommermonate garantiert meist ideale Bedingungen für Strandliebhaber.", "category": "recreational", "coords": [11.526105, 55.898506]}], "hu": [{"name": "Gudmindrup Strand", "text": "A dániai Odsherred dombos vidékén található Gudmindrup Strand egy népszerű tengerparti célpont. A tágas partszakasz vonzza azokat a látogatókat, akik élvezni szeretnék a tengert és a napsütést. A meleg nyári hónapokban tett látogatás általában ideális feltételeket biztosít a strandolás szerelmeseinek.", "category": "recreational", "coords": [11.526105, 55.898506]}], "ro": [{"name": "Gudmindrup Strand", "text": "În regiunea deluroasă Odsherred din Danemarca, Gudmindrup Strand este o destinație de coastă foarte populară. Peisajul extins al plajei atrage vizitatorii care doresc să se bucure de mare și să se relaxeze la soare. O vizită în timpul lunilor calde de vară garantează, de obicei, condiții ideale pentru iubitorii de plajă.", "category": "recreational", "coords": [11.526105, 55.898506]}], "en": [{"name": "Gudmindrup Strand", "text": "Located in the hilly region of Odsherred in Denmark, Gudmindrup Strand is a popular coastal destination. The expansive beach landscape attracts visitors looking to enjoy the sea and relax in the sun. Visiting during the warm summer months usually guarantees ideal conditions for beach lovers.", "category": "recreational", "coords": [11.526105, 55.898506]}]},
     type: "peak",
     parent: "DK",
     name: { de: "Odsherred Bakke", hu: "Odsherred Bakke", ro: "Odsherred Bakke", en: "Odsherred Bakke" },
@@ -2109,52 +1803,7 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-naestved-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-vordingborg-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ore Strand",
-                  "text": "Ore Strand ist ein Küstenabschnitt bei Vordingborg.",
-                  "category": "recreational",
-                  "coords": [
-                        11.871371,
-                        55.006706
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ore Strand",
-                  "text": "Ore Strand egy tengerparti szakasz Vordingborg közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        11.871371,
-                        55.006706
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ore Strand",
-                  "text": "Ore Strand este o secțiune de coastă lângă Vordingborg.",
-                  "category": "recreational",
-                  "coords": [
-                        11.871371,
-                        55.006706
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ore Strand",
-                  "text": "Ore Strand is a coastal section near Vordingborg.",
-                  "category": "recreational",
-                  "coords": [
-                        11.871371,
-                        55.006706
-                  ]
-            }
-      ]
-},
+    id: "denmark-vordingborg-relief-v2", "sights": {"de": [{"name": "Ore Strand", "text": "Der Ore Strand bietet einen reizvollen Küstenabschnitt nahe den Hügeln von Vordingborg in Dänemark. Hier finden Einheimische und Besucher gleichermaßen einen Ort, um am Wasser durchzuatmen und das Küstenflair auf sich wirken zu lassen. Am besten lässt sich die ruhige Stimmung bei einem frühen Morgenspaziergang einfangen.", "category": "recreational", "coords": [11.871371, 55.006706]}], "hu": [{"name": "Ore Strand", "text": "Az Ore Strand egy bájos partszakasz a dániai Vordingborg dombjai közelében. Itt a helyiek és a látogatók egyaránt találhatnak egy helyet, ahol a vízparton fellélegezhetnek és élvezhetik a parti hangulatot. A békés atmoszférát a legjobban egy kora reggeli séta során lehet megtapasztalni.", "category": "recreational", "coords": [11.871371, 55.006706]}], "ro": [{"name": "Ore Strand", "text": "Ore Strand oferă o secțiune de coastă fermecătoare în apropierea dealurilor din Vordingborg, Danemarca. Aici, localnicii și vizitatorii găsesc deopotrivă un loc pentru a respira adânc lângă apă și pentru a se bucura de atmosfera de coastă. Cel mai bun mod de a capta starea de spirit liniștită este în timpul unei plimbări matinale.", "category": "recreational", "coords": [11.871371, 55.006706]}], "en": [{"name": "Ore Strand", "text": "Ore Strand offers a charming stretch of coast near the hills of Vordingborg in Denmark. Here, locals and visitors alike can find a place to take a deep breath by the water and soak up the coastal flair. The peaceful mood is best captured during an early morning stroll.", "category": "recreational", "coords": [11.871371, 55.006706]}]},
     type: "peak",
     parent: "DK",
     name: { de: "Vordingborg Bakke", hu: "Vordingborg Bakke", ro: "Vordingborg Bakke", en: "Vordingborg Bakke" },

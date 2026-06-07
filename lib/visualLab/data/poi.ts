@@ -3497,332 +3497,7 @@ export const pois: POI[] = [
       fr: ["Mayence compte environ 220 000 habitants (chiffres 2023).", "La ville fut fondée en 13 av. J.-C. sous le nom de Mogontiacum.", "La cathédrale de Mayence possède six tours.", "Le musée Gutenberg a été fondé en 1900.", "Mayence est la plus grande ville viticole d'Allemagne.", "Les sites SchUM ont été inscrits au patrimoine mondial de l'UNESCO en 2021."],
     
       "tr": ["Mainz'ın yaklaşık 220.000 nüfusu vardır (2023 verileri).", "Şehir M.Ö. 13 yılında Mogontiacum adıyla kurulmuştur.", "Mainz Domu'nun altı kulesi vardır.", "Gutenberg Müzesi 1900 yılında kurulmuştur.", "Mainz, Almanya'nın en büyük bağcılık şehridir.", "ShUM alanları 2021 yılında UNESCO Dünya Mirası listesine alınmıştır."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Mainzer Dom St. Martin",
-                  "text": "Der über 1000 Jahre alte romanische Dom mit seinen sechs Türmen ist das markanteste Wahrzeichen der rheinland-pfälzischen Landeshauptstadt.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        8.273831,
-                        49.998875
-                  ]
-            },
-            {
-                  "name": "Gutenberg-Museum",
-                  "text": "Dieses Weltmuseum der Druckkunst präsentiert die Geschichte der Schrift und zeigt zwei der berühmten Original-Bibeln von Johannes Gutenberg.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.275278,
-                        49.999722
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Schloss",
-                  "text": "Die ehemalige Residenz der Mainzer Erzbischöfe beeindruckt durch ihre prachtvolle rote Sandsteinfassade im Stil der deutschen Renaissance.",
-                  "category": "residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.27056,
-                        50.0067
-                  ]
-            },
-            {
-                  "name": "Mainzer Marktplatz",
-                  "text": "Der zentrale Platz am Dom wird von historischen Bürgerhäusern gesäumt und beherbergt den Renaissance-Marktbrunnen, einen der ältesten seiner Art.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        8.262844,
-                        50.002233
-                  ]
-            },
-            {
-                  "name": "Zitadelle Mainz",
-                  "text": "Die barocke Festungsanlage auf dem Jakobsberg zeugt von der militärischen Bedeutung der Stadt und bietet heute Raum für Museen und Kultur.",
-                  "category": "fortresses",
-                  "confidence": "high",
-                  "coords": [
-                        8.27417,
-                        49.9931
-                  ]
-            },
-            {
-                  "name": "Fastnachtsbrunnen",
-                  "text": "Das fast neun Meter hohe Denkmal am Schillerplatz zeigt über 200 Bronzefiguren, die die lebendige Tradition der Mainzer Fastnacht darstellen.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        8.26806,
-                        49.998
-                  ]
-            },
-            {
-                  "name": "Rheinufer Mainz",
-                  "text": "Die weitläufige Promenade am Fluss ist ein beliebter Treffpunkt zum Spazierengehen und bietet einen herrlichen Blick auf den Rhein und Hessen.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "coords": [
-                        8.270344,
-                        50.008233
-                  ]
-            },
-            {
-                  "name": "Strand Bastion von Schönborn",
-                  "text": "Der Strand Bastion von Schönborn liegt in Mainz.",
-                  "category": "recreational",
-                  "coords": [
-                        8.280544,
-                        50.006502
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mainzi Szent Márton-dóm",
-                  "text": "A több mint 1000 éves román stílusú dóm hat tornyával Rajna-vidék-Pfalz tartományi székhelyének legmeghatározóbb jelképe és építészeti emléke.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        8.273831,
-                        49.998875
-                  ]
-            },
-            {
-                  "name": "Gutenberg-múzeum",
-                  "text": "A nyomtatóművészet világmúzeuma bemutatja az írás történetét, és itt látható Johannes Gutenberg híres eredeti Bibliájának két példánya is.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.275278,
-                        49.999722
-                  ]
-            },
-            {
-                  "name": "Választófejedelmi kastély",
-                  "text": "A mainzi érsekek egykori rezidenciája a német reneszánsz stílusban épült, lenyűgöző vörös homokkő homlokzatával a város egyik legszebb épülete.",
-                  "category": "residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.27056,
-                        50.0067
-                  ]
-            },
-            {
-                  "name": "Mainzi piactér",
-                  "text": "A dóm melletti központi teret történelmi polgárházak övezik, itt található Németország egyik legrégebbi reneszánsz stílusú piaci kútja.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        8.262844,
-                        50.002233
-                  ]
-            },
-            {
-                  "name": "Mainzi citadella",
-                  "text": "A Jakobsbergen található barokk erődítmény a város katonai múltjának tanúja, ma múzeumoknak és kulturális rendezvényeknek ad otthont.",
-                  "category": "fortresses",
-                  "confidence": "high",
-                  "coords": [
-                        8.27417,
-                        49.9931
-                  ]
-            },
-            {
-                  "name": "Karnevál-kút",
-                  "text": "A Schillerplatzon álló, közel kilenc méter magas emlékmű több mint 200 bronzfigurája a híres mainzi karnevál vidám hagyományait mutatja be.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        8.26806,
-                        49.998
-                  ]
-            },
-            {
-                  "name": "Rajna-parti sétány",
-                  "text": "A folyó menti tágas sétány a helyiek kedvenc találkozóhelye, ahonnan csodás kilátás nyílik a Rajnára és a túlparton fekvő Hessen tartományra.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "coords": [
-                        8.270344,
-                        50.008233
-                  ]
-            },
-            {
-                  "name": "Strand Bastion von Schönborn",
-                  "text": "A Strand Bastion von Schönborn strand Mainzban található.",
-                  "category": "recreational",
-                  "coords": [
-                        8.280544,
-                        50.006502
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Catedrala Sfântul Martin din Mainz",
-                  "text": "Această catedrală romanică veche de peste 1000 de ani, cu cele șase turnuri ale sale, este cel mai important simbol al orașului Mainz.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        8.273831,
-                        49.998875
-                  ]
-            },
-            {
-                  "name": "Muzeul Gutenberg",
-                  "text": "Muzeul mondial al artei tipografice prezintă istoria scrisului și expune două exemplare originale ale celebrei Biblii tipărite de Johannes Gutenberg.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.275278,
-                        49.999722
-                  ]
-            },
-            {
-                  "name": "Palatul Electoral",
-                  "text": "Fosta reședință a electorilor din Mainz impresionează prin fațada sa splendidă din gresie roșie, construită în stilul Renașterii germane.",
-                  "category": "residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.27056,
-                        50.0067
-                  ]
-            },
-            {
-                  "name": "Piața Centrală din Mainz",
-                  "text": "Piața centrală de lângă catedrală este mărginită de case istorice și găzduiește o fântână renascentistă, una dintre cele mai vechi din regiune.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        8.262844,
-                        50.002233
-                  ]
-            },
-            {
-                  "name": "Citadela din Mainz",
-                  "text": "Fortăreața barocă situată pe dealul Jakobsberg atestă importanța militară a orașului, fiind astăzi un spațiu dedicat muzeelor și culturii.",
-                  "category": "fortresses",
-                  "confidence": "high",
-                  "coords": [
-                        8.27417,
-                        49.9931
-                  ]
-            },
-            {
-                  "name": "Fântâna Carnavalului",
-                  "text": "Acest monument de aproape nouă metri înălțime din Piața Schiller cuprinde peste 200 de figuri de bronz ce reprezintă tradiția carnavalului.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        8.26806,
-                        49.998
-                  ]
-            },
-            {
-                  "name": "Faleza Rinului din Mainz",
-                  "text": "Promenada spațioasă de pe malul fluviului este un loc popular de întâlnire, oferind o priveliște minunată asupra Rinului și a landului Hessa.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "coords": [
-                        8.270344,
-                        50.008233
-                  ]
-            },
-            {
-                  "name": "Strand Bastion von Schönborn",
-                  "text": "Plaja Bastion von Schönborn este situată în Mainz.",
-                  "category": "recreational",
-                  "coords": [
-                        8.280544,
-                        50.006502
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mainz Cathedral of St. Martin",
-                  "text": "This over 1000-year-old Romanesque cathedral with its six towers is the most prominent landmark of the capital of Rhineland-Palatinate.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        8.273831,
-                        49.998875
-                  ]
-            },
-            {
-                  "name": "Gutenberg Museum",
-                  "text": "The world museum of printing arts showcases the history of writing and features two original copies of Johannes Gutenberg's famous Bible.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.275278,
-                        49.999722
-                  ]
-            },
-            {
-                  "name": "Electoral Palace",
-                  "text": "The former residence of the Electors of Mainz stands out with its magnificent red sandstone facade in the German Renaissance style.",
-                  "category": "residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.27056,
-                        50.0067
-                  ]
-            },
-            {
-                  "name": "Mainz Market Square",
-                  "text": "The central square next to the cathedral is lined with historic townhouses and features a Renaissance fountain, one of the oldest of its kind.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        8.262844,
-                        50.002233
-                  ]
-            },
-            {
-                  "name": "Mainz Citadel",
-                  "text": "This Baroque fortress on the Jakobsberg hill testifies to the city's military history and now hosts museums and cultural events.",
-                  "category": "fortresses",
-                  "confidence": "high",
-                  "coords": [
-                        8.27417,
-                        49.9931
-                  ]
-            },
-            {
-                  "name": "Carnival Fountain",
-                  "text": "This nearly nine-meter-high monument in Schillerplatz features over 200 bronze figures depicting the lively traditions of the Mainz Carnival.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        8.26806,
-                        49.998
-                  ]
-            },
-            {
-                  "name": "Rhine Promenade Mainz",
-                  "text": "The spacious riverside walkway is a popular meeting spot, offering great views of the Rhine river and the neighboring state of Hesse.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "coords": [
-                        8.270344,
-                        50.008233
-                  ]
-            },
-            {
-                  "name": "Strand Bastion von Schönborn",
-                  "text": "Bastion von Schönborn beach is located in Mainz.",
-                  "category": "recreational",
-                  "coords": [
-                        8.280544,
-                        50.006502
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Mainzer Dom St. Martin", "text": "Der über 1000 Jahre alte romanische Dom mit seinen sechs Türmen ist das markanteste Wahrzeichen der rheinland-pfälzischen Landeshauptstadt.", "category": "churches", "confidence": "high", "coords": [8.273831, 49.998875]}, {"name": "Gutenberg-Museum", "text": "Dieses Weltmuseum der Druckkunst präsentiert die Geschichte der Schrift und zeigt zwei der berühmten Original-Bibeln von Johannes Gutenberg.", "category": "museums", "confidence": "high", "coords": [8.275278, 49.999722]}, {"name": "Kurfürstliches Schloss", "text": "Die ehemalige Residenz der Mainzer Erzbischöfe beeindruckt durch ihre prachtvolle rote Sandsteinfassade im Stil der deutschen Renaissance.", "category": "residences", "confidence": "high", "coords": [8.27056, 50.0067]}, {"name": "Mainzer Marktplatz", "text": "Der zentrale Platz am Dom wird von historischen Bürgerhäusern gesäumt und beherbergt den Renaissance-Marktbrunnen, einen der ältesten seiner Art.", "category": "squares", "confidence": "high", "coords": [8.262844, 50.002233]}, {"name": "Zitadelle Mainz", "text": "Die barocke Festungsanlage auf dem Jakobsberg zeugt von der militärischen Bedeutung der Stadt und bietet heute Raum für Museen und Kultur.", "category": "fortresses", "confidence": "high", "coords": [8.27417, 49.9931]}, {"name": "Fastnachtsbrunnen", "text": "Das fast neun Meter hohe Denkmal am Schillerplatz zeigt über 200 Bronzefiguren, die die lebendige Tradition der Mainzer Fastnacht darstellen.", "category": "monuments", "confidence": "high", "coords": [8.26806, 49.998]}, {"name": "Rheinufer Mainz", "text": "Die weitläufige Promenade am Fluss ist ein beliebter Treffpunkt zum Spazierengehen und bietet einen herrlichen Blick auf den Rhein und Hessen.", "category": "promenades", "confidence": "high", "coords": [8.270344, 50.008233]}, {"name": "Strand Bastion von Schönborn", "text": "Am Ufer des Rheins gelegen, bringt der Strand der Bastion von Schönborn maritimes Flair in die historische Stadt Mainz. Besucher schätzen das lebhafte Ambiente, das zu geselligen Stunden im Liegestuhl mit Blick auf den vorbeiziehenden Schiffsverkehr einlädt. Für laue Sommerabende ist dieses Flussufer eine der schönsten Anlaufstellen der Region.", "category": "recreational", "coords": [8.280544, 50.006502]}], "hu": [{"name": "Mainzi Szent Márton-dóm", "text": "A több mint 1000 éves román stílusú dóm hat tornyával Rajna-vidék-Pfalz tartományi székhelyének legmeghatározóbb jelképe és építészeti emléke.", "category": "churches", "confidence": "high", "coords": [8.273831, 49.998875]}, {"name": "Gutenberg-múzeum", "text": "A nyomtatóművészet világmúzeuma bemutatja az írás történetét, és itt látható Johannes Gutenberg híres eredeti Bibliájának két példánya is.", "category": "museums", "confidence": "high", "coords": [8.275278, 49.999722]}, {"name": "Választófejedelmi kastély", "text": "A mainzi érsekek egykori rezidenciája a német reneszánsz stílusban épült, lenyűgöző vörös homokkő homlokzatával a város egyik legszebb épülete.", "category": "residences", "confidence": "high", "coords": [8.27056, 50.0067]}, {"name": "Mainzi piactér", "text": "A dóm melletti központi teret történelmi polgárházak övezik, itt található Németország egyik legrégebbi reneszánsz stílusú piaci kútja.", "category": "squares", "confidence": "high", "coords": [8.262844, 50.002233]}, {"name": "Mainzi citadella", "text": "A Jakobsbergen található barokk erődítmény a város katonai múltjának tanúja, ma múzeumoknak és kulturális rendezvényeknek ad otthont.", "category": "fortresses", "confidence": "high", "coords": [8.27417, 49.9931]}, {"name": "Karnevál-kút", "text": "A Schillerplatzon álló, közel kilenc méter magas emlékmű több mint 200 bronzfigurája a híres mainzi karnevál vidám hagyományait mutatja be.", "category": "monuments", "confidence": "high", "coords": [8.26806, 49.998]}, {"name": "Rajna-parti sétány", "text": "A folyó menti tágas sétány a helyiek kedvenc találkozóhelye, ahonnan csodás kilátás nyílik a Rajnára és a túlparton fekvő Hessen tartományra.", "category": "promenades", "confidence": "high", "coords": [8.270344, 50.008233]}, {"name": "Strand Bastion von Schönborn", "text": "A Rajna partján fekvő Bastion von Schönborn strand tengeri hangulatot varázsol a történelmi Mainz városába. A látogatók értékelik az élénk légkört, amely társasági órákra csábít a nyugágyakban, kilátással az elhaladó hajóforgalomra. A meleg nyári estékre ez a folyópart a régió egyik legszebb célpontja.", "category": "recreational", "coords": [8.280544, 50.006502]}], "ro": [{"name": "Catedrala Sfântul Martin din Mainz", "text": "Această catedrală romanică veche de peste 1000 de ani, cu cele șase turnuri ale sale, este cel mai important simbol al orașului Mainz.", "category": "churches", "confidence": "high", "coords": [8.273831, 49.998875]}, {"name": "Muzeul Gutenberg", "text": "Muzeul mondial al artei tipografice prezintă istoria scrisului și expune două exemplare originale ale celebrei Biblii tipărite de Johannes Gutenberg.", "category": "museums", "confidence": "high", "coords": [8.275278, 49.999722]}, {"name": "Palatul Electoral", "text": "Fosta reședință a electorilor din Mainz impresionează prin fațada sa splendidă din gresie roșie, construită în stilul Renașterii germane.", "category": "residences", "confidence": "high", "coords": [8.27056, 50.0067]}, {"name": "Piața Centrală din Mainz", "text": "Piața centrală de lângă catedrală este mărginită de case istorice și găzduiește o fântână renascentistă, una dintre cele mai vechi din regiune.", "category": "squares", "confidence": "high", "coords": [8.262844, 50.002233]}, {"name": "Citadela din Mainz", "text": "Fortăreața barocă situată pe dealul Jakobsberg atestă importanța militară a orașului, fiind astăzi un spațiu dedicat muzeelor și culturii.", "category": "fortresses", "confidence": "high", "coords": [8.27417, 49.9931]}, {"name": "Fântâna Carnavalului", "text": "Acest monument de aproape nouă metri înălțime din Piața Schiller cuprinde peste 200 de figuri de bronz ce reprezintă tradiția carnavalului.", "category": "monuments", "confidence": "high", "coords": [8.26806, 49.998]}, {"name": "Faleza Rinului din Mainz", "text": "Promenada spațioasă de pe malul fluviului este un loc popular de întâlnire, oferind o priveliște minunată asupra Rinului și a landului Hessa.", "category": "promenades", "confidence": "high", "coords": [8.270344, 50.008233]}, {"name": "Strand Bastion von Schönborn", "text": "Situată pe malul Rinului, plaja Bastion von Schönborn aduce un fler maritim în orașul istoric Mainz. Vizitatorii apreciază ambianța plină de viață, care îi invită să petreacă ore sociabile pe șezlonguri cu vedere la traficul naval care trece. Pentru serile calde de vară, acest mal al râului este una dintre cele mai frumoase destinații din regiune.", "category": "recreational", "coords": [8.280544, 50.006502]}], "en": [{"name": "Mainz Cathedral of St. Martin", "text": "This over 1000-year-old Romanesque cathedral with its six towers is the most prominent landmark of the capital of Rhineland-Palatinate.", "category": "churches", "confidence": "high", "coords": [8.273831, 49.998875]}, {"name": "Gutenberg Museum", "text": "The world museum of printing arts showcases the history of writing and features two original copies of Johannes Gutenberg's famous Bible.", "category": "museums", "confidence": "high", "coords": [8.275278, 49.999722]}, {"name": "Electoral Palace", "text": "The former residence of the Electors of Mainz stands out with its magnificent red sandstone facade in the German Renaissance style.", "category": "residences", "confidence": "high", "coords": [8.27056, 50.0067]}, {"name": "Mainz Market Square", "text": "The central square next to the cathedral is lined with historic townhouses and features a Renaissance fountain, one of the oldest of its kind.", "category": "squares", "confidence": "high", "coords": [8.262844, 50.002233]}, {"name": "Mainz Citadel", "text": "This Baroque fortress on the Jakobsberg hill testifies to the city's military history and now hosts museums and cultural events.", "category": "fortresses", "confidence": "high", "coords": [8.27417, 49.9931]}, {"name": "Carnival Fountain", "text": "This nearly nine-meter-high monument in Schillerplatz features over 200 bronze figures depicting the lively traditions of the Mainz Carnival.", "category": "monuments", "confidence": "high", "coords": [8.26806, 49.998]}, {"name": "Rhine Promenade Mainz", "text": "The spacious riverside walkway is a popular meeting spot, offering great views of the Rhine river and the neighboring state of Hesse.", "category": "promenades", "confidence": "high", "coords": [8.270344, 50.008233]}, {"name": "Strand Bastion von Schönborn", "text": "Situated on the banks of the Rhine, the Bastion von Schönborn beach brings maritime flair to the historic city of Mainz. Visitors appreciate the lively ambiance, which invites them to spend sociable hours in deckchairs overlooking the passing ship traffic. For balmy summer evenings, this riverbank is one of the most beautiful spots in the region.", "category": "recreational", "coords": [8.280544, 50.006502]}]}
   },
   {
     id: "city-saarbruecken",
@@ -7223,2783 +6898,7 @@ export const pois: POI[] = [
       fr: ["La construction de la cathédrale de Cologne a duré au total 632 ans (de 1248 à 1880).", "Cologne a été fondée en l'an 50 après J.-C. par les Romains sous le nom de CCAA.", "La ville compte plus de 1,1 million d'habitants et est la quatrième ville d'Allemagne.", "L'université de Cologne a été fondée dès l'année 1388.", "La cathédrale de Cologne abrite les reliques des Rois Mages.", "Cologne possède, avec 12 grandes églises romanes, une densité exceptionnelle d'édifices religieux."],
     
       "tr": ["Kölner Dom'un inşaatı toplam 632 yıl sürmüştür (1248'den 1880'e kadar).", "Köln, MS 50 yılında Romalılar tarafından CCAA adıyla kurulmuştur.", "Şehrin 1,1 milyondan fazla nüfusu vardır ve Almanya'nın dördüncü büyük şehridir.", "Universität zu Köln, henüz 1388 yılında kurulmuştur.", "Kölner Dom'da Üç Kral'ın (Heilige Drei Könige) kemikleri bulunmaktadır.", "Köln, 12 büyük Romanesk kilise ile olağanüstü bir dini yapı yoğunluğuna sahiptir."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Kölner Dom",
-                  "text": "Das UNESCO-Welterbe und Wahrzeichen der Stadt beeindruckt durch seine monumentale gotische Architektur.",
-                  "category": "church",
-                  "confidence": "high",
-                  "coords": [
-                        6.958333,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Hohenzollernbrücke",
-                  "text": "Die berühmte Eisenbahnbrücke ist bekannt für die tausenden Liebesschlösser und den Blick auf den Dom.",
-                  "category": "bridge",
-                  "confidence": "high",
-                  "coords": [
-                        6.965556,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Schokoladenmuseum",
-                  "text": "Direkt am Rhein gelegen, bietet das Museum spannende Einblicke in die Welt der Schokoladenherstellung.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.96427,
-                        50.9322
-                  ]
-            },
-            {
-                  "name": "Museum Ludwig",
-                  "text": "Ein bedeutendes Kunstmuseum für moderne Kunst, das unter anderem eine große Picasso-Sammlung beherbergt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.960278,
-                        50.940833
-                  ]
-            },
-            {
-                  "name": "Historisches Rathaus",
-                  "text": "Der prachtvolle Bau mit seinem markanten Rathausturm spiegelt die lange Geschichte der freien Reichsstadt wider.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        6.9593,
-                        50.938
-                  ]
-            },
-            {
-                  "name": "NS-Dokumentationszentrum",
-                  "text": "Ein Museum im ehemaligen EL-DE-Haus, das die Geschichte des Nationalsozialismus in Köln umfassend dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        6.950238,
-                        50.940565
-                  ]
-            },
-            {
-                  "name": "Gloria Theater",
-                  "text": "Ein traditionsreiches Veranstaltungshaus in einem ehemaligen Kino, bekannt für Konzerte und Comedy.",
-                  "category": "cultural",
-                  "coords": [
-                        6.944948,
-                        50.937488
-                  ]
-            },
-            {
-                  "name": "Hänneschen-Theater",
-                  "text": "Das traditionsreiche Stockpuppentheater der Stadt Köln befindet sich am Eisenmarkt in der Altstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961948,
-                        50.937088
-                  ]
-            },
-            {
-                  "name": "COMEDIA Theater",
-                  "text": "Ein Zentrum für Kinder- und Jugendtheater, das in einer ehemaligen Feuerwache untergebracht ist.",
-                  "category": "cultural",
-                  "coords": [
-                        6.955575,
-                        50.920559
-                  ]
-            },
-            {
-                  "name": "Praetorium",
-                  "text": "Die Ausgrabungsstätte zeigt die Ruinen des römischen Statthalterpalastes unter dem heutigen Rathaus.",
-                  "category": "historical",
-                  "coords": [
-                        6.958951,
-                        50.939018
-                  ]
-            },
-            {
-                  "name": "Theater am Dom",
-                  "text": "Eines der bekanntesten Boulevardtheater Deutschlands, das vor allem Komödien auf die Bühne bringt.",
-                  "category": "cultural",
-                  "coords": [
-                        6.95121,
-                        50.938634
-                  ]
-            },
-            {
-                  "name": "Theater im Bauturm",
-                  "text": "Ein freies Theater an der Aachener Straße, das für zeitgenössische Inszenierungen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        6.936448,
-                        50.936691
-                  ]
-            },
-            {
-                  "name": "Kölnisches Stadtmuseum",
-                  "text": "Das Museum dokumentiert die Geschichte der Stadt Köln vom Mittelalter bis in die Gegenwart.",
-                  "category": "museum",
-                  "coords": [
-                        6.954266,
-                        50.939021
-                  ]
-            },
-            {
-                  "name": "Kölnischer Kunstverein",
-                  "text": "Ein Kunstverein, der sich der Vermittlung zeitgenössischer Kunst durch Ausstellungen widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.943953,
-                        50.93609
-                  ]
-            },
-            {
-                  "name": "Tiefrot",
-                  "text": "Ein kleines Privattheater in Köln, das ein abwechslungsreiches Programm aus Schauspiel und Kabarett bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960011,
-                        50.948271
-                  ]
-            },
-            {
-                  "name": "Senftöpfchen",
-                  "text": "Das traditionsreiche Kabarett-Theater in der Kölner Altstadt ist bekannt für Satire und Kleinkunst.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960587,
-                        50.939668
-                  ]
-            },
-            {
-                  "name": "Jawne",
-                  "text": "Der Lern- und Gedenkort erinnert an die Geschichte der ehemaligen jüdischen Schule Jawne in Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.944688,
-                        50.939881
-                  ]
-            },
-            {
-                  "name": "Deutsches Tanzarchiv",
-                  "text": "Ein Museum und Archiv in Köln, das sich der Geschichte und Dokumentation der Tanzkunst widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.94339,
-                        50.948693
-                  ]
-            },
-            {
-                  "name": "Käthe Kollwitz Museum",
-                  "text": "Das Museum beherbergt eine der weltweit umfangreichsten Sammlungen der Künstlerin Käthe Kollwitz.",
-                  "category": "museum",
-                  "coords": [
-                        6.946165,
-                        50.93667
-                  ]
-            },
-            {
-                  "name": "Rautenstrauch-Joest-Museum",
-                  "text": "Ein bedeutendes ethnologisches Museum in Köln mit Exponaten aus verschiedenen Weltkulturen.",
-                  "category": "museum",
-                  "coords": [
-                        6.950437,
-                        50.934696
-                  ]
-            },
-            {
-                  "name": "Barbarastollen",
-                  "text": "Eine originalgetreue Rekonstruktion eines Bergbaustollens unter dem Gelände der Universität zu Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.929304,
-                        50.928289
-                  ]
-            },
-            {
-                  "name": "Geomuseum",
-                  "text": "Das geowissenschaftliche Museum der Universität zu Köln präsentiert geologische und mineralogische Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        6.934658,
-                        50.926887
-                  ]
-            },
-            {
-                  "name": "Kölner Zoo",
-                  "text": "Einer der ältesten Zoos Deutschlands, bekannt für seinen großen Elefantenpark und das Hippodom.",
-                  "category": "family",
-                  "coords": [
-                        6.976717,
-                        50.961155
-                  ]
-            },
-            {
-                  "name": "Musical Dome",
-                  "text": "Eine markante Spielstätte direkt am Rhein, die für große Musical-Produktionen in Köln bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961707,
-                        50.942815
-                  ]
-            },
-            {
-                  "name": "Deutsches Sport- und Olympiamuseum",
-                  "text": "Das Museum präsentiert die Geschichte des Sports von der Antike bis zur Gegenwart im Kölner Rheinauhafen.",
-                  "category": "museum",
-                  "coords": [
-                        6.964658,
-                        50.931173
-                  ]
-            },
-            {
-                  "name": "Fort IV",
-                  "text": "Teil der historischen Kölner Festungsanlage, der heute als Zeugnis der preußischen Verteidigungsarchitektur dient.",
-                  "category": "fortress",
-                  "coords": [
-                        6.943703,
-                        50.922458
-                  ]
-            },
-            {
-                  "name": "Alte Mensa",
-                  "text": "Das traditionsreiche Theater der Universität zu Köln dient als Bühne für studentische und freie Ensembles.",
-                  "category": "cultural",
-                  "coords": [
-                        6.931183,
-                        50.924423
-                  ]
-            },
-            {
-                  "name": "Geographie Rundbau",
-                  "text": "Ein markanter Rundbau in Köln, der heute als Teil des Geographischen Instituts der Universität genutzt wird.",
-                  "category": "fortress",
-                  "coords": [
-                        6.936415,
-                        50.927558
-                  ]
-            },
-            {
-                  "name": "Kölner Senfmuseum (b.a.W. geschlossen)",
-                  "text": "Ein Museum zur Kulturgeschichte des Senfs, das Einblicke in traditionelle Herstellungsmethoden gibt.",
-                  "category": "museum",
-                  "coords": [
-                        6.962482,
-                        50.932573
-                  ]
-            },
-            {
-                  "name": "The PhotoBookMuseum",
-                  "text": "Dieses Museum widmet sich der künstlerischen Gestaltung und der Geschichte von Fotobüchern.",
-                  "category": "museum",
-                  "coords": [
-                        6.921866,
-                        50.94819
-                  ]
-            },
-            {
-                  "name": "Römisch-Germanisches Museum im Belgischen Haus",
-                  "text": "Die archäologische Sammlung des Museums ist vorübergehend in den Räumen des Belgischen Hauses untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        6.950335,
-                        50.935628
-                  ]
-            },
-            {
-                  "name": "TimeRide",
-                  "text": "Eine Virtual-Reality-Attraktion, die die Geschichte Kölns durch digitale Zeitreisen erlebbar macht.",
-                  "category": "museum",
-                  "coords": [
-                        6.96041,
-                        50.938539
-                  ]
-            },
-            {
-                  "name": "Müllseum",
-                  "text": "Ein originelles Museum in Köln, das sich thematisch mit Abfallvermeidung und Recycling befasst.",
-                  "category": "museum",
-                  "coords": [
-                        6.991211,
-                        50.932224
-                  ]
-            },
-            {
-                  "name": "Agrippa-Bad",
-                  "text": "Ein großes Freizeitbad im Zentrum Kölns, das Schwimmbecken, Rutschen und Saunalandschaften bietet.",
-                  "category": "family",
-                  "coords": [
-                        6.951985,
-                        50.932619
-                  ]
-            },
-            {
-                  "name": "\"Odonien\" - Kunst-und Kulturpark",
-                  "text": "Ein vom Künstler Odo Rumpf geschaffener Kunstpark, der Skulpturenwerkstatt, Eventlocation und Kulturzentrum vereint.",
-                  "category": "family",
-                  "coords": [
-                        6.938769,
-                        50.954743
-                  ]
-            },
-            {
-                  "name": "Aquarium & Insektarium",
-                  "text": "Ein Teil des Kölner Zoos, der eine Vielzahl an Fischen, Reptilien und Insekten in verschiedenen Habitaten zeigt.",
-                  "category": "family",
-                  "coords": [
-                        6.972408,
-                        50.958449
-                  ]
-            },
-            {
-                  "name": "Weinmuseum",
-                  "text": "Ein Museum in Köln, das sich der Geschichte und Kultur des Weinbaus in der Region widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.967698,
-                        50.956408
-                  ]
-            },
-            {
-                  "name": "km 689 Cologne Beach Club",
-                  "text": "Ein beliebter Beachclub am Rheinufer in Köln mit Sandstrand und Blick auf den Dom.",
-                  "category": "recreational",
-                  "coords": [
-                        6.970747,
-                        50.946753
-                  ]
-            },
-            {
-                  "name": "Lysolphturm",
-                  "text": "Überreste eines historischen Turms der mittelalterlichen Stadtbefestigung in der Kölner Altstadt.",
-                  "category": "historical",
-                  "coords": [
-                        6.953156,
-                        50.941418
-                  ]
-            },
-            {
-                  "name": "Rheingarten",
-                  "text": "Eine gepflegte Parkanlage direkt am Rheinufer zwischen der Altstadt und dem Fluss.",
-                  "category": "park",
-                  "coords": [
-                        6.962563,
-                        50.938801
-                  ]
-            },
-            {
-                  "name": "Rheinpark",
-                  "text": "Ein weitläufiger Landschaftspark am rechten Rheinufer, der für die Bundesgartenschau angelegt wurde.",
-                  "category": "park",
-                  "coords": [
-                        6.975994,
-                        50.949611
-                  ]
-            },
-            {
-                  "name": "Trude-Herr-Park",
-                  "text": "Eine nach der Kölner Volksschauspielerin Trude Herr benannte Grünanlage im Stadtteil Neustadt-Süd.",
-                  "category": "park",
-                  "coords": [
-                        6.963475,
-                        50.925411
-                  ]
-            },
-            {
-                  "name": "Weißhaus",
-                  "text": "Ein historisches Wasserschloss mit Parkanlage im Stadtteil Sülz, das heute als Privatresidenz dient.",
-                  "category": "park",
-                  "coords": [
-                        6.931495,
-                        50.917976
-                  ]
-            },
-            {
-                  "name": "Vorgebirgspark",
-                  "text": "Ein denkmalgeschützter Volkspark im Kölner Süden, der für seine streng geometrische Gestaltung bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        6.950993,
-                        50.910645
-                  ]
-            },
-            {
-                  "name": "Alt St. Alban",
-                  "text": "Die Ruine einer romanischen Kirche, die heute als Mahnmal für die Toten der Weltkriege dient.",
-                  "category": "historical",
-                  "coords": [
-                        6.958254,
-                        50.936934
-                  ]
-            },
-            {
-                  "name": "Friedenspark",
-                  "text": "Ein Park im Kölner Süden, der auf den ehemaligen preußischen Festungsanlagen rund um das Fort I entstand.",
-                  "category": "park",
-                  "coords": [
-                        6.967821,
-                        50.917174
-                  ]
-            },
-            {
-                  "name": "Römerpark",
-                  "text": "Ein geschichtsträchtiger Park in der Südstadt, der nach der römischen Vergangenheit der Stadt benannt wurde.",
-                  "category": "park",
-                  "coords": [
-                        6.966134,
-                        50.919456
-                  ]
-            },
-            {
-                  "name": "Hansaplatz",
-                  "text": "Ein zentraler Platz am Hansaring mit erhaltenen Teilen der mittelalterlichen Kölner Stadtmauer.",
-                  "category": "park",
-                  "coords": [
-                        6.947725,
-                        50.946514
-                  ]
-            },
-            {
-                  "name": "Reiterdenkmal Friedrich Wilhelm III.",
-                  "text": "Reiterstandbild von Friedrich Wilhelm III. auf dem Heumarkt in Köln.",
-                  "category": "historical",
-                  "coords": [
-                        6.960686,
-                        50.936259
-                  ]
-            },
-            {
-                  "name": "Klingelpützpark",
-                  "text": "Öffentliche Parkanlage im Kölner Stadtteil Altstadt-Nord auf dem Gelände eines ehemaligen Gefängnisses.",
-                  "category": "park",
-                  "coords": [
-                        6.950346,
-                        50.946209
-                  ]
-            },
-            {
-                  "name": "Carola-Williams-Park",
-                  "text": "Eine Grünanlage im Kölner Stadtteil Lindenthal, benannt nach der Zirkusdirektorin Carola Williams.",
-                  "category": "park",
-                  "coords": [
-                        6.928028,
-                        50.939155
-                  ]
-            },
-            {
-                  "name": "Humboldtpark",
-                  "text": "Parkanlage im Kölner Stadtteil Humboldt/Gremberg mit Spielplätzen und Erholungsflächen.",
-                  "category": "park",
-                  "coords": [
-                        6.992645,
-                        50.932162
-                  ]
-            },
-            {
-                  "name": "Richmodisturm",
-                  "text": "Ein Turm am Kölner Neumarkt, bekannt für die Sage der Richmodis von Aducht.",
-                  "category": "tower",
-                  "coords": [
-                        6.9477,
-                        50.936892
-                  ]
-            },
-            {
-                  "name": "Blücherparkweiher",
-                  "text": "Der Blücherparkweiher in Köln ist ein See in einer Parkanlage, der zum Entspannen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        6.926953,
-                        50.963115
-                  ]
-            },
-            {
-                  "name": "Vingster See",
-                  "text": "Der Vingster See in Köln bietet eine natürliche Umgebung für Erholungssuchende.",
-                  "category": "natural",
-                  "coords": [
-                        7.027211,
-                        50.926268
-                  ]
-            },
-            {
-                  "name": "Efferener Baggerloch",
-                  "text": "Das Efferener Baggerloch bei Köln ist ein See, der von Natur umgeben ist.",
-                  "category": "natural",
-                  "coords": [
-                        6.914573,
-                        50.891009
-                  ]
-            },
-            {
-                  "name": "Rather See",
-                  "text": "Der Rather See in Köln lädt zu Spaziergängen am Wasser in einer ruhigen Atmosphäre ein.",
-                  "category": "natural",
-                  "coords": [
-                        7.068851,
-                        50.930777
-                  ]
-            },
-            {
-                  "name": "Decksteiner Weiher",
-                  "text": "Der Decksteiner Weiher in Köln ist ein beliebtes Ziel für Ausflüge in die Natur.",
-                  "category": "natural",
-                  "coords": [
-                        6.893963,
-                        50.911224
-                  ]
-            },
-            {
-                  "name": "Alberti-See",
-                  "text": "Der Alberti-See in Köln bietet Besuchern einen Ort zum Entspannen im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        7.03657,
-                        50.911443
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Die Minigolfanlage in Köln bietet Freizeitspaß für Besucher jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        6.978733,
-                        50.952444
-                  ]
-            },
-            {
-                  "name": "Casina Spieltheke",
-                  "text": "Casina Spieltheke in Köln bietet verschiedene Unterhaltungsmöglichkeiten für Besucher.",
-                  "category": "family",
-                  "coords": [
-                        7.000409,
-                        50.938248
-                  ]
-            },
-            {
-                  "name": "Gamer - Die Gameshow",
-                  "text": "Gamer - Die Gameshow in Köln bietet spannende Spiele und Unterhaltung.",
-                  "category": "family",
-                  "coords": [
-                        6.956941,
-                        50.932843
-                  ]
-            },
-            {
-                  "name": "Glowing Rooms",
-                  "text": "Glowing Rooms in Köln bietet ein besonderes Minigolf-Erlebnis in farbenfroher Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        6.933279,
-                        50.936681
-                  ]
-            },
-            {
-                  "name": "Giga Center Köln",
-                  "text": "Das Giga Center Köln bietet eine große Auswahl an Spielen und Unterhaltung.",
-                  "category": "family",
-                  "coords": [
-                        6.938676,
-                        50.936847
-                  ]
-            },
-            {
-                  "name": "Reischplatz",
-                  "text": "Der Spielplatz Reischplatz in Köln ist ein zentral gelegener Ort zum Spielen für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        6.976173,
-                        50.936258
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Römerturm / Auf dem Berlich",
-                  "text": "Der Spielplatz Am Römerturm in Köln bietet Kindern Spielmöglichkeiten in historischer Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        6.947324,
-                        50.94013
-                  ]
-            },
-            {
-                  "name": "Im Hafenpark / An der Drehbrücke",
-                  "text": "Der Spielplatz im Hafenpark Köln lädt Kinder zum Spielen in der Nähe des Rheins ein.",
-                  "category": "family",
-                  "coords": [
-                        6.973834,
-                        50.92835
-                  ]
-            },
-            {
-                  "name": "Ubierring",
-                  "text": "Der Spielplatz am Ubierring in Köln bietet Kindern Raum für Bewegung und Spiel.",
-                  "category": "family",
-                  "coords": [
-                        6.965344,
-                        50.921972
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Nord",
-                  "text": "Der Spielplatz Theodor-Heuss-Ring Nord in Köln ist eine Anlage zum Spielen im Grünen.",
-                  "category": "family",
-                  "coords": [
-                        6.964715,
-                        50.9505
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Süd",
-                  "text": "Der Spielplatz Theodor-Heuss-Ring Süd in Köln bietet Kindern vielfältige Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        6.963213,
-                        50.950275
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 1/Erftstraße",
-                  "text": "Spielplatz August-Sander-Park 1/Erftstraße ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        6.939624,
-                        50.947541
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 2/Maybachstraße",
-                  "text": "Spielplatz August-Sander-Park 2/Maybachstraße ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        6.948225,
-                        50.94913
-                  ]
-            },
-            {
-                  "name": "Im Dau",
-                  "text": "Im Dau ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        6.95664,
-                        50.926795
-                  ]
-            },
-            {
-                  "name": "An der Eiche",
-                  "text": "An der Eiche ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        6.960593,
-                        50.925076
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Rheinpark",
-                  "text": "Spielplatz im Rheinpark ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        6.974136,
-                        50.949012
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kölni dóm",
-                  "text": "Az UNESCO Világörökség része és a város jelképe, amely monumentális gótikus építészetével nyűgözi le a látogatókat.",
-                  "category": "church",
-                  "confidence": "high",
-                  "coords": [
-                        6.958333,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Hohenzollern-híd",
-                  "text": "A híres vasúti híd a rajta elhelyezett több ezer szerelemlakatról és a dómra nyíló kilátásról ismert.",
-                  "category": "bridge",
-                  "confidence": "high",
-                  "coords": [
-                        6.965556,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Csokoládémúzeum",
-                  "text": "Közvetlenül a Rajna partján található, izgalmas betekintést nyújt a csokoládégyártás világába.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.96427,
-                        50.9322
-                  ]
-            },
-            {
-                  "name": "Ludwig Múzeum",
-                  "text": "A modern művészet egyik legfontosabb múzeuma, amely többek között jelentős Picasso-gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.960278,
-                        50.940833
-                  ]
-            },
-            {
-                  "name": "Történelmi városháza",
-                  "text": "A pompás épület jellegzetes tornyával a szabad birodalmi város hosszú történelmét tükrözi.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        6.9593,
-                        50.938
-                  ]
-            },
-            {
-                  "name": "NS-Dokumentationszentrum",
-                  "text": "Az egykori EL-DE-házban található múzeum, amely átfogóan dokumentálja a nemzetiszocializmus történetét Kölnben.",
-                  "category": "museum",
-                  "coords": [
-                        6.950238,
-                        50.940565
-                  ]
-            },
-            {
-                  "name": "Gloria Theater",
-                  "text": "Egy korábbi moziban kialakított nagy múltú rendezvényhelyszín, amely koncerteknek és kabarénak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        6.944948,
-                        50.937488
-                  ]
-            },
-            {
-                  "name": "Hänneschen-Theater",
-                  "text": "Köln hagyományos botos bábúkkal működő színháza az óvárosi Eisenmarkton található.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961948,
-                        50.937088
-                  ]
-            },
-            {
-                  "name": "COMEDIA Theater",
-                  "text": "Egy korábbi tűzoltóállomáson kialakított gyermek- és ifjúsági színházi központ.",
-                  "category": "cultural",
-                  "coords": [
-                        6.955575,
-                        50.920559
-                  ]
-            },
-            {
-                  "name": "Praetorium",
-                  "text": "A régészeti lelőhely a római helytartói palota romjait mutatja be a mai városháza alatt.",
-                  "category": "historical",
-                  "coords": [
-                        6.958951,
-                        50.939018
-                  ]
-            },
-            {
-                  "name": "Theater am Dom",
-                  "text": "Németország egyik legismertebb bulvárszínháza, amely elsősorban vígjátékokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        6.95121,
-                        50.938634
-                  ]
-            },
-            {
-                  "name": "Theater im Bauturm",
-                  "text": "Az Aachener Straßén található független színház, amely kortárs produkcióiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        6.936448,
-                        50.936691
-                  ]
-            },
-            {
-                  "name": "Kölnisches Stadtmuseum",
-                  "text": "A múzeum Köln városának történelmét mutatja be a középkortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        6.954266,
-                        50.939021
-                  ]
-            },
-            {
-                  "name": "Kölnischer Kunstverein",
-                  "text": "Kortárs művészeti egyesület, amely kiállításokon keresztül mutatja be a modern alkotásokat.",
-                  "category": "museum",
-                  "coords": [
-                        6.943953,
-                        50.93609
-                  ]
-            },
-            {
-                  "name": "Tiefrot",
-                  "text": "Egy kis magánszínház Kölnben, amely változatos prózai és kabaré-előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960011,
-                        50.948271
-                  ]
-            },
-            {
-                  "name": "Senftöpfchen",
-                  "text": "A kölni óváros nagy múltú kabarészínháza, amely szatíráiról és előadóművészeti estjeiről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960587,
-                        50.939668
-                  ]
-            },
-            {
-                  "name": "Jawne",
-                  "text": "Az emlékhely az egykori kölni Jawne zsidó iskola történetének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        6.944688,
-                        50.939881
-                  ]
-            },
-            {
-                  "name": "Deutsches Tanzarchiv",
-                  "text": "Kölni múzeum és archívum, amely a táncművészet történetének dokumentálásával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        6.94339,
-                        50.948693
-                  ]
-            },
-            {
-                  "name": "Käthe Kollwitz Museum",
-                  "text": "A múzeum Käthe Kollwitz művész egyik legjelentősebb gyűjteményének ad otthont Kölnben.",
-                  "category": "museum",
-                  "coords": [
-                        6.946165,
-                        50.93667
-                  ]
-            },
-            {
-                  "name": "Rautenstrauch-Joest-Museum",
-                  "text": "Jelentős kölni néprajzi múzeum, amely a világ különböző kultúráit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.950437,
-                        50.934696
-                  ]
-            },
-            {
-                  "name": "Barbarastollen",
-                  "text": "Egy bányatárna élethű rekonstrukciója a Kölni Egyetem területe alatt.",
-                  "category": "museum",
-                  "coords": [
-                        6.929304,
-                        50.928289
-                  ]
-            },
-            {
-                  "name": "Geomuseum",
-                  "text": "A Kölni Egyetem földtudományi múzeuma geológiai és ásványtani gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        6.934658,
-                        50.926887
-                  ]
-            },
-            {
-                  "name": "Kölner Zoo",
-                  "text": "Németország egyik legrégebbi állatkertje, amely hatalmas elefántparkjáról és vízilóházáról ismert.",
-                  "category": "family",
-                  "coords": [
-                        6.976717,
-                        50.961155
-                  ]
-            },
-            {
-                  "name": "Musical Dome",
-                  "text": "Jellegzetes színházépület a Rajna partján, amely nagyszabású kölni musical-produkcióknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961707,
-                        50.942815
-                  ]
-            },
-            {
-                  "name": "Deutsches Sport- und Olympiamuseum",
-                  "text": "A kölni Rheinauhafenben található múzeum az ókortól napjainkig mutatja be a sport történetét.",
-                  "category": "museum",
-                  "coords": [
-                        6.964658,
-                        50.931173
-                  ]
-            },
-            {
-                  "name": "Fort IV",
-                  "text": "A történelmi kölni erődrendszer része, amely ma a porosz védelmi építészet emlékeként szolgál.",
-                  "category": "fortress",
-                  "coords": [
-                        6.943703,
-                        50.922458
-                  ]
-            },
-            {
-                  "name": "Alte Mensa",
-                  "text": "A Kölni Egyetem színháza, amely hallgatói és független társulatok előadásainak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        6.931183,
-                        50.924423
-                  ]
-            },
-            {
-                  "name": "Geographie Rundbau",
-                  "text": "Jellegzetes kerek épület Kölnben, amely ma az egyetem Földrajzi Intézetének része.",
-                  "category": "fortress",
-                  "coords": [
-                        6.936415,
-                        50.927558
-                  ]
-            },
-            {
-                  "name": "Kölner Senfmuseum (b.a.W. geschlossen)",
-                  "text": "A mustár kultúrtörténeti múzeuma, amely betekintést nyújt a hagyományos készítési módokba.",
-                  "category": "museum",
-                  "coords": [
-                        6.962482,
-                        50.932573
-                  ]
-            },
-            {
-                  "name": "The PhotoBookMuseum",
-                  "text": "Ez a múzeum a fotókönyvek művészi kialakításának és történetének szenteli tárlatait.",
-                  "category": "museum",
-                  "coords": [
-                        6.921866,
-                        50.94819
-                  ]
-            },
-            {
-                  "name": "Römisch-Germanisches Museum im Belgischen Haus",
-                  "text": "A múzeum régészeti gyűjteménye átmenetileg a kölni Belga Ház termeiben tekinthető meg.",
-                  "category": "museum",
-                  "coords": [
-                        6.950335,
-                        50.935628
-                  ]
-            },
-            {
-                  "name": "TimeRide",
-                  "text": "Virtuális valóság élmény, amely digitális időutazáson keresztül mutatja be Köln múltját.",
-                  "category": "museum",
-                  "coords": [
-                        6.96041,
-                        50.938539
-                  ]
-            },
-            {
-                  "name": "Müllseum",
-                  "text": "Eredeti kölni múzeum, amely a hulladékmegelőzéssel és az újrahasznosítással foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        6.991211,
-                        50.932224
-                  ]
-            },
-            {
-                  "name": "Agrippa-Bad",
-                  "text": "Nagy szabadidős fürdő Köln központjában, amely úszómedencékkel, csúszdákkal és szaunákkal várja a látogatókat.",
-                  "category": "family",
-                  "coords": [
-                        6.951985,
-                        50.932619
-                  ]
-            },
-            {
-                  "name": "\"Odonien\" - Kunst-und Kulturpark",
-                  "text": "Odo Rumpf művész által létrehozott művészeti park, amely szobrászműhelyt és kulturális központot ötvöz.",
-                  "category": "family",
-                  "coords": [
-                        6.938769,
-                        50.954743
-                  ]
-            },
-            {
-                  "name": "Aquarium & Insektarium",
-                  "text": "A Kölni Állatkert része, amely számos halat, hüllőt és rovart mutat be különböző élőhelyeken.",
-                  "category": "family",
-                  "coords": [
-                        6.972408,
-                        50.958449
-                  ]
-            },
-            {
-                  "name": "Weinmuseum",
-                  "text": "Kölni múzeum, amely a bortermelés helyi történetét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.967698,
-                        50.956408
-                  ]
-            },
-            {
-                  "name": "km 689 Cologne Beach Club",
-                  "text": "Népszerű homokos strandklub a Rajna partján, kilátással a kölni dómra.",
-                  "category": "recreational",
-                  "coords": [
-                        6.970747,
-                        50.946753
-                  ]
-            },
-            {
-                  "name": "Lysolphturm",
-                  "text": "Középkori városfalhoz tartozó történelmi torony maradványai Köln óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        6.953156,
-                        50.941418
-                  ]
-            },
-            {
-                  "name": "Rheingarten",
-                  "text": "Gondozott park közvetlenül a Rajna partján, az óváros és a folyó között.",
-                  "category": "park",
-                  "coords": [
-                        6.962563,
-                        50.938801
-                  ]
-            },
-            {
-                  "name": "Rheinpark",
-                  "text": "A Rajna jobb partján fekvő hatalmas tájpark, amelyet a szövetségi kertészeti kiállításra alakítottak ki.",
-                  "category": "park",
-                  "coords": [
-                        6.975994,
-                        50.949611
-                  ]
-            },
-            {
-                  "name": "Trude-Herr-Park",
-                  "text": "Trude Herr kölni népi színésznőről elnevezett zöldterület a Neustadt-Süd városrészben.",
-                  "category": "park",
-                  "coords": [
-                        6.963475,
-                        50.925411
-                  ]
-            },
-            {
-                  "name": "Weißhaus",
-                  "text": "Történelmi vízi kastély és park Sülz városrészben, amely ma magánrezidenciaként szolgál.",
-                  "category": "park",
-                  "coords": [
-                        6.931495,
-                        50.917976
-                  ]
-            },
-            {
-                  "name": "Vorgebirgspark",
-                  "text": "Műemlékvédelem alatt álló néppark Köln déli részén, amely szigorú mértani elrendezéséről ismert.",
-                  "category": "park",
-                  "coords": [
-                        6.950993,
-                        50.910645
-                  ]
-            },
-            {
-                  "name": "Alt St. Alban",
-                  "text": "Egy román stílusú templom romjai, amely ma a világháborúk áldozatainak emlékhelyeként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        6.958254,
-                        50.936934
-                  ]
-            },
-            {
-                  "name": "Friedenspark",
-                  "text": "Köln déli részén fekvő park, amely az egykori porosz erődrendszer I. erődje körül jött létre.",
-                  "category": "park",
-                  "coords": [
-                        6.967821,
-                        50.917174
-                  ]
-            },
-            {
-                  "name": "Römerpark",
-                  "text": "Történelmi park a déli városrészben, amelyet a város római kori múltjáról neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        6.966134,
-                        50.919456
-                  ]
-            },
-            {
-                  "name": "Hansaplatz",
-                  "text": "Központi tér a Hansaringen, ahol láthatók a középkori kölni városfal fennmaradt részei.",
-                  "category": "park",
-                  "coords": [
-                        6.947725,
-                        50.946514
-                  ]
-            },
-            {
-                  "name": "Reiterdenkmal Friedrich Wilhelm III.",
-                  "text": "III. Frigyes Vilmos lovas szobra Kölnben, a Heumarkton található.",
-                  "category": "historical",
-                  "coords": [
-                        6.960686,
-                        50.936259
-                  ]
-            },
-            {
-                  "name": "Klingelpützpark",
-                  "text": "Nyilvános park Köln északi óvárosában, egy egykori börtön helyén.",
-                  "category": "park",
-                  "coords": [
-                        6.950346,
-                        50.946209
-                  ]
-            },
-            {
-                  "name": "Carola-Williams-Park",
-                  "text": "Köln Lindenthal negyedében található park, amelyet Carola Williams cirkuszigazgatóról neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        6.928028,
-                        50.939155
-                  ]
-            },
-            {
-                  "name": "Humboldtpark",
-                  "text": "Köln Humboldt/Gremberg negyedében fekvő park játszóterekkel és pihenőhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        6.992645,
-                        50.932162
-                  ]
-            },
-            {
-                  "name": "Richmodisturm",
-                  "text": "Torony a kölni Neumarkton, amely a Richmodis von Aducht-legendáról ismert.",
-                  "category": "tower",
-                  "coords": [
-                        6.9477,
-                        50.936892
-                  ]
-            },
-            {
-                  "name": "Blücherparkweiher",
-                  "text": "A kölni Blücherparkweiher egy parkban található tó, amely pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        6.926953,
-                        50.963115
-                  ]
-            },
-            {
-                  "name": "Vingster See",
-                  "text": "A Vingster See Kölnben természetes környezetet biztosít a kikapcsolódni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        7.027211,
-                        50.926268
-                  ]
-            },
-            {
-                  "name": "Efferener Baggerloch",
-                  "text": "A Köln melletti Efferener Baggerloch egy tó, amelyet természet vesz körül.",
-                  "category": "natural",
-                  "coords": [
-                        6.914573,
-                        50.891009
-                  ]
-            },
-            {
-                  "name": "Rather See",
-                  "text": "A Rather See Kölnben nyugodt környezetben várja a vízparti séták kedvelőit.",
-                  "category": "natural",
-                  "coords": [
-                        7.068851,
-                        50.930777
-                  ]
-            },
-            {
-                  "name": "Decksteiner Weiher",
-                  "text": "A Decksteiner Weiher Kölnben népszerű úti cél a természetkedvelők körében.",
-                  "category": "natural",
-                  "coords": [
-                        6.893963,
-                        50.911224
-                  ]
-            },
-            {
-                  "name": "Alberti-See",
-                  "text": "A kölni Alberti-See kikapcsolódási lehetőséget kínál a zöldben a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        7.03657,
-                        50.911443
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "A kölni minigolfpálya szórakozást nyújt minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        6.978733,
-                        50.952444
-                  ]
-            },
-            {
-                  "name": "Casina Spieltheke",
-                  "text": "A Casina Spieltheke Kölnben különféle szórakozási lehetőségeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        7.000409,
-                        50.938248
-                  ]
-            },
-            {
-                  "name": "Gamer - Die Gameshow",
-                  "text": "A Gamer - Die Gameshow Kölnben izgalmas játékokat és szórakozást kínál.",
-                  "category": "family",
-                  "coords": [
-                        6.956941,
-                        50.932843
-                  ]
-            },
-            {
-                  "name": "Glowing Rooms",
-                  "text": "A kölni Glowing Rooms különleges minigolf-élményt nyújt színes környezetben.",
-                  "category": "family",
-                  "coords": [
-                        6.933279,
-                        50.936681
-                  ]
-            },
-            {
-                  "name": "Giga Center Köln",
-                  "text": "A kölni Giga Center játékok és szórakozási lehetőségek széles választékát kínálja.",
-                  "category": "family",
-                  "coords": [
-                        6.938676,
-                        50.936847
-                  ]
-            },
-            {
-                  "name": "Reischplatz",
-                  "text": "A Reischplatz játszótér Kölnben egy központi helyszín a gyerekek játékához.",
-                  "category": "family",
-                  "coords": [
-                        6.976173,
-                        50.936258
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Römerturm / Auf dem Berlich",
-                  "text": "Az Am Römerturm játszótér Kölnben történelmi környezetben kínál játéklehetőséget.",
-                  "category": "family",
-                  "coords": [
-                        6.947324,
-                        50.94013
-                  ]
-            },
-            {
-                  "name": "Im Hafenpark / An der Drehbrücke",
-                  "text": "A kölni Hafenpark játszótere a Rajna közelében várja a játszani vágyó gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        6.973834,
-                        50.92835
-                  ]
-            },
-            {
-                  "name": "Ubierring",
-                  "text": "Az Ubierring játszótér Kölnben teret biztosít a gyerekeknek a mozgáshoz és játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        6.965344,
-                        50.921972
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Nord",
-                  "text": "A Theodor-Heuss-Ring Nord játszótér Kölnben egy zöldövezeti helyszín a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        6.964715,
-                        50.9505
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Süd",
-                  "text": "A Theodor-Heuss-Ring Süd játszótér Kölnben változatos játéklehetőségeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        6.963213,
-                        50.950275
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 1/Erftstraße",
-                  "text": "A(z) Spielplatz August-Sander-Park 1/Erftstraße egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.939624,
-                        50.947541
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 2/Maybachstraße",
-                  "text": "A(z) Spielplatz August-Sander-Park 2/Maybachstraße egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.948225,
-                        50.94913
-                  ]
-            },
-            {
-                  "name": "Im Dau",
-                  "text": "A(z) Im Dau egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.95664,
-                        50.926795
-                  ]
-            },
-            {
-                  "name": "An der Eiche",
-                  "text": "A(z) An der Eiche egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.960593,
-                        50.925076
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Rheinpark",
-                  "text": "A(z) Spielplatz im Rheinpark egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.974136,
-                        50.949012
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Domul din Köln",
-                  "text": "Simbolul orașului și sit UNESCO, catedrala impresionează prin arhitectura gotică monumentală și înălțime.",
-                  "category": "church",
-                  "confidence": "high",
-                  "coords": [
-                        6.958333,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Podul Hohenzollern",
-                  "text": "Celebrul pod feroviar este cunoscut pentru miile de lacăte ale iubirii și vederea superbă spre catedrală.",
-                  "category": "bridge",
-                  "confidence": "high",
-                  "coords": [
-                        6.965556,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Muzeul Ciocolatei",
-                  "text": "Situat pe malul Rinului, muzeul oferă o incursiune fascinantă în istoria și producția ciocolatei.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.96427,
-                        50.9322
-                  ]
-            },
-            {
-                  "name": "Muzeul Ludwig",
-                  "text": "Un muzeu de artă modernă de renume, care găzduiește una dintre cele mai mari colecții Picasso din lume.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.960278,
-                        50.940833
-                  ]
-            },
-            {
-                  "name": "Primăria istorică",
-                  "text": "Clădirea magnifică cu turnul său distinctiv reflectă istoria îndelungată a orașului imperial liber.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        6.9593,
-                        50.938
-                  ]
-            },
-            {
-                  "name": "NS-Dokumentationszentrum",
-                  "text": "Un muzeu în fosta casă EL-DE, care documentează cuprinzător istoria național-socialismului în Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.950238,
-                        50.940565
-                  ]
-            },
-            {
-                  "name": "Gloria Theater",
-                  "text": "O locație culturală cu tradiție într-un fost cinematograf, cunoscută pentru concerte și spectacole de comedie.",
-                  "category": "cultural",
-                  "coords": [
-                        6.944948,
-                        50.937488
-                  ]
-            },
-            {
-                  "name": "Hänneschen-Theater",
-                  "text": "Teatrul tradițional de păpuși din Köln este situat în piața Eisenmarkt din centrul vechi.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961948,
-                        50.937088
-                  ]
-            },
-            {
-                  "name": "COMEDIA Theater",
-                  "text": "Un centru pentru teatru de copii și tineret, găzduit într-o fostă unitate de pompieri.",
-                  "category": "cultural",
-                  "coords": [
-                        6.955575,
-                        50.920559
-                  ]
-            },
-            {
-                  "name": "Praetorium",
-                  "text": "Situl arheologic prezintă ruinele palatului guvernatorului roman, aflate sub actuala primărie.",
-                  "category": "historical",
-                  "coords": [
-                        6.958951,
-                        50.939018
-                  ]
-            },
-            {
-                  "name": "Theater am Dom",
-                  "text": "Unul dintre cele mai cunoscute teatre de bulevard din Germania, specializat în comedii.",
-                  "category": "cultural",
-                  "coords": [
-                        6.95121,
-                        50.938634
-                  ]
-            },
-            {
-                  "name": "Theater im Bauturm",
-                  "text": "Un teatru independent de pe Aachener Straße, cunoscut pentru producțiile sale contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        6.936448,
-                        50.936691
-                  ]
-            },
-            {
-                  "name": "Kölnisches Stadtmuseum",
-                  "text": "Muzeul documentează istoria orașului Köln din Evul Mediu până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        6.954266,
-                        50.939021
-                  ]
-            },
-            {
-                  "name": "Kölnischer Kunstverein",
-                  "text": "O asociație de artă dedicată promovării artei contemporane prin expoziții.",
-                  "category": "museum",
-                  "coords": [
-                        6.943953,
-                        50.93609
-                  ]
-            },
-            {
-                  "name": "Tiefrot",
-                  "text": "Un mic teatru privat din Köln care oferă un program variat de teatru și cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960011,
-                        50.948271
-                  ]
-            },
-            {
-                  "name": "Senftöpfchen",
-                  "text": "Teatrul de cabaret cu tradiție din centrul vechi al Kölnului este cunoscut pentru satiră și divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960587,
-                        50.939668
-                  ]
-            },
-            {
-                  "name": "Jawne",
-                  "text": "Locul de memorie și învățare comemorează istoria fostei școli evreiești Jawne din Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.944688,
-                        50.939881
-                  ]
-            },
-            {
-                  "name": "Deutsches Tanzarchiv",
-                  "text": "Un muzeu și arhivă din Köln dedicat istoriei și documentării artei dansului.",
-                  "category": "museum",
-                  "coords": [
-                        6.94339,
-                        50.948693
-                  ]
-            },
-            {
-                  "name": "Käthe Kollwitz Museum",
-                  "text": "Muzeul găzduiește una dintre cele mai vaste colecții ale artistei Käthe Kollwitz din lume.",
-                  "category": "museum",
-                  "coords": [
-                        6.946165,
-                        50.93667
-                  ]
-            },
-            {
-                  "name": "Rautenstrauch-Joest-Museum",
-                  "text": "Un important muzeu etnologic din Köln, cu exponate din diverse culturi ale lumii.",
-                  "category": "museum",
-                  "coords": [
-                        6.950437,
-                        50.934696
-                  ]
-            },
-            {
-                  "name": "Barbarastollen",
-                  "text": "O reconstrucție fidelă a unei galerii miniere situată sub campusul Universității din Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.929304,
-                        50.928289
-                  ]
-            },
-            {
-                  "name": "Geomuseum",
-                  "text": "Muzeul de științe ale pământului al Universității din Köln prezintă colecții geologice și mineralogice.",
-                  "category": "museum",
-                  "coords": [
-                        6.934658,
-                        50.926887
-                  ]
-            },
-            {
-                  "name": "Kölner Zoo",
-                  "text": "Una dintre cele mai vechi grădini zoologice din Germania, renumită pentru parcul de elefanți și Hippodom.",
-                  "category": "family",
-                  "coords": [
-                        6.976717,
-                        50.961155
-                  ]
-            },
-            {
-                  "name": "Musical Dome",
-                  "text": "O sală de spectacole distinctivă pe malul Rinului, cunoscută pentru marile producții de musical din Köln.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961707,
-                        50.942815
-                  ]
-            },
-            {
-                  "name": "Deutsches Sport- und Olympiamuseum",
-                  "text": "Muzeul prezintă istoria sportului din antichitate până în prezent, în portul Rheinauhafen din Köln.",
-                  "category": "museum",
-                  "coords": [
-                        6.964658,
-                        50.931173
-                  ]
-            },
-            {
-                  "name": "Fort IV",
-                  "text": "O parte a fortificațiilor istorice din Köln, care servește astăzi drept mărturie a arhitecturii de apărare prusace.",
-                  "category": "fortress",
-                  "coords": [
-                        6.943703,
-                        50.922458
-                  ]
-            },
-            {
-                  "name": "Alte Mensa",
-                  "text": "Teatrul Universității din Köln servește ca scenă pentru ansambluri studențești și independente.",
-                  "category": "cultural",
-                  "coords": [
-                        6.931183,
-                        50.924423
-                  ]
-            },
-            {
-                  "name": "Geographie Rundbau",
-                  "text": "O clădire circulară distinctivă din Köln, utilizată astăzi de Institutul de Geografie al Universității.",
-                  "category": "fortress",
-                  "coords": [
-                        6.936415,
-                        50.927558
-                  ]
-            },
-            {
-                  "name": "Kölner Senfmuseum (b.a.W. geschlossen)",
-                  "text": "Un muzeu al istoriei culturale a muștarului, oferind detalii despre metodele tradiționale de producție.",
-                  "category": "museum",
-                  "coords": [
-                        6.962482,
-                        50.932573
-                  ]
-            },
-            {
-                  "name": "The PhotoBookMuseum",
-                  "text": "Acest muzeu este dedicat designului artistic și istoriei albumelor de fotografii.",
-                  "category": "museum",
-                  "coords": [
-                        6.921866,
-                        50.94819
-                  ]
-            },
-            {
-                  "name": "Römisch-Germanisches Museum im Belgischen Haus",
-                  "text": "Colecția arheologică a muzeului este găzduită temporar în sălile Casei Belgiene.",
-                  "category": "museum",
-                  "coords": [
-                        6.950335,
-                        50.935628
-                  ]
-            },
-            {
-                  "name": "TimeRide",
-                  "text": "O atracție de realitate virtuală care prezintă istoria orașului Köln prin călătorii în timp digitale.",
-                  "category": "museum",
-                  "coords": [
-                        6.96041,
-                        50.938539
-                  ]
-            },
-            {
-                  "name": "Müllseum",
-                  "text": "Un muzeu original din Köln, axat pe prevenirea deșeurilor și reciclare.",
-                  "category": "museum",
-                  "coords": [
-                        6.991211,
-                        50.932224
-                  ]
-            },
-            {
-                  "name": "Agrippa-Bad",
-                  "text": "O piscină de agrement mare în centrul Kölnului, cu bazine, tobogane și zone de saună.",
-                  "category": "family",
-                  "coords": [
-                        6.951985,
-                        50.932619
-                  ]
-            },
-            {
-                  "name": "\"Odonien\" - Kunst-und Kulturpark",
-                  "text": "Un parc de artă creat de artistul Odo Rumpf, ce reunește un atelier de sculptură și un centru cultural.",
-                  "category": "family",
-                  "coords": [
-                        6.938769,
-                        50.954743
-                  ]
-            },
-            {
-                  "name": "Aquarium & Insektarium",
-                  "text": "O secțiune a grădinii zoologice din Köln ce prezintă numeroși pești, reptile și insecte în diverse habitate.",
-                  "category": "family",
-                  "coords": [
-                        6.972408,
-                        50.958449
-                  ]
-            },
-            {
-                  "name": "Weinmuseum",
-                  "text": "Un muzeu din Köln dedicat istoriei și culturii viticulturii din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        6.967698,
-                        50.956408
-                  ]
-            },
-            {
-                  "name": "km 689 Cologne Beach Club",
-                  "text": "Un club de plajă popular pe malul Rinului, cu nisip și vedere la Domul din Köln.",
-                  "category": "recreational",
-                  "coords": [
-                        6.970747,
-                        50.946753
-                  ]
-            },
-            {
-                  "name": "Lysolphturm",
-                  "text": "Rămășițele unui turn istoric din fortificațiile medievale ale orașului vechi din Köln.",
-                  "category": "historical",
-                  "coords": [
-                        6.953156,
-                        50.941418
-                  ]
-            },
-            {
-                  "name": "Rheingarten",
-                  "text": "O zonă de parc amenajată chiar pe malul Rinului, între orașul vechi și râu.",
-                  "category": "park",
-                  "coords": [
-                        6.962563,
-                        50.938801
-                  ]
-            },
-            {
-                  "name": "Rheinpark",
-                  "text": "Un vast parc peisagistic pe malul drept al Rinului, amenajat pentru expoziția federală de grădinărit.",
-                  "category": "park",
-                  "coords": [
-                        6.975994,
-                        50.949611
-                  ]
-            },
-            {
-                  "name": "Trude-Herr-Park",
-                  "text": "O zonă verde din cartierul Neustadt-Süd, numită după actrița populară Trude Herr din Köln.",
-                  "category": "park",
-                  "coords": [
-                        6.963475,
-                        50.925411
-                  ]
-            },
-            {
-                  "name": "Weißhaus",
-                  "text": "Un castel istoric pe apă cu parc în cartierul Sülz, care astăzi servește ca reședință privată.",
-                  "category": "park",
-                  "coords": [
-                        6.931495,
-                        50.917976
-                  ]
-            },
-            {
-                  "name": "Vorgebirgspark",
-                  "text": "Un parc public protejat din sudul orașului Köln, cunoscut pentru designul său geometric strict.",
-                  "category": "park",
-                  "coords": [
-                        6.950993,
-                        50.910645
-                  ]
-            },
-            {
-                  "name": "Alt St. Alban",
-                  "text": "Ruinele unei biserici romanice, care servesc astăzi ca monument în memoria morților din războaiele mondiale.",
-                  "category": "historical",
-                  "coords": [
-                        6.958254,
-                        50.936934
-                  ]
-            },
-            {
-                  "name": "Friedenspark",
-                  "text": "Un parc din sudul orașului Köln, creat pe fostele fortificații prusace din jurul Fortului I.",
-                  "category": "park",
-                  "coords": [
-                        6.967821,
-                        50.917174
-                  ]
-            },
-            {
-                  "name": "Römerpark",
-                  "text": "Un parc istoric din Südstadt, care a fost numit după trecutul roman al orașului.",
-                  "category": "park",
-                  "coords": [
-                        6.966134,
-                        50.919456
-                  ]
-            },
-            {
-                  "name": "Hansaplatz",
-                  "text": "O piață centrală pe Hansaring, cu părți conservate din zidul medieval al orașului Köln.",
-                  "category": "park",
-                  "coords": [
-                        6.947725,
-                        50.946514
-                  ]
-            },
-            {
-                  "name": "Reiterdenkmal Friedrich Wilhelm III.",
-                  "text": "Statuia ecvestră a lui Friedrich Wilhelm III situată în piața Heumarkt din Köln.",
-                  "category": "historical",
-                  "coords": [
-                        6.960686,
-                        50.936259
-                  ]
-            },
-            {
-                  "name": "Klingelpützpark",
-                  "text": "Parc public situat în centrul istoric al orașului Köln, amenajat pe locul unei foste închisori.",
-                  "category": "park",
-                  "coords": [
-                        6.950346,
-                        50.946209
-                  ]
-            },
-            {
-                  "name": "Carola-Williams-Park",
-                  "text": "Spațiu verde în districtul Lindenthal din Köln, numit după directoarea de circ Carola Williams.",
-                  "category": "park",
-                  "coords": [
-                        6.928028,
-                        50.939155
-                  ]
-            },
-            {
-                  "name": "Humboldtpark",
-                  "text": "Parc situat în cartierul Humboldt/Gremberg din Köln, oferind locuri de joacă și zone de recreere.",
-                  "category": "park",
-                  "coords": [
-                        6.992645,
-                        50.932162
-                  ]
-            },
-            {
-                  "name": "Richmodisturm",
-                  "text": "Turn situat în piața Neumarkt din Köln, cunoscut pentru legenda lui Richmodis von Aducht.",
-                  "category": "tower",
-                  "coords": [
-                        6.9477,
-                        50.936892
-                  ]
-            },
-            {
-                  "name": "Blücherparkweiher",
-                  "text": "Blücherparkweiher din Köln este un lac situat într-un parc, ideal pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        6.926953,
-                        50.963115
-                  ]
-            },
-            {
-                  "name": "Vingster See",
-                  "text": "Vingster See din Köln oferă un cadru natural pentru cei care caută relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        7.027211,
-                        50.926268
-                  ]
-            },
-            {
-                  "name": "Efferener Baggerloch",
-                  "text": "Efferener Baggerloch de lângă Köln este un lac înconjurat de natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.914573,
-                        50.891009
-                  ]
-            },
-            {
-                  "name": "Rather See",
-                  "text": "Rather See din Köln invită la plimbări pe malul apei într-o atmosferă liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        7.068851,
-                        50.930777
-                  ]
-            },
-            {
-                  "name": "Decksteiner Weiher",
-                  "text": "Decksteiner Weiher din Köln este o destinație populară pentru ieșiri în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.893963,
-                        50.911224
-                  ]
-            },
-            {
-                  "name": "Alberti-See",
-                  "text": "Alberti-See din Köln oferă vizitatorilor un loc de relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.03657,
-                        50.911443
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Terenul de minigolf din Köln oferă distracție pentru vizitatorii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        6.978733,
-                        50.952444
-                  ]
-            },
-            {
-                  "name": "Casina Spieltheke",
-                  "text": "Casina Spieltheke din Köln oferă diverse opțiuni de divertisment pentru vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        7.000409,
-                        50.938248
-                  ]
-            },
-            {
-                  "name": "Gamer - Die Gameshow",
-                  "text": "Gamer - Die Gameshow din Köln oferă jocuri captivante și divertisment.",
-                  "category": "family",
-                  "coords": [
-                        6.956941,
-                        50.932843
-                  ]
-            },
-            {
-                  "name": "Glowing Rooms",
-                  "text": "Glowing Rooms din Köln oferă o experiență de minigolf deosebită într-un decor colorat.",
-                  "category": "family",
-                  "coords": [
-                        6.933279,
-                        50.936681
-                  ]
-            },
-            {
-                  "name": "Giga Center Köln",
-                  "text": "Giga Center Köln oferă o gamă largă de jocuri și divertisment.",
-                  "category": "family",
-                  "coords": [
-                        6.938676,
-                        50.936847
-                  ]
-            },
-            {
-                  "name": "Reischplatz",
-                  "text": "Locul de joacă Reischplatz din Köln este un spațiu central pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        6.976173,
-                        50.936258
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Römerturm / Auf dem Berlich",
-                  "text": "Locul de joacă Am Römerturm din Köln oferă copiilor posibilitatea de a se juca într-un cadru istoric.",
-                  "category": "family",
-                  "coords": [
-                        6.947324,
-                        50.94013
-                  ]
-            },
-            {
-                  "name": "Im Hafenpark / An der Drehbrücke",
-                  "text": "Locul de joacă din Hafenpark Köln invită copiii la joacă aproape de Rin.",
-                  "category": "family",
-                  "coords": [
-                        6.973834,
-                        50.92835
-                  ]
-            },
-            {
-                  "name": "Ubierring",
-                  "text": "Locul de joacă de la Ubierring din Köln oferă copiilor spațiu pentru mișcare și joacă.",
-                  "category": "family",
-                  "coords": [
-                        6.965344,
-                        50.921972
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Nord",
-                  "text": "Locul de joacă Theodor-Heuss-Ring Nord din Köln este un spațiu de joacă în natură.",
-                  "category": "family",
-                  "coords": [
-                        6.964715,
-                        50.9505
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Süd",
-                  "text": "Locul de joacă Theodor-Heuss-Ring Süd din Köln oferă copiilor diverse opțiuni de joacă.",
-                  "category": "family",
-                  "coords": [
-                        6.963213,
-                        50.950275
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 1/Erftstraße",
-                  "text": "Spielplatz August-Sander-Park 1/Erftstraße este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        6.939624,
-                        50.947541
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 2/Maybachstraße",
-                  "text": "Spielplatz August-Sander-Park 2/Maybachstraße este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        6.948225,
-                        50.94913
-                  ]
-            },
-            {
-                  "name": "Im Dau",
-                  "text": "Im Dau este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        6.95664,
-                        50.926795
-                  ]
-            },
-            {
-                  "name": "An der Eiche",
-                  "text": "An der Eiche este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        6.960593,
-                        50.925076
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Rheinpark",
-                  "text": "Spielplatz im Rheinpark este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        6.974136,
-                        50.949012
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cologne Cathedral",
-                  "text": "A UNESCO World Heritage site and city landmark, it is one of the world's most impressive Gothic cathedrals.",
-                  "category": "church",
-                  "confidence": "high",
-                  "coords": [
-                        6.958333,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Hohenzollern Bridge",
-                  "text": "The famous railway bridge is renowned for its thousands of love locks and spectacular views of the Cathedral.",
-                  "category": "bridge",
-                  "confidence": "high",
-                  "coords": [
-                        6.965556,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Chocolate Museum",
-                  "text": "Located right on the Rhine, this museum offers an exciting journey through the world of chocolate making.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.96427,
-                        50.9322
-                  ]
-            },
-            {
-                  "name": "Museum Ludwig",
-                  "text": "An important museum of modern art, housing a significant collection of works by Pablo Picasso and Pop Art.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.960278,
-                        50.940833
-                  ]
-            },
-            {
-                  "name": "Historic City Hall",
-                  "text": "The magnificent building with its prominent tower reflects the long history of the free imperial city.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        6.9593,
-                        50.938
-                  ]
-            },
-            {
-                  "name": "NS-Dokumentationszentrum",
-                  "text": "A museum in the former EL-DE House that comprehensively documents the history of National Socialism in Cologne.",
-                  "category": "museum",
-                  "coords": [
-                        6.950238,
-                        50.940565
-                  ]
-            },
-            {
-                  "name": "Gloria Theater",
-                  "text": "A traditional event venue in a former cinema, known for hosting concerts and comedy shows.",
-                  "category": "cultural",
-                  "coords": [
-                        6.944948,
-                        50.937488
-                  ]
-            },
-            {
-                  "name": "Hänneschen-Theater",
-                  "text": "The traditional puppet theatre of Cologne is located at the Eisenmarkt in the Old Town.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961948,
-                        50.937088
-                  ]
-            },
-            {
-                  "name": "COMEDIA Theater",
-                  "text": "A center for children's and youth theatre, housed in a former fire station.",
-                  "category": "cultural",
-                  "coords": [
-                        6.955575,
-                        50.920559
-                  ]
-            },
-            {
-                  "name": "Praetorium",
-                  "text": "The archaeological site displays the ruins of the Roman governor's palace beneath the City Hall.",
-                  "category": "historical",
-                  "coords": [
-                        6.958951,
-                        50.939018
-                  ]
-            },
-            {
-                  "name": "Theater am Dom",
-                  "text": "One of Germany's most famous boulevard theatres, primarily staging comedies.",
-                  "category": "cultural",
-                  "coords": [
-                        6.95121,
-                        50.938634
-                  ]
-            },
-            {
-                  "name": "Theater im Bauturm",
-                  "text": "An independent theatre on Aachener Straße, known for its contemporary productions.",
-                  "category": "cultural",
-                  "coords": [
-                        6.936448,
-                        50.936691
-                  ]
-            },
-            {
-                  "name": "Kölnisches Stadtmuseum",
-                  "text": "The museum documents the history of the city of Cologne from the Middle Ages to the present.",
-                  "category": "museum",
-                  "coords": [
-                        6.954266,
-                        50.939021
-                  ]
-            },
-            {
-                  "name": "Kölnischer Kunstverein",
-                  "text": "An art association dedicated to presenting contemporary art through various exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        6.943953,
-                        50.93609
-                  ]
-            },
-            {
-                  "name": "Tiefrot",
-                  "text": "A small private theatre in Cologne offering a varied program of drama and cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960011,
-                        50.948271
-                  ]
-            },
-            {
-                  "name": "Senftöpfchen",
-                  "text": "The traditional cabaret theatre in Cologne's Old Town is famous for satire and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        6.960587,
-                        50.939668
-                  ]
-            },
-            {
-                  "name": "Jawne",
-                  "text": "The memorial and educational site commemorates the history of the former Jewish school Jawne in Cologne.",
-                  "category": "museum",
-                  "coords": [
-                        6.944688,
-                        50.939881
-                  ]
-            },
-            {
-                  "name": "Deutsches Tanzarchiv",
-                  "text": "A museum and archive in Cologne dedicated to the history and documentation of the art of dance.",
-                  "category": "museum",
-                  "coords": [
-                        6.94339,
-                        50.948693
-                  ]
-            },
-            {
-                  "name": "Käthe Kollwitz Museum",
-                  "text": "The museum houses one of the world's most extensive collections of works by artist Käthe Kollwitz.",
-                  "category": "museum",
-                  "coords": [
-                        6.946165,
-                        50.93667
-                  ]
-            },
-            {
-                  "name": "Rautenstrauch-Joest-Museum",
-                  "text": "A significant ethnological museum in Cologne featuring exhibits from various world cultures.",
-                  "category": "museum",
-                  "coords": [
-                        6.950437,
-                        50.934696
-                  ]
-            },
-            {
-                  "name": "Barbarastollen",
-                  "text": "A faithful reconstruction of a mining tunnel located beneath the University of Cologne campus.",
-                  "category": "museum",
-                  "coords": [
-                        6.929304,
-                        50.928289
-                  ]
-            },
-            {
-                  "name": "Geomuseum",
-                  "text": "The geoscientific museum of the University of Cologne presents geological and mineralogical collections.",
-                  "category": "museum",
-                  "coords": [
-                        6.934658,
-                        50.926887
-                  ]
-            },
-            {
-                  "name": "Kölner Zoo",
-                  "text": "One of Germany's oldest zoos, famous for its large elephant park and the Hippodom.",
-                  "category": "family",
-                  "coords": [
-                        6.976717,
-                        50.961155
-                  ]
-            },
-            {
-                  "name": "Musical Dome",
-                  "text": "A distinctive venue right on the Rhine, known for hosting large-scale musical productions in Cologne.",
-                  "category": "cultural",
-                  "coords": [
-                        6.961707,
-                        50.942815
-                  ]
-            },
-            {
-                  "name": "Deutsches Sport- und Olympiamuseum",
-                  "text": "The museum presents the history of sports from antiquity to the present in Cologne's Rheinauhafen.",
-                  "category": "museum",
-                  "coords": [
-                        6.964658,
-                        50.931173
-                  ]
-            },
-            {
-                  "name": "Fort IV",
-                  "text": "Part of the historic Cologne fortification system, serving today as a witness to Prussian defense architecture.",
-                  "category": "fortress",
-                  "coords": [
-                        6.943703,
-                        50.922458
-                  ]
-            },
-            {
-                  "name": "Alte Mensa",
-                  "text": "The university theatre of Cologne serves as a stage for student and independent ensembles.",
-                  "category": "cultural",
-                  "coords": [
-                        6.931183,
-                        50.924423
-                  ]
-            },
-            {
-                  "name": "Geographie Rundbau",
-                  "text": "A distinctive circular building in Cologne, now used by the university's Institute of Geography.",
-                  "category": "fortress",
-                  "coords": [
-                        6.936415,
-                        50.927558
-                  ]
-            },
-            {
-                  "name": "Kölner Senfmuseum (b.a.W. geschlossen)",
-                  "text": "A museum of the cultural history of mustard, offering insights into traditional production methods.",
-                  "category": "museum",
-                  "coords": [
-                        6.962482,
-                        50.932573
-                  ]
-            },
-            {
-                  "name": "The PhotoBookMuseum",
-                  "text": "This museum is dedicated to the artistic design and history of photobooks.",
-                  "category": "museum",
-                  "coords": [
-                        6.921866,
-                        50.94819
-                  ]
-            },
-            {
-                  "name": "Römisch-Germanisches Museum im Belgischen Haus",
-                  "text": "The museum's archaeological collection is temporarily housed in the Belgian House.",
-                  "category": "museum",
-                  "coords": [
-                        6.950335,
-                        50.935628
-                  ]
-            },
-            {
-                  "name": "TimeRide",
-                  "text": "A virtual reality attraction that showcases Cologne's history through digital time travel.",
-                  "category": "museum",
-                  "coords": [
-                        6.96041,
-                        50.938539
-                  ]
-            },
-            {
-                  "name": "Müllseum",
-                  "text": "An original museum in Cologne focused on waste prevention and recycling.",
-                  "category": "museum",
-                  "coords": [
-                        6.991211,
-                        50.932224
-                  ]
-            },
-            {
-                  "name": "Agrippa-Bad",
-                  "text": "A large leisure pool in central Cologne featuring swimming pools, slides, and sauna areas.",
-                  "category": "family",
-                  "coords": [
-                        6.951985,
-                        50.932619
-                  ]
-            },
-            {
-                  "name": "\"Odonien\" - Kunst-und Kulturpark",
-                  "text": "An art park created by artist Odo Rumpf, combining a sculpture workshop and cultural centre.",
-                  "category": "family",
-                  "coords": [
-                        6.938769,
-                        50.954743
-                  ]
-            },
-            {
-                  "name": "Aquarium & Insektarium",
-                  "text": "A section of the Cologne Zoo showcasing numerous fish, reptiles, and insects in various habitats.",
-                  "category": "family",
-                  "coords": [
-                        6.972408,
-                        50.958449
-                  ]
-            },
-            {
-                  "name": "Weinmuseum",
-                  "text": "A museum in Cologne dedicated to the history and culture of viticulture in the region.",
-                  "category": "museum",
-                  "coords": [
-                        6.967698,
-                        50.956408
-                  ]
-            },
-            {
-                  "name": "km 689 Cologne Beach Club",
-                  "text": "A popular beach club on the Rhine riverbank with a sandy beach and views of the cathedral.",
-                  "category": "recreational",
-                  "coords": [
-                        6.970747,
-                        50.946753
-                  ]
-            },
-            {
-                  "name": "Lysolphturm",
-                  "text": "Remains of a historical tower from the medieval city fortifications in Cologne's old town.",
-                  "category": "historical",
-                  "coords": [
-                        6.953156,
-                        50.941418
-                  ]
-            },
-            {
-                  "name": "Rheingarten",
-                  "text": "A well-maintained park area directly on the banks of the Rhine between the old town and the river.",
-                  "category": "park",
-                  "coords": [
-                        6.962563,
-                        50.938801
-                  ]
-            },
-            {
-                  "name": "Rheinpark",
-                  "text": "A vast landscape park on the right bank of the Rhine, created for the Federal Horticultural Show.",
-                  "category": "park",
-                  "coords": [
-                        6.975994,
-                        50.949611
-                  ]
-            },
-            {
-                  "name": "Trude-Herr-Park",
-                  "text": "A green space in the Neustadt-Süd district named after the popular Cologne actress Trude Herr.",
-                  "category": "park",
-                  "coords": [
-                        6.963475,
-                        50.925411
-                  ]
-            },
-            {
-                  "name": "Weißhaus",
-                  "text": "A historical moated castle with parkland in the Sülz district, which today serves as a private residence.",
-                  "category": "park",
-                  "coords": [
-                        6.931495,
-                        50.917976
-                  ]
-            },
-            {
-                  "name": "Vorgebirgspark",
-                  "text": "A protected public park in the south of Cologne, known for its strict geometric design.",
-                  "category": "park",
-                  "coords": [
-                        6.950993,
-                        50.910645
-                  ]
-            },
-            {
-                  "name": "Alt St. Alban",
-                  "text": "The ruins of a Romanesque church that today serve as a memorial to the dead of the world wars.",
-                  "category": "historical",
-                  "coords": [
-                        6.958254,
-                        50.936934
-                  ]
-            },
-            {
-                  "name": "Friedenspark",
-                  "text": "A park in the south of Cologne created on the former Prussian fortifications around Fort I.",
-                  "category": "park",
-                  "coords": [
-                        6.967821,
-                        50.917174
-                  ]
-            },
-            {
-                  "name": "Römerpark",
-                  "text": "A historic park in the Südstadt that was named after the city's Roman past.",
-                  "category": "park",
-                  "coords": [
-                        6.966134,
-                        50.919456
-                  ]
-            },
-            {
-                  "name": "Hansaplatz",
-                  "text": "A central square on the Hansaring featuring preserved sections of the medieval Cologne city wall.",
-                  "category": "park",
-                  "coords": [
-                        6.947725,
-                        50.946514
-                  ]
-            },
-            {
-                  "name": "Reiterdenkmal Friedrich Wilhelm III.",
-                  "text": "Equestrian statue of Frederick William III located at the Heumarkt in Cologne.",
-                  "category": "historical",
-                  "coords": [
-                        6.960686,
-                        50.936259
-                  ]
-            },
-            {
-                  "name": "Klingelpützpark",
-                  "text": "Public park in Cologne's Old Town North, built on the site of a former prison.",
-                  "category": "park",
-                  "coords": [
-                        6.950346,
-                        50.946209
-                  ]
-            },
-            {
-                  "name": "Carola-Williams-Park",
-                  "text": "A green space in the Lindenthal district of Cologne, named after circus director Carola Williams.",
-                  "category": "park",
-                  "coords": [
-                        6.928028,
-                        50.939155
-                  ]
-            },
-            {
-                  "name": "Humboldtpark",
-                  "text": "Park in the Humboldt/Gremberg district of Cologne with playgrounds and recreational areas.",
-                  "category": "park",
-                  "coords": [
-                        6.992645,
-                        50.932162
-                  ]
-            },
-            {
-                  "name": "Richmodisturm",
-                  "text": "A tower at Cologne's Neumarkt, famous for the legend of Richmodis von Aducht.",
-                  "category": "tower",
-                  "coords": [
-                        6.9477,
-                        50.936892
-                  ]
-            },
-            {
-                  "name": "Blücherparkweiher",
-                  "text": "The Blücherparkweiher in Cologne is a lake in a park setting that invites relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        6.926953,
-                        50.963115
-                  ]
-            },
-            {
-                  "name": "Vingster See",
-                  "text": "Vingster See in Cologne offers a natural environment for those seeking recreation.",
-                  "category": "natural",
-                  "coords": [
-                        7.027211,
-                        50.926268
-                  ]
-            },
-            {
-                  "name": "Efferener Baggerloch",
-                  "text": "The Efferener Baggerloch near Cologne is a lake surrounded by nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.914573,
-                        50.891009
-                  ]
-            },
-            {
-                  "name": "Rather See",
-                  "text": "Rather See in Cologne invites for walks by the water in a peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        7.068851,
-                        50.930777
-                  ]
-            },
-            {
-                  "name": "Decksteiner Weiher",
-                  "text": "Decksteiner Weiher in Cologne is a popular destination for nature outings.",
-                  "category": "natural",
-                  "coords": [
-                        6.893963,
-                        50.911224
-                  ]
-            },
-            {
-                  "name": "Alberti-See",
-                  "text": "Alberti-See in Cologne offers visitors a place to relax in a green setting.",
-                  "category": "natural",
-                  "coords": [
-                        7.03657,
-                        50.911443
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "The miniature golf course in Cologne offers leisure fun for visitors of all ages.",
-                  "category": "family",
-                  "coords": [
-                        6.978733,
-                        50.952444
-                  ]
-            },
-            {
-                  "name": "Casina Spieltheke",
-                  "text": "Casina Spieltheke in Cologne offers various entertainment options for visitors.",
-                  "category": "family",
-                  "coords": [
-                        7.000409,
-                        50.938248
-                  ]
-            },
-            {
-                  "name": "Gamer - Die Gameshow",
-                  "text": "Gamer - Die Gameshow in Cologne offers exciting games and entertainment.",
-                  "category": "family",
-                  "coords": [
-                        6.956941,
-                        50.932843
-                  ]
-            },
-            {
-                  "name": "Glowing Rooms",
-                  "text": "Glowing Rooms in Cologne offers a special minigolf experience in a colorful setting.",
-                  "category": "family",
-                  "coords": [
-                        6.933279,
-                        50.936681
-                  ]
-            },
-            {
-                  "name": "Giga Center Köln",
-                  "text": "Giga Center Cologne offers a wide range of games and entertainment.",
-                  "category": "family",
-                  "coords": [
-                        6.938676,
-                        50.936847
-                  ]
-            },
-            {
-                  "name": "Reischplatz",
-                  "text": "The Reischplatz playground in Cologne is a centrally located spot for children to play.",
-                  "category": "family",
-                  "coords": [
-                        6.976173,
-                        50.936258
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Römerturm / Auf dem Berlich",
-                  "text": "The Am Römerturm playground in Cologne offers children play options in a historic setting.",
-                  "category": "family",
-                  "coords": [
-                        6.947324,
-                        50.94013
-                  ]
-            },
-            {
-                  "name": "Im Hafenpark / An der Drehbrücke",
-                  "text": "The playground in Hafenpark Cologne invites children to play near the Rhine.",
-                  "category": "family",
-                  "coords": [
-                        6.973834,
-                        50.92835
-                  ]
-            },
-            {
-                  "name": "Ubierring",
-                  "text": "The playground at Ubierring in Cologne offers children space for movement and play.",
-                  "category": "family",
-                  "coords": [
-                        6.965344,
-                        50.921972
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Nord",
-                  "text": "The Theodor-Heuss-Ring Nord playground in Cologne is a spot for playing in a green area.",
-                  "category": "family",
-                  "coords": [
-                        6.964715,
-                        50.9505
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Heuss-Ring Süd",
-                  "text": "The Theodor-Heuss-Ring Süd playground in Cologne offers children various play opportunities.",
-                  "category": "family",
-                  "coords": [
-                        6.963213,
-                        50.950275
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 1/Erftstraße",
-                  "text": "Spielplatz August-Sander-Park 1/Erftstraße is a playground in Koeln, ideal for family outings with children.",
-                  "category": "family",
-                  "coords": [
-                        6.939624,
-                        50.947541
-                  ]
-            },
-            {
-                  "name": "Spielplatz August-Sander-Park 2/Maybachstraße",
-                  "text": "Spielplatz August-Sander-Park 2/Maybachstraße is a playground in Koeln, ideal for family outings with children.",
-                  "category": "family",
-                  "coords": [
-                        6.948225,
-                        50.94913
-                  ]
-            },
-            {
-                  "name": "Im Dau",
-                  "text": "Im Dau is a playground in Koeln, ideal for family outings with children.",
-                  "category": "family",
-                  "coords": [
-                        6.95664,
-                        50.926795
-                  ]
-            },
-            {
-                  "name": "An der Eiche",
-                  "text": "An der Eiche is a playground in Koeln, ideal for family outings with children.",
-                  "category": "family",
-                  "coords": [
-                        6.960593,
-                        50.925076
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Rheinpark",
-                  "text": "Spielplatz im Rheinpark is a playground in Koeln, ideal for family outings with children.",
-                  "category": "family",
-                  "coords": [
-                        6.974136,
-                        50.949012
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Kölner Dom",
-                  "text": "UNESCO Dünya Mirası listesindeki bu şehir simgesi, anıtsal Gotik mimarisiyle ziyaretçilerini büyülemektedir.",
-                  "category": "church",
-                  "coords": [
-                        6.958333,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Hohenzollernbrücke",
-                  "text": "Binlerce aşk kilidiyle ünlü bu demir yolu köprüsü, Katedral'e bakan harika bir manzara sunmaktadır.",
-                  "category": "bridge",
-                  "coords": [
-                        6.965556,
-                        50.941389
-                  ]
-            },
-            {
-                  "name": "Çikolata Müzesi",
-                  "text": "Ren Nehri kıyısında yer alan müze, çikolata üretiminin büyüleyici dünyasına derinlemesine bir bakış sunar.",
-                  "category": "museum",
-                  "coords": [
-                        6.96427,
-                        50.9322
-                  ]
-            },
-            {
-                  "name": "Museum Ludwig",
-                  "text": "Modern sanatın önemli merkezlerinden biri olan müze, dünyaca ünlü kapsamlı bir Picasso koleksiyonuna sahiptir.",
-                  "category": "museum",
-                  "coords": [
-                        6.960278,
-                        50.940833
-                  ]
-            },
-            {
-                  "name": "Tarihi Belediye Binası",
-                  "text": "Görkemli kulesiyle dikkat çeken bu yapı, eski imparatorluk şehrinin uzun ve köklü tarihini yansıtmaktadır.",
-                  "category": "historical",
-                  "coords": [
-                        6.9593,
-                        50.938
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Kölner Dom", "text": "Das UNESCO-Welterbe und Wahrzeichen der Stadt beeindruckt durch seine monumentale gotische Architektur.", "category": "church", "confidence": "high", "coords": [6.958333, 50.941389]}, {"name": "Hohenzollernbrücke", "text": "Die berühmte Eisenbahnbrücke ist bekannt für die tausenden Liebesschlösser und den Blick auf den Dom.", "category": "bridge", "confidence": "high", "coords": [6.965556, 50.941389]}, {"name": "Schokoladenmuseum", "text": "Direkt am Rhein gelegen, bietet das Museum spannende Einblicke in die Welt der Schokoladenherstellung.", "category": "museum", "confidence": "high", "coords": [6.96427, 50.9322]}, {"name": "Museum Ludwig", "text": "Ein bedeutendes Kunstmuseum für moderne Kunst, das unter anderem eine große Picasso-Sammlung beherbergt.", "category": "museum", "confidence": "high", "coords": [6.960278, 50.940833]}, {"name": "Historisches Rathaus", "text": "Der prachtvolle Bau mit seinem markanten Rathausturm spiegelt die lange Geschichte der freien Reichsstadt wider.", "category": "historical", "confidence": "high", "coords": [6.9593, 50.938]}, {"name": "NS-Dokumentationszentrum", "text": "Ein Museum im ehemaligen EL-DE-Haus, das die Geschichte des Nationalsozialismus in Köln umfassend dokumentiert.", "category": "museum", "coords": [6.950238, 50.940565]}, {"name": "Gloria Theater", "text": "Ein traditionsreiches Veranstaltungshaus in einem ehemaligen Kino, bekannt für Konzerte und Comedy.", "category": "cultural", "coords": [6.944948, 50.937488]}, {"name": "Hänneschen-Theater", "text": "Das traditionsreiche Stockpuppentheater der Stadt Köln befindet sich am Eisenmarkt in der Altstadt.", "category": "cultural", "coords": [6.961948, 50.937088]}, {"name": "COMEDIA Theater", "text": "Ein Zentrum für Kinder- und Jugendtheater, das in einer ehemaligen Feuerwache untergebracht ist.", "category": "cultural", "coords": [6.955575, 50.920559]}, {"name": "Praetorium", "text": "Die Ausgrabungsstätte zeigt die Ruinen des römischen Statthalterpalastes unter dem heutigen Rathaus.", "category": "historical", "coords": [6.958951, 50.939018]}, {"name": "Theater am Dom", "text": "Eines der bekanntesten Boulevardtheater Deutschlands, das vor allem Komödien auf die Bühne bringt.", "category": "cultural", "coords": [6.95121, 50.938634]}, {"name": "Theater im Bauturm", "text": "Ein freies Theater an der Aachener Straße, das für zeitgenössische Inszenierungen bekannt ist.", "category": "cultural", "coords": [6.936448, 50.936691]}, {"name": "Kölnisches Stadtmuseum", "text": "Das Museum dokumentiert die Geschichte der Stadt Köln vom Mittelalter bis in die Gegenwart.", "category": "museum", "coords": [6.954266, 50.939021]}, {"name": "Kölnischer Kunstverein", "text": "Ein Kunstverein, der sich der Vermittlung zeitgenössischer Kunst durch Ausstellungen widmet.", "category": "museum", "coords": [6.943953, 50.93609]}, {"name": "Tiefrot", "text": "Ein kleines Privattheater in Köln, das ein abwechslungsreiches Programm aus Schauspiel und Kabarett bietet.", "category": "cultural", "coords": [6.960011, 50.948271]}, {"name": "Senftöpfchen", "text": "Das traditionsreiche Kabarett-Theater in der Kölner Altstadt ist bekannt für Satire und Kleinkunst.", "category": "cultural", "coords": [6.960587, 50.939668]}, {"name": "Jawne", "text": "Der Lern- und Gedenkort erinnert an die Geschichte der ehemaligen jüdischen Schule Jawne in Köln.", "category": "museum", "coords": [6.944688, 50.939881]}, {"name": "Deutsches Tanzarchiv", "text": "Ein Museum und Archiv in Köln, das sich der Geschichte und Dokumentation der Tanzkunst widmet.", "category": "museum", "coords": [6.94339, 50.948693]}, {"name": "Käthe Kollwitz Museum", "text": "Das Museum beherbergt eine der weltweit umfangreichsten Sammlungen der Künstlerin Käthe Kollwitz.", "category": "museum", "coords": [6.946165, 50.93667]}, {"name": "Rautenstrauch-Joest-Museum", "text": "Ein bedeutendes ethnologisches Museum in Köln mit Exponaten aus verschiedenen Weltkulturen.", "category": "museum", "coords": [6.950437, 50.934696]}, {"name": "Barbarastollen", "text": "Eine originalgetreue Rekonstruktion eines Bergbaustollens unter dem Gelände der Universität zu Köln.", "category": "museum", "coords": [6.929304, 50.928289]}, {"name": "Geomuseum", "text": "Das geowissenschaftliche Museum der Universität zu Köln präsentiert geologische und mineralogische Sammlungen.", "category": "museum", "coords": [6.934658, 50.926887]}, {"name": "Kölner Zoo", "text": "Einer der ältesten Zoos Deutschlands, bekannt für seinen großen Elefantenpark und das Hippodom.", "category": "family", "coords": [6.976717, 50.961155]}, {"name": "Musical Dome", "text": "Eine markante Spielstätte direkt am Rhein, die für große Musical-Produktionen in Köln bekannt ist.", "category": "cultural", "coords": [6.961707, 50.942815]}, {"name": "Deutsches Sport- und Olympiamuseum", "text": "Das Museum präsentiert die Geschichte des Sports von der Antike bis zur Gegenwart im Kölner Rheinauhafen.", "category": "museum", "coords": [6.964658, 50.931173]}, {"name": "Fort IV", "text": "Teil der historischen Kölner Festungsanlage, der heute als Zeugnis der preußischen Verteidigungsarchitektur dient.", "category": "fortress", "coords": [6.943703, 50.922458]}, {"name": "Alte Mensa", "text": "Das traditionsreiche Theater der Universität zu Köln dient als Bühne für studentische und freie Ensembles.", "category": "cultural", "coords": [6.931183, 50.924423]}, {"name": "Geographie Rundbau", "text": "Ein markanter Rundbau in Köln, der heute als Teil des Geographischen Instituts der Universität genutzt wird.", "category": "fortress", "coords": [6.936415, 50.927558]}, {"name": "Kölner Senfmuseum (b.a.W. geschlossen)", "text": "Ein Museum zur Kulturgeschichte des Senfs, das Einblicke in traditionelle Herstellungsmethoden gibt.", "category": "museum", "coords": [6.962482, 50.932573]}, {"name": "The PhotoBookMuseum", "text": "Dieses Museum widmet sich der künstlerischen Gestaltung und der Geschichte von Fotobüchern.", "category": "museum", "coords": [6.921866, 50.94819]}, {"name": "Römisch-Germanisches Museum im Belgischen Haus", "text": "Die archäologische Sammlung des Museums ist vorübergehend in den Räumen des Belgischen Hauses untergebracht.", "category": "museum", "coords": [6.950335, 50.935628]}, {"name": "TimeRide", "text": "Eine Virtual-Reality-Attraktion, die die Geschichte Kölns durch digitale Zeitreisen erlebbar macht.", "category": "museum", "coords": [6.96041, 50.938539]}, {"name": "Müllseum", "text": "Ein originelles Museum in Köln, das sich thematisch mit Abfallvermeidung und Recycling befasst.", "category": "museum", "coords": [6.991211, 50.932224]}, {"name": "Agrippa-Bad", "text": "Ein großes Freizeitbad im Zentrum Kölns, das Schwimmbecken, Rutschen und Saunalandschaften bietet.", "category": "family", "coords": [6.951985, 50.932619]}, {"name": "\"Odonien\" - Kunst-und Kulturpark", "text": "Ein vom Künstler Odo Rumpf geschaffener Kunstpark, der Skulpturenwerkstatt, Eventlocation und Kulturzentrum vereint.", "category": "family", "coords": [6.938769, 50.954743]}, {"name": "Aquarium & Insektarium", "text": "Ein Teil des Kölner Zoos, der eine Vielzahl an Fischen, Reptilien und Insekten in verschiedenen Habitaten zeigt.", "category": "family", "coords": [6.972408, 50.958449]}, {"name": "Weinmuseum", "text": "Ein Museum in Köln, das sich der Geschichte und Kultur des Weinbaus in der Region widmet.", "category": "museum", "coords": [6.967698, 50.956408]}, {"name": "km 689 Cologne Beach Club", "text": "Direkt am Rheinufer gelegen, bringt dieser Beachclub echtes Urlaubsflair mitten nach Köln. Besucher können im feinen Sand entspannen und dabei den großartigen Ausblick auf den Dom genießen. Die lebhafte Atmosphäre zieht Einheimische wie Gäste gleichermaßen an, um Sonne zu tanken. An warmen Sommerabenden lohnt sich ein rechtzeitiger Besuch, um den besten Platz zu ergattern.", "category": "recreational", "coords": [6.970747, 50.946753]}, {"name": "Lysolphturm", "text": "Überreste eines historischen Turms der mittelalterlichen Stadtbefestigung in der Kölner Altstadt.", "category": "historical", "coords": [6.953156, 50.941418]}, {"name": "Rheingarten", "text": "Eine gepflegte Parkanlage direkt am Rheinufer zwischen der Altstadt und dem Fluss.", "category": "park", "coords": [6.962563, 50.938801]}, {"name": "Rheinpark", "text": "Ein weitläufiger Landschaftspark am rechten Rheinufer, der für die Bundesgartenschau angelegt wurde.", "category": "park", "coords": [6.975994, 50.949611]}, {"name": "Trude-Herr-Park", "text": "Eine nach der Kölner Volksschauspielerin Trude Herr benannte Grünanlage im Stadtteil Neustadt-Süd.", "category": "park", "coords": [6.963475, 50.925411]}, {"name": "Weißhaus", "text": "Ein historisches Wasserschloss mit Parkanlage im Stadtteil Sülz, das heute als Privatresidenz dient.", "category": "park", "coords": [6.931495, 50.917976]}, {"name": "Vorgebirgspark", "text": "Ein denkmalgeschützter Volkspark im Kölner Süden, der für seine streng geometrische Gestaltung bekannt ist.", "category": "park", "coords": [6.950993, 50.910645]}, {"name": "Alt St. Alban", "text": "Die Ruine einer romanischen Kirche, die heute als Mahnmal für die Toten der Weltkriege dient.", "category": "historical", "coords": [6.958254, 50.936934]}, {"name": "Friedenspark", "text": "Ein Park im Kölner Süden, der auf den ehemaligen preußischen Festungsanlagen rund um das Fort I entstand.", "category": "park", "coords": [6.967821, 50.917174]}, {"name": "Römerpark", "text": "Ein geschichtsträchtiger Park in der Südstadt, der nach der römischen Vergangenheit der Stadt benannt wurde.", "category": "park", "coords": [6.966134, 50.919456]}, {"name": "Hansaplatz", "text": "Ein zentraler Platz am Hansaring mit erhaltenen Teilen der mittelalterlichen Kölner Stadtmauer.", "category": "park", "coords": [6.947725, 50.946514]}, {"name": "Reiterdenkmal Friedrich Wilhelm III.", "text": "Reiterstandbild von Friedrich Wilhelm III. auf dem Heumarkt in Köln.", "category": "historical", "coords": [6.960686, 50.936259]}, {"name": "Klingelpützpark", "text": "Öffentliche Parkanlage im Kölner Stadtteil Altstadt-Nord auf dem Gelände eines ehemaligen Gefängnisses.", "category": "park", "coords": [6.950346, 50.946209]}, {"name": "Carola-Williams-Park", "text": "Eine Grünanlage im Kölner Stadtteil Lindenthal, benannt nach der Zirkusdirektorin Carola Williams.", "category": "park", "coords": [6.928028, 50.939155]}, {"name": "Humboldtpark", "text": "Parkanlage im Kölner Stadtteil Humboldt/Gremberg mit Spielplätzen und Erholungsflächen.", "category": "park", "coords": [6.992645, 50.932162]}, {"name": "Richmodisturm", "text": "Ein Turm am Kölner Neumarkt, bekannt für die Sage der Richmodis von Aducht.", "category": "tower", "coords": [6.9477, 50.936892]}, {"name": "Blücherparkweiher", "text": "Der Blücherparkweiher in Köln ist ein See in einer Parkanlage, der zum Entspannen einlädt.", "category": "natural", "coords": [6.926953, 50.963115]}, {"name": "Vingster See", "text": "Der Vingster See in Köln bietet eine natürliche Umgebung für Erholungssuchende.", "category": "natural", "coords": [7.027211, 50.926268]}, {"name": "Efferener Baggerloch", "text": "Das Efferener Baggerloch bei Köln ist ein See, der von Natur umgeben ist.", "category": "natural", "coords": [6.914573, 50.891009]}, {"name": "Rather See", "text": "Der Rather See in Köln lädt zu Spaziergängen am Wasser in einer ruhigen Atmosphäre ein.", "category": "natural", "coords": [7.068851, 50.930777]}, {"name": "Decksteiner Weiher", "text": "Der Decksteiner Weiher in Köln ist ein beliebtes Ziel für Ausflüge in die Natur.", "category": "natural", "coords": [6.893963, 50.911224]}, {"name": "Alberti-See", "text": "Der Alberti-See in Köln bietet Besuchern einen Ort zum Entspannen im Grünen.", "category": "natural", "coords": [7.03657, 50.911443]}, {"name": "Minigolf", "text": "Die Minigolfanlage in Köln bietet Freizeitspaß für Besucher jeden Alters.", "category": "family", "coords": [6.978733, 50.952444]}, {"name": "Casina Spieltheke", "text": "Casina Spieltheke in Köln bietet verschiedene Unterhaltungsmöglichkeiten für Besucher.", "category": "family", "coords": [7.000409, 50.938248]}, {"name": "Gamer - Die Gameshow", "text": "Gamer - Die Gameshow in Köln bietet spannende Spiele und Unterhaltung.", "category": "family", "coords": [6.956941, 50.932843]}, {"name": "Glowing Rooms", "text": "Glowing Rooms in Köln bietet ein besonderes Minigolf-Erlebnis in farbenfroher Umgebung.", "category": "family", "coords": [6.933279, 50.936681]}, {"name": "Giga Center Köln", "text": "Das Giga Center Köln bietet eine große Auswahl an Spielen und Unterhaltung.", "category": "family", "coords": [6.938676, 50.936847]}, {"name": "Reischplatz", "text": "Der Spielplatz Reischplatz in Köln ist ein zentral gelegener Ort zum Spielen für Kinder.", "category": "family", "coords": [6.976173, 50.936258]}, {"name": "Spielplatz Am Römerturm / Auf dem Berlich", "text": "Der Spielplatz Am Römerturm in Köln bietet Kindern Spielmöglichkeiten in historischer Umgebung.", "category": "family", "coords": [6.947324, 50.94013]}, {"name": "Im Hafenpark / An der Drehbrücke", "text": "Der Spielplatz im Hafenpark Köln lädt Kinder zum Spielen in der Nähe des Rheins ein.", "category": "family", "coords": [6.973834, 50.92835]}, {"name": "Ubierring", "text": "Der Spielplatz am Ubierring in Köln bietet Kindern Raum für Bewegung und Spiel.", "category": "family", "coords": [6.965344, 50.921972]}, {"name": "Spielplatz Theodor-Heuss-Ring Nord", "text": "Der Spielplatz Theodor-Heuss-Ring Nord in Köln ist eine Anlage zum Spielen im Grünen.", "category": "family", "coords": [6.964715, 50.9505]}, {"name": "Spielplatz Theodor-Heuss-Ring Süd", "text": "Der Spielplatz Theodor-Heuss-Ring Süd in Köln bietet Kindern vielfältige Spielmöglichkeiten.", "category": "family", "coords": [6.963213, 50.950275]}, {"name": "Spielplatz August-Sander-Park 1/Erftstraße", "text": "Spielplatz August-Sander-Park 1/Erftstraße ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.", "category": "family", "coords": [6.939624, 50.947541]}, {"name": "Spielplatz August-Sander-Park 2/Maybachstraße", "text": "Spielplatz August-Sander-Park 2/Maybachstraße ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.", "category": "family", "coords": [6.948225, 50.94913]}, {"name": "Im Dau", "text": "Im Dau ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.", "category": "family", "coords": [6.95664, 50.926795]}, {"name": "An der Eiche", "text": "An der Eiche ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.", "category": "family", "coords": [6.960593, 50.925076]}, {"name": "Spielplatz im Rheinpark", "text": "Spielplatz im Rheinpark ist ein Spielplatz in Koeln, ideal für Familienausflüge mit Kindern.", "category": "family", "coords": [6.974136, 50.949012]}, {"name": "Zollstockbad", "text": "Das Zollstockbad in Köln lädt Familien zu sportlichem Schwimmen und Wasserspaß ein.", "category": "family", "coords": [6.948595, 50.904929]}, {"name": "Lentpark", "text": "Der Lentpark in Köln bietet eine einzigartige Kombination aus Eislaufen und Schwimmen.", "category": "family", "coords": [6.965603, 50.958513]}, {"name": "Claudius Therme", "text": "Die Claudius Therme in Köln ist ein wunderbarer Ort für Wellness und Entspannung.", "category": "family", "coords": [6.979711, 50.950968]}], "hu": [{"name": "Kölni dóm", "text": "Az UNESCO Világörökség része és a város jelképe, amely monumentális gótikus építészetével nyűgözi le a látogatókat.", "category": "church", "confidence": "high", "coords": [6.958333, 50.941389]}, {"name": "Hohenzollern-híd", "text": "A híres vasúti híd a rajta elhelyezett több ezer szerelemlakatról és a dómra nyíló kilátásról ismert.", "category": "bridge", "confidence": "high", "coords": [6.965556, 50.941389]}, {"name": "Csokoládémúzeum", "text": "Közvetlenül a Rajna partján található, izgalmas betekintést nyújt a csokoládégyártás világába.", "category": "museum", "confidence": "high", "coords": [6.96427, 50.9322]}, {"name": "Ludwig Múzeum", "text": "A modern művészet egyik legfontosabb múzeuma, amely többek között jelentős Picasso-gyűjteménnyel rendelkezik.", "category": "museum", "confidence": "high", "coords": [6.960278, 50.940833]}, {"name": "Történelmi városháza", "text": "A pompás épület jellegzetes tornyával a szabad birodalmi város hosszú történelmét tükrözi.", "category": "historical", "confidence": "high", "coords": [6.9593, 50.938]}, {"name": "NS-Dokumentationszentrum", "text": "Az egykori EL-DE-házban található múzeum, amely átfogóan dokumentálja a nemzetiszocializmus történetét Kölnben.", "category": "museum", "coords": [6.950238, 50.940565]}, {"name": "Gloria Theater", "text": "Egy korábbi moziban kialakított nagy múltú rendezvényhelyszín, amely koncerteknek és kabarénak ad otthont.", "category": "cultural", "coords": [6.944948, 50.937488]}, {"name": "Hänneschen-Theater", "text": "Köln hagyományos botos bábúkkal működő színháza az óvárosi Eisenmarkton található.", "category": "cultural", "coords": [6.961948, 50.937088]}, {"name": "COMEDIA Theater", "text": "Egy korábbi tűzoltóállomáson kialakított gyermek- és ifjúsági színházi központ.", "category": "cultural", "coords": [6.955575, 50.920559]}, {"name": "Praetorium", "text": "A régészeti lelőhely a római helytartói palota romjait mutatja be a mai városháza alatt.", "category": "historical", "coords": [6.958951, 50.939018]}, {"name": "Theater am Dom", "text": "Németország egyik legismertebb bulvárszínháza, amely elsősorban vígjátékokat mutat be.", "category": "cultural", "coords": [6.95121, 50.938634]}, {"name": "Theater im Bauturm", "text": "Az Aachener Straßén található független színház, amely kortárs produkcióiról ismert.", "category": "cultural", "coords": [6.936448, 50.936691]}, {"name": "Kölnisches Stadtmuseum", "text": "A múzeum Köln városának történelmét mutatja be a középkortól napjainkig.", "category": "museum", "coords": [6.954266, 50.939021]}, {"name": "Kölnischer Kunstverein", "text": "Kortárs művészeti egyesület, amely kiállításokon keresztül mutatja be a modern alkotásokat.", "category": "museum", "coords": [6.943953, 50.93609]}, {"name": "Tiefrot", "text": "Egy kis magánszínház Kölnben, amely változatos prózai és kabaré-előadásokat kínál.", "category": "cultural", "coords": [6.960011, 50.948271]}, {"name": "Senftöpfchen", "text": "A kölni óváros nagy múltú kabarészínháza, amely szatíráiról és előadóművészeti estjeiről ismert.", "category": "cultural", "coords": [6.960587, 50.939668]}, {"name": "Jawne", "text": "Az emlékhely az egykori kölni Jawne zsidó iskola történetének állít emléket.", "category": "museum", "coords": [6.944688, 50.939881]}, {"name": "Deutsches Tanzarchiv", "text": "Kölni múzeum és archívum, amely a táncművészet történetének dokumentálásával foglalkozik.", "category": "museum", "coords": [6.94339, 50.948693]}, {"name": "Käthe Kollwitz Museum", "text": "A múzeum Käthe Kollwitz művész egyik legjelentősebb gyűjteményének ad otthont Kölnben.", "category": "museum", "coords": [6.946165, 50.93667]}, {"name": "Rautenstrauch-Joest-Museum", "text": "Jelentős kölni néprajzi múzeum, amely a világ különböző kultúráit mutatja be.", "category": "museum", "coords": [6.950437, 50.934696]}, {"name": "Barbarastollen", "text": "Egy bányatárna élethű rekonstrukciója a Kölni Egyetem területe alatt.", "category": "museum", "coords": [6.929304, 50.928289]}, {"name": "Geomuseum", "text": "A Kölni Egyetem földtudományi múzeuma geológiai és ásványtani gyűjteményeket mutat be.", "category": "museum", "coords": [6.934658, 50.926887]}, {"name": "Kölner Zoo", "text": "Németország egyik legrégebbi állatkertje, amely hatalmas elefántparkjáról és vízilóházáról ismert.", "category": "family", "coords": [6.976717, 50.961155]}, {"name": "Musical Dome", "text": "Jellegzetes színházépület a Rajna partján, amely nagyszabású kölni musical-produkcióknak ad otthont.", "category": "cultural", "coords": [6.961707, 50.942815]}, {"name": "Deutsches Sport- und Olympiamuseum", "text": "A kölni Rheinauhafenben található múzeum az ókortól napjainkig mutatja be a sport történetét.", "category": "museum", "coords": [6.964658, 50.931173]}, {"name": "Fort IV", "text": "A történelmi kölni erődrendszer része, amely ma a porosz védelmi építészet emlékeként szolgál.", "category": "fortress", "coords": [6.943703, 50.922458]}, {"name": "Alte Mensa", "text": "A Kölni Egyetem színháza, amely hallgatói és független társulatok előadásainak ad otthont.", "category": "cultural", "coords": [6.931183, 50.924423]}, {"name": "Geographie Rundbau", "text": "Jellegzetes kerek épület Kölnben, amely ma az egyetem Földrajzi Intézetének része.", "category": "fortress", "coords": [6.936415, 50.927558]}, {"name": "Kölner Senfmuseum (b.a.W. geschlossen)", "text": "A mustár kultúrtörténeti múzeuma, amely betekintést nyújt a hagyományos készítési módokba.", "category": "museum", "coords": [6.962482, 50.932573]}, {"name": "The PhotoBookMuseum", "text": "Ez a múzeum a fotókönyvek művészi kialakításának és történetének szenteli tárlatait.", "category": "museum", "coords": [6.921866, 50.94819]}, {"name": "Römisch-Germanisches Museum im Belgischen Haus", "text": "A múzeum régészeti gyűjteménye átmenetileg a kölni Belga Ház termeiben tekinthető meg.", "category": "museum", "coords": [6.950335, 50.935628]}, {"name": "TimeRide", "text": "Virtuális valóság élmény, amely digitális időutazáson keresztül mutatja be Köln múltját.", "category": "museum", "coords": [6.96041, 50.938539]}, {"name": "Müllseum", "text": "Eredeti kölni múzeum, amely a hulladékmegelőzéssel és az újrahasznosítással foglalkozik.", "category": "museum", "coords": [6.991211, 50.932224]}, {"name": "Agrippa-Bad", "text": "Nagy szabadidős fürdő Köln központjában, amely úszómedencékkel, csúszdákkal és szaunákkal várja a látogatókat.", "category": "family", "coords": [6.951985, 50.932619]}, {"name": "\"Odonien\" - Kunst-und Kulturpark", "text": "Odo Rumpf művész által létrehozott művészeti park, amely szobrászműhelyt és kulturális központot ötvöz.", "category": "family", "coords": [6.938769, 50.954743]}, {"name": "Aquarium & Insektarium", "text": "A Kölni Állatkert része, amely számos halat, hüllőt és rovart mutat be különböző élőhelyeken.", "category": "family", "coords": [6.972408, 50.958449]}, {"name": "Weinmuseum", "text": "Kölni múzeum, amely a bortermelés helyi történetét és kultúráját mutatja be.", "category": "museum", "coords": [6.967698, 50.956408]}, {"name": "km 689 Cologne Beach Club", "text": "A Rajna partján fekvő strandklub igazi nyaralási hangulatot varázsol Köln szívébe. A látogatók a finom homokban pihenhetnek, miközben a dóm lenyűgöző látványában gyönyörködhetnek. A pezsgő atmoszféra egyaránt vonzza a helyieket és a turistákat egy kis napfürdőzésre. Meleg nyári estéken érdemes időben érkezni, hogy biztosan jusson hely.", "category": "recreational", "coords": [6.970747, 50.946753]}, {"name": "Lysolphturm", "text": "Középkori városfalhoz tartozó történelmi torony maradványai Köln óvárosában.", "category": "historical", "coords": [6.953156, 50.941418]}, {"name": "Rheingarten", "text": "Gondozott park közvetlenül a Rajna partján, az óváros és a folyó között.", "category": "park", "coords": [6.962563, 50.938801]}, {"name": "Rheinpark", "text": "A Rajna jobb partján fekvő hatalmas tájpark, amelyet a szövetségi kertészeti kiállításra alakítottak ki.", "category": "park", "coords": [6.975994, 50.949611]}, {"name": "Trude-Herr-Park", "text": "Trude Herr kölni népi színésznőről elnevezett zöldterület a Neustadt-Süd városrészben.", "category": "park", "coords": [6.963475, 50.925411]}, {"name": "Weißhaus", "text": "Történelmi vízi kastély és park Sülz városrészben, amely ma magánrezidenciaként szolgál.", "category": "park", "coords": [6.931495, 50.917976]}, {"name": "Vorgebirgspark", "text": "Műemlékvédelem alatt álló néppark Köln déli részén, amely szigorú mértani elrendezéséről ismert.", "category": "park", "coords": [6.950993, 50.910645]}, {"name": "Alt St. Alban", "text": "Egy román stílusú templom romjai, amely ma a világháborúk áldozatainak emlékhelyeként szolgál.", "category": "historical", "coords": [6.958254, 50.936934]}, {"name": "Friedenspark", "text": "Köln déli részén fekvő park, amely az egykori porosz erődrendszer I. erődje körül jött létre.", "category": "park", "coords": [6.967821, 50.917174]}, {"name": "Römerpark", "text": "Történelmi park a déli városrészben, amelyet a város római kori múltjáról neveztek el.", "category": "park", "coords": [6.966134, 50.919456]}, {"name": "Hansaplatz", "text": "Központi tér a Hansaringen, ahol láthatók a középkori kölni városfal fennmaradt részei.", "category": "park", "coords": [6.947725, 50.946514]}, {"name": "Reiterdenkmal Friedrich Wilhelm III.", "text": "III. Frigyes Vilmos lovas szobra Kölnben, a Heumarkton található.", "category": "historical", "coords": [6.960686, 50.936259]}, {"name": "Klingelpützpark", "text": "Nyilvános park Köln északi óvárosában, egy egykori börtön helyén.", "category": "park", "coords": [6.950346, 50.946209]}, {"name": "Carola-Williams-Park", "text": "Köln Lindenthal negyedében található park, amelyet Carola Williams cirkuszigazgatóról neveztek el.", "category": "park", "coords": [6.928028, 50.939155]}, {"name": "Humboldtpark", "text": "Köln Humboldt/Gremberg negyedében fekvő park játszóterekkel és pihenőhelyekkel.", "category": "park", "coords": [6.992645, 50.932162]}, {"name": "Richmodisturm", "text": "Torony a kölni Neumarkton, amely a Richmodis von Aducht-legendáról ismert.", "category": "tower", "coords": [6.9477, 50.936892]}, {"name": "Blücherparkweiher", "text": "A kölni Blücherparkweiher egy parkban található tó, amely pihenésre hív.", "category": "natural", "coords": [6.926953, 50.963115]}, {"name": "Vingster See", "text": "A Vingster See Kölnben természetes környezetet biztosít a kikapcsolódni vágyóknak.", "category": "natural", "coords": [7.027211, 50.926268]}, {"name": "Efferener Baggerloch", "text": "A Köln melletti Efferener Baggerloch egy tó, amelyet természet vesz körül.", "category": "natural", "coords": [6.914573, 50.891009]}, {"name": "Rather See", "text": "A Rather See Kölnben nyugodt környezetben várja a vízparti séták kedvelőit.", "category": "natural", "coords": [7.068851, 50.930777]}, {"name": "Decksteiner Weiher", "text": "A Decksteiner Weiher Kölnben népszerű úti cél a természetkedvelők körében.", "category": "natural", "coords": [6.893963, 50.911224]}, {"name": "Alberti-See", "text": "A kölni Alberti-See kikapcsolódási lehetőséget kínál a zöldben a látogatóknak.", "category": "natural", "coords": [7.03657, 50.911443]}, {"name": "Minigolf", "text": "A kölni minigolfpálya szórakozást nyújt minden korosztály számára.", "category": "family", "coords": [6.978733, 50.952444]}, {"name": "Casina Spieltheke", "text": "A Casina Spieltheke Kölnben különféle szórakozási lehetőségeket kínál.", "category": "family", "coords": [7.000409, 50.938248]}, {"name": "Gamer - Die Gameshow", "text": "A Gamer - Die Gameshow Kölnben izgalmas játékokat és szórakozást kínál.", "category": "family", "coords": [6.956941, 50.932843]}, {"name": "Glowing Rooms", "text": "A kölni Glowing Rooms különleges minigolf-élményt nyújt színes környezetben.", "category": "family", "coords": [6.933279, 50.936681]}, {"name": "Giga Center Köln", "text": "A kölni Giga Center játékok és szórakozási lehetőségek széles választékát kínálja.", "category": "family", "coords": [6.938676, 50.936847]}, {"name": "Reischplatz", "text": "A Reischplatz játszótér Kölnben egy központi helyszín a gyerekek játékához.", "category": "family", "coords": [6.976173, 50.936258]}, {"name": "Spielplatz Am Römerturm / Auf dem Berlich", "text": "Az Am Römerturm játszótér Kölnben történelmi környezetben kínál játéklehetőséget.", "category": "family", "coords": [6.947324, 50.94013]}, {"name": "Im Hafenpark / An der Drehbrücke", "text": "A kölni Hafenpark játszótere a Rajna közelében várja a játszani vágyó gyerekeket.", "category": "family", "coords": [6.973834, 50.92835]}, {"name": "Ubierring", "text": "Az Ubierring játszótér Kölnben teret biztosít a gyerekeknek a mozgáshoz és játékhoz.", "category": "family", "coords": [6.965344, 50.921972]}, {"name": "Spielplatz Theodor-Heuss-Ring Nord", "text": "A Theodor-Heuss-Ring Nord játszótér Kölnben egy zöldövezeti helyszín a játékhoz.", "category": "family", "coords": [6.964715, 50.9505]}, {"name": "Spielplatz Theodor-Heuss-Ring Süd", "text": "A Theodor-Heuss-Ring Süd játszótér Kölnben változatos játéklehetőségeket kínál.", "category": "family", "coords": [6.963213, 50.950275]}, {"name": "Spielplatz August-Sander-Park 1/Erftstraße", "text": "A(z) Spielplatz August-Sander-Park 1/Erftstraße egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.", "category": "family", "coords": [6.939624, 50.947541]}, {"name": "Spielplatz August-Sander-Park 2/Maybachstraße", "text": "A(z) Spielplatz August-Sander-Park 2/Maybachstraße egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.", "category": "family", "coords": [6.948225, 50.94913]}, {"name": "Im Dau", "text": "A(z) Im Dau egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.", "category": "family", "coords": [6.95664, 50.926795]}, {"name": "An der Eiche", "text": "A(z) An der Eiche egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.", "category": "family", "coords": [6.960593, 50.925076]}, {"name": "Spielplatz im Rheinpark", "text": "A(z) Spielplatz im Rheinpark egy játszótér Koeln városában, ideális családi kirándulásokhoz gyerekekkel.", "category": "family", "coords": [6.974136, 50.949012]}, {"name": "Zollstockbad", "text": "A kölni Zollstockbad sportos úszásra és vízi szórakozásra hívja a családokat.", "category": "family", "coords": [6.948595, 50.904929]}, {"name": "Lentpark", "text": "A kölni Lentpark a korcsolyázás és az úszás egyedülálló kombinációját kínálja.", "category": "family", "coords": [6.965603, 50.958513]}, {"name": "Claudius Therme", "text": "A kölni Claudius Therme csodálatos hely a wellnessre és a pihenésre.", "category": "family", "coords": [6.979711, 50.950968]}], "ro": [{"name": "Domul din Köln", "text": "Simbolul orașului și sit UNESCO, catedrala impresionează prin arhitectura gotică monumentală și înălțime.", "category": "church", "confidence": "high", "coords": [6.958333, 50.941389]}, {"name": "Podul Hohenzollern", "text": "Celebrul pod feroviar este cunoscut pentru miile de lacăte ale iubirii și vederea superbă spre catedrală.", "category": "bridge", "confidence": "high", "coords": [6.965556, 50.941389]}, {"name": "Muzeul Ciocolatei", "text": "Situat pe malul Rinului, muzeul oferă o incursiune fascinantă în istoria și producția ciocolatei.", "category": "museum", "confidence": "high", "coords": [6.96427, 50.9322]}, {"name": "Muzeul Ludwig", "text": "Un muzeu de artă modernă de renume, care găzduiește una dintre cele mai mari colecții Picasso din lume.", "category": "museum", "confidence": "high", "coords": [6.960278, 50.940833]}, {"name": "Primăria istorică", "text": "Clădirea magnifică cu turnul său distinctiv reflectă istoria îndelungată a orașului imperial liber.", "category": "historical", "confidence": "high", "coords": [6.9593, 50.938]}, {"name": "NS-Dokumentationszentrum", "text": "Un muzeu în fosta casă EL-DE, care documentează cuprinzător istoria național-socialismului în Köln.", "category": "museum", "coords": [6.950238, 50.940565]}, {"name": "Gloria Theater", "text": "O locație culturală cu tradiție într-un fost cinematograf, cunoscută pentru concerte și spectacole de comedie.", "category": "cultural", "coords": [6.944948, 50.937488]}, {"name": "Hänneschen-Theater", "text": "Teatrul tradițional de păpuși din Köln este situat în piața Eisenmarkt din centrul vechi.", "category": "cultural", "coords": [6.961948, 50.937088]}, {"name": "COMEDIA Theater", "text": "Un centru pentru teatru de copii și tineret, găzduit într-o fostă unitate de pompieri.", "category": "cultural", "coords": [6.955575, 50.920559]}, {"name": "Praetorium", "text": "Situl arheologic prezintă ruinele palatului guvernatorului roman, aflate sub actuala primărie.", "category": "historical", "coords": [6.958951, 50.939018]}, {"name": "Theater am Dom", "text": "Unul dintre cele mai cunoscute teatre de bulevard din Germania, specializat în comedii.", "category": "cultural", "coords": [6.95121, 50.938634]}, {"name": "Theater im Bauturm", "text": "Un teatru independent de pe Aachener Straße, cunoscut pentru producțiile sale contemporane.", "category": "cultural", "coords": [6.936448, 50.936691]}, {"name": "Kölnisches Stadtmuseum", "text": "Muzeul documentează istoria orașului Köln din Evul Mediu până în prezent.", "category": "museum", "coords": [6.954266, 50.939021]}, {"name": "Kölnischer Kunstverein", "text": "O asociație de artă dedicată promovării artei contemporane prin expoziții.", "category": "museum", "coords": [6.943953, 50.93609]}, {"name": "Tiefrot", "text": "Un mic teatru privat din Köln care oferă un program variat de teatru și cabaret.", "category": "cultural", "coords": [6.960011, 50.948271]}, {"name": "Senftöpfchen", "text": "Teatrul de cabaret cu tradiție din centrul vechi al Kölnului este cunoscut pentru satiră și divertisment.", "category": "cultural", "coords": [6.960587, 50.939668]}, {"name": "Jawne", "text": "Locul de memorie și învățare comemorează istoria fostei școli evreiești Jawne din Köln.", "category": "museum", "coords": [6.944688, 50.939881]}, {"name": "Deutsches Tanzarchiv", "text": "Un muzeu și arhivă din Köln dedicat istoriei și documentării artei dansului.", "category": "museum", "coords": [6.94339, 50.948693]}, {"name": "Käthe Kollwitz Museum", "text": "Muzeul găzduiește una dintre cele mai vaste colecții ale artistei Käthe Kollwitz din lume.", "category": "museum", "coords": [6.946165, 50.93667]}, {"name": "Rautenstrauch-Joest-Museum", "text": "Un important muzeu etnologic din Köln, cu exponate din diverse culturi ale lumii.", "category": "museum", "coords": [6.950437, 50.934696]}, {"name": "Barbarastollen", "text": "O reconstrucție fidelă a unei galerii miniere situată sub campusul Universității din Köln.", "category": "museum", "coords": [6.929304, 50.928289]}, {"name": "Geomuseum", "text": "Muzeul de științe ale pământului al Universității din Köln prezintă colecții geologice și mineralogice.", "category": "museum", "coords": [6.934658, 50.926887]}, {"name": "Kölner Zoo", "text": "Una dintre cele mai vechi grădini zoologice din Germania, renumită pentru parcul de elefanți și Hippodom.", "category": "family", "coords": [6.976717, 50.961155]}, {"name": "Musical Dome", "text": "O sală de spectacole distinctivă pe malul Rinului, cunoscută pentru marile producții de musical din Köln.", "category": "cultural", "coords": [6.961707, 50.942815]}, {"name": "Deutsches Sport- und Olympiamuseum", "text": "Muzeul prezintă istoria sportului din antichitate până în prezent, în portul Rheinauhafen din Köln.", "category": "museum", "coords": [6.964658, 50.931173]}, {"name": "Fort IV", "text": "O parte a fortificațiilor istorice din Köln, care servește astăzi drept mărturie a arhitecturii de apărare prusace.", "category": "fortress", "coords": [6.943703, 50.922458]}, {"name": "Alte Mensa", "text": "Teatrul Universității din Köln servește ca scenă pentru ansambluri studențești și independente.", "category": "cultural", "coords": [6.931183, 50.924423]}, {"name": "Geographie Rundbau", "text": "O clădire circulară distinctivă din Köln, utilizată astăzi de Institutul de Geografie al Universității.", "category": "fortress", "coords": [6.936415, 50.927558]}, {"name": "Kölner Senfmuseum (b.a.W. geschlossen)", "text": "Un muzeu al istoriei culturale a muștarului, oferind detalii despre metodele tradiționale de producție.", "category": "museum", "coords": [6.962482, 50.932573]}, {"name": "The PhotoBookMuseum", "text": "Acest muzeu este dedicat designului artistic și istoriei albumelor de fotografii.", "category": "museum", "coords": [6.921866, 50.94819]}, {"name": "Römisch-Germanisches Museum im Belgischen Haus", "text": "Colecția arheologică a muzeului este găzduită temporar în sălile Casei Belgiene.", "category": "museum", "coords": [6.950335, 50.935628]}, {"name": "TimeRide", "text": "O atracție de realitate virtuală care prezintă istoria orașului Köln prin călătorii în timp digitale.", "category": "museum", "coords": [6.96041, 50.938539]}, {"name": "Müllseum", "text": "Un muzeu original din Köln, axat pe prevenirea deșeurilor și reciclare.", "category": "museum", "coords": [6.991211, 50.932224]}, {"name": "Agrippa-Bad", "text": "O piscină de agrement mare în centrul Kölnului, cu bazine, tobogane și zone de saună.", "category": "family", "coords": [6.951985, 50.932619]}, {"name": "\"Odonien\" - Kunst-und Kulturpark", "text": "Un parc de artă creat de artistul Odo Rumpf, ce reunește un atelier de sculptură și un centru cultural.", "category": "family", "coords": [6.938769, 50.954743]}, {"name": "Aquarium & Insektarium", "text": "O secțiune a grădinii zoologice din Köln ce prezintă numeroși pești, reptile și insecte în diverse habitate.", "category": "family", "coords": [6.972408, 50.958449]}, {"name": "Weinmuseum", "text": "Un muzeu din Köln dedicat istoriei și culturii viticulturii din regiune.", "category": "museum", "coords": [6.967698, 50.956408]}, {"name": "km 689 Cologne Beach Club", "text": "Situat direct pe malul Rinului, acest club de plajă aduce un aer de vacanță în inima orașului Köln. Vizitatorii se pot relaxa pe nisipul fin, admirând o priveliște impresionantă asupra domului. Atmosfera animată atrage deopotrivă localnici și turiști dornici de soare. În serile calde de vară, este recomandat să sosiți devreme pentru a prinde cel mai bun loc.", "category": "recreational", "coords": [6.970747, 50.946753]}, {"name": "Lysolphturm", "text": "Rămășițele unui turn istoric din fortificațiile medievale ale orașului vechi din Köln.", "category": "historical", "coords": [6.953156, 50.941418]}, {"name": "Rheingarten", "text": "O zonă de parc amenajată chiar pe malul Rinului, între orașul vechi și râu.", "category": "park", "coords": [6.962563, 50.938801]}, {"name": "Rheinpark", "text": "Un vast parc peisagistic pe malul drept al Rinului, amenajat pentru expoziția federală de grădinărit.", "category": "park", "coords": [6.975994, 50.949611]}, {"name": "Trude-Herr-Park", "text": "O zonă verde din cartierul Neustadt-Süd, numită după actrița populară Trude Herr din Köln.", "category": "park", "coords": [6.963475, 50.925411]}, {"name": "Weißhaus", "text": "Un castel istoric pe apă cu parc în cartierul Sülz, care astăzi servește ca reședință privată.", "category": "park", "coords": [6.931495, 50.917976]}, {"name": "Vorgebirgspark", "text": "Un parc public protejat din sudul orașului Köln, cunoscut pentru designul său geometric strict.", "category": "park", "coords": [6.950993, 50.910645]}, {"name": "Alt St. Alban", "text": "Ruinele unei biserici romanice, care servesc astăzi ca monument în memoria morților din războaiele mondiale.", "category": "historical", "coords": [6.958254, 50.936934]}, {"name": "Friedenspark", "text": "Un parc din sudul orașului Köln, creat pe fostele fortificații prusace din jurul Fortului I.", "category": "park", "coords": [6.967821, 50.917174]}, {"name": "Römerpark", "text": "Un parc istoric din Südstadt, care a fost numit după trecutul roman al orașului.", "category": "park", "coords": [6.966134, 50.919456]}, {"name": "Hansaplatz", "text": "O piață centrală pe Hansaring, cu părți conservate din zidul medieval al orașului Köln.", "category": "park", "coords": [6.947725, 50.946514]}, {"name": "Reiterdenkmal Friedrich Wilhelm III.", "text": "Statuia ecvestră a lui Friedrich Wilhelm III situată în piața Heumarkt din Köln.", "category": "historical", "coords": [6.960686, 50.936259]}, {"name": "Klingelpützpark", "text": "Parc public situat în centrul istoric al orașului Köln, amenajat pe locul unei foste închisori.", "category": "park", "coords": [6.950346, 50.946209]}, {"name": "Carola-Williams-Park", "text": "Spațiu verde în districtul Lindenthal din Köln, numit după directoarea de circ Carola Williams.", "category": "park", "coords": [6.928028, 50.939155]}, {"name": "Humboldtpark", "text": "Parc situat în cartierul Humboldt/Gremberg din Köln, oferind locuri de joacă și zone de recreere.", "category": "park", "coords": [6.992645, 50.932162]}, {"name": "Richmodisturm", "text": "Turn situat în piața Neumarkt din Köln, cunoscut pentru legenda lui Richmodis von Aducht.", "category": "tower", "coords": [6.9477, 50.936892]}, {"name": "Blücherparkweiher", "text": "Blücherparkweiher din Köln este un lac situat într-un parc, ideal pentru relaxare.", "category": "natural", "coords": [6.926953, 50.963115]}, {"name": "Vingster See", "text": "Vingster See din Köln oferă un cadru natural pentru cei care caută relaxare.", "category": "natural", "coords": [7.027211, 50.926268]}, {"name": "Efferener Baggerloch", "text": "Efferener Baggerloch de lângă Köln este un lac înconjurat de natură.", "category": "natural", "coords": [6.914573, 50.891009]}, {"name": "Rather See", "text": "Rather See din Köln invită la plimbări pe malul apei într-o atmosferă liniștită.", "category": "natural", "coords": [7.068851, 50.930777]}, {"name": "Decksteiner Weiher", "text": "Decksteiner Weiher din Köln este o destinație populară pentru ieșiri în natură.", "category": "natural", "coords": [6.893963, 50.911224]}, {"name": "Alberti-See", "text": "Alberti-See din Köln oferă vizitatorilor un loc de relaxare în natură.", "category": "natural", "coords": [7.03657, 50.911443]}, {"name": "Minigolf", "text": "Terenul de minigolf din Köln oferă distracție pentru vizitatorii de toate vârstele.", "category": "family", "coords": [6.978733, 50.952444]}, {"name": "Casina Spieltheke", "text": "Casina Spieltheke din Köln oferă diverse opțiuni de divertisment pentru vizitatori.", "category": "family", "coords": [7.000409, 50.938248]}, {"name": "Gamer - Die Gameshow", "text": "Gamer - Die Gameshow din Köln oferă jocuri captivante și divertisment.", "category": "family", "coords": [6.956941, 50.932843]}, {"name": "Glowing Rooms", "text": "Glowing Rooms din Köln oferă o experiență de minigolf deosebită într-un decor colorat.", "category": "family", "coords": [6.933279, 50.936681]}, {"name": "Giga Center Köln", "text": "Giga Center Köln oferă o gamă largă de jocuri și divertisment.", "category": "family", "coords": [6.938676, 50.936847]}, {"name": "Reischplatz", "text": "Locul de joacă Reischplatz din Köln este un spațiu central pentru joaca copiilor.", "category": "family", "coords": [6.976173, 50.936258]}, {"name": "Spielplatz Am Römerturm / Auf dem Berlich", "text": "Locul de joacă Am Römerturm din Köln oferă copiilor posibilitatea de a se juca într-un cadru istoric.", "category": "family", "coords": [6.947324, 50.94013]}, {"name": "Im Hafenpark / An der Drehbrücke", "text": "Locul de joacă din Hafenpark Köln invită copiii la joacă aproape de Rin.", "category": "family", "coords": [6.973834, 50.92835]}, {"name": "Ubierring", "text": "Locul de joacă de la Ubierring din Köln oferă copiilor spațiu pentru mișcare și joacă.", "category": "family", "coords": [6.965344, 50.921972]}, {"name": "Spielplatz Theodor-Heuss-Ring Nord", "text": "Locul de joacă Theodor-Heuss-Ring Nord din Köln este un spațiu de joacă în natură.", "category": "family", "coords": [6.964715, 50.9505]}, {"name": "Spielplatz Theodor-Heuss-Ring Süd", "text": "Locul de joacă Theodor-Heuss-Ring Süd din Köln oferă copiilor diverse opțiuni de joacă.", "category": "family", "coords": [6.963213, 50.950275]}, {"name": "Spielplatz August-Sander-Park 1/Erftstraße", "text": "Spielplatz August-Sander-Park 1/Erftstraße este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.", "category": "family", "coords": [6.939624, 50.947541]}, {"name": "Spielplatz August-Sander-Park 2/Maybachstraße", "text": "Spielplatz August-Sander-Park 2/Maybachstraße este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.", "category": "family", "coords": [6.948225, 50.94913]}, {"name": "Im Dau", "text": "Im Dau este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.", "category": "family", "coords": [6.95664, 50.926795]}, {"name": "An der Eiche", "text": "An der Eiche este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.", "category": "family", "coords": [6.960593, 50.925076]}, {"name": "Spielplatz im Rheinpark", "text": "Spielplatz im Rheinpark este un loc de joacă în Koeln, ideal pentru ieșirile în familie cu copiii.", "category": "family", "coords": [6.974136, 50.949012]}, {"name": "Zollstockbad", "text": "Zollstockbad din Köln invită familiile la înot sportiv și distracție acvatică.", "category": "family", "coords": [6.948595, 50.904929]}, {"name": "Lentpark", "text": "Lentpark din Köln oferă o combinație unică de patinaj și înot.", "category": "family", "coords": [6.965603, 50.958513]}, {"name": "Claudius Therme", "text": "Claudius Therme din Köln este un loc minunat pentru wellness și relaxare.", "category": "family", "coords": [6.979711, 50.950968]}], "en": [{"name": "Cologne Cathedral", "text": "A UNESCO World Heritage site and city landmark, it is one of the world's most impressive Gothic cathedrals.", "category": "church", "confidence": "high", "coords": [6.958333, 50.941389]}, {"name": "Hohenzollern Bridge", "text": "The famous railway bridge is renowned for its thousands of love locks and spectacular views of the Cathedral.", "category": "bridge", "confidence": "high", "coords": [6.965556, 50.941389]}, {"name": "Chocolate Museum", "text": "Located right on the Rhine, this museum offers an exciting journey through the world of chocolate making.", "category": "museum", "confidence": "high", "coords": [6.96427, 50.9322]}, {"name": "Museum Ludwig", "text": "An important museum of modern art, housing a significant collection of works by Pablo Picasso and Pop Art.", "category": "museum", "confidence": "high", "coords": [6.960278, 50.940833]}, {"name": "Historic City Hall", "text": "The magnificent building with its prominent tower reflects the long history of the free imperial city.", "category": "historical", "confidence": "high", "coords": [6.9593, 50.938]}, {"name": "NS-Dokumentationszentrum", "text": "A museum in the former EL-DE House that comprehensively documents the history of National Socialism in Cologne.", "category": "museum", "coords": [6.950238, 50.940565]}, {"name": "Gloria Theater", "text": "A traditional event venue in a former cinema, known for hosting concerts and comedy shows.", "category": "cultural", "coords": [6.944948, 50.937488]}, {"name": "Hänneschen-Theater", "text": "The traditional puppet theatre of Cologne is located at the Eisenmarkt in the Old Town.", "category": "cultural", "coords": [6.961948, 50.937088]}, {"name": "COMEDIA Theater", "text": "A center for children's and youth theatre, housed in a former fire station.", "category": "cultural", "coords": [6.955575, 50.920559]}, {"name": "Praetorium", "text": "The archaeological site displays the ruins of the Roman governor's palace beneath the City Hall.", "category": "historical", "coords": [6.958951, 50.939018]}, {"name": "Theater am Dom", "text": "One of Germany's most famous boulevard theatres, primarily staging comedies.", "category": "cultural", "coords": [6.95121, 50.938634]}, {"name": "Theater im Bauturm", "text": "An independent theatre on Aachener Straße, known for its contemporary productions.", "category": "cultural", "coords": [6.936448, 50.936691]}, {"name": "Kölnisches Stadtmuseum", "text": "The museum documents the history of the city of Cologne from the Middle Ages to the present.", "category": "museum", "coords": [6.954266, 50.939021]}, {"name": "Kölnischer Kunstverein", "text": "An art association dedicated to presenting contemporary art through various exhibitions.", "category": "museum", "coords": [6.943953, 50.93609]}, {"name": "Tiefrot", "text": "A small private theatre in Cologne offering a varied program of drama and cabaret.", "category": "cultural", "coords": [6.960011, 50.948271]}, {"name": "Senftöpfchen", "text": "The traditional cabaret theatre in Cologne's Old Town is famous for satire and performing arts.", "category": "cultural", "coords": [6.960587, 50.939668]}, {"name": "Jawne", "text": "The memorial and educational site commemorates the history of the former Jewish school Jawne in Cologne.", "category": "museum", "coords": [6.944688, 50.939881]}, {"name": "Deutsches Tanzarchiv", "text": "A museum and archive in Cologne dedicated to the history and documentation of the art of dance.", "category": "museum", "coords": [6.94339, 50.948693]}, {"name": "Käthe Kollwitz Museum", "text": "The museum houses one of the world's most extensive collections of works by artist Käthe Kollwitz.", "category": "museum", "coords": [6.946165, 50.93667]}, {"name": "Rautenstrauch-Joest-Museum", "text": "A significant ethnological museum in Cologne featuring exhibits from various world cultures.", "category": "museum", "coords": [6.950437, 50.934696]}, {"name": "Barbarastollen", "text": "A faithful reconstruction of a mining tunnel located beneath the University of Cologne campus.", "category": "museum", "coords": [6.929304, 50.928289]}, {"name": "Geomuseum", "text": "The geoscientific museum of the University of Cologne presents geological and mineralogical collections.", "category": "museum", "coords": [6.934658, 50.926887]}, {"name": "Kölner Zoo", "text": "One of Germany's oldest zoos, famous for its large elephant park and the Hippodom.", "category": "family", "coords": [6.976717, 50.961155]}, {"name": "Musical Dome", "text": "A distinctive venue right on the Rhine, known for hosting large-scale musical productions in Cologne.", "category": "cultural", "coords": [6.961707, 50.942815]}, {"name": "Deutsches Sport- und Olympiamuseum", "text": "The museum presents the history of sports from antiquity to the present in Cologne's Rheinauhafen.", "category": "museum", "coords": [6.964658, 50.931173]}, {"name": "Fort IV", "text": "Part of the historic Cologne fortification system, serving today as a witness to Prussian defense architecture.", "category": "fortress", "coords": [6.943703, 50.922458]}, {"name": "Alte Mensa", "text": "The university theatre of Cologne serves as a stage for student and independent ensembles.", "category": "cultural", "coords": [6.931183, 50.924423]}, {"name": "Geographie Rundbau", "text": "A distinctive circular building in Cologne, now used by the university's Institute of Geography.", "category": "fortress", "coords": [6.936415, 50.927558]}, {"name": "Kölner Senfmuseum (b.a.W. geschlossen)", "text": "A museum of the cultural history of mustard, offering insights into traditional production methods.", "category": "museum", "coords": [6.962482, 50.932573]}, {"name": "The PhotoBookMuseum", "text": "This museum is dedicated to the artistic design and history of photobooks.", "category": "museum", "coords": [6.921866, 50.94819]}, {"name": "Römisch-Germanisches Museum im Belgischen Haus", "text": "The museum's archaeological collection is temporarily housed in the Belgian House.", "category": "museum", "coords": [6.950335, 50.935628]}, {"name": "TimeRide", "text": "A virtual reality attraction that showcases Cologne's history through digital time travel.", "category": "museum", "coords": [6.96041, 50.938539]}, {"name": "Müllseum", "text": "An original museum in Cologne focused on waste prevention and recycling.", "category": "museum", "coords": [6.991211, 50.932224]}, {"name": "Agrippa-Bad", "text": "A large leisure pool in central Cologne featuring swimming pools, slides, and sauna areas.", "category": "family", "coords": [6.951985, 50.932619]}, {"name": "\"Odonien\" - Kunst-und Kulturpark", "text": "An art park created by artist Odo Rumpf, combining a sculpture workshop and cultural centre.", "category": "family", "coords": [6.938769, 50.954743]}, {"name": "Aquarium & Insektarium", "text": "A section of the Cologne Zoo showcasing numerous fish, reptiles, and insects in various habitats.", "category": "family", "coords": [6.972408, 50.958449]}, {"name": "Weinmuseum", "text": "A museum in Cologne dedicated to the history and culture of viticulture in the region.", "category": "museum", "coords": [6.967698, 50.956408]}, {"name": "km 689 Cologne Beach Club", "text": "Situated right on the banks of the Rhine, this beach club brings a true holiday vibe to the heart of Cologne. Visitors can relax on the fine sand while enjoying a magnificent view of the famous cathedral. The lively atmosphere attracts both locals and tourists looking to soak up the sun. On warm summer evenings, arriving early is highly recommended to secure the best spot.", "category": "recreational", "coords": [6.970747, 50.946753]}, {"name": "Lysolphturm", "text": "Remains of a historical tower from the medieval city fortifications in Cologne's old town.", "category": "historical", "coords": [6.953156, 50.941418]}, {"name": "Rheingarten", "text": "A well-maintained park area directly on the banks of the Rhine between the old town and the river.", "category": "park", "coords": [6.962563, 50.938801]}, {"name": "Rheinpark", "text": "A vast landscape park on the right bank of the Rhine, created for the Federal Horticultural Show.", "category": "park", "coords": [6.975994, 50.949611]}, {"name": "Trude-Herr-Park", "text": "A green space in the Neustadt-Süd district named after the popular Cologne actress Trude Herr.", "category": "park", "coords": [6.963475, 50.925411]}, {"name": "Weißhaus", "text": "A historical moated castle with parkland in the Sülz district, which today serves as a private residence.", "category": "park", "coords": [6.931495, 50.917976]}, {"name": "Vorgebirgspark", "text": "A protected public park in the south of Cologne, known for its strict geometric design.", "category": "park", "coords": [6.950993, 50.910645]}, {"name": "Alt St. Alban", "text": "The ruins of a Romanesque church that today serve as a memorial to the dead of the world wars.", "category": "historical", "coords": [6.958254, 50.936934]}, {"name": "Friedenspark", "text": "A park in the south of Cologne created on the former Prussian fortifications around Fort I.", "category": "park", "coords": [6.967821, 50.917174]}, {"name": "Römerpark", "text": "A historic park in the Südstadt that was named after the city's Roman past.", "category": "park", "coords": [6.966134, 50.919456]}, {"name": "Hansaplatz", "text": "A central square on the Hansaring featuring preserved sections of the medieval Cologne city wall.", "category": "park", "coords": [6.947725, 50.946514]}, {"name": "Reiterdenkmal Friedrich Wilhelm III.", "text": "Equestrian statue of Frederick William III located at the Heumarkt in Cologne.", "category": "historical", "coords": [6.960686, 50.936259]}, {"name": "Klingelpützpark", "text": "Public park in Cologne's Old Town North, built on the site of a former prison.", "category": "park", "coords": [6.950346, 50.946209]}, {"name": "Carola-Williams-Park", "text": "A green space in the Lindenthal district of Cologne, named after circus director Carola Williams.", "category": "park", "coords": [6.928028, 50.939155]}, {"name": "Humboldtpark", "text": "Park in the Humboldt/Gremberg district of Cologne with playgrounds and recreational areas.", "category": "park", "coords": [6.992645, 50.932162]}, {"name": "Richmodisturm", "text": "A tower at Cologne's Neumarkt, famous for the legend of Richmodis von Aducht.", "category": "tower", "coords": [6.9477, 50.936892]}, {"name": "Blücherparkweiher", "text": "The Blücherparkweiher in Cologne is a lake in a park setting that invites relaxation.", "category": "natural", "coords": [6.926953, 50.963115]}, {"name": "Vingster See", "text": "Vingster See in Cologne offers a natural environment for those seeking recreation.", "category": "natural", "coords": [7.027211, 50.926268]}, {"name": "Efferener Baggerloch", "text": "The Efferener Baggerloch near Cologne is a lake surrounded by nature.", "category": "natural", "coords": [6.914573, 50.891009]}, {"name": "Rather See", "text": "Rather See in Cologne invites for walks by the water in a peaceful atmosphere.", "category": "natural", "coords": [7.068851, 50.930777]}, {"name": "Decksteiner Weiher", "text": "Decksteiner Weiher in Cologne is a popular destination for nature outings.", "category": "natural", "coords": [6.893963, 50.911224]}, {"name": "Alberti-See", "text": "Alberti-See in Cologne offers visitors a place to relax in a green setting.", "category": "natural", "coords": [7.03657, 50.911443]}, {"name": "Minigolf", "text": "The miniature golf course in Cologne offers leisure fun for visitors of all ages.", "category": "family", "coords": [6.978733, 50.952444]}, {"name": "Casina Spieltheke", "text": "Casina Spieltheke in Cologne offers various entertainment options for visitors.", "category": "family", "coords": [7.000409, 50.938248]}, {"name": "Gamer - Die Gameshow", "text": "Gamer - Die Gameshow in Cologne offers exciting games and entertainment.", "category": "family", "coords": [6.956941, 50.932843]}, {"name": "Glowing Rooms", "text": "Glowing Rooms in Cologne offers a special minigolf experience in a colorful setting.", "category": "family", "coords": [6.933279, 50.936681]}, {"name": "Giga Center Köln", "text": "Giga Center Cologne offers a wide range of games and entertainment.", "category": "family", "coords": [6.938676, 50.936847]}, {"name": "Reischplatz", "text": "The Reischplatz playground in Cologne is a centrally located spot for children to play.", "category": "family", "coords": [6.976173, 50.936258]}, {"name": "Spielplatz Am Römerturm / Auf dem Berlich", "text": "The Am Römerturm playground in Cologne offers children play options in a historic setting.", "category": "family", "coords": [6.947324, 50.94013]}, {"name": "Im Hafenpark / An der Drehbrücke", "text": "The playground in Hafenpark Cologne invites children to play near the Rhine.", "category": "family", "coords": [6.973834, 50.92835]}, {"name": "Ubierring", "text": "The playground at Ubierring in Cologne offers children space for movement and play.", "category": "family", "coords": [6.965344, 50.921972]}, {"name": "Spielplatz Theodor-Heuss-Ring Nord", "text": "The Theodor-Heuss-Ring Nord playground in Cologne is a spot for playing in a green area.", "category": "family", "coords": [6.964715, 50.9505]}, {"name": "Spielplatz Theodor-Heuss-Ring Süd", "text": "The Theodor-Heuss-Ring Süd playground in Cologne offers children various play opportunities.", "category": "family", "coords": [6.963213, 50.950275]}, {"name": "Spielplatz August-Sander-Park 1/Erftstraße", "text": "Spielplatz August-Sander-Park 1/Erftstraße is a playground in Koeln, ideal for family outings with children.", "category": "family", "coords": [6.939624, 50.947541]}, {"name": "Spielplatz August-Sander-Park 2/Maybachstraße", "text": "Spielplatz August-Sander-Park 2/Maybachstraße is a playground in Koeln, ideal for family outings with children.", "category": "family", "coords": [6.948225, 50.94913]}, {"name": "Im Dau", "text": "Im Dau is a playground in Koeln, ideal for family outings with children.", "category": "family", "coords": [6.95664, 50.926795]}, {"name": "An der Eiche", "text": "An der Eiche is a playground in Koeln, ideal for family outings with children.", "category": "family", "coords": [6.960593, 50.925076]}, {"name": "Spielplatz im Rheinpark", "text": "Spielplatz im Rheinpark is a playground in Koeln, ideal for family outings with children.", "category": "family", "coords": [6.974136, 50.949012]}, {"name": "Zollstockbad", "text": "The Zollstockbad in Cologne invites families to sportive swimming and water fun.", "category": "family", "coords": [6.948595, 50.904929]}, {"name": "Lentpark", "text": "The Lentpark in Cologne offers a unique combination of ice skating and swimming.", "category": "family", "coords": [6.965603, 50.958513]}, {"name": "Claudius Therme", "text": "The Claudius Therme in Cologne is a wonderful place for wellness and relaxation.", "category": "family", "coords": [6.979711, 50.950968]}], "tr": [{"name": "Kölner Dom", "text": "UNESCO Dünya Mirası listesindeki bu şehir simgesi, anıtsal Gotik mimarisiyle ziyaretçilerini büyülemektedir.", "category": "church", "coords": [6.958333, 50.941389]}, {"name": "Hohenzollernbrücke", "text": "Binlerce aşk kilidiyle ünlü bu demir yolu köprüsü, Katedral'e bakan harika bir manzara sunmaktadır.", "category": "bridge", "coords": [6.965556, 50.941389]}, {"name": "Çikolata Müzesi", "text": "Ren Nehri kıyısında yer alan müze, çikolata üretiminin büyüleyici dünyasına derinlemesine bir bakış sunar.", "category": "museum", "coords": [6.96427, 50.9322]}, {"name": "Museum Ludwig", "text": "Modern sanatın önemli merkezlerinden biri olan müze, dünyaca ünlü kapsamlı bir Picasso koleksiyonuna sahiptir.", "category": "museum", "coords": [6.960278, 50.940833]}, {"name": "Tarihi Belediye Binası", "text": "Görkemli kulesiyle dikkat çeken bu yapı, eski imparatorluk şehrinin uzun ve köklü tarihini yansıtmaktadır.", "category": "historical", "coords": [6.9593, 50.938]}]}
   },
   {
     id: "city-frankfurt",
@@ -10914,6 +7813,15 @@ export const pois: POI[] = [
                         8.677016,
                         50.107634
                   ]
+            },
+            {
+                  "name": "Kinderfarm Frankfurt",
+                  "text": "Ein kinderfreundlicher Bauernhof in Frankfurt mit verschiedenen Tieren.",
+                  "category": "family",
+                  "coords": [
+                        8.653637,
+                        50.088101
+                  ]
             }
       ],
       "hu": [
@@ -11793,6 +8701,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.677016,
                         50.107634
+                  ]
+            },
+            {
+                  "name": "Kinderfarm Frankfurt",
+                  "text": "Gyerekbarát tanya Frankfurtban különféle állatokkal.",
+                  "category": "family",
+                  "coords": [
+                        8.653637,
+                        50.088101
                   ]
             }
       ],
@@ -12674,6 +9591,15 @@ export const pois: POI[] = [
                         8.677016,
                         50.107634
                   ]
+            },
+            {
+                  "name": "Kinderfarm Frankfurt",
+                  "text": "O fermă prietenoasă pentru copii în Frankfurt, cu diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        8.653637,
+                        50.088101
+                  ]
             }
       ],
       "en": [
@@ -13554,6 +10480,15 @@ export const pois: POI[] = [
                         8.677016,
                         50.107634
                   ]
+            },
+            {
+                  "name": "Kinderfarm Frankfurt",
+                  "text": "A child-friendly farm in Frankfurt with various animals.",
+                  "category": "family",
+                  "coords": [
+                        8.653637,
+                        50.088101
+                  ]
             }
       ],
       "tr": [
@@ -14395,6 +11330,69 @@ export const pois: POI[] = [
                         12.331977,
                         51.345719
                   ]
+            },
+            {
+                  "name": "Vogelvoliere",
+                  "text": "Die Vogelvoliere in Leipzig ist ein schöner Ort für Familien, um verschiedene Vogelarten zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        12.34107,
+                        51.36639
+                  ]
+            },
+            {
+                  "name": "Sommerbad Südost",
+                  "text": "Das Sommerbad Südost in Leipzig bietet verschiedene Außenbecken für das Familienschwimmen und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        12.420066,
+                        51.326465
+                  ]
+            },
+            {
+                  "name": "Sommerbad Kleinzschocher",
+                  "text": "Das Sommerbad Kleinzschocher ist ein einladender Ort in Leipzig zum Schwimmen im Freien und für die Zeit mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.339137,
+                        51.316385
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Dieses Schwimmerbecken in Leipzig ist ein toller Ort für Kinder und Erwachsene, um das Schwimmen zu üben.",
+                  "category": "family",
+                  "coords": [
+                        12.35864,
+                        51.338136
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "Dieses Planschbecken in Leipzig bietet einen flachen und sicheren Wasserbereich für kleine Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.359227,
+                        51.339687
+                  ]
+            },
+            {
+                  "name": "Kinderfreibecken \"Robbe\"",
+                  "text": "Das Kinderfreibecken „Robbe“ in Leipzig ist speziell für Spaß und sicheres Wasserspiel für Kinder konzipiert.",
+                  "category": "family",
+                  "coords": [
+                        12.381457,
+                        51.372769
+                  ]
+            },
+            {
+                  "name": "Sommerbad Schönefeld",
+                  "text": "Das Sommerbad Schönefeld in Leipzig ist ein familienfreundliches Freibad mit Platz zum Schwimmen und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.411769,
+                        51.362866
+                  ]
             }
       ],
       "hu": [
@@ -15149,6 +12147,69 @@ export const pois: POI[] = [
                   "coords": [
                         12.331977,
                         51.345719
+                  ]
+            },
+            {
+                  "name": "Vogelvoliere",
+                  "text": "A lipcsei madárröde szép hely a családoknak a különféle madárfajok megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        12.34107,
+                        51.36639
+                  ]
+            },
+            {
+                  "name": "Sommerbad Südost",
+                  "text": "A lipcsei Sommerbad Südost különféle szabadtéri medencéket kínál a családi úszáshoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.420066,
+                        51.326465
+                  ]
+            },
+            {
+                  "name": "Sommerbad Kleinzschocher",
+                  "text": "A Sommerbad Kleinzschocher hívogató hely Lipcsében a szabadtéri úszáshoz és a családi időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        12.339137,
+                        51.316385
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Ez a lipcsei úszómedence nagyszerű hely gyerekeknek és felnőtteknek az úszás gyakorlására.",
+                  "category": "family",
+                  "coords": [
+                        12.35864,
+                        51.338136
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "Ez a lipcsei pancsolómedence sekély és biztonságos vízi területet kínál a kisgyermekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        12.359227,
+                        51.339687
+                  ]
+            },
+            {
+                  "name": "Kinderfreibecken \"Robbe\"",
+                  "text": "A lipcsei „Robbe” gyermekmedencét kifejezetten a gyerekek szórakoztató és biztonságos vízi játékára tervezték.",
+                  "category": "family",
+                  "coords": [
+                        12.381457,
+                        51.372769
+                  ]
+            },
+            {
+                  "name": "Sommerbad Schönefeld",
+                  "text": "A lipcsei Sommerbad Schönefeld egy családbarát szabadtéri medence, ahol hely van az úszásra és a játékra.",
+                  "category": "family",
+                  "coords": [
+                        12.411769,
+                        51.362866
                   ]
             }
       ],
@@ -15905,6 +12966,69 @@ export const pois: POI[] = [
                         12.331977,
                         51.345719
                   ]
+            },
+            {
+                  "name": "Vogelvoliere",
+                  "text": "Voliera pentru păsări din Leipzig este un loc plăcut pentru familii pentru a observa diverse specii de păsări.",
+                  "category": "family",
+                  "coords": [
+                        12.34107,
+                        51.36639
+                  ]
+            },
+            {
+                  "name": "Sommerbad Südost",
+                  "text": "Sommerbad Südost din Leipzig oferă o varietate de piscine în aer liber pentru înot în familie și distracție.",
+                  "category": "family",
+                  "coords": [
+                        12.420066,
+                        51.326465
+                  ]
+            },
+            {
+                  "name": "Sommerbad Kleinzschocher",
+                  "text": "Sommerbad Kleinzschocher este un loc primitor în Leipzig pentru înot în aer liber și timp petrecut cu familia.",
+                  "category": "family",
+                  "coords": [
+                        12.339137,
+                        51.316385
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Această piscină pentru înotători din Leipzig este un loc excelent pentru copii și adulți pentru a exersa înotul.",
+                  "category": "family",
+                  "coords": [
+                        12.35864,
+                        51.338136
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "Această piscină pentru copii din Leipzig oferă o zonă acvatică puțin adâncă și sigură pentru joaca copiilor mici.",
+                  "category": "family",
+                  "coords": [
+                        12.359227,
+                        51.339687
+                  ]
+            },
+            {
+                  "name": "Kinderfreibecken \"Robbe\"",
+                  "text": "Piscina pentru copii „Robbe” din Leipzig este special concepută pentru joaca acvatică distractivă și sigură pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.381457,
+                        51.372769
+                  ]
+            },
+            {
+                  "name": "Sommerbad Schönefeld",
+                  "text": "Sommerbad Schönefeld din Leipzig este o piscină în aer liber prietenoasă cu familiile, cu spațiu pentru înot și joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.411769,
+                        51.362866
+                  ]
             }
       ],
       "en": [
@@ -16659,6 +13783,69 @@ export const pois: POI[] = [
                   "coords": [
                         12.331977,
                         51.345719
+                  ]
+            },
+            {
+                  "name": "Vogelvoliere",
+                  "text": "The bird aviary in Leipzig is a nice spot for families to observe various bird species.",
+                  "category": "family",
+                  "coords": [
+                        12.34107,
+                        51.36639
+                  ]
+            },
+            {
+                  "name": "Sommerbad Südost",
+                  "text": "Sommerbad Südost in Leipzig provides a variety of outdoor pools for family swimming and fun.",
+                  "category": "family",
+                  "coords": [
+                        12.420066,
+                        51.326465
+                  ]
+            },
+            {
+                  "name": "Sommerbad Kleinzschocher",
+                  "text": "Sommerbad Kleinzschocher is an inviting place in Leipzig for outdoor swimming and family time.",
+                  "category": "family",
+                  "coords": [
+                        12.339137,
+                        51.316385
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "This swimmer's pool in Leipzig is a great spot for children and adults to practice swimming.",
+                  "category": "family",
+                  "coords": [
+                        12.35864,
+                        51.338136
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "This paddling pool in Leipzig offers a shallow and safe water area for small children to play.",
+                  "category": "family",
+                  "coords": [
+                        12.359227,
+                        51.339687
+                  ]
+            },
+            {
+                  "name": "Kinderfreibecken \"Robbe\"",
+                  "text": "The children's pool \"Robbe\" in Leipzig is specifically designed for fun and safe water play for kids.",
+                  "category": "family",
+                  "coords": [
+                        12.381457,
+                        51.372769
+                  ]
+            },
+            {
+                  "name": "Sommerbad Schönefeld",
+                  "text": "Sommerbad Schönefeld in Leipzig is a family-friendly outdoor pool with space for swimming and play.",
+                  "category": "family",
+                  "coords": [
+                        12.411769,
+                        51.362866
                   ]
             }
       ],
@@ -17428,6 +14615,24 @@ export const pois: POI[] = [
                         11.073993,
                         49.46805
                   ]
+            },
+            {
+                  "name": "Südstadtbad",
+                  "text": "Das Südstadtbad in Nürnberg bietet vielfältige Möglichkeiten zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        11.090333,
+                        49.43708
+                  ]
+            },
+            {
+                  "name": "Norikusbucht",
+                  "text": "Die Norikusbucht in Nürnberg ist ein schöner Ort für eine Abkühlung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        11.103671,
+                        49.452713
+                  ]
             }
       ],
       "hu": [
@@ -18101,6 +15306,24 @@ export const pois: POI[] = [
                   "coords": [
                         11.073993,
                         49.46805
+                  ]
+            },
+            {
+                  "name": "Südstadtbad",
+                  "text": "A nürnbergi Südstadtbad változatos lehetőségeket kínál az úszásra és a pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        11.090333,
+                        49.43708
+                  ]
+            },
+            {
+                  "name": "Norikusbucht",
+                  "text": "A nürnbergi Norikusbucht szép hely a vízparti hűsölésre.",
+                  "category": "family",
+                  "coords": [
+                        11.103671,
+                        49.452713
                   ]
             }
       ],
@@ -18776,6 +15999,24 @@ export const pois: POI[] = [
                         11.073993,
                         49.46805
                   ]
+            },
+            {
+                  "name": "Südstadtbad",
+                  "text": "Südstadtbad din Nürnberg oferă diverse posibilități de înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        11.090333,
+                        49.43708
+                  ]
+            },
+            {
+                  "name": "Norikusbucht",
+                  "text": "Norikusbucht din Nürnberg este un loc frumos pentru răcorire pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        11.103671,
+                        49.452713
+                  ]
             }
       ],
       "en": [
@@ -19450,6 +16691,24 @@ export const pois: POI[] = [
                         11.073993,
                         49.46805
                   ]
+            },
+            {
+                  "name": "Südstadtbad",
+                  "text": "The Südstadtbad in Nuremberg offers a variety of possibilities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        11.090333,
+                        49.43708
+                  ]
+            },
+            {
+                  "name": "Norikusbucht",
+                  "text": "The Norikusbucht in Nuremberg is a nice spot for a cooldown by the water.",
+                  "category": "family",
+                  "coords": [
+                        11.103671,
+                        49.452713
+                  ]
             }
       ],
       "tr": [
@@ -20036,6 +17295,42 @@ export const pois: POI[] = [
                         8.667024,
                         49.400252
                   ]
+            },
+            {
+                  "name": "BabyBeach",
+                  "text": "Ein erholsames Salzbad für Babys und Kleinkinder in Heidelberg.",
+                  "category": "family",
+                  "coords": [
+                        8.689174,
+                        49.381189
+                  ]
+            },
+            {
+                  "name": "Pension Berger",
+                  "text": "Eine gemütliche Pension in Heidelberg für Übernachtungen.",
+                  "category": "family",
+                  "coords": [
+                        8.688964,
+                        49.418068
+                  ]
+            },
+            {
+                  "name": "Heidelberg Suites",
+                  "text": "Ein elegantes Hotel in Heidelberg für komfortable Aufenthalte.",
+                  "category": "family",
+                  "coords": [
+                        8.70666,
+                        49.415169
+                  ]
+            },
+            {
+                  "name": "Marriott Heidelberg",
+                  "text": "Ein modernes Hotel in Heidelberg für Geschäfts- und Urlaubsreisende.",
+                  "category": "family",
+                  "coords": [
+                        8.672514,
+                        49.40933
+                  ]
             }
       ],
       "hu": [
@@ -20529,6 +17824,42 @@ export const pois: POI[] = [
                   "coords": [
                         8.667024,
                         49.400252
+                  ]
+            },
+            {
+                  "name": "BabyBeach",
+                  "text": "Pihentető sófürdő babák és kisgyermekek számára Heidelbergben.",
+                  "category": "family",
+                  "coords": [
+                        8.689174,
+                        49.381189
+                  ]
+            },
+            {
+                  "name": "Pension Berger",
+                  "text": "Hangulatos panzió Heidelbergben éjszakai szálláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.688964,
+                        49.418068
+                  ]
+            },
+            {
+                  "name": "Heidelberg Suites",
+                  "text": "Elegáns szálloda Heidelbergben a kényelmes tartózkodáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.70666,
+                        49.415169
+                  ]
+            },
+            {
+                  "name": "Marriott Heidelberg",
+                  "text": "Modern szálloda Heidelbergben üzleti és szabadidős utazók számára.",
+                  "category": "family",
+                  "coords": [
+                        8.672514,
+                        49.40933
                   ]
             }
       ],
@@ -21024,6 +18355,42 @@ export const pois: POI[] = [
                         8.667024,
                         49.400252
                   ]
+            },
+            {
+                  "name": "BabyBeach",
+                  "text": "O baie de sare relaxantă pentru bebeluși și copii mici în Heidelberg.",
+                  "category": "family",
+                  "coords": [
+                        8.689174,
+                        49.381189
+                  ]
+            },
+            {
+                  "name": "Pension Berger",
+                  "text": "O pensiune primitoare în Heidelberg pentru cazare.",
+                  "category": "family",
+                  "coords": [
+                        8.688964,
+                        49.418068
+                  ]
+            },
+            {
+                  "name": "Heidelberg Suites",
+                  "text": "Un hotel elegant în Heidelberg pentru sejururi confortabile.",
+                  "category": "family",
+                  "coords": [
+                        8.70666,
+                        49.415169
+                  ]
+            },
+            {
+                  "name": "Marriott Heidelberg",
+                  "text": "Un hotel modern în Heidelberg pentru călătorii de afaceri și agrement.",
+                  "category": "family",
+                  "coords": [
+                        8.672514,
+                        49.40933
+                  ]
             }
       ],
       "en": [
@@ -21517,6 +18884,42 @@ export const pois: POI[] = [
                   "coords": [
                         8.667024,
                         49.400252
+                  ]
+            },
+            {
+                  "name": "BabyBeach",
+                  "text": "A relaxing salt spa for babies and toddlers in Heidelberg.",
+                  "category": "family",
+                  "coords": [
+                        8.689174,
+                        49.381189
+                  ]
+            },
+            {
+                  "name": "Pension Berger",
+                  "text": "A cozy guest house in Heidelberg for overnight stays.",
+                  "category": "family",
+                  "coords": [
+                        8.688964,
+                        49.418068
+                  ]
+            },
+            {
+                  "name": "Heidelberg Suites",
+                  "text": "An elegant hotel in Heidelberg for comfortable stays.",
+                  "category": "family",
+                  "coords": [
+                        8.70666,
+                        49.415169
+                  ]
+            },
+            {
+                  "name": "Marriott Heidelberg",
+                  "text": "A modern hotel in Heidelberg for business and leisure travelers.",
+                  "category": "family",
+                  "coords": [
+                        8.672514,
+                        49.40933
                   ]
             }
       ],
@@ -24101,6 +21504,24 @@ export const pois: POI[] = [
                         12.084165,
                         49.026121
                   ]
+            },
+            {
+                  "name": "Schillerwiese",
+                  "text": "Die Schillerwiese in Regensburg lädt zum Verweilen und Baden in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        12.063951,
+                        49.03056
+                  ]
+            },
+            {
+                  "name": "Westbad",
+                  "text": "Das Westbad in Regensburg bietet Spaß und Action für alle Wasserratten.",
+                  "category": "family",
+                  "coords": [
+                        12.053916,
+                        49.024543
+                  ]
             }
       ],
       "hu": [
@@ -24602,6 +22023,24 @@ export const pois: POI[] = [
                   "coords": [
                         12.084165,
                         49.026121
+                  ]
+            },
+            {
+                  "name": "Schillerwiese",
+                  "text": "A regensburgi Schillerwiese pihenésre és természetközeli fürdőzésre hív.",
+                  "category": "family",
+                  "coords": [
+                        12.063951,
+                        49.03056
+                  ]
+            },
+            {
+                  "name": "Westbad",
+                  "text": "A regensburgi Westbad szórakozást és akciót kínál minden víz kedvelőnek.",
+                  "category": "family",
+                  "coords": [
+                        12.053916,
+                        49.024543
                   ]
             }
       ],
@@ -25105,6 +22544,24 @@ export const pois: POI[] = [
                         12.084165,
                         49.026121
                   ]
+            },
+            {
+                  "name": "Schillerwiese",
+                  "text": "Schillerwiese din Regensburg invită la relaxare și scăldat în natură.",
+                  "category": "family",
+                  "coords": [
+                        12.063951,
+                        49.03056
+                  ]
+            },
+            {
+                  "name": "Westbad",
+                  "text": "Westbad din Regensburg oferă distracție și acțiune pentru toți iubitorii de apă.",
+                  "category": "family",
+                  "coords": [
+                        12.053916,
+                        49.024543
+                  ]
             }
       ],
       "en": [
@@ -25606,6 +23063,24 @@ export const pois: POI[] = [
                   "coords": [
                         12.084165,
                         49.026121
+                  ]
+            },
+            {
+                  "name": "Schillerwiese",
+                  "text": "The Schillerwiese in Regensburg invites you to linger and swim in nature.",
+                  "category": "family",
+                  "coords": [
+                        12.063951,
+                        49.03056
+                  ]
+            },
+            {
+                  "name": "Westbad",
+                  "text": "The Westbad in Regensburg offers fun and action for all water enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        12.053916,
+                        49.024543
                   ]
             }
       ],
@@ -29497,6 +26972,33 @@ export const pois: POI[] = [
                         10.905172,
                         48.372628
                   ]
+            },
+            {
+                  "name": "Badestelle am Schäfflerbach",
+                  "text": "Die Badestelle am Schäfflerbach in Augsburg bietet eine natürliche Möglichkeit zur Erfrischung.",
+                  "category": "family",
+                  "coords": [
+                        10.914584,
+                        48.361635
+                  ]
+            },
+            {
+                  "name": "Freibad Bärenkeller",
+                  "text": "Das Freibad Bärenkeller in Augsburg bietet sommerliches Badevergnügen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.85433,
+                        48.388633
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Stadtbergen",
+                  "text": "Das Gartenhallenbad Stadtbergen bei Augsburg bietet Entspannung und Schwimmspaß in angenehmer Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        10.851594,
+                        48.362946
+                  ]
             }
       ],
       "hu": [
@@ -30133,6 +27635,33 @@ export const pois: POI[] = [
                   "coords": [
                         10.905172,
                         48.372628
+                  ]
+            },
+            {
+                  "name": "Badestelle am Schäfflerbach",
+                  "text": "Az augsburgi Badestelle am Schäfflerbach természetes lehetőséget kínál a felfrissülésre.",
+                  "category": "family",
+                  "coords": [
+                        10.914584,
+                        48.361635
+                  ]
+            },
+            {
+                  "name": "Freibad Bärenkeller",
+                  "text": "Az augsburgi Freibad Bärenkeller nyári fürdőzési élményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.85433,
+                        48.388633
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Stadtbergen",
+                  "text": "Az augsburgi Gartenhallenbad Stadtbergen pihenést és úszási élményt kínál kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        10.851594,
+                        48.362946
                   ]
             }
       ],
@@ -30771,6 +28300,33 @@ export const pois: POI[] = [
                         10.905172,
                         48.372628
                   ]
+            },
+            {
+                  "name": "Badestelle am Schäfflerbach",
+                  "text": "Zona de scăldat de la Schäfflerbach din Augsburg oferă o posibilitate naturală de răcorire.",
+                  "category": "family",
+                  "coords": [
+                        10.914584,
+                        48.361635
+                  ]
+            },
+            {
+                  "name": "Freibad Bärenkeller",
+                  "text": "Ștrandul Bärenkeller din Augsburg oferă plăcerea scăldatului estival pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.85433,
+                        48.388633
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Stadtbergen",
+                  "text": "Piscina acoperită cu grădină Stadtbergen de lângă Augsburg oferă relaxare și distracție la înot într-o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        10.851594,
+                        48.362946
+                  ]
             }
       ],
       "en": [
@@ -31407,6 +28963,33 @@ export const pois: POI[] = [
                   "coords": [
                         10.905172,
                         48.372628
+                  ]
+            },
+            {
+                  "name": "Badestelle am Schäfflerbach",
+                  "text": "The bathing spot at Schäfflerbach in Augsburg offers a natural way to refresh.",
+                  "category": "family",
+                  "coords": [
+                        10.914584,
+                        48.361635
+                  ]
+            },
+            {
+                  "name": "Freibad Bärenkeller",
+                  "text": "The Freibad Bärenkeller in Augsburg offers summer swimming fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.85433,
+                        48.388633
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Stadtbergen",
+                  "text": "The Gartenhallenbad Stadtbergen near Augsburg offers relaxation and swimming fun in a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        10.851594,
+                        48.362946
                   ]
             }
       ],
@@ -33183,1225 +30766,7 @@ export const pois: POI[] = [
       fr: ["Avec plus de 1 700 heures de soleil par an, Fribourg est considérée comme la ville la plus ensoleillée d'Allemagne.", "La cathédrale de Fribourg a été construite sur une période d'environ 300 ans.", "La longueur totale des Bächle dans la vieille ville est d'environ 15,5 kilomètres.", "Le Schlossberg offre une vue panoramique sur la ville jusqu'au Kaiserstuhl.", "Fribourg a été autrichienne de 1368 à 1806 et appartenait aux Habsbourg.", "La Maison historique des marchands sur la place de la cathédrale date du XVIe siècle."],
     
       "tr": ["Freiburg, yılda 1.700'den fazla güneşli saat ile Almanya'nın en güneşli şehridir.", "Freiburger Münster'in inşaatı yaklaşık 300 yıllık bir süreye yayılmıştır.", "Eski kentteki Bächle kanallarının toplam uzunluğu yaklaşık 15,5 kilometredir.", "Schlossberg, şehirden Kaiserstuhl'a kadar uzanan panoramik bir manzara sunar.", "Freiburg, 1368'den 1806'ya kadar Avusturya toprağıydı ve Habsburg hanedanına aitti.", "Münsterplatz'daki Historisches Kaufhaus binası 16. yüzyıldan kalmadır."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Freiburger Münster",
-                  "text": "Die gotische Kathedrale mit ihrem markanten Turm gilt als architektonisches Meisterwerk und Wahrzeichen der Stadt.",
-                  "category": "Church",
-                  "confidence": "high",
-                  "coords": [
-                        7.852222,
-                        47.995556
-                  ]
-            },
-            {
-                  "name": "Historisches Kaufhaus",
-                  "text": "Ein prachtvolles rotes Gebäude am Münsterplatz mit spätgotischen Elementen, das früher als Zollgebäude diente.",
-                  "category": "Historic square",
-                  "confidence": "high",
-                  "coords": [
-                        7.852727,
-                        47.994964
-                  ]
-            },
-            {
-                  "name": "Martinstor",
-                  "text": "Das älteste der beiden erhaltenen Stadttore von Freiburg, das den Eingang zur historischen Altstadt markiert.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.848889,
-                        47.993611
-                  ]
-            },
-            {
-                  "name": "Schwabentor",
-                  "text": "Eines der mittelalterlichen Stadttore, das durch seine kunstvollen Wandmalereien und die Lage am Schlossberg besticht.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.854167,
-                        47.992778
-                  ]
-            },
-            {
-                  "name": "Freiburger Bächle",
-                  "text": "Kleine Wasserläufe in den Straßen der Altstadt, die das Stadtbild prägen und ein beliebtes Merkmal Freiburgs sind.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.849534,
-                        47.998162
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Ein bewaldeter Hügel direkt am Stadtrand, der Wanderwege und fantastische Ausblicke über die Dächer von Freiburg bietet.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        7.867552,
-                        47.997494
-                  ]
-            },
-            {
-                  "name": "Augustinermuseum",
-                  "text": "Eines der bedeutendsten Museen am Oberrhein, untergebracht in einem ehemaligen Kloster mit Kunst vom Mittelalter bis Barock.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.8525,
-                        47.993889
-                  ]
-            },
-            {
-                  "name": "Waltershofener See",
-                  "text": "Der Waltershofener See bei Freiburg ist ein ruhiger Ort zur Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        7.765492,
-                        48.012504
-                  ]
-            },
-            {
-                  "name": "Arlesheimer See",
-                  "text": "Der Arlesheimer See in Freiburg ist ein schönes Naturschutzgebiet für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        7.745821,
-                        47.98567
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Ein idyllischer See in Freiburg, der zum Entspannen am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        7.81729,
-                        48.061887
-                  ]
-            },
-            {
-                  "name": "Tunisee",
-                  "text": "Der Tunisee bei Freiburg ist ein bekanntes Gewässer für Freizeitaktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        7.81446,
-                        48.066155
-                  ]
-            },
-            {
-                  "name": "Biotop / Löschteich",
-                  "text": "Ein kleiner Biotop-See in Freiburg, der die lokale Natur bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        7.823704,
-                        47.947356
-                  ]
-            },
-            {
-                  "name": "Vörstetter Baggersee",
-                  "text": "Der Vörstetter Baggersee bei Freiburg ist ein beliebter Ort für Naturfreunde.",
-                  "category": "natural",
-                  "coords": [
-                        7.846713,
-                        48.0537
-                  ]
-            },
-            {
-                  "name": "Moosweiher",
-                  "text": "Der Moosweiher in Freiburg bietet eine angenehme Umgebung für kurze Ausflüge.",
-                  "category": "natural",
-                  "coords": [
-                        7.804196,
-                        48.030437
-                  ]
-            },
-            {
-                  "name": "Flückigersee",
-                  "text": "Der Flückigersee in Freiburg ist ein zentral gelegener See für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        7.817974,
-                        48.010367
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Der Waldsee in Freiburg ist ein ruhiges Gewässer in waldreicher Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        7.877057,
-                        47.982776
-                  ]
-            },
-            {
-                  "name": "Dietenbachsee",
-                  "text": "Ein künstlich angelegter See im Dietenbachpark in Freiburg zur Naherholung.",
-                  "category": "natural",
-                  "coords": [
-                        7.802418,
-                        48.002025
-                  ]
-            },
-            {
-                  "name": "Opfinger See",
-                  "text": "Der Opfinger See bei Freiburg ist ein beliebtes Ziel für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        7.758321,
-                        48.005087
-                  ]
-            },
-            {
-                  "name": "Urachspielplatz",
-                  "text": "Der Urachspielplatz in Freiburg bietet vielfältige Spielgeräte für Kindern.",
-                  "category": "family",
-                  "coords": [
-                        7.851035,
-                        47.984757
-                  ]
-            },
-            {
-                  "name": "Erwinspielplatz",
-                  "text": "Ein schöner Spielplatz am Erwin-Schöttle-Platz in Freiburg für Familien.",
-                  "category": "family",
-                  "coords": [
-                        7.856684,
-                        47.985857
-                  ]
-            },
-            {
-                  "name": "Spielplatz Im Konrad-Günther-Park",
-                  "text": "Spielplatz im Konrad-Günther-Park in Freiburg, ideal für Kinder zum Austoben.",
-                  "category": "family",
-                  "coords": [
-                        7.877401,
-                        47.985767
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Heilpädagogischen Hort",
-                  "text": "Ein Spielplatz in Freiburg, der speziell für Kinder im Hortbereich gestaltet ist.",
-                  "category": "family",
-                  "coords": [
-                        7.878533,
-                        47.990898
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Ferrandstrasse",
-                  "text": "Ein Kinderspielplatz in der Ferrandstraße in Freiburg für den täglichen Freizeitspaß.",
-                  "category": "family",
-                  "coords": [
-                        7.847313,
-                        48.00461
-                  ]
-            },
-            {
-                  "name": "Blaues Monster",
-                  "text": "Der Spielplatz \"Blaues Monster\" in Freiburg sorgt für kreativen Spielspaß bei Kindern.",
-                  "category": "family",
-                  "coords": [
-                        7.832609,
-                        47.983971
-                  ]
-            },
-            {
-                  "name": "Spielplatz Blauenstraße",
-                  "text": "Ein gut ausgestatteter Spielplatz in der Blauenstraße in Freiburg für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        7.816778,
-                        47.987993
-                  ]
-            },
-            {
-                  "name": "Baby Beach",
-                  "text": "Ein familienfreundlicher Spielplatz in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.857329,
-                        48.019728
-                  ]
-            },
-            {
-                  "name": "Murmelbahn Schlossberg",
-                  "text": "Ein schöner Ort für Kinder zum Spielen in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.862298,
-                        47.993849
-                  ]
-            },
-            {
-                  "name": "Spielplatz Elsässer Str. 17",
-                  "text": "Ein lokaler Spielplatz für Familien in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.831581,
-                        48.010677
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Rumpelhausen",
-                  "text": "Ein Abenteuerspielplatz für Kinder in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.836592,
-                        47.993666
-                  ]
-            },
-            {
-                  "name": "Piratenspielplatz Knopfhäuslesiedlung",
-                  "text": "Ein thematischer Spielplatz für fantasievolles Spielen in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.867427,
-                        47.98803
-                  ]
-            },
-            {
-                  "name": "Spielplatz Waldseestraße",
-                  "text": "Ein einladender Spielplatz für Kinder in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.863084,
-                        47.983214
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Freiburgi székesegyház",
-                  "text": "A gótikus katedrális jellegzetes tornyával építészeti remekműnek számít és a város legismertebb jelképe.",
-                  "category": "Church",
-                  "confidence": "high",
-                  "coords": [
-                        7.852222,
-                        47.995556
-                  ]
-            },
-            {
-                  "name": "Historisches Kaufhaus",
-                  "text": "Pompás vörös épület a Münsterplatzon késő gótikus elemekkel, amely korábban vámszékházként szolgált.",
-                  "category": "Historic square",
-                  "confidence": "high",
-                  "coords": [
-                        7.852727,
-                        47.994964
-                  ]
-            },
-            {
-                  "name": "Martinstor",
-                  "text": "Freiburg két épségben maradt városkapuja közül a régebbi, amely a történelmi óváros bejáratát jelzi.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.848889,
-                        47.993611
-                  ]
-            },
-            {
-                  "name": "Schwabentor",
-                  "text": "A középkori városkapuk egyike, amely művészi falfestményeivel és a Schlossberg melletti fekvésével tűnik ki.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.854167,
-                        47.992778
-                  ]
-            },
-            {
-                  "name": "Freiburgi Bächle",
-                  "text": "Kicsiny csatornák az óváros utcáin, amelyek meghatározzák a városképet és Freiburg kedvelt jellegzetességei.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.849534,
-                        47.998162
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Erdős domb közvetlenül a város szélén, amely túraútvonalakat és fantasztikus kilátást kínál Freiburg tetőire.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        7.867552,
-                        47.997494
-                  ]
-            },
-            {
-                  "name": "Ágoston-rendi Múzeum",
-                  "text": "A Felső-Rajna egyik legjelentősebb múzeuma egy egykori kolostorban, középkori és barokk művészeti kincsekkel.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.8525,
-                        47.993889
-                  ]
-            },
-            {
-                  "name": "Waltershofener See",
-                  "text": "A Freiburg melletti Waltershofener See egy nyugodt hely a természetbeni kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.765492,
-                        48.012504
-                  ]
-            },
-            {
-                  "name": "Arlesheimer See",
-                  "text": "A freiburgi Arlesheimer See egy szép természetvédelmi terület sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.745821,
-                        47.98567
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Egy idilli tó Freiburgban, amely hívogat a vízparti kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        7.81729,
-                        48.061887
-                  ]
-            },
-            {
-                  "name": "Tunisee",
-                  "text": "A Freiburg melletti Tunisee ismert vízfelület a szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        7.81446,
-                        48.066155
-                  ]
-            },
-            {
-                  "name": "Biotop / Löschteich",
-                  "text": "Egy kis biotóp-tó Freiburgban, amely gazdagítja a helyi természetet.",
-                  "category": "natural",
-                  "coords": [
-                        7.823704,
-                        47.947356
-                  ]
-            },
-            {
-                  "name": "Vörstetter Baggersee",
-                  "text": "A Freiburg melletti Vörstetter Baggersee népszerű hely a természetbarátok számára.",
-                  "category": "natural",
-                  "coords": [
-                        7.846713,
-                        48.0537
-                  ]
-            },
-            {
-                  "name": "Moosweiher",
-                  "text": "A freiburgi Moosweiher kellemes környezetet biztosít rövid kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.804196,
-                        48.030437
-                  ]
-            },
-            {
-                  "name": "Flückigersee",
-                  "text": "A freiburgi Flückigersee egy központi fekvésű tó sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.817974,
-                        48.010367
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "A freiburgi Waldsee egy nyugodt vízfelület erdős környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.877057,
-                        47.982776
-                  ]
-            },
-            {
-                  "name": "Dietenbachsee",
-                  "text": "Egy mesterségesen kialakított tó a freiburgi Dietenbachparkban a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.802418,
-                        48.002025
-                  ]
-            },
-            {
-                  "name": "Opfinger See",
-                  "text": "A Freiburg melletti Opfinger See népszerű célpont a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        7.758321,
-                        48.005087
-                  ]
-            },
-            {
-                  "name": "Urachspielplatz",
-                  "text": "A freiburgi Urachspielplatz változatos játékokat kínál a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.851035,
-                        47.984757
-                  ]
-            },
-            {
-                  "name": "Erwinspielplatz",
-                  "text": "Egy szép játszótér a freiburgi Erwin-Schöttle-Platzon a családok számára.",
-                  "category": "family",
-                  "coords": [
-                        7.856684,
-                        47.985857
-                  ]
-            },
-            {
-                  "name": "Spielplatz Im Konrad-Günther-Park",
-                  "text": "Játszótér a freiburgi Konrad-Günther-Parkban, ideális a gyermekeknek a mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        7.877401,
-                        47.985767
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Heilpädagogischen Hort",
-                  "text": "Egy játszótér Freiburgban, amelyet kifejezetten a napközis gyermekeknek alakítottak ki.",
-                  "category": "family",
-                  "coords": [
-                        7.878533,
-                        47.990898
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Ferrandstrasse",
-                  "text": "Egy gyermekjátszótér a freiburgi Ferrandstraßén a napi szabadidős szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        7.847313,
-                        48.00461
-                  ]
-            },
-            {
-                  "name": "Blaues Monster",
-                  "text": "A freiburgi \"Blaues Monster\" játszótér kreatív játékélményt nyújt a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.832609,
-                        47.983971
-                  ]
-            },
-            {
-                  "name": "Spielplatz Blauenstraße",
-                  "text": "Egy jól felszerelt játszótér a freiburgi Blauenstraßén a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        7.816778,
-                        47.987993
-                  ]
-            },
-            {
-                  "name": "Baby Beach",
-                  "text": "Családbarát játszótér Freiburg im Breisgau területén.",
-                  "category": "family",
-                  "coords": [
-                        7.857329,
-                        48.019728
-                  ]
-            },
-            {
-                  "name": "Murmelbahn Schlossberg",
-                  "text": "Kedvelt hely a gyerekeknek Freiburg im Breisgau városában.",
-                  "category": "family",
-                  "coords": [
-                        7.862298,
-                        47.993849
-                  ]
-            },
-            {
-                  "name": "Spielplatz Elsässer Str. 17",
-                  "text": "Helyi játszótér családok számára Freiburg im Breisgau városában.",
-                  "category": "family",
-                  "coords": [
-                        7.831581,
-                        48.010677
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Rumpelhausen",
-                  "text": "Kalandjátszótér gyerekeknek Freiburg im Breisgau területén.",
-                  "category": "family",
-                  "coords": [
-                        7.836592,
-                        47.993666
-                  ]
-            },
-            {
-                  "name": "Piratenspielplatz Knopfhäuslesiedlung",
-                  "text": "Tematikus játszótér a kreatív játékhoz Freiburg im Breisgau városában.",
-                  "category": "family",
-                  "coords": [
-                        7.867427,
-                        47.98803
-                  ]
-            },
-            {
-                  "name": "Spielplatz Waldseestraße",
-                  "text": "Hívogató játszótér gyerekeknek Freiburg im Breisgau területén.",
-                  "category": "family",
-                  "coords": [
-                        7.863084,
-                        47.983214
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Catedrala din Freiburg",
-                  "text": "Catedrala gotică cu turnul său distinctiv este considerată o capodoperă arhitecturală și simbolul orașului.",
-                  "category": "Church",
-                  "confidence": "high",
-                  "coords": [
-                        7.852222,
-                        47.995556
-                  ]
-            },
-            {
-                  "name": "Casa Istorică a Negustorilor",
-                  "text": "O clădire roșie superbă în Münsterplatz cu elemente gotice târzii, care a servit anterior ca sediu al vămii.",
-                  "category": "Historic square",
-                  "confidence": "high",
-                  "coords": [
-                        7.852727,
-                        47.994964
-                  ]
-            },
-            {
-                  "name": "Poarta Sfântului Martin",
-                  "text": "Cea mai veche dintre cele două porți medievale păstrate ale orașului, marcând intrarea în centrul istoric.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.848889,
-                        47.993611
-                  ]
-            },
-            {
-                  "name": "Poarta Șvabilor",
-                  "text": "Una dintre porțile medievale ale orașului, care impresionează prin picturile murale și locația sa lângă Schlossberg.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.854167,
-                        47.992778
-                  ]
-            },
-            {
-                  "name": "Canalele Bächle",
-                  "text": "Mici canale de apă pe străzile orașului vechi, care definesc peisajul urban și sunt o trăsătură iubită a Freiburgului.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.849534,
-                        47.998162
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Un deal împădurit chiar la marginea orașului, oferind trasee de drumeție și vederi fantastice peste acoperișurile orașului.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        7.867552,
-                        47.997494
-                  ]
-            },
-            {
-                  "name": "Muzeul Augustinilor",
-                  "text": "Unul dintre cele mai importante muzee de pe Rinul Superior, situat într-o fostă mănăstire cu artă medievală și barocă.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.8525,
-                        47.993889
-                  ]
-            },
-            {
-                  "name": "Waltershofener See",
-                  "text": "Waltershofener See lângă Freiburg este un loc liniștit pentru recreere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.765492,
-                        48.012504
-                  ]
-            },
-            {
-                  "name": "Arlesheimer See",
-                  "text": "Arlesheimer See din Freiburg este o rezervație naturală frumoasă pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        7.745821,
-                        47.98567
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Un lac idilic în Freiburg care invită la relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        7.81729,
-                        48.061887
-                  ]
-            },
-            {
-                  "name": "Tunisee",
-                  "text": "Tunisee de lângă Freiburg este o apă cunoscută pentru activități de agrement.",
-                  "category": "natural",
-                  "coords": [
-                        7.81446,
-                        48.066155
-                  ]
-            },
-            {
-                  "name": "Biotop / Löschteich",
-                  "text": "Un mic lac biotop în Freiburg, care îmbogățește natura locală.",
-                  "category": "natural",
-                  "coords": [
-                        7.823704,
-                        47.947356
-                  ]
-            },
-            {
-                  "name": "Vörstetter Baggersee",
-                  "text": "Vörstetter Baggersee lângă Freiburg este un loc popular pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.846713,
-                        48.0537
-                  ]
-            },
-            {
-                  "name": "Moosweiher",
-                  "text": "Moosweiher din Freiburg oferă un mediu plăcut pentru scurte excursii.",
-                  "category": "natural",
-                  "coords": [
-                        7.804196,
-                        48.030437
-                  ]
-            },
-            {
-                  "name": "Flückigersee",
-                  "text": "Flückigersee din Freiburg este un lac situat central pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        7.817974,
-                        48.010367
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Waldsee din Freiburg este o apă liniștită într-un mediu împădurit.",
-                  "category": "natural",
-                  "coords": [
-                        7.877057,
-                        47.982776
-                  ]
-            },
-            {
-                  "name": "Dietenbachsee",
-                  "text": "Un lac artificial în Dietenbachpark din Freiburg pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        7.802418,
-                        48.002025
-                  ]
-            },
-            {
-                  "name": "Opfinger See",
-                  "text": "Opfinger See de lângă Freiburg este o destinație populară pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        7.758321,
-                        48.005087
-                  ]
-            },
-            {
-                  "name": "Urachspielplatz",
-                  "text": "Urachspielplatz din Freiburg oferă diverse echipamente de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.851035,
-                        47.984757
-                  ]
-            },
-            {
-                  "name": "Erwinspielplatz",
-                  "text": "Un loc de joacă frumos în Erwin-Schöttle-Platz din Freiburg pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        7.856684,
-                        47.985857
-                  ]
-            },
-            {
-                  "name": "Spielplatz Im Konrad-Günther-Park",
-                  "text": "Loc de joacă în Konrad-Günther-Park din Freiburg, ideal pentru copii ca să-și consume energia.",
-                  "category": "family",
-                  "coords": [
-                        7.877401,
-                        47.985767
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Heilpädagogischen Hort",
-                  "text": "Un loc de joacă în Freiburg, conceput special pentru copiii din centrele educaționale.",
-                  "category": "family",
-                  "coords": [
-                        7.878533,
-                        47.990898
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Ferrandstrasse",
-                  "text": "Un loc de joacă pentru copii în Ferrandstraße din Freiburg pentru distracția zilnică.",
-                  "category": "family",
-                  "coords": [
-                        7.847313,
-                        48.00461
-                  ]
-            },
-            {
-                  "name": "Blaues Monster",
-                  "text": "Locul de joacă „Blaues Monster” din Freiburg oferă o distracție creativă copiilor.",
-                  "category": "family",
-                  "coords": [
-                        7.832609,
-                        47.983971
-                  ]
-            },
-            {
-                  "name": "Spielplatz Blauenstraße",
-                  "text": "Un loc de joacă bine echipat în Blauenstraße din Freiburg pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.816778,
-                        47.987993
-                  ]
-            },
-            {
-                  "name": "Baby Beach",
-                  "text": "Un loc de joacă pentru familii în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.857329,
-                        48.019728
-                  ]
-            },
-            {
-                  "name": "Murmelbahn Schlossberg",
-                  "text": "Un loc frumos pentru copii în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.862298,
-                        47.993849
-                  ]
-            },
-            {
-                  "name": "Spielplatz Elsässer Str. 17",
-                  "text": "Un loc de joacă local pentru familii în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.831581,
-                        48.010677
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Rumpelhausen",
-                  "text": "Un loc de joacă de aventură pentru copii în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.836592,
-                        47.993666
-                  ]
-            },
-            {
-                  "name": "Piratenspielplatz Knopfhäuslesiedlung",
-                  "text": "Un loc de joacă tematic pentru jocuri pline de imaginație în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.867427,
-                        47.98803
-                  ]
-            },
-            {
-                  "name": "Spielplatz Waldseestraße",
-                  "text": "Un loc de joacă primitor pentru copii în Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.863084,
-                        47.983214
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Freiburg Minster",
-                  "text": "The Gothic cathedral with its striking tower is considered an architectural masterpiece and the symbol of the city.",
-                  "category": "Church",
-                  "confidence": "high",
-                  "coords": [
-                        7.852222,
-                        47.995556
-                  ]
-            },
-            {
-                  "name": "Historical Merchants' Hall",
-                  "text": "A magnificent red building on Münsterplatz with late Gothic elements, formerly used as a customs building.",
-                  "category": "Historic square",
-                  "confidence": "high",
-                  "coords": [
-                        7.852727,
-                        47.994964
-                  ]
-            },
-            {
-                  "name": "Martin's Gate",
-                  "text": "The older of the two surviving city gates of Freiburg, marking the main entrance to the historical old town.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.848889,
-                        47.993611
-                  ]
-            },
-            {
-                  "name": "Swabian Gate",
-                  "text": "One of the medieval city gates, notable for its artistic wall paintings and its location at the foot of Schlossberg.",
-                  "category": "City gate",
-                  "confidence": "high",
-                  "coords": [
-                        7.854167,
-                        47.992778
-                  ]
-            },
-            {
-                  "name": "Freiburg Bächle",
-                  "text": "Small water-filled runnels in the streets of the old town, a unique and popular characteristic of the city.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.849534,
-                        47.998162
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "A forested hill right next to the city centre, offering hiking trails and fantastic views over Freiburg's rooftops.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        7.867552,
-                        47.997494
-                  ]
-            },
-            {
-                  "name": "Augustiner Museum",
-                  "text": "One of the most important museums on the Upper Rhine, housed in a former monastery with art from Middle Ages to Baroque.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.8525,
-                        47.993889
-                  ]
-            },
-            {
-                  "name": "Waltershofener See",
-                  "text": "The Waltershofener See near Freiburg is a peaceful spot for recreation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.765492,
-                        48.012504
-                  ]
-            },
-            {
-                  "name": "Arlesheimer See",
-                  "text": "The Arlesheimer See in Freiburg is a beautiful nature reserve for walks.",
-                  "category": "natural",
-                  "coords": [
-                        7.745821,
-                        47.98567
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "An idyllic lake in Freiburg that invites visitors to relax by the water.",
-                  "category": "natural",
-                  "coords": [
-                        7.81729,
-                        48.061887
-                  ]
-            },
-            {
-                  "name": "Tunisee",
-                  "text": "The Tunisee near Freiburg is a well-known lake for recreational activities.",
-                  "category": "natural",
-                  "coords": [
-                        7.81446,
-                        48.066155
-                  ]
-            },
-            {
-                  "name": "Biotop / Löschteich",
-                  "text": "A small biotope lake in Freiburg that enriches the local nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.823704,
-                        47.947356
-                  ]
-            },
-            {
-                  "name": "Vörstetter Baggersee",
-                  "text": "The Vörstetter Baggersee near Freiburg is a popular spot for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        7.846713,
-                        48.0537
-                  ]
-            },
-            {
-                  "name": "Moosweiher",
-                  "text": "The Moosweiher in Freiburg offers a pleasant environment for short trips.",
-                  "category": "natural",
-                  "coords": [
-                        7.804196,
-                        48.030437
-                  ]
-            },
-            {
-                  "name": "Flückigersee",
-                  "text": "The Flückigersee in Freiburg is a centrally located lake for walks.",
-                  "category": "natural",
-                  "coords": [
-                        7.817974,
-                        48.010367
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "The Waldsee in Freiburg is a peaceful body of water in a forested environment.",
-                  "category": "natural",
-                  "coords": [
-                        7.877057,
-                        47.982776
-                  ]
-            },
-            {
-                  "name": "Dietenbachsee",
-                  "text": "A man-made lake in Dietenbachpark in Freiburg for local recreation.",
-                  "category": "natural",
-                  "coords": [
-                        7.802418,
-                        48.002025
-                  ]
-            },
-            {
-                  "name": "Opfinger See",
-                  "text": "The Opfinger See near Freiburg is a popular destination for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        7.758321,
-                        48.005087
-                  ]
-            },
-            {
-                  "name": "Urachspielplatz",
-                  "text": "The Urachspielplatz in Freiburg offers a variety of play equipment for children.",
-                  "category": "family",
-                  "coords": [
-                        7.851035,
-                        47.984757
-                  ]
-            },
-            {
-                  "name": "Erwinspielplatz",
-                  "text": "A nice playground at Erwin-Schöttle-Platz in Freiburg for families.",
-                  "category": "family",
-                  "coords": [
-                        7.856684,
-                        47.985857
-                  ]
-            },
-            {
-                  "name": "Spielplatz Im Konrad-Günther-Park",
-                  "text": "Playground in Konrad-Günther-Park in Freiburg, ideal for children to run around.",
-                  "category": "family",
-                  "coords": [
-                        7.877401,
-                        47.985767
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Heilpädagogischen Hort",
-                  "text": "A playground in Freiburg specially designed for children in after-school care.",
-                  "category": "family",
-                  "coords": [
-                        7.878533,
-                        47.990898
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Ferrandstrasse",
-                  "text": "A children's playground in Ferrandstrasse in Freiburg for daily recreational fun.",
-                  "category": "family",
-                  "coords": [
-                        7.847313,
-                        48.00461
-                  ]
-            },
-            {
-                  "name": "Blaues Monster",
-                  "text": "The playground \"Blaues Monster\" in Freiburg provides creative play fun for children.",
-                  "category": "family",
-                  "coords": [
-                        7.832609,
-                        47.983971
-                  ]
-            },
-            {
-                  "name": "Spielplatz Blauenstraße",
-                  "text": "A well-equipped playground in Blauenstraße in Freiburg for children.",
-                  "category": "family",
-                  "coords": [
-                        7.816778,
-                        47.987993
-                  ]
-            },
-            {
-                  "name": "Baby Beach",
-                  "text": "A family-friendly playground in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.857329,
-                        48.019728
-                  ]
-            },
-            {
-                  "name": "Murmelbahn Schlossberg",
-                  "text": "A nice place for children to play in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.862298,
-                        47.993849
-                  ]
-            },
-            {
-                  "name": "Spielplatz Elsässer Str. 17",
-                  "text": "A local playground for families in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.831581,
-                        48.010677
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Rumpelhausen",
-                  "text": "An adventure playground for children in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.836592,
-                        47.993666
-                  ]
-            },
-            {
-                  "name": "Piratenspielplatz Knopfhäuslesiedlung",
-                  "text": "A themed playground for imaginative play in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.867427,
-                        47.98803
-                  ]
-            },
-            {
-                  "name": "Spielplatz Waldseestraße",
-                  "text": "A welcoming playground for children in Freiburg im Breisgau.",
-                  "category": "family",
-                  "coords": [
-                        7.863084,
-                        47.983214
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Freiburger Münster",
-                  "text": "Karakteristik kulesiyle bu Gotik katedral, mimari bir şaheser ve Freiburg'un en önemli simge yapısıdır.",
-                  "category": "Church",
-                  "coords": [
-                        7.852222,
-                        47.995556
-                  ]
-            },
-            {
-                  "name": "Tarihi Alışveriş Binası",
-                  "text": "Katedral meydanında yer alan kırmızı renkli bina, geçmişte gümrük binası olarak kullanılan bir yapıdır.",
-                  "category": "Historic square",
-                  "coords": [
-                        7.852727,
-                        47.994964
-                  ]
-            },
-            {
-                  "name": "Martinstor",
-                  "text": "Şehrin günümüze ulaşan en eski iki kapısından biri olup tarihi Eski Şehir girişini işaret etmektedir.",
-                  "category": "City gate",
-                  "coords": [
-                        7.848889,
-                        47.993611
-                  ]
-            },
-            {
-                  "name": "Schwabentor",
-                  "text": "Sanat dolu duvar resimleri ve tepedeki konumuyla dikkat çeken Orta Çağ'dan kalma bir şehir kapısıdır.",
-                  "category": "City gate",
-                  "coords": [
-                        7.854167,
-                        47.992778
-                  ]
-            },
-            {
-                  "name": "Freiburg Kanalları",
-                  "text": "Eski Şehir sokaklarından geçen küçük su kanalları, Freiburg'un karakteristik ve sevilen bir özelliğidir.",
-                  "category": "Landmark",
-                  "coords": [
-                        7.849534,
-                        47.998162
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Şehrin hemen kenarındaki bu ağaçlık tepede yürüyüş yolları ve harika bir şehir manzarası bulunmaktadır.",
-                  "category": "Park",
-                  "coords": [
-                        7.867552,
-                        47.997494
-                  ]
-            },
-            {
-                  "name": "Augustinermuseum",
-                  "text": "Eski bir manastırda yer alan bu önemli müze, Orta Çağ'dan Barok döneme kadar uzanan sanat eserlerini sunar.",
-                  "category": "Museum",
-                  "coords": [
-                        7.8525,
-                        47.993889
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Freiburger Münster", "text": "Die gotische Kathedrale mit ihrem markanten Turm gilt als architektonisches Meisterwerk und Wahrzeichen der Stadt.", "category": "Church", "confidence": "high", "coords": [7.852222, 47.995556]}, {"name": "Historisches Kaufhaus", "text": "Ein prachtvolles rotes Gebäude am Münsterplatz mit spätgotischen Elementen, das früher als Zollgebäude diente.", "category": "Historic square", "confidence": "high", "coords": [7.852727, 47.994964]}, {"name": "Martinstor", "text": "Das älteste der beiden erhaltenen Stadttore von Freiburg, das den Eingang zur historischen Altstadt markiert.", "category": "City gate", "confidence": "high", "coords": [7.848889, 47.993611]}, {"name": "Schwabentor", "text": "Eines der mittelalterlichen Stadttore, das durch seine kunstvollen Wandmalereien und die Lage am Schlossberg besticht.", "category": "City gate", "confidence": "high", "coords": [7.854167, 47.992778]}, {"name": "Freiburger Bächle", "text": "Kleine Wasserläufe in den Straßen der Altstadt, die das Stadtbild prägen und ein beliebtes Merkmal Freiburgs sind.", "category": "Landmark", "confidence": "high", "coords": [7.849534, 47.998162]}, {"name": "Schlossberg", "text": "Ein bewaldeter Hügel direkt am Stadtrand, der Wanderwege und fantastische Ausblicke über die Dächer von Freiburg bietet.", "category": "Park", "confidence": "high", "coords": [7.867552, 47.997494]}, {"name": "Augustinermuseum", "text": "Eines der bedeutendsten Museen am Oberrhein, untergebracht in einem ehemaligen Kloster mit Kunst vom Mittelalter bis Barock.", "category": "Museum", "confidence": "high", "coords": [7.8525, 47.993889]}, {"name": "Waltershofener See", "text": "Der Waltershofener See bei Freiburg ist ein ruhiger Ort zur Erholung in der Natur.", "category": "natural", "coords": [7.765492, 48.012504]}, {"name": "Arlesheimer See", "text": "Der Arlesheimer See in Freiburg ist ein schönes Naturschutzgebiet für Spaziergänge.", "category": "natural", "coords": [7.745821, 47.98567]}, {"name": "Silbersee", "text": "Ein idyllischer See in Freiburg, der zum Entspannen am Wasser einlädt.", "category": "natural", "coords": [7.81729, 48.061887]}, {"name": "Tunisee", "text": "Der Tunisee bei Freiburg ist ein bekanntes Gewässer für Freizeitaktivitäten.", "category": "natural", "coords": [7.81446, 48.066155]}, {"name": "Biotop / Löschteich", "text": "Ein kleiner Biotop-See in Freiburg, der die lokale Natur bereichert.", "category": "natural", "coords": [7.823704, 47.947356]}, {"name": "Vörstetter Baggersee", "text": "Der Vörstetter Baggersee bei Freiburg ist ein beliebter Ort für Naturfreunde.", "category": "natural", "coords": [7.846713, 48.0537]}, {"name": "Moosweiher", "text": "Der Moosweiher in Freiburg bietet eine angenehme Umgebung für kurze Ausflüge.", "category": "natural", "coords": [7.804196, 48.030437]}, {"name": "Flückigersee", "text": "Der Flückigersee in Freiburg ist ein zentral gelegener See für Spaziergänge.", "category": "natural", "coords": [7.817974, 48.010367]}, {"name": "Waldsee", "text": "Der Waldsee in Freiburg ist ein ruhiges Gewässer in waldreicher Umgebung.", "category": "natural", "coords": [7.877057, 47.982776]}, {"name": "Dietenbachsee", "text": "Ein künstlich angelegter See im Dietenbachpark in Freiburg zur Naherholung.", "category": "natural", "coords": [7.802418, 48.002025]}, {"name": "Opfinger See", "text": "Der Opfinger See bei Freiburg ist ein beliebtes Ziel für Naturbeobachtungen.", "category": "natural", "coords": [7.758321, 48.005087]}, {"name": "Urachspielplatz", "text": "Der Urachspielplatz in Freiburg bietet vielfältige Spielgeräte für Kindern.", "category": "family", "coords": [7.851035, 47.984757]}, {"name": "Erwinspielplatz", "text": "Ein schöner Spielplatz am Erwin-Schöttle-Platz in Freiburg für Familien.", "category": "family", "coords": [7.856684, 47.985857]}, {"name": "Spielplatz Im Konrad-Günther-Park", "text": "Spielplatz im Konrad-Günther-Park in Freiburg, ideal für Kinder zum Austoben.", "category": "family", "coords": [7.877401, 47.985767]}, {"name": "Spielplatz am Heilpädagogischen Hort", "text": "Ein Spielplatz in Freiburg, der speziell für Kinder im Hortbereich gestaltet ist.", "category": "family", "coords": [7.878533, 47.990898]}, {"name": "Kinderspielplatz Ferrandstrasse", "text": "Ein Kinderspielplatz in der Ferrandstraße in Freiburg für den täglichen Freizeitspaß.", "category": "family", "coords": [7.847313, 48.00461]}, {"name": "Blaues Monster", "text": "Der Spielplatz \"Blaues Monster\" in Freiburg sorgt für kreativen Spielspaß bei Kindern.", "category": "family", "coords": [7.832609, 47.983971]}, {"name": "Spielplatz Blauenstraße", "text": "Ein gut ausgestatteter Spielplatz in der Blauenstraße in Freiburg für Kinder.", "category": "family", "coords": [7.816778, 47.987993]}, {"name": "Baby Beach", "text": "Im Herzen von Freiburg im Breisgau bietet dieser familienfreundliche Spielplatz einen wunderbaren Rückzugsort für die Kleinsten. Die liebevoll gestaltete Anlage sorgt für eine sichere und fröhliche Atmosphäre, in der Kinder ausgelassen spielen können. Eltern schätzen die entspannten Sitzmöglichkeiten während der Freizeitgestaltung. Ein Besuch am Vormittag verspricht oft angenehm ruhige Stunden für die ganze Familie.", "category": "family", "coords": [7.857329, 48.019728]}, {"name": "Murmelbahn Schlossberg", "text": "Ein schöner Ort für Kinder zum Spielen in Freiburg im Breisgau.", "category": "family", "coords": [7.862298, 47.993849]}, {"name": "Spielplatz Elsässer Str. 17", "text": "Ein lokaler Spielplatz für Familien in Freiburg im Breisgau.", "category": "family", "coords": [7.831581, 48.010677]}, {"name": "Abenteuerspielplatz Rumpelhausen", "text": "Ein Abenteuerspielplatz für Kinder in Freiburg im Breisgau.", "category": "family", "coords": [7.836592, 47.993666]}, {"name": "Piratenspielplatz Knopfhäuslesiedlung", "text": "Ein thematischer Spielplatz für fantasievolles Spielen in Freiburg im Breisgau.", "category": "family", "coords": [7.867427, 47.98803]}, {"name": "Spielplatz Waldseestraße", "text": "Ein einladender Spielplatz für Kinder in Freiburg im Breisgau.", "category": "family", "coords": [7.863084, 47.983214]}, {"name": "Bauernhoftiere für Stadtkinder e.V.", "text": "Bauernhoftiere für Stadtkinder e.V. in Freiburg Im Breisgau bietet ein spannendes Erlebnis für Kinder und Naturfreunde.", "category": "family", "coords": [7.815309, 48.003816]}, {"name": "Lorettobad", "text": "Das Lorettobad in Freiburg Im Breisgau ist ein beliebtes Erlebnisbad für Familien.", "category": "family", "coords": [7.841633, 47.983324]}, {"name": "Westbad", "text": "Das Westbad in Freiburg Im Breisgau ist ein beliebtes Erlebnisbad für Familien.", "category": "family", "coords": [7.822456, 48.010642]}, {"name": "Strandbad", "text": "Das Strandbad in Freiburg Im Breisgau ist ein beliebtes Erlebnisbad für Familien.", "category": "family", "coords": [7.895945, 47.988357]}], "hu": [{"name": "Freiburgi székesegyház", "text": "A gótikus katedrális jellegzetes tornyával építészeti remekműnek számít és a város legismertebb jelképe.", "category": "Church", "confidence": "high", "coords": [7.852222, 47.995556]}, {"name": "Historisches Kaufhaus", "text": "Pompás vörös épület a Münsterplatzon késő gótikus elemekkel, amely korábban vámszékházként szolgált.", "category": "Historic square", "confidence": "high", "coords": [7.852727, 47.994964]}, {"name": "Martinstor", "text": "Freiburg két épségben maradt városkapuja közül a régebbi, amely a történelmi óváros bejáratát jelzi.", "category": "City gate", "confidence": "high", "coords": [7.848889, 47.993611]}, {"name": "Schwabentor", "text": "A középkori városkapuk egyike, amely művészi falfestményeivel és a Schlossberg melletti fekvésével tűnik ki.", "category": "City gate", "confidence": "high", "coords": [7.854167, 47.992778]}, {"name": "Freiburgi Bächle", "text": "Kicsiny csatornák az óváros utcáin, amelyek meghatározzák a városképet és Freiburg kedvelt jellegzetességei.", "category": "Landmark", "confidence": "high", "coords": [7.849534, 47.998162]}, {"name": "Schlossberg", "text": "Erdős domb közvetlenül a város szélén, amely túraútvonalakat és fantasztikus kilátást kínál Freiburg tetőire.", "category": "Park", "confidence": "high", "coords": [7.867552, 47.997494]}, {"name": "Ágoston-rendi Múzeum", "text": "A Felső-Rajna egyik legjelentősebb múzeuma egy egykori kolostorban, középkori és barokk művészeti kincsekkel.", "category": "Museum", "confidence": "high", "coords": [7.8525, 47.993889]}, {"name": "Waltershofener See", "text": "A Freiburg melletti Waltershofener See egy nyugodt hely a természetbeni kikapcsolódáshoz.", "category": "natural", "coords": [7.765492, 48.012504]}, {"name": "Arlesheimer See", "text": "A freiburgi Arlesheimer See egy szép természetvédelmi terület sétákhoz.", "category": "natural", "coords": [7.745821, 47.98567]}, {"name": "Silbersee", "text": "Egy idilli tó Freiburgban, amely hívogat a vízparti kikapcsolódásra.", "category": "natural", "coords": [7.81729, 48.061887]}, {"name": "Tunisee", "text": "A Freiburg melletti Tunisee ismert vízfelület a szabadidős tevékenységekhez.", "category": "natural", "coords": [7.81446, 48.066155]}, {"name": "Biotop / Löschteich", "text": "Egy kis biotóp-tó Freiburgban, amely gazdagítja a helyi természetet.", "category": "natural", "coords": [7.823704, 47.947356]}, {"name": "Vörstetter Baggersee", "text": "A Freiburg melletti Vörstetter Baggersee népszerű hely a természetbarátok számára.", "category": "natural", "coords": [7.846713, 48.0537]}, {"name": "Moosweiher", "text": "A freiburgi Moosweiher kellemes környezetet biztosít rövid kirándulásokhoz.", "category": "natural", "coords": [7.804196, 48.030437]}, {"name": "Flückigersee", "text": "A freiburgi Flückigersee egy központi fekvésű tó sétákhoz.", "category": "natural", "coords": [7.817974, 48.010367]}, {"name": "Waldsee", "text": "A freiburgi Waldsee egy nyugodt vízfelület erdős környezetben.", "category": "natural", "coords": [7.877057, 47.982776]}, {"name": "Dietenbachsee", "text": "Egy mesterségesen kialakított tó a freiburgi Dietenbachparkban a kikapcsolódáshoz.", "category": "natural", "coords": [7.802418, 48.002025]}, {"name": "Opfinger See", "text": "A Freiburg melletti Opfinger See népszerű célpont a természet megfigyelésére.", "category": "natural", "coords": [7.758321, 48.005087]}, {"name": "Urachspielplatz", "text": "A freiburgi Urachspielplatz változatos játékokat kínál a gyermekeknek.", "category": "family", "coords": [7.851035, 47.984757]}, {"name": "Erwinspielplatz", "text": "Egy szép játszótér a freiburgi Erwin-Schöttle-Platzon a családok számára.", "category": "family", "coords": [7.856684, 47.985857]}, {"name": "Spielplatz Im Konrad-Günther-Park", "text": "Játszótér a freiburgi Konrad-Günther-Parkban, ideális a gyermekeknek a mozgáshoz.", "category": "family", "coords": [7.877401, 47.985767]}, {"name": "Spielplatz am Heilpädagogischen Hort", "text": "Egy játszótér Freiburgban, amelyet kifejezetten a napközis gyermekeknek alakítottak ki.", "category": "family", "coords": [7.878533, 47.990898]}, {"name": "Kinderspielplatz Ferrandstrasse", "text": "Egy gyermekjátszótér a freiburgi Ferrandstraßén a napi szabadidős szórakozáshoz.", "category": "family", "coords": [7.847313, 48.00461]}, {"name": "Blaues Monster", "text": "A freiburgi \"Blaues Monster\" játszótér kreatív játékélményt nyújt a gyermekeknek.", "category": "family", "coords": [7.832609, 47.983971]}, {"name": "Spielplatz Blauenstraße", "text": "Egy jól felszerelt játszótér a freiburgi Blauenstraßén a gyermekek számára.", "category": "family", "coords": [7.816778, 47.987993]}, {"name": "Baby Beach", "text": "Freiburg im Breisgau szívében ez a családbarát játszótér csodálatos menedéket kínál a legkisebbek számára. A gondosan kialakított terület biztonságos és vidám légkört teremt, ahol a gyerekek önfeledten játszhatnak. A szülők különösen értékelik a pihentető ülőhelyeket a szabadidő eltöltése közben. Egy délelőtti látogatás gyakran kellemesen nyugodt órákat ígér az egész családnak.", "category": "family", "coords": [7.857329, 48.019728]}, {"name": "Murmelbahn Schlossberg", "text": "Kedvelt hely a gyerekeknek Freiburg im Breisgau városában.", "category": "family", "coords": [7.862298, 47.993849]}, {"name": "Spielplatz Elsässer Str. 17", "text": "Helyi játszótér családok számára Freiburg im Breisgau városában.", "category": "family", "coords": [7.831581, 48.010677]}, {"name": "Abenteuerspielplatz Rumpelhausen", "text": "Kalandjátszótér gyerekeknek Freiburg im Breisgau területén.", "category": "family", "coords": [7.836592, 47.993666]}, {"name": "Piratenspielplatz Knopfhäuslesiedlung", "text": "Tematikus játszótér a kreatív játékhoz Freiburg im Breisgau városában.", "category": "family", "coords": [7.867427, 47.98803]}, {"name": "Spielplatz Waldseestraße", "text": "Hívogató játszótér gyerekeknek Freiburg im Breisgau területén.", "category": "family", "coords": [7.863084, 47.983214]}, {"name": "Bauernhoftiere für Stadtkinder e.V.", "text": "A Bauernhoftiere für Stadtkinder e.V. Freiburg Im Breisgau területén izgalmas élményeket kínál a gyerekeknek és az állatbarátoknak.", "category": "family", "coords": [7.815309, 48.003816]}, {"name": "Lorettobad", "text": "A Freiburg Im Breisgau városában található Lorettobad egy népszerű élményfürdő családok számára.", "category": "family", "coords": [7.841633, 47.983324]}, {"name": "Westbad", "text": "A Freiburg Im Breisgau városában található Westbad egy népszerű élményfürdő családok számára.", "category": "family", "coords": [7.822456, 48.010642]}, {"name": "Strandbad", "text": "A Freiburg Im Breisgau városában található Strandbad egy népszerű élményfürdő családok számára.", "category": "family", "coords": [7.895945, 47.988357]}], "ro": [{"name": "Catedrala din Freiburg", "text": "Catedrala gotică cu turnul său distinctiv este considerată o capodoperă arhitecturală și simbolul orașului.", "category": "Church", "confidence": "high", "coords": [7.852222, 47.995556]}, {"name": "Casa Istorică a Negustorilor", "text": "O clădire roșie superbă în Münsterplatz cu elemente gotice târzii, care a servit anterior ca sediu al vămii.", "category": "Historic square", "confidence": "high", "coords": [7.852727, 47.994964]}, {"name": "Poarta Sfântului Martin", "text": "Cea mai veche dintre cele două porți medievale păstrate ale orașului, marcând intrarea în centrul istoric.", "category": "City gate", "confidence": "high", "coords": [7.848889, 47.993611]}, {"name": "Poarta Șvabilor", "text": "Una dintre porțile medievale ale orașului, care impresionează prin picturile murale și locația sa lângă Schlossberg.", "category": "City gate", "confidence": "high", "coords": [7.854167, 47.992778]}, {"name": "Canalele Bächle", "text": "Mici canale de apă pe străzile orașului vechi, care definesc peisajul urban și sunt o trăsătură iubită a Freiburgului.", "category": "Landmark", "confidence": "high", "coords": [7.849534, 47.998162]}, {"name": "Schlossberg", "text": "Un deal împădurit chiar la marginea orașului, oferind trasee de drumeție și vederi fantastice peste acoperișurile orașului.", "category": "Park", "confidence": "high", "coords": [7.867552, 47.997494]}, {"name": "Muzeul Augustinilor", "text": "Unul dintre cele mai importante muzee de pe Rinul Superior, situat într-o fostă mănăstire cu artă medievală și barocă.", "category": "Museum", "confidence": "high", "coords": [7.8525, 47.993889]}, {"name": "Waltershofener See", "text": "Waltershofener See lângă Freiburg este un loc liniștit pentru recreere în natură.", "category": "natural", "coords": [7.765492, 48.012504]}, {"name": "Arlesheimer See", "text": "Arlesheimer See din Freiburg este o rezervație naturală frumoasă pentru plimbări.", "category": "natural", "coords": [7.745821, 47.98567]}, {"name": "Silbersee", "text": "Un lac idilic în Freiburg care invită la relaxare pe malul apei.", "category": "natural", "coords": [7.81729, 48.061887]}, {"name": "Tunisee", "text": "Tunisee de lângă Freiburg este o apă cunoscută pentru activități de agrement.", "category": "natural", "coords": [7.81446, 48.066155]}, {"name": "Biotop / Löschteich", "text": "Un mic lac biotop în Freiburg, care îmbogățește natura locală.", "category": "natural", "coords": [7.823704, 47.947356]}, {"name": "Vörstetter Baggersee", "text": "Vörstetter Baggersee lângă Freiburg este un loc popular pentru iubitorii de natură.", "category": "natural", "coords": [7.846713, 48.0537]}, {"name": "Moosweiher", "text": "Moosweiher din Freiburg oferă un mediu plăcut pentru scurte excursii.", "category": "natural", "coords": [7.804196, 48.030437]}, {"name": "Flückigersee", "text": "Flückigersee din Freiburg este un lac situat central pentru plimbări.", "category": "natural", "coords": [7.817974, 48.010367]}, {"name": "Waldsee", "text": "Waldsee din Freiburg este o apă liniștită într-un mediu împădurit.", "category": "natural", "coords": [7.877057, 47.982776]}, {"name": "Dietenbachsee", "text": "Un lac artificial în Dietenbachpark din Freiburg pentru recreere.", "category": "natural", "coords": [7.802418, 48.002025]}, {"name": "Opfinger See", "text": "Opfinger See de lângă Freiburg este o destinație populară pentru observarea naturii.", "category": "natural", "coords": [7.758321, 48.005087]}, {"name": "Urachspielplatz", "text": "Urachspielplatz din Freiburg oferă diverse echipamente de joacă pentru copii.", "category": "family", "coords": [7.851035, 47.984757]}, {"name": "Erwinspielplatz", "text": "Un loc de joacă frumos în Erwin-Schöttle-Platz din Freiburg pentru familii.", "category": "family", "coords": [7.856684, 47.985857]}, {"name": "Spielplatz Im Konrad-Günther-Park", "text": "Loc de joacă în Konrad-Günther-Park din Freiburg, ideal pentru copii ca să-și consume energia.", "category": "family", "coords": [7.877401, 47.985767]}, {"name": "Spielplatz am Heilpädagogischen Hort", "text": "Un loc de joacă în Freiburg, conceput special pentru copiii din centrele educaționale.", "category": "family", "coords": [7.878533, 47.990898]}, {"name": "Kinderspielplatz Ferrandstrasse", "text": "Un loc de joacă pentru copii în Ferrandstraße din Freiburg pentru distracția zilnică.", "category": "family", "coords": [7.847313, 48.00461]}, {"name": "Blaues Monster", "text": "Locul de joacă „Blaues Monster” din Freiburg oferă o distracție creativă copiilor.", "category": "family", "coords": [7.832609, 47.983971]}, {"name": "Spielplatz Blauenstraße", "text": "Un loc de joacă bine echipat în Blauenstraße din Freiburg pentru copii.", "category": "family", "coords": [7.816778, 47.987993]}, {"name": "Baby Beach", "text": "În inima orașului Freiburg im Breisgau, acest loc de joacă destinat familiilor oferă un refugiu minunat pentru cei mici. Spațiul frumos amenajat asigură o atmosferă sigură și veselă, unde copiii se pot juca în voie. Părinții apreciază locurile de relaxare în timp ce își petrec timpul liber. O vizită în timpul dimineții promite adesea ore plăcute și liniștite pentru întreaga familie.", "category": "family", "coords": [7.857329, 48.019728]}, {"name": "Murmelbahn Schlossberg", "text": "Un loc frumos pentru copii în Freiburg im Breisgau.", "category": "family", "coords": [7.862298, 47.993849]}, {"name": "Spielplatz Elsässer Str. 17", "text": "Un loc de joacă local pentru familii în Freiburg im Breisgau.", "category": "family", "coords": [7.831581, 48.010677]}, {"name": "Abenteuerspielplatz Rumpelhausen", "text": "Un loc de joacă de aventură pentru copii în Freiburg im Breisgau.", "category": "family", "coords": [7.836592, 47.993666]}, {"name": "Piratenspielplatz Knopfhäuslesiedlung", "text": "Un loc de joacă tematic pentru jocuri pline de imaginație în Freiburg im Breisgau.", "category": "family", "coords": [7.867427, 47.98803]}, {"name": "Spielplatz Waldseestraße", "text": "Un loc de joacă primitor pentru copii în Freiburg im Breisgau.", "category": "family", "coords": [7.863084, 47.983214]}, {"name": "Bauernhoftiere für Stadtkinder e.V.", "text": "Bauernhoftiere für Stadtkinder e.V. din Freiburg Im Breisgau oferă o experiență captivantă pentru copii și iubitorii de animale.", "category": "family", "coords": [7.815309, 48.003816]}, {"name": "Lorettobad", "text": "Lorettobad din Freiburg Im Breisgau este un parc acvatic popular pentru familii.", "category": "family", "coords": [7.841633, 47.983324]}, {"name": "Westbad", "text": "Westbad din Freiburg Im Breisgau este un parc acvatic popular pentru familii.", "category": "family", "coords": [7.822456, 48.010642]}, {"name": "Strandbad", "text": "Strandbad din Freiburg Im Breisgau este un parc acvatic popular pentru familii.", "category": "family", "coords": [7.895945, 47.988357]}], "en": [{"name": "Freiburg Minster", "text": "The Gothic cathedral with its striking tower is considered an architectural masterpiece and the symbol of the city.", "category": "Church", "confidence": "high", "coords": [7.852222, 47.995556]}, {"name": "Historical Merchants' Hall", "text": "A magnificent red building on Münsterplatz with late Gothic elements, formerly used as a customs building.", "category": "Historic square", "confidence": "high", "coords": [7.852727, 47.994964]}, {"name": "Martin's Gate", "text": "The older of the two surviving city gates of Freiburg, marking the main entrance to the historical old town.", "category": "City gate", "confidence": "high", "coords": [7.848889, 47.993611]}, {"name": "Swabian Gate", "text": "One of the medieval city gates, notable for its artistic wall paintings and its location at the foot of Schlossberg.", "category": "City gate", "confidence": "high", "coords": [7.854167, 47.992778]}, {"name": "Freiburg Bächle", "text": "Small water-filled runnels in the streets of the old town, a unique and popular characteristic of the city.", "category": "Landmark", "confidence": "high", "coords": [7.849534, 47.998162]}, {"name": "Schlossberg", "text": "A forested hill right next to the city centre, offering hiking trails and fantastic views over Freiburg's rooftops.", "category": "Park", "confidence": "high", "coords": [7.867552, 47.997494]}, {"name": "Augustiner Museum", "text": "One of the most important museums on the Upper Rhine, housed in a former monastery with art from Middle Ages to Baroque.", "category": "Museum", "confidence": "high", "coords": [7.8525, 47.993889]}, {"name": "Waltershofener See", "text": "The Waltershofener See near Freiburg is a peaceful spot for recreation in nature.", "category": "natural", "coords": [7.765492, 48.012504]}, {"name": "Arlesheimer See", "text": "The Arlesheimer See in Freiburg is a beautiful nature reserve for walks.", "category": "natural", "coords": [7.745821, 47.98567]}, {"name": "Silbersee", "text": "An idyllic lake in Freiburg that invites visitors to relax by the water.", "category": "natural", "coords": [7.81729, 48.061887]}, {"name": "Tunisee", "text": "The Tunisee near Freiburg is a well-known lake for recreational activities.", "category": "natural", "coords": [7.81446, 48.066155]}, {"name": "Biotop / Löschteich", "text": "A small biotope lake in Freiburg that enriches the local nature.", "category": "natural", "coords": [7.823704, 47.947356]}, {"name": "Vörstetter Baggersee", "text": "The Vörstetter Baggersee near Freiburg is a popular spot for nature lovers.", "category": "natural", "coords": [7.846713, 48.0537]}, {"name": "Moosweiher", "text": "The Moosweiher in Freiburg offers a pleasant environment for short trips.", "category": "natural", "coords": [7.804196, 48.030437]}, {"name": "Flückigersee", "text": "The Flückigersee in Freiburg is a centrally located lake for walks.", "category": "natural", "coords": [7.817974, 48.010367]}, {"name": "Waldsee", "text": "The Waldsee in Freiburg is a peaceful body of water in a forested environment.", "category": "natural", "coords": [7.877057, 47.982776]}, {"name": "Dietenbachsee", "text": "A man-made lake in Dietenbachpark in Freiburg for local recreation.", "category": "natural", "coords": [7.802418, 48.002025]}, {"name": "Opfinger See", "text": "The Opfinger See near Freiburg is a popular destination for nature observation.", "category": "natural", "coords": [7.758321, 48.005087]}, {"name": "Urachspielplatz", "text": "The Urachspielplatz in Freiburg offers a variety of play equipment for children.", "category": "family", "coords": [7.851035, 47.984757]}, {"name": "Erwinspielplatz", "text": "A nice playground at Erwin-Schöttle-Platz in Freiburg for families.", "category": "family", "coords": [7.856684, 47.985857]}, {"name": "Spielplatz Im Konrad-Günther-Park", "text": "Playground in Konrad-Günther-Park in Freiburg, ideal for children to run around.", "category": "family", "coords": [7.877401, 47.985767]}, {"name": "Spielplatz am Heilpädagogischen Hort", "text": "A playground in Freiburg specially designed for children in after-school care.", "category": "family", "coords": [7.878533, 47.990898]}, {"name": "Kinderspielplatz Ferrandstrasse", "text": "A children's playground in Ferrandstrasse in Freiburg for daily recreational fun.", "category": "family", "coords": [7.847313, 48.00461]}, {"name": "Blaues Monster", "text": "The playground \"Blaues Monster\" in Freiburg provides creative play fun for children.", "category": "family", "coords": [7.832609, 47.983971]}, {"name": "Spielplatz Blauenstraße", "text": "A well-equipped playground in Blauenstraße in Freiburg for children.", "category": "family", "coords": [7.816778, 47.987993]}, {"name": "Baby Beach", "text": "Located in the heart of Freiburg im Breisgau, this family-friendly playground offers a wonderful retreat for the little ones. The thoughtfully designed area provides a safe and cheerful atmosphere where children can play to their heart's content. Parents appreciate the relaxing seating options while enjoying their leisure time. A morning visit often guarantees pleasantly quiet hours for the entire family.", "category": "family", "coords": [7.857329, 48.019728]}, {"name": "Murmelbahn Schlossberg", "text": "A nice place for children to play in Freiburg im Breisgau.", "category": "family", "coords": [7.862298, 47.993849]}, {"name": "Spielplatz Elsässer Str. 17", "text": "A local playground for families in Freiburg im Breisgau.", "category": "family", "coords": [7.831581, 48.010677]}, {"name": "Abenteuerspielplatz Rumpelhausen", "text": "An adventure playground for children in Freiburg im Breisgau.", "category": "family", "coords": [7.836592, 47.993666]}, {"name": "Piratenspielplatz Knopfhäuslesiedlung", "text": "A themed playground for imaginative play in Freiburg im Breisgau.", "category": "family", "coords": [7.867427, 47.98803]}, {"name": "Spielplatz Waldseestraße", "text": "A welcoming playground for children in Freiburg im Breisgau.", "category": "family", "coords": [7.863084, 47.983214]}, {"name": "Bauernhoftiere für Stadtkinder e.V.", "text": "Bauernhoftiere für Stadtkinder e.V. in Freiburg Im Breisgau offers an exciting experience for children and animal lovers.", "category": "family", "coords": [7.815309, 48.003816]}, {"name": "Lorettobad", "text": "The Lorettobad in Freiburg Im Breisgau is a popular water park for families.", "category": "family", "coords": [7.841633, 47.983324]}, {"name": "Westbad", "text": "The Westbad in Freiburg Im Breisgau is a popular water park for families.", "category": "family", "coords": [7.822456, 48.010642]}, {"name": "Strandbad", "text": "The Strandbad in Freiburg Im Breisgau is a popular water park for families.", "category": "family", "coords": [7.895945, 47.988357]}], "tr": [{"name": "Freiburger Münster", "text": "Karakteristik kulesiyle bu Gotik katedral, mimari bir şaheser ve Freiburg'un en önemli simge yapısıdır.", "category": "Church", "coords": [7.852222, 47.995556]}, {"name": "Tarihi Alışveriş Binası", "text": "Katedral meydanında yer alan kırmızı renkli bina, geçmişte gümrük binası olarak kullanılan bir yapıdır.", "category": "Historic square", "coords": [7.852727, 47.994964]}, {"name": "Martinstor", "text": "Şehrin günümüze ulaşan en eski iki kapısından biri olup tarihi Eski Şehir girişini işaret etmektedir.", "category": "City gate", "coords": [7.848889, 47.993611]}, {"name": "Schwabentor", "text": "Sanat dolu duvar resimleri ve tepedeki konumuyla dikkat çeken Orta Çağ'dan kalma bir şehir kapısıdır.", "category": "City gate", "coords": [7.854167, 47.992778]}, {"name": "Freiburg Kanalları", "text": "Eski Şehir sokaklarından geçen küçük su kanalları, Freiburg'un karakteristik ve sevilen bir özelliğidir.", "category": "Landmark", "coords": [7.849534, 47.998162]}, {"name": "Schlossberg", "text": "Şehrin hemen kenarındaki bu ağaçlık tepede yürüyüş yolları ve harika bir şehir manzarası bulunmaktadır.", "category": "Park", "coords": [7.867552, 47.997494]}, {"name": "Augustinermuseum", "text": "Eski bir manastırda yer alan bu önemli müze, Orta Çağ'dan Barok döneme kadar uzanan sanat eserlerini sunar.", "category": "Museum", "coords": [7.8525, 47.993889]}]}
   },
   {
     id: "city-kassel",
@@ -34436,2269 +30801,7 @@ export const pois: POI[] = [
       fr: ["Le Bergpark Wilhelmshöhe est, avec 2,4 kilomètres carrés, le plus grand parc de montagne d'Europe.", "Le monument d'Hercule a été érigé entre 1701 et 1717 au sommet du Karlsberg.", "La 'documenta' se tient tous les cinq ans depuis 1955 et dure à chaque fois 100 jours.", "Jacob et Wilhelm Grimm ont vécu et travaillé à Cassel de 1798 à 1841.", "Le Fridericianum était, lors de son ouverture en 1779, le premier musée public d'Europe.", "Lors de la nuit de bombardements du 22 octobre 1943, le centre-ville a été presque entièrement détruit."],
     
       "tr": ["Bergpark Wilhelmshöhe, 2,4 kilometrekarelik alanıyla Avrupa'nın en büyük dağ parkıdır.", "Herkules anıtı, 1701 ile 1717 yılları arasında Karlsberg'in zirvesine inşa edilmiştir.", "1955'ten beri yapılan 'documenta' her beş yılda bir gerçekleşir ve 100 gün sürer.", "Jacob ve Wilhelm Grimm, 1798'den 1841'e kadar Kassel'de yaşamış ve çalışmışlardır.", "Fridericianum, 1779'daki açılışında Avrupa'nın ilk halka açık müzesiydi.", "22 Ekim 1943'teki bombardıman gecesinde şehir merkezi neredeyse tamamen yok olmuştur."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Herkules-Monument",
-                  "text": "Das imposante Wahrzeichen Kassels thront über dem Bergpark Wilhelmshöhe und ist der Ausgangspunkt der barocken Wasserspiele.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.39278,
-                        51.3164
-                  ]
-            },
-            {
-                  "name": "Schloss Wilhelmshöhe",
-                  "text": "Ein klassizistisches Schloss im Bergpark, das heute bedeutende Kunstsammlungen wie die Gemäldegalerie Alte Meister beherbergt.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.416111,
-                        51.315
-                  ]
-            },
-            {
-                  "name": "Löwenburg",
-                  "text": "Eine künstlich errichtete Burgruine aus dem späten 18. Jahrhundert, die als romantisches Rittergrabmal konzipiert wurde.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.40861,
-                        51.3114
-                  ]
-            },
-            {
-                  "name": "Karlsaue",
-                  "text": "Ein weitläufiger barocker Park direkt an der Fulda mit der markanten Orangerie und einer künstlichen Inselwelt.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        9.49333,
-                        51.3019
-                  ]
-            },
-            {
-                  "name": "Grimmwelt Kassel",
-                  "text": "Ein modernes Museum, das dem Leben und Werk der Brüder Grimm gewidmet ist und ihre berühmten Märchen interaktiv präsentiert.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.48927,
-                        51.3092
-                  ]
-            },
-            {
-                  "name": "Fridericianum",
-                  "text": "Das erste öffentliche Museumsgebäude auf dem europäischen Festland und heute zentraler Ausstellungsort der documenta.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.4975,
-                        51.3136
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "Ein barockes Schlossgebäude im Staatspark Karlsaue, das heute das Astronomisch-Physikalische Kabinett beherbergt.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.500802,
-                        51.310268
-                  ]
-            },
-            {
-                  "name": "Caricatura",
-                  "text": "Galerie für komische Kunst und Karikaturen im Kasseler Kulturbahnhof.",
-                  "category": "museum",
-                  "coords": [
-                        9.490577,
-                        51.318292
-                  ]
-            },
-            {
-                  "name": "Spohr Museum",
-                  "text": "Museum über das Leben und Werk des Komponisten Louis Spohr in Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.493975,
-                        51.309915
-                  ]
-            },
-            {
-                  "name": "theater im centrum",
-                  "text": "Privates Musicaltheater in der Kasseler Innenstadt mit vielfältigem Programm.",
-                  "category": "cultural",
-                  "coords": [
-                        9.487182,
-                        51.316169
-                  ]
-            },
-            {
-                  "name": "Fuldaaue",
-                  "text": "Großes Naturschutz- und Erholungsgebiet entlang der Fulda in Kassel.",
-                  "category": "natural",
-                  "coords": [
-                        9.504426,
-                        51.299587
-                  ]
-            },
-            {
-                  "name": "Marmorbad",
-                  "text": "Barockes Prachtbad mit Marmorskulpturen neben der Orangerie in Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.499539,
-                        51.310435
-                  ]
-            },
-            {
-                  "name": "Naturkundemuseum",
-                  "text": "Naturkundemuseum im historischen Ottoneum, dem ersten festen Theaterbau Deutschlands.",
-                  "category": "museum",
-                  "coords": [
-                        9.49895,
-                        51.313262
-                  ]
-            },
-            {
-                  "name": "documenta-Halle",
-                  "text": "Moderne Ausstellungshalle in Kassel, die primär für die documenta genutzt wird.",
-                  "category": "museum",
-                  "coords": [
-                        9.499489,
-                        51.312135
-                  ]
-            },
-            {
-                  "name": "Auebad",
-                  "text": "Modernes Freizeit- und Sportbad in Kassel mit Innen- und Außenbereichen.",
-                  "category": "family",
-                  "coords": [
-                        9.500481,
-                        51.300685
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Museum zur Geschichte und Stadtentwicklung von Kassel am Ständeplatz.",
-                  "category": "museum",
-                  "coords": [
-                        9.489631,
-                        51.314898
-                  ]
-            },
-            {
-                  "name": "Museum für Sepulkralkultur",
-                  "text": "Einzigartiges Museum in Kassel, das sich der Bestattungskultur und dem Totengedenken widmet.",
-                  "category": "museum",
-                  "coords": [
-                        9.488012,
-                        51.309078
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "Ein Museum am Brüder-Grimm-Platz, das die Kunst- und Kulturgeschichte des Landes Hessen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        9.489872,
-                        51.310631
-                  ]
-            },
-            {
-                  "name": "Technik-Museum Kassel",
-                  "text": "Das Museum dokumentiert die regionale Industriegeschichte und bedeutende technische Innovationen der Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        9.479507,
-                        51.324776
-                  ]
-            },
-            {
-                  "name": "Bademuseum",
-                  "text": "Ein spezialisiertes Museum in Kassel, das sich der Geschichte und Entwicklung der Badekultur widmet.",
-                  "category": "museum",
-                  "coords": [
-                        9.504719,
-                        51.312631
-                  ]
-            },
-            {
-                  "name": "Henschel Museum",
-                  "text": "Museum zur Geschichte der Firma Henschel, die weltweit für ihren Lokomotivbau bekannt war.",
-                  "category": "museum",
-                  "coords": [
-                        9.480815,
-                        51.324625
-                  ]
-            },
-            {
-                  "name": "Deutsches Videothekenmuseum",
-                  "text": "Ein Museum in Kassel, das die Geschichte der Videotheken und Heimvideomedien dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        9.493168,
-                        51.320154
-                  ]
-            },
-            {
-                  "name": "Vogelvolière",
-                  "text": "Eine Voliere in einer Parkanlage zur Beobachtung verschiedener Vogelarten im Stadtgebiet.",
-                  "category": "family",
-                  "coords": [
-                        9.486446,
-                        51.295519
-                  ]
-            },
-            {
-                  "name": "Strand 9",
-                  "text": "Ein Sandstrand an der Fulda in Kassel, der an sonnigen Tagen zum Entspannen einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502258,
-                        51.295533
-                  ]
-            },
-            {
-                  "name": "Strand 3",
-                  "text": "Ein beliebter Liegeplatz am Wasser im Stadtgebiet von Kassel für die Freizeitgestaltung.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502818,
-                        51.291588
-                  ]
-            },
-            {
-                  "name": "Strand 5",
-                  "text": "Dieser Uferabschnitt in Kassel bietet Erholungssuchenden einen ruhigen Platz direkt am Fluss.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496828,
-                        51.290614
-                  ]
-            },
-            {
-                  "name": "Strand 4",
-                  "text": "Ein öffentlicher Bereich am Flussufer in Kassel, der als Treffpunkt im Sommer dient.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498984,
-                        51.291109
-                  ]
-            },
-            {
-                  "name": "Strand 2",
-                  "text": "Ein Uferabschnitt in Kassel, der für Freizeitaktivitäten am Wasser genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        9.507493,
-                        51.295411
-                  ]
-            },
-            {
-                  "name": "Strand 6",
-                  "text": "Ein weiterer attraktiver Punkt am Wasser in Kassel für Erholung und Spaziergänge.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496529,
-                        51.292756
-                  ]
-            },
-            {
-                  "name": "Strand 7",
-                  "text": "Ein städtischer Strandbereich in Kassel für Erholung am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498811,
-                        51.29463
-                  ]
-            },
-            {
-                  "name": "Strand 8",
-                  "text": "Ein weiterer Strandabschnitt in Kassel für sommerliche Freizeitaktivitäten.",
-                  "category": "recreational",
-                  "coords": [
-                        9.499027,
-                        51.2925
-                  ]
-            },
-            {
-                  "name": "Stadthallengarten",
-                  "text": "Eine gepflegte Grünanlage an der Stadthalle Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.458827,
-                        51.317392
-                  ]
-            },
-            {
-                  "name": "Goetheanlage",
-                  "text": "Eine öffentliche Parkanlage im Westen von Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.45727,
-                        51.3144
-                  ]
-            },
-            {
-                  "name": "Aschrottpark",
-                  "text": "Ein historischer Park im Kasseler Stadtteil Vorderer Westen.",
-                  "category": "park",
-                  "coords": [
-                        9.451739,
-                        51.315999
-                  ]
-            },
-            {
-                  "name": "Zeughausruine",
-                  "text": "Die Überreste des ehemaligen Zeughauses, ein Denkmal der Stadtgeschichte.",
-                  "category": "historical",
-                  "coords": [
-                        9.505746,
-                        51.317894
-                  ]
-            },
-            {
-                  "name": "Lutherplatz",
-                  "text": "Eine zentrale Grünfläche am Rande der Innenstadt von Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.496835,
-                        51.318033
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Ein Garten mit einer vielfältigen Sammlung heimischer und exotischer Pflanzen.",
-                  "category": "park",
-                  "coords": [
-                        9.470035,
-                        51.298494
-                  ]
-            },
-            {
-                  "name": "Park Schönfeld",
-                  "text": "Ein weitläufiger Landschaftspark mit dem Schloss Schönfeld.",
-                  "category": "park",
-                  "coords": [
-                        9.467048,
-                        51.299654
-                  ]
-            },
-            {
-                  "name": "Waldgarten am Helleböhnweg",
-                  "text": "Eine naturnahe Gartenanlage am Rande des Stadtteils Helleböhn.",
-                  "category": "park",
-                  "coords": [
-                        9.449987,
-                        51.303053
-                  ]
-            },
-            {
-                  "name": "Druselturm",
-                  "text": "Ein mittelalterlicher Wachturm der einstigen Stadtbefestigung Kassels.",
-                  "category": "tower",
-                  "coords": [
-                        9.499433,
-                        51.316297
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Der Silbersee ist ein schöner See in Kassel, der sich ideal für Naturspaziergänge am Ufer eignet.",
-                  "category": "natural",
-                  "coords": [
-                        9.36883,
-                        51.332445
-                  ]
-            },
-            {
-                  "name": "Sichelbachbecken",
-                  "text": "Das Sichelbachbecken in Kassel ist ein lokaler See, der eine ruhige Umgebung für Spaziergänge und Erholung im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.3783,
-                        51.317592
-                  ]
-            },
-            {
-                  "name": "Bugasee",
-                  "text": "Der Bugasee ist ein See in Kassel, der beliebt ist für gemütliche Spaziergänge und zum Bewundern der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.498807,
-                        51.296113
-                  ]
-            },
-            {
-                  "name": "Spielplatz Landaustraße",
-                  "text": "Der Spielplatz Landaustraße ist ein Quartiersspielplatz in Kassel, auf dem Kinder spielen und Familien sich treffen können.",
-                  "category": "family",
-                  "coords": [
-                        9.491281,
-                        51.306029
-                  ]
-            },
-            {
-                  "name": "Spielplatz Glockenbruchweg",
-                  "text": "Der Spielplatz Glockenbruchweg in Kassel ist ein schöner Ort, um Kinder aktiv zu halten und gemeinsam Zeit zu verbringen.",
-                  "category": "family",
-                  "coords": [
-                        9.456586,
-                        51.297923
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Mühlhäuser Platz",
-                  "text": "Der Kinderspielplatz Mühlhäuser Platz in Kassel bietet einen wunderbaren Außenbereich für Familienaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        9.511053,
-                        51.330913
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Quellhofstraße",
-                  "text": "Der Aktivspielplatz Quellhofstraße ist ein Spielplatz in Kassel, der sich perfekt für energiegeladene Kinder und Familienausflüge eignet.",
-                  "category": "family",
-                  "coords": [
-                        9.501789,
-                        51.335878
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kochstraße",
-                  "text": "Der Spielplatz an der Kochstraße in Kassel bietet eine freundliche Umgebung, in der Familien entspannen können.",
-                  "category": "family",
-                  "coords": [
-                        9.467334,
-                        51.308035
-                  ]
-            },
-            {
-                  "name": "Spielplatz Buddengasse",
-                  "text": "Der Spielplatz Buddengasse in Kassel ist ein charmanter Ort, an dem Familien frische Luft schnappen und Spaß haben können.",
-                  "category": "family",
-                  "coords": [
-                        9.467786,
-                        51.310817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Tischbeinstraße",
-                  "text": "Der Spielplatz Tischbeinstraße ist ein ansprechender Spielplatz in Kassel, ideal für die gemeinsame Freizeit von Eltern und Kindern.",
-                  "category": "family",
-                  "coords": [
-                        9.473274,
-                        51.309726
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bremelbachstraße",
-                  "text": "Dieser Spielplatz an der Bremelbachstraße in Kassel bietet einen tollen Spielbereich im Freien und Platz für die Familie.",
-                  "category": "family",
-                  "coords": [
-                        9.444846,
-                        51.316448
-                  ]
-            },
-            {
-                  "name": "Spielplatz Geysostraße",
-                  "text": "Der Spielplatz Geysostraße ist ein familienorientierter Spielplatz in Kassel, der für Spiel und Spaß im Freien konzipiert wurde.",
-                  "category": "family",
-                  "coords": [
-                        9.459223,
-                        51.315771
-                  ]
-            },
-            {
-                  "name": "Minigolf Au Garden",
-                  "text": "Minigolf Au Garden in Kassel ist eine Anlage, auf der Familien einen lustigen und wettbewerbsfähigen Nachmittag verbringen können.",
-                  "category": "family",
-                  "coords": [
-                        9.49321,
-                        51.296374
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bosestraße",
-                  "text": "Der Spielplatz Bosestraße in Kassel bietet eine sichere und angenehme Umgebung für Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        9.473671,
-                        51.299165
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grüner Waldweg",
-                  "text": "Der Spielplatz Grüner Waldweg in Kassel bietet Familien und Kindern einen von der Natur inspirierten Raum zum gemeinsamen Spielen.",
-                  "category": "family",
-                  "coords": [
-                        9.450289,
-                        51.312675
-                  ]
-            },
-            {
-                  "name": "Spielplatz Holländische Straße",
-                  "text": "Der Spielplatz an der Holländischen Straße in Kassel ist ein lebendiger Ort für Kinderaktivitäten und Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        9.50108,
-                        51.32772
-                  ]
-            },
-            {
-                  "name": "Spielplatz Motzberg",
-                  "text": "Der Spielplatz Motzberg ist ein schöner Bereich in Kassel, der Familien zu Spiel und Spaß im Freien einlädt.",
-                  "category": "family",
-                  "coords": [
-                        9.479492,
-                        51.3142
-                  ]
-            },
-            {
-                  "name": "Sky Spielplatz Bleichenweg",
-                  "text": "Der Sky Spielplatz Bleichenweg in Kassel ist gut ausgestattet und ideal für einen entspannten Nachmittag mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        9.516698,
-                        51.318879
-                  ]
-            },
-            {
-                  "name": "Spielplatz Graßweg",
-                  "text": "Der Spielplatz am Graßweg in Kassel ist ein hervorragender Ort für Familien, der einen sicheren Spielbereich bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.459808,
-                        51.302913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Germaniastraße",
-                  "text": "Der Spielplatz Germaniastraße ist ein Treffpunkt in Kassel, an dem Familien gemeinsam Zeit an der frischen Luft verbringen können.",
-                  "category": "family",
-                  "coords": [
-                        9.468874,
-                        51.313067
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Herkules-emlékmű",
-                  "text": "Kassel impozáns jelképe a Wilhelmshöhe hegyi park felett magasodik, és a barokk vízijátékok kiindulópontja.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.39278,
-                        51.3164
-                  ]
-            },
-            {
-                  "name": "Wilhelmshöhe-kastély",
-                  "text": "Klasszicista kastély a hegyi parkban, amely ma jelentős művészeti gyűjteményeknek, például a Régi Mesterek Képtárának ad otthont.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.416111,
-                        51.315
-                  ]
-            },
-            {
-                  "name": "Löwenburg",
-                  "text": "A 18. század végén épült mesterséges várrom, amelyet romantikus lovagi síremlékként terveztek.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.40861,
-                        51.3114
-                  ]
-            },
-            {
-                  "name": "Karlsaue",
-                  "text": "Kiterjedt barokk park a Fulda folyó mentén a jellegzetes Orangerie épületével és mesterséges szigetvilággal.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        9.49333,
-                        51.3019
-                  ]
-            },
-            {
-                  "name": "Grimmwelt Kassel",
-                  "text": "Modern múzeum a Grimm testvérek életének és munkásságának szentelve, ahol híres meséiket interaktívan mutatják be.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.48927,
-                        51.3092
-                  ]
-            },
-            {
-                  "name": "Fridericianum",
-                  "text": "Az európai szárazföld első nyilvános múzeumépülete, ma a documenta kortárs művészeti kiállítás központi helyszíne.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.4975,
-                        51.3136
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "Barokk kastélyépület a Karlsaue állami parkban, amely ma a Csillagászati és Fizikai Kabinetnek ad helyet.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.500802,
-                        51.310268
-                  ]
-            },
-            {
-                  "name": "Caricatura",
-                  "text": "Képregény- és karikatúragaléria a kasseli Kulturbahnhof területén.",
-                  "category": "museum",
-                  "coords": [
-                        9.490577,
-                        51.318292
-                  ]
-            },
-            {
-                  "name": "Spohr Museum",
-                  "text": "Louis Spohr zeneszerző életét és munkásságát bemutató múzeum Kasselben.",
-                  "category": "museum",
-                  "coords": [
-                        9.493975,
-                        51.309915
-                  ]
-            },
-            {
-                  "name": "theater im centrum",
-                  "text": "Magánkézben lévő zenés színház Kassel belvárosában, változatos műsorral.",
-                  "category": "cultural",
-                  "coords": [
-                        9.487182,
-                        51.316169
-                  ]
-            },
-            {
-                  "name": "Fuldaaue",
-                  "text": "Kiterjedt természetvédelmi és pihenőövezet a Fulda folyó mentén Kasselben.",
-                  "category": "natural",
-                  "coords": [
-                        9.504426,
-                        51.299587
-                  ]
-            },
-            {
-                  "name": "Marmorbad",
-                  "text": "Barokk márványfürdő szobrokkal a kasseli Orangerie mellett.",
-                  "category": "museum",
-                  "coords": [
-                        9.499539,
-                        51.310435
-                  ]
-            },
-            {
-                  "name": "Naturkundemuseum",
-                  "text": "Természettudományi múzeum a történelmi Ottoneumban, Németország első állandó színházépületében.",
-                  "category": "museum",
-                  "coords": [
-                        9.49895,
-                        51.313262
-                  ]
-            },
-            {
-                  "name": "documenta-Halle",
-                  "text": "Modern kiállítócsarnok Kasselben, amelyet elsősorban a documenta művészeti eseményhez használnak.",
-                  "category": "museum",
-                  "coords": [
-                        9.499489,
-                        51.312135
-                  ]
-            },
-            {
-                  "name": "Auebad",
-                  "text": "Modern szabadidős és sportfürdő Kasselben, fedett és szabadtéri medencékkel.",
-                  "category": "family",
-                  "coords": [
-                        9.500481,
-                        51.300685
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Kassel történelmét és városfejlődését bemutató múzeum a Ständeplatzon.",
-                  "category": "museum",
-                  "coords": [
-                        9.489631,
-                        51.314898
-                  ]
-            },
-            {
-                  "name": "Museum für Sepulkralkultur",
-                  "text": "Kasseli múzeum, amely a temetkezési kultúrának és a gyásznak szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        9.488012,
-                        51.309078
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "Hessen tartomány művészeti és kultúrtörténeti gyűjteményét bemutató múzeum Kasselben.",
-                  "category": "museum",
-                  "coords": [
-                        9.489872,
-                        51.310631
-                  ]
-            },
-            {
-                  "name": "Technik-Museum Kassel",
-                  "text": "A múzeum a regionális ipartörténetet és a város jelentős technikai innovációit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.479507,
-                        51.324776
-                  ]
-            },
-            {
-                  "name": "Bademuseum",
-                  "text": "A fürdőkultúra történetének és fejlődésének szentelt szakmúzeum Kasselben.",
-                  "category": "museum",
-                  "coords": [
-                        9.504719,
-                        51.312631
-                  ]
-            },
-            {
-                  "name": "Henschel Museum",
-                  "text": "A mozdonygyártásáról világszerte ismert Henschel cég történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        9.480815,
-                        51.324625
-                  ]
-            },
-            {
-                  "name": "Deutsches Videothekenmuseum",
-                  "text": "A videotékák és az otthoni videohordozók történetét dokumentáló múzeum Kasselben.",
-                  "category": "museum",
-                  "coords": [
-                        9.493168,
-                        51.320154
-                  ]
-            },
-            {
-                  "name": "Vogelvolière",
-                  "text": "Parkban található madárröpde, ahol különféle madárfajok figyelhetőek meg a városban.",
-                  "category": "family",
-                  "coords": [
-                        9.486446,
-                        51.295519
-                  ]
-            },
-            {
-                  "name": "Strand 9",
-                  "text": "Homokos strand a Fulda partján Kasselben, amely pihenésre csábít a napsütéses napokon.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502258,
-                        51.295533
-                  ]
-            },
-            {
-                  "name": "Strand 3",
-                  "text": "Népszerű vízparti pihenőhely Kassel városi területén a szabadidő eltöltésére.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502818,
-                        51.291588
-                  ]
-            },
-            {
-                  "name": "Strand 5",
-                  "text": "Ez a kasseli vízparti szakasz nyugodt helyet kínál a pihenni vágyóknak közvetlenül a folyó mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496828,
-                        51.290614
-                  ]
-            },
-            {
-                  "name": "Strand 4",
-                  "text": "Nyilvános folyóparti terület Kasselben, amely nyári találkozóhelyként szolgál.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498984,
-                        51.291109
-                  ]
-            },
-            {
-                  "name": "Strand 2",
-                  "text": "Kasseli vízparti szakasz, amelyet vízparti szabadidős tevékenységekre használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        9.507493,
-                        51.295411
-                  ]
-            },
-            {
-                  "name": "Strand 6",
-                  "text": "Újabb vonzó vízparti pont Kasselben pihenéshez és sétákhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496529,
-                        51.292756
-                  ]
-            },
-            {
-                  "name": "Strand 7",
-                  "text": "Városi strand Kasselben a vízparti kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498811,
-                        51.29463
-                  ]
-            },
-            {
-                  "name": "Strand 8",
-                  "text": "Egy másik strand szakasz Kasselben nyári szabadidős tevékenységekhez.",
-                  "category": "recreational",
-                  "coords": [
-                        9.499027,
-                        51.2925
-                  ]
-            },
-            {
-                  "name": "Stadthallengarten",
-                  "text": "Gondozott zöldterület a kasseli Stadthalle mellett.",
-                  "category": "park",
-                  "coords": [
-                        9.458827,
-                        51.317392
-                  ]
-            },
-            {
-                  "name": "Goetheanlage",
-                  "text": "Nyilvános parkerdő Kassel nyugati részén.",
-                  "category": "park",
-                  "coords": [
-                        9.45727,
-                        51.3144
-                  ]
-            },
-            {
-                  "name": "Aschrottpark",
-                  "text": "Történelmi park Kassel Vorderer Westen negyedében.",
-                  "category": "park",
-                  "coords": [
-                        9.451739,
-                        51.315999
-                  ]
-            },
-            {
-                  "name": "Zeughausruine",
-                  "text": "Az egykori fegyvertár maradványai, a város történelmének emlékműve.",
-                  "category": "historical",
-                  "coords": [
-                        9.505746,
-                        51.317894
-                  ]
-            },
-            {
-                  "name": "Lutherplatz",
-                  "text": "Központi zöldterület Kassel belvárosának szélén.",
-                  "category": "park",
-                  "coords": [
-                        9.496835,
-                        51.318033
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Kert hazai és egzotikus növények változatos gyűjteményével.",
-                  "category": "park",
-                  "coords": [
-                        9.470035,
-                        51.298494
-                  ]
-            },
-            {
-                  "name": "Park Schönfeld",
-                  "text": "Kiterjedt tájképi park a Schönfeld-kastéllyal.",
-                  "category": "park",
-                  "coords": [
-                        9.467048,
-                        51.299654
-                  ]
-            },
-            {
-                  "name": "Waldgarten am Helleböhnweg",
-                  "text": "Természetközeli kert a Helleböhn negyed szélén.",
-                  "category": "park",
-                  "coords": [
-                        9.449987,
-                        51.303053
-                  ]
-            },
-            {
-                  "name": "Druselturm",
-                  "text": "Kassel egykori városfalának középkori őrtornya.",
-                  "category": "tower",
-                  "coords": [
-                        9.499433,
-                        51.316297
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "A Silbersee egy gyönyörű tó Kasselben, amely ideális a part menti természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.36883,
-                        51.332445
-                  ]
-            },
-            {
-                  "name": "Sichelbachbecken",
-                  "text": "A kasseli Sichelbachbecken egy helyi tó, amely nyugodt környezetet kínál a sétákhoz és a szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        9.3783,
-                        51.317592
-                  ]
-            },
-            {
-                  "name": "Bugasee",
-                  "text": "A Bugasee egy tó Kasselben, amely népszerű a kényelmes séták és a természet megcsodálása miatt.",
-                  "category": "natural",
-                  "coords": [
-                        9.498807,
-                        51.296113
-                  ]
-            },
-            {
-                  "name": "Spielplatz Landaustraße",
-                  "text": "A Spielplatz Landaustraße egy környékbeli játszótér Kasselben, ahol a gyerekek játszhatnak és a családok találkozhatnak.",
-                  "category": "family",
-                  "coords": [
-                        9.491281,
-                        51.306029
-                  ]
-            },
-            {
-                  "name": "Spielplatz Glockenbruchweg",
-                  "text": "A Kasselben található Spielplatz Glockenbruchweg egy szép hely a gyerekek aktívan tartására és a közös időtöltésre.",
-                  "category": "family",
-                  "coords": [
-                        9.456586,
-                        51.297923
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Mühlhäuser Platz",
-                  "text": "A kasseli Kinderspielplatz Mühlhäuser Platz csodálatos szabadtéri teret biztosít a családi tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        9.511053,
-                        51.330913
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Quellhofstraße",
-                  "text": "Az Aktivspielplatz Quellhofstraße egy játszótér Kasselben, amely tökéletes az energikus gyerekek és a családi kirándulások számára.",
-                  "category": "family",
-                  "coords": [
-                        9.501789,
-                        51.335878
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kochstraße",
-                  "text": "A kasseli Kochstraße játszótere barátságos környezetet kínál, ahol a családok pihenhetnek.",
-                  "category": "family",
-                  "coords": [
-                        9.467334,
-                        51.308035
-                  ]
-            },
-            {
-                  "name": "Spielplatz Buddengasse",
-                  "text": "A kasseli Spielplatz Buddengasse egy bájos hely, ahol a családok friss levegőt szívhatnak és szórakozhatnak.",
-                  "category": "family",
-                  "coords": [
-                        9.467786,
-                        51.310817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Tischbeinstraße",
-                  "text": "A Spielplatz Tischbeinstraße egy vonzó játszótér Kasselben, amely ideális a szülők és gyermekek közös szabadidejéhez.",
-                  "category": "family",
-                  "coords": [
-                        9.473274,
-                        51.309726
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bremelbachstraße",
-                  "text": "Ez a kasseli Bremelbachstraße menti játszótér remek szabadtéri játszóteret és helyet kínál a család számára.",
-                  "category": "family",
-                  "coords": [
-                        9.444846,
-                        51.316448
-                  ]
-            },
-            {
-                  "name": "Spielplatz Geysostraße",
-                  "text": "A Spielplatz Geysostraße egy családcentrikus játszótér Kasselben, amelyet szabadtéri játékra és szórakozásra terveztek.",
-                  "category": "family",
-                  "coords": [
-                        9.459223,
-                        51.315771
-                  ]
-            },
-            {
-                  "name": "Minigolf Au Garden",
-                  "text": "A kasseli Minigolf Au Garden egy olyan létesítmény, ahol a családok szórakoztató és versengő délutánt tölthetnek el.",
-                  "category": "family",
-                  "coords": [
-                        9.49321,
-                        51.296374
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bosestraße",
-                  "text": "A kasseli Bosestraße játszótér biztonságos és kellemes környezetet kínál a családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.473671,
-                        51.299165
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grüner Waldweg",
-                  "text": "A kasseli Spielplatz Grüner Waldweg a természet ihlette teret kínál a családok és gyerekek közös játékához.",
-                  "category": "family",
-                  "coords": [
-                        9.450289,
-                        51.312675
-                  ]
-            },
-            {
-                  "name": "Spielplatz Holländische Straße",
-                  "text": "A kasseli Holländische Straße játszótere egy nyüzsgő hely a gyermekprogramokhoz és családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.50108,
-                        51.32772
-                  ]
-            },
-            {
-                  "name": "Spielplatz Motzberg",
-                  "text": "A Spielplatz Motzberg egy szép terület Kasselben, amely szabadtéri játékra és szórakozásra hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        9.479492,
-                        51.3142
-                  ]
-            },
-            {
-                  "name": "Sky Spielplatz Bleichenweg",
-                  "text": "A kasseli Sky Spielplatz Bleichenweg jól felszerelt, és ideális egy pihentető délutánhoz a családdal.",
-                  "category": "family",
-                  "coords": [
-                        9.516698,
-                        51.318879
-                  ]
-            },
-            {
-                  "name": "Spielplatz Graßweg",
-                  "text": "A kasseli Graßweg játszótér egy kiváló hely a családok számára, amely biztonságos játszóteret kínál.",
-                  "category": "family",
-                  "coords": [
-                        9.459808,
-                        51.302913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Germaniastraße",
-                  "text": "A Spielplatz Germaniastraße egy olyan találkozóhely Kasselben, ahol a családok együtt tölthetnek időt a friss levegőn.",
-                  "category": "family",
-                  "coords": [
-                        9.468874,
-                        51.313067
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monumentul Hercules",
-                  "text": "Simbolul impunător al orașului Kassel tronează peste parcul Wilhelmshöhe și este punctul de plecare al jocurilor de apă baroce.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.39278,
-                        51.3164
-                  ]
-            },
-            {
-                  "name": "Palatul Wilhelmshöhe",
-                  "text": "Un palat clasicist în parcul de munte, care găzduiește astăzi colecții importante de artă, precum Galeria Vechilor Maeștri.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.416111,
-                        51.315
-                  ]
-            },
-            {
-                  "name": "Castelul Löwenburg",
-                  "text": "O ruină de castel construită artificial la sfârșitul secolului al XVIII-lea, concepută ca un mausoleu romantic pentru cavaler.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.40861,
-                        51.3114
-                  ]
-            },
-            {
-                  "name": "Parcul Karlsaue",
-                  "text": "Un parc baroc vast situat pe malul râului Fulda, cu monumentala Orangerie și un sistem de insule artificiale.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        9.49333,
-                        51.3019
-                  ]
-            },
-            {
-                  "name": "Grimmwelt Kassel",
-                  "text": "Un muzeu modern dedicat vieții și operei fraților Grimm, prezentând celebrele lor basme într-un mod interactiv.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.48927,
-                        51.3092
-                  ]
-            },
-            {
-                  "name": "Fridericianum",
-                  "text": "Prima clădire de muzeu public de pe continentul european și astăzi centrul expozițional principal pentru documenta.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.4975,
-                        51.3136
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "O clădire de palat baroc în parcul de stat Karlsaue, care găzduiește astăzi Cabinetul de Astronomie și Fizică.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.500802,
-                        51.310268
-                  ]
-            },
-            {
-                  "name": "Caricatura",
-                  "text": "Galerie pentru artă comică și caricatură situată în incinta Kulturbahnhof din Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.490577,
-                        51.318292
-                  ]
-            },
-            {
-                  "name": "Spohr Museum",
-                  "text": "Muzeu dedicat vieții și operei compozitorului Louis Spohr din Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.493975,
-                        51.309915
-                  ]
-            },
-            {
-                  "name": "theater im centrum",
-                  "text": "Teatru muzical privat din centrul orașului Kassel, cu un program variat.",
-                  "category": "cultural",
-                  "coords": [
-                        9.487182,
-                        51.316169
-                  ]
-            },
-            {
-                  "name": "Fuldaaue",
-                  "text": "Rezervație naturală și zonă de recreere extinsă de-a lungul râului Fulda în Kassel.",
-                  "category": "natural",
-                  "coords": [
-                        9.504426,
-                        51.299587
-                  ]
-            },
-            {
-                  "name": "Marmorbad",
-                  "text": "Baie barocă spectaculoasă cu sculpturi din marmură, situată lângă Orangeria din Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.499539,
-                        51.310435
-                  ]
-            },
-            {
-                  "name": "Naturkundemuseum",
-                  "text": "Muzeu de istorie naturală în istoricul Ottoneum, prima clădire de teatru permanentă din Germania.",
-                  "category": "museum",
-                  "coords": [
-                        9.49895,
-                        51.313262
-                  ]
-            },
-            {
-                  "name": "documenta-Halle",
-                  "text": "Sală de expoziții modernă din Kassel, utilizată în principal pentru expoziția documenta.",
-                  "category": "museum",
-                  "coords": [
-                        9.499489,
-                        51.312135
-                  ]
-            },
-            {
-                  "name": "Auebad",
-                  "text": "Centru acvatic modern pentru agrement și sport din Kassel, cu piscine interioare și exterioare.",
-                  "category": "family",
-                  "coords": [
-                        9.500481,
-                        51.300685
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Muzeu dedicat istoriei și dezvoltării urbane a orașului Kassel, situat în Ständeplatz.",
-                  "category": "museum",
-                  "coords": [
-                        9.489631,
-                        51.314898
-                  ]
-            },
-            {
-                  "name": "Museum für Sepulkralkultur",
-                  "text": "Muzeu unic în Kassel, dedicat culturii funerare și tradițiilor de doliu.",
-                  "category": "museum",
-                  "coords": [
-                        9.488012,
-                        51.309078
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "Un muzeu în Kassel dedicat istoriei artei și culturii landului Hessa.",
-                  "category": "museum",
-                  "coords": [
-                        9.489872,
-                        51.310631
-                  ]
-            },
-            {
-                  "name": "Technik-Museum Kassel",
-                  "text": "Muzeul documentează istoria industrială regională și inovațiile tehnice importante ale orașului.",
-                  "category": "museum",
-                  "coords": [
-                        9.479507,
-                        51.324776
-                  ]
-            },
-            {
-                  "name": "Bademuseum",
-                  "text": "Un muzeu specializat din Kassel dedicat istoriei și dezvoltării culturii băilor.",
-                  "category": "museum",
-                  "coords": [
-                        9.504719,
-                        51.312631
-                  ]
-            },
-            {
-                  "name": "Henschel Museum",
-                  "text": "Muzeu dedicat istoriei companiei Henschel, cunoscută la nivel mondial pentru construcția de locomotive.",
-                  "category": "museum",
-                  "coords": [
-                        9.480815,
-                        51.324625
-                  ]
-            },
-            {
-                  "name": "Deutsches Videothekenmuseum",
-                  "text": "Un muzeu din Kassel care documentează istoria magazinelor video și a mediilor video de acasă.",
-                  "category": "museum",
-                  "coords": [
-                        9.493168,
-                        51.320154
-                  ]
-            },
-            {
-                  "name": "Vogelvolière",
-                  "text": "O volieră într-un parc pentru observarea diverselor specii de păsări din zona orașului.",
-                  "category": "family",
-                  "coords": [
-                        9.486446,
-                        51.295519
-                  ]
-            },
-            {
-                  "name": "Strand 9",
-                  "text": "O plajă cu nisip pe râul Fulda în Kassel, ideală pentru relaxare în zilele însorite.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502258,
-                        51.295533
-                  ]
-            },
-            {
-                  "name": "Strand 3",
-                  "text": "Un loc popular pe malul apei pentru recreere în zona orașului Kassel.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502818,
-                        51.291588
-                  ]
-            },
-            {
-                  "name": "Strand 5",
-                  "text": "Această secțiune de mal din Kassel oferă un loc liniștit pentru relaxare chiar lângă râu.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496828,
-                        51.290614
-                  ]
-            },
-            {
-                  "name": "Strand 4",
-                  "text": "O zonă publică pe malul râului în Kassel, care servește ca loc de întâlnire vara.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498984,
-                        51.291109
-                  ]
-            },
-            {
-                  "name": "Strand 2",
-                  "text": "O secțiune de mal în Kassel utilizată pentru activități recreative pe apă.",
-                  "category": "recreational",
-                  "coords": [
-                        9.507493,
-                        51.295411
-                  ]
-            },
-            {
-                  "name": "Strand 6",
-                  "text": "Un alt punct atractiv pe malul apei în Kassel pentru relaxare și plimbări.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496529,
-                        51.292756
-                  ]
-            },
-            {
-                  "name": "Strand 7",
-                  "text": "O zonă de plajă urbană în Kassel pentru relaxare la apă.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498811,
-                        51.29463
-                  ]
-            },
-            {
-                  "name": "Strand 8",
-                  "text": "O altă secțiune de plajă în Kassel pentru activități recreative de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        9.499027,
-                        51.2925
-                  ]
-            },
-            {
-                  "name": "Stadthallengarten",
-                  "text": "O zonă verde îngrijită lângă Stadthalle Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.458827,
-                        51.317392
-                  ]
-            },
-            {
-                  "name": "Goetheanlage",
-                  "text": "Un parc public în partea de vest a orașului Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.45727,
-                        51.3144
-                  ]
-            },
-            {
-                  "name": "Aschrottpark",
-                  "text": "Un parc istoric în cartierul Vorderer Westen din Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.451739,
-                        51.315999
-                  ]
-            },
-            {
-                  "name": "Zeughausruine",
-                  "text": "Rămășițele fostului arsenal, un monument al istoriei orașului.",
-                  "category": "historical",
-                  "coords": [
-                        9.505746,
-                        51.317894
-                  ]
-            },
-            {
-                  "name": "Lutherplatz",
-                  "text": "Un spațiu verde central la marginea centrului orașului Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.496835,
-                        51.318033
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "O grădină cu o colecție diversă de plante native și exotice.",
-                  "category": "park",
-                  "coords": [
-                        9.470035,
-                        51.298494
-                  ]
-            },
-            {
-                  "name": "Park Schönfeld",
-                  "text": "Un parc peisagistic vast care include castelul Schönfeld.",
-                  "category": "park",
-                  "coords": [
-                        9.467048,
-                        51.299654
-                  ]
-            },
-            {
-                  "name": "Waldgarten am Helleböhnweg",
-                  "text": "O grădină naturală la marginea cartierului Helleböhn.",
-                  "category": "park",
-                  "coords": [
-                        9.449987,
-                        51.303053
-                  ]
-            },
-            {
-                  "name": "Druselturm",
-                  "text": "Un turn de veghe medieval din fosta fortificație a orașului Kassel.",
-                  "category": "tower",
-                  "coords": [
-                        9.499433,
-                        51.316297
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Silbersee este un lac frumos situat în Kassel, ideal pentru plimbări în natură pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        9.36883,
-                        51.332445
-                  ]
-            },
-            {
-                  "name": "Sichelbachbecken",
-                  "text": "Sichelbachbecken din Kassel este un lac local care oferă un cadru liniștit pentru plimbări și relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        9.3783,
-                        51.317592
-                  ]
-            },
-            {
-                  "name": "Bugasee",
-                  "text": "Bugasee este un lac din Kassel, popular pentru plimbări relaxante și pentru admirarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.498807,
-                        51.296113
-                  ]
-            },
-            {
-                  "name": "Spielplatz Landaustraße",
-                  "text": "Spielplatz Landaustraße este un loc de joacă de cartier din Kassel, unde copiii se pot juca și familiile se pot întâlni.",
-                  "category": "family",
-                  "coords": [
-                        9.491281,
-                        51.306029
-                  ]
-            },
-            {
-                  "name": "Spielplatz Glockenbruchweg",
-                  "text": "Spielplatz Glockenbruchweg din Kassel este un loc frumos pentru a menține copiii activi și a petrece timpul împreună.",
-                  "category": "family",
-                  "coords": [
-                        9.456586,
-                        51.297923
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Mühlhäuser Platz",
-                  "text": "Kinderspielplatz Mühlhäuser Platz din Kassel oferă o zonă minunată în aer liber pentru activități în familie.",
-                  "category": "family",
-                  "coords": [
-                        9.511053,
-                        51.330913
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Quellhofstraße",
-                  "text": "Aktivspielplatz Quellhofstraße este un loc de joacă în Kassel, perfect pentru copiii plini de energie și ieșirile în familie.",
-                  "category": "family",
-                  "coords": [
-                        9.501789,
-                        51.335878
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kochstraße",
-                  "text": "Locul de joacă de pe Kochstraße din Kassel oferă un mediu prietenos unde familiile se pot relaxa.",
-                  "category": "family",
-                  "coords": [
-                        9.467334,
-                        51.308035
-                  ]
-            },
-            {
-                  "name": "Spielplatz Buddengasse",
-                  "text": "Spielplatz Buddengasse din Kassel este un loc fermecător unde familiile pot lua o gură de aer proaspăt și se pot distra.",
-                  "category": "family",
-                  "coords": [
-                        9.467786,
-                        51.310817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Tischbeinstraße",
-                  "text": "Spielplatz Tischbeinstraße este un loc de joacă atractiv din Kassel, ideal pentru timpul liber comun al părinților și copiilor.",
-                  "category": "family",
-                  "coords": [
-                        9.473274,
-                        51.309726
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bremelbachstraße",
-                  "text": "Acest loc de joacă de pe Bremelbachstraße din Kassel oferă o zonă excelentă de joacă în aer liber și spațiu pentru familie.",
-                  "category": "family",
-                  "coords": [
-                        9.444846,
-                        51.316448
-                  ]
-            },
-            {
-                  "name": "Spielplatz Geysostraße",
-                  "text": "Spielplatz Geysostraße este un loc de joacă orientat spre familie din Kassel, conceput pentru joacă și distracție în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        9.459223,
-                        51.315771
-                  ]
-            },
-            {
-                  "name": "Minigolf Au Garden",
-                  "text": "Minigolf Au Garden din Kassel este un teren unde familiile pot petrece o după-amiază distractivă și competitivă.",
-                  "category": "family",
-                  "coords": [
-                        9.49321,
-                        51.296374
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bosestraße",
-                  "text": "Locul de joacă Bosestraße din Kassel oferă un mediu sigur și plăcut pentru ieșirile în familie.",
-                  "category": "family",
-                  "coords": [
-                        9.473671,
-                        51.299165
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grüner Waldweg",
-                  "text": "Spielplatz Grüner Waldweg din Kassel oferă familiilor și copiilor un spațiu inspirat de natură pentru joacă împreună.",
-                  "category": "family",
-                  "coords": [
-                        9.450289,
-                        51.312675
-                  ]
-            },
-            {
-                  "name": "Spielplatz Holländische Straße",
-                  "text": "Locul de joacă de pe Holländische Straße din Kassel este un loc plin de viață pentru activitățile copiilor și ieșirile în familie.",
-                  "category": "family",
-                  "coords": [
-                        9.50108,
-                        51.32772
-                  ]
-            },
-            {
-                  "name": "Spielplatz Motzberg",
-                  "text": "Spielplatz Motzberg este o zonă frumoasă din Kassel care invită familiile la joacă și distracție în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        9.479492,
-                        51.3142
-                  ]
-            },
-            {
-                  "name": "Sky Spielplatz Bleichenweg",
-                  "text": "Sky Spielplatz Bleichenweg din Kassel este bine echipat și ideal pentru o după-amiază relaxantă în familie.",
-                  "category": "family",
-                  "coords": [
-                        9.516698,
-                        51.318879
-                  ]
-            },
-            {
-                  "name": "Spielplatz Graßweg",
-                  "text": "Locul de joacă de pe Graßweg din Kassel este un loc excelent pentru familii, oferind o zonă de joacă sigură.",
-                  "category": "family",
-                  "coords": [
-                        9.459808,
-                        51.302913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Germaniastraße",
-                  "text": "Spielplatz Germaniastraße este un punct de întâlnire în Kassel unde familiile pot petrece timp împreună la aer curat.",
-                  "category": "family",
-                  "coords": [
-                        9.468874,
-                        51.313067
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hercules Monument",
-                  "text": "The imposing landmark of Kassel towers over Bergpark Wilhelmshöhe and is the starting point of the baroque water features.",
-                  "category": "Landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.39278,
-                        51.3164
-                  ]
-            },
-            {
-                  "name": "Schloss Wilhelmshöhe",
-                  "text": "A neoclassical palace in the mountain park, now housing significant art collections like the Old Masters Picture Gallery.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.416111,
-                        51.315
-                  ]
-            },
-            {
-                  "name": "Löwenburg Castle",
-                  "text": "A mock-medieval castle ruin built in the late 18th century, designed as a romantic knight's tomb.",
-                  "category": "Castle",
-                  "confidence": "high",
-                  "coords": [
-                        9.40861,
-                        51.3114
-                  ]
-            },
-            {
-                  "name": "Karlsaue Park",
-                  "text": "An extensive baroque park directly on the Fulda River with the striking Orangerie and an artificial island world.",
-                  "category": "Park",
-                  "confidence": "high",
-                  "coords": [
-                        9.49333,
-                        51.3019
-                  ]
-            },
-            {
-                  "name": "Grimmwelt Kassel",
-                  "text": "A modern museum dedicated to the life and work of the Brothers Grimm, presenting their famous fairy tales interactively.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.48927,
-                        51.3092
-                  ]
-            },
-            {
-                  "name": "Fridericianum",
-                  "text": "The first public museum building on the European mainland and today a central exhibition venue for the documenta.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.4975,
-                        51.3136
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "A baroque palace building in the Karlsaue State Park, which now houses the Cabinet of Astronomy and Physics.",
-                  "category": "Museum",
-                  "confidence": "high",
-                  "coords": [
-                        9.500802,
-                        51.310268
-                  ]
-            },
-            {
-                  "name": "Caricatura",
-                  "text": "Gallery for comic art and caricatures located in Kassel's Kulturbahnhof.",
-                  "category": "museum",
-                  "coords": [
-                        9.490577,
-                        51.318292
-                  ]
-            },
-            {
-                  "name": "Spohr Museum",
-                  "text": "Museum dedicated to the life and work of the composer Louis Spohr in Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.493975,
-                        51.309915
-                  ]
-            },
-            {
-                  "name": "theater im centrum",
-                  "text": "Private musical theatre in Kassel city centre with a diverse programme.",
-                  "category": "cultural",
-                  "coords": [
-                        9.487182,
-                        51.316169
-                  ]
-            },
-            {
-                  "name": "Fuldaaue",
-                  "text": "Large nature reserve and recreational area along the Fulda river in Kassel.",
-                  "category": "natural",
-                  "coords": [
-                        9.504426,
-                        51.299587
-                  ]
-            },
-            {
-                  "name": "Marmorbad",
-                  "text": "Baroque marble bath with sculptures located next to the Orangerie in Kassel.",
-                  "category": "museum",
-                  "coords": [
-                        9.499539,
-                        51.310435
-                  ]
-            },
-            {
-                  "name": "Naturkundemuseum",
-                  "text": "Natural history museum in the historical Ottoneum, Germany's first permanent theatre building.",
-                  "category": "museum",
-                  "coords": [
-                        9.49895,
-                        51.313262
-                  ]
-            },
-            {
-                  "name": "documenta-Halle",
-                  "text": "Modern exhibition hall in Kassel primarily used for the documenta art event.",
-                  "category": "museum",
-                  "coords": [
-                        9.499489,
-                        51.312135
-                  ]
-            },
-            {
-                  "name": "Auebad",
-                  "text": "Modern leisure and sports swimming pool in Kassel with indoor and outdoor areas.",
-                  "category": "family",
-                  "coords": [
-                        9.500481,
-                        51.300685
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Museum focusing on the history and urban development of Kassel on Ständeplatz.",
-                  "category": "museum",
-                  "coords": [
-                        9.489631,
-                        51.314898
-                  ]
-            },
-            {
-                  "name": "Museum für Sepulkralkultur",
-                  "text": "Unique museum in Kassel dedicated to burial culture and mourning traditions.",
-                  "category": "museum",
-                  "coords": [
-                        9.488012,
-                        51.309078
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "A museum in Kassel showcasing the art and cultural history of the state of Hesse.",
-                  "category": "museum",
-                  "coords": [
-                        9.489872,
-                        51.310631
-                  ]
-            },
-            {
-                  "name": "Technik-Museum Kassel",
-                  "text": "The museum documents regional industrial history and important technical innovations of the city.",
-                  "category": "museum",
-                  "coords": [
-                        9.479507,
-                        51.324776
-                  ]
-            },
-            {
-                  "name": "Bademuseum",
-                  "text": "A specialized museum in Kassel dedicated to the history and development of bathing culture.",
-                  "category": "museum",
-                  "coords": [
-                        9.504719,
-                        51.312631
-                  ]
-            },
-            {
-                  "name": "Henschel Museum",
-                  "text": "A museum about the history of the Henschel company, world-renowned for its locomotive construction.",
-                  "category": "museum",
-                  "coords": [
-                        9.480815,
-                        51.324625
-                  ]
-            },
-            {
-                  "name": "Deutsches Videothekenmuseum",
-                  "text": "A museum in Kassel documenting the history of video rental stores and home video media.",
-                  "category": "museum",
-                  "coords": [
-                        9.493168,
-                        51.320154
-                  ]
-            },
-            {
-                  "name": "Vogelvolière",
-                  "text": "An aviary in a park setting for observing various bird species within the city area.",
-                  "category": "family",
-                  "coords": [
-                        9.486446,
-                        51.295519
-                  ]
-            },
-            {
-                  "name": "Strand 9",
-                  "text": "A sandy beach on the river Fulda in Kassel, perfect for relaxing on sunny days.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502258,
-                        51.295533
-                  ]
-            },
-            {
-                  "name": "Strand 3",
-                  "text": "A popular waterfront spot in the Kassel city area for leisure activities.",
-                  "category": "recreational",
-                  "coords": [
-                        9.502818,
-                        51.291588
-                  ]
-            },
-            {
-                  "name": "Strand 5",
-                  "text": "This riverbank section in Kassel offers a quiet spot for relaxation right by the river.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496828,
-                        51.290614
-                  ]
-            },
-            {
-                  "name": "Strand 4",
-                  "text": "A public area on the riverbank in Kassel that serves as a meeting spot in summer.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498984,
-                        51.291109
-                  ]
-            },
-            {
-                  "name": "Strand 2",
-                  "text": "A riverbank section in Kassel used for waterfront recreational activities.",
-                  "category": "recreational",
-                  "coords": [
-                        9.507493,
-                        51.295411
-                  ]
-            },
-            {
-                  "name": "Strand 6",
-                  "text": "Another attractive waterfront spot in Kassel for relaxation and walks.",
-                  "category": "recreational",
-                  "coords": [
-                        9.496529,
-                        51.292756
-                  ]
-            },
-            {
-                  "name": "Strand 7",
-                  "text": "An urban beach area in Kassel for relaxation by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        9.498811,
-                        51.29463
-                  ]
-            },
-            {
-                  "name": "Strand 8",
-                  "text": "Another beach section in Kassel for summer recreational activities.",
-                  "category": "recreational",
-                  "coords": [
-                        9.499027,
-                        51.2925
-                  ]
-            },
-            {
-                  "name": "Stadthallengarten",
-                  "text": "A well-maintained green area next to the Stadthalle Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.458827,
-                        51.317392
-                  ]
-            },
-            {
-                  "name": "Goetheanlage",
-                  "text": "A public park area in the western part of Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.45727,
-                        51.3144
-                  ]
-            },
-            {
-                  "name": "Aschrottpark",
-                  "text": "A historical park in the Vorderer Westen district of Kassel.",
-                  "category": "park",
-                  "coords": [
-                        9.451739,
-                        51.315999
-                  ]
-            },
-            {
-                  "name": "Zeughausruine",
-                  "text": "The remains of the former arsenal, a monument to the city's history.",
-                  "category": "historical",
-                  "coords": [
-                        9.505746,
-                        51.317894
-                  ]
-            },
-            {
-                  "name": "Lutherplatz",
-                  "text": "A central green space on the edge of Kassel city center.",
-                  "category": "park",
-                  "coords": [
-                        9.496835,
-                        51.318033
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "A garden featuring a diverse collection of native and exotic plants.",
-                  "category": "park",
-                  "coords": [
-                        9.470035,
-                        51.298494
-                  ]
-            },
-            {
-                  "name": "Park Schönfeld",
-                  "text": "A spacious landscape park featuring the Schönfeld Castle.",
-                  "category": "park",
-                  "coords": [
-                        9.467048,
-                        51.299654
-                  ]
-            },
-            {
-                  "name": "Waldgarten am Helleböhnweg",
-                  "text": "A nature-oriented garden area on the edge of the Helleböhn district.",
-                  "category": "park",
-                  "coords": [
-                        9.449987,
-                        51.303053
-                  ]
-            },
-            {
-                  "name": "Druselturm",
-                  "text": "A medieval watchtower from Kassel's former city fortifications.",
-                  "category": "tower",
-                  "coords": [
-                        9.499433,
-                        51.316297
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Silbersee is a beautiful lake located in Kassel, ideal for nature walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        9.36883,
-                        51.332445
-                  ]
-            },
-            {
-                  "name": "Sichelbachbecken",
-                  "text": "Sichelbachbecken in Kassel is a local lake offering a tranquil setting for walking and outdoor relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        9.3783,
-                        51.317592
-                  ]
-            },
-            {
-                  "name": "Bugasee",
-                  "text": "Bugasee is a lake in Kassel, popular for leisurely strolls and admiring the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        9.498807,
-                        51.296113
-                  ]
-            },
-            {
-                  "name": "Spielplatz Landaustraße",
-                  "text": "Spielplatz Landaustraße is a neighborhood playground in Kassel where children can play and families can gather.",
-                  "category": "family",
-                  "coords": [
-                        9.491281,
-                        51.306029
-                  ]
-            },
-            {
-                  "name": "Spielplatz Glockenbruchweg",
-                  "text": "Spielplatz Glockenbruchweg in Kassel is a lovely spot to keep children active and spend time together as a family.",
-                  "category": "family",
-                  "coords": [
-                        9.456586,
-                        51.297923
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Mühlhäuser Platz",
-                  "text": "Kinderspielplatz Mühlhäuser Platz in Kassel provides a wonderful outdoor space for family activities.",
-                  "category": "family",
-                  "coords": [
-                        9.511053,
-                        51.330913
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Quellhofstraße",
-                  "text": "Aktivspielplatz Quellhofstraße is a playground in Kassel, perfect for energetic kids and family outings.",
-                  "category": "family",
-                  "coords": [
-                        9.501789,
-                        51.335878
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kochstraße",
-                  "text": "The playground on Kochstraße in Kassel offers a friendly environment where families can relax.",
-                  "category": "family",
-                  "coords": [
-                        9.467334,
-                        51.308035
-                  ]
-            },
-            {
-                  "name": "Spielplatz Buddengasse",
-                  "text": "Spielplatz Buddengasse in Kassel is a charming spot where families can get some fresh air and have fun.",
-                  "category": "family",
-                  "coords": [
-                        9.467786,
-                        51.310817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Tischbeinstraße",
-                  "text": "Spielplatz Tischbeinstraße is an engaging playground in Kassel, ideal for shared leisure time for parents and children.",
-                  "category": "family",
-                  "coords": [
-                        9.473274,
-                        51.309726
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bremelbachstraße",
-                  "text": "This playground on Bremelbachstraße in Kassel provides a great outdoor play area and space for the family.",
-                  "category": "family",
-                  "coords": [
-                        9.444846,
-                        51.316448
-                  ]
-            },
-            {
-                  "name": "Spielplatz Geysostraße",
-                  "text": "Spielplatz Geysostraße is a family-oriented playground in Kassel designed for outdoor play and fun.",
-                  "category": "family",
-                  "coords": [
-                        9.459223,
-                        51.315771
-                  ]
-            },
-            {
-                  "name": "Minigolf Au Garden",
-                  "text": "Minigolf Au Garden in Kassel is a course where families can spend a fun and competitive afternoon.",
-                  "category": "family",
-                  "coords": [
-                        9.49321,
-                        51.296374
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bosestraße",
-                  "text": "The Bosestraße playground in Kassel offers a safe and pleasant environment for family outings.",
-                  "category": "family",
-                  "coords": [
-                        9.473671,
-                        51.299165
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grüner Waldweg",
-                  "text": "Spielplatz Grüner Waldweg in Kassel provides families and children with a nature-inspired space to play together.",
-                  "category": "family",
-                  "coords": [
-                        9.450289,
-                        51.312675
-                  ]
-            },
-            {
-                  "name": "Spielplatz Holländische Straße",
-                  "text": "The playground on Holländische Straße in Kassel is a lively spot for children's activities and family outings.",
-                  "category": "family",
-                  "coords": [
-                        9.50108,
-                        51.32772
-                  ]
-            },
-            {
-                  "name": "Spielplatz Motzberg",
-                  "text": "Spielplatz Motzberg is a lovely area in Kassel that invites families for outdoor games and fun.",
-                  "category": "family",
-                  "coords": [
-                        9.479492,
-                        51.3142
-                  ]
-            },
-            {
-                  "name": "Sky Spielplatz Bleichenweg",
-                  "text": "Sky Spielplatz Bleichenweg in Kassel is well-equipped and ideal for a relaxing afternoon with the family.",
-                  "category": "family",
-                  "coords": [
-                        9.516698,
-                        51.318879
-                  ]
-            },
-            {
-                  "name": "Spielplatz Graßweg",
-                  "text": "The playground on Graßweg in Kassel is an excellent spot for families, offering a safe play area.",
-                  "category": "family",
-                  "coords": [
-                        9.459808,
-                        51.302913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Germaniastraße",
-                  "text": "Spielplatz Germaniastraße is a meeting point in Kassel where families can spend time together in the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        9.468874,
-                        51.313067
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Herkül Anıtı",
-                  "text": "Wilhelmshöhe Dağ Parkı'nın tepesinde yükselen anıt, görkemli Barok su gösterilerinin başlangıç noktasıdır.",
-                  "category": "Landmark",
-                  "coords": [
-                        9.39278,
-                        51.3164
-                  ]
-            },
-            {
-                  "name": "Schloss Wilhelmshöhe",
-                  "text": "Klasisist tarzda inşa edilen saray, günümüzde Eski Ustalar Resim Galerisi gibi önemli koleksiyonları barındırır.",
-                  "category": "Castle",
-                  "coords": [
-                        9.416111,
-                        51.315
-                  ]
-            },
-            {
-                  "name": "Löwenburg",
-                  "text": "18. yüzyıl sonlarında inşa edilen bu yapay kale kalıntısı, romantik bir şövalye anıt mezarı olarak tasarlanmıştır.",
-                  "category": "Castle",
-                  "coords": [
-                        9.40861,
-                        51.3114
-                  ]
-            },
-            {
-                  "name": "Karlsaue",
-                  "text": "Fulda kıyısındaki geniş Barok park, karakteristik Limonluk binası ve yapay adalarıyla huzurlu bir alandır.",
-                  "category": "Park",
-                  "coords": [
-                        9.49333,
-                        51.3019
-                  ]
-            },
-            {
-                  "name": "Kassel Grimm Dünyası",
-                  "text": "Grimm Kardeşlerin yaşamına adanmış modern müzede, ünlü masallar etkileşimli bir şekilde sunulmaktadır.",
-                  "category": "Museum",
-                  "coords": [
-                        9.48927,
-                        51.3092
-                  ]
-            },
-            {
-                  "name": "Fridericianum",
-                  "text": "Avrupa ana karasındaki ilk halka açık müze binası olup günümüzde documenta sergisinin ana merkezidir.",
-                  "category": "Museum",
-                  "coords": [
-                        9.4975,
-                        51.3136
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "Karlsaue Parkı'ndaki bu Barok saray binası, günümüzde Astronomi ve Fizik Kabinesi'ne ev sahipliği yapar.",
-                  "category": "Museum",
-                  "coords": [
-                        9.500802,
-                        51.310268
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Herkules-Monument", "text": "Das imposante Wahrzeichen Kassels thront über dem Bergpark Wilhelmshöhe und ist der Ausgangspunkt der barocken Wasserspiele.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "Ein klassizistisches Schloss im Bergpark, das heute bedeutende Kunstsammlungen wie die Gemäldegalerie Alte Meister beherbergt.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "Eine künstlich errichtete Burgruine aus dem späten 18. Jahrhundert, die als romantisches Rittergrabmal konzipiert wurde.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Ein weitläufiger barocker Park direkt an der Fulda mit der markanten Orangerie und einer künstlichen Inselwelt.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Ein modernes Museum, das dem Leben und Werk der Brüder Grimm gewidmet ist und ihre berühmten Märchen interaktiv präsentiert.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Das erste öffentliche Museumsgebäude auf dem europäischen Festland und heute zentraler Ausstellungsort der documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Ein barockes Schlossgebäude im Staatspark Karlsaue, das heute das Astronomisch-Physikalische Kabinett beherbergt.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Galerie für komische Kunst und Karikaturen im Kasseler Kulturbahnhof.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Museum über das Leben und Werk des Komponisten Louis Spohr in Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Privates Musicaltheater in der Kasseler Innenstadt mit vielfältigem Programm.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Großes Naturschutz- und Erholungsgebiet entlang der Fulda in Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Barockes Prachtbad mit Marmorskulpturen neben der Orangerie in Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Naturkundemuseum im historischen Ottoneum, dem ersten festen Theaterbau Deutschlands.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Moderne Ausstellungshalle in Kassel, die primär für die documenta genutzt wird.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modernes Freizeit- und Sportbad in Kassel mit Innen- und Außenbereichen.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Museum zur Geschichte und Stadtentwicklung von Kassel am Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Einzigartiges Museum in Kassel, das sich der Bestattungskultur und dem Totengedenken widmet.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Ein Museum am Brüder-Grimm-Platz, das die Kunst- und Kulturgeschichte des Landes Hessen präsentiert.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "Das Museum dokumentiert die regionale Industriegeschichte und bedeutende technische Innovationen der Stadt.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "Ein spezialisiertes Museum in Kassel, das sich der Geschichte und Entwicklung der Badekultur widmet.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "Museum zur Geschichte der Firma Henschel, die weltweit für ihren Lokomotivbau bekannt war.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "Ein Museum in Kassel, das die Geschichte der Videotheken und Heimvideomedien dokumentiert.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "Eine Voliere in einer Parkanlage zur Beobachtung verschiedener Vogelarten im Stadtgebiet.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Am malerischen Ufer der Fulda in Kassel erstreckt sich dieser einladende Sandstrand. Hier finden Sonnenanbeter und Erholungssuchende eine urbane Oase für entspannte Nachmittage direkt am Wasser. Die ruhige Stimmung macht den Abschnitt zu einem beliebten Ziel, um dem Stadttrubel für eine Weile zu entfliehen. Besonders an sonnigen Tagen lohnt es sich, eine Decke für ein gemütliches Picknick mitzubringen.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Als beliebter Treffpunkt am Wasser bereichert dieser Liegeplatz das Freizeitangebot im Stadtgebiet von Kassel. Besucher nutzen das gepflegte Areal gerne, um in geselliger Runde zu verweilen und die Seele baumeln zu lassen. Die lockere Atmosphäre zieht ein bunt gemischtes lokales Publikum an, das die Nähe zum kühlen Nass schätzt. Für einen perfekten Sommernachmittag sollten Snacks und kühle Getränke nicht im Gepäck fehlen.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Wer in Kassel einen ruhigen Ort zur Entspannung sucht, wird an diesem idyllischen Uferabschnitt fündig. Abseits des größten Trubels lässt sich hier die sanfte Strömung des Flusses wunderbar beobachten. Die beschauliche Umgebung lädt zu ausgedehnten Spaziergängen oder einfach zum entspannten Lesen am Wasser ein. Ein Besuch in den frühen Morgenstunden offenbart eine besonders friedliche Stimmung.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "In den Sommermonaten erwacht dieser öffentliche Bereich am Flussufer in Kassel zu echtem Leben. Familien, Freunde und Singles kommen hier zusammen, um die warmen Temperaturen in geselliger Runde zu genießen. Neben der Möglichkeit zum Sonnenbaden eignet sich der Platz hervorragend als Ausgangspunkt für kleine Stadtabenteuer. Ein Fahrrad ist oft das beste Verkehrsmittel, um diesen sommerlichen Treffpunkt bequem zu erreichen.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Vielfältige Möglichkeiten für die Freizeitgestaltung am Wasser prägen diesen attraktiven Uferabschnitt in Kassel. Ob für eine kleine Pause vom Alltag oder einen entspannten Nachmittag mit Freunden, die offene Fläche bietet ausreichend Raum für alle. Die entspannte Stimmung vor Ort lässt schnell das Gefühl eines kleinen Kurzurlaubs aufkommen. Bei gutem Wetter empfiehlt es sich, frühzeitig einen schönen Platz in Wassernähe zu sichern.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "Entlang des Gewässers in Kassel eröffnet sich mit diesem Bereich ein weiterer wunderschöner Punkt für Erholungssuchende. Spaziergänger schätzen die naturnahe Gestaltung, die zum Innehalten und Durchatmen einlädt. Die harmonische Verbindung von Wasser und grünen Uferzonen schafft eine äußerst friedliche Kulisse für den Nachmittag. Bequeme Schuhe sind ideal, um die angrenzenden Wege ausgiebig zu erkunden.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Mitten in der Stadt gelegen, bietet dieser Uferbereich in Kassel eine unkomplizierte Möglichkeit zur Entspannung am Wasser. Das urbane Flair mischt sich hier auf angenehme Weise mit der beruhigenden Präsenz des Flusses. Anwohner nutzen den Platz gerne für eine spontane Auszeit nach Feierabend oder am Wochenende. Ein gutes Buch oder etwas Musik machen den Aufenthalt an diesem städtischen Rückzugsort perfekt.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Wenn die Temperaturen steigen, verwandelt sich dieser Strandabschnitt in Kassel in ein lebendiges Zentrum für Freizeitaktivitäten. Die Nähe zum Wasser verspricht an heißen Tagen eine willkommene Abkühlung und lockt viele Besucher ins Freie. Die heitere Stimmung ist ansteckend und macht Lust auf ausgedehnte sommerliche Nachmittage. Packen Sie am besten ein Handtuch und Sonnencreme ein, um das Wetter unbeschwert zu genießen.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "Eine gepflegte Grünanlage an der Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Eine öffentliche Parkanlage im Westen von Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Ein historischer Park im Kasseler Stadtteil Vorderer Westen.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Die Überreste des ehemaligen Zeughauses, ein Denkmal der Stadtgeschichte.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Eine zentrale Grünfläche am Rande der Innenstadt von Kassel.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "Ein Garten mit einer vielfältigen Sammlung heimischer und exotischer Pflanzen.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Ein weitläufiger Landschaftspark mit dem Schloss Schönfeld.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "Eine naturnahe Gartenanlage am Rande des Stadtteils Helleböhn.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Ein mittelalterlicher Wachturm der einstigen Stadtbefestigung Kassels.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Der Silbersee ist ein schöner See in Kassel, der sich ideal für Naturspaziergänge am Ufer eignet.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Das Sichelbachbecken in Kassel ist ein lokaler See, der eine ruhige Umgebung für Spaziergänge und Erholung im Freien bietet.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Der Bugasee ist ein See in Kassel, der beliebt ist für gemütliche Spaziergänge und zum Bewundern der Natur.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Der Spielplatz Landaustraße ist ein Quartiersspielplatz in Kassel, auf dem Kinder spielen und Familien sich treffen können.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Der Spielplatz Glockenbruchweg in Kassel ist ein schöner Ort, um Kinder aktiv zu halten und gemeinsam Zeit zu verbringen.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Der Kinderspielplatz Mühlhäuser Platz in Kassel bietet einen wunderbaren Außenbereich für Familienaktivitäten.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Der Aktivspielplatz Quellhofstraße ist ein Spielplatz in Kassel, der sich perfekt für energiegeladene Kinder und Familienausflüge eignet.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "Der Spielplatz an der Kochstraße in Kassel bietet eine freundliche Umgebung, in der Familien entspannen können.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Der Spielplatz Buddengasse in Kassel ist ein charmanter Ort, an dem Familien frische Luft schnappen und Spaß haben können.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Der Spielplatz Tischbeinstraße ist ein ansprechender Spielplatz in Kassel, ideal für die gemeinsame Freizeit von Eltern und Kindern.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Dieser Spielplatz an der Bremelbachstraße in Kassel bietet einen tollen Spielbereich im Freien und Platz für die Familie.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Der Spielplatz Geysostraße ist ein familienorientierter Spielplatz in Kassel, der für Spiel und Spaß im Freien konzipiert wurde.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden in Kassel ist eine Anlage, auf der Familien einen lustigen und wettbewerbsfähigen Nachmittag verbringen können.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "Der Spielplatz Bosestraße in Kassel bietet eine sichere und angenehme Umgebung für Familienausflüge.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Der Spielplatz Grüner Waldweg in Kassel bietet Familien und Kindern einen von der Natur inspirierten Raum zum gemeinsamen Spielen.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "Der Spielplatz an der Holländischen Straße in Kassel ist ein lebendiger Ort für Kinderaktivitäten und Familienausflüge.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Der Spielplatz Motzberg ist ein schöner Bereich in Kassel, der Familien zu Spiel und Spaß im Freien einlädt.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Der Sky Spielplatz Bleichenweg in Kassel ist gut ausgestattet und ideal für einen entspannten Nachmittag mit der Familie.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "Der Spielplatz am Graßweg in Kassel ist ein hervorragender Ort für Familien, der einen sicheren Spielbereich bietet.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Der Spielplatz Germaniastraße ist ein Treffpunkt in Kassel, an dem Familien gemeinsam Zeit an der frischen Luft verbringen können.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "Die Kurhessen Therme in Kassel ist ein Ort für Gesundheit, Wellness und Entspannung.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "Der Zoo am Rammelsberg in Kassel bietet ein naturnahes Erlebnis für kleine und große Tierfreunde.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "Das Freibad Wilhelmshöhe in Kassel lädt zu einer Erfrischung in historischer Umgebung ein.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "Der Saunasee in Kassel ist ein besonderer Ort für Ruhe und Entspannung im Wasser.", "category": "family", "coords": [9.425643, 51.313673]}], "hu": [{"name": "Herkules-emlékmű", "text": "Kassel impozáns jelképe a Wilhelmshöhe hegyi park felett magasodik, és a barokk vízijátékok kiindulópontja.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Wilhelmshöhe-kastély", "text": "Klasszicista kastély a hegyi parkban, amely ma jelentős művészeti gyűjteményeknek, például a Régi Mesterek Képtárának ad otthont.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "A 18. század végén épült mesterséges várrom, amelyet romantikus lovagi síremlékként terveztek.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Kiterjedt barokk park a Fulda folyó mentén a jellegzetes Orangerie épületével és mesterséges szigetvilággal.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Modern múzeum a Grimm testvérek életének és munkásságának szentelve, ahol híres meséiket interaktívan mutatják be.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Az európai szárazföld első nyilvános múzeumépülete, ma a documenta kortárs művészeti kiállítás központi helyszíne.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Barokk kastélyépület a Karlsaue állami parkban, amely ma a Csillagászati és Fizikai Kabinetnek ad helyet.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Képregény- és karikatúragaléria a kasseli Kulturbahnhof területén.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Louis Spohr zeneszerző életét és munkásságát bemutató múzeum Kasselben.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Magánkézben lévő zenés színház Kassel belvárosában, változatos műsorral.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Kiterjedt természetvédelmi és pihenőövezet a Fulda folyó mentén Kasselben.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Barokk márványfürdő szobrokkal a kasseli Orangerie mellett.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Természettudományi múzeum a történelmi Ottoneumban, Németország első állandó színházépületében.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Modern kiállítócsarnok Kasselben, amelyet elsősorban a documenta művészeti eseményhez használnak.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modern szabadidős és sportfürdő Kasselben, fedett és szabadtéri medencékkel.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Kassel történelmét és városfejlődését bemutató múzeum a Ständeplatzon.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Kasseli múzeum, amely a temetkezési kultúrának és a gyásznak szentelt.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Hessen tartomány művészeti és kultúrtörténeti gyűjteményét bemutató múzeum Kasselben.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "A múzeum a regionális ipartörténetet és a város jelentős technikai innovációit mutatja be.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "A fürdőkultúra történetének és fejlődésének szentelt szakmúzeum Kasselben.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "A mozdonygyártásáról világszerte ismert Henschel cég történetét bemutató múzeum.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "A videotékák és az otthoni videohordozók történetét dokumentáló múzeum Kasselben.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "Parkban található madárröpde, ahol különféle madárfajok figyelhetőek meg a városban.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "A Fulda festői partján, Kasselben terül el ez a hívogató homokos strand. A napozni és pihenni vágyók igazi városi oázisra lelhetnek itt egy nyugodt, vízparti délutánhoz. A békés hangulat miatt a partszakasz kedvelt célpontja azoknak, akik egy időre szeretnének kiszakadni a város zajából. Különösen napsütéses napokon érdemes takarót hozni egy hangulatos piknikhez.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "A vízparti találkozóhelyként kedvelt terület nagyszerűen gazdagítja Kassel városi szabadidős kínálatát. A látogatók előszeretettel használják a gondozott partszakaszt baráti beszélgetésekre és feltöltődésre. A laza atmoszféra sokszínű helyi közönséget vonz, akik értékelik a hűsítő víz közelségét. Egy tökéletes nyári délutánhoz érdemes rágcsálnivalót és hideg italokat pakolni a táskába.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Aki nyugodt pihenőhelyet keres Kasselben, ezen az idilli partszakaszon biztosan megtalálja. A legnagyobb nyüzsgéstől távol csodálatosan megfigyelhető a folyó lágy áramlása. A csendes környezet hosszú sétákra vagy egyszerűen csak egy jó könyv melletti vízparti lazításra hívogat. A kora reggeli órákban tett látogatás különösen békés hangulatot tár a látogatók elé.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "A nyári hónapokban ez a kasseli folyóparti közterület igazán életre kel. Családok, barátok és egyedülállók gyűlnek itt össze, hogy társaságban élvezzék a meleg időt. A napozási lehetőség mellett a tér kiváló kiindulópont kisebb városi kalandokhoz is. Gyakran a kerékpár a legjobb közlekedési eszköz, amellyel kényelmesen megközelíthető ez a nyári találkozóhely.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "A vízparti szabadidős tevékenységek változatos lehetőségei jellemzik ezt a vonzó kasseli partszakaszt. Legyen szó egy rövid szünetről a mindennapokban vagy egy pihentető délutánról a barátokkal, a nyitott tér mindenki számára elegendő helyet biztosít. A laza helyi atmoszféra gyorsan egy minivakáció érzését kelti az emberben. Jó idő esetén tanácsos korán érkezni, hogy biztosítsuk a legjobb helyet a víz közelében.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "A kasseli vízpart mentén ezen a területen egy újabb gyönyörű pont nyílik meg a pihenni vágyók előtt. A sétálók nagyra értékelik a természetközeli kialakítást, amely megállásra és egy mély lélegzetvételre ösztönöz. A víz és a zöldellő partvidék harmonikus kapcsolata rendkívül békés hátteret teremt a délutánokhoz. Kényelmes cipő viselése ideális a környező ösvények alapos felfedezéséhez.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "A város közepén található kasseli partszakasz egyszerű lehetőséget kínál a vízparti kikapcsolódásra. Az urbánus hangulat itt kellemesen keveredik a folyó nyugtató jelenlétével. A helyi lakosok előszeretettel használják a teret egy spontán munka utáni vagy hétvégi pihenőre. Egy jó könyv vagy egy kis zene tökéletessé varázsolja az ittlétet ezen a városi menedékhelyen.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Amikor emelkedik a hőmérséklet, ez a kasseli partszakasz a szabadidős tevékenységek nyüzsgő központjává változik. A víz közelsége a forró napokon szívesen látott felfrissülést ígér, és sok látogatót csábít a szabadba. A vidám hangulat ragadós, és azonnal meghozza a kedvet a hosszú nyári délutánokhoz. Érdemes törölközőt és naptejet pakolni, hogy gondtalanul élvezhesse a jó időt.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "Gondozott zöldterület a kasseli Stadthalle mellett.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Nyilvános parkerdő Kassel nyugati részén.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Történelmi park Kassel Vorderer Westen negyedében.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Az egykori fegyvertár maradványai, a város történelmének emlékműve.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Központi zöldterület Kassel belvárosának szélén.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "Kert hazai és egzotikus növények változatos gyűjteményével.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Kiterjedt tájképi park a Schönfeld-kastéllyal.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "Természetközeli kert a Helleböhn negyed szélén.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Kassel egykori városfalának középkori őrtornya.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "A Silbersee egy gyönyörű tó Kasselben, amely ideális a part menti természetjáráshoz.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "A kasseli Sichelbachbecken egy helyi tó, amely nyugodt környezetet kínál a sétákhoz és a szabadtéri pihenéshez.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "A Bugasee egy tó Kasselben, amely népszerű a kényelmes séták és a természet megcsodálása miatt.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "A Spielplatz Landaustraße egy környékbeli játszótér Kasselben, ahol a gyerekek játszhatnak és a családok találkozhatnak.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "A Kasselben található Spielplatz Glockenbruchweg egy szép hely a gyerekek aktívan tartására és a közös időtöltésre.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "A kasseli Kinderspielplatz Mühlhäuser Platz csodálatos szabadtéri teret biztosít a családi tevékenységekhez.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Az Aktivspielplatz Quellhofstraße egy játszótér Kasselben, amely tökéletes az energikus gyerekek és a családi kirándulások számára.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "A kasseli Kochstraße játszótere barátságos környezetet kínál, ahol a családok pihenhetnek.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "A kasseli Spielplatz Buddengasse egy bájos hely, ahol a családok friss levegőt szívhatnak és szórakozhatnak.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "A Spielplatz Tischbeinstraße egy vonzó játszótér Kasselben, amely ideális a szülők és gyermekek közös szabadidejéhez.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Ez a kasseli Bremelbachstraße menti játszótér remek szabadtéri játszóteret és helyet kínál a család számára.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "A Spielplatz Geysostraße egy családcentrikus játszótér Kasselben, amelyet szabadtéri játékra és szórakozásra terveztek.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "A kasseli Minigolf Au Garden egy olyan létesítmény, ahol a családok szórakoztató és versengő délutánt tölthetnek el.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "A kasseli Bosestraße játszótér biztonságos és kellemes környezetet kínál a családi kirándulásokhoz.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "A kasseli Spielplatz Grüner Waldweg a természet ihlette teret kínál a családok és gyerekek közös játékához.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "A kasseli Holländische Straße játszótere egy nyüzsgő hely a gyermekprogramokhoz és családi kirándulásokhoz.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "A Spielplatz Motzberg egy szép terület Kasselben, amely szabadtéri játékra és szórakozásra hívja a családokat.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "A kasseli Sky Spielplatz Bleichenweg jól felszerelt, és ideális egy pihentető délutánhoz a családdal.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "A kasseli Graßweg játszótér egy kiváló hely a családok számára, amely biztonságos játszóteret kínál.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "A Spielplatz Germaniastraße egy olyan találkozóhely Kasselben, ahol a családok együtt tölthetnek időt a friss levegőn.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "A kasseli Kurhessen Therme az egészség, a wellness és a pihenés helyszíne.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "A kasseli Zoo am Rammelsberg természetközeli élményt nyújt a kicsi és nagy állatbarátoknak.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "A kasseli Freibad Wilhelmshöhe felfrissülésre hív történelmi környezetben.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "A kasseli Saunasee különleges hely a nyugalomra és a vízben való pihenésre.", "category": "family", "coords": [9.425643, 51.313673]}], "ro": [{"name": "Monumentul Hercules", "text": "Simbolul impunător al orașului Kassel tronează peste parcul Wilhelmshöhe și este punctul de plecare al jocurilor de apă baroce.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Palatul Wilhelmshöhe", "text": "Un palat clasicist în parcul de munte, care găzduiește astăzi colecții importante de artă, precum Galeria Vechilor Maeștri.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Castelul Löwenburg", "text": "O ruină de castel construită artificial la sfârșitul secolului al XVIII-lea, concepută ca un mausoleu romantic pentru cavaler.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Parcul Karlsaue", "text": "Un parc baroc vast situat pe malul râului Fulda, cu monumentala Orangerie și un sistem de insule artificiale.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "Un muzeu modern dedicat vieții și operei fraților Grimm, prezentând celebrele lor basme într-un mod interactiv.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Prima clădire de muzeu public de pe continentul european și astăzi centrul expozițional principal pentru documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "O clădire de palat baroc în parcul de stat Karlsaue, care găzduiește astăzi Cabinetul de Astronomie și Fizică.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Galerie pentru artă comică și caricatură situată în incinta Kulturbahnhof din Kassel.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Muzeu dedicat vieții și operei compozitorului Louis Spohr din Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Teatru muzical privat din centrul orașului Kassel, cu un program variat.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Rezervație naturală și zonă de recreere extinsă de-a lungul râului Fulda în Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Baie barocă spectaculoasă cu sculpturi din marmură, situată lângă Orangeria din Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Muzeu de istorie naturală în istoricul Ottoneum, prima clădire de teatru permanentă din Germania.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Sală de expoziții modernă din Kassel, utilizată în principal pentru expoziția documenta.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Centru acvatic modern pentru agrement și sport din Kassel, cu piscine interioare și exterioare.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Muzeu dedicat istoriei și dezvoltării urbane a orașului Kassel, situat în Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Muzeu unic în Kassel, dedicat culturii funerare și tradițiilor de doliu.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "Un muzeu în Kassel dedicat istoriei artei și culturii landului Hessa.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "Muzeul documentează istoria industrială regională și inovațiile tehnice importante ale orașului.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "Un muzeu specializat din Kassel dedicat istoriei și dezvoltării culturii băilor.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "Muzeu dedicat istoriei companiei Henschel, cunoscută la nivel mondial pentru construcția de locomotive.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "Un muzeu din Kassel care documentează istoria magazinelor video și a mediilor video de acasă.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "O volieră într-un parc pentru observarea diverselor specii de păsări din zona orașului.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Pe malul pitoresc al râului Fulda din Kassel se întinde această plajă primitoare cu nisip. Aici, iubitorii de soare și cei aflați în căutarea relaxării găsesc o oază urbană pentru după-amiezi liniștite chiar lângă apă. Atmosfera calmă face din acest segment de țărm o destinație populară pentru a scăpa de agitația orașului. Mai ales în zilele însorite, merită să aduceți o pătură pentru un picnic confortabil.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Ca un loc de întâlnire popular pe malul apei, această zonă de relaxare îmbogățește opțiunile de agrement din zona urbană Kassel. Vizitatorii se bucură de spațiul bine întreținut pentru a petrece timp cu prietenii și a se deconecta. Atmosfera relaxată atrage un public local divers, care apreciază proximitatea apei răcoroase. Pentru o după-amiază perfectă de vară, nu uitați să luați în bagaj gustări și băuturi reci.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Cei care caută un loc liniștit pentru relaxare în Kassel vor fi încântați de acest segment de țărm idilic. Departe de agitația majoră, aici se poate observa minunat curgerea lină a râului. Împrejurimile pașnice vă invită la plimbări lungi sau pur și simplu la o lectură relaxantă pe malul apei. O vizită la primele ore ale dimineții dezvăluie o atmosferă deosebit de liniștită.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "În lunile de vară, această zonă publică de pe malul râului din Kassel prinde cu adevărat viață. Familii, prieteni și persoane singure se adună aici pentru a se bucura de temperaturile calde într-o companie plăcută. Pe lângă posibilitatea de a face plajă, locul este un punct de plecare excelent pentru mici aventuri urbane. O bicicletă este adesea cel mai bun mijloc de transport pentru a ajunge confortabil la acest punct de întâlnire estival.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Diversele posibilități de petrecere a timpului liber la malul apei caracterizează acest segment atractiv din Kassel. Fie pentru o scurtă pauză de la rutina zilnică, fie pentru o după-amiază relaxantă cu prietenii, spațiul deschis oferă loc suficient pentru toată lumea. Atmosfera destinsă de la fața locului creează rapid senzația unei scurte vacanțe. Pe vreme bună, este recomandat să vă asigurați din timp un loc frumos aproape de apă.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "De-a lungul apei din Kassel, această zonă deschide un alt punct minunat pentru cei în căutarea relaxării. Plimbăreții apreciază designul apropiat de natură, care te invită să te oprești și să respiri adânc. Combinația armonioasă dintre apă și zonele verzi de pe mal creează un decor extrem de pașnic pentru după-amiază. Încălțămintea confortabilă este ideală pentru a explora pe îndelete potecile adiacente.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Situată în mijlocul orașului, această zonă riverană din Kassel oferă o oportunitate simplă de relaxare la malul apei. Aerul urban se împletește aici într-un mod plăcut cu prezența liniștitoare a râului. Localnicii folosesc cu plăcere locul pentru o pauză spontană după muncă sau în weekend. O carte bună sau puțină muzică fac ca șederea în acest refugiu citadin să fie perfectă.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "Când temperaturile cresc, acest segment de plajă din Kassel se transformă într-un centru plin de viață pentru activități recreative. Proximitatea apei promite o răcorire binevenită în zilele fierbinți și atrage numeroși vizitatori în aer liber. Atmosfera veselă este contagioasă și te face să îți dorești seri lungi de vară. Cel mai bine este să împachetați un prosop și cremă de protecție solară pentru a vă bucura de vreme fără griji.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "O zonă verde îngrijită lângă Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "Un parc public în partea de vest a orașului Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "Un parc istoric în cartierul Vorderer Westen din Kassel.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "Rămășițele fostului arsenal, un monument al istoriei orașului.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "Un spațiu verde central la marginea centrului orașului Kassel.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "O grădină cu o colecție diversă de plante native și exotice.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "Un parc peisagistic vast care include castelul Schönfeld.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "O grădină naturală la marginea cartierului Helleböhn.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "Un turn de veghe medieval din fosta fortificație a orașului Kassel.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Silbersee este un lac frumos situat în Kassel, ideal pentru plimbări în natură pe mal.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Sichelbachbecken din Kassel este un lac local care oferă un cadru liniștit pentru plimbări și relaxare în aer liber.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Bugasee este un lac din Kassel, popular pentru plimbări relaxante și pentru admirarea naturii.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Spielplatz Landaustraße este un loc de joacă de cartier din Kassel, unde copiii se pot juca și familiile se pot întâlni.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Spielplatz Glockenbruchweg din Kassel este un loc frumos pentru a menține copiii activi și a petrece timpul împreună.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Kinderspielplatz Mühlhäuser Platz din Kassel oferă o zonă minunată în aer liber pentru activități în familie.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Aktivspielplatz Quellhofstraße este un loc de joacă în Kassel, perfect pentru copiii plini de energie și ieșirile în familie.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "Locul de joacă de pe Kochstraße din Kassel oferă un mediu prietenos unde familiile se pot relaxa.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Spielplatz Buddengasse din Kassel este un loc fermecător unde familiile pot lua o gură de aer proaspăt și se pot distra.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Spielplatz Tischbeinstraße este un loc de joacă atractiv din Kassel, ideal pentru timpul liber comun al părinților și copiilor.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "Acest loc de joacă de pe Bremelbachstraße din Kassel oferă o zonă excelentă de joacă în aer liber și spațiu pentru familie.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Spielplatz Geysostraße este un loc de joacă orientat spre familie din Kassel, conceput pentru joacă și distracție în aer liber.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden din Kassel este un teren unde familiile pot petrece o după-amiază distractivă și competitivă.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "Locul de joacă Bosestraße din Kassel oferă un mediu sigur și plăcut pentru ieșirile în familie.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Spielplatz Grüner Waldweg din Kassel oferă familiilor și copiilor un spațiu inspirat de natură pentru joacă împreună.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "Locul de joacă de pe Holländische Straße din Kassel este un loc plin de viață pentru activitățile copiilor și ieșirile în familie.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Spielplatz Motzberg este o zonă frumoasă din Kassel care invită familiile la joacă și distracție în aer liber.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Sky Spielplatz Bleichenweg din Kassel este bine echipat și ideal pentru o după-amiază relaxantă în familie.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "Locul de joacă de pe Graßweg din Kassel este un loc excelent pentru familii, oferind o zonă de joacă sigură.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Spielplatz Germaniastraße este un punct de întâlnire în Kassel unde familiile pot petrece timp împreună la aer curat.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "Kurhessen Therme din Kassel este un loc pentru sănătate, wellness și relaxare.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "Zoo am Rammelsberg din Kassel oferă o experiență aproape de natură pentru micii și marii iubitori de animale.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "Ștrandul Wilhelmshöhe din Kassel invită la o răcorire într-un cadru istoric.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "Saunasee din Kassel este un loc special pentru liniște și relaxare în apă.", "category": "family", "coords": [9.425643, 51.313673]}], "en": [{"name": "Hercules Monument", "text": "The imposing landmark of Kassel towers over Bergpark Wilhelmshöhe and is the starting point of the baroque water features.", "category": "Landmark", "confidence": "high", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "A neoclassical palace in the mountain park, now housing significant art collections like the Old Masters Picture Gallery.", "category": "Castle", "confidence": "high", "coords": [9.416111, 51.315]}, {"name": "Löwenburg Castle", "text": "A mock-medieval castle ruin built in the late 18th century, designed as a romantic knight's tomb.", "category": "Castle", "confidence": "high", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue Park", "text": "An extensive baroque park directly on the Fulda River with the striking Orangerie and an artificial island world.", "category": "Park", "confidence": "high", "coords": [9.49333, 51.3019]}, {"name": "Grimmwelt Kassel", "text": "A modern museum dedicated to the life and work of the Brothers Grimm, presenting their famous fairy tales interactively.", "category": "Museum", "confidence": "high", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "The first public museum building on the European mainland and today a central exhibition venue for the documenta.", "category": "Museum", "confidence": "high", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "A baroque palace building in the Karlsaue State Park, which now houses the Cabinet of Astronomy and Physics.", "category": "Museum", "confidence": "high", "coords": [9.500802, 51.310268]}, {"name": "Caricatura", "text": "Gallery for comic art and caricatures located in Kassel's Kulturbahnhof.", "category": "museum", "coords": [9.490577, 51.318292]}, {"name": "Spohr Museum", "text": "Museum dedicated to the life and work of the composer Louis Spohr in Kassel.", "category": "museum", "coords": [9.493975, 51.309915]}, {"name": "theater im centrum", "text": "Private musical theatre in Kassel city centre with a diverse programme.", "category": "cultural", "coords": [9.487182, 51.316169]}, {"name": "Fuldaaue", "text": "Large nature reserve and recreational area along the Fulda river in Kassel.", "category": "natural", "coords": [9.504426, 51.299587]}, {"name": "Marmorbad", "text": "Baroque marble bath with sculptures located next to the Orangerie in Kassel.", "category": "museum", "coords": [9.499539, 51.310435]}, {"name": "Naturkundemuseum", "text": "Natural history museum in the historical Ottoneum, Germany's first permanent theatre building.", "category": "museum", "coords": [9.49895, 51.313262]}, {"name": "documenta-Halle", "text": "Modern exhibition hall in Kassel primarily used for the documenta art event.", "category": "museum", "coords": [9.499489, 51.312135]}, {"name": "Auebad", "text": "Modern leisure and sports swimming pool in Kassel with indoor and outdoor areas.", "category": "family", "coords": [9.500481, 51.300685]}, {"name": "Stadtmuseum", "text": "Museum focusing on the history and urban development of Kassel on Ständeplatz.", "category": "museum", "coords": [9.489631, 51.314898]}, {"name": "Museum für Sepulkralkultur", "text": "Unique museum in Kassel dedicated to burial culture and mourning traditions.", "category": "museum", "coords": [9.488012, 51.309078]}, {"name": "Hessisches Landesmuseum", "text": "A museum in Kassel showcasing the art and cultural history of the state of Hesse.", "category": "museum", "coords": [9.489872, 51.310631]}, {"name": "Technik-Museum Kassel", "text": "The museum documents regional industrial history and important technical innovations of the city.", "category": "museum", "coords": [9.479507, 51.324776]}, {"name": "Bademuseum", "text": "A specialized museum in Kassel dedicated to the history and development of bathing culture.", "category": "museum", "coords": [9.504719, 51.312631]}, {"name": "Henschel Museum", "text": "A museum about the history of the Henschel company, world-renowned for its locomotive construction.", "category": "museum", "coords": [9.480815, 51.324625]}, {"name": "Deutsches Videothekenmuseum", "text": "A museum in Kassel documenting the history of video rental stores and home video media.", "category": "museum", "coords": [9.493168, 51.320154]}, {"name": "Vogelvolière", "text": "An aviary in a park setting for observing various bird species within the city area.", "category": "family", "coords": [9.486446, 51.295519]}, {"name": "Strand 9", "text": "Situated along the picturesque banks of the Fulda River in Kassel, this inviting sandy beach stretches out gracefully. Sunbathers and those seeking relaxation will find an urban oasis here for leisurely afternoons right by the water. The peaceful mood makes this spot a popular destination to escape the city bustle for a while. Taking a blanket for a cozy picnic is especially worthwhile on sunny days.", "category": "recreational", "coords": [9.502258, 51.295533]}, {"name": "Strand 3", "text": "Serving as a popular waterside meeting point, this lounging area greatly enriches the leisure options within Kassel's city limits. Visitors love to use the well-kept space to spend time in good company and simply unwind. The laid-back atmosphere attracts a diverse local crowd that appreciates being close to the cooling water. Packing snacks and cold drinks is a must for a perfect summer afternoon.", "category": "recreational", "coords": [9.502818, 51.291588]}, {"name": "Strand 5", "text": "Those looking for a quiet place to relax in Kassel will find exactly what they need at this idyllic stretch of riverbank. Away from the main hustle and bustle, one can beautifully observe the gentle flow of the river here. The tranquil surroundings are perfect for long walks or simply enjoying a good book by the water. Visiting in the early morning hours reveals an especially peaceful ambiance.", "category": "recreational", "coords": [9.496828, 51.290614]}, {"name": "Strand 4", "text": "During the summer months, this public area along the riverbank in Kassel truly comes to life. Families, friends, and solo visitors gather here to enjoy the warm temperatures in a highly sociable setting. Aside from sunbathing opportunities, the spot serves as an excellent starting point for small urban adventures. A bicycle is often the best mode of transport to comfortably reach this lively summer hangout.", "category": "recreational", "coords": [9.498984, 51.291109]}, {"name": "Strand 2", "text": "Diverse opportunities for waterside leisure activities define this attractive stretch of riverbank in Kassel. Whether for a short break from the daily grind or a relaxed afternoon with friends, the open space provides enough room for everyone. The laid-back local vibe quickly conjures up the feeling of a mini getaway. When the weather is good, securing a nice spot near the water early on is a smart move.", "category": "recreational", "coords": [9.507493, 51.295411]}, {"name": "Strand 6", "text": "Running along the water in Kassel, this area reveals yet another beautiful spot for those seeking relaxation. Walkers highly appreciate the nature-oriented layout, which invites you to pause and take a deep breath. The harmonious combination of water and green bank zones creates an extremely peaceful backdrop for the afternoon. Wearing comfortable shoes is ideal to fully explore the adjacent pathways.", "category": "recreational", "coords": [9.496529, 51.292756]}, {"name": "Strand 7", "text": "Located right in the middle of the city, this riverside area in Kassel offers a straightforward way to unwind by the water. The urban flair mixes pleasantly here with the calming presence of the river. Residents love to use the space for a spontaneous break after work or during the weekend. Bringing a good book or some music makes spending time at this city retreat absolutely perfect.", "category": "recreational", "coords": [9.498811, 51.29463]}, {"name": "Strand 8", "text": "When the temperatures rise, this stretch of beach in Kassel transforms into a vibrant hub for leisure activities. The proximity to the water promises a welcome cool-down on hot days and draws many visitors outdoors. The cheerful mood is completely contagious and sparks the desire for extended summer afternoons. It is best to pack a towel and sunscreen to enjoy the weather without a care in the world.", "category": "recreational", "coords": [9.499027, 51.2925]}, {"name": "Stadthallengarten", "text": "A well-maintained green area next to the Stadthalle Kassel.", "category": "park", "coords": [9.458827, 51.317392]}, {"name": "Goetheanlage", "text": "A public park area in the western part of Kassel.", "category": "park", "coords": [9.45727, 51.3144]}, {"name": "Aschrottpark", "text": "A historical park in the Vorderer Westen district of Kassel.", "category": "park", "coords": [9.451739, 51.315999]}, {"name": "Zeughausruine", "text": "The remains of the former arsenal, a monument to the city's history.", "category": "historical", "coords": [9.505746, 51.317894]}, {"name": "Lutherplatz", "text": "A central green space on the edge of Kassel city center.", "category": "park", "coords": [9.496835, 51.318033]}, {"name": "Botanischer Garten", "text": "A garden featuring a diverse collection of native and exotic plants.", "category": "park", "coords": [9.470035, 51.298494]}, {"name": "Park Schönfeld", "text": "A spacious landscape park featuring the Schönfeld Castle.", "category": "park", "coords": [9.467048, 51.299654]}, {"name": "Waldgarten am Helleböhnweg", "text": "A nature-oriented garden area on the edge of the Helleböhn district.", "category": "park", "coords": [9.449987, 51.303053]}, {"name": "Druselturm", "text": "A medieval watchtower from Kassel's former city fortifications.", "category": "tower", "coords": [9.499433, 51.316297]}, {"name": "Silbersee", "text": "Silbersee is a beautiful lake located in Kassel, ideal for nature walks along the shore.", "category": "natural", "coords": [9.36883, 51.332445]}, {"name": "Sichelbachbecken", "text": "Sichelbachbecken in Kassel is a local lake offering a tranquil setting for walking and outdoor relaxation.", "category": "natural", "coords": [9.3783, 51.317592]}, {"name": "Bugasee", "text": "Bugasee is a lake in Kassel, popular for leisurely strolls and admiring the natural surroundings.", "category": "natural", "coords": [9.498807, 51.296113]}, {"name": "Spielplatz Landaustraße", "text": "Spielplatz Landaustraße is a neighborhood playground in Kassel where children can play and families can gather.", "category": "family", "coords": [9.491281, 51.306029]}, {"name": "Spielplatz Glockenbruchweg", "text": "Spielplatz Glockenbruchweg in Kassel is a lovely spot to keep children active and spend time together as a family.", "category": "family", "coords": [9.456586, 51.297923]}, {"name": "Kinderspielplatz Mühlhäuser Platz", "text": "Kinderspielplatz Mühlhäuser Platz in Kassel provides a wonderful outdoor space for family activities.", "category": "family", "coords": [9.511053, 51.330913]}, {"name": "Aktivspielplatz Quellhofstraße", "text": "Aktivspielplatz Quellhofstraße is a playground in Kassel, perfect for energetic kids and family outings.", "category": "family", "coords": [9.501789, 51.335878]}, {"name": "Spielplatz Kochstraße", "text": "The playground on Kochstraße in Kassel offers a friendly environment where families can relax.", "category": "family", "coords": [9.467334, 51.308035]}, {"name": "Spielplatz Buddengasse", "text": "Spielplatz Buddengasse in Kassel is a charming spot where families can get some fresh air and have fun.", "category": "family", "coords": [9.467786, 51.310817]}, {"name": "Spielplatz Tischbeinstraße", "text": "Spielplatz Tischbeinstraße is an engaging playground in Kassel, ideal for shared leisure time for parents and children.", "category": "family", "coords": [9.473274, 51.309726]}, {"name": "Spielplatz Bremelbachstraße", "text": "This playground on Bremelbachstraße in Kassel provides a great outdoor play area and space for the family.", "category": "family", "coords": [9.444846, 51.316448]}, {"name": "Spielplatz Geysostraße", "text": "Spielplatz Geysostraße is a family-oriented playground in Kassel designed for outdoor play and fun.", "category": "family", "coords": [9.459223, 51.315771]}, {"name": "Minigolf Au Garden", "text": "Minigolf Au Garden in Kassel is a course where families can spend a fun and competitive afternoon.", "category": "family", "coords": [9.49321, 51.296374]}, {"name": "Spielplatz Bosestraße", "text": "The Bosestraße playground in Kassel offers a safe and pleasant environment for family outings.", "category": "family", "coords": [9.473671, 51.299165]}, {"name": "Spielplatz Grüner Waldweg", "text": "Spielplatz Grüner Waldweg in Kassel provides families and children with a nature-inspired space to play together.", "category": "family", "coords": [9.450289, 51.312675]}, {"name": "Spielplatz Holländische Straße", "text": "The playground on Holländische Straße in Kassel is a lively spot for children's activities and family outings.", "category": "family", "coords": [9.50108, 51.32772]}, {"name": "Spielplatz Motzberg", "text": "Spielplatz Motzberg is a lovely area in Kassel that invites families for outdoor games and fun.", "category": "family", "coords": [9.479492, 51.3142]}, {"name": "Sky Spielplatz Bleichenweg", "text": "Sky Spielplatz Bleichenweg in Kassel is well-equipped and ideal for a relaxing afternoon with the family.", "category": "family", "coords": [9.516698, 51.318879]}, {"name": "Spielplatz Graßweg", "text": "The playground on Graßweg in Kassel is an excellent spot for families, offering a safe play area.", "category": "family", "coords": [9.459808, 51.302913]}, {"name": "Spielplatz Germaniastraße", "text": "Spielplatz Germaniastraße is a meeting point in Kassel where families can spend time together in the fresh air.", "category": "family", "coords": [9.468874, 51.313067]}, {"name": "Kurhessen Therme", "text": "The Kurhessen Therme in Kassel is a place for health, wellness, and relaxation.", "category": "family", "coords": [9.426879, 51.313365]}, {"name": "Zoo am Rammelsberg", "text": "The Zoo am Rammelsberg in Kassel offers a close-to-nature experience for small and large animal lovers.", "category": "family", "coords": [9.436655, 51.317716]}, {"name": "Freibad Wilhelmshöhe", "text": "The Freibad Wilhelmshöhe in Kassel invites you for a refreshment in historic surroundings.", "category": "family", "coords": [9.425673, 51.308562]}, {"name": "Saunasee", "text": "The Saunasee in Kassel is a special place for peace and relaxation in the water.", "category": "family", "coords": [9.425643, 51.313673]}], "tr": [{"name": "Herkül Anıtı", "text": "Wilhelmshöhe Dağ Parkı'nın tepesinde yükselen anıt, görkemli Barok su gösterilerinin başlangıç noktasıdır.", "category": "Landmark", "coords": [9.39278, 51.3164]}, {"name": "Schloss Wilhelmshöhe", "text": "Klasisist tarzda inşa edilen saray, günümüzde Eski Ustalar Resim Galerisi gibi önemli koleksiyonları barındırır.", "category": "Castle", "coords": [9.416111, 51.315]}, {"name": "Löwenburg", "text": "18. yüzyıl sonlarında inşa edilen bu yapay kale kalıntısı, romantik bir şövalye anıt mezarı olarak tasarlanmıştır.", "category": "Castle", "coords": [9.40861, 51.3114]}, {"name": "Karlsaue", "text": "Fulda kıyısındaki geniş Barok park, karakteristik Limonluk binası ve yapay adalarıyla huzurlu bir alandır.", "category": "Park", "coords": [9.49333, 51.3019]}, {"name": "Kassel Grimm Dünyası", "text": "Grimm Kardeşlerin yaşamına adanmış modern müzede, ünlü masallar etkileşimli bir şekilde sunulmaktadır.", "category": "Museum", "coords": [9.48927, 51.3092]}, {"name": "Fridericianum", "text": "Avrupa ana karasındaki ilk halka açık müze binası olup günümüzde documenta sergisinin ana merkezidir.", "category": "Museum", "coords": [9.4975, 51.3136]}, {"name": "Orangerie", "text": "Karlsaue Parkı'ndaki bu Barok saray binası, günümüzde Astronomi ve Fizik Kabinesi'ne ev sahipliği yapar.", "category": "Museum", "coords": [9.500802, 51.310268]}]}
   },
   {
     id: "city-aachen",
@@ -37030,6 +31133,24 @@ export const pois: POI[] = [
                         6.081252,
                         50.781632
                   ]
+            },
+            {
+                  "name": "Aachener Tierpark Euregiozoo",
+                  "text": "Ein lokaler Tierpark in Aachen mit vielen heimischen Tieren.",
+                  "category": "family",
+                  "coords": [
+                        6.115518,
+                        50.762686
+                  ]
+            },
+            {
+                  "name": "Kneippbad",
+                  "text": "Ein klassisches Schwimmbad in Aachen für sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.083687,
+                        50.785199
+                  ]
             }
       ],
       "hu": [
@@ -37326,6 +31447,24 @@ export const pois: POI[] = [
                   "coords": [
                         6.081252,
                         50.781632
+                  ]
+            },
+            {
+                  "name": "Aachener Tierpark Euregiozoo",
+                  "text": "Helyi állatkert Aachenben sok hazai állattal.",
+                  "category": "family",
+                  "coords": [
+                        6.115518,
+                        50.762686
+                  ]
+            },
+            {
+                  "name": "Kneippbad",
+                  "text": "Klasszikus úszómedence Aachenben sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.083687,
+                        50.785199
                   ]
             }
       ],
@@ -37624,6 +31763,24 @@ export const pois: POI[] = [
                         6.081252,
                         50.781632
                   ]
+            },
+            {
+                  "name": "Aachener Tierpark Euregiozoo",
+                  "text": "O grădină zoologică locală în Aachen, cu multe animale autohtone.",
+                  "category": "family",
+                  "coords": [
+                        6.115518,
+                        50.762686
+                  ]
+            },
+            {
+                  "name": "Kneippbad",
+                  "text": "O piscină clasică în Aachen pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        6.083687,
+                        50.785199
+                  ]
             }
       ],
       "en": [
@@ -37920,6 +32077,24 @@ export const pois: POI[] = [
                   "coords": [
                         6.081252,
                         50.781632
+                  ]
+            },
+            {
+                  "name": "Aachener Tierpark Euregiozoo",
+                  "text": "A local zoo in Aachen with many native animals.",
+                  "category": "family",
+                  "coords": [
+                        6.115518,
+                        50.762686
+                  ]
+            },
+            {
+                  "name": "Kneippbad",
+                  "text": "A classic swimming pool in Aachen for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        6.083687,
+                        50.785199
                   ]
             }
       ],
@@ -38587,6 +32762,15 @@ export const pois: POI[] = [
                         10.540698,
                         52.291843
                   ]
+            },
+            {
+                  "name": "Spa and Wellness Braunschweig",
+                  "text": "Das Spa and Wellness Braunschweig in Braunschweig ist ein Ort für Wellness und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        10.526823,
+                        52.265743
+                  ]
             }
       ],
       "hu": [
@@ -39151,6 +33335,15 @@ export const pois: POI[] = [
                   "coords": [
                         10.540698,
                         52.291843
+                  ]
+            },
+            {
+                  "name": "Spa and Wellness Braunschweig",
+                  "text": "A Braunschweig városában fekvő Spa and Wellness Braunschweig egy wellness és pihenőhely.",
+                  "category": "family",
+                  "coords": [
+                        10.526823,
+                        52.265743
                   ]
             }
       ],
@@ -39717,6 +33910,15 @@ export const pois: POI[] = [
                         10.540698,
                         52.291843
                   ]
+            },
+            {
+                  "name": "Spa and Wellness Braunschweig",
+                  "text": "Spa and Wellness Braunschweig din Braunschweig este o destinație de wellness pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        10.526823,
+                        52.265743
+                  ]
             }
       ],
       "en": [
@@ -40282,6 +34484,15 @@ export const pois: POI[] = [
                         10.540698,
                         52.291843
                   ]
+            },
+            {
+                  "name": "Spa and Wellness Braunschweig",
+                  "text": "The Spa and Wellness Braunschweig in Braunschweig is a wellness destination for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        10.526823,
+                        52.265743
+                  ]
             }
       ],
       "tr": [
@@ -40368,2508 +34579,7 @@ export const pois: POI[] = [
       fr: ["La ville fut fondée par les Romains sous le nom de Castra Bonnensia au Ier siècle av. J.-C.", "Ludwig van Beethoven est né en 1770 dans la Bonngasse.", "De 1949 à 1990, Bonn fut le siège du gouvernement de la République fédérale d'Allemagne.", "L'université de Bonn a été fondée en 1818 et occupe l'ancien château résidentiel.", "Les groupes du DAX Deutsche Post et Deutsche Telekom ont leur siège social à Bonn.", "Le campus de l'ONU abrite plus de 20 organisations différentes des Nations unies."],
     
       "tr": ["Şehir, Romalılar tarafından M.Ö. 1. yüzyılda Castra Bonnensia olarak kurulmuştur.", "Ludwig van Beethoven, 1770 yılında Bonngasse'de doğmuştur.", "1949'dan 1990'a kadar Bonn, Federal Almanya Cumhuriyeti'nin hükümet merkeziydi.", "Universität Bonn 1818'de kurulmuştur ve eski ikametgah sarayını kullanmaktadır.", "Bonn'da DAX şirketleri Deutsche Post ve Deutsche Telekom'un merkezleri bulunmaktadır.", "UN-Campus, Birleşmiş Milletler'in 20'den fazla farklı kuruluşuna ev sahipliği yapmaktadır."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Beethoven-Haus",
-                  "text": "Das Geburtshaus des weltberühmten Komponisten Ludwig van Beethoven, heute ein Museum und Forschungszentrum.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.10139,
-                        50.7369
-                  ]
-            },
-            {
-                  "name": "Bonner Münster",
-                  "text": "Eine der ältesten Kirchen Deutschlands, eine romanische Basilika mit einem beeindruckenden Kreuzgang.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high",
-                  "coords": [
-                        7.099789,
-                        50.733408
-                  ]
-            },
-            {
-                  "name": "Schloss Poppelsdorf",
-                  "text": "Ein barockes Landschloss, das heute Teile der Universität und den Botanischen Garten beherbergt.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.09209,
-                        50.725
-                  ]
-            },
-            {
-                  "name": "Altes Rathaus",
-                  "text": "Ein prächtiges Rokoko-Gebäude am Marktplatz, bekannt für seine Freitreppe und historische Staatsbesuche.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.102916,
-                        50.735105
-                  ]
-            },
-            {
-                  "name": "Haus der Geschichte",
-                  "text": "Ein modernes Museum zur deutschen Zeitgeschichte seit 1945, Teil der bekannten Museumsmeile.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.11861,
-                        50.7172
-                  ]
-            },
-            {
-                  "name": "Drachenfels",
-                  "text": "Ein markanter Berg im Siebengebirge nahe Bonn, gekrönt von einer Burgruine und einem neugotischen Schloss.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        7.209722,
-                        50.665278
-                  ]
-            },
-            {
-                  "name": "Junges Theater Bonn",
-                  "text": "Ein bekanntes Theater in Bonn mit einem Fokus auf anspruchsvolle Stücke für Kinder und Jugendliche.",
-                  "category": "cultural",
-                  "coords": [
-                        7.117026,
-                        50.736548
-                  ]
-            },
-            {
-                  "name": "Contra-Kreis-Theater",
-                  "text": "Das älteste Privattheater Bonns, das für seine zentral gelegene Bühne und Unterhaltung bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        7.101191,
-                        50.733334
-                  ]
-            },
-            {
-                  "name": "Pantheon Theater",
-                  "text": "Eine renommierte Kabarett- und Kleinkunstbühne in Bonn, die vielfältige satirische Programme präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132431,
-                        50.739748
-                  ]
-            },
-            {
-                  "name": "Goldfuß-Museum",
-                  "text": "Das paläontologische Museum der Universität Bonn mit einer bedeutenden Sammlung fossiler Exponate.",
-                  "category": "museum",
-                  "coords": [
-                        7.089775,
-                        50.726568
-                  ]
-            },
-            {
-                  "name": "Poppelsdorfer Heimatmuseum",
-                  "text": "Ein lokales Museum, das die Geschichte und Kultur des Bonner Stadtteils Poppelsdorf zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        7.090288,
-                        50.721611
-                  ]
-            },
-            {
-                  "name": "Paul-Clemen-Museum",
-                  "text": "Kunsthistorisches Museum der Universität Bonn mit einer bedeutenden Sammlung von Abgüssen.",
-                  "category": "museum",
-                  "coords": [
-                        7.102253,
-                        50.732892
-                  ]
-            },
-            {
-                  "name": "Euro Theater Central",
-                  "text": "Ein privates Theater im Zentrum von Bonn, das ein vielfältiges Programm bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        7.094448,
-                        50.736044
-                  ]
-            },
-            {
-                  "name": "Rheinisches Landesmuseum",
-                  "text": "Eines der ältesten Museen Deutschlands zur Archäologie und Kulturgeschichte des Rheinlandes.",
-                  "category": "museum",
-                  "coords": [
-                        7.092654,
-                        50.732018
-                  ]
-            },
-            {
-                  "name": "Opernhaus",
-                  "text": "Das Opernhaus der Stadt Bonn am Rheinufer zeigt Opern, Ballett und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        7.106746,
-                        50.73667
-                  ]
-            },
-            {
-                  "name": "Zoologisches Forschungsmuseum Alexander Koenig",
-                  "text": "Naturkundliches Forschungsmuseum mit umfangreichen Ausstellungen zur Zoologie und Artenvielfalt.",
-                  "category": "museum",
-                  "coords": [
-                        7.113379,
-                        50.722161
-                  ]
-            },
-            {
-                  "name": "Wasserburg Lede",
-                  "text": "Eine malerische Wasserburg im Bonner Stadtteil Vilich, deren Ursprünge bis ins Mittelalter reichen.",
-                  "category": "castle",
-                  "coords": [
-                        7.129972,
-                        50.754322
-                  ]
-            },
-            {
-                  "name": "Burg Graurheindorf",
-                  "text": "Historische Burganlage in Bonn-Graurheindorf, die heute als Wohnhaus genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        7.077339,
-                        50.760801
-                  ]
-            },
-            {
-                  "name": "Heimatmuseum Beuel",
-                  "text": "Museum zur Geschichte und Brauchtumspflege des rechtsrheinischen Bonner Stadtbezirks Beuel.",
-                  "category": "museum",
-                  "coords": [
-                        7.118189,
-                        50.735368
-                  ]
-            },
-            {
-                  "name": "Dietkirche",
-                  "text": "Archäologische Fundstätte einer der ältesten Kirchen Bonns, die heute unter modernen Gebäuden liegt.",
-                  "category": "historical",
-                  "coords": [
-                        7.097696,
-                        50.743061
-                  ]
-            },
-            {
-                  "name": "Ernst-Moritz-Arndt-Haus",
-                  "text": "Das ehemalige Wohnhaus des Dichters Ernst Moritz Arndt dient heute als Zweigstelle des Stadtmuseums Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.110752,
-                        50.728892
-                  ]
-            },
-            {
-                  "name": "Arithmeum",
-                  "text": "Ein Museum der Universität Bonn über diskrete Mathematik mit einer Sammlung historischer Rechenmaschinen.",
-                  "category": "museum",
-                  "coords": [
-                        7.104835,
-                        50.730636
-                  ]
-            },
-            {
-                  "name": "Düne Tannenbusch",
-                  "text": "Ein geschütztes Binnendünengebiet im Bonner Norden, das seltene Pflanzen- und Tierarten beherbergt.",
-                  "category": "natural",
-                  "coords": [
-                        7.060594,
-                        50.744049
-                  ]
-            },
-            {
-                  "name": "Schumannhaus und Schumann-Grabmal",
-                  "text": "Das ehemalige Sterbehaus von Robert Schumann dient heute als Museum und Gedenkstätte für das Komponistenehepaar.",
-                  "category": "museum",
-                  "coords": [
-                        7.077438,
-                        50.724424
-                  ]
-            },
-            {
-                  "name": "Burg Endenich",
-                  "text": "Eine historische Burganlage im Bonner Stadtteil Endenich, die heute für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        7.072163,
-                        50.72506
-                  ]
-            },
-            {
-                  "name": "August Macke Haus",
-                  "text": "Das ehemalige Wohnhaus des expressionistischen Malers August Macke zeigt heute Ausstellungen zu seinem Leben und Werk.",
-                  "category": "museum",
-                  "coords": [
-                        7.086312,
-                        50.737457
-                  ]
-            },
-            {
-                  "name": "Frauenmuseum",
-                  "text": "Das weltweit erste Museum dieser Art widmet sich der Kunst und Kulturgeschichte aus der Perspektive von Frauen.",
-                  "category": "museum",
-                  "coords": [
-                        7.092358,
-                        50.740774
-                  ]
-            },
-            {
-                  "name": "Melbbad",
-                  "text": "Ein beliebtes Freibad am Hang des Venusbergs, das Erholung in einer weitläufigen Grünanlage bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.088409,
-                        50.715143
-                  ]
-            },
-            {
-                  "name": "Haus der Springmaus",
-                  "text": "Ein renommiertes Bonner Theater, das überregional für seine Improvisationskunst und Kabarettprogramme bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        7.074418,
-                        50.727401
-                  ]
-            },
-            {
-                  "name": "Rosenburg",
-                  "text": "Ein historistisches Gebäude in Bonn-Kessenich, das durch seine schlossähnliche Architektur auffällt.",
-                  "category": "castle",
-                  "coords": [
-                        7.102144,
-                        50.711435
-                  ]
-            },
-            {
-                  "name": "Melbtal",
-                  "text": "Ein naturbelassenes Bachtal am Venusberg, das als Naturschutzgebiet und Naherholungsraum dient.",
-                  "category": "natural",
-                  "coords": [
-                        7.08791,
-                        50.705057
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Gärtnerhaus",
-                  "text": "Ein historisches Gärtnerhaus, das heute als städtische Galerie für wechselnde Kunstausstellungen fungiert.",
-                  "category": "museum",
-                  "coords": [
-                        7.089316,
-                        50.731118
-                  ]
-            },
-            {
-                  "name": "Siegmündung",
-                  "text": "Ein ökologisch bedeutsames Naturschutzgebiet an der Mündung der Sieg in den Rhein.",
-                  "category": "natural",
-                  "coords": [
-                        7.100787,
-                        50.765605
-                  ]
-            },
-            {
-                  "name": "Siegaue",
-                  "text": "Ein Naturschutzgebiet an der Mündung der Sieg in den Rhein bei Bonn.",
-                  "category": "natural",
-                  "coords": [
-                        7.113208,
-                        50.779936
-                  ]
-            },
-            {
-                  "name": "StadtMuseum Bonn",
-                  "text": "Das Stadtmuseum dokumentiert die vielfältige Geschichte der Stadt Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.104639,
-                        50.734697
-                  ]
-            },
-            {
-                  "name": "Radiomuseum",
-                  "text": "Ein Museum in Bonn, das sich der Geschichte des Rundfunks und der Funktechnik widmet.",
-                  "category": "museum",
-                  "coords": [
-                        7.083799,
-                        50.729855
-                  ]
-            },
-            {
-                  "name": "Römischer Backofen",
-                  "text": "Archäologische Überreste eines antiken römischen Backofens in Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.102268,
-                        50.739542
-                  ]
-            },
-            {
-                  "name": "Akademisches Kunstmuseum",
-                  "text": "Ein Museum mit einer bedeutenden Sammlung antiker Skulpturenabgüsse in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.096935,
-                        50.751322
-                  ]
-            },
-            {
-                  "name": "P26",
-                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst und Kultur in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.098256,
-                        50.733731
-                  ]
-            },
-            {
-                  "name": "Römische Badeanlage",
-                  "text": "Die archäologische Ausgrabung einer antiken römischen Badeanlage in Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.10782,
-                        50.732837
-                  ]
-            },
-            {
-                  "name": "Flauschfarm - Alpakawanderungen",
-                  "text": "Ein Bauernhof in Bonn, der geführte Wanderungen mit Alpakas anbietet.",
-                  "category": "family",
-                  "coords": [
-                        7.088388,
-                        50.717986
-                  ]
-            },
-            {
-                  "name": "Bonner Kunstverein gkg Künstlerforum",
-                  "text": "Ein Zentrum für zeitgenössische Kunst und Ausstellungen lokaler Künstler in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.086532,
-                        50.739027
-                  ]
-            },
-            {
-                  "name": "Das Blaue Haus",
-                  "text": "Ein historisches Gebäude in Bonn, das heute für kulturelle Zwecke genutzt wird.",
-                  "category": "museum",
-                  "coords": [
-                        7.065608,
-                        50.745298
-                  ]
-            },
-            {
-                  "name": "Wolfsburg",
-                  "text": "Eine barocke Schlossanlage im Bonner Stadtteil Schwarzrheindorf.",
-                  "category": "castle",
-                  "coords": [
-                        7.115292,
-                        50.745215
-                  ]
-            },
-            {
-                  "name": "Alter Zoll",
-                  "text": "Eine ehemalige Bastion der Bonner Stadtbefestigung mit Blick auf den Rhein.",
-                  "category": "natural",
-                  "coords": [
-                        7.108056,
-                        50.734761
-                  ]
-            },
-            {
-                  "name": "Chlodwigplatz",
-                  "text": "Ein städtischer Platz mit Grünflächen im Bonner Stadtteil Kessenich.",
-                  "category": "park",
-                  "coords": [
-                        7.089198,
-                        50.743385
-                  ]
-            },
-            {
-                  "name": "Hofgarten",
-                  "text": "Die große Parkanlage vor dem Hauptgebäude der Universität Bonn.",
-                  "category": "park",
-                  "coords": [
-                        7.104495,
-                        50.732605
-                  ]
-            },
-            {
-                  "name": "Palais Schaumburg",
-                  "text": "Ein spätklassizistisches Gebäude, das als zweiter Dienstsitz des Bundeskanzlers dient.",
-                  "category": "historical",
-                  "coords": [
-                        7.11731,
-                        50.72031
-                  ]
-            },
-            {
-                  "name": "Mühlenstumpf (Turmruine)",
-                  "text": "Die historische Turmruine einer ehemaligen Windmühle im Bonner Stadtteil Auerberg.",
-                  "category": "historical",
-                  "coords": [
-                        7.081383,
-                        50.756214
-                  ]
-            },
-            {
-                  "name": "Rotter See",
-                  "text": "Der Rotter See in Bonn bietet malerische Aussichten und eine ruhige Umgebung für entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        7.113196,
-                        50.808513
-                  ]
-            },
-            {
-                  "name": "Eschmarer See",
-                  "text": "Der Eschmarer See in Bonn ist ein lokaler See, an dem Besucher die Natur und das Wasser beim Gehen genießen können.",
-                  "category": "natural",
-                  "coords": [
-                        7.090832,
-                        50.797525
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Der Löschteich ist ein kleiner See in Bonn, der einen friedlichen Ort für gemütliche Naturbeobachtungen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.147025,
-                        50.762266
-                  ]
-            },
-            {
-                  "name": "Sieglarer See",
-                  "text": "Der Sieglarer See ist ein schöner See in Bonn, der sich ideal für Spaziergänge an seinen Ufern eignet.",
-                  "category": "natural",
-                  "coords": [
-                        7.139308,
-                        50.78971
-                  ]
-            },
-            {
-                  "name": "Auensee",
-                  "text": "Der Auensee in Bonn ist ein See, der eine entspannte Atmosphäre für Erholung und Spaziergänge im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.143245,
-                        50.713863
-                  ]
-            },
-            {
-                  "name": "Hirschweiher",
-                  "text": "Der Hirschweiher ist ein ruhiger See in Bonn, der sich perfekt für leise Spaziergänge am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        7.083209,
-                        50.668053
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kinderklinik",
-                  "text": "Der Spielplatz Kinderklinik ist ein einladender Spielplatz in Bonn, der einen schönen Ort für Familien bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.114926,
-                        50.724999
-                  ]
-            },
-            {
-                  "name": "Schulhof Spielplatz",
-                  "text": "Der Schulhof Spielplatz in Bonn eignet sich hervorragend für aktives Spielen und kleine Familientreffen am Nachmittag.",
-                  "category": "family",
-                  "coords": [
-                        7.106966,
-                        50.718431
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.",
-                  "text": "Dieser Spielplatz in der Theodor-Brinkmann-/Sebastianstraße in Bonn bietet Familien ein schönes Naherholungsgebiet.",
-                  "category": "family",
-                  "coords": [
-                        7.080811,
-                        50.725008
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stockenstraße/Hofgarten",
-                  "text": "Der Spielplatz Stockenstraße/Hofgarten in Bonn ermöglicht es Familien, Stadtspaziergänge mit einer Spielpause zu verbinden.",
-                  "category": "family",
-                  "coords": [
-                        7.105459,
-                        50.733199
-                  ]
-            },
-            {
-                  "name": "Roonplatz",
-                  "text": "Der Roonplatz in Bonn ist ein freundlicher Bereich, der Kindern viel Platz zum Spielen mit ihren Familien gibt.",
-                  "category": "family",
-                  "coords": [
-                        7.099001,
-                        50.725045
-                  ]
-            },
-            {
-                  "name": "Gerhardsplatz",
-                  "text": "Der Spielplatz am Gerhardsplatz in Bonn ist ein beliebter Treffpunkt für Familien aus der Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        7.081992,
-                        50.743738
-                  ]
-            },
-            {
-                  "name": "Spielplatz St. Elisabeth-Kirche",
-                  "text": "Der Spielplatz St. Elisabeth-Kirche in Bonn ist ein idealer Ort für unterhaltsame Familienaktivitäten im Freien.",
-                  "category": "family",
-                  "coords": [
-                        7.10774,
-                        50.722923
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulusstraße",
-                  "text": "Der Spielplatz Paulusstraße ist ein gemütlicher Ort in Bonn, der für das Vergnügen von Kindern und Familien eingerichtet wurde.",
-                  "category": "family",
-                  "coords": [
-                        7.129503,
-                        50.740083
-                  ]
-            },
-            {
-                  "name": "Veedelsgarten",
-                  "text": "Der Veedelsgarten in Bonn ist ein Spielplatz, der Familien und Kindern viel Platz zum Toben bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.092274,
-                        50.737984
-                  ]
-            },
-            {
-                  "name": "Frankenbadplatz",
-                  "text": "Der Frankenbadplatz ist ein lokaler Spielplatz in Bonn, auf dem Kinder an der frischen Luft spielen können.",
-                  "category": "family",
-                  "coords": [
-                        7.089558,
-                        50.739178
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Wohnanlage Ledenhof",
-                  "text": "Der Kinderspielplatz der Wohnanlage Ledenhof in Bonn bietet einen sicheren und schönen Spielbereich für Familien.",
-                  "category": "family",
-                  "coords": [
-                        7.124798,
-                        50.752673
-                  ]
-            },
-            {
-                  "name": "Spielplatz Brüdergasse",
-                  "text": "Der Spielplatz Brüdergasse ist ein familienfreundlicher Spielplatz in der Stadt Bonn.",
-                  "category": "family",
-                  "coords": [
-                        7.103356,
-                        50.736203
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Beethoven-ház",
-                  "text": "A világhírű zeneszerző, Ludwig van Beethoven szülőháza, amely ma múzeumnak és kutatóközpontnak ad otthont.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.10139,
-                        50.7369
-                  ]
-            },
-            {
-                  "name": "Bonni székesegyház",
-                  "text": "Németország egyik legrégebbi temploma, román stílusú bazilika lenyűgöző kerengővel a belvárosban.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high",
-                  "coords": [
-                        7.099789,
-                        50.733408
-                  ]
-            },
-            {
-                  "name": "Poppelsdorf-kastély",
-                  "text": "Barokk stílusú kastély, amely ma az egyetem részeként működik, mellette található a botanikus kert.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.09209,
-                        50.725
-                  ]
-            },
-            {
-                  "name": "Régi városháza",
-                  "text": "Díszes rokokó épület a piactéren, híres külső lépcsősoráról és a történelmi állami látogatásokról.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.102916,
-                        50.735105
-                  ]
-            },
-            {
-                  "name": "A történelem háza",
-                  "text": "Modern múzeum, amely Németország 1945 utáni történelmét mutatja be interaktív kiállításokkal.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.11861,
-                        50.7172
-                  ]
-            },
-            {
-                  "name": "Drachenfels",
-                  "text": "Jellegzetes hegy a Bonn melletti Siebengebirge területén, várrommal és egy neogótikus kastéllyal.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        7.209722,
-                        50.665278
-                  ]
-            },
-            {
-                  "name": "Junges Theater Bonn",
-                  "text": "Ismert bonni színház, amely gyermekeknek és fiataloknak szóló igényes darabokra összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        7.117026,
-                        50.736548
-                  ]
-            },
-            {
-                  "name": "Contra-Kreis-Theater",
-                  "text": "Bonn legrégebbi magánszínháza, amely központi elhelyezkedéséről és szórakoztató műsorairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        7.101191,
-                        50.733334
-                  ]
-            },
-            {
-                  "name": "Pantheon Theater",
-                  "text": "Neves bonni kabaré- és kisszínpad, amely változatos szatirikus műsorokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132431,
-                        50.739748
-                  ]
-            },
-            {
-                  "name": "Goldfuß-Museum",
-                  "text": "A Bonni Egyetem őslénytani múzeuma, amely jelentős fosszilis gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        7.089775,
-                        50.726568
-                  ]
-            },
-            {
-                  "name": "Poppelsdorfer Heimatmuseum",
-                  "text": "Helytörténeti múzeum, amely Bonn Poppelsdorf negyedének múltját és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.090288,
-                        50.721611
-                  ]
-            },
-            {
-                  "name": "Paul-Clemen-Museum",
-                  "text": "A Bonni Egyetem művészettörténeti múzeuma jelentős gipszmásolat-gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        7.102253,
-                        50.732892
-                  ]
-            },
-            {
-                  "name": "Euro Theater Central",
-                  "text": "Magánszínház Bonn központjában, amely változatos előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        7.094448,
-                        50.736044
-                  ]
-            },
-            {
-                  "name": "Rheinisches Landesmuseum",
-                  "text": "Németország egyik legrégebbi múzeuma, amely a Rajna-vidék régészetét és kultúrtörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.092654,
-                        50.732018
-                  ]
-            },
-            {
-                  "name": "Opernhaus",
-                  "text": "Bonn város operaháza a Rajna partján, ahol operákat, baletteket és koncerteket rendeznek.",
-                  "category": "cultural",
-                  "coords": [
-                        7.106746,
-                        50.73667
-                  ]
-            },
-            {
-                  "name": "Museum Alexander Koenig",
-                  "text": "Természettudományi kutatómúzeum kiterjedt zoológiai és biológiai sokféleséggel kapcsolatos kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        7.113379,
-                        50.722161
-                  ]
-            },
-            {
-                  "name": "Wasserburg Lede",
-                  "text": "Festői vízi vár Bonn Vilich negyedében, amelynek eredete a középkorig nyúlik vissza.",
-                  "category": "castle",
-                  "coords": [
-                        7.129972,
-                        50.754322
-                  ]
-            },
-            {
-                  "name": "Burg Graurheindorf",
-                  "text": "Történelmi várkastély Bonn-Graurheindorfban, amely ma lakóházként szolgál.",
-                  "category": "castle",
-                  "coords": [
-                        7.077339,
-                        50.760801
-                  ]
-            },
-            {
-                  "name": "Heimatmuseum Beuel",
-                  "text": "Múzeum Bonn Beuel kerületének történetéről és hagyományainak ápolásáról a Rajna jobb partján.",
-                  "category": "museum",
-                  "coords": [
-                        7.118189,
-                        50.735368
-                  ]
-            },
-            {
-                  "name": "Dietkirche",
-                  "text": "Bonn egyik legrégebbi templomának régészeti lelőhelye, amely ma modern épületek alatt található.",
-                  "category": "historical",
-                  "coords": [
-                        7.097696,
-                        50.743061
-                  ]
-            },
-            {
-                  "name": "Ernst-Moritz-Arndt-Haus",
-                  "text": "Ernst Moritz Arndt költő egykori lakóháza, amely ma a Bonni Városi Múzeum egyik részlege.",
-                  "category": "museum",
-                  "coords": [
-                        7.110752,
-                        50.728892
-                  ]
-            },
-            {
-                  "name": "Arithmeum",
-                  "text": "A Bonni Egyetem diskrét matematikával foglalkozó múzeuma történelmi számológép-gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        7.104835,
-                        50.730636
-                  ]
-            },
-            {
-                  "name": "Düne Tannenbusch",
-                  "text": "Védett belvidéki dűne Bonn északi részén, amely ritka növény- és állatfajok élőhelye.",
-                  "category": "natural",
-                  "coords": [
-                        7.060594,
-                        50.744049
-                  ]
-            },
-            {
-                  "name": "Schumannhaus und Schumann-Grabmal",
-                  "text": "Robert Schumann utolsó lakóhelye, amely ma a zeneszerző házaspár életművét bemutató múzeum és emlékhely.",
-                  "category": "museum",
-                  "coords": [
-                        7.077438,
-                        50.724424
-                  ]
-            },
-            {
-                  "name": "Burg Endenich",
-                  "text": "Bonn Endenich negyedében található történelmi várkastély, amely ma kulturális rendezvényeknek ad otthont.",
-                  "category": "castle",
-                  "coords": [
-                        7.072163,
-                        50.72506
-                  ]
-            },
-            {
-                  "name": "August Macke Haus",
-                  "text": "August Macke expresszionista festő egykori lakóháza, amely ma a művész életét és munkásságát bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        7.086312,
-                        50.737457
-                  ]
-            },
-            {
-                  "name": "Frauenmuseum",
-                  "text": "A világ első ilyen típusú múzeuma, amely a művészetet és a kultúrtörténetet női szemszögből mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.092358,
-                        50.740774
-                  ]
-            },
-            {
-                  "name": "Melbbad",
-                  "text": "Népszerű szabadtéri strand a Venusberg oldalában, amely tágas zöldövezetben kínál kikapcsolódást.",
-                  "category": "family",
-                  "coords": [
-                        7.088409,
-                        50.715143
-                  ]
-            },
-            {
-                  "name": "Haus der Springmaus",
-                  "text": "Népszerű bonni színház, amely improvizációs előadásairól és kabaréprogramjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        7.074418,
-                        50.727401
-                  ]
-            },
-            {
-                  "name": "Rosenburg",
-                  "text": "Bonn Kessenich negyedében álló historizáló épület, amely kastélyszerű építészetével tűnik ki.",
-                  "category": "castle",
-                  "coords": [
-                        7.102144,
-                        50.711435
-                  ]
-            },
-            {
-                  "name": "Melbtal",
-                  "text": "A Venusberg lábánál fekvő természetközeli patakvölgy, amely természetvédelmi terület és kirándulóhely.",
-                  "category": "natural",
-                  "coords": [
-                        7.08791,
-                        50.705057
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Gärtnerhaus",
-                  "text": "Történelmi kertészház, amely ma városi galériaként időszaki művészeti kiállításoknak ad helyet.",
-                  "category": "museum",
-                  "coords": [
-                        7.089316,
-                        50.731118
-                  ]
-            },
-            {
-                  "name": "Siegmündung",
-                  "text": "Ökológiailag jelentős természetvédelmi terület a Sieg folyó Rajnába torkollásánál.",
-                  "category": "natural",
-                  "coords": [
-                        7.100787,
-                        50.765605
-                  ]
-            },
-            {
-                  "name": "Siegaue",
-                  "text": "Természetvédelmi terület a Sieg folyó torkolatánál, Bonn közelében.",
-                  "category": "natural",
-                  "coords": [
-                        7.113208,
-                        50.779936
-                  ]
-            },
-            {
-                  "name": "StadtMuseum Bonn",
-                  "text": "A városi múzeum Bonn gazdag történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.104639,
-                        50.734697
-                  ]
-            },
-            {
-                  "name": "Radiomuseum",
-                  "text": "A rádiózás és a rádiótechnika történetének szentelt múzeum Bonnban.",
-                  "category": "museum",
-                  "coords": [
-                        7.083799,
-                        50.729855
-                  ]
-            },
-            {
-                  "name": "Römischer Backofen",
-                  "text": "Egy ókori római sütőkemence régészeti maradványai Bonnban.",
-                  "category": "historical",
-                  "coords": [
-                        7.102268,
-                        50.739542
-                  ]
-            },
-            {
-                  "name": "Akademisches Kunstmuseum",
-                  "text": "Antik szobormásolatok jelentős gyűjteményével rendelkező múzeum Bonnban.",
-                  "category": "museum",
-                  "coords": [
-                        7.096935,
-                        50.751322
-                  ]
-            },
-            {
-                  "name": "P26",
-                  "text": "Kortárs művészeti és kulturális kiállítótér Bonnban.",
-                  "category": "museum",
-                  "coords": [
-                        7.098256,
-                        50.733731
-                  ]
-            },
-            {
-                  "name": "Römische Badeanlage",
-                  "text": "Egy ókori római fürdő régészeti ásatása Bonnban.",
-                  "category": "historical",
-                  "coords": [
-                        7.10782,
-                        50.732837
-                  ]
-            },
-            {
-                  "name": "Flauschfarm - Alpakawanderungen",
-                  "text": "Egy bonni farm, amely vezetett sétákat kínál alpakákkal.",
-                  "category": "family",
-                  "coords": [
-                        7.088388,
-                        50.717986
-                  ]
-            },
-            {
-                  "name": "Bonner Kunstverein gkg Künstlerforum",
-                  "text": "Kortárs művészeti központ és kiállítótér helyi művészek számára Bonnban.",
-                  "category": "museum",
-                  "coords": [
-                        7.086532,
-                        50.739027
-                  ]
-            },
-            {
-                  "name": "Das Blaue Haus",
-                  "text": "Történelmi épület Bonnban, amelyet ma kulturális célokra használnak.",
-                  "category": "museum",
-                  "coords": [
-                        7.065608,
-                        50.745298
-                  ]
-            },
-            {
-                  "name": "Wolfsburg",
-                  "text": "Barokk kastélyépület Bonn Schwarzrheindorf negyedében.",
-                  "category": "castle",
-                  "coords": [
-                        7.115292,
-                        50.745215
-                  ]
-            },
-            {
-                  "name": "Alter Zoll",
-                  "text": "A bonni városi erődítmény egykori bástyája, kilátással a Rajnára.",
-                  "category": "natural",
-                  "coords": [
-                        7.108056,
-                        50.734761
-                  ]
-            },
-            {
-                  "name": "Chlodwigplatz",
-                  "text": "Városi tér zöldterületekkel Bonn Kessenich negyedében.",
-                  "category": "park",
-                  "coords": [
-                        7.089198,
-                        50.743385
-                  ]
-            },
-            {
-                  "name": "Hofgarten",
-                  "text": "A Bonni Egyetem főépülete előtti tágas parkterület.",
-                  "category": "park",
-                  "coords": [
-                        7.104495,
-                        50.732605
-                  ]
-            },
-            {
-                  "name": "Palais Schaumburg",
-                  "text": "Késő klasszicista épület, amely a német szövetségi kancellár második székhelye.",
-                  "category": "historical",
-                  "coords": [
-                        7.11731,
-                        50.72031
-                  ]
-            },
-            {
-                  "name": "Mühlenstumpf (Turmruine)",
-                  "text": "Egy egykori szélmalom történelmi toronymaradványa Bonn Auerberg negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        7.081383,
-                        50.756214
-                  ]
-            },
-            {
-                  "name": "Rotter See",
-                  "text": "A bonni Rotter See festői kilátást és nyugodt környezetet kínál a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.113196,
-                        50.808513
-                  ]
-            },
-            {
-                  "name": "Eschmarer See",
-                  "text": "A bonni Eschmarer See egy helyi tó, ahol a látogatók séta közben élvezhetik a természetet és a vizet.",
-                  "category": "natural",
-                  "coords": [
-                        7.090832,
-                        50.797525
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "A Löschteich egy kis tó Bonnban, amely békés helyet kínál a kényelmes természetmegfigyeléshez.",
-                  "category": "natural",
-                  "coords": [
-                        7.147025,
-                        50.762266
-                  ]
-            },
-            {
-                  "name": "Sieglarer See",
-                  "text": "A Sieglarer See egy szép tó Bonnban, amely ideális a part menti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.139308,
-                        50.78971
-                  ]
-            },
-            {
-                  "name": "Auensee",
-                  "text": "A bonni Auensee egy tó, amely pihentető légkört kínál a szabadtéri kikapcsolódáshoz és sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.143245,
-                        50.713863
-                  ]
-            },
-            {
-                  "name": "Hirschweiher",
-                  "text": "A Hirschweiher egy csendes tó Bonnban, amely tökéletes a csendes vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.083209,
-                        50.668053
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kinderklinik",
-                  "text": "A Spielplatz Kinderklinik egy barátságos játszótér Bonnban, amely szép helyet kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        7.114926,
-                        50.724999
-                  ]
-            },
-            {
-                  "name": "Schulhof Spielplatz",
-                  "text": "A bonni Schulhof Spielplatz kiválóan alkalmas aktív játékra és délutáni kis családi összejövetelekre.",
-                  "category": "family",
-                  "coords": [
-                        7.106966,
-                        50.718431
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.",
-                  "text": "Ez a bonni Theodor-Brinkmann-/Sebastianstraße menti játszótér szép rekreációs területet kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        7.080811,
-                        50.725008
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stockenstraße/Hofgarten",
-                  "text": "A bonni Spielplatz Stockenstraße/Hofgarten lehetővé teszi a családok számára, hogy a városi sétákat egy kis játékidővel kössék össze.",
-                  "category": "family",
-                  "coords": [
-                        7.105459,
-                        50.733199
-                  ]
-            },
-            {
-                  "name": "Roonplatz",
-                  "text": "A bonni Roonplatz egy barátságos terület, amely sok helyet biztosít a gyerekeknek, hogy a családjukkal játsszanak.",
-                  "category": "family",
-                  "coords": [
-                        7.099001,
-                        50.725045
-                  ]
-            },
-            {
-                  "name": "Gerhardsplatz",
-                  "text": "A bonni Gerhardsplatz játszótere népszerű találkozóhely a környékbeli családok számára.",
-                  "category": "family",
-                  "coords": [
-                        7.081992,
-                        50.743738
-                  ]
-            },
-            {
-                  "name": "Spielplatz St. Elisabeth-Kirche",
-                  "text": "A bonni Spielplatz St. Elisabeth-Kirche ideális hely a szórakoztató szabadtéri családi programokhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.10774,
-                        50.722923
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulusstraße",
-                  "text": "A Spielplatz Paulusstraße egy hangulatos hely Bonnban, amelyet a gyerekek és családok szórakoztatására hoztak létre.",
-                  "category": "family",
-                  "coords": [
-                        7.129503,
-                        50.740083
-                  ]
-            },
-            {
-                  "name": "Veedelsgarten",
-                  "text": "A bonni Veedelsgarten egy játszótér, amely szabadtéri szórakozást kínál a családok és a gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        7.092274,
-                        50.737984
-                  ]
-            },
-            {
-                  "name": "Frankenbadplatz",
-                  "text": "A Frankenbadplatz egy helyi játszótér Bonnban, ahol a gyerekek élvezhetik a szabadtéri tevékenységeket.",
-                  "category": "family",
-                  "coords": [
-                        7.089558,
-                        50.739178
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Wohnanlage Ledenhof",
-                  "text": "A Kinderspielplatz Wohnanlage Ledenhof egy lakóövezeti játszótér Bonnban, amely biztonságos játékteret biztosít a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.124798,
-                        50.752673
-                  ]
-            },
-            {
-                  "name": "Spielplatz Brüdergasse",
-                  "text": "A Spielplatz Brüdergasse egy családbarát játszótér Bonn városában.",
-                  "category": "family",
-                  "coords": [
-                        7.103356,
-                        50.736203
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Casa Beethoven",
-                  "text": "Casa natală a celebrului compozitor Ludwig van Beethoven, transformată astăzi în muzeu și centru de cercetare.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.10139,
-                        50.7369
-                  ]
-            },
-            {
-                  "name": "Domul din Bonn",
-                  "text": "Una dintre cele mai vechi biserici din Germania, o basilică romanică impunătoare cu o mănăstire superbă.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high",
-                  "coords": [
-                        7.099789,
-                        50.733408
-                  ]
-            },
-            {
-                  "name": "Castelul Poppelsdorf",
-                  "text": "Un castel baroc care găzduiește astăzi secții ale universității și grădina botanică a orașului.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.09209,
-                        50.725
-                  ]
-            },
-            {
-                  "name": "Vechea Primărie",
-                  "text": "O clădire splendidă în stil rococo situată în piața centrală, renumită pentru scara sa exterioară elegantă.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.102916,
-                        50.735105
-                  ]
-            },
-            {
-                  "name": "Casa Istoriei",
-                  "text": "Un muzeu modern dedicat istoriei germane de după 1945, oferind o perspectivă captivantă asupra trecutului recent.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.11861,
-                        50.7172
-                  ]
-            },
-            {
-                  "name": "Drachenfels",
-                  "text": "Un munte emblematic în apropiere de Bonn, oferind ruinele unei cetăți medievale și vederi panoramice asupra Rinului.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        7.209722,
-                        50.665278
-                  ]
-            },
-            {
-                  "name": "Junges Theater Bonn",
-                  "text": "Un teatru cunoscut din Bonn, axat pe piese sofisticate pentru copii și tineri.",
-                  "category": "cultural",
-                  "coords": [
-                        7.117026,
-                        50.736548
-                  ]
-            },
-            {
-                  "name": "Contra-Kreis-Theater",
-                  "text": "Cel mai vechi teatru privat din Bonn, cunoscut pentru scena sa centrală și spectacolele de divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        7.101191,
-                        50.733334
-                  ]
-            },
-            {
-                  "name": "Pantheon Theater",
-                  "text": "O scenă renumită de cabaret din Bonn, care prezintă programe satirice diverse.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132431,
-                        50.739748
-                  ]
-            },
-            {
-                  "name": "Goldfuß-Museum",
-                  "text": "Muzeul paleontologic al Universității din Bonn, care deține o colecție importantă de exponate fosile.",
-                  "category": "museum",
-                  "coords": [
-                        7.089775,
-                        50.726568
-                  ]
-            },
-            {
-                  "name": "Poppelsdorfer Heimatmuseum",
-                  "text": "Un muzeu local care prezintă istoria și cultura districtului Poppelsdorf din Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.090288,
-                        50.721611
-                  ]
-            },
-            {
-                  "name": "Paul-Clemen-Museum",
-                  "text": "Muzeul de istorie a artei al Universității din Bonn, cu o colecție importantă de mulaje.",
-                  "category": "museum",
-                  "coords": [
-                        7.102253,
-                        50.732892
-                  ]
-            },
-            {
-                  "name": "Euro Theater Central",
-                  "text": "Un teatru privat din centrul orașului Bonn, care oferă un program diversificat.",
-                  "category": "cultural",
-                  "coords": [
-                        7.094448,
-                        50.736044
-                  ]
-            },
-            {
-                  "name": "Rheinisches Landesmuseum",
-                  "text": "Unul dintre cele mai vechi muzee din Germania dedicat arheologiei și istoriei culturale a Renaniei.",
-                  "category": "museum",
-                  "coords": [
-                        7.092654,
-                        50.732018
-                  ]
-            },
-            {
-                  "name": "Opernhaus",
-                  "text": "Opera din Bonn, situată pe malul Rinului, găzduiește spectacole de operă, balet și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        7.106746,
-                        50.73667
-                  ]
-            },
-            {
-                  "name": "Muzeul de științe naturale Koenig",
-                  "text": "Muzeu de cercetare în istoria naturală cu expoziții extinse despre zoologie și biodiversitate.",
-                  "category": "museum",
-                  "coords": [
-                        7.113379,
-                        50.722161
-                  ]
-            },
-            {
-                  "name": "Wasserburg Lede",
-                  "text": "Un castel cu șanțuri pitoresc în districtul Vilich din Bonn, cu origini medievale.",
-                  "category": "castle",
-                  "coords": [
-                        7.129972,
-                        50.754322
-                  ]
-            },
-            {
-                  "name": "Burg Graurheindorf",
-                  "text": "O fortăreață istorică în Bonn-Graurheindorf, folosită în prezent ca reședință privată.",
-                  "category": "castle",
-                  "coords": [
-                        7.077339,
-                        50.760801
-                  ]
-            },
-            {
-                  "name": "Heimatmuseum Beuel",
-                  "text": "Muzeu dedicat istoriei și tradițiilor districtului Beuel din Bonn, situat pe malul drept al Rinului.",
-                  "category": "museum",
-                  "coords": [
-                        7.118189,
-                        50.735368
-                  ]
-            },
-            {
-                  "name": "Dietkirche",
-                  "text": "Sit arheologic al uneia dintre cele mai vechi biserici din Bonn, situat în prezent sub clădiri moderne.",
-                  "category": "historical",
-                  "coords": [
-                        7.097696,
-                        50.743061
-                  ]
-            },
-            {
-                  "name": "Ernst-Moritz-Arndt-Haus",
-                  "text": "Fosta reședință a poetului Ernst Moritz Arndt servește acum ca filială a Muzeului Orașului Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.110752,
-                        50.728892
-                  ]
-            },
-            {
-                  "name": "Arithmeum",
-                  "text": "Un muzeu al Universității din Bonn despre matematică discretă, cu o colecție de mașini de calcul istorice.",
-                  "category": "museum",
-                  "coords": [
-                        7.104835,
-                        50.730636
-                  ]
-            },
-            {
-                  "name": "Düne Tannenbusch",
-                  "text": "O rezervație naturală de dune interioare în nordul orașului Bonn, care adăpostește specii rare de plante și animale.",
-                  "category": "natural",
-                  "coords": [
-                        7.060594,
-                        50.744049
-                  ]
-            },
-            {
-                  "name": "Schumannhaus und Schumann-Grabmal",
-                  "text": "Fosta casă a lui Robert Schumann, funcționând astăzi ca muzeu și loc de comemorare pentru celebrul cuplu de compozitori.",
-                  "category": "museum",
-                  "coords": [
-                        7.077438,
-                        50.724424
-                  ]
-            },
-            {
-                  "name": "Burg Endenich",
-                  "text": "Un castel istoric din districtul Endenich al orașului Bonn, utilizat astăzi pentru evenimente culturale.",
-                  "category": "castle",
-                  "coords": [
-                        7.072163,
-                        50.72506
-                  ]
-            },
-            {
-                  "name": "August Macke Haus",
-                  "text": "Fosta locuință a pictorului expresionist August Macke, care prezintă astăzi expoziții despre viața și opera sa.",
-                  "category": "museum",
-                  "coords": [
-                        7.086312,
-                        50.737457
-                  ]
-            },
-            {
-                  "name": "Frauenmuseum",
-                  "text": "Primul muzeu de acest gen din lume, dedicat artei și istoriei culturale din perspectivă feminină.",
-                  "category": "museum",
-                  "coords": [
-                        7.092358,
-                        50.740774
-                  ]
-            },
-            {
-                  "name": "Melbbad",
-                  "text": "Un ștrand în aer liber popular situat pe pantele Venusberg, oferind relaxare într-o zonă verde vastă.",
-                  "category": "family",
-                  "coords": [
-                        7.088409,
-                        50.715143
-                  ]
-            },
-            {
-                  "name": "Haus der Springmaus",
-                  "text": "Un teatru renumit din Bonn, cunoscut pentru spectacolele sale de improvizație și programele de cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        7.074418,
-                        50.727401
-                  ]
-            },
-            {
-                  "name": "Rosenburg",
-                  "text": "O clădire în stil historist din Bonn-Kessenich, remarcabilă prin arhitectura sa asemănătoare unui castel.",
-                  "category": "castle",
-                  "coords": [
-                        7.102144,
-                        50.711435
-                  ]
-            },
-            {
-                  "name": "Melbtal",
-                  "text": "O vale împădurită pe Venusberg, care servește ca rezervație naturală și zonă de recreere locală.",
-                  "category": "natural",
-                  "coords": [
-                        7.08791,
-                        50.705057
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Gärtnerhaus",
-                  "text": "O casă istorică a grădinarului, care funcționează astăzi ca galerie municipală pentru expoziții de artă temporare.",
-                  "category": "museum",
-                  "coords": [
-                        7.089316,
-                        50.731118
-                  ]
-            },
-            {
-                  "name": "Siegmündung",
-                  "text": "O rezervație naturală de importanță ecologică la vărsarea râului Sieg în Rin.",
-                  "category": "natural",
-                  "coords": [
-                        7.100787,
-                        50.765605
-                  ]
-            },
-            {
-                  "name": "Siegaue",
-                  "text": "O rezervație naturală situată la gura de vărsare a râului Sieg în Rin, lângă Bonn.",
-                  "category": "natural",
-                  "coords": [
-                        7.113208,
-                        50.779936
-                  ]
-            },
-            {
-                  "name": "StadtMuseum Bonn",
-                  "text": "Muzeul orașului documentează istoria diversă a Bonnului.",
-                  "category": "museum",
-                  "coords": [
-                        7.104639,
-                        50.734697
-                  ]
-            },
-            {
-                  "name": "Radiomuseum",
-                  "text": "Un muzeu din Bonn dedicat istoriei radiodifuziunii și tehnologiei radio.",
-                  "category": "museum",
-                  "coords": [
-                        7.083799,
-                        50.729855
-                  ]
-            },
-            {
-                  "name": "Römischer Backofen",
-                  "text": "Vestigii arheologice ale unui cuptor roman antic în Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.102268,
-                        50.739542
-                  ]
-            },
-            {
-                  "name": "Akademisches Kunstmuseum",
-                  "text": "Un muzeu cu o colecție importantă de mulaje de sculpturi antice în Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.096935,
-                        50.751322
-                  ]
-            },
-            {
-                  "name": "P26",
-                  "text": "Un spațiu expozițional pentru artă și cultură contemporană în Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.098256,
-                        50.733731
-                  ]
-            },
-            {
-                  "name": "Römische Badeanlage",
-                  "text": "Săpăturile arheologice ale unei băi romane antice în Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.10782,
-                        50.732837
-                  ]
-            },
-            {
-                  "name": "Flauschfarm - Alpakawanderungen",
-                  "text": "O fermă din Bonn care oferă drumeții ghidate cu alpaca.",
-                  "category": "family",
-                  "coords": [
-                        7.088388,
-                        50.717986
-                  ]
-            },
-            {
-                  "name": "Bonner Kunstverein gkg Künstlerforum",
-                  "text": "Un centru pentru artă contemporană și expoziții ale artiștilor locali din Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.086532,
-                        50.739027
-                  ]
-            },
-            {
-                  "name": "Das Blaue Haus",
-                  "text": "O clădire istorică din Bonn, folosită astăzi în scopuri culturale.",
-                  "category": "museum",
-                  "coords": [
-                        7.065608,
-                        50.745298
-                  ]
-            },
-            {
-                  "name": "Wolfsburg",
-                  "text": "Un castel baroc situat în cartierul Schwarzrheindorf din Bonn.",
-                  "category": "castle",
-                  "coords": [
-                        7.115292,
-                        50.745215
-                  ]
-            },
-            {
-                  "name": "Alter Zoll",
-                  "text": "O fostă bastion din fortificațiile orașului Bonn, oferind vedere spre Rin.",
-                  "category": "natural",
-                  "coords": [
-                        7.108056,
-                        50.734761
-                  ]
-            },
-            {
-                  "name": "Chlodwigplatz",
-                  "text": "O piață urbană cu spații verzi în cartierul Kessenich din Bonn.",
-                  "category": "park",
-                  "coords": [
-                        7.089198,
-                        50.743385
-                  ]
-            },
-            {
-                  "name": "Hofgarten",
-                  "text": "Parcul mare din fața clădirii principale a Universității din Bonn.",
-                  "category": "park",
-                  "coords": [
-                        7.104495,
-                        50.732605
-                  ]
-            },
-            {
-                  "name": "Palais Schaumburg",
-                  "text": "O clădire neoclasică târzie care servește drept a doua reședință a cancelarului federal.",
-                  "category": "historical",
-                  "coords": [
-                        7.11731,
-                        50.72031
-                  ]
-            },
-            {
-                  "name": "Mühlenstumpf (Turmruine)",
-                  "text": "Ruina istorică a turnului unei foste mori de vânt din cartierul Auerberg din Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.081383,
-                        50.756214
-                  ]
-            },
-            {
-                  "name": "Rotter See",
-                  "text": "Rotter See din Bonn oferă priveliști pitorești și un mediu liniștit pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        7.113196,
-                        50.808513
-                  ]
-            },
-            {
-                  "name": "Eschmarer See",
-                  "text": "Eschmarer See din Bonn este un lac local unde vizitatorii se pot bucura de natură și de apă în timpul plimbărilor.",
-                  "category": "natural",
-                  "coords": [
-                        7.090832,
-                        50.797525
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Löschteich este un lac mic din Bonn, care oferă un loc liniștit pentru observarea relaxantă a naturii.",
-                  "category": "natural",
-                  "coords": [
-                        7.147025,
-                        50.762266
-                  ]
-            },
-            {
-                  "name": "Sieglarer See",
-                  "text": "Sieglarer See este un lac frumos din Bonn, ideal pentru plimbări pe malurile sale.",
-                  "category": "natural",
-                  "coords": [
-                        7.139308,
-                        50.78971
-                  ]
-            },
-            {
-                  "name": "Auensee",
-                  "text": "Auensee din Bonn este un lac care oferă o atmosferă relaxantă pentru recreere și plimbări în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        7.143245,
-                        50.713863
-                  ]
-            },
-            {
-                  "name": "Hirschweiher",
-                  "text": "Hirschweiher este un lac liniștit din Bonn, perfect pentru plimbări tăcute pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        7.083209,
-                        50.668053
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kinderklinik",
-                  "text": "Spielplatz Kinderklinik este un loc de joacă primitor din Bonn, oferind un loc frumos pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        7.114926,
-                        50.724999
-                  ]
-            },
-            {
-                  "name": "Schulhof Spielplatz",
-                  "text": "Schulhof Spielplatz din Bonn este excelent pentru joacă activă și mici întâlniri de familie după-amiaza.",
-                  "category": "family",
-                  "coords": [
-                        7.106966,
-                        50.718431
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.",
-                  "text": "Acest loc de joacă de pe Theodor-Brinkmann-/Sebastianstraße din Bonn oferă familiilor o zonă frumoasă de recreere.",
-                  "category": "family",
-                  "coords": [
-                        7.080811,
-                        50.725008
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stockenstraße/Hofgarten",
-                  "text": "Spielplatz Stockenstraße/Hofgarten din Bonn permite familiilor să combine plimbările prin oraș cu o pauză de joacă.",
-                  "category": "family",
-                  "coords": [
-                        7.105459,
-                        50.733199
-                  ]
-            },
-            {
-                  "name": "Roonplatz",
-                  "text": "Roonplatz din Bonn este o zonă prietenoasă care oferă copiilor mult spațiu pentru a se juca cu familiile lor.",
-                  "category": "family",
-                  "coords": [
-                        7.099001,
-                        50.725045
-                  ]
-            },
-            {
-                  "name": "Gerhardsplatz",
-                  "text": "Locul de joacă de la Gerhardsplatz din Bonn este un punct de întâlnire popular pentru familiile din cartier.",
-                  "category": "family",
-                  "coords": [
-                        7.081992,
-                        50.743738
-                  ]
-            },
-            {
-                  "name": "Spielplatz St. Elisabeth-Kirche",
-                  "text": "Spielplatz St. Elisabeth-Kirche din Bonn este un loc ideal pentru activități distractive în familie în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.10774,
-                        50.722923
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulusstraße",
-                  "text": "Spielplatz Paulusstraße este un loc confortabil în Bonn, amenajat pentru bucuria copiilor și a familiilor.",
-                  "category": "family",
-                  "coords": [
-                        7.129503,
-                        50.740083
-                  ]
-            },
-            {
-                  "name": "Veedelsgarten",
-                  "text": "Veedelsgarten din Bonn este un loc de joacă care oferă un spațiu plăcut în aer liber pentru familii și copii.",
-                  "category": "family",
-                  "coords": [
-                        7.092274,
-                        50.737984
-                  ]
-            },
-            {
-                  "name": "Frankenbadplatz",
-                  "text": "Frankenbadplatz este un loc de joacă local din Bonn, unde copiii se pot bucura de activități în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.089558,
-                        50.739178
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Wohnanlage Ledenhof",
-                  "text": "Kinderspielplatz Wohnanlage Ledenhof este un loc de joacă rezidențial din Bonn, ideal și sigur pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.124798,
-                        50.752673
-                  ]
-            },
-            {
-                  "name": "Spielplatz Brüdergasse",
-                  "text": "Spielplatz Brüdergasse este un loc de joacă prietenos pentru familii situat în orașul Bonn.",
-                  "category": "family",
-                  "coords": [
-                        7.103356,
-                        50.736203
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Beethoven House",
-                  "text": "The birthplace of the world-famous composer Ludwig van Beethoven, now a museum and research center.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.10139,
-                        50.7369
-                  ]
-            },
-            {
-                  "name": "Bonn Minster",
-                  "text": "One of Germany's oldest churches, this Romanesque basilica features a beautiful and peaceful cloister.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high",
-                  "coords": [
-                        7.099789,
-                        50.733408
-                  ]
-            },
-            {
-                  "name": "Poppelsdorf Palace",
-                  "text": "A Baroque palace that currently houses university departments and is adjacent to the Botanical Garden.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.09209,
-                        50.725
-                  ]
-            },
-            {
-                  "name": "Old Town Hall",
-                  "text": "A magnificent Rococo building on the market square, famous for its grand staircase and historical visits.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.102916,
-                        50.735105
-                  ]
-            },
-            {
-                  "name": "House of the History",
-                  "text": "A modern museum covering German contemporary history since 1945, located on the Museum Mile.",
-                  "category": "Museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.11861,
-                        50.7172
-                  ]
-            },
-            {
-                  "name": "Drachenfels",
-                  "text": "A famous hill in the Siebengebirge range near Bonn, featuring castle ruins and a neo-Gothic palace.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        7.209722,
-                        50.665278
-                  ]
-            },
-            {
-                  "name": "Junges Theater Bonn",
-                  "text": "A well-known theater in Bonn focusing on sophisticated plays for children and young people.",
-                  "category": "cultural",
-                  "coords": [
-                        7.117026,
-                        50.736548
-                  ]
-            },
-            {
-                  "name": "Contra-Kreis-Theater",
-                  "text": "The oldest private theater in Bonn, known for its centrally located stage and entertainment.",
-                  "category": "cultural",
-                  "coords": [
-                        7.101191,
-                        50.733334
-                  ]
-            },
-            {
-                  "name": "Pantheon Theater",
-                  "text": "A renowned cabaret and stage venue in Bonn presenting a variety of satirical programs.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132431,
-                        50.739748
-                  ]
-            },
-            {
-                  "name": "Goldfuß-Museum",
-                  "text": "The paleontological museum of the University of Bonn, housing a significant collection of fossil exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        7.089775,
-                        50.726568
-                  ]
-            },
-            {
-                  "name": "Poppelsdorfer Heimatmuseum",
-                  "text": "A local museum showcasing the history and culture of the Poppelsdorf district in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.090288,
-                        50.721611
-                  ]
-            },
-            {
-                  "name": "Paul-Clemen-Museum",
-                  "text": "Art history museum of the University of Bonn featuring a significant collection of casts.",
-                  "category": "museum",
-                  "coords": [
-                        7.102253,
-                        50.732892
-                  ]
-            },
-            {
-                  "name": "Euro Theater Central",
-                  "text": "A private theatre in the centre of Bonn offering a diverse program of performances.",
-                  "category": "cultural",
-                  "coords": [
-                        7.094448,
-                        50.736044
-                  ]
-            },
-            {
-                  "name": "Rheinisches Landesmuseum",
-                  "text": "One of Germany's oldest museums dedicated to the archaeology and cultural history of the Rhineland.",
-                  "category": "museum",
-                  "coords": [
-                        7.092654,
-                        50.732018
-                  ]
-            },
-            {
-                  "name": "Opernhaus",
-                  "text": "The opera house of the city of Bonn on the banks of the Rhine hosts opera, ballet, and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        7.106746,
-                        50.73667
-                  ]
-            },
-            {
-                  "name": "Museum Alexander Koenig",
-                  "text": "Natural history research museum with extensive exhibitions on zoology and biodiversity.",
-                  "category": "museum",
-                  "coords": [
-                        7.113379,
-                        50.722161
-                  ]
-            },
-            {
-                  "name": "Wasserburg Lede",
-                  "text": "A picturesque moated castle in the Vilich district of Bonn with medieval origins.",
-                  "category": "castle",
-                  "coords": [
-                        7.129972,
-                        50.754322
-                  ]
-            },
-            {
-                  "name": "Burg Graurheindorf",
-                  "text": "A historic castle complex in Bonn-Graurheindorf, currently used as a residential building.",
-                  "category": "castle",
-                  "coords": [
-                        7.077339,
-                        50.760801
-                  ]
-            },
-            {
-                  "name": "Heimatmuseum Beuel",
-                  "text": "Museum dedicated to the history and traditions of the Beuel district of Bonn on the right bank of the Rhine.",
-                  "category": "museum",
-                  "coords": [
-                        7.118189,
-                        50.735368
-                  ]
-            },
-            {
-                  "name": "Dietkirche",
-                  "text": "Archaeological site of one of Bonn's oldest churches, currently located beneath modern buildings.",
-                  "category": "historical",
-                  "coords": [
-                        7.097696,
-                        50.743061
-                  ]
-            },
-            {
-                  "name": "Ernst-Moritz-Arndt-Haus",
-                  "text": "The former residence of the poet Ernst Moritz Arndt now serves as a branch of the Bonn City Museum.",
-                  "category": "museum",
-                  "coords": [
-                        7.110752,
-                        50.728892
-                  ]
-            },
-            {
-                  "name": "Arithmeum",
-                  "text": "A museum of the University of Bonn on discrete mathematics featuring a collection of historical calculating machines.",
-                  "category": "museum",
-                  "coords": [
-                        7.104835,
-                        50.730636
-                  ]
-            },
-            {
-                  "name": "Düne Tannenbusch",
-                  "text": "A protected inland dune area in northern Bonn, home to rare plant and animal species.",
-                  "category": "natural",
-                  "coords": [
-                        7.060594,
-                        50.744049
-                  ]
-            },
-            {
-                  "name": "Schumannhaus und Schumann-Grabmal",
-                  "text": "Robert Schumann's former final home, now serving as a museum and memorial to the famous composer couple.",
-                  "category": "museum",
-                  "coords": [
-                        7.077438,
-                        50.724424
-                  ]
-            },
-            {
-                  "name": "Burg Endenich",
-                  "text": "A historic castle in the Endenich district of Bonn, currently used for cultural events.",
-                  "category": "castle",
-                  "coords": [
-                        7.072163,
-                        50.72506
-                  ]
-            },
-            {
-                  "name": "August Macke Haus",
-                  "text": "The former home of expressionist painter August Macke, now featuring exhibitions on his life and work.",
-                  "category": "museum",
-                  "coords": [
-                        7.086312,
-                        50.737457
-                  ]
-            },
-            {
-                  "name": "Frauenmuseum",
-                  "text": "The world's first museum of its kind, dedicated to art and cultural history from a female perspective.",
-                  "category": "museum",
-                  "coords": [
-                        7.092358,
-                        50.740774
-                  ]
-            },
-            {
-                  "name": "Melbbad",
-                  "text": "A popular outdoor swimming pool on the slopes of the Venusberg, offering recreation in spacious green surroundings.",
-                  "category": "family",
-                  "coords": [
-                        7.088409,
-                        50.715143
-                  ]
-            },
-            {
-                  "name": "Haus der Springmaus",
-                  "text": "A renowned theatre in Bonn, well-known for its improvisational comedy and cabaret programs.",
-                  "category": "cultural",
-                  "coords": [
-                        7.074418,
-                        50.727401
-                  ]
-            },
-            {
-                  "name": "Rosenburg",
-                  "text": "A historicist building in Bonn-Kessenich, notable for its castle-like architectural style.",
-                  "category": "castle",
-                  "coords": [
-                        7.102144,
-                        50.711435
-                  ]
-            },
-            {
-                  "name": "Melbtal",
-                  "text": "A natural stream valley on the Venusberg, serving as a nature reserve and local recreation area.",
-                  "category": "natural",
-                  "coords": [
-                        7.08791,
-                        50.705057
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Gärtnerhaus",
-                  "text": "A historic gardener's house, now serving as a municipal gallery for rotating art exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        7.089316,
-                        50.731118
-                  ]
-            },
-            {
-                  "name": "Siegmündung",
-                  "text": "An ecologically significant nature reserve at the confluence of the Sieg and Rhine rivers.",
-                  "category": "natural",
-                  "coords": [
-                        7.100787,
-                        50.765605
-                  ]
-            },
-            {
-                  "name": "Siegaue",
-                  "text": "A nature reserve at the mouth of the Sieg River near Bonn.",
-                  "category": "natural",
-                  "coords": [
-                        7.113208,
-                        50.779936
-                  ]
-            },
-            {
-                  "name": "StadtMuseum Bonn",
-                  "text": "The city museum documents the diverse history of Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.104639,
-                        50.734697
-                  ]
-            },
-            {
-                  "name": "Radiomuseum",
-                  "text": "A museum in Bonn dedicated to the history of broadcasting and radio technology.",
-                  "category": "museum",
-                  "coords": [
-                        7.083799,
-                        50.729855
-                  ]
-            },
-            {
-                  "name": "Römischer Backofen",
-                  "text": "Archaeological remains of an ancient Roman baking oven in Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.102268,
-                        50.739542
-                  ]
-            },
-            {
-                  "name": "Akademisches Kunstmuseum",
-                  "text": "A museum featuring a significant collection of casts of ancient sculptures in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.096935,
-                        50.751322
-                  ]
-            },
-            {
-                  "name": "P26",
-                  "text": "An exhibition space for contemporary art and culture in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.098256,
-                        50.733731
-                  ]
-            },
-            {
-                  "name": "Römische Badeanlage",
-                  "text": "The archaeological excavation of an ancient Roman bath in Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.10782,
-                        50.732837
-                  ]
-            },
-            {
-                  "name": "Flauschfarm - Alpakawanderungen",
-                  "text": "A farm in Bonn offering guided hikes with alpacas.",
-                  "category": "family",
-                  "coords": [
-                        7.088388,
-                        50.717986
-                  ]
-            },
-            {
-                  "name": "Bonner Kunstverein gkg Künstlerforum",
-                  "text": "A center for contemporary art and exhibitions by local artists in Bonn.",
-                  "category": "museum",
-                  "coords": [
-                        7.086532,
-                        50.739027
-                  ]
-            },
-            {
-                  "name": "Das Blaue Haus",
-                  "text": "A historical building in Bonn currently used for cultural purposes.",
-                  "category": "museum",
-                  "coords": [
-                        7.065608,
-                        50.745298
-                  ]
-            },
-            {
-                  "name": "Wolfsburg",
-                  "text": "A baroque castle building located in the Schwarzrheindorf district of Bonn.",
-                  "category": "castle",
-                  "coords": [
-                        7.115292,
-                        50.745215
-                  ]
-            },
-            {
-                  "name": "Alter Zoll",
-                  "text": "A former bastion of the Bonn city fortifications overlooking the Rhine.",
-                  "category": "natural",
-                  "coords": [
-                        7.108056,
-                        50.734761
-                  ]
-            },
-            {
-                  "name": "Chlodwigplatz",
-                  "text": "A city square with green areas in the Kessenich district of Bonn.",
-                  "category": "park",
-                  "coords": [
-                        7.089198,
-                        50.743385
-                  ]
-            },
-            {
-                  "name": "Hofgarten",
-                  "text": "The large park area in front of the main building of the University of Bonn.",
-                  "category": "park",
-                  "coords": [
-                        7.104495,
-                        50.732605
-                  ]
-            },
-            {
-                  "name": "Palais Schaumburg",
-                  "text": "A late neoclassical building serving as the second official residence of the Federal Chancellor.",
-                  "category": "historical",
-                  "coords": [
-                        7.11731,
-                        50.72031
-                  ]
-            },
-            {
-                  "name": "Mühlenstumpf (Turmruine)",
-                  "text": "The historic tower ruins of a former windmill in the Auerberg district of Bonn.",
-                  "category": "historical",
-                  "coords": [
-                        7.081383,
-                        50.756214
-                  ]
-            },
-            {
-                  "name": "Rotter See",
-                  "text": "Rotter See in Bonn offers scenic views and a tranquil environment for relaxed walks.",
-                  "category": "natural",
-                  "coords": [
-                        7.113196,
-                        50.808513
-                  ]
-            },
-            {
-                  "name": "Eschmarer See",
-                  "text": "Eschmarer See in Bonn is a local lake where visitors can enjoy nature and the water while walking.",
-                  "category": "natural",
-                  "coords": [
-                        7.090832,
-                        50.797525
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Löschteich is a small lake in Bonn, offering a peaceful spot for leisurely nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        7.147025,
-                        50.762266
-                  ]
-            },
-            {
-                  "name": "Sieglarer See",
-                  "text": "Sieglarer See is a lovely lake in Bonn, ideal for walks along its shores.",
-                  "category": "natural",
-                  "coords": [
-                        7.139308,
-                        50.78971
-                  ]
-            },
-            {
-                  "name": "Auensee",
-                  "text": "Auensee in Bonn is a lake that offers a relaxed atmosphere for outdoor recreation and walking.",
-                  "category": "natural",
-                  "coords": [
-                        7.143245,
-                        50.713863
-                  ]
-            },
-            {
-                  "name": "Hirschweiher",
-                  "text": "Hirschweiher is a quiet lake in Bonn, perfect for silent waterside strolls.",
-                  "category": "natural",
-                  "coords": [
-                        7.083209,
-                        50.668053
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kinderklinik",
-                  "text": "Spielplatz Kinderklinik is a welcoming playground in Bonn, providing a nice spot for families.",
-                  "category": "family",
-                  "coords": [
-                        7.114926,
-                        50.724999
-                  ]
-            },
-            {
-                  "name": "Schulhof Spielplatz",
-                  "text": "Schulhof Spielplatz in Bonn is excellent for active play and small family gatherings in the afternoon.",
-                  "category": "family",
-                  "coords": [
-                        7.106966,
-                        50.718431
-                  ]
-            },
-            {
-                  "name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.",
-                  "text": "This playground on Theodor-Brinkmann-/Sebastianstraße in Bonn offers families a nice recreation area.",
-                  "category": "family",
-                  "coords": [
-                        7.080811,
-                        50.725008
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stockenstraße/Hofgarten",
-                  "text": "Spielplatz Stockenstraße/Hofgarten in Bonn allows families to combine city walks with a play break.",
-                  "category": "family",
-                  "coords": [
-                        7.105459,
-                        50.733199
-                  ]
-            },
-            {
-                  "name": "Roonplatz",
-                  "text": "Roonplatz in Bonn is a friendly area that gives children plenty of space to play with their families.",
-                  "category": "family",
-                  "coords": [
-                        7.099001,
-                        50.725045
-                  ]
-            },
-            {
-                  "name": "Gerhardsplatz",
-                  "text": "The playground at Gerhardsplatz in Bonn is a popular meeting point for families from the neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        7.081992,
-                        50.743738
-                  ]
-            },
-            {
-                  "name": "Spielplatz St. Elisabeth-Kirche",
-                  "text": "Spielplatz St. Elisabeth-Kirche in Bonn is an ideal spot for entertaining outdoor family activities.",
-                  "category": "family",
-                  "coords": [
-                        7.10774,
-                        50.722923
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulusstraße",
-                  "text": "Spielplatz Paulusstraße is a cozy place in Bonn set up for the enjoyment of children and families.",
-                  "category": "family",
-                  "coords": [
-                        7.129503,
-                        50.740083
-                  ]
-            },
-            {
-                  "name": "Veedelsgarten",
-                  "text": "The Veedelsgarten in Bonn is a playground offering a fun outdoor space for families and children.",
-                  "category": "family",
-                  "coords": [
-                        7.092274,
-                        50.737984
-                  ]
-            },
-            {
-                  "name": "Frankenbadplatz",
-                  "text": "Frankenbadplatz is a local playground in Bonn where children can enjoy outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        7.089558,
-                        50.739178
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Wohnanlage Ledenhof",
-                  "text": "The Kinderspielplatz Wohnanlage Ledenhof is a residential playground in Bonn providing a safe play area for children.",
-                  "category": "family",
-                  "coords": [
-                        7.124798,
-                        50.752673
-                  ]
-            },
-            {
-                  "name": "Spielplatz Brüdergasse",
-                  "text": "Spielplatz Brüdergasse is a family-friendly playground located in the city of Bonn.",
-                  "category": "family",
-                  "coords": [
-                        7.103356,
-                        50.736203
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Beethoven Evi",
-                  "text": "Dünyaca ünlü besteci Ludwig van Beethoven'ın doğduğu ev, günümüzde müze ve araştırma merkezi olarak kullanılır.",
-                  "category": "Museums",
-                  "coords": [
-                        7.10139,
-                        50.7369
-                  ]
-            },
-            {
-                  "name": "Bonner Münster",
-                  "text": "Almanya'nın en eski kiliselerinden biri olan bu Romanesk bazilika, etkileyici bir manastır avlusuna sahiptir.",
-                  "category": "Churches & monasteries",
-                  "coords": [
-                        7.099789,
-                        50.733408
-                  ]
-            },
-            {
-                  "name": "Poppelsdorf Sarayı",
-                  "text": "Üniversitenin bazı bölümlerine ve botanik bahçesine ev sahipliği yapan görkemli bir Barok kır sarayıdır.",
-                  "category": "Castles & palaces",
-                  "coords": [
-                        7.09209,
-                        50.725
-                  ]
-            },
-            {
-                  "name": "Eski Belediye Binası",
-                  "text": "Pazar yerindeki bu gösterişli Rokoko yapı, merdivenleri ve ağırladığı devlet konuklarıyla tanınır.",
-                  "category": "Town hall & historic squares",
-                  "coords": [
-                        7.102916,
-                        50.735105
-                  ]
-            },
-            {
-                  "name": "Tarih Evi",
-                  "text": "Almanya'nın 1945'ten günümüze kadar olan yakın tarihini sunan modern bir müze olup Müze Yolu üzerindedir.",
-                  "category": "Museums",
-                  "coords": [
-                        7.11861,
-                        50.7172
-                  ]
-            },
-            {
-                  "name": "Drachenfels",
-                  "text": "Siebengebirge bölgesinde, tepesinde bir kale kalıntısı ve şato bulunan oldukça popüler bir dağdır.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "coords": [
-                        7.209722,
-                        50.665278
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Beethoven-Haus", "text": "Das Geburtshaus des weltberühmten Komponisten Ludwig van Beethoven, heute ein Museum und Forschungszentrum.", "category": "Museums", "confidence": "high", "coords": [7.10139, 50.7369]}, {"name": "Bonner Münster", "text": "Eine der ältesten Kirchen Deutschlands, eine romanische Basilika mit einem beeindruckenden Kreuzgang.", "category": "Churches & monasteries", "confidence": "high", "coords": [7.099789, 50.733408]}, {"name": "Schloss Poppelsdorf", "text": "Ein barockes Landschloss, das heute Teile der Universität und den Botanischen Garten beherbergt.", "category": "Castles & palaces", "confidence": "high", "coords": [7.09209, 50.725]}, {"name": "Altes Rathaus", "text": "Ein prächtiges Rokoko-Gebäude am Marktplatz, bekannt für seine Freitreppe und historische Staatsbesuche.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.102916, 50.735105]}, {"name": "Haus der Geschichte", "text": "Ein modernes Museum zur deutschen Zeitgeschichte seit 1945, Teil der bekannten Museumsmeile.", "category": "Museums", "confidence": "high", "coords": [7.11861, 50.7172]}, {"name": "Drachenfels", "text": "Ein markanter Berg im Siebengebirge nahe Bonn, gekrönt von einer Burgruine und einem neugotischen Schloss.", "category": "Parks, gardens, lakes nearby", "confidence": "high", "coords": [7.209722, 50.665278]}, {"name": "Junges Theater Bonn", "text": "Ein bekanntes Theater in Bonn mit einem Fokus auf anspruchsvolle Stücke für Kinder und Jugendliche.", "category": "cultural", "coords": [7.117026, 50.736548]}, {"name": "Contra-Kreis-Theater", "text": "Das älteste Privattheater Bonns, das für seine zentral gelegene Bühne und Unterhaltung bekannt ist.", "category": "cultural", "coords": [7.101191, 50.733334]}, {"name": "Pantheon Theater", "text": "Eine renommierte Kabarett- und Kleinkunstbühne in Bonn, die vielfältige satirische Programme präsentiert.", "category": "cultural", "coords": [7.132431, 50.739748]}, {"name": "Goldfuß-Museum", "text": "Das paläontologische Museum der Universität Bonn mit einer bedeutenden Sammlung fossiler Exponate.", "category": "museum", "coords": [7.089775, 50.726568]}, {"name": "Poppelsdorfer Heimatmuseum", "text": "Ein lokales Museum, das die Geschichte und Kultur des Bonner Stadtteils Poppelsdorf zeigt.", "category": "museum", "coords": [7.090288, 50.721611]}, {"name": "Paul-Clemen-Museum", "text": "Kunsthistorisches Museum der Universität Bonn mit einer bedeutenden Sammlung von Abgüssen.", "category": "museum", "coords": [7.102253, 50.732892]}, {"name": "Euro Theater Central", "text": "Ein privates Theater im Zentrum von Bonn, das ein vielfältiges Programm bietet.", "category": "cultural", "coords": [7.094448, 50.736044]}, {"name": "Rheinisches Landesmuseum", "text": "Eines der ältesten Museen Deutschlands zur Archäologie und Kulturgeschichte des Rheinlandes.", "category": "museum", "coords": [7.092654, 50.732018]}, {"name": "Opernhaus", "text": "Das Opernhaus der Stadt Bonn am Rheinufer zeigt Opern, Ballett und Konzerte.", "category": "cultural", "coords": [7.106746, 50.73667]}, {"name": "Zoologisches Forschungsmuseum Alexander Koenig", "text": "Naturkundliches Forschungsmuseum mit umfangreichen Ausstellungen zur Zoologie und Artenvielfalt.", "category": "museum", "coords": [7.113379, 50.722161]}, {"name": "Wasserburg Lede", "text": "Eine malerische Wasserburg im Bonner Stadtteil Vilich, deren Ursprünge bis ins Mittelalter reichen.", "category": "castle", "coords": [7.129972, 50.754322]}, {"name": "Burg Graurheindorf", "text": "Historische Burganlage in Bonn-Graurheindorf, die heute als Wohnhaus genutzt wird.", "category": "castle", "coords": [7.077339, 50.760801]}, {"name": "Heimatmuseum Beuel", "text": "Museum zur Geschichte und Brauchtumspflege des rechtsrheinischen Bonner Stadtbezirks Beuel.", "category": "museum", "coords": [7.118189, 50.735368]}, {"name": "Dietkirche", "text": "Archäologische Fundstätte einer der ältesten Kirchen Bonns, die heute unter modernen Gebäuden liegt.", "category": "historical", "coords": [7.097696, 50.743061]}, {"name": "Ernst-Moritz-Arndt-Haus", "text": "Das ehemalige Wohnhaus des Dichters Ernst Moritz Arndt dient heute als Zweigstelle des Stadtmuseums Bonn.", "category": "museum", "coords": [7.110752, 50.728892]}, {"name": "Arithmeum", "text": "Ein Museum der Universität Bonn über diskrete Mathematik mit einer Sammlung historischer Rechenmaschinen.", "category": "museum", "coords": [7.104835, 50.730636]}, {"name": "Düne Tannenbusch", "text": "Ein geschütztes Binnendünengebiet im Bonner Norden, das seltene Pflanzen- und Tierarten beherbergt.", "category": "natural", "coords": [7.060594, 50.744049]}, {"name": "Schumannhaus und Schumann-Grabmal", "text": "Das ehemalige Sterbehaus von Robert Schumann dient heute als Museum und Gedenkstätte für das Komponistenehepaar.", "category": "museum", "coords": [7.077438, 50.724424]}, {"name": "Burg Endenich", "text": "Eine historische Burganlage im Bonner Stadtteil Endenich, die heute für kulturelle Veranstaltungen genutzt wird.", "category": "castle", "coords": [7.072163, 50.72506]}, {"name": "August Macke Haus", "text": "Das ehemalige Wohnhaus des expressionistischen Malers August Macke zeigt heute Ausstellungen zu seinem Leben und Werk.", "category": "museum", "coords": [7.086312, 50.737457]}, {"name": "Frauenmuseum", "text": "Das weltweit erste Museum dieser Art widmet sich der Kunst und Kulturgeschichte aus der Perspektive von Frauen.", "category": "museum", "coords": [7.092358, 50.740774]}, {"name": "Melbbad", "text": "Ein beliebtes Freibad am Hang des Venusbergs, das Erholung in einer weitläufigen Grünanlage bietet.", "category": "family", "coords": [7.088409, 50.715143]}, {"name": "Haus der Springmaus", "text": "Ein renommiertes Bonner Theater, das überregional für seine Improvisationskunst und Kabarettprogramme bekannt ist.", "category": "cultural", "coords": [7.074418, 50.727401]}, {"name": "Rosenburg", "text": "Ein historistisches Gebäude in Bonn-Kessenich, das durch seine schlossähnliche Architektur auffällt.", "category": "castle", "coords": [7.102144, 50.711435]}, {"name": "Melbtal", "text": "Ein naturbelassenes Bachtal am Venusberg, das als Naturschutzgebiet und Naherholungsraum dient.", "category": "natural", "coords": [7.08791, 50.705057]}, {"name": "Kurfürstliches Gärtnerhaus", "text": "Ein historisches Gärtnerhaus, das heute als städtische Galerie für wechselnde Kunstausstellungen fungiert.", "category": "museum", "coords": [7.089316, 50.731118]}, {"name": "Siegmündung", "text": "Ein ökologisch bedeutsames Naturschutzgebiet an der Mündung der Sieg in den Rhein.", "category": "natural", "coords": [7.100787, 50.765605]}, {"name": "Siegaue", "text": "Ein Naturschutzgebiet an der Mündung der Sieg in den Rhein bei Bonn.", "category": "natural", "coords": [7.113208, 50.779936]}, {"name": "StadtMuseum Bonn", "text": "Das Stadtmuseum dokumentiert die vielfältige Geschichte der Stadt Bonn.", "category": "museum", "coords": [7.104639, 50.734697]}, {"name": "Radiomuseum", "text": "Ein Museum in Bonn, das sich der Geschichte des Rundfunks und der Funktechnik widmet.", "category": "museum", "coords": [7.083799, 50.729855]}, {"name": "Römischer Backofen", "text": "Archäologische Überreste eines antiken römischen Backofens in Bonn.", "category": "historical", "coords": [7.102268, 50.739542]}, {"name": "Akademisches Kunstmuseum", "text": "Ein Museum mit einer bedeutenden Sammlung antiker Skulpturenabgüsse in Bonn.", "category": "museum", "coords": [7.096935, 50.751322]}, {"name": "P26", "text": "Ein Ausstellungsraum für zeitgenössische Kunst und Kultur in Bonn.", "category": "museum", "coords": [7.098256, 50.733731]}, {"name": "Römische Badeanlage", "text": "Die archäologische Ausgrabung einer antiken römischen Badeanlage in Bonn.", "category": "historical", "coords": [7.10782, 50.732837]}, {"name": "Flauschfarm - Alpakawanderungen", "text": "Ein Bauernhof in Bonn, der geführte Wanderungen mit Alpakas anbietet.", "category": "family", "coords": [7.088388, 50.717986]}, {"name": "Bonner Kunstverein gkg Künstlerforum", "text": "Das Bonner Kunstverein gkg Künstlerforum ist ein Zentrum für zeitgenössische Kunst in Bonn. Besucher erwartet hier eine Plattform, auf der Werke lokaler Künstler präsentiert werden.", "category": "museum", "coords": [7.086532, 50.739027]}, {"name": "Das Blaue Haus", "text": "Ein historisches Gebäude in Bonn, das heute für kulturelle Zwecke genutzt wird.", "category": "museum", "coords": [7.065608, 50.745298]}, {"name": "Wolfsburg", "text": "Eine barocke Schlossanlage im Bonner Stadtteil Schwarzrheindorf.", "category": "castle", "coords": [7.115292, 50.745215]}, {"name": "Alter Zoll", "text": "Eine ehemalige Bastion der Bonner Stadtbefestigung mit Blick auf den Rhein.", "category": "natural", "coords": [7.108056, 50.734761]}, {"name": "Chlodwigplatz", "text": "Ein städtischer Platz mit Grünflächen im Bonner Stadtteil Kessenich.", "category": "park", "coords": [7.089198, 50.743385]}, {"name": "Hofgarten", "text": "Die große Parkanlage vor dem Hauptgebäude der Universität Bonn.", "category": "park", "coords": [7.104495, 50.732605]}, {"name": "Palais Schaumburg", "text": "Ein spätklassizistisches Gebäude, das als zweiter Dienstsitz des Bundeskanzlers dient.", "category": "historical", "coords": [7.11731, 50.72031]}, {"name": "Mühlenstumpf (Turmruine)", "text": "Die historische Turmruine einer ehemaligen Windmühle im Bonner Stadtteil Auerberg.", "category": "historical", "coords": [7.081383, 50.756214]}, {"name": "Rotter See", "text": "Der Rotter See in Bonn bietet malerische Aussichten und eine ruhige Umgebung für entspannte Spaziergänge.", "category": "natural", "coords": [7.113196, 50.808513]}, {"name": "Eschmarer See", "text": "Der Eschmarer See in Bonn ist ein lokaler See, an dem Besucher die Natur und das Wasser beim Gehen genießen können.", "category": "natural", "coords": [7.090832, 50.797525]}, {"name": "Löschteich", "text": "Der Löschteich ist ein kleiner See in Bonn, der einen friedlichen Ort für gemütliche Naturbeobachtungen bietet.", "category": "natural", "coords": [7.147025, 50.762266]}, {"name": "Sieglarer See", "text": "Der Sieglarer See ist ein schöner See in Bonn, der sich ideal für Spaziergänge an seinen Ufern eignet.", "category": "natural", "coords": [7.139308, 50.78971]}, {"name": "Auensee", "text": "Der Auensee in Bonn ist ein See, der eine entspannte Atmosphäre für Erholung und Spaziergänge im Freien bietet.", "category": "natural", "coords": [7.143245, 50.713863]}, {"name": "Hirschweiher", "text": "Der Hirschweiher ist ein ruhiger See in Bonn, der sich perfekt für leise Spaziergänge am Wasser eignet.", "category": "natural", "coords": [7.083209, 50.668053]}, {"name": "Spielplatz Kinderklinik", "text": "Der Spielplatz Kinderklinik ist ein einladender Spielplatz in Bonn, der einen schönen Ort für Familien bietet.", "category": "family", "coords": [7.114926, 50.724999]}, {"name": "Schulhof Spielplatz", "text": "Der Schulhof Spielplatz in Bonn eignet sich hervorragend für aktives Spielen und kleine Familientreffen am Nachmittag.", "category": "family", "coords": [7.106966, 50.718431]}, {"name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.", "text": "Dieser Spielplatz in der Theodor-Brinkmann-/Sebastianstraße in Bonn bietet Familien ein schönes Naherholungsgebiet.", "category": "family", "coords": [7.080811, 50.725008]}, {"name": "Spielplatz Stockenstraße/Hofgarten", "text": "Der Spielplatz Stockenstraße/Hofgarten in Bonn ermöglicht es Familien, Stadtspaziergänge mit einer Spielpause zu verbinden.", "category": "family", "coords": [7.105459, 50.733199]}, {"name": "Roonplatz", "text": "Der Roonplatz in Bonn ist ein freundlicher Bereich, der Kindern viel Platz zum Spielen mit ihren Familien gibt.", "category": "family", "coords": [7.099001, 50.725045]}, {"name": "Gerhardsplatz", "text": "Der Spielplatz am Gerhardsplatz in Bonn ist ein beliebter Treffpunkt für Familien aus der Nachbarschaft.", "category": "family", "coords": [7.081992, 50.743738]}, {"name": "Spielplatz St. Elisabeth-Kirche", "text": "Der Spielplatz St. Elisabeth-Kirche in Bonn ist ein idealer Ort für unterhaltsame Familienaktivitäten im Freien.", "category": "family", "coords": [7.10774, 50.722923]}, {"name": "Spielplatz Paulusstraße", "text": "Der Spielplatz Paulusstraße ist ein gemütlicher Ort in Bonn, der für das Vergnügen von Kindern und Familien eingerichtet wurde.", "category": "family", "coords": [7.129503, 50.740083]}, {"name": "Veedelsgarten", "text": "Der Veedelsgarten in Bonn ist ein Spielplatz, der Familien und Kindern viel Platz zum Toben bietet.", "category": "family", "coords": [7.092274, 50.737984]}, {"name": "Frankenbadplatz", "text": "Der Frankenbadplatz ist ein lokaler Spielplatz in Bonn, auf dem Kinder an der frischen Luft spielen können.", "category": "family", "coords": [7.089558, 50.739178]}, {"name": "Kinderspielplatz Wohnanlage Ledenhof", "text": "Der Kinderspielplatz der Wohnanlage Ledenhof in Bonn bietet einen sicheren und schönen Spielbereich für Familien.", "category": "family", "coords": [7.124798, 50.752673]}, {"name": "Spielplatz Brüdergasse", "text": "Der Spielplatz Brüdergasse ist ein familienfreundlicher Spielplatz in der Stadt Bonn.", "category": "family", "coords": [7.103356, 50.736203]}, {"name": "Badestelle Siegfähre", "text": "Die Badestelle Siegfähre bei Bonn bietet eine idyllische Möglichkeit für eine Abkühlung.", "category": "family", "coords": [7.107331, 50.764582]}, {"name": "Sportbecken", "text": "Das Sportbecken in Bonn ist bestens für bahnenbasiertes Training geeignet.", "category": "family", "coords": [7.151304, 50.738719]}], "hu": [{"name": "Beethoven-ház", "text": "A világhírű zeneszerző, Ludwig van Beethoven szülőháza, amely ma múzeumnak és kutatóközpontnak ad otthont.", "category": "Museums", "confidence": "high", "coords": [7.10139, 50.7369]}, {"name": "Bonni székesegyház", "text": "Németország egyik legrégebbi temploma, román stílusú bazilika lenyűgöző kerengővel a belvárosban.", "category": "Churches & monasteries", "confidence": "high", "coords": [7.099789, 50.733408]}, {"name": "Poppelsdorf-kastély", "text": "Barokk stílusú kastély, amely ma az egyetem részeként működik, mellette található a botanikus kert.", "category": "Castles & palaces", "confidence": "high", "coords": [7.09209, 50.725]}, {"name": "Régi városháza", "text": "Díszes rokokó épület a piactéren, híres külső lépcsősoráról és a történelmi állami látogatásokról.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.102916, 50.735105]}, {"name": "A történelem háza", "text": "Modern múzeum, amely Németország 1945 utáni történelmét mutatja be interaktív kiállításokkal.", "category": "Museums", "confidence": "high", "coords": [7.11861, 50.7172]}, {"name": "Drachenfels", "text": "Jellegzetes hegy a Bonn melletti Siebengebirge területén, várrommal és egy neogótikus kastéllyal.", "category": "Parks, gardens, lakes nearby", "confidence": "high", "coords": [7.209722, 50.665278]}, {"name": "Junges Theater Bonn", "text": "Ismert bonni színház, amely gyermekeknek és fiataloknak szóló igényes darabokra összpontosít.", "category": "cultural", "coords": [7.117026, 50.736548]}, {"name": "Contra-Kreis-Theater", "text": "Bonn legrégebbi magánszínháza, amely központi elhelyezkedéséről és szórakoztató műsorairól ismert.", "category": "cultural", "coords": [7.101191, 50.733334]}, {"name": "Pantheon Theater", "text": "Neves bonni kabaré- és kisszínpad, amely változatos szatirikus műsorokat mutat be.", "category": "cultural", "coords": [7.132431, 50.739748]}, {"name": "Goldfuß-Museum", "text": "A Bonni Egyetem őslénytani múzeuma, amely jelentős fosszilis gyűjteménnyel rendelkezik.", "category": "museum", "coords": [7.089775, 50.726568]}, {"name": "Poppelsdorfer Heimatmuseum", "text": "Helytörténeti múzeum, amely Bonn Poppelsdorf negyedének múltját és kultúráját mutatja be.", "category": "museum", "coords": [7.090288, 50.721611]}, {"name": "Paul-Clemen-Museum", "text": "A Bonni Egyetem művészettörténeti múzeuma jelentős gipszmásolat-gyűjteménnyel.", "category": "museum", "coords": [7.102253, 50.732892]}, {"name": "Euro Theater Central", "text": "Magánszínház Bonn központjában, amely változatos előadásoknak ad otthont.", "category": "cultural", "coords": [7.094448, 50.736044]}, {"name": "Rheinisches Landesmuseum", "text": "Németország egyik legrégebbi múzeuma, amely a Rajna-vidék régészetét és kultúrtörténetét mutatja be.", "category": "museum", "coords": [7.092654, 50.732018]}, {"name": "Opernhaus", "text": "Bonn város operaháza a Rajna partján, ahol operákat, baletteket és koncerteket rendeznek.", "category": "cultural", "coords": [7.106746, 50.73667]}, {"name": "Museum Alexander Koenig", "text": "Természettudományi kutatómúzeum kiterjedt zoológiai és biológiai sokféleséggel kapcsolatos kiállításokkal.", "category": "museum", "coords": [7.113379, 50.722161]}, {"name": "Wasserburg Lede", "text": "Festői vízi vár Bonn Vilich negyedében, amelynek eredete a középkorig nyúlik vissza.", "category": "castle", "coords": [7.129972, 50.754322]}, {"name": "Burg Graurheindorf", "text": "Történelmi várkastély Bonn-Graurheindorfban, amely ma lakóházként szolgál.", "category": "castle", "coords": [7.077339, 50.760801]}, {"name": "Heimatmuseum Beuel", "text": "Múzeum Bonn Beuel kerületének történetéről és hagyományainak ápolásáról a Rajna jobb partján.", "category": "museum", "coords": [7.118189, 50.735368]}, {"name": "Dietkirche", "text": "Bonn egyik legrégebbi templomának régészeti lelőhelye, amely ma modern épületek alatt található.", "category": "historical", "coords": [7.097696, 50.743061]}, {"name": "Ernst-Moritz-Arndt-Haus", "text": "Ernst Moritz Arndt költő egykori lakóháza, amely ma a Bonni Városi Múzeum egyik részlege.", "category": "museum", "coords": [7.110752, 50.728892]}, {"name": "Arithmeum", "text": "A Bonni Egyetem diskrét matematikával foglalkozó múzeuma történelmi számológép-gyűjteménnyel.", "category": "museum", "coords": [7.104835, 50.730636]}, {"name": "Düne Tannenbusch", "text": "Védett belvidéki dűne Bonn északi részén, amely ritka növény- és állatfajok élőhelye.", "category": "natural", "coords": [7.060594, 50.744049]}, {"name": "Schumannhaus und Schumann-Grabmal", "text": "Robert Schumann utolsó lakóhelye, amely ma a zeneszerző házaspár életművét bemutató múzeum és emlékhely.", "category": "museum", "coords": [7.077438, 50.724424]}, {"name": "Burg Endenich", "text": "Bonn Endenich negyedében található történelmi várkastély, amely ma kulturális rendezvényeknek ad otthont.", "category": "castle", "coords": [7.072163, 50.72506]}, {"name": "August Macke Haus", "text": "August Macke expresszionista festő egykori lakóháza, amely ma a művész életét és munkásságát bemutató múzeum.", "category": "museum", "coords": [7.086312, 50.737457]}, {"name": "Frauenmuseum", "text": "A világ első ilyen típusú múzeuma, amely a művészetet és a kultúrtörténetet női szemszögből mutatja be.", "category": "museum", "coords": [7.092358, 50.740774]}, {"name": "Melbbad", "text": "Népszerű szabadtéri strand a Venusberg oldalában, amely tágas zöldövezetben kínál kikapcsolódást.", "category": "family", "coords": [7.088409, 50.715143]}, {"name": "Haus der Springmaus", "text": "Népszerű bonni színház, amely improvizációs előadásairól és kabaréprogramjairól ismert.", "category": "cultural", "coords": [7.074418, 50.727401]}, {"name": "Rosenburg", "text": "Bonn Kessenich negyedében álló historizáló épület, amely kastélyszerű építészetével tűnik ki.", "category": "castle", "coords": [7.102144, 50.711435]}, {"name": "Melbtal", "text": "A Venusberg lábánál fekvő természetközeli patakvölgy, amely természetvédelmi terület és kirándulóhely.", "category": "natural", "coords": [7.08791, 50.705057]}, {"name": "Kurfürstliches Gärtnerhaus", "text": "Történelmi kertészház, amely ma városi galériaként időszaki művészeti kiállításoknak ad helyet.", "category": "museum", "coords": [7.089316, 50.731118]}, {"name": "Siegmündung", "text": "Ökológiailag jelentős természetvédelmi terület a Sieg folyó Rajnába torkollásánál.", "category": "natural", "coords": [7.100787, 50.765605]}, {"name": "Siegaue", "text": "Természetvédelmi terület a Sieg folyó torkolatánál, Bonn közelében.", "category": "natural", "coords": [7.113208, 50.779936]}, {"name": "StadtMuseum Bonn", "text": "A városi múzeum Bonn gazdag történelmét mutatja be.", "category": "museum", "coords": [7.104639, 50.734697]}, {"name": "Radiomuseum", "text": "A rádiózás és a rádiótechnika történetének szentelt múzeum Bonnban.", "category": "museum", "coords": [7.083799, 50.729855]}, {"name": "Römischer Backofen", "text": "Egy ókori római sütőkemence régészeti maradványai Bonnban.", "category": "historical", "coords": [7.102268, 50.739542]}, {"name": "Akademisches Kunstmuseum", "text": "Antik szobormásolatok jelentős gyűjteményével rendelkező múzeum Bonnban.", "category": "museum", "coords": [7.096935, 50.751322]}, {"name": "P26", "text": "Kortárs művészeti és kulturális kiállítótér Bonnban.", "category": "museum", "coords": [7.098256, 50.733731]}, {"name": "Römische Badeanlage", "text": "Egy ókori római fürdő régészeti ásatása Bonnban.", "category": "historical", "coords": [7.10782, 50.732837]}, {"name": "Flauschfarm - Alpakawanderungen", "text": "Egy bonni farm, amely vezetett sétákat kínál alpakákkal.", "category": "family", "coords": [7.088388, 50.717986]}, {"name": "Bonner Kunstverein gkg Künstlerforum", "text": "A Bonner Kunstverein gkg Künstlerforum egy kortárs művészeti központ Bonnban. A látogatókat egy olyan platform várja, ahol helyi művészek alkotásait mutatják be.", "category": "museum", "coords": [7.086532, 50.739027]}, {"name": "Das Blaue Haus", "text": "Történelmi épület Bonnban, amelyet ma kulturális célokra használnak.", "category": "museum", "coords": [7.065608, 50.745298]}, {"name": "Wolfsburg", "text": "Barokk kastélyépület Bonn Schwarzrheindorf negyedében.", "category": "castle", "coords": [7.115292, 50.745215]}, {"name": "Alter Zoll", "text": "A bonni városi erődítmény egykori bástyája, kilátással a Rajnára.", "category": "natural", "coords": [7.108056, 50.734761]}, {"name": "Chlodwigplatz", "text": "Városi tér zöldterületekkel Bonn Kessenich negyedében.", "category": "park", "coords": [7.089198, 50.743385]}, {"name": "Hofgarten", "text": "A Bonni Egyetem főépülete előtti tágas parkterület.", "category": "park", "coords": [7.104495, 50.732605]}, {"name": "Palais Schaumburg", "text": "Késő klasszicista épület, amely a német szövetségi kancellár második székhelye.", "category": "historical", "coords": [7.11731, 50.72031]}, {"name": "Mühlenstumpf (Turmruine)", "text": "Egy egykori szélmalom történelmi toronymaradványa Bonn Auerberg negyedében.", "category": "historical", "coords": [7.081383, 50.756214]}, {"name": "Rotter See", "text": "A bonni Rotter See festői kilátást és nyugodt környezetet kínál a pihentető sétákhoz.", "category": "natural", "coords": [7.113196, 50.808513]}, {"name": "Eschmarer See", "text": "A bonni Eschmarer See egy helyi tó, ahol a látogatók séta közben élvezhetik a természetet és a vizet.", "category": "natural", "coords": [7.090832, 50.797525]}, {"name": "Löschteich", "text": "A Löschteich egy kis tó Bonnban, amely békés helyet kínál a kényelmes természetmegfigyeléshez.", "category": "natural", "coords": [7.147025, 50.762266]}, {"name": "Sieglarer See", "text": "A Sieglarer See egy szép tó Bonnban, amely ideális a part menti sétákhoz.", "category": "natural", "coords": [7.139308, 50.78971]}, {"name": "Auensee", "text": "A bonni Auensee egy tó, amely pihentető légkört kínál a szabadtéri kikapcsolódáshoz és sétákhoz.", "category": "natural", "coords": [7.143245, 50.713863]}, {"name": "Hirschweiher", "text": "A Hirschweiher egy csendes tó Bonnban, amely tökéletes a csendes vízparti sétákhoz.", "category": "natural", "coords": [7.083209, 50.668053]}, {"name": "Spielplatz Kinderklinik", "text": "A Spielplatz Kinderklinik egy barátságos játszótér Bonnban, amely szép helyet kínál a családoknak.", "category": "family", "coords": [7.114926, 50.724999]}, {"name": "Schulhof Spielplatz", "text": "A bonni Schulhof Spielplatz kiválóan alkalmas aktív játékra és délutáni kis családi összejövetelekre.", "category": "family", "coords": [7.106966, 50.718431]}, {"name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.", "text": "Ez a bonni Theodor-Brinkmann-/Sebastianstraße menti játszótér szép rekreációs területet kínál a családoknak.", "category": "family", "coords": [7.080811, 50.725008]}, {"name": "Spielplatz Stockenstraße/Hofgarten", "text": "A bonni Spielplatz Stockenstraße/Hofgarten lehetővé teszi a családok számára, hogy a városi sétákat egy kis játékidővel kössék össze.", "category": "family", "coords": [7.105459, 50.733199]}, {"name": "Roonplatz", "text": "A bonni Roonplatz egy barátságos terület, amely sok helyet biztosít a gyerekeknek, hogy a családjukkal játsszanak.", "category": "family", "coords": [7.099001, 50.725045]}, {"name": "Gerhardsplatz", "text": "A bonni Gerhardsplatz játszótere népszerű találkozóhely a környékbeli családok számára.", "category": "family", "coords": [7.081992, 50.743738]}, {"name": "Spielplatz St. Elisabeth-Kirche", "text": "A bonni Spielplatz St. Elisabeth-Kirche ideális hely a szórakoztató szabadtéri családi programokhoz.", "category": "family", "coords": [7.10774, 50.722923]}, {"name": "Spielplatz Paulusstraße", "text": "A Spielplatz Paulusstraße egy hangulatos hely Bonnban, amelyet a gyerekek és családok szórakoztatására hoztak létre.", "category": "family", "coords": [7.129503, 50.740083]}, {"name": "Veedelsgarten", "text": "A bonni Veedelsgarten egy játszótér, amely szabadtéri szórakozást kínál a családok és a gyerekek számára.", "category": "family", "coords": [7.092274, 50.737984]}, {"name": "Frankenbadplatz", "text": "A Frankenbadplatz egy helyi játszótér Bonnban, ahol a gyerekek élvezhetik a szabadtéri tevékenységeket.", "category": "family", "coords": [7.089558, 50.739178]}, {"name": "Kinderspielplatz Wohnanlage Ledenhof", "text": "A Kinderspielplatz Wohnanlage Ledenhof egy lakóövezeti játszótér Bonnban, amely biztonságos játékteret biztosít a gyerekeknek.", "category": "family", "coords": [7.124798, 50.752673]}, {"name": "Spielplatz Brüdergasse", "text": "A Spielplatz Brüdergasse egy családbarát játszótér Bonn városában.", "category": "family", "coords": [7.103356, 50.736203]}, {"name": "Badestelle Siegfähre", "text": "A Bonn közeli Badestelle Siegfähre idilli lehetőséget kínál a hűsölésre.", "category": "family", "coords": [7.107331, 50.764582]}, {"name": "Sportbecken", "text": "A bonni sportmedence kiválóan alkalmas a sáv alapú edzésre.", "category": "family", "coords": [7.151304, 50.738719]}], "ro": [{"name": "Casa Beethoven", "text": "Casa natală a celebrului compozitor Ludwig van Beethoven, transformată astăzi în muzeu și centru de cercetare.", "category": "Museums", "confidence": "high", "coords": [7.10139, 50.7369]}, {"name": "Domul din Bonn", "text": "Una dintre cele mai vechi biserici din Germania, o basilică romanică impunătoare cu o mănăstire superbă.", "category": "Churches & monasteries", "confidence": "high", "coords": [7.099789, 50.733408]}, {"name": "Castelul Poppelsdorf", "text": "Un castel baroc care găzduiește astăzi secții ale universității și grădina botanică a orașului.", "category": "Castles & palaces", "confidence": "high", "coords": [7.09209, 50.725]}, {"name": "Vechea Primărie", "text": "O clădire splendidă în stil rococo situată în piața centrală, renumită pentru scara sa exterioară elegantă.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.102916, 50.735105]}, {"name": "Casa Istoriei", "text": "Un muzeu modern dedicat istoriei germane de după 1945, oferind o perspectivă captivantă asupra trecutului recent.", "category": "Museums", "confidence": "high", "coords": [7.11861, 50.7172]}, {"name": "Drachenfels", "text": "Un munte emblematic în apropiere de Bonn, oferind ruinele unei cetăți medievale și vederi panoramice asupra Rinului.", "category": "Parks, gardens, lakes nearby", "confidence": "high", "coords": [7.209722, 50.665278]}, {"name": "Junges Theater Bonn", "text": "Un teatru cunoscut din Bonn, axat pe piese sofisticate pentru copii și tineri.", "category": "cultural", "coords": [7.117026, 50.736548]}, {"name": "Contra-Kreis-Theater", "text": "Cel mai vechi teatru privat din Bonn, cunoscut pentru scena sa centrală și spectacolele de divertisment.", "category": "cultural", "coords": [7.101191, 50.733334]}, {"name": "Pantheon Theater", "text": "O scenă renumită de cabaret din Bonn, care prezintă programe satirice diverse.", "category": "cultural", "coords": [7.132431, 50.739748]}, {"name": "Goldfuß-Museum", "text": "Muzeul paleontologic al Universității din Bonn, care deține o colecție importantă de exponate fosile.", "category": "museum", "coords": [7.089775, 50.726568]}, {"name": "Poppelsdorfer Heimatmuseum", "text": "Un muzeu local care prezintă istoria și cultura districtului Poppelsdorf din Bonn.", "category": "museum", "coords": [7.090288, 50.721611]}, {"name": "Paul-Clemen-Museum", "text": "Muzeul de istorie a artei al Universității din Bonn, cu o colecție importantă de mulaje.", "category": "museum", "coords": [7.102253, 50.732892]}, {"name": "Euro Theater Central", "text": "Un teatru privat din centrul orașului Bonn, care oferă un program diversificat.", "category": "cultural", "coords": [7.094448, 50.736044]}, {"name": "Rheinisches Landesmuseum", "text": "Unul dintre cele mai vechi muzee din Germania dedicat arheologiei și istoriei culturale a Renaniei.", "category": "museum", "coords": [7.092654, 50.732018]}, {"name": "Opernhaus", "text": "Opera din Bonn, situată pe malul Rinului, găzduiește spectacole de operă, balet și concerte.", "category": "cultural", "coords": [7.106746, 50.73667]}, {"name": "Muzeul de științe naturale Koenig", "text": "Muzeu de cercetare în istoria naturală cu expoziții extinse despre zoologie și biodiversitate.", "category": "museum", "coords": [7.113379, 50.722161]}, {"name": "Wasserburg Lede", "text": "Un castel cu șanțuri pitoresc în districtul Vilich din Bonn, cu origini medievale.", "category": "castle", "coords": [7.129972, 50.754322]}, {"name": "Burg Graurheindorf", "text": "O fortăreață istorică în Bonn-Graurheindorf, folosită în prezent ca reședință privată.", "category": "castle", "coords": [7.077339, 50.760801]}, {"name": "Heimatmuseum Beuel", "text": "Muzeu dedicat istoriei și tradițiilor districtului Beuel din Bonn, situat pe malul drept al Rinului.", "category": "museum", "coords": [7.118189, 50.735368]}, {"name": "Dietkirche", "text": "Sit arheologic al uneia dintre cele mai vechi biserici din Bonn, situat în prezent sub clădiri moderne.", "category": "historical", "coords": [7.097696, 50.743061]}, {"name": "Ernst-Moritz-Arndt-Haus", "text": "Fosta reședință a poetului Ernst Moritz Arndt servește acum ca filială a Muzeului Orașului Bonn.", "category": "museum", "coords": [7.110752, 50.728892]}, {"name": "Arithmeum", "text": "Un muzeu al Universității din Bonn despre matematică discretă, cu o colecție de mașini de calcul istorice.", "category": "museum", "coords": [7.104835, 50.730636]}, {"name": "Düne Tannenbusch", "text": "O rezervație naturală de dune interioare în nordul orașului Bonn, care adăpostește specii rare de plante și animale.", "category": "natural", "coords": [7.060594, 50.744049]}, {"name": "Schumannhaus und Schumann-Grabmal", "text": "Fosta casă a lui Robert Schumann, funcționând astăzi ca muzeu și loc de comemorare pentru celebrul cuplu de compozitori.", "category": "museum", "coords": [7.077438, 50.724424]}, {"name": "Burg Endenich", "text": "Un castel istoric din districtul Endenich al orașului Bonn, utilizat astăzi pentru evenimente culturale.", "category": "castle", "coords": [7.072163, 50.72506]}, {"name": "August Macke Haus", "text": "Fosta locuință a pictorului expresionist August Macke, care prezintă astăzi expoziții despre viața și opera sa.", "category": "museum", "coords": [7.086312, 50.737457]}, {"name": "Frauenmuseum", "text": "Primul muzeu de acest gen din lume, dedicat artei și istoriei culturale din perspectivă feminină.", "category": "museum", "coords": [7.092358, 50.740774]}, {"name": "Melbbad", "text": "Un ștrand în aer liber popular situat pe pantele Venusberg, oferind relaxare într-o zonă verde vastă.", "category": "family", "coords": [7.088409, 50.715143]}, {"name": "Haus der Springmaus", "text": "Un teatru renumit din Bonn, cunoscut pentru spectacolele sale de improvizație și programele de cabaret.", "category": "cultural", "coords": [7.074418, 50.727401]}, {"name": "Rosenburg", "text": "O clădire în stil historist din Bonn-Kessenich, remarcabilă prin arhitectura sa asemănătoare unui castel.", "category": "castle", "coords": [7.102144, 50.711435]}, {"name": "Melbtal", "text": "O vale împădurită pe Venusberg, care servește ca rezervație naturală și zonă de recreere locală.", "category": "natural", "coords": [7.08791, 50.705057]}, {"name": "Kurfürstliches Gärtnerhaus", "text": "O casă istorică a grădinarului, care funcționează astăzi ca galerie municipală pentru expoziții de artă temporare.", "category": "museum", "coords": [7.089316, 50.731118]}, {"name": "Siegmündung", "text": "O rezervație naturală de importanță ecologică la vărsarea râului Sieg în Rin.", "category": "natural", "coords": [7.100787, 50.765605]}, {"name": "Siegaue", "text": "O rezervație naturală situată la gura de vărsare a râului Sieg în Rin, lângă Bonn.", "category": "natural", "coords": [7.113208, 50.779936]}, {"name": "StadtMuseum Bonn", "text": "Muzeul orașului documentează istoria diversă a Bonnului.", "category": "museum", "coords": [7.104639, 50.734697]}, {"name": "Radiomuseum", "text": "Un muzeu din Bonn dedicat istoriei radiodifuziunii și tehnologiei radio.", "category": "museum", "coords": [7.083799, 50.729855]}, {"name": "Römischer Backofen", "text": "Vestigii arheologice ale unui cuptor roman antic în Bonn.", "category": "historical", "coords": [7.102268, 50.739542]}, {"name": "Akademisches Kunstmuseum", "text": "Un muzeu cu o colecție importantă de mulaje de sculpturi antice în Bonn.", "category": "museum", "coords": [7.096935, 50.751322]}, {"name": "P26", "text": "Un spațiu expozițional pentru artă și cultură contemporană în Bonn.", "category": "museum", "coords": [7.098256, 50.733731]}, {"name": "Römische Badeanlage", "text": "Săpăturile arheologice ale unei băi romane antice în Bonn.", "category": "historical", "coords": [7.10782, 50.732837]}, {"name": "Flauschfarm - Alpakawanderungen", "text": "O fermă din Bonn care oferă drumeții ghidate cu alpaca.", "category": "family", "coords": [7.088388, 50.717986]}, {"name": "Bonner Kunstverein gkg Künstlerforum", "text": "Bonner Kunstverein gkg Künstlerforum este un centru de artă contemporană din Bonn. Aici vizitatorii pot descoperi expoziții care pun în valoare lucrările artiștilor locali.", "category": "museum", "coords": [7.086532, 50.739027]}, {"name": "Das Blaue Haus", "text": "O clădire istorică din Bonn, folosită astăzi în scopuri culturale.", "category": "museum", "coords": [7.065608, 50.745298]}, {"name": "Wolfsburg", "text": "Un castel baroc situat în cartierul Schwarzrheindorf din Bonn.", "category": "castle", "coords": [7.115292, 50.745215]}, {"name": "Alter Zoll", "text": "O fostă bastion din fortificațiile orașului Bonn, oferind vedere spre Rin.", "category": "natural", "coords": [7.108056, 50.734761]}, {"name": "Chlodwigplatz", "text": "O piață urbană cu spații verzi în cartierul Kessenich din Bonn.", "category": "park", "coords": [7.089198, 50.743385]}, {"name": "Hofgarten", "text": "Parcul mare din fața clădirii principale a Universității din Bonn.", "category": "park", "coords": [7.104495, 50.732605]}, {"name": "Palais Schaumburg", "text": "O clădire neoclasică târzie care servește drept a doua reședință a cancelarului federal.", "category": "historical", "coords": [7.11731, 50.72031]}, {"name": "Mühlenstumpf (Turmruine)", "text": "Ruina istorică a turnului unei foste mori de vânt din cartierul Auerberg din Bonn.", "category": "historical", "coords": [7.081383, 50.756214]}, {"name": "Rotter See", "text": "Rotter See din Bonn oferă priveliști pitorești și un mediu liniștit pentru plimbări relaxante.", "category": "natural", "coords": [7.113196, 50.808513]}, {"name": "Eschmarer See", "text": "Eschmarer See din Bonn este un lac local unde vizitatorii se pot bucura de natură și de apă în timpul plimbărilor.", "category": "natural", "coords": [7.090832, 50.797525]}, {"name": "Löschteich", "text": "Löschteich este un lac mic din Bonn, care oferă un loc liniștit pentru observarea relaxantă a naturii.", "category": "natural", "coords": [7.147025, 50.762266]}, {"name": "Sieglarer See", "text": "Sieglarer See este un lac frumos din Bonn, ideal pentru plimbări pe malurile sale.", "category": "natural", "coords": [7.139308, 50.78971]}, {"name": "Auensee", "text": "Auensee din Bonn este un lac care oferă o atmosferă relaxantă pentru recreere și plimbări în aer liber.", "category": "natural", "coords": [7.143245, 50.713863]}, {"name": "Hirschweiher", "text": "Hirschweiher este un lac liniștit din Bonn, perfect pentru plimbări tăcute pe malul apei.", "category": "natural", "coords": [7.083209, 50.668053]}, {"name": "Spielplatz Kinderklinik", "text": "Spielplatz Kinderklinik este un loc de joacă primitor din Bonn, oferind un loc frumos pentru familii.", "category": "family", "coords": [7.114926, 50.724999]}, {"name": "Schulhof Spielplatz", "text": "Schulhof Spielplatz din Bonn este excelent pentru joacă activă și mici întâlniri de familie după-amiaza.", "category": "family", "coords": [7.106966, 50.718431]}, {"name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.", "text": "Acest loc de joacă de pe Theodor-Brinkmann-/Sebastianstraße din Bonn oferă familiilor o zonă frumoasă de recreere.", "category": "family", "coords": [7.080811, 50.725008]}, {"name": "Spielplatz Stockenstraße/Hofgarten", "text": "Spielplatz Stockenstraße/Hofgarten din Bonn permite familiilor să combine plimbările prin oraș cu o pauză de joacă.", "category": "family", "coords": [7.105459, 50.733199]}, {"name": "Roonplatz", "text": "Roonplatz din Bonn este o zonă prietenoasă care oferă copiilor mult spațiu pentru a se juca cu familiile lor.", "category": "family", "coords": [7.099001, 50.725045]}, {"name": "Gerhardsplatz", "text": "Locul de joacă de la Gerhardsplatz din Bonn este un punct de întâlnire popular pentru familiile din cartier.", "category": "family", "coords": [7.081992, 50.743738]}, {"name": "Spielplatz St. Elisabeth-Kirche", "text": "Spielplatz St. Elisabeth-Kirche din Bonn este un loc ideal pentru activități distractive în familie în aer liber.", "category": "family", "coords": [7.10774, 50.722923]}, {"name": "Spielplatz Paulusstraße", "text": "Spielplatz Paulusstraße este un loc confortabil în Bonn, amenajat pentru bucuria copiilor și a familiilor.", "category": "family", "coords": [7.129503, 50.740083]}, {"name": "Veedelsgarten", "text": "Veedelsgarten din Bonn este un loc de joacă care oferă un spațiu plăcut în aer liber pentru familii și copii.", "category": "family", "coords": [7.092274, 50.737984]}, {"name": "Frankenbadplatz", "text": "Frankenbadplatz este un loc de joacă local din Bonn, unde copiii se pot bucura de activități în aer liber.", "category": "family", "coords": [7.089558, 50.739178]}, {"name": "Kinderspielplatz Wohnanlage Ledenhof", "text": "Kinderspielplatz Wohnanlage Ledenhof este un loc de joacă rezidențial din Bonn, ideal și sigur pentru copii.", "category": "family", "coords": [7.124798, 50.752673]}, {"name": "Spielplatz Brüdergasse", "text": "Spielplatz Brüdergasse este un loc de joacă prietenos pentru familii situat în orașul Bonn.", "category": "family", "coords": [7.103356, 50.736203]}, {"name": "Badestelle Siegfähre", "text": "Zona de scăldat Siegfähre de lângă Bonn oferă o posibilitate idilică de răcorire.", "category": "family", "coords": [7.107331, 50.764582]}, {"name": "Sportbecken", "text": "Piscina sportivă din Bonn este foarte potrivită pentru antrenamentul pe culoar.", "category": "family", "coords": [7.151304, 50.738719]}], "en": [{"name": "Beethoven House", "text": "The birthplace of the world-famous composer Ludwig van Beethoven, now a museum and research center.", "category": "Museums", "confidence": "high", "coords": [7.10139, 50.7369]}, {"name": "Bonn Minster", "text": "One of Germany's oldest churches, this Romanesque basilica features a beautiful and peaceful cloister.", "category": "Churches & monasteries", "confidence": "high", "coords": [7.099789, 50.733408]}, {"name": "Poppelsdorf Palace", "text": "A Baroque palace that currently houses university departments and is adjacent to the Botanical Garden.", "category": "Castles & palaces", "confidence": "high", "coords": [7.09209, 50.725]}, {"name": "Old Town Hall", "text": "A magnificent Rococo building on the market square, famous for its grand staircase and historical visits.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.102916, 50.735105]}, {"name": "House of the History", "text": "A modern museum covering German contemporary history since 1945, located on the Museum Mile.", "category": "Museums", "confidence": "high", "coords": [7.11861, 50.7172]}, {"name": "Drachenfels", "text": "A famous hill in the Siebengebirge range near Bonn, featuring castle ruins and a neo-Gothic palace.", "category": "Parks, gardens, lakes nearby", "confidence": "high", "coords": [7.209722, 50.665278]}, {"name": "Junges Theater Bonn", "text": "A well-known theater in Bonn focusing on sophisticated plays for children and young people.", "category": "cultural", "coords": [7.117026, 50.736548]}, {"name": "Contra-Kreis-Theater", "text": "The oldest private theater in Bonn, known for its centrally located stage and entertainment.", "category": "cultural", "coords": [7.101191, 50.733334]}, {"name": "Pantheon Theater", "text": "A renowned cabaret and stage venue in Bonn presenting a variety of satirical programs.", "category": "cultural", "coords": [7.132431, 50.739748]}, {"name": "Goldfuß-Museum", "text": "The paleontological museum of the University of Bonn, housing a significant collection of fossil exhibits.", "category": "museum", "coords": [7.089775, 50.726568]}, {"name": "Poppelsdorfer Heimatmuseum", "text": "A local museum showcasing the history and culture of the Poppelsdorf district in Bonn.", "category": "museum", "coords": [7.090288, 50.721611]}, {"name": "Paul-Clemen-Museum", "text": "Art history museum of the University of Bonn featuring a significant collection of casts.", "category": "museum", "coords": [7.102253, 50.732892]}, {"name": "Euro Theater Central", "text": "A private theatre in the centre of Bonn offering a diverse program of performances.", "category": "cultural", "coords": [7.094448, 50.736044]}, {"name": "Rheinisches Landesmuseum", "text": "One of Germany's oldest museums dedicated to the archaeology and cultural history of the Rhineland.", "category": "museum", "coords": [7.092654, 50.732018]}, {"name": "Opernhaus", "text": "The opera house of the city of Bonn on the banks of the Rhine hosts opera, ballet, and concerts.", "category": "cultural", "coords": [7.106746, 50.73667]}, {"name": "Museum Alexander Koenig", "text": "Natural history research museum with extensive exhibitions on zoology and biodiversity.", "category": "museum", "coords": [7.113379, 50.722161]}, {"name": "Wasserburg Lede", "text": "A picturesque moated castle in the Vilich district of Bonn with medieval origins.", "category": "castle", "coords": [7.129972, 50.754322]}, {"name": "Burg Graurheindorf", "text": "A historic castle complex in Bonn-Graurheindorf, currently used as a residential building.", "category": "castle", "coords": [7.077339, 50.760801]}, {"name": "Heimatmuseum Beuel", "text": "Museum dedicated to the history and traditions of the Beuel district of Bonn on the right bank of the Rhine.", "category": "museum", "coords": [7.118189, 50.735368]}, {"name": "Dietkirche", "text": "Archaeological site of one of Bonn's oldest churches, currently located beneath modern buildings.", "category": "historical", "coords": [7.097696, 50.743061]}, {"name": "Ernst-Moritz-Arndt-Haus", "text": "The former residence of the poet Ernst Moritz Arndt now serves as a branch of the Bonn City Museum.", "category": "museum", "coords": [7.110752, 50.728892]}, {"name": "Arithmeum", "text": "A museum of the University of Bonn on discrete mathematics featuring a collection of historical calculating machines.", "category": "museum", "coords": [7.104835, 50.730636]}, {"name": "Düne Tannenbusch", "text": "A protected inland dune area in northern Bonn, home to rare plant and animal species.", "category": "natural", "coords": [7.060594, 50.744049]}, {"name": "Schumannhaus und Schumann-Grabmal", "text": "Robert Schumann's former final home, now serving as a museum and memorial to the famous composer couple.", "category": "museum", "coords": [7.077438, 50.724424]}, {"name": "Burg Endenich", "text": "A historic castle in the Endenich district of Bonn, currently used for cultural events.", "category": "castle", "coords": [7.072163, 50.72506]}, {"name": "August Macke Haus", "text": "The former home of expressionist painter August Macke, now featuring exhibitions on his life and work.", "category": "museum", "coords": [7.086312, 50.737457]}, {"name": "Frauenmuseum", "text": "The world's first museum of its kind, dedicated to art and cultural history from a female perspective.", "category": "museum", "coords": [7.092358, 50.740774]}, {"name": "Melbbad", "text": "A popular outdoor swimming pool on the slopes of the Venusberg, offering recreation in spacious green surroundings.", "category": "family", "coords": [7.088409, 50.715143]}, {"name": "Haus der Springmaus", "text": "A renowned theatre in Bonn, well-known for its improvisational comedy and cabaret programs.", "category": "cultural", "coords": [7.074418, 50.727401]}, {"name": "Rosenburg", "text": "A historicist building in Bonn-Kessenich, notable for its castle-like architectural style.", "category": "castle", "coords": [7.102144, 50.711435]}, {"name": "Melbtal", "text": "A natural stream valley on the Venusberg, serving as a nature reserve and local recreation area.", "category": "natural", "coords": [7.08791, 50.705057]}, {"name": "Kurfürstliches Gärtnerhaus", "text": "A historic gardener's house, now serving as a municipal gallery for rotating art exhibitions.", "category": "museum", "coords": [7.089316, 50.731118]}, {"name": "Siegmündung", "text": "An ecologically significant nature reserve at the confluence of the Sieg and Rhine rivers.", "category": "natural", "coords": [7.100787, 50.765605]}, {"name": "Siegaue", "text": "A nature reserve at the mouth of the Sieg River near Bonn.", "category": "natural", "coords": [7.113208, 50.779936]}, {"name": "StadtMuseum Bonn", "text": "The city museum documents the diverse history of Bonn.", "category": "museum", "coords": [7.104639, 50.734697]}, {"name": "Radiomuseum", "text": "A museum in Bonn dedicated to the history of broadcasting and radio technology.", "category": "museum", "coords": [7.083799, 50.729855]}, {"name": "Römischer Backofen", "text": "Archaeological remains of an ancient Roman baking oven in Bonn.", "category": "historical", "coords": [7.102268, 50.739542]}, {"name": "Akademisches Kunstmuseum", "text": "A museum featuring a significant collection of casts of ancient sculptures in Bonn.", "category": "museum", "coords": [7.096935, 50.751322]}, {"name": "P26", "text": "An exhibition space for contemporary art and culture in Bonn.", "category": "museum", "coords": [7.098256, 50.733731]}, {"name": "Römische Badeanlage", "text": "The archaeological excavation of an ancient Roman bath in Bonn.", "category": "historical", "coords": [7.10782, 50.732837]}, {"name": "Flauschfarm - Alpakawanderungen", "text": "A farm in Bonn offering guided hikes with alpacas.", "category": "family", "coords": [7.088388, 50.717986]}, {"name": "Bonner Kunstverein gkg Künstlerforum", "text": "The Bonner Kunstverein gkg Künstlerforum serves as a center for contemporary art in Bonn. Visitors can explore exhibitions that showcase the works of local artists here.", "category": "museum", "coords": [7.086532, 50.739027]}, {"name": "Das Blaue Haus", "text": "A historical building in Bonn currently used for cultural purposes.", "category": "museum", "coords": [7.065608, 50.745298]}, {"name": "Wolfsburg", "text": "A baroque castle building located in the Schwarzrheindorf district of Bonn.", "category": "castle", "coords": [7.115292, 50.745215]}, {"name": "Alter Zoll", "text": "A former bastion of the Bonn city fortifications overlooking the Rhine.", "category": "natural", "coords": [7.108056, 50.734761]}, {"name": "Chlodwigplatz", "text": "A city square with green areas in the Kessenich district of Bonn.", "category": "park", "coords": [7.089198, 50.743385]}, {"name": "Hofgarten", "text": "The large park area in front of the main building of the University of Bonn.", "category": "park", "coords": [7.104495, 50.732605]}, {"name": "Palais Schaumburg", "text": "A late neoclassical building serving as the second official residence of the Federal Chancellor.", "category": "historical", "coords": [7.11731, 50.72031]}, {"name": "Mühlenstumpf (Turmruine)", "text": "The historic tower ruins of a former windmill in the Auerberg district of Bonn.", "category": "historical", "coords": [7.081383, 50.756214]}, {"name": "Rotter See", "text": "Rotter See in Bonn offers scenic views and a tranquil environment for relaxed walks.", "category": "natural", "coords": [7.113196, 50.808513]}, {"name": "Eschmarer See", "text": "Eschmarer See in Bonn is a local lake where visitors can enjoy nature and the water while walking.", "category": "natural", "coords": [7.090832, 50.797525]}, {"name": "Löschteich", "text": "Löschteich is a small lake in Bonn, offering a peaceful spot for leisurely nature observation.", "category": "natural", "coords": [7.147025, 50.762266]}, {"name": "Sieglarer See", "text": "Sieglarer See is a lovely lake in Bonn, ideal for walks along its shores.", "category": "natural", "coords": [7.139308, 50.78971]}, {"name": "Auensee", "text": "Auensee in Bonn is a lake that offers a relaxed atmosphere for outdoor recreation and walking.", "category": "natural", "coords": [7.143245, 50.713863]}, {"name": "Hirschweiher", "text": "Hirschweiher is a quiet lake in Bonn, perfect for silent waterside strolls.", "category": "natural", "coords": [7.083209, 50.668053]}, {"name": "Spielplatz Kinderklinik", "text": "Spielplatz Kinderklinik is a welcoming playground in Bonn, providing a nice spot for families.", "category": "family", "coords": [7.114926, 50.724999]}, {"name": "Schulhof Spielplatz", "text": "Schulhof Spielplatz in Bonn is excellent for active play and small family gatherings in the afternoon.", "category": "family", "coords": [7.106966, 50.718431]}, {"name": "Spielplatz Theodor-Brinkmann-/Sebastianstr.", "text": "This playground on Theodor-Brinkmann-/Sebastianstraße in Bonn offers families a nice recreation area.", "category": "family", "coords": [7.080811, 50.725008]}, {"name": "Spielplatz Stockenstraße/Hofgarten", "text": "Spielplatz Stockenstraße/Hofgarten in Bonn allows families to combine city walks with a play break.", "category": "family", "coords": [7.105459, 50.733199]}, {"name": "Roonplatz", "text": "Roonplatz in Bonn is a friendly area that gives children plenty of space to play with their families.", "category": "family", "coords": [7.099001, 50.725045]}, {"name": "Gerhardsplatz", "text": "The playground at Gerhardsplatz in Bonn is a popular meeting point for families from the neighborhood.", "category": "family", "coords": [7.081992, 50.743738]}, {"name": "Spielplatz St. Elisabeth-Kirche", "text": "Spielplatz St. Elisabeth-Kirche in Bonn is an ideal spot for entertaining outdoor family activities.", "category": "family", "coords": [7.10774, 50.722923]}, {"name": "Spielplatz Paulusstraße", "text": "Spielplatz Paulusstraße is a cozy place in Bonn set up for the enjoyment of children and families.", "category": "family", "coords": [7.129503, 50.740083]}, {"name": "Veedelsgarten", "text": "The Veedelsgarten in Bonn is a playground offering a fun outdoor space for families and children.", "category": "family", "coords": [7.092274, 50.737984]}, {"name": "Frankenbadplatz", "text": "Frankenbadplatz is a local playground in Bonn where children can enjoy outdoor activities.", "category": "family", "coords": [7.089558, 50.739178]}, {"name": "Kinderspielplatz Wohnanlage Ledenhof", "text": "The Kinderspielplatz Wohnanlage Ledenhof is a residential playground in Bonn providing a safe play area for children.", "category": "family", "coords": [7.124798, 50.752673]}, {"name": "Spielplatz Brüdergasse", "text": "Spielplatz Brüdergasse is a family-friendly playground located in the city of Bonn.", "category": "family", "coords": [7.103356, 50.736203]}, {"name": "Badestelle Siegfähre", "text": "The bathing spot Siegfähre near Bonn offers an idyllic way to cool off.", "category": "family", "coords": [7.107331, 50.764582]}, {"name": "Sportbecken", "text": "The sports pool in Bonn is well-suited for lane-based training.", "category": "family", "coords": [7.151304, 50.738719]}], "tr": [{"name": "Beethoven Evi", "text": "Dünyaca ünlü besteci Ludwig van Beethoven'ın doğduğu ev, günümüzde müze ve araştırma merkezi olarak kullanılır.", "category": "Museums", "coords": [7.10139, 50.7369]}, {"name": "Bonner Münster", "text": "Almanya'nın en eski kiliselerinden biri olan bu Romanesk bazilika, etkileyici bir manastır avlusuna sahiptir.", "category": "Churches & monasteries", "coords": [7.099789, 50.733408]}, {"name": "Poppelsdorf Sarayı", "text": "Üniversitenin bazı bölümlerine ve botanik bahçesine ev sahipliği yapan görkemli bir Barok kır sarayıdır.", "category": "Castles & palaces", "coords": [7.09209, 50.725]}, {"name": "Eski Belediye Binası", "text": "Pazar yerindeki bu gösterişli Rokoko yapı, merdivenleri ve ağırladığı devlet konuklarıyla tanınır.", "category": "Town hall & historic squares", "coords": [7.102916, 50.735105]}, {"name": "Tarih Evi", "text": "Almanya'nın 1945'ten günümüze kadar olan yakın tarihini sunan modern bir müze olup Müze Yolu üzerindedir.", "category": "Museums", "coords": [7.11861, 50.7172]}, {"name": "Drachenfels", "text": "Siebengebirge bölgesinde, tepesinde bir kale kalıntısı ve şato bulunan oldukça popüler bir dağdır.", "category": "Parks, gardens, lakes nearby", "coords": [7.209722, 50.665278]}]}
   },
   {
     id: "city-goettingen",
@@ -43334,6 +35044,42 @@ export const pois: POI[] = [
                         9.914229,
                         51.528556
                   ]
+            },
+            {
+                  "name": "Solebad Saline Luisenhall",
+                  "text": "Ein wohltuendes Solebad in Göttingen mit salzhaltigem Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.906756,
+                        51.537564
+                  ]
+            },
+            {
+                  "name": "Wildgehege Damwild",
+                  "text": "Ein schönes Wildgehege in Göttingen zur Beobachtung von Damwild.",
+                  "category": "family",
+                  "coords": [
+                        9.982512,
+                        51.526611
+                  ]
+            },
+            {
+                  "name": "Wildgehege Wildschweine",
+                  "text": "Ein Wildgehege in Göttingen, in dem man Wildschweine sehen kann.",
+                  "category": "family",
+                  "coords": [
+                        9.982241,
+                        51.525148
+                  ]
+            },
+            {
+                  "name": "Freibad Nikolausberg",
+                  "text": "Ein angenehmes Freibad im Stadtteil Nikolausberg in Göttingen.",
+                  "category": "family",
+                  "coords": [
+                        9.97423,
+                        51.564376
+                  ]
             }
       ],
       "hu": [
@@ -43764,6 +35510,42 @@ export const pois: POI[] = [
                   "coords": [
                         9.914229,
                         51.528556
+                  ]
+            },
+            {
+                  "name": "Solebad Saline Luisenhall",
+                  "text": "Jótékony sófürdő Göttingenben sós vízzel.",
+                  "category": "family",
+                  "coords": [
+                        9.906756,
+                        51.537564
+                  ]
+            },
+            {
+                  "name": "Wildgehege Damwild",
+                  "text": "Szép vadaskert Göttingenben dámvadak megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        9.982512,
+                        51.526611
+                  ]
+            },
+            {
+                  "name": "Wildgehege Wildschweine",
+                  "text": "Vadaskert Göttingenben, ahol vaddisznókat lehet látni.",
+                  "category": "family",
+                  "coords": [
+                        9.982241,
+                        51.525148
+                  ]
+            },
+            {
+                  "name": "Freibad Nikolausberg",
+                  "text": "Kellemes strandfürdő Göttingen Nikolausberg negyedében.",
+                  "category": "family",
+                  "coords": [
+                        9.97423,
+                        51.564376
                   ]
             }
       ],
@@ -44196,6 +35978,42 @@ export const pois: POI[] = [
                         9.914229,
                         51.528556
                   ]
+            },
+            {
+                  "name": "Solebad Saline Luisenhall",
+                  "text": "O baie sărată benefică în Goettingen, cu apă salină.",
+                  "category": "family",
+                  "coords": [
+                        9.906756,
+                        51.537564
+                  ]
+            },
+            {
+                  "name": "Wildgehege Damwild",
+                  "text": "Un parc de animale sălbatice frumos în Goettingen pentru observarea cerbilor lopătari.",
+                  "category": "family",
+                  "coords": [
+                        9.982512,
+                        51.526611
+                  ]
+            },
+            {
+                  "name": "Wildgehege Wildschweine",
+                  "text": "Un parc de animale sălbatice în Goettingen, unde pot fi văzuți porci mistreți.",
+                  "category": "family",
+                  "coords": [
+                        9.982241,
+                        51.525148
+                  ]
+            },
+            {
+                  "name": "Freibad Nikolausberg",
+                  "text": "Un ștrand plăcut în cartierul Nikolausberg din Goettingen.",
+                  "category": "family",
+                  "coords": [
+                        9.97423,
+                        51.564376
+                  ]
             }
       ],
       "en": [
@@ -44627,6 +36445,42 @@ export const pois: POI[] = [
                         9.914229,
                         51.528556
                   ]
+            },
+            {
+                  "name": "Solebad Saline Luisenhall",
+                  "text": "A beneficial brine pool in Goettingen with saline water.",
+                  "category": "family",
+                  "coords": [
+                        9.906756,
+                        51.537564
+                  ]
+            },
+            {
+                  "name": "Wildgehege Damwild",
+                  "text": "A lovely wildlife enclosure in Goettingen for observing fallow deer.",
+                  "category": "family",
+                  "coords": [
+                        9.982512,
+                        51.526611
+                  ]
+            },
+            {
+                  "name": "Wildgehege Wildschweine",
+                  "text": "A wildlife enclosure in Goettingen where you can see wild boars.",
+                  "category": "family",
+                  "coords": [
+                        9.982241,
+                        51.525148
+                  ]
+            },
+            {
+                  "name": "Freibad Nikolausberg",
+                  "text": "A pleasant outdoor pool in the Nikolausberg district of Goettingen.",
+                  "category": "family",
+                  "coords": [
+                        9.97423,
+                        51.564376
+                  ]
             }
       ],
       "tr": [
@@ -45051,6 +36905,15 @@ export const pois: POI[] = [
                         11.601182,
                         49.948369
                   ]
+            },
+            {
+                  "name": "Lohengrin-Therme",
+                  "text": "Die Lohengrin-Therme in Bayreuth lädt zum Schwimmen und Entspannen ein.",
+                  "category": "family",
+                  "coords": [
+                        11.632479,
+                        49.942622
+                  ]
             }
       ],
       "hu": [
@@ -45382,6 +37245,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.601182,
                         49.948369
+                  ]
+            },
+            {
+                  "name": "Lohengrin-Therme",
+                  "text": "A Lohengrin-Therme Bayreuth városában úszási és kikapcsolódási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        11.632479,
+                        49.942622
                   ]
             }
       ],
@@ -45715,6 +37587,15 @@ export const pois: POI[] = [
                         11.601182,
                         49.948369
                   ]
+            },
+            {
+                  "name": "Lohengrin-Therme",
+                  "text": "Lohengrin-Therme din Bayreuth este un loc ideal pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        11.632479,
+                        49.942622
+                  ]
             }
       ],
       "en": [
@@ -46047,6 +37928,15 @@ export const pois: POI[] = [
                         11.601182,
                         49.948369
                   ]
+            },
+            {
+                  "name": "Lohengrin-Therme",
+                  "text": "The Lohengrin-Therme in Bayreuth is a great place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        11.632479,
+                        49.942622
+                  ]
             }
       ],
       "tr": [
@@ -46323,6 +38213,42 @@ export const pois: POI[] = [
                         11.612616,
                         50.948108
                   ]
+            },
+            {
+                  "name": "Tiergarten Griesbrücke",
+                  "text": "Der Tiergarten Griesbrücke in Jena ist ein schönes Ziel für Familienbegegnungen mit Tieren.",
+                  "category": "family",
+                  "coords": [
+                        11.592883,
+                        50.934467
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Das Südbad in Jena bietet vielfältige Freizeitmöglichkeiten am und im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        11.580044,
+                        50.912445
+                  ]
+            },
+            {
+                  "name": "Ostbad",
+                  "text": "Das Ostbad in Jena ist ein beliebter Treffpunkt für sommerlichen Badespaß.",
+                  "category": "family",
+                  "coords": [
+                        11.606479,
+                        50.93752
+                  ]
+            },
+            {
+                  "name": "Imaginata",
+                  "text": "Die Imaginata in Jena ist ein spannendes Experimentierfeld für Neugierige jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        11.602692,
+                        50.94381
+                  ]
             }
       ],
       "hu": [
@@ -46500,6 +38426,42 @@ export const pois: POI[] = [
                   "coords": [
                         11.612616,
                         50.948108
+                  ]
+            },
+            {
+                  "name": "Tiergarten Griesbrücke",
+                  "text": "A jénai Tiergarten Griesbrücke szép úti cél az állatokkal való családi találkozásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        11.592883,
+                        50.934467
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "A jénai Südbad változatos szabadidős lehetőségeket kínál a vízben és a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        11.580044,
+                        50.912445
+                  ]
+            },
+            {
+                  "name": "Ostbad",
+                  "text": "A jénai Ostbad népszerű találkozóhely a nyári fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        11.606479,
+                        50.93752
+                  ]
+            },
+            {
+                  "name": "Imaginata",
+                  "text": "A jénai Imaginata izgalmas kísérletező terep minden korosztály kíváncsi látogatói számára.",
+                  "category": "family",
+                  "coords": [
+                        11.602692,
+                        50.94381
                   ]
             }
       ],
@@ -46679,6 +38641,42 @@ export const pois: POI[] = [
                         11.612616,
                         50.948108
                   ]
+            },
+            {
+                  "name": "Tiergarten Griesbrücke",
+                  "text": "Tiergarten Griesbrücke din Jena este o destinație frumoasă pentru întâlnirile în familie cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        11.592883,
+                        50.934467
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "Südbad din Jena oferă diverse posibilități de petrecere a timpului liber la și în apă.",
+                  "category": "family",
+                  "coords": [
+                        11.580044,
+                        50.912445
+                  ]
+            },
+            {
+                  "name": "Ostbad",
+                  "text": "Ostbad din Jena este un loc de întâlnire popular pentru distracția estivală la scăldat.",
+                  "category": "family",
+                  "coords": [
+                        11.606479,
+                        50.93752
+                  ]
+            },
+            {
+                  "name": "Imaginata",
+                  "text": "Imaginata din Jena este un câmp de experimentare captivant pentru curioșii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        11.602692,
+                        50.94381
+                  ]
             }
       ],
       "en": [
@@ -46856,6 +38854,42 @@ export const pois: POI[] = [
                   "coords": [
                         11.612616,
                         50.948108
+                  ]
+            },
+            {
+                  "name": "Tiergarten Griesbrücke",
+                  "text": "The Tiergarten Griesbrücke in Jena is a nice destination for family encounters with animals.",
+                  "category": "family",
+                  "coords": [
+                        11.592883,
+                        50.934467
+                  ]
+            },
+            {
+                  "name": "Südbad",
+                  "text": "The Südbad in Jena offers varied leisure possibilities at and in the water.",
+                  "category": "family",
+                  "coords": [
+                        11.580044,
+                        50.912445
+                  ]
+            },
+            {
+                  "name": "Ostbad",
+                  "text": "The Ostbad in Jena is a popular meeting point for summer swimming fun.",
+                  "category": "family",
+                  "coords": [
+                        11.606479,
+                        50.93752
+                  ]
+            },
+            {
+                  "name": "Imaginata",
+                  "text": "The Imaginata in Jena is an exciting experimental field for curious people of all ages.",
+                  "category": "family",
+                  "coords": [
+                        11.602692,
+                        50.94381
                   ]
             }
       ],
@@ -48426,1307 +40460,7 @@ export const pois: POI[] = [
       fr: ["Le Gazomètre d'Oberhausen est, avec 117,5 mètres, le plus haut réservoir à gaz d'Europe.", "Le CentrO a ouvert en 1996 et fait partie du projet « Neue Mitte Oberhausen ».", "La forge Saint-Antoine (1758) est considérée comme la première usine sidérurgique de la Ruhr.", "La cité ouvrière Eisenheim fut fondée dès 1846.", "Le Festival international du court-métrage a lieu chaque année depuis 1954.", "Le château d'Oberhausen abrite aujourd'hui la célèbre galerie Ludwig."],
     
       "tr": ["Gasometer Oberhausen, 117,5 metre ile Avrupa'nın en yüksek gaz deposudur.", "CentrO 1996 yılında açılmıştır ve 'Neue Mitte Oberhausen' projesinin parçasıdır.", "1758 tarihli St.-Antony-Hütte, Ruhr bölgesinin ilk demir fabrikası kabul edilir.", "Eisenheim yerleşimi 1846 yılında kurulmuştur.", "Uluslararası Kısa Film Festivali 1954 yılından beri her yıl düzenlenmektedir.", "Schloss Oberhausen bugün saygın Ludwiggalerie'ye ev sahipliği yapmaktadır."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Gasometer Oberhausen",
-                  "text": "Der riesige ehemalige Gasspeicher ist heute eine spektakuläre Ausstellungshalle und bietet vom Dach einen weiten Blick.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.87,
-                        51.494
-                  ]
-            },
-            {
-                  "name": "Schloss Oberhausen",
-                  "text": "Ein klassizistisches Gebäude, das die renommierte Ludwiggalerie für Kunst beherbergt und von einem Park umgeben ist.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        6.860333,
-                        51.492144
-                  ]
-            },
-            {
-                  "name": "Kaisergarten",
-                  "text": "Eine weitläufige Parkanlage am Schloss mit Tiergehege und der markanten, bunt beleuchteten Brücke 'Slinky Springs to Fame'.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.856579,
-                        51.490457
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum",
-                  "text": "Das Museum in der ehemaligen Zinkfabrik Altenberg zeigt eindrucksvoll die Geschichte der Schwerindustrie in der Region.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.852991,
-                        51.480561
-                  ]
-            },
-            {
-                  "name": "CentrO",
-                  "text": "Europas größtes Einkaufs- und Freizeitzentrum, das das neue Zentrum der Stadt nach dem Kohlezeitalter bildet.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.875575,
-                        51.488246
-                  ]
-            },
-            {
-                  "name": "St. Antony Hütte",
-                  "text": "Die St. Antony Hütte in Oberhausen gilt als die Geburtsstätte der Ruhrindustrie und ist heute eine bedeutende archäologische Stätte.",
-                  "category": "historical",
-                  "coords": [
-                        6.871634,
-                        51.519308
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum",
-                  "text": "Das Bunkermuseum in Oberhausen dokumentiert den zivilen Luftschutz während des Zweiten Weltkriegs in einem originalen Hochbunker.",
-                  "category": "museum",
-                  "coords": [
-                        6.882764,
-                        51.47738
-                  ]
-            },
-            {
-                  "name": "Metronom Theater",
-                  "text": "Das Metronom Theater in Oberhausen ist ein bekannter Veranstaltungsort für Musicals und Shows direkt an der Neuen Mitte.",
-                  "category": "cultural",
-                  "coords": [
-                        6.88555,
-                        51.49129
-                  ]
-            },
-            {
-                  "name": "Burg Vondern",
-                  "text": "Die spätgotische Burg Vondern in Oberhausen ist eine historische Wasserburg mit Herrenhaus und Vorburg.",
-                  "category": "castle",
-                  "coords": [
-                        6.906867,
-                        51.498968
-                  ]
-            },
-            {
-                  "name": "Theater Oberhausen",
-                  "text": "Das Theater Oberhausen ist ein renommiertes städtisches Schauspielhaus mit einer über 100-jährigen Tradition.",
-                  "category": "cultural",
-                  "coords": [
-                        6.860734,
-                        51.476265
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum, (Peter-Behrens-Bau)",
-                  "text": "Industriemuseum im von Peter Behrens entworfenen ehemaligen Hauptlagerhaus der GHH.",
-                  "category": "museum",
-                  "coords": [
-                        6.871072,
-                        51.488226
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum Zinkfabrik Altenberg",
-                  "text": "Museum zur Eisen- und Stahlgeschichte in einer ehemaligen Zinkfabrik von 1853.",
-                  "category": "museum",
-                  "coords": [
-                        6.849301,
-                        51.475043
-                  ]
-            },
-            {
-                  "name": "Solebad Vonderort",
-                  "text": "Thermalbad im Revierpark Vonderort mit Solebecken, Saunen und Wellnessangeboten.",
-                  "category": "family",
-                  "coords": [
-                        6.901051,
-                        51.508185
-                  ]
-            },
-            {
-                  "name": "Verein für aktuelle Kunst",
-                  "text": "Ausstellungszentrum im Zentrum Altenberg für zeitgenössische bildende Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        6.846723,
-                        51.475534
-                  ]
-            },
-            {
-                  "name": "SEA LIFE Oberhausen",
-                  "text": "Großaquarium am CentrO mit über 5.000 Meeresbewohnern und einem Acryltunnel.",
-                  "category": "family",
-                  "coords": [
-                        6.880935,
-                        51.494334
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Erlebnisbad mit Bergbau-Thematik, mehreren Rutschen und einem Ganzjahres-Freibad.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "Indoor-Spielplatz mit LEGO-Modellen, Fahrgeschäften und einem 4D-Kino am CentrO.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Museum Eisenheim",
-                  "text": "Museum über das Leben in der Arbeitersiedlung Eisenheim, der ältesten im Revier.",
-                  "category": "museum",
-                  "coords": [
-                        6.86399,
-                        51.503699
-                  ]
-            },
-            {
-                  "name": "Volkspark Sterkrade",
-                  "text": "Stadtpark im Stadtteil Sterkrade mit Spielplätzen, Teichen und alten Baumbeständen.",
-                  "category": "park",
-                  "coords": [
-                        6.837193,
-                        51.521449
-                  ]
-            },
-            {
-                  "name": "Gleispark Frintrop",
-                  "text": "Landschaftspark auf dem Gelände des ehemaligen Verschiebebahnhofs Frintrop.",
-                  "category": "park",
-                  "coords": [
-                        6.908422,
-                        51.487726
-                  ]
-            },
-            {
-                  "name": "Grillopark",
-                  "text": "Parkanlage im Stadtzentrum mit Brunnenanlagen, die an den Industriellen Grillo erinnert.",
-                  "category": "park",
-                  "coords": [
-                        6.859267,
-                        51.474088
-                  ]
-            },
-            {
-                  "name": "OLGA Park",
-                  "text": "Parkgelände auf dem Gelände der ehemaligen Zeche Osterfeld mit Industriekultur.",
-                  "category": "park",
-                  "coords": [
-                        6.87488,
-                        51.50131
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "Ein funktionaler Seebereich in Oberhausen in einer grünen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        6.94848,
-                        51.49073
-                  ]
-            },
-            {
-                  "name": "Biotop",
-                  "text": "Ein natürlicher Seebereich in Oberhausen, ideal für einen ruhigen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        6.919093,
-                        51.503741
-                  ]
-            },
-            {
-                  "name": "Beach Play",
-                  "text": "Eine unterhaltsame Indoor-Arcade für Familien in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.844956,
-                        51.514041
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "Eine Spielhalle in Oberhausen für Familienunterhaltung.",
-                  "category": "family",
-                  "coords": [
-                        6.848227,
-                        51.515732
-                  ]
-            },
-            {
-                  "name": "Minigolf Kaisergarten",
-                  "text": "Ein malerischer Minigolfplatz für Familien in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.852459,
-                        51.48817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Olga 2",
-                  "text": "Ein geräumiger Spielbereich für Kinder in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Ein lehrreicher und unterhaltsamer Spielplatz für Familien in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
-                  "name": "Ökumenisches Kirchenzentrum Neue Mitte",
-                  "text": "Ein Gemeinschaftsspielplatz für Familien in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.874518,
-                        51.491273
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz KTE Strickersweg",
-                  "text": "Ein sicherer Außenspielbereich für Kinder in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.878086,
-                        51.480167
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz Stepke-Kita",
-                  "text": "Ein lokaler Spielplatz für Familien in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.882191,
-                        51.479653
-                  ]
-            },
-            {
-                  "name": "Spielplatz Ackerstraße",
-                  "text": "Ein schöner Spielbereich für Kinder in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.862395,
-                        51.509586
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisergarten - Ponybahn",
-                  "text": "Ein lustiger Spielplatz für Kinder im Kaisergarten in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.855811,
-                        51.488644
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gasometer",
-                  "text": "Egy hatalmas egykori gáztározó, amely ma lenyűgöző kiállításoknak és panorámás kilátópontnak ad otthont.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.87,
-                        51.494
-                  ]
-            },
-            {
-                  "name": "Oberhauseni kastély",
-                  "text": "Klasszicista palota, amelyben a neves Ludwiggalerie művészeti múzeum működik jelentős gyűjteménnyel.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        6.860333,
-                        51.492144
-                  ]
-            },
-            {
-                  "name": "Kaisergarten",
-                  "text": "A kastély mellett elterülő népszerű park állatsimogatóval és az ikonikus, spirális formájú gyalogoshíddal.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.856579,
-                        51.490457
-                  ]
-            },
-            {
-                  "name": "LVR Ipari Múzeum",
-                  "text": "Egy egykori cinkgyár területén berendezett múzeum, amely a Ruhr-vidék nehézipari múltját mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.852991,
-                        51.480561
-                  ]
-            },
-            {
-                  "name": "CentrO",
-                  "text": "Európa legnagyobb bevásárló- és szórakoztatóközpontja, amely modern közösségi térként funkcionál az egykori gyártelepen.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.875575,
-                        51.488246
-                  ]
-            },
-            {
-                  "name": "St. Antony Hütte",
-                  "text": "Az oberhauseni St. Antony Hütte a Ruhr-vidéki ipar bölcsőjeként ismert, ma jelentős régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        6.871634,
-                        51.519308
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum",
-                  "text": "Az oberhauseni Bunkermúzeum a második világháború alatti polgári védelmet mutatja be egy eredeti felszíni óvóhelyen.",
-                  "category": "museum",
-                  "coords": [
-                        6.882764,
-                        51.47738
-                  ]
-            },
-            {
-                  "name": "Metronom Theater",
-                  "text": "Az oberhauseni Metronom Theater egy ismert musical-helyszín közvetlenül a Neue Mitte központ mellett.",
-                  "category": "cultural",
-                  "coords": [
-                        6.88555,
-                        51.49129
-                  ]
-            },
-            {
-                  "name": "Burg Vondern",
-                  "text": "Az oberhauseni késő gótikus Burg Vondern egy történelmi vízi vár udvarházzal és elővárral.",
-                  "category": "castle",
-                  "coords": [
-                        6.906867,
-                        51.498968
-                  ]
-            },
-            {
-                  "name": "Theater Oberhausen",
-                  "text": "A Theater Oberhausen egy neves városi színház, amely több mint 100 éves hagyománnyal rendelkezik.",
-                  "category": "cultural",
-                  "coords": [
-                        6.860734,
-                        51.476265
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum, (Peter-Behrens-Bau)",
-                  "text": "A Peter Behrens tervezte egykori GHH-raktárban működő ipartörténeti múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        6.871072,
-                        51.488226
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum Zinkfabrik Altenberg",
-                  "text": "Az 1853-ban alapított egykori cinkgyárban berendezett vas- és acéltörténeti múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        6.849301,
-                        51.475043
-                  ]
-            },
-            {
-                  "name": "Solebad Vonderort",
-                  "text": "Sós vizes medencékkel és szaunákkal felszerelt termálfürdő a Vonderort parkban.",
-                  "category": "family",
-                  "coords": [
-                        6.901051,
-                        51.508185
-                  ]
-            },
-            {
-                  "name": "Verein für aktuelle Kunst",
-                  "text": "Kortárs képzőművészeti alkotásokat bemutató kiállítótér a Zentrum Altenbergben.",
-                  "category": "museum",
-                  "coords": [
-                        6.846723,
-                        51.475534
-                  ]
-            },
-            {
-                  "name": "SEA LIFE Oberhausen",
-                  "text": "A CentrO mellett található óriásakvárium több mint 5000 tengeri állattal.",
-                  "category": "family",
-                  "coords": [
-                        6.880935,
-                        51.494334
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Bányászati tematikájú élményfürdő csúszdákkal és egész évben nyitott medencével.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "Beltéri játszópark LEGO-modellekkel, játékokkal és 4D-mozival a CentrO mellett.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Museum Eisenheim",
-                  "text": "A Ruhr-vidék legrégebbi munkástelepét és az ottani életmódot bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        6.86399,
-                        51.503699
-                  ]
-            },
-            {
-                  "name": "Volkspark Sterkrade",
-                  "text": "Sterkrade városrész parkja játszóterekkel, tavakkal és idős faállománnyal.",
-                  "category": "park",
-                  "coords": [
-                        6.837193,
-                        51.521449
-                  ]
-            },
-            {
-                  "name": "Gleispark Frintrop",
-                  "text": "Tájvédelmi park a Frintrop városrész egykori rendezőpályaudvarának területén.",
-                  "category": "park",
-                  "coords": [
-                        6.908422,
-                        51.487726
-                  ]
-            },
-            {
-                  "name": "Grillopark",
-                  "text": "Szökőkutakkal díszített belvárosi park, amely Grillo iparmágnás emlékét őrzi.",
-                  "category": "park",
-                  "coords": [
-                        6.859267,
-                        51.474088
-                  ]
-            },
-            {
-                  "name": "OLGA Park",
-                  "text": "Az egykori Osterfeld bánya területén kialakított park ipari emlékekkel.",
-                  "category": "park",
-                  "coords": [
-                        6.87488,
-                        51.50131
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "Funkcionális tóvidék Oberhausenben, zöld környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        6.94848,
-                        51.49073
-                  ]
-            },
-            {
-                  "name": "Biotop",
-                  "text": "Természetes tóvidék Oberhausenben, ideális egy csendes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        6.919093,
-                        51.503741
-                  ]
-            },
-            {
-                  "name": "Beach Play",
-                  "text": "Szórakoztató fedett játékterem családoknak Oberhausenben.",
-                  "category": "family",
-                  "coords": [
-                        6.844956,
-                        51.514041
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "Játékterem Oberhausenben a család szórakoztatására.",
-                  "category": "family",
-                  "coords": [
-                        6.848227,
-                        51.515732
-                  ]
-            },
-            {
-                  "name": "Minigolf Kaisergarten",
-                  "text": "Festői minigolfpálya családoknak Oberhausen területén.",
-                  "category": "family",
-                  "coords": [
-                        6.852459,
-                        51.48817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Olga 2",
-                  "text": "Tágas játszótér gyerekeknek Oberhausen városában.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Oktató és szórakoztató játszótér családoknak Oberhausenben.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
-                  "name": "Ökumenisches Kirchenzentrum Neue Mitte",
-                  "text": "Közösségi játszótér családoknak Oberhausen városában.",
-                  "category": "family",
-                  "coords": [
-                        6.874518,
-                        51.491273
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz KTE Strickersweg",
-                  "text": "Biztonságos szabadtéri játszóhely gyerekeknek Oberhausenben.",
-                  "category": "family",
-                  "coords": [
-                        6.878086,
-                        51.480167
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz Stepke-Kita",
-                  "text": "Helyi játszótér családok számára Oberhausen városában.",
-                  "category": "family",
-                  "coords": [
-                        6.882191,
-                        51.479653
-                  ]
-            },
-            {
-                  "name": "Spielplatz Ackerstraße",
-                  "text": "Kellemes játszóhely gyerekeknek Oberhausen területén.",
-                  "category": "family",
-                  "coords": [
-                        6.862395,
-                        51.509586
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisergarten - Ponybahn",
-                  "text": "Vidám játszótér gyerekeknek az oberhauseni Kaisergartenben.",
-                  "category": "family",
-                  "coords": [
-                        6.855811,
-                        51.488644
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gasometrul Oberhausen",
-                  "text": "Un fost rezervor de gaz imens, transformat într-un spațiu spectaculos pentru expoziții culturale și punct de belvedere.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.87,
-                        51.494
-                  ]
-            },
-            {
-                  "name": "Castelul Oberhausen",
-                  "text": "Palat neoclasic care găzduiește Ludwiggalerie, un muzeu de artă cunoscut pentru colecțiile sale de fotografie și grafică.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        6.860333,
-                        51.492144
-                  ]
-            },
-            {
-                  "name": "Kaisergarten",
-                  "text": "Un parc pitoresc lângă castel, dotat cu o grădină zoologică mică și podul sculptural 'Slinky Springs to Fame'.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.856579,
-                        51.490457
-                  ]
-            },
-            {
-                  "name": "Muzeul Industrial LVR",
-                  "text": "Situat într-o fostă fabrică de zinc, muzeul oferă o incursiune fascinantă în istoria siderurgică a regiunii.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.852991,
-                        51.480561
-                  ]
-            },
-            {
-                  "name": "CentrO",
-                  "text": "Cel mai mare centru comercial și de agrement din Europa, reprezentând inima turistică și economică a orașului.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.875575,
-                        51.488246
-                  ]
-            },
-            {
-                  "name": "St. Antony Hütte",
-                  "text": "St. Antony Hütte din Oberhausen este considerată locul de naștere al industriei din Ruhr și este astăzi un sit arheologic important.",
-                  "category": "historical",
-                  "coords": [
-                        6.871634,
-                        51.519308
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum",
-                  "text": "Muzeul Buncărului din Oberhausen documentează protecția civilă în timpul celui de-al Doilea Război Mondial într-un buncăr original de suprafață.",
-                  "category": "museum",
-                  "coords": [
-                        6.882764,
-                        51.47738
-                  ]
-            },
-            {
-                  "name": "Metronom Theater",
-                  "text": "Teatrul Metronom din Oberhausen este o locație binecunoscută pentru musicaluri și spectacole, situată lângă Neue Mitte.",
-                  "category": "cultural",
-                  "coords": [
-                        6.88555,
-                        51.49129
-                  ]
-            },
-            {
-                  "name": "Burg Vondern",
-                  "text": "Castelul Vondern din Oberhausen este o cetate istorică în stil gotic târziu, cu un conac și o curte exterioară.",
-                  "category": "castle",
-                  "coords": [
-                        6.906867,
-                        51.498968
-                  ]
-            },
-            {
-                  "name": "Theater Oberhausen",
-                  "text": "Teatrul din Oberhausen este o instituție municipală de spectacole renumită, cu o tradiție de peste 100 de ani.",
-                  "category": "cultural",
-                  "coords": [
-                        6.860734,
-                        51.476265
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum, (Peter-Behrens-Bau)",
-                  "text": "Muzeu industrial în fostul depozit central al GHH, proiectat de Peter Behrens.",
-                  "category": "museum",
-                  "coords": [
-                        6.871072,
-                        51.488226
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum Zinkfabrik Altenberg",
-                  "text": "Muzeu despre istoria fierului și oțelului într-o fostă fabrică de zinc din 1853.",
-                  "category": "museum",
-                  "coords": [
-                        6.849301,
-                        51.475043
-                  ]
-            },
-            {
-                  "name": "Solebad Vonderort",
-                  "text": "Baie termală în parcul Vonderort cu bazine cu apă sărată și facilități de saună.",
-                  "category": "family",
-                  "coords": [
-                        6.901051,
-                        51.508185
-                  ]
-            },
-            {
-                  "name": "Verein für aktuelle Kunst",
-                  "text": "Centru expozițional în Zentrum Altenberg pentru artă vizuală contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        6.846723,
-                        51.475534
-                  ]
-            },
-            {
-                  "name": "SEA LIFE Oberhausen",
-                  "text": "Acvariu mare lângă CentrO cu peste 5.000 de creaturi marine și un tunel.",
-                  "category": "family",
-                  "coords": [
-                        6.880935,
-                        51.494334
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Parc acvatic cu tematică minieră, numeroase tobogane și piscină exterioară.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "Loc de joacă interior cu modele LEGO, atracții și un cinematograf 4D la CentrO.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Museum Eisenheim",
-                  "text": "Muzeu despre viața în colonia de muncitori Eisenheim, cea mai veche din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        6.86399,
-                        51.503699
-                  ]
-            },
-            {
-                  "name": "Volkspark Sterkrade",
-                  "text": "Parc municipal în districtul Sterkrade cu locuri de joacă, iazuri și arbori vechi.",
-                  "category": "park",
-                  "coords": [
-                        6.837193,
-                        51.521449
-                  ]
-            },
-            {
-                  "name": "Gleispark Frintrop",
-                  "text": "Parc peisagistic situat pe terenul fostei gări de triaj Frintrop.",
-                  "category": "park",
-                  "coords": [
-                        6.908422,
-                        51.487726
-                  ]
-            },
-            {
-                  "name": "Grillopark",
-                  "text": "Parc în centrul orașului cu fântâni, care amintește de industriașul Grillo.",
-                  "category": "park",
-                  "coords": [
-                        6.859267,
-                        51.474088
-                  ]
-            },
-            {
-                  "name": "OLGA Park",
-                  "text": "Teren de parc pe locul fostei mine Osterfeld, evidențiind cultura industrială.",
-                  "category": "park",
-                  "coords": [
-                        6.87488,
-                        51.50131
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "O zonă lacustră funcțională în Oberhausen, într-un mediu verde.",
-                  "category": "natural",
-                  "coords": [
-                        6.94848,
-                        51.49073
-                  ]
-            },
-            {
-                  "name": "Biotop",
-                  "text": "O zonă de lac naturală în Oberhausen, ideală pentru o plimbare liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        6.919093,
-                        51.503741
-                  ]
-            },
-            {
-                  "name": "Beach Play",
-                  "text": "O sală de jocuri de interior distractivă pentru familii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.844956,
-                        51.514041
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "O sală de jocuri în Oberhausen pentru divertisment în familie.",
-                  "category": "family",
-                  "coords": [
-                        6.848227,
-                        51.515732
-                  ]
-            },
-            {
-                  "name": "Minigolf Kaisergarten",
-                  "text": "Un teren de minigolf pitoresc pentru familii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.852459,
-                        51.48817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Olga 2",
-                  "text": "O zonă de joacă spațioasă pentru copii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Un loc de joacă educativ și distractiv pentru familii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
-                  "name": "Ökumenisches Kirchenzentrum Neue Mitte",
-                  "text": "Un loc de joacă comunitar pentru familii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.874518,
-                        51.491273
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz KTE Strickersweg",
-                  "text": "O zonă de joacă sigură în aer liber pentru copii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.878086,
-                        51.480167
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz Stepke-Kita",
-                  "text": "Un loc de joacă local pentru familii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.882191,
-                        51.479653
-                  ]
-            },
-            {
-                  "name": "Spielplatz Ackerstraße",
-                  "text": "O zonă de joacă frumoasă pentru copii în Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.862395,
-                        51.509586
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisergarten - Ponybahn",
-                  "text": "Un loc de joacă distractiv pentru copii în Kaisergarten din Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.855811,
-                        51.488644
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gasometer Oberhausen",
-                  "text": "A massive former gas holder that now serves as a spectacular venue for world-class art exhibitions and city views.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.87,
-                        51.494
-                  ]
-            },
-            {
-                  "name": "Oberhausen Castle",
-                  "text": "A neoclassical palace housing the Ludwiggalerie, an art museum known for its diverse photography and caricature collections.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        6.860333,
-                        51.492144
-                  ]
-            },
-            {
-                  "name": "Kaisergarten",
-                  "text": "A beautiful public park surrounding the castle, featuring an animal enclosure and the artistic 'Slinky Springs to Fame' bridge.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.856579,
-                        51.490457
-                  ]
-            },
-            {
-                  "name": "LVR Industrial Museum",
-                  "text": "Located in a former zinc factory, it offers deep insights into the region's historical iron and steel production.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.852991,
-                        51.480561
-                  ]
-            },
-            {
-                  "name": "CentrO",
-                  "text": "Europe's largest shopping and leisure destination, featuring a promenade with many restaurants and entertainment venues.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        6.875575,
-                        51.488246
-                  ]
-            },
-            {
-                  "name": "St. Antony Hütte",
-                  "text": "St. Antony Hütte in Oberhausen is considered the birthplace of the Ruhr industry and is now a significant archaeological site.",
-                  "category": "historical",
-                  "coords": [
-                        6.871634,
-                        51.519308
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum",
-                  "text": "The Bunker Museum in Oberhausen documents civilian air defense during WWII within an original above-ground bunker.",
-                  "category": "museum",
-                  "coords": [
-                        6.882764,
-                        51.47738
-                  ]
-            },
-            {
-                  "name": "Metronom Theater",
-                  "text": "The Metronom Theater in Oberhausen is a prominent venue for musicals and shows located right at Neue Mitte.",
-                  "category": "cultural",
-                  "coords": [
-                        6.88555,
-                        51.49129
-                  ]
-            },
-            {
-                  "name": "Burg Vondern",
-                  "text": "Burg Vondern in Oberhausen is a historic late-Gothic moated castle featuring a manor house and an outer ward.",
-                  "category": "castle",
-                  "coords": [
-                        6.906867,
-                        51.498968
-                  ]
-            },
-            {
-                  "name": "Theater Oberhausen",
-                  "text": "Theater Oberhausen is a renowned municipal playhouse with a tradition spanning over 100 years.",
-                  "category": "cultural",
-                  "coords": [
-                        6.860734,
-                        51.476265
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum, (Peter-Behrens-Bau)",
-                  "text": "Industrial museum located in the former GHH warehouse designed by Peter Behrens.",
-                  "category": "museum",
-                  "coords": [
-                        6.871072,
-                        51.488226
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum Zinkfabrik Altenberg",
-                  "text": "Museum of iron and steel history in a former zinc factory dating from 1853.",
-                  "category": "museum",
-                  "coords": [
-                        6.849301,
-                        51.475043
-                  ]
-            },
-            {
-                  "name": "Solebad Vonderort",
-                  "text": "Thermal bath in Revierpark Vonderort featuring brine pools and sauna facilities.",
-                  "category": "family",
-                  "coords": [
-                        6.901051,
-                        51.508185
-                  ]
-            },
-            {
-                  "name": "Verein für aktuelle Kunst",
-                  "text": "Exhibition center in the Zentrum Altenberg for contemporary visual arts.",
-                  "category": "museum",
-                  "coords": [
-                        6.846723,
-                        51.475534
-                  ]
-            },
-            {
-                  "name": "SEA LIFE Oberhausen",
-                  "text": "Large aquarium near CentrO with over 5,000 marine animals and a walk-through tunnel.",
-                  "category": "family",
-                  "coords": [
-                        6.880935,
-                        51.494334
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Adventure pool with a mining theme, several slides, and an all-year outdoor pool.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "Indoor playground with LEGO models, rides, and a 4D cinema located at CentrO.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Museum Eisenheim",
-                  "text": "Museum about life in the Eisenheim workers' settlement, the oldest in the region.",
-                  "category": "museum",
-                  "coords": [
-                        6.86399,
-                        51.503699
-                  ]
-            },
-            {
-                  "name": "Volkspark Sterkrade",
-                  "text": "Municipal park in the Sterkrade district with playgrounds, ponds, and old trees.",
-                  "category": "park",
-                  "coords": [
-                        6.837193,
-                        51.521449
-                  ]
-            },
-            {
-                  "name": "Gleispark Frintrop",
-                  "text": "Landscape park situated on the grounds of the former Frintrop marshalling yard.",
-                  "category": "park",
-                  "coords": [
-                        6.908422,
-                        51.487726
-                  ]
-            },
-            {
-                  "name": "Grillopark",
-                  "text": "Park in the city center with fountains, commemorating the industrialist Grillo.",
-                  "category": "park",
-                  "coords": [
-                        6.859267,
-                        51.474088
-                  ]
-            },
-            {
-                  "name": "OLGA Park",
-                  "text": "Park area on the site of the former Osterfeld colliery featuring industrial culture.",
-                  "category": "park",
-                  "coords": [
-                        6.87488,
-                        51.50131
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "A functional lake area in Oberhausen within a green environment.",
-                  "category": "natural",
-                  "coords": [
-                        6.94848,
-                        51.49073
-                  ]
-            },
-            {
-                  "name": "Biotop",
-                  "text": "A natural lake area in Oberhausen ideal for a quiet walk.",
-                  "category": "natural",
-                  "coords": [
-                        6.919093,
-                        51.503741
-                  ]
-            },
-            {
-                  "name": "Beach Play",
-                  "text": "A fun indoor arcade for families in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.844956,
-                        51.514041
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "An amusement arcade in Oberhausen for family entertainment.",
-                  "category": "family",
-                  "coords": [
-                        6.848227,
-                        51.515732
-                  ]
-            },
-            {
-                  "name": "Minigolf Kaisergarten",
-                  "text": "A scenic miniature golf course for families in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.852459,
-                        51.48817
-                  ]
-            },
-            {
-                  "name": "Spielplatz Olga 2",
-                  "text": "A spacious play area for children in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "An educational and fun playground for families in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
-                  "name": "Ökumenisches Kirchenzentrum Neue Mitte",
-                  "text": "A community playground for families in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.874518,
-                        51.491273
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz KTE Strickersweg",
-                  "text": "A safe outdoor play area for children in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.878086,
-                        51.480167
-                  ]
-            },
-            {
-                  "name": "Außenspielplatz Stepke-Kita",
-                  "text": "A local playground for families in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.882191,
-                        51.479653
-                  ]
-            },
-            {
-                  "name": "Spielplatz Ackerstraße",
-                  "text": "A nice play area for children in Oberhausen.",
-                  "category": "family",
-                  "coords": [
-                        6.862395,
-                        51.509586
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisergarten - Ponybahn",
-                  "text": "A fun playground for kids located in Oberhausen's Kaisergarten.",
-                  "category": "family",
-                  "coords": [
-                        6.855811,
-                        51.488644
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Gasometer Oberhausen",
-                  "text": "Dev eski gaz depolama tankı, günümüzde muhteşem bir sergi salonu olup çatısından geniş manzaralar sunar.",
-                  "category": "landmark",
-                  "coords": [
-                        6.87,
-                        51.494
-                  ]
-            },
-            {
-                  "name": "Schloss Oberhausen",
-                  "text": "Ünlü Ludwig Sanat Galerisi'ne ev sahipliği yapan ve bir parkla çevrili olan klasik tarzda bir saraydır.",
-                  "category": "castle",
-                  "coords": [
-                        6.860333,
-                        51.492144
-                  ]
-            },
-            {
-                  "name": "Kaisergarten",
-                  "text": "Sarayda bulunan, hayvan barınağı ve renkli 'Slinky Springs to Fame' köprüsü ile bilinen geniş bir park alanıdır.",
-                  "category": "park",
-                  "coords": [
-                        6.856579,
-                        51.490457
-                  ]
-            },
-            {
-                  "name": "LVR-Industriemuseum",
-                  "text": "Eski Altenberg çinko fabrikasındaki müze, bölgedeki ağır sanayinin tarihini etkileyici bir şekilde sergiler.",
-                  "category": "museum",
-                  "coords": [
-                        6.852991,
-                        51.480561
-                  ]
-            },
-            {
-                  "name": "CentrO",
-                  "text": "Kömür çağından sonra şehrin yeni merkezini oluşturan, Avrupa'nın en büyük alışveriş ve eğlence merkezidir.",
-                  "category": "landmark",
-                  "coords": [
-                        6.875575,
-                        51.488246
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Gasometer Oberhausen", "text": "Der riesige ehemalige Gasspeicher ist heute eine spektakuläre Ausstellungshalle und bietet vom Dach einen weiten Blick.", "category": "landmark", "confidence": "high", "coords": [6.87, 51.494]}, {"name": "Schloss Oberhausen", "text": "Ein klassizistisches Gebäude, das die renommierte Ludwiggalerie für Kunst beherbergt und von einem Park umgeben ist.", "category": "castle", "confidence": "high", "coords": [6.860333, 51.492144]}, {"name": "Kaisergarten", "text": "Eine weitläufige Parkanlage am Schloss mit Tiergehege und der markanten, bunt beleuchteten Brücke 'Slinky Springs to Fame'.", "category": "park", "confidence": "high", "coords": [6.856579, 51.490457]}, {"name": "LVR-Industriemuseum", "text": "Das Museum in der ehemaligen Zinkfabrik Altenberg zeigt eindrucksvoll die Geschichte der Schwerindustrie in der Region.", "category": "museum", "confidence": "high", "coords": [6.852991, 51.480561]}, {"name": "CentrO", "text": "Europas größtes Einkaufs- und Freizeitzentrum, das das neue Zentrum der Stadt nach dem Kohlezeitalter bildet.", "category": "landmark", "confidence": "high", "coords": [6.875575, 51.488246]}, {"name": "St. Antony Hütte", "text": "Die St. Antony Hütte in Oberhausen gilt als die Geburtsstätte der Ruhrindustrie und ist heute eine bedeutende archäologische Stätte.", "category": "historical", "coords": [6.871634, 51.519308]}, {"name": "Bunkermuseum", "text": "Das Bunkermuseum in Oberhausen dokumentiert den zivilen Luftschutz während des Zweiten Weltkriegs in einem originalen Hochbunker.", "category": "museum", "coords": [6.882764, 51.47738]}, {"name": "Metronom Theater", "text": "Das Metronom Theater in Oberhausen ist ein bekannter Veranstaltungsort für Musicals und Shows direkt an der Neuen Mitte.", "category": "cultural", "coords": [6.88555, 51.49129]}, {"name": "Burg Vondern", "text": "Die spätgotische Burg Vondern in Oberhausen ist eine historische Wasserburg mit Herrenhaus und Vorburg.", "category": "castle", "coords": [6.906867, 51.498968]}, {"name": "Theater Oberhausen", "text": "Das Theater Oberhausen ist ein renommiertes städtisches Schauspielhaus mit einer über 100-jährigen Tradition.", "category": "cultural", "coords": [6.860734, 51.476265]}, {"name": "LVR-Industriemuseum, (Peter-Behrens-Bau)", "text": "Industriemuseum im von Peter Behrens entworfenen ehemaligen Hauptlagerhaus der GHH.", "category": "museum", "coords": [6.871072, 51.488226]}, {"name": "LVR-Industriemuseum Zinkfabrik Altenberg", "text": "Museum zur Eisen- und Stahlgeschichte in einer ehemaligen Zinkfabrik von 1853.", "category": "museum", "coords": [6.849301, 51.475043]}, {"name": "Solebad Vonderort", "text": "Thermalbad im Revierpark Vonderort mit Solebecken, Saunen und Wellnessangeboten.", "category": "family", "coords": [6.901051, 51.508185]}, {"name": "Verein für aktuelle Kunst", "text": "Ausstellungszentrum im Zentrum Altenberg für zeitgenössische bildende Kunst.", "category": "museum", "coords": [6.846723, 51.475534]}, {"name": "SEA LIFE Oberhausen", "text": "Großaquarium am CentrO mit über 5.000 Meeresbewohnern und einem Acryltunnel.", "category": "family", "coords": [6.880935, 51.494334]}, {"name": "Aquapark Oberhausen", "text": "Erlebnisbad mit Bergbau-Thematik, mehreren Rutschen und einem Ganzjahres-Freibad.", "category": "family", "coords": [6.885476, 51.493822]}, {"name": "LEGOLAND Discovery Centre", "text": "Indoor-Spielplatz mit LEGO-Modellen, Fahrgeschäften und einem 4D-Kino am CentrO.", "category": "family", "coords": [6.879247, 51.493297]}, {"name": "Museum Eisenheim", "text": "Museum über das Leben in der Arbeitersiedlung Eisenheim, der ältesten im Revier.", "category": "museum", "coords": [6.86399, 51.503699]}, {"name": "Volkspark Sterkrade", "text": "Stadtpark im Stadtteil Sterkrade mit Spielplätzen, Teichen und alten Baumbeständen.", "category": "park", "coords": [6.837193, 51.521449]}, {"name": "Gleispark Frintrop", "text": "Landschaftspark auf dem Gelände des ehemaligen Verschiebebahnhofs Frintrop.", "category": "park", "coords": [6.908422, 51.487726]}, {"name": "Grillopark", "text": "Parkanlage im Stadtzentrum mit Brunnenanlagen, die an den Industriellen Grillo erinnert.", "category": "park", "coords": [6.859267, 51.474088]}, {"name": "OLGA Park", "text": "Parkgelände auf dem Gelände der ehemaligen Zeche Osterfeld mit Industriekultur.", "category": "park", "coords": [6.87488, 51.50131]}, {"name": "Regenrückhaltebecken", "text": "Ein funktionaler Seebereich in Oberhausen in einer grünen Umgebung.", "category": "natural", "coords": [6.94848, 51.49073]}, {"name": "Biotop", "text": "Ein natürlicher Seebereich in Oberhausen, ideal für einen ruhigen Spaziergang.", "category": "natural", "coords": [6.919093, 51.503741]}, {"name": "Beach Play", "text": "Mitten in Oberhausen erwartet Familien diese spannende Indoor-Arcade mit einem spielerischen Strand-Thema. Unabhängig vom Wetter sorgt das abwechslungsreiche Unterhaltungsangebot für strahlende Kinderaugen und kurzweilige Stunden. Die bunte Umgebung bietet eine fantastische Alternative zum klassischen Ausflug ins Freie. Ein Besuch an regnerischen Nachmittagen ist der perfekte Weg, um dem grauen Alltag zu entkommen.", "category": "family", "coords": [6.844956, 51.514041]}, {"name": "Playland", "text": "Eine Spielhalle in Oberhausen für Familienunterhaltung.", "category": "family", "coords": [6.848227, 51.515732]}, {"name": "Minigolf Kaisergarten", "text": "Ein malerischer Minigolfplatz für Familien in Oberhausen.", "category": "family", "coords": [6.852459, 51.48817]}, {"name": "Spielplatz Olga 2", "text": "Ein geräumiger Spielbereich für Kinder in Oberhausen.", "category": "family", "coords": [6.872039, 51.501979]}, {"name": "Erfahrungsfeld Sehen und Höhren", "text": "Ein lehrreicher und unterhaltsamer Spielplatz für Familien in Oberhausen.", "category": "family", "coords": [6.875715, 51.496661]}, {"name": "Ökumenisches Kirchenzentrum Neue Mitte", "text": "Ein Gemeinschaftsspielplatz für Familien in Oberhausen.", "category": "family", "coords": [6.874518, 51.491273]}, {"name": "Außenspielplatz KTE Strickersweg", "text": "Ein sicherer Außenspielbereich für Kinder in Oberhausen.", "category": "family", "coords": [6.878086, 51.480167]}, {"name": "Außenspielplatz Stepke-Kita", "text": "Ein lokaler Spielplatz für Familien in Oberhausen.", "category": "family", "coords": [6.882191, 51.479653]}, {"name": "Spielplatz Ackerstraße", "text": "Ein schöner Spielbereich für Kinder in Oberhausen.", "category": "family", "coords": [6.862395, 51.509586]}, {"name": "Spielplatz Kaisergarten - Ponybahn", "text": "Ein lustiger Spielplatz für Kinder im Kaisergarten in Oberhausen.", "category": "family", "coords": [6.855811, 51.488644]}], "hu": [{"name": "Gasometer", "text": "Egy hatalmas egykori gáztározó, amely ma lenyűgöző kiállításoknak és panorámás kilátópontnak ad otthont.", "category": "landmark", "confidence": "high", "coords": [6.87, 51.494]}, {"name": "Oberhauseni kastély", "text": "Klasszicista palota, amelyben a neves Ludwiggalerie művészeti múzeum működik jelentős gyűjteménnyel.", "category": "castle", "confidence": "high", "coords": [6.860333, 51.492144]}, {"name": "Kaisergarten", "text": "A kastély mellett elterülő népszerű park állatsimogatóval és az ikonikus, spirális formájú gyalogoshíddal.", "category": "park", "confidence": "high", "coords": [6.856579, 51.490457]}, {"name": "LVR Ipari Múzeum", "text": "Egy egykori cinkgyár területén berendezett múzeum, amely a Ruhr-vidék nehézipari múltját mutatja be.", "category": "museum", "confidence": "high", "coords": [6.852991, 51.480561]}, {"name": "CentrO", "text": "Európa legnagyobb bevásárló- és szórakoztatóközpontja, amely modern közösségi térként funkcionál az egykori gyártelepen.", "category": "landmark", "confidence": "high", "coords": [6.875575, 51.488246]}, {"name": "St. Antony Hütte", "text": "Az oberhauseni St. Antony Hütte a Ruhr-vidéki ipar bölcsőjeként ismert, ma jelentős régészeti lelőhely.", "category": "historical", "coords": [6.871634, 51.519308]}, {"name": "Bunkermuseum", "text": "Az oberhauseni Bunkermúzeum a második világháború alatti polgári védelmet mutatja be egy eredeti felszíni óvóhelyen.", "category": "museum", "coords": [6.882764, 51.47738]}, {"name": "Metronom Theater", "text": "Az oberhauseni Metronom Theater egy ismert musical-helyszín közvetlenül a Neue Mitte központ mellett.", "category": "cultural", "coords": [6.88555, 51.49129]}, {"name": "Burg Vondern", "text": "Az oberhauseni késő gótikus Burg Vondern egy történelmi vízi vár udvarházzal és elővárral.", "category": "castle", "coords": [6.906867, 51.498968]}, {"name": "Theater Oberhausen", "text": "A Theater Oberhausen egy neves városi színház, amely több mint 100 éves hagyománnyal rendelkezik.", "category": "cultural", "coords": [6.860734, 51.476265]}, {"name": "LVR-Industriemuseum, (Peter-Behrens-Bau)", "text": "A Peter Behrens tervezte egykori GHH-raktárban működő ipartörténeti múzeum.", "category": "museum", "coords": [6.871072, 51.488226]}, {"name": "LVR-Industriemuseum Zinkfabrik Altenberg", "text": "Az 1853-ban alapított egykori cinkgyárban berendezett vas- és acéltörténeti múzeum.", "category": "museum", "coords": [6.849301, 51.475043]}, {"name": "Solebad Vonderort", "text": "Sós vizes medencékkel és szaunákkal felszerelt termálfürdő a Vonderort parkban.", "category": "family", "coords": [6.901051, 51.508185]}, {"name": "Verein für aktuelle Kunst", "text": "Kortárs képzőművészeti alkotásokat bemutató kiállítótér a Zentrum Altenbergben.", "category": "museum", "coords": [6.846723, 51.475534]}, {"name": "SEA LIFE Oberhausen", "text": "A CentrO mellett található óriásakvárium több mint 5000 tengeri állattal.", "category": "family", "coords": [6.880935, 51.494334]}, {"name": "Aquapark Oberhausen", "text": "Bányászati tematikájú élményfürdő csúszdákkal és egész évben nyitott medencével.", "category": "family", "coords": [6.885476, 51.493822]}, {"name": "LEGOLAND Discovery Centre", "text": "Beltéri játszópark LEGO-modellekkel, játékokkal és 4D-mozival a CentrO mellett.", "category": "family", "coords": [6.879247, 51.493297]}, {"name": "Museum Eisenheim", "text": "A Ruhr-vidék legrégebbi munkástelepét és az ottani életmódot bemutató múzeum.", "category": "museum", "coords": [6.86399, 51.503699]}, {"name": "Volkspark Sterkrade", "text": "Sterkrade városrész parkja játszóterekkel, tavakkal és idős faállománnyal.", "category": "park", "coords": [6.837193, 51.521449]}, {"name": "Gleispark Frintrop", "text": "Tájvédelmi park a Frintrop városrész egykori rendezőpályaudvarának területén.", "category": "park", "coords": [6.908422, 51.487726]}, {"name": "Grillopark", "text": "Szökőkutakkal díszített belvárosi park, amely Grillo iparmágnás emlékét őrzi.", "category": "park", "coords": [6.859267, 51.474088]}, {"name": "OLGA Park", "text": "Az egykori Osterfeld bánya területén kialakított park ipari emlékekkel.", "category": "park", "coords": [6.87488, 51.50131]}, {"name": "Regenrückhaltebecken", "text": "Funkcionális tóvidék Oberhausenben, zöld környezetben.", "category": "natural", "coords": [6.94848, 51.49073]}, {"name": "Biotop", "text": "Természetes tóvidék Oberhausenben, ideális egy csendes sétához.", "category": "natural", "coords": [6.919093, 51.503741]}, {"name": "Beach Play", "text": "Oberhausen szívében ez az izgalmas, játékos strandtémájú fedett játékterem várja a családokat. Az időjárástól függetlenül a változatos szórakoztató kínálat csillogó gyermekszemekről és szórakoztató órákról gondoskodik. A színes környezet fantasztikus alternatívát nyújt a hagyományos szabadtéri kirándulásokhoz. Egy esős délutáni látogatás tökéletes módja annak, hogy kiszakadjunk a szürke hétköznapokból.", "category": "family", "coords": [6.844956, 51.514041]}, {"name": "Playland", "text": "Játékterem Oberhausenben a család szórakoztatására.", "category": "family", "coords": [6.848227, 51.515732]}, {"name": "Minigolf Kaisergarten", "text": "Festői minigolfpálya családoknak Oberhausen területén.", "category": "family", "coords": [6.852459, 51.48817]}, {"name": "Spielplatz Olga 2", "text": "Tágas játszótér gyerekeknek Oberhausen városában.", "category": "family", "coords": [6.872039, 51.501979]}, {"name": "Erfahrungsfeld Sehen und Höhren", "text": "Oktató és szórakoztató játszótér családoknak Oberhausenben.", "category": "family", "coords": [6.875715, 51.496661]}, {"name": "Ökumenisches Kirchenzentrum Neue Mitte", "text": "Közösségi játszótér családoknak Oberhausen városában.", "category": "family", "coords": [6.874518, 51.491273]}, {"name": "Außenspielplatz KTE Strickersweg", "text": "Biztonságos szabadtéri játszóhely gyerekeknek Oberhausenben.", "category": "family", "coords": [6.878086, 51.480167]}, {"name": "Außenspielplatz Stepke-Kita", "text": "Helyi játszótér családok számára Oberhausen városában.", "category": "family", "coords": [6.882191, 51.479653]}, {"name": "Spielplatz Ackerstraße", "text": "Kellemes játszóhely gyerekeknek Oberhausen területén.", "category": "family", "coords": [6.862395, 51.509586]}, {"name": "Spielplatz Kaisergarten - Ponybahn", "text": "Vidám játszótér gyerekeknek az oberhauseni Kaisergartenben.", "category": "family", "coords": [6.855811, 51.488644]}], "ro": [{"name": "Gasometrul Oberhausen", "text": "Un fost rezervor de gaz imens, transformat într-un spațiu spectaculos pentru expoziții culturale și punct de belvedere.", "category": "landmark", "confidence": "high", "coords": [6.87, 51.494]}, {"name": "Castelul Oberhausen", "text": "Palat neoclasic care găzduiește Ludwiggalerie, un muzeu de artă cunoscut pentru colecțiile sale de fotografie și grafică.", "category": "castle", "confidence": "high", "coords": [6.860333, 51.492144]}, {"name": "Kaisergarten", "text": "Un parc pitoresc lângă castel, dotat cu o grădină zoologică mică și podul sculptural 'Slinky Springs to Fame'.", "category": "park", "confidence": "high", "coords": [6.856579, 51.490457]}, {"name": "Muzeul Industrial LVR", "text": "Situat într-o fostă fabrică de zinc, muzeul oferă o incursiune fascinantă în istoria siderurgică a regiunii.", "category": "museum", "confidence": "high", "coords": [6.852991, 51.480561]}, {"name": "CentrO", "text": "Cel mai mare centru comercial și de agrement din Europa, reprezentând inima turistică și economică a orașului.", "category": "landmark", "confidence": "high", "coords": [6.875575, 51.488246]}, {"name": "St. Antony Hütte", "text": "St. Antony Hütte din Oberhausen este considerată locul de naștere al industriei din Ruhr și este astăzi un sit arheologic important.", "category": "historical", "coords": [6.871634, 51.519308]}, {"name": "Bunkermuseum", "text": "Muzeul Buncărului din Oberhausen documentează protecția civilă în timpul celui de-al Doilea Război Mondial într-un buncăr original de suprafață.", "category": "museum", "coords": [6.882764, 51.47738]}, {"name": "Metronom Theater", "text": "Teatrul Metronom din Oberhausen este o locație binecunoscută pentru musicaluri și spectacole, situată lângă Neue Mitte.", "category": "cultural", "coords": [6.88555, 51.49129]}, {"name": "Burg Vondern", "text": "Castelul Vondern din Oberhausen este o cetate istorică în stil gotic târziu, cu un conac și o curte exterioară.", "category": "castle", "coords": [6.906867, 51.498968]}, {"name": "Theater Oberhausen", "text": "Teatrul din Oberhausen este o instituție municipală de spectacole renumită, cu o tradiție de peste 100 de ani.", "category": "cultural", "coords": [6.860734, 51.476265]}, {"name": "LVR-Industriemuseum, (Peter-Behrens-Bau)", "text": "Muzeu industrial în fostul depozit central al GHH, proiectat de Peter Behrens.", "category": "museum", "coords": [6.871072, 51.488226]}, {"name": "LVR-Industriemuseum Zinkfabrik Altenberg", "text": "Muzeu despre istoria fierului și oțelului într-o fostă fabrică de zinc din 1853.", "category": "museum", "coords": [6.849301, 51.475043]}, {"name": "Solebad Vonderort", "text": "Baie termală în parcul Vonderort cu bazine cu apă sărată și facilități de saună.", "category": "family", "coords": [6.901051, 51.508185]}, {"name": "Verein für aktuelle Kunst", "text": "Centru expozițional în Zentrum Altenberg pentru artă vizuală contemporană.", "category": "museum", "coords": [6.846723, 51.475534]}, {"name": "SEA LIFE Oberhausen", "text": "Acvariu mare lângă CentrO cu peste 5.000 de creaturi marine și un tunel.", "category": "family", "coords": [6.880935, 51.494334]}, {"name": "Aquapark Oberhausen", "text": "Parc acvatic cu tematică minieră, numeroase tobogane și piscină exterioară.", "category": "family", "coords": [6.885476, 51.493822]}, {"name": "LEGOLAND Discovery Centre", "text": "Loc de joacă interior cu modele LEGO, atracții și un cinematograf 4D la CentrO.", "category": "family", "coords": [6.879247, 51.493297]}, {"name": "Museum Eisenheim", "text": "Muzeu despre viața în colonia de muncitori Eisenheim, cea mai veche din regiune.", "category": "museum", "coords": [6.86399, 51.503699]}, {"name": "Volkspark Sterkrade", "text": "Parc municipal în districtul Sterkrade cu locuri de joacă, iazuri și arbori vechi.", "category": "park", "coords": [6.837193, 51.521449]}, {"name": "Gleispark Frintrop", "text": "Parc peisagistic situat pe terenul fostei gări de triaj Frintrop.", "category": "park", "coords": [6.908422, 51.487726]}, {"name": "Grillopark", "text": "Parc în centrul orașului cu fântâni, care amintește de industriașul Grillo.", "category": "park", "coords": [6.859267, 51.474088]}, {"name": "OLGA Park", "text": "Teren de parc pe locul fostei mine Osterfeld, evidențiind cultura industrială.", "category": "park", "coords": [6.87488, 51.50131]}, {"name": "Regenrückhaltebecken", "text": "O zonă lacustră funcțională în Oberhausen, într-un mediu verde.", "category": "natural", "coords": [6.94848, 51.49073]}, {"name": "Biotop", "text": "O zonă de lac naturală în Oberhausen, ideală pentru o plimbare liniștită.", "category": "natural", "coords": [6.919093, 51.503741]}, {"name": "Beach Play", "text": "În mijlocul orașului Oberhausen, această arcadă interioară captivantă, cu o tematică ludică de plajă, așteaptă familiile. Indiferent de vreme, oferta variată de divertisment asigură ochi strălucitori de copii și ore pline de distracție. Mediul colorat oferă o alternativă fantastică la clasica excursie în aer liber. O vizită în după-amiezile ploioase este modalitatea perfectă de a scăpa de cotidianul gri.", "category": "family", "coords": [6.844956, 51.514041]}, {"name": "Playland", "text": "O sală de jocuri în Oberhausen pentru divertisment în familie.", "category": "family", "coords": [6.848227, 51.515732]}, {"name": "Minigolf Kaisergarten", "text": "Un teren de minigolf pitoresc pentru familii în Oberhausen.", "category": "family", "coords": [6.852459, 51.48817]}, {"name": "Spielplatz Olga 2", "text": "O zonă de joacă spațioasă pentru copii în Oberhausen.", "category": "family", "coords": [6.872039, 51.501979]}, {"name": "Erfahrungsfeld Sehen und Höhren", "text": "Un loc de joacă educativ și distractiv pentru familii în Oberhausen.", "category": "family", "coords": [6.875715, 51.496661]}, {"name": "Ökumenisches Kirchenzentrum Neue Mitte", "text": "Un loc de joacă comunitar pentru familii în Oberhausen.", "category": "family", "coords": [6.874518, 51.491273]}, {"name": "Außenspielplatz KTE Strickersweg", "text": "O zonă de joacă sigură în aer liber pentru copii în Oberhausen.", "category": "family", "coords": [6.878086, 51.480167]}, {"name": "Außenspielplatz Stepke-Kita", "text": "Un loc de joacă local pentru familii în Oberhausen.", "category": "family", "coords": [6.882191, 51.479653]}, {"name": "Spielplatz Ackerstraße", "text": "O zonă de joacă frumoasă pentru copii în Oberhausen.", "category": "family", "coords": [6.862395, 51.509586]}, {"name": "Spielplatz Kaisergarten - Ponybahn", "text": "Un loc de joacă distractiv pentru copii în Kaisergarten din Oberhausen.", "category": "family", "coords": [6.855811, 51.488644]}], "en": [{"name": "Gasometer Oberhausen", "text": "A massive former gas holder that now serves as a spectacular venue for world-class art exhibitions and city views.", "category": "landmark", "confidence": "high", "coords": [6.87, 51.494]}, {"name": "Oberhausen Castle", "text": "A neoclassical palace housing the Ludwiggalerie, an art museum known for its diverse photography and caricature collections.", "category": "castle", "confidence": "high", "coords": [6.860333, 51.492144]}, {"name": "Kaisergarten", "text": "A beautiful public park surrounding the castle, featuring an animal enclosure and the artistic 'Slinky Springs to Fame' bridge.", "category": "park", "confidence": "high", "coords": [6.856579, 51.490457]}, {"name": "LVR Industrial Museum", "text": "Located in a former zinc factory, it offers deep insights into the region's historical iron and steel production.", "category": "museum", "confidence": "high", "coords": [6.852991, 51.480561]}, {"name": "CentrO", "text": "Europe's largest shopping and leisure destination, featuring a promenade with many restaurants and entertainment venues.", "category": "landmark", "confidence": "high", "coords": [6.875575, 51.488246]}, {"name": "St. Antony Hütte", "text": "St. Antony Hütte in Oberhausen is considered the birthplace of the Ruhr industry and is now a significant archaeological site.", "category": "historical", "coords": [6.871634, 51.519308]}, {"name": "Bunkermuseum", "text": "The Bunker Museum in Oberhausen documents civilian air defense during WWII within an original above-ground bunker.", "category": "museum", "coords": [6.882764, 51.47738]}, {"name": "Metronom Theater", "text": "The Metronom Theater in Oberhausen is a prominent venue for musicals and shows located right at Neue Mitte.", "category": "cultural", "coords": [6.88555, 51.49129]}, {"name": "Burg Vondern", "text": "Burg Vondern in Oberhausen is a historic late-Gothic moated castle featuring a manor house and an outer ward.", "category": "castle", "coords": [6.906867, 51.498968]}, {"name": "Theater Oberhausen", "text": "Theater Oberhausen is a renowned municipal playhouse with a tradition spanning over 100 years.", "category": "cultural", "coords": [6.860734, 51.476265]}, {"name": "LVR-Industriemuseum, (Peter-Behrens-Bau)", "text": "Industrial museum located in the former GHH warehouse designed by Peter Behrens.", "category": "museum", "coords": [6.871072, 51.488226]}, {"name": "LVR-Industriemuseum Zinkfabrik Altenberg", "text": "Museum of iron and steel history in a former zinc factory dating from 1853.", "category": "museum", "coords": [6.849301, 51.475043]}, {"name": "Solebad Vonderort", "text": "Thermal bath in Revierpark Vonderort featuring brine pools and sauna facilities.", "category": "family", "coords": [6.901051, 51.508185]}, {"name": "Verein für aktuelle Kunst", "text": "Exhibition center in the Zentrum Altenberg for contemporary visual arts.", "category": "museum", "coords": [6.846723, 51.475534]}, {"name": "SEA LIFE Oberhausen", "text": "Large aquarium near CentrO with over 5,000 marine animals and a walk-through tunnel.", "category": "family", "coords": [6.880935, 51.494334]}, {"name": "Aquapark Oberhausen", "text": "Adventure pool with a mining theme, several slides, and an all-year outdoor pool.", "category": "family", "coords": [6.885476, 51.493822]}, {"name": "LEGOLAND Discovery Centre", "text": "Indoor playground with LEGO models, rides, and a 4D cinema located at CentrO.", "category": "family", "coords": [6.879247, 51.493297]}, {"name": "Museum Eisenheim", "text": "Museum about life in the Eisenheim workers' settlement, the oldest in the region.", "category": "museum", "coords": [6.86399, 51.503699]}, {"name": "Volkspark Sterkrade", "text": "Municipal park in the Sterkrade district with playgrounds, ponds, and old trees.", "category": "park", "coords": [6.837193, 51.521449]}, {"name": "Gleispark Frintrop", "text": "Landscape park situated on the grounds of the former Frintrop marshalling yard.", "category": "park", "coords": [6.908422, 51.487726]}, {"name": "Grillopark", "text": "Park in the city center with fountains, commemorating the industrialist Grillo.", "category": "park", "coords": [6.859267, 51.474088]}, {"name": "OLGA Park", "text": "Park area on the site of the former Osterfeld colliery featuring industrial culture.", "category": "park", "coords": [6.87488, 51.50131]}, {"name": "Regenrückhaltebecken", "text": "A functional lake area in Oberhausen within a green environment.", "category": "natural", "coords": [6.94848, 51.49073]}, {"name": "Biotop", "text": "A natural lake area in Oberhausen ideal for a quiet walk.", "category": "natural", "coords": [6.919093, 51.503741]}, {"name": "Beach Play", "text": "Located right in Oberhausen, this exciting indoor arcade awaits families with a playful beach theme. Regardless of the weather outide, the varied entertainment options ensure sparkling children's eyes and highly amusing hours. The colorful environment provides a fantastic alternative to traditional outdoor excursions. Visiting on a rainy afternoon is the absolute perfect way to escape the gray daily routine.", "category": "family", "coords": [6.844956, 51.514041]}, {"name": "Playland", "text": "An amusement arcade in Oberhausen for family entertainment.", "category": "family", "coords": [6.848227, 51.515732]}, {"name": "Minigolf Kaisergarten", "text": "A scenic miniature golf course for families in Oberhausen.", "category": "family", "coords": [6.852459, 51.48817]}, {"name": "Spielplatz Olga 2", "text": "A spacious play area for children in Oberhausen.", "category": "family", "coords": [6.872039, 51.501979]}, {"name": "Erfahrungsfeld Sehen und Höhren", "text": "An educational and fun playground for families in Oberhausen.", "category": "family", "coords": [6.875715, 51.496661]}, {"name": "Ökumenisches Kirchenzentrum Neue Mitte", "text": "A community playground for families in Oberhausen.", "category": "family", "coords": [6.874518, 51.491273]}, {"name": "Außenspielplatz KTE Strickersweg", "text": "A safe outdoor play area for children in Oberhausen.", "category": "family", "coords": [6.878086, 51.480167]}, {"name": "Außenspielplatz Stepke-Kita", "text": "A local playground for families in Oberhausen.", "category": "family", "coords": [6.882191, 51.479653]}, {"name": "Spielplatz Ackerstraße", "text": "A nice play area for children in Oberhausen.", "category": "family", "coords": [6.862395, 51.509586]}, {"name": "Spielplatz Kaisergarten - Ponybahn", "text": "A fun playground for kids located in Oberhausen's Kaisergarten.", "category": "family", "coords": [6.855811, 51.488644]}], "tr": [{"name": "Gasometer Oberhausen", "text": "Dev eski gaz depolama tankı, günümüzde muhteşem bir sergi salonu olup çatısından geniş manzaralar sunar.", "category": "landmark", "coords": [6.87, 51.494]}, {"name": "Schloss Oberhausen", "text": "Ünlü Ludwig Sanat Galerisi'ne ev sahipliği yapan ve bir parkla çevrili olan klasik tarzda bir saraydır.", "category": "castle", "coords": [6.860333, 51.492144]}, {"name": "Kaisergarten", "text": "Sarayda bulunan, hayvan barınağı ve renkli 'Slinky Springs to Fame' köprüsü ile bilinen geniş bir park alanıdır.", "category": "park", "coords": [6.856579, 51.490457]}, {"name": "LVR-Industriemuseum", "text": "Eski Altenberg çinko fabrikasındaki müze, bölgedeki ağır sanayinin tarihini etkileyici bir şekilde sergiler.", "category": "museum", "coords": [6.852991, 51.480561]}, {"name": "CentrO", "text": "Kömür çağından sonra şehrin yeni merkezini oluşturan, Avrupa'nın en büyük alışveriş ve eğlence merkezidir.", "category": "landmark", "coords": [6.875575, 51.488246]}]}
   },
   {
     id: "city-gelsenkirchen",
@@ -51113,6 +41847,33 @@ export const pois: POI[] = [
                         7.198541,
                         51.48901
                   ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Ein Schwimmbecken in Bochum, das ideal für Anfänger geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        7.262492,
+                        51.490676
+                  ]
+            },
+            {
+                  "name": "SV Blau-Weiß Bochum e. V.",
+                  "text": "Ein Sportbad in Bochum für Training und Vereinsschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        7.209999,
+                        51.460817
+                  ]
+            },
+            {
+                  "name": "Hallenfreibad Hofstede",
+                  "text": "Ein kombiniertes Hallen- und Freibad in Bochum für das ganze Jahr.",
+                  "category": "family",
+                  "coords": [
+                        7.183858,
+                        51.499142
+                  ]
             }
       ],
       "hu": [
@@ -51419,6 +42180,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.198541,
                         51.48901
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Úszómedence Bochumban, amely ideális kezdők számára.",
+                  "category": "family",
+                  "coords": [
+                        7.262492,
+                        51.490676
+                  ]
+            },
+            {
+                  "name": "SV Blau-Weiß Bochum e. V.",
+                  "text": "Sportmedence Bochumban edzéshez és egyesületi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.209999,
+                        51.460817
+                  ]
+            },
+            {
+                  "name": "Hallenfreibad Hofstede",
+                  "text": "Kombinált fedett és szabadtéri fürdő Bochumban egész évre.",
+                  "category": "family",
+                  "coords": [
+                        7.183858,
+                        51.499142
                   ]
             }
       ],
@@ -51727,6 +42515,33 @@ export const pois: POI[] = [
                         7.198541,
                         51.48901
                   ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "O piscină în Bochum, ideală pentru începători.",
+                  "category": "family",
+                  "coords": [
+                        7.262492,
+                        51.490676
+                  ]
+            },
+            {
+                  "name": "SV Blau-Weiß Bochum e. V.",
+                  "text": "O piscină sportivă în Bochum pentru antrenament și înot de club.",
+                  "category": "family",
+                  "coords": [
+                        7.209999,
+                        51.460817
+                  ]
+            },
+            {
+                  "name": "Hallenfreibad Hofstede",
+                  "text": "O piscină acoperită și în aer liber în Bochum, deschisă tot anul.",
+                  "category": "family",
+                  "coords": [
+                        7.183858,
+                        51.499142
+                  ]
             }
       ],
       "en": [
@@ -52033,6 +42848,33 @@ export const pois: POI[] = [
                   "coords": [
                         7.198541,
                         51.48901
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "A swimming pool in Bochum ideal for beginners.",
+                  "category": "family",
+                  "coords": [
+                        7.262492,
+                        51.490676
+                  ]
+            },
+            {
+                  "name": "SV Blau-Weiß Bochum e. V.",
+                  "text": "A sports pool in Bochum for training and club swimming.",
+                  "category": "family",
+                  "coords": [
+                        7.209999,
+                        51.460817
+                  ]
+            },
+            {
+                  "name": "Hallenfreibad Hofstede",
+                  "text": "A combined indoor and outdoor pool in Bochum for the whole year.",
+                  "category": "family",
+                  "coords": [
+                        7.183858,
+                        51.499142
                   ]
             }
       ],
@@ -52452,6 +43294,42 @@ export const pois: POI[] = [
                         8.543011,
                         52.023662
                   ]
+            },
+            {
+                  "name": "Museum Waldhof",
+                  "text": "Das Museum Waldhof in Bielefeld ist ein interessantes Ausflugsziel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.528591,
+                        52.019162
+                  ]
+            },
+            {
+                  "name": "Almbad",
+                  "text": "Das Almbad in Bielefeld ist ein beliebtes Erlebnisbad für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.5151,
+                        52.030441
+                  ]
+            },
+            {
+                  "name": "Ishara Sportbad",
+                  "text": "Das Ishara Sportbad in Bielefeld lädt zum Schwimmen und Entspannen ein.",
+                  "category": "family",
+                  "coords": [
+                        8.53367,
+                        52.031352
+                  ]
+            },
+            {
+                  "name": "Freibad Wiesenbad",
+                  "text": "Das Freibad Wiesenbad in Bielefeld ist ein beliebtes Erlebnisbad für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.545207,
+                        52.023723
+                  ]
             }
       ],
       "hu": [
@@ -52758,6 +43636,42 @@ export const pois: POI[] = [
                   "coords": [
                         8.543011,
                         52.023662
+                  ]
+            },
+            {
+                  "name": "Museum Waldhof",
+                  "text": "A Museum Waldhof Bielefeld területén érdekes kirándulóhely az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        8.528591,
+                        52.019162
+                  ]
+            },
+            {
+                  "name": "Almbad",
+                  "text": "A Bielefeld városában található Almbad egy népszerű élményfürdő családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.5151,
+                        52.030441
+                  ]
+            },
+            {
+                  "name": "Ishara Sportbad",
+                  "text": "A Ishara Sportbad Bielefeld városában úszási és kikapcsolódási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.53367,
+                        52.031352
+                  ]
+            },
+            {
+                  "name": "Freibad Wiesenbad",
+                  "text": "A Bielefeld városában található Freibad Wiesenbad egy népszerű élményfürdő családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.545207,
+                        52.023723
                   ]
             }
       ],
@@ -53066,6 +43980,42 @@ export const pois: POI[] = [
                         8.543011,
                         52.023662
                   ]
+            },
+            {
+                  "name": "Museum Waldhof",
+                  "text": "Museum Waldhof din Bielefeld este o destinație interesantă pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.528591,
+                        52.019162
+                  ]
+            },
+            {
+                  "name": "Almbad",
+                  "text": "Almbad din Bielefeld este un parc acvatic popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.5151,
+                        52.030441
+                  ]
+            },
+            {
+                  "name": "Ishara Sportbad",
+                  "text": "Ishara Sportbad din Bielefeld este un loc ideal pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.53367,
+                        52.031352
+                  ]
+            },
+            {
+                  "name": "Freibad Wiesenbad",
+                  "text": "Freibad Wiesenbad din Bielefeld este un parc acvatic popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.545207,
+                        52.023723
+                  ]
             }
       ],
       "en": [
@@ -53373,6 +44323,42 @@ export const pois: POI[] = [
                         8.543011,
                         52.023662
                   ]
+            },
+            {
+                  "name": "Museum Waldhof",
+                  "text": "The Museum Waldhof in Bielefeld is an interesting destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.528591,
+                        52.019162
+                  ]
+            },
+            {
+                  "name": "Almbad",
+                  "text": "The Almbad in Bielefeld is a popular water park for families.",
+                  "category": "family",
+                  "coords": [
+                        8.5151,
+                        52.030441
+                  ]
+            },
+            {
+                  "name": "Ishara Sportbad",
+                  "text": "The Ishara Sportbad in Bielefeld is a great place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.53367,
+                        52.031352
+                  ]
+            },
+            {
+                  "name": "Freibad Wiesenbad",
+                  "text": "The Freibad Wiesenbad in Bielefeld is a popular water park for families.",
+                  "category": "family",
+                  "coords": [
+                        8.545207,
+                        52.023723
+                  ]
             }
       ],
       "tr": [
@@ -53590,52 +44576,7 @@ export const pois: POI[] = [
       "tr": ["Uzunluk: Kulmbach'taki birleşme noktasından ağzına kadar 525 kilometredir.", "Nehir akışı: Bavyera ve Hessen üzerinden doğudan batıya doğru akar.", "Havza: Yaklaşık 27.292 km² alan Main tarafından drene edilir.", "Barajlar: Toplam 34 baraj kademesi gemiler için su seviyesini düzenler.", "Ağız: Main, Mainz'ın karşısındaki Mainz-Kostheim'da Rhein'a dökülür.", "Main-Donau-Kanal: Bamberg yakınlarında Main'ı, Kelheim yakınlarında Donau'ya bağlar."]},
   },
   {
-    id: "river-mosel", "sights": {
-      "de": [
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Statt-Strand-Koblenz ist eine Uferstelle an der Mosel.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "A Statt-Strand-Koblenz egy partszakasz a Mosel folyónál.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Statt-Strand-Koblenz este o zonă pe malul râului Mosel.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Statt-Strand-Koblenz is a riverside spot along the Mosel.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            }
-      ]
-},
+    id: "river-mosel", "sights": {"de": [{"name": "Statt-Strand-Koblenz", "text": "Direkt an den Fluten der Mosel eröffnet der Statt-Strand-Koblenz ein urbanes Paradies für Entspannungssuchende. Die lockere Atmosphäre am Flussufer bietet die perfekte Kulisse, um den Alltagsstress beim Sonnenbaden oder bei einem kalten Getränk hinter sich zu lassen. Wer das rheinland-pfälzische Lebensgefühl schnuppern möchte, findet hier einen gemütlichen Ort dafür.", "category": "recreational", "coords": [7.563724, 50.362186]}], "hu": [{"name": "Statt-Strand-Koblenz", "text": "Közvetlenül a Mosel vizénél a Statt-Strand-Koblenz egy városi paradicsomot nyit a kikapcsolódni vágyók számára. A laza folyóparti légkör tökéletes hátteret kínál ahhoz, hogy a mindennapi stresszt hátrahagyja egy napozás vagy egy hideg ital mellett. Aki szeretné belekóstolni Rajna-vidék-Pfalz életérzésébe, itt egy hangulatos helyet talál hozzá.", "category": "recreational", "coords": [7.563724, 50.362186]}], "ro": [{"name": "Statt-Strand-Koblenz", "text": "Direct pe apele râului Mosela, Statt-Strand-Koblenz deschide un paradis urban pentru cei care caută relaxare. Atmosfera relaxată de pe malul râului oferă fundalul perfect pentru a lăsa în urmă stresul de zi cu zi la plajă sau cu o băutură rece. Dacă doriți să gustați stilul de viață din Renania-Palatinat, veți găsi un loc confortabil aici pentru a face acest lucru.", "category": "recreational", "coords": [7.563724, 50.362186]}], "en": [{"name": "Statt-Strand-Koblenz", "text": "Right on the waters of the Moselle, Statt-Strand-Koblenz opens up an urban paradise for those seeking relaxation. The relaxed riverside atmosphere provides the perfect backdrop to leave everyday stress behind while sunbathing or having a cold drink. If you want to taste the Rhineland-Palatinate lifestyle, you will find a cozy place here to do so.", "category": "recreational", "coords": [7.563724, 50.362186]}]},
     type: "river",
     parent: "DE",
     coords: [7.59, 50.36],
@@ -53704,88 +44645,7 @@ export const pois: POI[] = [
       "tr": ["Uzunluk: Kaynağından Mannheim'daki ağzına kadar 362 kilometredir.", "Havza: Tüm Neckar sistemini kapsayan 13.910 km²'lik alan.", "Gemicilik: Nehrin 203 kilometresi büyük gemiler için uygundur.", "Kanal havuzları: Plochingen ve Mannheim arasında 27 adet kilit su seviyesini düzenler.", "Ağız: Neckar, Mannheim'da deniz seviyesinden 88 m yükseklikte Rhein'a karışır.", "Şehirler: Baden-Württemberg'in başkenti Stuttgart, Neckar kıyısındadır."]},
   },
   {
-    id: "river-weser", "sights": {
-      "de": [
-            {
-                  "name": "Rablinghauser Strand",
-                  "text": "Der Rablinghauser Strand liegt direkt an der Weser.",
-                  "category": "recreational",
-                  "coords": [
-                        8.753279,
-                        53.097417
-                  ]
-            },
-            {
-                  "name": "Waller Sand",
-                  "text": "Waller Sand an der Weser in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.754429,
-                        53.104455
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Rablinghauser Strand",
-                  "text": "A Rablinghauser Strand közvetlenül a Weser folyó partján fekszik.",
-                  "category": "recreational",
-                  "coords": [
-                        8.753279,
-                        53.097417
-                  ]
-            },
-            {
-                  "name": "Waller Sand",
-                  "text": "Waller Sand strand a Weser folyónál, Brémában.",
-                  "category": "recreational",
-                  "coords": [
-                        8.754429,
-                        53.104455
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Rablinghauser Strand",
-                  "text": "Rablinghauser Strand este situată direct pe malul râului Weser.",
-                  "category": "recreational",
-                  "coords": [
-                        8.753279,
-                        53.097417
-                  ]
-            },
-            {
-                  "name": "Waller Sand",
-                  "text": "Plaja Waller Sand de pe râul Weser, Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.754429,
-                        53.104455
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Rablinghauser Strand",
-                  "text": "Rablinghauser Strand is located directly on the Weser river.",
-                  "category": "recreational",
-                  "coords": [
-                        8.753279,
-                        53.097417
-                  ]
-            },
-            {
-                  "name": "Waller Sand",
-                  "text": "Waller Sand beach on the Weser river in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.754429,
-                        53.104455
-                  ]
-            }
-      ]
-},
+    id: "river-weser", "sights": {"de": [{"name": "Rablinghauser Strand", "text": "In naturbelassener Umgebung am Ufer der Weser bietet der Rablinghauser Strand einen ruhigen Kontrast zum Stadtleben. Das weite, grüne Flussufer lädt zu gemütlichen Spaziergängen und entspannten Pausen am Wasserlauf ein. Um die friedliche Stimmung fernab des Verkehrs zu genießen, ist ein Besuch in den frühen Abendstunden sehr zu empfehlen.", "category": "recreational", "coords": [8.753279, 53.097417]}, {"name": "Waller Sand", "text": "Waller Sand an der Weser in Bremen.", "category": "recreational", "coords": [8.754429, 53.104455]}], "hu": [{"name": "Rablinghauser Strand", "text": "A Weser partjának természetes környezetében a Rablinghauser strand békés kontrasztot kínál a városi élethez képest. A széles, zöld folyópart kellemes sétákra és pihentető szünetekre hívogat a vízfolyás mellett. A forgalomtól távoli békés hangulat élvezetéhez egy kora esti látogatás erősen ajánlott.", "category": "recreational", "coords": [8.753279, 53.097417]}, {"name": "Waller Sand", "text": "Waller Sand strand a Weser folyónál, Brémában.", "category": "recreational", "coords": [8.754429, 53.104455]}], "ro": [{"name": "Rablinghauser Strand", "text": "Într-un mediu natural pe malul râului Weser, plaja Rablinghauser oferă un contrast liniștit cu viața orașului. Malul larg și verde al râului invită la plimbări pe îndelete și pauze de relaxare pe cursul apei. Pentru a vă bucura de atmosfera pașnică departe de trafic, o vizită la orele de început ale serii este foarte recomandată.", "category": "recreational", "coords": [8.753279, 53.097417]}, {"name": "Waller Sand", "text": "Plaja Waller Sand de pe râul Weser, Bremen.", "category": "recreational", "coords": [8.754429, 53.104455]}], "en": [{"name": "Rablinghauser Strand", "text": "In a natural environment on the banks of the Weser, the Rablinghauser Strand offers a quiet contrast to city life. The wide, green riverbank invites you to take leisurely walks and relaxing breaks by the watercourse. To enjoy the peaceful atmosphere away from traffic, a visit in the early evening hours is highly recommended.", "category": "recreational", "coords": [8.753279, 53.097417]}, {"name": "Waller Sand", "text": "Waller Sand beach on the Weser river in Bremen.", "category": "recreational", "coords": [8.754429, 53.104455]}]},
     type: "river",
     parent: "DE",
     coords: [8.74, 53.08],
@@ -54875,88 +45735,7 @@ export const pois: POI[] = [
       "tr": ["Müritz'in maksimum su derinliği yaklaşık 31 metredir.", "Göl, deniz seviyesinden 62 metre yükseklikte yer almaktadır.", "Su hacmi yaklaşık 0,74 kilometreküptür.", "Müritz, yaklaşık 180 km uzunluğundaki Müritz-Elde su yolunun bir parçasıdır.", "Kıyı şeridinin yaklaşık %75'i doğal bırakılmıştır veya doğa koruma altındadır.", "Waren an der Müritz, devlet tarafından tanınan bir şifalı iklim kür merkezidir."]},
   },
   {
-    id: "lake-schweriner-see", "sights": {
-      "de": [
-            {
-                  "name": "Zippendorfer Strand",
-                  "text": "Der Zippendorfer Strand befindet sich am Schweriner See.",
-                  "category": "family",
-                  "coords": [
-                        11.456573,
-                        53.603532
-                  ]
-            },
-            {
-                  "name": "Badestelle Reppiner Burg",
-                  "text": "Die Badestelle an der Reppiner Burg liegt am Schweriner See.",
-                  "category": "recreational",
-                  "coords": [
-                        11.485679,
-                        53.604925
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Zippendorfer Strand",
-                  "text": "A Zippendorfer Strand a Schwerini-tónál található.",
-                  "category": "family",
-                  "coords": [
-                        11.456573,
-                        53.603532
-                  ]
-            },
-            {
-                  "name": "Badestelle Reppiner Burg",
-                  "text": "A Reppiner Burg-i fürdőhely a Schweriner See-nél található.",
-                  "category": "recreational",
-                  "coords": [
-                        11.485679,
-                        53.604925
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zippendorfer Strand",
-                  "text": "Plaja Zippendorfer este situată pe malul lacului Schweriner See.",
-                  "category": "family",
-                  "coords": [
-                        11.456573,
-                        53.603532
-                  ]
-            },
-            {
-                  "name": "Badestelle Reppiner Burg",
-                  "text": "Zona de scăldat de la Reppiner Burg este situată la lacul Schweriner See.",
-                  "category": "recreational",
-                  "coords": [
-                        11.485679,
-                        53.604925
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Zippendorfer Strand",
-                  "text": "Zippendorfer beach is situated on the Schweriner See.",
-                  "category": "family",
-                  "coords": [
-                        11.456573,
-                        53.603532
-                  ]
-            },
-            {
-                  "name": "Badestelle Reppiner Burg",
-                  "text": "The bathing spot at Reppiner Burg is located at Lake Schweriner See.",
-                  "category": "recreational",
-                  "coords": [
-                        11.485679,
-                        53.604925
-                  ]
-            }
-      ]
-},
+    id: "lake-schweriner-see", "sights": {"de": [{"name": "Zippendorfer Strand", "text": "Dieser schöne Strandabschnitt liegt idyllisch am Schweriner See. Die ruhige Atmosphäre lädt zu entspannten Spaziergängen und ausgiebigem Sonnenbaden ein. Besucher können sich auf ein erfrischendes Bad im See freuen. Ein Besuch lohnt sich besonders an warmen Sommertagen.", "category": "family", "coords": [11.456573, 53.603532]}, {"name": "Badestelle Reppiner Burg", "text": "Die Badestelle an der Reppiner Burg liegt am Schweriner See.", "category": "recreational", "coords": [11.485679, 53.604925]}], "hu": [{"name": "Zippendorfer Strand", "text": "Ez a gyönyörű partszakasz idillien fekszik a Schwerini-tó partján. A csendes légkör pihentető sétákra és kiadós napozásra csábít. A látogatók élvezhetik a tó frissítő vizét. Érdemes a meleg nyári napokon felkeresni.", "category": "family", "coords": [11.456573, 53.603532]}, {"name": "Badestelle Reppiner Burg", "text": "A Reppiner Burg-i fürdőhely a Schweriner See-nél található.", "category": "recreational", "coords": [11.485679, 53.604925]}], "ro": [{"name": "Zippendorfer Strand", "text": "Această porțiune de plajă este situată idilic pe lacul Schwerin. Atmosfera liniștită te invită la plimbări relaxante și la plajă. Vizitatorii se pot aștepta la o baie răcoritoare în apele lacului. O vizită este recomandată în special în zilele calde de vară.", "category": "family", "coords": [11.456573, 53.603532]}, {"name": "Badestelle Reppiner Burg", "text": "Zona de scăldat de la Reppiner Burg este situată la lacul Schweriner See.", "category": "recreational", "coords": [11.485679, 53.604925]}], "en": [{"name": "Zippendorfer Strand", "text": "This lovely stretch of beach is idly situated on Lake Schwerin. The quiet atmosphere invites visitors for relaxing walks and extensive sunbathing. You can look forward to a refreshing swim in the lake. A visit is especially worthwhile on warm summer days.", "category": "family", "coords": [11.456573, 53.603532]}, {"name": "Badestelle Reppiner Burg", "text": "The bathing spot at Reppiner Burg is located at Lake Schweriner See.", "category": "recreational", "coords": [11.485679, 53.604925]}]},
     type: "lake",
     parent: "DE-MV",
     coords: [11.43, 53.62],
@@ -56332,52 +47111,7 @@ export const pois: POI[] = [
       "tr": ["Kongresshalle 50.000 kişi için tasarlanmış ancak tamamlanmamıştır.", "Zeppelinfeld 200.000 katılımcıya kadar yer sunmaktaydı.", "Albert Speer, 152 uçaksavar projektörüyle 'Lichtdom'u tasarlamıştır.", "Dokümantasyon merkezi 2001 yılında açılmıştır.", "Alan 1973 yılından beri koruma altındadır.", "Arazinin bir bölümü bugün yarış pisti (Norisring) olarak kullanılmaktadır."]},
   },
   {
-    id: "hist-berliner-mauer", "sights": {
-      "de": [
-            {
-                  "name": "Paia Beach",
-                  "text": "Strandbereich nahe der historischen Berliner Mauer.",
-                  "category": "recreational",
-                  "coords": [
-                        13.383256,
-                        52.534546
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Paia Beach",
-                  "text": "Strandterület a történelmi berlini fal közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.383256,
-                        52.534546
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Paia Beach",
-                  "text": "Zonă de plajă lângă istoricul Zid al Berlinului.",
-                  "category": "recreational",
-                  "coords": [
-                        13.383256,
-                        52.534546
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Paia Beach",
-                  "text": "Beach area near the historic Berlin Wall.",
-                  "category": "recreational",
-                  "coords": [
-                        13.383256,
-                        52.534546
-                  ]
-            }
-      ]
-},
+    id: "hist-berliner-mauer", "sights": {"de": [{"name": "Paia Beach", "text": "Unweit der historischen Berliner Mauer bietet das Paia Beach ein ganz besonderes urbanes Stranderlebnis. Zwischen Stadtflair und Sandflächen lässt es sich wunderbar entspannen und die Sonne genießen. Der Ort eignet sich hervorragend, um nach dem Sightseeing die Seele baumeln zu lassen. Am besten kommt man am späten Nachmittag, um die entspannte Stimmung aufzusaugen.", "category": "recreational", "coords": [13.383256, 52.534546]}], "hu": [{"name": "Paia Beach", "text": "A történelmi berlini fal közelében található Paia Beach különleges városi strandélményt kínál. A városi hangulat és a homokos területek között csodálatosan lehet pihenni és élvezni a napsütést. A hely kiválóan alkalmas a városnézés utáni kikapcsolódásra. A legjobb késő délután érkezni, hogy magunkba szívjuk a nyugodt hangulatot.", "category": "recreational", "coords": [13.383256, 52.534546]}], "ro": [{"name": "Paia Beach", "text": "Nu departe de istoricul Zid al Berlinului, Paia Beach oferă o experiență urbană de plajă cu totul specială. Între atmosfera orașului și zonele de nisip te poți relaxa minunat bucurându-te de soare. Locul este ideal pentru relaxare după vizitarea obiectivelor turistice. Cel mai bine este să vii la sfârșitul după-amiezii pentru a savura atmosfera liniștită.", "category": "recreational", "coords": [13.383256, 52.534546]}], "en": [{"name": "Paia Beach", "text": "Not far from the historic Berlin Wall, Paia Beach offers a very special urban beach experience. Among city flair and sandy spots, you can wonderfully relax and enjoy the sun. The place is perfectly suited to unwind after sightseeing. It is best to arrive in the late afternoon to soak up the relaxed vibe.", "category": "recreational", "coords": [13.383256, 52.534546]}]},
     type: "historical",
     parent: "DE-BE",
     coords: [13.3903, 52.5351],
@@ -57711,52 +48445,7 @@ export const pois: POI[] = [
       "tr": ["24 sanığa karşı açılan ana dava 20 Kasım 1945'te başladı.", "Schwurgerichtssaal 600 dava için özel olarak yeniden düzenlendi.", "Robert H. Jackson, Amerika Birleşik Devletleri'nin başsavcısıydı.", "Sanıklardan on ikisi asılarak idam cezasına çarptırıldı.", "Justizpalast 1909 ile 1916 yılları arasında inşa edildi.", "2010 yılından beri Memorium Nürnberger Prozesse halka açıktır."]},
   },
   {
-    id: "hist-sachsenhausen", "sights": {
-      "de": [
-            {
-                  "name": "Weißer Strand Lehnitz",
-                  "text": "Weißer Strand Lehnitz bei Oranienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        13.275005,
-                        52.75729
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Weißer Strand Lehnitz",
-                  "text": "Weißer Strand Lehnitz fürdőhely Oranienburg közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.275005,
-                        52.75729
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Weißer Strand Lehnitz",
-                  "text": "Weißer Strand Lehnitz lângă Oranienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        13.275005,
-                        52.75729
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Weißer Strand Lehnitz",
-                  "text": "Weißer Strand Lehnitz near Oranienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        13.275005,
-                        52.75729
-                  ]
-            }
-      ]
-},
+    id: "hist-sachsenhausen", "sights": {"de": [{"name": "Weißer Strand Lehnitz", "text": "Der Weiße Strand Lehnitz befindet sich nahe Oranienburg in der Umgebung des Sachsenhausen Memorials. Dieser lokale Treffpunkt bietet eine willkommene Gelegenheit für eine kleine Auszeit am Wasser. Spaziergänge entlang des Ufers und gemütliches Sonnenbaden stehen hier im Vordergrund. Für ein ungestörtes Erlebnis empfiehlt sich ein Ausflug in den frühen Morgenstunden.", "category": "recreational", "coords": [13.275005, 52.75729]}], "hu": [{"name": "Weißer Strand Lehnitz", "text": "A Weißer Strand Lehnitz Oranienburg közelében, a Sachsenhausen Emlékmű környékén található. Ez a helyi találkozóhely szívesen látott lehetőséget nyújt egy kis vízparti pihenésre. A part menti séták és a kényelmes napozás állnak itt a középpontban. A zavartalan élmény érdekében ajánlott a kora reggeli órákban idelátogatni.", "category": "recreational", "coords": [13.275005, 52.75729]}], "ro": [{"name": "Weißer Strand Lehnitz", "text": "Plaja Weißer Strand Lehnitz se află lângă Oranienburg, în zona Memorialului Sachsenhausen. Acest loc de întâlnire local oferă o oportunitate binevenită pentru o mică pauză la malul apei. Plimbările de-a lungul malului și plaja confortabilă sunt principalele activități aici. Pentru o experiență liniștită, se recomandă o excursie la primele ore ale dimineții.", "category": "recreational", "coords": [13.275005, 52.75729]}], "en": [{"name": "Weißer Strand Lehnitz", "text": "Weißer Strand Lehnitz is located near Oranienburg in the vicinity of the Sachsenhausen Memorial. This local meeting point offers a welcome opportunity for a little break by the water. Walks along the shore and cozy sunbathing are the main focus here. For an undisturbed experience, an early morning trip is highly recommended.", "category": "recreational", "coords": [13.275005, 52.75729]}]},
     type: "historical",
     parent: "DE-BB",
     coords: [13.2589, 52.7673],
@@ -59409,88 +50098,7 @@ export const pois: POI[] = [
       "tr": ["JadeWeserPort, Almanya'da 16 metreden fazla su çekimine sahip gemileri kabul edebilen tek limandır.", "Wilhelmshaven, 17 Haziran 1869'da resmi olarak Kral Wilhelm I. tarafından isimlendirilmiştir.", "Liman, ham petrol boru hatları için Almanya'nın en önemli karaya çıkış noktasıdır.", "JadeWeserPort'un rıhtımı 1.725 metre uzunluğundadır.", "Wilhelmshaven, tarihi Südstrand'da bulunan Deutsches Marinemuseum'a ev sahipliği yapmaktadır.", "Almanya'nın ilk yüzen LNG terminali Aralık 2022'de burada açılmıştır."]},
   },
   {
-    id: "port-kiel", "sights": {
-      "de": [
-            {
-                  "name": "Mönkeberger Strand",
-                  "text": "Der Mönkeberger Strand befindet sich in der Nähe des Kieler Hafens.",
-                  "category": "recreational",
-                  "coords": [
-                        10.177614,
-                        54.351687
-                  ]
-            },
-            {
-                  "name": "Kitzeberger Strand",
-                  "text": "Der Kitzeberger Strand liegt nahe dem Kieler Hafen.",
-                  "category": "recreational",
-                  "coords": [
-                        10.179401,
-                        54.358591
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mönkeberger Strand",
-                  "text": "A Mönkeberger Strand a kieli kikötő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        10.177614,
-                        54.351687
-                  ]
-            },
-            {
-                  "name": "Kitzeberger Strand",
-                  "text": "A Kitzeberger Strand a kieli kikötő közelében helyezkedik el.",
-                  "category": "recreational",
-                  "coords": [
-                        10.179401,
-                        54.358591
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mönkeberger Strand",
-                  "text": "Plaja Mönkeberger se află în apropierea portului Kiel.",
-                  "category": "recreational",
-                  "coords": [
-                        10.177614,
-                        54.351687
-                  ]
-            },
-            {
-                  "name": "Kitzeberger Strand",
-                  "text": "Plaja Kitzeberger este situată aproape de portul Kiel.",
-                  "category": "recreational",
-                  "coords": [
-                        10.179401,
-                        54.358591
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mönkeberger Strand",
-                  "text": "Mönkeberger beach is situated near the port of Kiel.",
-                  "category": "recreational",
-                  "coords": [
-                        10.177614,
-                        54.351687
-                  ]
-            },
-            {
-                  "name": "Kitzeberger Strand",
-                  "text": "Kitzeberger beach is located near the port of Kiel.",
-                  "category": "recreational",
-                  "coords": [
-                        10.179401,
-                        54.358591
-                  ]
-            }
-      ]
-},
+    id: "port-kiel", "sights": {"de": [{"name": "Mönkeberger Strand", "text": "In direkter Nähe zum belebten Kieler Fährhafen erstreckt sich der Mönkeberger Strand. Besucher können hier das maritime Treiben beobachten, während sie am Wasser spazieren oder sich im Sand erholen. Die Mischung aus Küstenflair und Hafengeschehen verleiht dem Ort eine ganz eigene Dynamik. Es lohnt sich, ein Picknick für den perfekten Nachmittag einzupacken.", "category": "recreational", "coords": [10.177614, 54.351687]}, {"name": "Kitzeberger Strand", "text": "Ebenfalls nahe dem Kieler Hafen gelegen, bietet der Kitzeberger Strand einen herrlichen Rückzugsort an der Küste. Die ruhigere Umgebung lädt dazu ein, die Seele baumeln zu lassen und dem Meeresrauschen zu lauschen. Ob für ein kurzes Bad oder ausgedehnte Spaziergänge, der Strand hält für jeden etwas bereit. Ein Besuch unter der Woche verspricht besonders viel Ruhe.", "category": "recreational", "coords": [10.179401, 54.358591]}], "hu": [{"name": "Mönkeberger Strand", "text": "A Mönkeberger Strand közvetlenül a forgalmas kieli kompkikötő közelében húzódik. A látogatók itt megfigyelhetik a tengeri nyüzsgést, miközben a vízparton sétálnak vagy a homokban pihennek. A parti hangulat és a kikötői élet keveréke egyedi dinamikát kölcsönöz a helynek. Érdemes egy piknikkosarat csomagolni a tökéletes délutánhoz.", "category": "recreational", "coords": [10.177614, 54.351687]}, {"name": "Kitzeberger Strand", "text": "A szintén a kieli kikötő közelében található Kitzeberger Strand csodálatos menedéket kínál a tengerparton. A csendesebb környezet arra hív, hogy pihenjünk és hallgassuk a tenger zúgását. Akár egy rövid fürdőzésre, akár hosszú sétákra vágyik, a strand mindenki számára tartogat valamit. A hétköznapi látogatás különösen sok nyugalmat ígér.", "category": "recreational", "coords": [10.179401, 54.358591]}], "ro": [{"name": "Mönkeberger Strand", "text": "Plaja Mönkeberger Strand se întinde în imediata apropiere a aglomeratului port de feriboturi din Kiel. Vizitatorii pot urmări agitația maritimă aici, în timp ce se plimbă pe malul apei sau se relaxează pe nisip. Amestecul de atmosferă de coastă și activitate portuară conferă locului o dinamică unică. Merită să aduci un coș de picnic pentru o după-amiază perfectă.", "category": "recreational", "coords": [10.177614, 54.351687]}, {"name": "Kitzeberger Strand", "text": "Situată tot lângă portul Kiel, plaja Kitzeberger Strand oferă un refugiu minunat pe coastă. Mediul mai liniștit te invită să te relaxezi și să asculți sunetul mării. Fie pentru o baie scurtă sau pentru plimbări lungi, plaja are ceva pregătit pentru fiecare. O vizită în timpul săptămânii promite multă pace și liniște.", "category": "recreational", "coords": [10.179401, 54.358591]}], "en": [{"name": "Mönkeberger Strand", "text": "Mönkeberger Strand stretches right near the bustling Kiel Ferry Port. Visitors can watch the maritime hustle and bustle while walking by the water or relaxing on the sand. The mix of coastal flair and harbor activity gives the place its own unique dynamic. Packing a picnic is a great idea for a perfect afternoon.", "category": "recreational", "coords": [10.177614, 54.351687]}, {"name": "Kitzeberger Strand", "text": "Also located near the Kiel port, Kitzeberger Strand offers a wonderful coastal retreat. The quieter surroundings invite you to unwind and listen to the sound of the sea. Whether for a quick swim or extended walks, the beach has something for everyone. Visiting during the week promises an especially peaceful experience.", "category": "recreational", "coords": [10.179401, 54.358591]}]},
     type: "port",
     parent: "DE-SH",
     coords: [10.1351, 54.3233],
@@ -60362,52 +50970,7 @@ export const pois: POI[] = [
     image: "/poi-images/landmark-saarschleife.webp",
   },
   {
-    id: "hist-ludwigskirche-saarbruecken", "sights": {
-      "de": [
-            {
-                  "name": "One Beach",
-                  "text": "Der \"One Beach\" befindet sich in Saarbrücken.",
-                  "category": "recreational",
-                  "coords": [
-                        7.002119,
-                        49.228043
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "One Beach",
-                  "text": "A \"One Beach\" Saarbrückenben található.",
-                  "category": "recreational",
-                  "coords": [
-                        7.002119,
-                        49.228043
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "One Beach",
-                  "text": "\"One Beach\" este situată în Saarbrücken.",
-                  "category": "recreational",
-                  "coords": [
-                        7.002119,
-                        49.228043
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "One Beach",
-                  "text": "The \"One Beach\" is located in Saarbrücken.",
-                  "category": "recreational",
-                  "coords": [
-                        7.002119,
-                        49.228043
-                  ]
-            }
-      ]
-},
+    id: "hist-ludwigskirche-saarbruecken", "sights": {"de": [{"name": "One Beach", "text": "Mitten im urbanen Saarbrücken, nicht weit von der Ludwigskirche entfernt, ist One Beach eine urbane Wohlfühloase. Die aufgeschüttete Sandfläche schafft ein unerwartetes Strandgefühl im Herzen der Stadt. Freunde und Familien treffen sich hier gern zum entspannten Beisammensein unter freiem Himmel. Für die beste Platzwahl sollte man an sonnigen Tagen rechtzeitig eintreffen.", "category": "recreational", "coords": [7.002119, 49.228043]}], "hu": [{"name": "One Beach", "text": "Saarbrücken városias központjában, nem messze a Lajos-templomtól, a One Beach egy igazi városi jóléti oázis. A felhalmozott homokos terület váratlan strandérzést kelt a város szívében. A barátok és a családok szívesen találkoznak itt egy pihentető összejövetelre a szabad ég alatt. A napsütéses napokon érdemes időben érkezni a legjobb helyekért.", "category": "recreational", "coords": [7.002119, 49.228043]}], "ro": [{"name": "One Beach", "text": "Chiar în centrul urban al orașului Saarbrücken, nu departe de biserica Ludwig, One Beach este o oază de bunăstare urbană. Zona cu nisip amenajată creează o senzație neașteptată de plajă în inima orașului. Prietenii și familiile se întâlnesc cu plăcere aici pentru o socializare relaxantă în aer liber. Pentru cele mai bune locuri, ajungeți devreme în zilele însorite.", "category": "recreational", "coords": [7.002119, 49.228043]}], "en": [{"name": "One Beach", "text": "Right in urban Saarbrücken, not far from the Ludwigskirche, One Beach serves as an urban oasis of well-being. The set-up sandy area creates an unexpected beach feeling in the heart of the city. Friends and families like to meet here for a relaxed gathering under the open sky. For the best spots on sunny days, try to arrive early.", "category": "recreational", "coords": [7.002119, 49.228043]}]},
     type: "historical",
     parent: "DE-SL",
     coords: [6.9956, 49.2285],
@@ -61495,6 +52058,24 @@ export const pois: POI[] = [
                         7.372202,
                         49.310378
                   ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "Ein faszinierendes Aquarium in Homburg Saar mit vielen Meeresbewohnern.",
+                  "category": "family",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "KOI Bad & Sauna",
+                  "text": "Ein modernes Bad in Homburg Saar mit Saunalandschaft zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        7.350444,
+                        49.336956
+                  ]
             }
       ],
       "hu": [
@@ -61592,6 +52173,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.372202,
                         49.310378
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "Lenyűgöző akvárium Homburg Saarban számos tengeri élőlénnyel.",
+                  "category": "family",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "KOI Bad & Sauna",
+                  "text": "Modern fürdő Homburg Saarban szaunavilággal a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.350444,
+                        49.336956
                   ]
             }
       ],
@@ -61691,6 +52290,24 @@ export const pois: POI[] = [
                         7.372202,
                         49.310378
                   ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "Un acvariu fascinant în Homburg Saar, cu mulți locuitori ai mării.",
+                  "category": "family",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "KOI Bad & Sauna",
+                  "text": "O baie modernă în Homburg Saar cu o zonă de saună pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        7.350444,
+                        49.336956
+                  ]
             }
       ],
       "en": [
@@ -61788,6 +52405,24 @@ export const pois: POI[] = [
                   "coords": [
                         7.372202,
                         49.310378
+                  ]
+            },
+            {
+                  "name": "Homburger Aqualit",
+                  "text": "A fascinating aquarium in Homburg Saar with many sea creatures.",
+                  "category": "family",
+                  "coords": [
+                        7.340626,
+                        49.322984
+                  ]
+            },
+            {
+                  "name": "KOI Bad & Sauna",
+                  "text": "A modern pool in Homburg Saar with a sauna landscape for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        7.350444,
+                        49.336956
                   ]
             }
       ],
@@ -62454,2185 +53089,7 @@ export const pois: POI[] = [
       fr: ["Darmstadt est le siège du Centre européen d'opérations spatiales (ESOC) de l'ESA.", "La colonie d'artistes de la Mathildenhöhe a été fondée en 1899 par Ernest-Louis de Hesse.", "Six éléments chimiques ont été découverts au laboratoire GSI de Darmstadt, dont le darmstadtium.", "La Tour des mariages sur la Mathildenhöhe mesure 48,5 mètres de haut.", "L'entreprise Merck a été fondée ici dès l'année 1668.", "La ville a été la première à recevoir le titre officiel de ville de la science en 1997."],
     
       "tr": ["Darmstadt, ESA'nın Avrupa Uzay Operasyonları Merkezi'ne (ESOC) ev sahipliği yapar.", "Mathildenhöhe sanatçı kolonisi 1899'da Ernst Ludwig von Hessen tarafından kuruldu.", "Darmstadt'taki GSI laboratuvarında, Darmstadtium dahil altı kimyasal element keşfedildi.", "Mathildenhöhe üzerindeki Hochzeitsturm (Düğün Kulesi) 48,5 metre yüksekliğindedir.", "Merck şirketi burada henüz 1668 yılında kurulmuştur.", "Şehir, 1997 yılında resmi Wissenschaftsstadt unvanını alan ilk şehir oldu."]},
-    "sights": {
-      "de": [
-            {
-                  "name": "Mathildenhöhe",
-                  "text": "Zentrum des Jugendstils mit dem Hochzeitsturm und der russischen Kapelle, seit 2021 UNESCO-Welterbe.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.666504,
-                        49.875433
-                  ]
-            },
-            {
-                  "name": "Residenzschloss",
-                  "text": "Das barocke Schloss am Marktplatz war einst der Sitz der Landgrafen und Großherzöge von Hessen-Darmstadt.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        8.65528,
-                        49.8736
-                  ]
-            },
-            {
-                  "name": "Waldspirale",
-                  "text": "Ein von Friedensreich Hundertwasser entworfenes Wohnhaus mit vergoldeten Kuppeln und bewachsenem Dach.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.65583,
-                        49.8856
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "Eines der letzten Universilmuseen Europas mit bedeutenden Sammlungen zu Kunst, Kultur und Naturkunde.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.65306,
-                        49.8747
-                  ]
-            },
-            {
-                  "name": "Park Rosenhöhe",
-                  "text": "Ein historischer Landschaftspark mit einem prächtigen Rosarium und den Grabstätten der großherzoglichen Familie.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        8.679444,
-                        49.875833
-                  ]
-            },
-            {
-                  "name": "Luisenplatz",
-                  "text": "Der zentrale Platz der Stadt mit dem Ludwigsmonument, einer 28 Meter hohen Säule zu Ehren des Großherzogs.",
-                  "category": "square",
-                  "confidence": "high",
-                  "coords": [
-                        8.651521,
-                        49.872986
-                  ]
-            },
-            {
-                  "name": "Jazzinstitut Darmstadt",
-                  "text": "Europas größtes öffentliches Jazz-Archiv befindet sich im historischen Kavalleriehaus.",
-                  "category": "museum",
-                  "coords": [
-                        8.647866,
-                        49.857966
-                  ]
-            },
-            {
-                  "name": "Darmstädter Papiertheatersammlung",
-                  "text": "Ein Museum für Papiertheater mit Exponaten aus verschiedenen Epochen.",
-                  "category": "museum",
-                  "coords": [
-                        8.663807,
-                        49.872172
-                  ]
-            },
-            {
-                  "name": "Museum Künstlerkolonie",
-                  "text": "Das Museum auf der Mathildenhöhe dokumentiert die Geschichte des Darmstädter Jugendstils.",
-                  "category": "museum",
-                  "coords": [
-                        8.668188,
-                        49.876448
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Eine der Spielstätten des Staatstheaters Darmstadt für modernes Schauspiel.",
-                  "category": "cultural",
-                  "coords": [
-                        8.649597,
-                        49.868254
-                  ]
-            },
-            {
-                  "name": "Schader Forum",
-                  "text": "Ein Zentrum für den Dialog zwischen Gesellschaftswissenschaften und Praxis.",
-                  "category": "museum",
-                  "coords": [
-                        8.653758,
-                        49.862954
-                  ]
-            },
-            {
-                  "name": "Prinz-Georg-Palais",
-                  "text": "Das Palais beherbergt die Großherzoglich-Hessische Porzellansammlung.",
-                  "category": "museum",
-                  "coords": [
-                        8.6533,
-                        49.879718
-                  ]
-            },
-            {
-                  "name": "Prinz-Emil-Palais",
-                  "text": "Ein spätbarockes Landschloss inmitten des Prinz-Emil-Gartens.",
-                  "category": "castle",
-                  "coords": [
-                        8.650048,
-                        49.860408
-                  ]
-            },
-            {
-                  "name": "Centralstation",
-                  "text": "Ein Veranstaltungsort für Konzerte und Kultur in einem ehemaligen Elektrizitätswerk.",
-                  "category": "cultural",
-                  "coords": [
-                        8.652564,
-                        49.871764
-                  ]
-            },
-            {
-                  "name": "Theater Mollerhaus",
-                  "text": "Ein freies Theaterzentrum in einem klassizistischen Gebäude von Georg Moller.",
-                  "category": "cultural",
-                  "coords": [
-                        8.6506,
-                        49.867808
-                  ]
-            },
-            {
-                  "name": "Vivarium",
-                  "text": "Kleiner Zoo in Darmstadt mit rund 2000 Tieren in 190 Arten.",
-                  "category": "family",
-                  "coords": [
-                        8.683391,
-                        49.866183
-                  ]
-            },
-            {
-                  "name": "Darmbachaue von Darmstadt",
-                  "text": "Ein Naturschutzgebiet im Osten Darmstadts, das wertvolle Feuchtwiesen schützt.",
-                  "category": "natural",
-                  "coords": [
-                        8.694035,
-                        49.853361
-                  ]
-            },
-            {
-                  "name": "Bessunger Kiesgrube",
-                  "text": "Ehemalige Kiesgrube, die heute als wertvolles Biotop und Naturschutzgebiet dient.",
-                  "category": "natural",
-                  "coords": [
-                        8.649001,
-                        49.847425
-                  ]
-            },
-            {
-                  "name": "Römische Wasserleitung",
-                  "text": "Archäologische Stätte mit Überresten einer antiken römischen Wasserversorgungsanlage.",
-                  "category": "historical",
-                  "coords": [
-                        8.656741,
-                        49.877082
-                  ]
-            },
-            {
-                  "name": "Straßenbahnmuseum",
-                  "text": "Ein Museum, das die Geschichte der Darmstädter Straßenbahn und des öffentlichen Verkehrs zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.655836,
-                        49.8893
-                  ]
-            },
-            {
-                  "name": "Altstadtmuseum Darmstadt",
-                  "text": "Museum zur Geschichte der Darmstädter Altstadt im historischen Huis-Haus.",
-                  "category": "museum",
-                  "coords": [
-                        8.659027,
-                        49.87198
-                  ]
-            },
-            {
-                  "name": "Science Pop-up",
-                  "text": "Eine temporäre Ausstellung in Darmstadt, die wissenschaftliche Themen anschaulich präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        8.654172,
-                        49.871406
-                  ]
-            },
-            {
-                  "name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)",
-                  "text": "Außenstelle des Landesmuseums mit Fokus auf Schriftguss und historische Druckverfahren.",
-                  "category": "museum",
-                  "coords": [
-                        8.636456,
-                        49.881247
-                  ]
-            },
-            {
-                  "name": "Institut für Neue Technische Form",
-                  "text": "Designmuseum und Institut, das sich mit moderner Gestaltung und industrieller Formgebung befasst.",
-                  "category": "museum",
-                  "coords": [
-                        8.654008,
-                        49.874293
-                  ]
-            },
-            {
-                  "name": "Postsiedlungs-Biotop",
-                  "text": "Ein städtisches Naturschutzgebiet, das Lebensraum für lokale Flora und Fauna bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.638037,
-                        49.857411
-                  ]
-            },
-            {
-                  "name": "Ernst-Ludwig-Pavillon",
-                  "text": "Ein historisches Gebäude auf der Mathildenhöhe, das als Teil der Künstlerkolonie erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        8.641637,
-                        49.867887
-                  ]
-            },
-            {
-                  "name": "Mathildenplatz",
-                  "text": "Ein zentraler Platz und Park in Darmstadt, benannt nach Großherzogin Mathilde.",
-                  "category": "park",
-                  "coords": [
-                        8.650507,
-                        49.874811
-                  ]
-            },
-            {
-                  "name": "Platanenhain",
-                  "text": "Eine parkähnliche Anlage auf der Mathildenhöhe in Darmstadt mit zahlreichen Platanen.",
-                  "category": "park",
-                  "coords": [
-                        8.666138,
-                        49.876731
-                  ]
-            },
-            {
-                  "name": "Landgraf-Philipps-Anlage",
-                  "text": "Eine öffentliche Grünanlage im Stadtzentrum von Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.642538,
-                        49.869943
-                  ]
-            },
-            {
-                  "name": "Wolfskehl'scher Park",
-                  "text": "Ein historischer Landschaftspark im Süden von Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.65573,
-                        49.86337
-                  ]
-            },
-            {
-                  "name": "Kapellplatz",
-                  "text": "Ein kleiner Park und Platz in Darmstadt, geprägt von historischen Gebäuden und Denkmälern.",
-                  "category": "park",
-                  "coords": [
-                        8.658668,
-                        49.87033
-                  ]
-            },
-            {
-                  "name": "Ingelheimer Garten",
-                  "text": "Eine gepflegte Gartenanlage im Stadtgebiet von Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.640958,
-                        49.8603
-                  ]
-            },
-            {
-                  "name": "Akaziengarten",
-                  "text": "Ein öffentlicher Park in Darmstadt, der für seinen Baumbestand bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        8.6368,
-                        49.861333
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Der Botanische Garten der Technischen Universität Darmstadt beherbergt eine große Pflanzenvielfalt.",
-                  "category": "park",
-                  "coords": [
-                        8.678607,
-                        49.869306
-                  ]
-            },
-            {
-                  "name": "Platz der Deutschen Einheit",
-                  "text": "Ein zentraler Platz in Darmstadt, der an die deutsche Wiedervereinigung erinnert.",
-                  "category": "park",
-                  "coords": [
-                        8.632309,
-                        49.87158
-                  ]
-            },
-            {
-                  "name": "Bürgerpark Nord",
-                  "text": "Ein weitläufiger Sport- und Erholungspark im Norden von Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.667862,
-                        49.889122
-                  ]
-            },
-            {
-                  "name": "Rudolf-Mueller-Anlage",
-                  "text": "Eine kleine Grünanlage in Darmstadt, die als Naherholungsgebiet dient.",
-                  "category": "park",
-                  "coords": [
-                        8.665665,
-                        49.872534
-                  ]
-            },
-            {
-                  "name": "Schlauchturm",
-                  "text": "Ein markanter historischer Schlauchturm der Feuerwehr in Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.640954,
-                        49.874499
-                  ]
-            },
-            {
-                  "name": "Verpflanzturm Orangerie",
-                  "text": "Ein historisches Turmbauwerk im Garten der Orangerie in Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.652024,
-                        49.857833
-                  ]
-            },
-            {
-                  "name": "Erich-Kästner-See",
-                  "text": "Der Erich-Kästner-See in Darmstadt ist ein Gewässer, das eine ruhige Atmosphäre in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.68699,
-                        49.898647
-                  ]
-            },
-            {
-                  "name": "Arheilger Mühlchen",
-                  "text": "Das Arheilger Mühlchen in Darmstadt ist ein See, der zu erholsamen Stunden im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        8.671994,
-                        49.903804
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Der Waldsee in Darmstadt bietet eine natürliche Kulisse für Spaziergänge und Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        8.69479,
-                        49.925804
-                  ]
-            },
-            {
-                  "name": "Abwassertechnische Anlage",
-                  "text": "Die Abwassertechnische Anlage in Darmstadt ist ein See, der sich in die umliegende Landschaft einfügt.",
-                  "category": "natural",
-                  "coords": [
-                        8.637873,
-                        49.935739
-                  ]
-            },
-            {
-                  "name": "Großer Woog",
-                  "text": "Der Große Woog in Darmstadt ist ein zentral gelegener See, der als Ort der Entspannung dient.",
-                  "category": "natural",
-                  "coords": [
-                        8.670019,
-                        49.872832
-                  ]
-            },
-            {
-                  "name": "Grube Prinz von Hessen",
-                  "text": "Die Grube Prinz von Hessen in Darmstadt ist ein See, der von Natur umgeben ist und Ruhe bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.734027,
-                        49.899602
-                  ]
-            },
-            {
-                  "name": "Waltersteich",
-                  "text": "Der Waltersteich in Darmstadt ist ein kleiner See, der sich gut für Naturbetrachtungen eignet.",
-                  "category": "natural",
-                  "coords": [
-                        8.676137,
-                        49.831598
-                  ]
-            },
-            {
-                  "name": "Biergarten Spielplatz",
-                  "text": "Der Biergarten Spielplatz in Darmstadt ist ein familienfreundlicher Ort, der zum Verweilen und Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        8.669533,
-                        49.878877
-                  ]
-            },
-            {
-                  "name": "Waldspielplatz am Herrgottsberg",
-                  "text": "Der Waldspielplatz am Herrgottsberg in Darmstadt ermöglicht Kindern naturnahes Spielen im Wald.",
-                  "category": "family",
-                  "coords": [
-                        8.672163,
-                        49.849793
-                  ]
-            },
-            {
-                  "name": "Spielplatz Friedrich-Ebert-Platz",
-                  "text": "Der Spielplatz Friedrich-Ebert-Platz in Darmstadt ist ein beliebter Treffpunkt für Familien im Stadtteil.",
-                  "category": "family",
-                  "coords": [
-                        8.655568,
-                        49.881558
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "Die Orangerie in Darmstadt beherbergt einen Spielplatz, der Kindern Freude und Bewegung bietet.",
-                  "category": "family",
-                  "coords": [
-                        8.653861,
-                        49.858133
-                  ]
-            },
-            {
-                  "name": "Spielplatz Traubenweg /Wedekindweg",
-                  "text": "Der Spielplatz Traubenweg / Wedekindweg in Darmstadt bietet eine Auswahl an Spielgeräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        8.618045,
-                        49.873256
-                  ]
-            },
-            {
-                  "name": "Kinderwildnis",
-                  "text": "Die Kinderwildnis in Darmstadt ist ein Spielplatz, der zum fantasievollen Spielen in der Natur anregt.",
-                  "category": "family",
-                  "coords": [
-                        8.651527,
-                        49.856175
-                  ]
-            },
-            {
-                  "name": "Spielplatz Oberförsterwiese",
-                  "text": "Der Spielplatz Oberförsterwiese in Darmstadt bietet Kindern viel Platz zum Rennen und Spielen.",
-                  "category": "family",
-                  "coords": [
-                        8.675957,
-                        49.851772
-                  ]
-            },
-            {
-                  "name": "Diamant-Spielplatz",
-                  "text": "Der Diamant-Spielplatz in Darmstadt ist ein schöner Ort für Kinder, um draußen aktiv zu sein.",
-                  "category": "family",
-                  "coords": [
-                        8.643168,
-                        49.855235
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Herrngarten",
-                  "text": "Der Aktivspielplatz Herrngarten in Darmstadt bietet Kindern vielfältige Möglichkeiten für Spiel und Bewegung.",
-                  "category": "family",
-                  "coords": [
-                        8.652038,
-                        49.879539
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Kleingärtnerverein Lichtwiese",
-                  "text": "Der Spielplatz am Kleingärtnerverein Lichtwiese in Darmstadt ist ein ruhiger Ort zum Spielen für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        8.682282,
-                        49.86266
-                  ]
-            },
-            {
-                  "name": "Spielplatz Peter-Behrens-Str.",
-                  "text": "Der Spielplatz Peter-Behrens-Str. in Darmstadt bietet Kindern verschiedene Möglichkeiten zum Klettern und Toben.",
-                  "category": "family",
-                  "coords": [
-                        8.67092,
-                        49.883791
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Molkenbrunnen",
-                  "text": "Der Spielplatz am Molkenbrunnen in Darmstadt bietet Kindern Spielspaß in einer angenehmen Atmosphäre.",
-                  "category": "family",
-                  "coords": [
-                        8.677373,
-                        49.871794
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mathildenhöhe",
-                  "text": "A szecesszió központja az Esküvői toronnyal és az orosz kápolnával, 2021 óta az UNESCO Világörökség része.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.666504,
-                        49.875433
-                  ]
-            },
-            {
-                  "name": "Rezidenciakastély",
-                  "text": "A piactéren álló barokk kastély egykor a hesseni tartományi grófok és nagyhercegek székhelye volt.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        8.65528,
-                        49.8736
-                  ]
-            },
-            {
-                  "name": "Waldspirale",
-                  "text": "Friedensreich Hundertwasser által tervezett különleges lakóház aranyozott kupolákkal és növényzettel beültetett tetővel.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.65583,
-                        49.8856
-                  ]
-            },
-            {
-                  "name": "Hesseni Tartományi Múzeum",
-                  "text": "Európa egyik utolsó univerzális múzeuma, jelentős művészeti, kulturális és természettudományi gyűjteményekkel.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.65306,
-                        49.8747
-                  ]
-            },
-            {
-                  "name": "Rosenhöhe park",
-                  "text": "Történelmi tájpark pompás rózsakerttel és a nagyhercegi család mauzóleumaival a város szélén.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        8.679444,
-                        49.875833
-                  ]
-            },
-            {
-                  "name": "Luisenplatz",
-                  "text": "A város központi tere a Ludwig-emlékművel, amely egy 28 méter magas oszlop a nagyherceg tiszteletére.",
-                  "category": "square",
-                  "confidence": "high",
-                  "coords": [
-                        8.651521,
-                        49.872986
-                  ]
-            },
-            {
-                  "name": "Jazzinstitut Darmstadt",
-                  "text": "Európa legnagyobb nyilvános jazz-archívuma a történelmi Kavalleriehaus épületében található.",
-                  "category": "museum",
-                  "coords": [
-                        8.647866,
-                        49.857966
-                  ]
-            },
-            {
-                  "name": "Darmstädter Papiertheatersammlung",
-                  "text": "Papírszínház-múzeum különböző korszakokból származó kiállítási tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        8.663807,
-                        49.872172
-                  ]
-            },
-            {
-                  "name": "Museum Künstlerkolonie",
-                  "text": "A Mathildenhöhe-n található múzeum a darmstadti szecesszió történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.668188,
-                        49.876448
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A Darmstadti Állami Színház egyik helyszíne modern színdarabokhoz.",
-                  "category": "cultural",
-                  "coords": [
-                        8.649597,
-                        49.868254
-                  ]
-            },
-            {
-                  "name": "Schader Forum",
-                  "text": "Társadalomtudományi központ a tudomány és a gyakorlat közötti párbeszédhez.",
-                  "category": "museum",
-                  "coords": [
-                        8.653758,
-                        49.862954
-                  ]
-            },
-            {
-                  "name": "Prinz-Georg-Palais",
-                  "text": "A palota a Nagyhercegi Hesseni Porcelángyűjteménynek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        8.6533,
-                        49.879718
-                  ]
-            },
-            {
-                  "name": "Prinz-Emil-Palais",
-                  "text": "Késő barokk vidéki kastély a Prinz-Emil-kert közepén.",
-                  "category": "castle",
-                  "coords": [
-                        8.650048,
-                        49.860408
-                  ]
-            },
-            {
-                  "name": "Centralstation",
-                  "text": "Koncertek és kulturális események helyszíne egy volt áramfejlesztő központban.",
-                  "category": "cultural",
-                  "coords": [
-                        8.652564,
-                        49.871764
-                  ]
-            },
-            {
-                  "name": "Theater Mollerhaus",
-                  "text": "Független színházi központ Georg Moller klasszicista épületében.",
-                  "category": "cultural",
-                  "coords": [
-                        8.6506,
-                        49.867808
-                  ]
-            },
-            {
-                  "name": "Vivarium",
-                  "text": "Darmstadt állatkertje, ahol mintegy 2000 állat látható 190 fajból.",
-                  "category": "family",
-                  "coords": [
-                        8.683391,
-                        49.866183
-                  ]
-            },
-            {
-                  "name": "Darmbachaue von Darmstadt",
-                  "text": "Természetvédelmi terület Darmstadt keleti részén, amely értékes nedves réteket óv.",
-                  "category": "natural",
-                  "coords": [
-                        8.694035,
-                        49.853361
-                  ]
-            },
-            {
-                  "name": "Bessunger Kiesgrube",
-                  "text": "Egykori kavicsbánya, amely ma értékes biotópként és természetvédelmi területként működik.",
-                  "category": "natural",
-                  "coords": [
-                        8.649001,
-                        49.847425
-                  ]
-            },
-            {
-                  "name": "Römische Wasserleitung",
-                  "text": "Régészeti lelőhely egy ókori római vízvezetékrendszer maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        8.656741,
-                        49.877082
-                  ]
-            },
-            {
-                  "name": "Straßenbahnmuseum",
-                  "text": "A darmstadti villamoshálózat és a tömegközlekedés történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        8.655836,
-                        49.8893
-                  ]
-            },
-            {
-                  "name": "Altstadtmuseum Darmstadt",
-                  "text": "A darmstadti óváros történetét bemutató múzeum a történelmi Huis-házban.",
-                  "category": "museum",
-                  "coords": [
-                        8.659027,
-                        49.87198
-                  ]
-            },
-            {
-                  "name": "Science Pop-up",
-                  "text": "Időszakos kiállítás Darmstadtban, amely közérthetően mutat be tudományos témákat.",
-                  "category": "museum",
-                  "coords": [
-                        8.654172,
-                        49.871406
-                  ]
-            },
-            {
-                  "name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)",
-                  "text": "A Tartományi Múzeum részlege, amely a betűöntésre és a történelmi nyomtatási eljárásokra fókuszál.",
-                  "category": "museum",
-                  "coords": [
-                        8.636456,
-                        49.881247
-                  ]
-            },
-            {
-                  "name": "Institut für Neue Technische Form",
-                  "text": "Dizájnmúzeum és intézet, amely a modern tervezéssel és az ipari formatervezéssel foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        8.654008,
-                        49.874293
-                  ]
-            },
-            {
-                  "name": "Postsiedlungs-Biotop",
-                  "text": "Városi természetvédelmi terület, amely élőhelyet biztosít a helyi növény- és állatvilágnak.",
-                  "category": "natural",
-                  "coords": [
-                        8.638037,
-                        49.857411
-                  ]
-            },
-            {
-                  "name": "Ernst-Ludwig-Pavillon",
-                  "text": "Történelmi épület a Mathildenhöhén, amely a művésztelep részeként épült.",
-                  "category": "historical",
-                  "coords": [
-                        8.641637,
-                        49.867887
-                  ]
-            },
-            {
-                  "name": "Mathildenplatz",
-                  "text": "Központi tér és park Darmstadtban, amely Mathilde nagyhercegnéről kapta a nevét.",
-                  "category": "park",
-                  "coords": [
-                        8.650507,
-                        49.874811
-                  ]
-            },
-            {
-                  "name": "Platanenhain",
-                  "text": "Parkos terület a darmstadti Mathildenhöhén, számos platánfával.",
-                  "category": "park",
-                  "coords": [
-                        8.666138,
-                        49.876731
-                  ]
-            },
-            {
-                  "name": "Landgraf-Philipps-Anlage",
-                  "text": "Nyilvános zöldterület Darmstadt városközpontjában.",
-                  "category": "park",
-                  "coords": [
-                        8.642538,
-                        49.869943
-                  ]
-            },
-            {
-                  "name": "Wolfskehl'scher Park",
-                  "text": "Történelmi tájképi park Darmstadt déli részén.",
-                  "category": "park",
-                  "coords": [
-                        8.65573,
-                        49.86337
-                  ]
-            },
-            {
-                  "name": "Kapellplatz",
-                  "text": "Kis park és tér Darmstadtban, történelmi épületekkel és emlékművekkel.",
-                  "category": "park",
-                  "coords": [
-                        8.658668,
-                        49.87033
-                  ]
-            },
-            {
-                  "name": "Ingelheimer Garten",
-                  "text": "Gondozott kertterület Darmstadt városi területén.",
-                  "category": "park",
-                  "coords": [
-                        8.640958,
-                        49.8603
-                  ]
-            },
-            {
-                  "name": "Akaziengarten",
-                  "text": "Nyilvános park Darmstadtban, amely faállományáról ismert.",
-                  "category": "park",
-                  "coords": [
-                        8.6368,
-                        49.861333
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "A darmstadti Műszaki Egyetem botanikus kertje, amely változatos növényvilágnak ad otthont.",
-                  "category": "park",
-                  "coords": [
-                        8.678607,
-                        49.869306
-                  ]
-            },
-            {
-                  "name": "Platz der Deutschen Einheit",
-                  "text": "Központi tér Darmstadtban, amely a német újraegyesítésnek állít emléket.",
-                  "category": "park",
-                  "coords": [
-                        8.632309,
-                        49.87158
-                  ]
-            },
-            {
-                  "name": "Bürgerpark Nord",
-                  "text": "Kiterjedt sport- és szabadidőpark Darmstadt északi részén.",
-                  "category": "park",
-                  "coords": [
-                        8.667862,
-                        49.889122
-                  ]
-            },
-            {
-                  "name": "Rudolf-Mueller-Anlage",
-                  "text": "Kis zöldterület Darmstadtban, amely helyi pihenőhelyként szolgál.",
-                  "category": "park",
-                  "coords": [
-                        8.665665,
-                        49.872534
-                  ]
-            },
-            {
-                  "name": "Schlauchturm",
-                  "text": "Darmstadt történelmi tűzoltótornya, amely egykor tömlőszárításra szolgált.",
-                  "category": "tower",
-                  "coords": [
-                        8.640954,
-                        49.874499
-                  ]
-            },
-            {
-                  "name": "Verpflanzturm Orangerie",
-                  "text": "Történelmi toronyépítmény a darmstadti Orangerie kertjében.",
-                  "category": "tower",
-                  "coords": [
-                        8.652024,
-                        49.857833
-                  ]
-            },
-            {
-                  "name": "Erich-Kästner-See",
-                  "text": "A darmstadti Erich-Kästner-See egy olyan vízfelület, amely nyugodt légkört kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        8.68699,
-                        49.898647
-                  ]
-            },
-            {
-                  "name": "Arheilger Mühlchen",
-                  "text": "A darmstadti Arheilger Mühlchen egy tó, amely pihentető órákra hív a szabadba.",
-                  "category": "natural",
-                  "coords": [
-                        8.671994,
-                        49.903804
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "A darmstadti Waldsee természetes környezetet biztosít a sétákhoz és a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        8.69479,
-                        49.925804
-                  ]
-            },
-            {
-                  "name": "Abwassertechnische Anlage",
-                  "text": "A darmstadti Abwassertechnische Anlage egy tó, amely illeszkedik a környező tájba.",
-                  "category": "natural",
-                  "coords": [
-                        8.637873,
-                        49.935739
-                  ]
-            },
-            {
-                  "name": "Großer Woog",
-                  "text": "A darmstadti Großer Woog egy központi fekvésű tó, amely a kikapcsolódás helyszíne.",
-                  "category": "natural",
-                  "coords": [
-                        8.670019,
-                        49.872832
-                  ]
-            },
-            {
-                  "name": "Grube Prinz von Hessen",
-                  "text": "A darmstadti Grube Prinz von Hessen egy természettel körülvett tó, amely nyugalmat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        8.734027,
-                        49.899602
-                  ]
-            },
-            {
-                  "name": "Waltersteich",
-                  "text": "A darmstadti Waltersteich egy kis tó, amely alkalmas a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        8.676137,
-                        49.831598
-                  ]
-            },
-            {
-                  "name": "Biergarten Spielplatz",
-                  "text": "A darmstadti Biergarten játszótér egy családbarát hely, amely pihenésre és játékra hív.",
-                  "category": "family",
-                  "coords": [
-                        8.669533,
-                        49.878877
-                  ]
-            },
-            {
-                  "name": "Waldspielplatz am Herrgottsberg",
-                  "text": "A darmstadti Waldspielplatz am Herrgottsberg természetközeli játékot tesz lehetővé a gyerekeknek az erdőben.",
-                  "category": "family",
-                  "coords": [
-                        8.672163,
-                        49.849793
-                  ]
-            },
-            {
-                  "name": "Spielplatz Friedrich-Ebert-Platz",
-                  "text": "A darmstadti Spielplatz Friedrich-Ebert-Platz a kerület családjainak kedvelt találkozóhelye.",
-                  "category": "family",
-                  "coords": [
-                        8.655568,
-                        49.881558
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "A darmstadti Orangerie egy játszótérnek ad otthont, amely örömet és mozgást kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.653861,
-                        49.858133
-                  ]
-            },
-            {
-                  "name": "Spielplatz Traubenweg /Wedekindweg",
-                  "text": "A darmstadti Traubenweg / Wedekindweg játszótér játékok választékát kínálja a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.618045,
-                        49.873256
-                  ]
-            },
-            {
-                  "name": "Kinderwildnis",
-                  "text": "A darmstadti Kinderwildnis egy játszótér, amely fantáziadús játékra ösztönöz a természetben.",
-                  "category": "family",
-                  "coords": [
-                        8.651527,
-                        49.856175
-                  ]
-            },
-            {
-                  "name": "Spielplatz Oberförsterwiese",
-                  "text": "A darmstadti Spielplatz Oberförsterwiese sok helyet kínál a gyerekeknek a futáshoz és a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        8.675957,
-                        49.851772
-                  ]
-            },
-            {
-                  "name": "Diamant-Spielplatz",
-                  "text": "A darmstadti Diamant-Spielplatz szép hely a gyerekeknek a szabadban való aktív kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.643168,
-                        49.855235
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Herrngarten",
-                  "text": "A darmstadti Aktivspielplatz Herrngarten változatos lehetőségeket kínál a gyerekeknek a játékhoz és a mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.652038,
-                        49.879539
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Kleingärtnerverein Lichtwiese",
-                  "text": "A darmstadti Lichtwiese kiskertszövetségnél található játszótér nyugodt hely a gyerekek játékához.",
-                  "category": "family",
-                  "coords": [
-                        8.682282,
-                        49.86266
-                  ]
-            },
-            {
-                  "name": "Spielplatz Peter-Behrens-Str.",
-                  "text": "A darmstadti Peter-Behrens-Str. játszótér különféle lehetőségeket kínál a gyerekeknek a mászásra és a hancúrozásra.",
-                  "category": "family",
-                  "coords": [
-                        8.67092,
-                        49.883791
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Molkenbrunnen",
-                  "text": "A darmstadti Molkenbrunnen játszótér kellemes légkörben kínál játékélményt a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.677373,
-                        49.871794
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mathildenhöhe",
-                  "text": "Centrul Art Nouveau cu Turnul Nunții și Capela Rusă, inclus în patrimoniul mondial UNESCO din anul 2021.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.666504,
-                        49.875433
-                  ]
-            },
-            {
-                  "name": "Castelul Rezidențial",
-                  "name_ro": "Castelul Rezidențial",
-                  "text": "Castelul baroc din piața centrală a fost reședința landgrafilor și marilor duci de Hessa-Darmstadt.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        8.65528,
-                        49.8736
-                  ]
-            },
-            {
-                  "name": "Waldspirale",
-                  "text": "O clădire rezidențială unică proiectată de Friedensreich Hundertwasser, cu cupole aurite și acoperiș verde.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.65583,
-                        49.8856
-                  ]
-            },
-            {
-                  "name": "Muzeul de Stat Hessa",
-                  "text": "Unul dintre ultimele muzee universale din Europa, cu colecții vaste de artă, cultură și istorie naturală.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.65306,
-                        49.8747
-                  ]
-            },
-            {
-                  "name": "Parcul Rosenhöhe",
-                  "text": "Un parc peisagistic istoric cu o rozărie splendidă și mormintele familiei marelui duce.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        8.679444,
-                        49.875833
-                  ]
-            },
-            {
-                  "name": "Luisenplatz",
-                  "text": "Piața centrală a orașului unde se află Monumentul lui Ludwig, o coloană de 28 de metri înălțime.",
-                  "category": "square",
-                  "confidence": "high",
-                  "coords": [
-                        8.651521,
-                        49.872986
-                  ]
-            },
-            {
-                  "name": "Jazzinstitut Darmstadt",
-                  "text": "Cea mai mare arhivă publică de jazz din Europa se află în clădirea istorică Kavalleriehaus.",
-                  "category": "museum",
-                  "coords": [
-                        8.647866,
-                        49.857966
-                  ]
-            },
-            {
-                  "name": "Darmstädter Papiertheatersammlung",
-                  "text": "Un muzeu dedicat teatrelor de hârtie, prezentând exponate din diverse epoci.",
-                  "category": "museum",
-                  "coords": [
-                        8.663807,
-                        49.872172
-                  ]
-            },
-            {
-                  "name": "Museum Künstlerkolonie",
-                  "text": "Muzeul de pe Mathildenhöhe documentează istoria stilului Art Nouveau din Darmstadt.",
-                  "category": "museum",
-                  "coords": [
-                        8.668188,
-                        49.876448
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Una dintre sălile Teatrului de Stat din Darmstadt pentru spectacole moderne.",
-                  "category": "cultural",
-                  "coords": [
-                        8.649597,
-                        49.868254
-                  ]
-            },
-            {
-                  "name": "Schader Forum",
-                  "text": "Un centru pentru dialogul dintre științele sociale și practică.",
-                  "category": "museum",
-                  "coords": [
-                        8.653758,
-                        49.862954
-                  ]
-            },
-            {
-                  "name": "Prinz-Georg-Palais",
-                  "text": "Palatul găzduiește Colecția de Porțelan Marele Ducal de Hessa.",
-                  "category": "museum",
-                  "coords": [
-                        8.6533,
-                        49.879718
-                  ]
-            },
-            {
-                  "name": "Prinz-Emil-Palais",
-                  "text": "Un castel rural în stil baroc târziu situat în mijlocul grădirii Prinz-Emil.",
-                  "category": "castle",
-                  "coords": [
-                        8.650048,
-                        49.860408
-                  ]
-            },
-            {
-                  "name": "Centralstation",
-                  "text": "Un spațiu pentru concerte și cultură situat într-o fostă centrală electrică.",
-                  "category": "cultural",
-                  "coords": [
-                        8.652564,
-                        49.871764
-                  ]
-            },
-            {
-                  "name": "Theater Mollerhaus",
-                  "text": "Un centru de teatru independent într-o clădire clasicistă de Georg Moller.",
-                  "category": "cultural",
-                  "coords": [
-                        8.6506,
-                        49.867808
-                  ]
-            },
-            {
-                  "name": "Vivarium",
-                  "text": "Grădină zoologică din Darmstadt care adăpostește aproximativ 2000 de animale din 190 de specii.",
-                  "category": "family",
-                  "coords": [
-                        8.683391,
-                        49.866183
-                  ]
-            },
-            {
-                  "name": "Darmbachaue von Darmstadt",
-                  "text": "O rezervație naturală în estul Darmstadtului, care protejează pajiști umede valoroase.",
-                  "category": "natural",
-                  "coords": [
-                        8.694035,
-                        49.853361
-                  ]
-            },
-            {
-                  "name": "Bessunger Kiesgrube",
-                  "text": "O fostă balastieră care servește astăzi ca biotop valoros și rezervație naturală.",
-                  "category": "natural",
-                  "coords": [
-                        8.649001,
-                        49.847425
-                  ]
-            },
-            {
-                  "name": "Römische Wasserleitung",
-                  "text": "Sit arheologic cu vestigiile unui sistem antic roman de alimentare cu apă.",
-                  "category": "historical",
-                  "coords": [
-                        8.656741,
-                        49.877082
-                  ]
-            },
-            {
-                  "name": "Straßenbahnmuseum",
-                  "text": "Un muzeu care prezintă istoria tramvaiului din Darmstadt și a transportului public.",
-                  "category": "museum",
-                  "coords": [
-                        8.655836,
-                        49.8893
-                  ]
-            },
-            {
-                  "name": "Altstadtmuseum Darmstadt",
-                  "text": "Muzeu dedicat istoriei orașului vechi din Darmstadt, situat în istorica casă Huis.",
-                  "category": "museum",
-                  "coords": [
-                        8.659027,
-                        49.87198
-                  ]
-            },
-            {
-                  "name": "Science Pop-up",
-                  "text": "O expoziție temporară în Darmstadt care prezintă teme științifice într-un mod accesibil.",
-                  "category": "museum",
-                  "coords": [
-                        8.654172,
-                        49.871406
-                  ]
-            },
-            {
-                  "name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)",
-                  "text": "Filială a Muzeului de Stat din Hessa, axată pe turnarea literelor și procedee istorice de tipărire.",
-                  "category": "museum",
-                  "coords": [
-                        8.636456,
-                        49.881247
-                  ]
-            },
-            {
-                  "name": "Institut für Neue Technische Form",
-                  "text": "Muzeu și institut de design care se ocupă cu estetica modernă și designul industrial.",
-                  "category": "museum",
-                  "coords": [
-                        8.654008,
-                        49.874293
-                  ]
-            },
-            {
-                  "name": "Postsiedlungs-Biotop",
-                  "text": "O rezervație naturală urbană care oferă habitat pentru flora și fauna locală.",
-                  "category": "natural",
-                  "coords": [
-                        8.638037,
-                        49.857411
-                  ]
-            },
-            {
-                  "name": "Ernst-Ludwig-Pavillon",
-                  "text": "O clădire istorică pe Mathildenhöhe, construită ca parte a coloniei de artiști.",
-                  "category": "historical",
-                  "coords": [
-                        8.641637,
-                        49.867887
-                  ]
-            },
-            {
-                  "name": "Mathildenplatz",
-                  "text": "O piață centrală și un parc din Darmstadt, numite după Marea Ducesă Mathilde.",
-                  "category": "park",
-                  "coords": [
-                        8.650507,
-                        49.874811
-                  ]
-            },
-            {
-                  "name": "Platanenhain",
-                  "text": "O zonă asemănătoare unui parc pe Mathildenhöhe din Darmstadt, cu numeroși platani.",
-                  "category": "park",
-                  "coords": [
-                        8.666138,
-                        49.876731
-                  ]
-            },
-            {
-                  "name": "Landgraf-Philipps-Anlage",
-                  "text": "O zonă verde publică în centrul orașului Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.642538,
-                        49.869943
-                  ]
-            },
-            {
-                  "name": "Wolfskehl'scher Park",
-                  "text": "Un parc peisagistic istoric în partea de sud a orașului Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.65573,
-                        49.86337
-                  ]
-            },
-            {
-                  "name": "Kapellplatz",
-                  "text": "Un mic parc și o piață din Darmstadt, caracterizate prin clădiri istorice și monumente.",
-                  "category": "park",
-                  "coords": [
-                        8.658668,
-                        49.87033
-                  ]
-            },
-            {
-                  "name": "Ingelheimer Garten",
-                  "text": "O grădină bine întreținută în zona urbană a orașului Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.640958,
-                        49.8603
-                  ]
-            },
-            {
-                  "name": "Akaziengarten",
-                  "text": "Un parc public din Darmstadt, cunoscut pentru arborii săi.",
-                  "category": "park",
-                  "coords": [
-                        8.6368,
-                        49.861333
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Grădina Botanică a Universității Tehnice din Darmstadt găzduiește o mare varietate de plante.",
-                  "category": "park",
-                  "coords": [
-                        8.678607,
-                        49.869306
-                  ]
-            },
-            {
-                  "name": "Platz der Deutschen Einheit",
-                  "text": "O piață centrală din Darmstadt care comemorează reunificarea Germaniei.",
-                  "category": "park",
-                  "coords": [
-                        8.632309,
-                        49.87158
-                  ]
-            },
-            {
-                  "name": "Bürgerpark Nord",
-                  "text": "Un parc sportiv și de recreere extins în partea de nord a orașului Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.667862,
-                        49.889122
-                  ]
-            },
-            {
-                  "name": "Rudolf-Mueller-Anlage",
-                  "text": "O mică zonă verde în Darmstadt, care servește ca zonă de recreere locală.",
-                  "category": "park",
-                  "coords": [
-                        8.665665,
-                        49.872534
-                  ]
-            },
-            {
-                  "name": "Schlauchturm",
-                  "text": "Un turn istoric pentru furtunuri de pompieri, situat în Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.640954,
-                        49.874499
-                  ]
-            },
-            {
-                  "name": "Verpflanzturm Orangerie",
-                  "text": "O structură istorică de tip turn în grădina Orangerie din Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.652024,
-                        49.857833
-                  ]
-            },
-            {
-                  "name": "Erich-Kästner-See",
-                  "text": "Lacul Erich-Kästner din Darmstadt este o întindere de apă care oferă o atmosferă liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.68699,
-                        49.898647
-                  ]
-            },
-            {
-                  "name": "Arheilger Mühlchen",
-                  "text": "Arheilger Mühlchen din Darmstadt este un lac care invită la ore relaxante în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        8.671994,
-                        49.903804
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Waldsee din Darmstadt oferă un cadru natural pentru plimbări și relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        8.69479,
-                        49.925804
-                  ]
-            },
-            {
-                  "name": "Abwassertechnische Anlage",
-                  "text": "Abwassertechnische Anlage din Darmstadt este un lac care se integrează în peisajul înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        8.637873,
-                        49.935739
-                  ]
-            },
-            {
-                  "name": "Großer Woog",
-                  "text": "Großer Woog din Darmstadt este un lac situat central, care servește ca loc de relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        8.670019,
-                        49.872832
-                  ]
-            },
-            {
-                  "name": "Grube Prinz von Hessen",
-                  "text": "Grube Prinz von Hessen din Darmstadt este un lac înconjurat de natură care oferă liniște.",
-                  "category": "natural",
-                  "coords": [
-                        8.734027,
-                        49.899602
-                  ]
-            },
-            {
-                  "name": "Waltersteich",
-                  "text": "Waltersteich din Darmstadt este un lac mic, potrivit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        8.676137,
-                        49.831598
-                  ]
-            },
-            {
-                  "name": "Biergarten Spielplatz",
-                  "text": "Locul de joacă Biergarten din Darmstadt este un loc prietenos pentru familii, care invită la relaxare și joacă.",
-                  "category": "family",
-                  "coords": [
-                        8.669533,
-                        49.878877
-                  ]
-            },
-            {
-                  "name": "Waldspielplatz am Herrgottsberg",
-                  "text": "Locul de joacă din pădure de pe Herrgottsberg din Darmstadt permite copiilor să se joace aproape de natură în pădure.",
-                  "category": "family",
-                  "coords": [
-                        8.672163,
-                        49.849793
-                  ]
-            },
-            {
-                  "name": "Spielplatz Friedrich-Ebert-Platz",
-                  "text": "Locul de joacă Friedrich-Ebert-Platz din Darmstadt este un punct de întâlnire popular pentru familiile din cartier.",
-                  "category": "family",
-                  "coords": [
-                        8.655568,
-                        49.881558
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "Orangerie din Darmstadt găzduiește un loc de joacă care oferă copiilor bucurie și mișcare.",
-                  "category": "family",
-                  "coords": [
-                        8.653861,
-                        49.858133
-                  ]
-            },
-            {
-                  "name": "Spielplatz Traubenweg /Wedekindweg",
-                  "text": "Locul de joacă Traubenweg / Wedekindweg din Darmstadt oferă o selecție de echipamente de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        8.618045,
-                        49.873256
-                  ]
-            },
-            {
-                  "name": "Kinderwildnis",
-                  "text": "Kinderwildnis din Darmstadt este un loc de joacă care încurajează jocul imaginativ în natură.",
-                  "category": "family",
-                  "coords": [
-                        8.651527,
-                        49.856175
-                  ]
-            },
-            {
-                  "name": "Spielplatz Oberförsterwiese",
-                  "text": "Locul de joacă Oberförsterwiese din Darmstadt oferă copiilor mult spațiu pentru alergat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        8.675957,
-                        49.851772
-                  ]
-            },
-            {
-                  "name": "Diamant-Spielplatz",
-                  "text": "Locul de joacă Diamant din Darmstadt este un loc plăcut pentru copii pentru a fi activi în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        8.643168,
-                        49.855235
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Herrngarten",
-                  "text": "Locul de joacă activ Herrngarten din Darmstadt oferă copiilor diverse posibilități de joacă și mișcare.",
-                  "category": "family",
-                  "coords": [
-                        8.652038,
-                        49.879539
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Kleingärtnerverein Lichtwiese",
-                  "text": "Locul de joacă de la asociația de grădinari Lichtwiese din Darmstadt este un loc liniștit de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        8.682282,
-                        49.86266
-                  ]
-            },
-            {
-                  "name": "Spielplatz Peter-Behrens-Str.",
-                  "text": "Locul de joacă din Peter-Behrens-Str. din Darmstadt oferă copiilor diverse posibilități de cățărare și zbânțuială.",
-                  "category": "family",
-                  "coords": [
-                        8.67092,
-                        49.883791
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Molkenbrunnen",
-                  "text": "Locul de joacă de la Molkenbrunnen din Darmstadt oferă distracție la joacă într-o atmosferă plăcută.",
-                  "category": "family",
-                  "coords": [
-                        8.677373,
-                        49.871794
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mathildenhöhe",
-                  "text": "A center of Art Nouveau featuring the Wedding Tower and Russian Chapel, a UNESCO World Heritage site since 2021.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.666504,
-                        49.875433
-                  ]
-            },
-            {
-                  "name": "Residential Palace",
-                  "text": "The baroque palace on the market square was once the seat of the landgraves and grand dukes of Hesse-Darmstadt.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        8.65528,
-                        49.8736
-                  ]
-            },
-            {
-                  "name": "Waldspirale",
-                  "text": "A unique residential building designed by Friedensreich Hundertwasser, featuring golden domes and a forest roof.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        8.65583,
-                        49.8856
-                  ]
-            },
-            {
-                  "name": "Hessian State Museum",
-                  "text": "One of Europe's last universal museums with significant collections of art, culture, and natural history.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.65306,
-                        49.8747
-                  ]
-            },
-            {
-                  "name": "Rosenhöhe Park",
-                  "text": "A historic landscape park with a magnificent rose garden and the burial sites of the grand ducal family.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        8.679444,
-                        49.875833
-                  ]
-            },
-            {
-                  "name": "Luisenplatz",
-                  "text": "The central square of the city featuring the Ludwig Monument, a 28-meter high column honoring the Grand Duke.",
-                  "category": "square",
-                  "confidence": "high",
-                  "coords": [
-                        8.651521,
-                        49.872986
-                  ]
-            },
-            {
-                  "name": "Jazzinstitut Darmstadt",
-                  "text": "Europe's largest public jazz archive is located in the historic Kavalleriehaus.",
-                  "category": "museum",
-                  "coords": [
-                        8.647866,
-                        49.857966
-                  ]
-            },
-            {
-                  "name": "Darmstädter Papiertheatersammlung",
-                  "text": "A museum for paper theaters featuring exhibits from various eras.",
-                  "category": "museum",
-                  "coords": [
-                        8.663807,
-                        49.872172
-                  ]
-            },
-            {
-                  "name": "Artists' colony",
-                  "text": "The museum on Mathildenhöhe documents the history of Darmstadt Art Nouveau.",
-                  "category": "museum",
-                  "coords": [
-                        8.668188,
-                        49.876448
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "One of the venues of the Darmstadt State Theatre for modern drama.",
-                  "category": "cultural",
-                  "coords": [
-                        8.649597,
-                        49.868254
-                  ]
-            },
-            {
-                  "name": "Schader Forum",
-                  "text": "A center for dialogue between social sciences and practice.",
-                  "category": "museum",
-                  "coords": [
-                        8.653758,
-                        49.862954
-                  ]
-            },
-            {
-                  "name": "Prinz-Georg-Palais",
-                  "text": "The palace houses the Grand Ducal Hessian Porcelain Collection.",
-                  "category": "museum",
-                  "coords": [
-                        8.6533,
-                        49.879718
-                  ]
-            },
-            {
-                  "name": "Prinz-Emil-Palais",
-                  "text": "A late Baroque country palace located in the middle of the Prinz-Emil Garden.",
-                  "category": "castle",
-                  "coords": [
-                        8.650048,
-                        49.860408
-                  ]
-            },
-            {
-                  "name": "Centralstation",
-                  "text": "A venue for concerts and culture located in a former power station.",
-                  "category": "cultural",
-                  "coords": [
-                        8.652564,
-                        49.871764
-                  ]
-            },
-            {
-                  "name": "Theater Mollerhaus",
-                  "text": "An independent theatre center in a neoclassical building by Georg Moller.",
-                  "category": "cultural",
-                  "coords": [
-                        8.6506,
-                        49.867808
-                  ]
-            },
-            {
-                  "name": "Vivarium",
-                  "text": "Small zoo in Darmstadt featuring around 2,000 animals from 190 different species.",
-                  "category": "family",
-                  "coords": [
-                        8.683391,
-                        49.866183
-                  ]
-            },
-            {
-                  "name": "Darmbachaue von Darmstadt",
-                  "text": "A nature reserve in eastern Darmstadt protecting valuable wet meadows.",
-                  "category": "natural",
-                  "coords": [
-                        8.694035,
-                        49.853361
-                  ]
-            },
-            {
-                  "name": "Bessunger Kiesgrube",
-                  "text": "A former gravel pit that now serves as a valuable biotope and nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        8.649001,
-                        49.847425
-                  ]
-            },
-            {
-                  "name": "Römische Wasserleitung",
-                  "text": "Archaeological site featuring the remains of an ancient Roman water supply system.",
-                  "category": "historical",
-                  "coords": [
-                        8.656741,
-                        49.877082
-                  ]
-            },
-            {
-                  "name": "Tram Museum",
-                  "text": "A museum showcasing the history of Darmstadt's tram system and public transport.",
-                  "category": "museum",
-                  "coords": [
-                        8.655836,
-                        49.8893
-                  ]
-            },
-            {
-                  "name": "Altstadtmuseum Darmstadt",
-                  "text": "Museum dedicated to the history of Darmstadt's old town, located in the historic Huis house.",
-                  "category": "museum",
-                  "coords": [
-                        8.659027,
-                        49.87198
-                  ]
-            },
-            {
-                  "name": "Science Pop-up",
-                  "text": "A temporary exhibition in Darmstadt that presents scientific topics in an accessible way.",
-                  "category": "museum",
-                  "coords": [
-                        8.654172,
-                        49.871406
-                  ]
-            },
-            {
-                  "name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)",
-                  "text": "Branch of the Hessian State Museum focusing on type founding and historic printing processes.",
-                  "category": "museum",
-                  "coords": [
-                        8.636456,
-                        49.881247
-                  ]
-            },
-            {
-                  "name": "Institut für Neue Technische Form",
-                  "text": "Design museum and institute dealing with modern design and industrial form.",
-                  "category": "museum",
-                  "coords": [
-                        8.654008,
-                        49.874293
-                  ]
-            },
-            {
-                  "name": "Postsiedlungs-Biotop",
-                  "text": "An urban nature reserve providing a habitat for local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        8.638037,
-                        49.857411
-                  ]
-            },
-            {
-                  "name": "Ernst-Ludwig-Pavillon",
-                  "text": "A historic building on Mathildenhöhe, built as part of the Darmstadt Artists' Colony.",
-                  "category": "historical",
-                  "coords": [
-                        8.641637,
-                        49.867887
-                  ]
-            },
-            {
-                  "name": "Mathildenplatz",
-                  "text": "A central square and park in Darmstadt named after Grand Duchess Mathilde.",
-                  "category": "park",
-                  "coords": [
-                        8.650507,
-                        49.874811
-                  ]
-            },
-            {
-                  "name": "Platanenhain",
-                  "text": "A park-like area on the Mathildenhöhe in Darmstadt featuring numerous plane trees.",
-                  "category": "park",
-                  "coords": [
-                        8.666138,
-                        49.876731
-                  ]
-            },
-            {
-                  "name": "Landgraf-Philipps-Anlage",
-                  "text": "A public green area located in the city center of Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.642538,
-                        49.869943
-                  ]
-            },
-            {
-                  "name": "Wolfskehl'scher Park",
-                  "text": "A historical landscape park located in the southern part of Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.65573,
-                        49.86337
-                  ]
-            },
-            {
-                  "name": "Kapellplatz",
-                  "text": "A small park and square in Darmstadt characterized by historical buildings and monuments.",
-                  "category": "park",
-                  "coords": [
-                        8.658668,
-                        49.87033
-                  ]
-            },
-            {
-                  "name": "Ingelheimer Garten",
-                  "text": "A well-maintained garden area within the urban area of Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.640958,
-                        49.8603
-                  ]
-            },
-            {
-                  "name": "Akaziengarten",
-                  "text": "A public park in Darmstadt known for its collection of trees.",
-                  "category": "park",
-                  "coords": [
-                        8.6368,
-                        49.861333
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "The Botanical Garden of the Technical University of Darmstadt houses a wide variety of plants.",
-                  "category": "park",
-                  "coords": [
-                        8.678607,
-                        49.869306
-                  ]
-            },
-            {
-                  "name": "Platz der Deutschen Einheit",
-                  "text": "A central square in Darmstadt commemorating German reunification.",
-                  "category": "park",
-                  "coords": [
-                        8.632309,
-                        49.87158
-                  ]
-            },
-            {
-                  "name": "Bürgerpark Nord",
-                  "text": "An extensive sports and recreation park in the north of Darmstadt.",
-                  "category": "park",
-                  "coords": [
-                        8.667862,
-                        49.889122
-                  ]
-            },
-            {
-                  "name": "Rudolf-Mueller-Anlage",
-                  "text": "A small green space in Darmstadt serving as a local recreation area.",
-                  "category": "park",
-                  "coords": [
-                        8.665665,
-                        49.872534
-                  ]
-            },
-            {
-                  "name": "Schlauchturm",
-                  "text": "A prominent historical fire brigade hose tower in Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.640954,
-                        49.874499
-                  ]
-            },
-            {
-                  "name": "Verpflanzturm Orangerie",
-                  "text": "A historical tower structure located in the Orangerie garden in Darmstadt.",
-                  "category": "tower",
-                  "coords": [
-                        8.652024,
-                        49.857833
-                  ]
-            },
-            {
-                  "name": "Erich-Kästner-See",
-                  "text": "The Erich-Kästner-See in Darmstadt is a body of water that offers a calm atmosphere in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.68699,
-                        49.898647
-                  ]
-            },
-            {
-                  "name": "Arheilger Mühlchen",
-                  "text": "The Arheilger Mühlchen in Darmstadt is a lake that invites you to relaxing hours outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        8.671994,
-                        49.903804
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "The Waldsee in Darmstadt offers a natural backdrop for walks and relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.69479,
-                        49.925804
-                  ]
-            },
-            {
-                  "name": "Abwassertechnische Anlage",
-                  "text": "The Abwassertechnische Anlage in Darmstadt is a lake that blends into the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        8.637873,
-                        49.935739
-                  ]
-            },
-            {
-                  "name": "Großer Woog",
-                  "text": "The Großer Woog in Darmstadt is a centrally located lake that serves as a place for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        8.670019,
-                        49.872832
-                  ]
-            },
-            {
-                  "name": "Grube Prinz von Hessen",
-                  "text": "The Grube Prinz von Hessen in Darmstadt is a lake surrounded by nature that offers tranquility.",
-                  "category": "natural",
-                  "coords": [
-                        8.734027,
-                        49.899602
-                  ]
-            },
-            {
-                  "name": "Waltersteich",
-                  "text": "The Waltersteich in Darmstadt is a small lake suitable for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        8.676137,
-                        49.831598
-                  ]
-            },
-            {
-                  "name": "Biergarten Spielplatz",
-                  "text": "The Biergarten playground in Darmstadt is a family-friendly place that invites you to stay and play.",
-                  "category": "family",
-                  "coords": [
-                        8.669533,
-                        49.878877
-                  ]
-            },
-            {
-                  "name": "Waldspielplatz am Herrgottsberg",
-                  "text": "The forest playground at Herrgottsberg in Darmstadt allows children to play close to nature in the forest.",
-                  "category": "family",
-                  "coords": [
-                        8.672163,
-                        49.849793
-                  ]
-            },
-            {
-                  "name": "Spielplatz Friedrich-Ebert-Platz",
-                  "text": "The Friedrich-Ebert-Platz playground in Darmstadt is a popular meeting point for families in the neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        8.655568,
-                        49.881558
-                  ]
-            },
-            {
-                  "name": "Orangerie",
-                  "text": "The Orangerie in Darmstadt houses a playground that offers children joy and movement.",
-                  "category": "family",
-                  "coords": [
-                        8.653861,
-                        49.858133
-                  ]
-            },
-            {
-                  "name": "Spielplatz Traubenweg /Wedekindweg",
-                  "text": "The Traubenweg / Wedekindweg playground in Darmstadt offers a selection of play equipment for children.",
-                  "category": "family",
-                  "coords": [
-                        8.618045,
-                        49.873256
-                  ]
-            },
-            {
-                  "name": "Kinderwildnis",
-                  "text": "The Kinderwildnis in Darmstadt is a playground that encourages imaginative play in nature.",
-                  "category": "family",
-                  "coords": [
-                        8.651527,
-                        49.856175
-                  ]
-            },
-            {
-                  "name": "Spielplatz Oberförsterwiese",
-                  "text": "The Oberförsterwiese playground in Darmstadt offers children plenty of space for running and playing.",
-                  "category": "family",
-                  "coords": [
-                        8.675957,
-                        49.851772
-                  ]
-            },
-            {
-                  "name": "Diamant-Spielplatz",
-                  "text": "The Diamant playground in Darmstadt is a nice place for children to be active outdoors.",
-                  "category": "family",
-                  "coords": [
-                        8.643168,
-                        49.855235
-                  ]
-            },
-            {
-                  "name": "Aktivspielplatz Herrngarten",
-                  "text": "The Herrngarten active playground in Darmstadt offers children various opportunities for play and movement.",
-                  "category": "family",
-                  "coords": [
-                        8.652038,
-                        49.879539
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Kleingärtnerverein Lichtwiese",
-                  "text": "The playground at the Lichtwiese allotment garden association in Darmstadt is a quiet place for children to play.",
-                  "category": "family",
-                  "coords": [
-                        8.682282,
-                        49.86266
-                  ]
-            },
-            {
-                  "name": "Spielplatz Peter-Behrens-Str.",
-                  "text": "The Peter-Behrens-Str. playground in Darmstadt offers children various opportunities for climbing and romping.",
-                  "category": "family",
-                  "coords": [
-                        8.67092,
-                        49.883791
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Molkenbrunnen",
-                  "text": "The playground at Molkenbrunnen in Darmstadt offers children play fun in a pleasant atmosphere.",
-                  "category": "family",
-                  "coords": [
-                        8.677373,
-                        49.871794
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Mathildenhöhe",
-                  "text": "Düğün kulesi ve Rus şapeli ile Art Nouveau merkezi olup 2021'den beri UNESCO Dünya Mirası listesindedir.",
-                  "category": "landmark",
-                  "coords": [
-                        8.666504,
-                        49.875433
-                  ]
-            },
-            {
-                  "name": "Residenzschloss",
-                  "text": "Pazar meydanındaki barok saray, bir zamanlar Hessen-Darmstadt landgraflarının ve büyük düklerinin ikametgahıydı.",
-                  "category": "castle",
-                  "coords": [
-                        8.65528,
-                        49.8736
-                  ]
-            },
-            {
-                  "name": "Waldspirale",
-                  "text": "Friedensreich Hundertwasser tarafından tasarlanan, altın kubbeleri ve bitkilerle kaplı çatısı olan bir konut.",
-                  "category": "landmark",
-                  "coords": [
-                        8.65583,
-                        49.8856
-                  ]
-            },
-            {
-                  "name": "Hessisches Landesmuseum",
-                  "text": "Sanat, kültür ve doğa tarihi üzerine önemli koleksiyonlara sahip Avrupa'nın son evrensel müzelerinden biridir.",
-                  "category": "museum",
-                  "coords": [
-                        8.65306,
-                        49.8747
-                  ]
-            },
-            {
-                  "name": "Park Rosenhöhe",
-                  "text": "Muhteşem bir gül bahçesi ve büyük dük ailesinin mezarlarını barındıran tarihi bir peyzaj parkıdır.",
-                  "category": "park",
-                  "coords": [
-                        8.679444,
-                        49.875833
-                  ]
-            },
-            {
-                  "name": "Luisenplatz",
-                  "text": "Şehrin merkezi meydanı olup Büyük Dük onuruna dikilen 28 metre yüksekliğindeki Ludwig Anıtı'na ev sahipliği yapar.",
-                  "category": "square",
-                  "coords": [
-                        8.651521,
-                        49.872986
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Mathildenhöhe", "text": "Zentrum des Jugendstils mit dem Hochzeitsturm und der russischen Kapelle, seit 2021 UNESCO-Welterbe.", "category": "landmark", "confidence": "high", "coords": [8.666504, 49.875433]}, {"name": "Residenzschloss", "text": "Das barocke Schloss am Marktplatz war einst der Sitz der Landgrafen und Großherzöge von Hessen-Darmstadt.", "category": "castle", "confidence": "high", "coords": [8.65528, 49.8736]}, {"name": "Waldspirale", "text": "Ein von Friedensreich Hundertwasser entworfenes Wohnhaus mit vergoldeten Kuppeln und bewachsenem Dach.", "category": "landmark", "confidence": "high", "coords": [8.65583, 49.8856]}, {"name": "Hessisches Landesmuseum", "text": "Eines der letzten Universilmuseen Europas mit bedeutenden Sammlungen zu Kunst, Kultur und Naturkunde.", "category": "museum", "confidence": "high", "coords": [8.65306, 49.8747]}, {"name": "Park Rosenhöhe", "text": "Ein historischer Landschaftspark mit einem prächtigen Rosarium und den Grabstätten der großherzoglichen Familie.", "category": "park", "confidence": "high", "coords": [8.679444, 49.875833]}, {"name": "Luisenplatz", "text": "Der zentrale Platz der Stadt mit dem Ludwigsmonument, einer 28 Meter hohen Säule zu Ehren des Großherzogs.", "category": "square", "confidence": "high", "coords": [8.651521, 49.872986]}, {"name": "Jazzinstitut Darmstadt", "text": "Europas größtes öffentliches Jazz-Archiv befindet sich im historischen Kavalleriehaus.", "category": "museum", "coords": [8.647866, 49.857966]}, {"name": "Darmstädter Papiertheatersammlung", "text": "Ein Museum für Papiertheater mit Exponaten aus verschiedenen Epochen.", "category": "museum", "coords": [8.663807, 49.872172]}, {"name": "Museum Künstlerkolonie", "text": "Das Museum auf der Mathildenhöhe dokumentiert die Geschichte des Darmstädter Jugendstils.", "category": "museum", "coords": [8.668188, 49.876448]}, {"name": "Kammerspiele", "text": "Eine der Spielstätten des Staatstheaters Darmstadt für modernes Schauspiel.", "category": "cultural", "coords": [8.649597, 49.868254]}, {"name": "Schader Forum", "text": "Ein Zentrum für den Dialog zwischen Gesellschaftswissenschaften und Praxis.", "category": "museum", "coords": [8.653758, 49.862954]}, {"name": "Prinz-Georg-Palais", "text": "Das Palais beherbergt die Großherzoglich-Hessische Porzellansammlung.", "category": "museum", "coords": [8.6533, 49.879718]}, {"name": "Prinz-Emil-Palais", "text": "Ein spätbarockes Landschloss inmitten des Prinz-Emil-Gartens.", "category": "castle", "coords": [8.650048, 49.860408]}, {"name": "Centralstation", "text": "Ein Veranstaltungsort für Konzerte und Kultur in einem ehemaligen Elektrizitätswerk.", "category": "cultural", "coords": [8.652564, 49.871764]}, {"name": "Theater Mollerhaus", "text": "Ein freies Theaterzentrum in einem klassizistischen Gebäude von Georg Moller.", "category": "cultural", "coords": [8.6506, 49.867808]}, {"name": "Vivarium", "text": "Kleiner Zoo in Darmstadt mit rund 2000 Tieren in 190 Arten.", "category": "family", "coords": [8.683391, 49.866183]}, {"name": "Darmbachaue von Darmstadt", "text": "Ein Naturschutzgebiet im Osten Darmstadts, das wertvolle Feuchtwiesen schützt.", "category": "natural", "coords": [8.694035, 49.853361]}, {"name": "Bessunger Kiesgrube", "text": "Ehemalige Kiesgrube, die heute als wertvolles Biotop und Naturschutzgebiet dient.", "category": "natural", "coords": [8.649001, 49.847425]}, {"name": "Römische Wasserleitung", "text": "Archäologische Stätte mit Überresten einer antiken römischen Wasserversorgungsanlage.", "category": "historical", "coords": [8.656741, 49.877082]}, {"name": "Straßenbahnmuseum", "text": "Im Straßenbahnmuseum in Darmstadt wird die Geschichte des öffentlichen Verkehrs der Stadt beleuchtet. Gäste können in die Entwicklung der Darmstädter Straßenbahn eintauchen.", "category": "museum", "coords": [8.655836, 49.8893]}, {"name": "Altstadtmuseum Darmstadt", "text": "Museum zur Geschichte der Darmstädter Altstadt im historischen Huis-Haus.", "category": "museum", "coords": [8.659027, 49.87198]}, {"name": "Science Pop-up", "text": "Eine temporäre Ausstellung in Darmstadt, die wissenschaftliche Themen anschaulich präsentiert.", "category": "museum", "coords": [8.654172, 49.871406]}, {"name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)", "text": "Außenstelle des Landesmuseums mit Fokus auf Schriftguss und historische Druckverfahren.", "category": "museum", "coords": [8.636456, 49.881247]}, {"name": "Institut für Neue Technische Form", "text": "Designmuseum und Institut, das sich mit moderner Gestaltung und industrieller Formgebung befasst.", "category": "museum", "coords": [8.654008, 49.874293]}, {"name": "Postsiedlungs-Biotop", "text": "Ein städtisches Naturschutzgebiet, das Lebensraum für lokale Flora und Fauna bietet.", "category": "natural", "coords": [8.638037, 49.857411]}, {"name": "Ernst-Ludwig-Pavillon", "text": "Ein historisches Gebäude auf der Mathildenhöhe, das als Teil der Künstlerkolonie erbaut wurde.", "category": "historical", "coords": [8.641637, 49.867887]}, {"name": "Mathildenplatz", "text": "Ein zentraler Platz und Park in Darmstadt, benannt nach Großherzogin Mathilde.", "category": "park", "coords": [8.650507, 49.874811]}, {"name": "Platanenhain", "text": "Eine parkähnliche Anlage auf der Mathildenhöhe in Darmstadt mit zahlreichen Platanen.", "category": "park", "coords": [8.666138, 49.876731]}, {"name": "Landgraf-Philipps-Anlage", "text": "Eine öffentliche Grünanlage im Stadtzentrum von Darmstadt.", "category": "park", "coords": [8.642538, 49.869943]}, {"name": "Wolfskehl'scher Park", "text": "Ein historischer Landschaftspark im Süden von Darmstadt.", "category": "park", "coords": [8.65573, 49.86337]}, {"name": "Kapellplatz", "text": "Ein kleiner Park und Platz in Darmstadt, geprägt von historischen Gebäuden und Denkmälern.", "category": "park", "coords": [8.658668, 49.87033]}, {"name": "Ingelheimer Garten", "text": "Eine gepflegte Gartenanlage im Stadtgebiet von Darmstadt.", "category": "park", "coords": [8.640958, 49.8603]}, {"name": "Akaziengarten", "text": "Ein öffentlicher Park in Darmstadt, der für seinen Baumbestand bekannt ist.", "category": "park", "coords": [8.6368, 49.861333]}, {"name": "Botanischer Garten", "text": "Der Botanische Garten der Technischen Universität Darmstadt beherbergt eine große Pflanzenvielfalt.", "category": "park", "coords": [8.678607, 49.869306]}, {"name": "Platz der Deutschen Einheit", "text": "Ein zentraler Platz in Darmstadt, der an die deutsche Wiedervereinigung erinnert.", "category": "park", "coords": [8.632309, 49.87158]}, {"name": "Bürgerpark Nord", "text": "Ein weitläufiger Sport- und Erholungspark im Norden von Darmstadt.", "category": "park", "coords": [8.667862, 49.889122]}, {"name": "Rudolf-Mueller-Anlage", "text": "Eine kleine Grünanlage in Darmstadt, die als Naherholungsgebiet dient.", "category": "park", "coords": [8.665665, 49.872534]}, {"name": "Schlauchturm", "text": "Ein markanter historischer Schlauchturm der Feuerwehr in Darmstadt.", "category": "tower", "coords": [8.640954, 49.874499]}, {"name": "Verpflanzturm Orangerie", "text": "Ein historisches Turmbauwerk im Garten der Orangerie in Darmstadt.", "category": "tower", "coords": [8.652024, 49.857833]}, {"name": "Erich-Kästner-See", "text": "Der Erich-Kästner-See in Darmstadt ist ein Gewässer, das eine ruhige Atmosphäre in der Natur bietet.", "category": "natural", "coords": [8.68699, 49.898647]}, {"name": "Arheilger Mühlchen", "text": "Das Arheilger Mühlchen in Darmstadt ist ein See, der zu erholsamen Stunden im Freien einlädt.", "category": "natural", "coords": [8.671994, 49.903804]}, {"name": "Waldsee", "text": "Der Waldsee in Darmstadt bietet eine natürliche Kulisse für Spaziergänge und Erholung am Wasser.", "category": "natural", "coords": [8.69479, 49.925804]}, {"name": "Abwassertechnische Anlage", "text": "Die Abwassertechnische Anlage in Darmstadt ist ein See, der sich in die umliegende Landschaft einfügt.", "category": "natural", "coords": [8.637873, 49.935739]}, {"name": "Großer Woog", "text": "Der Große Woog in Darmstadt ist ein zentral gelegener See, der als Ort der Entspannung dient.", "category": "natural", "coords": [8.670019, 49.872832]}, {"name": "Grube Prinz von Hessen", "text": "Die Grube Prinz von Hessen in Darmstadt ist ein See, der von Natur umgeben ist und Ruhe bietet.", "category": "natural", "coords": [8.734027, 49.899602]}, {"name": "Waltersteich", "text": "Der Waltersteich in Darmstadt ist ein kleiner See, der sich gut für Naturbetrachtungen eignet.", "category": "natural", "coords": [8.676137, 49.831598]}, {"name": "Biergarten Spielplatz", "text": "Der Biergarten Spielplatz in Darmstadt ist ein familienfreundlicher Ort, der zum Verweilen und Spielen einlädt.", "category": "family", "coords": [8.669533, 49.878877]}, {"name": "Waldspielplatz am Herrgottsberg", "text": "Der Waldspielplatz am Herrgottsberg in Darmstadt ermöglicht Kindern naturnahes Spielen im Wald.", "category": "family", "coords": [8.672163, 49.849793]}, {"name": "Spielplatz Friedrich-Ebert-Platz", "text": "Der Spielplatz Friedrich-Ebert-Platz in Darmstadt ist ein beliebter Treffpunkt für Familien im Stadtteil.", "category": "family", "coords": [8.655568, 49.881558]}, {"name": "Orangerie", "text": "Die Orangerie in Darmstadt beherbergt einen Spielplatz, der Kindern Freude und Bewegung bietet.", "category": "family", "coords": [8.653861, 49.858133]}, {"name": "Spielplatz Traubenweg /Wedekindweg", "text": "Der Spielplatz Traubenweg / Wedekindweg in Darmstadt bietet eine Auswahl an Spielgeräten für Kinder.", "category": "family", "coords": [8.618045, 49.873256]}, {"name": "Kinderwildnis", "text": "Die Kinderwildnis in Darmstadt ist ein Spielplatz, der zum fantasievollen Spielen in der Natur anregt.", "category": "family", "coords": [8.651527, 49.856175]}, {"name": "Spielplatz Oberförsterwiese", "text": "Der Spielplatz Oberförsterwiese in Darmstadt bietet Kindern viel Platz zum Rennen und Spielen.", "category": "family", "coords": [8.675957, 49.851772]}, {"name": "Diamant-Spielplatz", "text": "Der Diamant-Spielplatz in Darmstadt ist ein schöner Ort für Kinder, um draußen aktiv zu sein.", "category": "family", "coords": [8.643168, 49.855235]}, {"name": "Aktivspielplatz Herrngarten", "text": "Der Aktivspielplatz Herrngarten in Darmstadt bietet Kindern vielfältige Möglichkeiten für Spiel und Bewegung.", "category": "family", "coords": [8.652038, 49.879539]}, {"name": "Spielplatz am Kleingärtnerverein Lichtwiese", "text": "Der Spielplatz am Kleingärtnerverein Lichtwiese in Darmstadt ist ein ruhiger Ort zum Spielen für Kinder.", "category": "family", "coords": [8.682282, 49.86266]}, {"name": "Spielplatz Peter-Behrens-Str.", "text": "Der Spielplatz Peter-Behrens-Str. in Darmstadt bietet Kindern verschiedene Möglichkeiten zum Klettern und Toben.", "category": "family", "coords": [8.67092, 49.883791]}, {"name": "Spielplatz am Molkenbrunnen", "text": "Der Spielplatz am Molkenbrunnen in Darmstadt bietet Kindern Spielspaß in einer angenehmen Atmosphäre.", "category": "family", "coords": [8.677373, 49.871794]}], "hu": [{"name": "Mathildenhöhe", "text": "A szecesszió központja az Esküvői toronnyal és az orosz kápolnával, 2021 óta az UNESCO Világörökség része.", "category": "landmark", "confidence": "high", "coords": [8.666504, 49.875433]}, {"name": "Rezidenciakastély", "text": "A piactéren álló barokk kastély egykor a hesseni tartományi grófok és nagyhercegek székhelye volt.", "category": "castle", "confidence": "high", "coords": [8.65528, 49.8736]}, {"name": "Waldspirale", "text": "Friedensreich Hundertwasser által tervezett különleges lakóház aranyozott kupolákkal és növényzettel beültetett tetővel.", "category": "landmark", "confidence": "high", "coords": [8.65583, 49.8856]}, {"name": "Hesseni Tartományi Múzeum", "text": "Európa egyik utolsó univerzális múzeuma, jelentős művészeti, kulturális és természettudományi gyűjteményekkel.", "category": "museum", "confidence": "high", "coords": [8.65306, 49.8747]}, {"name": "Rosenhöhe park", "text": "Történelmi tájpark pompás rózsakerttel és a nagyhercegi család mauzóleumaival a város szélén.", "category": "park", "confidence": "high", "coords": [8.679444, 49.875833]}, {"name": "Luisenplatz", "text": "A város központi tere a Ludwig-emlékművel, amely egy 28 méter magas oszlop a nagyherceg tiszteletére.", "category": "square", "confidence": "high", "coords": [8.651521, 49.872986]}, {"name": "Jazzinstitut Darmstadt", "text": "Európa legnagyobb nyilvános jazz-archívuma a történelmi Kavalleriehaus épületében található.", "category": "museum", "coords": [8.647866, 49.857966]}, {"name": "Darmstädter Papiertheatersammlung", "text": "Papírszínház-múzeum különböző korszakokból származó kiállítási tárgyakkal.", "category": "museum", "coords": [8.663807, 49.872172]}, {"name": "Museum Künstlerkolonie", "text": "A Mathildenhöhe-n található múzeum a darmstadti szecesszió történetét mutatja be.", "category": "museum", "coords": [8.668188, 49.876448]}, {"name": "Kammerspiele", "text": "A Darmstadti Állami Színház egyik helyszíne modern színdarabokhoz.", "category": "cultural", "coords": [8.649597, 49.868254]}, {"name": "Schader Forum", "text": "Társadalomtudományi központ a tudomány és a gyakorlat közötti párbeszédhez.", "category": "museum", "coords": [8.653758, 49.862954]}, {"name": "Prinz-Georg-Palais", "text": "A palota a Nagyhercegi Hesseni Porcelángyűjteménynek ad otthont.", "category": "museum", "coords": [8.6533, 49.879718]}, {"name": "Prinz-Emil-Palais", "text": "Késő barokk vidéki kastély a Prinz-Emil-kert közepén.", "category": "castle", "coords": [8.650048, 49.860408]}, {"name": "Centralstation", "text": "Koncertek és kulturális események helyszíne egy volt áramfejlesztő központban.", "category": "cultural", "coords": [8.652564, 49.871764]}, {"name": "Theater Mollerhaus", "text": "Független színházi központ Georg Moller klasszicista épületében.", "category": "cultural", "coords": [8.6506, 49.867808]}, {"name": "Vivarium", "text": "Darmstadt állatkertje, ahol mintegy 2000 állat látható 190 fajból.", "category": "family", "coords": [8.683391, 49.866183]}, {"name": "Darmbachaue von Darmstadt", "text": "Természetvédelmi terület Darmstadt keleti részén, amely értékes nedves réteket óv.", "category": "natural", "coords": [8.694035, 49.853361]}, {"name": "Bessunger Kiesgrube", "text": "Egykori kavicsbánya, amely ma értékes biotópként és természetvédelmi területként működik.", "category": "natural", "coords": [8.649001, 49.847425]}, {"name": "Römische Wasserleitung", "text": "Régészeti lelőhely egy ókori római vízvezetékrendszer maradványaival.", "category": "historical", "coords": [8.656741, 49.877082]}, {"name": "Straßenbahnmuseum", "text": "A darmstadti Straßenbahnmuseum a város tömegközlekedésének történetét mutatja be. A vendégek elmerülhetnek a helyi villamoshálózat fejlődésében.", "category": "museum", "coords": [8.655836, 49.8893]}, {"name": "Altstadtmuseum Darmstadt", "text": "A darmstadti óváros történetét bemutató múzeum a történelmi Huis-házban.", "category": "museum", "coords": [8.659027, 49.87198]}, {"name": "Science Pop-up", "text": "Időszakos kiállítás Darmstadtban, amely közérthetően mutat be tudományos témákat.", "category": "museum", "coords": [8.654172, 49.871406]}, {"name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)", "text": "A Tartományi Múzeum részlege, amely a betűöntésre és a történelmi nyomtatási eljárásokra fókuszál.", "category": "museum", "coords": [8.636456, 49.881247]}, {"name": "Institut für Neue Technische Form", "text": "Dizájnmúzeum és intézet, amely a modern tervezéssel és az ipari formatervezéssel foglalkozik.", "category": "museum", "coords": [8.654008, 49.874293]}, {"name": "Postsiedlungs-Biotop", "text": "Városi természetvédelmi terület, amely élőhelyet biztosít a helyi növény- és állatvilágnak.", "category": "natural", "coords": [8.638037, 49.857411]}, {"name": "Ernst-Ludwig-Pavillon", "text": "Történelmi épület a Mathildenhöhén, amely a művésztelep részeként épült.", "category": "historical", "coords": [8.641637, 49.867887]}, {"name": "Mathildenplatz", "text": "Központi tér és park Darmstadtban, amely Mathilde nagyhercegnéről kapta a nevét.", "category": "park", "coords": [8.650507, 49.874811]}, {"name": "Platanenhain", "text": "Parkos terület a darmstadti Mathildenhöhén, számos platánfával.", "category": "park", "coords": [8.666138, 49.876731]}, {"name": "Landgraf-Philipps-Anlage", "text": "Nyilvános zöldterület Darmstadt városközpontjában.", "category": "park", "coords": [8.642538, 49.869943]}, {"name": "Wolfskehl'scher Park", "text": "Történelmi tájképi park Darmstadt déli részén.", "category": "park", "coords": [8.65573, 49.86337]}, {"name": "Kapellplatz", "text": "Kis park és tér Darmstadtban, történelmi épületekkel és emlékművekkel.", "category": "park", "coords": [8.658668, 49.87033]}, {"name": "Ingelheimer Garten", "text": "Gondozott kertterület Darmstadt városi területén.", "category": "park", "coords": [8.640958, 49.8603]}, {"name": "Akaziengarten", "text": "Nyilvános park Darmstadtban, amely faállományáról ismert.", "category": "park", "coords": [8.6368, 49.861333]}, {"name": "Botanischer Garten", "text": "A darmstadti Műszaki Egyetem botanikus kertje, amely változatos növényvilágnak ad otthont.", "category": "park", "coords": [8.678607, 49.869306]}, {"name": "Platz der Deutschen Einheit", "text": "Központi tér Darmstadtban, amely a német újraegyesítésnek állít emléket.", "category": "park", "coords": [8.632309, 49.87158]}, {"name": "Bürgerpark Nord", "text": "Kiterjedt sport- és szabadidőpark Darmstadt északi részén.", "category": "park", "coords": [8.667862, 49.889122]}, {"name": "Rudolf-Mueller-Anlage", "text": "Kis zöldterület Darmstadtban, amely helyi pihenőhelyként szolgál.", "category": "park", "coords": [8.665665, 49.872534]}, {"name": "Schlauchturm", "text": "Darmstadt történelmi tűzoltótornya, amely egykor tömlőszárításra szolgált.", "category": "tower", "coords": [8.640954, 49.874499]}, {"name": "Verpflanzturm Orangerie", "text": "Történelmi toronyépítmény a darmstadti Orangerie kertjében.", "category": "tower", "coords": [8.652024, 49.857833]}, {"name": "Erich-Kästner-See", "text": "A darmstadti Erich-Kästner-See egy olyan vízfelület, amely nyugodt légkört kínál a természetben.", "category": "natural", "coords": [8.68699, 49.898647]}, {"name": "Arheilger Mühlchen", "text": "A darmstadti Arheilger Mühlchen egy tó, amely pihentető órákra hív a szabadba.", "category": "natural", "coords": [8.671994, 49.903804]}, {"name": "Waldsee", "text": "A darmstadti Waldsee természetes környezetet biztosít a sétákhoz és a vízparti pihenéshez.", "category": "natural", "coords": [8.69479, 49.925804]}, {"name": "Abwassertechnische Anlage", "text": "A darmstadti Abwassertechnische Anlage egy tó, amely illeszkedik a környező tájba.", "category": "natural", "coords": [8.637873, 49.935739]}, {"name": "Großer Woog", "text": "A darmstadti Großer Woog egy központi fekvésű tó, amely a kikapcsolódás helyszíne.", "category": "natural", "coords": [8.670019, 49.872832]}, {"name": "Grube Prinz von Hessen", "text": "A darmstadti Grube Prinz von Hessen egy természettel körülvett tó, amely nyugalmat kínál.", "category": "natural", "coords": [8.734027, 49.899602]}, {"name": "Waltersteich", "text": "A darmstadti Waltersteich egy kis tó, amely alkalmas a természet megfigyelésére.", "category": "natural", "coords": [8.676137, 49.831598]}, {"name": "Biergarten Spielplatz", "text": "A darmstadti Biergarten játszótér egy családbarát hely, amely pihenésre és játékra hív.", "category": "family", "coords": [8.669533, 49.878877]}, {"name": "Waldspielplatz am Herrgottsberg", "text": "A darmstadti Waldspielplatz am Herrgottsberg természetközeli játékot tesz lehetővé a gyerekeknek az erdőben.", "category": "family", "coords": [8.672163, 49.849793]}, {"name": "Spielplatz Friedrich-Ebert-Platz", "text": "A darmstadti Spielplatz Friedrich-Ebert-Platz a kerület családjainak kedvelt találkozóhelye.", "category": "family", "coords": [8.655568, 49.881558]}, {"name": "Orangerie", "text": "A darmstadti Orangerie egy játszótérnek ad otthont, amely örömet és mozgást kínál a gyerekeknek.", "category": "family", "coords": [8.653861, 49.858133]}, {"name": "Spielplatz Traubenweg /Wedekindweg", "text": "A darmstadti Traubenweg / Wedekindweg játszótér játékok választékát kínálja a gyerekeknek.", "category": "family", "coords": [8.618045, 49.873256]}, {"name": "Kinderwildnis", "text": "A darmstadti Kinderwildnis egy játszótér, amely fantáziadús játékra ösztönöz a természetben.", "category": "family", "coords": [8.651527, 49.856175]}, {"name": "Spielplatz Oberförsterwiese", "text": "A darmstadti Spielplatz Oberförsterwiese sok helyet kínál a gyerekeknek a futáshoz és a játékhoz.", "category": "family", "coords": [8.675957, 49.851772]}, {"name": "Diamant-Spielplatz", "text": "A darmstadti Diamant-Spielplatz szép hely a gyerekeknek a szabadban való aktív kikapcsolódáshoz.", "category": "family", "coords": [8.643168, 49.855235]}, {"name": "Aktivspielplatz Herrngarten", "text": "A darmstadti Aktivspielplatz Herrngarten változatos lehetőségeket kínál a gyerekeknek a játékhoz és a mozgáshoz.", "category": "family", "coords": [8.652038, 49.879539]}, {"name": "Spielplatz am Kleingärtnerverein Lichtwiese", "text": "A darmstadti Lichtwiese kiskertszövetségnél található játszótér nyugodt hely a gyerekek játékához.", "category": "family", "coords": [8.682282, 49.86266]}, {"name": "Spielplatz Peter-Behrens-Str.", "text": "A darmstadti Peter-Behrens-Str. játszótér különféle lehetőségeket kínál a gyerekeknek a mászásra és a hancúrozásra.", "category": "family", "coords": [8.67092, 49.883791]}, {"name": "Spielplatz am Molkenbrunnen", "text": "A darmstadti Molkenbrunnen játszótér kellemes légkörben kínál játékélményt a gyerekeknek.", "category": "family", "coords": [8.677373, 49.871794]}], "ro": [{"name": "Mathildenhöhe", "text": "Centrul Art Nouveau cu Turnul Nunții și Capela Rusă, inclus în patrimoniul mondial UNESCO din anul 2021.", "category": "landmark", "confidence": "high", "coords": [8.666504, 49.875433]}, {"name": "Castelul Rezidențial", "name_ro": "Castelul Rezidențial", "text": "Castelul baroc din piața centrală a fost reședința landgrafilor și marilor duci de Hessa-Darmstadt.", "category": "castle", "confidence": "high", "coords": [8.65528, 49.8736]}, {"name": "Waldspirale", "text": "O clădire rezidențială unică proiectată de Friedensreich Hundertwasser, cu cupole aurite și acoperiș verde.", "category": "landmark", "confidence": "high", "coords": [8.65583, 49.8856]}, {"name": "Muzeul de Stat Hessa", "text": "Unul dintre ultimele muzee universale din Europa, cu colecții vaste de artă, cultură și istorie naturală.", "category": "museum", "confidence": "high", "coords": [8.65306, 49.8747]}, {"name": "Parcul Rosenhöhe", "text": "Un parc peisagistic istoric cu o rozărie splendidă și mormintele familiei marelui duce.", "category": "park", "confidence": "high", "coords": [8.679444, 49.875833]}, {"name": "Luisenplatz", "text": "Piața centrală a orașului unde se află Monumentul lui Ludwig, o coloană de 28 de metri înălțime.", "category": "square", "confidence": "high", "coords": [8.651521, 49.872986]}, {"name": "Jazzinstitut Darmstadt", "text": "Cea mai mare arhivă publică de jazz din Europa se află în clădirea istorică Kavalleriehaus.", "category": "museum", "coords": [8.647866, 49.857966]}, {"name": "Darmstädter Papiertheatersammlung", "text": "Un muzeu dedicat teatrelor de hârtie, prezentând exponate din diverse epoci.", "category": "museum", "coords": [8.663807, 49.872172]}, {"name": "Museum Künstlerkolonie", "text": "Muzeul de pe Mathildenhöhe documentează istoria stilului Art Nouveau din Darmstadt.", "category": "museum", "coords": [8.668188, 49.876448]}, {"name": "Kammerspiele", "text": "Una dintre sălile Teatrului de Stat din Darmstadt pentru spectacole moderne.", "category": "cultural", "coords": [8.649597, 49.868254]}, {"name": "Schader Forum", "text": "Un centru pentru dialogul dintre științele sociale și practică.", "category": "museum", "coords": [8.653758, 49.862954]}, {"name": "Prinz-Georg-Palais", "text": "Palatul găzduiește Colecția de Porțelan Marele Ducal de Hessa.", "category": "museum", "coords": [8.6533, 49.879718]}, {"name": "Prinz-Emil-Palais", "text": "Un castel rural în stil baroc târziu situat în mijlocul grădirii Prinz-Emil.", "category": "castle", "coords": [8.650048, 49.860408]}, {"name": "Centralstation", "text": "Un spațiu pentru concerte și cultură situat într-o fostă centrală electrică.", "category": "cultural", "coords": [8.652564, 49.871764]}, {"name": "Theater Mollerhaus", "text": "Un centru de teatru independent într-o clădire clasicistă de Georg Moller.", "category": "cultural", "coords": [8.6506, 49.867808]}, {"name": "Vivarium", "text": "Grădină zoologică din Darmstadt care adăpostește aproximativ 2000 de animale din 190 de specii.", "category": "family", "coords": [8.683391, 49.866183]}, {"name": "Darmbachaue von Darmstadt", "text": "O rezervație naturală în estul Darmstadtului, care protejează pajiști umede valoroase.", "category": "natural", "coords": [8.694035, 49.853361]}, {"name": "Bessunger Kiesgrube", "text": "O fostă balastieră care servește astăzi ca biotop valoros și rezervație naturală.", "category": "natural", "coords": [8.649001, 49.847425]}, {"name": "Römische Wasserleitung", "text": "Sit arheologic cu vestigiile unui sistem antic roman de alimentare cu apă.", "category": "historical", "coords": [8.656741, 49.877082]}, {"name": "Straßenbahnmuseum", "text": "Straßenbahnmuseum din Darmstadt ilustrează istoria transportului public din oraș. Oaspeții pot explora în detaliu evoluția tramvaielor locale.", "category": "museum", "coords": [8.655836, 49.8893]}, {"name": "Altstadtmuseum Darmstadt", "text": "Muzeu dedicat istoriei orașului vechi din Darmstadt, situat în istorica casă Huis.", "category": "museum", "coords": [8.659027, 49.87198]}, {"name": "Science Pop-up", "text": "O expoziție temporară în Darmstadt care prezintă teme științifice într-un mod accesibil.", "category": "museum", "coords": [8.654172, 49.871406]}, {"name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)", "text": "Filială a Muzeului de Stat din Hessa, axată pe turnarea literelor și procedee istorice de tipărire.", "category": "museum", "coords": [8.636456, 49.881247]}, {"name": "Institut für Neue Technische Form", "text": "Muzeu și institut de design care se ocupă cu estetica modernă și designul industrial.", "category": "museum", "coords": [8.654008, 49.874293]}, {"name": "Postsiedlungs-Biotop", "text": "O rezervație naturală urbană care oferă habitat pentru flora și fauna locală.", "category": "natural", "coords": [8.638037, 49.857411]}, {"name": "Ernst-Ludwig-Pavillon", "text": "O clădire istorică pe Mathildenhöhe, construită ca parte a coloniei de artiști.", "category": "historical", "coords": [8.641637, 49.867887]}, {"name": "Mathildenplatz", "text": "O piață centrală și un parc din Darmstadt, numite după Marea Ducesă Mathilde.", "category": "park", "coords": [8.650507, 49.874811]}, {"name": "Platanenhain", "text": "O zonă asemănătoare unui parc pe Mathildenhöhe din Darmstadt, cu numeroși platani.", "category": "park", "coords": [8.666138, 49.876731]}, {"name": "Landgraf-Philipps-Anlage", "text": "O zonă verde publică în centrul orașului Darmstadt.", "category": "park", "coords": [8.642538, 49.869943]}, {"name": "Wolfskehl'scher Park", "text": "Un parc peisagistic istoric în partea de sud a orașului Darmstadt.", "category": "park", "coords": [8.65573, 49.86337]}, {"name": "Kapellplatz", "text": "Un mic parc și o piață din Darmstadt, caracterizate prin clădiri istorice și monumente.", "category": "park", "coords": [8.658668, 49.87033]}, {"name": "Ingelheimer Garten", "text": "O grădină bine întreținută în zona urbană a orașului Darmstadt.", "category": "park", "coords": [8.640958, 49.8603]}, {"name": "Akaziengarten", "text": "Un parc public din Darmstadt, cunoscut pentru arborii săi.", "category": "park", "coords": [8.6368, 49.861333]}, {"name": "Botanischer Garten", "text": "Grădina Botanică a Universității Tehnice din Darmstadt găzduiește o mare varietate de plante.", "category": "park", "coords": [8.678607, 49.869306]}, {"name": "Platz der Deutschen Einheit", "text": "O piață centrală din Darmstadt care comemorează reunificarea Germaniei.", "category": "park", "coords": [8.632309, 49.87158]}, {"name": "Bürgerpark Nord", "text": "Un parc sportiv și de recreere extins în partea de nord a orașului Darmstadt.", "category": "park", "coords": [8.667862, 49.889122]}, {"name": "Rudolf-Mueller-Anlage", "text": "O mică zonă verde în Darmstadt, care servește ca zonă de recreere locală.", "category": "park", "coords": [8.665665, 49.872534]}, {"name": "Schlauchturm", "text": "Un turn istoric pentru furtunuri de pompieri, situat în Darmstadt.", "category": "tower", "coords": [8.640954, 49.874499]}, {"name": "Verpflanzturm Orangerie", "text": "O structură istorică de tip turn în grădina Orangerie din Darmstadt.", "category": "tower", "coords": [8.652024, 49.857833]}, {"name": "Erich-Kästner-See", "text": "Lacul Erich-Kästner din Darmstadt este o întindere de apă care oferă o atmosferă liniștită în natură.", "category": "natural", "coords": [8.68699, 49.898647]}, {"name": "Arheilger Mühlchen", "text": "Arheilger Mühlchen din Darmstadt este un lac care invită la ore relaxante în aer liber.", "category": "natural", "coords": [8.671994, 49.903804]}, {"name": "Waldsee", "text": "Waldsee din Darmstadt oferă un cadru natural pentru plimbări și relaxare lângă apă.", "category": "natural", "coords": [8.69479, 49.925804]}, {"name": "Abwassertechnische Anlage", "text": "Abwassertechnische Anlage din Darmstadt este un lac care se integrează în peisajul înconjurător.", "category": "natural", "coords": [8.637873, 49.935739]}, {"name": "Großer Woog", "text": "Großer Woog din Darmstadt este un lac situat central, care servește ca loc de relaxare.", "category": "natural", "coords": [8.670019, 49.872832]}, {"name": "Grube Prinz von Hessen", "text": "Grube Prinz von Hessen din Darmstadt este un lac înconjurat de natură care oferă liniște.", "category": "natural", "coords": [8.734027, 49.899602]}, {"name": "Waltersteich", "text": "Waltersteich din Darmstadt este un lac mic, potrivit pentru observarea naturii.", "category": "natural", "coords": [8.676137, 49.831598]}, {"name": "Biergarten Spielplatz", "text": "Locul de joacă Biergarten din Darmstadt este un loc prietenos pentru familii, care invită la relaxare și joacă.", "category": "family", "coords": [8.669533, 49.878877]}, {"name": "Waldspielplatz am Herrgottsberg", "text": "Locul de joacă din pădure de pe Herrgottsberg din Darmstadt permite copiilor să se joace aproape de natură în pădure.", "category": "family", "coords": [8.672163, 49.849793]}, {"name": "Spielplatz Friedrich-Ebert-Platz", "text": "Locul de joacă Friedrich-Ebert-Platz din Darmstadt este un punct de întâlnire popular pentru familiile din cartier.", "category": "family", "coords": [8.655568, 49.881558]}, {"name": "Orangerie", "text": "Orangerie din Darmstadt găzduiește un loc de joacă care oferă copiilor bucurie și mișcare.", "category": "family", "coords": [8.653861, 49.858133]}, {"name": "Spielplatz Traubenweg /Wedekindweg", "text": "Locul de joacă Traubenweg / Wedekindweg din Darmstadt oferă o selecție de echipamente de joacă pentru copii.", "category": "family", "coords": [8.618045, 49.873256]}, {"name": "Kinderwildnis", "text": "Kinderwildnis din Darmstadt este un loc de joacă care încurajează jocul imaginativ în natură.", "category": "family", "coords": [8.651527, 49.856175]}, {"name": "Spielplatz Oberförsterwiese", "text": "Locul de joacă Oberförsterwiese din Darmstadt oferă copiilor mult spațiu pentru alergat și joacă.", "category": "family", "coords": [8.675957, 49.851772]}, {"name": "Diamant-Spielplatz", "text": "Locul de joacă Diamant din Darmstadt este un loc plăcut pentru copii pentru a fi activi în aer liber.", "category": "family", "coords": [8.643168, 49.855235]}, {"name": "Aktivspielplatz Herrngarten", "text": "Locul de joacă activ Herrngarten din Darmstadt oferă copiilor diverse posibilități de joacă și mișcare.", "category": "family", "coords": [8.652038, 49.879539]}, {"name": "Spielplatz am Kleingärtnerverein Lichtwiese", "text": "Locul de joacă de la asociația de grădinari Lichtwiese din Darmstadt este un loc liniștit de joacă pentru copii.", "category": "family", "coords": [8.682282, 49.86266]}, {"name": "Spielplatz Peter-Behrens-Str.", "text": "Locul de joacă din Peter-Behrens-Str. din Darmstadt oferă copiilor diverse posibilități de cățărare și zbânțuială.", "category": "family", "coords": [8.67092, 49.883791]}, {"name": "Spielplatz am Molkenbrunnen", "text": "Locul de joacă de la Molkenbrunnen din Darmstadt oferă distracție la joacă într-o atmosferă plăcută.", "category": "family", "coords": [8.677373, 49.871794]}], "en": [{"name": "Mathildenhöhe", "text": "A center of Art Nouveau featuring the Wedding Tower and Russian Chapel, a UNESCO World Heritage site since 2021.", "category": "landmark", "confidence": "high", "coords": [8.666504, 49.875433]}, {"name": "Residential Palace", "text": "The baroque palace on the market square was once the seat of the landgraves and grand dukes of Hesse-Darmstadt.", "category": "castle", "confidence": "high", "coords": [8.65528, 49.8736]}, {"name": "Waldspirale", "text": "A unique residential building designed by Friedensreich Hundertwasser, featuring golden domes and a forest roof.", "category": "landmark", "confidence": "high", "coords": [8.65583, 49.8856]}, {"name": "Hessian State Museum", "text": "One of Europe's last universal museums with significant collections of art, culture, and natural history.", "category": "museum", "confidence": "high", "coords": [8.65306, 49.8747]}, {"name": "Rosenhöhe Park", "text": "A historic landscape park with a magnificent rose garden and the burial sites of the grand ducal family.", "category": "park", "confidence": "high", "coords": [8.679444, 49.875833]}, {"name": "Luisenplatz", "text": "The central square of the city featuring the Ludwig Monument, a 28-meter high column honoring the Grand Duke.", "category": "square", "confidence": "high", "coords": [8.651521, 49.872986]}, {"name": "Jazzinstitut Darmstadt", "text": "Europe's largest public jazz archive is located in the historic Kavalleriehaus.", "category": "museum", "coords": [8.647866, 49.857966]}, {"name": "Darmstädter Papiertheatersammlung", "text": "A museum for paper theaters featuring exhibits from various eras.", "category": "museum", "coords": [8.663807, 49.872172]}, {"name": "Artists' colony", "text": "The museum on Mathildenhöhe documents the history of Darmstadt Art Nouveau.", "category": "museum", "coords": [8.668188, 49.876448]}, {"name": "Kammerspiele", "text": "One of the venues of the Darmstadt State Theatre for modern drama.", "category": "cultural", "coords": [8.649597, 49.868254]}, {"name": "Schader Forum", "text": "A center for dialogue between social sciences and practice.", "category": "museum", "coords": [8.653758, 49.862954]}, {"name": "Prinz-Georg-Palais", "text": "The palace houses the Grand Ducal Hessian Porcelain Collection.", "category": "museum", "coords": [8.6533, 49.879718]}, {"name": "Prinz-Emil-Palais", "text": "A late Baroque country palace located in the middle of the Prinz-Emil Garden.", "category": "castle", "coords": [8.650048, 49.860408]}, {"name": "Centralstation", "text": "A venue for concerts and culture located in a former power station.", "category": "cultural", "coords": [8.652564, 49.871764]}, {"name": "Theater Mollerhaus", "text": "An independent theatre center in a neoclassical building by Georg Moller.", "category": "cultural", "coords": [8.6506, 49.867808]}, {"name": "Vivarium", "text": "Small zoo in Darmstadt featuring around 2,000 animals from 190 different species.", "category": "family", "coords": [8.683391, 49.866183]}, {"name": "Darmbachaue von Darmstadt", "text": "A nature reserve in eastern Darmstadt protecting valuable wet meadows.", "category": "natural", "coords": [8.694035, 49.853361]}, {"name": "Bessunger Kiesgrube", "text": "A former gravel pit that now serves as a valuable biotope and nature reserve.", "category": "natural", "coords": [8.649001, 49.847425]}, {"name": "Römische Wasserleitung", "text": "Archaeological site featuring the remains of an ancient Roman water supply system.", "category": "historical", "coords": [8.656741, 49.877082]}, {"name": "Tram Museum", "text": "The Straßenbahnmuseum in Darmstadt highlights the history of public transportation in the city. Guests can delve into the development of the local tram system.", "category": "museum", "coords": [8.655836, 49.8893]}, {"name": "Altstadtmuseum Darmstadt", "text": "Museum dedicated to the history of Darmstadt's old town, located in the historic Huis house.", "category": "museum", "coords": [8.659027, 49.87198]}, {"name": "Science Pop-up", "text": "A temporary exhibition in Darmstadt that presents scientific topics in an accessible way.", "category": "museum", "coords": [8.654172, 49.871406]}, {"name": "Außenstelle hessisches Landesmuseum Darmstadt (Abt. Schriftguss, Satz und Druckverfahren)", "text": "Branch of the Hessian State Museum focusing on type founding and historic printing processes.", "category": "museum", "coords": [8.636456, 49.881247]}, {"name": "Institut für Neue Technische Form", "text": "Design museum and institute dealing with modern design and industrial form.", "category": "museum", "coords": [8.654008, 49.874293]}, {"name": "Postsiedlungs-Biotop", "text": "An urban nature reserve providing a habitat for local flora and fauna.", "category": "natural", "coords": [8.638037, 49.857411]}, {"name": "Ernst-Ludwig-Pavillon", "text": "A historic building on Mathildenhöhe, built as part of the Darmstadt Artists' Colony.", "category": "historical", "coords": [8.641637, 49.867887]}, {"name": "Mathildenplatz", "text": "A central square and park in Darmstadt named after Grand Duchess Mathilde.", "category": "park", "coords": [8.650507, 49.874811]}, {"name": "Platanenhain", "text": "A park-like area on the Mathildenhöhe in Darmstadt featuring numerous plane trees.", "category": "park", "coords": [8.666138, 49.876731]}, {"name": "Landgraf-Philipps-Anlage", "text": "A public green area located in the city center of Darmstadt.", "category": "park", "coords": [8.642538, 49.869943]}, {"name": "Wolfskehl'scher Park", "text": "A historical landscape park located in the southern part of Darmstadt.", "category": "park", "coords": [8.65573, 49.86337]}, {"name": "Kapellplatz", "text": "A small park and square in Darmstadt characterized by historical buildings and monuments.", "category": "park", "coords": [8.658668, 49.87033]}, {"name": "Ingelheimer Garten", "text": "A well-maintained garden area within the urban area of Darmstadt.", "category": "park", "coords": [8.640958, 49.8603]}, {"name": "Akaziengarten", "text": "A public park in Darmstadt known for its collection of trees.", "category": "park", "coords": [8.6368, 49.861333]}, {"name": "Botanischer Garten", "text": "The Botanical Garden of the Technical University of Darmstadt houses a wide variety of plants.", "category": "park", "coords": [8.678607, 49.869306]}, {"name": "Platz der Deutschen Einheit", "text": "A central square in Darmstadt commemorating German reunification.", "category": "park", "coords": [8.632309, 49.87158]}, {"name": "Bürgerpark Nord", "text": "An extensive sports and recreation park in the north of Darmstadt.", "category": "park", "coords": [8.667862, 49.889122]}, {"name": "Rudolf-Mueller-Anlage", "text": "A small green space in Darmstadt serving as a local recreation area.", "category": "park", "coords": [8.665665, 49.872534]}, {"name": "Schlauchturm", "text": "A prominent historical fire brigade hose tower in Darmstadt.", "category": "tower", "coords": [8.640954, 49.874499]}, {"name": "Verpflanzturm Orangerie", "text": "A historical tower structure located in the Orangerie garden in Darmstadt.", "category": "tower", "coords": [8.652024, 49.857833]}, {"name": "Erich-Kästner-See", "text": "The Erich-Kästner-See in Darmstadt is a body of water that offers a calm atmosphere in nature.", "category": "natural", "coords": [8.68699, 49.898647]}, {"name": "Arheilger Mühlchen", "text": "The Arheilger Mühlchen in Darmstadt is a lake that invites you to relaxing hours outdoors.", "category": "natural", "coords": [8.671994, 49.903804]}, {"name": "Waldsee", "text": "The Waldsee in Darmstadt offers a natural backdrop for walks and relaxation by the water.", "category": "natural", "coords": [8.69479, 49.925804]}, {"name": "Abwassertechnische Anlage", "text": "The Abwassertechnische Anlage in Darmstadt is a lake that blends into the surrounding landscape.", "category": "natural", "coords": [8.637873, 49.935739]}, {"name": "Großer Woog", "text": "The Großer Woog in Darmstadt is a centrally located lake that serves as a place for relaxation.", "category": "natural", "coords": [8.670019, 49.872832]}, {"name": "Grube Prinz von Hessen", "text": "The Grube Prinz von Hessen in Darmstadt is a lake surrounded by nature that offers tranquility.", "category": "natural", "coords": [8.734027, 49.899602]}, {"name": "Waltersteich", "text": "The Waltersteich in Darmstadt is a small lake suitable for nature observation.", "category": "natural", "coords": [8.676137, 49.831598]}, {"name": "Biergarten Spielplatz", "text": "The Biergarten playground in Darmstadt is a family-friendly place that invites you to stay and play.", "category": "family", "coords": [8.669533, 49.878877]}, {"name": "Waldspielplatz am Herrgottsberg", "text": "The forest playground at Herrgottsberg in Darmstadt allows children to play close to nature in the forest.", "category": "family", "coords": [8.672163, 49.849793]}, {"name": "Spielplatz Friedrich-Ebert-Platz", "text": "The Friedrich-Ebert-Platz playground in Darmstadt is a popular meeting point for families in the neighborhood.", "category": "family", "coords": [8.655568, 49.881558]}, {"name": "Orangerie", "text": "The Orangerie in Darmstadt houses a playground that offers children joy and movement.", "category": "family", "coords": [8.653861, 49.858133]}, {"name": "Spielplatz Traubenweg /Wedekindweg", "text": "The Traubenweg / Wedekindweg playground in Darmstadt offers a selection of play equipment for children.", "category": "family", "coords": [8.618045, 49.873256]}, {"name": "Kinderwildnis", "text": "The Kinderwildnis in Darmstadt is a playground that encourages imaginative play in nature.", "category": "family", "coords": [8.651527, 49.856175]}, {"name": "Spielplatz Oberförsterwiese", "text": "The Oberförsterwiese playground in Darmstadt offers children plenty of space for running and playing.", "category": "family", "coords": [8.675957, 49.851772]}, {"name": "Diamant-Spielplatz", "text": "The Diamant playground in Darmstadt is a nice place for children to be active outdoors.", "category": "family", "coords": [8.643168, 49.855235]}, {"name": "Aktivspielplatz Herrngarten", "text": "The Herrngarten active playground in Darmstadt offers children various opportunities for play and movement.", "category": "family", "coords": [8.652038, 49.879539]}, {"name": "Spielplatz am Kleingärtnerverein Lichtwiese", "text": "The playground at the Lichtwiese allotment garden association in Darmstadt is a quiet place for children to play.", "category": "family", "coords": [8.682282, 49.86266]}, {"name": "Spielplatz Peter-Behrens-Str.", "text": "The Peter-Behrens-Str. playground in Darmstadt offers children various opportunities for climbing and romping.", "category": "family", "coords": [8.67092, 49.883791]}, {"name": "Spielplatz am Molkenbrunnen", "text": "The playground at Molkenbrunnen in Darmstadt offers children play fun in a pleasant atmosphere.", "category": "family", "coords": [8.677373, 49.871794]}], "tr": [{"name": "Mathildenhöhe", "text": "Düğün kulesi ve Rus şapeli ile Art Nouveau merkezi olup 2021'den beri UNESCO Dünya Mirası listesindedir.", "category": "landmark", "coords": [8.666504, 49.875433]}, {"name": "Residenzschloss", "text": "Pazar meydanındaki barok saray, bir zamanlar Hessen-Darmstadt landgraflarının ve büyük düklerinin ikametgahıydı.", "category": "castle", "coords": [8.65528, 49.8736]}, {"name": "Waldspirale", "text": "Friedensreich Hundertwasser tarafından tasarlanan, altın kubbeleri ve bitkilerle kaplı çatısı olan bir konut.", "category": "landmark", "coords": [8.65583, 49.8856]}, {"name": "Hessisches Landesmuseum", "text": "Sanat, kültür ve doğa tarihi üzerine önemli koleksiyonlara sahip Avrupa'nın son evrensel müzelerinden biridir.", "category": "museum", "coords": [8.65306, 49.8747]}, {"name": "Park Rosenhöhe", "text": "Muhteşem bir gül bahçesi ve büyük dük ailesinin mezarlarını barındıran tarihi bir peyzaj parkıdır.", "category": "park", "coords": [8.679444, 49.875833]}, {"name": "Luisenplatz", "text": "Şehrin merkezi meydanı olup Büyük Dük onuruna dikilen 28 metre yüksekliğindeki Ludwig Anıtı'na ev sahipliği yapar.", "category": "square", "coords": [8.651521, 49.872986]}]}
   },
 
   // ── SACHSEN (DE-SN) ─────────────────────────────────────────────────────
@@ -65025,6 +53482,15 @@ export const pois: POI[] = [
                         14.970243,
                         51.143237
                   ]
+            },
+            {
+                  "name": "Letnie kąpielisko miejskie",
+                  "text": "Letnie kąpielisko miejskie ist ein Schwimmbad in Görlitz zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        15.011746,
+                        51.143755
+                  ]
             }
       ],
       "hu": [
@@ -65311,6 +53777,15 @@ export const pois: POI[] = [
                   "coords": [
                         14.970243,
                         51.143237
+                  ]
+            },
+            {
+                  "name": "Letnie kąpielisko miejskie",
+                  "text": "A Letnie kąpielisko miejskie egy úszómedence Görlitzben a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.011746,
+                        51.143755
                   ]
             }
       ],
@@ -65599,6 +54074,15 @@ export const pois: POI[] = [
                         14.970243,
                         51.143237
                   ]
+            },
+            {
+                  "name": "Letnie kąpielisko miejskie",
+                  "text": "Letnie kąpielisko miejskie este o piscină din Goerlitz pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.011746,
+                        51.143755
+                  ]
             }
       ],
       "en": [
@@ -65885,6 +54369,15 @@ export const pois: POI[] = [
                   "coords": [
                         14.970243,
                         51.143237
+                  ]
+            },
+            {
+                  "name": "Letnie kąpielisko miejskie",
+                  "text": "Letnie kąpielisko miejskie is a swimming pool in Goerlitz for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.011746,
+                        51.143755
                   ]
             }
       ],
@@ -71497,6 +59990,15 @@ export const pois: POI[] = [
                         8.055198,
                         52.267972
                   ]
+            },
+            {
+                  "name": "Tetra Aquarium mit Terrarium",
+                  "text": "Ein spannendes Aquarium und Terrarium in Osnabrück für Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        8.070826,
+                        52.251985
+                  ]
             }
       ],
       "hu": [
@@ -71909,6 +60411,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.055198,
                         52.267972
+                  ]
+            },
+            {
+                  "name": "Tetra Aquarium mit Terrarium",
+                  "text": "Izgalmas akvárium és terrárium Osnabrückben a felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        8.070826,
+                        52.251985
                   ]
             }
       ],
@@ -72323,6 +60834,15 @@ export const pois: POI[] = [
                         8.055198,
                         52.267972
                   ]
+            },
+            {
+                  "name": "Tetra Aquarium mit Terrarium",
+                  "text": "Un acvariu și terariu interesant în Osnabrueck pentru exploratori.",
+                  "category": "family",
+                  "coords": [
+                        8.070826,
+                        52.251985
+                  ]
             }
       ],
       "en": [
@@ -72735,6 +61255,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.055198,
                         52.267972
+                  ]
+            },
+            {
+                  "name": "Tetra Aquarium mit Terrarium",
+                  "text": "An exciting aquarium and terrarium in Osnabrueck for explorers.",
+                  "category": "family",
+                  "coords": [
+                        8.070826,
+                        52.251985
                   ]
             }
       ],

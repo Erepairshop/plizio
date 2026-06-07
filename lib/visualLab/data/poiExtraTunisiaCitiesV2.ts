@@ -3193,52 +3193,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "menzel-temime-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage Amoud",
-                  "text": "Ein Strandabschnitt in Menzel Temime.",
-                  "category": "recreational",
-                  "coords": [
-                        11.005336,
-                        36.766698
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage Amoud",
-                  "text": "Tengerparti terület Menzel Temime-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        11.005336,
-                        36.766698
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage Amoud",
-                  "text": "O zonă de plajă în Menzel Temime.",
-                  "category": "recreational",
-                  "coords": [
-                        11.005336,
-                        36.766698
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage Amoud",
-                  "text": "A beach area in Menzel Temime.",
-                  "category": "recreational",
-                  "coords": [
-                        11.005336,
-                        36.766698
-                  ]
-            }
-      ]
-},
+    id: "menzel-temime-cities-v2", "sights": {"de": [{"name": "Plage Amoud", "text": "Die Plage Amoud markiert einen markanten Küstenabschnitt in Menzel Temime und präsentiert die einfache Schönheit der tunesischen Küste. Besucher erwartet eine lokale, entspannte Atmosphäre, die sehr förderlich zum Sonnenbaden und für lange Spaziergänge am Meer ist. Bringen Sie ausreichend Wasser und Sonnenschutz mit, um einen warmen Nachmittag auf diesem friedlichen Sandstreifen voll zu genießen.", "category": "recreational", "coords": [11.005336, 36.766698]}], "hu": [{"name": "Plage Amoud", "text": "A Menzel Temime egyik jellegzetes part menti szakaszát jelölő Plage Amoud a tunéziai partvidék egyszerű szépségét mutatja be. A látogatók egy helyi, laza légkörrel találkozhatnak, amely nagymértékben kedvez a napozásnak és a hosszú tengerparti sétáknak. Hozzon magával bőségesen vizet és naptejet, hogy teljes mértékben élvezhesse a meleg délutánt ezen a békés homoksávon.", "category": "recreational", "coords": [11.005336, 36.766698]}], "ro": [{"name": "Plage Amoud", "text": "Marcând un segment de coastă distinct în Menzel Temime, Plage Amoud prezintă frumusețea simplă a țărmului tunisian. Vizitatorii vor întâlni o atmosferă locală, relaxată, care este foarte favorabilă plajei și plimbărilor lungi pe litoral. Aduceți multă apă și protecție solară pentru a vă bucura pe deplin de o după-amiază caldă pe această întindere liniștită de nisip.", "category": "recreational", "coords": [11.005336, 36.766698]}], "en": [{"name": "Plage Amoud", "text": "Marking a distinct coastal segment in Menzel Temime, Plage Amoud presents the simple beauty of the Tunisian shoreline. Visitors will encounter a local, laid-back atmosphere that is highly conducive to sunbathing and taking long seaside strolls. Bring plenty of water and sun protection to fully enjoy a warm afternoon on this peaceful stretch of sand.", "category": "recreational", "coords": [11.005336, 36.766698]}]},
     type: "city",
     parent: "TN-21",
     coords: [10.9856, 36.7825],

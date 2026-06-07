@@ -645,6 +645,42 @@ const estoniaAllPoiBase: POI[] = [
                         24.743509,
                         59.441455
                   ]
+            },
+            {
+                  "name": "Idakeskus",
+                  "text": "Dieses Schwimmbad in Tallinn bietet Einrichtungen für Wassersport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.82303,
+                        59.431332
+                  ]
+            },
+            {
+                  "name": "Papagoide Paradiis",
+                  "text": "Dieser Zoo in Tallinn zeigt Besuchern eine Vielzahl von Vögeln.",
+                  "category": "family",
+                  "coords": [
+                        24.749677,
+                        59.436147
+                  ]
+            },
+            {
+                  "name": "Tallink Spa & Conference",
+                  "text": "Dieses Hotel in Tallinn bietet Spa- und Schwimmeinrichtungen für Gäste und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        24.756468,
+                        59.444508
+                  ]
+            },
+            {
+                  "name": "Luna Luna",
+                  "text": "Dieser Freizeitpark in Tallinn bietet Unterhaltung und Fahrgeschäfte für Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        24.787704,
+                        59.436981
+                  ]
             }
       ],
       "hu": [
@@ -1213,6 +1249,42 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.743509,
                         59.441455
+                  ]
+            },
+            {
+                  "name": "Idakeskus",
+                  "text": "Ez a Tallinn-i uszoda vízi sportolási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        24.82303,
+                        59.431332
+                  ]
+            },
+            {
+                  "name": "Papagoide Paradiis",
+                  "text": "Ez a Tallinn-i állatkert különféle madarakat mutat be a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.749677,
+                        59.436147
+                  ]
+            },
+            {
+                  "name": "Tallink Spa & Conference",
+                  "text": "Ez a Tallinn-i szálloda gyógyfürdő- és úszási lehetőséget kínál a vendégeknek és látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.756468,
+                        59.444508
+                  ]
+            },
+            {
+                  "name": "Luna Luna",
+                  "text": "Ez a Tallinn-i vidámpark szórakozást és játékokat kínál családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        24.787704,
+                        59.436981
                   ]
             }
       ],
@@ -1783,6 +1855,42 @@ const estoniaAllPoiBase: POI[] = [
                         24.743509,
                         59.441455
                   ]
+            },
+            {
+                  "name": "Idakeskus",
+                  "text": "Această piscină din Tallinn oferă facilități pentru sporturi nautice și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.82303,
+                        59.431332
+                  ]
+            },
+            {
+                  "name": "Papagoide Paradiis",
+                  "text": "Această grădină zoologică din Tallinn prezintă vizitatorilor o varietate de păsări.",
+                  "category": "family",
+                  "coords": [
+                        24.749677,
+                        59.436147
+                  ]
+            },
+            {
+                  "name": "Tallink Spa & Conference",
+                  "text": "Acest hotel din Tallinn oferă facilități de spa și înot pentru oaspeți și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.756468,
+                        59.444508
+                  ]
+            },
+            {
+                  "name": "Luna Luna",
+                  "text": "Acest parc tematic din Tallinn oferă divertisment și atracții pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        24.787704,
+                        59.436981
+                  ]
             }
       ],
       "en": [
@@ -2352,6 +2460,42 @@ const estoniaAllPoiBase: POI[] = [
                         24.743509,
                         59.441455
                   ]
+            },
+            {
+                  "name": "Idakeskus",
+                  "text": "This swimming pool in Tallinn offers facilities for aquatic sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.82303,
+                        59.431332
+                  ]
+            },
+            {
+                  "name": "Papagoide Paradiis",
+                  "text": "This zoo in Tallinn features a variety of birds for visitors to observe.",
+                  "category": "family",
+                  "coords": [
+                        24.749677,
+                        59.436147
+                  ]
+            },
+            {
+                  "name": "Tallink Spa & Conference",
+                  "text": "This hotel in Tallinn offers spa and swimming facilities for guests and visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.756468,
+                        59.444508
+                  ]
+            },
+            {
+                  "name": "Luna Luna",
+                  "text": "This theme park in Tallinn provides entertainment and rides for families and children.",
+                  "category": "family",
+                  "coords": [
+                        24.787704,
+                        59.436981
+                  ]
             }
       ]
 },
@@ -2503,6 +2647,33 @@ const estoniaAllPoiBase: POI[] = [
                         26.699957,
                         58.387724
                   ]
+            },
+            {
+                  "name": "Tartu Seikluspark",
+                  "text": "Abenteuerpark in Tartu, der aktiven Outdoor-Spaß für Besucher jeden Alters bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.731865,
+                        58.394219
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe linnaujula",
+                  "text": "Beliebter Badeplatz am Fluss in Tartu zur Entspannung in den Sommermonaten.",
+                  "category": "family",
+                  "coords": [
+                        26.710969,
+                        58.392158
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Öffentlicher Badeplatz am Emajõe-Fluss in Tartu für ein erfrischendes Bad.",
+                  "category": "family",
+                  "coords": [
+                        26.704145,
+                        58.394883
+                  ]
             }
       ],
       "hu": [
@@ -2603,6 +2774,33 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         26.699957,
                         58.387724
+                  ]
+            },
+            {
+                  "name": "Tartu Seikluspark",
+                  "text": "Kalandpark Tartuban, amely aktív szabadtéri szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.731865,
+                        58.394219
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe linnaujula",
+                  "text": "Népszerű folyóparti fürdőhely Tartuban a nyári hónapokban történő kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.710969,
+                        58.392158
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Nyilvános fürdőhely az Emajõe-folyónál Tartuban egy frissítő csobbanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.704145,
+                        58.394883
                   ]
             }
       ],
@@ -2705,6 +2903,33 @@ const estoniaAllPoiBase: POI[] = [
                         26.699957,
                         58.387724
                   ]
+            },
+            {
+                  "name": "Tartu Seikluspark",
+                  "text": "Parc de aventură în Tartu care oferă distracție activă în aer liber pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.731865,
+                        58.394219
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe linnaujula",
+                  "text": "Zonă populară de înot pe malul râului în Tartu pentru relaxare în lunile de vară.",
+                  "category": "family",
+                  "coords": [
+                        26.710969,
+                        58.392158
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Loc de înot public pe râul Emajõe în Tartu pentru o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        26.704145,
+                        58.394883
+                  ]
             }
       ],
       "en": [
@@ -2806,6 +3031,33 @@ const estoniaAllPoiBase: POI[] = [
                         26.699957,
                         58.387724
                   ]
+            },
+            {
+                  "name": "Tartu Seikluspark",
+                  "text": "Adventure park in Tartu offering active outdoor fun for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.731865,
+                        58.394219
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe linnaujula",
+                  "text": "Popular riverside swimming area in Tartu for relaxation during the summer months.",
+                  "category": "family",
+                  "coords": [
+                        26.710969,
+                        58.392158
+                  ]
+            },
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Public swimming spot by the Emajõe River in Tartu for a refreshing dip.",
+                  "category": "family",
+                  "coords": [
+                        26.704145,
+                        58.394883
+                  ]
             }
       ]
 },
@@ -2857,1960 +3109,7 @@ const estoniaAllPoiBase: POI[] = [
     },
   },
   {
-    id: "ee-parnu", "sights": {
-      "de": [
-            {
-                  "name": "Munamägi",
-                  "text": "Ein historischer Hügel und ehemalige Bastion in Pärnu mit archäologischer Bedeutung.",
-                  "category": "historical",
-                  "coords": [
-                        24.496246,
-                        58.382239
-                  ]
-            },
-            {
-                  "name": "Eesti Vabariigi väljakuulutamise mälestusmärk",
-                  "text": "Ein Denkmal in Pärnu, das an die Ausrufung der estnischen Unabhängigkeit im Jahr 1918 erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        24.505762,
-                        58.385117
-                  ]
-            },
-            {
-                  "name": "Endla Teater",
-                  "text": "Ein traditionsreiches Theater in Pärnu, das für seine kulturelle Bedeutung bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        24.49665,
-                        58.385269
-                  ]
-            },
-            {
-                  "name": "Elisabethi kirik",
-                  "text": "Eine im 18. Jahrhundert im Barockstil erbaut lutherische Kirche in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.500057,
-                        58.383707
-                  ]
-            },
-            {
-                  "name": "Pärnu Suurmärter Katariina kirik",
-                  "text": "Eine prächtige barocke russisch-orthodoxe Kirche in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.497814,
-                        58.385245
-                  ]
-            },
-            {
-                  "name": "Pärnu Immaanueli baptistikoguduse palvela",
-                  "text": "Ein Gotteshaus der Baptistengemeinde in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.516746,
-                        58.386153
-                  ]
-            },
-            {
-                  "name": "Pärnu adventkirik",
-                  "text": "Das Kirchengebäude der Adventgemeinde in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.507676,
-                        58.382871
-                  ]
-            },
-            {
-                  "name": "Pärnu Issandamuutmise kirik",
-                  "text": "Eine orthodoxe Kirche in Pärnu, die durch ihre Architektur besticht.",
-                  "category": "religious",
-                  "coords": [
-                        24.505882,
-                        58.383982
-                  ]
-            },
-            {
-                  "name": "Tallinner Tor",
-                  "text": "Das einzige erhaltene Stadttor aus dem 17. Jahrhundert in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.494833,
-                        58.3836
-                  ]
-            },
-            {
-                  "name": "Punane torn",
-                  "text": "Ein mittelalterlicher Wehrturm und ehemaliges Gefängnis, heute ein Kulturzentrum in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.50279,
-                        58.385042
-                  ]
-            },
-            {
-                  "name": "Kesklinna sild",
-                  "text": "Die zentrale Brücke über den Fluss Pärnu, die die Stadtteile verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        24.495918,
-                        58.389003
-                  ]
-            },
-            {
-                  "name": "Siimu sild",
-                  "text": "Eine Brücke in Pärnu, die den Fluss überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        24.481746,
-                        58.388529
-                  ]
-            },
-            {
-                  "name": "Vaasa park",
-                  "text": "Eine öffentliche Parkanlage in Pärnu zur Erholung im Grünen.",
-                  "category": "park",
-                  "coords": [
-                        24.496456,
-                        58.386697
-                  ]
-            },
-            {
-                  "name": "Brackmanni park",
-                  "text": "Ein nach dem Bürgermeister Oscar Brackmann benannter Stadtpark in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.502354,
-                        58.38283
-                  ]
-            },
-            {
-                  "name": "Koidula park",
-                  "text": "Ein zentraler Park in Pärnu, benannt nach der Dichterin Lydia Koidula.",
-                  "category": "park",
-                  "coords": [
-                        24.503601,
-                        58.383289
-                  ]
-            },
-            {
-                  "name": "Siinmaa park",
-                  "text": "Eine gepflegte Grünanlage im Stadtgebiet von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.51813,
-                        58.382279
-                  ]
-            },
-            {
-                  "name": "Noorteväljaku park",
-                  "text": "Ein öffentlicher Park in Pärnu für Freizeitaktivitäten.",
-                  "category": "park",
-                  "coords": [
-                        24.493488,
-                        58.392461
-                  ]
-            },
-            {
-                  "name": "Jakobsoni park",
-                  "text": "Ein kleiner Stadtpark in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.496853,
-                        58.384131
-                  ]
-            },
-            {
-                  "name": "Rääma park",
-                  "text": "Ein Park im Stadtteil Rääma von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.512099,
-                        58.393253
-                  ]
-            },
-            {
-                  "name": "Vabaduse park",
-                  "text": "Eine Grünanlage in Pärnu, die Raum für Ruhe und Erholung bietet.",
-                  "category": "park",
-                  "coords": [
-                        24.509538,
-                        58.385623
-                  ]
-            },
-            {
-                  "name": "Steineri aed",
-                  "text": "Ein historischer Garten im Zentrum von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.500765,
-                        58.385425
-                  ]
-            },
-            {
-                  "name": "Waldhofi park",
-                  "text": "Ein Park in Pärnu, der sich an der Stelle der ehemaligen Waldhof-Fabrik befindet.",
-                  "category": "park",
-                  "coords": [
-                        24.541126,
-                        58.375094
-                  ]
-            },
-            {
-                  "name": "Annemõisa park",
-                  "text": "Eine parkähnliche Anlage in einem ruhigeren Teil von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.536885,
-                        58.378969
-                  ]
-            },
-            {
-                  "name": "Paju park",
-                  "text": "Ein kleinerer Nachbarschaftspark in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.52613,
-                        58.377019
-                  ]
-            },
-            {
-                  "name": "Mõrra park",
-                  "text": "Eine Grünfläche in Pärnu zur öffentlichen Nutzung.",
-                  "category": "park",
-                  "coords": [
-                        24.462875,
-                        58.394332
-                  ]
-            },
-            {
-                  "name": "Vana-Pärnu metsapark",
-                  "text": "Ein Waldpark in Vana-Pärnu, der Naturerlebnisse direkt am Stadtrand bietet.",
-                  "category": "park",
-                  "coords": [
-                        24.468478,
-                        58.386027
-                  ]
-            },
-            {
-                  "name": "Ülejõe park",
-                  "text": "Ein öffentlicher Park im Stadtteil Ülejõe in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.4889,
-                        58.398631
-                  ]
-            },
-            {
-                  "name": "Pilli park",
-                  "text": "Eine Grünanlage für Erholung im Stadtgebiet von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.523409,
-                        58.38618
-                  ]
-            },
-            {
-                  "name": "Pärnu keskrand",
-                  "text": "Der beliebteste Sandstrand der Stadt an der Bucht von Pärnu.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
-                  "name": "Koidula muuseum",
-                  "text": "Ein Museum, das dem Leben und Werk der Dichterin Lydia Koidula gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        24.485011,
-                        58.390809
-                  ]
-            },
-            {
-                  "name": "Seedri sihi alumine tulepaak",
-                  "text": "Ein markantes Leuchtfeuer, das Schiffen den Weg in den Hafen weist.",
-                  "category": "landmark",
-                  "coords": [
-                        24.480567,
-                        58.378933
-                  ]
-            },
-            {
-                  "name": "Seedri sihi ülemine tulepaak",
-                  "text": "Teil des Richtfeuersystems für die sichere Navigation in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.484683,
-                        58.381583
-                  ]
-            },
-            {
-                  "name": "Vallikäär",
-                  "text": "Eine Parkanlage im Bereich der historischen Wallanlagen von Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.492808,
-                        58.384822
-                  ]
-            },
-            {
-                  "name": "Pärnu Muuseum",
-                  "text": "Das Stadtmuseum präsentiert die lokale Geschichte von der Steinzeit bis heute.",
-                  "category": "museum",
-                  "coords": [
-                        24.499343,
-                        58.386791
-                  ]
-            },
-            {
-                  "name": "Sauga mõisahoone varemed",
-                  "text": "Die Überreste eines historischen Gutshofes in der Nähe von Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.460584,
-                        58.402269
-                  ]
-            },
-            {
-                  "name": "Blue entrance I",
-                  "text": "Ein modernes Denkmal in Pärnu, Teil einer Serie von Eingangsinstallationen.",
-                  "category": "historical",
-                  "coords": [
-                        24.500212,
-                        58.404446
-                  ]
-            },
-            {
-                  "name": "Green entrance II",
-                  "text": "Ein zeitgenössisches Monument in Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.501272,
-                        58.40394
-                  ]
-            },
-            {
-                  "name": "Red entrance I",
-                  "text": "Ein modernes Denkmal in Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.502829,
-                        58.403196
-                  ]
-            },
-            {
-                  "name": "Pärnu idamuuli tulepaak",
-                  "text": "Ein Leuchtfeuer auf der östlichen Mole von Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.464208,
-                        58.366301
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi ülemine tulepaak",
-                  "text": "Ein Navigationspunkt für den Schiffsverkehr in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.4714,
-                        58.385617
-                  ]
-            },
-            {
-                  "name": "Silla sihi alumine tulepaak",
-                  "text": "Ein Teil der Navigationslichter am Fluss in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.486617,
-                        58.389333
-                  ]
-            },
-            {
-                  "name": "Silla sihi ülemine tulepaak",
-                  "text": "Ein Leuchtfeuer zur Unterstützung der Schifffahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        24.488333,
-                        58.39115
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi alumine tulepaak",
-                  "text": "Ein Navigationslicht an der Hafeneinfahrt von Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.465683,
-                        58.378867
-                  ]
-            },
-            {
-                  "name": "Pärnu läänemuuli tulepaak",
-                  "text": "Das Leuchtfeuer auf der westlichen Mole am Strand von Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.461633,
-                        58.368617
-                  ]
-            },
-            {
-                  "name": "sepikoda",
-                  "text": "Eine traditionelle Schmiedewerkstatt, die Handwerkskunst präsentiert.",
-                  "category": "landmark",
-                  "coords": [
-                        24.493478,
-                        58.386519
-                  ]
-            },
-            {
-                  "name": "Armastan Pärnu",
-                  "text": "Eine lokale Attraction in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.491439,
-                        58.383557
-                  ]
-            },
-            {
-                  "name": "Pärnu muul",
-                  "text": "Eine lange Steinmole, die weit in die Bucht von Pärnu hineinragt.",
-                  "category": "landmark",
-                  "coords": [
-                        24.472035,
-                        58.372317
-                  ]
-            },
-            {
-                  "name": "Linnuvaatlustorn",
-                  "text": "Ein Turm zur Beobachtung der vielfältigen Vogelwelt in den Küstenwiesen.",
-                  "category": "natural",
-                  "coords": [
-                        24.470253,
-                        58.375251
-                  ]
-            },
-            {
-                  "name": "Papiniidu matkaraja vaatetorn",
-                  "text": "Ein Aussichtsturm entlang des Papiniidu-Wanderwegs.",
-                  "category": "natural",
-                  "coords": [
-                        24.512046,
-                        58.371153
-                  ]
-            },
-            {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv ist ein See in Paernu, der einen ruhigen Ort für einen Spaziergang bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv ist ein See in Paernu, der durch seine natürliche und friedliche Umgebung besticht.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
-                  "name": "Batuudikeskus Up",
-                  "text": "Batuudikeskus Up ist ein Trampolinpark in Paernu, der aktiven Spaß und Action für die ganze Familie bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.50268,
-                        58.388032
-                  ]
-            },
-            {
-                  "name": "Excavator",
-                  "text": "Excavator ist ein Spielplatz in Paernu, auf dem Kinder in einer sicheren Umgebung spielen und toben können.",
-                  "category": "family",
-                  "coords": [
-                        24.501186,
-                        58.373604
-                  ]
-            },
-            {
-                  "name": "Lillelapse mängutuba",
-                  "text": "Lillelapse mängutuba ist ein Spielplatz in Paernu, der speziell auf die Bedürfnisse jüngerer Kinder zugeschnitten ist.",
-                  "category": "family",
-                  "coords": [
-                        24.509389,
-                        58.405311
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Munamägi",
-                  "text": "Történelmi domb és egykori bástya Pärnuban, régészeti jelentőséggel.",
-                  "category": "historical",
-                  "coords": [
-                        24.496246,
-                        58.382239
-                  ]
-            },
-            {
-                  "name": "Eesti Vabariigi väljakuulutamise mälestusmärk",
-                  "text": "Pärnu emlékműve, amely az észt függetlenség 1918-as kikiáltásának állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        24.505762,
-                        58.385117
-                  ]
-            },
-            {
-                  "name": "Endla Teater",
-                  "text": "Nagy múltú színház Pärnuban, amely kulturális jelentőségéről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        24.49665,
-                        58.385269
-                  ]
-            },
-            {
-                  "name": "Elisabethi kirik",
-                  "text": "Pärnu 18. századi, barokk stílusú evangélikus temploma.",
-                  "category": "religious",
-                  "coords": [
-                        24.500057,
-                        58.383707
-                  ]
-            },
-            {
-                  "name": "Pärnu Suurmärter Katariina kirik",
-                  "text": "Pompás barokk stílusú orosz ortodox templom Pärnuban.",
-                  "category": "religious",
-                  "coords": [
-                        24.497814,
-                        58.385245
-                  ]
-            },
-            {
-                  "name": "Pärnu Immaanueli baptistikoguduse palvela",
-                  "text": "A baptista közösség imaháza Pärnu városában.",
-                  "category": "religious",
-                  "coords": [
-                        24.516746,
-                        58.386153
-                  ]
-            },
-            {
-                  "name": "Pärnu adventkirik",
-                  "text": "Az adventista közösség templomépülete Pärnuban.",
-                  "category": "religious",
-                  "coords": [
-                        24.507676,
-                        58.382871
-                  ]
-            },
-            {
-                  "name": "Pärnu Issandamuutmise kirik",
-                  "text": "Pärnu ortodox temploma, amely építészetével tűnik ki.",
-                  "category": "religious",
-                  "coords": [
-                        24.505882,
-                        58.383982
-                  ]
-            },
-            {
-                  "name": "Tallinna väravad",
-                  "text": "Pärnu egyetlen épségben maradt 17. századi városkapuja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.494833,
-                        58.3836
-                  ]
-            },
-            {
-                  "name": "Punane torn",
-                  "text": "Középkori védőtorony és egykori börtön, amely ma kulturális központ Pärnuban.",
-                  "category": "landmark",
-                  "coords": [
-                        24.50279,
-                        58.385042
-                  ]
-            },
-            {
-                  "name": "Kesklinna sild",
-                  "text": "A Pärnu-folyón átívelő központi híd, amely összeköti a városrészeket.",
-                  "category": "landmark",
-                  "coords": [
-                        24.495918,
-                        58.389003
-                  ]
-            },
-            {
-                  "name": "Siimu sild",
-                  "text": "Pärnu folyón átívelő egyik hídja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.481746,
-                        58.388529
-                  ]
-            },
-            {
-                  "name": "Vaasa park",
-                  "text": "Nyilvános park Pärnuban, amely zöld környezetet kínál a pihenéshez.",
-                  "category": "park",
-                  "coords": [
-                        24.496456,
-                        58.386697
-                  ]
-            },
-            {
-                  "name": "Brackmanni park",
-                  "text": "Oscar Brackmann polgármesterről elnevezett városi park Pärnuban.",
-                  "category": "park",
-                  "coords": [
-                        24.502354,
-                        58.38283
-                  ]
-            },
-            {
-                  "name": "Koidula park",
-                  "text": "Pärnu központi parkja, amelyet Lydia Koidula költőnőről neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        24.503601,
-                        58.383289
-                  ]
-            },
-            {
-                  "name": "Siinmaa park",
-                  "text": "Gondozott zöldterület Pärnu városában.",
-                  "category": "park",
-                  "coords": [
-                        24.51813,
-                        58.382279
-                  ]
-            },
-            {
-                  "name": "Noorteväljaku park",
-                  "text": "Nyilvános park Pärnuban szabadidős tevékenységekhez.",
-                  "category": "park",
-                  "coords": [
-                        24.493488,
-                        58.392461
-                  ]
-            },
-            {
-                  "name": "Jakobsoni park",
-                  "text": "Kisebb városi park Pärnu területén.",
-                  "category": "park",
-                  "coords": [
-                        24.496853,
-                        58.384131
-                  ]
-            },
-            {
-                  "name": "Rääma park",
-                  "text": "Pärnu Rääma városrészében található park.",
-                  "category": "park",
-                  "coords": [
-                        24.512099,
-                        58.393253
-                  ]
-            },
-            {
-                  "name": "Vabaduse park",
-                  "text": "Pärnu zöldterülete, amely nyugalmat és kikapcsolódást kínál.",
-                  "category": "park",
-                  "coords": [
-                        24.509538,
-                        58.385623
-                  ]
-            },
-            {
-                  "name": "Steineri aed",
-                  "text": "Történelmi kert Pärnu központjában.",
-                  "category": "park",
-                  "coords": [
-                        24.500765,
-                        58.385425
-                  ]
-            },
-            {
-                  "name": "Waldhofi park",
-                  "text": "Pärnu parkja, amely az egykori Waldhof gyár helyén található.",
-                  "category": "park",
-                  "coords": [
-                        24.541126,
-                        58.375094
-                  ]
-            },
-            {
-                  "name": "Annemõisa park",
-                  "text": "Parkszerű terület Pärnu egyik nyugodtabb részén.",
-                  "category": "park",
-                  "coords": [
-                        24.536885,
-                        58.378969
-                  ]
-            },
-            {
-                  "name": "Paju park",
-                  "text": "Kisebb környékbeli park Pärnu városában.",
-                  "category": "park",
-                  "coords": [
-                        24.52613,
-                        58.377019
-                  ]
-            },
-            {
-                  "name": "Mõrra park",
-                  "text": "Közhasználatú zöldterület Pärnuban.",
-                  "category": "park",
-                  "coords": [
-                        24.462875,
-                        58.394332
-                  ]
-            },
-            {
-                  "name": "Vana-Pärnu metsapark",
-                  "text": "Vana-Pärnu erdei parkja, amely természetközeli élményt nyújt a város szélén.",
-                  "category": "park",
-                  "coords": [
-                        24.468478,
-                        58.386027
-                  ]
-            },
-            {
-                  "name": "Ülejõe park",
-                  "text": "Nyilvános park Pärnu Ülejõe negyedében.",
-                  "category": "park",
-                  "coords": [
-                        24.4889,
-                        58.398631
-                  ]
-            },
-            {
-                  "name": "Pilli park",
-                  "text": "Pihenésre alkalmas zöldterület Pärnu városában.",
-                  "category": "park",
-                  "coords": [
-                        24.523409,
-                        58.38618
-                  ]
-            },
-            {
-                  "name": "Pärnu keskrand",
-                  "text": "A város legnépszerűbb homokos strandja a Pärnui-öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
-                  "name": "Koidula muuseum",
-                  "text": "Lydia Koidula költőnő életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        24.485011,
-                        58.390809
-                  ]
-            },
-            {
-                  "name": "Seedri sihi alumine tulepaak",
-                  "text": "Jellegzetes jelzőfény, amely segíti a hajók kikötőbe jutását.",
-                  "category": "landmark",
-                  "coords": [
-                        24.480567,
-                        58.378933
-                  ]
-            },
-            {
-                  "name": "Seedri sihi ülemine tulepaak",
-                  "text": "A pärnui biztonságos navigációt segítő iránymutató rendszer része.",
-                  "category": "landmark",
-                  "coords": [
-                        24.484683,
-                        58.381583
-                  ]
-            },
-            {
-                  "name": "Vallikäär",
-                  "text": "Parkerdő Pärnu történelmi sáncainak területén.",
-                  "category": "park",
-                  "coords": [
-                        24.492808,
-                        58.384822
-                  ]
-            },
-            {
-                  "name": "Pärnu Muuseum",
-                  "text": "A városi múzeum Pärnu történelmét mutatja be a kőkorszaktól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        24.499343,
-                        58.386791
-                  ]
-            },
-            {
-                  "name": "Sauga mõisahoone varemed",
-                  "text": "Egy történelmi udvarház maradványai Pärnu közelében.",
-                  "category": "historical",
-                  "coords": [
-                        24.460584,
-                        58.402269
-                  ]
-            },
-            {
-                  "name": "Blue entrance I",
-                  "text": "Modern emlékmű Pärnuban, a bejárati installáció-sorozat része.",
-                  "category": "historical",
-                  "coords": [
-                        24.500212,
-                        58.404446
-                  ]
-            },
-            {
-                  "name": "Green entrance II",
-                  "text": "Kortárs emlékmű Pärnuban.",
-                  "category": "historical",
-                  "coords": [
-                        24.501272,
-                        58.40394
-                  ]
-            },
-            {
-                  "name": "Red entrance I",
-                  "text": "Modern emlékmű Pärnuban.",
-                  "category": "historical",
-                  "coords": [
-                        24.502829,
-                        58.403196
-                  ]
-            },
-            {
-                  "name": "Pärnu idamuuli tulepaak",
-                  "text": "Világítótorony Pärnu keleti mólóján.",
-                  "category": "landmark",
-                  "coords": [
-                        24.464208,
-                        58.366301
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi ülemine tulepaak",
-                  "text": "Navigációs pont a pärnui hajóforgalom számára.",
-                  "category": "landmark",
-                  "coords": [
-                        24.4714,
-                        58.385617
-                  ]
-            },
-            {
-                  "name": "Silla sihi alumine tulepaak",
-                  "text": "A pärnui folyó menti navigációs fények egyike.",
-                  "category": "landmark",
-                  "coords": [
-                        24.486617,
-                        58.389333
-                  ]
-            },
-            {
-                  "name": "Silla sihi ülemine tulepaak",
-                  "text": "A hajózást segítő jelzőfény.",
-                  "category": "landmark",
-                  "coords": [
-                        24.488333,
-                        58.39115
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi alumine tulepaak",
-                  "text": "Navigációs fény a pärnui kikötő bejáratánál.",
-                  "category": "landmark",
-                  "coords": [
-                        24.465683,
-                        58.378867
-                  ]
-            },
-            {
-                  "name": "Pärnu läänemuuli tulepaak",
-                  "text": "Világítótorony a pärnui strand nyugati mólóján.",
-                  "category": "landmark",
-                  "coords": [
-                        24.461633,
-                        58.368617
-                  ]
-            },
-            {
-                  "name": "sepikoda",
-                  "text": "Hagyományos kovácsműhely, amely a kézműves mesterséget mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        24.493478,
-                        58.386519
-                  ]
-            },
-            {
-                  "name": "Armastan Pärnu",
-                  "text": "Helyi látnivaló Pärnuban.",
-                  "category": "landmark",
-                  "coords": [
-                        24.491439,
-                        58.383557
-                  ]
-            },
-            {
-                  "name": "Pärnu muul",
-                  "text": "Hosszú kőmóló, amely hosszan benyúlik a Pärnui-öbölbe.",
-                  "category": "landmark",
-                  "coords": [
-                        24.472035,
-                        58.372317
-                  ]
-            },
-            {
-                  "name": "Linnuvaatlustorn",
-                  "text": "Torony a tengerparti rétek változatos madárvilágának megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        24.470253,
-                        58.375251
-                  ]
-            },
-            {
-                  "name": "Papiniidu matkaraja vaatetorn",
-                  "text": "Kilátótorony a Papiniidu túraútvonal mentén.",
-                  "category": "natural",
-                  "coords": [
-                        24.512046,
-                        58.371153
-                  ]
-            },
-            {
-                  "name": "Türgi paisjärv",
-                  "text": "A Türgi paisjärv egy tó Paernuban, amely nyugodt helyszínt biztosít egy sétához.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "A Pahkoja järv egy tó Paernuban, amely természeti és békés környezetével vonzza a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
-                  "name": "Batuudikeskus Up",
-                  "text": "A Batuudikeskus Up egy trambulinpark Paernuban, amely aktív szórakozást és akciót kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        24.50268,
-                        58.388032
-                  ]
-            },
-            {
-                  "name": "Excavator",
-                  "text": "Az Excavator egy játszótér Paernuban, ahol a gyerekek biztonságos környezetben játszhatnak és mozoghatnak.",
-                  "category": "family",
-                  "coords": [
-                        24.501186,
-                        58.373604
-                  ]
-            },
-            {
-                  "name": "Lillelapse mängutuba",
-                  "text": "A Lillelapse mängutuba egy játszótér Paernuban, amelyet kifejezetten a kisebb gyermekek igényeihez alakítottak ki.",
-                  "category": "family",
-                  "coords": [
-                        24.509389,
-                        58.405311
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Munamägi",
-                  "text": "Un deal istoric și fost bastion în Pärnu, cu importanță arheologică.",
-                  "category": "historical",
-                  "coords": [
-                        24.496246,
-                        58.382239
-                  ]
-            },
-            {
-                  "name": "Eesti Vabariigi väljakuulutamise mälestusmärk",
-                  "text": "Un monument în Pärnu ce comemorează declararea independenței Estoniei în 1918.",
-                  "category": "historical",
-                  "coords": [
-                        24.505762,
-                        58.385117
-                  ]
-            },
-            {
-                  "name": "Endla Teater",
-                  "text": "Un teatru cu tradiție în Pärnu, cunoscut pentru importanța sa culturală.",
-                  "category": "cultural",
-                  "coords": [
-                        24.49665,
-                        58.385269
-                  ]
-            },
-            {
-                  "name": "Elisabethi kirik",
-                  "text": "O biserică luterană barocă din secolul al XVIII-lea în Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.500057,
-                        58.383707
-                  ]
-            },
-            {
-                  "name": "Pärnu Suurmärter Katariina kirik",
-                  "text": "O biserică ortodoxă rusă în stil baroc din Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.497814,
-                        58.385245
-                  ]
-            },
-            {
-                  "name": "Pärnu Immaanueli baptistikoguduse palvela",
-                  "text": "O casă de rugăciune a comunității baptiste din Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.516746,
-                        58.386153
-                  ]
-            },
-            {
-                  "name": "Pärnu adventkirik",
-                  "text": "Clădirea bisericii adventiste din Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.507676,
-                        58.382871
-                  ]
-            },
-            {
-                  "name": "Pärnu Issandamuutmise kirik",
-                  "text": "O biserică ortodoxă din Pärnu, remarcabilă prin arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        24.505882,
-                        58.383982
-                  ]
-            },
-            {
-                  "name": "Tallinna väravad",
-                  "text": "Singura poartă a orașului din secolul al XVII-lea care s-a păstrat în Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.494833,
-                        58.3836
-                  ]
-            },
-            {
-                  "name": "Punane torn",
-                  "text": "Un turn de apărare medieval și fostă închisoare, astăzi centru cultural în Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.50279,
-                        58.385042
-                  ]
-            },
-            {
-                  "name": "Kesklinna sild",
-                  "text": "Podul central peste râul Pärnu, care face legătura între cartierele orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        24.495918,
-                        58.389003
-                  ]
-            },
-            {
-                  "name": "Siimu sild",
-                  "text": "Un pod care traversează râul în Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.481746,
-                        58.388529
-                  ]
-            },
-            {
-                  "name": "Vaasa park",
-                  "text": "Un parc public în Pärnu pentru recreere în natură.",
-                  "category": "park",
-                  "coords": [
-                        24.496456,
-                        58.386697
-                  ]
-            },
-            {
-                  "name": "Brackmanni park",
-                  "text": "Un parc orășenesc în Pärnu numit după primarul Oscar Brackmann.",
-                  "category": "park",
-                  "coords": [
-                        24.502354,
-                        58.38283
-                  ]
-            },
-            {
-                  "name": "Koidula park",
-                  "text": "Un parc central în Pärnu, numit după poeta Lydia Koidula.",
-                  "category": "park",
-                  "coords": [
-                        24.503601,
-                        58.383289
-                  ]
-            },
-            {
-                  "name": "Siinmaa park",
-                  "text": "O zonă verde amenajată în Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.51813,
-                        58.382279
-                  ]
-            },
-            {
-                  "name": "Noorteväljaku park",
-                  "text": "Un parc public în Pärnu pentru activități de recreere.",
-                  "category": "park",
-                  "coords": [
-                        24.493488,
-                        58.392461
-                  ]
-            },
-            {
-                  "name": "Jakobsoni park",
-                  "text": "Un mic parc orășenesc în Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.496853,
-                        58.384131
-                  ]
-            },
-            {
-                  "name": "Rääma park",
-                  "text": "Un parc situat în districtul Rääma din Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.512099,
-                        58.393253
-                  ]
-            },
-            {
-                  "name": "Vabaduse park",
-                  "text": "O zonă verde în Pärnu ce oferă spațiu pentru liniște și relaxare.",
-                  "category": "park",
-                  "coords": [
-                        24.509538,
-                        58.385623
-                  ]
-            },
-            {
-                  "name": "Steineri aed",
-                  "text": "O grădină istorică în centrul orașului Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.500765,
-                        58.385425
-                  ]
-            },
-            {
-                  "name": "Waldhofi park",
-                  "text": "Un parc în Pärnu situat pe locul fostei fabrici Waldhof.",
-                  "category": "park",
-                  "coords": [
-                        24.541126,
-                        58.375094
-                  ]
-            },
-            {
-                  "name": "Annemõisa park",
-                  "text": "O zonă amenajată ca parc într-o parte mai liniștită a orașului Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.536885,
-                        58.378969
-                  ]
-            },
-            {
-                  "name": "Paju park",
-                  "text": "Un parc de cartier mai mic în Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.52613,
-                        58.377019
-                  ]
-            },
-            {
-                  "name": "Mõrra park",
-                  "text": "Un spațiu verde în Pärnu destinat uzului public.",
-                  "category": "park",
-                  "coords": [
-                        24.462875,
-                        58.394332
-                  ]
-            },
-            {
-                  "name": "Vana-Pärnu metsapark",
-                  "text": "Un parc forestier în Vana-Pärnu, care oferă experiențe în natură la marginea orașului.",
-                  "category": "park",
-                  "coords": [
-                        24.468478,
-                        58.386027
-                  ]
-            },
-            {
-                  "name": "Ülejõe park",
-                  "text": "Un parc public în cartierul Ülejõe din Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.4889,
-                        58.398631
-                  ]
-            },
-            {
-                  "name": "Pilli park",
-                  "text": "O zonă verde pentru recreere în orașul Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.523409,
-                        58.38618
-                  ]
-            },
-            {
-                  "name": "Pärnu keskrand",
-                  "text": "Cea mai populară plajă cu nisip a orașului la Golful Pärnu.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
-                  "name": "Koidula muuseum",
-                  "text": "Un muzeu dedicat vieții și operei poetei Lydia Koidula.",
-                  "category": "museum",
-                  "coords": [
-                        24.485011,
-                        58.390809
-                  ]
-            },
-            {
-                  "name": "Seedri sihi alumine tulepaak",
-                  "text": "Un far distinctiv care ghidează navele spre port.",
-                  "category": "landmark",
-                  "coords": [
-                        24.480567,
-                        58.378933
-                  ]
-            },
-            {
-                  "name": "Seedri sihi ülemine tulepaak",
-                  "text": "Parte a sistemului de lumini de direcție pentru navigația în siguranță din Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.484683,
-                        58.381583
-                  ]
-            },
-            {
-                  "name": "Vallikäär",
-                  "text": "O zonă de parc situată în perimetrul fortificațiilor istorice din Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.492808,
-                        58.384822
-                  ]
-            },
-            {
-                  "name": "Pärnu Muuseum",
-                  "text": "Muzeul orașului prezintă istoria locală din epoca pietrei până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        24.499343,
-                        58.386791
-                  ]
-            },
-            {
-                  "name": "Sauga mõisahoone varemed",
-                  "text": "Ruinele unui conac istoric în apropiere de Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.460584,
-                        58.402269
-                  ]
-            },
-            {
-                  "name": "Blue entrance I",
-                  "text": "Un monument modern în Pärnu, parte a unei serii de instalații de intrare.",
-                  "category": "historical",
-                  "coords": [
-                        24.500212,
-                        58.404446
-                  ]
-            },
-            {
-                  "name": "Green entrance II",
-                  "text": "Un monument contemporan în Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.501272,
-                        58.40394
-                  ]
-            },
-            {
-                  "name": "Red entrance I",
-                  "text": "Un monument modern în Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.502829,
-                        58.403196
-                  ]
-            },
-            {
-                  "name": "Pärnu idamuuli tulepaak",
-                  "text": "Un far situat pe digul de est din Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.464208,
-                        58.366301
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi ülemine tulepaak",
-                  "text": "Un punct de navigație pentru traficul maritim din Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.4714,
-                        58.385617
-                  ]
-            },
-            {
-                  "name": "Silla sihi alumine tulepaak",
-                  "text": "Parte a luminilor de navigație de-a lungul râului din Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.486617,
-                        58.389333
-                  ]
-            },
-            {
-                  "name": "Silla sihi ülemine tulepaak",
-                  "text": "Un far de ajutor pentru navigație.",
-                  "category": "landmark",
-                  "coords": [
-                        24.488333,
-                        58.39115
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi alumine tulepaak",
-                  "text": "O lumină de navigație la intrarea în portul Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.465683,
-                        58.378867
-                  ]
-            },
-            {
-                  "name": "Pärnu läänemuuli tulepaak",
-                  "text": "Farul de pe digul de vest de la plaja din Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.461633,
-                        58.368617
-                  ]
-            },
-            {
-                  "name": "sepikoda",
-                  "text": "Un atelier tradițional de fierărie care prezintă măiestria artizanală.",
-                  "category": "landmark",
-                  "coords": [
-                        24.493478,
-                        58.386519
-                  ]
-            },
-            {
-                  "name": "Armastan Pärnu",
-                  "text": "O atracție locală în Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.491439,
-                        58.383557
-                  ]
-            },
-            {
-                  "name": "Pärnu muul",
-                  "text": "Un dig lung de piatră care se întinde mult în Golful Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.472035,
-                        58.372317
-                  ]
-            },
-            {
-                  "name": "Linnuvaatlustorn",
-                  "text": "Un turn pentru observarea avifaunei diverse din pajiștile de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        24.470253,
-                        58.375251
-                  ]
-            },
-            {
-                  "name": "Papiniidu matkaraja vaatetorn",
-                  "text": "Un turn de observare de-a lungul traseului de drumeție Papiniidu.",
-                  "category": "natural",
-                  "coords": [
-                        24.512046,
-                        58.371153
-                  ]
-            },
-            {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv este un lac în Paernu, oferind un loc liniștit pentru o plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv este un lac în Paernu, atrăgând vizitatorii prin mediul său natural și pașnic.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
-                  "name": "Batuudikeskus Up",
-                  "text": "Batuudikeskus Up este un parc de trambuline în Paernu, oferind distracție activă și acțiune pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        24.50268,
-                        58.388032
-                  ]
-            },
-            {
-                  "name": "Excavator",
-                  "text": "Excavator este un teren de joacă în Paernu, unde copiii se pot juca și alerga într-un mediu sigur.",
-                  "category": "family",
-                  "coords": [
-                        24.501186,
-                        58.373604
-                  ]
-            },
-            {
-                  "name": "Lillelapse mängutuba",
-                  "text": "Lillelapse mängutuba este un teren de joacă în Paernu, special conceput pentru nevoile copiilor mai mici.",
-                  "category": "family",
-                  "coords": [
-                        24.509389,
-                        58.405311
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Munamägi",
-                  "text": "A historic hill and former bastion in Pärnu with archaeological significance.",
-                  "category": "historical",
-                  "coords": [
-                        24.496246,
-                        58.382239
-                  ]
-            },
-            {
-                  "name": "Monument to declaring the independence of the Republic of Estonia",
-                  "text": "A monument in Pärnu commemorating the declaration of Estonian independence in 1918.",
-                  "category": "historical",
-                  "coords": [
-                        24.505762,
-                        58.385117
-                  ]
-            },
-            {
-                  "name": "Endla Teater",
-                  "text": "A professional theatre in Pärnu known for its long-standing cultural significance.",
-                  "category": "cultural",
-                  "coords": [
-                        24.49665,
-                        58.385269
-                  ]
-            },
-            {
-                  "name": "Elisabethi kirik",
-                  "text": "An 18th-century Baroque Lutheran church in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.500057,
-                        58.383707
-                  ]
-            },
-            {
-                  "name": "Pärnu Suurmärter Katariina kirik",
-                  "text": "A grand Baroque Russian Orthodox church in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.497814,
-                        58.385245
-                  ]
-            },
-            {
-                  "name": "Pärnu Immaanueli baptistikoguduse palvela",
-                  "text": "A place of worship for the Baptist congregation in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.516746,
-                        58.386153
-                  ]
-            },
-            {
-                  "name": "Pärnu adventkirik",
-                  "text": "The church building of the Adventist congregation in Pärnu.",
-                  "category": "religious",
-                  "coords": [
-                        24.507676,
-                        58.382871
-                  ]
-            },
-            {
-                  "name": "Pärnu Issandamuutmise kirik",
-                  "text": "An Orthodox church in Pärnu notable for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        24.505882,
-                        58.383982
-                  ]
-            },
-            {
-                  "name": "Tallinn Gate",
-                  "text": "The only remaining 17th-century city gate in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.494833,
-                        58.3836
-                  ]
-            },
-            {
-                  "name": "Punane torn",
-                  "text": "A medieval defense tower and former prison, now a cultural center in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.50279,
-                        58.385042
-                  ]
-            },
-            {
-                  "name": "Kesklinna sild",
-                  "text": "The central bridge over the Pärnu River, connecting different parts of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        24.495918,
-                        58.389003
-                  ]
-            },
-            {
-                  "name": "Siimu sild",
-                  "text": "A bridge crossing the river in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.481746,
-                        58.388529
-                  ]
-            },
-            {
-                  "name": "Vaasa park",
-                  "text": "A public park in Pärnu offering green space for relaxation.",
-                  "category": "park",
-                  "coords": [
-                        24.496456,
-                        58.386697
-                  ]
-            },
-            {
-                  "name": "Brackmanni park",
-                  "text": "A city park in Pärnu named after Mayor Oscar Brackmann.",
-                  "category": "park",
-                  "coords": [
-                        24.502354,
-                        58.38283
-                  ]
-            },
-            {
-                  "name": "Koidula park",
-                  "text": "A central park in Pärnu named after the poet Lydia Koidula.",
-                  "category": "park",
-                  "coords": [
-                        24.503601,
-                        58.383289
-                  ]
-            },
-            {
-                  "name": "Siinmaa park",
-                  "text": "A well-maintained green area in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.51813,
-                        58.382279
-                  ]
-            },
-            {
-                  "name": "Noorteväljaku park",
-                  "text": "A public park in Pärnu for leisure activities.",
-                  "category": "park",
-                  "coords": [
-                        24.493488,
-                        58.392461
-                  ]
-            },
-            {
-                  "name": "Jakobsoni park",
-                  "text": "A small city park located in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.496853,
-                        58.384131
-                  ]
-            },
-            {
-                  "name": "Rääma park",
-                  "text": "A park located in the Rääma district of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.512099,
-                        58.393253
-                  ]
-            },
-            {
-                  "name": "Vabaduse park",
-                  "text": "A green space in Pärnu providing room for peace and relaxation.",
-                  "category": "park",
-                  "coords": [
-                        24.509538,
-                        58.385623
-                  ]
-            },
-            {
-                  "name": "Steineri aed",
-                  "text": "A historic garden located in the center of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.500765,
-                        58.385425
-                  ]
-            },
-            {
-                  "name": "Waldhofi park",
-                  "text": "A park in Pärnu situated on the site of the former Waldhof factory.",
-                  "category": "park",
-                  "coords": [
-                        24.541126,
-                        58.375094
-                  ]
-            },
-            {
-                  "name": "Annemõisa park",
-                  "text": "A park-like area in a quieter part of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.536885,
-                        58.378969
-                  ]
-            },
-            {
-                  "name": "Paju park",
-                  "text": "A smaller neighborhood park in Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.52613,
-                        58.377019
-                  ]
-            },
-            {
-                  "name": "Mõrra park",
-                  "text": "A green space in Pärnu for public use.",
-                  "category": "park",
-                  "coords": [
-                        24.462875,
-                        58.394332
-                  ]
-            },
-            {
-                  "name": "Vana-Pärnu metsapark",
-                  "text": "A forest park in Vana-Pärnu offering a natural escape at the edge of the city.",
-                  "category": "park",
-                  "coords": [
-                        24.468478,
-                        58.386027
-                  ]
-            },
-            {
-                  "name": "Ülejõe park",
-                  "text": "A public park located in the Ülejõe district of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.4889,
-                        58.398631
-                  ]
-            },
-            {
-                  "name": "Pilli park",
-                  "text": "A green area for recreation in the city of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.523409,
-                        58.38618
-                  ]
-            },
-            {
-                  "name": "Pärnu keskrand",
-                  "text": "The city's most popular sandy beach on Pärnu Bay.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
-                  "name": "Koidula museum",
-                  "text": "A museum dedicated to the life and work of the poet Lydia Koidula.",
-                  "category": "museum",
-                  "coords": [
-                        24.485011,
-                        58.390809
-                  ]
-            },
-            {
-                  "name": "Seedri sihi alumine tulepaak",
-                  "text": "A distinctive light beacon guiding ships into the harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.480567,
-                        58.378933
-                  ]
-            },
-            {
-                  "name": "Seedri sihi ülemine tulepaak",
-                  "text": "Part of the range light system for safe navigation in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.484683,
-                        58.381583
-                  ]
-            },
-            {
-                  "name": "Vallikäär",
-                  "text": "A park area located in the historical ramparts of Pärnu.",
-                  "category": "park",
-                  "coords": [
-                        24.492808,
-                        58.384822
-                  ]
-            },
-            {
-                  "name": "Pärnu Muuseum",
-                  "text": "The city museum presents local history from the Stone Age to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        24.499343,
-                        58.386791
-                  ]
-            },
-            {
-                  "name": "Sauga mõisahoone varemed",
-                  "text": "The remains of a historical manor house near Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.460584,
-                        58.402269
-                  ]
-            },
-            {
-                  "name": "Blue entrance I",
-                  "text": "A modern monument in Pärnu, part of a series of entrance installations.",
-                  "category": "historical",
-                  "coords": [
-                        24.500212,
-                        58.404446
-                  ]
-            },
-            {
-                  "name": "Green entrance II",
-                  "text": "A contemporary monument in Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.501272,
-                        58.40394
-                  ]
-            },
-            {
-                  "name": "Red entrance I",
-                  "text": "A modern monument in Pärnu.",
-                  "category": "historical",
-                  "coords": [
-                        24.502829,
-                        58.403196
-                  ]
-            },
-            {
-                  "name": "Pärnu idamuuli tulepaak",
-                  "text": "A light beacon located on the eastern mole of Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.464208,
-                        58.366301
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi ülemine tulepaak",
-                  "text": "A navigation point for shipping traffic in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.4714,
-                        58.385617
-                  ]
-            },
-            {
-                  "name": "Silla sihi alumine tulepaak",
-                  "text": "Part of the navigation lights along the river in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.486617,
-                        58.389333
-                  ]
-            },
-            {
-                  "name": "Silla sihi ülemine tulepaak",
-                  "text": "A light beacon assisting navigation.",
-                  "category": "landmark",
-                  "coords": [
-                        24.488333,
-                        58.39115
-                  ]
-            },
-            {
-                  "name": "Pärnu sihi alumine tulepaak",
-                  "text": "A navigation light at the entrance to the Pärnu harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.465683,
-                        58.378867
-                  ]
-            },
-            {
-                  "name": "Pärnu läänemuuli tulepaak",
-                  "text": "The light beacon on the western mole at Pärnu beach.",
-                  "category": "landmark",
-                  "coords": [
-                        24.461633,
-                        58.368617
-                  ]
-            },
-            {
-                  "name": "sepikoda",
-                  "text": "A traditional blacksmith workshop showcasing craftsmanship.",
-                  "category": "landmark",
-                  "coords": [
-                        24.493478,
-                        58.386519
-                  ]
-            },
-            {
-                  "name": "Armastan Pärnu",
-                  "text": "A local attraction in Pärnu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.491439,
-                        58.383557
-                  ]
-            },
-            {
-                  "name": "Mole of Pärnu",
-                  "text": "A long stone mole extending far into Pärnu Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        24.472035,
-                        58.372317
-                  ]
-            },
-            {
-                  "name": "Linnuvaatlustorn",
-                  "text": "A tower for observing the diverse birdlife in the coastal meadows.",
-                  "category": "natural",
-                  "coords": [
-                        24.470253,
-                        58.375251
-                  ]
-            },
-            {
-                  "name": "Papiniidu matkaraja vaatetorn",
-                  "text": "An observation tower along the Papiniidu hiking trail.",
-                  "category": "natural",
-                  "coords": [
-                        24.512046,
-                        58.371153
-                  ]
-            },
-            {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv is a lake in Paernu, providing a quiet spot for a walk.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv is a lake in Paernu, attracting visitors with its natural and peaceful surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
-                  "name": "Batuudikeskus Up",
-                  "text": "Batuudikeskus Up is a trampoline park in Paernu, offering active fun and action for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        24.50268,
-                        58.388032
-                  ]
-            },
-            {
-                  "name": "Excavator",
-                  "text": "Excavator is a playground in Paernu, where children can play and run in a safe environment.",
-                  "category": "family",
-                  "coords": [
-                        24.501186,
-                        58.373604
-                  ]
-            },
-            {
-                  "name": "Lillelapse mängutuba",
-                  "text": "Lillelapse mängutuba is a playground in Paernu, specifically designed for the needs of younger children.",
-                  "category": "family",
-                  "coords": [
-                        24.509389,
-                        58.405311
-                  ]
-            }
-      ]
-},
+    id: "ee-parnu", "sights": {"de": [{"name": "Munamägi", "text": "Ein historischer Hügel und ehemalige Bastion in Pärnu mit archäologischer Bedeutung.", "category": "historical", "coords": [24.496246, 58.382239]}, {"name": "Eesti Vabariigi väljakuulutamise mälestusmärk", "text": "Ein Denkmal in Pärnu, das an die Ausrufung der estnischen Unabhängigkeit im Jahr 1918 erinnert.", "category": "historical", "coords": [24.505762, 58.385117]}, {"name": "Endla Teater", "text": "Ein traditionsreiches Theater in Pärnu, das für seine kulturelle Bedeutung bekannt ist.", "category": "cultural", "coords": [24.49665, 58.385269]}, {"name": "Elisabethi kirik", "text": "Eine im 18. Jahrhundert im Barockstil erbaut lutherische Kirche in Pärnu.", "category": "religious", "coords": [24.500057, 58.383707]}, {"name": "Pärnu Suurmärter Katariina kirik", "text": "Eine prächtige barocke russisch-orthodoxe Kirche in Pärnu.", "category": "religious", "coords": [24.497814, 58.385245]}, {"name": "Pärnu Immaanueli baptistikoguduse palvela", "text": "Ein Gotteshaus der Baptistengemeinde in Pärnu.", "category": "religious", "coords": [24.516746, 58.386153]}, {"name": "Pärnu adventkirik", "text": "Das Kirchengebäude der Adventgemeinde in Pärnu.", "category": "religious", "coords": [24.507676, 58.382871]}, {"name": "Pärnu Issandamuutmise kirik", "text": "Eine orthodoxe Kirche in Pärnu, die durch ihre Architektur besticht.", "category": "religious", "coords": [24.505882, 58.383982]}, {"name": "Tallinner Tor", "text": "Das einzige erhaltene Stadttor aus dem 17. Jahrhundert in Pärnu.", "category": "landmark", "coords": [24.494833, 58.3836]}, {"name": "Punane torn", "text": "Ein mittelalterlicher Wehrturm und ehemaliges Gefängnis, heute ein Kulturzentrum in Pärnu.", "category": "landmark", "coords": [24.50279, 58.385042]}, {"name": "Kesklinna sild", "text": "Die zentrale Brücke über den Fluss Pärnu, die die Stadtteile verbindet.", "category": "landmark", "coords": [24.495918, 58.389003]}, {"name": "Siimu sild", "text": "Eine Brücke in Pärnu, die den Fluss überquert.", "category": "landmark", "coords": [24.481746, 58.388529]}, {"name": "Vaasa park", "text": "Eine öffentliche Parkanlage in Pärnu zur Erholung im Grünen.", "category": "park", "coords": [24.496456, 58.386697]}, {"name": "Brackmanni park", "text": "Ein nach dem Bürgermeister Oscar Brackmann benannter Stadtpark in Pärnu.", "category": "park", "coords": [24.502354, 58.38283]}, {"name": "Koidula park", "text": "Ein zentraler Park in Pärnu, benannt nach der Dichterin Lydia Koidula.", "category": "park", "coords": [24.503601, 58.383289]}, {"name": "Siinmaa park", "text": "Eine gepflegte Grünanlage im Stadtgebiet von Pärnu.", "category": "park", "coords": [24.51813, 58.382279]}, {"name": "Noorteväljaku park", "text": "Ein öffentlicher Park in Pärnu für Freizeitaktivitäten.", "category": "park", "coords": [24.493488, 58.392461]}, {"name": "Jakobsoni park", "text": "Ein kleiner Stadtpark in Pärnu.", "category": "park", "coords": [24.496853, 58.384131]}, {"name": "Rääma park", "text": "Ein Park im Stadtteil Rääma von Pärnu.", "category": "park", "coords": [24.512099, 58.393253]}, {"name": "Vabaduse park", "text": "Eine Grünanlage in Pärnu, die Raum für Ruhe und Erholung bietet.", "category": "park", "coords": [24.509538, 58.385623]}, {"name": "Steineri aed", "text": "Ein historischer Garten im Zentrum von Pärnu.", "category": "park", "coords": [24.500765, 58.385425]}, {"name": "Waldhofi park", "text": "Ein Park in Pärnu, der sich an der Stelle der ehemaligen Waldhof-Fabrik befindet.", "category": "park", "coords": [24.541126, 58.375094]}, {"name": "Annemõisa park", "text": "Eine parkähnliche Anlage in einem ruhigeren Teil von Pärnu.", "category": "park", "coords": [24.536885, 58.378969]}, {"name": "Paju park", "text": "Ein kleinerer Nachbarschaftspark in Pärnu.", "category": "park", "coords": [24.52613, 58.377019]}, {"name": "Mõrra park", "text": "Eine Grünfläche in Pärnu zur öffentlichen Nutzung.", "category": "park", "coords": [24.462875, 58.394332]}, {"name": "Vana-Pärnu metsapark", "text": "Ein Waldpark in Vana-Pärnu, der Naturerlebnisse direkt am Stadtrand bietet.", "category": "park", "coords": [24.468478, 58.386027]}, {"name": "Ülejõe park", "text": "Ein öffentlicher Park im Stadtteil Ülejõe in Pärnu.", "category": "park", "coords": [24.4889, 58.398631]}, {"name": "Pilli park", "text": "Eine Grünanlage für Erholung im Stadtgebiet von Pärnu.", "category": "park", "coords": [24.523409, 58.38618]}, {"name": "Pärnu keskrand", "text": "Der beliebteste Sandstrand der Stadt an der Bucht von Pärnu.", "category": "recreational", "coords": [24.495036, 58.373911]}, {"name": "Koidula muuseum", "text": "In Paernu widmet sich das Koidula muuseum dem literarischen Erbe der estnischen Dichterin Lydia Koidula. Das Museum bringt Besuchern ihr Leben und ihre bedeutsamen Werke näher.", "category": "museum", "coords": [24.485011, 58.390809]}, {"name": "Seedri sihi alumine tulepaak", "text": "Ein markantes Leuchtfeuer, das Schiffen den Weg in den Hafen weist.", "category": "landmark", "coords": [24.480567, 58.378933]}, {"name": "Seedri sihi ülemine tulepaak", "text": "Teil des Richtfeuersystems für die sichere Navigation in Pärnu.", "category": "landmark", "coords": [24.484683, 58.381583]}, {"name": "Vallikäär", "text": "Eine Parkanlage im Bereich der historischen Wallanlagen von Pärnu.", "category": "park", "coords": [24.492808, 58.384822]}, {"name": "Pärnu Muuseum", "text": "Das Stadtmuseum präsentiert die lokale Geschichte von der Steinzeit bis heute.", "category": "museum", "coords": [24.499343, 58.386791]}, {"name": "Sauga mõisahoone varemed", "text": "Die Überreste eines historischen Gutshofes in der Nähe von Pärnu.", "category": "historical", "coords": [24.460584, 58.402269]}, {"name": "Blue entrance I", "text": "Ein modernes Denkmal in Pärnu, Teil einer Serie von Eingangsinstallationen.", "category": "historical", "coords": [24.500212, 58.404446]}, {"name": "Green entrance II", "text": "Ein zeitgenössisches Monument in Pärnu.", "category": "historical", "coords": [24.501272, 58.40394]}, {"name": "Red entrance I", "text": "Ein modernes Denkmal in Pärnu.", "category": "historical", "coords": [24.502829, 58.403196]}, {"name": "Pärnu idamuuli tulepaak", "text": "Ein Leuchtfeuer auf der östlichen Mole von Pärnu.", "category": "landmark", "coords": [24.464208, 58.366301]}, {"name": "Pärnu sihi ülemine tulepaak", "text": "Ein Navigationspunkt für den Schiffsverkehr in Pärnu.", "category": "landmark", "coords": [24.4714, 58.385617]}, {"name": "Silla sihi alumine tulepaak", "text": "Ein Teil der Navigationslichter am Fluss in Pärnu.", "category": "landmark", "coords": [24.486617, 58.389333]}, {"name": "Silla sihi ülemine tulepaak", "text": "Ein Leuchtfeuer zur Unterstützung der Schifffahrt.", "category": "landmark", "coords": [24.488333, 58.39115]}, {"name": "Pärnu sihi alumine tulepaak", "text": "Ein Navigationslicht an der Hafeneinfahrt von Pärnu.", "category": "landmark", "coords": [24.465683, 58.378867]}, {"name": "Pärnu läänemuuli tulepaak", "text": "Das Leuchtfeuer auf der westlichen Mole am Strand von Pärnu.", "category": "landmark", "coords": [24.461633, 58.368617]}, {"name": "sepikoda", "text": "Eine traditionelle Schmiedewerkstatt, die Handwerkskunst präsentiert.", "category": "landmark", "coords": [24.493478, 58.386519]}, {"name": "Armastan Pärnu", "text": "Eine lokale Attraction in Pärnu.", "category": "landmark", "coords": [24.491439, 58.383557]}, {"name": "Pärnu muul", "text": "Eine lange Steinmole, die weit in die Bucht von Pärnu hineinragt.", "category": "landmark", "coords": [24.472035, 58.372317]}, {"name": "Linnuvaatlustorn", "text": "Ein Turm zur Beobachtung der vielfältigen Vogelwelt in den Küstenwiesen.", "category": "natural", "coords": [24.470253, 58.375251]}, {"name": "Papiniidu matkaraja vaatetorn", "text": "Ein Aussichtsturm entlang des Papiniidu-Wanderwegs.", "category": "natural", "coords": [24.512046, 58.371153]}, {"name": "Türgi paisjärv", "text": "Türgi paisjärv ist ein See in Paernu, der einen ruhigen Ort für einen Spaziergang bietet.", "category": "natural", "coords": [24.616731, 58.376793]}, {"name": "Pahkoja järv", "text": "Pahkoja järv ist ein See in Paernu, der durch seine natürliche und friedliche Umgebung besticht.", "category": "natural", "coords": [24.608938, 58.386876]}, {"name": "Batuudikeskus Up", "text": "Batuudikeskus Up ist ein Trampolinpark in Paernu, der aktiven Spaß und Action für die ganze Familie bietet.", "category": "family", "coords": [24.50268, 58.388032]}, {"name": "Excavator", "text": "Excavator ist ein Spielplatz in Paernu, auf dem Kinder in einer sicheren Umgebung spielen und toben können.", "category": "family", "coords": [24.501186, 58.373604]}, {"name": "Lillelapse mängutuba", "text": "Lillelapse mängutuba ist ein Spielplatz in Paernu, der speziell auf die Bedürfnisse jüngerer Kinder zugeschnitten ist.", "category": "family", "coords": [24.509389, 58.405311]}], "hu": [{"name": "Munamägi", "text": "Történelmi domb és egykori bástya Pärnuban, régészeti jelentőséggel.", "category": "historical", "coords": [24.496246, 58.382239]}, {"name": "Eesti Vabariigi väljakuulutamise mälestusmärk", "text": "Pärnu emlékműve, amely az észt függetlenség 1918-as kikiáltásának állít emléket.", "category": "historical", "coords": [24.505762, 58.385117]}, {"name": "Endla Teater", "text": "Nagy múltú színház Pärnuban, amely kulturális jelentőségéről ismert.", "category": "cultural", "coords": [24.49665, 58.385269]}, {"name": "Elisabethi kirik", "text": "Pärnu 18. századi, barokk stílusú evangélikus temploma.", "category": "religious", "coords": [24.500057, 58.383707]}, {"name": "Pärnu Suurmärter Katariina kirik", "text": "Pompás barokk stílusú orosz ortodox templom Pärnuban.", "category": "religious", "coords": [24.497814, 58.385245]}, {"name": "Pärnu Immaanueli baptistikoguduse palvela", "text": "A baptista közösség imaháza Pärnu városában.", "category": "religious", "coords": [24.516746, 58.386153]}, {"name": "Pärnu adventkirik", "text": "Az adventista közösség templomépülete Pärnuban.", "category": "religious", "coords": [24.507676, 58.382871]}, {"name": "Pärnu Issandamuutmise kirik", "text": "Pärnu ortodox temploma, amely építészetével tűnik ki.", "category": "religious", "coords": [24.505882, 58.383982]}, {"name": "Tallinna väravad", "text": "Pärnu egyetlen épségben maradt 17. századi városkapuja.", "category": "landmark", "coords": [24.494833, 58.3836]}, {"name": "Punane torn", "text": "Középkori védőtorony és egykori börtön, amely ma kulturális központ Pärnuban.", "category": "landmark", "coords": [24.50279, 58.385042]}, {"name": "Kesklinna sild", "text": "A Pärnu-folyón átívelő központi híd, amely összeköti a városrészeket.", "category": "landmark", "coords": [24.495918, 58.389003]}, {"name": "Siimu sild", "text": "Pärnu folyón átívelő egyik hídja.", "category": "landmark", "coords": [24.481746, 58.388529]}, {"name": "Vaasa park", "text": "Nyilvános park Pärnuban, amely zöld környezetet kínál a pihenéshez.", "category": "park", "coords": [24.496456, 58.386697]}, {"name": "Brackmanni park", "text": "Oscar Brackmann polgármesterről elnevezett városi park Pärnuban.", "category": "park", "coords": [24.502354, 58.38283]}, {"name": "Koidula park", "text": "Pärnu központi parkja, amelyet Lydia Koidula költőnőről neveztek el.", "category": "park", "coords": [24.503601, 58.383289]}, {"name": "Siinmaa park", "text": "Gondozott zöldterület Pärnu városában.", "category": "park", "coords": [24.51813, 58.382279]}, {"name": "Noorteväljaku park", "text": "Nyilvános park Pärnuban szabadidős tevékenységekhez.", "category": "park", "coords": [24.493488, 58.392461]}, {"name": "Jakobsoni park", "text": "Kisebb városi park Pärnu területén.", "category": "park", "coords": [24.496853, 58.384131]}, {"name": "Rääma park", "text": "Pärnu Rääma városrészében található park.", "category": "park", "coords": [24.512099, 58.393253]}, {"name": "Vabaduse park", "text": "Pärnu zöldterülete, amely nyugalmat és kikapcsolódást kínál.", "category": "park", "coords": [24.509538, 58.385623]}, {"name": "Steineri aed", "text": "Történelmi kert Pärnu központjában.", "category": "park", "coords": [24.500765, 58.385425]}, {"name": "Waldhofi park", "text": "Pärnu parkja, amely az egykori Waldhof gyár helyén található.", "category": "park", "coords": [24.541126, 58.375094]}, {"name": "Annemõisa park", "text": "Parkszerű terület Pärnu egyik nyugodtabb részén.", "category": "park", "coords": [24.536885, 58.378969]}, {"name": "Paju park", "text": "Kisebb környékbeli park Pärnu városában.", "category": "park", "coords": [24.52613, 58.377019]}, {"name": "Mõrra park", "text": "Közhasználatú zöldterület Pärnuban.", "category": "park", "coords": [24.462875, 58.394332]}, {"name": "Vana-Pärnu metsapark", "text": "Vana-Pärnu erdei parkja, amely természetközeli élményt nyújt a város szélén.", "category": "park", "coords": [24.468478, 58.386027]}, {"name": "Ülejõe park", "text": "Nyilvános park Pärnu Ülejõe negyedében.", "category": "park", "coords": [24.4889, 58.398631]}, {"name": "Pilli park", "text": "Pihenésre alkalmas zöldterület Pärnu városában.", "category": "park", "coords": [24.523409, 58.38618]}, {"name": "Pärnu keskrand", "text": "A város legnépszerűbb homokos strandja a Pärnui-öbölben.", "category": "recreational", "coords": [24.495036, 58.373911]}, {"name": "Koidula muuseum", "text": "A Pärnu városában található Koidula muuseum Lydia Koidula észt költőnő irodalmi örökségét ápolja. A múzeum testközelből mutatja be a látogatóknak a szerző életét és legfontosabb műveit.", "category": "museum", "coords": [24.485011, 58.390809]}, {"name": "Seedri sihi alumine tulepaak", "text": "Jellegzetes jelzőfény, amely segíti a hajók kikötőbe jutását.", "category": "landmark", "coords": [24.480567, 58.378933]}, {"name": "Seedri sihi ülemine tulepaak", "text": "A pärnui biztonságos navigációt segítő iránymutató rendszer része.", "category": "landmark", "coords": [24.484683, 58.381583]}, {"name": "Vallikäär", "text": "Parkerdő Pärnu történelmi sáncainak területén.", "category": "park", "coords": [24.492808, 58.384822]}, {"name": "Pärnu Muuseum", "text": "A városi múzeum Pärnu történelmét mutatja be a kőkorszaktól napjainkig.", "category": "museum", "coords": [24.499343, 58.386791]}, {"name": "Sauga mõisahoone varemed", "text": "Egy történelmi udvarház maradványai Pärnu közelében.", "category": "historical", "coords": [24.460584, 58.402269]}, {"name": "Blue entrance I", "text": "Modern emlékmű Pärnuban, a bejárati installáció-sorozat része.", "category": "historical", "coords": [24.500212, 58.404446]}, {"name": "Green entrance II", "text": "Kortárs emlékmű Pärnuban.", "category": "historical", "coords": [24.501272, 58.40394]}, {"name": "Red entrance I", "text": "Modern emlékmű Pärnuban.", "category": "historical", "coords": [24.502829, 58.403196]}, {"name": "Pärnu idamuuli tulepaak", "text": "Világítótorony Pärnu keleti mólóján.", "category": "landmark", "coords": [24.464208, 58.366301]}, {"name": "Pärnu sihi ülemine tulepaak", "text": "Navigációs pont a pärnui hajóforgalom számára.", "category": "landmark", "coords": [24.4714, 58.385617]}, {"name": "Silla sihi alumine tulepaak", "text": "A pärnui folyó menti navigációs fények egyike.", "category": "landmark", "coords": [24.486617, 58.389333]}, {"name": "Silla sihi ülemine tulepaak", "text": "A hajózást segítő jelzőfény.", "category": "landmark", "coords": [24.488333, 58.39115]}, {"name": "Pärnu sihi alumine tulepaak", "text": "Navigációs fény a pärnui kikötő bejáratánál.", "category": "landmark", "coords": [24.465683, 58.378867]}, {"name": "Pärnu läänemuuli tulepaak", "text": "Világítótorony a pärnui strand nyugati mólóján.", "category": "landmark", "coords": [24.461633, 58.368617]}, {"name": "sepikoda", "text": "Hagyományos kovácsműhely, amely a kézműves mesterséget mutatja be.", "category": "landmark", "coords": [24.493478, 58.386519]}, {"name": "Armastan Pärnu", "text": "Helyi látnivaló Pärnuban.", "category": "landmark", "coords": [24.491439, 58.383557]}, {"name": "Pärnu muul", "text": "Hosszú kőmóló, amely hosszan benyúlik a Pärnui-öbölbe.", "category": "landmark", "coords": [24.472035, 58.372317]}, {"name": "Linnuvaatlustorn", "text": "Torony a tengerparti rétek változatos madárvilágának megfigyelésére.", "category": "natural", "coords": [24.470253, 58.375251]}, {"name": "Papiniidu matkaraja vaatetorn", "text": "Kilátótorony a Papiniidu túraútvonal mentén.", "category": "natural", "coords": [24.512046, 58.371153]}, {"name": "Türgi paisjärv", "text": "A Türgi paisjärv egy tó Paernuban, amely nyugodt helyszínt biztosít egy sétához.", "category": "natural", "coords": [24.616731, 58.376793]}, {"name": "Pahkoja järv", "text": "A Pahkoja järv egy tó Paernuban, amely természeti és békés környezetével vonzza a látogatókat.", "category": "natural", "coords": [24.608938, 58.386876]}, {"name": "Batuudikeskus Up", "text": "A Batuudikeskus Up egy trambulinpark Paernuban, amely aktív szórakozást és akciót kínál az egész családnak.", "category": "family", "coords": [24.50268, 58.388032]}, {"name": "Excavator", "text": "Az Excavator egy játszótér Paernuban, ahol a gyerekek biztonságos környezetben játszhatnak és mozoghatnak.", "category": "family", "coords": [24.501186, 58.373604]}, {"name": "Lillelapse mängutuba", "text": "A Lillelapse mängutuba egy játszótér Paernuban, amelyet kifejezetten a kisebb gyermekek igényeihez alakítottak ki.", "category": "family", "coords": [24.509389, 58.405311]}], "ro": [{"name": "Munamägi", "text": "Un deal istoric și fost bastion în Pärnu, cu importanță arheologică.", "category": "historical", "coords": [24.496246, 58.382239]}, {"name": "Eesti Vabariigi väljakuulutamise mälestusmärk", "text": "Un monument în Pärnu ce comemorează declararea independenței Estoniei în 1918.", "category": "historical", "coords": [24.505762, 58.385117]}, {"name": "Endla Teater", "text": "Un teatru cu tradiție în Pärnu, cunoscut pentru importanța sa culturală.", "category": "cultural", "coords": [24.49665, 58.385269]}, {"name": "Elisabethi kirik", "text": "O biserică luterană barocă din secolul al XVIII-lea în Pärnu.", "category": "religious", "coords": [24.500057, 58.383707]}, {"name": "Pärnu Suurmärter Katariina kirik", "text": "O biserică ortodoxă rusă în stil baroc din Pärnu.", "category": "religious", "coords": [24.497814, 58.385245]}, {"name": "Pärnu Immaanueli baptistikoguduse palvela", "text": "O casă de rugăciune a comunității baptiste din Pärnu.", "category": "religious", "coords": [24.516746, 58.386153]}, {"name": "Pärnu adventkirik", "text": "Clădirea bisericii adventiste din Pärnu.", "category": "religious", "coords": [24.507676, 58.382871]}, {"name": "Pärnu Issandamuutmise kirik", "text": "O biserică ortodoxă din Pärnu, remarcabilă prin arhitectura sa.", "category": "religious", "coords": [24.505882, 58.383982]}, {"name": "Tallinna väravad", "text": "Singura poartă a orașului din secolul al XVII-lea care s-a păstrat în Pärnu.", "category": "landmark", "coords": [24.494833, 58.3836]}, {"name": "Punane torn", "text": "Un turn de apărare medieval și fostă închisoare, astăzi centru cultural în Pärnu.", "category": "landmark", "coords": [24.50279, 58.385042]}, {"name": "Kesklinna sild", "text": "Podul central peste râul Pärnu, care face legătura între cartierele orașului.", "category": "landmark", "coords": [24.495918, 58.389003]}, {"name": "Siimu sild", "text": "Un pod care traversează râul în Pärnu.", "category": "landmark", "coords": [24.481746, 58.388529]}, {"name": "Vaasa park", "text": "Un parc public în Pärnu pentru recreere în natură.", "category": "park", "coords": [24.496456, 58.386697]}, {"name": "Brackmanni park", "text": "Un parc orășenesc în Pärnu numit după primarul Oscar Brackmann.", "category": "park", "coords": [24.502354, 58.38283]}, {"name": "Koidula park", "text": "Un parc central în Pärnu, numit după poeta Lydia Koidula.", "category": "park", "coords": [24.503601, 58.383289]}, {"name": "Siinmaa park", "text": "O zonă verde amenajată în Pärnu.", "category": "park", "coords": [24.51813, 58.382279]}, {"name": "Noorteväljaku park", "text": "Un parc public în Pärnu pentru activități de recreere.", "category": "park", "coords": [24.493488, 58.392461]}, {"name": "Jakobsoni park", "text": "Un mic parc orășenesc în Pärnu.", "category": "park", "coords": [24.496853, 58.384131]}, {"name": "Rääma park", "text": "Un parc situat în districtul Rääma din Pärnu.", "category": "park", "coords": [24.512099, 58.393253]}, {"name": "Vabaduse park", "text": "O zonă verde în Pärnu ce oferă spațiu pentru liniște și relaxare.", "category": "park", "coords": [24.509538, 58.385623]}, {"name": "Steineri aed", "text": "O grădină istorică în centrul orașului Pärnu.", "category": "park", "coords": [24.500765, 58.385425]}, {"name": "Waldhofi park", "text": "Un parc în Pärnu situat pe locul fostei fabrici Waldhof.", "category": "park", "coords": [24.541126, 58.375094]}, {"name": "Annemõisa park", "text": "O zonă amenajată ca parc într-o parte mai liniștită a orașului Pärnu.", "category": "park", "coords": [24.536885, 58.378969]}, {"name": "Paju park", "text": "Un parc de cartier mai mic în Pärnu.", "category": "park", "coords": [24.52613, 58.377019]}, {"name": "Mõrra park", "text": "Un spațiu verde în Pärnu destinat uzului public.", "category": "park", "coords": [24.462875, 58.394332]}, {"name": "Vana-Pärnu metsapark", "text": "Un parc forestier în Vana-Pärnu, care oferă experiențe în natură la marginea orașului.", "category": "park", "coords": [24.468478, 58.386027]}, {"name": "Ülejõe park", "text": "Un parc public în cartierul Ülejõe din Pärnu.", "category": "park", "coords": [24.4889, 58.398631]}, {"name": "Pilli park", "text": "O zonă verde pentru recreere în orașul Pärnu.", "category": "park", "coords": [24.523409, 58.38618]}, {"name": "Pärnu keskrand", "text": "Cea mai populară plajă cu nisip a orașului la Golful Pärnu.", "category": "recreational", "coords": [24.495036, 58.373911]}, {"name": "Koidula muuseum", "text": "În Paernu, Koidula muuseum este dedicat moștenirii literare a poetei estoniene Lydia Koidula. Muzeul aduce în prim-plan viața și operele semnificative ale autoarei pentru vizitatori.", "category": "museum", "coords": [24.485011, 58.390809]}, {"name": "Seedri sihi alumine tulepaak", "text": "Un far distinctiv care ghidează navele spre port.", "category": "landmark", "coords": [24.480567, 58.378933]}, {"name": "Seedri sihi ülemine tulepaak", "text": "Parte a sistemului de lumini de direcție pentru navigația în siguranță din Pärnu.", "category": "landmark", "coords": [24.484683, 58.381583]}, {"name": "Vallikäär", "text": "O zonă de parc situată în perimetrul fortificațiilor istorice din Pärnu.", "category": "park", "coords": [24.492808, 58.384822]}, {"name": "Pärnu Muuseum", "text": "Muzeul orașului prezintă istoria locală din epoca pietrei până în prezent.", "category": "museum", "coords": [24.499343, 58.386791]}, {"name": "Sauga mõisahoone varemed", "text": "Ruinele unui conac istoric în apropiere de Pärnu.", "category": "historical", "coords": [24.460584, 58.402269]}, {"name": "Blue entrance I", "text": "Un monument modern în Pärnu, parte a unei serii de instalații de intrare.", "category": "historical", "coords": [24.500212, 58.404446]}, {"name": "Green entrance II", "text": "Un monument contemporan în Pärnu.", "category": "historical", "coords": [24.501272, 58.40394]}, {"name": "Red entrance I", "text": "Un monument modern în Pärnu.", "category": "historical", "coords": [24.502829, 58.403196]}, {"name": "Pärnu idamuuli tulepaak", "text": "Un far situat pe digul de est din Pärnu.", "category": "landmark", "coords": [24.464208, 58.366301]}, {"name": "Pärnu sihi ülemine tulepaak", "text": "Un punct de navigație pentru traficul maritim din Pärnu.", "category": "landmark", "coords": [24.4714, 58.385617]}, {"name": "Silla sihi alumine tulepaak", "text": "Parte a luminilor de navigație de-a lungul râului din Pärnu.", "category": "landmark", "coords": [24.486617, 58.389333]}, {"name": "Silla sihi ülemine tulepaak", "text": "Un far de ajutor pentru navigație.", "category": "landmark", "coords": [24.488333, 58.39115]}, {"name": "Pärnu sihi alumine tulepaak", "text": "O lumină de navigație la intrarea în portul Pärnu.", "category": "landmark", "coords": [24.465683, 58.378867]}, {"name": "Pärnu läänemuuli tulepaak", "text": "Farul de pe digul de vest de la plaja din Pärnu.", "category": "landmark", "coords": [24.461633, 58.368617]}, {"name": "sepikoda", "text": "Un atelier tradițional de fierărie care prezintă măiestria artizanală.", "category": "landmark", "coords": [24.493478, 58.386519]}, {"name": "Armastan Pärnu", "text": "O atracție locală în Pärnu.", "category": "landmark", "coords": [24.491439, 58.383557]}, {"name": "Pärnu muul", "text": "Un dig lung de piatră care se întinde mult în Golful Pärnu.", "category": "landmark", "coords": [24.472035, 58.372317]}, {"name": "Linnuvaatlustorn", "text": "Un turn pentru observarea avifaunei diverse din pajiștile de coastă.", "category": "natural", "coords": [24.470253, 58.375251]}, {"name": "Papiniidu matkaraja vaatetorn", "text": "Un turn de observare de-a lungul traseului de drumeție Papiniidu.", "category": "natural", "coords": [24.512046, 58.371153]}, {"name": "Türgi paisjärv", "text": "Türgi paisjärv este un lac în Paernu, oferind un loc liniștit pentru o plimbare.", "category": "natural", "coords": [24.616731, 58.376793]}, {"name": "Pahkoja järv", "text": "Pahkoja järv este un lac în Paernu, atrăgând vizitatorii prin mediul său natural și pașnic.", "category": "natural", "coords": [24.608938, 58.386876]}, {"name": "Batuudikeskus Up", "text": "Batuudikeskus Up este un parc de trambuline în Paernu, oferind distracție activă și acțiune pentru întreaga familie.", "category": "family", "coords": [24.50268, 58.388032]}, {"name": "Excavator", "text": "Excavator este un teren de joacă în Paernu, unde copiii se pot juca și alerga într-un mediu sigur.", "category": "family", "coords": [24.501186, 58.373604]}, {"name": "Lillelapse mängutuba", "text": "Lillelapse mängutuba este un teren de joacă în Paernu, special conceput pentru nevoile copiilor mai mici.", "category": "family", "coords": [24.509389, 58.405311]}], "en": [{"name": "Munamägi", "text": "A historic hill and former bastion in Pärnu with archaeological significance.", "category": "historical", "coords": [24.496246, 58.382239]}, {"name": "Monument to declaring the independence of the Republic of Estonia", "text": "A monument in Pärnu commemorating the declaration of Estonian independence in 1918.", "category": "historical", "coords": [24.505762, 58.385117]}, {"name": "Endla Teater", "text": "A professional theatre in Pärnu known for its long-standing cultural significance.", "category": "cultural", "coords": [24.49665, 58.385269]}, {"name": "Elisabethi kirik", "text": "An 18th-century Baroque Lutheran church in Pärnu.", "category": "religious", "coords": [24.500057, 58.383707]}, {"name": "Pärnu Suurmärter Katariina kirik", "text": "A grand Baroque Russian Orthodox church in Pärnu.", "category": "religious", "coords": [24.497814, 58.385245]}, {"name": "Pärnu Immaanueli baptistikoguduse palvela", "text": "A place of worship for the Baptist congregation in Pärnu.", "category": "religious", "coords": [24.516746, 58.386153]}, {"name": "Pärnu adventkirik", "text": "The church building of the Adventist congregation in Pärnu.", "category": "religious", "coords": [24.507676, 58.382871]}, {"name": "Pärnu Issandamuutmise kirik", "text": "An Orthodox church in Pärnu notable for its architecture.", "category": "religious", "coords": [24.505882, 58.383982]}, {"name": "Tallinn Gate", "text": "The only remaining 17th-century city gate in Pärnu.", "category": "landmark", "coords": [24.494833, 58.3836]}, {"name": "Punane torn", "text": "A medieval defense tower and former prison, now a cultural center in Pärnu.", "category": "landmark", "coords": [24.50279, 58.385042]}, {"name": "Kesklinna sild", "text": "The central bridge over the Pärnu River, connecting different parts of the city.", "category": "landmark", "coords": [24.495918, 58.389003]}, {"name": "Siimu sild", "text": "A bridge crossing the river in Pärnu.", "category": "landmark", "coords": [24.481746, 58.388529]}, {"name": "Vaasa park", "text": "A public park in Pärnu offering green space for relaxation.", "category": "park", "coords": [24.496456, 58.386697]}, {"name": "Brackmanni park", "text": "A city park in Pärnu named after Mayor Oscar Brackmann.", "category": "park", "coords": [24.502354, 58.38283]}, {"name": "Koidula park", "text": "A central park in Pärnu named after the poet Lydia Koidula.", "category": "park", "coords": [24.503601, 58.383289]}, {"name": "Siinmaa park", "text": "A well-maintained green area in Pärnu.", "category": "park", "coords": [24.51813, 58.382279]}, {"name": "Noorteväljaku park", "text": "A public park in Pärnu for leisure activities.", "category": "park", "coords": [24.493488, 58.392461]}, {"name": "Jakobsoni park", "text": "A small city park located in Pärnu.", "category": "park", "coords": [24.496853, 58.384131]}, {"name": "Rääma park", "text": "A park located in the Rääma district of Pärnu.", "category": "park", "coords": [24.512099, 58.393253]}, {"name": "Vabaduse park", "text": "A green space in Pärnu providing room for peace and relaxation.", "category": "park", "coords": [24.509538, 58.385623]}, {"name": "Steineri aed", "text": "A historic garden located in the center of Pärnu.", "category": "park", "coords": [24.500765, 58.385425]}, {"name": "Waldhofi park", "text": "A park in Pärnu situated on the site of the former Waldhof factory.", "category": "park", "coords": [24.541126, 58.375094]}, {"name": "Annemõisa park", "text": "A park-like area in a quieter part of Pärnu.", "category": "park", "coords": [24.536885, 58.378969]}, {"name": "Paju park", "text": "A smaller neighborhood park in Pärnu.", "category": "park", "coords": [24.52613, 58.377019]}, {"name": "Mõrra park", "text": "A green space in Pärnu for public use.", "category": "park", "coords": [24.462875, 58.394332]}, {"name": "Vana-Pärnu metsapark", "text": "A forest park in Vana-Pärnu offering a natural escape at the edge of the city.", "category": "park", "coords": [24.468478, 58.386027]}, {"name": "Ülejõe park", "text": "A public park located in the Ülejõe district of Pärnu.", "category": "park", "coords": [24.4889, 58.398631]}, {"name": "Pilli park", "text": "A green area for recreation in the city of Pärnu.", "category": "park", "coords": [24.523409, 58.38618]}, {"name": "Pärnu keskrand", "text": "The city's most popular sandy beach on Pärnu Bay.", "category": "recreational", "coords": [24.495036, 58.373911]}, {"name": "Koidula museum", "text": "Located in Paernu, the Koidula muuseum is dedicated to the literary legacy of the Estonian poet Lydia Koidula. The museum introduces visitors to her life and her significant literary works.", "category": "museum", "coords": [24.485011, 58.390809]}, {"name": "Seedri sihi alumine tulepaak", "text": "A distinctive light beacon guiding ships into the harbor.", "category": "landmark", "coords": [24.480567, 58.378933]}, {"name": "Seedri sihi ülemine tulepaak", "text": "Part of the range light system for safe navigation in Pärnu.", "category": "landmark", "coords": [24.484683, 58.381583]}, {"name": "Vallikäär", "text": "A park area located in the historical ramparts of Pärnu.", "category": "park", "coords": [24.492808, 58.384822]}, {"name": "Pärnu Muuseum", "text": "The city museum presents local history from the Stone Age to the present day.", "category": "museum", "coords": [24.499343, 58.386791]}, {"name": "Sauga mõisahoone varemed", "text": "The remains of a historical manor house near Pärnu.", "category": "historical", "coords": [24.460584, 58.402269]}, {"name": "Blue entrance I", "text": "A modern monument in Pärnu, part of a series of entrance installations.", "category": "historical", "coords": [24.500212, 58.404446]}, {"name": "Green entrance II", "text": "A contemporary monument in Pärnu.", "category": "historical", "coords": [24.501272, 58.40394]}, {"name": "Red entrance I", "text": "A modern monument in Pärnu.", "category": "historical", "coords": [24.502829, 58.403196]}, {"name": "Pärnu idamuuli tulepaak", "text": "A light beacon located on the eastern mole of Pärnu.", "category": "landmark", "coords": [24.464208, 58.366301]}, {"name": "Pärnu sihi ülemine tulepaak", "text": "A navigation point for shipping traffic in Pärnu.", "category": "landmark", "coords": [24.4714, 58.385617]}, {"name": "Silla sihi alumine tulepaak", "text": "Part of the navigation lights along the river in Pärnu.", "category": "landmark", "coords": [24.486617, 58.389333]}, {"name": "Silla sihi ülemine tulepaak", "text": "A light beacon assisting navigation.", "category": "landmark", "coords": [24.488333, 58.39115]}, {"name": "Pärnu sihi alumine tulepaak", "text": "A navigation light at the entrance to the Pärnu harbor.", "category": "landmark", "coords": [24.465683, 58.378867]}, {"name": "Pärnu läänemuuli tulepaak", "text": "The light beacon on the western mole at Pärnu beach.", "category": "landmark", "coords": [24.461633, 58.368617]}, {"name": "sepikoda", "text": "A traditional blacksmith workshop showcasing craftsmanship.", "category": "landmark", "coords": [24.493478, 58.386519]}, {"name": "Armastan Pärnu", "text": "A local attraction in Pärnu.", "category": "landmark", "coords": [24.491439, 58.383557]}, {"name": "Mole of Pärnu", "text": "A long stone mole extending far into Pärnu Bay.", "category": "landmark", "coords": [24.472035, 58.372317]}, {"name": "Linnuvaatlustorn", "text": "A tower for observing the diverse birdlife in the coastal meadows.", "category": "natural", "coords": [24.470253, 58.375251]}, {"name": "Papiniidu matkaraja vaatetorn", "text": "An observation tower along the Papiniidu hiking trail.", "category": "natural", "coords": [24.512046, 58.371153]}, {"name": "Türgi paisjärv", "text": "Türgi paisjärv is a lake in Paernu, providing a quiet spot for a walk.", "category": "natural", "coords": [24.616731, 58.376793]}, {"name": "Pahkoja järv", "text": "Pahkoja järv is a lake in Paernu, attracting visitors with its natural and peaceful surroundings.", "category": "natural", "coords": [24.608938, 58.386876]}, {"name": "Batuudikeskus Up", "text": "Batuudikeskus Up is a trampoline park in Paernu, offering active fun and action for the whole family.", "category": "family", "coords": [24.50268, 58.388032]}, {"name": "Excavator", "text": "Excavator is a playground in Paernu, where children can play and run in a safe environment.", "category": "family", "coords": [24.501186, 58.373604]}, {"name": "Lillelapse mängutuba", "text": "Lillelapse mängutuba is a playground in Paernu, specifically designed for the needs of younger children.", "category": "family", "coords": [24.509389, 58.405311]}]},
     type: "city",
     parent: "ee-country",
     coords: [24.4971, 58.3859],
@@ -7724,1240 +6023,7 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-viljandi", "sights": {
-      "de": [
-            {
-                  "name": "Paala rand",
-                  "text": "Paala-Strand in Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.589093,
-                        58.371967
-                  ]
-            },
-            {
-                  "name": "Ordensburg Viljandi",
-                  "text": "Das Viljandi Castle zeigt die beeindruckenden Ruinen einer ehemaligen Festung des Livländischen Ordens in Viljandi.",
-                  "category": "castle",
-                  "coords": [
-                        25.595193,
-                        58.359003
-                  ]
-            },
-            {
-                  "name": "Ugala",
-                  "text": "Ugala ist ein bemerkenswertes Theater in Viljandi und als eines der ältesten professionellen Schauspielhäuser Estlands bekannt.",
-                  "category": "cultural",
-                  "coords": [
-                        25.587966,
-                        58.361982
-                  ]
-            },
-            {
-                  "name": "Viljandi maastikukaitseala",
-                  "text": "Ein Naturschutzgebiet in der Stadt Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602401,
-                        58.346373
-                  ]
-            },
-            {
-                  "name": "Kondase Keskus",
-                  "text": "Ein Museum für naive Kunst in Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.597445,
-                        58.361885
-                  ]
-            },
-            {
-                  "name": "Viljandi Muuseum",
-                  "text": "Ein Museum über die lokale Geschichte in Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.599663,
-                        58.363165
-                  ]
-            },
-            {
-                  "name": "Viljandi Kesklinna Kooli muuseum",
-                  "text": "Ein Schulmuseum in Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.608903,
-                        58.36637
-                  ]
-            },
-            {
-                  "name": "Kohvikteater",
-                  "text": "Ein Theater in der Stadt Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.576941,
-                        58.346101
-                  ]
-            },
-            {
-                  "name": "Viljandi Nukuteater",
-                  "text": "Ein Puppentheater in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.600705,
-                        58.365224
-                  ]
-            },
-            {
-                  "name": "Seasaare Rahvateatri Selts",
-                  "text": "Ein Volkstheater in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598645,
-                        58.363628
-                  ]
-            },
-            {
-                  "name": "Viljandi Strand",
-                  "text": "Ein Strand am See in Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.607826,
-                        58.360187
-                  ]
-            },
-            {
-                  "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Ein weiterer Strand am Viljandi-See.",
-                  "category": "recreational",
-                  "coords": [
-                        25.592801,
-                        58.353442
-                  ]
-            },
-            {
-                  "name": "Johan Laidoneri sünnikoht",
-                  "text": "Ein Denkmal und der Geburtsort von Johan Laidoner in Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.621568,
-                        58.345946
-                  ]
-            },
-            {
-                  "name": "Estnisch Traditionelles Musikzentrum",
-                  "text": "Ein Zentrum für traditionelle Musik in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.5961,
-                        58.361076
-                  ]
-            },
-            {
-                  "name": "Sakala Zentrum",
-                  "text": "Eine lokale Attraktion in der Stadt Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.596419,
-                        58.3655
-                  ]
-            },
-            {
-                  "name": "Viljandi rippsild",
-                  "text": "Eine Hängebrücke in der Stadt Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.593875,
-                        58.358983
-                  ]
-            },
-            {
-                  "name": "Viljandi mõisa peahoone",
-                  "text": "Das Hauptgebäude eines historischen Herrenhauses in Viljandi.",
-                  "category": "historical",
-                  "coords": [
-                        25.593732,
-                        58.362243
-                  ]
-            },
-            {
-                  "name": "Deutscher Soldaten Friedhof",
-                  "text": "Ein Park, in dem sich ein bekannter deutscher Soldatenfriedhof in Viljandi befindet.",
-                  "category": "park",
-                  "coords": [
-                        25.585819,
-                        58.359678
-                  ]
-            },
-            {
-                  "name": "Alter Wasserturm von Viljandi",
-                  "text": "Ein alter Wasserturm und eine Attraktion in Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.600792,
-                        58.362768
-                  ]
-            },
-            {
-                  "name": "Närska mägi",
-                  "text": "Ein Aussichtspunkt in der Stadt Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602478,
-                        58.35292
-                  ]
-            },
-            {
-                  "name": "Trepimägi",
-                  "text": "Eine lokale Attraktion in der Stadt Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.603207,
-                        58.362248
-                  ]
-            },
-            {
-                  "name": "Viljandi adventkirik",
-                  "text": "Eine Adventistenkirche in der Stadt Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.593019,
-                        58.369245
-                  ]
-            },
-            {
-                  "name": "Viljandi Ristija Johannese kirik",
-                  "text": "Eine estnisch-orthodoxe Kirche des Moskauer Patriarchats in Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.604851,
-                        58.36475
-                  ]
-            },
-            {
-                  "name": "Kösti vesiveski",
-                  "text": "Eine historische Wassermühle in Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.624339,
-                        58.366747
-                  ]
-            },
-            {
-                  "name": "Pärsti järv",
-                  "text": "Der Pärsti järv ist ein malerischer See bei Viljandi, der für seine ruhige und natürliche Umgebung bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        25.537,
-                        58.420505
-                  ]
-            },
-            {
-                  "name": "Karula järv",
-                  "text": "Der Karula järv ist ein friedlicher See in der Gegend von Viljandi und ein schöner Ort für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        25.600576,
-                        58.396946
-                  ]
-            },
-            {
-                  "name": "Sinialliku järv",
-                  "text": "Der Sinialliku järv ist ein malerischer See in Viljandi, der eine ruhige Umgebung für einen entspannten Besuch bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.555808,
-                        58.306634
-                  ]
-            },
-            {
-                  "name": "Rahetsema järv",
-                  "text": "Der Rahetsema järv ist ein ruhiger See bei Viljandi, ideal um die lokale Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        25.548715,
-                        58.29706
-                  ]
-            },
-            {
-                  "name": "Raudna tehisjärv",
-                  "text": "Der Raaudna tehisjärv ist ein künstlicher See in Viljandi, der ein angenehmes Areal zum Wandern und Entspannen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.473283,
-                        58.336241
-                  ]
-            },
-            {
-                  "name": "Kamaveski järv",
-                  "text": "Der Kamaveski järv ist ein kleiner und friedlicher See in Viljandi, der von einer Naturlandschaft umgeben ist.",
-                  "category": "natural",
-                  "coords": [
-                        25.552839,
-                        58.299975
-                  ]
-            },
-            {
-                  "name": "Kõlu järv",
-                  "text": "Der Kõlu järv ist ein ruhiger See in der Region Viljandi, der sich perfekt für ein stilles Naturerlebnis eignet.",
-                  "category": "natural",
-                  "coords": [
-                        25.6249,
-                        58.300736
-                  ]
-            },
-            {
-                  "name": "Alustre-Päärna veehoidla",
-                  "text": "Alustre-Päärna veehoidla ist ein Stausee in Viljandi, der eine friedliche Wasserkulisse bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.47181,
-                        58.369655
-                  ]
-            },
-            {
-                  "name": "Varesemäe tehisjärv",
-                  "text": "Der Varesemäe tehisjärv ist ein lokaler künstlicher See in Viljandi, ideal für einen entspannten Bummel.",
-                  "category": "natural",
-                  "coords": [
-                        25.684689,
-                        58.41496
-                  ]
-            },
-            {
-                  "name": "Kuuni järv",
-                  "text": "Der Kuuni järv ist ein malerischer See in der Gegend von Viljandi, der eine ruhige Flucht in die Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.542287,
-                        58.413343
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Paala rand",
-                  "text": "Paala strand Viljandiban.",
-                  "category": "recreational",
-                  "coords": [
-                        25.589093,
-                        58.371967
-                  ]
-            },
-            {
-                  "name": "Viljandi ordulinnus",
-                  "text": "A Viljandi Castle egy egykori livóniai lovagrendi erődítmény lenyűgöző romjait vonultatja fel Viljandiban.",
-                  "category": "castle",
-                  "coords": [
-                        25.595193,
-                        58.359003
-                  ]
-            },
-            {
-                  "name": "Ugala",
-                  "text": "Az Ugala egy neves színház Viljandiban, és Észtország egyik legrégebbi profi drámaszínházaként ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        25.587966,
-                        58.361982
-                  ]
-            },
-            {
-                  "name": "Viljandi maastikukaitseala",
-                  "text": "Egy természetvédelmi terület Viljandi városában.",
-                  "category": "natural",
-                  "coords": [
-                        25.602401,
-                        58.346373
-                  ]
-            },
-            {
-                  "name": "Kondase Keskus",
-                  "text": "Egy naiv művészeti múzeum Viljandi városában.",
-                  "category": "museum",
-                  "coords": [
-                        25.597445,
-                        58.361885
-                  ]
-            },
-            {
-                  "name": "Viljandi Muuseum",
-                  "text": "Egy helytörténeti múzeum Viljandi városában.",
-                  "category": "museum",
-                  "coords": [
-                        25.599663,
-                        58.363165
-                  ]
-            },
-            {
-                  "name": "Viljandi Kesklinna Kooli muuseum",
-                  "text": "Egy iskolamúzeum Viljandi városában.",
-                  "category": "museum",
-                  "coords": [
-                        25.608903,
-                        58.36637
-                  ]
-            },
-            {
-                  "name": "Kohvikteater",
-                  "text": "Egy színház Viljandi városában.",
-                  "category": "cultural",
-                  "coords": [
-                        25.576941,
-                        58.346101
-                  ]
-            },
-            {
-                  "name": "Viljandi Nukuteater",
-                  "text": "Egy bábszínház Viljandi városában.",
-                  "category": "cultural",
-                  "coords": [
-                        25.600705,
-                        58.365224
-                  ]
-            },
-            {
-                  "name": "Seasaare Rahvateatri Selts",
-                  "text": "Egy népszínház Viljandi városában.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598645,
-                        58.363628
-                  ]
-            },
-            {
-                  "name": "Viljandi rand",
-                  "text": "Egy tóparti strand Viljandi városában.",
-                  "category": "recreational",
-                  "coords": [
-                        25.607826,
-                        58.360187
-                  ]
-            },
-            {
-                  "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Egy másik strand a Viljandi-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        25.592801,
-                        58.353442
-                  ]
-            },
-            {
-                  "name": "Johan Laidoneri sünnikoht",
-                  "text": "Johan Laidoner szülőhelye és emlékműve Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.621568,
-                        58.345946
-                  ]
-            },
-            {
-                  "name": "Eesti Pärimusmuusika Keskus",
-                  "text": "Egy hagyományos zenei központ Viljandi városában.",
-                  "category": "cultural",
-                  "coords": [
-                        25.5961,
-                        58.361076
-                  ]
-            },
-            {
-                  "name": "Sakala Keskus",
-                  "text": "Egy helyi látványosság Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.596419,
-                        58.3655
-                  ]
-            },
-            {
-                  "name": "Viljandi rippsild",
-                  "text": "Egy nevezetes függőhíd Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.593875,
-                        58.358983
-                  ]
-            },
-            {
-                  "name": "Viljandi mõisa peahoone",
-                  "text": "Egy történelmi udvarház főépülete Viljandi városában.",
-                  "category": "historical",
-                  "coords": [
-                        25.593732,
-                        58.362243
-                  ]
-            },
-            {
-                  "name": "Saksa sõdurite kalmistu",
-                  "text": "Egy park, amely egy német katonai temetőt foglal magába Viljandi városában.",
-                  "category": "park",
-                  "coords": [
-                        25.585819,
-                        58.359678
-                  ]
-            },
-            {
-                  "name": "Viljandi vana veetorn",
-                  "text": "Egy régi víztorony és látványosság Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.600792,
-                        58.362768
-                  ]
-            },
-            {
-                  "name": "Närska mägi",
-                  "text": "Egy kilátóhely Viljandi városában.",
-                  "category": "natural",
-                  "coords": [
-                        25.602478,
-                        58.35292
-                  ]
-            },
-            {
-                  "name": "Trepimägi",
-                  "text": "Egy helyi látványosság Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.603207,
-                        58.362248
-                  ]
-            },
-            {
-                  "name": "Viljandi adventkirik",
-                  "text": "Egy adventista templom Viljandi városában.",
-                  "category": "religious",
-                  "coords": [
-                        25.593019,
-                        58.369245
-                  ]
-            },
-            {
-                  "name": "Viljandi Ristija Johannese kirik",
-                  "text": "A Moszkvai Patriarchátus észt ortodox temploma Viljandi városában.",
-                  "category": "religious",
-                  "coords": [
-                        25.604851,
-                        58.36475
-                  ]
-            },
-            {
-                  "name": "Kösti vesiveski",
-                  "text": "Egy történelmi vízimalom Viljandi városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.624339,
-                        58.366747
-                  ]
-            },
-            {
-                  "name": "Pärsti järv",
-                  "text": "A Viljandi közelében található Pärsti järv egy festői tó, amely nyugodt és természetes környezetéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        25.537,
-                        58.420505
-                  ]
-            },
-            {
-                  "name": "Karula järv",
-                  "text": "A Karula järv egy békés tó Viljandi környékén, amely gyönyörű helyet kínál a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        25.600576,
-                        58.396946
-                  ]
-            },
-            {
-                  "name": "Sinialliku järv",
-                  "text": "A Sinialliku järv egy festői tó Viljandiban, amely nyugodt környezetet biztosít egy pihentető látogatáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        25.555808,
-                        58.306634
-                  ]
-            },
-            {
-                  "name": "Rahetsema järv",
-                  "text": "A Rahetsema järv egy csendes tó Viljandi közelében, amely ideális a helyi táj élvezetére.",
-                  "category": "natural",
-                  "coords": [
-                        25.548715,
-                        58.29706
-                  ]
-            },
-            {
-                  "name": "Raudna tehisjärv",
-                  "text": "A Raudna tehisjärv egy mesterséges tó Viljandiban, amely kellemes területet kínál sétához és kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        25.473283,
-                        58.336241
-                  ]
-            },
-            {
-                  "name": "Kamaveski järv",
-                  "text": "A Kamaveski järv egy kicsi és békés tó Viljandiban, természetes tájjal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        25.552839,
-                        58.299975
-                  ]
-            },
-            {
-                  "name": "Kõlu järv",
-                  "text": "A Kõlu järv egy nyugodt tó Viljandi régiójában, amely tökéletes egy csendes szabadtéri élményhez.",
-                  "category": "natural",
-                  "coords": [
-                        25.6249,
-                        58.300736
-                  ]
-            },
-            {
-                  "name": "Alustre-Päärna veehoidla",
-                  "text": "Az Alustre-Päärna veehoidla egy víztározó Viljandiban, amely nyugodt vízi környezetet biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        25.47181,
-                        58.369655
-                  ]
-            },
-            {
-                  "name": "Varesemäe tehisjärv",
-                  "text": "A Varesemäe tehisjärv egy helyi mesterséges tó Viljandiban, amely ideális egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        25.684689,
-                        58.41496
-                  ]
-            },
-            {
-                  "name": "Kuuni järv",
-                  "text": "A Kuuni järv egy festői tó Viljandi környékén, amely csendes menekülést kínál a természetbe.",
-                  "category": "natural",
-                  "coords": [
-                        25.542287,
-                        58.413343
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Paala rand",
-                  "text": "Plaja Paala în Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.589093,
-                        58.371967
-                  ]
-            },
-            {
-                  "name": "Viljandi ordulinnus",
-                  "text": "Viljandi Castle prezintă ruinele impresionante ale unei foste fortărețe a Ordinului Livonian situate în Viljandi.",
-                  "category": "castle",
-                  "coords": [
-                        25.595193,
-                        58.359003
-                  ]
-            },
-            {
-                  "name": "Ugala",
-                  "text": "Ugala este un teatru notabil din Viljandi, cunoscut drept unul dintre cele mai vechi teatre dramatice profesioniste din Estonia.",
-                  "category": "cultural",
-                  "coords": [
-                        25.587966,
-                        58.361982
-                  ]
-            },
-            {
-                  "name": "Viljandi maastikukaitseala",
-                  "text": "O rezervație naturală în orașul Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602401,
-                        58.346373
-                  ]
-            },
-            {
-                  "name": "Kondase Keskus",
-                  "text": "Un muzeu de artă naivă în Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.597445,
-                        58.361885
-                  ]
-            },
-            {
-                  "name": "Viljandi Muuseum",
-                  "text": "Un muzeu situat în orașul Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.599663,
-                        58.363165
-                  ]
-            },
-            {
-                  "name": "Viljandi Kesklinna Kooli muuseum",
-                  "text": "Un muzeu școlar în orașul Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.608903,
-                        58.36637
-                  ]
-            },
-            {
-                  "name": "Kohvikteater",
-                  "text": "Un teatru situat în orașul Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.576941,
-                        58.346101
-                  ]
-            },
-            {
-                  "name": "Viljandi Nukuteater",
-                  "text": "Un teatru de păpuși în orașul Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.600705,
-                        58.365224
-                  ]
-            },
-            {
-                  "name": "Seasaare Rahvateatri Selts",
-                  "text": "Un teatru popular în orașul Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598645,
-                        58.363628
-                  ]
-            },
-            {
-                  "name": "Viljandi rand",
-                  "text": "O plajă pe malul lacului în Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.607826,
-                        58.360187
-                  ]
-            },
-            {
-                  "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "O plajă situată pe malul lacului Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.592801,
-                        58.353442
-                  ]
-            },
-            {
-                  "name": "Johan Laidoneri sünnikoht",
-                  "text": "Locul de naștere și monumentul lui Johan Laidoner în Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.621568,
-                        58.345946
-                  ]
-            },
-            {
-                  "name": "Eesti Pärimusmuusika Keskus",
-                  "text": "Un centru de muzică tradițională în Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.5961,
-                        58.361076
-                  ]
-            },
-            {
-                  "name": "Sakala Keskus",
-                  "text": "O atracție locală în orașul Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.596419,
-                        58.3655
-                  ]
-            },
-            {
-                  "name": "Viljandi rippsild",
-                  "text": "Un pod suspendat notabil din orașul Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.593875,
-                        58.358983
-                  ]
-            },
-            {
-                  "name": "Viljandi mõisa peahoone",
-                  "text": "Clădirea principală a unui conac istoric din Viljandi.",
-                  "category": "historical",
-                  "coords": [
-                        25.593732,
-                        58.362243
-                  ]
-            },
-            {
-                  "name": "Saksa sõdurite kalmistu",
-                  "text": "Un parc care găzduiește un cimitir militar german în Viljandi.",
-                  "category": "park",
-                  "coords": [
-                        25.585819,
-                        58.359678
-                  ]
-            },
-            {
-                  "name": "Viljandi vana veetorn",
-                  "text": "Un vechi turn de apă și o atracție în orașul Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.600792,
-                        58.362768
-                  ]
-            },
-            {
-                  "name": "Närska mägi",
-                  "text": "Un punct de belvedere în orașul Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602478,
-                        58.35292
-                  ]
-            },
-            {
-                  "name": "Trepimägi",
-                  "text": "O atracție locală din orașul Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.603207,
-                        58.362248
-                  ]
-            },
-            {
-                  "name": "Viljandi adventkirik",
-                  "text": "O biserică adventistă notabilă în orașul Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.593019,
-                        58.369245
-                  ]
-            },
-            {
-                  "name": "Viljandi Ristija Johannese kirik",
-                  "text": "O biserică ortodoxă estonă a Patriarhiei Moscovei din Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.604851,
-                        58.36475
-                  ]
-            },
-            {
-                  "name": "Kösti vesiveski",
-                  "text": "O moară de apă de patrimoniu în Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.624339,
-                        58.366747
-                  ]
-            },
-            {
-                  "name": "Pärsti järv",
-                  "text": "Pärsti järv este un lac pitoresc de lângă Viljandi, cunoscut pentru împrejurimile sale liniștite și naturale.",
-                  "category": "natural",
-                  "coords": [
-                        25.537,
-                        58.420505
-                  ]
-            },
-            {
-                  "name": "Karula järv",
-                  "text": "Karula järv este un lac liniștit din zona Viljandi, oferind un loc frumos pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        25.600576,
-                        58.396946
-                  ]
-            },
-            {
-                  "name": "Sinialliku järv",
-                  "text": "Sinialliku järv este un lac pitoresc din Viljandi, oferind un mediu calm pentru o vizită relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        25.555808,
-                        58.306634
-                  ]
-            },
-            {
-                  "name": "Rahetsema järv",
-                  "text": "Rahetsema järv este un lac liniștit de lângă Viljandi, ideal pentru a vă bucura de peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        25.548715,
-                        58.29706
-                  ]
-            },
-            {
-                  "name": "Raudna tehisjärv",
-                  "text": "Raudna tehisjärv este un lac artificial din Viljandi, care oferă o zonă plăcută pentru plimbare și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        25.473283,
-                        58.336241
-                  ]
-            },
-            {
-                  "name": "Kamaveski järv",
-                  "text": "Kamaveski järv este un lac mic și liniștit din Viljandi, înconjurat de un peisaj natural.",
-                  "category": "natural",
-                  "coords": [
-                        25.552839,
-                        58.299975
-                  ]
-            },
-            {
-                  "name": "Kõlu järv",
-                  "text": "Kõlu järv este un lac liniștit situat în regiunea Viljandi, perfect pentru o experiență liniștită în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        25.6249,
-                        58.300736
-                  ]
-            },
-            {
-                  "name": "Alustre-Päärna veehoidla",
-                  "text": "Alustre-Päärna veehoidla este un rezervor din Viljandi, oferind un cadru acvatic liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        25.47181,
-                        58.369655
-                  ]
-            },
-            {
-                  "name": "Varesemäe tehisjärv",
-                  "text": "Varesemäe tehisjärv este un lac artificial local din Viljandi, ideal pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        25.684689,
-                        58.41496
-                  ]
-            },
-            {
-                  "name": "Kuuni järv",
-                  "text": "Kuuni järv este un lac pitoresc din zona Viljandi, oferind o evadare liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        25.542287,
-                        58.413343
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Paala rand",
-                  "text": "Paala beach in Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.589093,
-                        58.371967
-                  ]
-            },
-            {
-                  "name": "Viljandi Castle",
-                  "text": "Viljandi Castle features the impressive ruins of a former Livonian Order stronghold situated in Viljandi.",
-                  "category": "castle",
-                  "coords": [
-                        25.595193,
-                        58.359003
-                  ]
-            },
-            {
-                  "name": "Ugala",
-                  "text": "Ugala is a notable theatre in Viljandi and is known as one of Estonia's oldest professional drama theatres.",
-                  "category": "cultural",
-                  "coords": [
-                        25.587966,
-                        58.361982
-                  ]
-            },
-            {
-                  "name": "Viljandi maastikukaitseala",
-                  "text": "A nature reserve located in the city of Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602401,
-                        58.346373
-                  ]
-            },
-            {
-                  "name": "Kondas centre of naive art",
-                  "text": "A museum dedicated to naive art in Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.597445,
-                        58.361885
-                  ]
-            },
-            {
-                  "name": "Viljandi Museum",
-                  "text": "A local museum situated in the city of Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.599663,
-                        58.363165
-                  ]
-            },
-            {
-                  "name": "Viljandi Kesklinna Kooli muuseum",
-                  "text": "A school museum located in Viljandi.",
-                  "category": "museum",
-                  "coords": [
-                        25.608903,
-                        58.36637
-                  ]
-            },
-            {
-                  "name": "Kohvikteater",
-                  "text": "A theatre located in the city of Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.576941,
-                        58.346101
-                  ]
-            },
-            {
-                  "name": "Viljandi Nukuteater",
-                  "text": "A puppet theatre located in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.600705,
-                        58.365224
-                  ]
-            },
-            {
-                  "name": "Seasaare Rahvateatri Selts",
-                  "text": "A folk theatre located in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598645,
-                        58.363628
-                  ]
-            },
-            {
-                  "name": "Lake Viljandi Beach",
-                  "text": "A lake beach located in the city of Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.607826,
-                        58.360187
-                  ]
-            },
-            {
-                  "name": "Viljandi Lake's Huntaugu beach",
-                  "text": "Another beach on the shores of Lake Viljandi.",
-                  "category": "recreational",
-                  "coords": [
-                        25.592801,
-                        58.353442
-                  ]
-            },
-            {
-                  "name": "Johan Laidoneri sünnikoht",
-                  "text": "The birthplace and monument of Johan Laidoner in Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.621568,
-                        58.345946
-                  ]
-            },
-            {
-                  "name": "Estonian Traditional Music Center",
-                  "text": "A traditional music center located in Viljandi.",
-                  "category": "cultural",
-                  "coords": [
-                        25.5961,
-                        58.361076
-                  ]
-            },
-            {
-                  "name": "Sakala Keskus",
-                  "text": "A local attraction in the city of Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.596419,
-                        58.3655
-                  ]
-            },
-            {
-                  "name": "Viljandi rippsild",
-                  "text": "A notable suspension bridge located in the city of Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.593875,
-                        58.358983
-                  ]
-            },
-            {
-                  "name": "Viljandi mõisa peahoone",
-                  "text": "The main building of a historic manor in Viljandi.",
-                  "category": "historical",
-                  "coords": [
-                        25.593732,
-                        58.362243
-                  ]
-            },
-            {
-                  "name": "German soldiers cemetery",
-                  "text": "A park encompassing a recognized German military cemetery in Viljandi.",
-                  "category": "park",
-                  "coords": [
-                        25.585819,
-                        58.359678
-                  ]
-            },
-            {
-                  "name": "Viljandi Old Water Tower",
-                  "text": "An old water tower and attraction in the city of Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.600792,
-                        58.362768
-                  ]
-            },
-            {
-                  "name": "Närska mägi",
-                  "text": "A scenic viewpoint located in the city of Viljandi.",
-                  "category": "natural",
-                  "coords": [
-                        25.602478,
-                        58.35292
-                  ]
-            },
-            {
-                  "name": "Trepimägi",
-                  "text": "A local attraction in the city of Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.603207,
-                        58.362248
-                  ]
-            },
-            {
-                  "name": "Viljandi adventkirik",
-                  "text": "An Adventist church located in the city of Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.593019,
-                        58.369245
-                  ]
-            },
-            {
-                  "name": "Estonian Orthodox Church Viljandi of Moscow Patriarchate",
-                  "text": "An Estonian Orthodox church of the Moscow Patriarchate in Viljandi.",
-                  "category": "religious",
-                  "coords": [
-                        25.604851,
-                        58.36475
-                  ]
-            },
-            {
-                  "name": "Kösti vesiveski",
-                  "text": "A heritage watermill located in the city of Viljandi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.624339,
-                        58.366747
-                  ]
-            },
-            {
-                  "name": "Pärsti järv",
-                  "text": "Pärsti järv is a scenic lake near Viljandi, known for its tranquil and natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        25.537,
-                        58.420505
-                  ]
-            },
-            {
-                  "name": "Karula järv",
-                  "text": "Karula järv is a peaceful lake in the Viljandi area, offering a beautiful spot for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        25.600576,
-                        58.396946
-                  ]
-            },
-            {
-                  "name": "Sinialliku järv",
-                  "text": "Sinialliku järv is a scenic lake in Viljandi, providing a calm environment for a relaxing visit.",
-                  "category": "natural",
-                  "coords": [
-                        25.555808,
-                        58.306634
-                  ]
-            },
-            {
-                  "name": "Rahetsema järv",
-                  "text": "Rahetsema järv is a quiet lake near Viljandi, ideal for enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        25.548715,
-                        58.29706
-                  ]
-            },
-            {
-                  "name": "Raudna tehisjärv",
-                  "text": "Raudna tehisjärv is an artificial lake in Viljandi, offering a pleasant area for walking and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        25.473283,
-                        58.336241
-                  ]
-            },
-            {
-                  "name": "Kamaveski järv",
-                  "text": "Kamaveski järv is a small and peaceful lake in Viljandi, surrounded by a natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        25.552839,
-                        58.299975
-                  ]
-            },
-            {
-                  "name": "Kõlu järv",
-                  "text": "Kõlu järv is a calm lake located in the Viljandi region, perfect for a quiet outdoor experience.",
-                  "category": "natural",
-                  "coords": [
-                        25.6249,
-                        58.300736
-                  ]
-            },
-            {
-                  "name": "Alustre-Päärna veehoidla",
-                  "text": "Alustre-Päärna veehoidla is a reservoir in Viljandi, providing a peaceful water setting.",
-                  "category": "natural",
-                  "coords": [
-                        25.47181,
-                        58.369655
-                  ]
-            },
-            {
-                  "name": "Varesemäe tehisjärv",
-                  "text": "Varesemäe tehisjärv is a local artificial lake in Viljandi, ideal for a relaxing stroll.",
-                  "category": "natural",
-                  "coords": [
-                        25.684689,
-                        58.41496
-                  ]
-            },
-            {
-                  "name": "Kuuni järv",
-                  "text": "Kuuni järv is a scenic lake in the Viljandi area, offering a quiet escape into nature.",
-                  "category": "natural",
-                  "coords": [
-                        25.542287,
-                        58.413343
-                  ]
-            }
-      ]
-},
+    id: "city-viljandi", "sights": {"de": [{"name": "Paala rand", "text": "Paala-Strand in Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Ordensburg Viljandi", "text": "Das Viljandi Castle zeigt die beeindruckenden Ruinen einer ehemaligen Festung des Livländischen Ordens in Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala ist ein bemerkenswertes Theater in Viljandi und als eines der ältesten professionellen Schauspielhäuser Estlands bekannt.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "Ein Naturschutzgebiet in der Stadt Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Ein Museum für naive Kunst in Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Ein Museum über die lokale Geschichte in Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Ein Schulmuseum in Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Ein Theater in der Stadt Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Ein Puppentheater in Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Ein Volkstheater in Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi Strand", "text": "Direkt am ruhigen Binnengewässer von Viljandi empfängt der Viljandi Strand seine Gäste mit einer gemütlichen Seeatmosphäre. Dieser malerische Sandstrand in Estland eignet sich besonders gut für entspannte Familientage und erholsame Badeausflüge im Grünen. Wer im Sommer eine Abkühlung fernab der Küste sucht, findet hier einen idyllischen und leicht erreichbaren Erholungsort.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "Ein weiterer Strand am Viljandi-See.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Ein Denkmal und der Geburtsort von Johan Laidoner in Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Estnisch Traditionelles Musikzentrum", "text": "Ein Zentrum für traditionelle Musik in Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Zentrum", "text": "Eine lokale Attraktion in der Stadt Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Eine Hängebrücke in der Stadt Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Das Hauptgebäude eines historischen Herrenhauses in Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Deutscher Soldaten Friedhof", "text": "Ein Park, in dem sich ein bekannter deutscher Soldatenfriedhof in Viljandi befindet.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Alter Wasserturm von Viljandi", "text": "Ein alter Wasserturm und eine Attraktion in Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Ein Aussichtspunkt in der Stadt Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "Eine lokale Attraktion in der Stadt Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "Eine Adventistenkirche in der Stadt Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "Eine estnisch-orthodoxe Kirche des Moskauer Patriarchats in Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "Eine historische Wassermühle in Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Der Pärsti järv ist ein malerischer See bei Viljandi, der für seine ruhige und natürliche Umgebung bekannt ist.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Der Karula järv ist ein friedlicher See in der Gegend von Viljandi und ein schöner Ort für Naturliebhaber.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Der Sinialliku järv ist ein malerischer See in Viljandi, der eine ruhige Umgebung für einen entspannten Besuch bietet.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Der Rahetsema järv ist ein ruhiger See bei Viljandi, ideal um die lokale Landschaft zu genießen.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Der Raaudna tehisjärv ist ein künstlicher See in Viljandi, der ein angenehmes Areal zum Wandern und Entspannen bietet.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Der Kamaveski järv ist ein kleiner und friedlicher See in Viljandi, der von einer Naturlandschaft umgeben ist.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Der Kõlu järv ist ein ruhiger See in der Region Viljandi, der sich perfekt für ein stilles Naturerlebnis eignet.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla ist ein Stausee in Viljandi, der eine friedliche Wasserkulisse bietet.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Der Varesemäe tehisjärv ist ein lokaler künstlicher See in Viljandi, ideal für einen entspannten Bummel.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Der Kuuni järv ist ein malerischer See in der Gegend von Viljandi, der eine ruhige Flucht in die Natur bietet.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Diese Badezone am Karula-See bietet einen natürlichen Rahmen zum Schwimmen und Entspannen.", "category": "family", "coords": [25.601123, 58.398963]}], "hu": [{"name": "Paala rand", "text": "Paala strand Viljandiban.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi ordulinnus", "text": "A Viljandi Castle egy egykori livóniai lovagrendi erődítmény lenyűgöző romjait vonultatja fel Viljandiban.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Az Ugala egy neves színház Viljandiban, és Észtország egyik legrégebbi profi drámaszínházaként ismert.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "Egy természetvédelmi terület Viljandi városában.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Egy naiv művészeti múzeum Viljandi városában.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Egy helytörténeti múzeum Viljandi városában.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Egy iskolamúzeum Viljandi városában.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Egy színház Viljandi városában.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Egy bábszínház Viljandi városában.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Egy népszínház Viljandi városában.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi rand", "text": "Közvetlenül Viljandi csendes tavának partján várja vendégeit a Viljandi Strand, amely kellemes, tóparti atmoszférával rendelkezik. Ez a festői észtországi homokos part különösen alkalmas pihentető családi napokhoz és zöld környezetben tett fürdőzésekhez. Aki a nyári hőségben a tengerparttól távol keres hűsölési lehetőséget, az itt egy idilli és könnyen megközelíthető menedékre lel.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "Egy másik strand a Viljandi-tó partján.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Johan Laidoner szülőhelye és emlékműve Viljandi városában.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Eesti Pärimusmuusika Keskus", "text": "Egy hagyományos zenei központ Viljandi városában.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "Egy helyi látványosság Viljandi városában.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Egy nevezetes függőhíd Viljandi városában.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Egy történelmi udvarház főépülete Viljandi városában.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Saksa sõdurite kalmistu", "text": "Egy park, amely egy német katonai temetőt foglal magába Viljandi városában.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi vana veetorn", "text": "Egy régi víztorony és látványosság Viljandi városában.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Egy kilátóhely Viljandi városában.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "Egy helyi látványosság Viljandi városában.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "Egy adventista templom Viljandi városában.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "A Moszkvai Patriarchátus észt ortodox temploma Viljandi városában.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "Egy történelmi vízimalom Viljandi városában.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "A Viljandi közelében található Pärsti järv egy festői tó, amely nyugodt és természetes környezetéről ismert.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "A Karula järv egy békés tó Viljandi környékén, amely gyönyörű helyet kínál a természet kedvelőinek.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "A Sinialliku järv egy festői tó Viljandiban, amely nyugodt környezetet biztosít egy pihentető látogatáshoz.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "A Rahetsema järv egy csendes tó Viljandi közelében, amely ideális a helyi táj élvezetére.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "A Raudna tehisjärv egy mesterséges tó Viljandiban, amely kellemes területet kínál sétához és kikapcsolódáshoz.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "A Kamaveski järv egy kicsi és békés tó Viljandiban, természetes tájjal körülvéve.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "A Kõlu järv egy nyugodt tó Viljandi régiójában, amely tökéletes egy csendes szabadtéri élményhez.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Az Alustre-Päärna veehoidla egy víztározó Viljandiban, amely nyugodt vízi környezetet biztosít.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "A Varesemäe tehisjärv egy helyi mesterséges tó Viljandiban, amely ideális egy pihentető sétához.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "A Kuuni järv egy festői tó Viljandi környékén, amely csendes menekülést kínál a természetbe.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Ez a Karula-tónál található fürdőhely természetes környezetet biztosít az úszáshoz és a pihenéshez.", "category": "family", "coords": [25.601123, 58.398963]}], "ro": [{"name": "Paala rand", "text": "Plaja Paala în Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi ordulinnus", "text": "Viljandi Castle prezintă ruinele impresionante ale unei foste fortărețe a Ordinului Livonian situate în Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala este un teatru notabil din Viljandi, cunoscut drept unul dintre cele mai vechi teatre dramatice profesioniste din Estonia.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "O rezervație naturală în orașul Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Un muzeu de artă naivă în Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Un muzeu situat în orașul Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Un muzeu școlar în orașul Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Un teatru situat în orașul Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Un teatru de păpuși în orașul Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Un teatru popular în orașul Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi rand", "text": "Direct pe malul lacului liniștit din Viljandi, Viljandi Strand își întâmpină oaspeții cu o atmosferă plăcută de apă dulce. Această plajă pitorească de nisip din Estonia este deosebit de potrivită pentru zile relaxante în familie și excursii de înot reconfortante în mijlocul naturii. Cei care caută o răcorire în timpul verii, departe de coastă, vor găsi aici un refugiu idilic și ușor accesibil.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "O plajă situată pe malul lacului Viljandi.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Locul de naștere și monumentul lui Johan Laidoner în Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Eesti Pärimusmuusika Keskus", "text": "Un centru de muzică tradițională în Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "O atracție locală în orașul Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Un pod suspendat notabil din orașul Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Clădirea principală a unui conac istoric din Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Saksa sõdurite kalmistu", "text": "Un parc care găzduiește un cimitir militar german în Viljandi.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi vana veetorn", "text": "Un vechi turn de apă și o atracție în orașul Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Un punct de belvedere în orașul Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "O atracție locală din orașul Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "O biserică adventistă notabilă în orașul Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "O biserică ortodoxă estonă a Patriarhiei Moscovei din Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "O moară de apă de patrimoniu în Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Pärsti järv este un lac pitoresc de lângă Viljandi, cunoscut pentru împrejurimile sale liniștite și naturale.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Karula järv este un lac liniștit din zona Viljandi, oferind un loc frumos pentru iubitorii de natură.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Sinialliku järv este un lac pitoresc din Viljandi, oferind un mediu calm pentru o vizită relaxantă.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Rahetsema järv este un lac liniștit de lângă Viljandi, ideal pentru a vă bucura de peisajul local.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Raudna tehisjärv este un lac artificial din Viljandi, care oferă o zonă plăcută pentru plimbare și relaxare.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Kamaveski järv este un lac mic și liniștit din Viljandi, înconjurat de un peisaj natural.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Kõlu järv este un lac liniștit situat în regiunea Viljandi, perfect pentru o experiență liniștită în aer liber.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla este un rezervor din Viljandi, oferind un cadru acvatic liniștit.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Varesemäe tehisjärv este un lac artificial local din Viljandi, ideal pentru o plimbare relaxantă.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Kuuni järv este un lac pitoresc din zona Viljandi, oferind o evadare liniștită în natură.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Această zonă de înot de pe lacul Karula oferă un cadru natural pentru înot și relaxare.", "category": "family", "coords": [25.601123, 58.398963]}], "en": [{"name": "Paala rand", "text": "Paala beach in Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi Castle", "text": "Viljandi Castle features the impressive ruins of a former Livonian Order stronghold situated in Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala is a notable theatre in Viljandi and is known as one of Estonia's oldest professional drama theatres.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "A nature reserve located in the city of Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondas centre of naive art", "text": "A museum dedicated to naive art in Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Museum", "text": "A local museum situated in the city of Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "A school museum located in Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "A theatre located in the city of Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "A puppet theatre located in Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "A folk theatre located in Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Lake Viljandi Beach", "text": "Located directly on the quiet lake waters of Viljandi, Viljandi Strand welcomes its guests with a cozy inland water atmosphere. This picturesque sandy beach in Estonia is particularly well-suited for relaxed family days and refreshing swimming excursions surrounded by greenery. Anyone seeking a cooldown away from the sea during summer will find an idyllic and easily accessible retreat right here.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi Lake's Huntaugu beach", "text": "Another beach on the shores of Lake Viljandi.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "The birthplace and monument of Johan Laidoner in Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Estonian Traditional Music Center", "text": "A traditional music center located in Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "A local attraction in the city of Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "A notable suspension bridge located in the city of Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "The main building of a historic manor in Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "German soldiers cemetery", "text": "A park encompassing a recognized German military cemetery in Viljandi.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi Old Water Tower", "text": "An old water tower and attraction in the city of Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "A scenic viewpoint located in the city of Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "A local attraction in the city of Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "An Adventist church located in the city of Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Estonian Orthodox Church Viljandi of Moscow Patriarchate", "text": "An Estonian Orthodox church of the Moscow Patriarchate in Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "A heritage watermill located in the city of Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Pärsti järv is a scenic lake near Viljandi, known for its tranquil and natural surroundings.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Karula järv is a peaceful lake in the Viljandi area, offering a beautiful spot for nature lovers.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Sinialliku järv is a scenic lake in Viljandi, providing a calm environment for a relaxing visit.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Rahetsema järv is a quiet lake near Viljandi, ideal for enjoying the local scenery.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Raudna tehisjärv is an artificial lake in Viljandi, offering a pleasant area for walking and relaxation.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Kamaveski järv is a small and peaceful lake in Viljandi, surrounded by a natural landscape.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Kõlu järv is a calm lake located in the Viljandi region, perfect for a quiet outdoor experience.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla is a reservoir in Viljandi, providing a peaceful water setting.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Varesemäe tehisjärv is a local artificial lake in Viljandi, ideal for a relaxing stroll.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Kuuni järv is a scenic lake in the Viljandi area, offering a quiet escape into nature.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "This swimming area at Lake Karula provides a natural setting for swimming and relaxation.", "category": "family", "coords": [25.601123, 58.398963]}]},
     type: "city",
     parent: "ee-country",
     coords: [25.5906, 58.3639],
@@ -9092,6 +6158,15 @@ export const estoniaCities: POI[] = [
                         25.554195,
                         58.885556
                   ]
+            },
+            {
+                  "name": "Paide ujumiskoht - lasterand",
+                  "text": "Familienfreundlicher Badeplatz in Paide mit flachem Wasser für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        25.583546,
+                        58.883311
+                  ]
             }
       ],
       "hu": [
@@ -9183,6 +6258,15 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.554195,
                         58.885556
+                  ]
+            },
+            {
+                  "name": "Paide ujumiskoht - lasterand",
+                  "text": "Családbarát fürdőhely Paide városában, sekély vízzel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        25.583546,
+                        58.883311
                   ]
             }
       ],
@@ -9276,6 +6360,15 @@ export const estoniaCities: POI[] = [
                         25.554195,
                         58.885556
                   ]
+            },
+            {
+                  "name": "Paide ujumiskoht - lasterand",
+                  "text": "Zonă de înot pentru familii în Paide, cu apă puțin adâncă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        25.583546,
+                        58.883311
+                  ]
             }
       ],
       "en": [
@@ -9367,6 +6460,15 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.554195,
                         58.885556
+                  ]
+            },
+            {
+                  "name": "Paide ujumiskoht - lasterand",
+                  "text": "Family-friendly swimming area in Paide with shallow water for children.",
+                  "category": "family",
+                  "coords": [
+                        25.583546,
+                        58.883311
                   ]
             }
       ]
@@ -9766,6 +6868,24 @@ export const estoniaCities: POI[] = [
                         27.139128,
                         57.851009
                   ]
+            },
+            {
+                  "name": "Kuninga turismitalu ujumiskoht",
+                  "text": "Kuninga turismitalu ujumiskoht in Voru bietet Bademöglichkeiten für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        26.9773,
+                        57.842423
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve idapoolne ujumiskoht",
+                  "text": "Kose Valgjärve idapoolne ujumiskoht in Voru ist ein Badebereich am Seeufer.",
+                  "category": "family",
+                  "coords": [
+                        27.040922,
+                        57.811674
+                  ]
             }
       ],
       "hu": [
@@ -10118,6 +7238,24 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         27.139128,
                         57.851009
+                  ]
+            },
+            {
+                  "name": "Kuninga turismitalu ujumiskoht",
+                  "text": "A Kuninga turismitalu ujumiskoht Võruban fürdőzési lehetőséget kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        26.9773,
+                        57.842423
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve idapoolne ujumiskoht",
+                  "text": "A Kose Valgjärve idapoolne ujumiskoht Võruban egy fürdőhely a tóparton.",
+                  "category": "family",
+                  "coords": [
+                        27.040922,
+                        57.811674
                   ]
             }
       ],
@@ -10472,6 +7610,24 @@ export const estoniaCities: POI[] = [
                         27.139128,
                         57.851009
                   ]
+            },
+            {
+                  "name": "Kuninga turismitalu ujumiskoht",
+                  "text": "Kuninga turismitalu ujumiskoht din Voru oferă facilități de scăldat pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        26.9773,
+                        57.842423
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve idapoolne ujumiskoht",
+                  "text": "Kose Valgjärve idapoolne ujumiskoht din Voru este o zonă de înot pe malul lacului.",
+                  "category": "family",
+                  "coords": [
+                        27.040922,
+                        57.811674
+                  ]
             }
       ],
       "en": [
@@ -10825,6 +7981,24 @@ export const estoniaCities: POI[] = [
                         27.139128,
                         57.851009
                   ]
+            },
+            {
+                  "name": "Kuninga turismitalu ujumiskoht",
+                  "text": "Kuninga turismitalu ujumiskoht in Voru offers bathing facilities for visitors.",
+                  "category": "family",
+                  "coords": [
+                        26.9773,
+                        57.842423
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve idapoolne ujumiskoht",
+                  "text": "Kose Valgjärve idapoolne ujumiskoht in Voru is a swimming area on the lakeshore.",
+                  "category": "family",
+                  "coords": [
+                        27.040922,
+                        57.811674
+                  ]
             }
       ]
 },
@@ -10971,6 +8145,15 @@ export const estoniaCities: POI[] = [
                         24.781694,
                         59.004488
                   ]
+            },
+            {
+                  "name": "Öökulli järve ujumiskoht",
+                  "text": "Diese Badezone am Öökulli-See ist ein malerischer Ort zum Schwimmen und zur Entspannung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        24.851867,
+                        58.981498
+                  ]
             }
       ],
       "hu": [
@@ -11071,6 +8254,15 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         24.781694,
                         59.004488
+                  ]
+            },
+            {
+                  "name": "Öökulli järve ujumiskoht",
+                  "text": "Ez az Öökulli-tónál található fürdőhely festői pont az úszáshoz és a szabadtéri pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        24.851867,
+                        58.981498
                   ]
             }
       ],
@@ -11173,6 +8365,15 @@ export const estoniaCities: POI[] = [
                         24.781694,
                         59.004488
                   ]
+            },
+            {
+                  "name": "Öökulli järve ujumiskoht",
+                  "text": "Această zonă de înot de pe lacul Öökulli este un loc pitoresc pentru înot și relaxare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.851867,
+                        58.981498
+                  ]
             }
       ],
       "en": [
@@ -11273,6 +8474,15 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         24.781694,
                         59.004488
+                  ]
+            },
+            {
+                  "name": "Öökulli järve ujumiskoht",
+                  "text": "This swimming area at Lake Öökulli is a scenic spot for swimming and outdoor relaxation.",
+                  "category": "family",
+                  "coords": [
+                        24.851867,
+                        58.981498
                   ]
             }
       ]
@@ -17149,6 +14359,15 @@ export const estoniaNature: POI[] = [
                         24.878695,
                         58.161856
                   ]
+            },
+            {
+                  "name": "Saarde paisjärve ujumiskoht",
+                  "text": "Diese Badezone am Saarde-Stausee bietet Platz für Wasseraktivitäten in Kilingi Nomme.",
+                  "category": "family",
+                  "coords": [
+                        24.970863,
+                        58.143529
+                  ]
             }
       ],
       "hu": [
@@ -17258,6 +14477,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.878695,
                         58.161856
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärve ujumiskoht",
+                  "text": "Ez a Saarde-víztározónál található fürdőhely vízi tevékenységekre kínál lehetőséget Kilingi Nomme-ban.",
+                  "category": "family",
+                  "coords": [
+                        24.970863,
+                        58.143529
                   ]
             }
       ],
@@ -17369,6 +14597,15 @@ export const estoniaNature: POI[] = [
                         24.878695,
                         58.161856
                   ]
+            },
+            {
+                  "name": "Saarde paisjärve ujumiskoht",
+                  "text": "Această zonă de înot de la rezervorul Saarde oferă spațiu pentru activități acvatice în Kilingi Nomme.",
+                  "category": "family",
+                  "coords": [
+                        24.970863,
+                        58.143529
+                  ]
             }
       ],
       "en": [
@@ -17478,6 +14715,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.878695,
                         58.161856
+                  ]
+            },
+            {
+                  "name": "Saarde paisjärve ujumiskoht",
+                  "text": "This swimming area at the Saarde reservoir offers space for water activities in Kilingi Nomme.",
+                  "category": "family",
+                  "coords": [
+                        24.970863,
+                        58.143529
                   ]
             }
       ]
@@ -19172,6 +16418,15 @@ export const estoniaNature: POI[] = [
                         25.540122,
                         58.084659
                   ]
+            },
+            {
+                  "name": "Ainja järve ujumiskoht",
+                  "text": "Schöner Badeplatz am Ainja-See für ein entspanntes Schwimmerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        25.603686,
+                        58.081524
+                  ]
             }
       ],
       "hu": [
@@ -19308,6 +16563,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.540122,
                         58.084659
+                  ]
+            },
+            {
+                  "name": "Ainja järve ujumiskoht",
+                  "text": "Szép fürdőhely az Ainja-tónál a pihentető úszás élményéért.",
+                  "category": "family",
+                  "coords": [
+                        25.603686,
+                        58.081524
                   ]
             }
       ],
@@ -19446,6 +16710,15 @@ export const estoniaNature: POI[] = [
                         25.540122,
                         58.084659
                   ]
+            },
+            {
+                  "name": "Ainja järve ujumiskoht",
+                  "text": "Zonă frumoasă de înot la lacul Ainja pentru o experiență de înot relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        25.603686,
+                        58.081524
+                  ]
             }
       ],
       "en": [
@@ -19583,6 +16856,15 @@ export const estoniaNature: POI[] = [
                         25.540122,
                         58.084659
                   ]
+            },
+            {
+                  "name": "Ainja järve ujumiskoht",
+                  "text": "Beautiful swimming area at Lake Ainja for a relaxed bathing experience.",
+                  "category": "family",
+                  "coords": [
+                        25.603686,
+                        58.081524
+                  ]
             }
       ]
 },
@@ -19671,6 +16953,33 @@ export const estoniaNature: POI[] = [
                         27.62981,
                         57.96029
                   ]
+            },
+            {
+                  "name": "Värska veekeskus",
+                  "text": "Värska veekeskus in Vaerska ist ein Spa für Entspannung und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.624079,
+                        57.982802
+                  ]
+            },
+            {
+                  "name": "Värska sanatooriumi ujumiskoht",
+                  "text": "Värska sanatooriumi ujumiskoht in Vaerska ist ein Badebereich für Besucher des Sanatoriums.",
+                  "category": "family",
+                  "coords": [
+                        27.618835,
+                        57.986281
+                  ]
+            },
+            {
+                  "name": "Hirvemäe puhkekeskuse ujumiskoht",
+                  "text": "Hirvemäe puhkekeskuse ujumiskoht in Vaerska bietet Bademöglichkeiten am Erholungszentrum.",
+                  "category": "family",
+                  "coords": [
+                        27.629058,
+                        57.95477
+                  ]
             }
       ],
       "hu": [
@@ -19708,6 +17017,33 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         27.62981,
                         57.96029
+                  ]
+            },
+            {
+                  "name": "Värska veekeskus",
+                  "text": "A Värska veekeskus Värskában egy gyógyfürdő a lazításhoz és wellnesshez.",
+                  "category": "family",
+                  "coords": [
+                        27.624079,
+                        57.982802
+                  ]
+            },
+            {
+                  "name": "Värska sanatooriumi ujumiskoht",
+                  "text": "A Värska sanatooriumi ujumiskoht Värskában a szanatórium látogatói számára kínál fürdőzést.",
+                  "category": "family",
+                  "coords": [
+                        27.618835,
+                        57.986281
+                  ]
+            },
+            {
+                  "name": "Hirvemäe puhkekeskuse ujumiskoht",
+                  "text": "A Hirvemäe puhkekeskuse ujumiskoht Värskában fürdőzési lehetőséget kínál az üdülőközpontnál.",
+                  "category": "family",
+                  "coords": [
+                        27.629058,
+                        57.95477
                   ]
             }
       ],
@@ -19747,6 +17083,33 @@ export const estoniaNature: POI[] = [
                         27.62981,
                         57.96029
                   ]
+            },
+            {
+                  "name": "Värska veekeskus",
+                  "text": "Värska veekeskus din Vaerska este un centru spa pentru relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.624079,
+                        57.982802
+                  ]
+            },
+            {
+                  "name": "Värska sanatooriumi ujumiskoht",
+                  "text": "Värska sanatooriumi ujumiskoht din Vaerska este o zonă de scăldat pentru vizitatorii sanatoriului.",
+                  "category": "family",
+                  "coords": [
+                        27.618835,
+                        57.986281
+                  ]
+            },
+            {
+                  "name": "Hirvemäe puhkekeskuse ujumiskoht",
+                  "text": "Hirvemäe puhkekeskuse ujumiskoht din Vaerska oferă facilități de scăldat la centrul de recreere.",
+                  "category": "family",
+                  "coords": [
+                        27.629058,
+                        57.95477
+                  ]
             }
       ],
       "en": [
@@ -19784,6 +17147,33 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         27.62981,
                         57.96029
+                  ]
+            },
+            {
+                  "name": "Värska veekeskus",
+                  "text": "Värska veekeskus in Vaerska is a spa for relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.624079,
+                        57.982802
+                  ]
+            },
+            {
+                  "name": "Värska sanatooriumi ujumiskoht",
+                  "text": "Värska sanatooriumi ujumiskoht in Vaerska is a swimming area for sanatorium visitors.",
+                  "category": "family",
+                  "coords": [
+                        27.618835,
+                        57.986281
+                  ]
+            },
+            {
+                  "name": "Hirvemäe puhkekeskuse ujumiskoht",
+                  "text": "Hirvemäe puhkekeskuse ujumiskoht in Vaerska offers bathing facilities at the recreation center.",
+                  "category": "family",
+                  "coords": [
+                        27.629058,
+                        57.95477
                   ]
             }
       ]

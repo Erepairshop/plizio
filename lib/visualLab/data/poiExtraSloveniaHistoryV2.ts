@@ -417,52 +417,7 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
     },
     image: "/poi-images/slovenia-franja-hospital-history-v2.webp",
 },  {
-    id: "slovenia-kobarid-ossuary-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Strand bei der Gedenkstätte Kobarid.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Strand a Kobaridi osszárium mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Plajă lângă Osuarul Kobarid.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Beach near Kobarid Ossuary.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            }
-      ]
-},
+    id: "slovenia-kobarid-ossuary-history-v2", "sights": {"de": [{"name": "Kobarid Beach", "text": "Nahe der ehrwürdigen Gedenkstätte von Kobarid gelegen, schmiegt sich der Kobarid Beach wunderschön an den örtlichen Flusslauf. Die Atmosphäre hält dabei die perfekte Balance zwischen atemberaubender Natur und einer ruhigen, nachdenklichen Stimmung. Besucher können ihre Füße in das erfrischende Wasser tauchen oder still auf den Kieseln sitzen, umgeben von spürbarer Geschichte. Angesichts des kalten Wassers ist ein Besuch an den heißesten Sommertagen besonders angenehm.", "category": "recreational", "coords": [13.586991, 46.247321]}], "hu": [{"name": "Kobarid Beach", "text": "Az ünnepélyes Kobaridi Csontkápolna közelében található Kobarid Beach gyönyörűen terül el a helyi folyó vize mentén. Az általános atmoszféra tökéletes egyensúlyt teremt a nyers természeti szépség és a csendes, kissé elmélkedő hangulat között. A látogatók belemárthatják a lábukat a frissítő vízbe, vagy csendben ücsöröghetnek a kavicsokon, miközben körülveszi őket a történelem. A hűvös vizet figyelembe véve egyértelműen a legforróbb nyári napokon a legkellemesebb ide látogatni.", "category": "recreational", "coords": [13.586991, 46.247321]}], "ro": [{"name": "Kobarid Beach", "text": "Situată în apropierea solemnului Osuar din Kobarid, Kobarid Beach se întinde superb de-a lungul apelor râului local. Atmosfera generală echilibrează perfect frumusețea naturală brută cu o stare de spirit liniștită, ușor contemplativă. Vizitatorii își pot scufunda picioarele în apa revigorantă sau pot sta în liniște pe pietricele, fiind complet înconjurați de istorie. Având în vedere apa rece, este cu siguranță cel mai plăcut să planificați o vizită în cele mai fierbinți zile de vară.", "category": "recreational", "coords": [13.586991, 46.247321]}], "en": [{"name": "Kobarid Beach", "text": "Situated close to the solemn Kobarid Ossuary, Kobarid Beach lies beautifully along the local river waters. The overall atmosphere perfectly balances raw natural beauty with a quiet, slightly contemplative mood. Visitors can dip their feet in the bracing water or sit quietly on the pebbles, fully surrounded by history. Given the famously cold waters, it is definitely most refreshing to plan a visit during the hottest days of summer.", "category": "recreational", "coords": [13.586991, 46.247321]}]},
     parent: "SI",
     type: "monument",
     name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary"},

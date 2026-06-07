@@ -1624,6 +1624,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.458367,
                         42.494553
                   ]
+            },
+            {
+                  "name": "Бивш басейн",
+                  "text": "Ein ehemaliges Schwimmbadgelände in Jambol, das früher für Wasseraktivitäten genutzt wurde.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
             }
       ],
       "hu": [
@@ -1733,6 +1742,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.458367,
                         42.494553
+                  ]
+            },
+            {
+                  "name": "Бивш басейн",
+                  "text": "Egykori úszómedence helyszíne Jambolban, amelyet korábban vízi tevékenységekre használtak.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
                   ]
             }
       ],
@@ -1844,6 +1862,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.458367,
                         42.494553
                   ]
+            },
+            {
+                  "name": "Бивш басейн",
+                  "text": "Locul unei foste piscine în Yambol, folosită odinioară pentru activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
             }
       ],
       "en": [
@@ -1954,6 +1981,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.458367,
                         42.494553
                   ]
+            },
+            {
+                  "name": "Бивш басейн",
+                  "text": "A former swimming pool site in Yambol once used for aquatic activities.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
             }
       ]
 },
@@ -2056,6 +2092,33 @@ export const bulgariaCitiesV2: POI[] = [
                         25.254235,
                         41.665108
                   ]
+            },
+            {
+                  "name": "Arpezos",
+                  "text": "Das Schwimmbad Arpezos in Kardschali bietet gute Bedingungen für Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        25.367227,
+                        41.636243
+                  ]
+            },
+            {
+                  "name": "Резиденцията",
+                  "text": "Dieses Schwimmbad in Kardschali lädt zum Erfrischen und Schwimmen ein.",
+                  "category": "family",
+                  "coords": [
+                        25.373576,
+                        41.66117
+                  ]
+            },
+            {
+                  "name": "Aqua Fantasy Complex",
+                  "text": "Der Aqua Fantasy Complex in Kardschali bietet Wasserspaß und Erholung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        25.368879,
+                        41.617446
+                  ]
             }
       ],
       "hu": [
@@ -2111,6 +2174,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.254235,
                         41.665108
+                  ]
+            },
+            {
+                  "name": "Arpezos",
+                  "text": "A kardzsali Arpezos uszoda jó feltételeket kínál az úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        25.367227,
+                        41.636243
+                  ]
+            },
+            {
+                  "name": "Резиденцията",
+                  "text": "Ez a kardzsali uszoda frissítő úszásra invitál.",
+                  "category": "family",
+                  "coords": [
+                        25.373576,
+                        41.66117
+                  ]
+            },
+            {
+                  "name": "Aqua Fantasy Complex",
+                  "text": "A kardzsali Aqua Fantasy Complex vízi szórakozást és kikapcsolódást kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        25.368879,
+                        41.617446
                   ]
             }
       ],
@@ -2168,6 +2258,33 @@ export const bulgariaCitiesV2: POI[] = [
                         25.254235,
                         41.665108
                   ]
+            },
+            {
+                  "name": "Arpezos",
+                  "text": "Piscina Arpezos din Kardzhali oferă condiții bune pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        25.367227,
+                        41.636243
+                  ]
+            },
+            {
+                  "name": "Резиденцията",
+                  "text": "Această piscină din Kardzhali vă invită la o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        25.373576,
+                        41.66117
+                  ]
+            },
+            {
+                  "name": "Aqua Fantasy Complex",
+                  "text": "Complexul Aqua Fantasy din Kardzhali oferă distracție acvatică și relaxare pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        25.368879,
+                        41.617446
+                  ]
             }
       ],
       "en": [
@@ -2223,6 +2340,33 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.254235,
                         41.665108
+                  ]
+            },
+            {
+                  "name": "Arpezos",
+                  "text": "The Arpezos swimming pool in Kardzhali offers good conditions for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        25.367227,
+                        41.636243
+                  ]
+            },
+            {
+                  "name": "Резиденцията",
+                  "text": "This swimming pool in Kardzhali invites you for a refreshing swim.",
+                  "category": "family",
+                  "coords": [
+                        25.373576,
+                        41.66117
+                  ]
+            },
+            {
+                  "name": "Aqua Fantasy Complex",
+                  "text": "The Aqua Fantasy Complex in Kardzhali offers water fun and relaxation for visitors.",
+                  "category": "family",
+                  "coords": [
+                        25.368879,
+                        41.617446
                   ]
             }
       ]
@@ -2803,6 +2947,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.547505,
                         43.213742
                   ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Ein Wasserpark in Targowischte mit Schwimmbecken und Rutschen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
             }
       ],
       "hu": [
@@ -2813,6 +2966,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.547505,
                         43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Vízipark Targoviste-ben úszómedencékkel és csúszdákkal a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
                   ]
             }
       ],
@@ -2825,6 +2987,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.547505,
                         43.213742
                   ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Un parc acvatic în Târgoviște cu piscine și tobogane pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
             }
       ],
       "en": [
@@ -2835,6 +3006,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.547505,
                         43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "A water park in Targovishte featuring swimming pools and slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
                   ]
             }
       ]
@@ -5781,484 +5961,7 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-asenovgrad-cities-v2.webp",
   },
   {
-    id: "bulgaria-dupnitsa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Къща музей „Станке Димитров – Марек“",
-                  "text": "Das Geburtshaus von Stanke Dimitrow, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        23.118227,
-                        42.265366
-                  ]
-            },
-            {
-                  "name": "Къщата музей „Васил Демиревски – Жельо“",
-                  "text": "Ein Museum, das dem Leben von Vasil Demirevski gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.118821,
-                        42.260755
-                  ]
-            },
-            {
-                  "name": "Исторически музей - Дупница",
-                  "text": "Ein Museum, das die Geschichte und Kultur der Stadt Dupniza präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        23.119484,
-                        42.26349
-                  ]
-            },
-            {
-                  "name": "Крепостта \"Кулата\"",
-                  "text": "Die Überreste einer mittelalterlichen Verteidigungsanlage über Dupniza.",
-                  "category": "castle",
-                  "coords": [
-                        23.126267,
-                        42.268759
-                  ]
-            },
-            {
-                  "name": "Зоокът",
-                  "text": "Ein kleiner lokaler Zoo, ideal für Familienausflüge in Dupniza.",
-                  "category": "family",
-                  "coords": [
-                        23.1423,
-                        42.249732
-                  ]
-            },
-            {
-                  "name": "Общински драматичен театър \"Невена Коканова\"",
-                  "text": "Ein Theater, das nach der berühmten Schauspielerin Nevena Kokanowa benannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        23.116578,
-                        42.26514
-                  ]
-            },
-            {
-                  "name": "Паметник \"Ятачката\"",
-                  "text": "Ein Denkmal, das an die Geschichte der Widerstandskämpfer erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        23.119315,
-                        42.265006
-                  ]
-            },
-            {
-                  "name": "Парк \"Рила\" (Дупница)",
-                  "text": "Ein Stadtpark in Dupniza, der nach dem nahen Rila-Gebirge benannt ist.",
-                  "category": "park",
-                  "coords": [
-                        23.145098,
-                        42.248782
-                  ]
-            },
-            {
-                  "name": "Антифашистки паметник",
-                  "text": "Ein Denkmal in Dupniza, das der antifaschistischen Bewegung gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        23.119474,
-                        42.289588
-                  ]
-            },
-            {
-                  "name": "църква „Свети Георги Победоносец“",
-                  "text": "Eine orthodoxe Kirche in Dupniza, die dem Heiligen Georg gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        23.115263,
-                        42.263261
-                  ]
-            },
-            {
-                  "name": "Църква \"Свети Никола\"",
-                  "text": "Eine der ältesten Kirchen in Dupniza, gewidmet dem Heiligen Nikolaus.",
-                  "category": "religious",
-                  "coords": [
-                        23.128625,
-                        42.267581
-                  ]
-            },
-            {
-                  "name": "Храм \"Покров Богородичен\"",
-                  "text": "Ein orthodoxes Gotteshaus in Dupniza, gewidmet dem Schutz der Gottesmutter.",
-                  "category": "religious",
-                  "coords": [
-                        23.126069,
-                        42.267244
-                  ]
-            },
-            {
-                  "name": "яз. Турченица",
-                  "text": "Ein ruhiges Gewässer in Dupniza, ideal zum Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        23.052482,
-                        42.280837
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Къща музей „Станке Димитров – Марек“",
-                  "text": "Sztanke Dimitrov szülőháza, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        23.118227,
-                        42.265366
-                  ]
-            },
-            {
-                  "name": "Къщата музей „Васил Демиревски – Жельо“",
-                  "text": "Vaszil Demirevszki életének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.118821,
-                        42.260755
-                  ]
-            },
-            {
-                  "name": "Исторически музей - Дупница",
-                  "text": "Dupnica városának történelmét és kultúráját bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.119484,
-                        42.26349
-                  ]
-            },
-            {
-                  "name": "Крепостта \"Кулата\"",
-                  "text": "Egy középkori védelmi erődítmény maradványai Dupnica felett.",
-                  "category": "castle",
-                  "coords": [
-                        23.126267,
-                        42.268759
-                  ]
-            },
-            {
-                  "name": "Зоокът",
-                  "text": "Kis helyi állatkert, amely ideális családi kirándulásokhoz Dupnicában.",
-                  "category": "family",
-                  "coords": [
-                        23.1423,
-                        42.249732
-                  ]
-            },
-            {
-                  "name": "Общински драматичен театър \"Невена Коканова\"",
-                  "text": "A híres Nevena Kokanova színésznőről elnevezett színház.",
-                  "category": "cultural",
-                  "coords": [
-                        23.116578,
-                        42.26514
-                  ]
-            },
-            {
-                  "name": "Паметник \"Ятачката\"",
-                  "text": "Az ellenállási harcosok történetére emlékeztető emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        23.119315,
-                        42.265006
-                  ]
-            },
-            {
-                  "name": "Парк \"Рила\" (Дупница)",
-                  "text": "Városi park Dupnicában, amely a közeli Rila-hegységről kapta a nevét.",
-                  "category": "park",
-                  "coords": [
-                        23.145098,
-                        42.248782
-                  ]
-            },
-            {
-                  "name": "Антифашистки паметник",
-                  "text": "Az antifasiszta mozgalomnak szentelt emlékmű Dupnicában.",
-                  "category": "historical",
-                  "coords": [
-                        23.119474,
-                        42.289588
-                  ]
-            },
-            {
-                  "name": "църква „Свети Георги Победоносец“",
-                  "text": "Szent Györgynek szentelt ortodox templom Dupnicában.",
-                  "category": "religious",
-                  "coords": [
-                        23.115263,
-                        42.263261
-                  ]
-            },
-            {
-                  "name": "Църква \"Свети Никола\"",
-                  "text": "Dupnica egyik legrégebbi temploma, amelyet Szent Miklósnak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        23.128625,
-                        42.267581
-                  ]
-            },
-            {
-                  "name": "Храм \"Покров Богородичен\"",
-                  "text": "Istenanyának szentelt ortodox templom Dupnicában.",
-                  "category": "religious",
-                  "coords": [
-                        23.126069,
-                        42.267244
-                  ]
-            },
-            {
-                  "name": "яз. Турченица",
-                  "text": "Csendes vízfelület Dupnica területén, ideális a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        23.052482,
-                        42.280837
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Къща музей „Станке Димитров – Марек“",
-                  "text": "Casa natală a lui Stanke Dimitrov, care servește astăzi ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        23.118227,
-                        42.265366
-                  ]
-            },
-            {
-                  "name": "Къщата музей „Васил Демиревски – Жельо“",
-                  "text": "Un muzeu dedicat vieții lui Vasil Demirevski.",
-                  "category": "museum",
-                  "coords": [
-                        23.118821,
-                        42.260755
-                  ]
-            },
-            {
-                  "name": "Исторически музей - Дупница",
-                  "text": "Un muzeu care prezintă istoria și cultura orașului Dupnița.",
-                  "category": "museum",
-                  "coords": [
-                        23.119484,
-                        42.26349
-                  ]
-            },
-            {
-                  "name": "Крепостта \"Кулата\"",
-                  "text": "Vestigiile unei fortificații medievale de apărare deasupra Dupniței.",
-                  "category": "castle",
-                  "coords": [
-                        23.126267,
-                        42.268759
-                  ]
-            },
-            {
-                  "name": "Зоокът",
-                  "text": "O mică grădină zoologică locală, ideală pentru excursii în familie în Dupnița.",
-                  "category": "family",
-                  "coords": [
-                        23.1423,
-                        42.249732
-                  ]
-            },
-            {
-                  "name": "Общински драматичен театър \"Невена Коканова\"",
-                  "text": "Un teatru numit după celebra actriță Nevena Kokanova.",
-                  "category": "cultural",
-                  "coords": [
-                        23.116578,
-                        42.26514
-                  ]
-            },
-            {
-                  "name": "Паметник \"Ятачката\"",
-                  "text": "Un monument care comemorează istoria luptătorilor din rezistență.",
-                  "category": "historical",
-                  "coords": [
-                        23.119315,
-                        42.265006
-                  ]
-            },
-            {
-                  "name": "Парк \"Рила\" (Дупница)",
-                  "text": "Un parc orașenesc în Dupnița, numit după munții Rila din apropiere.",
-                  "category": "park",
-                  "coords": [
-                        23.145098,
-                        42.248782
-                  ]
-            },
-            {
-                  "name": "Антифашистки паметник",
-                  "text": "Un monument din Dupnița dedicat mișcării antifasciste.",
-                  "category": "historical",
-                  "coords": [
-                        23.119474,
-                        42.289588
-                  ]
-            },
-            {
-                  "name": "църква „Свети Георги Победоносец“",
-                  "text": "O biserică ortodoxă din Dupnița dedicată Sfântului Gheorghe.",
-                  "category": "religious",
-                  "coords": [
-                        23.115263,
-                        42.263261
-                  ]
-            },
-            {
-                  "name": "Църква \"Свети Никола\"",
-                  "text": "Una dintre cele mai vechi biserici din Dupnița, dedicată Sfântului Nicolae.",
-                  "category": "religious",
-                  "coords": [
-                        23.128625,
-                        42.267581
-                  ]
-            },
-            {
-                  "name": "Храм \"Покров Богородичен\"",
-                  "text": "Un lăcaș de cult ortodox din Dupnița, dedicat Acoperământului Maicii Domnului.",
-                  "category": "religious",
-                  "coords": [
-                        23.126069,
-                        42.267244
-                  ]
-            },
-            {
-                  "name": "яз. Турченица",
-                  "text": "O zonă liniștită cu apă în Dupnitsa, ideală pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        23.052482,
-                        42.280837
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Къща музей „Станке Димитров – Марек“",
-                  "text": "The birthplace of Stanke Dimitrov, now serving as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        23.118227,
-                        42.265366
-                  ]
-            },
-            {
-                  "name": "Къщата музей „Васил Демиревски – Жельо“",
-                  "text": "A museum dedicated to the life of Vasil Demirevski.",
-                  "category": "museum",
-                  "coords": [
-                        23.118821,
-                        42.260755
-                  ]
-            },
-            {
-                  "name": "Исторически музей - Дупница",
-                  "text": "A museum presenting the history and culture of the city of Dupnitsa.",
-                  "category": "museum",
-                  "coords": [
-                        23.119484,
-                        42.26349
-                  ]
-            },
-            {
-                  "name": "Крепостта \"Кулата\"",
-                  "text": "The remains of a medieval defensive fortification above Dupnitsa.",
-                  "category": "castle",
-                  "coords": [
-                        23.126267,
-                        42.268759
-                  ]
-            },
-            {
-                  "name": "Зоокът",
-                  "text": "A small local zoo, ideal for family outings in Dupnitsa.",
-                  "category": "family",
-                  "coords": [
-                        23.1423,
-                        42.249732
-                  ]
-            },
-            {
-                  "name": "Общински драматичен театър \"Невена Коканова\"",
-                  "text": "A theatre named after the famous actress Nevena Kokanova.",
-                  "category": "cultural",
-                  "coords": [
-                        23.116578,
-                        42.26514
-                  ]
-            },
-            {
-                  "name": "Паметник \"Ятачката\"",
-                  "text": "A memorial monument commemorating the history of resistance fighters.",
-                  "category": "historical",
-                  "coords": [
-                        23.119315,
-                        42.265006
-                  ]
-            },
-            {
-                  "name": "Rila Park (Dupnitsa)",
-                  "text": "A city park in Dupnitsa named after the nearby Rila Mountains.",
-                  "category": "park",
-                  "coords": [
-                        23.145098,
-                        42.248782
-                  ]
-            },
-            {
-                  "name": "Антифашистки паметник",
-                  "text": "A monument in Dupnitsa dedicated to the anti-fascist movement.",
-                  "category": "historical",
-                  "coords": [
-                        23.119474,
-                        42.289588
-                  ]
-            },
-            {
-                  "name": "St. George",
-                  "text": "An Orthodox church in Dupnitsa dedicated to Saint George.",
-                  "category": "religious",
-                  "coords": [
-                        23.115263,
-                        42.263261
-                  ]
-            },
-            {
-                  "name": "Църква \"Свети Никола\"",
-                  "text": "One of the oldest churches in Dupnitsa, dedicated to Saint Nicholas.",
-                  "category": "religious",
-                  "coords": [
-                        23.128625,
-                        42.267581
-                  ]
-            },
-            {
-                  "name": "Храм \"Покров Богородичен\"",
-                  "text": "An Orthodox place of worship in Dupnitsa dedicated to the Intercession of the Mother of God.",
-                  "category": "religious",
-                  "coords": [
-                        23.126069,
-                        42.267244
-                  ]
-            },
-            {
-                  "name": "яз. Турченица",
-                  "text": "A quiet body of water in Dupnitsa, ideal for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        23.052482,
-                        42.280837
-                  ]
-            }
-      ]
-},
+    id: "bulgaria-dupnitsa-cities-v2", "sights": {"de": [{"name": "Къща музей „Станке Димитров – Марек“", "text": "Das Geburtshaus von Stanke Dimitrow, das heute als Museum dient.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Къщата музей „Васил Демиревски – Жельо“", "text": "Ein Museum, das dem Leben von Vasil Demirevski gewidmet ist.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Исторически музей - Дупница", "text": "Das Historische Museum von Dupniza bewahrt das kulturelle Erbe dieser bulgarischen Region. Die Ausstellungen umfassen vielfältige Exponate, die die reiche Geschichte der Stadt dokumentieren. Wer mehr über die lokale Vergangenheit erfahren möchte, sollte sich diese Sammlungen nicht entgehen lassen.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Крепостта \"Кулата\"", "text": "Die Überreste einer mittelalterlichen Verteidigungsanlage über Dupniza.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Зоокът", "text": "Ein kleiner lokaler Zoo, ideal für Familienausflüge in Dupniza.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Общински драматичен театър \"Невена Коканова\"", "text": "Ein Theater, das nach der berühmten Schauspielerin Nevena Kokanowa benannt ist.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Паметник \"Ятачката\"", "text": "Ein Denkmal, das an die Geschichte der Widerstandskämpfer erinnert.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Парк \"Рила\" (Дупница)", "text": "Ein Stadtpark in Dupniza, der nach dem nahen Rila-Gebirge benannt ist.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Антифашистки паметник", "text": "Ein Denkmal in Dupniza, das der antifaschistischen Bewegung gewidmet ist.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "църква „Свети Георги Победоносец“", "text": "Eine orthodoxe Kirche in Dupniza, die dem Heiligen Georg gewidmet ist.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Църква \"Свети Никола\"", "text": "Eine der ältesten Kirchen in Dupniza, gewidmet dem Heiligen Nikolaus.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Храм \"Покров Богородичен\"", "text": "Ein orthodoxes Gotteshaus in Dupniza, gewidmet dem Schutz der Gottesmutter.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "яз. Турченица", "text": "Ein ruhiges Gewässer in Dupniza, ideal zum Entspannen.", "category": "natural", "coords": [23.052482, 42.280837]}], "hu": [{"name": "Къща музей „Станке Димитров – Марек“", "text": "Sztanke Dimitrov szülőháza, amely ma múzeumként működik.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Къщата музей „Васил Демиревски – Жельо“", "text": "Vaszil Demirevszki életének szentelt múzeum.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Исторически музей - Дупница", "text": "A Dupnicai Történeti Múzeum ennek a bolgár régiónak a kulturális örökségét őrzi. A kiállítások sokféle tárlatot vonultatnak fel, amelyek a város gazdag történelmét dokumentálják. Aki szeretne többet megtudni a helyi múltról, annak nem szabad kihagynia ezeket a gyűjteményeket.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Крепостта \"Кулата\"", "text": "Egy középkori védelmi erődítmény maradványai Dupnica felett.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Зоокът", "text": "Kis helyi állatkert, amely ideális családi kirándulásokhoz Dupnicában.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Общински драматичен театър \"Невена Коканова\"", "text": "A híres Nevena Kokanova színésznőről elnevezett színház.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Паметник \"Ятачката\"", "text": "Az ellenállási harcosok történetére emlékeztető emlékmű.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Парк \"Рила\" (Дупница)", "text": "Városi park Dupnicában, amely a közeli Rila-hegységről kapta a nevét.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Антифашистки паметник", "text": "Az antifasiszta mozgalomnak szentelt emlékmű Dupnicában.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "църква „Свети Георги Победоносец“", "text": "Szent Györgynek szentelt ortodox templom Dupnicában.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Църква \"Свети Никола\"", "text": "Dupnica egyik legrégebbi temploma, amelyet Szent Miklósnak szenteltek.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Храм \"Покров Богородичен\"", "text": "Istenanyának szentelt ortodox templom Dupnicában.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "яз. Турченица", "text": "Csendes vízfelület Dupnica területén, ideális a pihenéshez.", "category": "natural", "coords": [23.052482, 42.280837]}], "ro": [{"name": "Къща музей „Станке Димитров – Марек“", "text": "Casa natală a lui Stanke Dimitrov, care servește astăzi ca muzeu.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Къщата музей „Васил Демиревски – Жельо“", "text": "Un muzeu dedicat vieții lui Vasil Demirevski.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Исторически музей - Дупница", "text": "Muzeul de Istorie din Dupnița păstrează moștenirea culturală a acestei regiuni bulgare. Expozițiile includ diverse artefacte care documentează istoria bogată a orașului. Oricine dorește să afle mai multe despre trecutul local nu ar trebui să rateze aceste colecții.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Крепостта \"Кулата\"", "text": "Vestigiile unei fortificații medievale de apărare deasupra Dupniței.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Зоокът", "text": "O mică grădină zoologică locală, ideală pentru excursii în familie în Dupnița.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Общински драматичен театър \"Невена Коканова\"", "text": "Un teatru numit după celebra actriță Nevena Kokanova.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Паметник \"Ятачката\"", "text": "Un monument care comemorează istoria luptătorilor din rezistență.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Парк \"Рила\" (Дупница)", "text": "Un parc orașenesc în Dupnița, numit după munții Rila din apropiere.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Антифашистки паметник", "text": "Un monument din Dupnița dedicat mișcării antifasciste.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "църква „Свети Георги Победоносец“", "text": "O biserică ortodoxă din Dupnița dedicată Sfântului Gheorghe.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Църква \"Свети Никола\"", "text": "Una dintre cele mai vechi biserici din Dupnița, dedicată Sfântului Nicolae.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Храм \"Покров Богородичен\"", "text": "Un lăcaș de cult ortodox din Dupnița, dedicat Acoperământului Maicii Domnului.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "яз. Турченица", "text": "O zonă liniștită cu apă în Dupnitsa, ideală pentru relaxare.", "category": "natural", "coords": [23.052482, 42.280837]}], "en": [{"name": "Къща музей „Станке Димитров – Марек“", "text": "The birthplace of Stanke Dimitrov, now serving as a museum.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Къщата музей „Васил Демиревски – Жельо“", "text": "A museum dedicated to the life of Vasil Demirevski.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Исторически музей - Дупница", "text": "The Historical Museum of Dupnitsa preserves the cultural heritage of this Bulgarian region. The exhibitions feature a diverse array of artifacts that document the rich history of the city. Anyone wishing to learn more about the local past should not miss these collections.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Крепостта \"Кулата\"", "text": "The remains of a medieval defensive fortification above Dupnitsa.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Зоокът", "text": "A small local zoo, ideal for family outings in Dupnitsa.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Общински драматичен театър \"Невена Коканова\"", "text": "A theatre named after the famous actress Nevena Kokanova.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Паметник \"Ятачката\"", "text": "A memorial monument commemorating the history of resistance fighters.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Rila Park (Dupnitsa)", "text": "A city park in Dupnitsa named after the nearby Rila Mountains.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Антифашистки паметник", "text": "A monument in Dupnitsa dedicated to the anti-fascist movement.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "St. George", "text": "An Orthodox church in Dupnitsa dedicated to Saint George.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Църква \"Свети Никола\"", "text": "One of the oldest churches in Dupnitsa, dedicated to Saint Nicholas.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Храм \"Покров Богородичен\"", "text": "An Orthodox place of worship in Dupnitsa dedicated to the Intercession of the Mother of God.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "яз. Турченица", "text": "A quiet body of water in Dupnitsa, ideal for relaxation.", "category": "natural", "coords": [23.052482, 42.280837]}]},
     type: "city",
     parent: "BG",
     name: { de: "Dupniza", hu: "Dupnica", ro: "Dupnița", en: "Dupnitsa" },
@@ -6393,376 +6096,7 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-koprivshtitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-kavarna-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Babeshkiya plazh",
-                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        28.352647,
-                        43.413371
-                  ]
-            },
-            {
-                  "name": "Bendida Beach",
-                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        28.298808,
-                        43.416383
-                  ]
-            },
-            {
-                  "name": "Argata Beach",
-                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        28.288095,
-                        43.413909
-                  ]
-            },
-            {
-                  "name": "Byzone",
-                  "text": "Ruinen einer antiken Siedlung und Festung an der Küste von Kawarna.",
-                  "category": "historical",
-                  "coords": [
-                        28.347262,
-                        43.414087
-                  ]
-            },
-            {
-                  "name": "Исторически музей (Каварна)",
-                  "text": "Ein Museum, das die reiche Geschichte der Region Kawarna präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        28.340178,
-                        43.432195
-                  ]
-            },
-            {
-                  "name": "Етногарфски комплекс",
-                  "text": "Ein Museum in Kawarna, das lokales Kunsthandwerk und Traditionen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        28.334569,
-                        43.430226
-                  ]
-            },
-            {
-                  "name": "Tschirakman",
-                  "text": "Ein markantes Kap und Aussichtspunkt mit Blick auf das Meer bei Kawarna.",
-                  "category": "natural",
-                  "coords": [
-                        28.349021,
-                        43.412845
-                  ]
-            },
-            {
-                  "name": "Мемориал на руските воини \"Костница\"",
-                  "text": "Ein Denkmal in Kawarna zum Gedenken an die russischen Soldaten.",
-                  "category": "historical",
-                  "coords": [
-                        28.340892,
-                        43.436531
-                  ]
-            },
-            {
-                  "name": "Христо Градечлиев",
-                  "text": "Eine Kunstgalerie in Kawarna, benannt nach dem Künstler Hristo Gradechliev.",
-                  "category": "museum",
-                  "coords": [
-                        28.337747,
-                        43.42967
-                  ]
-            },
-            {
-                  "name": "Thracian Cliffs Lake",
-                  "text": "Ein beeindruckender See in Kawarna mit schöner Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        28.282825,
-                        43.414182
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Babeshkiya plazh",
-                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
-                  "category": "recreational",
-                  "coords": [
-                        28.352647,
-                        43.413371
-                  ]
-            },
-            {
-                  "name": "Bendida Beach",
-                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
-                  "category": "recreational",
-                  "coords": [
-                        28.298808,
-                        43.416383
-                  ]
-            },
-            {
-                  "name": "Argata Beach",
-                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
-                  "category": "recreational",
-                  "coords": [
-                        28.288095,
-                        43.413909
-                  ]
-            },
-            {
-                  "name": "Byzone",
-                  "text": "Egy ókori település és erődítmény romjai Kavarna tengerpartján.",
-                  "category": "historical",
-                  "coords": [
-                        28.347262,
-                        43.414087
-                  ]
-            },
-            {
-                  "name": "Исторически музей (Каварна)",
-                  "text": "Kavarna régiójának gazdag történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        28.340178,
-                        43.432195
-                  ]
-            },
-            {
-                  "name": "Етногарфски комплекс",
-                  "text": "Helyi népművészetet és hagyományokat bemutató néprajzi múzeum Kavarnában.",
-                  "category": "museum",
-                  "coords": [
-                        28.334569,
-                        43.430226
-                  ]
-            },
-            {
-                  "name": "Чиракман",
-                  "text": "Jellegzetes fok és kilátópont a tengerre Kavarna közelében.",
-                  "category": "natural",
-                  "coords": [
-                        28.349021,
-                        43.412845
-                  ]
-            },
-            {
-                  "name": "Мемориал на руските воини \"Костница\"",
-                  "text": "Emlékmű Kavarnában az orosz katonák emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        28.340892,
-                        43.436531
-                  ]
-            },
-            {
-                  "name": "Христо Градечлиев",
-                  "text": "Hriszto Gradecliev művészről elnevezett galéria Kavarnában.",
-                  "category": "museum",
-                  "coords": [
-                        28.337747,
-                        43.42967
-                  ]
-            },
-            {
-                  "name": "Thracian Cliffs Lake",
-                  "text": "Lenyűgöző tó Kavarna területén, szép kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        28.282825,
-                        43.414182
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Babeshkiya plazh",
-                  "text": "O plajă lângă Kavarna la Marea Neagră.",
-                  "category": "recreational",
-                  "coords": [
-                        28.352647,
-                        43.413371
-                  ]
-            },
-            {
-                  "name": "Bendida Beach",
-                  "text": "O plajă lângă Kavarna la Marea Neagră.",
-                  "category": "recreational",
-                  "coords": [
-                        28.298808,
-                        43.416383
-                  ]
-            },
-            {
-                  "name": "Argata Beach",
-                  "text": "O plajă lângă Kavarna la Marea Neagră.",
-                  "category": "recreational",
-                  "coords": [
-                        28.288095,
-                        43.413909
-                  ]
-            },
-            {
-                  "name": "Byzone",
-                  "text": "Ruinele unei așezări și cetăți antice de pe coasta orașului Cavarna.",
-                  "category": "historical",
-                  "coords": [
-                        28.347262,
-                        43.414087
-                  ]
-            },
-            {
-                  "name": "Исторически музей (Каварна)",
-                  "text": "Un muzeu care prezintă istoria bogată a regiunii Cavarna.",
-                  "category": "museum",
-                  "coords": [
-                        28.340178,
-                        43.432195
-                  ]
-            },
-            {
-                  "name": "Етногарфски комплекс",
-                  "text": "Un muzeu din Cavarna care prezintă meșteșugurile și tradițiile locale.",
-                  "category": "museum",
-                  "coords": [
-                        28.334569,
-                        43.430226
-                  ]
-            },
-            {
-                  "name": "Чиракман",
-                  "text": "Un promontoriu și punct de observație cu vedere la mare lângă Cavarna.",
-                  "category": "natural",
-                  "coords": [
-                        28.349021,
-                        43.412845
-                  ]
-            },
-            {
-                  "name": "Мемориал на руските воини \"Костница\"",
-                  "text": "Un monument în Cavarna ridicat în memoria soldaților ruși.",
-                  "category": "historical",
-                  "coords": [
-                        28.340892,
-                        43.436531
-                  ]
-            },
-            {
-                  "name": "Христо Градечлиев",
-                  "text": "O galerie de artă din Cavarna, numită după artistul Hristo Gradechliev.",
-                  "category": "museum",
-                  "coords": [
-                        28.337747,
-                        43.42967
-                  ]
-            },
-            {
-                  "name": "Thracian Cliffs Lake",
-                  "text": "Un lac impresionant în Kavarna, cu o priveliște frumoasă.",
-                  "category": "natural",
-                  "coords": [
-                        28.282825,
-                        43.414182
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Babeshkiya plazh",
-                  "text": "A beach near Kavarna on the Black Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        28.352647,
-                        43.413371
-                  ]
-            },
-            {
-                  "name": "Bendida Beach",
-                  "text": "A beach near Kavarna on the Black Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        28.298808,
-                        43.416383
-                  ]
-            },
-            {
-                  "name": "Argata Beach",
-                  "text": "A beach near Kavarna on the Black Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        28.288095,
-                        43.413909
-                  ]
-            },
-            {
-                  "name": "Byzone",
-                  "text": "Ruins of an ancient settlement and fortress on the coast of Kavarna.",
-                  "category": "historical",
-                  "coords": [
-                        28.347262,
-                        43.414087
-                  ]
-            },
-            {
-                  "name": "Kavarna Historical Museum",
-                  "text": "A museum showcasing the rich history of the Kavarna region.",
-                  "category": "museum",
-                  "coords": [
-                        28.340178,
-                        43.432195
-                  ]
-            },
-            {
-                  "name": "Ethnographic Museum",
-                  "text": "A museum in Kavarna showcasing local crafts and traditions.",
-                  "category": "museum",
-                  "coords": [
-                        28.334569,
-                        43.430226
-                  ]
-            },
-            {
-                  "name": "Chirakman",
-                  "text": "A prominent cape and viewpoint overlooking the sea near Kavarna.",
-                  "category": "natural",
-                  "coords": [
-                        28.349021,
-                        43.412845
-                  ]
-            },
-            {
-                  "name": "Memorial to the Russian soldiers \"Kostnitsa\"",
-                  "text": "A monument in Kavarna commemorating Russian soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        28.340892,
-                        43.436531
-                  ]
-            },
-            {
-                  "name": "Hristo Gradechliev",
-                  "text": "An art gallery in Kavarna named after the artist Hristo Gradechliev.",
-                  "category": "museum",
-                  "coords": [
-                        28.337747,
-                        43.42967
-                  ]
-            },
-            {
-                  "name": "Thracian Cliffs Lake",
-                  "text": "An impressive lake in Kavarna with a beautiful view.",
-                  "category": "natural",
-                  "coords": [
-                        28.282825,
-                        43.414182
-                  ]
-            }
-      ]
-},
+    id: "bulgaria-kavarna-cities-v2", "sights": {"de": [{"name": "Babeshkiya plazh", "text": "Ein Strand bei Kavarna am Schwarzen Meer.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Bendida Beach in der Nähe von Kavarna ist ein malerischer Rückzugsort direkt am Schwarzen Meer. Die geschützte Bucht sorgt für ruhiges Wasser und ein intimes, fast unberührtes Ambiente, das zum Entspannen einlädt. Besucher können sich am Sandstrand sonnen und die Schönheit der bulpickergarischen Küstenlinie auf sich wirken lassen. Es ist ein herrliches Ziel für all jene, die Ruhe abseits der überlaufenen Touristenhochburgen suchen.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Argata Beach ist ein verborgenes Juwel am Schwarzen Meer in der Region Kavarna, das mit unberührter Naturschönheit punktet. Der feine Sand und das klare Wasser schaffen eine exklusive und friedliche Atmosphäre für Badegäste. Hier kann man dem Rauschen der Wellen lauschen und ungestört die wärmende Sonne genießen. Wer ein stilles Fleckchen für ausgiebige Erholung am Wasser sucht, ist an diesem Küstenabschnitt genau richtig.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruinen einer antiken Siedlung und Festung an der Küste von Kawarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Исторически музей (Каварна)", "text": "Ein Museum, das die reiche Geschichte der Region Kawarna präsentiert.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Етногарфски комплекс", "text": "Ein Museum in Kawarna, das lokales Kunsthandwerk und Traditionen zeigt.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Tschirakman", "text": "Ein markantes Kap und Aussichtspunkt mit Blick auf das Meer bei Kawarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Мемориал на руските воини \"Костница\"", "text": "Ein Denkmal in Kawarna zum Gedenken an die russischen Soldaten.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Христо Градечлиев", "text": "Eine Kunstgalerie in Kawarna, benannt nach dem Künstler Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Ein beeindruckender See in Kawarna mit schöner Aussicht.", "category": "natural", "coords": [28.282825, 43.414182]}], "hu": [{"name": "Babeshkiya plazh", "text": "Strand Kavarna közelében a Fekete-tengeren.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "A Kavarna közelében található Bendida Beach egy festői menedékhely közvetlenül a Fekete-tenger partján. A védett öböl nyugodt vizet és intim, szinte érintetlen hangulatot biztosít, amely pihenésre hívogat. A látogatók a homokos tengerparton napozhatnak, és magukba szívhatják a bolgár partvidék szépségét. Csodálatos célpont mindazok számára, akik a zsúfolt turistaközpontoktól távol keresnek nyugalmat.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Az Argata Beach egy rejtett gyöngyszem a Fekete-tenger partján Kavarna térségében, amely érintetlen természeti szépségével hódít. A finom homok és a tiszta víz exkluzív és békés légkört teremt a fürdőzők számára. Itt a hullámok morajlását hallgatva zavartalanul élvezhetjük a melengető napsütést. Aki egy csendes zugot keres a vízparti pihenéshez, ezen a partszakaszon a legjobb helyen jár.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Egy ókori település és erődítmény romjai Kavarna tengerpartján.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Исторически музей (Каварна)", "text": "Kavarna régiójának gazdag történelmét bemutató múzeum.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Етногарфски комплекс", "text": "Helyi népművészetet és hagyományokat bemutató néprajzi múzeum Kavarnában.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Чиракман", "text": "Jellegzetes fok és kilátópont a tengerre Kavarna közelében.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Мемориал на руските воини \"Костница\"", "text": "Emlékmű Kavarnában az orosz katonák emlékére.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Христо Градечлиев", "text": "Hriszto Gradecliev művészről elnevezett galéria Kavarnában.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Lenyűgöző tó Kavarna területén, szép kilátással.", "category": "natural", "coords": [28.282825, 43.414182]}], "ro": [{"name": "Babeshkiya plazh", "text": "O plajă lângă Kavarna la Marea Neagră.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Plaja Bendida din apropiere de Kavarna este un refugiu pitoresc chiar pe malul Mării Negre. Golful protejat asigură ape calme și o ambianță intimă, aproape neatinsă, care invită la relaxare. Vizitatorii pot face plajă pe nisip și se pot bucura de frumusețea liniei de coastă bulgare. Este o destinație minunată pentru toți cei care caută liniște departe de centrele turistice aglomerate.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Plaja Argata este o bijuterie ascunsă la Marea Neagră în regiunea Kavarna, care punctează prin frumusețea sa naturală neatinsă. Nisipul fin și apa limpede creează o atmosferă exclusivistă și pașnică pentru iubitorii de scăldat. Aici puteți asculta murmurul valurilor și vă puteți bucura nestingheriți de soarele cald. Cei care caută un colț liniștit pentru o recreere prelungită la malul apei se află exact unde trebuie pe această coastă.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruinele unei așezări și cetăți antice de pe coasta orașului Cavarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Исторически музей (Каварна)", "text": "Un muzeu care prezintă istoria bogată a regiunii Cavarna.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Етногарфски комплекс", "text": "Un muzeu din Cavarna care prezintă meșteșugurile și tradițiile locale.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Чиракман", "text": "Un promontoriu și punct de observație cu vedere la mare lângă Cavarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Мемориал на руските воини \"Костница\"", "text": "Un monument în Cavarna ridicat în memoria soldaților ruși.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Христо Градечлиев", "text": "O galerie de artă din Cavarna, numită după artistul Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Un lac impresionant în Kavarna, cu o priveliște frumoasă.", "category": "natural", "coords": [28.282825, 43.414182]}], "en": [{"name": "Babeshkiya plazh", "text": "A beach near Kavarna on the Black Sea.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Bendida Beach near Kavarna is a picturesque retreat located right on the Black Sea. The sheltered bay ensures calm waters and an intimate, almost pristine ambiance that invites you to completely unwind. Visitors can sunbathe on the sandy beach while taking in the beauty of the Bulgarian coastline. It serves as a wonderful destination for anyone seeking tranquility away from crowded tourist hubs.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Argata Beach is a hidden gem on the Black Sea in the Kavarna region, standing out for its unspoiled natural beauty. The fine sand and clear water create an exclusive and peaceful atmosphere for bathers. You can easily listen to the soothing sound of the waves while enjoying the warm sun undisturbed. Anyone looking for a quiet spot for extensive relaxation by the water will find this coastal stretch absolutely perfect.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruins of an ancient settlement and fortress on the coast of Kavarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Kavarna Historical Museum", "text": "A museum showcasing the rich history of the Kavarna region.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Ethnographic Museum", "text": "A museum in Kavarna showcasing local crafts and traditions.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Chirakman", "text": "A prominent cape and viewpoint overlooking the sea near Kavarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Memorial to the Russian soldiers \"Kostnitsa\"", "text": "A monument in Kavarna commemorating Russian soldiers.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Hristo Gradechliev", "text": "An art gallery in Kavarna named after the artist Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "An impressive lake in Kavarna with a beautiful view.", "category": "natural", "coords": [28.282825, 43.414182]}]},
     type: "city",
     parent: "BG",
     name: { de: "Kawarna", hu: "Kavarna", ro: "Cavarna", en: "Kavarna" },
@@ -7078,6 +6412,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.401417,
                         41.520711
                   ]
+            },
+            {
+                  "name": "Плажен басейн",
+                  "text": "Dieser Pool in Melnik bietet eine angenehme Erfrischung während der warmen Tage.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
             }
       ],
       "hu": [
@@ -7187,6 +6530,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.401417,
                         41.520711
+                  ]
+            },
+            {
+                  "name": "Плажен басейн",
+                  "text": "Ez a melniki medence kellemes felfrissülést nyújt a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
                   ]
             }
       ],
@@ -7298,6 +6650,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.401417,
                         41.520711
                   ]
+            },
+            {
+                  "name": "Плажен басейн",
+                  "text": "Această piscină din Melnik oferă o răcorire plăcută în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
             }
       ],
       "en": [
@@ -7407,6 +6768,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.401417,
                         41.520711
+                  ]
+            },
+            {
+                  "name": "Плажен басейн",
+                  "text": "This pool in Melnik offers pleasant refreshment during warm days.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
                   ]
             }
       ]
@@ -9094,6 +8464,24 @@ export const bulgariaCitiesV2: POI[] = [
                         27.899027,
                         42.904027
                   ]
+            },
+            {
+                  "name": "Aquapark Sol LunaBay Resort",
+                  "text": "Dieser Wasserpark in Byala bietet verschiedene Wasserrutschen und Pools für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        27.882101,
+                        42.841181
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "Ein spezielles Schwimmbecken für Kinder in Byala.",
+                  "category": "family",
+                  "coords": [
+                        27.881138,
+                        42.830807
+                  ]
             }
       ],
       "hu": [
@@ -9122,6 +8510,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.899027,
                         42.904027
+                  ]
+            },
+            {
+                  "name": "Aquapark Sol LunaBay Resort",
+                  "text": "Ez a bjalai aquapark különféle csúszdákat és medencéket kínál a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        27.882101,
+                        42.841181
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "Kifejezetten gyerekeknek szánt úszómedence Bjalában.",
+                  "category": "family",
+                  "coords": [
+                        27.881138,
+                        42.830807
                   ]
             }
       ],
@@ -9152,6 +8558,24 @@ export const bulgariaCitiesV2: POI[] = [
                         27.899027,
                         42.904027
                   ]
+            },
+            {
+                  "name": "Aquapark Sol LunaBay Resort",
+                  "text": "Acest parc acvatic din Byala oferă diverse tobogane și piscine pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        27.882101,
+                        42.841181
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "O piscină dedicată copiilor situată în Byala.",
+                  "category": "family",
+                  "coords": [
+                        27.881138,
+                        42.830807
+                  ]
             }
       ],
       "en": [
@@ -9180,6 +8604,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.899027,
                         42.904027
+                  ]
+            },
+            {
+                  "name": "Aquapark Sol LunaBay Resort",
+                  "text": "This water park in Byala offers various water slides and pools for family fun.",
+                  "category": "family",
+                  "coords": [
+                        27.882101,
+                        42.841181
+                  ]
+            },
+            {
+                  "name": "Kids swimming pool",
+                  "text": "A dedicated swimming pool for children located in Byala.",
+                  "category": "family",
+                  "coords": [
+                        27.881138,
+                        42.830807
                   ]
             }
       ]
@@ -11604,88 +11046,7 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-klisura-cities-v2.webp",
   },
   {
-    id: "bulgaria-panagyurishte-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mineralen plazh \"Lido\"",
-                  "text": "Ein Mineralbad-Strand bei Panagyurishte, nicht am Meer gelegen.",
-                  "category": "recreational",
-                  "coords": [
-                        24.181382,
-                        42.498054
-                  ]
-            },
-            {
-                  "name": "яз. Луда Яна",
-                  "text": "Ein See bei Panagjurischte, ideal um die natürliche Umgebung zu erkunden.",
-                  "category": "natural",
-                  "coords": [
-                        24.214696,
-                        42.524384
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mineralen plazh \"Lido\"",
-                  "text": "Ásványfürdő strand Panagyurishte közelében, nem a tengerparton.",
-                  "category": "recreational",
-                  "coords": [
-                        24.181382,
-                        42.498054
-                  ]
-            },
-            {
-                  "name": "яз. Луда Яна",
-                  "text": "Egy tó Panagyuriste környékén, amely ideális a természetes környezet felfedezéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        24.214696,
-                        42.524384
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mineralen plazh \"Lido\"",
-                  "text": "O plajă cu băi minerale lângă Panagyurishte, care nu este pe litoral.",
-                  "category": "recreational",
-                  "coords": [
-                        24.181382,
-                        42.498054
-                  ]
-            },
-            {
-                  "name": "яз. Луда Яна",
-                  "text": "Un lac în apropiere de Panaghiuriște, ideal pentru a explora împrejurimile naturale.",
-                  "category": "natural",
-                  "coords": [
-                        24.214696,
-                        42.524384
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mineralen plazh \"Lido\"",
-                  "text": "A mineral bath beach near Panagyurishte, not located on the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        24.181382,
-                        42.498054
-                  ]
-            },
-            {
-                  "name": "яз. Луда Яна",
-                  "text": "A lake near Panagyurishte, ideal for exploring the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        24.214696,
-                        42.524384
-                  ]
-            }
-      ]
-},
+    id: "bulgaria-panagyurishte-cities-v2", "sights": {"de": [{"name": "Mineralen plazh \"Lido\"", "text": "Der Mineralen plazh \"Lido\" in Panagyurishte bietet eine einzigartige Badeerfahrung abseits der Küste, geprägt durch seine belebenden Mineralwasserbecken. Die Anlage ist ein beliebter Treffpunkt für Einheimische, die Gesundheit und Entspannung in einer naturnahen Umgebung suchen. Besucher können im warmen Wasser schwimmen und die heilsame Wirkung der Mineralien genießen. Ein Besuch an diesem Ort empfiehlt sich besonders als wohltuende Ergänzung zu einem aktiven Urlaubstag.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "яз. Луда Яна", "text": "Ein See bei Panagjurischte, ideal um die natürliche Umgebung zu erkunden.", "category": "natural", "coords": [24.214696, 42.524384]}], "hu": [{"name": "Mineralen plazh \"Lido\"", "text": "A panagjuristei Mineralen plazh \"Lido\" egyedülálló, tengerparttól távoli fürdőélményt kínál, amelyet az élénkítő ásványvizes medencék határoznak meg. A komplexum a helyiek kedvelt találkozóhelye, akik egészséget és pihenést keresnek egy természetközeli környezetben. A látogatók a meleg vízben úszhatnak, és élvezhetik az ásványi anyagok gyógyító hatását. Ennek a helynek a felkeresése különösen ajánlott egy aktív nyaralási nap jótékony kiegészítéseként.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "яз. Луда Яна", "text": "Egy tó Panagyuriste környékén, amely ideális a természetes környezet felfedezéséhez.", "category": "natural", "coords": [24.214696, 42.524384]}], "ro": [{"name": "Mineralen plazh \"Lido\"", "text": "Mineralen plazh „Lido” din Panagyurishte oferă o experiență de scăldat unică departe de coastă, caracterizată prin bazinele sale revigorante cu apă minerală. Complexul este un punct de întâlnire popular pentru localnicii care caută sănătate și relaxare într-un cadru natural. Vizitatorii pot înota în apa caldă și se pot bucura de efectele curative ale mineralelor. O vizită în acest loc este recomandată în special ca o completare liniștitoare a unei zile active de vacanță.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "яз. Луда Яна", "text": "Un lac în apropiere de Panaghiuriște, ideal pentru a explora împrejurimile naturale.", "category": "natural", "coords": [24.214696, 42.524384]}], "en": [{"name": "Mineralen plazh \"Lido\"", "text": "Mineralen plazh \"Lido\" in Panagyurishte offers a unique inland bathing experience, defined by its invigorating mineral water pools. The facility is a popular gathering spot for locals seeking health and relaxation in a nature-oriented setting. Visitors can swim in the warm waters and enjoy the beneficial effects of the minerals. Visiting this site is highly recommended as a soothing complement to an active day of vacation.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "яз. Луда Яна", "text": "A lake near Panagyurishte, ideal for exploring the natural surroundings.", "category": "natural", "coords": [24.214696, 42.524384]}]},
     type: "city",
     parent: "BG",
     name: { de: "Panagjurischte", hu: "Panagyurishte", ro: "Panaghiuriște", en: "Panagyurishte" },
@@ -13044,448 +12405,7 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-sarnitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-stara-zagora-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Тракийска гробница",
-                  "text": "Ein archäologischer Fundort einer antiken thrakischen Grabstätte bei Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Хилендарски метох",
-                  "text": "Ein ehemaliger klösterlicher Außenposten, der heute als Museum in Banja dient.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
-                  "name": "Самарското знаме",
-                  "text": "Eine große Gedenkstätte für die Verteidiger von Stara Sagora bei Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.654014,
-                        42.433453
-                  ]
-            },
-            {
-                  "name": "Парк \"Бедечка\"",
-                  "text": "Ein bekannter Stadtpark in der Region Stara Sagora, ideal für Spaziergänge.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
-                  "name": "Парк „Подполковник Калитин“",
-                  "text": "Ein nach Podpolkovnik Kalitin benannter Gedenkpark in der Region Banja.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
-                  "name": "Панорама",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft bei Banja bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.622936,
-                        42.442464
-                  ]
-            },
-            {
-                  "name": "пам. Васил Левски",
-                  "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Революционерски паметник",
-                  "text": "Ein lokales Denkmal, das den historischen Revolutionären gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
-                  ]
-            },
-            {
-                  "name": "Бадминтон игрища",
-                  "text": "Sportanlage mit Plätzen für Badminton in Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.617138,
-                        42.438182
-                  ]
-            },
-            {
-                  "name": "Летен театър",
-                  "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Aufführungen.",
-                  "category": "landmark",
-                  "coords": [
-                        25.622059,
-                        42.434484
-                  ]
-            },
-            {
-                  "name": "ул. Свети Апостол Карл",
-                  "text": "Eine Straße in Banja, die nach dem Heiligen Apostel Karl benannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        25.620065,
-                        42.440101
-                  ]
-            },
-            {
-                  "name": "Зала на смеха",
-                  "text": "Eine lokale Attraktion zur Unterhaltung in der Stadt Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.616934,
-                        42.439353
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Тракийска гробница",
-                  "text": "Egy ókori traák sírhely régészeti lelőhelye Banja közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Хилендарски метох",
-                  "text": "Egy egykori kolostori birtok, amely ma múzeumként működik Banjában.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
-                  "name": "Самарското знаме",
-                  "text": "Hatalmas emlékhely Sztara Zagora védőinek tiszteletére Banja közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.654014,
-                        42.433453
-                  ]
-            },
-            {
-                  "name": "Парк \"Бедечка\"",
-                  "text": "Népszerű városi park Sztara Zagora régiójában, amely ideális sétákhoz.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
-                  "name": "Парк „Подполковник Калитин“",
-                  "text": "Kalitin alezredesről elnevezett emlékpark Banja környékén.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
-                  "name": "Панорама",
-                  "text": "Kilátópont, amely széles körpanorámát nyújt a Banja környéki tájra.",
-                  "category": "natural",
-                  "coords": [
-                        25.622936,
-                        42.442464
-                  ]
-            },
-            {
-                  "name": "пам. Васил Левски",
-                  "text": "Emlékmű a bolgár nemzeti hős, Vaszil Levszki tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Революционерски паметник",
-                  "text": "A történelmi forradalmároknak szentelt helyi emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
-                  ]
-            },
-            {
-                  "name": "Бадминтон игрища",
-                  "text": "Sportlétesítmény tollaslabda-pályákkal Banja városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.617138,
-                        42.438182
-                  ]
-            },
-            {
-                  "name": "Летен театър",
-                  "text": "Szabadtéri színpad kulturális események és előadások számára.",
-                  "category": "landmark",
-                  "coords": [
-                        25.622059,
-                        42.434484
-                  ]
-            },
-            {
-                  "name": "ул. Свети Апостол Карл",
-                  "text": "Szent Károly apostolról elnevezett utca Banja városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.620065,
-                        42.440101
-                  ]
-            },
-            {
-                  "name": "Зала на смеха",
-                  "text": "Helyi szórakoztató létesítmény Banja városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.616934,
-                        42.439353
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Тракийска гробница",
-                  "text": "Un sit arheologic al unui mormânt tracic antic lângă Bania.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Хилендарски метох",
-                  "text": "Un fost avanpost monahal care astăzi servește ca muzeu în Bania.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
-                  "name": "Самарското знаме",
-                  "text": "Un complex memorial vast dedicat apărătorilor orașului Stara Zagora, lângă Bania.",
-                  "category": "historical",
-                  "coords": [
-                        25.654014,
-                        42.433453
-                  ]
-            },
-            {
-                  "name": "Парк \"Бедечка\"",
-                  "text": "Un parc orașenesc cunoscut în regiunea Stara Zagora, ideal pentru plimbări.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
-                  "name": "Парк „Подполковник Калитин“",
-                  "text": "Un parc memorial numit după Podpolkovnik Kalitin în regiunea Bania.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
-                  "name": "Панорама",
-                  "text": "Un punct de observație ce oferă o vedere panoramică asupra peisajului de lângă Bania.",
-                  "category": "natural",
-                  "coords": [
-                        25.622936,
-                        42.442464
-                  ]
-            },
-            {
-                  "name": "пам. Васил Левски",
-                  "text": "Un monument dedicat eroului național bulgar Vasil Levski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Революционерски паметник",
-                  "text": "Un monument local dedicat revoluționarilor istorici.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
-                  ]
-            },
-            {
-                  "name": "Бадминтон игрища",
-                  "text": "Facilitate sportivă cu terenuri de badminton în Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.617138,
-                        42.438182
-                  ]
-            },
-            {
-                  "name": "Летен театър",
-                  "text": "O scenă în aer liber pentru evenimente culturale și spectacole.",
-                  "category": "landmark",
-                  "coords": [
-                        25.622059,
-                        42.434484
-                  ]
-            },
-            {
-                  "name": "ул. Свети Апостол Карл",
-                  "text": "O stradă din Banja numită după Sfântul Apostol Carol.",
-                  "category": "landmark",
-                  "coords": [
-                        25.620065,
-                        42.440101
-                  ]
-            },
-            {
-                  "name": "Зала на смеха",
-                  "text": "O atracție locală pentru divertisment în orașul Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.616934,
-                        42.439353
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Тракийска гробница",
-                  "text": "An archaeological site of an ancient Thracian tomb near Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Хилендарски метох",
-                  "text": "A former monastic outpost that now serves as a museum in Banja.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
-                  "name": "Defenders of Stara Zagora Memorial Complex",
-                  "text": "A large memorial complex dedicated to the defenders of Stara Zagora near Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.654014,
-                        42.433453
-                  ]
-            },
-            {
-                  "name": "Bedechka Park",
-                  "text": "A well-known city park in the Stara Zagora region, ideal for walks.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
-                  "name": "Podpolkovnik Kalitin Park",
-                  "text": "A memorial park named after Podpolkovnik Kalitin in the Banja region.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
-                  "name": "Панорама",
-                  "text": "A viewpoint offering a wide panoramic view of the landscape near Banja.",
-                  "category": "natural",
-                  "coords": [
-                        25.622936,
-                        42.442464
-                  ]
-            },
-            {
-                  "name": "пам. Васил Левски",
-                  "text": "A monument dedicated to the Bulgarian national hero Vasil Levski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Революционерски паметник",
-                  "text": "A local monument dedicated to historical revolutionaries.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
-                  ]
-            },
-            {
-                  "name": "Бадминтон игрища",
-                  "text": "Sports facility featuring courts for playing badminton in Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.617138,
-                        42.438182
-                  ]
-            },
-            {
-                  "name": "Летен театър",
-                  "text": "An open-air venue for cultural events and performances.",
-                  "category": "landmark",
-                  "coords": [
-                        25.622059,
-                        42.434484
-                  ]
-            },
-            {
-                  "name": "ул. Свети Апостол Карл",
-                  "text": "A street in Banja named after the Saint Apostle Karl.",
-                  "category": "landmark",
-                  "coords": [
-                        25.620065,
-                        42.440101
-                  ]
-            },
-            {
-                  "name": "Зала на смеха",
-                  "text": "A local attraction for entertainment in the town of Banja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.616934,
-                        42.439353
-                  ]
-            }
-      ]
-},
+    id: "bulgaria-banya-stara-zagora-cities-v2", "sights": {"de": [{"name": "Тракийска гробница", "text": "Ein archäologischer Fundort einer antiken thrakischen Grabstätte bei Banja.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Хилендарски метох", "text": "Ein ehemaliger klösterlicher Außenposten, der heute als Museum in Banja dient.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Самарското знаме", "text": "Eine große Gedenkstätte für die Verteidiger von Stara Sagora bei Banja.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Парк \"Бедечка\"", "text": "Ein bekannter Stadtpark in der Region Stara Sagora, ideal für Spaziergänge.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Парк „Подполковник Калитин“", "text": "Ein nach Podpolkovnik Kalitin benannter Gedenkpark in der Region Banja.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Панорама", "text": "Der Naturort Panorama bietet einen weiten und freien Blick auf die Umgebung von Banja Stara Zagora in Bulgarien. Als wunderschöner Aussichtspunkt ist er ideal für alle, die eine weitreichende landschaftliche Perspektive schätzen. Fotografen und Naturliebhaber kommen hier gleichermaßen auf ihre Kosten.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "пам. Васил Левски", "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Революционерски паметник", "text": "Ein lokales Denkmal, das den historischen Revolutionären gewidmet ist.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Бадминтон игрища", "text": "Sportanlage mit Plätzen für Badminton in Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Летен театър", "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Aufführungen.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ул. Свети Апостол Карл", "text": "Eine Straße in Banja, die nach dem Heiligen Apostel Karl benannt ist.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Зала на смеха", "text": "Eine lokale Attraktion zur Unterhaltung in der Stadt Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}], "hu": [{"name": "Тракийска гробница", "text": "Egy ókori traák sírhely régészeti lelőhelye Banja közelében.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Хилендарски метох", "text": "Egy egykori kolostori birtok, amely ma múzeumként működik Banjában.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Самарското знаме", "text": "Hatalmas emlékhely Sztara Zagora védőinek tiszteletére Banja közelében.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Парк \"Бедечка\"", "text": "Népszerű városi park Sztara Zagora régiójában, amely ideális sétákhoz.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Парк „Подполковник Калитин“", "text": "Kalitin alezredesről elnevezett emlékpark Banja környékén.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Панорама", "text": "A Panorama nevű természeti helyszín tágas és zavartalan kilátást nyújt a bulgáriai Banja Sztara Zagora környékére. Gyönyörű kilátóként ideális mindazok számára, akik értékelik a messzire nyúló tájképi perspektívát. A fotósok és a természetkedvelők egyaránt megtalálják itt a számításukat.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "пам. Васил Левски", "text": "Emlékmű a bolgár nemzeti hős, Vaszil Levszki tiszteletére.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Революционерски паметник", "text": "A történelmi forradalmároknak szentelt helyi emlékmű.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Бадминтон игрища", "text": "Sportlétesítmény tollaslabda-pályákkal Banja városában.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Летен театър", "text": "Szabadtéri színpad kulturális események és előadások számára.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ул. Свети Апостол Карл", "text": "Szent Károly apostolról elnevezett utca Banja városában.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Зала на смеха", "text": "Helyi szórakoztató létesítmény Banja városában.", "category": "landmark", "coords": [25.616934, 42.439353]}], "ro": [{"name": "Тракийска гробница", "text": "Un sit arheologic al unui mormânt tracic antic lângă Bania.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Хилендарски метох", "text": "Un fost avanpost monahal care astăzi servește ca muzeu în Bania.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Самарското знаме", "text": "Un complex memorial vast dedicat apărătorilor orașului Stara Zagora, lângă Bania.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Парк \"Бедечка\"", "text": "Un parc orașenesc cunoscut în regiunea Stara Zagora, ideal pentru plimbări.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Парк „Подполковник Калитин“", "text": "Un parc memorial numit după Podpolkovnik Kalitin în regiunea Bania.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Панорама", "text": "Locația naturală Panorama oferă o priveliște vastă și neobstrucționată asupra împrejurimilor de la Banya Stara Zagora din Bulgaria. Ca punct de belvedere minunat, este ideal pentru toți cei care apreciază o perspectivă peisagistică largă. Fotografi și iubitori de natură deopotrivă se vor bucura de acest loc.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "пам. Васил Левски", "text": "Un monument dedicat eroului național bulgar Vasil Levski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Революционерски паметник", "text": "Un monument local dedicat revoluționarilor istorici.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Бадминтон игрища", "text": "Facilitate sportivă cu terenuri de badminton în Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Летен театър", "text": "O scenă în aer liber pentru evenimente culturale și spectacole.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ул. Свети Апостол Карл", "text": "O stradă din Banja numită după Sfântul Apostol Carol.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Зала на смеха", "text": "O atracție locală pentru divertisment în orașul Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}], "en": [{"name": "Тракийска гробница", "text": "An archaeological site of an ancient Thracian tomb near Banja.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Хилендарски метох", "text": "A former monastic outpost that now serves as a museum in Banja.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Defenders of Stara Zagora Memorial Complex", "text": "A large memorial complex dedicated to the defenders of Stara Zagora near Banja.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Bedechka Park", "text": "A well-known city park in the Stara Zagora region, ideal for walks.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Podpolkovnik Kalitin Park", "text": "A memorial park named after Podpolkovnik Kalitin in the Banja region.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Панорама", "text": "The natural site of Panorama provides a vast and unobstructed view of the surroundings of Banya Stara Zagora in Bulgaria. As a wonderful viewpoint, it is ideal for anyone who appreciates a sweeping landscape perspective. Photographers and nature lovers alike will find much to enjoy here.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "пам. Васил Левски", "text": "A monument dedicated to the Bulgarian national hero Vasil Levski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Революционерски паметник", "text": "A local monument dedicated to historical revolutionaries.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Бадминтон игрища", "text": "Sports facility featuring courts for playing badminton in Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Летен театър", "text": "An open-air venue for cultural events and performances.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ул. Свети Апостол Карл", "text": "A street in Banja named after the Saint Apostle Karl.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Зала на смеха", "text": "A local attraction for entertainment in the town of Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}]},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Stara Sagora)", hu: "Banya (Stara Zagora)", ro: "Bania (Stara Zagora)", en: "Banya (Stara Zagora)" },
@@ -13648,6 +12568,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.248259,
                         42.2129
                   ]
+            },
+            {
+                  "name": "Mineralkomplex \"Plazh\"",
+                  "text": "Ein Mineralwasser-Schwimmbadkomplex in Saparewa Banja für Gesundheit und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        23.255301,
+                        42.291819
+                  ]
             }
       ],
       "hu": [
@@ -13721,6 +12650,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.248259,
                         42.2129
+                  ]
+            },
+            {
+                  "name": "Минерален комплекс „Плажъ“",
+                  "text": "Ásványvizes úszómedence-komplexum Szapareva Banyában az egészség és a kikapcsolódás érdekében.",
+                  "category": "family",
+                  "coords": [
+                        23.255301,
+                        42.291819
                   ]
             }
       ],
@@ -13796,6 +12734,15 @@ export const bulgariaCitiesV2: POI[] = [
                         23.248259,
                         42.2129
                   ]
+            },
+            {
+                  "name": "Минерален комплекс „Плажъ“",
+                  "text": "Un complex de piscine cu apă minerală în Sapareva Banya, pentru sănătate și recreere.",
+                  "category": "family",
+                  "coords": [
+                        23.255301,
+                        42.291819
+                  ]
             }
       ],
       "en": [
@@ -13869,6 +12816,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         23.248259,
                         42.2129
+                  ]
+            },
+            {
+                  "name": "Минерален комплекс „Плажъ“",
+                  "text": "A mineral water swimming pool complex in Sapareva Banya for health and leisure.",
+                  "category": "family",
+                  "coords": [
+                        23.255301,
+                        42.291819
                   ]
             }
       ]

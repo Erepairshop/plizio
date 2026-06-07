@@ -540,2536 +540,7 @@ export const czechrepublicCitiesV2: POI[] = [
 }
   },
   {
-    id: "czechrepublic-brno-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Místodržitelský palác",
-                  "text": "Museum im Statthalterpalais in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.608183,
-                        49.197637
-                  ]
-            },
-            {
-                  "name": "Hvězdárna a planetárium Brno",
-                  "text": "Sternwarte und Planetarium in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.583642,
-                        49.204766
-                  ]
-            },
-            {
-                  "name": "Mendelovo muzeum",
-                  "text": "Museum zu Ehren von Gregor Mendel in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.593795,
-                        49.1913
-                  ]
-            },
-            {
-                  "name": "Bischofshof",
-                  "text": "Museum im Bischofshof in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.608329,
-                        49.191216
-                  ]
-            },
-            {
-                  "name": "Anthropos - Pavillon",
-                  "text": "Anthropologisches Museum in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.567164,
-                        49.192115
-                  ]
-            },
-            {
-                  "name": "Vila Stiassny",
-                  "text": "Funktionalistische Villa und Museum in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.572908,
-                        49.196975
-                  ]
-            },
-            {
-                  "name": "Brněnská kostnice",
-                  "text": "Historisches Beinhaus in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.607959,
-                        49.196345
-                  ]
-            },
-            {
-                  "name": "Vila Löw-Beer v Brně",
-                  "text": "Historische Villa der Familie Löw-Beer in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.613722,
-                        49.206094
-                  ]
-            },
-            {
-                  "name": "letohrádek Mitrovských",
-                  "text": "Schlossähnliches Gebäude in Brünn.",
-                  "category": "castle",
-                  "coords": [
-                        16.589035,
-                        49.188416
-                  ]
-            },
-            {
-                  "name": "Dům pánů z Kunštátu",
-                  "text": "Kulturzentrum in einem historischen Haus in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.606574,
-                        49.193104
-                  ]
-            },
-            {
-                  "name": "Villa Tugendhat",
-                  "text": "Weltberühmte funktionalistische Villa in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.616084,
-                        49.207171
-                  ]
-            },
-            {
-                  "name": "Jurkovičova vila",
-                  "text": "Villa entworfen von Dušan Jurkovič in Brünn.",
-                  "category": "museum",
-                  "coords": [
-                        16.576115,
-                        49.20662
-                  ]
-            },
-            {
-                  "name": "Festung Spielberg",
-                  "text": "Historische Festung über Brünn.",
-                  "category": "castle",
-                  "coords": [
-                        16.599411,
-                        49.194477
-                  ]
-            },
-            {
-                  "name": "Zderadův sloup",
-                  "text": "Historische Säule in Brünn.",
-                  "category": "historical",
-                  "coords": [
-                        16.627613,
-                        49.191097
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-sever",
-                  "text": "Rathaus des Stadtbezirks Brno-Nord.",
-                  "category": "historical",
-                  "coords": [
-                        16.623214,
-                        49.200273
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno Střed",
-                  "text": "Rathaus des Stadtbezirks Brno-Zentrum.",
-                  "category": "historical",
-                  "coords": [
-                        16.605628,
-                        49.193106
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-Židenice",
-                  "text": "Rathaus des Stadtbezirks Brno-Židenice.",
-                  "category": "historical",
-                  "coords": [
-                        16.64447,
-                        49.201049
-                  ]
-            },
-            {
-                  "name": "Mönitzer Tor",
-                  "text": "Historisches Stadttor in Brünn.",
-                  "category": "fortress",
-                  "coords": [
-                        16.612698,
-                        49.194263
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-jih",
-                  "text": "Rathaus des Stadtbezirks Brno-Süd.",
-                  "category": "historical",
-                  "coords": [
-                        16.62297,
-                        49.174535
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno - Černovice",
-                  "text": "Rathaus des Stadtbezirks Brno-Černovice.",
-                  "category": "historical",
-                  "coords": [
-                        16.636869,
-                        49.186646
-                  ]
-            },
-            {
-                  "name": "Janáčkovo divadlo",
-                  "text": "Opernhaus in Brünn.",
-                  "category": "cultural",
-                  "coords": [
-                        16.611044,
-                        49.198222
-                  ]
-            },
-            {
-                  "name": "Reduta",
-                  "text": "Historisches Theater in Brünn.",
-                  "category": "cultural",
-                  "coords": [
-                        16.6097,
-                        49.192039
-                  ]
-            },
-            {
-                  "name": "Vereinshaus",
-                  "text": "Kultur- und Konzerthaus in Brünn.",
-                  "category": "cultural",
-                  "coords": [
-                        16.604203,
-                        49.196084
-                  ]
-            },
-            {
-                  "name": "J. A. Komenského",
-                  "text": "Evangelische Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.603268,
-                        49.19767
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava",
-                  "text": "Orthodoxe Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.595647,
-                        49.196556
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdalena",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.6108,
-                        49.192223
-                  ]
-            },
-            {
-                  "name": "svatý Josef",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.612296,
-                        49.19316
-                  ]
-            },
-            {
-                  "name": "svatí Janové",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.611272,
-                        49.194312
-                  ]
-            },
-            {
-                  "name": "Neposkvrněného početí Panny Marie",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.619765,
-                        49.192407
-                  ]
-            },
-            {
-                  "name": "Synagoga Agudas achim",
-                  "text": "Synagoge in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.617672,
-                        49.192742
-                  ]
-            },
-            {
-                  "name": "svatého Jiljí",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.624056,
-                        49.17588
-                  ]
-            },
-            {
-                  "name": "sv. Rodiny",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.59731,
-                        49.2012
-                  ]
-            },
-            {
-                  "name": "Husův sbor",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.603107,
-                        49.203651
-                  ]
-            },
-            {
-                  "name": "Betlémský kostel",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.6023,
-                        49.192954
-                  ]
-            },
-            {
-                  "name": "svatý Leopold",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.595699,
-                        49.185057
-                  ]
-            },
-            {
-                  "name": "sv. Augustin",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.581245,
-                        49.202621
-                  ]
-            },
-            {
-                  "name": "svatý Václav",
-                  "text": "Kapelle in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.578622,
-                        49.212187
-                  ]
-            },
-            {
-                  "name": "svatý Cyril a Metoděj",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.646551,
-                        49.198608
-                  ]
-            },
-            {
-                  "name": "Spasitele",
-                  "text": "Kirche in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.63871,
-                        49.197201
-                  ]
-            },
-            {
-                  "name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích",
-                  "text": "Evangelisches Gotteshaus in Brünn-Židenice.",
-                  "category": "religious",
-                  "coords": [
-                        16.641943,
-                        49.196416
-                  ]
-            },
-            {
-                  "name": "Blahoslavův dům",
-                  "text": "Blahoslav-Haus, ein bedeutendes religiöses Gebäude in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.604111,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Kirche des Heiligsten Herzens Jesu in Brünn.",
-                  "category": "religious",
-                  "coords": [
-                        16.630723,
-                        49.211914
-                  ]
-            },
-            {
-                  "name": "Gelber Berg",
-                  "text": "Hügelgebiet im Stadtgebiet von Brünn.",
-                  "category": "natural",
-                  "coords": [
-                        16.574131,
-                        49.201711
-                  ]
-            },
-            {
-                  "name": "náměstí 28. října",
-                  "text": "Städtischer Park am Platz des 28. Oktober in Brünn.",
-                  "category": "park",
-                  "coords": [
-                        16.612843,
-                        49.202862
-                  ]
-            },
-            {
-                  "name": "Augarten",
-                  "text": "Bedeutender historischer Park im Zentrum von Brünn.",
-                  "category": "park",
-                  "coords": [
-                        16.608936,
-                        49.206667
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada",
-                  "text": "Botanischer Garten der Masaryk-Universität in Brünn.",
-                  "category": "park",
-                  "coords": [
-                        16.596498,
-                        49.204244
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten und Arboretum Mendel",
-                  "text": "Botanischer Garten und Arboretum der Mendel-Universität Brünn.",
-                  "category": "park",
-                  "coords": [
-                        16.613241,
-                        49.213585
-                  ]
-            },
-            {
-                  "name": "Schreberpark",
-                  "text": "Parkanlage, bekannt als Schreber-Gärten in Brünn.",
-                  "category": "park",
-                  "coords": [
-                        16.621225,
-                        49.207734
-                  ]
-            },
-            {
-                  "name": "Roučkovo jezero",
-                  "text": "Ein kleiner See in Brünn, der zur Entspannung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        16.644408,
-                        49.151315
-                  ]
-            },
-            {
-                  "name": "Plavecké jezero",
-                  "text": "Ein Badeweiher in Brünn für erfrischende Momente am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        16.642831,
-                        49.147831
-                  ]
-            },
-            {
-                  "name": "Opleta",
-                  "text": "Ein ruhiger Ort in Brünn für kurze Spaziergänge am Seeufer.",
-                  "category": "natural",
-                  "coords": [
-                        16.643563,
-                        49.145674
-                  ]
-            },
-            {
-                  "name": "Kocábka",
-                  "text": "Ein kleiner Teich in Brünn mit einer natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        16.644097,
-                        49.14666
-                  ]
-            },
-            {
-                  "name": "Strakovo jezero",
-                  "text": "Ein lokales Gewässer in Brünn, ideal für eine Pause im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        16.642606,
-                        49.146677
-                  ]
-            },
-            {
-                  "name": "Ledárenské jezero",
-                  "text": "Ein See in Brünn, der sich gut für Beobachtungen der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        16.643525,
-                        49.149256
-                  ]
-            },
-            {
-                  "name": "Mateční",
-                  "text": "Ein friedliches Gewässer in Brünn inmitten einer ruhigen Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        16.645803,
-                        49.145045
-                  ]
-            },
-            {
-                  "name": "U vrboveckého mlýna",
-                  "text": "Ein Naturgewässer in Brünn, das zum Verweilen am Ufer einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        16.504065,
-                        49.210615
-                  ]
-            },
-            {
-                  "name": "Kmuníčkovo jezero",
-                  "text": "Ein ruhiger See in Brünn für eine Auszeit im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        16.644843,
-                        49.152919
-                  ]
-            },
-            {
-                  "name": "Typfl",
-                  "text": "Ein kleines Gewässer in Brünn für entspannte Momente.",
-                  "category": "natural",
-                  "coords": [
-                        16.644329,
-                        49.153839
-                  ]
-            },
-            {
-                  "name": "Kašpárkovo jezero",
-                  "text": "Ein malerischer Teich in Brünn für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        16.64284,
-                        49.155811
-                  ]
-            },
-            {
-                  "name": "Malé jezero",
-                  "text": "Ein kleiner, friedlicher See im Stadtgebiet von Brünn.",
-                  "category": "natural",
-                  "coords": [
-                        16.672864,
-                        49.217415
-                  ]
-            },
-            {
-                  "name": "U Kadlecova mlýna",
-                  "text": "Ein naturnahes Gewässer in Brünn, ideal für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        16.71488,
-                        49.213562
-                  ]
-            },
-            {
-                  "name": "Jezero Studánka",
-                  "text": "Ein ruhiger See in Brünn mit schöner Naturkulisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.67159,
-                        49.217576
-                  ]
-            },
-            {
-                  "name": "Rájecká tůň",
-                  "text": "Ein stilles Naturgewässer in Brünn für ruhige Beobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        16.6421,
-                        49.165446
-                  ]
-            },
-            {
-                  "name": "Brünner Talsperre",
-                  "text": "Ein beliebtes Ausflugsziel in Brünn für Spaziergänge und Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        16.485642,
-                        49.252033
-                  ]
-            },
-            {
-                  "name": "Pískoviště",
-                  "text": "Ein einfacher Spielplatz in Brünn, auf dem Kinder sicher spielen können.",
-                  "category": "family",
-                  "coords": [
-                        16.57668,
-                        49.196001
-                  ]
-            },
-            {
-                  "name": "Hřiště",
-                  "text": "Ein lokaler Spielbereich in Brünn für täglichen Spaß im Freien.",
-                  "category": "family",
-                  "coords": [
-                        16.593684,
-                        49.196405
-                  ]
-            },
-            {
-                  "name": "Dopravní hřiště Riviéra",
-                  "text": "Ein spezieller Spielplatz in Brünn für aktives Spielen und Lernen.",
-                  "category": "family",
-                  "coords": [
-                        16.569776,
-                        49.18758
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Pod Kaštany 17",
-                  "text": "Ein gepflegter Spielplatz in Brünn für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        16.589001,
-                        49.211547
-                  ]
-            },
-            {
-                  "name": "Mini golf Kšírovka",
-                  "text": "Ein unterhaltsamer Minigolfplatz in Brünn für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        16.617676,
-                        49.169272
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Botanická",
-                  "text": "Ein schöner Spielplatz in Brünn, ideal für einen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        16.596493,
-                        49.210729
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Místodržitelský palác",
-                  "text": "Múzeum a brünni Helytartói palotában.",
-                  "category": "museum",
-                  "coords": [
-                        16.608183,
-                        49.197637
-                  ]
-            },
-            {
-                  "name": "Hvězdárna a planetárium Brno",
-                  "text": "Csillagvizsgáló és planetárium Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.583642,
-                        49.204766
-                  ]
-            },
-            {
-                  "name": "Mendelovo muzeum",
-                  "text": "Gregor Mendel tiszteletére alapított múzeum Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.593795,
-                        49.1913
-                  ]
-            },
-            {
-                  "name": "Biskupský dvůr",
-                  "text": "Múzeum a brünni Püspöki udvarban.",
-                  "category": "museum",
-                  "coords": [
-                        16.608329,
-                        49.191216
-                  ]
-            },
-            {
-                  "name": "Anthropos",
-                  "text": "Antropológiai múzeum Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.567164,
-                        49.192115
-                  ]
-            },
-            {
-                  "name": "Vila Stiassny",
-                  "text": "Funkcionalista villa és múzeum Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.572908,
-                        49.196975
-                  ]
-            },
-            {
-                  "name": "Brněnská kostnice",
-                  "text": "Történelmi csontkamra Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.607959,
-                        49.196345
-                  ]
-            },
-            {
-                  "name": "Vila Löw-Beer v Brně",
-                  "text": "A Löw-Beer család történelmi villája Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.613722,
-                        49.206094
-                  ]
-            },
-            {
-                  "name": "letohrádek Mitrovských",
-                  "text": "Kastély jellegű épület Brünnben.",
-                  "category": "castle",
-                  "coords": [
-                        16.589035,
-                        49.188416
-                  ]
-            },
-            {
-                  "name": "Dům pánů z Kunštátu",
-                  "text": "Kulturális központ egy történelmi házban Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.606574,
-                        49.193104
-                  ]
-            },
-            {
-                  "name": "Vila Tugendhat",
-                  "text": "Világhírű funkcionalista villa Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.616084,
-                        49.207171
-                  ]
-            },
-            {
-                  "name": "Jurkovičova vila",
-                  "text": "Dušan Jurkovič által tervezett villa Brünnben.",
-                  "category": "museum",
-                  "coords": [
-                        16.576115,
-                        49.20662
-                  ]
-            },
-            {
-                  "name": "Hrad Špilberk",
-                  "text": "Történelmi erőd Brünn felett.",
-                  "category": "castle",
-                  "coords": [
-                        16.599411,
-                        49.194477
-                  ]
-            },
-            {
-                  "name": "Zderadův sloup",
-                  "text": "Történelmi oszlop Brünnben.",
-                  "category": "historical",
-                  "coords": [
-                        16.627613,
-                        49.191097
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-sever",
-                  "text": "Brünn-Észak városrész városházája.",
-                  "category": "historical",
-                  "coords": [
-                        16.623214,
-                        49.200273
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno Střed",
-                  "text": "Brünn-Központ városrész városházája.",
-                  "category": "historical",
-                  "coords": [
-                        16.605628,
-                        49.193106
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-Židenice",
-                  "text": "Brünn-Židenice városrész városházája.",
-                  "category": "historical",
-                  "coords": [
-                        16.64447,
-                        49.201049
-                  ]
-            },
-            {
-                  "name": "Měnínská brána",
-                  "text": "Történelmi városkapu Brünnben.",
-                  "category": "fortress",
-                  "coords": [
-                        16.612698,
-                        49.194263
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-jih",
-                  "text": "Brünn-Dél városrész városházája.",
-                  "category": "historical",
-                  "coords": [
-                        16.62297,
-                        49.174535
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno - Černovice",
-                  "text": "Brünn-Černovice városrész városházája.",
-                  "category": "historical",
-                  "coords": [
-                        16.636869,
-                        49.186646
-                  ]
-            },
-            {
-                  "name": "Janáčkovo divadlo",
-                  "text": "Operaház Brünnben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.611044,
-                        49.198222
-                  ]
-            },
-            {
-                  "name": "Reduta",
-                  "text": "Történelmi színház Brünnben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.6097,
-                        49.192039
-                  ]
-            },
-            {
-                  "name": "Besední dům",
-                  "text": "Kulturális és koncertközpont Brünnben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.604203,
-                        49.196084
-                  ]
-            },
-            {
-                  "name": "J. A. Komenského",
-                  "text": "Evangélikus templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.603268,
-                        49.19767
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava",
-                  "text": "Ortodox templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.595647,
-                        49.196556
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdalena",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.6108,
-                        49.192223
-                  ]
-            },
-            {
-                  "name": "svatý Josef",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.612296,
-                        49.19316
-                  ]
-            },
-            {
-                  "name": "svatí Janové",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.611272,
-                        49.194312
-                  ]
-            },
-            {
-                  "name": "Neposkvrněného početí Panny Marie",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.619765,
-                        49.192407
-                  ]
-            },
-            {
-                  "name": "Synagoga Agudas achim",
-                  "text": "Zsinagóga Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.617672,
-                        49.192742
-                  ]
-            },
-            {
-                  "name": "svatého Jiljí",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.624056,
-                        49.17588
-                  ]
-            },
-            {
-                  "name": "sv. Rodiny",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.59731,
-                        49.2012
-                  ]
-            },
-            {
-                  "name": "Husův sbor",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.603107,
-                        49.203651
-                  ]
-            },
-            {
-                  "name": "Betlémský kostel",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.6023,
-                        49.192954
-                  ]
-            },
-            {
-                  "name": "svatý Leopold",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.595699,
-                        49.185057
-                  ]
-            },
-            {
-                  "name": "sv. Augustin",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.581245,
-                        49.202621
-                  ]
-            },
-            {
-                  "name": "svatý Václav",
-                  "text": "Kápolna Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.578622,
-                        49.212187
-                  ]
-            },
-            {
-                  "name": "svatý Cyril a Metoděj",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.646551,
-                        49.198608
-                  ]
-            },
-            {
-                  "name": "Spasitele",
-                  "text": "Templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.63871,
-                        49.197201
-                  ]
-            },
-            {
-                  "name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích",
-                  "text": "Evangélikus imaház Brünn-Židenicében.",
-                  "category": "religious",
-                  "coords": [
-                        16.641943,
-                        49.196416
-                  ]
-            },
-            {
-                  "name": "Blahoslavův dům",
-                  "text": "Blahoslav-ház, jelentős vallási épület Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.604111,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Jézus Legszentebb Szíve templom Brünnben.",
-                  "category": "religious",
-                  "coords": [
-                        16.630723,
-                        49.211914
-                  ]
-            },
-            {
-                  "name": "Žlutý kopec",
-                  "text": "Hegyvidéki terület Brünn városában.",
-                  "category": "natural",
-                  "coords": [
-                        16.574131,
-                        49.201711
-                  ]
-            },
-            {
-                  "name": "náměstí 28. října",
-                  "text": "Városi park az Október 28. téren Brünnben.",
-                  "category": "park",
-                  "coords": [
-                        16.612843,
-                        49.202862
-                  ]
-            },
-            {
-                  "name": "Lužánky",
-                  "text": "Jelentős történelmi park Brünn központjában.",
-                  "category": "park",
-                  "coords": [
-                        16.608936,
-                        49.206667
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada",
-                  "text": "A brünni Masaryk Egyetem botanikus kertje.",
-                  "category": "park",
-                  "coords": [
-                        16.596498,
-                        49.204244
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada a arboretum Mendelu",
-                  "text": "A brünni Mendel Egyetem botanikus kertje és arborétuma.",
-                  "category": "park",
-                  "coords": [
-                        16.613241,
-                        49.213585
-                  ]
-            },
-            {
-                  "name": "Schreberovy zahrádky",
-                  "text": "Park, ismert mint Schreber-kertek Brünnben.",
-                  "category": "park",
-                  "coords": [
-                        16.621225,
-                        49.207734
-                  ]
-            },
-            {
-                  "name": "Roučkovo jezero",
-                  "text": "Kisméretű tó Brnóban, amely természeti kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        16.644408,
-                        49.151315
-                  ]
-            },
-            {
-                  "name": "Plavecké jezero",
-                  "text": "Fürdőtó Brnóban a frissítő vízparti pillanatokért.",
-                  "category": "natural",
-                  "coords": [
-                        16.642831,
-                        49.147831
-                  ]
-            },
-            {
-                  "name": "Opleta",
-                  "text": "Csendes hely Brnóban rövid tóparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.643563,
-                        49.145674
-                  ]
-            },
-            {
-                  "name": "Kocábka",
-                  "text": "Kicsi tó Brnóban természetes környezettel.",
-                  "category": "natural",
-                  "coords": [
-                        16.644097,
-                        49.14666
-                  ]
-            },
-            {
-                  "name": "Strakovo jezero",
-                  "text": "Helyi vízfelület Brnóban, ideális egy zöldövezeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        16.642606,
-                        49.146677
-                  ]
-            },
-            {
-                  "name": "Ledárenské jezero",
-                  "text": "Tó Brnóban, amely alkalmas a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        16.643525,
-                        49.149256
-                  ]
-            },
-            {
-                  "name": "Mateční",
-                  "text": "Békés vízfelület Brnóban, nyugodt környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        16.645803,
-                        49.145045
-                  ]
-            },
-            {
-                  "name": "U vrboveckého mlýna",
-                  "text": "Természetes víz Brnóban, amely pihenésre csábít a parton.",
-                  "category": "natural",
-                  "coords": [
-                        16.504065,
-                        49.210615
-                  ]
-            },
-            {
-                  "name": "Kmuníčkovo jezero",
-                  "text": "Csendes tó Brnóban a szabadtéri kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.644843,
-                        49.152919
-                  ]
-            },
-            {
-                  "name": "Typfl",
-                  "text": "Kisméretű vízfelület Brnóban a relaxált pillanatokért.",
-                  "category": "natural",
-                  "coords": [
-                        16.644329,
-                        49.153839
-                  ]
-            },
-            {
-                  "name": "Kašpárkovo jezero",
-                  "text": "Festői tó Brnóban a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        16.64284,
-                        49.155811
-                  ]
-            },
-            {
-                  "name": "Malé jezero",
-                  "text": "Kicsi, békés tó Brno városi területén.",
-                  "category": "natural",
-                  "coords": [
-                        16.672864,
-                        49.217415
-                  ]
-            },
-            {
-                  "name": "U Kadlecova mlýna",
-                  "text": "Természetközeli vízfelület Brnóban, ideális sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.71488,
-                        49.213562
-                  ]
-            },
-            {
-                  "name": "Jezero Studánka",
-                  "text": "Csendes tó Brnóban, szép természeti környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        16.67159,
-                        49.217576
-                  ]
-            },
-            {
-                  "name": "Rájecká tůň",
-                  "text": "Csendes természetes víz Brnóban a nyugodt megfigyeléshez.",
-                  "category": "natural",
-                  "coords": [
-                        16.6421,
-                        49.165446
-                  ]
-            },
-            {
-                  "name": "Brněnská přehrada",
-                  "text": "Népszerű kirándulóhely Brnóban sétákhoz és vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.485642,
-                        49.252033
-                  ]
-            },
-            {
-                  "name": "Pískoviště",
-                  "text": "Egyszerű játszótér Brnóban, ahol a gyerekek biztonságosan játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        16.57668,
-                        49.196001
-                  ]
-            },
-            {
-                  "name": "Hřiště",
-                  "text": "Helyi játszótér Brnóban a napi szabadtéri szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        16.593684,
-                        49.196405
-                  ]
-            },
-            {
-                  "name": "Dopravní hřiště Riviéra",
-                  "text": "Speciális játszótér Brnóban az aktív játékhoz és tanuláshoz.",
-                  "category": "family",
-                  "coords": [
-                        16.569776,
-                        49.18758
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Pod Kaštany 17",
-                  "text": "Gondozott játszótér Brnóban kisgyermekes családoknak.",
-                  "category": "family",
-                  "coords": [
-                        16.589001,
-                        49.211547
-                  ]
-            },
-            {
-                  "name": "Mini golf Kšírovka",
-                  "text": "Szórakoztató minigolfpálya Brnóban az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        16.617676,
-                        49.169272
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Botanická",
-                  "text": "Szép játszótér Brnóban, ideális egy családi kiruccanáshoz.",
-                  "category": "family",
-                  "coords": [
-                        16.596493,
-                        49.210729
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Místodržitelský palác",
-                  "text": "Muzeu în Palatul Guvernatorului din Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.608183,
-                        49.197637
-                  ]
-            },
-            {
-                  "name": "Hvězdárna a planetárium Brno",
-                  "text": "Observator astronomic și planetariu în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.583642,
-                        49.204766
-                  ]
-            },
-            {
-                  "name": "Mendelovo muzeum",
-                  "text": "Muzeu dedicat lui Gregor Mendel în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.593795,
-                        49.1913
-                  ]
-            },
-            {
-                  "name": "Biskupský dvůr",
-                  "text": "Muzeu în curtea episcopală din Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.608329,
-                        49.191216
-                  ]
-            },
-            {
-                  "name": "Anthropos",
-                  "text": "Muzeu de antropologie în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.567164,
-                        49.192115
-                  ]
-            },
-            {
-                  "name": "Vila Stiassny",
-                  "text": "Vilă funcționalistă și muzeu în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.572908,
-                        49.196975
-                  ]
-            },
-            {
-                  "name": "Brněnská kostnice",
-                  "text": "Osuar istoric în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.607959,
-                        49.196345
-                  ]
-            },
-            {
-                  "name": "Vila Löw-Beer v Brně",
-                  "text": "Vilă istorică a familiei Löw-Beer în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.613722,
-                        49.206094
-                  ]
-            },
-            {
-                  "name": "letohrádek Mitrovských",
-                  "text": "Clădire în stil castel în Brno.",
-                  "category": "castle",
-                  "coords": [
-                        16.589035,
-                        49.188416
-                  ]
-            },
-            {
-                  "name": "Dům pánů z Kunštátu",
-                  "text": "Centru cultural într-o casă istorică din Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.606574,
-                        49.193104
-                  ]
-            },
-            {
-                  "name": "Vila Tugendhat",
-                  "text": "Vilă funcționalistă de renume mondial în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.616084,
-                        49.207171
-                  ]
-            },
-            {
-                  "name": "Jurkovičova vila",
-                  "text": "Vilă proiectată de Dušan Jurkovič în Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.576115,
-                        49.20662
-                  ]
-            },
-            {
-                  "name": "Hrad Špilberk",
-                  "text": "Fortăreață istorică deasupra orașului Brno.",
-                  "category": "castle",
-                  "coords": [
-                        16.599411,
-                        49.194477
-                  ]
-            },
-            {
-                  "name": "Zderadův sloup",
-                  "text": "Coloană istorică în Brno.",
-                  "category": "historical",
-                  "coords": [
-                        16.627613,
-                        49.191097
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-sever",
-                  "text": "Primăria districtului Brno-Nord.",
-                  "category": "historical",
-                  "coords": [
-                        16.623214,
-                        49.200273
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno Střed",
-                  "text": "Primăria districtului Brno-Centru.",
-                  "category": "historical",
-                  "coords": [
-                        16.605628,
-                        49.193106
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-Židenice",
-                  "text": "Primăria districtului Brno-Židenice.",
-                  "category": "historical",
-                  "coords": [
-                        16.64447,
-                        49.201049
-                  ]
-            },
-            {
-                  "name": "Měnínská brána",
-                  "text": "Poartă istorică a orașului în Brno.",
-                  "category": "fortress",
-                  "coords": [
-                        16.612698,
-                        49.194263
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-jih",
-                  "text": "Primăria districtului Brno-Sud.",
-                  "category": "historical",
-                  "coords": [
-                        16.62297,
-                        49.174535
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno - Černovice",
-                  "text": "Primăria districtului Brno-Černovice.",
-                  "category": "historical",
-                  "coords": [
-                        16.636869,
-                        49.186646
-                  ]
-            },
-            {
-                  "name": "Janáčkovo divadlo",
-                  "text": "Operă în Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.611044,
-                        49.198222
-                  ]
-            },
-            {
-                  "name": "Reduta",
-                  "text": "Teatru istoric în Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.6097,
-                        49.192039
-                  ]
-            },
-            {
-                  "name": "Besední dům",
-                  "text": "Centru cultural și de concerte în Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.604203,
-                        49.196084
-                  ]
-            },
-            {
-                  "name": "J. A. Komenského",
-                  "text": "Biserică evanghelică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.603268,
-                        49.19767
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava",
-                  "text": "Biserică ortodoxă în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.595647,
-                        49.196556
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdalena",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.6108,
-                        49.192223
-                  ]
-            },
-            {
-                  "name": "svatý Josef",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.612296,
-                        49.19316
-                  ]
-            },
-            {
-                  "name": "svatí Janové",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.611272,
-                        49.194312
-                  ]
-            },
-            {
-                  "name": "Neposkvrněného početí Panny Marie",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.619765,
-                        49.192407
-                  ]
-            },
-            {
-                  "name": "Synagoga Agudas achim",
-                  "text": "Sinagogă în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.617672,
-                        49.192742
-                  ]
-            },
-            {
-                  "name": "svatého Jiljí",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.624056,
-                        49.17588
-                  ]
-            },
-            {
-                  "name": "sv. Rodiny",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.59731,
-                        49.2012
-                  ]
-            },
-            {
-                  "name": "Husův sbor",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.603107,
-                        49.203651
-                  ]
-            },
-            {
-                  "name": "Betlémský kostel",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.6023,
-                        49.192954
-                  ]
-            },
-            {
-                  "name": "svatý Leopold",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.595699,
-                        49.185057
-                  ]
-            },
-            {
-                  "name": "sv. Augustin",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.581245,
-                        49.202621
-                  ]
-            },
-            {
-                  "name": "svatý Václav",
-                  "text": "Capelă în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.578622,
-                        49.212187
-                  ]
-            },
-            {
-                  "name": "svatý Cyril a Metoděj",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.646551,
-                        49.198608
-                  ]
-            },
-            {
-                  "name": "Spasitele",
-                  "text": "Biserică în Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.63871,
-                        49.197201
-                  ]
-            },
-            {
-                  "name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích",
-                  "text": "Casă de rugăciune evanghelică în Brno-Židenice.",
-                  "category": "religious",
-                  "coords": [
-                        16.641943,
-                        49.196416
-                  ]
-            },
-            {
-                  "name": "Blahoslavův dům",
-                  "text": "Casa Blahoslav, o clădire religioasă importantă din Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.604111,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Biserica Preasfintei Inimi a lui Isus din Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.630723,
-                        49.211914
-                  ]
-            },
-            {
-                  "name": "Žlutý kopec",
-                  "text": "Zonă deluroasă în orașul Brno.",
-                  "category": "natural",
-                  "coords": [
-                        16.574131,
-                        49.201711
-                  ]
-            },
-            {
-                  "name": "náměstí 28. října",
-                  "text": "Parc urban în Piața 28 Octombrie din Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.612843,
-                        49.202862
-                  ]
-            },
-            {
-                  "name": "Lužánky",
-                  "text": "Parc istoric important în centrul orașului Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.608936,
-                        49.206667
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada",
-                  "text": "Grădina Botanică a Universității Masaryk din Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.596498,
-                        49.204244
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada a arboretum Mendelu",
-                  "text": "Grădina botanică și arboretul Universității Mendel din Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.613241,
-                        49.213585
-                  ]
-            },
-            {
-                  "name": "Schreberovy zahrádky",
-                  "text": "Zonă de parc cunoscută sub numele de grădini Schreber în Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.621225,
-                        49.207734
-                  ]
-            },
-            {
-                  "name": "Roučkovo jezero",
-                  "text": "Un lac mic în Brno, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.644408,
-                        49.151315
-                  ]
-            },
-            {
-                  "name": "Plavecké jezero",
-                  "text": "Un lac pentru înot în Brno pentru momente revigorante la apă.",
-                  "category": "natural",
-                  "coords": [
-                        16.642831,
-                        49.147831
-                  ]
-            },
-            {
-                  "name": "Opleta",
-                  "text": "Un loc liniștit în Brno pentru scurte plimbări pe malul lacului.",
-                  "category": "natural",
-                  "coords": [
-                        16.643563,
-                        49.145674
-                  ]
-            },
-            {
-                  "name": "Kocábka",
-                  "text": "Un iaz mic în Brno cu un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        16.644097,
-                        49.14666
-                  ]
-            },
-            {
-                  "name": "Strakovo jezero",
-                  "text": "O zonă cu apă locală în Brno, ideală pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.642606,
-                        49.146677
-                  ]
-            },
-            {
-                  "name": "Ledárenské jezero",
-                  "text": "Un lac în Brno, potrivit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        16.643525,
-                        49.149256
-                  ]
-            },
-            {
-                  "name": "Mateční",
-                  "text": "O zonă cu apă liniștită în Brno, în mijlocul unui peisaj calm.",
-                  "category": "natural",
-                  "coords": [
-                        16.645803,
-                        49.145045
-                  ]
-            },
-            {
-                  "name": "U vrboveckého mlýna",
-                  "text": "O apă naturală în Brno care invită la relaxare pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        16.504065,
-                        49.210615
-                  ]
-            },
-            {
-                  "name": "Kmuníčkovo jezero",
-                  "text": "Un lac liniștit în Brno pentru o pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        16.644843,
-                        49.152919
-                  ]
-            },
-            {
-                  "name": "Typfl",
-                  "text": "O zonă mică cu apă în Brno pentru momente de relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        16.644329,
-                        49.153839
-                  ]
-            },
-            {
-                  "name": "Kašpárkovo jezero",
-                  "text": "Un iaz pitoresc în Brno pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.64284,
-                        49.155811
-                  ]
-            },
-            {
-                  "name": "Malé jezero",
-                  "text": "Un lac mic și liniștit în zona urbană a Brno.",
-                  "category": "natural",
-                  "coords": [
-                        16.672864,
-                        49.217415
-                  ]
-            },
-            {
-                  "name": "U Kadlecova mlýna",
-                  "text": "O zonă cu apă aproape de natură în Brno, ideală pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        16.71488,
-                        49.213562
-                  ]
-            },
-            {
-                  "name": "Jezero Studánka",
-                  "text": "Un lac liniștit în Brno cu un cadru natural frumos.",
-                  "category": "natural",
-                  "coords": [
-                        16.67159,
-                        49.217576
-                  ]
-            },
-            {
-                  "name": "Rájecká tůň",
-                  "text": "O apă naturală liniștită în Brno pentru observații calme.",
-                  "category": "natural",
-                  "coords": [
-                        16.6421,
-                        49.165446
-                  ]
-            },
-            {
-                  "name": "Brněnská přehrada",
-                  "text": "O destinație populară în Brno pentru plimbări și relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        16.485642,
-                        49.252033
-                  ]
-            },
-            {
-                  "name": "Pískoviště",
-                  "text": "Un loc de joacă simplu în Brno unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        16.57668,
-                        49.196001
-                  ]
-            },
-            {
-                  "name": "Hřiště",
-                  "text": "O zonă de joacă locală în Brno pentru distracția zilnică în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        16.593684,
-                        49.196405
-                  ]
-            },
-            {
-                  "name": "Dopravní hřiště Riviéra",
-                  "text": "Un loc de joacă special în Brno pentru joacă activă și învățare.",
-                  "category": "family",
-                  "coords": [
-                        16.569776,
-                        49.18758
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Pod Kaštany 17",
-                  "text": "Un loc de joacă bine întreținut în Brno pentru familii cu copii.",
-                  "category": "family",
-                  "coords": [
-                        16.589001,
-                        49.211547
-                  ]
-            },
-            {
-                  "name": "Mini golf Kšírovka",
-                  "text": "Un teren de minigolf distractiv în Brno pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        16.617676,
-                        49.169272
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Botanická",
-                  "text": "Un loc de joacă plăcut în Brno, ideal pentru o ieșire în familie.",
-                  "category": "family",
-                  "coords": [
-                        16.596493,
-                        49.210729
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Místodržitelský palác",
-                  "text": "Museum in the Governor's Palace in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.608183,
-                        49.197637
-                  ]
-            },
-            {
-                  "name": "Hvězdárna a planetárium Brno",
-                  "text": "Observatory and planetarium in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.583642,
-                        49.204766
-                  ]
-            },
-            {
-                  "name": "Mendelovo muzeum",
-                  "text": "Museum dedicated to Gregor Mendel in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.593795,
-                        49.1913
-                  ]
-            },
-            {
-                  "name": "Biskupský dvůr",
-                  "text": "Museum in the Bishop's Court in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.608329,
-                        49.191216
-                  ]
-            },
-            {
-                  "name": "Anthropos",
-                  "text": "Anthropology museum in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.567164,
-                        49.192115
-                  ]
-            },
-            {
-                  "name": "Vila Stiassny",
-                  "text": "Functionalist villa and museum in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.572908,
-                        49.196975
-                  ]
-            },
-            {
-                  "name": "Brno Ossuary",
-                  "text": "Historic ossuary in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.607959,
-                        49.196345
-                  ]
-            },
-            {
-                  "name": "Löw-Beer Villa in Brno",
-                  "text": "Historic villa of the Löw-Beer family in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.613722,
-                        49.206094
-                  ]
-            },
-            {
-                  "name": "letohrádek Mitrovských",
-                  "text": "Castle-like building in Brno.",
-                  "category": "castle",
-                  "coords": [
-                        16.589035,
-                        49.188416
-                  ]
-            },
-            {
-                  "name": "Dům pánů z Kunštátu",
-                  "text": "Cultural center in a historic house in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.606574,
-                        49.193104
-                  ]
-            },
-            {
-                  "name": "Vila Tugendhat",
-                  "text": "World-famous functionalist villa in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.616084,
-                        49.207171
-                  ]
-            },
-            {
-                  "name": "Jurkovičova vila",
-                  "text": "Villa designed by Dušan Jurkovič in Brno.",
-                  "category": "museum",
-                  "coords": [
-                        16.576115,
-                        49.20662
-                  ]
-            },
-            {
-                  "name": "Spilberk Castle",
-                  "text": "Historic fortress above Brno.",
-                  "category": "castle",
-                  "coords": [
-                        16.599411,
-                        49.194477
-                  ]
-            },
-            {
-                  "name": "Zderadův sloup",
-                  "text": "Historic monument in Brno.",
-                  "category": "historical",
-                  "coords": [
-                        16.627613,
-                        49.191097
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-sever",
-                  "text": "Town hall of the Brno-North district.",
-                  "category": "historical",
-                  "coords": [
-                        16.623214,
-                        49.200273
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno Střed",
-                  "text": "Town hall of the Brno-Center district.",
-                  "category": "historical",
-                  "coords": [
-                        16.605628,
-                        49.193106
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-Židenice",
-                  "text": "Town hall of the Brno-Židenice district.",
-                  "category": "historical",
-                  "coords": [
-                        16.64447,
-                        49.201049
-                  ]
-            },
-            {
-                  "name": "Měnínská brána",
-                  "text": "Historic city gate in Brno.",
-                  "category": "fortress",
-                  "coords": [
-                        16.612698,
-                        49.194263
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno-jih",
-                  "text": "Town hall of the Brno-South district.",
-                  "category": "historical",
-                  "coords": [
-                        16.62297,
-                        49.174535
-                  ]
-            },
-            {
-                  "name": "Úřad městské části Brno - Černovice",
-                  "text": "Town hall of the Brno-Černovice district.",
-                  "category": "historical",
-                  "coords": [
-                        16.636869,
-                        49.186646
-                  ]
-            },
-            {
-                  "name": "Janáčkovo divadlo",
-                  "text": "Opera house in Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.611044,
-                        49.198222
-                  ]
-            },
-            {
-                  "name": "Reduta",
-                  "text": "Historic theatre in Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.6097,
-                        49.192039
-                  ]
-            },
-            {
-                  "name": "Besední dům",
-                  "text": "Cultural and concert house in Brno.",
-                  "category": "cultural",
-                  "coords": [
-                        16.604203,
-                        49.196084
-                  ]
-            },
-            {
-                  "name": "J. A. Komenského",
-                  "text": "Evangelical church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.603268,
-                        49.19767
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava",
-                  "text": "Orthodox church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.595647,
-                        49.196556
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdalena",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.6108,
-                        49.192223
-                  ]
-            },
-            {
-                  "name": "svatý Josef",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.612296,
-                        49.19316
-                  ]
-            },
-            {
-                  "name": "svatí Janové",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.611272,
-                        49.194312
-                  ]
-            },
-            {
-                  "name": "Neposkvrněného početí Panny Marie",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.619765,
-                        49.192407
-                  ]
-            },
-            {
-                  "name": "Synagoga Agudas achim",
-                  "text": "Synagogue in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.617672,
-                        49.192742
-                  ]
-            },
-            {
-                  "name": "svatého Jiljí",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.624056,
-                        49.17588
-                  ]
-            },
-            {
-                  "name": "sv. Rodiny",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.59731,
-                        49.2012
-                  ]
-            },
-            {
-                  "name": "Husův sbor",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.603107,
-                        49.203651
-                  ]
-            },
-            {
-                  "name": "Betlémský kostel",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.6023,
-                        49.192954
-                  ]
-            },
-            {
-                  "name": "svatý Leopold",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.595699,
-                        49.185057
-                  ]
-            },
-            {
-                  "name": "sv. Augustin",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.581245,
-                        49.202621
-                  ]
-            },
-            {
-                  "name": "Saint Wenceslaus",
-                  "text": "Chapel in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.578622,
-                        49.212187
-                  ]
-            },
-            {
-                  "name": "svatý Cyril a Metoděj",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.646551,
-                        49.198608
-                  ]
-            },
-            {
-                  "name": "Spasitele",
-                  "text": "Church in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.63871,
-                        49.197201
-                  ]
-            },
-            {
-                  "name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích",
-                  "text": "Evangelical house of prayer in Brno-Židenice.",
-                  "category": "religious",
-                  "coords": [
-                        16.641943,
-                        49.196416
-                  ]
-            },
-            {
-                  "name": "Blahoslavův dům",
-                  "text": "Blahoslav House, a significant religious building in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.604111,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Nejsvětějšího Srdce Páně",
-                  "text": "Church of the Most Sacred Heart of Jesus in Brno.",
-                  "category": "religious",
-                  "coords": [
-                        16.630723,
-                        49.211914
-                  ]
-            },
-            {
-                  "name": "Žlutý kopec",
-                  "text": "Hilly area within the city of Brno.",
-                  "category": "natural",
-                  "coords": [
-                        16.574131,
-                        49.201711
-                  ]
-            },
-            {
-                  "name": "náměstí 28. října",
-                  "text": "Urban park at the Square of October 28th in Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.612843,
-                        49.202862
-                  ]
-            },
-            {
-                  "name": "Lužánky",
-                  "text": "Significant historical park in the center of Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.608936,
-                        49.206667
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada",
-                  "text": "Botanical garden of Masaryk University in Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.596498,
-                        49.204244
-                  ]
-            },
-            {
-                  "name": "Botanická zahrada a arboretum Mendelu",
-                  "text": "Botanical garden and arboretum of Mendel University in Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.613241,
-                        49.213585
-                  ]
-            },
-            {
-                  "name": "Schreberovy zahrádky",
-                  "text": "Park area known as Schreber gardens in Brno.",
-                  "category": "park",
-                  "coords": [
-                        16.621225,
-                        49.207734
-                  ]
-            },
-            {
-                  "name": "Roučkovo jezero",
-                  "text": "A small lake in Brno, inviting for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        16.644408,
-                        49.151315
-                  ]
-            },
-            {
-                  "name": "Plavecké jezero",
-                  "text": "A swimming lake in Brno for refreshing moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        16.642831,
-                        49.147831
-                  ]
-            },
-            {
-                  "name": "Opleta",
-                  "text": "A quiet spot in Brno for short walks along the lakeshore.",
-                  "category": "natural",
-                  "coords": [
-                        16.643563,
-                        49.145674
-                  ]
-            },
-            {
-                  "name": "Kocábka",
-                  "text": "A small pond in Brno with a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        16.644097,
-                        49.14666
-                  ]
-            },
-            {
-                  "name": "Strakovo jezero",
-                  "text": "A local body of water in Brno, ideal for a break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        16.642606,
-                        49.146677
-                  ]
-            },
-            {
-                  "name": "Ledárenské jezero",
-                  "text": "A lake in Brno suitable for observing nature.",
-                  "category": "natural",
-                  "coords": [
-                        16.643525,
-                        49.149256
-                  ]
-            },
-            {
-                  "name": "Mateční",
-                  "text": "A peaceful body of water in Brno set in a calm landscape.",
-                  "category": "natural",
-                  "coords": [
-                        16.645803,
-                        49.145045
-                  ]
-            },
-            {
-                  "name": "U vrboveckého mlýna",
-                  "text": "A natural water spot in Brno inviting for a rest by the shore.",
-                  "category": "natural",
-                  "coords": [
-                        16.504065,
-                        49.210615
-                  ]
-            },
-            {
-                  "name": "Kmuníčkovo jezero",
-                  "text": "A quiet lake in Brno for some time out in the open.",
-                  "category": "natural",
-                  "coords": [
-                        16.644843,
-                        49.152919
-                  ]
-            },
-            {
-                  "name": "Typfl",
-                  "text": "A small body of water in Brno for relaxed moments.",
-                  "category": "natural",
-                  "coords": [
-                        16.644329,
-                        49.153839
-                  ]
-            },
-            {
-                  "name": "Kašpárkovo jezero",
-                  "text": "A scenic pond in Brno for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        16.64284,
-                        49.155811
-                  ]
-            },
-            {
-                  "name": "Malé jezero",
-                  "text": "A small, peaceful lake within the Brno city area.",
-                  "category": "natural",
-                  "coords": [
-                        16.672864,
-                        49.217415
-                  ]
-            },
-            {
-                  "name": "U Kadlecova mlýna",
-                  "text": "A nature-near body of water in Brno, ideal for walks.",
-                  "category": "natural",
-                  "coords": [
-                        16.71488,
-                        49.213562
-                  ]
-            },
-            {
-                  "name": "Jezero Studánka",
-                  "text": "A calm lake in Brno with beautiful natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        16.67159,
-                        49.217576
-                  ]
-            },
-            {
-                  "name": "Rájecká tůň",
-                  "text": "A quiet natural water spot in Brno for peaceful observation.",
-                  "category": "natural",
-                  "coords": [
-                        16.6421,
-                        49.165446
-                  ]
-            },
-            {
-                  "name": "Brněnská přehrada",
-                  "text": "A popular destination in Brno for walks and relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        16.485642,
-                        49.252033
-                  ]
-            },
-            {
-                  "name": "Pískoviště",
-                  "text": "A simple playground in Brno where children can play safely.",
-                  "category": "family",
-                  "coords": [
-                        16.57668,
-                        49.196001
-                  ]
-            },
-            {
-                  "name": "Hřiště",
-                  "text": "A local play area in Brno for daily outdoor fun.",
-                  "category": "family",
-                  "coords": [
-                        16.593684,
-                        49.196405
-                  ]
-            },
-            {
-                  "name": "Dopravní hřiště Riviéra",
-                  "text": "A special playground in Brno for active play and learning.",
-                  "category": "family",
-                  "coords": [
-                        16.569776,
-                        49.18758
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Pod Kaštany 17",
-                  "text": "A well-maintained playground in Brno for families with children.",
-                  "category": "family",
-                  "coords": [
-                        16.589001,
-                        49.211547
-                  ]
-            },
-            {
-                  "name": "Mini golf Kšírovka",
-                  "text": "An entertaining miniature golf course in Brno for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        16.617676,
-                        49.169272
-                  ]
-            },
-            {
-                  "name": "Dětské hřiště Botanická",
-                  "text": "A nice playground in Brno, ideal for a family outing.",
-                  "category": "family",
-                  "coords": [
-                        16.596493,
-                        49.210729
-                  ]
-            }
-      ]
-},
+    id: "czechrepublic-brno-cities-v2", "sights": {"de": [{"name": "Místodržitelský palác", "text": "Museum im Statthalterpalais in Brünn.", "category": "museum", "coords": [16.608183, 49.197637]}, {"name": "Hvězdárna a planetárium Brno", "text": "Sternwarte und Planetarium in Brünn.", "category": "museum", "coords": [16.583642, 49.204766]}, {"name": "Mendelovo muzeum", "text": "Museum zu Ehren von Gregor Mendel in Brünn.", "category": "museum", "coords": [16.593795, 49.1913]}, {"name": "Bischofshof", "text": "Museum im Bischofshof in Brünn.", "category": "museum", "coords": [16.608329, 49.191216]}, {"name": "Anthropos - Pavillon", "text": "Anthropologisches Museum in Brünn.", "category": "museum", "coords": [16.567164, 49.192115]}, {"name": "Vila Stiassny", "text": "Funktionalistische Villa und Museum in Brünn.", "category": "museum", "coords": [16.572908, 49.196975]}, {"name": "Brněnská kostnice", "text": "Historisches Beinhaus in Brünn.", "category": "museum", "coords": [16.607959, 49.196345]}, {"name": "Vila Löw-Beer v Brně", "text": "Historische Villa der Familie Löw-Beer in Brünn.", "category": "museum", "coords": [16.613722, 49.206094]}, {"name": "letohrádek Mitrovských", "text": "Schlossähnliches Gebäude in Brünn.", "category": "castle", "coords": [16.589035, 49.188416]}, {"name": "Dům pánů z Kunštátu", "text": "Kulturzentrum in einem historischen Haus in Brünn.", "category": "museum", "coords": [16.606574, 49.193104]}, {"name": "Villa Tugendhat", "text": "Weltberühmte funktionalistische Villa in Brünn.", "category": "museum", "coords": [16.616084, 49.207171]}, {"name": "Jurkovičova vila", "text": "Villa entworfen von Dušan Jurkovič in Brünn.", "category": "museum", "coords": [16.576115, 49.20662]}, {"name": "Festung Spielberg", "text": "Historische Festung über Brünn.", "category": "castle", "coords": [16.599411, 49.194477]}, {"name": "Zderadův sloup", "text": "Historische Säule in Brünn.", "category": "historical", "coords": [16.627613, 49.191097]}, {"name": "Úřad městské části Brno-sever", "text": "Rathaus des Stadtbezirks Brno-Nord.", "category": "historical", "coords": [16.623214, 49.200273]}, {"name": "Úřad městské části Brno Střed", "text": "Rathaus des Stadtbezirks Brno-Zentrum.", "category": "historical", "coords": [16.605628, 49.193106]}, {"name": "Úřad městské části Brno-Židenice", "text": "Rathaus des Stadtbezirks Brno-Židenice.", "category": "historical", "coords": [16.64447, 49.201049]}, {"name": "Mönitzer Tor", "text": "Historisches Stadttor in Brünn.", "category": "fortress", "coords": [16.612698, 49.194263]}, {"name": "Úřad městské části Brno-jih", "text": "Rathaus des Stadtbezirks Brno-Süd.", "category": "historical", "coords": [16.62297, 49.174535]}, {"name": "Úřad městské části Brno - Černovice", "text": "Rathaus des Stadtbezirks Brno-Černovice.", "category": "historical", "coords": [16.636869, 49.186646]}, {"name": "Janáčkovo divadlo", "text": "Opernhaus in Brünn.", "category": "cultural", "coords": [16.611044, 49.198222]}, {"name": "Reduta", "text": "Historisches Theater in Brünn.", "category": "cultural", "coords": [16.6097, 49.192039]}, {"name": "Vereinshaus", "text": "Kultur- und Konzerthaus in Brünn.", "category": "cultural", "coords": [16.604203, 49.196084]}, {"name": "J. A. Komenského", "text": "Evangelische Kirche in Brünn.", "category": "religious", "coords": [16.603268, 49.19767]}, {"name": "Kostel svatého Václava", "text": "Orthodoxe Kirche in Brünn.", "category": "religious", "coords": [16.595647, 49.196556]}, {"name": "svatá Maří Magdalena", "text": "Die Kirche svatá Maří Magdalena ist ein spirituelles Zentrum im tschechischen Brünn (Brno). Für Besucher bietet dieser religiöse Bau eine Umgebung der Stille inmitten der Stadt.", "category": "religious", "coords": [16.6108, 49.192223]}, {"name": "svatý Josef", "text": "In der Stadt Brünn prägt das Gotteshaus svatý Josef das religiöse Leben. Diese Kultstätte in der Tschechischen Republik lädt Gäste zu einem Moment der Besinnung ein.", "category": "religious", "coords": [16.612296, 49.19316]}, {"name": "svatí Janové", "text": "Einen Besuch wert ist auch die Kirche svatí Janové in Brünn, Tschechien. An diesem religiösen Ort können Interessierte die spirituelle Tradition der Region spüren.", "category": "religious", "coords": [16.611272, 49.194312]}, {"name": "Neposkvrněného početí Panny Marie", "text": "Die Kirche Neposkvrněného početí Panny Marie bereichert das spirituelle Angebot im tschechischen Brünn. Reisende erwartet in diesem Gotteshaus ein ehrfürchtiges Ambiente.", "category": "religious", "coords": [16.619765, 49.192407]}, {"name": "Synagoga Agudas achim", "text": "Synagoge in Brünn.", "category": "religious", "coords": [16.617672, 49.192742]}, {"name": "svatého Jiljí", "text": "Ein Ort des Gebets im Herzen von Brünn ist die Kirche svatého Jiljí. In der Tschechischen Republik bietet diese Stätte den Gläubigen und Gästen eine ruhige Zuflucht.", "category": "religious", "coords": [16.624056, 49.17588]}, {"name": "sv. Rodiny", "text": "Die religiöse Einrichtung sv. Rodiny findet man im tschechischen Brünn. Besucher dieses Gotteshauses erwartet eine friedliche Umgebung, die zur inneren Ruhe beiträgt.", "category": "religious", "coords": [16.59731, 49.2012]}, {"name": "Husův sbor", "text": "Die Kultstätte Husův sbor ist in der Stadt Brünn in Tschechien beheimatet. In dieser religiösen Stätte können Reisende an einem Ort der Zusammenkunft und des Glaubens verweilen.", "category": "religious", "coords": [16.603107, 49.203651]}, {"name": "Betlémský kostel", "text": "Der Betlémský kostel ist ein Ort des Glaubens im tschechischen Brünn. Wer diese Kirche besucht, findet eine Umgebung, die der Spiritualität und Einkehr gewidmet ist.", "category": "religious", "coords": [16.6023, 49.192954]}, {"name": "svatý Leopold", "text": "In Brünn, Tschechien, lädt die Kirche svatý Leopold zum Verweilen ein. Diese religiöse Stätte zeichnet sich durch eine Atmosphäre aus, die Gläubigen Trost spendet.", "category": "religious", "coords": [16.595699, 49.185057]}, {"name": "sv. Augustin", "text": "Ein weiteres Gotteshaus in Brünn ist die Kirche sv. Augustin in der Tschechischen Republik. Reisende können hier in einem besinnlichen Rahmen die Seele baumeln lassen.", "category": "religious", "coords": [16.581245, 49.202621]}, {"name": "svatý Václav", "text": "Kapelle in Brünn.", "category": "religious", "coords": [16.578622, 49.212187]}, {"name": "svatý Cyril a Metoděj", "text": "Das Gotteshaus svatý Cyril a Metoděj ist tief in der religiösen Landschaft von Brünn verwurzelt. In der Tschechischen Republik bietet diese Kirche einen Ort für andächtige Momente.", "category": "religious", "coords": [16.646551, 49.198608]}, {"name": "Spasitele", "text": "Die Kirche Spasitele schließt das vielfältige religiöse Angebot im tschechischen Brünn ab. Für Besucher hält dieser Ort eine friedvolle Umgebung bereit, die zur Stille mahnt.", "category": "religious", "coords": [16.63871, 49.197201]}, {"name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích", "text": "Evangelisches Gotteshaus in Brünn-Židenice.", "category": "religious", "coords": [16.641943, 49.196416]}, {"name": "Blahoslavův dům", "text": "Blahoslav-Haus, ein bedeutendes religiöses Gebäude in Brünn.", "category": "religious", "coords": [16.604111, 49.207055]}, {"name": "Nejsvětějšího Srdce Páně", "text": "Kirche des Heiligsten Herzens Jesu in Brünn.", "category": "religious", "coords": [16.630723, 49.211914]}, {"name": "Gelber Berg", "text": "Hügelgebiet im Stadtgebiet von Brünn.", "category": "natural", "coords": [16.574131, 49.201711]}, {"name": "náměstí 28. října", "text": "Städtischer Park am Platz des 28. Oktober in Brünn.", "category": "park", "coords": [16.612843, 49.202862]}, {"name": "Augarten", "text": "Bedeutender historischer Park im Zentrum von Brünn.", "category": "park", "coords": [16.608936, 49.206667]}, {"name": "Botanická zahrada", "text": "Botanischer Garten der Masaryk-Universität in Brünn.", "category": "park", "coords": [16.596498, 49.204244]}, {"name": "Botanischer Garten und Arboretum Mendel", "text": "Botanischer Garten und Arboretum der Mendel-Universität Brünn.", "category": "park", "coords": [16.613241, 49.213585]}, {"name": "Schreberpark", "text": "Parkanlage, bekannt als Schreber-Gärten in Brünn.", "category": "park", "coords": [16.621225, 49.207734]}, {"name": "Roučkovo jezero", "text": "Ein kleiner See in Brünn, der zur Entspannung in der Natur einlädt.", "category": "natural", "coords": [16.644408, 49.151315]}, {"name": "Plavecké jezero", "text": "Ein Badeweiher in Brünn für erfrischende Momente am Wasser.", "category": "natural", "coords": [16.642831, 49.147831]}, {"name": "Opleta", "text": "Ein ruhiger Ort in Brünn für kurze Spaziergänge am Seeufer.", "category": "natural", "coords": [16.643563, 49.145674]}, {"name": "Kocábka", "text": "Ein kleiner Teich in Brünn mit einer natürlichen Umgebung.", "category": "natural", "coords": [16.644097, 49.14666]}, {"name": "Strakovo jezero", "text": "Ein lokales Gewässer in Brünn, ideal für eine Pause im Grünen.", "category": "natural", "coords": [16.642606, 49.146677]}, {"name": "Ledárenské jezero", "text": "Ein See in Brünn, der sich gut für Beobachtungen der Natur eignet.", "category": "natural", "coords": [16.643525, 49.149256]}, {"name": "Mateční", "text": "Ein friedliches Gewässer in Brünn inmitten einer ruhigen Landschaft.", "category": "natural", "coords": [16.645803, 49.145045]}, {"name": "U vrboveckého mlýna", "text": "Ein Naturgewässer in Brünn, das zum Verweilen am Ufer einlädt.", "category": "natural", "coords": [16.504065, 49.210615]}, {"name": "Kmuníčkovo jezero", "text": "Ein ruhiger See in Brünn für eine Auszeit im Freien.", "category": "natural", "coords": [16.644843, 49.152919]}, {"name": "Typfl", "text": "Ein kleines Gewässer in Brünn für entspannte Momente.", "category": "natural", "coords": [16.644329, 49.153839]}, {"name": "Kašpárkovo jezero", "text": "Ein malerischer Teich in Brünn für Naturliebhaber.", "category": "natural", "coords": [16.64284, 49.155811]}, {"name": "Malé jezero", "text": "Ein kleiner, friedlicher See im Stadtgebiet von Brünn.", "category": "natural", "coords": [16.672864, 49.217415]}, {"name": "U Kadlecova mlýna", "text": "Ein naturnahes Gewässer in Brünn, ideal für Spaziergänge.", "category": "natural", "coords": [16.71488, 49.213562]}, {"name": "Jezero Studánka", "text": "Ein ruhiger See in Brünn mit schöner Naturkulisse.", "category": "natural", "coords": [16.67159, 49.217576]}, {"name": "Rájecká tůň", "text": "Ein stilles Naturgewässer in Brünn für ruhige Beobachtungen.", "category": "natural", "coords": [16.6421, 49.165446]}, {"name": "Brünner Talsperre", "text": "Ein beliebtes Ausflugsziel in Brünn für Spaziergänge und Erholung am Wasser.", "category": "natural", "coords": [16.485642, 49.252033]}, {"name": "Pískoviště", "text": "Ein einfacher Spielplatz in Brünn, auf dem Kinder sicher spielen können.", "category": "family", "coords": [16.57668, 49.196001]}, {"name": "Hřiště", "text": "Ein lokaler Spielbereich in Brünn für täglichen Spaß im Freien.", "category": "family", "coords": [16.593684, 49.196405]}, {"name": "Dopravní hřiště Riviéra", "text": "Ein spezieller Spielplatz in Brünn für aktives Spielen und Lernen.", "category": "family", "coords": [16.569776, 49.18758]}, {"name": "Dětské hřiště Pod Kaštany 17", "text": "Ein gepflegter Spielplatz in Brünn für Familien mit Kindern.", "category": "family", "coords": [16.589001, 49.211547]}, {"name": "Mini golf Kšírovka", "text": "Ein unterhaltsamer Minigolfplatz in Brünn für die ganze Familie.", "category": "family", "coords": [16.617676, 49.169272]}, {"name": "Dětské hřiště Botanická", "text": "Ein schöner Spielplatz in Brünn, ideal für einen Familienausflug.", "category": "family", "coords": [16.596493, 49.210729]}, {"name": "Papilonia - Motýlí dům Brno", "text": "Ein Schmetterlingshaus in Brünn, das eine Vielzahl exotischer Arten zeigt.", "category": "family", "coords": [16.608257, 49.193867]}, {"name": "Bazén Arménská", "text": "Ein Schwimmbad in Brünn, ideal für tägliches Training und Familienspaß.", "category": "family", "coords": [16.580919, 49.167273]}, {"name": "lázně Riviéra", "text": "Eine weitläufige Badeanlage in Brünn für Erholung und Schwimmvergnügen im Freien.", "category": "family", "coords": [16.572039, 49.18524]}, {"name": "Koupaliště Juliánov", "text": "Ein Wasserpark in Brünn mit Rutschen und Becken für Kinder und Erwachsene.", "category": "family", "coords": [16.653414, 49.191725]}, {"name": "Sportovní a rekreační areál Kraví hora", "text": "Ein Sport- und Erholungsareal in Brünn mit vielfältigen Wasserattraktionen.", "category": "family", "coords": [16.586282, 49.201087]}, {"name": "Koupaliště Královo Pole", "text": "Ein beliebtes Freibad in Brünn für sommerlichen Badespaß mit der Familie.", "category": "family", "coords": [16.608715, 49.224387]}, {"name": "Biotop Brno-Jih", "text": "Ein naturnahes öffentliches Bad in Brünn für ein biologisches Schwimmerlebnis.", "category": "family", "coords": [16.619863, 49.169963]}, {"name": "Kozí zahrada", "text": "Ein kleiner Zoo in Brünn, der besonders auf den Kontakt mit Ziegen ausgerichtet ist.", "category": "family", "coords": [16.605902, 49.225379]}], "hu": [{"name": "Místodržitelský palác", "text": "Múzeum a brünni Helytartói palotában.", "category": "museum", "coords": [16.608183, 49.197637]}, {"name": "Hvězdárna a planetárium Brno", "text": "Csillagvizsgáló és planetárium Brünnben.", "category": "museum", "coords": [16.583642, 49.204766]}, {"name": "Mendelovo muzeum", "text": "Gregor Mendel tiszteletére alapított múzeum Brünnben.", "category": "museum", "coords": [16.593795, 49.1913]}, {"name": "Biskupský dvůr", "text": "Múzeum a brünni Püspöki udvarban.", "category": "museum", "coords": [16.608329, 49.191216]}, {"name": "Anthropos", "text": "Antropológiai múzeum Brünnben.", "category": "museum", "coords": [16.567164, 49.192115]}, {"name": "Vila Stiassny", "text": "Funkcionalista villa és múzeum Brünnben.", "category": "museum", "coords": [16.572908, 49.196975]}, {"name": "Brněnská kostnice", "text": "Történelmi csontkamra Brünnben.", "category": "museum", "coords": [16.607959, 49.196345]}, {"name": "Vila Löw-Beer v Brně", "text": "A Löw-Beer család történelmi villája Brünnben.", "category": "museum", "coords": [16.613722, 49.206094]}, {"name": "letohrádek Mitrovských", "text": "Kastély jellegű épület Brünnben.", "category": "castle", "coords": [16.589035, 49.188416]}, {"name": "Dům pánů z Kunštátu", "text": "Kulturális központ egy történelmi házban Brünnben.", "category": "museum", "coords": [16.606574, 49.193104]}, {"name": "Vila Tugendhat", "text": "Világhírű funkcionalista villa Brünnben.", "category": "museum", "coords": [16.616084, 49.207171]}, {"name": "Jurkovičova vila", "text": "Dušan Jurkovič által tervezett villa Brünnben.", "category": "museum", "coords": [16.576115, 49.20662]}, {"name": "Hrad Špilberk", "text": "Történelmi erőd Brünn felett.", "category": "castle", "coords": [16.599411, 49.194477]}, {"name": "Zderadův sloup", "text": "Történelmi oszlop Brünnben.", "category": "historical", "coords": [16.627613, 49.191097]}, {"name": "Úřad městské části Brno-sever", "text": "Brünn-Észak városrész városházája.", "category": "historical", "coords": [16.623214, 49.200273]}, {"name": "Úřad městské části Brno Střed", "text": "Brünn-Központ városrész városházája.", "category": "historical", "coords": [16.605628, 49.193106]}, {"name": "Úřad městské části Brno-Židenice", "text": "Brünn-Židenice városrész városházája.", "category": "historical", "coords": [16.64447, 49.201049]}, {"name": "Měnínská brána", "text": "Történelmi városkapu Brünnben.", "category": "fortress", "coords": [16.612698, 49.194263]}, {"name": "Úřad městské části Brno-jih", "text": "Brünn-Dél városrész városházája.", "category": "historical", "coords": [16.62297, 49.174535]}, {"name": "Úřad městské části Brno - Černovice", "text": "Brünn-Černovice városrész városházája.", "category": "historical", "coords": [16.636869, 49.186646]}, {"name": "Janáčkovo divadlo", "text": "Operaház Brünnben.", "category": "cultural", "coords": [16.611044, 49.198222]}, {"name": "Reduta", "text": "Történelmi színház Brünnben.", "category": "cultural", "coords": [16.6097, 49.192039]}, {"name": "Besední dům", "text": "Kulturális és koncertközpont Brünnben.", "category": "cultural", "coords": [16.604203, 49.196084]}, {"name": "J. A. Komenského", "text": "Evangélikus templom Brünnben.", "category": "religious", "coords": [16.603268, 49.19767]}, {"name": "Kostel svatého Václava", "text": "Ortodox templom Brünnben.", "category": "religious", "coords": [16.595647, 49.196556]}, {"name": "svatá Maří Magdalena", "text": "Brno cseh városának egyik vallási központja a svatá Maří Magdalena templom. A vallási látványosság meghitt atmoszféraját élvezve a látogatók békére lelhetnek.", "category": "religious", "coords": [16.6108, 49.192223]}, {"name": "svatý Josef", "text": "A svatý Josef egy szakrális épület, amely Csehországban, Brno településén található. A hívők és a turisták számára egyaránt megnyugtató élményt kínál ez a templom.", "category": "religious", "coords": [16.612296, 49.19316]}, {"name": "svatí Janové", "text": "A svatí Janové templom Brno városának egyik fontos vallási épülete Csehországban. Ezen a szent helyen a látogatók a csend és a hit erejét tapasztalhatják meg.", "category": "religious", "coords": [16.611272, 49.194312]}, {"name": "Neposkvrněného početí Panny Marie", "text": "Csehország Brno nevű városában emelkedik a Neposkvrněného početí Panny Marie templom. Ez a vallási intézmény békés teret nyújt mindazoknak, akik lelki vigaszra vágynak.", "category": "religious", "coords": [16.619765, 49.192407]}, {"name": "Synagoga Agudas achim", "text": "Zsinagóga Brünnben.", "category": "religious", "coords": [16.617672, 49.192742]}, {"name": "svatého Jiljí", "text": "A svatého Jiljí egy imádságos hely, amely a csehországi Brno területén várja a híveket. A templom csendes falai között a látogatók távol kerülhetnek a külvilág zajától.", "category": "religious", "coords": [16.624056, 49.17588]}, {"name": "sv. Rodiny", "text": "A sv. Rodiny templom a cseh Brno város spirituális életének egyik színtere. Ezen a vallási helyszínen az érdeklődők megpihenhetnek egy nyugodt környezetben.", "category": "religious", "coords": [16.59731, 49.2012]}, {"name": "Husův sbor", "text": "A Husův sbor egy vallási közösségi tér, amely a csehországi Brno városát gazdagítja. A templomot felkeresők egy elmélyülésre alkalmas környezetet fognak itt találni.", "category": "religious", "coords": [16.603107, 49.203651]}, {"name": "Betlémský kostel", "text": "Csehországban, Brno területén fekszik a Betlémský kostel nevű szakrális építmény. A templom falai között a látogatók békére és spirituális felfrissülésre lelhetnek.", "category": "religious", "coords": [16.6023, 49.192954]}, {"name": "svatý Leopold", "text": "A cseh Brno városában épült fel a svatý Leopold templom, mely a helyi hitélet fontos része. Az idelátogatók egy meghitt vallási térben tölthetnek el csendes perceket.", "category": "religious", "coords": [16.595699, 49.185057]}, {"name": "sv. Augustin", "text": "A sv. Augustin egy csehországi vallási épület Brno városában. Ezt a templomot felkeresve a turisták egy nyugodt szigetre találnak a lüktető városban.", "category": "religious", "coords": [16.581245, 49.202621]}, {"name": "svatý Václav", "text": "Kápolna Brünnben.", "category": "religious", "coords": [16.578622, 49.212187]}, {"name": "svatý Cyril a Metoděj", "text": "A svatý Cyril a Metoděj egy közösségi vallási helyszín, mely Brno városában található Csehországban. Az érdeklődők itt bepillantást nyerhetnek a helyiek hitéletébe.", "category": "religious", "coords": [16.646551, 49.198608]}, {"name": "Spasitele", "text": "Brno csehországi városképét gazdagítja a Spasitele nevű szakrális épület. A templom nyugodt közege tökéletes lehetőséget ad az utazóknak egy kis lelki pihenésre.", "category": "religious", "coords": [16.63871, 49.197201]}, {"name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích", "text": "Evangélikus imaház Brünn-Židenicében.", "category": "religious", "coords": [16.641943, 49.196416]}, {"name": "Blahoslavův dům", "text": "Blahoslav-ház, jelentős vallási épület Brünnben.", "category": "religious", "coords": [16.604111, 49.207055]}, {"name": "Nejsvětějšího Srdce Páně", "text": "Jézus Legszentebb Szíve templom Brünnben.", "category": "religious", "coords": [16.630723, 49.211914]}, {"name": "Žlutý kopec", "text": "Hegyvidéki terület Brünn városában.", "category": "natural", "coords": [16.574131, 49.201711]}, {"name": "náměstí 28. října", "text": "Városi park az Október 28. téren Brünnben.", "category": "park", "coords": [16.612843, 49.202862]}, {"name": "Lužánky", "text": "Jelentős történelmi park Brünn központjában.", "category": "park", "coords": [16.608936, 49.206667]}, {"name": "Botanická zahrada", "text": "A brünni Masaryk Egyetem botanikus kertje.", "category": "park", "coords": [16.596498, 49.204244]}, {"name": "Botanická zahrada a arboretum Mendelu", "text": "A brünni Mendel Egyetem botanikus kertje és arborétuma.", "category": "park", "coords": [16.613241, 49.213585]}, {"name": "Schreberovy zahrádky", "text": "Park, ismert mint Schreber-kertek Brünnben.", "category": "park", "coords": [16.621225, 49.207734]}, {"name": "Roučkovo jezero", "text": "Kisméretű tó Brnóban, amely természeti kikapcsolódásra hív.", "category": "natural", "coords": [16.644408, 49.151315]}, {"name": "Plavecké jezero", "text": "Fürdőtó Brnóban a frissítő vízparti pillanatokért.", "category": "natural", "coords": [16.642831, 49.147831]}, {"name": "Opleta", "text": "Csendes hely Brnóban rövid tóparti sétákhoz.", "category": "natural", "coords": [16.643563, 49.145674]}, {"name": "Kocábka", "text": "Kicsi tó Brnóban természetes környezettel.", "category": "natural", "coords": [16.644097, 49.14666]}, {"name": "Strakovo jezero", "text": "Helyi vízfelület Brnóban, ideális egy zöldövezeti pihenőhöz.", "category": "natural", "coords": [16.642606, 49.146677]}, {"name": "Ledárenské jezero", "text": "Tó Brnóban, amely alkalmas a természet megfigyelésére.", "category": "natural", "coords": [16.643525, 49.149256]}, {"name": "Mateční", "text": "Békés vízfelület Brnóban, nyugodt környezetben.", "category": "natural", "coords": [16.645803, 49.145045]}, {"name": "U vrboveckého mlýna", "text": "Természetes víz Brnóban, amely pihenésre csábít a parton.", "category": "natural", "coords": [16.504065, 49.210615]}, {"name": "Kmuníčkovo jezero", "text": "Csendes tó Brnóban a szabadtéri kikapcsolódáshoz.", "category": "natural", "coords": [16.644843, 49.152919]}, {"name": "Typfl", "text": "Kisméretű vízfelület Brnóban a relaxált pillanatokért.", "category": "natural", "coords": [16.644329, 49.153839]}, {"name": "Kašpárkovo jezero", "text": "Festői tó Brnóban a természet kedvelőinek.", "category": "natural", "coords": [16.64284, 49.155811]}, {"name": "Malé jezero", "text": "Kicsi, békés tó Brno városi területén.", "category": "natural", "coords": [16.672864, 49.217415]}, {"name": "U Kadlecova mlýna", "text": "Természetközeli vízfelület Brnóban, ideális sétákhoz.", "category": "natural", "coords": [16.71488, 49.213562]}, {"name": "Jezero Studánka", "text": "Csendes tó Brnóban, szép természeti környezetben.", "category": "natural", "coords": [16.67159, 49.217576]}, {"name": "Rájecká tůň", "text": "Csendes természetes víz Brnóban a nyugodt megfigyeléshez.", "category": "natural", "coords": [16.6421, 49.165446]}, {"name": "Brněnská přehrada", "text": "Népszerű kirándulóhely Brnóban sétákhoz és vízparti kikapcsolódáshoz.", "category": "natural", "coords": [16.485642, 49.252033]}, {"name": "Pískoviště", "text": "Egyszerű játszótér Brnóban, ahol a gyerekek biztonságosan játszhatnak.", "category": "family", "coords": [16.57668, 49.196001]}, {"name": "Hřiště", "text": "Helyi játszótér Brnóban a napi szabadtéri szórakozáshoz.", "category": "family", "coords": [16.593684, 49.196405]}, {"name": "Dopravní hřiště Riviéra", "text": "Speciális játszótér Brnóban az aktív játékhoz és tanuláshoz.", "category": "family", "coords": [16.569776, 49.18758]}, {"name": "Dětské hřiště Pod Kaštany 17", "text": "Gondozott játszótér Brnóban kisgyermekes családoknak.", "category": "family", "coords": [16.589001, 49.211547]}, {"name": "Mini golf Kšírovka", "text": "Szórakoztató minigolfpálya Brnóban az egész család számára.", "category": "family", "coords": [16.617676, 49.169272]}, {"name": "Dětské hřiště Botanická", "text": "Szép játszótér Brnóban, ideális egy családi kiruccanáshoz.", "category": "family", "coords": [16.596493, 49.210729]}, {"name": "Papilonia - Motýlí dům Brno", "text": "Lepkeház Brnóban, ahol számos egzotikus faj tekinthető meg.", "category": "family", "coords": [16.608257, 49.193867]}, {"name": "Bazén Arménská", "text": "Uszoda Brnóban, amely ideális a napi edzéshez és a családi szórakozáshoz.", "category": "family", "coords": [16.580919, 49.167273]}, {"name": "lázně Riviéra", "text": "Tágas fürdőhely Brnóban a szabadtéri pihenéshez és úszáshoz.", "category": "family", "coords": [16.572039, 49.18524]}, {"name": "Koupaliště Juliánov", "text": "Vízi park Brnóban csúszdákkal és medencékkel gyerekeknek és felnőtteknek.", "category": "family", "coords": [16.653414, 49.191725]}, {"name": "Sportovní a rekreační areál Kraví hora", "text": "Sport- és szabadidőközpont Brnóban, sokféle vízi attrakcióval.", "category": "family", "coords": [16.586282, 49.201087]}, {"name": "Koupaliště Královo Pole", "text": "Népszerű szabadtéri strand Brnóban a nyári családi fürdőzéshez.", "category": "family", "coords": [16.608715, 49.224387]}, {"name": "Biotop Brno-Jih", "text": "Természetközeli nyilvános fürdő Brnóban a biológiai úszás élményéért.", "category": "family", "coords": [16.619863, 49.169963]}, {"name": "Kozí zahrada", "text": "Kis állatkert Brnóban, amely különösen a kecskékkel való érintkezésre összpontosít.", "category": "family", "coords": [16.605902, 49.225379]}], "ro": [{"name": "Místodržitelský palác", "text": "Muzeu în Palatul Guvernatorului din Brno.", "category": "museum", "coords": [16.608183, 49.197637]}, {"name": "Hvězdárna a planetárium Brno", "text": "Observator astronomic și planetariu în Brno.", "category": "museum", "coords": [16.583642, 49.204766]}, {"name": "Mendelovo muzeum", "text": "Muzeu dedicat lui Gregor Mendel în Brno.", "category": "museum", "coords": [16.593795, 49.1913]}, {"name": "Biskupský dvůr", "text": "Muzeu în curtea episcopală din Brno.", "category": "museum", "coords": [16.608329, 49.191216]}, {"name": "Anthropos", "text": "Muzeu de antropologie în Brno.", "category": "museum", "coords": [16.567164, 49.192115]}, {"name": "Vila Stiassny", "text": "Vilă funcționalistă și muzeu în Brno.", "category": "museum", "coords": [16.572908, 49.196975]}, {"name": "Brněnská kostnice", "text": "Osuar istoric în Brno.", "category": "museum", "coords": [16.607959, 49.196345]}, {"name": "Vila Löw-Beer v Brně", "text": "Vilă istorică a familiei Löw-Beer în Brno.", "category": "museum", "coords": [16.613722, 49.206094]}, {"name": "letohrádek Mitrovských", "text": "Clădire în stil castel în Brno.", "category": "castle", "coords": [16.589035, 49.188416]}, {"name": "Dům pánů z Kunštátu", "text": "Centru cultural într-o casă istorică din Brno.", "category": "museum", "coords": [16.606574, 49.193104]}, {"name": "Vila Tugendhat", "text": "Vilă funcționalistă de renume mondial în Brno.", "category": "museum", "coords": [16.616084, 49.207171]}, {"name": "Jurkovičova vila", "text": "Vilă proiectată de Dušan Jurkovič în Brno.", "category": "museum", "coords": [16.576115, 49.20662]}, {"name": "Hrad Špilberk", "text": "Fortăreață istorică deasupra orașului Brno.", "category": "castle", "coords": [16.599411, 49.194477]}, {"name": "Zderadův sloup", "text": "Coloană istorică în Brno.", "category": "historical", "coords": [16.627613, 49.191097]}, {"name": "Úřad městské části Brno-sever", "text": "Primăria districtului Brno-Nord.", "category": "historical", "coords": [16.623214, 49.200273]}, {"name": "Úřad městské části Brno Střed", "text": "Primăria districtului Brno-Centru.", "category": "historical", "coords": [16.605628, 49.193106]}, {"name": "Úřad městské části Brno-Židenice", "text": "Primăria districtului Brno-Židenice.", "category": "historical", "coords": [16.64447, 49.201049]}, {"name": "Měnínská brána", "text": "Poartă istorică a orașului în Brno.", "category": "fortress", "coords": [16.612698, 49.194263]}, {"name": "Úřad městské části Brno-jih", "text": "Primăria districtului Brno-Sud.", "category": "historical", "coords": [16.62297, 49.174535]}, {"name": "Úřad městské části Brno - Černovice", "text": "Primăria districtului Brno-Černovice.", "category": "historical", "coords": [16.636869, 49.186646]}, {"name": "Janáčkovo divadlo", "text": "Operă în Brno.", "category": "cultural", "coords": [16.611044, 49.198222]}, {"name": "Reduta", "text": "Teatru istoric în Brno.", "category": "cultural", "coords": [16.6097, 49.192039]}, {"name": "Besední dům", "text": "Centru cultural și de concerte în Brno.", "category": "cultural", "coords": [16.604203, 49.196084]}, {"name": "J. A. Komenského", "text": "Biserică evanghelică în Brno.", "category": "religious", "coords": [16.603268, 49.19767]}, {"name": "Kostel svatého Václava", "text": "Biserică ortodoxă în Brno.", "category": "religious", "coords": [16.595647, 49.196556]}, {"name": "svatá Maří Magdalena", "text": "Biserica svatá Maří Magdalena este un lăcaș religios situat în Brno, Cehia. Aici, oaspeții se pot bucura de un decor pașnic propice pentru rugăciune și liniște.", "category": "religious", "coords": [16.6108, 49.192223]}, {"name": "svatý Josef", "text": "Edificiul religios svatý Josef face parte din peisajul spiritual al orașului Brno din Cehia. Cei care trec pragul acestei biserici vor găsi un sanctuar dedicat păcii interioare.", "category": "religious", "coords": [16.612296, 49.19316]}, {"name": "svatí Janové", "text": "Biserica svatí Janové din Brno, Cehia, este o destinație religioasă de importanță locală. Acest lăcaș de cult oferă vizitatorilor săi ocazia de a se deconecta de la cotidian.", "category": "religious", "coords": [16.611272, 49.194312]}, {"name": "Neposkvrněného početí Panny Marie", "text": "Situată în inima orașului Brno, Cehia, Neposkvrněného početí Panny Marie este o biserică impresionantă. Vizitatorii vor descoperi aici o atmosferă plină de solemnitate religioasă.", "category": "religious", "coords": [16.619765, 49.192407]}, {"name": "Synagoga Agudas achim", "text": "Sinagogă în Brno.", "category": "religious", "coords": [16.617672, 49.192742]}, {"name": "svatého Jiljí", "text": "Biserica svatého Jiljí din Brno, Cehia, reprezintă un loc de închinare pentru comunitatea locală. Oaspeții pot explora acest spațiu religios pentru a găsi armonie și pace sufletească.", "category": "religious", "coords": [16.624056, 49.17588]}, {"name": "sv. Rodiny", "text": "Construită în Brno, Cehia, biserica sv. Rodiny este un refugiu spiritual apreciat. Turistul care intră în acest lăcaș va simți imediat liniștea caracteristică locurilor sfinte.", "category": "religious", "coords": [16.59731, 49.2012]}, {"name": "Husův sbor", "text": "Husův sbor este o biserică ce servește comunitatea din Brno, Cehia. Vizitând acest edificiu religios, oaspeții vor descoperi o ambianță propice pentru meditație.", "category": "religious", "coords": [16.603107, 49.203651]}, {"name": "Betlémský kostel", "text": "Aflată în orașul Brno din Cehia, Betlémský kostel este o biserică destinată rugăciunii. Locația religioasă promite vizitatorilor o experiență spirituală într-un decor pașnic.", "category": "religious", "coords": [16.6023, 49.192954]}, {"name": "svatý Leopold", "text": "Biserica svatý Leopold contribuie la patrimoniul religios din Brno, Cehia. Oaspeții acestui lăcaș pot petrece momente de reculegere în liniște deplină.", "category": "religious", "coords": [16.595699, 49.185057]}, {"name": "sv. Augustin", "text": "Situată în orașul Brno, biserica sv. Augustin este un loc de reculegere în Cehia. Vizitatorul va găsi aici o atmosferă caldă, dedicată reflecției personale.", "category": "religious", "coords": [16.581245, 49.202621]}, {"name": "svatý Václav", "text": "Capelă în Brno.", "category": "religious", "coords": [16.578622, 49.212187]}, {"name": "svatý Cyril a Metoděj", "text": "Biserica svatý Cyril a Metoděj face parte din comunitatea religioasă a orașului Brno, Cehia. Cei care vizitează acest lăcaș sfânt se pot bucura de o stare de bine și liniște.", "category": "religious", "coords": [16.646551, 49.198608]}, {"name": "Spasitele", "text": "Încheind lista lăcașurilor de cult, biserica Spasitele este localizată în Brno, Cehia. Acest loc religios îi întâmpină pe oaspeți cu o ambianță protectoare și calmă.", "category": "religious", "coords": [16.63871, 49.197201]}, {"name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích", "text": "Casă de rugăciune evanghelică în Brno-Židenice.", "category": "religious", "coords": [16.641943, 49.196416]}, {"name": "Blahoslavův dům", "text": "Casa Blahoslav, o clădire religioasă importantă din Brno.", "category": "religious", "coords": [16.604111, 49.207055]}, {"name": "Nejsvětějšího Srdce Páně", "text": "Biserica Preasfintei Inimi a lui Isus din Brno.", "category": "religious", "coords": [16.630723, 49.211914]}, {"name": "Žlutý kopec", "text": "Zonă deluroasă în orașul Brno.", "category": "natural", "coords": [16.574131, 49.201711]}, {"name": "náměstí 28. října", "text": "Parc urban în Piața 28 Octombrie din Brno.", "category": "park", "coords": [16.612843, 49.202862]}, {"name": "Lužánky", "text": "Parc istoric important în centrul orașului Brno.", "category": "park", "coords": [16.608936, 49.206667]}, {"name": "Botanická zahrada", "text": "Grădina Botanică a Universității Masaryk din Brno.", "category": "park", "coords": [16.596498, 49.204244]}, {"name": "Botanická zahrada a arboretum Mendelu", "text": "Grădina botanică și arboretul Universității Mendel din Brno.", "category": "park", "coords": [16.613241, 49.213585]}, {"name": "Schreberovy zahrádky", "text": "Zonă de parc cunoscută sub numele de grădini Schreber în Brno.", "category": "park", "coords": [16.621225, 49.207734]}, {"name": "Roučkovo jezero", "text": "Un lac mic în Brno, care invită la relaxare în natură.", "category": "natural", "coords": [16.644408, 49.151315]}, {"name": "Plavecké jezero", "text": "Un lac pentru înot în Brno pentru momente revigorante la apă.", "category": "natural", "coords": [16.642831, 49.147831]}, {"name": "Opleta", "text": "Un loc liniștit în Brno pentru scurte plimbări pe malul lacului.", "category": "natural", "coords": [16.643563, 49.145674]}, {"name": "Kocábka", "text": "Un iaz mic în Brno cu un cadru natural.", "category": "natural", "coords": [16.644097, 49.14666]}, {"name": "Strakovo jezero", "text": "O zonă cu apă locală în Brno, ideală pentru o pauză în natură.", "category": "natural", "coords": [16.642606, 49.146677]}, {"name": "Ledárenské jezero", "text": "Un lac în Brno, potrivit pentru observarea naturii.", "category": "natural", "coords": [16.643525, 49.149256]}, {"name": "Mateční", "text": "O zonă cu apă liniștită în Brno, în mijlocul unui peisaj calm.", "category": "natural", "coords": [16.645803, 49.145045]}, {"name": "U vrboveckého mlýna", "text": "O apă naturală în Brno care invită la relaxare pe mal.", "category": "natural", "coords": [16.504065, 49.210615]}, {"name": "Kmuníčkovo jezero", "text": "Un lac liniștit în Brno pentru o pauză în aer liber.", "category": "natural", "coords": [16.644843, 49.152919]}, {"name": "Typfl", "text": "O zonă mică cu apă în Brno pentru momente de relaxare.", "category": "natural", "coords": [16.644329, 49.153839]}, {"name": "Kašpárkovo jezero", "text": "Un iaz pitoresc în Brno pentru iubitorii de natură.", "category": "natural", "coords": [16.64284, 49.155811]}, {"name": "Malé jezero", "text": "Un lac mic și liniștit în zona urbană a Brno.", "category": "natural", "coords": [16.672864, 49.217415]}, {"name": "U Kadlecova mlýna", "text": "O zonă cu apă aproape de natură în Brno, ideală pentru plimbări.", "category": "natural", "coords": [16.71488, 49.213562]}, {"name": "Jezero Studánka", "text": "Un lac liniștit în Brno cu un cadru natural frumos.", "category": "natural", "coords": [16.67159, 49.217576]}, {"name": "Rájecká tůň", "text": "O apă naturală liniștită în Brno pentru observații calme.", "category": "natural", "coords": [16.6421, 49.165446]}, {"name": "Brněnská přehrada", "text": "O destinație populară în Brno pentru plimbări și relaxare pe malul apei.", "category": "natural", "coords": [16.485642, 49.252033]}, {"name": "Pískoviště", "text": "Un loc de joacă simplu în Brno unde copiii se pot juca în siguranță.", "category": "family", "coords": [16.57668, 49.196001]}, {"name": "Hřiště", "text": "O zonă de joacă locală în Brno pentru distracția zilnică în aer liber.", "category": "family", "coords": [16.593684, 49.196405]}, {"name": "Dopravní hřiště Riviéra", "text": "Un loc de joacă special în Brno pentru joacă activă și învățare.", "category": "family", "coords": [16.569776, 49.18758]}, {"name": "Dětské hřiště Pod Kaštany 17", "text": "Un loc de joacă bine întreținut în Brno pentru familii cu copii.", "category": "family", "coords": [16.589001, 49.211547]}, {"name": "Mini golf Kšírovka", "text": "Un teren de minigolf distractiv în Brno pentru întreaga familie.", "category": "family", "coords": [16.617676, 49.169272]}, {"name": "Dětské hřiště Botanická", "text": "Un loc de joacă plăcut în Brno, ideal pentru o ieșire în familie.", "category": "family", "coords": [16.596493, 49.210729]}, {"name": "Papilonia - Motýlí dům Brno", "text": "O casă a fluturilor în Brno care prezintă o varietate de specii exotice.", "category": "family", "coords": [16.608257, 49.193867]}, {"name": "Bazén Arménská", "text": "O piscină în Brno, ideală pentru antrenament zilnic și distracție în familie.", "category": "family", "coords": [16.580919, 49.167273]}, {"name": "lázně Riviéra", "text": "O facilitate de scăldat spațioasă în Brno pentru relaxare și înot în aer liber.", "category": "family", "coords": [16.572039, 49.18524]}, {"name": "Koupaliště Juliánov", "text": "Un parc acvatic în Brno cu tobogane și bazine pentru copii și adulți.", "category": "family", "coords": [16.653414, 49.191725]}, {"name": "Sportovní a rekreační areál Kraví hora", "text": "O zonă sportivă și de recreere în Brno cu diverse atracții acvatice.", "category": "family", "coords": [16.586282, 49.201087]}, {"name": "Koupaliště Královo Pole", "text": "Un ștrand popular în Brno pentru distracție estivală la scăldat cu familia.", "category": "family", "coords": [16.608715, 49.224387]}, {"name": "Biotop Brno-Jih", "text": "O baie publică naturală în Brno pentru o experiență de înot biologică.", "category": "family", "coords": [16.619863, 49.169963]}, {"name": "Kozí zahrada", "text": "O mică grădină zoologică în Brno, axată în special pe contactul cu caprele.", "category": "family", "coords": [16.605902, 49.225379]}], "en": [{"name": "Místodržitelský palác", "text": "Museum in the Governor's Palace in Brno.", "category": "museum", "coords": [16.608183, 49.197637]}, {"name": "Hvězdárna a planetárium Brno", "text": "Observatory and planetarium in Brno.", "category": "museum", "coords": [16.583642, 49.204766]}, {"name": "Mendelovo muzeum", "text": "Museum dedicated to Gregor Mendel in Brno.", "category": "museum", "coords": [16.593795, 49.1913]}, {"name": "Biskupský dvůr", "text": "Museum in the Bishop's Court in Brno.", "category": "museum", "coords": [16.608329, 49.191216]}, {"name": "Anthropos", "text": "Anthropology museum in Brno.", "category": "museum", "coords": [16.567164, 49.192115]}, {"name": "Vila Stiassny", "text": "Functionalist villa and museum in Brno.", "category": "museum", "coords": [16.572908, 49.196975]}, {"name": "Brno Ossuary", "text": "Historic ossuary in Brno.", "category": "museum", "coords": [16.607959, 49.196345]}, {"name": "Löw-Beer Villa in Brno", "text": "Historic villa of the Löw-Beer family in Brno.", "category": "museum", "coords": [16.613722, 49.206094]}, {"name": "letohrádek Mitrovských", "text": "Castle-like building in Brno.", "category": "castle", "coords": [16.589035, 49.188416]}, {"name": "Dům pánů z Kunštátu", "text": "Cultural center in a historic house in Brno.", "category": "museum", "coords": [16.606574, 49.193104]}, {"name": "Vila Tugendhat", "text": "World-famous functionalist villa in Brno.", "category": "museum", "coords": [16.616084, 49.207171]}, {"name": "Jurkovičova vila", "text": "Villa designed by Dušan Jurkovič in Brno.", "category": "museum", "coords": [16.576115, 49.20662]}, {"name": "Spilberk Castle", "text": "Historic fortress above Brno.", "category": "castle", "coords": [16.599411, 49.194477]}, {"name": "Zderadův sloup", "text": "Historic monument in Brno.", "category": "historical", "coords": [16.627613, 49.191097]}, {"name": "Úřad městské části Brno-sever", "text": "Town hall of the Brno-North district.", "category": "historical", "coords": [16.623214, 49.200273]}, {"name": "Úřad městské části Brno Střed", "text": "Town hall of the Brno-Center district.", "category": "historical", "coords": [16.605628, 49.193106]}, {"name": "Úřad městské části Brno-Židenice", "text": "Town hall of the Brno-Židenice district.", "category": "historical", "coords": [16.64447, 49.201049]}, {"name": "Měnínská brána", "text": "Historic city gate in Brno.", "category": "fortress", "coords": [16.612698, 49.194263]}, {"name": "Úřad městské části Brno-jih", "text": "Town hall of the Brno-South district.", "category": "historical", "coords": [16.62297, 49.174535]}, {"name": "Úřad městské části Brno - Černovice", "text": "Town hall of the Brno-Černovice district.", "category": "historical", "coords": [16.636869, 49.186646]}, {"name": "Janáčkovo divadlo", "text": "Opera house in Brno.", "category": "cultural", "coords": [16.611044, 49.198222]}, {"name": "Reduta", "text": "Historic theatre in Brno.", "category": "cultural", "coords": [16.6097, 49.192039]}, {"name": "Besední dům", "text": "Cultural and concert house in Brno.", "category": "cultural", "coords": [16.604203, 49.196084]}, {"name": "J. A. Komenského", "text": "Evangelical church in Brno.", "category": "religious", "coords": [16.603268, 49.19767]}, {"name": "Kostel svatého Václava", "text": "Orthodox church in Brno.", "category": "religious", "coords": [16.595647, 49.196556]}, {"name": "svatá Maří Magdalena", "text": "Found in Brno, Czech Republic, svatá Maří Magdalena serves as a notable religious institution. People visiting this church will discover a calm place reserved for worship and contemplation.", "category": "religious", "coords": [16.6108, 49.192223]}, {"name": "svatý Josef", "text": "Located in the city of Brno, Czech Republic, svatý Josef is a functioning religious space. Visitors to the church can expect a serene setting that fosters spiritual connection.", "category": "religious", "coords": [16.612296, 49.19316]}, {"name": "svatí Janové", "text": "The church of svatí Janové stands as a spiritual site in Brno, Czech Republic. Experiencing this religious building allows guests to enjoy a quiet moment of reflection.", "category": "religious", "coords": [16.611272, 49.194312]}, {"name": "Neposkvrněného početí Panny Marie", "text": "Contributing to the spiritual fabric of Brno, Czech Republic, Neposkvrněného početí Panny Marie is a beautiful church. Those visiting will encounter a traditional space meant for devout gatherings.", "category": "religious", "coords": [16.619765, 49.192407]}, {"name": "Synagoga Agudas achim", "text": "Synagogue in Brno.", "category": "religious", "coords": [16.617672, 49.192742]}, {"name": "svatého Jiljí", "text": "Serving as a religious haven, svatého Jiljí is a church located in Brno, Czech Republic. Visitors to the site can appreciate its role in offering spiritual comfort.", "category": "religious", "coords": [16.624056, 49.17588]}, {"name": "sv. Rodiny", "text": "The sv. Rodiny church adds to the religious institutions found in Brno, Czech Republic. Experiencing this house of worship gives guests a chance to find peace and tranquility.", "category": "religious", "coords": [16.59731, 49.2012]}, {"name": "Husův sbor", "text": "Located in Brno, Czech Republic, Husův sbor functions as an active religious site. Visiting this church allows guests to participate in a calm, spiritual environment.", "category": "religious", "coords": [16.603107, 49.203651]}, {"name": "Betlémský kostel", "text": "The Betlémský kostel operates as a church within the city of Brno, Czech Republic. Guests at this religious establishment will enjoy a tranquil area for quiet thoughts.", "category": "religious", "coords": [16.6023, 49.192954]}, {"name": "svatý Leopold", "text": "Forming part of the religious community in Brno, Czech Republic, svatý Leopold is a quiet church. The site provides visitors with an ideal setting for spiritual renewal.", "category": "religious", "coords": [16.595699, 49.185057]}, {"name": "sv. Augustin", "text": "The church of sv. Augustin can be found in the city of Brno, Czech Republic. When visiting this religious space, guests can expect to encounter a peaceful sanctuary.", "category": "religious", "coords": [16.581245, 49.202621]}, {"name": "Saint Wenceslaus", "text": "Chapel in Brno.", "category": "religious", "coords": [16.578622, 49.212187]}, {"name": "svatý Cyril a Metoděj", "text": "Serving the spiritual needs of Brno, Czech Republic, is the svatý Cyril a Metoděj church. Visitors to this religious site will find a welcoming atmosphere for contemplation.", "category": "religious", "coords": [16.646551, 49.198608]}, {"name": "Spasitele", "text": "Rounding out the religious sites in Brno, Czech Republic, is the Spasitele church. When touring this location, visitors can anticipate a respectful and quiet spiritual haven.", "category": "religious", "coords": [16.63871, 49.197201]}, {"name": "Farní sbor Českobratrské církve evangelické v Brně-Židenicích", "text": "Evangelical house of prayer in Brno-Židenice.", "category": "religious", "coords": [16.641943, 49.196416]}, {"name": "Blahoslavův dům", "text": "Blahoslav House, a significant religious building in Brno.", "category": "religious", "coords": [16.604111, 49.207055]}, {"name": "Nejsvětějšího Srdce Páně", "text": "Church of the Most Sacred Heart of Jesus in Brno.", "category": "religious", "coords": [16.630723, 49.211914]}, {"name": "Žlutý kopec", "text": "Hilly area within the city of Brno.", "category": "natural", "coords": [16.574131, 49.201711]}, {"name": "náměstí 28. října", "text": "Urban park at the Square of October 28th in Brno.", "category": "park", "coords": [16.612843, 49.202862]}, {"name": "Lužánky", "text": "Significant historical park in the center of Brno.", "category": "park", "coords": [16.608936, 49.206667]}, {"name": "Botanická zahrada", "text": "Botanical garden of Masaryk University in Brno.", "category": "park", "coords": [16.596498, 49.204244]}, {"name": "Botanická zahrada a arboretum Mendelu", "text": "Botanical garden and arboretum of Mendel University in Brno.", "category": "park", "coords": [16.613241, 49.213585]}, {"name": "Schreberovy zahrádky", "text": "Park area known as Schreber gardens in Brno.", "category": "park", "coords": [16.621225, 49.207734]}, {"name": "Roučkovo jezero", "text": "A small lake in Brno, inviting for relaxation in nature.", "category": "natural", "coords": [16.644408, 49.151315]}, {"name": "Plavecké jezero", "text": "A swimming lake in Brno for refreshing moments by the water.", "category": "natural", "coords": [16.642831, 49.147831]}, {"name": "Opleta", "text": "A quiet spot in Brno for short walks along the lakeshore.", "category": "natural", "coords": [16.643563, 49.145674]}, {"name": "Kocábka", "text": "A small pond in Brno with a natural setting.", "category": "natural", "coords": [16.644097, 49.14666]}, {"name": "Strakovo jezero", "text": "A local body of water in Brno, ideal for a break in nature.", "category": "natural", "coords": [16.642606, 49.146677]}, {"name": "Ledárenské jezero", "text": "A lake in Brno suitable for observing nature.", "category": "natural", "coords": [16.643525, 49.149256]}, {"name": "Mateční", "text": "A peaceful body of water in Brno set in a calm landscape.", "category": "natural", "coords": [16.645803, 49.145045]}, {"name": "U vrboveckého mlýna", "text": "A natural water spot in Brno inviting for a rest by the shore.", "category": "natural", "coords": [16.504065, 49.210615]}, {"name": "Kmuníčkovo jezero", "text": "A quiet lake in Brno for some time out in the open.", "category": "natural", "coords": [16.644843, 49.152919]}, {"name": "Typfl", "text": "A small body of water in Brno for relaxed moments.", "category": "natural", "coords": [16.644329, 49.153839]}, {"name": "Kašpárkovo jezero", "text": "A scenic pond in Brno for nature lovers.", "category": "natural", "coords": [16.64284, 49.155811]}, {"name": "Malé jezero", "text": "A small, peaceful lake within the Brno city area.", "category": "natural", "coords": [16.672864, 49.217415]}, {"name": "U Kadlecova mlýna", "text": "A nature-near body of water in Brno, ideal for walks.", "category": "natural", "coords": [16.71488, 49.213562]}, {"name": "Jezero Studánka", "text": "A calm lake in Brno with beautiful natural surroundings.", "category": "natural", "coords": [16.67159, 49.217576]}, {"name": "Rájecká tůň", "text": "A quiet natural water spot in Brno for peaceful observation.", "category": "natural", "coords": [16.6421, 49.165446]}, {"name": "Brněnská přehrada", "text": "A popular destination in Brno for walks and relaxation by the water.", "category": "natural", "coords": [16.485642, 49.252033]}, {"name": "Pískoviště", "text": "A simple playground in Brno where children can play safely.", "category": "family", "coords": [16.57668, 49.196001]}, {"name": "Hřiště", "text": "A local play area in Brno for daily outdoor fun.", "category": "family", "coords": [16.593684, 49.196405]}, {"name": "Dopravní hřiště Riviéra", "text": "A special playground in Brno for active play and learning.", "category": "family", "coords": [16.569776, 49.18758]}, {"name": "Dětské hřiště Pod Kaštany 17", "text": "A well-maintained playground in Brno for families with children.", "category": "family", "coords": [16.589001, 49.211547]}, {"name": "Mini golf Kšírovka", "text": "An entertaining miniature golf course in Brno for the whole family.", "category": "family", "coords": [16.617676, 49.169272]}, {"name": "Dětské hřiště Botanická", "text": "A nice playground in Brno, ideal for a family outing.", "category": "family", "coords": [16.596493, 49.210729]}, {"name": "Papilonia - Motýlí dům Brno", "text": "A butterfly house in Brno showing a variety of exotic species.", "category": "family", "coords": [16.608257, 49.193867]}, {"name": "Bazén Arménská", "text": "A swimming pool in Brno, ideal for daily training and family fun.", "category": "family", "coords": [16.580919, 49.167273]}, {"name": "lázně Riviéra", "text": "A spacious bathing facility in Brno for relaxation and outdoor swimming.", "category": "family", "coords": [16.572039, 49.18524]}, {"name": "Koupaliště Juliánov", "text": "A water park in Brno with slides and pools for children and adults.", "category": "family", "coords": [16.653414, 49.191725]}, {"name": "Sportovní a rekreační areál Kraví hora", "text": "A sports and recreation area in Brno with diverse water attractions.", "category": "family", "coords": [16.586282, 49.201087]}, {"name": "Koupaliště Královo Pole", "text": "A popular outdoor pool in Brno for summer bathing fun with the family.", "category": "family", "coords": [16.608715, 49.224387]}, {"name": "Biotop Brno-Jih", "text": "A nature-friendly public bath in Brno for a biological swimming experience.", "category": "family", "coords": [16.619863, 49.169963]}, {"name": "Kozí zahrada", "text": "A small zoo in Brno focused particularly on contact with goats.", "category": "family", "coords": [16.605902, 49.225379]}]},
     parent: "CZ",
     type: "city",
     name: { de: "Brünn", hu: "Brno", ro: "Brno", en: "Brno"},
@@ -3288,6 +759,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.277804,
                         49.821674
                   ]
+            },
+            {
+                  "name": "ZOO Ostrava",
+                  "text": "Der ZOO Ostrava ist ein großer Zoo in Ostrava, der ein tolles Erlebnis für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.319214,
+                        49.843617
+                  ]
+            },
+            {
+                  "name": "Bazénové centrum",
+                  "text": "Das Bazénové centrum ist ein Schwimmbad in Ostrava, das sich für die Freizeitgestaltung und Übungen der Familie eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.288718,
+                        49.845009
+                  ]
+            },
+            {
+                  "name": "ZOO a botanický park Ostrava",
+                  "text": "Dieser Zoo und Botanische Park in Ostrava ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        18.323928,
+                        49.848033
+                  ]
             }
       ],
       "hu": [
@@ -3460,6 +958,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.277804,
                         49.821674
+                  ]
+            },
+            {
+                  "name": "ZOO Ostrava",
+                  "text": "Az Ostrava Állatkert egy nagy állatkert Ostravában, amely nagyszerű élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.319214,
+                        49.843617
+                  ]
+            },
+            {
+                  "name": "Bazénové centrum",
+                  "text": "A Bazénové centrum egy úszómedence Ostravában, amely alkalmas családi szabadidőre és testmozgásra.",
+                  "category": "family",
+                  "coords": [
+                        18.288718,
+                        49.845009
+                  ]
+            },
+            {
+                  "name": "ZOO a botanický park Ostrava",
+                  "text": "Ez az ostravai állatkert és botanikus park gyönyörű úti cél egy családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        18.323928,
+                        49.848033
                   ]
             }
       ],
@@ -3634,6 +1159,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.277804,
                         49.821674
                   ]
+            },
+            {
+                  "name": "ZOO Ostrava",
+                  "text": "Grădina Zoologică Ostrava este o grădină zoologică mare din Ostrava care oferă o experiență deosebită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.319214,
+                        49.843617
+                  ]
+            },
+            {
+                  "name": "Bazénové centrum",
+                  "text": "Bazénové centrum este o piscină din Ostrava potrivită pentru petrecerea timpului liber și exerciții fizice în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.288718,
+                        49.845009
+                  ]
+            },
+            {
+                  "name": "ZOO a botanický park Ostrava",
+                  "text": "Această grădină zoologică și parc botanic din Ostrava este o destinație frumoasă pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        18.323928,
+                        49.848033
+                  ]
             }
       ],
       "en": [
@@ -3806,6 +1358,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.277804,
                         49.821674
+                  ]
+            },
+            {
+                  "name": "ZOO Ostrava",
+                  "text": "ZOO Ostrava is a large zoo in Ostrava offering a great experience for families.",
+                  "category": "family",
+                  "coords": [
+                        18.319214,
+                        49.843617
+                  ]
+            },
+            {
+                  "name": "Bazénové centrum",
+                  "text": "Bazénové centrum is a swimming pool in Ostrava suitable for family leisure and exercise.",
+                  "category": "family",
+                  "coords": [
+                        18.288718,
+                        49.845009
+                  ]
+            },
+            {
+                  "name": "ZOO a botanický park Ostrava",
+                  "text": "This zoo and botanical park in Ostrava is a beautiful destination for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        18.323928,
+                        49.848033
                   ]
             }
       ]
@@ -4379,6 +1958,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.387257,
                         49.730656
                   ]
+            },
+            {
+                  "name": "Hopsina",
+                  "text": "Ein Freizeitpark in Pilsen mit verschiedenen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        13.384502,
+                        49.744436
+                  ]
+            },
+            {
+                  "name": "Bazén Slovany",
+                  "text": "Ein Wasserpark in Pilsen für sportliches Schwimmen und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        13.398337,
+                        49.736602
+                  ]
+            },
+            {
+                  "name": "West Park",
+                  "text": "Ein Themenpark in Pilsen, der Abenteuer für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.348031,
+                        49.754853
+                  ]
+            },
+            {
+                  "name": "nudapláž Labuť",
+                  "text": "Ein Strandbereich in Pilsen für Naturfreunde und Erholungssuchende.",
+                  "category": "family",
+                  "coords": [
+                        13.395006,
+                        49.777421
+                  ]
             }
       ],
       "hu": [
@@ -4902,6 +2517,42 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.387257,
                         49.730656
+                  ]
+            },
+            {
+                  "name": "Hopsina",
+                  "text": "Szabadidőpark Plzeňben, ahol különféle játékok várják a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        13.384502,
+                        49.744436
+                  ]
+            },
+            {
+                  "name": "Bazén Slovany",
+                  "text": "Vízi park Plzeňben, amely sportolásra és családi szórakozásra is kiváló.",
+                  "category": "family",
+                  "coords": [
+                        13.398337,
+                        49.736602
+                  ]
+            },
+            {
+                  "name": "West Park",
+                  "text": "Tematikus élménypark Plzeňben, amely kalandokat kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        13.348031,
+                        49.754853
+                  ]
+            },
+            {
+                  "name": "nudapláž Labuť",
+                  "text": "Vízparti pihenőhely Plzeňben a természet közelségét kedvelőknek.",
+                  "category": "family",
+                  "coords": [
+                        13.395006,
+                        49.777421
                   ]
             }
       ],
@@ -5427,6 +3078,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.387257,
                         49.730656
                   ]
+            },
+            {
+                  "name": "Hopsina",
+                  "text": "Un parc de distracții în Plzen, cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.384502,
+                        49.744436
+                  ]
+            },
+            {
+                  "name": "Bazén Slovany",
+                  "text": "Un parc acvatic în Plzen, potrivit pentru sport și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.398337,
+                        49.736602
+                  ]
+            },
+            {
+                  "name": "West Park",
+                  "text": "Un parc tematic în Plzen, oferind aventură și distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.348031,
+                        49.754853
+                  ]
+            },
+            {
+                  "name": "nudapláž Labuť",
+                  "text": "O zonă de plajă în Plzen, destinată celor care caută relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        13.395006,
+                        49.777421
+                  ]
             }
       ],
       "en": [
@@ -5951,6 +3638,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.387257,
                         49.730656
                   ]
+            },
+            {
+                  "name": "Hopsina",
+                  "text": "A theme park in Plzen offering various attractions and activities for children.",
+                  "category": "family",
+                  "coords": [
+                        13.384502,
+                        49.744436
+                  ]
+            },
+            {
+                  "name": "Bazén Slovany",
+                  "text": "A water park in Plzen ideal for both athletic swimming and family fun.",
+                  "category": "family",
+                  "coords": [
+                        13.398337,
+                        49.736602
+                  ]
+            },
+            {
+                  "name": "West Park",
+                  "text": "A theme park in Plzen providing adventure and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.348031,
+                        49.754853
+                  ]
+            },
+            {
+                  "name": "nudapláž Labuť",
+                  "text": "A beach area in Plzen for nature lovers and those seeking relaxation.",
+                  "category": "family",
+                  "coords": [
+                        13.395006,
+                        49.777421
+                  ]
             }
       ]
 },
@@ -6451,6 +4174,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.080054,
                         50.775899
                   ]
+            },
+            {
+                  "name": "Real Escape Adventure Liberec",
+                  "text": "Ein Abenteuer-Themenpark in Liberec mit spannenden Escape-Room-Erlebnissen.",
+                  "category": "family",
+                  "coords": [
+                        15.08807,
+                        50.740734
+                  ]
+            },
+            {
+                  "name": "Sluníčko",
+                  "text": "Ein kinderfreundliches Schwimmbad in Liberec für entspannte Stunden im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        15.101021,
+                        50.745804
+                  ]
+            },
+            {
+                  "name": "Lesní koupaliště",
+                  "text": "Ein Waldschwimmbad in Liberec für ein naturnahes Badeerlebnis im Freien.",
+                  "category": "family",
+                  "coords": [
+                        15.083568,
+                        50.786419
+                  ]
             }
       ],
       "hu": [
@@ -6902,6 +4652,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.080054,
                         50.775899
+                  ]
+            },
+            {
+                  "name": "Real Escape Adventure Liberec",
+                  "text": "Kalandpark Liberecben izgalmas szabadulószobás élményekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.08807,
+                        50.740734
+                  ]
+            },
+            {
+                  "name": "Sluníčko",
+                  "text": "Gyerekbarát uszoda Liberecben a vízben töltött pihentető órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.101021,
+                        50.745804
+                  ]
+            },
+            {
+                  "name": "Lesní koupaliště",
+                  "text": "Erdei strand Liberecben a természetközeli szabadtéri fürdőzésért.",
+                  "category": "family",
+                  "coords": [
+                        15.083568,
+                        50.786419
                   ]
             }
       ],
@@ -7355,6 +5132,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.080054,
                         50.775899
                   ]
+            },
+            {
+                  "name": "Real Escape Adventure Liberec",
+                  "text": "Un parc tematic de aventură în Liberec cu experiențe palpitante de tip escape room.",
+                  "category": "family",
+                  "coords": [
+                        15.08807,
+                        50.740734
+                  ]
+            },
+            {
+                  "name": "Sluníčko",
+                  "text": "O piscină potrivită pentru copii în Liberec pentru ore relaxante în apă.",
+                  "category": "family",
+                  "coords": [
+                        15.101021,
+                        50.745804
+                  ]
+            },
+            {
+                  "name": "Lesní koupaliště",
+                  "text": "O piscină de pădure în Liberec pentru o experiență de scăldat naturală în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.083568,
+                        50.786419
+                  ]
             }
       ],
       "en": [
@@ -7807,6 +5611,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.080054,
                         50.775899
                   ]
+            },
+            {
+                  "name": "Real Escape Adventure Liberec",
+                  "text": "An adventure theme park in Liberec with exciting escape room experiences.",
+                  "category": "family",
+                  "coords": [
+                        15.08807,
+                        50.740734
+                  ]
+            },
+            {
+                  "name": "Sluníčko",
+                  "text": "A child-friendly swimming pool in Liberec for relaxing hours in the water.",
+                  "category": "family",
+                  "coords": [
+                        15.101021,
+                        50.745804
+                  ]
+            },
+            {
+                  "name": "Lesní koupaliště",
+                  "text": "A forest swimming area in Liberec for a natural outdoor bathing experience.",
+                  "category": "family",
+                  "coords": [
+                        15.083568,
+                        50.786419
+                  ]
             }
       ]
 },
@@ -8163,6 +5994,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.251931,
                         49.592229
                   ]
+            },
+            {
+                  "name": "Olomoucký aquapark",
+                  "text": "Der Olomoucký aquapark ist ein Wasserpark in Olomouc, der viele Attraktionen für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.222262,
+                        49.574115
+                  ]
+            },
+            {
+                  "name": "Krokodýlek Olomouc",
+                  "text": "Krokodýlek Olomouc ist ein Freizeitpark in Olomouc, der lustige Aktivitäten für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.254056,
+                        49.607542
+                  ]
+            },
+            {
+                  "name": "Delfínek",
+                  "text": "Delfínek ist ein Schwimmbad in Olomouc, ideal für Kinder und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        17.245193,
+                        49.598652
+                  ]
+            },
+            {
+                  "name": "Káče plavecká výuka dětí",
+                  "text": "Dieses Schwimmbad in Olomouc ist auf Unterricht spezialisiert und eignet sich hervorragend für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.249707,
+                        49.601813
+                  ]
             }
       ],
       "hu": [
@@ -8470,6 +6337,42 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.251931,
                         49.592229
+                  ]
+            },
+            {
+                  "name": "Olomoucký aquapark",
+                  "text": "Az Olomoucký aquapark egy vízi park Olmützben, amely számos látnivalót kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.222262,
+                        49.574115
+                  ]
+            },
+            {
+                  "name": "Krokodýlek Olomouc",
+                  "text": "A Krokodýlek Olomouc egy vidámpark Olmützben, amely szórakoztató tevékenységeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.254056,
+                        49.607542
+                  ]
+            },
+            {
+                  "name": "Delfínek",
+                  "text": "A Delfínek egy úszómedence Olmützben, amely ideális gyermekeknek és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.245193,
+                        49.598652
+                  ]
+            },
+            {
+                  "name": "Káče plavecká výuka dětí",
+                  "text": "Ez az olmützi úszómedence oktatásra szakosodott, és nagyszerű családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.249707,
+                        49.601813
                   ]
             }
       ],
@@ -8779,6 +6682,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.251931,
                         49.592229
                   ]
+            },
+            {
+                  "name": "Olomoucký aquapark",
+                  "text": "Olomoucký aquapark este un parc acvatic din Olomouc care oferă multe atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.222262,
+                        49.574115
+                  ]
+            },
+            {
+                  "name": "Krokodýlek Olomouc",
+                  "text": "Krokodýlek Olomouc este un parc tematic din Olomouc care oferă activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.254056,
+                        49.607542
+                  ]
+            },
+            {
+                  "name": "Delfínek",
+                  "text": "Delfínek este o piscină din Olomouc ideală pentru copii și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.245193,
+                        49.598652
+                  ]
+            },
+            {
+                  "name": "Káče plavecká výuka dětí",
+                  "text": "Această piscină din Olomouc este specializată în lecții și este excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.249707,
+                        49.601813
+                  ]
             }
       ],
       "en": [
@@ -9086,6 +7025,42 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.251931,
                         49.592229
+                  ]
+            },
+            {
+                  "name": "Olomoucký aquapark",
+                  "text": "Olomoucký aquapark is a water park in Olomouc offering many attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        17.222262,
+                        49.574115
+                  ]
+            },
+            {
+                  "name": "Krokodýlek Olomouc",
+                  "text": "Krokodýlek Olomouc is a theme park in Olomouc providing fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.254056,
+                        49.607542
+                  ]
+            },
+            {
+                  "name": "Delfínek",
+                  "text": "Delfínek is a swimming pool in Olomouc ideal for children and family fun.",
+                  "category": "family",
+                  "coords": [
+                        17.245193,
+                        49.598652
+                  ]
+            },
+            {
+                  "name": "Káče plavecká výuka dětí",
+                  "text": "This swimming pool in Olomouc specializes in lessons and is great for families.",
+                  "category": "family",
+                  "coords": [
+                        17.249707,
+                        49.601813
                   ]
             }
       ]
@@ -9533,6 +7508,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.468782,
                         48.973628
                   ]
+            },
+            {
+                  "name": "Venkovní Bazén ČB",
+                  "text": "Das Venkovní Bazén ČB ist ein Freibad in Budweis, das zum Schwimmen und Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.468249,
+                        48.975207
+                  ]
             }
       ],
       "hu": [
@@ -9930,6 +7914,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.468782,
                         48.973628
+                  ]
+            },
+            {
+                  "name": "Venkovní Bazén ČB",
+                  "text": "A Venkovní Bazén ČB egy szabadtéri úszómedence České Budějovice városában, amely kikapcsolódást kínál.",
+                  "category": "family",
+                  "coords": [
+                        14.468249,
+                        48.975207
                   ]
             }
       ],
@@ -10329,6 +8322,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.468782,
                         48.973628
                   ]
+            },
+            {
+                  "name": "Venkovní Bazén ČB",
+                  "text": "Venkovní Bazén ČB este o piscină în aer liber din České Budějovice, ideală pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.468249,
+                        48.975207
+                  ]
             }
       ],
       "en": [
@@ -10726,6 +8728,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.468782,
                         48.973628
+                  ]
+            },
+            {
+                  "name": "Venkovní Bazén ČB",
+                  "text": "Venkovní Bazén ČB is an outdoor swimming pool in Ceske Budejovice, offering a place for recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.468249,
+                        48.975207
                   ]
             }
       ]
@@ -11389,6 +9400,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.848099,
                         50.189331
                   ]
+            },
+            {
+                  "name": "Cablewakepark",
+                  "text": "Ein Wasserpark in Hradec Králové, der auf Wakeboarding und Wasserski spezialisiert ist.",
+                  "category": "family",
+                  "coords": [
+                        15.786367,
+                        50.190607
+                  ]
             }
       ],
       "hu": [
@@ -12002,6 +10022,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.848099,
                         50.189331
+                  ]
+            },
+            {
+                  "name": "Cablewakepark",
+                  "text": "Vízi park Hradec Královéban, amely wakeboardozásra és vízisíelésre szakosodott.",
+                  "category": "family",
+                  "coords": [
+                        15.786367,
+                        50.190607
                   ]
             }
       ],
@@ -12617,6 +10646,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.848099,
                         50.189331
                   ]
+            },
+            {
+                  "name": "Cablewakepark",
+                  "text": "Un parc acvatic în Hradec Králové specializat pe wakeboarding și schi nautic.",
+                  "category": "family",
+                  "coords": [
+                        15.786367,
+                        50.190607
+                  ]
             }
       ],
       "en": [
@@ -13230,6 +11268,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.848099,
                         50.189331
+                  ]
+            },
+            {
+                  "name": "Cablewakepark",
+                  "text": "A water park in Hradec Kralove specializing in wakeboarding and water skiing.",
+                  "category": "family",
+                  "coords": [
+                        15.786367,
+                        50.190607
                   ]
             }
       ]
@@ -13857,6 +11904,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.78541,
                         50.026161
                   ]
+            },
+            {
+                  "name": "Brouzdaliště",
+                  "text": "Brouzdaliště ist ein Schwimmbad in Pardubice, ideal für die Freizeitgestaltung und das Spielen der Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.782542,
+                        50.033269
+                  ]
             }
       ],
       "hu": [
@@ -14434,6 +12490,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.78541,
                         50.026161
+                  ]
+            },
+            {
+                  "name": "Brouzdaliště",
+                  "text": "A Brouzdaliště egy úszómedence Pardubicében, amely tökéletes a családi szabadidőhöz és játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.782542,
+                        50.033269
                   ]
             }
       ],
@@ -15013,6 +13078,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.78541,
                         50.026161
                   ]
+            },
+            {
+                  "name": "Brouzdaliště",
+                  "text": "Brouzdaliště este o piscină din Pardubice perfectă pentru petrecerea timpului liber și joacă în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.782542,
+                        50.033269
+                  ]
             }
       ],
       "en": [
@@ -15591,6 +13665,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.78541,
                         50.026161
                   ]
+            },
+            {
+                  "name": "Brouzdaliště",
+                  "text": "Brouzdaliště is a swimming pool in Pardubice perfect for family leisure and play.",
+                  "category": "family",
+                  "coords": [
+                        15.782542,
+                        50.033269
+                  ]
             }
       ]
 },
@@ -15929,6 +14012,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.64733,
                         49.22006
                   ]
+            },
+            {
+                  "name": "Lázně Zlín",
+                  "text": "Lázně Zlín ist ein Schwimmbad in Zlín, das Möglichkeiten zur Erholung im Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.669604,
+                        49.221167
+                  ]
             }
       ],
       "hu": [
@@ -16218,6 +14310,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.64733,
                         49.22006
+                  ]
+            },
+            {
+                  "name": "Lázně Zlín",
+                  "text": "A Lázně Zlín egy uszoda Zlínben, amely vízi kikapcsolódási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        17.669604,
+                        49.221167
                   ]
             }
       ],
@@ -16509,6 +14610,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.64733,
                         49.22006
                   ]
+            },
+            {
+                  "name": "Lázně Zlín",
+                  "text": "Lázně Zlín este o piscină publică din Zlín, care oferă facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.669604,
+                        49.221167
+                  ]
             }
       ],
       "en": [
@@ -16799,6 +14909,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.64733,
                         49.22006
                   ]
+            },
+            {
+                  "name": "Lázně Zlín",
+                  "text": "Lázně Zlín is a swimming pool in Zlin, offering water-based recreation for visitors.",
+                  "category": "family",
+                  "coords": [
+                        17.669604,
+                        49.221167
+                  ]
             }
       ]
 },
@@ -17083,6 +15202,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.428211,
                         49.778536
                   ]
+            },
+            {
+                  "name": "Bazén Šumbark",
+                  "text": "Ein Hallenbad in Havířov, ideal für Schwimmtraining und Familienfreizeit.",
+                  "category": "family",
+                  "coords": [
+                        18.412505,
+                        49.794018
+                  ]
             }
       ],
       "hu": [
@@ -17318,6 +15446,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.428211,
                         49.778536
+                  ]
+            },
+            {
+                  "name": "Bazén Šumbark",
+                  "text": "Fedett uszoda Havířovban, ideális úszóedzéshez és családi szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        18.412505,
+                        49.794018
                   ]
             }
       ],
@@ -17555,6 +15692,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.428211,
                         49.778536
                   ]
+            },
+            {
+                  "name": "Bazén Šumbark",
+                  "text": "O piscină acoperită în Havířov, ideală pentru antrenament de înot și timp liber cu familia.",
+                  "category": "family",
+                  "coords": [
+                        18.412505,
+                        49.794018
+                  ]
             }
       ],
       "en": [
@@ -17790,6 +15936,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.428211,
                         49.778536
+                  ]
+            },
+            {
+                  "name": "Bazén Šumbark",
+                  "text": "An indoor pool in Havirov, ideal for swimming training and family leisure.",
+                  "category": "family",
+                  "coords": [
+                        18.412505,
+                        49.794018
                   ]
             }
       ]
@@ -20376,6 +18531,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.346051,
                         49.691101
                   ]
+            },
+            {
+                  "name": "VN Olešná – Palkovice",
+                  "text": "Dieser Badebereich in Frýdek-Místek bietet eine entspannte Atmosphäre und eine schöne Aussicht.",
+                  "category": "family",
+                  "coords": [
+                        18.317292,
+                        49.658809
+                  ]
+            },
+            {
+                  "name": "VN Olešná – Místek",
+                  "text": "VN Olešná ist ein malerischer Badebereich in Frýdek-Místek, ideal für einen erholsamen Tag.",
+                  "category": "family",
+                  "coords": [
+                        18.315154,
+                        49.66204
+                  ]
+            },
+            {
+                  "name": "Bazén ISSŠ",
+                  "text": "Der Bazén ISSŠ ist ein Schwimmbad in Frýdek-Místek, das für Familienaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        18.341354,
+                        49.683406
+                  ]
+            },
+            {
+                  "name": "Krytý aquapark Olešná",
+                  "text": "Dieser Indoor-Wasserpark in Frýdek-Místek bietet das ganze Jahr über Spaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.308214,
+                        49.663018
+                  ]
+            },
+            {
+                  "name": "Letní aquapark Olešná",
+                  "text": "Dieser Sommer-Wasserpark in Frýdek-Místek ist ein tolles Ziel für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        18.309674,
+                        49.663832
+                  ]
             }
       ],
       "hu": [
@@ -20629,6 +18829,51 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.346051,
                         49.691101
+                  ]
+            },
+            {
+                  "name": "VN Olešná – Palkovice",
+                  "text": "Ez a Frýdek-Místek-i fürdőhely pihentető légkört és szép kilátást kínál.",
+                  "category": "family",
+                  "coords": [
+                        18.317292,
+                        49.658809
+                  ]
+            },
+            {
+                  "name": "VN Olešná – Místek",
+                  "text": "A VN Olešná egy festői fürdőhely Frýdek-Místekben, amely ideális egy pihentető naphoz.",
+                  "category": "family",
+                  "coords": [
+                        18.315154,
+                        49.66204
+                  ]
+            },
+            {
+                  "name": "Bazén ISSŠ",
+                  "text": "A Bazén ISSŠ egy úszómedence Frýdek-Místekben, amely alkalmas családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        18.341354,
+                        49.683406
+                  ]
+            },
+            {
+                  "name": "Krytý aquapark Olešná",
+                  "text": "Ez a Frýdek-Místek-i fedett vízi park egész évben szórakozást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.308214,
+                        49.663018
+                  ]
+            },
+            {
+                  "name": "Letní aquapark Olešná",
+                  "text": "Ez a Frýdek-Místek-i nyári vízi park nagyszerű úti cél a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.309674,
+                        49.663832
                   ]
             }
       ],
@@ -20884,6 +19129,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.346051,
                         49.691101
                   ]
+            },
+            {
+                  "name": "VN Olešná – Palkovice",
+                  "text": "Această zonă de înot din Frýdek-Místek oferă o atmosferă relaxantă și vederi pitorești.",
+                  "category": "family",
+                  "coords": [
+                        18.317292,
+                        49.658809
+                  ]
+            },
+            {
+                  "name": "VN Olešná – Místek",
+                  "text": "VN Olešná este o zonă de înot pitorească din Frýdek-Místek, ideală pentru o zi relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        18.315154,
+                        49.66204
+                  ]
+            },
+            {
+                  "name": "Bazén ISSŠ",
+                  "text": "Bazén ISSŠ este o piscină din Frýdek-Místek potrivită pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.341354,
+                        49.683406
+                  ]
+            },
+            {
+                  "name": "Krytý aquapark Olešná",
+                  "text": "Acest parc acvatic acoperit din Frýdek-Místek oferă distracție pe tot parcursul anului pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.308214,
+                        49.663018
+                  ]
+            },
+            {
+                  "name": "Letní aquapark Olešná",
+                  "text": "Acest parc acvatic de vară din Frýdek-Místek este o destinație excelentă pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.309674,
+                        49.663832
+                  ]
             }
       ],
       "en": [
@@ -21138,6 +19428,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.346051,
                         49.691101
                   ]
+            },
+            {
+                  "name": "VN Olešná – Palkovice",
+                  "text": "This swimming area in Frýdek-Místek offers a relaxing atmosphere and scenic views.",
+                  "category": "family",
+                  "coords": [
+                        18.317292,
+                        49.658809
+                  ]
+            },
+            {
+                  "name": "VN Olešná – Místek",
+                  "text": "VN Olešná is a scenic swimming area in Frýdek-Místek ideal for a relaxing day.",
+                  "category": "family",
+                  "coords": [
+                        18.315154,
+                        49.66204
+                  ]
+            },
+            {
+                  "name": "Bazén ISSŠ",
+                  "text": "Bazén ISSŠ is a swimming pool in Frýdek-Místek suitable for family activities.",
+                  "category": "family",
+                  "coords": [
+                        18.341354,
+                        49.683406
+                  ]
+            },
+            {
+                  "name": "Krytý aquapark Olešná",
+                  "text": "This indoor water park in Frýdek-Místek provides year-round fun for families.",
+                  "category": "family",
+                  "coords": [
+                        18.308214,
+                        49.663018
+                  ]
+            },
+            {
+                  "name": "Letní aquapark Olešná",
+                  "text": "This summer water park in Frýdek-Místek is a great destination for family fun.",
+                  "category": "family",
+                  "coords": [
+                        18.309674,
+                        49.663832
+                  ]
             }
       ]
 },
@@ -21260,6 +19595,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.497098,
                         49.883411
                   ]
+            },
+            {
+                  "name": "Bazén Stars",
+                  "text": "Das Bazén Stars ist ein Hallenbad in Karviná, das zum sportlichen Schwimmen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        18.552128,
+                        49.863471
+                  ]
+            },
+            {
+                  "name": "Zábavní centrum Maxík",
+                  "text": "Das Zábavní centrum Maxík ist ein Erlebnispark in Karviná mit vielen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.554421,
+                        49.851618
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Karvinské moře",
+                  "text": "Die Naturistická pláž Karvinské moře ist ein Strandbad in Karviná für Naturisten.",
+                  "category": "family",
+                  "coords": [
+                        18.554091,
+                        49.836465
+                  ]
+            },
+            {
+                  "name": "Dančí obora Karviná",
+                  "text": "Die Dančí obora Karviná ist ein Wildgehege in Karviná, das Familien Einblicke in die Natur bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.539406,
+                        49.849051
+                  ]
             }
       ],
       "hu": [
@@ -21333,6 +19704,42 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.497098,
                         49.883411
+                  ]
+            },
+            {
+                  "name": "Bazén Stars",
+                  "text": "A Bazén Stars egy uszoda Karviná városában, amely sportolási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        18.552128,
+                        49.863471
+                  ]
+            },
+            {
+                  "name": "Zábavní centrum Maxík",
+                  "text": "A Zábavní centrum Maxík egy élményközpont Karviná városában, számos játékkal a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        18.554421,
+                        49.851618
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Karvinské moře",
+                  "text": "A Naturistická pláž Karvinské moře egy strand Karviná városában, amely naturisták számára is alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.554091,
+                        49.836465
+                  ]
+            },
+            {
+                  "name": "Dančí obora Karviná",
+                  "text": "A Dančí obora Karviná egy vadaskert Karviná városában, amely természetközeli élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.539406,
+                        49.849051
                   ]
             }
       ],
@@ -21408,6 +19815,42 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.497098,
                         49.883411
                   ]
+            },
+            {
+                  "name": "Bazén Stars",
+                  "text": "Bazén Stars este o piscină acoperită din Karviná, ideală pentru înot sportiv și recreere.",
+                  "category": "family",
+                  "coords": [
+                        18.552128,
+                        49.863471
+                  ]
+            },
+            {
+                  "name": "Zábavní centrum Maxík",
+                  "text": "Zábavní centrum Maxík este un centru de divertisment din Karviná, cu multe atracții pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.554421,
+                        49.851618
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Karvinské moře",
+                  "text": "Naturistická pláž Karvinské moře este o plajă din Karviná, destinată amatorilor de naturism.",
+                  "category": "family",
+                  "coords": [
+                        18.554091,
+                        49.836465
+                  ]
+            },
+            {
+                  "name": "Dančí obora Karviná",
+                  "text": "Dančí obora Karviná este o rezervație de căprioare din Karviná, oferind familiilor o experiență în natură.",
+                  "category": "family",
+                  "coords": [
+                        18.539406,
+                        49.849051
+                  ]
             }
       ],
       "en": [
@@ -21481,6 +19924,42 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.497098,
                         49.883411
+                  ]
+            },
+            {
+                  "name": "Bazén Stars",
+                  "text": "Bazén Stars is a swimming pool in Karvina, suitable for both sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.552128,
+                        49.863471
+                  ]
+            },
+            {
+                  "name": "Zábavní centrum Maxík",
+                  "text": "Zábavní centrum Maxík is a theme park in Karvina with many attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        18.554421,
+                        49.851618
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Karvinské moře",
+                  "text": "Naturistická pláž Karvinské moře is a beach resort in Karvina catering to naturists.",
+                  "category": "family",
+                  "coords": [
+                        18.554091,
+                        49.836465
+                  ]
+            },
+            {
+                  "name": "Dančí obora Karviná",
+                  "text": "Dančí obora Karviná is a deer park in Karvina, offering families a peaceful nature experience.",
+                  "category": "family",
+                  "coords": [
+                        18.539406,
+                        49.849051
                   ]
             }
       ]
@@ -21892,6 +20371,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.595126,
                         49.415108
                   ]
+            },
+            {
+                  "name": "Vodní Ráj",
+                  "text": "Ein Wasserpark in Jihlava, der vielfältige Bade- und Entspannungsmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.578065,
+                        49.407945
+                  ]
             }
       ],
       "hu": [
@@ -22253,6 +20741,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.595126,
                         49.415108
+                  ]
+            },
+            {
+                  "name": "Vodní Ráj",
+                  "text": "Vízi park Jihlavában, amely változatos fürdési és pihenési lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        15.578065,
+                        49.407945
                   ]
             }
       ],
@@ -22616,6 +21113,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.595126,
                         49.415108
                   ]
+            },
+            {
+                  "name": "Vodní Ráj",
+                  "text": "Un parc acvatic în Jihlava care oferă diverse posibilități de scăldat și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.578065,
+                        49.407945
+                  ]
             }
       ],
       "en": [
@@ -22977,6 +21483,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.595126,
                         49.415108
+                  ]
+            },
+            {
+                  "name": "Vodní Ráj",
+                  "text": "A water park in Jihlava offering diverse bathing and relaxation options.",
+                  "category": "family",
+                  "coords": [
+                        15.578065,
+                        49.407945
                   ]
             }
       ]
@@ -23397,6 +21912,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.823394,
                         50.628266
                   ]
+            },
+            {
+                  "name": "Papilonia",
+                  "text": "Papilonia in Teplice ist ein Schmetterlingszoo, der Familien ein magisches Erlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.865979,
+                        50.662834
+                  ]
             }
       ],
       "hu": [
@@ -23767,6 +22291,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.823394,
                         50.628266
+                  ]
+            },
+            {
+                  "name": "Papilonia",
+                  "text": "A teplicei Papilonia egy lepkeház, amely varázslatos élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.865979,
+                        50.662834
                   ]
             }
       ],
@@ -24139,6 +22672,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.823394,
                         50.628266
                   ]
+            },
+            {
+                  "name": "Papilonia",
+                  "text": "Papilonia din Teplice este o grădină zoologică de fluturi care oferă o experiență magică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.865979,
+                        50.662834
+                  ]
             }
       ],
       "en": [
@@ -24509,6 +23051,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.823394,
                         50.628266
+                  ]
+            },
+            {
+                  "name": "Papilonia",
+                  "text": "Papilonia in Teplice is a butterfly zoo offering a magical experience for families.",
+                  "category": "family",
+                  "coords": [
+                        13.865979,
+                        50.662834
                   ]
             }
       ]
@@ -25659,1744 +24210,7 @@ export const czechrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-karlovy-vary-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Nový zámek Dalovice",
-                  "text": "Das Schloss Dalovice ist ein historisches Gebäude nahe Karlsbad.",
-                  "category": "castle",
-                  "coords": [
-                        12.892405,
-                        50.246879
-                  ]
-            },
-            {
-                  "name": "rozestavěná lanová dráha  Tži kříže",
-                  "text": "Ruinen der geplanten Standseilbahn zum Dreikreuzberg.",
-                  "category": "historical",
-                  "coords": [
-                        12.886611,
-                        50.225685
-                  ]
-            },
-            {
-                  "name": "Galerie moderního umění",
-                  "text": "Die Kunstgalerie Karlsbad präsentiert zeitgenössische Werke.",
-                  "category": "cultural",
-                  "coords": [
-                        12.887013,
-                        50.217176
-                  ]
-            },
-            {
-                  "name": "Sankt Maria-Magdalena",
-                  "text": "Barocke Pfarrkirche der Heiligen Maria Magdalena im Stadtzentrum.",
-                  "category": "religious",
-                  "coords": [
-                        12.884449,
-                        50.222701
-                  ]
-            },
-            {
-                  "name": "Povýšení svatého Kříže",
-                  "text": "Kirche der Kreuzerhöhung im Stadtteil Rybáře.",
-                  "category": "religious",
-                  "coords": [
-                        12.852604,
-                        50.235126
-                  ]
-            },
-            {
-                  "name": "Sprudelkolonnade",
-                  "text": "Die moderne Vřídelní kolonáda beherbergt den stärksten Thermalquell.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883473,
-                        50.222835
-                  ]
-            },
-            {
-                  "name": "Kaiserbad",
-                  "text": "Prächtiges ehemaliges Kurhaus, bekannt für seine Architektur.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881539,
-                        50.218908
-                  ]
-            },
-            {
-                  "name": "Stephanie-Quelle",
-                  "text": "Stephanie-Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.889914,
-                        50.216649
-                  ]
-            },
-            {
-                  "name": "Schlangenquelle",
-                  "text": "Hadí-Quelle, benannt nach der Schlangenform.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878722,
-                        50.227124
-                  ]
-            },
-            {
-                  "name": "Felsenquelle",
-                  "text": "Skalní-Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881237,
-                        50.225834
-                  ]
-            },
-            {
-                  "name": "Eisenquelle",
-                  "text": "Eisenhaltige Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87459,
-                        50.231067
-                  ]
-            },
-            {
-                  "name": "Mühlbrunnen",
-                  "text": "Mühlenquelle in der Mühlbrunnkolonnade.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882389,
-                        50.224826
-                  ]
-            },
-            {
-                  "name": "Oberer Schlossbrunnen",
-                  "text": "Obere Schlossquelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882789,
-                        50.223786
-                  ]
-            },
-            {
-                  "name": "Dorotheenquelle",
-                  "text": "Dorotka-Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.888472,
-                        50.218322
-                  ]
-            },
-            {
-                  "name": "Labitzkého lávka",
-                  "text": "Fußgängerbrücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.879535,
-                        50.219636
-                  ]
-            },
-            {
-                  "name": "Museum Moser",
-                  "text": "Museum der berühmten Glasmanufaktur Moser.",
-                  "category": "museum",
-                  "coords": [
-                        12.837578,
-                        50.227846
-                  ]
-            },
-            {
-                  "name": "Goethe-Aussicht",
-                  "text": "Aussichtsturm über der Stadt Karlsbad.",
-                  "category": "historical",
-                  "coords": [
-                        12.903306,
-                        50.224033
-                  ]
-            },
-            {
-                  "name": "Mahnmal Opfer des Nationalsozialismus",
-                  "text": "Denkmal für die Opfer des Nationalsozialismus.",
-                  "category": "historical",
-                  "coords": [
-                        12.877583,
-                        50.225521
-                  ]
-            },
-            {
-                  "name": "Porcelánka Karla Knolla - vzorkovna",
-                  "text": "Ausstellungsraum der Porzellanmanufaktur.",
-                  "category": "historical",
-                  "coords": [
-                        12.847667,
-                        50.235957
-                  ]
-            },
-            {
-                  "name": "zřícenina kostela svatého Linharta",
-                  "text": "Ruinen einer alten Kirche bei Karlsbad.",
-                  "category": "historical",
-                  "coords": [
-                        12.850082,
-                        50.209039
-                  ]
-            },
-            {
-                  "name": "Stadttheater Karlsbad",
-                  "text": "Stadttheater in Karlsbad.",
-                  "category": "cultural",
-                  "coords": [
-                        12.881689,
-                        50.220969
-                  ]
-            },
-            {
-                  "name": "Ecce Homo",
-                  "text": "Ecce-Homo-Kirche in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.877664,
-                        50.217038
-                  ]
-            },
-            {
-                  "name": "Lesní pobožnost",
-                  "text": "Ort der stillen Einkehr im Wald.",
-                  "category": "religious",
-                  "coords": [
-                        12.86669,
-                        50.217329
-                  ]
-            },
-            {
-                  "name": "svatý Ondřej",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.881759,
-                        50.227402
-                  ]
-            },
-            {
-                  "name": "svatý Urban",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.850291,
-                        50.233235
-                  ]
-            },
-            {
-                  "name": "sv. Anny",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.860749,
-                        50.245695
-                  ]
-            },
-            {
-                  "name": "Kostel Panny Marie Utěšitelky",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.896672,
-                        50.245895
-                  ]
-            },
-            {
-                  "name": "Sankt Peter und Paul",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.874896,
-                        50.22467
-                  ]
-            },
-            {
-                  "name": "svatá Anna",
-                  "text": "Sakralbau in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.878787,
-                        50.224917
-                  ]
-            },
-            {
-                  "name": "Lesni vřídlo",
-                  "text": "Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.854097,
-                        50.212307
-                  ]
-            },
-            {
-                  "name": "Podševcovská",
-                  "text": "Quelle in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.856826,
-                        50.214124
-                  ]
-            },
-            {
-                  "name": "Vietnamská tržnice",
-                  "text": "Marktplatz in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.852026,
-                        50.231395
-                  ]
-            },
-            {
-                  "name": "Dvorský most",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.840944,
-                        50.224136
-                  ]
-            },
-            {
-                  "name": "most 17. listopadu",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.872677,
-                        50.231298
-                  ]
-            },
-            {
-                  "name": "Koptův most",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.871116,
-                        50.233124
-                  ]
-            },
-            {
-                  "name": "Hochbergerova lávka",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878509,
-                        50.228105
-                  ]
-            },
-            {
-                  "name": "Poštovní most",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87429,
-                        50.229397
-                  ]
-            },
-            {
-                  "name": "Dvořákova lávka",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.876879,
-                        50.228111
-                  ]
-            },
-            {
-                  "name": "Lázeňský most",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.88036,
-                        50.22712
-                  ]
-            },
-            {
-                  "name": "Špitálská lávka",
-                  "text": "Brücke in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883831,
-                        50.224198
-                  ]
-            },
-            {
-                  "name": "Ovčí rybník",
-                  "text": "Ein See in Karlovy Vary, ideal für Spaziergänge in der malerischen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        12.779024,
-                        50.20799
-                  ]
-            },
-            {
-                  "name": "Andělský rybník",
-                  "text": "Ein idyllischer See in Karlovy Vary, der zum Verweilen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        12.953109,
-                        50.198859
-                  ]
-            },
-            {
-                  "name": "U Konkordie",
-                  "text": "Ein See in Karlovy Vary, der eine ruhige Atmosphäre für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        12.915394,
-                        50.275398
-                  ]
-            },
-            {
-                  "name": "Březovský rybník",
-                  "text": "Ein ruhiger Teich in Karlovy Vary, der zu entspannten Spaziergängen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        12.780511,
-                        50.210414
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Stanovice",
-                  "text": "Ein weitläufiges Gewässer bei Karlovy Vary, das von einer malerischen Landschaft umgeben ist.",
-                  "category": "natural",
-                  "coords": [
-                        12.894977,
-                        50.169777
-                  ]
-            },
-            {
-                  "name": "Talsperre Pirkenhammer",
-                  "text": "Ein malerischer Stausee in Karlovy Vary, der sich gut für Ausflüge ins Grüne eignet.",
-                  "category": "natural",
-                  "coords": [
-                        12.850539,
-                        50.194081
-                  ]
-            },
-            {
-                  "name": "Koupaliště Rolava",
-                  "text": "Ein beliebtes Naturbad in Karlovy Vary, das Möglichkeiten zum Schwimmen und Erholen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        12.845707,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Eine Minigolfanlage in Karlovy Vary, die Spielspaß für die ganze Familie verspricht.",
-                  "category": "family",
-                  "coords": [
-                        12.88861,
-                        50.219476
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Nový zámek Dalovice",
-                  "text": "A Dalovicei kastély egy történelmi épület Karlovy Vary közelében.",
-                  "category": "castle",
-                  "coords": [
-                        12.892405,
-                        50.246879
-                  ]
-            },
-            {
-                  "name": "rozestavěná lanová dráha  Tži kříže",
-                  "text": "A tervezett fogaskerekű vasút romjai a Három Kereszt-hegyre.",
-                  "category": "historical",
-                  "coords": [
-                        12.886611,
-                        50.225685
-                  ]
-            },
-            {
-                  "name": "Galerie moderního umění",
-                  "text": "A Karlovy Vary-i Művészeti Galéria kortárs alkotásokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        12.887013,
-                        50.217176
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "Barokk Szent Mária Magdolna-plébániatemplom a városközpontban.",
-                  "category": "religious",
-                  "coords": [
-                        12.884449,
-                        50.222701
-                  ]
-            },
-            {
-                  "name": "Povýšení svatého Kříže",
-                  "text": "Szent Kereszt felmagasztalása templom a Rybáře városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        12.852604,
-                        50.235126
-                  ]
-            },
-            {
-                  "name": "Vřídelní kolonáda",
-                  "text": "A modern Vřídelní kolonáda a legerősebb termálforrást rejti.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883473,
-                        50.222835
-                  ]
-            },
-            {
-                  "name": "Císařské lázně",
-                  "text": "Pompás egykori fürdőház, amely építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881539,
-                        50.218908
-                  ]
-            },
-            {
-                  "name": "pramen Štěpánka",
-                  "text": "Štěpánka-forrás Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.889914,
-                        50.216649
-                  ]
-            },
-            {
-                  "name": "Hadí pramen",
-                  "text": "Kígyó-forrás, alakjáról elnevezve.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878722,
-                        50.227124
-                  ]
-            },
-            {
-                  "name": "pramen Skalní",
-                  "text": "Szikla-forrás Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881237,
-                        50.225834
-                  ]
-            },
-            {
-                  "name": "Železnatý pramen",
-                  "text": "Vasas forrás Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87459,
-                        50.231067
-                  ]
-            },
-            {
-                  "name": "Mlýnský pramen",
-                  "text": "Malom-forrás a Malomkút-kolonádban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882389,
-                        50.224826
-                  ]
-            },
-            {
-                  "name": "pramen Zámecký horní",
-                  "text": "Felső kastélyforrás Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882789,
-                        50.223786
-                  ]
-            },
-            {
-                  "name": "pramen Dorotka",
-                  "text": "Dorotka-forrás Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.888472,
-                        50.218322
-                  ]
-            },
-            {
-                  "name": "Labitzkého lávka",
-                  "text": "Gyalogoshíd Karlovy Varyban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.879535,
-                        50.219636
-                  ]
-            },
-            {
-                  "name": "Museum Moser",
-                  "text": "A híres Moser üvegmanufaktúra múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        12.837578,
-                        50.227846
-                  ]
-            },
-            {
-                  "name": "Goethova vyhlidka",
-                  "text": "Kilátótorony Karlovy Vary városa felett.",
-                  "category": "historical",
-                  "coords": [
-                        12.903306,
-                        50.224033
-                  ]
-            },
-            {
-                  "name": "Obětem nacismu",
-                  "text": "Emlékmű a nemzetiszocializmus áldozatainak.",
-                  "category": "historical",
-                  "coords": [
-                        12.877583,
-                        50.225521
-                  ]
-            },
-            {
-                  "name": "Porcelánka Karla Knolla - vzorkovna",
-                  "text": "A porcelánmanufaktúra bemutatóterme.",
-                  "category": "historical",
-                  "coords": [
-                        12.847667,
-                        50.235957
-                  ]
-            },
-            {
-                  "name": "zřícenina kostela svatého Linharta",
-                  "text": "Egy régi templom romjai Karlovy Vary közelében.",
-                  "category": "historical",
-                  "coords": [
-                        12.850082,
-                        50.209039
-                  ]
-            },
-            {
-                  "name": "Karlovarské městské divadlo",
-                  "text": "Városi színház Karlovy Varyban.",
-                  "category": "cultural",
-                  "coords": [
-                        12.881689,
-                        50.220969
-                  ]
-            },
-            {
-                  "name": "Ecce Homo",
-                  "text": "Ecce Homo templom Karlovy Varyban.",
-                  "category": "religious",
-                  "coords": [
-                        12.877664,
-                        50.217038
-                  ]
-            },
-            {
-                  "name": "Lesní pobožnost",
-                  "text": "Csendes elmélyülés helye az erdőben.",
-                  "category": "religious",
-                  "coords": [
-                        12.86669,
-                        50.217329
-                  ]
-            },
-            {
-                  "name": "svatý Ondřej",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.881759,
-                        50.227402
-                  ]
-            },
-            {
-                  "name": "svatý Urban",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.850291,
-                        50.233235
-                  ]
-            },
-            {
-                  "name": "sv. Anny",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.860749,
-                        50.245695
-                  ]
-            },
-            {
-                  "name": "Kostel Panny Marie Utěšitelky",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.896672,
-                        50.245895
-                  ]
-            },
-            {
-                  "name": "Chrám svatého Petra a Pavla",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.874896,
-                        50.22467
-                  ]
-            },
-            {
-                  "name": "svatá Anna",
-                  "text": "Vallási épület Karlsbadban.",
-                  "category": "religious",
-                  "coords": [
-                        12.878787,
-                        50.224917
-                  ]
-            },
-            {
-                  "name": "Lesni vřídlo",
-                  "text": "Forrás Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.854097,
-                        50.212307
-                  ]
-            },
-            {
-                  "name": "Podševcovská",
-                  "text": "Forrás Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.856826,
-                        50.214124
-                  ]
-            },
-            {
-                  "name": "Vietnamská tržnice",
-                  "text": "Piac Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.852026,
-                        50.231395
-                  ]
-            },
-            {
-                  "name": "Dvorský most",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.840944,
-                        50.224136
-                  ]
-            },
-            {
-                  "name": "most 17. listopadu",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.872677,
-                        50.231298
-                  ]
-            },
-            {
-                  "name": "Koptův most",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.871116,
-                        50.233124
-                  ]
-            },
-            {
-                  "name": "Hochbergerova lávka",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878509,
-                        50.228105
-                  ]
-            },
-            {
-                  "name": "Poštovní most",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87429,
-                        50.229397
-                  ]
-            },
-            {
-                  "name": "Dvořákova lávka",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.876879,
-                        50.228111
-                  ]
-            },
-            {
-                  "name": "Lázeňský most",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.88036,
-                        50.22712
-                  ]
-            },
-            {
-                  "name": "Špitálská lávka",
-                  "text": "Híd Karlsbadban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883831,
-                        50.224198
-                  ]
-            },
-            {
-                  "name": "Ovčí rybník",
-                  "text": "Egy tó Karlovy Vary területén, amely ideális sétákhoz a festői környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        12.779024,
-                        50.20799
-                  ]
-            },
-            {
-                  "name": "Andělský rybník",
-                  "text": "Egy idilli tó Karlovy Vary területén, amely pihenésre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        12.953109,
-                        50.198859
-                  ]
-            },
-            {
-                  "name": "U Konkordie",
-                  "text": "Egy tó Karlovy Vary területén, amely nyugodt légkört kínál a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        12.915394,
-                        50.275398
-                  ]
-            },
-            {
-                  "name": "Březovský rybník",
-                  "text": "Nyugodt tó Karlovy Vary területén, amely kellemes környezetet kínál a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        12.780511,
-                        50.210414
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Stanovice",
-                  "text": "Kiterjedt vízfelület Karlovy Vary közelében, amelyet festői táj vesz körül.",
-                  "category": "natural",
-                  "coords": [
-                        12.894977,
-                        50.169777
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Březová",
-                  "text": "Gátas tó Karlovy Vary területén, amely kiváló célpont a természetjáróknak.",
-                  "category": "natural",
-                  "coords": [
-                        12.850539,
-                        50.194081
-                  ]
-            },
-            {
-                  "name": "Koupaliště Rolava",
-                  "text": "Népszerű fürdőhely Karlovy Varyban, amely úszási és kikapcsolódási lehetőséget kínál.",
-                  "category": "natural",
-                  "coords": [
-                        12.845707,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Minigolfpálya Karlovy Vary városában, amely remek szórakozást nyújt az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        12.88861,
-                        50.219476
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Nový zámek Dalovice",
-                  "text": "Castelul Dalovice este o clădire istorică lângă Karlsbad.",
-                  "category": "castle",
-                  "coords": [
-                        12.892405,
-                        50.246879
-                  ]
-            },
-            {
-                  "name": "rozestavěná lanová dráha  Tži kříže",
-                  "text": "Ruinele funicularului planificat către Muntele celor Trei Cruci.",
-                  "category": "historical",
-                  "coords": [
-                        12.886611,
-                        50.225685
-                  ]
-            },
-            {
-                  "name": "Galerie moderního umění",
-                  "text": "Galeria de Artă din Karlsbad prezintă opere contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        12.887013,
-                        50.217176
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "Biserica parohială barocă Sfânta Maria Magdalena din centrul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        12.884449,
-                        50.222701
-                  ]
-            },
-            {
-                  "name": "Povýšení svatého Kříže",
-                  "text": "Biserica Înălțării Sfintei Cruci din cartierul Rybáře.",
-                  "category": "religious",
-                  "coords": [
-                        12.852604,
-                        50.235126
-                  ]
-            },
-            {
-                  "name": "Vřídelní kolonáda",
-                  "text": "Moderna Vřídelní kolonáda adăpostește cel mai puternic izvor termal.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883473,
-                        50.222835
-                  ]
-            },
-            {
-                  "name": "Císařské lázně",
-                  "text": "Splendida fostă clădire de tratament, cunoscută pentru arhitectura sa.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881539,
-                        50.218908
-                  ]
-            },
-            {
-                  "name": "pramen Štěpánka",
-                  "text": "Izvorul Štěpánka din Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.889914,
-                        50.216649
-                  ]
-            },
-            {
-                  "name": "Hadí pramen",
-                  "text": "Izvorul Șarpelui, numit după forma sa.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878722,
-                        50.227124
-                  ]
-            },
-            {
-                  "name": "pramen Skalní",
-                  "text": "Izvorul Stâncii din Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881237,
-                        50.225834
-                  ]
-            },
-            {
-                  "name": "Železnatý pramen",
-                  "text": "Izvor feros din Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87459,
-                        50.231067
-                  ]
-            },
-            {
-                  "name": "Mlýnský pramen",
-                  "text": "Izvorul Morii în colonada morii.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882389,
-                        50.224826
-                  ]
-            },
-            {
-                  "name": "pramen Zámecký horní",
-                  "text": "Izvorul superior al Castelului din Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882789,
-                        50.223786
-                  ]
-            },
-            {
-                  "name": "pramen Dorotka",
-                  "text": "Izvorul Dorotka din Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.888472,
-                        50.218322
-                  ]
-            },
-            {
-                  "name": "Labitzkého lávka",
-                  "text": "Pod pietonal în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.879535,
-                        50.219636
-                  ]
-            },
-            {
-                  "name": "Museum Moser",
-                  "text": "Muzeul faimoasei fabrici de sticlă Moser.",
-                  "category": "museum",
-                  "coords": [
-                        12.837578,
-                        50.227846
-                  ]
-            },
-            {
-                  "name": "Goethova vyhlidka",
-                  "text": "Turn de observație deasupra orașului Karlsbad.",
-                  "category": "historical",
-                  "coords": [
-                        12.903306,
-                        50.224033
-                  ]
-            },
-            {
-                  "name": "Obětem nacismu",
-                  "text": "Monument pentru victimele nazismului.",
-                  "category": "historical",
-                  "coords": [
-                        12.877583,
-                        50.225521
-                  ]
-            },
-            {
-                  "name": "Porcelánka Karla Knolla - vzorkovna",
-                  "text": "Showroom al fabricii de porțelan.",
-                  "category": "historical",
-                  "coords": [
-                        12.847667,
-                        50.235957
-                  ]
-            },
-            {
-                  "name": "zřícenina kostela svatého Linharta",
-                  "text": "Ruinele unei biserici vechi lângă Karlsbad.",
-                  "category": "historical",
-                  "coords": [
-                        12.850082,
-                        50.209039
-                  ]
-            },
-            {
-                  "name": "Karlovarské městské divadlo",
-                  "text": "Teatrul orășenesc din Karlsbad.",
-                  "category": "cultural",
-                  "coords": [
-                        12.881689,
-                        50.220969
-                  ]
-            },
-            {
-                  "name": "Ecce Homo",
-                  "text": "Biserica Ecce Homo din Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.877664,
-                        50.217038
-                  ]
-            },
-            {
-                  "name": "Lesní pobožnost",
-                  "text": "Loc de reculegere în pădure.",
-                  "category": "religious",
-                  "coords": [
-                        12.86669,
-                        50.217329
-                  ]
-            },
-            {
-                  "name": "svatý Ondřej",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.881759,
-                        50.227402
-                  ]
-            },
-            {
-                  "name": "svatý Urban",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.850291,
-                        50.233235
-                  ]
-            },
-            {
-                  "name": "sv. Anny",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.860749,
-                        50.245695
-                  ]
-            },
-            {
-                  "name": "Kostel Panny Marie Utěšitelky",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.896672,
-                        50.245895
-                  ]
-            },
-            {
-                  "name": "Chrám svatého Petra a Pavla",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.874896,
-                        50.22467
-                  ]
-            },
-            {
-                  "name": "svatá Anna",
-                  "text": "Lăcaș de cult în Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.878787,
-                        50.224917
-                  ]
-            },
-            {
-                  "name": "Lesni vřídlo",
-                  "text": "Izvor în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.854097,
-                        50.212307
-                  ]
-            },
-            {
-                  "name": "Podševcovská",
-                  "text": "Izvor în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.856826,
-                        50.214124
-                  ]
-            },
-            {
-                  "name": "Vietnamská tržnice",
-                  "text": "Piață în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.852026,
-                        50.231395
-                  ]
-            },
-            {
-                  "name": "Dvorský most",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.840944,
-                        50.224136
-                  ]
-            },
-            {
-                  "name": "most 17. listopadu",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.872677,
-                        50.231298
-                  ]
-            },
-            {
-                  "name": "Koptův most",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.871116,
-                        50.233124
-                  ]
-            },
-            {
-                  "name": "Hochbergerova lávka",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878509,
-                        50.228105
-                  ]
-            },
-            {
-                  "name": "Poštovní most",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87429,
-                        50.229397
-                  ]
-            },
-            {
-                  "name": "Dvořákova lávka",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.876879,
-                        50.228111
-                  ]
-            },
-            {
-                  "name": "Lázeňský most",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.88036,
-                        50.22712
-                  ]
-            },
-            {
-                  "name": "Špitálská lávka",
-                  "text": "Pod în Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883831,
-                        50.224198
-                  ]
-            },
-            {
-                  "name": "Ovčí rybník",
-                  "text": "Un lac în Karlovy Vary, ideal pentru plimbări în împrejurimile pitorești.",
-                  "category": "natural",
-                  "coords": [
-                        12.779024,
-                        50.20799
-                  ]
-            },
-            {
-                  "name": "Andělský rybník",
-                  "text": "Un lac idilic în Karlovy Vary, care invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        12.953109,
-                        50.198859
-                  ]
-            },
-            {
-                  "name": "U Konkordie",
-                  "text": "Un lac în Karlovy Vary, oferind o atmosferă liniștită pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        12.915394,
-                        50.275398
-                  ]
-            },
-            {
-                  "name": "Březovský rybník",
-                  "text": "Un iaz liniștit în Karlovy Vary, ideal pentru plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        12.780511,
-                        50.210414
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Stanovice",
-                  "text": "O acumulare de apă lângă Karlovy Vary, înconjurată de un peisaj pitoresc.",
-                  "category": "natural",
-                  "coords": [
-                        12.894977,
-                        50.169777
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Březová",
-                  "text": "Un lac de acumulare pitoresc în Karlovy Vary, potrivit pentru excursii în natură.",
-                  "category": "natural",
-                  "coords": [
-                        12.850539,
-                        50.194081
-                  ]
-            },
-            {
-                  "name": "Koupaliště Rolava",
-                  "text": "Un ștrand natural popular în Karlovy Vary, care oferă facilități pentru înot și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        12.845707,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Un teren de minigolf în Karlovy Vary, care promite distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        12.88861,
-                        50.219476
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Nový zámek Dalovice",
-                  "text": "Dalovice Castle is a historical building near Karlovy Vary.",
-                  "category": "castle",
-                  "coords": [
-                        12.892405,
-                        50.246879
-                  ]
-            },
-            {
-                  "name": "rozestavěná lanová dráha  Tži kříže",
-                  "text": "Ruins of the planned funicular railway to Dreikreuzberg.",
-                  "category": "historical",
-                  "coords": [
-                        12.886611,
-                        50.225685
-                  ]
-            },
-            {
-                  "name": "Galerie moderního umění",
-                  "text": "The Art Gallery in Karlovy Vary exhibits contemporary works.",
-                  "category": "cultural",
-                  "coords": [
-                        12.887013,
-                        50.217176
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "Baroque parish church of St. Mary Magdalene in the city center.",
-                  "category": "religious",
-                  "coords": [
-                        12.884449,
-                        50.222701
-                  ]
-            },
-            {
-                  "name": "Povýšení svatého Kříže",
-                  "text": "Church of the Exaltation of the Holy Cross in the Rybáře district.",
-                  "category": "religious",
-                  "coords": [
-                        12.852604,
-                        50.235126
-                  ]
-            },
-            {
-                  "name": "Hot Spring Colonnade",
-                  "text": "The modern Vřídelní kolonáda houses the strongest thermal spring.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883473,
-                        50.222835
-                  ]
-            },
-            {
-                  "name": "Imperial Spa",
-                  "text": "Magnificent former spa building, known for its architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881539,
-                        50.218908
-                  ]
-            },
-            {
-                  "name": "Stephanie Spring",
-                  "text": "Stephanie Spring in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.889914,
-                        50.216649
-                  ]
-            },
-            {
-                  "name": "Snake Spring",
-                  "text": "Snake Spring, named after its shape.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878722,
-                        50.227124
-                  ]
-            },
-            {
-                  "name": "Rock Spring",
-                  "text": "Rock Spring in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.881237,
-                        50.225834
-                  ]
-            },
-            {
-                  "name": "Ferrous Spring",
-                  "text": "Ferrous Spring in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87459,
-                        50.231067
-                  ]
-            },
-            {
-                  "name": "Mill Spring",
-                  "text": "Mill Spring in the Mill Colonnade.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882389,
-                        50.224826
-                  ]
-            },
-            {
-                  "name": "Upper Castle Spring",
-                  "text": "Upper Castle Spring in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.882789,
-                        50.223786
-                  ]
-            },
-            {
-                  "name": "pramen Dorotka",
-                  "text": "Dorotka Spring in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.888472,
-                        50.218322
-                  ]
-            },
-            {
-                  "name": "Labitzkého lávka",
-                  "text": "Footbridge in Karlovy Vary.",
-                  "category": "landmark",
-                  "coords": [
-                        12.879535,
-                        50.219636
-                  ]
-            },
-            {
-                  "name": "Museum Moser",
-                  "text": "Museum of the famous Moser glassworks.",
-                  "category": "museum",
-                  "coords": [
-                        12.837578,
-                        50.227846
-                  ]
-            },
-            {
-                  "name": "Goethova vyhlidka",
-                  "text": "Observation tower above the city of Karlovy Vary.",
-                  "category": "historical",
-                  "coords": [
-                        12.903306,
-                        50.224033
-                  ]
-            },
-            {
-                  "name": "Victims of Nazism Memorial",
-                  "text": "Memorial to the victims of Nazism.",
-                  "category": "historical",
-                  "coords": [
-                        12.877583,
-                        50.225521
-                  ]
-            },
-            {
-                  "name": "Porcelánka Karla Knolla - vzorkovna",
-                  "text": "Showroom of the porcelain factory.",
-                  "category": "historical",
-                  "coords": [
-                        12.847667,
-                        50.235957
-                  ]
-            },
-            {
-                  "name": "zřícenina kostela svatého Linharta",
-                  "text": "Ruins of an old church near Karlovy Vary.",
-                  "category": "historical",
-                  "coords": [
-                        12.850082,
-                        50.209039
-                  ]
-            },
-            {
-                  "name": "Town Theatre",
-                  "text": "City theater in Karlovy Vary.",
-                  "category": "cultural",
-                  "coords": [
-                        12.881689,
-                        50.220969
-                  ]
-            },
-            {
-                  "name": "Ecce Homo",
-                  "text": "Ecce Homo church in Karlovy Vary.",
-                  "category": "religious",
-                  "coords": [
-                        12.877664,
-                        50.217038
-                  ]
-            },
-            {
-                  "name": "Lesní pobožnost",
-                  "text": "Place of quiet contemplation in the forest.",
-                  "category": "religious",
-                  "coords": [
-                        12.86669,
-                        50.217329
-                  ]
-            },
-            {
-                  "name": "svatý Ondřej",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.881759,
-                        50.227402
-                  ]
-            },
-            {
-                  "name": "svatý Urban",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.850291,
-                        50.233235
-                  ]
-            },
-            {
-                  "name": "sv. Anny",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.860749,
-                        50.245695
-                  ]
-            },
-            {
-                  "name": "Kostel Panny Marie Utěšitelky",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.896672,
-                        50.245895
-                  ]
-            },
-            {
-                  "name": "Saint Peter and Paul Cathedral",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.874896,
-                        50.22467
-                  ]
-            },
-            {
-                  "name": "svatá Anna",
-                  "text": "Place of worship in Karlsbad.",
-                  "category": "religious",
-                  "coords": [
-                        12.878787,
-                        50.224917
-                  ]
-            },
-            {
-                  "name": "Lesni vřídlo",
-                  "text": "Spring in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.854097,
-                        50.212307
-                  ]
-            },
-            {
-                  "name": "Podševcovská",
-                  "text": "Spring in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.856826,
-                        50.214124
-                  ]
-            },
-            {
-                  "name": "Vietnamská tržnice",
-                  "text": "Marketplace in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.852026,
-                        50.231395
-                  ]
-            },
-            {
-                  "name": "Dvorský most",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.840944,
-                        50.224136
-                  ]
-            },
-            {
-                  "name": "most 17. listopadu",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.872677,
-                        50.231298
-                  ]
-            },
-            {
-                  "name": "Koptův most",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.871116,
-                        50.233124
-                  ]
-            },
-            {
-                  "name": "Hochbergerova lávka",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.878509,
-                        50.228105
-                  ]
-            },
-            {
-                  "name": "Poštovní most",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.87429,
-                        50.229397
-                  ]
-            },
-            {
-                  "name": "Dvořákova lávka",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.876879,
-                        50.228111
-                  ]
-            },
-            {
-                  "name": "Lázeňský most",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.88036,
-                        50.22712
-                  ]
-            },
-            {
-                  "name": "Špitálská lávka",
-                  "text": "Bridge in Karlsbad.",
-                  "category": "landmark",
-                  "coords": [
-                        12.883831,
-                        50.224198
-                  ]
-            },
-            {
-                  "name": "Ovčí rybník",
-                  "text": "A lake in Karlovy Vary, ideal for walks in the picturesque surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        12.779024,
-                        50.20799
-                  ]
-            },
-            {
-                  "name": "Andělský rybník",
-                  "text": "An idyllic lake in Karlovy Vary, inviting for a stay.",
-                  "category": "natural",
-                  "coords": [
-                        12.953109,
-                        50.198859
-                  ]
-            },
-            {
-                  "name": "U Konkordie",
-                  "text": "A lake in Karlovy Vary, offering a peaceful atmosphere for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        12.915394,
-                        50.275398
-                  ]
-            },
-            {
-                  "name": "Březovský rybník",
-                  "text": "A peaceful pond in Karlovy Vary, offering a scenic spot for a relaxing walk.",
-                  "category": "natural",
-                  "coords": [
-                        12.780511,
-                        50.210414
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Stanovice",
-                  "text": "A large reservoir near Karlovy Vary, surrounded by picturesque natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.894977,
-                        50.169777
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Březová",
-                  "text": "A scenic reservoir in Karlovy Vary, ideal for trips into the surrounding nature.",
-                  "category": "natural",
-                  "coords": [
-                        12.850539,
-                        50.194081
-                  ]
-            },
-            {
-                  "name": "Koupaliště Rolava",
-                  "text": "A popular natural swimming area in Karlovy Vary, providing opportunities for swimming and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        12.845707,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "A minigolf course in Karlovy Vary, offering fun and entertainment for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        12.88861,
-                        50.219476
-                  ]
-            }
-      ]
-},
+    id: "czechrepublic-karlovy-vary-cities-v2", "sights": {"de": [{"name": "Nový zámek Dalovice", "text": "Das Schloss Dalovice ist ein historisches Gebäude nahe Karlsbad.", "category": "castle", "coords": [12.892405, 50.246879]}, {"name": "rozestavěná lanová dráha  Tži kříže", "text": "Ruinen der geplanten Standseilbahn zum Dreikreuzberg.", "category": "historical", "coords": [12.886611, 50.225685]}, {"name": "Galerie moderního umění", "text": "Die Kunstgalerie Karlsbad präsentiert zeitgenössische Werke.", "category": "cultural", "coords": [12.887013, 50.217176]}, {"name": "Sankt Maria-Magdalena", "text": "Barocke Pfarrkirche der Heiligen Maria Magdalena im Stadtzentrum.", "category": "religious", "coords": [12.884449, 50.222701]}, {"name": "Povýšení svatého Kříže", "text": "Kirche der Kreuzerhöhung im Stadtteil Rybáře.", "category": "religious", "coords": [12.852604, 50.235126]}, {"name": "Sprudelkolonnade", "text": "Die moderne Vřídelní kolonáda beherbergt den stärksten Thermalquell.", "category": "landmark", "coords": [12.883473, 50.222835]}, {"name": "Kaiserbad", "text": "Prächtiges ehemaliges Kurhaus, bekannt für seine Architektur.", "category": "landmark", "coords": [12.881539, 50.218908]}, {"name": "Stephanie-Quelle", "text": "Stephanie-Quelle in Karlsbad.", "category": "landmark", "coords": [12.889914, 50.216649]}, {"name": "Schlangenquelle", "text": "Hadí-Quelle, benannt nach der Schlangenform.", "category": "landmark", "coords": [12.878722, 50.227124]}, {"name": "Felsenquelle", "text": "Skalní-Quelle in Karlsbad.", "category": "landmark", "coords": [12.881237, 50.225834]}, {"name": "Eisenquelle", "text": "Eisenhaltige Quelle in Karlsbad.", "category": "landmark", "coords": [12.87459, 50.231067]}, {"name": "Mühlbrunnen", "text": "Mühlenquelle in der Mühlbrunnkolonnade.", "category": "landmark", "coords": [12.882389, 50.224826]}, {"name": "Oberer Schlossbrunnen", "text": "Obere Schlossquelle in Karlsbad.", "category": "landmark", "coords": [12.882789, 50.223786]}, {"name": "Dorotheenquelle", "text": "Dorotka-Quelle in Karlsbad.", "category": "landmark", "coords": [12.888472, 50.218322]}, {"name": "Labitzkého lávka", "text": "Fußgängerbrücke in Karlsbad.", "category": "landmark", "coords": [12.879535, 50.219636]}, {"name": "Museum Moser", "text": "Museum der berühmten Glasmanufaktur Moser.", "category": "museum", "coords": [12.837578, 50.227846]}, {"name": "Goethe-Aussicht", "text": "Aussichtsturm über der Stadt Karlsbad.", "category": "historical", "coords": [12.903306, 50.224033]}, {"name": "Mahnmal Opfer des Nationalsozialismus", "text": "Denkmal für die Opfer des Nationalsozialismus.", "category": "historical", "coords": [12.877583, 50.225521]}, {"name": "Porcelánka Karla Knolla - vzorkovna", "text": "Ausstellungsraum der Porzellanmanufaktur.", "category": "historical", "coords": [12.847667, 50.235957]}, {"name": "zřícenina kostela svatého Linharta", "text": "Ruinen einer alten Kirche bei Karlsbad.", "category": "historical", "coords": [12.850082, 50.209039]}, {"name": "Stadttheater Karlsbad", "text": "Stadttheater in Karlsbad.", "category": "cultural", "coords": [12.881689, 50.220969]}, {"name": "Ecce Homo", "text": "Ecce-Homo-Kirche in Karlsbad.", "category": "religious", "coords": [12.877664, 50.217038]}, {"name": "Lesní pobožnost", "text": "Ort der stillen Einkehr im Wald.", "category": "religious", "coords": [12.86669, 50.217329]}, {"name": "svatý Ondřej", "text": "Der Sakralbau svatý Ondřej ist ein bedeutendes religiöses Gebäude in Karlovy Vary. Besucher finden hier einen Ort der spirituellen Einkehr inmitten der bekannten tschechischen Kurstadt.", "category": "religious", "coords": [12.881759, 50.227402]}, {"name": "svatý Urban", "text": "Svatý Urban bereichert das religiöse Erbe von Karlovy Vary. Diese sakrale Stätte in der Tschechischen Republik lädt zu einem Moment der Besinnung ein.", "category": "religious", "coords": [12.850291, 50.233235]}, {"name": "sv. Anny", "text": "In Karlovy Vary befindet sich der Sakralbau sv. Anny. Er bietet interessierten Besuchern Einblicke in die religiöse Architektur der Kurstadt.", "category": "religious", "coords": [12.860749, 50.245695]}, {"name": "Kostel Panny Marie Utěšitelky", "text": "Der Kostel Panny Marie Utěšitelky ist eine beachtenswerte Kirche im Stadtgebiet von Karlovy Vary. Dieses Gotteshaus stellt einen interessanten Anlaufpunkt für Reisende in der Tschechischen Republik dar.", "category": "religious", "coords": [12.896672, 50.245895]}, {"name": "Sankt Peter und Paul", "text": "Die Kirche Sankt Peter und Paul ist ein bekanntes sakrales Bauwerk in Karlovy Vary. Ein Besuch dieses religiösen Ortes ergänzt den Aufenthalt in der tschechischen Stadt um eine spirituelle Facette.", "category": "religious", "coords": [12.874896, 50.22467]}, {"name": "svatá Anna", "text": "Als religiöses Bauwerk prägt svatá Anna das Stadtbild von Karlovy Vary mit. Die Stätte bietet Einheimischen und Touristen einen ruhigen Rückzugsort.", "category": "religious", "coords": [12.878787, 50.224917]}, {"name": "Lesni vřídlo", "text": "Quelle in Karlsbad.", "category": "landmark", "coords": [12.854097, 50.212307]}, {"name": "Podševcovská", "text": "Quelle in Karlsbad.", "category": "landmark", "coords": [12.856826, 50.214124]}, {"name": "Vietnamská tržnice", "text": "Marktplatz in Karlsbad.", "category": "landmark", "coords": [12.852026, 50.231395]}, {"name": "Dvorský most", "text": "Der Dvorský most ist eine der markanten Brücken in Karlovy Vary. Sie dient als wichtiges Bindeglied für Fußgänger oder den Verkehr und bietet schöne Perspektiven auf die Stadt.", "category": "landmark", "coords": [12.840944, 50.224136]}, {"name": "most 17. listopadu", "text": "Mit dem most 17. listopadu besitzt Karlovy Vary ein weiteres architektonisches Wahrzeichen. Diese Brücke erleichtert die Überquerung des lokalen Flusslaufs und ist Teil der städtischen Infrastruktur.", "category": "landmark", "coords": [12.872677, 50.231298]}, {"name": "Koptův most", "text": "Der Koptův most reiht sich in die Brückenlandschaft von Karlovy Vary ein. Reisende können von hier aus die Atmosphäre der tschechischen Kurstadt genießen.", "category": "landmark", "coords": [12.871116, 50.233124]}, {"name": "Hochbergerova lávka", "text": "Die Hochbergerova lávka dient als Fußgängerbrücke in Karlovy Vary. Sie ist eine praktische und landschaftlich reizvolle Möglichkeit, sich innerhalb der Stadt fortzubewegen.", "category": "landmark", "coords": [12.878509, 50.228105]}, {"name": "Poštovní most", "text": "Zu den bekannten Wahrzeichen in Karlovy Vary zählt der Poštovní most. Diese Brücke verbindet verschiedene Bereiche der Stadt miteinander.", "category": "landmark", "coords": [12.87429, 50.229397]}, {"name": "Dvořákova lávka", "text": "Die Dvořákova lávka ist ein eleganter Steg für Fußgänger in Karlovy Vary. Bei einem Spaziergang über diese Brücke lässt sich das Flair der Kurstadt besonders gut einfangen.", "category": "landmark", "coords": [12.876879, 50.228111]}, {"name": "Lázeňský most", "text": "Der Lázeňský most, auch als Kurbrücke bekannt, ist ein markantes Bauwerk in Karlovy Vary. Sie bildet ein wichtiges architektonisches Element im Zentrum des Kurortes.", "category": "landmark", "coords": [12.88036, 50.22712]}, {"name": "Špitálská lávka", "text": "Die Špitálská lávka ergänzt das Netzwerk an Fußgängerbrücken in Karlovy Vary. Sie bietet Besuchern und Einheimischen eine direkte und malerische Verbindung.", "category": "landmark", "coords": [12.883831, 50.224198]}, {"name": "Ovčí rybník", "text": "Ein See in Karlovy Vary, ideal für Spaziergänge in der malerischen Umgebung.", "category": "natural", "coords": [12.779024, 50.20799]}, {"name": "Andělský rybník", "text": "Ein idyllischer See in Karlovy Vary, der zum Verweilen einlädt.", "category": "natural", "coords": [12.953109, 50.198859]}, {"name": "U Konkordie", "text": "Ein See in Karlovy Vary, der eine ruhige Atmosphäre für Naturliebhaber bietet.", "category": "natural", "coords": [12.915394, 50.275398]}, {"name": "Březovský rybník", "text": "Ein ruhiger Teich in Karlovy Vary, der zu entspannten Spaziergängen in der Natur einlädt.", "category": "natural", "coords": [12.780511, 50.210414]}, {"name": "vodní nádrž Stanovice", "text": "Ein weitläufiges Gewässer bei Karlovy Vary, das von einer malerischen Landschaft umgeben ist.", "category": "natural", "coords": [12.894977, 50.169777]}, {"name": "Talsperre Pirkenhammer", "text": "Ein malerischer Stausee in Karlovy Vary, der sich gut für Ausflüge ins Grüne eignet.", "category": "natural", "coords": [12.850539, 50.194081]}, {"name": "Koupaliště Rolava", "text": "Ein beliebtes Naturbad in Karlovy Vary, das Möglichkeiten zum Schwimmen und Erholen bietet.", "category": "natural", "coords": [12.845707, 50.235867]}, {"name": "Minigolf", "text": "Eine Minigolfanlage in Karlovy Vary, die Spielspaß für die ganze Familie verspricht.", "category": "family", "coords": [12.88861, 50.219476]}, {"name": "Balneo - Spa Resort Sanssouci", "text": "Ein Wellness-Wasserpark in Karlsbad, der Erholung und Badespaß kombiniert.", "category": "family", "coords": [12.890384, 50.218844]}, {"name": "MiniZOO Diana", "text": "Ein kleiner Zoo in Karlsbad, ideal für einen Besuch mit kleineren Kindern.", "category": "family", "coords": [12.871111, 50.218673]}], "hu": [{"name": "Nový zámek Dalovice", "text": "A Dalovicei kastély egy történelmi épület Karlovy Vary közelében.", "category": "castle", "coords": [12.892405, 50.246879]}, {"name": "rozestavěná lanová dráha  Tži kříže", "text": "A tervezett fogaskerekű vasút romjai a Három Kereszt-hegyre.", "category": "historical", "coords": [12.886611, 50.225685]}, {"name": "Galerie moderního umění", "text": "A Karlovy Vary-i Művészeti Galéria kortárs alkotásokat mutat be.", "category": "cultural", "coords": [12.887013, 50.217176]}, {"name": "svatá Maří Magdaléna", "text": "Barokk Szent Mária Magdolna-plébániatemplom a városközpontban.", "category": "religious", "coords": [12.884449, 50.222701]}, {"name": "Povýšení svatého Kříže", "text": "Szent Kereszt felmagasztalása templom a Rybáře városrészben.", "category": "religious", "coords": [12.852604, 50.235126]}, {"name": "Vřídelní kolonáda", "text": "A modern Vřídelní kolonáda a legerősebb termálforrást rejti.", "category": "landmark", "coords": [12.883473, 50.222835]}, {"name": "Císařské lázně", "text": "Pompás egykori fürdőház, amely építészetéről ismert.", "category": "landmark", "coords": [12.881539, 50.218908]}, {"name": "pramen Štěpánka", "text": "Štěpánka-forrás Karlovy Varyban.", "category": "landmark", "coords": [12.889914, 50.216649]}, {"name": "Hadí pramen", "text": "Kígyó-forrás, alakjáról elnevezve.", "category": "landmark", "coords": [12.878722, 50.227124]}, {"name": "pramen Skalní", "text": "Szikla-forrás Karlovy Varyban.", "category": "landmark", "coords": [12.881237, 50.225834]}, {"name": "Železnatý pramen", "text": "Vasas forrás Karlovy Varyban.", "category": "landmark", "coords": [12.87459, 50.231067]}, {"name": "Mlýnský pramen", "text": "Malom-forrás a Malomkút-kolonádban.", "category": "landmark", "coords": [12.882389, 50.224826]}, {"name": "pramen Zámecký horní", "text": "Felső kastélyforrás Karlovy Varyban.", "category": "landmark", "coords": [12.882789, 50.223786]}, {"name": "pramen Dorotka", "text": "Dorotka-forrás Karlovy Varyban.", "category": "landmark", "coords": [12.888472, 50.218322]}, {"name": "Labitzkého lávka", "text": "Gyalogoshíd Karlovy Varyban.", "category": "landmark", "coords": [12.879535, 50.219636]}, {"name": "Museum Moser", "text": "A híres Moser üvegmanufaktúra múzeuma.", "category": "museum", "coords": [12.837578, 50.227846]}, {"name": "Goethova vyhlidka", "text": "Kilátótorony Karlovy Vary városa felett.", "category": "historical", "coords": [12.903306, 50.224033]}, {"name": "Obětem nacismu", "text": "Emlékmű a nemzetiszocializmus áldozatainak.", "category": "historical", "coords": [12.877583, 50.225521]}, {"name": "Porcelánka Karla Knolla - vzorkovna", "text": "A porcelánmanufaktúra bemutatóterme.", "category": "historical", "coords": [12.847667, 50.235957]}, {"name": "zřícenina kostela svatého Linharta", "text": "Egy régi templom romjai Karlovy Vary közelében.", "category": "historical", "coords": [12.850082, 50.209039]}, {"name": "Karlovarské městské divadlo", "text": "Városi színház Karlovy Varyban.", "category": "cultural", "coords": [12.881689, 50.220969]}, {"name": "Ecce Homo", "text": "Ecce Homo templom Karlovy Varyban.", "category": "religious", "coords": [12.877664, 50.217038]}, {"name": "Lesní pobožnost", "text": "Csendes elmélyülés helye az erdőben.", "category": "religious", "coords": [12.86669, 50.217329]}, {"name": "svatý Ondřej", "text": "A svatý Ondřej egy fontos vallási épület Karlovy Vary fürdővárosában. A látogatók egy csendes és spirituális helyet találhatnak ezen a csehországi helyszínen.", "category": "religious", "coords": [12.881759, 50.227402]}, {"name": "svatý Urban", "text": "A svatý Urban gazdagítja Karlovy Vary egyházi építészetét. Ez a szakrális építmény békés környezetet kínál a Cseh Köztársaságba látogatók számára.", "category": "religious", "coords": [12.850291, 50.233235]}, {"name": "sv. Anny", "text": "Karlovy Varyban található a sv. Anny nevű vallási épület. Érdekes építészeti látnivalót nyújt azoknak, akik felfedezik a fürdővárost.", "category": "religious", "coords": [12.860749, 50.245695]}, {"name": "Kostel Panny Marie Utěšitelky", "text": "A Kostel Panny Marie Utěšitelky egy figyelemre méltó templom Karlovy Varyban. Ennek a vallási helyszínnek a felfedezése kulturális élménnyel gazdagítja a csehországi utazást.", "category": "religious", "coords": [12.896672, 50.245895]}, {"name": "Chrám svatého Petra a Pavla", "text": "A Sankt Peter und Paul templom egy elismert egyházi nevezetesség Karlovy Varyban. Szívesen fogadja mindazokat, akik meg akarják ismerni a fürdőváros szakrális építészetét.", "category": "religious", "coords": [12.874896, 50.22467]}, {"name": "svatá Anna", "text": "A svatá Anna egy vallási építmény, amely Karlovy Vary városképének része. A helyszín nyugodt elvonulást biztosít mind a helyiek, mind a turisták számára.", "category": "religious", "coords": [12.878787, 50.224917]}, {"name": "Lesni vřídlo", "text": "Forrás Karlsbadban.", "category": "landmark", "coords": [12.854097, 50.212307]}, {"name": "Podševcovská", "text": "Forrás Karlsbadban.", "category": "landmark", "coords": [12.856826, 50.214124]}, {"name": "Vietnamská tržnice", "text": "Piac Karlsbadban.", "category": "landmark", "coords": [12.852026, 50.231395]}, {"name": "Dvorský most", "text": "A Dvorský most egyike a Karlovy Varyn átívelő híres hidaknak. Helyi nevezetességként festői kilátást nyújt a gyönyörű cseh város vizeire.", "category": "landmark", "coords": [12.840944, 50.224136]}, {"name": "most 17. listopadu", "text": "A most 17. listopadu fontos infrastrukturális híd Karlovy Varyban. Zökkenőmentesen köti össze a város különböző részeit, miközben felismerhető nevezetesség is.", "category": "landmark", "coords": [12.872677, 50.231298]}, {"name": "Koptův most", "text": "A Koptův most egy másik kulcsfontosságú híd Karlovy Varyban. Lehetővé teszi a gyalogosok és az utazók számára, hogy könnyedén közlekedjenek a fürdőváros festői környezetében.", "category": "landmark", "coords": [12.871116, 50.233124]}, {"name": "Hochbergerova lávka", "text": "A Hochbergerova lávka egy kényelmes gyalogos híd Karlovy Varyn belül. Ezen a nevezetességen átsétálva kiváló kilátás nyílik a környező cseh építészetre.", "category": "landmark", "coords": [12.878509, 50.228105]}, {"name": "Poštovní most", "text": "A Poštovní most egy jól ismert híd Karlovy Varyban. Szerves átkelőhelyként szolgál a helyi folyóvizek felett.", "category": "landmark", "coords": [12.87429, 50.229397]}, {"name": "Dvořákova lávka", "text": "A Dvořákova lávka hangulatos gyalogos utat kínál a folyó felett Karlovy Varyban. Ez a gyaloghíd tökéletes azoknak a látogatóknak, akik szeretnének elmerülni a fürdőváros hangulatában.", "category": "landmark", "coords": [12.876879, 50.228111]}, {"name": "Lázeňský most", "text": "A Lázeňský most, vagyis a Fürdő híd egy központi nevezetesség Karlovy Varyban. Összeköti a város kulcsfontosságú területeit, és romantikus jellegének alapvető részét képezi.", "category": "landmark", "coords": [12.88036, 50.22712]}, {"name": "Špitálská lávka", "text": "A Špitálská lávka egy elegáns gyaloghíd Karlovy Varyban. Nyugodt sétákat és könnyű átkelést tesz lehetővé a város vizein.", "category": "landmark", "coords": [12.883831, 50.224198]}, {"name": "Ovčí rybník", "text": "Egy tó Karlovy Vary területén, amely ideális sétákhoz a festői környezetben.", "category": "natural", "coords": [12.779024, 50.20799]}, {"name": "Andělský rybník", "text": "Egy idilli tó Karlovy Vary területén, amely pihenésre hívogat.", "category": "natural", "coords": [12.953109, 50.198859]}, {"name": "U Konkordie", "text": "Egy tó Karlovy Vary területén, amely nyugodt légkört kínál a természet kedvelőinek.", "category": "natural", "coords": [12.915394, 50.275398]}, {"name": "Březovský rybník", "text": "Nyugodt tó Karlovy Vary területén, amely kellemes környezetet kínál a sétákhoz.", "category": "natural", "coords": [12.780511, 50.210414]}, {"name": "vodní nádrž Stanovice", "text": "Kiterjedt vízfelület Karlovy Vary közelében, amelyet festői táj vesz körül.", "category": "natural", "coords": [12.894977, 50.169777]}, {"name": "vodní nádrž Březová", "text": "Gátas tó Karlovy Vary területén, amely kiváló célpont a természetjáróknak.", "category": "natural", "coords": [12.850539, 50.194081]}, {"name": "Koupaliště Rolava", "text": "Népszerű fürdőhely Karlovy Varyban, amely úszási és kikapcsolódási lehetőséget kínál.", "category": "natural", "coords": [12.845707, 50.235867]}, {"name": "Minigolf", "text": "Minigolfpálya Karlovy Vary városában, amely remek szórakozást nyújt az egész családnak.", "category": "family", "coords": [12.88861, 50.219476]}, {"name": "Balneo - Spa Resort Sanssouci", "text": "Wellness vízi park Karlovy Varyban, amely ötvözi a pihenést és a fürdőzést.", "category": "family", "coords": [12.890384, 50.218844]}, {"name": "MiniZOO Diana", "text": "Kis állatkert Karlovy Varyban, ideális látogatásra kisgyermekekkel.", "category": "family", "coords": [12.871111, 50.218673]}], "ro": [{"name": "Nový zámek Dalovice", "text": "Castelul Dalovice este o clădire istorică lângă Karlsbad.", "category": "castle", "coords": [12.892405, 50.246879]}, {"name": "rozestavěná lanová dráha  Tži kříže", "text": "Ruinele funicularului planificat către Muntele celor Trei Cruci.", "category": "historical", "coords": [12.886611, 50.225685]}, {"name": "Galerie moderního umění", "text": "Galeria de Artă din Karlsbad prezintă opere contemporane.", "category": "cultural", "coords": [12.887013, 50.217176]}, {"name": "svatá Maří Magdaléna", "text": "Biserica parohială barocă Sfânta Maria Magdalena din centrul orașului.", "category": "religious", "coords": [12.884449, 50.222701]}, {"name": "Povýšení svatého Kříže", "text": "Biserica Înălțării Sfintei Cruci din cartierul Rybáře.", "category": "religious", "coords": [12.852604, 50.235126]}, {"name": "Vřídelní kolonáda", "text": "Moderna Vřídelní kolonáda adăpostește cel mai puternic izvor termal.", "category": "landmark", "coords": [12.883473, 50.222835]}, {"name": "Císařské lázně", "text": "Splendida fostă clădire de tratament, cunoscută pentru arhitectura sa.", "category": "landmark", "coords": [12.881539, 50.218908]}, {"name": "pramen Štěpánka", "text": "Izvorul Štěpánka din Karlsbad.", "category": "landmark", "coords": [12.889914, 50.216649]}, {"name": "Hadí pramen", "text": "Izvorul Șarpelui, numit după forma sa.", "category": "landmark", "coords": [12.878722, 50.227124]}, {"name": "pramen Skalní", "text": "Izvorul Stâncii din Karlsbad.", "category": "landmark", "coords": [12.881237, 50.225834]}, {"name": "Železnatý pramen", "text": "Izvor feros din Karlsbad.", "category": "landmark", "coords": [12.87459, 50.231067]}, {"name": "Mlýnský pramen", "text": "Izvorul Morii în colonada morii.", "category": "landmark", "coords": [12.882389, 50.224826]}, {"name": "pramen Zámecký horní", "text": "Izvorul superior al Castelului din Karlsbad.", "category": "landmark", "coords": [12.882789, 50.223786]}, {"name": "pramen Dorotka", "text": "Izvorul Dorotka din Karlsbad.", "category": "landmark", "coords": [12.888472, 50.218322]}, {"name": "Labitzkého lávka", "text": "Pod pietonal în Karlsbad.", "category": "landmark", "coords": [12.879535, 50.219636]}, {"name": "Museum Moser", "text": "Muzeul faimoasei fabrici de sticlă Moser.", "category": "museum", "coords": [12.837578, 50.227846]}, {"name": "Goethova vyhlidka", "text": "Turn de observație deasupra orașului Karlsbad.", "category": "historical", "coords": [12.903306, 50.224033]}, {"name": "Obětem nacismu", "text": "Monument pentru victimele nazismului.", "category": "historical", "coords": [12.877583, 50.225521]}, {"name": "Porcelánka Karla Knolla - vzorkovna", "text": "Showroom al fabricii de porțelan.", "category": "historical", "coords": [12.847667, 50.235957]}, {"name": "zřícenina kostela svatého Linharta", "text": "Ruinele unei biserici vechi lângă Karlsbad.", "category": "historical", "coords": [12.850082, 50.209039]}, {"name": "Karlovarské městské divadlo", "text": "Teatrul orășenesc din Karlsbad.", "category": "cultural", "coords": [12.881689, 50.220969]}, {"name": "Ecce Homo", "text": "Biserica Ecce Homo din Karlsbad.", "category": "religious", "coords": [12.877664, 50.217038]}, {"name": "Lesní pobožnost", "text": "Loc de reculegere în pădure.", "category": "religious", "coords": [12.86669, 50.217329]}, {"name": "svatý Ondřej", "text": "Clădirea sacră svatý Ondřej este un loc religios important din Karlovy Vary. Vizitatorii pot găsi aici un moment de reflecție spirituală în inima celebrului oraș balnear ceh.", "category": "religious", "coords": [12.881759, 50.227402]}, {"name": "svatý Urban", "text": "Svatý Urban îmbogățește patrimoniul religios din Karlovy Vary. Acest edificiu sacru din Republica Cehă oferă un mediu liniștit pentru contemplație.", "category": "religious", "coords": [12.850291, 50.233235]}, {"name": "sv. Anny", "text": "Situat în Karlovy Vary, edificiul religios sv. Anny stă mărturie arhitecturii sacre locale. Acesta oferă un popas interesant pentru cei care explorează orașul.", "category": "religious", "coords": [12.860749, 50.245695]}, {"name": "Kostel Panny Marie Utěšitelky", "text": "Kostel Panny Marie Utěšitelky este o biserică remarcabilă din Karlovy Vary. Explorarea acestui lăcaș de cult adaugă o dimensiune culturală vizitei în Republica Cehă.", "category": "religious", "coords": [12.896672, 50.245895]}, {"name": "Chrám svatého Petra a Pavla", "text": "Biserica Sankt Peter und Paul este un punct de reper religios recunoscut în Karlovy Vary. Ea îi întâmpină pe toți cei care doresc să admire arhitectura sacrală a stațiunii.", "category": "religious", "coords": [12.874896, 50.22467]}, {"name": "svatá Anna", "text": "Edificiul religios svatá Anna face parte din peisajul urban al orașului Karlovy Vary. Acest loc servește ca un refugiu liniștit atât pentru localnici, cât și pentru turiști.", "category": "religious", "coords": [12.878787, 50.224917]}, {"name": "Lesni vřídlo", "text": "Izvor în Karlsbad.", "category": "landmark", "coords": [12.854097, 50.212307]}, {"name": "Podševcovská", "text": "Izvor în Karlsbad.", "category": "landmark", "coords": [12.856826, 50.214124]}, {"name": "Vietnamská tržnice", "text": "Piață în Karlsbad.", "category": "landmark", "coords": [12.852026, 50.231395]}, {"name": "Dvorský most", "text": "Dvorský most este unul dintre podurile proeminente care traversează Karlovy Vary. Fiind un punct de reper, oferă priveliști pitorești asupra apelor acestui frumos oraș ceh.", "category": "landmark", "coords": [12.840944, 50.224136]}, {"name": "most 17. listopadu", "text": "Podul most 17. listopadu servește ca o infrastructură importantă în Karlovy Vary. El conectează fără probleme diferite părți ale orașului, fiind în același timp un reper ușor de recunoscut.", "category": "landmark", "coords": [12.872677, 50.231298]}, {"name": "Koptův most", "text": "Koptův most este o altă structură cheie aflată în Karlovy Vary. Acest pod permite pietonilor și călătorilor să navigheze cu ușurință prin peisajul orașului balnear.", "category": "landmark", "coords": [12.871116, 50.233124]}, {"name": "Hochbergerova lávka", "text": "Hochbergerova lávka funcționează ca o pasarelă pietonală convenabilă în Karlovy Vary. O plimbare pe acest pod oferă un punct de observație excelent asupra arhitecturii cehe înconjurătoare.", "category": "landmark", "coords": [12.878509, 50.228105]}, {"name": "Poštovní most", "text": "Poštovní most este un pod bine cunoscut în Karlovy Vary. Acesta reprezintă un punct de trecere esențial peste cursurile de apă locale.", "category": "landmark", "coords": [12.87429, 50.229397]}, {"name": "Dvořákova lávka", "text": "Dvořákova lávka oferă o cale pietonală fermecătoare peste râu în Karlovy Vary. Această pasarelă este perfectă pentru vizitatorii care doresc să se bucure de atmosfera stațiunii.", "category": "landmark", "coords": [12.876879, 50.228111]}, {"name": "Lázeňský most", "text": "Cunoscut ca Podul Balnear, Lázeňský most este un reper central în Karlovy Vary. Acesta leagă zonele cheie ale orașului și formează o parte esențială a caracterului său romantic.", "category": "landmark", "coords": [12.88036, 50.22712]}, {"name": "Špitálská lávka", "text": "Špitálská lávka este o pasarelă pietonală elegantă situată în Karlovy Vary. Ea permite plimbări liniștite și un acces facil peste apele orașului.", "category": "landmark", "coords": [12.883831, 50.224198]}, {"name": "Ovčí rybník", "text": "Un lac în Karlovy Vary, ideal pentru plimbări în împrejurimile pitorești.", "category": "natural", "coords": [12.779024, 50.20799]}, {"name": "Andělský rybník", "text": "Un lac idilic în Karlovy Vary, care invită la relaxare.", "category": "natural", "coords": [12.953109, 50.198859]}, {"name": "U Konkordie", "text": "Un lac în Karlovy Vary, oferind o atmosferă liniștită pentru iubitorii de natură.", "category": "natural", "coords": [12.915394, 50.275398]}, {"name": "Březovský rybník", "text": "Un iaz liniștit în Karlovy Vary, ideal pentru plimbări relaxante în natură.", "category": "natural", "coords": [12.780511, 50.210414]}, {"name": "vodní nádrž Stanovice", "text": "O acumulare de apă lângă Karlovy Vary, înconjurată de un peisaj pitoresc.", "category": "natural", "coords": [12.894977, 50.169777]}, {"name": "vodní nádrž Březová", "text": "Un lac de acumulare pitoresc în Karlovy Vary, potrivit pentru excursii în natură.", "category": "natural", "coords": [12.850539, 50.194081]}, {"name": "Koupaliště Rolava", "text": "Un ștrand natural popular în Karlovy Vary, care oferă facilități pentru înot și relaxare.", "category": "natural", "coords": [12.845707, 50.235867]}, {"name": "Minigolf", "text": "Un teren de minigolf în Karlovy Vary, care promite distracție pentru întreaga familie.", "category": "family", "coords": [12.88861, 50.219476]}, {"name": "Balneo - Spa Resort Sanssouci", "text": "Un parc acvatic wellness în Karlovy Vary care combină relaxarea și distracția la scăldat.", "category": "family", "coords": [12.890384, 50.218844]}, {"name": "MiniZOO Diana", "text": "O mică grădină zoologică în Karlovy Vary, ideală pentru o vizită cu copii mici.", "category": "family", "coords": [12.871111, 50.218673]}], "en": [{"name": "Nový zámek Dalovice", "text": "Dalovice Castle is a historical building near Karlovy Vary.", "category": "castle", "coords": [12.892405, 50.246879]}, {"name": "rozestavěná lanová dráha  Tži kříže", "text": "Ruins of the planned funicular railway to Dreikreuzberg.", "category": "historical", "coords": [12.886611, 50.225685]}, {"name": "Galerie moderního umění", "text": "The Art Gallery in Karlovy Vary exhibits contemporary works.", "category": "cultural", "coords": [12.887013, 50.217176]}, {"name": "svatá Maří Magdaléna", "text": "Baroque parish church of St. Mary Magdalene in the city center.", "category": "religious", "coords": [12.884449, 50.222701]}, {"name": "Povýšení svatého Kříže", "text": "Church of the Exaltation of the Holy Cross in the Rybáře district.", "category": "religious", "coords": [12.852604, 50.235126]}, {"name": "Hot Spring Colonnade", "text": "The modern Vřídelní kolonáda houses the strongest thermal spring.", "category": "landmark", "coords": [12.883473, 50.222835]}, {"name": "Imperial Spa", "text": "Magnificent former spa building, known for its architecture.", "category": "landmark", "coords": [12.881539, 50.218908]}, {"name": "Stephanie Spring", "text": "Stephanie Spring in Karlovy Vary.", "category": "landmark", "coords": [12.889914, 50.216649]}, {"name": "Snake Spring", "text": "Snake Spring, named after its shape.", "category": "landmark", "coords": [12.878722, 50.227124]}, {"name": "Rock Spring", "text": "Rock Spring in Karlovy Vary.", "category": "landmark", "coords": [12.881237, 50.225834]}, {"name": "Ferrous Spring", "text": "Ferrous Spring in Karlovy Vary.", "category": "landmark", "coords": [12.87459, 50.231067]}, {"name": "Mill Spring", "text": "Mill Spring in the Mill Colonnade.", "category": "landmark", "coords": [12.882389, 50.224826]}, {"name": "Upper Castle Spring", "text": "Upper Castle Spring in Karlovy Vary.", "category": "landmark", "coords": [12.882789, 50.223786]}, {"name": "pramen Dorotka", "text": "Dorotka Spring in Karlovy Vary.", "category": "landmark", "coords": [12.888472, 50.218322]}, {"name": "Labitzkého lávka", "text": "Footbridge in Karlovy Vary.", "category": "landmark", "coords": [12.879535, 50.219636]}, {"name": "Museum Moser", "text": "Museum of the famous Moser glassworks.", "category": "museum", "coords": [12.837578, 50.227846]}, {"name": "Goethova vyhlidka", "text": "Observation tower above the city of Karlovy Vary.", "category": "historical", "coords": [12.903306, 50.224033]}, {"name": "Victims of Nazism Memorial", "text": "Memorial to the victims of Nazism.", "category": "historical", "coords": [12.877583, 50.225521]}, {"name": "Porcelánka Karla Knolla - vzorkovna", "text": "Showroom of the porcelain factory.", "category": "historical", "coords": [12.847667, 50.235957]}, {"name": "zřícenina kostela svatého Linharta", "text": "Ruins of an old church near Karlovy Vary.", "category": "historical", "coords": [12.850082, 50.209039]}, {"name": "Town Theatre", "text": "City theater in Karlovy Vary.", "category": "cultural", "coords": [12.881689, 50.220969]}, {"name": "Ecce Homo", "text": "Ecce Homo church in Karlovy Vary.", "category": "religious", "coords": [12.877664, 50.217038]}, {"name": "Lesní pobožnost", "text": "Place of quiet contemplation in the forest.", "category": "religious", "coords": [12.86669, 50.217329]}, {"name": "svatý Ondřej", "text": "The sacred building of svatý Ondřej is an important religious site in Karlovy Vary. Visitors can find a moment of quiet reflection within the bustling Czech spa town.", "category": "religious", "coords": [12.881759, 50.227402]}, {"name": "svatý Urban", "text": "Svatý Urban enriches the religious landscape of Karlovy Vary. This sacral structure offers a peaceful environment for spiritual contemplation in the Czech Republic.", "category": "religious", "coords": [12.850291, 50.233235]}, {"name": "sv. Anny", "text": "Located in Karlovy Vary, the sv. Anny religious building stands as a testament to local faith. It provides an interesting architectural stop for those exploring the spa city.", "category": "religious", "coords": [12.860749, 50.245695]}, {"name": "Kostel Panny Marie Utěšitelky", "text": "Kostel Panny Marie Utěšitelky is a notable church situated in Karlovy Vary. Exploring this religious site adds a cultural dimension to any visit to the Czech Republic.", "category": "religious", "coords": [12.896672, 50.245895]}, {"name": "Saint Peter and Paul Cathedral", "text": "The church of Sankt Peter und Paul is a recognized religious landmark in Karlovy Vary. It welcomes visitors seeking to experience the sacral architecture of this famous spa town.", "category": "religious", "coords": [12.874896, 50.22467]}, {"name": "svatá Anna", "text": "The religious building of svatá Anna is a notable part of Karlovy Vary's urban landscape. This site serves as a quiet retreat for both locals and tourists alike.", "category": "religious", "coords": [12.878787, 50.224917]}, {"name": "Lesni vřídlo", "text": "Spring in Karlsbad.", "category": "landmark", "coords": [12.854097, 50.212307]}, {"name": "Podševcovská", "text": "Spring in Karlsbad.", "category": "landmark", "coords": [12.856826, 50.214124]}, {"name": "Vietnamská tržnice", "text": "Marketplace in Karlsbad.", "category": "landmark", "coords": [12.852026, 50.231395]}, {"name": "Dvorský most", "text": "Dvorský most is one of the prominent bridges crossing through Karlovy Vary. As a local landmark, it offers picturesque views over the waters of this beautiful Czech city.", "category": "landmark", "coords": [12.840944, 50.224136]}, {"name": "most 17. listopadu", "text": "The most 17. listopadu serves as an important bridge infrastructure in Karlovy Vary. It seamlessly connects different parts of the city while acting as a recognizable landmark.", "category": "landmark", "coords": [12.872677, 50.231298]}, {"name": "Koptův most", "text": "Koptův most is another key bridge structure located in Karlovy Vary. It allows pedestrians and travelers to easily navigate the scenic environment of the spa town.", "category": "landmark", "coords": [12.871116, 50.233124]}, {"name": "Hochbergerova lávka", "text": "The Hochbergerova lávka acts as a convenient footbridge within Karlovy Vary. Strolling across this landmark provides an excellent vantage point of the surrounding Czech architecture.", "category": "landmark", "coords": [12.878509, 50.228105]}, {"name": "Poštovní most", "text": "Poštovní most is a well-known bridge landmark in Karlovy Vary. It stands as an integral crossing point over the local waterways.", "category": "landmark", "coords": [12.87429, 50.229397]}, {"name": "Dvořákova lávka", "text": "Dvořákova lávka offers a charming pedestrian pathway over the river in Karlovy Vary. This footbridge is perfect for visitors wanting to soak in the atmosphere of the spa city.", "category": "landmark", "coords": [12.876879, 50.228111]}, {"name": "Lázeňský most", "text": "Known as the Spa Bridge, Lázeňský most is a central landmark in Karlovy Vary. It connects key areas of the town and forms an essential part of its romantic character.", "category": "landmark", "coords": [12.88036, 50.22712]}, {"name": "Špitálská lávka", "text": "The Špitálská lávka is an elegant footbridge situated in Karlovy Vary. It allows for tranquil walks and easy access across the town's watercourses.", "category": "landmark", "coords": [12.883831, 50.224198]}, {"name": "Ovčí rybník", "text": "A lake in Karlovy Vary, ideal for walks in the picturesque surroundings.", "category": "natural", "coords": [12.779024, 50.20799]}, {"name": "Andělský rybník", "text": "An idyllic lake in Karlovy Vary, inviting for a stay.", "category": "natural", "coords": [12.953109, 50.198859]}, {"name": "U Konkordie", "text": "A lake in Karlovy Vary, offering a peaceful atmosphere for nature lovers.", "category": "natural", "coords": [12.915394, 50.275398]}, {"name": "Březovský rybník", "text": "A peaceful pond in Karlovy Vary, offering a scenic spot for a relaxing walk.", "category": "natural", "coords": [12.780511, 50.210414]}, {"name": "vodní nádrž Stanovice", "text": "A large reservoir near Karlovy Vary, surrounded by picturesque natural scenery.", "category": "natural", "coords": [12.894977, 50.169777]}, {"name": "vodní nádrž Březová", "text": "A scenic reservoir in Karlovy Vary, ideal for trips into the surrounding nature.", "category": "natural", "coords": [12.850539, 50.194081]}, {"name": "Koupaliště Rolava", "text": "A popular natural swimming area in Karlovy Vary, providing opportunities for swimming and recreation.", "category": "natural", "coords": [12.845707, 50.235867]}, {"name": "Minigolf", "text": "A minigolf course in Karlovy Vary, offering fun and entertainment for the whole family.", "category": "family", "coords": [12.88861, 50.219476]}, {"name": "Balneo - Spa Resort Sanssouci", "text": "A spa resort water park in Karlovy Vary combining relaxation and bathing fun.", "category": "family", "coords": [12.890384, 50.218844]}, {"name": "MiniZOO Diana", "text": "A mini zoo in Karlovy Vary, ideal for a visit with small children.", "category": "family", "coords": [12.871111, 50.218673]}]},
     parent: "CZ",
     type: "city",
     name: { de: "Karlsbad", hu: "Karlovy Vary", ro: "Karlovy Vary", en: "Karlovy Vary"},
@@ -28229,6 +25043,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.17832,
                         50.729941
                   ]
+            },
+            {
+                  "name": "Nové koupaliště",
+                  "text": "Das Nové koupaliště in Jablonec an der Neiße ist eine Badestelle für Erholungssuchende.",
+                  "category": "family",
+                  "coords": [
+                        15.142826,
+                        50.694394
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén Jablonec nad Nisou",
+                  "text": "Das Schwimmbad Jablonec ist ein Wasserpark, der wetterunabhängigen Badespaß garantiert.",
+                  "category": "family",
+                  "coords": [
+                        15.177554,
+                        50.731953
+                  ]
             }
       ],
       "hu": [
@@ -28311,6 +25143,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.17832,
                         50.729941
+                  ]
+            },
+            {
+                  "name": "Nové koupaliště",
+                  "text": "A Nové koupaliště egy fürdőhely Jablonec nad Nisou városában a pihenni vágyók számára.",
+                  "category": "family",
+                  "coords": [
+                        15.142826,
+                        50.694394
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén Jablonec nad Nisou",
+                  "text": "A Jablonec swimming pool egy vízipark, amely időjárástól független fürdőzést tesz lehetővé.",
+                  "category": "family",
+                  "coords": [
+                        15.177554,
+                        50.731953
                   ]
             }
       ],
@@ -28395,6 +25245,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.17832,
                         50.729941
                   ]
+            },
+            {
+                  "name": "Nové koupaliště",
+                  "text": "Nové koupaliště este o zonă de scăldat din Jablonec Nad Nisou, ideală pentru recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.142826,
+                        50.694394
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén Jablonec nad Nisou",
+                  "text": "Piscina Jablonec este un parc acvatic care garantează distracție la înot indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        15.177554,
+                        50.731953
+                  ]
             }
       ],
       "en": [
@@ -28477,6 +25345,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.17832,
                         50.729941
+                  ]
+            },
+            {
+                  "name": "Nové koupaliště",
+                  "text": "Nové koupaliště is a swimming area in Jablonec Nad Nisou, perfect for a relaxing day out.",
+                  "category": "family",
+                  "coords": [
+                        15.142826,
+                        50.694394
+                  ]
+            },
+            {
+                  "name": "Jablonec swimming pool",
+                  "text": "Jablonec swimming pool is a water park providing indoor and outdoor swimming facilities.",
+                  "category": "family",
+                  "coords": [
+                        15.177554,
+                        50.731953
                   ]
             }
       ]
@@ -28690,6 +25576,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.909987,
                         50.429551
                   ]
+            },
+            {
+                  "name": "Koupaliště Nepřevázka",
+                  "text": "Ein Schwimmbad in Mladá Boleslav für Erfrischung und Schwimmübungen.",
+                  "category": "family",
+                  "coords": [
+                        14.918096,
+                        50.379586
+                  ]
             }
       ],
       "hu": [
@@ -28853,6 +25748,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.909987,
                         50.429551
+                  ]
+            },
+            {
+                  "name": "Koupaliště Nepřevázka",
+                  "text": "Uszoda Mladá Boleslavban a felfrissüléshez és az úszás gyakorlásához.",
+                  "category": "family",
+                  "coords": [
+                        14.918096,
+                        50.379586
                   ]
             }
       ],
@@ -29018,6 +25922,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.909987,
                         50.429551
                   ]
+            },
+            {
+                  "name": "Koupaliště Nepřevázka",
+                  "text": "O piscină în Mladá Boleslav pentru răcorire și exerciții de înot.",
+                  "category": "family",
+                  "coords": [
+                        14.918096,
+                        50.379586
+                  ]
             }
       ],
       "en": [
@@ -29181,6 +26094,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.909987,
                         50.429551
+                  ]
+            },
+            {
+                  "name": "Koupaliště Nepřevázka",
+                  "text": "A swimming pool in Mlada Boleslav for refreshment and swimming practice.",
+                  "category": "family",
+                  "coords": [
+                        14.918096,
+                        50.379586
                   ]
             }
       ]
@@ -29983,6 +26905,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.578433,
                         50.678728
                   ]
+            },
+            {
+                  "name": "Veřejné akvárium Česká Lípa",
+                  "text": "Ein öffentliches Aquarium in Česká Lípa, das Einblicke in heimische und exotische Gewässer gibt.",
+                  "category": "family",
+                  "coords": [
+                        14.536467,
+                        50.68501
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Ein Wasserpark in Česká Lípa mit verschiedenen Becken und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        14.540187,
+                        50.681616
+                  ]
             }
       ],
       "hu": [
@@ -30119,6 +27059,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.578433,
                         50.678728
+                  ]
+            },
+            {
+                  "name": "Veřejné akvárium Česká Lípa",
+                  "text": "Nyilvános akvárium Česká Lípában, amely betekintést nyújt a hazai és exotikus vizek világába.",
+                  "category": "family",
+                  "coords": [
+                        14.536467,
+                        50.68501
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Vízi park Česká Lípában különféle medencékkel és csúszdákkal.",
+                  "category": "family",
+                  "coords": [
+                        14.540187,
+                        50.681616
                   ]
             }
       ],
@@ -30257,6 +27215,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.578433,
                         50.678728
                   ]
+            },
+            {
+                  "name": "Veřejné akvárium Česká Lípa",
+                  "text": "Un acvariu public în Česká Lípa care oferă perspective asupra apelor locale și exotice.",
+                  "category": "family",
+                  "coords": [
+                        14.536467,
+                        50.68501
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Un parc acvatic în Česká Lípa cu diverse bazine și tobogane.",
+                  "category": "family",
+                  "coords": [
+                        14.540187,
+                        50.681616
+                  ]
             }
       ],
       "en": [
@@ -30393,6 +27369,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.578433,
                         50.678728
+                  ]
+            },
+            {
+                  "name": "Veřejné akvárium Česká Lípa",
+                  "text": "A public aquarium in Ceska Lipa offering insights into domestic and exotic waters.",
+                  "category": "family",
+                  "coords": [
+                        14.536467,
+                        50.68501
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park in Ceska Lipa with various pools and slides.",
+                  "category": "family",
+                  "coords": [
+                        14.540187,
+                        50.681616
                   ]
             }
       ]
@@ -33283,6 +30277,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.671901,
                         49.684
                   ]
+            },
+            {
+                  "name": "MiniZOO Vendryně",
+                  "text": "Ein kleiner Zoo in Vendryně, der verschiedene Tiere in familiärer Atmosphäre zeigt.",
+                  "category": "family",
+                  "coords": [
+                        18.708007,
+                        49.650835
+                  ]
             }
       ],
       "hu": [
@@ -33383,6 +30386,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.671901,
                         49.684
+                  ]
+            },
+            {
+                  "name": "MiniZOO Vendryně",
+                  "text": "Kis állatkert Vendryněben, amely különféle állatokat mutat be családias légkörben.",
+                  "category": "family",
+                  "coords": [
+                        18.708007,
+                        49.650835
                   ]
             }
       ],
@@ -33485,6 +30497,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.671901,
                         49.684
                   ]
+            },
+            {
+                  "name": "MiniZOO Vendryně",
+                  "text": "O mică grădină zoologică în Vendryně care prezintă diverse animale într-o atmosferă familială.",
+                  "category": "family",
+                  "coords": [
+                        18.708007,
+                        49.650835
+                  ]
             }
       ],
       "en": [
@@ -33585,6 +30606,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.671901,
                         49.684
+                  ]
+            },
+            {
+                  "name": "MiniZOO Vendryně",
+                  "text": "A small zoo in Vendryne showing various animals in a family-friendly atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        18.708007,
+                        49.650835
                   ]
             }
       ]
@@ -33789,6 +30819,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.007637,
                         49.682073
                   ]
+            },
+            {
+                  "name": "Koupaliště Dubno",
+                  "text": "Das Koupaliště Dubno ist ein Badebereich in Příbram, der einen malerischen Ort zur Entspannung bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.049798,
+                        49.698349
+                  ]
+            },
+            {
+                  "name": "Obora Skorotín",
+                  "text": "Obora Skorotín ist ein Wildgehege in Příbram, in dem Familien Tiere in der Natur sehen können.",
+                  "category": "family",
+                  "coords": [
+                        14.02743,
+                        49.717714
+                  ]
             }
       ],
       "hu": [
@@ -33943,6 +30991,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.007637,
                         49.682073
+                  ]
+            },
+            {
+                  "name": "Koupaliště Dubno",
+                  "text": "A Koupaliště Dubno egy fürdőhely Příbramban, amely festői helyet kínál a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.049798,
+                        49.698349
+                  ]
+            },
+            {
+                  "name": "Obora Skorotín",
+                  "text": "Az Obora Skorotín egy vadaspark Příbramban, ahol a családok a természetben láthatnak állatokat.",
+                  "category": "family",
+                  "coords": [
+                        14.02743,
+                        49.717714
                   ]
             }
       ],
@@ -34099,6 +31165,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.007637,
                         49.682073
                   ]
+            },
+            {
+                  "name": "Koupaliště Dubno",
+                  "text": "Koupaliště Dubno este o zonă de înot din Příbram care oferă un loc pitoresc pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.049798,
+                        49.698349
+                  ]
+            },
+            {
+                  "name": "Obora Skorotín",
+                  "text": "Obora Skorotín este o rezervație de animale din Příbram unde familiile pot vedea animale în natură.",
+                  "category": "family",
+                  "coords": [
+                        14.02743,
+                        49.717714
+                  ]
             }
       ],
       "en": [
@@ -34253,6 +31337,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.007637,
                         49.682073
+                  ]
+            },
+            {
+                  "name": "Koupaliště Dubno",
+                  "text": "Koupaliště Dubno is a swimming area in Příbram offering a scenic spot for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        14.049798,
+                        49.698349
+                  ]
+            },
+            {
+                  "name": "Obora Skorotín",
+                  "text": "Obora Skorotín is a wildlife area in Příbram where families can see animals in nature.",
+                  "category": "family",
+                  "coords": [
+                        14.02743,
+                        49.717714
                   ]
             }
       ]
@@ -34529,6 +31631,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.497098,
                         49.883411
                   ]
+            },
+            {
+                  "name": "Dinopark Ostrava",
+                  "text": "Der Dinopark Ostrava ist ein Themenpark in Orlová mit lebensgroßen Modellen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.455081,
+                        49.853877
+                  ]
             }
       ],
       "hu": [
@@ -34755,6 +31866,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.497098,
                         49.883411
+                  ]
+            },
+            {
+                  "name": "Dinopark Ostrava",
+                  "text": "A Dinopark Ostrava egy élménypark Orlová mellett, életnagyságú modellekkel az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.455081,
+                        49.853877
                   ]
             }
       ],
@@ -34983,6 +32103,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.497098,
                         49.883411
                   ]
+            },
+            {
+                  "name": "Dinopark Ostrava",
+                  "text": "Dinopark Ostrava este un parc tematic din Orlová, cu modele în mărime naturală pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.455081,
+                        49.853877
+                  ]
             }
       ],
       "en": [
@@ -35209,6 +32338,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.497098,
                         49.883411
+                  ]
+            },
+            {
+                  "name": "Dinopark Ostrava",
+                  "text": "Dinopark Ostrava is a theme park in Orlova featuring life-sized dinosaur models for families.",
+                  "category": "family",
+                  "coords": [
+                        18.455081,
+                        49.853877
                   ]
             }
       ]
@@ -36740,6 +33878,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.088343,
                         49.326193
                   ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Das Venkovní bazén in Písek ist ein Freibad für aktive Erholung im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        14.144862,
+                        49.305721
+                  ]
             }
       ],
       "hu": [
@@ -36993,6 +34140,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.088343,
                         49.326193
+                  ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "A Venkovní bazén egy szabadtéri úszómedence Písekben a nyári aktív pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.144862,
+                        49.305721
                   ]
             }
       ],
@@ -37248,6 +34404,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.088343,
                         49.326193
                   ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Venkovní bazén este o piscină în aer liber din Písek, ideală pentru recreere activă pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        14.144862,
+                        49.305721
+                  ]
             }
       ],
       "en": [
@@ -37502,6 +34667,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.088343,
                         49.326193
                   ]
+            },
+            {
+                  "name": "Venkovní bazén",
+                  "text": "Venkovní bazén is an outdoor swimming pool in Pisek, perfect for active summer recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.144862,
+                        49.305721
+                  ]
             }
       ]
 },
@@ -37696,6 +34870,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.479798,
                         49.254789
                   ]
+            },
+            {
+                  "name": "koupaliště Bajda",
+                  "text": "Ein Schwimmbad in Kroměříž, das Möglichkeiten für Sport und Freizeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.390443,
+                        49.302458
+                  ]
             }
       ],
       "hu": [
@@ -37841,6 +35024,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.479798,
                         49.254789
+                  ]
+            },
+            {
+                  "name": "koupaliště Bajda",
+                  "text": "Uszoda Kroměřížben, amely sportolási és szabadidős lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        17.390443,
+                        49.302458
                   ]
             }
       ],
@@ -37988,6 +35180,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.479798,
                         49.254789
                   ]
+            },
+            {
+                  "name": "koupaliště Bajda",
+                  "text": "O piscină în Kroměříž care oferă posibilități de sport și petrecere a timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        17.390443,
+                        49.302458
+                  ]
             }
       ],
       "en": [
@@ -38133,6 +35334,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.479798,
                         49.254789
+                  ]
+            },
+            {
+                  "name": "koupaliště Bajda",
+                  "text": "A swimming pool in Kromeriz offering options for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        17.390443,
+                        49.302458
                   ]
             }
       ]
@@ -38346,6 +35556,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.971736,
                         49.962539
                   ]
+            },
+            {
+                  "name": "Aquacentrum Šumperk",
+                  "text": "Das Aquacentrum Šumperk ist ein Schwimmbad in Šumperk, das sich für die Freizeitgestaltung der Familie eignet.",
+                  "category": "family",
+                  "coords": [
+                        16.990263,
+                        49.960678
+                  ]
             }
       ],
       "hu": [
@@ -38509,6 +35728,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.971736,
                         49.962539
+                  ]
+            },
+            {
+                  "name": "Aquacentrum Šumperk",
+                  "text": "Az Aquacentrum Šumperk egy úszómedence Šumperkben, amely alkalmas családi szabadidőre.",
+                  "category": "family",
+                  "coords": [
+                        16.990263,
+                        49.960678
                   ]
             }
       ],
@@ -38674,6 +35902,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.971736,
                         49.962539
                   ]
+            },
+            {
+                  "name": "Aquacentrum Šumperk",
+                  "text": "Aquacentrum Šumperk este o piscină din Šumperk potrivită pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.990263,
+                        49.960678
+                  ]
             }
       ],
       "en": [
@@ -38838,6 +36075,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.971736,
                         49.962539
                   ]
+            },
+            {
+                  "name": "Aquacentrum Šumperk",
+                  "text": "Aquacentrum Šumperk is a swimming pool in Šumperk suitable for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        16.990263,
+                        49.960678
+                  ]
             }
       ]
 },
@@ -38969,6 +36215,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.98646,
                         49.341853
                   ]
+            },
+            {
+                  "name": "Wellness",
+                  "text": "Das Wellness in Vsetín ist ein öffentliches Bad mit Fokus auf Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        17.97121,
+                        49.310646
+                  ]
             }
       ],
       "hu": [
@@ -39051,6 +36306,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.98646,
                         49.341853
+                  ]
+            },
+            {
+                  "name": "Wellness",
+                  "text": "A Wellness egy nyilvános fürdő Vsetínben, amely a kikapcsolódásra összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        17.97121,
+                        49.310646
                   ]
             }
       ],
@@ -39135,6 +36399,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.98646,
                         49.341853
                   ]
+            },
+            {
+                  "name": "Wellness",
+                  "text": "Wellness din Vsetín este o baie publică ce pune accent pe relaxare și răsfăț.",
+                  "category": "family",
+                  "coords": [
+                        17.97121,
+                        49.310646
+                  ]
             }
       ],
       "en": [
@@ -39217,6 +36490,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.98646,
                         49.341853
+                  ]
+            },
+            {
+                  "name": "Wellness",
+                  "text": "Wellness in Vsetin is a public bath facility focused on relaxation and well-being.",
+                  "category": "family",
+                  "coords": [
+                        17.97121,
+                        49.310646
                   ]
             }
       ]
@@ -40134,6 +37416,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.554654,
                         50.611499
                   ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Der Plavecký bazén ist ein Schwimmbad in Litvínov, ideal für Familienübungen.",
+                  "category": "family",
+                  "coords": [
+                        13.605452,
+                        50.599885
+                  ]
             }
       ],
       "hu": [
@@ -40261,6 +37552,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.554654,
                         50.611499
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "A Plavecký bazén egy úszómedence Litvínovban, amely tökéletes családi testmozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.605452,
+                        50.599885
                   ]
             }
       ],
@@ -40390,6 +37690,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.554654,
                         50.611499
                   ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Plavecký bazén este o piscină din Litvínov perfectă pentru exerciții fizice în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.605452,
+                        50.599885
+                  ]
             }
       ],
       "en": [
@@ -40517,6 +37826,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.554654,
                         50.611499
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Plavecký bazén is a swimming pool in Litvínov perfect for family exercise.",
+                  "category": "family",
+                  "coords": [
+                        13.605452,
+                        50.599885
                   ]
             }
       ]
@@ -40793,6 +38111,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.415474,
                         49.019705
                   ]
+            },
+            {
+                  "name": "Aquapark Uherské Hradiště",
+                  "text": "Der Aquapark Uherské Hradiště ist ein moderner Wasserpark mit vielen Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        17.473158,
+                        49.066949
+                  ]
+            },
+            {
+                  "name": "Skanzen Rochus",
+                  "text": "Das Skanzen Rochus ist ein Themenpark in Uherské Hradiště, der traditionelles Leben zeigt.",
+                  "category": "family",
+                  "coords": [
+                        17.489872,
+                        49.072863
+                  ]
+            },
+            {
+                  "name": "Kovozoo",
+                  "text": "Das Kovozoo ist ein einzigartiger Tierpark in Uherské Hradiště mit Tieren aus Metallschrott.",
+                  "category": "family",
+                  "coords": [
+                        17.424292,
+                        49.073227
+                  ]
             }
       ],
       "hu": [
@@ -41019,6 +38364,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.415474,
                         49.019705
+                  ]
+            },
+            {
+                  "name": "Aquapark Uherské Hradiště",
+                  "text": "Az Aquapark Uherské Hradiště egy modern vízipark számos csúszdával.",
+                  "category": "family",
+                  "coords": [
+                        17.473158,
+                        49.066949
+                  ]
+            },
+            {
+                  "name": "Skanzen Rochus",
+                  "text": "A Skanzen Rochus egy élménypark Uherské Hradištěben, amely a hagyományos életmódot mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        17.489872,
+                        49.072863
+                  ]
+            },
+            {
+                  "name": "Kovozoo",
+                  "text": "A Kovozoo egy különleges állatpark Uherské Hradištěben, fémhulladékból készült állatokkal.",
+                  "category": "family",
+                  "coords": [
+                        17.424292,
+                        49.073227
                   ]
             }
       ],
@@ -41247,6 +38619,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.415474,
                         49.019705
                   ]
+            },
+            {
+                  "name": "Aquapark Uherské Hradiště",
+                  "text": "Aquapark Uherské Hradiště este un parc acvatic modern, dotat cu numeroase tobogane.",
+                  "category": "family",
+                  "coords": [
+                        17.473158,
+                        49.066949
+                  ]
+            },
+            {
+                  "name": "Skanzen Rochus",
+                  "text": "Skanzen Rochus este un parc tematic din Uherské Hradiště care prezintă viața tradițională.",
+                  "category": "family",
+                  "coords": [
+                        17.489872,
+                        49.072863
+                  ]
+            },
+            {
+                  "name": "Kovozoo",
+                  "text": "Kovozoo este o grădină zoologică inedită din Uherské Hradiště, cu animale realizate din fier vechi.",
+                  "category": "family",
+                  "coords": [
+                        17.424292,
+                        49.073227
+                  ]
             }
       ],
       "en": [
@@ -41474,6 +38873,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.415474,
                         49.019705
                   ]
+            },
+            {
+                  "name": "Aquapark Uherské Hradiště",
+                  "text": "Aquapark Uherské Hradiště is a modern water park with multiple slides and pools.",
+                  "category": "family",
+                  "coords": [
+                        17.473158,
+                        49.066949
+                  ]
+            },
+            {
+                  "name": "Skanzen Rochus",
+                  "text": "Skanzen Rochus is an open-air museum and theme park in Uherske Hradiste showcasing traditional life.",
+                  "category": "family",
+                  "coords": [
+                        17.489872,
+                        49.072863
+                  ]
+            },
+            {
+                  "name": "Kovozoo",
+                  "text": "Kovozoo is a unique zoo in Uherske Hradiste featuring animal sculptures made from scrap metal.",
+                  "category": "family",
+                  "coords": [
+                        17.424292,
+                        49.073227
+                  ]
             }
       ]
 },
@@ -41596,6 +39022,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.136475,
                         48.856794
                   ]
+            },
+            {
+                  "name": "Letní koupaliště TEZA",
+                  "text": "Ein Sommerbad in Hodonín für Badespaß und Entspannung unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        17.13024,
+                        48.844022
+                  ]
             }
       ],
       "hu": [
@@ -41669,6 +39104,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.136475,
                         48.856794
+                  ]
+            },
+            {
+                  "name": "Letní koupaliště TEZA",
+                  "text": "Nyári strand Hodonínban fürdőzéshez és pihenéshez a szabad ég alatt.",
+                  "category": "family",
+                  "coords": [
+                        17.13024,
+                        48.844022
                   ]
             }
       ],
@@ -41744,6 +39188,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.136475,
                         48.856794
                   ]
+            },
+            {
+                  "name": "Letní koupaliště TEZA",
+                  "text": "Un ștrand de vară în Hodonín pentru distracție la scăldat și relaxare sub cerul liber.",
+                  "category": "family",
+                  "coords": [
+                        17.13024,
+                        48.844022
+                  ]
             }
       ],
       "en": [
@@ -41817,6 +39270,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.136475,
                         48.856794
+                  ]
+            },
+            {
+                  "name": "Letní koupaliště TEZA",
+                  "text": "A summer pool in Hodonin for bathing fun and relaxation under the open sky.",
+                  "category": "family",
+                  "coords": [
+                        17.13024,
+                        48.844022
                   ]
             }
       ]
@@ -42518,6 +39980,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.720779,
                         50.08792
                   ]
+            },
+            {
+                  "name": "Městské koupaliště",
+                  "text": "Das Městské koupaliště in Krnov ist ein Freibad für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.695007,
+                        50.09764
+                  ]
             }
       ],
       "hu": [
@@ -42573,6 +40044,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.720779,
                         50.08792
+                  ]
+            },
+            {
+                  "name": "Městské koupaliště",
+                  "text": "A Městské koupaliště egy városi szabadtéri fürdő Krnovban az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.695007,
+                        50.09764
                   ]
             }
       ],
@@ -42630,6 +40110,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.720779,
                         50.08792
                   ]
+            },
+            {
+                  "name": "Městské koupaliště",
+                  "text": "Městské koupaliště din Krnov este o piscină publică ideală pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.695007,
+                        50.09764
+                  ]
             }
       ],
       "en": [
@@ -42685,6 +40174,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.720779,
                         50.08792
+                  ]
+            },
+            {
+                  "name": "Městské koupaliště",
+                  "text": "Městské koupaliště is a public swimming pool in Krnov, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.695007,
+                        50.09764
                   ]
             }
       ]
@@ -43998,6 +41496,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.570992,
                         49.615037
                   ]
+            },
+            {
+                  "name": "‎Koupaliště Havlíčkův Brod",
+                  "text": "Diese Schwimmanlage in Havlickuv Brod bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.58233,
+                        49.616565
+                  ]
             }
       ],
       "hu": [
@@ -44197,6 +41704,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.570992,
                         49.615037
+                  ]
+            },
+            {
+                  "name": "‎Koupaliště Havlíčkův Brod",
+                  "text": "Ez a Havlickuv Brod városában található úszólétesítmény vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.58233,
+                        49.616565
                   ]
             }
       ],
@@ -44398,6 +41914,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.570992,
                         49.615037
                   ]
+            },
+            {
+                  "name": "‎Koupaliště Havlíčkův Brod",
+                  "text": "Această facilitate de înot din Havlickuv Brod oferă distracție acvatică și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.58233,
+                        49.616565
+                  ]
             }
       ],
       "en": [
@@ -44597,6 +42122,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.570992,
                         49.615037
+                  ]
+            },
+            {
+                  "name": "‎Koupaliště Havlíčkův Brod",
+                  "text": "This swimming facility in Havlickuv Brod offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.58233,
+                        49.616565
                   ]
             }
       ]
@@ -44927,6 +42461,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.954058,
                         49.610757
                   ]
+            },
+            {
+                  "name": "Relaxační centrum",
+                  "text": "Das Relaxační centrum in Žďár nad Sázavou bietet Schwimmbecken für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        15.942817,
+                        49.563023
+                  ]
             }
       ],
       "hu": [
@@ -45207,6 +42750,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.954058,
                         49.610757
+                  ]
+            },
+            {
+                  "name": "Relaxační centrum",
+                  "text": "A Relaxační centrum Žďár nad Sázavou városában úszómedencéket kínál kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.942817,
+                        49.563023
                   ]
             }
       ],
@@ -45489,6 +43041,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.954058,
                         49.610757
                   ]
+            },
+            {
+                  "name": "Relaxační centrum",
+                  "text": "Relaxační centrum din Žďár Nad Sázavou oferă bazine de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.942817,
+                        49.563023
+                  ]
             }
       ],
       "en": [
@@ -45769,6 +43330,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.954058,
                         49.610757
+                  ]
+            },
+            {
+                  "name": "Relaxační centrum",
+                  "text": "Relaxační centrum in Zdar Nad Sazavou features swimming pools for both children and adults.",
+                  "category": "family",
+                  "coords": [
+                        15.942817,
+                        49.563023
                   ]
             }
       ]
@@ -47804,6 +45374,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.144396,
                         49.603818
                   ]
+            },
+            {
+                  "name": "Koupaliště Libotín",
+                  "text": "Das Koupaliště Libotín ist ein malerisch gelegenes Freibad in Kopřivnice.",
+                  "category": "family",
+                  "coords": [
+                        18.095171,
+                        49.586829
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Větřkovice ist eine Badestelle in Kopřivnice, die Erholung in der Natur ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Větřkovická přehrada",
+                  "text": "Die Naturistická pláž Větřkovická přehrada ist ein Strandbad für Naturisten am Stausee.",
+                  "category": "family",
+                  "coords": [
+                        18.192411,
+                        49.615625
+                  ]
             }
       ],
       "hu": [
@@ -48093,6 +45690,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.144396,
                         49.603818
+                  ]
+            },
+            {
+                  "name": "Koupaliště Libotín",
+                  "text": "A Koupaliště Libotín egy festői környezetben lévő szabadtéri fürdő Kopřivnice városában.",
+                  "category": "family",
+                  "coords": [
+                        18.095171,
+                        49.586829
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Větřkovice egy fürdőhely Kopřivnice közelében, amely természetközeli kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Větřkovická přehrada",
+                  "text": "A Naturistická pláž Větřkovická přehrada egy naturista strand a víztározónál.",
+                  "category": "family",
+                  "coords": [
+                        18.192411,
+                        49.615625
                   ]
             }
       ],
@@ -48384,6 +46008,33 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.144396,
                         49.603818
                   ]
+            },
+            {
+                  "name": "Koupaliště Libotín",
+                  "text": "Koupaliště Libotín este o piscină în aer liber situată pitoresc în Kopřivnice.",
+                  "category": "family",
+                  "coords": [
+                        18.095171,
+                        49.586829
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Větřkovice este o zonă de scăldat din Kopřivnice, oferind relaxare în mijlocul naturii.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Větřkovická přehrada",
+                  "text": "Naturistická pláž Větřkovická přehrada este o plajă pentru naturiști situată la baraj.",
+                  "category": "family",
+                  "coords": [
+                        18.192411,
+                        49.615625
+                  ]
             }
       ],
       "en": [
@@ -48673,6 +46324,33 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.144396,
                         49.603818
+                  ]
+            },
+            {
+                  "name": "Koupaliště Libotín",
+                  "text": "Koupaliště Libotín is a scenic outdoor swimming pool located in Koprivnice.",
+                  "category": "family",
+                  "coords": [
+                        18.095171,
+                        49.586829
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Větřkovice is a swimming area in Koprivnice, providing a natural setting for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
+            },
+            {
+                  "name": "Naturistická pláž Větřkovická přehrada",
+                  "text": "Naturistická pláž Větřkovická přehrada is a beach resort for naturists at the reservoir.",
+                  "category": "family",
+                  "coords": [
+                        18.192411,
+                        49.615625
                   ]
             }
       ]
@@ -49003,6 +46681,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.33393,
                         49.917213
                   ]
+            },
+            {
+                  "name": "nudistická pláž",
+                  "text": "Ein Strandresort in Bohumín, das auf FKK spezialisiert ist und Ruhe bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.312275,
+                        49.893539
+                  ]
             }
       ],
       "hu": [
@@ -49283,6 +46970,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.33393,
                         49.917213
+                  ]
+            },
+            {
+                  "name": "nudistická pláž",
+                  "text": "Tengerparti üdülőhely Bohumínban, amely naturista strandolásra szakosodott.",
+                  "category": "family",
+                  "coords": [
+                        18.312275,
+                        49.893539
                   ]
             }
       ],
@@ -49565,6 +47261,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.33393,
                         49.917213
                   ]
+            },
+            {
+                  "name": "nudistická pláž",
+                  "text": "O stațiune la plajă în Bohumín, specializată pe nudism, oferind liniște.",
+                  "category": "family",
+                  "coords": [
+                        18.312275,
+                        49.893539
+                  ]
             }
       ],
       "en": [
@@ -49845,6 +47550,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.33393,
                         49.917213
+                  ]
+            },
+            {
+                  "name": "nudistická pláž",
+                  "text": "A beach resort in Bohumin specializing in naturism and offering tranquility.",
+                  "category": "family",
+                  "coords": [
+                        18.312275,
+                        49.893539
                   ]
             }
       ]
@@ -50735,6 +48449,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.070783,
                         49.106977
                   ]
+            },
+            {
+                  "name": "FKK (nudistická pláž)",
+                  "text": "Der FKK-Strand in Jindřichův Hradec ist ein Bereich für naturistisches Baden.",
+                  "category": "family",
+                  "coords": [
+                        15.04906,
+                        49.146554
+                  ]
             }
       ],
       "hu": [
@@ -51087,6 +48810,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.070783,
                         49.106977
+                  ]
+            },
+            {
+                  "name": "FKK (nudistická pláž)",
+                  "text": "Az FKK strand Jindřichův Hradecben a naturista fürdőzés kedvelőinek fenntartott terület.",
+                  "category": "family",
+                  "coords": [
+                        15.04906,
+                        49.146554
                   ]
             }
       ],
@@ -51441,6 +49173,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.070783,
                         49.106977
                   ]
+            },
+            {
+                  "name": "FKK (nudistická pláž)",
+                  "text": "Plaja FKK din Jindřichův Hradec este o zonă dedicată scăldatului naturist.",
+                  "category": "family",
+                  "coords": [
+                        15.04906,
+                        49.146554
+                  ]
             }
       ],
       "en": [
@@ -51793,6 +49534,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.070783,
                         49.106977
+                  ]
+            },
+            {
+                  "name": "FKK (nudistická pláž)",
+                  "text": "FKK (nudistická pláž) is a beach resort in Jindrichuv Hradec dedicated to naturist swimming.",
+                  "category": "family",
+                  "coords": [
+                        15.04906,
+                        49.146554
                   ]
             }
       ]
@@ -52710,6 +50460,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.279994,
                         49.961032
                   ]
+            },
+            {
+                  "name": "Kutnohorská plovárna",
+                  "text": "Diese Schwimmanlage in Kutna Hora bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.27693,
+                        49.946939
+                  ]
             }
       ],
       "hu": [
@@ -52765,6 +50524,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.279994,
                         49.961032
+                  ]
+            },
+            {
+                  "name": "Kutnohorská plovárna",
+                  "text": "Ez a Kutna Hora városában található úszólétesítmény vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        15.27693,
+                        49.946939
                   ]
             }
       ],
@@ -52822,6 +50590,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.279994,
                         49.961032
                   ]
+            },
+            {
+                  "name": "Kutnohorská plovárna",
+                  "text": "Această facilitate de înot din Kutna Hora oferă distracție acvatică și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.27693,
+                        49.946939
+                  ]
             }
       ],
       "en": [
@@ -52878,6 +50655,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.279994,
                         49.961032
                   ]
+            },
+            {
+                  "name": "Kutnohorská plovárna",
+                  "text": "This swimming facility in Kutna Hora offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.27693,
+                        49.946939
+                  ]
             }
       ]
 },
@@ -52927,7 +50713,124 @@ export const czechrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-jirkov-cities-v2",
+    id: "czechrepublic-jirkov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoopark im Erzgebirgsvorland Komotau",
+                  "text": "Der Zoopark Chomutov ist ein Tierpark in Jirkov, der viele europäische Tierarten zeigt.",
+                  "category": "family",
+                  "coords": [
+                        13.42266,
+                        50.474419
+                  ]
+            },
+            {
+                  "name": "Aquasvět",
+                  "text": "Das Aquasvět ist ein Wasserpark in Jirkov mit Attraktionen für Wassersportfans.",
+                  "category": "family",
+                  "coords": [
+                        13.42659,
+                        50.4695
+                  ]
+            },
+            {
+                  "name": "Voliera pláku",
+                  "text": "Die Voliera pláku ist ein kleiner Tierpark in Jirkov, der Vögel in natürlicher Umgebung zeigt.",
+                  "category": "family",
+                  "coords": [
+                        13.422487,
+                        50.476828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoopark Chomutov",
+                  "text": "A Zoopark Chomutov egy állatpark Jirkov mellett, amely számos európai fajt mutat be.",
+                  "category": "family",
+                  "coords": [
+                        13.42266,
+                        50.474419
+                  ]
+            },
+            {
+                  "name": "Aquasvět",
+                  "text": "Az Aquasvět egy vízipark Jirkovban, vízi sportokat és szórakozást kedvelőknek.",
+                  "category": "family",
+                  "coords": [
+                        13.42659,
+                        50.4695
+                  ]
+            },
+            {
+                  "name": "Voliera pláku",
+                  "text": "A Voliera pláku egy kis állatkert Jirkovban, ahol madarakat láthatnak természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        13.422487,
+                        50.476828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoopark Chomutov",
+                  "text": "Zoopark Chomutov este un parc zoologic din Jirkov, unde pot fi văzute multe specii europene.",
+                  "category": "family",
+                  "coords": [
+                        13.42266,
+                        50.474419
+                  ]
+            },
+            {
+                  "name": "Aquasvět",
+                  "text": "Aquasvět este un parc acvatic din Jirkov, cu atracții pentru fanii sporturilor nautice.",
+                  "category": "family",
+                  "coords": [
+                        13.42659,
+                        50.4695
+                  ]
+            },
+            {
+                  "name": "Voliera pláku",
+                  "text": "Voliera pláku este un mic parc zoologic din Jirkov, unde pot fi observate păsări.",
+                  "category": "family",
+                  "coords": [
+                        13.422487,
+                        50.476828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoopark Chomutov",
+                  "text": "Zoopark Chomutov is a zoo located near Jirkov, showcasing many European animal species.",
+                  "category": "family",
+                  "coords": [
+                        13.42266,
+                        50.474419
+                  ]
+            },
+            {
+                  "name": "Aquasvět",
+                  "text": "Aquasvět is a water park in Jirkov featuring attractions for water enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        13.42659,
+                        50.4695
+                  ]
+            },
+            {
+                  "name": "Voliera pláku",
+                  "text": "Voliera pláku is a bird aviary and zoo in Jirkov showing birds in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        13.422487,
+                        50.476828
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "city",
     name: { de: "Görkau", hu: "Jirkov", ro: "Jirkov", en: "Jirkov"},
@@ -54662,6 +52565,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.046495,
                         49.959228
                   ]
+            },
+            {
+                  "name": "Studio Kytka s.r.o.",
+                  "text": "Studio Kytka s.r.o. ist ein Schwimmbad in Beroun, das Kurse und Erholung anbietet.",
+                  "category": "family",
+                  "coords": [
+                        14.08251,
+                        49.972278
+                  ]
             }
       ],
       "hu": [
@@ -54870,6 +52782,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.046495,
                         49.959228
+                  ]
+            },
+            {
+                  "name": "Studio Kytka s.r.o.",
+                  "text": "A Studio Kytka s.r.o. egy uszoda Berounban, amely úszásoktatást és pihenést kínál.",
+                  "category": "family",
+                  "coords": [
+                        14.08251,
+                        49.972278
                   ]
             }
       ],
@@ -55080,6 +53001,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.046495,
                         49.959228
                   ]
+            },
+            {
+                  "name": "Studio Kytka s.r.o.",
+                  "text": "Studio Kytka s.r.o. este o piscină din Beroun, care oferă cursuri și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.08251,
+                        49.972278
+                  ]
             }
       ],
       "en": [
@@ -55288,6 +53218,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.046495,
                         49.959228
+                  ]
+            },
+            {
+                  "name": "Studio Kytka s.r.o.",
+                  "text": "Studio Kytka s.r.o. is a swimming pool facility in Beroun offering lessons and recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.08251,
+                        49.972278
                   ]
             }
       ]
@@ -55955,6 +53894,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.160875,
                         50.406086
                   ]
+            },
+            {
+                  "name": "Medvěd Ludvík",
+                  "text": "Medvěd Ludvík ist ein kleiner Tierpark in Náchod, benannt nach seinem bekanntesten Bewohner.",
+                  "category": "family",
+                  "coords": [
+                        16.16209,
+                        50.419026
+                  ]
+            },
+            {
+                  "name": "Zámecká obora",
+                  "text": "Die Zámecká obora ist ein Wildgehege in Náchod, das zum Spazierengehen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        16.158439,
+                        50.420579
+                  ]
             }
       ],
       "hu": [
@@ -56028,6 +53985,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.160875,
                         50.406086
+                  ]
+            },
+            {
+                  "name": "Medvěd Ludvík",
+                  "text": "A Medvěd Ludvík egy kis állatpark Náchodban, leghíresebb lakójáról elnevezve.",
+                  "category": "family",
+                  "coords": [
+                        16.16209,
+                        50.419026
+                  ]
+            },
+            {
+                  "name": "Zámecká obora",
+                  "text": "A Zámecká obora egy vadaskert Náchodban, amely kellemes sétákra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        16.158439,
+                        50.420579
                   ]
             }
       ],
@@ -56103,6 +54078,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.160875,
                         50.406086
                   ]
+            },
+            {
+                  "name": "Medvěd Ludvík",
+                  "text": "Medvěd Ludvík este un mic parc zoologic din Náchod, numit după cel mai cunoscut locatar al său.",
+                  "category": "family",
+                  "coords": [
+                        16.16209,
+                        50.419026
+                  ]
+            },
+            {
+                  "name": "Zámecká obora",
+                  "text": "Zámecká obora este o rezervație de animale din Náchod, ideală pentru plimbări în natură.",
+                  "category": "family",
+                  "coords": [
+                        16.158439,
+                        50.420579
+                  ]
             }
       ],
       "en": [
@@ -56177,6 +54170,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.160875,
                         50.406086
                   ]
+            },
+            {
+                  "name": "Medvěd Ludvík",
+                  "text": "Medvěd Ludvík is a zoo area in Nachod named after its most famous bear inhabitant.",
+                  "category": "family",
+                  "coords": [
+                        16.16209,
+                        50.419026
+                  ]
+            },
+            {
+                  "name": "Zámecká obora",
+                  "text": "Zámecká obora is a deer park in Nachod, perfect for nature walks and wildlife spotting.",
+                  "category": "family",
+                  "coords": [
+                        16.158439,
+                        50.420579
+                  ]
             }
       ]
 },
@@ -56226,7 +54237,52 @@ export const czechrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-marianske-lazne-cities-v2",
+    id: "czechrepublic-marianske-lazne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boheminium",
+                  "text": "Ein Themenpark in Marienbad, der Miniaturmodelle bedeutender Bauwerke zeigt.",
+                  "category": "family",
+                  "coords": [
+                        12.720045,
+                        49.971188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boheminium",
+                  "text": "Tematikus park Mariánské Lázněben, amely jelentős építmények miniatűr modelljeit mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        12.720045,
+                        49.971188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boheminium",
+                  "text": "Un parc tematic în Mariánské Lázně care prezintă machete miniaturale ale unor edificii importante.",
+                  "category": "family",
+                  "coords": [
+                        12.720045,
+                        49.971188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boheminium",
+                  "text": "A theme park in Marianske Lazne showing miniature models of significant buildings.",
+                  "category": "family",
+                  "coords": [
+                        12.720045,
+                        49.971188
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "city",
     name: { de: "Marienbad", hu: "Mariánské Lázně", ro: "Mariánské Lázně", en: "Mariánské Lázně"},
@@ -57302,6 +55358,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.079781,
                         50.22849
                   ]
+            },
+            {
+                  "name": "Plovárna Slaný",
+                  "text": "Die Plovárna Slaný ist ein Freibad in Slaný für sommerliche Erholung.",
+                  "category": "family",
+                  "coords": [
+                        14.076145,
+                        50.224719
+                  ]
             }
       ],
       "hu": [
@@ -57411,6 +55476,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.079781,
                         50.22849
+                  ]
+            },
+            {
+                  "name": "Plovárna Slaný",
+                  "text": "A Plovárna Slaný egy szabadtéri úszómedence Slaný városában a nyári kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.076145,
+                        50.224719
                   ]
             }
       ],
@@ -57522,6 +55596,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.079781,
                         50.22849
                   ]
+            },
+            {
+                  "name": "Plovárna Slaný",
+                  "text": "Plovárna Slaný este o piscină în aer liber din Slaný, pentru recreere estivală.",
+                  "category": "family",
+                  "coords": [
+                        14.076145,
+                        50.224719
+                  ]
             }
       ],
       "en": [
@@ -57631,6 +55714,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.079781,
                         50.22849
+                  ]
+            },
+            {
+                  "name": "Plovárna Slaný",
+                  "text": "Plovárna Slaný is an outdoor swimming pool in Slany for summer recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.076145,
+                        50.224719
                   ]
             }
       ]
@@ -59803,6 +57895,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.705508,
                         49.727334
                   ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Ein Schwimmbad in Benešov für regelmäßiges Training und Freizeitvergnügen.",
+                  "category": "family",
+                  "coords": [
+                        14.695241,
+                        49.777556
+                  ]
             }
       ],
       "hu": [
@@ -59885,6 +57986,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.705508,
                         49.727334
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Uszoda Benešovban rendszeres edzéshez és szabadidős szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.695241,
+                        49.777556
                   ]
             }
       ],
@@ -59969,6 +58079,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.705508,
                         49.727334
                   ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "O piscină în Benešov pentru antrenament regulat și distracție în timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        14.695241,
+                        49.777556
+                  ]
             }
       ],
       "en": [
@@ -60051,6 +58170,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.705508,
                         49.727334
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "A swimming pool in Benesov for regular training and leisure enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        14.695241,
+                        49.777556
                   ]
             }
       ]
@@ -60145,6 +58273,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.023573,
                         49.147084
                   ]
+            },
+            {
+                  "name": "koupaliště Valašské Klobouky",
+                  "text": "Diese Schwimmanlage in Valasske Klobouky bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.00631,
+                        49.142641
+                  ]
             }
       ],
       "hu": [
@@ -60191,6 +58328,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.023573,
                         49.147084
+                  ]
+            },
+            {
+                  "name": "koupaliště Valašské Klobouky",
+                  "text": "Ez a Valasske Klobouky városában található úszólétesítmény vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.00631,
+                        49.142641
                   ]
             }
       ],
@@ -60239,6 +58385,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.023573,
                         49.147084
                   ]
+            },
+            {
+                  "name": "koupaliště Valašské Klobouky",
+                  "text": "Această facilitate de înot din Valasske Klobouky oferă distracție acvatică și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.00631,
+                        49.142641
+                  ]
             }
       ],
       "en": [
@@ -60285,6 +58440,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.023573,
                         49.147084
+                  ]
+            },
+            {
+                  "name": "koupaliště Valašské Klobouky",
+                  "text": "This swimming facility in Valasske Klobouky offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.00631,
+                        49.142641
                   ]
             }
       ]
@@ -60532,6 +58696,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.183905,
                         50.240642
                   ]
+            },
+            {
+                  "name": "Jesenické koupaliště",
+                  "text": "Das Jesenické koupaliště ist ein städtisches Freibad für die Sommermonate.",
+                  "category": "family",
+                  "coords": [
+                        17.197451,
+                        50.225266
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Das Bazén in Jeseník ist ein Hallenbad für ganzjährigen Schwimmbetrieb.",
+                  "category": "family",
+                  "coords": [
+                        17.190476,
+                        50.240741
+                  ]
             }
       ],
       "hu": [
@@ -60731,6 +58913,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.183905,
                         50.240642
+                  ]
+            },
+            {
+                  "name": "Jesenické koupaliště",
+                  "text": "A Jesenické koupaliště egy városi szabadtéri fürdő a nyári hónapokra.",
+                  "category": "family",
+                  "coords": [
+                        17.197451,
+                        50.225266
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "A Jeseníki Bazén egy fedett uszoda az egész éves úszási lehetőséghez.",
+                  "category": "family",
+                  "coords": [
+                        17.190476,
+                        50.240741
                   ]
             }
       ],
@@ -60932,6 +59132,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.183905,
                         50.240642
                   ]
+            },
+            {
+                  "name": "Jesenické koupaliště",
+                  "text": "Jesenické koupaliště este o piscină municipală în aer liber pentru lunile de vară.",
+                  "category": "family",
+                  "coords": [
+                        17.197451,
+                        50.225266
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Piscina din Jeseník este un bazin acoperit pentru înot pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        17.190476,
+                        50.240741
+                  ]
             }
       ],
       "en": [
@@ -61132,6 +59350,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.183905,
                         50.240642
                   ]
+            },
+            {
+                  "name": "Jesenické koupaliště",
+                  "text": "Jesenické koupaliště is a public outdoor swimming pool for the summer months.",
+                  "category": "family",
+                  "coords": [
+                        17.197451,
+                        50.225266
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Bazén in Jesenik is an indoor swimming pool available for year-round use.",
+                  "category": "family",
+                  "coords": [
+                        17.190476,
+                        50.240741
+                  ]
             }
       ]
 },
@@ -61279,6 +59515,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.007263,
                         49.591338
                   ]
+            },
+            {
+                  "name": "Koupaliště Nový Jičín",
+                  "text": "Ein Wasserpark in Nový Jičín mit Angeboten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.012905,
+                        49.598038
+                  ]
             }
       ],
       "hu": [
@@ -61379,6 +59624,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.007263,
                         49.591338
+                  ]
+            },
+            {
+                  "name": "Koupaliště Nový Jičín",
+                  "text": "Vízi park Nový Jičínben, ajánlatokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        18.012905,
+                        49.598038
                   ]
             }
       ],
@@ -61481,6 +59735,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.007263,
                         49.591338
                   ]
+            },
+            {
+                  "name": "Koupaliště Nový Jičín",
+                  "text": "Un parc acvatic în Nový Jičín cu oferte pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.012905,
+                        49.598038
+                  ]
             }
       ],
       "en": [
@@ -61581,6 +59844,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.007263,
                         49.591338
+                  ]
+            },
+            {
+                  "name": "Koupaliště Nový Jičín",
+                  "text": "A water park in Novy Jicin with offerings for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.012905,
+                        49.598038
                   ]
             }
       ]
@@ -62197,6 +60469,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.158116,
                         49.465362
                   ]
+            },
+            {
+                  "name": "Obecní koupaliště Vigantice",
+                  "text": "Das Obecní koupaliště Vigantice ist ein Gemeindebad in der Nähe von Rožnov.",
+                  "category": "family",
+                  "coords": [
+                        18.175373,
+                        49.444284
+                  ]
+            },
+            {
+                  "name": "Krytý bazén",
+                  "text": "Das Hallenbad in Rožnov pod Radhoštěm ist ein Ziel für Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        18.128377,
+                        49.464426
+                  ]
             }
       ],
       "hu": [
@@ -62351,6 +60641,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.158116,
                         49.465362
+                  ]
+            },
+            {
+                  "name": "Obecní koupaliště Vigantice",
+                  "text": "Az Obecní koupaliště Vigantice egy községi fürdő Rožnov pod Radhostem közelében.",
+                  "category": "family",
+                  "coords": [
+                        18.175373,
+                        49.444284
+                  ]
+            },
+            {
+                  "name": "Krytý bazén",
+                  "text": "A Rožnov pod Radhoštěm-i fedett uszoda kedvelt célpont az úszni vágyók számára.",
+                  "category": "family",
+                  "coords": [
+                        18.128377,
+                        49.464426
                   ]
             }
       ],
@@ -62507,6 +60815,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.158116,
                         49.465362
                   ]
+            },
+            {
+                  "name": "Obecní koupaliště Vigantice",
+                  "text": "Obecní koupaliště Vigantice este o piscină comunală situată lângă Rožnov.",
+                  "category": "family",
+                  "coords": [
+                        18.175373,
+                        49.444284
+                  ]
+            },
+            {
+                  "name": "Krytý bazén",
+                  "text": "Piscina acoperită din Rožnov Pod Radhostem este o destinație pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        18.128377,
+                        49.464426
+                  ]
             }
       ],
       "en": [
@@ -62661,6 +60987,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.158116,
                         49.465362
+                  ]
+            },
+            {
+                  "name": "Obecní koupaliště Vigantice",
+                  "text": "Obecní koupaliště Vigantice is a local swimming pool near Roznov Pod Radhostem.",
+                  "category": "family",
+                  "coords": [
+                        18.175373,
+                        49.444284
+                  ]
+            },
+            {
+                  "name": "Krytý bazén",
+                  "text": "Krytý bazén is an indoor swimming pool in Roznov Pod Radhostem for year-round swimming.",
+                  "category": "family",
+                  "coords": [
+                        18.128377,
+                        49.464426
                   ]
             }
       ]
@@ -65067,484 +63411,7 @@ export const czechrepublicCitiesV2: POI[] = [
     image: "/poi-images/czechrepublic-semily-cities-v2.webp",
   },
   {
-    id: "czechrepublic-benatky-nad-jizerou-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Slepeč",
-                  "text": "Slepeč ist ein ausgewiesenes Naturschutzgebiet bei Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.788381,
-                        50.284182
-                  ]
-            },
-            {
-                  "name": "Muzeum Hraček",
-                  "text": "Das Spielzeugmuseum ist eine kulturelle Einrichtung in Benátky nad Jizerou.",
-                  "category": "museum",
-                  "coords": [
-                        14.822982,
-                        50.290783
-                  ]
-            },
-            {
-                  "name": "Obora Exmoorských pony a zubrů",
-                  "text": "Das Naturgehege für Exmoor-Ponys und Wisente ist ein Naturschutzgebiet in Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.882431,
-                        50.280172
-                  ]
-            },
-            {
-                  "name": "Dražice",
-                  "text": "Dražice ist eine historische Burgruine in der Nähe von Benátky nad Jizerou.",
-                  "category": "historical",
-                  "coords": [
-                        14.844524,
-                        50.306304
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "Die Kirche St. Maria Magdalena ist ein Ort der Anbetung in Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.824931,
-                        50.292829
-                  ]
-            },
-            {
-                  "name": "Nanebevzetí Panny Marie",
-                  "text": "Die Kirche Mariä Himmelfahrt ist ein bedeutendes religiöses Gebäude in Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.829267,
-                        50.284834
-                  ]
-            },
-            {
-                  "name": "Křemenská tůň",
-                  "text": "Die Křemenská tůň in Benatky Nad Jizerou ist ein See, der einen ruhigen Ort für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        14.829104,
-                        50.287737
-                  ]
-            },
-            {
-                  "name": "U kurtů",
-                  "text": "Der See U kurtů in Benatky Nad Jizerou bietet eine angenehme Umgebung für Spaziergänge in der Nähe.",
-                  "category": "natural",
-                  "coords": [
-                        14.73807,
-                        50.288903
-                  ]
-            },
-            {
-                  "name": "rybník Na koutě",
-                  "text": "Dieser See in Benátky nad Jizerou bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.827192,
-                        50.288287
-                  ]
-            },
-            {
-                  "name": "Na křemeni",
-                  "text": "Dieser See in Benátky nad Jizerou bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.735333,
-                        50.289277
-                  ]
-            },
-            {
-                  "name": "Měsíc",
-                  "text": "Dieser See in Benátky nad Jizerou bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.848394,
-                        50.313937
-                  ]
-            },
-            {
-                  "name": "Na hrádku",
-                  "text": "Dieser See in Benátky nad Jizerou bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.730627,
-                        50.293027
-                  ]
-            },
-            {
-                  "name": "Palouk",
-                  "text": "Dieser See in Benátky nad Jizerou bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.78982,
-                        50.304703
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Slepeč",
-                  "text": "A Slepeč egy természetvédelmi terület Benátky nad Jizerou közelében.",
-                  "category": "natural",
-                  "coords": [
-                        14.788381,
-                        50.284182
-                  ]
-            },
-            {
-                  "name": "Muzeum Hraček",
-                  "text": "A Játékmúzeum egy érdekes kulturális intézmény Benátky nad Jizerou városában.",
-                  "category": "museum",
-                  "coords": [
-                        14.822982,
-                        50.290783
-                  ]
-            },
-            {
-                  "name": "Obora Exmoorských pony a zubrů",
-                  "text": "Az Exmoor pónik és bölények vadasparkja egy természetvédelmi terület Benátky nad Jizerou-ban.",
-                  "category": "natural",
-                  "coords": [
-                        14.882431,
-                        50.280172
-                  ]
-            },
-            {
-                  "name": "Dražice",
-                  "text": "A Dražice egy történelmi várrom Benátky nad Jizerou közelében.",
-                  "category": "historical",
-                  "coords": [
-                        14.844524,
-                        50.306304
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "A Szent Mária Magdolna-templom egy vallási épület Benátky nad Jizerou városában.",
-                  "category": "religious",
-                  "coords": [
-                        14.824931,
-                        50.292829
-                  ]
-            },
-            {
-                  "name": "Nanebevzetí Panny Marie",
-                  "text": "A Szűz Mária Mennybemenetele templom egy jelentős vallási épület Benátky nad Jizerouban.",
-                  "category": "religious",
-                  "coords": [
-                        14.829267,
-                        50.284834
-                  ]
-            },
-            {
-                  "name": "Křemenská tůň",
-                  "text": "A Křemenská tůň egy tó Benatky Nad Jizerou városában, amely csendes helyszínt kínál a természetkedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        14.829104,
-                        50.287737
-                  ]
-            },
-            {
-                  "name": "U kurtů",
-                  "text": "Az U kurtů tó Benatky Nad Jizerou városában kellemes környezetet biztosít a közeli sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        14.73807,
-                        50.288903
-                  ]
-            },
-            {
-                  "name": "rybník Na koutě",
-                  "text": "Ez a Benátky nad Jizerou területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.827192,
-                        50.288287
-                  ]
-            },
-            {
-                  "name": "Na křemeni",
-                  "text": "Ez a Benátky nad Jizerou területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.735333,
-                        50.289277
-                  ]
-            },
-            {
-                  "name": "Měsíc",
-                  "text": "Ez a Benátky nad Jizerou területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.848394,
-                        50.313937
-                  ]
-            },
-            {
-                  "name": "Na hrádku",
-                  "text": "Ez a Benátky nad Jizerou területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.730627,
-                        50.293027
-                  ]
-            },
-            {
-                  "name": "Palouk",
-                  "text": "Ez a Benátky nad Jizerou területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.78982,
-                        50.304703
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Slepeč",
-                  "text": "Slepeč este o rezervație naturală protejată situată în apropiere de Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.788381,
-                        50.284182
-                  ]
-            },
-            {
-                  "name": "Muzeum Hraček",
-                  "text": "Muzeul Jucăriilor este o instituție culturală situată în Benátky nad Jizerou.",
-                  "category": "museum",
-                  "coords": [
-                        14.822982,
-                        50.290783
-                  ]
-            },
-            {
-                  "name": "Obora Exmoorských pony a zubrů",
-                  "text": "Rezervația de ponei Exmoor și zimbri este o zonă naturală protejată din Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.882431,
-                        50.280172
-                  ]
-            },
-            {
-                  "name": "Dražice",
-                  "text": "Dražice este o ruină istorică a unui castel situată lângă Benátky nad Jizerou.",
-                  "category": "historical",
-                  "coords": [
-                        14.844524,
-                        50.306304
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "Biserica Sfânta Maria Magdalena este un lăcaș de cult situat în Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.824931,
-                        50.292829
-                  ]
-            },
-            {
-                  "name": "Nanebevzetí Panny Marie",
-                  "text": "Biserica Adormirea Maicii Domnului este un important lăcaș de cult din Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.829267,
-                        50.284834
-                  ]
-            },
-            {
-                  "name": "Křemenská tůň",
-                  "text": "Křemenská tůň din Benatky Nad Jizerou este un lac ce oferă un loc liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.829104,
-                        50.287737
-                  ]
-            },
-            {
-                  "name": "U kurtů",
-                  "text": "Lacul U kurtů din Benatky Nad Jizerou oferă un mediu plăcut pentru plimbări în apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        14.73807,
-                        50.288903
-                  ]
-            },
-            {
-                  "name": "rybník Na koutě",
-                  "text": "Acest lac din Benátky nad Jizerou oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.827192,
-                        50.288287
-                  ]
-            },
-            {
-                  "name": "Na křemeni",
-                  "text": "Acest lac din Benátky nad Jizerou oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.735333,
-                        50.289277
-                  ]
-            },
-            {
-                  "name": "Měsíc",
-                  "text": "Acest lac din Benátky nad Jizerou oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.848394,
-                        50.313937
-                  ]
-            },
-            {
-                  "name": "Na hrádku",
-                  "text": "Acest lac din Benátky nad Jizerou oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.730627,
-                        50.293027
-                  ]
-            },
-            {
-                  "name": "Palouk",
-                  "text": "Acest lac din Benátky nad Jizerou oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.78982,
-                        50.304703
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Slepeč",
-                  "text": "Slepeč is a designated nature reserve located near Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.788381,
-                        50.284182
-                  ]
-            },
-            {
-                  "name": "Muzeum Hraček",
-                  "text": "The Museum of Toys is a cultural institution located in Benátky nad Jizerou.",
-                  "category": "museum",
-                  "coords": [
-                        14.822982,
-                        50.290783
-                  ]
-            },
-            {
-                  "name": "Obora Exmoorských pony a zubrů",
-                  "text": "The Exmoor pony and bison enclosure is a nature reserve in Benátky nad Jizerou.",
-                  "category": "natural",
-                  "coords": [
-                        14.882431,
-                        50.280172
-                  ]
-            },
-            {
-                  "name": "Dražice",
-                  "text": "Dražice is a historical castle ruin located near Benátky nad Jizerou.",
-                  "category": "historical",
-                  "coords": [
-                        14.844524,
-                        50.306304
-                  ]
-            },
-            {
-                  "name": "svatá Maří Magdaléna",
-                  "text": "The Church of St. Mary Magdalene is a place of worship located in Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.824931,
-                        50.292829
-                  ]
-            },
-            {
-                  "name": "Nanebevzetí Panny Marie",
-                  "text": "The Church of the Assumption of the Virgin Mary is a notable place of worship in Benátky nad Jizerou.",
-                  "category": "religious",
-                  "coords": [
-                        14.829267,
-                        50.284834
-                  ]
-            },
-            {
-                  "name": "Křemenská tůň",
-                  "text": "The Křemenská tůň in Benatky Nad Jizerou is a lake offering a quiet spot for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        14.829104,
-                        50.287737
-                  ]
-            },
-            {
-                  "name": "U kurtů",
-                  "text": "The U kurtů lake in Benatky Nad Jizerou offers a pleasant environment for walks nearby.",
-                  "category": "natural",
-                  "coords": [
-                        14.73807,
-                        50.288903
-                  ]
-            },
-            {
-                  "name": "rybník Na koutě",
-                  "text": "This lake in Benátky nad Jizerou provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.827192,
-                        50.288287
-                  ]
-            },
-            {
-                  "name": "Na křemeni",
-                  "text": "This lake in Benátky nad Jizerou provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.735333,
-                        50.289277
-                  ]
-            },
-            {
-                  "name": "Měsíc",
-                  "text": "This lake in Benátky nad Jizerou provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.848394,
-                        50.313937
-                  ]
-            },
-            {
-                  "name": "Na hrádku",
-                  "text": "This lake in Benátky nad Jizerou provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.730627,
-                        50.293027
-                  ]
-            },
-            {
-                  "name": "Palouk",
-                  "text": "This lake in Benátky nad Jizerou provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.78982,
-                        50.304703
-                  ]
-            }
-      ]
-},
+    id: "czechrepublic-benatky-nad-jizerou-cities-v2", "sights": {"de": [{"name": "Slepeč", "text": "Slepeč ist ein ausgewiesenes Naturschutzgebiet bei Benátky nad Jizerou.", "category": "natural", "coords": [14.788381, 50.284182]}, {"name": "Muzeum Hraček", "text": "Das Spielzeugmuseum ist eine kulturelle Einrichtung in Benátky nad Jizerou.", "category": "museum", "coords": [14.822982, 50.290783]}, {"name": "Obora Exmoorských pony a zubrů", "text": "Das Naturgehege für Exmoor-Ponys und Wisente ist ein Naturschutzgebiet in Benátky nad Jizerou.", "category": "natural", "coords": [14.882431, 50.280172]}, {"name": "Dražice", "text": "Dražice ist eine historische Burgruine in der Nähe von Benátky nad Jizerou.", "category": "historical", "coords": [14.844524, 50.306304]}, {"name": "svatá Maří Magdaléna", "text": "Die Kirche St. Maria Magdalena ist ein Ort der Anbetung in Benátky nad Jizerou.", "category": "religious", "coords": [14.824931, 50.292829]}, {"name": "Nanebevzetí Panny Marie", "text": "Die Kirche Mariä Himmelfahrt ist ein bedeutendes religiöses Gebäude in Benátky nad Jizerou.", "category": "religious", "coords": [14.829267, 50.284834]}, {"name": "Křemenská tůň", "text": "Die Křemenská tůň in Benatky Nad Jizerou ist ein See, der einen ruhigen Ort für Naturliebhaber bietet.", "category": "natural", "coords": [14.829104, 50.287737]}, {"name": "U kurtů", "text": "Der See U kurtů in Benatky Nad Jizerou bietet eine angenehme Umgebung für Spaziergänge in der Nähe.", "category": "natural", "coords": [14.73807, 50.288903]}, {"name": "rybník Na koutě", "text": "Der See rybník Na koutě befindet sich im Naturraum von Benatky Nad Jizerou. Er ist ein ideales Ziel für einen entspannten Spaziergang und zur Beobachtung der tschechischen Natur.", "category": "natural", "coords": [14.827192, 50.288287]}, {"name": "Na křemeni", "text": "Na křemeni ist ein idyllisches Gewässer in Benatky Nad Jizerou. Besucher schätzen die ruhige Atmosphäre dieses Sees für eine kleine Auszeit im Freien.", "category": "natural", "coords": [14.735333, 50.289277]}, {"name": "Měsíc", "text": "Der Měsíc-See liegt malerisch bei Benatky Nad Jizerou in der Tschechischen Republik. Naturfreunde finden hier eine ruhige Umgebung, die zum Verweilen und Spazieren einlädt.", "category": "natural", "coords": [14.848394, 50.313937]}, {"name": "Na hrádku", "text": "Das Gewässer Na hrádku bereichert die Naturlandschaft rund um Benatky Nad Jizerou. Es bietet seinen Besuchern ein naturnahes Erlebnis abseits der städtischen Hektik.", "category": "natural", "coords": [14.730627, 50.293027]}, {"name": "Palouk", "text": "Bei Benatky Nad Jizerou lockt der See Palouk mit seiner entspannenden Umgebung. Ein Ausflug hierher verspricht Erholung in der Natur der Tschechischen Republik.", "category": "natural", "coords": [14.78982, 50.304703]}], "hu": [{"name": "Slepeč", "text": "A Slepeč egy természetvédelmi terület Benátky nad Jizerou közelében.", "category": "natural", "coords": [14.788381, 50.284182]}, {"name": "Muzeum Hraček", "text": "A Játékmúzeum egy érdekes kulturális intézmény Benátky nad Jizerou városában.", "category": "museum", "coords": [14.822982, 50.290783]}, {"name": "Obora Exmoorských pony a zubrů", "text": "Az Exmoor pónik és bölények vadasparkja egy természetvédelmi terület Benátky nad Jizerou-ban.", "category": "natural", "coords": [14.882431, 50.280172]}, {"name": "Dražice", "text": "A Dražice egy történelmi várrom Benátky nad Jizerou közelében.", "category": "historical", "coords": [14.844524, 50.306304]}, {"name": "svatá Maří Magdaléna", "text": "A Szent Mária Magdolna-templom egy vallási épület Benátky nad Jizerou városában.", "category": "religious", "coords": [14.824931, 50.292829]}, {"name": "Nanebevzetí Panny Marie", "text": "A Szűz Mária Mennybemenetele templom egy jelentős vallási épület Benátky nad Jizerouban.", "category": "religious", "coords": [14.829267, 50.284834]}, {"name": "Křemenská tůň", "text": "A Křemenská tůň egy tó Benatky Nad Jizerou városában, amely csendes helyszínt kínál a természetkedvelőknek.", "category": "natural", "coords": [14.829104, 50.287737]}, {"name": "U kurtů", "text": "Az U kurtů tó Benatky Nad Jizerou városában kellemes környezetet biztosít a közeli sétákhoz.", "category": "natural", "coords": [14.73807, 50.288903]}, {"name": "rybník Na koutě", "text": "A rybník Na koutě egy nyugodt tó Benatky Nad Jizerou városában. Békés természeti környezetet biztosít, így tökéletes egy pihentető csehországi sétához.", "category": "natural", "coords": [14.827192, 50.288287]}, {"name": "Na křemeni", "text": "A Na křemeni egy festői tó Benatky Nad Jizerou területén. A látogatók nagyra értékelik a csendes környezetet, amely ideális a békés sétákhoz és a helyi természet felfedezéséhez.", "category": "natural", "coords": [14.735333, 50.289277]}, {"name": "Měsíc", "text": "A Měsíc tó egy gyönyörű természeti képződmény Benatky Nad Jizerou közelében. Ideális hely azok számára, akik pihenésre és a természettel való kapcsolatra vágynak.", "category": "natural", "coords": [14.848394, 50.313937]}, {"name": "Na hrádku", "text": "A Na hrádku gazdagítja a Benatky Nad Jizerou körüli természeti tájat. Ez a tó nyugodt menedéket kínál látogatóinak a városi nyüzsgés elől.", "category": "natural", "coords": [14.730627, 50.293027]}, {"name": "Palouk", "text": "A Palouk tó pihentető környezetével hívogatja a látogatókat Benatky Nad Jizerou közelében. Egy itteni kirándulás felfrissülést ígér a cseh szabadban.", "category": "natural", "coords": [14.78982, 50.304703]}], "ro": [{"name": "Slepeč", "text": "Slepeč este o rezervație naturală protejată situată în apropiere de Benátky nad Jizerou.", "category": "natural", "coords": [14.788381, 50.284182]}, {"name": "Muzeum Hraček", "text": "Muzeul Jucăriilor este o instituție culturală situată în Benátky nad Jizerou.", "category": "museum", "coords": [14.822982, 50.290783]}, {"name": "Obora Exmoorských pony a zubrů", "text": "Rezervația de ponei Exmoor și zimbri este o zonă naturală protejată din Benátky nad Jizerou.", "category": "natural", "coords": [14.882431, 50.280172]}, {"name": "Dražice", "text": "Dražice este o ruină istorică a unui castel situată lângă Benátky nad Jizerou.", "category": "historical", "coords": [14.844524, 50.306304]}, {"name": "svatá Maří Magdaléna", "text": "Biserica Sfânta Maria Magdalena este un lăcaș de cult situat în Benátky nad Jizerou.", "category": "religious", "coords": [14.824931, 50.292829]}, {"name": "Nanebevzetí Panny Marie", "text": "Biserica Adormirea Maicii Domnului este un important lăcaș de cult din Benátky nad Jizerou.", "category": "religious", "coords": [14.829267, 50.284834]}, {"name": "Křemenská tůň", "text": "Křemenská tůň din Benatky Nad Jizerou este un lac ce oferă un loc liniștit pentru iubitorii de natură.", "category": "natural", "coords": [14.829104, 50.287737]}, {"name": "U kurtů", "text": "Lacul U kurtů din Benatky Nad Jizerou oferă un mediu plăcut pentru plimbări în apropiere.", "category": "natural", "coords": [14.73807, 50.288903]}, {"name": "rybník Na koutě", "text": "Lacul rybník Na koutě este un loc senin situat în Benatky Nad Jizerou. El oferă un mediu natural liniștit, fiind perfect pentru plimbări relaxante în Republica Cehă.", "category": "natural", "coords": [14.827192, 50.288287]}, {"name": "Na křemeni", "text": "Na křemeni este un lac pitoresc situat în Benatky Nad Jizerou. Vizitatorii apreciază împrejurimile tăcute, ideale pentru plimbări pașnice și experimentarea naturii locale.", "category": "natural", "coords": [14.735333, 50.289277]}, {"name": "Měsíc", "text": "Lacul Měsíc este o frumoasă caracteristică naturală din Benatky Nad Jizerou. Este un loc ideal pentru cei care caută relaxare și o conexiune cu natura.", "category": "natural", "coords": [14.848394, 50.313937]}, {"name": "Na hrádku", "text": "Na hrádku îmbogățește peisajul natural din jurul localității Benatky Nad Jizerou. Acest lac le oferă vizitatorilor o evadare calmă din agitația urbană.", "category": "natural", "coords": [14.730627, 50.293027]}, {"name": "Palouk", "text": "Lacul Palouk invită vizitatorii să se bucure de mediul său relaxant lângă Benatky Nad Jizerou. O excursie aici promite o experiență revitalizantă în aer liber.", "category": "natural", "coords": [14.78982, 50.304703]}], "en": [{"name": "Slepeč", "text": "Slepeč is a designated nature reserve located near Benátky nad Jizerou.", "category": "natural", "coords": [14.788381, 50.284182]}, {"name": "Muzeum Hraček", "text": "The Museum of Toys is a cultural institution located in Benátky nad Jizerou.", "category": "museum", "coords": [14.822982, 50.290783]}, {"name": "Obora Exmoorských pony a zubrů", "text": "The Exmoor pony and bison enclosure is a nature reserve in Benátky nad Jizerou.", "category": "natural", "coords": [14.882431, 50.280172]}, {"name": "Dražice", "text": "Dražice is a historical castle ruin located near Benátky nad Jizerou.", "category": "historical", "coords": [14.844524, 50.306304]}, {"name": "svatá Maří Magdaléna", "text": "The Church of St. Mary Magdalene is a place of worship located in Benátky nad Jizerou.", "category": "religious", "coords": [14.824931, 50.292829]}, {"name": "Nanebevzetí Panny Marie", "text": "The Church of the Assumption of the Virgin Mary is a notable place of worship in Benátky nad Jizerou.", "category": "religious", "coords": [14.829267, 50.284834]}, {"name": "Křemenská tůň", "text": "The Křemenská tůň in Benatky Nad Jizerou is a lake offering a quiet spot for nature lovers.", "category": "natural", "coords": [14.829104, 50.287737]}, {"name": "U kurtů", "text": "The U kurtů lake in Benatky Nad Jizerou offers a pleasant environment for walks nearby.", "category": "natural", "coords": [14.73807, 50.288903]}, {"name": "rybník Na koutě", "text": "The rybník Na koutě is a serene lake located in Benatky Nad Jizerou. It provides a tranquil natural environment, making it perfect for relaxing walks in the Czech Republic.", "category": "natural", "coords": [14.827192, 50.288287]}, {"name": "Na křemeni", "text": "Na křemeni is a picturesque lake setting situated in Benatky Nad Jizerou. Visitors appreciate the quiet surroundings for peaceful strolls and experiencing local nature.", "category": "natural", "coords": [14.735333, 50.289277]}, {"name": "Měsíc", "text": "The lake Měsíc is a beautiful natural feature in Benatky Nad Jizerou. It is an ideal spot for those seeking relaxation and a connection with nature.", "category": "natural", "coords": [14.848394, 50.313937]}, {"name": "Na hrádku", "text": "Na hrádku enriches the natural landscape surrounding Benatky Nad Jizerou. This lake offers its visitors a calm escape away from the urban hustle and bustle.", "category": "natural", "coords": [14.730627, 50.293027]}, {"name": "Palouk", "text": "The Palouk lake invites visitors to enjoy its relaxing environment near Benatky Nad Jizerou. A trip here promises a revitalizing experience in the Czech outdoors.", "category": "natural", "coords": [14.78982, 50.304703]}]},
     type: "city",
     parent: "CZ",
     name: { de: "Benátky nad Jizerou", hu: "Benátky nad Jizerou", ro: "Benátky nad Jizerou", en: "Benátky nad Jizerou" },
@@ -65752,6 +63619,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.52416,
                         50.942105
                   ]
+            },
+            {
+                  "name": "Jacobimarkt",
+                  "text": "Ein Themenpark in Rumburk, der traditionelle Jahrmarktsstimmung und Unterhaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.598322,
+                        50.971156
+                  ]
             }
       ],
       "hu": [
@@ -65915,6 +63791,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
+                  ]
+            },
+            {
+                  "name": "Jacobimarkt",
+                  "text": "Tematikus park Rumburkban, amely hagyományos vásári hangulatot és szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        14.598322,
+                        50.971156
                   ]
             }
       ],
@@ -66080,6 +63965,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.52416,
                         50.942105
                   ]
+            },
+            {
+                  "name": "Jacobimarkt",
+                  "text": "Un parc tematic în Rumburk care oferă o atmosferă tradițională de iarmaroc și divertisment.",
+                  "category": "family",
+                  "coords": [
+                        14.598322,
+                        50.971156
+                  ]
             }
       ],
       "en": [
@@ -66243,6 +64137,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
+                  ]
+            },
+            {
+                  "name": "Jacobimarkt",
+                  "text": "A theme park in Rumburk offering traditional fairground atmosphere and entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.598322,
+                        50.971156
                   ]
             }
       ]
@@ -66813,1240 +64716,7 @@ export const czechrepublicCitiesV2: POI[] = [
     image: "/poi-images/czechrepublic-kralupy-nad-vltavou-cities-v2.webp",
   },
   {
-    id: "czechrepublic-velke-mezirici-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Muzeum dálnic",
-                  "text": "Das Autobahnmuseum, Teil des Stadtmuseums, befindet sich in Velké Meziříčí.",
-                  "category": "museum",
-                  "coords": [
-                        16.012397,
-                        49.357794
-                  ]
-            },
-            {
-                  "name": "Rozhledna Fajtův kopec",
-                  "text": "Der Aussichtsturm auf dem Fajtův kopec bietet weite Blicke über Velké Meziříčí.",
-                  "category": "tower",
-                  "coords": [
-                        16.026183,
-                        49.360086
-                  ]
-            },
-            {
-                  "name": "svatý Mikuláš",
-                  "text": "Die St.-Nikolaus-Kirche ist ein bedeutendes religiöses Gebäude im Zentrum von Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.013928,
-                        49.354028
-                  ]
-            },
-            {
-                  "name": "Nejsvětější Trojice",
-                  "text": "Die Dreifaltigkeitskirche ist ein Ort der Anbetung in der Stadt Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017227,
-                        49.354152
-                  ]
-            },
-            {
-                  "name": "Stará synagoga",
-                  "text": "Die Alte Synagoge ist ein historisches jüdisches Gebetshaus in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.015546,
-                        49.354793
-                  ]
-            },
-            {
-                  "name": "Svatý Marek",
-                  "text": "Die Kirche St. Markus ist ein religiöses Gebäude in der Gemeinde nahe Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017515,
-                        49.378637
-                  ]
-            },
-            {
-                  "name": "Sv. Anna",
-                  "text": "Die St.-Anna-Kirche ist ein Ort der Anbetung in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        15.995715,
-                        49.365134
-                  ]
-            },
-            {
-                  "name": "kostel svatého Kříže",
-                  "text": "Die Heilig-Kreuz-Kirche ist ein bedeutendes religiöses Gebäude in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.01489,
-                        49.35279
-                  ]
-            },
-            {
-                  "name": "most Vysočina",
-                  "text": "Die Vysočina-Brücke ist eine bedeutende Autobahnbrücke in Velké Meziříčí.",
-                  "category": "landmark",
-                  "coords": [
-                        16.014192,
-                        49.360683
-                  ]
-            },
-            {
-                  "name": "Nivka",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.97198,
-                        49.37731
-                  ]
-            },
-            {
-                  "name": "Horka",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.967577,
-                        49.311774
-                  ]
-            },
-            {
-                  "name": "Malý Demák",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.984342,
-                        49.326641
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.963904,
-                        49.317074
-                  ]
-            },
-            {
-                  "name": "Nová Podniva",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.073967,
-                        49.313125
-                  ]
-            },
-            {
-                  "name": "Stará Podniva",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.077384,
-                        49.308127
-                  ]
-            },
-            {
-                  "name": "Jordánek",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.007971,
-                        49.359485
-                  ]
-            },
-            {
-                  "name": "Velký rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.941865,
-                        49.332462
-                  ]
-            },
-            {
-                  "name": "Malý rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.943217,
-                        49.330867
-                  ]
-            },
-            {
-                  "name": "Olšina",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.91824,
-                        49.333348
-                  ]
-            },
-            {
-                  "name": "Vostálův rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.927784,
-                        49.318577
-                  ]
-            },
-            {
-                  "name": "Posmíšek",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.957976,
-                        49.329015
-                  ]
-            },
-            {
-                  "name": "Trubák",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.926904,
-                        49.376748
-                  ]
-            },
-            {
-                  "name": "Krajiny",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.069425,
-                        49.346244
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.055463,
-                        49.39705
-                  ]
-            },
-            {
-                  "name": "Malý Pastýřík",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.101542,
-                        49.355356
-                  ]
-            },
-            {
-                  "name": "Pávek",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.106934,
-                        49.353688
-                  ]
-            },
-            {
-                  "name": "Křípalík",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.098019,
-                        49.362409
-                  ]
-            },
-            {
-                  "name": "Nadýmák",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.118733,
-                        49.362028
-                  ]
-            },
-            {
-                  "name": "Velký Pastýřík",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.100613,
-                        49.355519
-                  ]
-            },
-            {
-                  "name": "Pradlán",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.09151,
-                        49.362162
-                  ]
-            },
-            {
-                  "name": "Kochánovský rybník",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.946447,
-                        49.385451
-                  ]
-            },
-            {
-                  "name": "Tajemné jezírko",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.98763,
-                        49.349731
-                  ]
-            },
-            {
-                  "name": "Pařilák",
-                  "text": "Dieser See in Velké Meziříčí bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.969472,
-                        49.377599
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Mostiště",
-                  "text": "Dieses Wasserreservoir in Velké Meziříčí bietet eine malerische Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        16.002717,
-                        49.406754
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Muzeum dálnic",
-                  "text": "Az autópálya-múzeum, amely a városi múzeum része, Velké Meziříčí városában található.",
-                  "category": "museum",
-                  "coords": [
-                        16.012397,
-                        49.357794
-                  ]
-            },
-            {
-                  "name": "Rozhledna Fajtův kopec",
-                  "text": "A Fajtův kopecen található kilátótorony panorámás kilátást nyújt Velké Meziříčí városára.",
-                  "category": "tower",
-                  "coords": [
-                        16.026183,
-                        49.360086
-                  ]
-            },
-            {
-                  "name": "svatý Mikuláš",
-                  "text": "A Szent Miklós-templom egy jelentős vallási épület Velké Meziříčí központjában.",
-                  "category": "religious",
-                  "coords": [
-                        16.013928,
-                        49.354028
-                  ]
-            },
-            {
-                  "name": "Nejsvětější Trojice",
-                  "text": "A Szentháromság-templom egy vallási építmény Velké Meziříčí városában.",
-                  "category": "religious",
-                  "coords": [
-                        16.017227,
-                        49.354152
-                  ]
-            },
-            {
-                  "name": "Stará synagoga",
-                  "text": "A Régi Zsinagóga egy történelmi zsidó imaház Velké Meziříčí városában.",
-                  "category": "religious",
-                  "coords": [
-                        16.015546,
-                        49.354793
-                  ]
-            },
-            {
-                  "name": "Svatý Marek",
-                  "text": "A Szent Márk-templom egy vallási épület Velké Meziříčí közelében.",
-                  "category": "religious",
-                  "coords": [
-                        16.017515,
-                        49.378637
-                  ]
-            },
-            {
-                  "name": "Sv. Anna",
-                  "text": "A Szent Anna-templom egy vallási épület Velké Meziříčí városában.",
-                  "category": "religious",
-                  "coords": [
-                        15.995715,
-                        49.365134
-                  ]
-            },
-            {
-                  "name": "kostel svatého Kříže",
-                  "text": "A Szent Kereszt-templom egy fontos vallási épület Velké Meziříčí városában.",
-                  "category": "religious",
-                  "coords": [
-                        16.01489,
-                        49.35279
-                  ]
-            },
-            {
-                  "name": "most Vysočina",
-                  "text": "A Vysočina híd egy jelentős autópályahíd Velké Meziříčí területén.",
-                  "category": "landmark",
-                  "coords": [
-                        16.014192,
-                        49.360683
-                  ]
-            },
-            {
-                  "name": "Nivka",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.97198,
-                        49.37731
-                  ]
-            },
-            {
-                  "name": "Horka",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.967577,
-                        49.311774
-                  ]
-            },
-            {
-                  "name": "Malý Demák",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.984342,
-                        49.326641
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.963904,
-                        49.317074
-                  ]
-            },
-            {
-                  "name": "Nová Podniva",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.073967,
-                        49.313125
-                  ]
-            },
-            {
-                  "name": "Stará Podniva",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.077384,
-                        49.308127
-                  ]
-            },
-            {
-                  "name": "Jordánek",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.007971,
-                        49.359485
-                  ]
-            },
-            {
-                  "name": "Velký rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.941865,
-                        49.332462
-                  ]
-            },
-            {
-                  "name": "Malý rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.943217,
-                        49.330867
-                  ]
-            },
-            {
-                  "name": "Olšina",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.91824,
-                        49.333348
-                  ]
-            },
-            {
-                  "name": "Vostálův rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.927784,
-                        49.318577
-                  ]
-            },
-            {
-                  "name": "Posmíšek",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.957976,
-                        49.329015
-                  ]
-            },
-            {
-                  "name": "Trubák",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.926904,
-                        49.376748
-                  ]
-            },
-            {
-                  "name": "Krajiny",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.069425,
-                        49.346244
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.055463,
-                        49.39705
-                  ]
-            },
-            {
-                  "name": "Malý Pastýřík",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.101542,
-                        49.355356
-                  ]
-            },
-            {
-                  "name": "Pávek",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.106934,
-                        49.353688
-                  ]
-            },
-            {
-                  "name": "Křípalík",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.098019,
-                        49.362409
-                  ]
-            },
-            {
-                  "name": "Nadýmák",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.118733,
-                        49.362028
-                  ]
-            },
-            {
-                  "name": "Velký Pastýřík",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.100613,
-                        49.355519
-                  ]
-            },
-            {
-                  "name": "Pradlán",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.09151,
-                        49.362162
-                  ]
-            },
-            {
-                  "name": "Kochánovský rybník",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.946447,
-                        49.385451
-                  ]
-            },
-            {
-                  "name": "Tajemné jezírko",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.98763,
-                        49.349731
-                  ]
-            },
-            {
-                  "name": "Pařilák",
-                  "text": "Ez a Velké Meziříčí területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        15.969472,
-                        49.377599
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Mostiště",
-                  "text": "Ez a Velké Meziříčí területén található víztározó festői környezetet kínál a sétákhoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.002717,
-                        49.406754
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzeum dálnic",
-                  "text": "Muzeul autostrăzilor este o secțiune a muzeului municipal din Velké Meziříčí.",
-                  "category": "museum",
-                  "coords": [
-                        16.012397,
-                        49.357794
-                  ]
-            },
-            {
-                  "name": "Rozhledna Fajtův kopec",
-                  "text": "Turnul de observație de pe Fajtův kopec oferă vederi panoramice asupra orașului Velké Meziříčí.",
-                  "category": "tower",
-                  "coords": [
-                        16.026183,
-                        49.360086
-                  ]
-            },
-            {
-                  "name": "svatý Mikuláš",
-                  "text": "Biserica Sfântul Nicolae este un important lăcaș de cult în centrul orașului Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.013928,
-                        49.354028
-                  ]
-            },
-            {
-                  "name": "Nejsvětější Trojice",
-                  "text": "Biserica Sfânta Treime este un lăcaș de cult situat în orașul Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017227,
-                        49.354152
-                  ]
-            },
-            {
-                  "name": "Stará synagoga",
-                  "text": "Vechea Sinagogă este un lăcaș de cult evreiesc istoric din Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.015546,
-                        49.354793
-                  ]
-            },
-            {
-                  "name": "Svatý Marek",
-                  "text": "Biserica Sfântul Marcu este un lăcaș de cult situat în apropiere de Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017515,
-                        49.378637
-                  ]
-            },
-            {
-                  "name": "Sv. Anna",
-                  "text": "Biserica Sfânta Ana este un lăcaș de cult situat în orașul Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        15.995715,
-                        49.365134
-                  ]
-            },
-            {
-                  "name": "kostel svatého Kříže",
-                  "text": "Biserica Sfintei Cruci este un important lăcaș de cult din Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.01489,
-                        49.35279
-                  ]
-            },
-            {
-                  "name": "most Vysočina",
-                  "text": "Podul Vysočina este un important pod de autostradă situat în Velké Meziříčí.",
-                  "category": "landmark",
-                  "coords": [
-                        16.014192,
-                        49.360683
-                  ]
-            },
-            {
-                  "name": "Nivka",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.97198,
-                        49.37731
-                  ]
-            },
-            {
-                  "name": "Horka",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.967577,
-                        49.311774
-                  ]
-            },
-            {
-                  "name": "Malý Demák",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.984342,
-                        49.326641
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.963904,
-                        49.317074
-                  ]
-            },
-            {
-                  "name": "Nová Podniva",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.073967,
-                        49.313125
-                  ]
-            },
-            {
-                  "name": "Stará Podniva",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.077384,
-                        49.308127
-                  ]
-            },
-            {
-                  "name": "Jordánek",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.007971,
-                        49.359485
-                  ]
-            },
-            {
-                  "name": "Velký rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.941865,
-                        49.332462
-                  ]
-            },
-            {
-                  "name": "Malý rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.943217,
-                        49.330867
-                  ]
-            },
-            {
-                  "name": "Olšina",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.91824,
-                        49.333348
-                  ]
-            },
-            {
-                  "name": "Vostálův rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.927784,
-                        49.318577
-                  ]
-            },
-            {
-                  "name": "Posmíšek",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.957976,
-                        49.329015
-                  ]
-            },
-            {
-                  "name": "Trubák",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.926904,
-                        49.376748
-                  ]
-            },
-            {
-                  "name": "Krajiny",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.069425,
-                        49.346244
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.055463,
-                        49.39705
-                  ]
-            },
-            {
-                  "name": "Malý Pastýřík",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.101542,
-                        49.355356
-                  ]
-            },
-            {
-                  "name": "Pávek",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.106934,
-                        49.353688
-                  ]
-            },
-            {
-                  "name": "Křípalík",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.098019,
-                        49.362409
-                  ]
-            },
-            {
-                  "name": "Nadýmák",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.118733,
-                        49.362028
-                  ]
-            },
-            {
-                  "name": "Velký Pastýřík",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.100613,
-                        49.355519
-                  ]
-            },
-            {
-                  "name": "Pradlán",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.09151,
-                        49.362162
-                  ]
-            },
-            {
-                  "name": "Kochánovský rybník",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.946447,
-                        49.385451
-                  ]
-            },
-            {
-                  "name": "Tajemné jezírko",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.98763,
-                        49.349731
-                  ]
-            },
-            {
-                  "name": "Pařilák",
-                  "text": "Acest lac din Velké Meziříčí oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.969472,
-                        49.377599
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Mostiště",
-                  "text": "Acest lac de acumulare din Velké Meziříčí oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.002717,
-                        49.406754
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Muzeum dálnic",
-                  "text": "The Highway Museum is an exhibition part of the local museum in Velké Meziříčí.",
-                  "category": "museum",
-                  "coords": [
-                        16.012397,
-                        49.357794
-                  ]
-            },
-            {
-                  "name": "Rozhledna Fajtův kopec",
-                  "text": "The observation tower on Fajtův kopec offers panoramic views over Velké Meziříčí.",
-                  "category": "tower",
-                  "coords": [
-                        16.026183,
-                        49.360086
-                  ]
-            },
-            {
-                  "name": "svatý Mikuláš",
-                  "text": "St. Nicholas Church is a prominent place of worship located in the center of Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.013928,
-                        49.354028
-                  ]
-            },
-            {
-                  "name": "Nejsvětější Trojice",
-                  "text": "The Holy Trinity Church is a place of worship located in the town of Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017227,
-                        49.354152
-                  ]
-            },
-            {
-                  "name": "Stará synagoga",
-                  "text": "The Old Synagogue is a historical Jewish place of worship in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.015546,
-                        49.354793
-                  ]
-            },
-            {
-                  "name": "Svatý Marek",
-                  "text": "The Church of St. Mark is a place of worship located near Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.017515,
-                        49.378637
-                  ]
-            },
-            {
-                  "name": "Sv. Anna",
-                  "text": "St. Anne's Church is a place of worship located in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        15.995715,
-                        49.365134
-                  ]
-            },
-            {
-                  "name": "kostel svatého Kříže",
-                  "text": "The Church of the Holy Cross is a notable place of worship in Velké Meziříčí.",
-                  "category": "religious",
-                  "coords": [
-                        16.01489,
-                        49.35279
-                  ]
-            },
-            {
-                  "name": "most Vysočina",
-                  "text": "The Vysočina Bridge is a major highway bridge located in Velké Meziříčí.",
-                  "category": "landmark",
-                  "coords": [
-                        16.014192,
-                        49.360683
-                  ]
-            },
-            {
-                  "name": "Nivka",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.97198,
-                        49.37731
-                  ]
-            },
-            {
-                  "name": "Horka",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.967577,
-                        49.311774
-                  ]
-            },
-            {
-                  "name": "Malý Demák",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.984342,
-                        49.326641
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.963904,
-                        49.317074
-                  ]
-            },
-            {
-                  "name": "Nová Podniva",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.073967,
-                        49.313125
-                  ]
-            },
-            {
-                  "name": "Stará Podniva",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.077384,
-                        49.308127
-                  ]
-            },
-            {
-                  "name": "Jordánek",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.007971,
-                        49.359485
-                  ]
-            },
-            {
-                  "name": "Velký rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.941865,
-                        49.332462
-                  ]
-            },
-            {
-                  "name": "Malý rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.943217,
-                        49.330867
-                  ]
-            },
-            {
-                  "name": "Olšina",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.91824,
-                        49.333348
-                  ]
-            },
-            {
-                  "name": "Vostálův rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.927784,
-                        49.318577
-                  ]
-            },
-            {
-                  "name": "Posmíšek",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.957976,
-                        49.329015
-                  ]
-            },
-            {
-                  "name": "Trubák",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.926904,
-                        49.376748
-                  ]
-            },
-            {
-                  "name": "Krajiny",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.069425,
-                        49.346244
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.055463,
-                        49.39705
-                  ]
-            },
-            {
-                  "name": "Malý Pastýřík",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.101542,
-                        49.355356
-                  ]
-            },
-            {
-                  "name": "Pávek",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.106934,
-                        49.353688
-                  ]
-            },
-            {
-                  "name": "Křípalík",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.098019,
-                        49.362409
-                  ]
-            },
-            {
-                  "name": "Nadýmák",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.118733,
-                        49.362028
-                  ]
-            },
-            {
-                  "name": "Velký Pastýřík",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.100613,
-                        49.355519
-                  ]
-            },
-            {
-                  "name": "Pradlán",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.09151,
-                        49.362162
-                  ]
-            },
-            {
-                  "name": "Kochánovský rybník",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.946447,
-                        49.385451
-                  ]
-            },
-            {
-                  "name": "Tajemné jezírko",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.98763,
-                        49.349731
-                  ]
-            },
-            {
-                  "name": "Pařilák",
-                  "text": "This lake in Velké Meziříčí provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.969472,
-                        49.377599
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Mostiště",
-                  "text": "This water reservoir in Velké Meziříčí offers a scenic environment for walks and enjoying the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        16.002717,
-                        49.406754
-                  ]
-            }
-      ]
-},
+    id: "czechrepublic-velke-mezirici-cities-v2", "sights": {"de": [{"name": "Muzeum dálnic", "text": "Das Autobahnmuseum, Teil des Stadtmuseums, befindet sich in Velké Meziříčí.", "category": "museum", "coords": [16.012397, 49.357794]}, {"name": "Rozhledna Fajtův kopec", "text": "Der Aussichtsturm auf dem Fajtův kopec bietet weite Blicke über Velké Meziříčí.", "category": "tower", "coords": [16.026183, 49.360086]}, {"name": "svatý Mikuláš", "text": "Die St.-Nikolaus-Kirche ist ein bedeutendes religiöses Gebäude im Zentrum von Velké Meziříčí.", "category": "religious", "coords": [16.013928, 49.354028]}, {"name": "Nejsvětější Trojice", "text": "Die Dreifaltigkeitskirche ist ein Ort der Anbetung in der Stadt Velké Meziříčí.", "category": "religious", "coords": [16.017227, 49.354152]}, {"name": "Stará synagoga", "text": "Die Alte Synagoge ist ein historisches jüdisches Gebetshaus in Velké Meziříčí.", "category": "religious", "coords": [16.015546, 49.354793]}, {"name": "Svatý Marek", "text": "Die Kirche St. Markus ist ein religiöses Gebäude in der Gemeinde nahe Velké Meziříčí.", "category": "religious", "coords": [16.017515, 49.378637]}, {"name": "Sv. Anna", "text": "Die St.-Anna-Kirche ist ein Ort der Anbetung in Velké Meziříčí.", "category": "religious", "coords": [15.995715, 49.365134]}, {"name": "kostel svatého Kříže", "text": "Die Heilig-Kreuz-Kirche ist ein bedeutendes religiöses Gebäude in Velké Meziříčí.", "category": "religious", "coords": [16.01489, 49.35279]}, {"name": "most Vysočina", "text": "Die Vysočina-Brücke ist eine bedeutende Autobahnbrücke in Velké Meziříčí.", "category": "landmark", "coords": [16.014192, 49.360683]}, {"name": "Nivka", "text": "Der See Nivka ist eine natürliche Oase in Velke Mezirici. Wer Ruhe sucht, findet an seinen Ufern einen passenden Ort für Naturbeobachtungen und Spaziergänge.", "category": "natural", "coords": [15.97198, 49.37731]}, {"name": "Horka", "text": "Die Wasserfläche Horka prägt die Naturlandschaft von Velke Mezirici. Dieser See in der Tschechischen Republik ist ein geschätztes Ziel für Naherholungssuchende.", "category": "natural", "coords": [15.967577, 49.311774]}, {"name": "Malý Demák", "text": "Mit dem Malý Demák besitzt Velke Mezirici einen weiteren attraktiven See. Seine Uferzonen laden zu entspannten Stunden im Freien ein.", "category": "natural", "coords": [15.984342, 49.326641]}, {"name": "Dolní rybník", "text": "Der Dolní rybník ist ein ruhiges Gewässer im Gebiet von Velke Mezirici. Er bietet Erholungssuchenden eine angenehme Kulisse für Naturerlebnisse.", "category": "natural", "coords": [15.963904, 49.317074]}, {"name": "Nová Podniva", "text": "Der Naturraum Nová Podniva umfasst einen See bei Velke Mezirici. Ein Spaziergang hier eröffnet schöne Ausblicke auf die tschechische Flora und Fauna.", "category": "natural", "coords": [16.073967, 49.313125]}, {"name": "Stará Podniva", "text": "Stará Podniva ist ein idyllischer See im Umfeld von Velke Mezirici. Die ruhige Atmosphäre am Wasser zieht Naturfreunde und Spaziergänger gleichermaßen an.", "category": "natural", "coords": [16.077384, 49.308127]}, {"name": "Jordánek", "text": "Eingebettet in die tschechische Landschaft bei Velké Meziříčí, bietet Jordánek ein friedliches Naturerlebnis am Wasser. Das Gewässer zieht Erholungssuchende an, die bei einem Spaziergang die Seele baumeln lassen möchten.", "category": "natural", "coords": [16.007971, 49.359485]}, {"name": "Velký rybník", "text": "Der Velký rybník, dessen Name auf eine beachtliche Wasserfläche hindeutet, ist ein markantes Naturidyll in Velké Meziříčí. Besucher finden an seinen Ufern eine entspannte Atmosphäre, die zu ausgiebigen Naturerkundungen einlädt.", "category": "natural", "coords": [15.941865, 49.332462]}, {"name": "Malý rybník", "text": "Für Naturfreunde in Velké Meziříčí stellt der Malý rybník einen schönen Rückzugsort dar. Dieses Gewässer fügt sich malerisch in die Landschaft ein und belohnt Spaziergänger mit ruhigen Momenten am Wasser.", "category": "natural", "coords": [15.943217, 49.330867]}, {"name": "Olšina", "text": "Olšina liegt als naturbelassenes Gewässer eingebettet in die Region um Velké Meziříčí. Wer dem städtischen Trubel entfliehen möchte, kann hier auf den Wegen am Ufer tief durchatmen.", "category": "natural", "coords": [15.91824, 49.333348]}, {"name": "Vostálův rybník", "text": "Ein beliebtes Ziel für entspannte Ausflüge ins Grüne ist der Vostálův rybník bei Velké Meziříčí. Das Gewässer und seine Umgebung bilden eine harmonische Kulisse für erholsame Nachmittage in der Natur.", "category": "natural", "coords": [15.927784, 49.318577]}, {"name": "Posmíšek", "text": "Der See Posmíšek bereichert die tschechische Gemeinde Velké Meziříčí um ein weiteres Stück Natur. Wanderer und Spaziergänger schätzen das klare Ambiente dieses charmanten Ortes zur Erholung.", "category": "natural", "coords": [15.957976, 49.329015]}, {"name": "Trubák", "text": "Versteckt in der Natur von Velké Meziříčí lockt der See Trubák mit seiner stillen Wasseroberfläche. Es ist ein idyllischer Aufenthaltsort, um die lokale Flora und Fauna in Tschechien ungestört zu beobachten.", "category": "natural", "coords": [15.926904, 49.376748]}, {"name": "Krajiny", "text": "Das Naturgebiet um den See Krajiny bietet in Velké Meziříčí eine Oase der Ruhe. Besucher können hier auf sanften Pfaden flanieren und die weitläufigen Ausblicke über das Wasser genießen.", "category": "natural", "coords": [16.069425, 49.346244]}, {"name": "Nový rybník", "text": "Als neueres Gewässer der Region ist der Nový rybník eine reizvolle Anlaufstelle in der Landschaft von Velké Meziříčí. Die Uferzonen laden dazu ein, abseits des Alltags bei einem gemütlichen Spaziergang neue Energie zu tanken.", "category": "natural", "coords": [16.055463, 49.39705]}, {"name": "Malý Pastýřík", "text": "Der charmante See Malý Pastýřík ergänzt das blaue Netz an Gewässern rund um Velké Meziříčí. Er ist besonders bei denjenigen beliebt, die einen kurzen Naturspaziergang in einer friedfertigen Kulisse suchen.", "category": "natural", "coords": [16.101542, 49.355356]}, {"name": "Pávek", "text": "Umgeben von viel Grün, ist der See Pávek in Velké Meziříčí ein fantastischer Ort für Naturerkundungen. Das sanfte Plätschern des Wassers untermalt jeden Besuch und sorgt für pure Entspannung.", "category": "natural", "coords": [16.106934, 49.353688]}, {"name": "Křípalík", "text": "Naturfreunde schätzen den Křípalík in Velké Meziříčí für seine abgelegene und authentische Atmosphäre. Dieser kleine See bietet die perfekte Gelegenheit, die tschechische Landschaft bei einem Rundgang zu genießen.", "category": "natural", "coords": [16.098019, 49.362409]}, {"name": "Nadýmák", "text": "Das Ufer des Sees Nadýmák in Velké Meziříčí hält eine einladende Kulisse für Spaziergänger bereit. Hier kann man dem Gesang der Vögel lauschen und den Blick über die ruhige Wasserfläche schweifen lassen.", "category": "natural", "coords": [16.118733, 49.362028]}, {"name": "Velký Pastýřík", "text": "Als majestätischeres Gegenstück bietet der Velký Pastýřík weitläufige Uferbereiche in Velké Meziříčí. Die großzügige Anlage des Sees macht ihn zu einem hervorragenden Ort für lange, ausgedehnte Spaziergänge in der Natur.", "category": "natural", "coords": [16.100613, 49.355519]}, {"name": "Pradlán", "text": "Der idyllische See Pradlán fasziniert Besucher von Velké Meziříčí durch seine unberührte Ausstrahlung. Wer einen Ort sucht, an dem das Wasser sanft ans Ufer schlägt und die Bäume Schatten spenden, ist hier richtig.", "category": "natural", "coords": [16.09151, 49.362162]}, {"name": "Kochánovský rybník", "text": "Südlichere oder angrenzende Flure von Velké Meziříčí beheimaten den Kochánovský rybník, ein wunderschönes natürliches Refugium. Es zieht Spaziergänger an, die sich an der feuchten Fauna und Flora der tschechischen Region erfreuen wollen.", "category": "natural", "coords": [15.946447, 49.385451]}, {"name": "Tajemné jezírko", "text": "Wie sein geheimnisvoller Name schon andeutet, birgt das Tajemné jezírko in Velké Meziříčí einen mystischen Charme. Die dichte Vegetation am Ufer sorgt für ein privates Naturerlebnis abseits der breiten Wege.", "category": "natural", "coords": [15.98763, 49.349731]}, {"name": "Pařilák", "text": "Eine weitere Perle in der Seenlandschaft von Velké Meziříčí ist der Pařilák. Seine unaufgeregte Umgebung bietet die richtige Kulisse, um an frischer Luft zu wandern und die Gedanken fließen zu lassen.", "category": "natural", "coords": [15.969472, 49.377599]}, {"name": "vodní nádrž Mostiště", "text": "Dieses Wasserreservoir in Velké Meziříčí bietet eine malerische Umgebung für Spaziergänge und Naturerlebnisse.", "category": "natural", "coords": [16.002717, 49.406754]}], "hu": [{"name": "Muzeum dálnic", "text": "Az autópálya-múzeum, amely a városi múzeum része, Velké Meziříčí városában található.", "category": "museum", "coords": [16.012397, 49.357794]}, {"name": "Rozhledna Fajtův kopec", "text": "A Fajtův kopecen található kilátótorony panorámás kilátást nyújt Velké Meziříčí városára.", "category": "tower", "coords": [16.026183, 49.360086]}, {"name": "svatý Mikuláš", "text": "A Szent Miklós-templom egy jelentős vallási épület Velké Meziříčí központjában.", "category": "religious", "coords": [16.013928, 49.354028]}, {"name": "Nejsvětější Trojice", "text": "A Szentháromság-templom egy vallási építmény Velké Meziříčí városában.", "category": "religious", "coords": [16.017227, 49.354152]}, {"name": "Stará synagoga", "text": "A Régi Zsinagóga egy történelmi zsidó imaház Velké Meziříčí városában.", "category": "religious", "coords": [16.015546, 49.354793]}, {"name": "Svatý Marek", "text": "A Szent Márk-templom egy vallási épület Velké Meziříčí közelében.", "category": "religious", "coords": [16.017515, 49.378637]}, {"name": "Sv. Anna", "text": "A Szent Anna-templom egy vallási épület Velké Meziříčí városában.", "category": "religious", "coords": [15.995715, 49.365134]}, {"name": "kostel svatého Kříže", "text": "A Szent Kereszt-templom egy fontos vallási épület Velké Meziříčí városában.", "category": "religious", "coords": [16.01489, 49.35279]}, {"name": "most Vysočina", "text": "A Vysočina híd egy jelentős autópályahíd Velké Meziříčí területén.", "category": "landmark", "coords": [16.014192, 49.360683]}, {"name": "Nivka", "text": "A Nivka tó egy természetes oázis Velke Mezirici területén. Aki nyugalomra vágyik, az biztosan megtalálja a békés partjain.", "category": "natural", "coords": [15.97198, 49.37731]}, {"name": "Horka", "text": "A Horka tó alakítja Velke Mezirici természeti környezetét. Ez a vízfelület a Cseh Köztársaságban a helyi rekreáció kedvelt célpontja.", "category": "natural", "coords": [15.967577, 49.311774]}, {"name": "Malý Demák", "text": "A Malý Demák egy másik vonzó tó Velke Mezirici közelében. Partjai arra hívják a látogatókat, hogy pihentető órákat töltsenek a szabadban a tájat élvezve.", "category": "natural", "coords": [15.984342, 49.326641]}, {"name": "Dolní rybník", "text": "A Dolní rybník egy nyugodt vízfelület Velke Meziriciben. Kellemes hátteret kínál a természeti élményekhez és a kényelmes sétákhoz.", "category": "natural", "coords": [15.963904, 49.317074]}, {"name": "Nová Podniva", "text": "A Nová Podniva természeti területén egy gyönyörű tó található Velke Mezirici közelében. Egy itteni séta csodás kilátást nyit a cseh növény- és állatvilágra.", "category": "natural", "coords": [16.073967, 49.313125]}, {"name": "Stará Podniva", "text": "A Stará Podniva egy idilli tó Velke Mezirici szomszédságában. A vízparti csendes hangulat egyaránt vonzza a természetbarátokat és a sétálókat.", "category": "natural", "coords": [16.077384, 49.308127]}, {"name": "Jordánek", "text": "A Velké Meziříčí közelében fekvő Jordánek egy békés természetes tó a cseh vidéken. Ez a vízfelület kiváló lehetőséget nyújt a csendes sétákra és a természet megfigyelésére a pihenni vágyók számára.", "category": "natural", "coords": [16.007971, 49.359485]}, {"name": "Velký rybník", "text": "A Velký rybník, amely jelentős vízfelülettel büszkélkedhet, egy hangulatos természeti célpont Velké Meziříčí területén. Látogatói békés környezetben sétálhatnak a partján, élvezve a friss levegőt és a tájat.", "category": "natural", "coords": [15.941865, 49.332462]}, {"name": "Malý rybník", "text": "A Velké Meziříčíben található Malý rybník kellemes menedéket nyújt a természetkedvelőknek. A vízparti séták során a látogatók gyönyörködhetnek a csendes, festői cseh környezetben.", "category": "natural", "coords": [15.943217, 49.330867]}, {"name": "Olšina", "text": "Az Olšina egy természetes tó, amely Velké Meziříčí nyugodt régiójában bújik meg. Ideális választás mindazoknak, akik a városi nyüzsgés elől menekülve egy kis friss levegőre és vízparti kikapcsolódásra vágynak.", "category": "natural", "coords": [15.91824, 49.333348]}, {"name": "Vostálův rybník", "text": "A Velké Meziříčí mellett elterülő Vostálův rybník egy kedvelt célpont a zöldbe vágyó kirándulóknak. A tó és annak környezete harmonikus hátteret biztosít egy pihentető délutáni sétához a szabadban.", "category": "natural", "coords": [15.927784, 49.318577]}, {"name": "Posmíšek", "text": "A Posmíšek nevű tó egy újabb természeti kincset jelent a cseh Velké Meziříčí település számára. A túrázók és sétálók nagyra értékelik a hely bájos atmoszféráját és a víz közelségét.", "category": "natural", "coords": [15.957976, 49.329015]}, {"name": "Trubák", "text": "A Velké Meziříčí természetében megbújó Trubák tó békés vízfelületével csábítja a látogatókat. Ez egy idilli helyszín, ahol zavartalanul megfigyelhetjük a cseh vidék helyi növény- és állatvilágát.", "category": "natural", "coords": [15.926904, 49.376748]}, {"name": "Krajiny", "text": "A Krajiny tó körüli természeti terület a nyugalom oázisa Velké Meziříčíben. A látogatók a lankás ösvényeken sétálva élvezhetik a vízre nyíló széles, megnyugtató kilátást.", "category": "natural", "coords": [16.069425, 49.346244]}, {"name": "Nový rybník", "text": "Az újabb kialakítású Nový rybník egy vonzó megállóhely Velké Meziříčí tájain. Partvidéke arra invitálja az utazókat, hogy a mindennapokból kiszakadva, egy kényelmes sétával töltődjenek fel.", "category": "natural", "coords": [16.055463, 49.39705]}, {"name": "Malý Pastýřík", "text": "A bájos Malý Pastýřík tó tovább gazdagítja a Velké Meziříčí környéki vizek hálózatát. Különösen azok körében népszerű, akik egy rövid, békés környezetben tett természeti sétára vágynak.", "category": "natural", "coords": [16.101542, 49.355356]}, {"name": "Pávek", "text": "A sok zölddel körülvett Pávek tó Velké Meziříčíben fantasztikus helyszín a természet felfedezéséhez. A víz lágy csobogása minden látogatást végigkísér, és tiszta ellazulást biztosít.", "category": "natural", "coords": [16.106934, 49.353688]}, {"name": "Křípalík", "text": "A természetkedvelők a Velké Meziříčíben található Křípalík tavat elzárt és autentikus hangulata miatt értékelik. Ez a kis tó tökéletes lehetőséget nyújt a cseh táj élvezetére egy kellemes séta során.", "category": "natural", "coords": [16.098019, 49.362409]}, {"name": "Nadýmák", "text": "A Velké Meziříčíben elhelyezkedő Nadýmák tó partja hívogató kulisszát kínál a sétálók számára. Itt a látogatók belehallgathatnak a madárdalba, és tekintetüket a csendes víztükrön pihentethetik.", "category": "natural", "coords": [16.118733, 49.362028]}, {"name": "Velký Pastýřík", "text": "Fenségesebb párjaként a Velký Pastýřík tágas part menti területeket kínál Velké Meziříčíben. A tó nagy kiterjedése kiváló helyszínné teszi a hosszú, kiterjedt természeti sétákhoz.", "category": "natural", "coords": [16.100613, 49.355519]}, {"name": "Pradlán", "text": "Az idilli Pradlán tó érintetlen kisugárzásával nyűgözi le a Velké Meziříčíbe látogatókat. Aki olyan helyet keres, ahol a víz lágyan mossa a partot, és a fák hűvös árnyékot adnak, itt megtalálja.", "category": "natural", "coords": [16.09151, 49.362162]}, {"name": "Kochánovský rybník", "text": "Velké Meziříčí szomszédos mezői adnak otthont a Kochánovský rybníknek, amely egy gyönyörű természetes menedék. Vonzó a sétálók számára, akik a cseh régió gazdag vízparti növény- és állatvilágában szeretnének gyönyörködni.", "category": "natural", "coords": [15.946447, 49.385451]}, {"name": "Tajemné jezírko", "text": "Ahogy a titokzatos neve is sejteti, a Velké Meziříčíben fekvő Tajemné jezírko misztikus bájjal bír. A sűrű parti növényzet privát természeti élményt biztosít a szélesebb utaktól távol.", "category": "natural", "coords": [15.98763, 49.349731]}, {"name": "Pařilák", "text": "Egy másik gyöngyszem Velké Meziříčí tóvidékén a Pařilák. Visszafogott környezete megfelelő hátteret kínál a friss levegőn tett túrákhoz és a gondolatok szabad szárnyalásához.", "category": "natural", "coords": [15.969472, 49.377599]}, {"name": "vodní nádrž Mostiště", "text": "Ez a Velké Meziříčí területén található víztározó festői környezetet kínál a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [16.002717, 49.406754]}], "ro": [{"name": "Muzeum dálnic", "text": "Muzeul autostrăzilor este o secțiune a muzeului municipal din Velké Meziříčí.", "category": "museum", "coords": [16.012397, 49.357794]}, {"name": "Rozhledna Fajtův kopec", "text": "Turnul de observație de pe Fajtův kopec oferă vederi panoramice asupra orașului Velké Meziříčí.", "category": "tower", "coords": [16.026183, 49.360086]}, {"name": "svatý Mikuláš", "text": "Biserica Sfântul Nicolae este un important lăcaș de cult în centrul orașului Velké Meziříčí.", "category": "religious", "coords": [16.013928, 49.354028]}, {"name": "Nejsvětější Trojice", "text": "Biserica Sfânta Treime este un lăcaș de cult situat în orașul Velké Meziříčí.", "category": "religious", "coords": [16.017227, 49.354152]}, {"name": "Stará synagoga", "text": "Vechea Sinagogă este un lăcaș de cult evreiesc istoric din Velké Meziříčí.", "category": "religious", "coords": [16.015546, 49.354793]}, {"name": "Svatý Marek", "text": "Biserica Sfântul Marcu este un lăcaș de cult situat în apropiere de Velké Meziříčí.", "category": "religious", "coords": [16.017515, 49.378637]}, {"name": "Sv. Anna", "text": "Biserica Sfânta Ana este un lăcaș de cult situat în orașul Velké Meziříčí.", "category": "religious", "coords": [15.995715, 49.365134]}, {"name": "kostel svatého Kříže", "text": "Biserica Sfintei Cruci este un important lăcaș de cult din Velké Meziříčí.", "category": "religious", "coords": [16.01489, 49.35279]}, {"name": "most Vysočina", "text": "Podul Vysočina este un important pod de autostradă situat în Velké Meziříčí.", "category": "landmark", "coords": [16.014192, 49.360683]}, {"name": "Nivka", "text": "Lacul Nivka servește ca o oază naturală în zona Velke Mezirici. Oricine caută liniște o va găsi de-a lungul malurilor sale pașnice.", "category": "natural", "coords": [15.97198, 49.37731]}, {"name": "Horka", "text": "Lacul Horka conturează mediul natural din Velke Mezirici. Această întindere de apă din Republica Cehă este o destinație prețuită pentru recreerea locală.", "category": "natural", "coords": [15.967577, 49.311774]}, {"name": "Malý Demák", "text": "Malý Demák este un alt lac atractiv situat lângă Velke Mezirici. Malurile sale îi invită pe vizitatori să petreacă ore relaxante în aer liber, bucurându-se de peisaj.", "category": "natural", "coords": [15.984342, 49.326641]}, {"name": "Dolní rybník", "text": "Dolní rybník este o întindere de apă liniștită situată în Velke Mezirici. Oferă un fundal plăcut pentru experiențe în natură și plimbări pe îndelete.", "category": "natural", "coords": [15.963904, 49.317074]}, {"name": "Nová Podniva", "text": "Zona naturală Nová Podniva prezintă un lac frumos lângă Velke Mezirici. Plimbările aici deschid priveliști minunate asupra florei și faunei cehe.", "category": "natural", "coords": [16.073967, 49.313125]}, {"name": "Stará Podniva", "text": "Stará Podniva este un cadru lacustru idilic în vecinătatea localității Velke Mezirici. Atmosfera liniștită de pe malul apei atrage deopotrivă iubitorii de natură și pasionații de drumeții.", "category": "natural", "coords": [16.077384, 49.308127]}, {"name": "Jordánek", "text": "Situat în apropiere de Velké Meziříčí, Jordánek este un lac natural liniștit din peisajul ceh. Această întindere de apă oferă un cadru excelent pentru plimbări relaxante și momente de evadare în natură.", "category": "natural", "coords": [16.007971, 49.359485]}, {"name": "Velký rybník", "text": "Cunoscut pentru suprafața sa mai mare, Velký rybník reprezintă un colț de natură deosebit din Velké Meziříčí. Vizitatorii care ajung pe malurile sale se pot bucura de o atmosferă calmă, ideală pentru explorări în aer liber.", "category": "natural", "coords": [15.941865, 49.332462]}, {"name": "Malý rybník", "text": "Un loc de refugiu pentru iubitorii de natură din Velké Meziříčí, Malý rybník este o destinație fermecătoare. Lacul se integrează frumos în peisaj, oferind plimbări pitorești pe marginea apei pentru oricine dorește o pauză.", "category": "natural", "coords": [15.943217, 49.330867]}, {"name": "Olšina", "text": "O întindere de apă naturală ascunsă în zona Velké Meziříčí, Olšina atrage prin simplitatea sa. Este locul perfect pentru vizitatorii care vor să lase în urmă agitația și să se bucure de peisajele liniștite ale lacului.", "category": "natural", "coords": [15.91824, 49.333348]}, {"name": "Vostálův rybník", "text": "O destinație populară pentru scurte evadări în natură este Vostálův rybník, un lac pitoresc de lângă Velké Meziříčí. Apa și zona înconjurătoare formează un decor armonios pentru o după-amiază relaxantă.", "category": "natural", "coords": [15.927784, 49.318577]}, {"name": "Posmíšek", "text": "Lacul Posmíšek îmbogățește peisajul natural al comunității cehe Velké Meziříčí. Drumeții și plimbăreții apreciază ambianța clară și farmecul acestui loc, perfect pentru recreere.", "category": "natural", "coords": [15.957976, 49.329015]}, {"name": "Trubák", "text": "Ascuns în natura din Velké Meziříčí, lacul Trubák atrage prin suprafața sa de apă liniștită. Reprezintă un loc idilic pentru a observa neîntrerupt flora și fauna locală din Cehia.", "category": "natural", "coords": [15.926904, 49.376748]}, {"name": "Krajiny", "text": "Zona naturală din jurul lacului Krajiny oferă o oază de liniște în Velké Meziříčí. Cei care sosesc aici se pot plimba pe poteci blânde și pot admira priveliștile ample peste întinderea de apă.", "category": "natural", "coords": [16.069425, 49.346244]}, {"name": "Nový rybník", "text": "Cunoscut ca un bazin mai nou, Nový rybník este un punct de atracție încântător în peisajul din Velké Meziříčí. Malurile sale îi invită pe oaspeți să se încarce cu energie nouă printr-o plimbare liniștită, departe de rutină.", "category": "natural", "coords": [16.055463, 49.39705]}, {"name": "Malý Pastýřík", "text": "Fermecătorul lac Malý Pastýřík completează rețeaua de ape din jurul localității Velké Meziříčí. Este deosebit de popular printre cei care caută o scurtă plimbare în natură într-un cadru pașnic.", "category": "natural", "coords": [16.101542, 49.355356]}, {"name": "Pávek", "text": "Înconjurat de multă verdeață, lacul Pávek din Velké Meziříčí este un loc fantastic pentru a explora natura. Susurul blând al apei acompaniază fiecare vizită, asigurând o relaxare profundă.", "category": "natural", "coords": [16.106934, 49.353688]}, {"name": "Křípalík", "text": "Iubitorii de natură apreciază Křípalík din Velké Meziříčí pentru atmosfera sa retrasă și autentică. Acest mic lac oferă ocazia perfectă de a admira peisajul ceh în timpul unei drumeții ușoare.", "category": "natural", "coords": [16.098019, 49.362409]}, {"name": "Nadýmák", "text": "Malul lacului Nadýmák din Velké Meziříčí pregătește un decor primitor pentru plimbăreți. Aici, oaspeții pot asculta cântecul păsărilor și pot admira suprafața netedă a apei.", "category": "natural", "coords": [16.118733, 49.362028]}, {"name": "Velký Pastýřík", "text": "Ca un corespondent maiestuos, Velký Pastýřík oferă zone extinse de țărm în Velké Meziříčí. Suprafața generoasă a lacului îl transformă într-un loc excelent pentru plimbări lungi și prelungite în natură.", "category": "natural", "coords": [16.100613, 49.355519]}, {"name": "Pradlán", "text": "Lacul idilic Pradlán îi fascinează pe oaspeții din Velké Meziříčí prin aura sa neatinsă. Cine caută un loc în care apa lovește ușor malul iar copacii oferă umbră, a ajuns exact unde trebuie.", "category": "natural", "coords": [16.09151, 49.362162]}, {"name": "Kochánovský rybník", "text": "Pășunile învecinate ale localității Velké Meziříčí găzduiesc Kochánovský rybník, un superb refugiu natural. Aici sunt atrași plimbăreții care doresc să se bucure de flora și fauna acvatică bogată a regiunii cehe.", "category": "natural", "coords": [15.946447, 49.385451]}, {"name": "Tajemné jezírko", "text": "Așa cum sugerează și numele său misterios, Tajemné jezírko din Velké Meziříčí ascunde un farmec mistic. Vegetația deasă de pe maluri asigură o experiență intimă în natură, departe de traseele aglomerate.", "category": "natural", "coords": [15.98763, 49.349731]}, {"name": "Pařilák", "text": "O altă perlă a peisajului lacustru din Velké Meziříčí este Pařilák. Împrejurimile sale liniștite oferă decorul potrivit pentru drumeții la aer curat, lăsând gândurile să curgă liber.", "category": "natural", "coords": [15.969472, 49.377599]}, {"name": "vodní nádrž Mostiště", "text": "Acest lac de acumulare din Velké Meziříčí oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [16.002717, 49.406754]}], "en": [{"name": "Muzeum dálnic", "text": "The Highway Museum is an exhibition part of the local museum in Velké Meziříčí.", "category": "museum", "coords": [16.012397, 49.357794]}, {"name": "Rozhledna Fajtův kopec", "text": "The observation tower on Fajtův kopec offers panoramic views over Velké Meziříčí.", "category": "tower", "coords": [16.026183, 49.360086]}, {"name": "svatý Mikuláš", "text": "St. Nicholas Church is a prominent place of worship located in the center of Velké Meziříčí.", "category": "religious", "coords": [16.013928, 49.354028]}, {"name": "Nejsvětější Trojice", "text": "The Holy Trinity Church is a place of worship located in the town of Velké Meziříčí.", "category": "religious", "coords": [16.017227, 49.354152]}, {"name": "Stará synagoga", "text": "The Old Synagogue is a historical Jewish place of worship in Velké Meziříčí.", "category": "religious", "coords": [16.015546, 49.354793]}, {"name": "Svatý Marek", "text": "The Church of St. Mark is a place of worship located near Velké Meziříčí.", "category": "religious", "coords": [16.017515, 49.378637]}, {"name": "Sv. Anna", "text": "St. Anne's Church is a place of worship located in Velké Meziříčí.", "category": "religious", "coords": [15.995715, 49.365134]}, {"name": "kostel svatého Kříže", "text": "The Church of the Holy Cross is a notable place of worship in Velké Meziříčí.", "category": "religious", "coords": [16.01489, 49.35279]}, {"name": "most Vysočina", "text": "The Vysočina Bridge is a major highway bridge located in Velké Meziříčí.", "category": "landmark", "coords": [16.014192, 49.360683]}, {"name": "Nivka", "text": "The lake Nivka serves as a natural oasis in the area of Velke Mezirici. Anyone looking for tranquility will find it along its peaceful shores.", "category": "natural", "coords": [15.97198, 49.37731]}, {"name": "Horka", "text": "The Horka lake shapes the natural environment of Velke Mezirici. This water body in the Czech Republic is a cherished destination for local recreation.", "category": "natural", "coords": [15.967577, 49.311774]}, {"name": "Malý Demák", "text": "Malý Demák is another attractive lake located near Velke Mezirici. Its shores invite visitors to spend relaxing hours outdoors enjoying the scenery.", "category": "natural", "coords": [15.984342, 49.326641]}, {"name": "Dolní rybník", "text": "Dolní rybník is a tranquil body of water situated in Velke Mezirici. It offers a pleasant backdrop for nature experiences and leisurely walks.", "category": "natural", "coords": [15.963904, 49.317074]}, {"name": "Nová Podniva", "text": "The natural area of Nová Podniva features a beautiful lake near Velke Mezirici. Walking here opens up lovely views of the Czech flora and fauna.", "category": "natural", "coords": [16.073967, 49.313125]}, {"name": "Stará Podniva", "text": "Stará Podniva is an idyllic lake setting in the vicinity of Velke Mezirici. The quiet atmosphere by the water attracts nature lovers and walkers alike.", "category": "natural", "coords": [16.077384, 49.308127]}, {"name": "Jordánek", "text": "Nestled in the Czech countryside near Velké Meziříčí, Jordánek is a tranquil natural body of water. The lake provides a wonderful setting for relaxing walks and quiet moments surrounded by nature.", "category": "natural", "coords": [16.007971, 49.359485]}, {"name": "Velký rybník", "text": "Serving as a significant body of water, Velký rybník is a prominent natural attraction located in Velké Meziříčí. Visitors to its shores will discover a relaxing environment perfect for leisurely strolls and outdoor escapes.", "category": "natural", "coords": [15.941865, 49.332462]}, {"name": "Malý rybník", "text": "A lovely retreat for nature enthusiasts in Velké Meziříčí, Malý rybník offers a smaller, intimate lake setting. This picturesque spot invites walkers to take a break and enjoy the serene Czech surroundings.", "category": "natural", "coords": [15.943217, 49.330867]}, {"name": "Olšina", "text": "A natural lake tucked away in the Velké Meziříčí area, Olšina boasts an unspoiled and quiet charm. It is an excellent destination for anyone looking to escape the bustle and take a restorative walk along the water.", "category": "natural", "coords": [15.91824, 49.333348]}, {"name": "Vostálův rybník", "text": "A favored destination for relaxed outings in the green, Vostálův rybník is a scenic lake near Velké Meziříčí. The water and its surrounding landscape provide a harmonious backdrop for a restorative afternoon in nature.", "category": "natural", "coords": [15.927784, 49.318577]}, {"name": "Posmíšek", "text": "The Posmíšek lake adds another beautiful natural element to the Czech town of Velké Meziříčí. Walkers and hikers alike appreciate the clean atmosphere of this charming spot for a peaceful break.", "category": "natural", "coords": [15.957976, 49.329015]}, {"name": "Trubák", "text": "Hidden within the nature of Velké Meziříčí, the Trubák lake entices with its still water surface. It is an idyllic setting for visitors wishing to observe the local Czech flora and fauna undisturbed.", "category": "natural", "coords": [15.926904, 49.376748]}, {"name": "Krajiny", "text": "The natural area surrounding the Krajiny lake provides a serene oasis in Velké Meziříčí. Visitors can stroll along gentle paths here, taking in the expansive and calming views over the water.", "category": "natural", "coords": [16.069425, 49.346244]}, {"name": "Nový rybník", "text": "Known as the newer pond in the area, Nový rybník is a delightful stopover in the countryside of Velké Meziříčí. The shores invite guests to recharge their energy with a comfortable walk away from everyday life.", "category": "natural", "coords": [16.055463, 49.39705]}, {"name": "Malý Pastýřík", "text": "The charming Malý Pastýřík lake adds to the blue network of waters around Velké Meziříčí. It is especially popular with those seeking a brief nature walk within a very peaceful setting.", "category": "natural", "coords": [16.101542, 49.355356]}, {"name": "Pávek", "text": "Surrounded by lush greenery, the Pávek lake in Velké Meziříčí is a fantastic location for nature exploration. The gentle lapping of the water accompanies every visit, ensuring pure relaxation.", "category": "natural", "coords": [16.106934, 49.353688]}, {"name": "Křípalík", "text": "Nature lovers appreciate Křípalík in Velké Meziříčí for its secluded and authentic atmosphere. This small lake offers the perfect opportunity to enjoy the Czech landscape during a leisurely stroll.", "category": "natural", "coords": [16.098019, 49.362409]}, {"name": "Nadýmák", "text": "The shore of the Nadýmák lake in Velké Meziříčí holds an inviting backdrop for walkers. Here, visitors can listen to the birdsong and let their gaze wander over the tranquil water surface.", "category": "natural", "coords": [16.118733, 49.362028]}, {"name": "Velký Pastýřík", "text": "Serving as the more majestic counterpart, Velký Pastýřík provides expansive shoreline areas in Velké Meziříčí. The spacious layout of the lake makes it a superb spot for long, extended walks in nature.", "category": "natural", "coords": [16.100613, 49.355519]}, {"name": "Pradlán", "text": "The idyllic Pradlán lake fascinates visitors to Velké Meziříčí with its untouched aura. Those looking for a place where the water gently laps the shore and trees provide shade will find it here.", "category": "natural", "coords": [16.09151, 49.362162]}, {"name": "Kochánovský rybník", "text": "The adjacent fields of Velké Meziříčí are home to Kochánovský rybník, a beautiful natural refuge. It attracts walkers who wish to delight in the rich aquatic flora and fauna of the Czech region.", "category": "natural", "coords": [15.946447, 49.385451]}, {"name": "Tajemné jezírko", "text": "As its mysterious name implies, Tajemné jezírko in Velké Meziříčí holds a mystic charm. The dense vegetation along its banks ensures a private nature experience away from the main paths.", "category": "natural", "coords": [15.98763, 49.349731]}, {"name": "Pařilák", "text": "Another pearl in the lake district of Velké Meziříčí is Pařilák. Its unpretentious surroundings offer the right setting to hike in the fresh air and let your thoughts flow freely.", "category": "natural", "coords": [15.969472, 49.377599]}, {"name": "vodní nádrž Mostiště", "text": "This water reservoir in Velké Meziříčí offers a scenic environment for walks and enjoying the local landscape.", "category": "natural", "coords": [16.002717, 49.406754]}]},
     type: "city",
     parent: "CZ",
     name: { de: "Velké Meziříčí", hu: "Velké Meziříčí", ro: "Velké Meziříčí", en: "Velké Meziříčí" },
@@ -70396,6 +67066,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.633216,
                         50.378574
                   ]
+            },
+            {
+                  "name": "Koupaliště Dachova",
+                  "text": "Das Freibad Koupaliště Dachova in Horice lädt zum Schwimmen und Entspannen im Wasser ein.",
+                  "category": "family",
+                  "coords": [
+                        15.64204,
+                        50.382859
+                  ]
             }
       ],
       "hu": [
@@ -70541,6 +67220,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.633216,
                         50.378574
+                  ]
+            },
+            {
+                  "name": "Koupaliště Dachova",
+                  "text": "A Horice városában található Koupaliště Dachova strand kiváló hely a frissítő úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.64204,
+                        50.382859
                   ]
             }
       ],
@@ -70688,6 +67376,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.633216,
                         50.378574
                   ]
+            },
+            {
+                  "name": "Koupaliště Dachova",
+                  "text": "Ștrandul Koupaliště Dachova din Horice este un loc excelent pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.64204,
+                        50.382859
+                  ]
             }
       ],
       "en": [
@@ -70834,6 +67531,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.633216,
                         50.378574
                   ]
+            },
+            {
+                  "name": "Koupaliště Dachova",
+                  "text": "Koupaliště Dachova in Horice is a great spot for swimming and relaxing in the water.",
+                  "category": "family",
+                  "coords": [
+                        15.64204,
+                        50.382859
+                  ]
             }
       ]
 },
@@ -70972,6 +67678,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.616122,
                         48.89974
                   ]
+            },
+            {
+                  "name": "Městský krytý bazén",
+                  "text": "Diese Schwimmanlage in Hustopece bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        16.732226,
+                        48.945196
+                  ]
             }
       ],
       "hu": [
@@ -71063,6 +67778,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.616122,
                         48.89974
+                  ]
+            },
+            {
+                  "name": "Městský krytý bazén",
+                  "text": "Ez a Hustopece városában található úszólétesítmény vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        16.732226,
+                        48.945196
                   ]
             }
       ],
@@ -71156,6 +67880,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.616122,
                         48.89974
                   ]
+            },
+            {
+                  "name": "Městský krytý bazén",
+                  "text": "Această facilitate de înot din Hustopece oferă distracție acvatică și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        16.732226,
+                        48.945196
+                  ]
             }
       ],
       "en": [
@@ -71247,6 +67980,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.616122,
                         48.89974
+                  ]
+            },
+            {
+                  "name": "Městský krytý bazén",
+                  "text": "This swimming facility in Hustopece offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        16.732226,
+                        48.945196
                   ]
             }
       ]
@@ -72295,6 +69037,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.710601,
                         49.540722
                   ]
+            },
+            {
+                  "name": "Tobogán",
+                  "text": "Dieser Wasserpark in Hranice Na Morave bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.724073,
+                        49.543515
+                  ]
             }
       ],
       "hu": [
@@ -72323,6 +69074,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.710601,
                         49.540722
+                  ]
+            },
+            {
+                  "name": "Tobogán",
+                  "text": "Ez a Hranice Na Morave városában található vízipark szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        17.724073,
+                        49.543515
                   ]
             }
       ],
@@ -72353,6 +69113,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.710601,
                         49.540722
                   ]
+            },
+            {
+                  "name": "Tobogán",
+                  "text": "Acest parc acvatic din Hranice Na Morave oferă distracție și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.724073,
+                        49.543515
+                  ]
             }
       ],
       "en": [
@@ -72381,6 +69150,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.710601,
                         49.540722
+                  ]
+            },
+            {
+                  "name": "Tobogán",
+                  "text": "This water park in Hranice Na Morave offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.724073,
+                        49.543515
                   ]
             }
       ]
@@ -72979,6 +69757,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.164632,
                         49.788023
                   ]
+            },
+            {
+                  "name": "Letní koupaliště",
+                  "text": "Das Letní koupaliště in Klimkovice bietet abwechslungsreichen Wasserspaß für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        18.142598,
+                        49.826554
+                  ]
             }
       ],
       "hu": [
@@ -73043,6 +69830,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.164632,
                         49.788023
+                  ]
+            },
+            {
+                  "name": "Letní koupaliště",
+                  "text": "A Klimkovice városában található Letní koupaliště változatos vízi élményeket kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        18.142598,
+                        49.826554
                   ]
             }
       ],
@@ -73109,6 +69905,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.164632,
                         49.788023
                   ]
+            },
+            {
+                  "name": "Letní koupaliště",
+                  "text": "Parcul acvatic Letní koupaliště din Klimkovice oferă distracție variată în apă pentru vizitatori de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        18.142598,
+                        49.826554
+                  ]
             }
       ],
       "en": [
@@ -73173,6 +69978,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.164632,
                         49.788023
+                  ]
+            },
+            {
+                  "name": "Letní koupaliště",
+                  "text": "Letní koupaliště in Klimkovice offers diverse water fun for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        18.142598,
+                        49.826554
                   ]
             }
       ]
@@ -73294,6 +70108,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.140076,
                         49.638833
                   ]
+            },
+            {
+                  "name": "Koupak v Příboře",
+                  "text": "Diese Schwimmanlage in Pribor bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.151562,
+                        49.637046
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Dieser Badebereich in Pribor eignet sich hervorragend für ein erfrischendes Bad und Spaziergänge am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
             }
       ],
       "hu": [
@@ -73367,6 +70199,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.140076,
                         49.638833
+                  ]
+            },
+            {
+                  "name": "Koupak v Příboře",
+                  "text": "Ez a Pribor városában található úszólétesítmény vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.151562,
+                        49.637046
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Ez a Pribor területén található fürdőhely kiválóan alkalmas egy frissítő mártózáshoz és vízparti sétákhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
                   ]
             }
       ],
@@ -73442,6 +70292,24 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.140076,
                         49.638833
                   ]
+            },
+            {
+                  "name": "Koupak v Příboře",
+                  "text": "Această facilitate de înot din Pribor oferă distracție acvatică și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.151562,
+                        49.637046
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "Această zonă de înot din Pribor este excelentă pentru o baie răcoritoare și plimbări pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
+                  ]
             }
       ],
       "en": [
@@ -73515,6 +70383,24 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.140076,
                         49.638833
+                  ]
+            },
+            {
+                  "name": "Koupak v Příboře",
+                  "text": "This swimming facility in Pribor offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.151562,
+                        49.637046
+                  ]
+            },
+            {
+                  "name": "Větřkovice",
+                  "text": "This swimming area in Pribor is great for a refreshing dip and walks by the water.",
+                  "category": "family",
+                  "coords": [
+                        18.188407,
+                        49.617255
                   ]
             }
       ]

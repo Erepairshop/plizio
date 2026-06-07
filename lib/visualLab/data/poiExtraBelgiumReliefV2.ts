@@ -703,52 +703,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     },
   },
   {
-    id: "belgium-campine-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Nuclea Strand",
-                  "text": "Nuclea Strand in der Campine-Region.",
-                  "category": "recreational",
-                  "coords": [
-                        5.094124,
-                        51.220839
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Nuclea Strand",
-                  "text": "Nuclea strand a Campine régióban.",
-                  "category": "recreational",
-                  "coords": [
-                        5.094124,
-                        51.220839
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Nuclea Strand",
-                  "text": "Plaja Nuclea din regiunea Campine.",
-                  "category": "recreational",
-                  "coords": [
-                        5.094124,
-                        51.220839
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Nuclea Strand",
-                  "text": "Nuclea Beach in the Campine region.",
-                  "category": "recreational",
-                  "coords": [
-                        5.094124,
-                        51.220839
-                  ]
-            }
-      ]
-},
+    id: "belgium-campine-relief-v2", "sights": {"de": [{"name": "Nuclea Strand", "text": "In der Region Campine Kempen gelegen, ist der Nuclea Strand ein charmantes Ausflugsziel für entspannte Tage am Wasser. Die ruhige Uferzone eignet sich bestens, um dem Trubel der Stadt zu entfliehen und die Natur zu genießen. Badegäste erfreuen sich an der klaren Luft und der familiären Stimmung. Für ein ausgiebiges Sonnenbad ist eine komfortable Liegematte der perfekte Begleiter.", "category": "recreational", "coords": [5.094124, 51.220839]}], "hu": [{"name": "Nuclea Strand", "text": "A Campine Kempen régióban található Nuclea Strand hangulatos kirándulóhely a pihentető vízparti napokhoz. A nyugodt partszakasz kiválóan alkalmas arra, hogy elmeneküljünk a város zajától és élvezzük a természetet. A fürdőzők örömüket lelik a tiszta levegőben és a családias légkörben. Egy kiadós napozáshoz egy kényelmes polifoam a legtökéletesebb kísérő.", "category": "recreational", "coords": [5.094124, 51.220839]}], "ro": [{"name": "Nuclea Strand", "text": "Situată în regiunea Campine Kempen, Nuclea Strand este o destinație fermecătoare pentru zile de relaxare la malul apei. Zona de coastă liniștită este ideală pentru a scăpa de agitația orașului și a te bucura de natură. Cei care se scaldă se bucură de aerul curat și de atmosfera familială. Pentru o baie de soare prelungită, o saltea confortabilă este partenerul perfect.", "category": "recreational", "coords": [5.094124, 51.220839]}], "en": [{"name": "Nuclea Strand", "text": "Located in the Campine Kempen region, Nuclea Strand is a charming excursion destination for relaxing days by the water. The quiet shoreline is perfectly suited for escaping the city hustle and enjoying nature. Bathers take pleasure in the clear air and the family-friendly vibe. For an extensive sunbathing session, a comfortable lounging mat is the perfect companion.", "category": "recreational", "coords": [5.094124, 51.220839]}]},
     parent: "BE",
     type: "landmark",
     name: { de: "Kempen (Campine)", hu: "Kempen", ro: "Campine", en: "Campine (Kempen)"},

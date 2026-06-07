@@ -2249,6 +2249,24 @@ export const poiExtraDe1: POI[] = [
                         13.468705,
                         48.568181
                   ]
+            },
+            {
+                  "name": "Babalu Funpark Passau",
+                  "text": "Der Babalu Funpark Passau ist ein Freizeitpark mit zahlreichen Spielmöglichkeiten für Kinder im Innenbereich.",
+                  "category": "family",
+                  "coords": [
+                        13.390387,
+                        48.586561
+                  ]
+            },
+            {
+                  "name": "Halser Ilzschleifen",
+                  "text": "Die Halser Ilzschleifen in Passau bieten naturnahe Badebereiche in einer malerischen Flusslandschaft.",
+                  "category": "family",
+                  "coords": [
+                        13.459538,
+                        48.589991
+                  ]
             }
       ],
       "hu": [
@@ -2436,6 +2454,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.468705,
                         48.568181
+                  ]
+            },
+            {
+                  "name": "Babalu Funpark Passau",
+                  "text": "A passaui Babalu Funpark egy vidámpark számos beltéri játéklehetőséggel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.390387,
+                        48.586561
+                  ]
+            },
+            {
+                  "name": "Halser Ilzschleifen",
+                  "text": "A passaui Halser Ilzschleifen természetközeli fürdőhelyeket kínál egy festői folyóparti tájon.",
+                  "category": "family",
+                  "coords": [
+                        13.459538,
+                        48.589991
                   ]
             }
       ],
@@ -2625,6 +2661,24 @@ export const poiExtraDe1: POI[] = [
                         13.468705,
                         48.568181
                   ]
+            },
+            {
+                  "name": "Babalu Funpark Passau",
+                  "text": "Babalu Funpark Passau este un parc de distracții cu numeroase posibilități de joacă în interior pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        13.390387,
+                        48.586561
+                  ]
+            },
+            {
+                  "name": "Halser Ilzschleifen",
+                  "text": "Halser Ilzschleifen din Passau oferă zone de scăldat aproape de natură într-un peisaj fluvial pitoresc.",
+                  "category": "family",
+                  "coords": [
+                        13.459538,
+                        48.589991
+                  ]
             }
       ],
       "en": [
@@ -2812,6 +2866,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.468705,
                         48.568181
+                  ]
+            },
+            {
+                  "name": "Babalu Funpark Passau",
+                  "text": "The Babalu Funpark Passau is a theme park with numerous indoor play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        13.390387,
+                        48.586561
+                  ]
+            },
+            {
+                  "name": "Halser Ilzschleifen",
+                  "text": "The Halser Ilzschleifen in Passau offer natural swimming areas in a picturesque river landscape.",
+                  "category": "family",
+                  "coords": [
+                        13.459538,
+                        48.589991
                   ]
             }
       ],
@@ -4093,6 +4165,51 @@ export const poiExtraDe1: POI[] = [
                         7.648258,
                         51.986341
                   ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Das Lehrschwimmbecken in Münster ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.593832,
+                        51.962811
+                  ]
+            },
+            {
+                  "name": "Hallenbad Kinderhaus",
+                  "text": "Das Hallenbad Kinderhaus in Münster bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.604362,
+                        51.995816
+                  ]
+            },
+            {
+                  "name": "Freibad Stapelskotten",
+                  "text": "Das Freibad Stapelskotten in Münster bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.690387,
+                        51.947539
+                  ]
+            },
+            {
+                  "name": "Zaubersee",
+                  "text": "Der Zaubersee in Münster ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        7.610685,
+                        51.976977
+                  ]
+            },
+            {
+                  "name": "Solebecken",
+                  "text": "Das Solebecken in Münster bietet Entspannung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.660238,
+                        51.959086
+                  ]
             }
       ],
       "hu": [
@@ -4622,6 +4739,51 @@ export const poiExtraDe1: POI[] = [
                         7.648258,
                         51.986341
                   ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "A Münsterben található Lehrschwimmbecken remek helyszín családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.593832,
+                        51.962811
+                  ]
+            },
+            {
+                  "name": "Hallenbad Kinderhaus",
+                  "text": "A Münsterben található Hallenbad Kinderhaus vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.604362,
+                        51.995816
+                  ]
+            },
+            {
+                  "name": "Freibad Stapelskotten",
+                  "text": "A Münsterben található Freibad Stapelskotten vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.690387,
+                        51.947539
+                  ]
+            },
+            {
+                  "name": "Zaubersee",
+                  "text": "A Münsterben található Zaubersee remek helyszín családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.610685,
+                        51.976977
+                  ]
+            },
+            {
+                  "name": "Solebecken",
+                  "text": "A Münsterben található Solebecken kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.660238,
+                        51.959086
+                  ]
             }
       ],
       "ro": [
@@ -5143,6 +5305,51 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.648258,
                         51.986341
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Lehrschwimmbecken din Münster este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.593832,
+                        51.962811
+                  ]
+            },
+            {
+                  "name": "Hallenbad Kinderhaus",
+                  "text": "Hallenbad Kinderhaus din Münster oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.604362,
+                        51.995816
+                  ]
+            },
+            {
+                  "name": "Freibad Stapelskotten",
+                  "text": "Freibad Stapelskotten din Münster oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.690387,
+                        51.947539
+                  ]
+            },
+            {
+                  "name": "Zaubersee",
+                  "text": "Zaubersee din Münster este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.610685,
+                        51.976977
+                  ]
+            },
+            {
+                  "name": "Solebecken",
+                  "text": "Solebecken din Münster oferă relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.660238,
+                        51.959086
                   ]
             }
       ],
@@ -5673,6 +5880,51 @@ export const poiExtraDe1: POI[] = [
                         7.648258,
                         51.986341
                   ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "The Lehrschwimmbecken in Münster is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        7.593832,
+                        51.962811
+                  ]
+            },
+            {
+                  "name": "Hallenbad Kinderhaus",
+                  "text": "The Hallenbad Kinderhaus in Münster offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        7.604362,
+                        51.995816
+                  ]
+            },
+            {
+                  "name": "Freibad Stapelskotten",
+                  "text": "The Freibad Stapelskotten in Münster offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        7.690387,
+                        51.947539
+                  ]
+            },
+            {
+                  "name": "Zaubersee",
+                  "text": "The Zaubersee in Münster is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        7.610685,
+                        51.976977
+                  ]
+            },
+            {
+                  "name": "Solebecken",
+                  "text": "The Solebecken in Münster offers relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.660238,
+                        51.959086
+                  ]
             }
       ],
       "tr": [
@@ -6141,6 +6393,60 @@ export const poiExtraDe1: POI[] = [
                         7.21467,
                         51.270231
                   ]
+            },
+            {
+                  "name": "Above Spa & Lounge",
+                  "text": "Das Above Spa & Lounge in Wuppertal bietet exklusive Entspannung und Wellnessanwendungen.",
+                  "category": "family",
+                  "coords": [
+                        7.202159,
+                        51.274361
+                  ]
+            },
+            {
+                  "name": "Wildgehege Ehrenberg",
+                  "text": "Das Wildgehege Ehrenberg in Wuppertal ist ein Ort, an dem Familien heimische Tiere erleben können.",
+                  "category": "family",
+                  "coords": [
+                        7.248479,
+                        51.259333
+                  ]
+            },
+            {
+                  "name": "Bandwirker Bad Ronsdorf",
+                  "text": "Das Bandwirker Bad Ronsdorf bietet Schwimm- und Freizeitmöglichkeiten für die lokale Gemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        7.199518,
+                        51.224519
+                  ]
+            },
+            {
+                  "name": "Wildgehege Nordpark",
+                  "text": "Das Wildgehege Nordpark bietet Besuchern Einblicke in das Leben verschiedener Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        7.197606,
+                        51.284982
+                  ]
+            },
+            {
+                  "name": "Freibad Neuenhof",
+                  "text": "Das Freibad Neuenhof in Wuppertal ist ein beliebtes Ziel für Schwimmen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        7.144531,
+                        51.224938
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Langerfeld",
+                  "text": "Das Gartenhallenbad Langerfeld kombiniert Schwimmspaß mit einer angenehmen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        7.249195,
+                        51.273191
+                  ]
             }
       ],
       "hu": [
@@ -6427,6 +6733,60 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.21467,
                         51.270231
+                  ]
+            },
+            {
+                  "name": "Above Spa & Lounge",
+                  "text": "A wuppertali Above Spa & Lounge exkluzív pihenést és wellness-kezeléseket kínál.",
+                  "category": "family",
+                  "coords": [
+                        7.202159,
+                        51.274361
+                  ]
+            },
+            {
+                  "name": "Wildgehege Ehrenberg",
+                  "text": "A wuppertali Ehrenberg vadaspark egy olyan hely, ahol a családok hazai állatokkal találkozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        7.248479,
+                        51.259333
+                  ]
+            },
+            {
+                  "name": "Bandwirker Bad Ronsdorf",
+                  "text": "A Bandwirker Bad Ronsdorf úszási és szabadidős lehetőségeket kínál a helyi közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        7.199518,
+                        51.224519
+                  ]
+            },
+            {
+                  "name": "Wildgehege Nordpark",
+                  "text": "A Nordpark vadaspark betekintést nyújt a látogatóknak a különféle állatfajok életébe.",
+                  "category": "family",
+                  "coords": [
+                        7.197606,
+                        51.284982
+                  ]
+            },
+            {
+                  "name": "Freibad Neuenhof",
+                  "text": "A wuppertali Neuenhof strand népszerű célpont a szabadtéri úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.144531,
+                        51.224938
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Langerfeld",
+                  "text": "A langerfeldi kerti fedett uszoda ötvözi az úszás örömét a kellemes légkörrel.",
+                  "category": "family",
+                  "coords": [
+                        7.249195,
+                        51.273191
                   ]
             }
       ],
@@ -6715,6 +7075,60 @@ export const poiExtraDe1: POI[] = [
                         7.21467,
                         51.270231
                   ]
+            },
+            {
+                  "name": "Above Spa & Lounge",
+                  "text": "Above Spa & Lounge din Wuppertal oferă relaxare exclusivă și tratamente wellness.",
+                  "category": "family",
+                  "coords": [
+                        7.202159,
+                        51.274361
+                  ]
+            },
+            {
+                  "name": "Wildgehege Ehrenberg",
+                  "text": "Țarcul de animale Ehrenberg din Wuppertal este un loc unde familiile pot întâlni animale autohtone.",
+                  "category": "family",
+                  "coords": [
+                        7.248479,
+                        51.259333
+                  ]
+            },
+            {
+                  "name": "Bandwirker Bad Ronsdorf",
+                  "text": "Bandwirker Bad Ronsdorf oferă posibilități de înot și recreere pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        7.199518,
+                        51.224519
+                  ]
+            },
+            {
+                  "name": "Wildgehege Nordpark",
+                  "text": "Țarcul de animale din parcul de nord oferă vizitatorilor imagini despre viața diverselor specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        7.197606,
+                        51.284982
+                  ]
+            },
+            {
+                  "name": "Freibad Neuenhof",
+                  "text": "Ștrandul Neuenhof din Wuppertal este o destinație populară pentru înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        7.144531,
+                        51.224938
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Langerfeld",
+                  "text": "Piscina acoperită cu grădină din Langerfeld combină distracția la înot cu o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        7.249195,
+                        51.273191
+                  ]
             }
       ],
       "en": [
@@ -7001,6 +7415,60 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.21467,
                         51.270231
+                  ]
+            },
+            {
+                  "name": "Above Spa & Lounge",
+                  "text": "The Above Spa & Lounge in Wuppertal offers exclusive relaxation and wellness treatments.",
+                  "category": "family",
+                  "coords": [
+                        7.202159,
+                        51.274361
+                  ]
+            },
+            {
+                  "name": "Wildgehege Ehrenberg",
+                  "text": "The Ehrenberg wildlife enclosure in Wuppertal is a place where families can experience native animals.",
+                  "category": "family",
+                  "coords": [
+                        7.248479,
+                        51.259333
+                  ]
+            },
+            {
+                  "name": "Bandwirker Bad Ronsdorf",
+                  "text": "The Bandwirker Bad Ronsdorf offers swimming and leisure opportunities for the local community.",
+                  "category": "family",
+                  "coords": [
+                        7.199518,
+                        51.224519
+                  ]
+            },
+            {
+                  "name": "Wildgehege Nordpark",
+                  "text": "The Nordpark wildlife enclosure offers visitors insights into the lives of various animal species.",
+                  "category": "family",
+                  "coords": [
+                        7.197606,
+                        51.284982
+                  ]
+            },
+            {
+                  "name": "Freibad Neuenhof",
+                  "text": "The Neuenhof outdoor pool in Wuppertal is a popular destination for outdoor swimming.",
+                  "category": "family",
+                  "coords": [
+                        7.144531,
+                        51.224938
+                  ]
+            },
+            {
+                  "name": "Gartenhallenbad Langerfeld",
+                  "text": "The Langerfeld garden indoor pool combines swimming fun with a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        7.249195,
+                        51.273191
                   ]
             }
       ],
@@ -8248,6 +8716,24 @@ export const poiExtraDe1: POI[] = [
                         10.010309,
                         48.408366
                   ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Das Schwimmerbecken in Ulm bietet ideale Bedingungen für sportliches Schwimmen und aktive Erholung.",
+                  "category": "family",
+                  "coords": [
+                        9.984433,
+                        48.385468
+                  ]
+            },
+            {
+                  "name": "Schildkröten- und Reptilienzoo",
+                  "text": "Der Schildkröten- und Reptilienzoo in Ulm bietet einen faszinierenden Einblick in die Welt der Reptilien.",
+                  "category": "family",
+                  "coords": [
+                        10.02589,
+                        48.375828
+                  ]
             }
       ],
       "hu": [
@@ -8805,6 +9291,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Az ulmi Schwimmerbecken ideális feltételeket biztosít a sportoláshoz és az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.984433,
+                        48.385468
+                  ]
+            },
+            {
+                  "name": "Schildkröten- und Reptilienzoo",
+                  "text": "Az ulmi teknős- és hüllőkert lenyűgöző betekintést nyújt a hüllők világába.",
+                  "category": "family",
+                  "coords": [
+                        10.02589,
+                        48.375828
                   ]
             }
       ],
@@ -9364,6 +9868,24 @@ export const poiExtraDe1: POI[] = [
                         10.010309,
                         48.408366
                   ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "Schwimmerbecken din Ulm oferă condiții ideale pentru înot sportiv și recreere activă.",
+                  "category": "family",
+                  "coords": [
+                        9.984433,
+                        48.385468
+                  ]
+            },
+            {
+                  "name": "Schildkröten- und Reptilienzoo",
+                  "text": "Grădina zoologică de țestoase și reptile din Ulm oferă o privire fascinantă în lumea reptilelor.",
+                  "category": "family",
+                  "coords": [
+                        10.02589,
+                        48.375828
+                  ]
             }
       ],
       "en": [
@@ -9921,6 +10443,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
+                  ]
+            },
+            {
+                  "name": "Schwimmerbecken",
+                  "text": "The Schwimmerbecken in Ulm offers ideal conditions for sports swimming and active recreation.",
+                  "category": "family",
+                  "coords": [
+                        9.984433,
+                        48.385468
+                  ]
+            },
+            {
+                  "name": "Schildkröten- und Reptilienzoo",
+                  "text": "The turtle and reptile zoo in Ulm offers a fascinating insight into the world of reptiles.",
+                  "category": "family",
+                  "coords": [
+                        10.02589,
+                        48.375828
                   ]
             }
       ],
@@ -12611,6 +13151,105 @@ export const poiExtraDe1: POI[] = [
                         9.178888,
                         47.656432
                   ]
+            },
+            {
+                  "name": "Mainau Kinderland",
+                  "text": "Das Mainau Kinderland ist ein Spieleparadies für Kinder auf der Blumeninsel Mainau.",
+                  "category": "family",
+                  "coords": [
+                        9.191898,
+                        47.704143
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Das Thermalbad Egelsee bietet entspannendes Baden in warmem Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "Das Strandbad Horn ist eine Grünanlage am Bodensee, die zum Verweilen und Baden einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "Die Bodensee-Therme in Konstanz bietet einen direkten Zugang zum See zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "Der Tierpark Kreuzlingen bietet Familien die Möglichkeit, verschiedene Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "Das Rheinstrandbad bietet Bademöglichkeiten direkt am Ufer des Rheins.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Schmetterlingshaus",
+                  "text": "Das Schmetterlingshaus beherbergt zahlreiche exotische Schmetterlingsarten in tropischer Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        9.194175,
+                        47.706262
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "Die Piazza Cisternino ist ein gestalteter Bereich für Freizeit und Begegnung in Konstanz.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "Das Seerheinbad Tägerwilen ist ein Ort für Entspannung und Baden am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Strandbad Litzelstetten",
+                  "text": "Das Strandbad Litzelstetten bietet Bademöglichkeiten am Bodensee in natürlicher Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        9.179488,
+                        47.720113
+                  ]
+            },
+            {
+                  "name": "Badestelle Universität Konstanz",
+                  "text": "Die Badestelle an der Universität Konstanz wird gerne für eine Abkühlung im See genutzt.",
+                  "category": "family",
+                  "coords": [
+                        9.193272,
+                        47.696004
+                  ]
             }
       ],
       "hu": [
@@ -13022,6 +13661,105 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.178888,
                         47.656432
+                  ]
+            },
+            {
+                  "name": "Mainau Kinderland",
+                  "text": "A Mainau Kinderland egy játékparadicsom a gyerekeknek a Mainau virágszigeten.",
+                  "category": "family",
+                  "coords": [
+                        9.191898,
+                        47.704143
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Az Egelsee termálfürdő pihentető fürdőzést kínál meleg vízben.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "A Strandbad Horn egy zöldterület a Bodeni-tó partján, amely pihenésre és fürdőzésre hív.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "A konstanz-i Bodeni-tavi termálfürdő közvetlen hozzáférést biztosít a tóhoz az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "A kreuzlingeni állatpark lehetőséget nyújt a családoknak különféle állatok megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "A Rheinstrandbad közvetlenül a Rajna partján kínál fürdési lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Schmetterlingshaus",
+                  "text": "A pillangóház számos egzotikus lepkefajnak ad otthont trópusi hangulatban.",
+                  "category": "family",
+                  "coords": [
+                        9.194175,
+                        47.706262
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "A Piazza Cisternino egy szabadidős és találkozási hely Konstanzban.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "A tägerwileni Seerheinbad a kikapcsolódás és a vízi fürdőzés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Strandbad Litzelstetten",
+                  "text": "A litzelstetteni strand fürdési lehetőséget kínál a Bodeni-tónál, természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.179488,
+                        47.720113
+                  ]
+            },
+            {
+                  "name": "Badestelle Universität Konstanz",
+                  "text": "A konstanz-i egyetemnél található fürdőhelyet szívesen használják a tóban való hűsölésre.",
+                  "category": "family",
+                  "coords": [
+                        9.193272,
+                        47.696004
                   ]
             }
       ],
@@ -13435,6 +14173,105 @@ export const poiExtraDe1: POI[] = [
                         9.178888,
                         47.656432
                   ]
+            },
+            {
+                  "name": "Mainau Kinderland",
+                  "text": "Mainau Kinderland este un paradis al jocurilor pentru copii pe insula florilor Mainau.",
+                  "category": "family",
+                  "coords": [
+                        9.191898,
+                        47.704143
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Baia termală Egelsee oferă scăldat relaxant în apă caldă.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "Strandbad Horn este o zonă verde de pe malul lacului Constanța, care invită la relaxare și scăldat.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "Bodensee-Therme din Konstanz oferă acces direct la lac pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "Grădina zoologică din Kreuzlingen oferă familiilor ocazia de a observa diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "Rheinstrandbad oferă posibilități de scăldat direct pe malul Rinului.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Schmetterlingshaus",
+                  "text": "Casa fluturilor adăpostește numeroase specii exotice de fluturi într-o atmosferă tropicală.",
+                  "category": "family",
+                  "coords": [
+                        9.194175,
+                        47.706262
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "Piazza Cisternino este o zonă amenajată pentru recreere și întâlniri în Konstanz.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "Seerheinbad Tägerwilen este un loc pentru relaxare și scăldat pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Strandbad Litzelstetten",
+                  "text": "Strandul Litzelstetten oferă posibilități de scăldat la lacul Constanța, într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        9.179488,
+                        47.720113
+                  ]
+            },
+            {
+                  "name": "Badestelle Universität Konstanz",
+                  "text": "Locul de scăldat de la Universitatea din Konstanz este adesea folosit pentru o răcorire în lac.",
+                  "category": "family",
+                  "coords": [
+                        9.193272,
+                        47.696004
+                  ]
             }
       ],
       "en": [
@@ -13847,6 +14684,105 @@ export const poiExtraDe1: POI[] = [
                         9.178888,
                         47.656432
                   ]
+            },
+            {
+                  "name": "Mainau Kinderland",
+                  "text": "The Mainau Kinderland is a play paradise for children on the flower island of Mainau.",
+                  "category": "family",
+                  "coords": [
+                        9.191898,
+                        47.704143
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "The Egelsee thermal bath offers relaxing bathing in warm water.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "The Strandbad Horn is a green area by Lake Constance that invites you to relax and bathe.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "The Bodensee-Therme in Constance offers direct access to the lake for swimming.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "The Kreuzlingen animal park offers families the opportunity to observe various animals.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "The Rheinstrandbad offers bathing possibilities directly on the banks of the Rhine.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Schmetterlingshaus",
+                  "text": "The butterfly house is home to numerous exotic butterfly species in a tropical atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        9.194175,
+                        47.706262
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "The Piazza Cisternino is a designed area for leisure and encounter in Constance.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "The Seerheinbad Tägerwilen is a place for relaxation and bathing by the water.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Strandbad Litzelstetten",
+                  "text": "The Litzelstetten beach pool offers bathing possibilities at Lake Constance in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.179488,
+                        47.720113
+                  ]
+            },
+            {
+                  "name": "Badestelle Universität Konstanz",
+                  "text": "The bathing spot at the University of Constance is often used for a cooling dip in the lake.",
+                  "category": "family",
+                  "coords": [
+                        9.193272,
+                        47.696004
+                  ]
             }
       ],
       "tr": [
@@ -14196,124 +15132,7 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Saray, 1695 yılında Schloss Lützenburg adıyla kuruldu.", "Kraliçe Sophie Charlotte'un 1705'teki ölümünden sonra onun onuruna yeniden adlandırıldı.", "Dikkat çekici saray kubbesi toplam 48 metre yüksekliğe ulaşır.", "İkinci Dünya Savaşı'nda saray, 1943'teki bir hava saldırısında ağır hasar gördü.", "Külliye, Frankreich dışındaki en büyük 18. yüzyıl Fransız resim koleksiyonuna ev sahipliği yapar.", "Saray bahçesi, 1697'den itibaren Siméon Godeau tarafından Versailles örnek alınarak düzenlendi."]}, image: "/poi-images/landmark-charlottenburg-palace-extra.webp"},
 
   {
-    id: "forest-grunewald-extra", "sights": {
-      "de": [
-            {
-                  "name": "Hundebadestelle",
-                  "text": "Hundebadestelle im Grunewald bei Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.259048,
-                        52.480219
-                  ]
-            },
-            {
-                  "name": "Radfahrerwiese",
-                  "text": "Die Radfahrerwiese befindet sich im Grunewald.",
-                  "category": "recreational",
-                  "coords": [
-                        13.18958,
-                        52.458791
-                  ]
-            },
-            {
-                  "name": "Badestrand für Alle",
-                  "text": "Dieser Badestrand im Grunewald ist ein beliebtes Ausflugsziel in Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.239586,
-                        52.454429
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hundebadestelle",
-                  "text": "Kutyás fürdőhely a berlini Grunewald erdőben.",
-                  "category": "recreational",
-                  "coords": [
-                        13.259048,
-                        52.480219
-                  ]
-            },
-            {
-                  "name": "Radfahrerwiese",
-                  "text": "A Radfahrerwiese a Grunewald erdőben található.",
-                  "category": "recreational",
-                  "coords": [
-                        13.18958,
-                        52.458791
-                  ]
-            },
-            {
-                  "name": "Badestrand für Alle",
-                  "text": "Ez a Grunewald-i strand egy népszerű kirándulóhely Berlinben.",
-                  "category": "recreational",
-                  "coords": [
-                        13.239586,
-                        52.454429
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hundebadestelle",
-                  "text": "Zonă de îmbăiere pentru câini în pădurea Grunewald, lângă Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.259048,
-                        52.480219
-                  ]
-            },
-            {
-                  "name": "Radfahrerwiese",
-                  "text": "Radfahrerwiese se află în pădurea Grunewald.",
-                  "category": "recreational",
-                  "coords": [
-                        13.18958,
-                        52.458791
-                  ]
-            },
-            {
-                  "name": "Badestrand für Alle",
-                  "text": "Această plajă din Grunewald este o destinație populară de excursie în Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.239586,
-                        52.454429
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hundebadestelle",
-                  "text": "Dog beach in the Grunewald forest near Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.259048,
-                        52.480219
-                  ]
-            },
-            {
-                  "name": "Radfahrerwiese",
-                  "text": "Radfahrerwiese is located in the Grunewald forest.",
-                  "category": "recreational",
-                  "coords": [
-                        13.18958,
-                        52.458791
-                  ]
-            },
-            {
-                  "name": "Badestrand für Alle",
-                  "text": "This beach in Grunewald is a popular destination in Berlin.",
-                  "category": "recreational",
-                  "coords": [
-                        13.239586,
-                        52.454429
-                  ]
-            }
-      ]
-},
+    id: "forest-grunewald-extra", "sights": {"de": [{"name": "Hundebadestelle", "text": "Hundebadestelle im Grunewald bei Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Die Radfahrerwiese befindet sich im Grunewald.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "Mitten im grünen Grunewald von Berlin lockt der Badestrand für Alle als unkompliziertes Ausflugsziel ans Wasser. Die entspannte, lokale Atmosphäre zieht Städter an, die an warmen Tagen Abkühlung suchen oder gemütlich am Ufer sitzen möchten. Bäume spenden natürlichen Schatten, während das kühle Nass zu einer spontanen Erfrischung einlädt. Besonders am Wochenende ist es ein lebhafter Treffpunkt, weshalb sich eine frühe Anreise empfiehlt.", "category": "recreational", "coords": [13.239586, 52.454429]}], "hu": [{"name": "Hundebadestelle", "text": "Kutyás fürdőhely a berlini Grunewald erdőben.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "A Radfahrerwiese a Grunewald erdőben található.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "A berlini zöldellő Grunewald szívében található Badestrand für Alle egyszerű és nagyszerű vízparti kirándulóhely. A nyugodt, helyi légkör vonzza a városiakat, akik a meleg napokon hűsölni vágynak, vagy csak kényelmesen szeretnének ülni a parton. A fák természetes árnyékot adnak, a hűs víz pedig egy spontán felfrissülésre csábít. Különösen hétvégén nyüzsgő találkozóhely, ezért érdemes korán érkezni.", "category": "recreational", "coords": [13.239586, 52.454429]}], "ro": [{"name": "Hundebadestelle", "text": "Zonă de îmbăiere pentru câini în pădurea Grunewald, lângă Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Radfahrerwiese se află în pădurea Grunewald.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "În mijlocul pădurii verzi Grunewald din Berlin, Badestrand pentru Toți atrage ca o destinație de excursie necomplicată la malul apei. Atmosfera relaxată și locală atrage orășenii care caută răcorire în zilele călduroase sau care doresc să stea confortabil pe țărm. Copacii oferă umbră naturală, în timp ce apa rece vă invită la o împrospătare spontană. Mai ales în weekend, este un loc de întâlnire plin de viață, motiv pentru care se recomandă sosirea devreme.", "category": "recreational", "coords": [13.239586, 52.454429]}], "en": [{"name": "Hundebadestelle", "text": "Dog beach in the Grunewald forest near Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Radfahrerwiese is located in the Grunewald forest.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "Right in the middle of Berlin's lush Grunewald, the Badestrand für Alle beckons as an uncomplicated waterfront excursion destination. The relaxed, highly local atmosphere draws city dwellers looking to cool down on warm days or simply sit comfortably by the shore. Trees provide wonderful natural shade, while the cool water practically begs for a spontaneous refreshing dip. It is a particularly lively gathering place on weekends, so an early arrival is definitely recommended.", "category": "recreational", "coords": [13.239586, 52.454429]}]},
     type: "forest",
     parent: "DE-BE",
     coords: [13.2167, 52.4833],

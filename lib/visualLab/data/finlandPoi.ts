@@ -731,6 +731,87 @@ export const finlandRegions: POI[] = [
                         24.969483,
                         60.174045
                   ]
+            },
+            {
+                  "name": "Tropicario",
+                  "text": "Tropicario ist ein Zoo in Helsinki. Er spezialisiert sich auf tropische Tierarten für interessierte Besucher.",
+                  "category": "family",
+                  "coords": [
+                        24.95598,
+                        60.193799
+                  ]
+            },
+            {
+                  "name": "Leo's Tripla",
+                  "text": "Leo's Tripla ist ein Freizeitpark in Helsinki. Er bietet Spiel und Spaß für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.930733,
+                        60.198151
+                  ]
+            },
+            {
+                  "name": "Sea Life Helsinki",
+                  "text": "Sea Life Helsinki ist ein Aquarium in Helsinki. Es beherbergt zahlreiche Meeresbewohner in verschiedenen Becken.",
+                  "category": "family",
+                  "coords": [
+                        24.938963,
+                        60.189105
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Iso allas ist ein Schwimmbad in Helsinki. Es bietet Möglichkeiten zum Schwimmen und für Wassersport.",
+                  "category": "family",
+                  "coords": [
+                        24.930874,
+                        60.188642
+                  ]
+            },
+            {
+                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
+                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas ist ein Schwimmbad in Helsinki. Es ist ein beliebter Treffpunkt für Familien im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        24.933816,
+                        60.161231
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Uunisaaren uimaranta ist ein Badebereich in Helsinki. Er bietet eine schöne Umgebung für einen Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        24.951457,
+                        60.152673
+                  ]
+            },
+            {
+                  "name": "Korkeasaaren eläintarha",
+                  "text": "Korkeasaari Zoo ist ein Zoo in Helsinki. Er befindet sich auf einer Insel und zeigt Tiere aus aller Welt.",
+                  "category": "family",
+                  "coords": [
+                        24.986113,
+                        60.174587
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool & Terrace",
+                  "text": "Rooftop Pool & Terrace ist ein Schwimmbad in Helsinki. Es kombiniert Badespaß mit einem Ausblick über die Stadt.",
+                  "category": "family",
+                  "coords": [
+                        24.922236,
+                        60.159655
+                  ]
+            },
+            {
+                  "name": "Laguuni Mustikkamaa vesipuisto",
+                  "text": "Laguuni Mustikkamaa vesipuisto ist ein Wasserpark in Helsinki. Er bietet aktive Erholung auf und im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        24.992221,
+                        60.183001
+                  ]
             }
       ],
       "hu": [
@@ -1398,6 +1479,87 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.969483,
                         60.174045
+                  ]
+            },
+            {
+                  "name": "Tropicario",
+                  "text": "A Tropicario egy állatkert Helsinkiben. Trópusi állatfajokra specializálódott az érdeklődő látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        24.95598,
+                        60.193799
+                  ]
+            },
+            {
+                  "name": "Leo's Tripla",
+                  "text": "A Leo's Tripla egy vidámpark Helsinkiben. Játékot és szórakozást kínál gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.930733,
+                        60.198151
+                  ]
+            },
+            {
+                  "name": "Sea Life Helsinki",
+                  "text": "A Sea Life Helsinki egy akvárium Helsinkiben. Számos tengeri élőlénynek ad otthont különböző medencékben.",
+                  "category": "family",
+                  "coords": [
+                        24.938963,
+                        60.189105
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Az Iso allas egy úszómedence Helsinkiben. Úszási és vízi sportolási lehetőségeket biztosít.",
+                  "category": "family",
+                  "coords": [
+                        24.930874,
+                        60.188642
+                  ]
+            },
+            {
+                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
+                  "text": "A Sinebrychoffinpuiston kahluu-/uima-allas egy úszómedence Helsinkiben. Kedvelt találkozóhely családoknak nyáron.",
+                  "category": "family",
+                  "coords": [
+                        24.933816,
+                        60.161231
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Az Uunisaaren uimaranta egy strand Helsinkiben. Szép környezetet biztosít egy vízparti naphoz.",
+                  "category": "family",
+                  "coords": [
+                        24.951457,
+                        60.152673
+                  ]
+            },
+            {
+                  "name": "Korkeasaaren eläintarha",
+                  "text": "A Korkeasaari Zoo egy állatkert Helsinkiben. Egy szigeten található, és a világ minden tájáról mutat be állatokat.",
+                  "category": "family",
+                  "coords": [
+                        24.986113,
+                        60.174587
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool & Terrace",
+                  "text": "A Rooftop Pool & Terrace egy úszómedence Helsinkiben. A fürdőzést a városra nyíló kilátással ötvözi.",
+                  "category": "family",
+                  "coords": [
+                        24.922236,
+                        60.159655
+                  ]
+            },
+            {
+                  "name": "Laguuni Mustikkamaa vesipuisto",
+                  "text": "A Laguuni Mustikkamaa vesipuisto egy vízipark Helsinkiben. Aktív kikapcsolódást kínál a vízen és a vízben.",
+                  "category": "family",
+                  "coords": [
+                        24.992221,
+                        60.183001
                   ]
             }
       ],
@@ -2067,6 +2229,87 @@ export const finlandRegions: POI[] = [
                         24.969483,
                         60.174045
                   ]
+            },
+            {
+                  "name": "Tropicario",
+                  "text": "Tropicario este o grădină zoologică în Helsinki. Se specializează în specii tropicale pentru vizitatorii interesați.",
+                  "category": "family",
+                  "coords": [
+                        24.95598,
+                        60.193799
+                  ]
+            },
+            {
+                  "name": "Leo's Tripla",
+                  "text": "Leo's Tripla este un parc de distracții în Helsinki. Oferă jocuri și distracție pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        24.930733,
+                        60.198151
+                  ]
+            },
+            {
+                  "name": "Sea Life Helsinki",
+                  "text": "Sea Life Helsinki este un acvariu în Helsinki. Găzduiește numeroase viețuitoare marine în diverse bazine.",
+                  "category": "family",
+                  "coords": [
+                        24.938963,
+                        60.189105
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Iso allas este o piscină în Helsinki. Oferă oportunități pentru înot și sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        24.930874,
+                        60.188642
+                  ]
+            },
+            {
+                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
+                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas este o piscină în Helsinki. Este un loc de întâlnire popular pentru familii în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        24.933816,
+                        60.161231
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Uunisaaren uimaranta este o zonă de înot în Helsinki. Oferă un cadru frumos pentru o zi la apă.",
+                  "category": "family",
+                  "coords": [
+                        24.951457,
+                        60.152673
+                  ]
+            },
+            {
+                  "name": "Korkeasaaren eläintarha",
+                  "text": "Korkeasaari Zoo este o grădină zoologică în Helsinki. Este situată pe o insulă și prezintă animale din întreaga lume.",
+                  "category": "family",
+                  "coords": [
+                        24.986113,
+                        60.174587
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool & Terrace",
+                  "text": "Rooftop Pool & Terrace este o piscină în Helsinki. Combină distracția la scăldat cu o vedere asupra orașului.",
+                  "category": "family",
+                  "coords": [
+                        24.922236,
+                        60.159655
+                  ]
+            },
+            {
+                  "name": "Laguuni Mustikkamaa vesipuisto",
+                  "text": "Laguuni Mustikkamaa vesipuisto este un parc acvatic în Helsinki. Oferă recreere activă pe și în apă.",
+                  "category": "family",
+                  "coords": [
+                        24.992221,
+                        60.183001
+                  ]
             }
       ],
       "en": [
@@ -2735,6 +2978,87 @@ export const finlandRegions: POI[] = [
                         24.969483,
                         60.174045
                   ]
+            },
+            {
+                  "name": "Tropicario",
+                  "text": "Tropicario is a zoo in Helsinki. It specializes in tropical animal species for interested visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.95598,
+                        60.193799
+                  ]
+            },
+            {
+                  "name": "Leo's Tripla",
+                  "text": "Leo's Tripla is a theme park in Helsinki. It offers play and fun for children and families.",
+                  "category": "family",
+                  "coords": [
+                        24.930733,
+                        60.198151
+                  ]
+            },
+            {
+                  "name": "Sea Life Helsinki",
+                  "text": "Sea Life Helsinki is an aquarium in Helsinki. It houses numerous marine creatures in various tanks.",
+                  "category": "family",
+                  "coords": [
+                        24.938963,
+                        60.189105
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Iso allas is a swimming pool in Helsinki. It offers opportunities for swimming and water sports.",
+                  "category": "family",
+                  "coords": [
+                        24.930874,
+                        60.188642
+                  ]
+            },
+            {
+                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
+                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas is a swimming pool in Helsinki. It is a popular meeting spot for families in summer.",
+                  "category": "family",
+                  "coords": [
+                        24.933816,
+                        60.161231
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Uunisaaren uimaranta is a swimming area in Helsinki. It provides a beautiful setting for a day by the water.",
+                  "category": "family",
+                  "coords": [
+                        24.951457,
+                        60.152673
+                  ]
+            },
+            {
+                  "name": "Korkeasaari Zoo",
+                  "text": "Korkeasaari Zoo is a zoo in Helsinki. It is located on an island and displays animals from all over the world.",
+                  "category": "family",
+                  "coords": [
+                        24.986113,
+                        60.174587
+                  ]
+            },
+            {
+                  "name": "Rooftop Pool & Terrace",
+                  "text": "Rooftop Pool & Terrace is a swimming pool in Helsinki. It combines swimming fun with a view over the city.",
+                  "category": "family",
+                  "coords": [
+                        24.922236,
+                        60.159655
+                  ]
+            },
+            {
+                  "name": "Laguuni Mustikkamaa vesipuisto",
+                  "text": "Laguuni Mustikkamaa vesipuisto is a water park in Helsinki. It offers active recreation on and in the water.",
+                  "category": "family",
+                  "coords": [
+                        24.992221,
+                        60.183001
+                  ]
             }
       ]
 },
@@ -2781,7 +3105,232 @@ export const finlandRegions: POI[] = [
     },
   },
   {
-    id: "city-tampere",
+    id: "city-tampere", "sights": {
+      "de": [
+            {
+                  "name": "Särkänniemen akvaario",
+                  "text": "Dieses Aquarium in Tampere zeigt verschiedene Wasserarten für einen interessanten Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        23.742617,
+                        61.504871
+                  ]
+            },
+            {
+                  "name": "Holiday Club Tampereen Kehräämö",
+                  "text": "Ein entspannender Wellness- und Poolbereich in Tampere, der ideal für einen Familienausflug ist.",
+                  "category": "family",
+                  "coords": [
+                        23.774028,
+                        61.511417
+                  ]
+            },
+            {
+                  "name": "Massunlasten uimapaikka",
+                  "text": "Ein öffentlicher Badeplatz in Tampere, der Familien einen Ort zum Abkühlen und Schwimmen bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.765524,
+                        61.508584
+                  ]
+            },
+            {
+                  "name": "Särkänniemi",
+                  "text": "Ein berühmter Freizeitpark in Tampere mit Fahrgeschäften und Attraktionen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.744347,
+                        61.50503
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen kansankylpylä",
+                  "text": "Historische öffentliche Bäder in Tampere, die Seeschwimmen und Saunen für Familien bieten.",
+                  "category": "family",
+                  "coords": [
+                        23.786372,
+                        61.515634
+                  ]
+            },
+            {
+                  "name": "Mältinrannan talviuintipaikka",
+                  "text": "Ein spezieller Winterbadeplatz in Tampere für Familien, die das Schwimmen im kalten Wasser mögen.",
+                  "category": "family",
+                  "coords": [
+                        23.756155,
+                        61.504329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Särkänniemen akvaario",
+                  "text": "Ez a tamperei akvárium különféle vízi fajokat mutat be egy érdekes családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        23.742617,
+                        61.504871
+                  ]
+            },
+            {
+                  "name": "Holiday Club Tampereen Kehräämö",
+                  "text": "Pihentető fürdő- és medencerészleg Tamperében, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        23.774028,
+                        61.511417
+                  ]
+            },
+            {
+                  "name": "Massunlasten uimapaikka",
+                  "text": "Nyilvános úszóhely Tamperében, amely lehetőséget biztosít a családoknak a hűsölésre és úszásra.",
+                  "category": "family",
+                  "coords": [
+                        23.765524,
+                        61.508584
+                  ]
+            },
+            {
+                  "name": "Särkänniemi",
+                  "text": "Híres vidámpark Tamperében játékokkal és látnivalókkal minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        23.744347,
+                        61.50503
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen kansankylpylä",
+                  "text": "Történelmi nyilvános fürdő Tamperében, amely tavi úszást és szaunázást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        23.786372,
+                        61.515634
+                  ]
+            },
+            {
+                  "name": "Mältinrannan talviuintipaikka",
+                  "text": "Különleges téli úszóhely Tamperében a hideg vízi úszást kedvelő családok számára.",
+                  "category": "family",
+                  "coords": [
+                        23.756155,
+                        61.504329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Särkänniemen akvaario",
+                  "text": "Acest acvariu din Tampere prezintă diverse specii acvatice pentru o vizită interesantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        23.742617,
+                        61.504871
+                  ]
+            },
+            {
+                  "name": "Holiday Club Tampereen Kehräämö",
+                  "text": "O zonă relaxantă de spa și piscină în Tampere, ideală pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        23.774028,
+                        61.511417
+                  ]
+            },
+            {
+                  "name": "Massunlasten uimapaikka",
+                  "text": "Un loc public de înot în Tampere, oferind familiilor un loc pentru a se răcori și a înota.",
+                  "category": "family",
+                  "coords": [
+                        23.765524,
+                        61.508584
+                  ]
+            },
+            {
+                  "name": "Särkänniemi",
+                  "text": "Un parc tematic renumit în Tampere, cu atracții și activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.744347,
+                        61.50503
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen kansankylpylä",
+                  "text": "Băi publice istorice din Tampere, oferind înot în lac și saune pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        23.786372,
+                        61.515634
+                  ]
+            },
+            {
+                  "name": "Mältinrannan talviuintipaikka",
+                  "text": "Un loc special de înot pe timp de iarnă în Tampere pentru familiile cărora le place înotul în apă rece.",
+                  "category": "family",
+                  "coords": [
+                        23.756155,
+                        61.504329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Särkänniemi Aquarium",
+                  "text": "This aquarium in Tampere showcases various aquatic species for an interesting family visit.",
+                  "category": "family",
+                  "coords": [
+                        23.742617,
+                        61.504871
+                  ]
+            },
+            {
+                  "name": "Pool area and day spa at Tampereen Kehräämö",
+                  "text": "A relaxing spa and pool area in Tampere, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        23.774028,
+                        61.511417
+                  ]
+            },
+            {
+                  "name": "Massunlasten uimapaikka",
+                  "text": "A public swimming spot in Tampere, providing families with a place to cool off and swim.",
+                  "category": "family",
+                  "coords": [
+                        23.765524,
+                        61.508584
+                  ]
+            },
+            {
+                  "name": "Särkänniemi",
+                  "text": "A famous theme park in Tampere with rides and attractions for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        23.744347,
+                        61.50503
+                  ]
+            },
+            {
+                  "name": "Rauhaniemi Public Baths",
+                  "text": "Historic public baths in Tampere offering lake swimming and saunas for families.",
+                  "category": "family",
+                  "coords": [
+                        23.786372,
+                        61.515634
+                  ]
+            },
+            {
+                  "name": "Mältinrannan talviuintipaikka",
+                  "text": "A special winter swimming spot in Tampere for families who enjoy cold water swimming.",
+                  "category": "family",
+                  "coords": [
+                        23.756155,
+                        61.504329
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "finland",
     coords: [23.7609, 61.4978],
@@ -3474,6 +4023,24 @@ export const finlandRegions: POI[] = [
                         22.277089,
                         60.430491
                   ]
+            },
+            {
+                  "name": "Holiday Club Caribia",
+                  "text": "Holiday Club Caribia ist ein Wasserpark in Turku, der Erholung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.291599,
+                        60.460617
+                  ]
+            },
+            {
+                  "name": "Vartiovuoren kahluualtaan leikkipaikka",
+                  "text": "Vartiovuoren kahluualtaan leikkipaikka ist ein Planschbecken und Spielplatz in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.273553,
+                        60.447304
+                  ]
             }
       ],
       "hu": [
@@ -4123,6 +4690,24 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         22.277089,
                         60.430491
+                  ]
+            },
+            {
+                  "name": "Holiday Club Caribia",
+                  "text": "A Holiday Club Caribia egy vízi park Turkuban, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.291599,
+                        60.460617
+                  ]
+            },
+            {
+                  "name": "Vartiovuoren kahluualtaan leikkipaikka",
+                  "text": "A Vartiovuoren kahluualtaan leikkipaikka egy pancsolómedence és játszótér Turkuban.",
+                  "category": "family",
+                  "coords": [
+                        22.273553,
+                        60.447304
                   ]
             }
       ],
@@ -4774,6 +5359,24 @@ export const finlandRegions: POI[] = [
                         22.277089,
                         60.430491
                   ]
+            },
+            {
+                  "name": "Holiday Club Caribia",
+                  "text": "Holiday Club Caribia este un parc acvatic în Turku, oferind recreere pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.291599,
+                        60.460617
+                  ]
+            },
+            {
+                  "name": "Vartiovuoren kahluualtaan leikkipaikka",
+                  "text": "Vartiovuoren kahluualtaan leikkipaikka este o piscină pentru copii și loc de joacă în Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.273553,
+                        60.447304
+                  ]
             }
       ],
       "en": [
@@ -5424,6 +6027,24 @@ export const finlandRegions: POI[] = [
                         22.277089,
                         60.430491
                   ]
+            },
+            {
+                  "name": "Holiday Club Caribia",
+                  "text": "Holiday Club Caribia is a water park in Turku providing recreation for families.",
+                  "category": "family",
+                  "coords": [
+                        22.291599,
+                        60.460617
+                  ]
+            },
+            {
+                  "name": "Vartiovuoren kahluualtaan leikkipaikka",
+                  "text": "Vartiovuoren kahluualtaan leikkipaikka is a wading pool and playground in Turku.",
+                  "category": "family",
+                  "coords": [
+                        22.273553,
+                        60.447304
+                  ]
             }
       ]
 },
@@ -5977,6 +6598,24 @@ export const finlandCities: POI[] = [
                         24.677477,
                         60.197806
                   ]
+            },
+            {
+                  "name": "Latokasken asukaspuiston kahluuallas",
+                  "text": "Latokasken asukaspuiston kahluuallas ist ein Schwimmbad in Espoo. Es ist speziell für jüngere Kinder zum Planschen geeignet.",
+                  "category": "family",
+                  "coords": [
+                        24.663473,
+                        60.178028
+                  ]
+            },
+            {
+                  "name": "Glimsin 4H-kotieläinpiha",
+                  "text": "Glims 4-H Farm Animal Yard ist ein Zoo in Espoo. Besucher können hier verschiedene Bauernhoftiere hautnah erleben.",
+                  "category": "family",
+                  "coords": [
+                        24.681673,
+                        60.220664
+                  ]
             }
       ],
       "hu": [
@@ -6230,6 +6869,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.677477,
                         60.197806
+                  ]
+            },
+            {
+                  "name": "Latokasken asukaspuiston kahluuallas",
+                  "text": "A Latokasken asukaspuiston kahluuallas egy úszómedence Espooban. Kifejezetten kisgyermekek számára alkalmas pancsolásra.",
+                  "category": "family",
+                  "coords": [
+                        24.663473,
+                        60.178028
+                  ]
+            },
+            {
+                  "name": "Glimsin 4H-kotieläinpiha",
+                  "text": "A Glims 4-H Farm Animal Yard egy állatkert Espooban. A látogatók itt különféle tanyasi állatokkal ismerkedhetnek meg közelebbről.",
+                  "category": "family",
+                  "coords": [
+                        24.681673,
+                        60.220664
                   ]
             }
       ],
@@ -6485,6 +7142,24 @@ export const finlandCities: POI[] = [
                         24.677477,
                         60.197806
                   ]
+            },
+            {
+                  "name": "Latokasken asukaspuiston kahluuallas",
+                  "text": "Latokasken asukaspuiston kahluuallas este o piscină în Espoo. Este potrivită în special pentru copiii mici care vor să se bălacească.",
+                  "category": "family",
+                  "coords": [
+                        24.663473,
+                        60.178028
+                  ]
+            },
+            {
+                  "name": "Glimsin 4H-kotieläinpiha",
+                  "text": "Glims 4-H Farm Animal Yard este o grădină zoologică în Espoo. Vizitatorii pot vedea de aproape diverse animale de fermă.",
+                  "category": "family",
+                  "coords": [
+                        24.681673,
+                        60.220664
+                  ]
             }
       ],
       "en": [
@@ -6738,6 +7413,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.677477,
                         60.197806
+                  ]
+            },
+            {
+                  "name": "Latokasken asukaspuiston kahluuallas",
+                  "text": "Latokasken asukaspuiston kahluuallas is a swimming pool in Espoo. It is especially suitable for young children for splashing around.",
+                  "category": "family",
+                  "coords": [
+                        24.663473,
+                        60.178028
+                  ]
+            },
+            {
+                  "name": "Glims 4-H Farm Animal Yard",
+                  "text": "Glims 4-H Farm Animal Yard is a zoo in Espoo. Visitors can experience various farm animals up close.",
+                  "category": "family",
+                  "coords": [
+                        24.681673,
+                        60.220664
                   ]
             }
       ]
@@ -9638,6 +10331,24 @@ export const finlandCities: POI[] = [
                         25.040168,
                         60.292998
                   ]
+            },
+            {
+                  "name": "Siltamäen aluepuisto/lasten kahluuallas",
+                  "text": "Siltamäen aluepuisto/lasten kahluuallas ist ein Schwimmbad für Kinder in Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        24.986821,
+                        60.275366
+                  ]
+            },
+            {
+                  "name": "Lasten kahluuallas",
+                  "text": "Lasten kahluuallas ist ein Planschbecken für Kinder in Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        25.00596,
+                        60.281333
+                  ]
             }
       ],
       "hu": [
@@ -9846,6 +10557,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.040168,
                         60.292998
+                  ]
+            },
+            {
+                  "name": "Siltamäen aluepuisto/lasten kahluuallas",
+                  "text": "A Siltamäen aluepuisto/lasten kahluuallas egy gyermekmedence Vantaa városában.",
+                  "category": "family",
+                  "coords": [
+                        24.986821,
+                        60.275366
+                  ]
+            },
+            {
+                  "name": "Lasten kahluuallas",
+                  "text": "A Lasten kahluuallas egy pancsolómedence gyerekeknek Vantaa városában.",
+                  "category": "family",
+                  "coords": [
+                        25.00596,
+                        60.281333
                   ]
             }
       ],
@@ -10056,6 +10785,24 @@ export const finlandCities: POI[] = [
                         25.040168,
                         60.292998
                   ]
+            },
+            {
+                  "name": "Siltamäen aluepuisto/lasten kahluuallas",
+                  "text": "Siltamäen aluepuisto/lasten kahluuallas este o piscină pentru copii în Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        24.986821,
+                        60.275366
+                  ]
+            },
+            {
+                  "name": "Lasten kahluuallas",
+                  "text": "Lasten kahluuallas este o piscină pentru copii în Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        25.00596,
+                        60.281333
+                  ]
             }
       ],
       "en": [
@@ -10264,6 +11011,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.040168,
                         60.292998
+                  ]
+            },
+            {
+                  "name": "Siltamäen aluepuisto/lasten kahluuallas",
+                  "text": "Siltamäen aluepuisto/lasten kahluuallas is a children's swimming pool in Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        24.986821,
+                        60.275366
+                  ]
+            },
+            {
+                  "name": "Lasten kahluuallas",
+                  "text": "Lasten kahluuallas is a children's wading pool in Vantaa.",
+                  "category": "family",
+                  "coords": [
+                        25.00596,
+                        60.281333
                   ]
             }
       ]
@@ -10771,6 +11536,15 @@ export const finlandCities: POI[] = [
                         25.698613,
                         60.984854
                   ]
+            },
+            {
+                  "name": "Maauimala",
+                  "text": "Maauimala ist ein Schwimmbad in Lahti. Es bietet Schwimmbecken im Freien für sommerliches Badevergnügen.",
+                  "category": "family",
+                  "coords": [
+                        25.630632,
+                        60.983367
+                  ]
             }
       ],
       "hu": [
@@ -11231,6 +12005,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.698613,
                         60.984854
+                  ]
+            },
+            {
+                  "name": "Maauimala",
+                  "text": "A Maauimala egy úszómedence Lahtiban. Szabadtéri úszómedencéket kínál a nyári fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        25.630632,
+                        60.983367
                   ]
             }
       ],
@@ -11693,6 +12476,15 @@ export const finlandCities: POI[] = [
                         25.698613,
                         60.984854
                   ]
+            },
+            {
+                  "name": "Maauimala",
+                  "text": "Maauimala este o piscină în Lahti. Oferă bazine în aer liber pentru distracția de vară la scăldat.",
+                  "category": "family",
+                  "coords": [
+                        25.630632,
+                        60.983367
+                  ]
             }
       ],
       "en": [
@@ -12153,6 +12945,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.698613,
                         60.984854
+                  ]
+            },
+            {
+                  "name": "Maauimala",
+                  "text": "Maauimala is a swimming pool in Lahti. It offers outdoor swimming pools for summer bathing fun.",
+                  "category": "family",
+                  "coords": [
+                        25.630632,
+                        60.983367
                   ]
             }
       ]
@@ -12822,6 +13623,24 @@ export const finlandCities: POI[] = [
                         25.703458,
                         62.249457
                   ]
+            },
+            {
+                  "name": "Kylpylä Laajavuori",
+                  "text": "Ein Wellnessbereich und Wasserpark in Jyväskylä mit verschiedenen Becken für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        25.69934,
+                        62.259813
+                  ]
+            },
+            {
+                  "name": "Sataman Viilu - Sauna",
+                  "text": "Eine moderne Sauna- und Badeanlage in Jyväskylä, die ein besonderes Familienerlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.760009,
+                        62.235066
+                  ]
             }
       ],
       "hu": [
@@ -13444,6 +14263,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.703458,
                         62.249457
+                  ]
+            },
+            {
+                  "name": "Kylpylä Laajavuori",
+                  "text": "Fürdő és vízipark Jyväskylä városában különféle medencékkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        25.69934,
+                        62.259813
+                  ]
+            },
+            {
+                  "name": "Sataman Viilu - Sauna",
+                  "text": "Modern szauna- és fürdőkomplexum Jyväskylä városában, amely különleges családi élményt nyújt.",
+                  "category": "family",
+                  "coords": [
+                        25.760009,
+                        62.235066
                   ]
             }
       ],
@@ -14068,6 +14905,24 @@ export const finlandCities: POI[] = [
                         25.703458,
                         62.249457
                   ]
+            },
+            {
+                  "name": "Kylpylä Laajavuori",
+                  "text": "Un centru spa și parc acvatic în Jyväskylä, cu diverse piscine pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        25.69934,
+                        62.259813
+                  ]
+            },
+            {
+                  "name": "Sataman Viilu - Sauna",
+                  "text": "O saună modernă și o facilitate de baie în Jyväskylä, oferind o experiență specială în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.760009,
+                        62.235066
+                  ]
             }
       ],
       "en": [
@@ -14690,6 +15545,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.703458,
                         62.249457
+                  ]
+            },
+            {
+                  "name": "Kylpylä Laajavuori",
+                  "text": "A spa and water park in Jyväskylä with various pools for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        25.69934,
+                        62.259813
+                  ]
+            },
+            {
+                  "name": "Sataman Viilu - Sauna",
+                  "text": "A modern sauna and bathing facility in Jyväskylä, offering a special family experience.",
+                  "category": "family",
+                  "coords": [
+                        25.760009,
+                        62.235066
                   ]
             }
       ]
@@ -17050,6 +17923,15 @@ export const finlandCities: POI[] = [
                         29.805105,
                         62.585535
                   ]
+            },
+            {
+                  "name": "Leo's Leikkimaa",
+                  "text": "Leo's Leikkimaa ist ein Freizeitpark in Joensuu. Er bietet vielfältige Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        29.773885,
+                        62.630579
+                  ]
             }
       ],
       "hu": [
@@ -17186,6 +18068,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.805105,
                         62.585535
+                  ]
+            },
+            {
+                  "name": "Leo's Leikkimaa",
+                  "text": "A Leo's Leikkimaa egy vidámpark Joensuuban. Változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        29.773885,
+                        62.630579
                   ]
             }
       ],
@@ -17324,6 +18215,15 @@ export const finlandCities: POI[] = [
                         29.805105,
                         62.585535
                   ]
+            },
+            {
+                  "name": "Leo's Leikkimaa",
+                  "text": "Leo's Leikkimaa este un parc de distracții în Joensuu. Oferă diverse oportunități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        29.773885,
+                        62.630579
+                  ]
             }
       ],
       "en": [
@@ -17460,6 +18360,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.805105,
                         62.585535
+                  ]
+            },
+            {
+                  "name": "Leo's Leikkimaa",
+                  "text": "Leo's Leikkimaa is a theme park in Joensuu. It offers various play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        29.773885,
+                        62.630579
                   ]
             }
       ]
@@ -17949,6 +18858,24 @@ export const finlandCities: POI[] = [
                         21.580349,
                         63.098281
                   ]
+            },
+            {
+                  "name": "Vaasan kaupingin yleinen avantouintipaikka",
+                  "text": "Ein öffentlicher Eisschwimmplatz in Vaasa, der Familien ein belebendes Erlebnis im Winter bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.600361,
+                        63.095227
+                  ]
+            },
+            {
+                  "name": "Vaasan pingviinit",
+                  "text": "Ein örtlicher Badeplatz in Vaasa, der ideal für das Schwimmen mit der Familie im Freien ist.",
+                  "category": "family",
+                  "coords": [
+                        21.593117,
+                        63.095385
+                  ]
             }
       ],
       "hu": [
@@ -18391,6 +19318,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.580349,
                         63.098281
+                  ]
+            },
+            {
+                  "name": "Vaasan kaupingin yleinen avantouintipaikka",
+                  "text": "Nyilvános jeges úszóhely Vaasában, amely élénkítő téli élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        21.600361,
+                        63.095227
+                  ]
+            },
+            {
+                  "name": "Vaasan pingviinit",
+                  "text": "Helyi fürdőhely Vaasában, amely ideális a szabadtéri családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.593117,
+                        63.095385
                   ]
             }
       ],
@@ -18835,6 +19780,24 @@ export const finlandCities: POI[] = [
                         21.580349,
                         63.098281
                   ]
+            },
+            {
+                  "name": "Vaasan kaupingin yleinen avantouintipaikka",
+                  "text": "Un loc public de înot la copcă în Vaasa, oferind familiilor o experiență revigorantă de iarnă.",
+                  "category": "family",
+                  "coords": [
+                        21.600361,
+                        63.095227
+                  ]
+            },
+            {
+                  "name": "Vaasan pingviinit",
+                  "text": "O zonă locală de scăldat în Vaasa, ideală pentru înotul în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        21.593117,
+                        63.095385
+                  ]
             }
       ],
       "en": [
@@ -19278,6 +20241,24 @@ export const finlandCities: POI[] = [
                         21.580349,
                         63.098281
                   ]
+            },
+            {
+                  "name": "Vaasan kaupingin yleinen avantouintipaikka",
+                  "text": "A public ice swimming spot in Vaasa, offering families an invigorating winter experience.",
+                  "category": "family",
+                  "coords": [
+                        21.600361,
+                        63.095227
+                  ]
+            },
+            {
+                  "name": "Vaasan pingviinit",
+                  "text": "A local bathing area in Vaasa, ideal for outdoor family swimming.",
+                  "category": "family",
+                  "coords": [
+                        21.593117,
+                        63.095385
+                  ]
             }
       ]
 },
@@ -19496,6 +20477,15 @@ export const finlandCities: POI[] = [
                         25.673944,
                         60.395629
                   ]
+            },
+            {
+                  "name": "Kokonniemen maauimala",
+                  "text": "Kokonniemen maauimala ist ein Freibad in Porvoo.",
+                  "category": "family",
+                  "coords": [
+                        25.6483,
+                        60.382605
+                  ]
             }
       ],
       "hu": [
@@ -19668,6 +20658,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.673944,
                         60.395629
+                  ]
+            },
+            {
+                  "name": "Kokonniemen maauimala",
+                  "text": "A Kokonniemen maauimala egy szabadtéri strand Porvoo városában.",
+                  "category": "family",
+                  "coords": [
+                        25.6483,
+                        60.382605
                   ]
             }
       ],
@@ -19842,6 +20841,15 @@ export const finlandCities: POI[] = [
                         25.673944,
                         60.395629
                   ]
+            },
+            {
+                  "name": "Kokonniemen maauimala",
+                  "text": "Kokonniemen maauimala este o zonă de înot în Porvoo.",
+                  "category": "family",
+                  "coords": [
+                        25.6483,
+                        60.382605
+                  ]
             }
       ],
       "en": [
@@ -20015,6 +21023,15 @@ export const finlandCities: POI[] = [
                         25.673944,
                         60.395629
                   ]
+            },
+            {
+                  "name": "Kokonniemen maauimala",
+                  "text": "Kokonniemen maauimala is a swimming area in Porvoo.",
+                  "category": "family",
+                  "coords": [
+                        25.6483,
+                        60.382605
+                  ]
             }
       ]
 },
@@ -20061,808 +21078,7 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-lappeenranta", "sights": {
-      "de": [
-            {
-                  "name": "Mattilan uimaranta",
-                  "text": "Mattilan uimaranta ist ein Strand in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.156958,
-                        61.029521
-                  ]
-            },
-            {
-                  "name": "Ratsuväkimuseo",
-                  "text": "Dieses Museum in der Festung von Lappeenranta widmet sich der Geschichte der finnischen Kavallerie.",
-                  "category": "museum",
-                  "coords": [
-                        28.183446,
-                        61.064183
-                  ]
-            },
-            {
-                  "name": "Etelä-Karjalan museo",
-                  "text": "Ein Museum in der Festung von Lappeenranta, das die Geschichte und Kultur Südkareliens präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        28.183399,
-                        61.067416
-                  ]
-            },
-            {
-                  "name": "Hiekkalinna",
-                  "text": "Eine jährliche Attraktion in Lappeenranta mit beeindruckenden Sandskulpturen.",
-                  "category": "family",
-                  "coords": [
-                        28.184284,
-                        61.068699
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan kaupunginteatteri",
-                  "text": "Das Stadttheater von Lappeenranta bietet vielfältige Aufführungen in einem modernen Gebäude.",
-                  "category": "cultural",
-                  "coords": [
-                        28.193758,
-                        61.057143
-                  ]
-            },
-            {
-                  "name": "Wolkoffin talomuseo",
-                  "text": "Ein historisches Hausmuseum, das das Leben einer Kaufmannsfamilie in Lappeenranta zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        28.185196,
-                        61.060336
-                  ]
-            },
-            {
-                  "name": "Kivikautinen asuinpaikka",
-                  "text": "Eine archäologische Stätte in Lappeenranta, die auf eine steinzeitliche Besiedlung hinweist.",
-                  "category": "historical",
-                  "coords": [
-                        28.134208,
-                        61.055671
-                  ]
-            },
-            {
-                  "name": "Korkkitehtaan uimaranta",
-                  "text": "Ein lokaler Badestrand am Saimaa-See in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.165268,
-                        61.056076
-                  ]
-            },
-            {
-                  "name": "Tyysterniemen uimaranta",
-                  "text": "Ein ruhiger Badestrand auf der Halbinsel Tyysterniemi in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.149745,
-                        61.070394
-                  ]
-            },
-            {
-                  "name": "Linnoituksen kesäteatteri",
-                  "text": "Ein Freilichttheater in der historischen Festung von Lappeenranta.",
-                  "category": "cultural",
-                  "coords": [
-                        28.182196,
-                        61.063787
-                  ]
-            },
-            {
-                  "name": "Pikisaaren uimaranta",
-                  "text": "Ein Strand auf der Insel Pikisaari in der Nähe des Stadtzentrums von Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.174388,
-                        61.074759
-                  ]
-            },
-            {
-                  "name": "Myllysaaren uimaranta",
-                  "text": "Ein zentral gelegener Erholungsbereich mit Badestrand und Sportmöglichkeiten in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.199064,
-                        61.066336
-                  ]
-            },
-            {
-                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
-                  "text": "Ein Denkmal in Lappeenranta für die im Zweiten Weltkrieg gefallenen Kavalleristen.",
-                  "category": "historical",
-                  "coords": [
-                        28.174942,
-                        61.060152
-                  ]
-            },
-            {
-                  "name": "Lappeenranta",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Stadt Lappeenranta bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.202478,
-                        61.077112
-                  ]
-            },
-            {
-                  "name": "Galleria Itä",
-                  "text": "Eine Kunstgalerie in Lappeenranta, die zeitgenössische Werke präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        28.198249,
-                        61.060102
-                  ]
-            },
-            {
-                  "name": "Lappeenranta Photo-Frame",
-                  "text": "Ein beliebter Ort für Fotos mit einem großen Rahmen, der die Stadtlandschaft einfasst.",
-                  "category": "landmark",
-                  "coords": [
-                        28.184879,
-                        61.063997
-                  ]
-            },
-            {
-                  "name": "Näkötornin rauniot",
-                  "text": "Die Überreste eines ehemaligen Aussichtsturms in Lappeenranta.",
-                  "category": "historical",
-                  "coords": [
-                        28.181214,
-                        61.06045
-                  ]
-            },
-            {
-                  "name": "Linnoitusniemen paviljonki",
-                  "text": "Ein Pavillon an der Spitze der Festungshalbinsel mit Blick auf den See.",
-                  "category": "natural",
-                  "coords": [
-                        28.187466,
-                        61.06925
-                  ]
-            },
-            {
-                  "name": "Lappeen Marian kirkko",
-                  "text": "Eine historische Holzkirche in Lappeenranta, bekannt für ihre Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        28.1884,
-                        61.058408
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan vapaaseurakunta",
-                  "text": "Das Kirchengebäude der Freikirchgemeinde in Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.192645,
-                        61.060319
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan helluntaiseurakunta",
-                  "text": "Ein moderner Ort der Anbetung für die Pfingstgemeinde in Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.198471,
-                        61.056987
-                  ]
-            },
-            {
-                  "name": "Charioteer Mk VII Model B tank",
-                  "text": "Ein historischer Panzer, der als Denkmal in Lappeenranta ausgestellt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        28.171578,
-                        61.057377
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mattilan uimaranta",
-                  "text": "Mattilan uimaranta egy strand Lappeenranta városában.",
-                  "category": "recreational",
-                  "coords": [
-                        28.156958,
-                        61.029521
-                  ]
-            },
-            {
-                  "name": "Ratsuväkimuseo",
-                  "text": "A lappeenrantai erődben található múzeum a finn lovasság történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        28.183446,
-                        61.064183
-                  ]
-            },
-            {
-                  "name": "Etelä-Karjalan museo",
-                  "text": "A lappeenrantai erődben található múzeum Dél-Karélia történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        28.183399,
-                        61.067416
-                  ]
-            },
-            {
-                  "name": "Hiekkalinna",
-                  "text": "Évente megrendezett látványosság Lappeenrantában, lenyűgöző homokszobrokkal.",
-                  "category": "family",
-                  "coords": [
-                        28.184284,
-                        61.068699
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan kaupunginteatteri",
-                  "text": "Lappeenranta városi színháza változatos előadásokat kínál egy modern épületben.",
-                  "category": "cultural",
-                  "coords": [
-                        28.193758,
-                        61.057143
-                  ]
-            },
-            {
-                  "name": "Wolkoffin talomuseo",
-                  "text": "Történelmi házmúzeum, amely egy kereskedőcsalád életét mutatja be Lappeenrantában.",
-                  "category": "museum",
-                  "coords": [
-                        28.185196,
-                        61.060336
-                  ]
-            },
-            {
-                  "name": "Kivikautinen asuinpaikka",
-                  "text": "Régészeti lelőhely Lappeenrantában, amely egy kőkorszaki település nyomait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        28.134208,
-                        61.055671
-                  ]
-            },
-            {
-                  "name": "Korkkitehtaan uimaranta",
-                  "text": "Helyi strand a Saimaa-tó partján, Lappeenrantában.",
-                  "category": "recreational",
-                  "coords": [
-                        28.165268,
-                        61.056076
-                  ]
-            },
-            {
-                  "name": "Tyysterniemen uimaranta",
-                  "text": "Csendes strand a lappeenrantai Tyysterniemi-félszigeten.",
-                  "category": "recreational",
-                  "coords": [
-                        28.149745,
-                        61.070394
-                  ]
-            },
-            {
-                  "name": "Linnoituksen kesäteatteri",
-                  "text": "Szabadtéri színház Lappeenranta történelmi erődjében.",
-                  "category": "cultural",
-                  "coords": [
-                        28.182196,
-                        61.063787
-                  ]
-            },
-            {
-                  "name": "Pikisaaren uimaranta",
-                  "text": "Strand a Pikisaari-szigeten, Lappeenranta városközpontjának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        28.174388,
-                        61.074759
-                  ]
-            },
-            {
-                  "name": "Myllysaaren uimaranta",
-                  "text": "Központi üdülőhely stranddal és sportolási lehetőségekkel Lappeenrantában.",
-                  "category": "recreational",
-                  "coords": [
-                        28.199064,
-                        61.066336
-                  ]
-            },
-            {
-                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
-                  "text": "Lappeenrantai emlékmű a második világháborúban elesett lovas katonák tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        28.174942,
-                        61.060152
-                  ]
-            },
-            {
-                  "name": "Lappeenranta",
-                  "text": "Kilátópont, ahonnan széles körkilátás nyílik Lappeenranta városára.",
-                  "category": "natural",
-                  "coords": [
-                        28.202478,
-                        61.077112
-                  ]
-            },
-            {
-                  "name": "Galleria Itä",
-                  "text": "Kortárs művészeti alkotásokat bemutató galéria Lappeenrantában.",
-                  "category": "museum",
-                  "coords": [
-                        28.198249,
-                        61.060102
-                  ]
-            },
-            {
-                  "name": "Lappeenranta Photo-Frame",
-                  "text": "Népszerű fotózási helyszín egy nagy kerettel, amely a városképet keretezi.",
-                  "category": "landmark",
-                  "coords": [
-                        28.184879,
-                        61.063997
-                  ]
-            },
-            {
-                  "name": "Näkötornin rauniot",
-                  "text": "Egy egykori kilátótorony maradványai Lappeenrantában.",
-                  "category": "historical",
-                  "coords": [
-                        28.181214,
-                        61.06045
-                  ]
-            },
-            {
-                  "name": "Linnoitusniemen paviljonki",
-                  "text": "Pavilon az erődfélsziget csúcsán, kilátással a tóra.",
-                  "category": "natural",
-                  "coords": [
-                        28.187466,
-                        61.06925
-                  ]
-            },
-            {
-                  "name": "Lappeen Marian kirkko",
-                  "text": "Történelmi fatemplom Lappeenrantában, amely építészetéről nevezetes.",
-                  "category": "religious",
-                  "coords": [
-                        28.1884,
-                        61.058408
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan vapaaseurakunta",
-                  "text": "A szabadegyház gyülekezeti épülete Lappeenrantában.",
-                  "category": "religious",
-                  "coords": [
-                        28.192645,
-                        61.060319
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan helluntaiseurakunta",
-                  "text": "Modern imaház a pünkösdi gyülekezet számára Lappeenrantában.",
-                  "category": "religious",
-                  "coords": [
-                        28.198471,
-                        61.056987
-                  ]
-            },
-            {
-                  "name": "Charioteer Mk VII Model B tank",
-                  "text": "Lappeenrantában emlékműként kiállított történelmi harckocsi.",
-                  "category": "landmark",
-                  "coords": [
-                        28.171578,
-                        61.057377
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mattilan uimaranta",
-                  "text": "Mattilan uimaranta este o plajă situată în Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.156958,
-                        61.029521
-                  ]
-            },
-            {
-                  "name": "Ratsuväkimuseo",
-                  "text": "Situat în cetatea Lappeenranta, acest muzeu este dedicat istoriei cavaleriei finlandeze.",
-                  "category": "museum",
-                  "coords": [
-                        28.183446,
-                        61.064183
-                  ]
-            },
-            {
-                  "name": "Etelä-Karjalan museo",
-                  "text": "Un muzeu aflat în cetatea Lappeenranta, care prezintă istoria și cultura Kareliei de Sud.",
-                  "category": "museum",
-                  "coords": [
-                        28.183399,
-                        61.067416
-                  ]
-            },
-            {
-                  "name": "Hiekkalinna",
-                  "text": "O atracție anuală în Lappeenranta, cu sculpturi impresionante din nisip.",
-                  "category": "family",
-                  "coords": [
-                        28.184284,
-                        61.068699
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan kaupunginteatteri",
-                  "text": "Teatrul orășenesc din Lappeenranta oferă diverse spectacole într-o clădire modernă.",
-                  "category": "cultural",
-                  "coords": [
-                        28.193758,
-                        61.057143
-                  ]
-            },
-            {
-                  "name": "Wolkoffin talomuseo",
-                  "text": "O casă memorială istorică ce prezintă viața unei familii de negustori din Lappeenranta.",
-                  "category": "museum",
-                  "coords": [
-                        28.185196,
-                        61.060336
-                  ]
-            },
-            {
-                  "name": "Kivikautinen asuinpaikka",
-                  "text": "Un sit arheologic din Lappeenranta care indică o așezare din epoca pietrei.",
-                  "category": "historical",
-                  "coords": [
-                        28.134208,
-                        61.055671
-                  ]
-            },
-            {
-                  "name": "Korkkitehtaan uimaranta",
-                  "text": "O plajă locală pe malul lacului Saimaa în Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.165268,
-                        61.056076
-                  ]
-            },
-            {
-                  "name": "Tyysterniemen uimaranta",
-                  "text": "O plajă liniștită situată pe peninsula Tyysterniemi din Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.149745,
-                        61.070394
-                  ]
-            },
-            {
-                  "name": "Linnoituksen kesäteatteri",
-                  "text": "Un teatru de vară în aer liber situat în cetatea istorică din Lappeenranta.",
-                  "category": "cultural",
-                  "coords": [
-                        28.182196,
-                        61.063787
-                  ]
-            },
-            {
-                  "name": "Pikisaaren uimaranta",
-                  "text": "O plajă pe insula Pikisaari, în apropiere de centrul orașului Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.174388,
-                        61.074759
-                  ]
-            },
-            {
-                  "name": "Myllysaaren uimaranta",
-                  "text": "O zonă de recreere centrală cu plajă și facilități sportive în Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.199064,
-                        61.066336
-                  ]
-            },
-            {
-                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
-                  "text": "Un monument în Lappeenranta dedicat cavaleristilor căzuți în timpul celui de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        28.174942,
-                        61.060152
-                  ]
-            },
-            {
-                  "name": "Lappeenranta",
-                  "text": "Un punct de observare care oferă o vedere panoramică asupra orașului Lappeenranta.",
-                  "category": "natural",
-                  "coords": [
-                        28.202478,
-                        61.077112
-                  ]
-            },
-            {
-                  "name": "Galleria Itä",
-                  "text": "O galerie de artă din Lappeenranta care prezintă lucrări contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        28.198249,
-                        61.060102
-                  ]
-            },
-            {
-                  "name": "Lappeenranta Photo-Frame",
-                  "text": "Un loc popular pentru fotografii, cu o ramă mare care încadrează peisajul urban.",
-                  "category": "landmark",
-                  "coords": [
-                        28.184879,
-                        61.063997
-                  ]
-            },
-            {
-                  "name": "Näkötornin rauniot",
-                  "text": "Vestigiile unui fost turn de observare din Lappeenranta.",
-                  "category": "historical",
-                  "coords": [
-                        28.181214,
-                        61.06045
-                  ]
-            },
-            {
-                  "name": "Linnoitusniemen paviljonki",
-                  "text": "Un pavilion situat în vârful peninsulei cetății, cu vedere spre lac.",
-                  "category": "natural",
-                  "coords": [
-                        28.187466,
-                        61.06925
-                  ]
-            },
-            {
-                  "name": "Lappeen Marian kirkko",
-                  "text": "O biserică istorică din lemn în Lappeenranta, cunoscută pentru arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        28.1884,
-                        61.058408
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan vapaaseurakunta",
-                  "text": "Clădirea bisericii libere din Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.192645,
-                        61.060319
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan helluntaiseurakunta",
-                  "text": "Un lăcaș de cult modern pentru comunitatea penticostală din Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.198471,
-                        61.056987
-                  ]
-            },
-            {
-                  "name": "Charioteer Mk VII Model B tank",
-                  "text": "Un tanc istoric expus ca monument în Lappeenranta.",
-                  "category": "landmark",
-                  "coords": [
-                        28.171578,
-                        61.057377
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mattilan uimaranta",
-                  "text": "Mattilan uimaranta is a beach in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.156958,
-                        61.029521
-                  ]
-            },
-            {
-                  "name": "Cavalry Museum",
-                  "text": "Located in the Lappeenranta Fortress, this museum is dedicated to the history of the Finnish cavalry.",
-                  "category": "museum",
-                  "coords": [
-                        28.183446,
-                        61.064183
-                  ]
-            },
-            {
-                  "name": "Museum of South Karelia",
-                  "text": "A museum in the Lappeenranta Fortress showcasing the history and culture of South Karelia.",
-                  "category": "museum",
-                  "coords": [
-                        28.183399,
-                        61.067416
-                  ]
-            },
-            {
-                  "name": "Sandcastle",
-                  "text": "An annual attraction in Lappeenranta featuring impressive sand sculptures.",
-                  "category": "family",
-                  "coords": [
-                        28.184284,
-                        61.068699
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan kaupunginteatteri",
-                  "text": "The city theatre of Lappeenranta offers a variety of performances in a modern building.",
-                  "category": "cultural",
-                  "coords": [
-                        28.193758,
-                        61.057143
-                  ]
-            },
-            {
-                  "name": "Wolkoffin talomuseo",
-                  "text": "A historic house museum showcasing the life of a merchant family in Lappeenranta.",
-                  "category": "museum",
-                  "coords": [
-                        28.185196,
-                        61.060336
-                  ]
-            },
-            {
-                  "name": "Kivikautinen asuinpaikka",
-                  "text": "An archaeological site in Lappeenranta indicating a Stone Age settlement.",
-                  "category": "historical",
-                  "coords": [
-                        28.134208,
-                        61.055671
-                  ]
-            },
-            {
-                  "name": "Cork factory beach",
-                  "text": "A local swimming beach on the shores of Lake Saimaa in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.165268,
-                        61.056076
-                  ]
-            },
-            {
-                  "name": "Tyysterniemi beach",
-                  "text": "A quiet swimming beach located on the Tyysterniemi peninsula in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.149745,
-                        61.070394
-                  ]
-            },
-            {
-                  "name": "Fortress summer theater",
-                  "text": "An open-air summer theatre located within the historic Lappeenranta Fortress.",
-                  "category": "cultural",
-                  "coords": [
-                        28.182196,
-                        61.063787
-                  ]
-            },
-            {
-                  "name": "Pikisaari beach",
-                  "text": "A beach on Pikisaari island, close to the city center of Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.174388,
-                        61.074759
-                  ]
-            },
-            {
-                  "name": "Myllysaari beach",
-                  "text": "A centrally located recreation area with a beach and sports facilities in Lappeenranta.",
-                  "category": "recreational",
-                  "coords": [
-                        28.199064,
-                        61.066336
-                  ]
-            },
-            {
-                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
-                  "text": "A memorial stone in Lappeenranta honoring cavalrymen fallen during World War II.",
-                  "category": "historical",
-                  "coords": [
-                        28.174942,
-                        61.060152
-                  ]
-            },
-            {
-                  "name": "Lappeenranta",
-                  "text": "A viewpoint offering a broad view over the city of Lappeenranta.",
-                  "category": "natural",
-                  "coords": [
-                        28.202478,
-                        61.077112
-                  ]
-            },
-            {
-                  "name": "Galleria Itä",
-                  "text": "An art gallery in Lappeenranta showcasing contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        28.198249,
-                        61.060102
-                  ]
-            },
-            {
-                  "name": "Lappeenranta Photo-Frame",
-                  "text": "A popular photo spot featuring a large frame that captures the cityscape.",
-                  "category": "landmark",
-                  "coords": [
-                        28.184879,
-                        61.063997
-                  ]
-            },
-            {
-                  "name": "Näkötornin rauniot",
-                  "text": "The remains of a former observation tower in Lappeenranta.",
-                  "category": "historical",
-                  "coords": [
-                        28.181214,
-                        61.06045
-                  ]
-            },
-            {
-                  "name": "Linnoitusniemi pavillion",
-                  "text": "A pavilion at the tip of the fortress peninsula with views over the lake.",
-                  "category": "natural",
-                  "coords": [
-                        28.187466,
-                        61.06925
-                  ]
-            },
-            {
-                  "name": "St. Mary's Church of Lappee",
-                  "text": "A historic wooden church in Lappeenranta, known for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        28.1884,
-                        61.058408
-                  ]
-            },
-            {
-                  "name": "Lappeenranta Free Church",
-                  "text": "The church building of the Free Church congregation in Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.192645,
-                        61.060319
-                  ]
-            },
-            {
-                  "name": "Lappeenrannan helluntaiseurakunta",
-                  "text": "A modern place of worship for the Pentecostal community in Lappeenranta.",
-                  "category": "religious",
-                  "coords": [
-                        28.198471,
-                        61.056987
-                  ]
-            },
-            {
-                  "name": "Charioteer Mk VII Model B tank",
-                  "text": "A historic tank displayed as a monument in Lappeenranta.",
-                  "category": "landmark",
-                  "coords": [
-                        28.171578,
-                        61.057377
-                  ]
-            }
-      ]
-},
+    id: "city-lappeenranta", "sights": {"de": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta ist ein Strand in Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "Dieses Museum in der Festung von Lappeenranta widmet sich der Geschichte der finnischen Kavallerie.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "Ein Museum in der Festung von Lappeenranta, das die Geschichte und Kultur Südkareliens präsentiert.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "Eine jährliche Attraktion in Lappeenranta mit beeindruckenden Sandskulpturen.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Das Stadttheater von Lappeenranta bietet vielfältige Aufführungen in einem modernen Gebäude.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "Ein historisches Hausmuseum, das das Leben einer Kaufmannsfamilie in Lappeenranta zeigt.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Eine archäologische Stätte in Lappeenranta, die auf eine steinzeitliche Besiedlung hinweist.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "Ein lokaler Badestrand am Saimaa-See in Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "Ein ruhiger Badestrand auf der Halbinsel Tyysterniemi in Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Ein Freilichttheater in der historischen Festung von Lappeenranta.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "Ein Strand auf der Insel Pikisaari in der Nähe des Stadtzentrums von Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "Ein zentral gelegener Erholungsbereich mit Badestrand und Sportmöglichkeiten in Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Ein Denkmal in Lappeenranta für die im Zweiten Weltkrieg gefallenen Kavalleristen.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Dieser natürliche Aussichtspunkt trägt den Namen der Stadt Lappeenranta und bietet einen herrlichen Weitblick. Von hier aus lässt sich das städtische Panorama Finnlands besonders gut überblicken.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "Eine Kunstgalerie in Lappeenranta, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Ein beliebter Ort für Fotos mit einem großen Rahmen, der die Stadtlandschaft einfasst.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Die Überreste eines ehemaligen Aussichtsturms in Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Ein Pavillon an der Spitze der Festungshalbinsel mit Blick auf den See.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "Eine historische Holzkirche in Lappeenranta, bekannt für ihre Architektur.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "Das Kirchengebäude der Freikirchgemeinde in Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Ein moderner Ort der Anbetung für die Pfingstgemeinde in Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Ein historischer Panzer, der als Denkmal in Lappeenranta ausgestellt ist.", "category": "landmark", "coords": [28.171578, 61.057377]}], "hu": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta egy strand Lappeenranta városában.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "A lappeenrantai erődben található múzeum a finn lovasság történetét mutatja be.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "A lappeenrantai erődben található múzeum Dél-Karélia történelmét és kultúráját mutatja be.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "Évente megrendezett látványosság Lappeenrantában, lenyűgöző homokszobrokkal.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Lappeenranta városi színháza változatos előadásokat kínál egy modern épületben.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "Történelmi házmúzeum, amely egy kereskedőcsalád életét mutatja be Lappeenrantában.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Régészeti lelőhely Lappeenrantában, amely egy kőkorszaki település nyomait őrzi.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "Helyi strand a Saimaa-tó partján, Lappeenrantában.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "Csendes strand a lappeenrantai Tyysterniemi-félszigeten.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Szabadtéri színház Lappeenranta történelmi erődjében.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "Strand a Pikisaari-szigeten, Lappeenranta városközpontjának közelében.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "Központi üdülőhely stranddal és sportolási lehetőségekkel Lappeenrantában.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Lappeenrantai emlékmű a második világháborúban elesett lovas katonák tiszteletére.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Ez a természetes kilátópont Lappeenranta városának nevét viseli, és csodálatos panorámát nyújt. Innen különösen jól áttekinthető a finn település és annak környezete.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "Kortárs művészeti alkotásokat bemutató galéria Lappeenrantában.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Népszerű fotózási helyszín egy nagy kerettel, amely a városképet keretezi.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Egy egykori kilátótorony maradványai Lappeenrantában.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Pavilon az erődfélsziget csúcsán, kilátással a tóra.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "Történelmi fatemplom Lappeenrantában, amely építészetéről nevezetes.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "A szabadegyház gyülekezeti épülete Lappeenrantában.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Modern imaház a pünkösdi gyülekezet számára Lappeenrantában.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Lappeenrantában emlékműként kiállított történelmi harckocsi.", "category": "landmark", "coords": [28.171578, 61.057377]}], "ro": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta este o plajă situată în Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "Situat în cetatea Lappeenranta, acest muzeu este dedicat istoriei cavaleriei finlandeze.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "Un muzeu aflat în cetatea Lappeenranta, care prezintă istoria și cultura Kareliei de Sud.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "O atracție anuală în Lappeenranta, cu sculpturi impresionante din nisip.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Teatrul orășenesc din Lappeenranta oferă diverse spectacole într-o clădire modernă.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "O casă memorială istorică ce prezintă viața unei familii de negustori din Lappeenranta.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Un sit arheologic din Lappeenranta care indică o așezare din epoca pietrei.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "O plajă locală pe malul lacului Saimaa în Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "O plajă liniștită situată pe peninsula Tyysterniemi din Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Un teatru de vară în aer liber situat în cetatea istorică din Lappeenranta.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "O plajă pe insula Pikisaari, în apropiere de centrul orașului Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "O zonă de recreere centrală cu plajă și facilități sportive în Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Un monument în Lappeenranta dedicat cavaleristilor căzuți în timpul celui de-al Doilea Război Mondial.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Acest punct de belvedere natural poartă numele orașului Lappeenranta și oferă o priveliște impresionantă. De aici, vizitatorii pot admira o panoramă excelentă a așezării finlandeze.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "O galerie de artă din Lappeenranta care prezintă lucrări contemporane.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Un loc popular pentru fotografii, cu o ramă mare care încadrează peisajul urban.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Vestigiile unui fost turn de observare din Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Un pavilion situat în vârful peninsulei cetății, cu vedere spre lac.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "O biserică istorică din lemn în Lappeenranta, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "Clădirea bisericii libere din Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Un lăcaș de cult modern pentru comunitatea penticostală din Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Un tanc istoric expus ca monument în Lappeenranta.", "category": "landmark", "coords": [28.171578, 61.057377]}], "en": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta is a beach in Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Cavalry Museum", "text": "Located in the Lappeenranta Fortress, this museum is dedicated to the history of the Finnish cavalry.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Museum of South Karelia", "text": "A museum in the Lappeenranta Fortress showcasing the history and culture of South Karelia.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Sandcastle", "text": "An annual attraction in Lappeenranta featuring impressive sand sculptures.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "The city theatre of Lappeenranta offers a variety of performances in a modern building.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "A historic house museum showcasing the life of a merchant family in Lappeenranta.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "An archaeological site in Lappeenranta indicating a Stone Age settlement.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Cork factory beach", "text": "A local swimming beach on the shores of Lake Saimaa in Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemi beach", "text": "A quiet swimming beach located on the Tyysterniemi peninsula in Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Fortress summer theater", "text": "An open-air summer theatre located within the historic Lappeenranta Fortress.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaari beach", "text": "A beach on Pikisaari island, close to the city center of Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaari beach", "text": "A centrally located recreation area with a beach and sports facilities in Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "A memorial stone in Lappeenranta honoring cavalrymen fallen during World War II.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "This natural viewpoint shares the name of the city of Lappeenranta and offers a magnificent wide view. From this spot, visitors can perfectly take in the panorama of the Finnish city.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "An art gallery in Lappeenranta showcasing contemporary works.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "A popular photo spot featuring a large frame that captures the cityscape.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "The remains of a former observation tower in Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemi pavillion", "text": "A pavilion at the tip of the fortress peninsula with views over the lake.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "St. Mary's Church of Lappee", "text": "A historic wooden church in Lappeenranta, known for its architecture.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenranta Free Church", "text": "The church building of the Free Church congregation in Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "A modern place of worship for the Pentecostal community in Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "A historic tank displayed as a monument in Lappeenranta.", "category": "landmark", "coords": [28.171578, 61.057377]}]},
     type: "city",
     parent: "FI",
     coords: [28.1887, 61.0583],
@@ -21150,6 +21366,15 @@ export const finlandCities: POI[] = [
                         26.942933,
                         60.469804
                   ]
+            },
+            {
+                  "name": "Katariinan maauimala",
+                  "text": "Ein Freibad in Kotka, das Familien im Sommer einen erfrischenden Ort zum Schwimmen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.938384,
+                        60.456511
+                  ]
             }
       ],
       "hu": [
@@ -21394,6 +21619,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         26.942933,
                         60.469804
+                  ]
+            },
+            {
+                  "name": "Katariinan maauimala",
+                  "text": "Szabadtéri úszómedence Kotkában, amely frissítő helyszínt biztosít a családoknak a nyári úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.938384,
+                        60.456511
                   ]
             }
       ],
@@ -21640,6 +21874,15 @@ export const finlandCities: POI[] = [
                         26.942933,
                         60.469804
                   ]
+            },
+            {
+                  "name": "Katariinan maauimala",
+                  "text": "O piscină în aer liber în Kotka, oferind familiilor un loc răcoritor pentru înot în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        26.938384,
+                        60.456511
+                  ]
             }
       ],
       "en": [
@@ -21884,6 +22127,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         26.942933,
                         60.469804
+                  ]
+            },
+            {
+                  "name": "Katariinan maauimala",
+                  "text": "An outdoor swimming pool in Kotka, providing families with a refreshing place to swim in summer.",
+                  "category": "family",
+                  "coords": [
+                        26.938384,
+                        60.456511
                   ]
             }
       ]
@@ -22211,6 +22463,24 @@ export const finlandCities: POI[] = [
                         25.698962,
                         66.500212
                   ]
+            },
+            {
+                  "name": "Keinuvuopajan uimaranta",
+                  "text": "Keinuvuopajan uimaranta ist eine Badestelle in Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.773283,
+                        66.486332
+                  ]
+            },
+            {
+                  "name": "Salmijärven uimaranta",
+                  "text": "Salmijärven uimaranta ist ein Badeplatz am Salmijärvi-See in Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.754575,
+                        66.479689
+                  ]
             }
       ],
       "hu": [
@@ -22491,6 +22761,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.698962,
                         66.500212
+                  ]
+            },
+            {
+                  "name": "Keinuvuopajan uimaranta",
+                  "text": "A Keinuvuopajan uimaranta egy fürdőhely Rovaniemi városában.",
+                  "category": "family",
+                  "coords": [
+                        25.773283,
+                        66.486332
+                  ]
+            },
+            {
+                  "name": "Salmijärven uimaranta",
+                  "text": "A Salmijärven uimaranta egy tóparti fürdőhely Rovaniemiben.",
+                  "category": "family",
+                  "coords": [
+                        25.754575,
+                        66.479689
                   ]
             }
       ],
@@ -22773,6 +23061,24 @@ export const finlandCities: POI[] = [
                         25.698962,
                         66.500212
                   ]
+            },
+            {
+                  "name": "Keinuvuopajan uimaranta",
+                  "text": "Keinuvuopajan uimaranta este o zonă de înot în Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.773283,
+                        66.486332
+                  ]
+            },
+            {
+                  "name": "Salmijärven uimaranta",
+                  "text": "Salmijärven uimaranta este o zonă de înot în Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.754575,
+                        66.479689
+                  ]
             }
       ],
       "en": [
@@ -23053,6 +23359,24 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.698962,
                         66.500212
+                  ]
+            },
+            {
+                  "name": "Keinuvuopajan uimaranta",
+                  "text": "Keinuvuopajan uimaranta is a swimming area in Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.773283,
+                        66.486332
+                  ]
+            },
+            {
+                  "name": "Salmijärven uimaranta",
+                  "text": "Salmijärven uimaranta is a lakeside swimming area in Rovaniemi.",
+                  "category": "family",
+                  "coords": [
+                        25.754575,
+                        66.479689
                   ]
             }
       ]
@@ -25850,1708 +26174,7 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-mariehamn", "sights": {
-      "de": [
-            {
-                  "name": "Nabbenbadet",
-                  "text": "Nabbenbadet Strand liegt in der Stadt Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.956155,
-                        60.114796
-                  ]
-            },
-            {
-                  "name": "Småholma badstrand",
-                  "text": "Småholma badstrand ist ein Strand in der Nähe von Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.885049,
-                        60.101199
-                  ]
-            },
-            {
-                  "name": "Solbergets badstrand",
-                  "text": "Solbergets badstrand ist ein Strand in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.970715,
-                        60.11439
-                  ]
-            },
-            {
-                  "name": "Algrundet",
-                  "text": "Algrundet ist ein Strand in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.964633,
-                        60.085363
-                  ]
-            },
-            {
-                  "name": "Gröna uddens badstrand",
-                  "text": "Gröna uddens badstrand ist ein Strand in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.954376,
-                        60.091511
-                  ]
-            },
-            {
-                  "name": "Lilla Holmens badstand",
-                  "text": "Lilla Holmens badstrand ist ein Strand in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.952443,
-                        60.096007
-                  ]
-            },
-            {
-                  "name": "Mariebad strand",
-                  "text": "Mariebad strand ist ein Strand in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.945302,
-                        60.107795
-                  ]
-            },
-            {
-                  "name": "Ålands Sjöfartsmuseum",
-                  "text": "Ein preisgekröntes Museum in Mariehamn, das die reiche Seefahrtsgeschichte der Åland-Inseln präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        19.926527,
-                        60.097247
-                  ]
-            },
-            {
-                  "name": "Mariehamnsmuseet",
-                  "text": "Ein lokales Museum, das die Entwicklung der Stadt Mariehamn dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        19.938187,
-                        60.098932
-                  ]
-            },
-            {
-                  "name": "Ålands museum",
-                  "text": "Das kulturhistorische Museum von Åland beleuchtet die Geschichte der Inseln von der Urzeit bis heute.",
-                  "category": "museum",
-                  "coords": [
-                        19.944903,
-                        60.096976
-                  ]
-            },
-            {
-                  "name": "Alandica",
-                  "text": "Ein modernes Kultur- und Kongresszentrum in Mariehamn am Wasser.",
-                  "category": "cultural",
-                  "coords": [
-                        19.94414,
-                        60.100876
-                  ]
-            },
-            {
-                  "name": "Sjökvarteret museum",
-                  "text": "Ein lebendiges Museumsviertel in Mariehamn, das traditionellen Bootsbau und Handwerk zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.945078,
-                        60.104849
-                  ]
-            },
-            {
-                  "name": "Köpmannamuseet",
-                  "text": "Ein Museum in einem alten Krämerladen, das den Handel vergangener Zeiten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.946879,
-                        60.093398
-                  ]
-            },
-            {
-                  "name": "Motormuseum",
-                  "text": "Ein Museum in Mariehamn, das historische Motoren und technische Exponate ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        19.944682,
-                        60.106049
-                  ]
-            },
-            {
-                  "name": "Svibyviken",
-                  "text": "Eine malerische Bucht westlich von Mariehamn, beliebt für Bootstouren.",
-                  "category": "landmark",
-                  "coords": [
-                        19.92042,
-                        60.100991
-                  ]
-            },
-            {
-                  "name": "Slemmern",
-                  "text": "Die Bucht östlich von Mariehamn, die das Stadtbild und die Freizeitaktivitäten prägt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.964299,
-                        60.099415
-                  ]
-            },
-            {
-                  "name": "Lotsberget",
-                  "text": "Ein markanter Hügel in Mariehamn mit herrlicher Aussicht auf das Meer und die Lotsenstation.",
-                  "category": "natural",
-                  "coords": [
-                        19.935386,
-                        60.088653
-                  ]
-            },
-            {
-                  "name": "Badhusberget",
-                  "text": "Ein Aussichtspunkt auf einem Hügel in Mariehamn mit Blick über die Stadt und den Hafen.",
-                  "category": "natural",
-                  "coords": [
-                        19.925446,
-                        60.101038
-                  ]
-            },
-            {
-                  "name": "Stenkrossen",
-                  "text": "Historische Überreste einer alten Steinbrechanlage in Mariehamn.",
-                  "category": "historical",
-                  "coords": [
-                        19.931084,
-                        60.087588
-                  ]
-            },
-            {
-                  "name": "Stadshusbacken",
-                  "text": "Ein Park am Rathaus von Mariehamn, der zum Verweilen im Grünen einlädt.",
-                  "category": "park",
-                  "coords": [
-                        19.943496,
-                        60.096829
-                  ]
-            },
-            {
-                  "name": "Wirénska parken",
-                  "text": "Eine kleine Parkanlage in Mariehamn, benannt nach einer lokalen Persönlichkeit.",
-                  "category": "park",
-                  "coords": [
-                        19.943434,
-                        60.098222
-                  ]
-            },
-            {
-                  "name": "Självstyrelseparken",
-                  "text": "Ein Park in Mariehamn, der an die Autonomie der Åland-Inseln erinnert.",
-                  "category": "park",
-                  "coords": [
-                        19.944552,
-                        60.098852
-                  ]
-            },
-            {
-                  "name": "Lilla holmen",
-                  "text": "Eine kleine Insel und Parkanlage im Hafen von Mariehamn mit Vögeln und Badeplatz.",
-                  "category": "park",
-                  "coords": [
-                        19.950736,
-                        60.096
-                  ]
-            },
-            {
-                  "name": "Torpfjärdens Fågeltorn",
-                  "text": "Ein Beobachtungsturm in Mariehamn zur Betrachtung der lokalen Vogelwelt.",
-                  "category": "natural",
-                  "coords": [
-                        19.89939,
-                        60.108381
-                  ]
-            },
-            {
-                  "name": "Jungfrudansen",
-                  "text": "Ein historisches Steinlabyrinth, das als antike Ruine in Mariehamn erhalten ist.",
-                  "category": "historical",
-                  "coords": [
-                        19.946581,
-                        60.0957
-                  ]
-            },
-            {
-                  "name": "Pommern",
-                  "text": "Eine historische Viermastbark, die heute als Museumsschiff im Hafen von Mariehamn liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.925041,
-                        60.09734
-                  ]
-            },
-            {
-                  "name": "S:t Mårtens kyrka",
-                  "text": "Eine evangelische Kirche in Mariehamn auf den Åland-Inseln.",
-                  "category": "religious",
-                  "coords": [
-                        19.947847,
-                        60.117543
-                  ]
-            },
-            {
-                  "name": "Missionskyrkan",
-                  "text": "Ein christliches Gotteshaus der Missionsgemeinde in Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.936128,
-                        60.096739
-                  ]
-            },
-            {
-                  "name": "S:t Görans kyrka",
-                  "text": "Die Hauptkirche von Mariehamn, benannt nach dem Heiligen Georg.",
-                  "category": "religious",
-                  "coords": [
-                        19.934832,
-                        60.097329
-                  ]
-            },
-            {
-                  "name": "Sjöfararkapellet",
-                  "text": "Eine kleine Seefahrerkapelle im maritimen Viertel von Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.946634,
-                        60.106939
-                  ]
-            },
-            {
-                  "name": "Åland Pingstförsamling",
-                  "text": "Ein modernes Kirchengebäude der Pfingstgemeinde in Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.940477,
-                        60.089987
-                  ]
-            },
-            {
-                  "name": "Torpfjärden",
-                  "text": "Der Torpfjärden ist ein See in Mariehamn, der durch seine natürliche Schönheit besticht.",
-                  "category": "natural",
-                  "coords": [
-                        19.899755,
-                        60.113605
-                  ]
-            },
-            {
-                  "name": "Byträsk",
-                  "text": "Der Byträsk ist ein See in Mariehamn, der eine ruhige Kulisse für Naturbeobachtungen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        20.001758,
-                        60.07711
-                  ]
-            },
-            {
-                  "name": "Dalkarby Träsk",
-                  "text": "Der Dalkarby Träsk ist ein See in Mariehamn, ideal für entspannte Spaziergänge am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        19.950112,
-                        60.141544
-                  ]
-            },
-            {
-                  "name": "Badhusparkens Lekpark",
-                  "text": "Der Badhusparkens Lekpark in Mariehamn ist ein schöner Spielplatz in einer Parkanlage.",
-                  "category": "family",
-                  "coords": [
-                        19.927623,
-                        60.098667
-                  ]
-            },
-            {
-                  "name": "Lindans lekpark",
-                  "text": "Der Lindans lekpark in Mariehamn ist ein familienfreundlicher Ort für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        19.941752,
-                        60.092441
-                  ]
-            },
-            {
-                  "name": "Lekplats, klinten 2",
-                  "text": "Dieser Spielplatz in Mariehamn bietet eine sichere Umgebung für die kleinsten Besucher.",
-                  "category": "family",
-                  "coords": [
-                        19.933303,
-                        60.108802
-                  ]
-            },
-            {
-                  "name": "Lekplats, Klinten",
-                  "text": "Der Spielplatz Klinten in Mariehamn ist ein beliebter Ort für Spiel und Spaß im Viertel.",
-                  "category": "family",
-                  "coords": [
-                        19.932193,
-                        60.108843
-                  ]
-            },
-            {
-                  "name": "Ångbåtsbryggan Äventyrsgolf",
-                  "text": "Die Ångbåtsbryggan Äventyrsgolf bietet ein spannendes Minigolf-Abenteuer für Familien in Mariehamn.",
-                  "category": "family",
-                  "coords": [
-                        19.946565,
-                        60.098038
-                  ]
-            },
-            {
-                  "name": "Klintens Lekpark",
-                  "text": "Der Klintens Lekpark in Mariehamn lädt Kinder zu aktivem Spielen im Freien ein.",
-                  "category": "family",
-                  "coords": [
-                        19.937142,
-                        60.110934
-                  ]
-            },
-            {
-                  "name": "Kasbergets lekpark",
-                  "text": "Der Kasbergets lekpark in Mariehamn bietet eine abwechslungsreiche Spiellandschaft für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        19.930971,
-                        60.118479
-                  ]
-            },
-            {
-                  "name": "Johannegläntans lekpark",
-                  "text": "Der Johannegläntans lekpark in Mariehamn ist ein freundlicher Treffpunkt für Familien.",
-                  "category": "family",
-                  "coords": [
-                        19.939811,
-                        60.120007
-                  ]
-            },
-            {
-                  "name": "Johannebo lekpark",
-                  "text": "Ein lokaler Spielplatz in Mariehamn, der Kindern Raum zum Toben und Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        19.945403,
-                        60.121777
-                  ]
-            },
-            {
-                  "name": "Ljungvägens lekpark",
-                  "text": "Dieser Spielplatz in Mariehamn ist ein schöner Ort für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        19.950839,
-                        60.121267
-                  ]
-            },
-            {
-                  "name": "Hindersbölelängarnas lekpark",
-                  "text": "Eine kinderfreundliche Anlage in Mariehamn, ideal für eine Pause im Freien.",
-                  "category": "family",
-                  "coords": [
-                        19.955953,
-                        60.117702
-                  ]
-            },
-            {
-                  "name": "Rådhuset",
-                  "text": "Ein Spielplatz im Herzen von Mariehamn, der zum Spielen und Entdecken einlädt.",
-                  "category": "family",
-                  "coords": [
-                        19.935047,
-                        60.096317
-                  ]
-            },
-            {
-                  "name": "Gröna Uddens minigolf",
-                  "text": "Eine Minigolfanlage in Mariehamn, perfekt für einen unterhaltsamen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        19.950663,
-                        60.091605
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Nabbenbadet",
-                  "text": "Nabbenbadet strandja Mariehamn városában található.",
-                  "category": "recreational",
-                  "coords": [
-                        19.956155,
-                        60.114796
-                  ]
-            },
-            {
-                  "name": "Småholma badstrand",
-                  "text": "A Småholma badstrand egy strand Mariehamn közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.885049,
-                        60.101199
-                  ]
-            },
-            {
-                  "name": "Solbergets badstrand",
-                  "text": "A Solbergets badstrand egy strand Mariehamn városában.",
-                  "category": "recreational",
-                  "coords": [
-                        19.970715,
-                        60.11439
-                  ]
-            },
-            {
-                  "name": "Algrundet",
-                  "text": "Az Algrundet egy strand Mariehamn városában.",
-                  "category": "recreational",
-                  "coords": [
-                        19.964633,
-                        60.085363
-                  ]
-            },
-            {
-                  "name": "Gröna uddens badstrand",
-                  "text": "A Gröna uddens badstrand egy strand Mariehamnban.",
-                  "category": "recreational",
-                  "coords": [
-                        19.954376,
-                        60.091511
-                  ]
-            },
-            {
-                  "name": "Lilla Holmens badstand",
-                  "text": "A Lilla Holmens badstrand egy strand Mariehamnban.",
-                  "category": "recreational",
-                  "coords": [
-                        19.952443,
-                        60.096007
-                  ]
-            },
-            {
-                  "name": "Mariebad strand",
-                  "text": "A Mariebad strand egy strand Mariehamnban.",
-                  "category": "recreational",
-                  "coords": [
-                        19.945302,
-                        60.107795
-                  ]
-            },
-            {
-                  "name": "Ålands Sjöfartsmuseum",
-                  "text": "Mariehamn díjnyertes múzeuma, amely az Åland-szigetek gazdag tengerészeti múltját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.926527,
-                        60.097247
-                  ]
-            },
-            {
-                  "name": "Mariehamnsmuseet",
-                  "text": "Helyi múzeum, amely Mariehamn városának fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.938187,
-                        60.098932
-                  ]
-            },
-            {
-                  "name": "Ålands museum",
-                  "text": "Åland kultúrtörténeti múzeuma a szigetek történelmét mutatja be az őskortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        19.944903,
-                        60.096976
-                  ]
-            },
-            {
-                  "name": "Alandica",
-                  "text": "Modern kulturális és kongresszusi központ Mariehamn vízpartján.",
-                  "category": "cultural",
-                  "coords": [
-                        19.94414,
-                        60.100876
-                  ]
-            },
-            {
-                  "name": "Sjökvarteret museum",
-                  "text": "Élő múzeumi negyed Mariehamnban, amely a hagyományos hajóépítést és mesterségeket mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.945078,
-                        60.104849
-                  ]
-            },
-            {
-                  "name": "Köpmannamuseet",
-                  "text": "Egy régi szatócsboltban berendezett múzeum, amely a múltbéli kereskedelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.946879,
-                        60.093398
-                  ]
-            },
-            {
-                  "name": "Motormuseum",
-                  "text": "Mariehamni múzeum, amely történelmi motorokat és technikai kiállítási tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.944682,
-                        60.106049
-                  ]
-            },
-            {
-                  "name": "Svibyviken",
-                  "text": "Festői öböl Mariehamntól nyugatra, amely népszerű a hajózók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.92042,
-                        60.100991
-                  ]
-            },
-            {
-                  "name": "Slemmern",
-                  "text": "Mariehamntól keletre fekvő öböl, amely meghatározza a városképet és a szabadidős tevékenységeket.",
-                  "category": "landmark",
-                  "coords": [
-                        19.964299,
-                        60.099415
-                  ]
-            },
-            {
-                  "name": "Lotsberget",
-                  "text": "Jellegzetes domb Mariehamnban, nagyszerű kilátással a tengerre és a révkalauz-állomásra.",
-                  "category": "natural",
-                  "coords": [
-                        19.935386,
-                        60.088653
-                  ]
-            },
-            {
-                  "name": "Badhusberget",
-                  "text": "Kilátóhely egy dombtetőn Mariehamnban, rálátással a városra és a kikötőre.",
-                  "category": "natural",
-                  "coords": [
-                        19.925446,
-                        60.101038
-                  ]
-            },
-            {
-                  "name": "Stenkrossen",
-                  "text": "Egy régi kőzúzó üzem történelmi maradványai Mariehamnban.",
-                  "category": "historical",
-                  "coords": [
-                        19.931084,
-                        60.087588
-                  ]
-            },
-            {
-                  "name": "Stadshusbacken",
-                  "text": "Park Mariehamn városházájánál, amely kellemes zöld környezetet kínál.",
-                  "category": "park",
-                  "coords": [
-                        19.943496,
-                        60.096829
-                  ]
-            },
-            {
-                  "name": "Wirénska parken",
-                  "text": "Kis park Mariehamnban, amelyet egy helyi személyiségről neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        19.943434,
-                        60.098222
-                  ]
-            },
-            {
-                  "name": "Självstyrelseparken",
-                  "text": "Mariehamni park, amely Åland autonómiájának állít emléket.",
-                  "category": "park",
-                  "coords": [
-                        19.944552,
-                        60.098852
-                  ]
-            },
-            {
-                  "name": "Lilla holmen",
-                  "text": "Kis sziget és park Mariehamn kikötőjében, madarakkal és stranddal.",
-                  "category": "park",
-                  "coords": [
-                        19.950736,
-                        60.096
-                  ]
-            },
-            {
-                  "name": "Torpfjärdens Fågeltorn",
-                  "text": "Megfigyelőtorony Mariehamnban a helyi madárvilág megtekintéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        19.89939,
-                        60.108381
-                  ]
-            },
-            {
-                  "name": "Jungfrudansen",
-                  "text": "Történelmi kőlabirintus, amely antik romként maradt fenn Mariehamnban.",
-                  "category": "historical",
-                  "coords": [
-                        19.946581,
-                        60.0957
-                  ]
-            },
-            {
-                  "name": "Pommern",
-                  "text": "Történelmi négyárbocos bark, amely ma múzeumhajóként áll Mariehamn kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.925041,
-                        60.09734
-                  ]
-            },
-            {
-                  "name": "S:t Mårtens kyrka",
-                  "text": "Egy evangélikus templom Mariehamn városában, az Åland-szigeteken.",
-                  "category": "religious",
-                  "coords": [
-                        19.947847,
-                        60.117543
-                  ]
-            },
-            {
-                  "name": "Missionskyrkan",
-                  "text": "A missziós gyülekezet keresztény temploma Mariehamnban.",
-                  "category": "religious",
-                  "coords": [
-                        19.936128,
-                        60.096739
-                  ]
-            },
-            {
-                  "name": "S:t Görans kyrka",
-                  "text": "Mariehamn főtemploma, amelyet Szent Györgyről neveztek el.",
-                  "category": "religious",
-                  "coords": [
-                        19.934832,
-                        60.097329
-                  ]
-            },
-            {
-                  "name": "Sjöfararkapellet",
-                  "text": "Egy kis tengerész-kápolna Mariehamn tengerészeti negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        19.946634,
-                        60.106939
-                  ]
-            },
-            {
-                  "name": "Åland Pingstförsamling",
-                  "text": "A pünkösdi gyülekezet modern templomépülete Mariehamnban.",
-                  "category": "religious",
-                  "coords": [
-                        19.940477,
-                        60.089987
-                  ]
-            },
-            {
-                  "name": "Torpfjärden",
-                  "text": "A Torpfjärden egy tó Mariehamnban, amely természeti szépségével bűvöli el a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        19.899755,
-                        60.113605
-                  ]
-            },
-            {
-                  "name": "Byträsk",
-                  "text": "A Byträsk egy tó Mariehamn területén, amely csendes környezetet nyújt a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        20.001758,
-                        60.07711
-                  ]
-            },
-            {
-                  "name": "Dalkarby Träsk",
-                  "text": "A Dalkarby Träsk egy tó Mariehamnban, amely ideális a vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        19.950112,
-                        60.141544
-                  ]
-            },
-            {
-                  "name": "Badhusparkens Lekpark",
-                  "text": "A Badhusparkens Lekpark Mariehamnban egy szép játszótér egy parkosított területen.",
-                  "category": "family",
-                  "coords": [
-                        19.927623,
-                        60.098667
-                  ]
-            },
-            {
-                  "name": "Lindans lekpark",
-                  "text": "A Lindans lekpark Mariehamnban egy családbarát hely minden korosztályú gyermek számára.",
-                  "category": "family",
-                  "coords": [
-                        19.941752,
-                        60.092441
-                  ]
-            },
-            {
-                  "name": "Lekplats, klinten 2",
-                  "text": "Ez a játszótér Mariehamnban biztonságos környezetet nyújt a legkisebb látogatóknak.",
-                  "category": "family",
-                  "coords": [
-                        19.933303,
-                        60.108802
-                  ]
-            },
-            {
-                  "name": "Lekplats, Klinten",
-                  "text": "A Klinten játszótér Mariehamnban népszerű hely a játékhoz és szórakozáshoz a környéken.",
-                  "category": "family",
-                  "coords": [
-                        19.932193,
-                        60.108843
-                  ]
-            },
-            {
-                  "name": "Ångbåtsbryggan Äventyrsgolf",
-                  "text": "Az Ångbåtsbryggan Äventyrsgolf izgalmas minigolf kalandot kínál családoknak Mariehamnban.",
-                  "category": "family",
-                  "coords": [
-                        19.946565,
-                        60.098038
-                  ]
-            },
-            {
-                  "name": "Klintens Lekpark",
-                  "text": "A Klintens Lekpark Mariehamnban aktív szabadtéri játékra hívja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        19.937142,
-                        60.110934
-                  ]
-            },
-            {
-                  "name": "Kasbergets lekpark",
-                  "text": "A Kasbergets lekpark Mariehamnban változatos játszótájat kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        19.930971,
-                        60.118479
-                  ]
-            },
-            {
-                  "name": "Johannegläntans lekpark",
-                  "text": "A Johannegläntans lekpark Mariehamnban egy barátságos találkozóhely a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        19.939811,
-                        60.120007
-                  ]
-            },
-            {
-                  "name": "Johannebo lekpark",
-                  "text": "Helyi játszótér Mariehamn városában, amely játéklehetőséget kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        19.945403,
-                        60.121777
-                  ]
-            },
-            {
-                  "name": "Ljungvägens lekpark",
-                  "text": "Ez a mariehamni játszótér kellemes hely a gyermekes családok számára.",
-                  "category": "family",
-                  "coords": [
-                        19.950839,
-                        60.121267
-                  ]
-            },
-            {
-                  "name": "Hindersbölelängarnas lekpark",
-                  "text": "Gyermekbarát létesítmény Mariehamnban, amely ideális egy szabadtéri szünethez.",
-                  "category": "family",
-                  "coords": [
-                        19.955953,
-                        60.117702
-                  ]
-            },
-            {
-                  "name": "Rådhuset",
-                  "text": "Játszótér Mariehamn szívében, amely játékra és felfedezésre hívja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        19.935047,
-                        60.096317
-                  ]
-            },
-            {
-                  "name": "Gröna Uddens minigolf",
-                  "text": "Minigolfpálya Mariehamn városában, tökéletes egy szórakoztató családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        19.950663,
-                        60.091605
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Nabbenbadet",
-                  "text": "Plaja Nabbenbadet este situată în orașul Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.956155,
-                        60.114796
-                  ]
-            },
-            {
-                  "name": "Småholma badstrand",
-                  "text": "Småholma badstrand este o plajă lângă Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.885049,
-                        60.101199
-                  ]
-            },
-            {
-                  "name": "Solbergets badstrand",
-                  "text": "Solbergets badstrand este o plajă situată în Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.970715,
-                        60.11439
-                  ]
-            },
-            {
-                  "name": "Algrundet",
-                  "text": "Algrundet este o plajă în Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.964633,
-                        60.085363
-                  ]
-            },
-            {
-                  "name": "Gröna uddens badstrand",
-                  "text": "Gröna uddens badstrand este o plajă în Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.954376,
-                        60.091511
-                  ]
-            },
-            {
-                  "name": "Lilla Holmens badstand",
-                  "text": "Lilla Holmens badstrand este o plajă în Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.952443,
-                        60.096007
-                  ]
-            },
-            {
-                  "name": "Mariebad strand",
-                  "text": "Mariebad strand este o plajă în Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.945302,
-                        60.107795
-                  ]
-            },
-            {
-                  "name": "Ålands Sjöfartsmuseum",
-                  "text": "Un muzeu premiat din Mariehamn care prezintă bogata istorie maritimă a Insulelor Åland.",
-                  "category": "museum",
-                  "coords": [
-                        19.926527,
-                        60.097247
-                  ]
-            },
-            {
-                  "name": "Mariehamnsmuseet",
-                  "text": "Un muzeu local care documentează dezvoltarea orașului Mariehamn.",
-                  "category": "museum",
-                  "coords": [
-                        19.938187,
-                        60.098932
-                  ]
-            },
-            {
-                  "name": "Ålands museum",
-                  "text": "Muzeul de istorie culturală din Åland prezintă istoria insulelor din preistorie până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        19.944903,
-                        60.096976
-                  ]
-            },
-            {
-                  "name": "Alandica",
-                  "text": "Un centru cultural și de conferințe modern situat pe malul apei în Mariehamn.",
-                  "category": "cultural",
-                  "coords": [
-                        19.94414,
-                        60.100876
-                  ]
-            },
-            {
-                  "name": "Sjökvarteret museum",
-                  "text": "Un cartier muzeal viu în Mariehamn, care prezintă construcția tradițională de bărci și meșteșugurile.",
-                  "category": "museum",
-                  "coords": [
-                        19.945078,
-                        60.104849
-                  ]
-            },
-            {
-                  "name": "Köpmannamuseet",
-                  "text": "Un muzeu amenajat într-o veche băcănie, care prezintă comerțul de altădată.",
-                  "category": "museum",
-                  "coords": [
-                        19.946879,
-                        60.093398
-                  ]
-            },
-            {
-                  "name": "Motormuseum",
-                  "text": "Un muzeu din Mariehamn care expune motoare istorice și piese tehnice.",
-                  "category": "museum",
-                  "coords": [
-                        19.944682,
-                        60.106049
-                  ]
-            },
-            {
-                  "name": "Svibyviken",
-                  "text": "Un golf pitoresc la vest de Mariehamn, popular pentru plimbări cu barca.",
-                  "category": "landmark",
-                  "coords": [
-                        19.92042,
-                        60.100991
-                  ]
-            },
-            {
-                  "name": "Slemmern",
-                  "text": "Golful de la est de Mariehamn, care definește peisajul urban și activitățile recreative.",
-                  "category": "landmark",
-                  "coords": [
-                        19.964299,
-                        60.099415
-                  ]
-            },
-            {
-                  "name": "Lotsberget",
-                  "text": "Un deal proeminent în Mariehamn, cu o vedere superbă spre mare și stația de piloți.",
-                  "category": "natural",
-                  "coords": [
-                        19.935386,
-                        60.088653
-                  ]
-            },
-            {
-                  "name": "Badhusberget",
-                  "text": "Un punct de observație pe un deal din Mariehamn, cu vedere asupra orașului și portului.",
-                  "category": "natural",
-                  "coords": [
-                        19.925446,
-                        60.101038
-                  ]
-            },
-            {
-                  "name": "Stenkrossen",
-                  "text": "Vestigii istorice ale unei vechi instalații de zdrobire a pietrei în Mariehamn.",
-                  "category": "historical",
-                  "coords": [
-                        19.931084,
-                        60.087588
-                  ]
-            },
-            {
-                  "name": "Stadshusbacken",
-                  "text": "Un parc lângă primăria din Mariehamn, care oferü un spațiu verde relaxant.",
-                  "category": "park",
-                  "coords": [
-                        19.943496,
-                        60.096829
-                  ]
-            },
-            {
-                  "name": "Wirénska parken",
-                  "text": "Un mic parc în Mariehamn, numit după o personalitate locală.",
-                  "category": "park",
-                  "coords": [
-                        19.943434,
-                        60.098222
-                  ]
-            },
-            {
-                  "name": "Självstyrelseparken",
-                  "text": "Un parc în Mariehamn care comemorează autonomia Insulelor Åland.",
-                  "category": "park",
-                  "coords": [
-                        19.944552,
-                        60.098852
-                  ]
-            },
-            {
-                  "name": "Lilla holmen",
-                  "text": "O insulă mică și un parc în portul Mariehamn, cu păsări și loc de scăldat.",
-                  "category": "park",
-                  "coords": [
-                        19.950736,
-                        60.096
-                  ]
-            },
-            {
-                  "name": "Torpfjärdens Fågeltorn",
-                  "text": "Un turn de observație în Mariehamn pentru admirarea păsărilor locale.",
-                  "category": "natural",
-                  "coords": [
-                        19.89939,
-                        60.108381
-                  ]
-            },
-            {
-                  "name": "Jungfrudansen",
-                  "text": "Un labirint istoric din piatră, păstrat ca o ruină antică în Mariehamn.",
-                  "category": "historical",
-                  "coords": [
-                        19.946581,
-                        60.0957
-                  ]
-            },
-            {
-                  "name": "Pommern",
-                  "text": "O navă istorică cu patru catarge, care astăzi servește ca navă-muzeu în portul Mariehamn.",
-                  "category": "landmark",
-                  "coords": [
-                        19.925041,
-                        60.09734
-                  ]
-            },
-            {
-                  "name": "S:t Mårtens kyrka",
-                  "text": "O biserică evanghelică în Mariehamn, în insulele Åland.",
-                  "category": "religious",
-                  "coords": [
-                        19.947847,
-                        60.117543
-                  ]
-            },
-            {
-                  "name": "Missionskyrkan",
-                  "text": "O casă de cult creștină a comunității misionare din Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.936128,
-                        60.096739
-                  ]
-            },
-            {
-                  "name": "S:t Görans kyrka",
-                  "text": "Biserica principală din Mariehamn, numită după Sfântul Gheorghe.",
-                  "category": "religious",
-                  "coords": [
-                        19.934832,
-                        60.097329
-                  ]
-            },
-            {
-                  "name": "Sjöfararkapellet",
-                  "text": "O mică capelă a marinarilor situată în cartierul maritim din Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.946634,
-                        60.106939
-                  ]
-            },
-            {
-                  "name": "Åland Pingstförsamling",
-                  "text": "O clădire modernă a bisericii penticostale din Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.940477,
-                        60.089987
-                  ]
-            },
-            {
-                  "name": "Torpfjärden",
-                  "text": "Torpfjärden este un lac din Mariehamn, care impresionează prin frumusețea sa naturală.",
-                  "category": "natural",
-                  "coords": [
-                        19.899755,
-                        60.113605
-                  ]
-            },
-            {
-                  "name": "Byträsk",
-                  "text": "Byträsk este un lac din Mariehamn, oferind un cadru liniștit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        20.001758,
-                        60.07711
-                  ]
-            },
-            {
-                  "name": "Dalkarby Träsk",
-                  "text": "Dalkarby Träsk este un lac din Mariehamn, ideal pentru plimbări relaxante pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        19.950112,
-                        60.141544
-                  ]
-            },
-            {
-                  "name": "Badhusparkens Lekpark",
-                  "text": "Badhusparkens Lekpark din Mariehamn este un loc de joacă frumos situat într-un parc.",
-                  "category": "family",
-                  "coords": [
-                        19.927623,
-                        60.098667
-                  ]
-            },
-            {
-                  "name": "Lindans lekpark",
-                  "text": "Lindans lekpark din Mariehamn este un loc prietenos pentru familii, potrivit pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        19.941752,
-                        60.092441
-                  ]
-            },
-            {
-                  "name": "Lekplats, klinten 2",
-                  "text": "Acest loc de joacă din Mariehamn oferă un mediu sigur pentru cei mai mici vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        19.933303,
-                        60.108802
-                  ]
-            },
-            {
-                  "name": "Lekplats, Klinten",
-                  "text": "Locul de joacă Klinten din Mariehamn este un loc popular pentru joacă și distracție în cartier.",
-                  "category": "family",
-                  "coords": [
-                        19.932193,
-                        60.108843
-                  ]
-            },
-            {
-                  "name": "Ångbåtsbryggan Äventyrsgolf",
-                  "text": "Ångbåtsbryggan Äventyrsgolf oferă o aventură palpitantă de minigolf pentru familiile din Mariehamn.",
-                  "category": "family",
-                  "coords": [
-                        19.946565,
-                        60.098038
-                  ]
-            },
-            {
-                  "name": "Klintens Lekpark",
-                  "text": "Klintens Lekpark din Mariehamn invită copiii la joacă activă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        19.937142,
-                        60.110934
-                  ]
-            },
-            {
-                  "name": "Kasbergets lekpark",
-                  "text": "Kasbergets lekpark din Mariehamn oferă un peisaj de joacă variat pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        19.930971,
-                        60.118479
-                  ]
-            },
-            {
-                  "name": "Johannegläntans lekpark",
-                  "text": "Johannegläntans lekpark din Mariehamn este un punct de întâlnire prietenos pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        19.939811,
-                        60.120007
-                  ]
-            },
-            {
-                  "name": "Johannebo lekpark",
-                  "text": "Un loc de joacă local în Mariehamn, care oferă spațiu de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        19.945403,
-                        60.121777
-                  ]
-            },
-            {
-                  "name": "Ljungvägens lekpark",
-                  "text": "Acest loc de joacă din Mariehamn este un loc plăcut pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        19.950839,
-                        60.121267
-                  ]
-            },
-            {
-                  "name": "Hindersbölelängarnas lekpark",
-                  "text": "O facilitate pentru copii în Mariehamn, ideală pentru o pauză în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        19.955953,
-                        60.117702
-                  ]
-            },
-            {
-                  "name": "Rådhuset",
-                  "text": "Un loc de joacă în inima orașului Mariehamn, care invită copiii la joacă și explorare.",
-                  "category": "family",
-                  "coords": [
-                        19.935047,
-                        60.096317
-                  ]
-            },
-            {
-                  "name": "Gröna Uddens minigolf",
-                  "text": "Un teren de minigolf în Mariehamn, perfect pentru o ieșire distractivă în familie.",
-                  "category": "family",
-                  "coords": [
-                        19.950663,
-                        60.091605
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Nabbenbadet",
-                  "text": "Nabbenbadet beach is located in the town of Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.956155,
-                        60.114796
-                  ]
-            },
-            {
-                  "name": "Småholma badstrand",
-                  "text": "Småholma badstrand is a beach near Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.885049,
-                        60.101199
-                  ]
-            },
-            {
-                  "name": "Solbergets badstrand",
-                  "text": "Solbergets badstrand is a beach in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.970715,
-                        60.11439
-                  ]
-            },
-            {
-                  "name": "Algrundet",
-                  "text": "Algrundet is a beach in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.964633,
-                        60.085363
-                  ]
-            },
-            {
-                  "name": "Gröna uddens badstrand",
-                  "text": "Gröna uddens badstrand is a beach in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.954376,
-                        60.091511
-                  ]
-            },
-            {
-                  "name": "Lilla Holmens badstand",
-                  "text": "Lilla Holmens badstrand is a beach in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.952443,
-                        60.096007
-                  ]
-            },
-            {
-                  "name": "Mariebad strand",
-                  "text": "Mariebad strand is a beach in Mariehamn.",
-                  "category": "recreational",
-                  "coords": [
-                        19.945302,
-                        60.107795
-                  ]
-            },
-            {
-                  "name": "Åland Maritime Museum",
-                  "text": "An award-winning museum in Mariehamn showcasing the rich maritime history of the Åland Islands.",
-                  "category": "museum",
-                  "coords": [
-                        19.926527,
-                        60.097247
-                  ]
-            },
-            {
-                  "name": "Mariehamnsmuseet",
-                  "text": "A local museum documenting the development of the city of Mariehamn.",
-                  "category": "museum",
-                  "coords": [
-                        19.938187,
-                        60.098932
-                  ]
-            },
-            {
-                  "name": "Ålands museum",
-                  "text": "The cultural history museum of Åland presents the islands' history from prehistoric times to the present.",
-                  "category": "museum",
-                  "coords": [
-                        19.944903,
-                        60.096976
-                  ]
-            },
-            {
-                  "name": "Alandica",
-                  "text": "A modern culture and congress center located by the waterfront in Mariehamn.",
-                  "category": "cultural",
-                  "coords": [
-                        19.94414,
-                        60.100876
-                  ]
-            },
-            {
-                  "name": "Sjökvarteret museum",
-                  "text": "A living museum quarter in Mariehamn showcasing traditional boatbuilding and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        19.945078,
-                        60.104849
-                  ]
-            },
-            {
-                  "name": "Köpmannamuseet",
-                  "text": "A museum located in an old general store, showcasing trade from bygone times.",
-                  "category": "museum",
-                  "coords": [
-                        19.946879,
-                        60.093398
-                  ]
-            },
-            {
-                  "name": "Motormuseum",
-                  "text": "A museum in Mariehamn exhibiting historic engines and technical artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        19.944682,
-                        60.106049
-                  ]
-            },
-            {
-                  "name": "Svibyviken",
-                  "text": "A scenic bay to the west of Mariehamn, popular for boating.",
-                  "category": "landmark",
-                  "coords": [
-                        19.92042,
-                        60.100991
-                  ]
-            },
-            {
-                  "name": "Slemmern",
-                  "text": "The bay to the east of Mariehamn, central to the city's landscape and recreation.",
-                  "category": "landmark",
-                  "coords": [
-                        19.964299,
-                        60.099415
-                  ]
-            },
-            {
-                  "name": "Lotsberget",
-                  "text": "A prominent hill in Mariehamn offering great views of the sea and the pilot station.",
-                  "category": "natural",
-                  "coords": [
-                        19.935386,
-                        60.088653
-                  ]
-            },
-            {
-                  "name": "Badhusberget",
-                  "text": "A viewpoint on a hill in Mariehamn with views over the city and the harbor.",
-                  "category": "natural",
-                  "coords": [
-                        19.925446,
-                        60.101038
-                  ]
-            },
-            {
-                  "name": "Stenkrossen",
-                  "text": "Historic remains of an old stone crushing plant in Mariehamn.",
-                  "category": "historical",
-                  "coords": [
-                        19.931084,
-                        60.087588
-                  ]
-            },
-            {
-                  "name": "Stadshusbacken",
-                  "text": "A park near the Mariehamn city hall, offering a pleasant green space.",
-                  "category": "park",
-                  "coords": [
-                        19.943496,
-                        60.096829
-                  ]
-            },
-            {
-                  "name": "Wirénska parken",
-                  "text": "A small park in Mariehamn named after a local figure.",
-                  "category": "park",
-                  "coords": [
-                        19.943434,
-                        60.098222
-                  ]
-            },
-            {
-                  "name": "Självstyrelseparken",
-                  "text": "A park in Mariehamn commemorating the autonomy of the Åland Islands.",
-                  "category": "park",
-                  "coords": [
-                        19.944552,
-                        60.098852
-                  ]
-            },
-            {
-                  "name": "Lilla holmen",
-                  "text": "A small island and park in the Mariehamn harbor with birds and a swimming area.",
-                  "category": "park",
-                  "coords": [
-                        19.950736,
-                        60.096
-                  ]
-            },
-            {
-                  "name": "Torpviken birdwatching tower",
-                  "text": "An observation tower in Mariehamn for viewing the local birdlife.",
-                  "category": "natural",
-                  "coords": [
-                        19.89939,
-                        60.108381
-                  ]
-            },
-            {
-                  "name": "Jungfrudansen",
-                  "text": "A historic stone labyrinth preserved as an ancient ruin in Mariehamn.",
-                  "category": "historical",
-                  "coords": [
-                        19.946581,
-                        60.0957
-                  ]
-            },
-            {
-                  "name": "Pommern",
-                  "text": "A historic four-masted barque that now serves as a museum ship in the Mariehamn harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        19.925041,
-                        60.09734
-                  ]
-            },
-            {
-                  "name": "S:t Mårtens kyrka",
-                  "text": "A Lutheran church located in Mariehamn on the Åland Islands.",
-                  "category": "religious",
-                  "coords": [
-                        19.947847,
-                        60.117543
-                  ]
-            },
-            {
-                  "name": "Missionskyrkan",
-                  "text": "A Christian place of worship belonging to the mission church in Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.936128,
-                        60.096739
-                  ]
-            },
-            {
-                  "name": "S:t Görans kyrka",
-                  "text": "The main church of Mariehamn, named after Saint George.",
-                  "category": "religious",
-                  "coords": [
-                        19.934832,
-                        60.097329
-                  ]
-            },
-            {
-                  "name": "Sjöfararkapellet",
-                  "text": "A small seafarers' chapel located in the maritime quarter of Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.946634,
-                        60.106939
-                  ]
-            },
-            {
-                  "name": "Åland Pingstförsamling",
-                  "text": "A modern church building of the Pentecostal congregation in Mariehamn.",
-                  "category": "religious",
-                  "coords": [
-                        19.940477,
-                        60.089987
-                  ]
-            },
-            {
-                  "name": "Torpfjärden",
-                  "text": "Torpfjärden is a lake in Mariehamn, known for its natural beauty.",
-                  "category": "natural",
-                  "coords": [
-                        19.899755,
-                        60.113605
-                  ]
-            },
-            {
-                  "name": "Byträsk",
-                  "text": "Byträsk is a lake in Mariehamn, providing a quiet setting for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        20.001758,
-                        60.07711
-                  ]
-            },
-            {
-                  "name": "Dalkarby Träsk",
-                  "text": "Dalkarby Träsk is a lake in Mariehamn, ideal for relaxing walks by the water.",
-                  "category": "natural",
-                  "coords": [
-                        19.950112,
-                        60.141544
-                  ]
-            },
-            {
-                  "name": "Badhusparkens Lekpark",
-                  "text": "Badhusparkens Lekpark in Mariehamn is a lovely playground located within a park.",
-                  "category": "family",
-                  "coords": [
-                        19.927623,
-                        60.098667
-                  ]
-            },
-            {
-                  "name": "Lindans lekpark",
-                  "text": "Lindans lekpark in Mariehamn is a family-friendly spot for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        19.941752,
-                        60.092441
-                  ]
-            },
-            {
-                  "name": "Lekplats, klinten 2",
-                  "text": "This playground in Mariehamn provides a safe environment for the youngest visitors.",
-                  "category": "family",
-                  "coords": [
-                        19.933303,
-                        60.108802
-                  ]
-            },
-            {
-                  "name": "Lekplats, Klinten",
-                  "text": "Klinten playground in Mariehamn is a popular spot for play and fun in the neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        19.932193,
-                        60.108843
-                  ]
-            },
-            {
-                  "name": "Ångbåtsbryggan Äventyrsgolf",
-                  "text": "Ångbåtsbryggan Äventyrsgolf offers an exciting minigolf adventure for families in Mariehamn.",
-                  "category": "family",
-                  "coords": [
-                        19.946565,
-                        60.098038
-                  ]
-            },
-            {
-                  "name": "Klintens Lekpark",
-                  "text": "Klintens Lekpark in Mariehamn invites children for active outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        19.937142,
-                        60.110934
-                  ]
-            },
-            {
-                  "name": "Kasbergets lekpark",
-                  "text": "Kasbergets lekpark in Mariehamn offers a diverse play landscape for children.",
-                  "category": "family",
-                  "coords": [
-                        19.930971,
-                        60.118479
-                  ]
-            },
-            {
-                  "name": "Johannegläntans lekpark",
-                  "text": "Johannegläntans lekpark in Mariehamn is a friendly meeting spot for families.",
-                  "category": "family",
-                  "coords": [
-                        19.939811,
-                        60.120007
-                  ]
-            },
-            {
-                  "name": "Johannebo lekpark",
-                  "text": "A local playground in Mariehamn offering space for children to play.",
-                  "category": "family",
-                  "coords": [
-                        19.945403,
-                        60.121777
-                  ]
-            },
-            {
-                  "name": "Ljungvägens lekpark",
-                  "text": "This playground in Mariehamn is a nice spot for families with children.",
-                  "category": "family",
-                  "coords": [
-                        19.950839,
-                        60.121267
-                  ]
-            },
-            {
-                  "name": "Hindersbölelängarnas lekpark",
-                  "text": "A child-friendly facility in Mariehamn, ideal for an outdoor break.",
-                  "category": "family",
-                  "coords": [
-                        19.955953,
-                        60.117702
-                  ]
-            },
-            {
-                  "name": "Rådhuset",
-                  "text": "A playground in the heart of Mariehamn, inviting children to play and explore.",
-                  "category": "family",
-                  "coords": [
-                        19.935047,
-                        60.096317
-                  ]
-            },
-            {
-                  "name": "Gröna Uddens minigolf",
-                  "text": "A miniature golf course in Mariehamn, perfect for a fun family outing.",
-                  "category": "family",
-                  "coords": [
-                        19.950663,
-                        60.091605
-                  ]
-            }
-      ]
-},
+    id: "city-mariehamn", "sights": {"de": [{"name": "Nabbenbadet", "text": "Nabbenbadet Strand liegt in der Stadt Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand ist ein Strand in der Nähe von Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "Im finnischen Mariehamn lädt der Mariebad strand Einheimische und Touristen zu unbeschwerten Momenten am Wasser ein. Die Nähe zur Stadt verleiht diesem Ort eine angenehme Mischung aus Lebendigkeit und nordischer Küstenruhe. Ob für ein kurzes Bad am Nachmittag oder ein entspanntes Sonnenbad – dieser Strand ist immer eine gute Wahl.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Ein preisgekröntes Museum in Mariehamn, das die reiche Seefahrtsgeschichte der Åland-Inseln präsentiert.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Ein lokales Museum, das die Entwicklung der Stadt Mariehamn dokumentiert.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Das kulturhistorische Museum von Åland beleuchtet die Geschichte der Inseln von der Urzeit bis heute.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Ein modernes Kultur- und Kongresszentrum in Mariehamn am Wasser.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Ein lebendiges Museumsviertel in Mariehamn, das traditionellen Bootsbau und Handwerk zeigt.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Ein Museum in einem alten Krämerladen, das den Handel vergangener Zeiten zeigt.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Ein Museum in Mariehamn, das historische Motoren und technische Exponate ausstellt.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Eine malerische Bucht westlich von Mariehamn, beliebt für Bootstouren.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Die Bucht östlich von Mariehamn, die das Stadtbild und die Freizeitaktivitäten prägt.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Ein markanter Hügel in Mariehamn mit herrlicher Aussicht auf das Meer und die Lotsenstation.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Ein Aussichtspunkt auf einem Hügel in Mariehamn mit Blick über die Stadt und den Hafen.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Historische Überreste einer alten Steinbrechanlage in Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Ein Park am Rathaus von Mariehamn, der zum Verweilen im Grünen einlädt.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Eine kleine Parkanlage in Mariehamn, benannt nach einer lokalen Persönlichkeit.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Ein Park in Mariehamn, der an die Autonomie der Åland-Inseln erinnert.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "Eine kleine Insel und Parkanlage im Hafen von Mariehamn mit Vögeln und Badeplatz.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Ein Beobachtungsturm in Mariehamn zur Betrachtung der lokalen Vogelwelt.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Ein historisches Steinlabyrinth, das als antike Ruine in Mariehamn erhalten ist.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "Eine historische Viermastbark, die heute als Museumsschiff im Hafen von Mariehamn liegt.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "Eine evangelische Kirche in Mariehamn auf den Åland-Inseln.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "Ein christliches Gotteshaus der Missionsgemeinde in Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Die Hauptkirche von Mariehamn, benannt nach dem Heiligen Georg.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "Eine kleine Seefahrerkapelle im maritimen Viertel von Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "Ein modernes Kirchengebäude der Pfingstgemeinde in Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Der Torpfjärden ist ein See in Mariehamn, der durch seine natürliche Schönheit besticht.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Der Byträsk ist ein See in Mariehamn, der eine ruhige Kulisse für Naturbeobachtungen bietet.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Der Dalkarby Träsk ist ein See in Mariehamn, ideal für entspannte Spaziergänge am Wasser.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Der Badhusparkens Lekpark in Mariehamn ist ein schöner Spielplatz in einer Parkanlage.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Der Lindans lekpark in Mariehamn ist ein familienfreundlicher Ort für Kinder jeden Alters.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Dieser Spielplatz in Mariehamn bietet eine sichere Umgebung für die kleinsten Besucher.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Der Spielplatz Klinten in Mariehamn ist ein beliebter Ort für Spiel und Spaß im Viertel.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Die Ångbåtsbryggan Äventyrsgolf bietet ein spannendes Minigolf-Abenteuer für Familien in Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Der Klintens Lekpark in Mariehamn lädt Kinder zu aktivem Spielen im Freien ein.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Der Kasbergets lekpark in Mariehamn bietet eine abwechslungsreiche Spiellandschaft für Kinder.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Der Johannegläntans lekpark in Mariehamn ist ein freundlicher Treffpunkt für Familien.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Ein lokaler Spielplatz in Mariehamn, der Kindern Raum zum Toben und Spielen bietet.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Dieser Spielplatz in Mariehamn ist ein schöner Ort für Familien mit Kindern.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "Eine kinderfreundliche Anlage in Mariehamn, ideal für eine Pause im Freien.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Ein Spielplatz im Herzen von Mariehamn, der zum Spielen und Entdecken einlädt.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Eine Minigolfanlage in Mariehamn, perfekt für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [19.950663, 60.091605]}], "hu": [{"name": "Nabbenbadet", "text": "Nabbenbadet strandja Mariehamn városában található.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "A Småholma badstrand egy strand Mariehamn közelében.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "A Solbergets badstrand egy strand Mariehamn városában.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Az Algrundet egy strand Mariehamn városában.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "A Gröna uddens badstrand egy strand Mariehamnban.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "A Lilla Holmens badstrand egy strand Mariehamnban.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "A finnországi Mariehamnban található Mariebad strand gondtalan vízparti pillanatokra csábítja a helyieket és a turistákat. A város közelsége a helynek a pezsgés és az északi tengerparti nyugalom kellemes keverékét kölcsönzi. Legyen szó egy rövid délutáni mártózásról vagy egy pihentető napozásról, ez a strand mindig remek választás.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Mariehamn díjnyertes múzeuma, amely az Åland-szigetek gazdag tengerészeti múltját mutatja be.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Helyi múzeum, amely Mariehamn városának fejlődését mutatja be.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Åland kultúrtörténeti múzeuma a szigetek történelmét mutatja be az őskortól napjainkig.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Modern kulturális és kongresszusi központ Mariehamn vízpartján.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Élő múzeumi negyed Mariehamnban, amely a hagyományos hajóépítést és mesterségeket mutatja be.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Egy régi szatócsboltban berendezett múzeum, amely a múltbéli kereskedelmet mutatja be.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Mariehamni múzeum, amely történelmi motorokat és technikai kiállítási tárgyakat mutat be.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Festői öböl Mariehamntól nyugatra, amely népszerű a hajózók körében.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Mariehamntól keletre fekvő öböl, amely meghatározza a városképet és a szabadidős tevékenységeket.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Jellegzetes domb Mariehamnban, nagyszerű kilátással a tengerre és a révkalauz-állomásra.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Kilátóhely egy dombtetőn Mariehamnban, rálátással a városra és a kikötőre.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Egy régi kőzúzó üzem történelmi maradványai Mariehamnban.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Park Mariehamn városházájánál, amely kellemes zöld környezetet kínál.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Kis park Mariehamnban, amelyet egy helyi személyiségről neveztek el.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Mariehamni park, amely Åland autonómiájának állít emléket.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "Kis sziget és park Mariehamn kikötőjében, madarakkal és stranddal.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Megfigyelőtorony Mariehamnban a helyi madárvilág megtekintéséhez.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Történelmi kőlabirintus, amely antik romként maradt fenn Mariehamnban.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "Történelmi négyárbocos bark, amely ma múzeumhajóként áll Mariehamn kikötőjében.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "Egy evangélikus templom Mariehamn városában, az Åland-szigeteken.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "A missziós gyülekezet keresztény temploma Mariehamnban.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Mariehamn főtemploma, amelyet Szent Györgyről neveztek el.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "Egy kis tengerész-kápolna Mariehamn tengerészeti negyedében.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "A pünkösdi gyülekezet modern templomépülete Mariehamnban.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "A Torpfjärden egy tó Mariehamnban, amely természeti szépségével bűvöli el a látogatókat.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "A Byträsk egy tó Mariehamn területén, amely csendes környezetet nyújt a természet megfigyeléséhez.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "A Dalkarby Träsk egy tó Mariehamnban, amely ideális a vízparti sétákhoz.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "A Badhusparkens Lekpark Mariehamnban egy szép játszótér egy parkosított területen.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "A Lindans lekpark Mariehamnban egy családbarát hely minden korosztályú gyermek számára.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Ez a játszótér Mariehamnban biztonságos környezetet nyújt a legkisebb látogatóknak.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "A Klinten játszótér Mariehamnban népszerű hely a játékhoz és szórakozáshoz a környéken.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Az Ångbåtsbryggan Äventyrsgolf izgalmas minigolf kalandot kínál családoknak Mariehamnban.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "A Klintens Lekpark Mariehamnban aktív szabadtéri játékra hívja a gyerekeket.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "A Kasbergets lekpark Mariehamnban változatos játszótájat kínál a gyerekeknek.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "A Johannegläntans lekpark Mariehamnban egy barátságos találkozóhely a családoknak.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Helyi játszótér Mariehamn városában, amely játéklehetőséget kínál a gyerekeknek.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Ez a mariehamni játszótér kellemes hely a gyermekes családok számára.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "Gyermekbarát létesítmény Mariehamnban, amely ideális egy szabadtéri szünethez.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Játszótér Mariehamn szívében, amely játékra és felfedezésre hívja a gyerekeket.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Minigolfpálya Mariehamn városában, tökéletes egy szórakoztató családi kiránduláshoz.", "category": "family", "coords": [19.950663, 60.091605]}], "ro": [{"name": "Nabbenbadet", "text": "Plaja Nabbenbadet este situată în orașul Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand este o plajă lângă Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand este o plajă situată în Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet este o plajă în Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand este o plajă în Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand este o plajă în Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "În orașul finlandez Mariehamn, plaja Mariebad invită localnicii și turiștii la momente lipsite de griji la malul apei. Apropierea de oraș conferă acestui loc un amestec plăcut de vitalitate și liniște de coastă nordică. Fie pentru o baie scurtă după-amiaza sau pentru o sesiune relaxantă de bronzat, această plajă este întotdeauna o alegere excelentă.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Un muzeu premiat din Mariehamn care prezintă bogata istorie maritimă a Insulelor Åland.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Un muzeu local care documentează dezvoltarea orașului Mariehamn.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Muzeul de istorie culturală din Åland prezintă istoria insulelor din preistorie până în prezent.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Un centru cultural și de conferințe modern situat pe malul apei în Mariehamn.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Un cartier muzeal viu în Mariehamn, care prezintă construcția tradițională de bărci și meșteșugurile.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Un muzeu amenajat într-o veche băcănie, care prezintă comerțul de altădată.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Un muzeu din Mariehamn care expune motoare istorice și piese tehnice.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Un golf pitoresc la vest de Mariehamn, popular pentru plimbări cu barca.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Golful de la est de Mariehamn, care definește peisajul urban și activitățile recreative.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Un deal proeminent în Mariehamn, cu o vedere superbă spre mare și stația de piloți.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Un punct de observație pe un deal din Mariehamn, cu vedere asupra orașului și portului.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Vestigii istorice ale unei vechi instalații de zdrobire a pietrei în Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Un parc lângă primăria din Mariehamn, care oferü un spațiu verde relaxant.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Un mic parc în Mariehamn, numit după o personalitate locală.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Un parc în Mariehamn care comemorează autonomia Insulelor Åland.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "O insulă mică și un parc în portul Mariehamn, cu păsări și loc de scăldat.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Un turn de observație în Mariehamn pentru admirarea păsărilor locale.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Un labirint istoric din piatră, păstrat ca o ruină antică în Mariehamn.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "O navă istorică cu patru catarge, care astăzi servește ca navă-muzeu în portul Mariehamn.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "O biserică evanghelică în Mariehamn, în insulele Åland.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "O casă de cult creștină a comunității misionare din Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Biserica principală din Mariehamn, numită după Sfântul Gheorghe.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "O mică capelă a marinarilor situată în cartierul maritim din Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "O clădire modernă a bisericii penticostale din Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Torpfjärden este un lac din Mariehamn, care impresionează prin frumusețea sa naturală.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Byträsk este un lac din Mariehamn, oferind un cadru liniștit pentru observarea naturii.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Dalkarby Träsk este un lac din Mariehamn, ideal pentru plimbări relaxante pe malul apei.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Badhusparkens Lekpark din Mariehamn este un loc de joacă frumos situat într-un parc.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Lindans lekpark din Mariehamn este un loc prietenos pentru familii, potrivit pentru copii de toate vârstele.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Acest loc de joacă din Mariehamn oferă un mediu sigur pentru cei mai mici vizitatori.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Locul de joacă Klinten din Mariehamn este un loc popular pentru joacă și distracție în cartier.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Ångbåtsbryggan Äventyrsgolf oferă o aventură palpitantă de minigolf pentru familiile din Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Klintens Lekpark din Mariehamn invită copiii la joacă activă în aer liber.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Kasbergets lekpark din Mariehamn oferă un peisaj de joacă variat pentru copii.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Johannegläntans lekpark din Mariehamn este un punct de întâlnire prietenos pentru familii.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Un loc de joacă local în Mariehamn, care oferă spațiu de joacă pentru copii.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Acest loc de joacă din Mariehamn este un loc plăcut pentru familiile cu copii.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "O facilitate pentru copii în Mariehamn, ideală pentru o pauză în aer liber.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Un loc de joacă în inima orașului Mariehamn, care invită copiii la joacă și explorare.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Un teren de minigolf în Mariehamn, perfect pentru o ieșire distractivă în familie.", "category": "family", "coords": [19.950663, 60.091605]}], "en": [{"name": "Nabbenbadet", "text": "Nabbenbadet beach is located in the town of Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand is a beach near Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet is a beach in Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "In the Finnish town of Mariehamn, the Mariebad strand invites locals and tourists to carefree moments by the water. The proximity to the city gives this place a pleasant mix of liveliness and Nordic coastal tranquility. Whether for a quick swim in the afternoon or a relaxing session of sunbathing, this beach is always a great choice.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Åland Maritime Museum", "text": "An award-winning museum in Mariehamn showcasing the rich maritime history of the Åland Islands.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "A local museum documenting the development of the city of Mariehamn.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "The cultural history museum of Åland presents the islands' history from prehistoric times to the present.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "A modern culture and congress center located by the waterfront in Mariehamn.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "A living museum quarter in Mariehamn showcasing traditional boatbuilding and crafts.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "A museum located in an old general store, showcasing trade from bygone times.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "A museum in Mariehamn exhibiting historic engines and technical artifacts.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "A scenic bay to the west of Mariehamn, popular for boating.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "The bay to the east of Mariehamn, central to the city's landscape and recreation.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "A prominent hill in Mariehamn offering great views of the sea and the pilot station.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "A viewpoint on a hill in Mariehamn with views over the city and the harbor.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Historic remains of an old stone crushing plant in Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "A park near the Mariehamn city hall, offering a pleasant green space.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "A small park in Mariehamn named after a local figure.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "A park in Mariehamn commemorating the autonomy of the Åland Islands.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "A small island and park in the Mariehamn harbor with birds and a swimming area.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpviken birdwatching tower", "text": "An observation tower in Mariehamn for viewing the local birdlife.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "A historic stone labyrinth preserved as an ancient ruin in Mariehamn.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "A historic four-masted barque that now serves as a museum ship in the Mariehamn harbor.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "A Lutheran church located in Mariehamn on the Åland Islands.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "A Christian place of worship belonging to the mission church in Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "The main church of Mariehamn, named after Saint George.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "A small seafarers' chapel located in the maritime quarter of Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "A modern church building of the Pentecostal congregation in Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Torpfjärden is a lake in Mariehamn, known for its natural beauty.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Byträsk is a lake in Mariehamn, providing a quiet setting for nature observation.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Dalkarby Träsk is a lake in Mariehamn, ideal for relaxing walks by the water.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Badhusparkens Lekpark in Mariehamn is a lovely playground located within a park.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Lindans lekpark in Mariehamn is a family-friendly spot for children of all ages.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "This playground in Mariehamn provides a safe environment for the youngest visitors.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Klinten playground in Mariehamn is a popular spot for play and fun in the neighborhood.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Ångbåtsbryggan Äventyrsgolf offers an exciting minigolf adventure for families in Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Klintens Lekpark in Mariehamn invites children for active outdoor play.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Kasbergets lekpark in Mariehamn offers a diverse play landscape for children.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Johannegläntans lekpark in Mariehamn is a friendly meeting spot for families.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "A local playground in Mariehamn offering space for children to play.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "This playground in Mariehamn is a nice spot for families with children.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "A child-friendly facility in Mariehamn, ideal for an outdoor break.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "A playground in the heart of Mariehamn, inviting children to play and explore.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "A miniature golf course in Mariehamn, perfect for a fun family outing.", "category": "family", "coords": [19.950663, 60.091605]}]},
     type: "city",
     parent: "reg-aland-fi",
     coords: [19.9475, 60.0973],
@@ -29888,6 +28511,24 @@ export const finlandNatureExtended: POI[] = [
                         21.810786,
                         61.480629
                   ]
+            },
+            {
+                  "name": "Kahluuallas",
+                  "text": "Ein Planschbecken in Pori, das perfekt für kleine Kinder zum sicheren Spielen im Wasser ist.",
+                  "category": "family",
+                  "coords": [
+                        21.766557,
+                        61.472265
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Ein großes Schwimmbecken in Pori mit viel Platz für das Schwimmen mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.765572,
+                        61.472216
+                  ]
             }
       ],
       "hu": [
@@ -30051,6 +28692,24 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.810786,
                         61.480629
+                  ]
+            },
+            {
+                  "name": "Kahluuallas",
+                  "text": "Pancsolómedence Poriban, amely tökéletes a kisgyermekek számára a biztonságos vízi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.766557,
+                        61.472265
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "Nagy úszómedence Poriban, bőséges hellyel az egész család számára az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.765572,
+                        61.472216
                   ]
             }
       ],
@@ -30216,6 +28875,24 @@ export const finlandNatureExtended: POI[] = [
                         21.810786,
                         61.480629
                   ]
+            },
+            {
+                  "name": "Kahluuallas",
+                  "text": "O piscină pentru copii în Pori, perfectă pentru cei mici pentru a se juca în siguranță în apă.",
+                  "category": "family",
+                  "coords": [
+                        21.766557,
+                        61.472265
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "O piscină mare în Pori, cu mult spațiu pentru înotul alături de întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.765572,
+                        61.472216
+                  ]
             }
       ],
       "en": [
@@ -30379,6 +29056,24 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.810786,
                         61.480629
+                  ]
+            },
+            {
+                  "name": "Kahluuallas",
+                  "text": "A paddling pool in Pori, perfect for young children to play safely in the water.",
+                  "category": "family",
+                  "coords": [
+                        21.766557,
+                        61.472265
+                  ]
+            },
+            {
+                  "name": "Iso allas",
+                  "text": "A large swimming pool in Pori with plenty of space for swimming with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.765572,
+                        61.472216
                   ]
             }
       ]
@@ -30803,1600 +29498,7 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-riihimaki", "sights": {
-      "de": [
-            {
-                  "name": "Riihimäen taidemuseo",
-                  "text": "Ein Museum in Riihimäki, das sich auf finnische Kunst konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        24.76786,
-                        60.736532
-                  ]
-            },
-            {
-                  "name": "Suomen lasimuseo",
-                  "text": "Ein spezialisiertes Museum in Riihimäki, das die Geschichte der Glasherstellung zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        24.736625,
-                        60.732161
-                  ]
-            },
-            {
-                  "name": "Suomen Metsästysmuseo",
-                  "text": "Ein nationales Museum in Riihimäki, das der Geschichte der Jagd gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        24.737012,
-                        60.731116
-                  ]
-            },
-            {
-                  "name": "Vantaanjokivarren luonnonsuojelualue",
-                  "text": "Ein geschütztes Naturgebiet am Fluss Vantaanjoki in Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.807919,
-                        60.738907
-                  ]
-            },
-            {
-                  "name": "Korttionmäen luonnonsuojelualue",
-                  "text": "Ein lokales Naturschutzgebiet in der Region Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.787864,
-                        60.711608
-                  ]
-            },
-            {
-                  "name": "Käpälämäen luonnonsuojelualue",
-                  "text": "Ein bewahrtes Waldgebiet für den Naturschutz in Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733051,
-                        60.728526
-                  ]
-            },
-            {
-                  "name": "Riihimäen Teatteri",
-                  "text": "Das professionelle Theater von Riihimäki mit vielfältigen Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        24.768415,
-                        60.735354
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Ein Freilichttheater in Riihimäki für sommerliche Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        24.774109,
-                        60.742399
-                  ]
-            },
-            {
-                  "name": "Riihimäen Nuorisoteatteri",
-                  "text": "Ein aktives Jugendtheater in Riihimäki für junge Talente.",
-                  "category": "cultural",
-                  "coords": [
-                        24.778634,
-                        60.739565
-                  ]
-            },
-            {
-                  "name": "Työväentalomuseo",
-                  "text": "Ein Museum in Riihimäki, das das Leben der Arbeiterklasse beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        24.785676,
-                        60.738855
-                  ]
-            },
-            {
-                  "name": "Poikainahonmäen luonnonsuojelualue",
-                  "text": "Ein ruhiges Naturschutzgebiet in der Nähe von Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733996,
-                        60.742797
-                  ]
-            },
-            {
-                  "name": "Atsaleapuisto",
-                  "text": "Ein Park in Riihimäki, der für seine blühenden Azaleen bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        24.805892,
-                        60.731307
-                  ]
-            },
-            {
-                  "name": "Jukka Jalosen puisto",
-                  "text": "Ein Park in Riihimäki, benannt nach dem Eishockeytrainer Jukka Jalonen.",
-                  "category": "park",
-                  "coords": [
-                        24.777638,
-                        60.738222
-                  ]
-            },
-            {
-                  "name": "Itsenäisyydenpuisto",
-                  "text": "Ein zentraler Park in Riihimäki, der der Unabhängigkeit gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        24.766674,
-                        60.738106
-                  ]
-            },
-            {
-                  "name": "Urheilupuisto",
-                  "text": "Ein Park in Riihimäki mit Sport- und Freizeiteinrichtungen.",
-                  "category": "park",
-                  "coords": [
-                        24.772502,
-                        60.743327
-                  ]
-            },
-            {
-                  "name": "Rautatienpuisto",
-                  "text": "Ein historischer Park in der Nähe des Bahnhofs von Riihimäki.",
-                  "category": "park",
-                  "coords": [
-                        24.775371,
-                        60.736019
-                  ]
-            },
-            {
-                  "name": "H. G. Paloheimon muistomerkki",
-                  "text": "Ein Denkmal in Riihimäki zu Ehren des Industriellen H. G. Paloheimo.",
-                  "category": "historical",
-                  "coords": [
-                        24.779671,
-                        60.734798
-                  ]
-            },
-            {
-                  "name": "Riihimäen-Lopen rautatien muistomerkki",
-                  "text": "Ein Denkmal zur Erinnerung an die Eisenbahnverbindung Riihimäki-Loppi.",
-                  "category": "historical",
-                  "coords": [
-                        24.765302,
-                        60.731749
-                  ]
-            },
-            {
-                  "name": "Riihimäen kenttätykistöperinteiden muistomerkki",
-                  "text": "Ein Denkmal zur Ehrung der Feldartillerie-Tradition in Riihimäki.",
-                  "category": "historical",
-                  "coords": [
-                        24.772844,
-                        60.740009
-                  ]
-            },
-            {
-                  "name": "Mattilan kartanon työläisten asunnon rauniot",
-                  "text": "Ruinen historischer Arbeiterwohnungen des Gutshofs Mattila.",
-                  "category": "historical",
-                  "coords": [
-                        24.755674,
-                        60.712839
-                  ]
-            },
-            {
-                  "name": "Riihimäen vapaaseurakunta",
-                  "text": "Eine Freikirche in Riihimäki für christliche Gottesdienste.",
-                  "category": "religious",
-                  "coords": [
-                        24.775368,
-                        60.737957
-                  ]
-            },
-            {
-                  "name": "Riihimäen Kotikirkko",
-                  "text": "Ein christliches Gemeindezentrum in Riihimäki.",
-                  "category": "religious",
-                  "coords": [
-                        24.766561,
-                        60.735596
-                  ]
-            },
-            {
-                  "name": "Keskuskirkko",
-                  "text": "Die Zentralkirche von Riihimäki, ein markantes religiöses Gebäude.",
-                  "category": "religious",
-                  "coords": [
-                        24.771003,
-                        60.735927
-                  ]
-            },
-            {
-                  "name": "Vähäjärvi",
-                  "text": "Ein See in Riihimaki, ideal für entspannte Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        24.661074,
-                        60.690902
-                  ]
-            },
-            {
-                  "name": "Erkylänjärvi",
-                  "text": "Ein ruhiges Gewässer in Riihimaki, das zum Verweilen und Genießen der Landschaft einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        24.888589,
-                        60.707183
-                  ]
-            },
-            {
-                  "name": "Paalijärvi",
-                  "text": "Dieser See in Riihimaki bietet eine malerische Kulisse für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        24.680263,
-                        60.683785
-                  ]
-            },
-            {
-                  "name": "Josefiinanpuisto",
-                  "text": "Ein öffentlicher Spielbereich in Riihimaki, der sicher zum Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        24.749153,
-                        60.751311
-                  ]
-            },
-            {
-                  "name": "Ruotsinkadunpuisto",
-                  "text": "Ein lokaler Treffpunkt für Familien in Riihimaki mit verschiedenen Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        24.777622,
-                        60.747746
-                  ]
-            },
-            {
-                  "name": "Kisapuisto",
-                  "text": "Ein Spielplatz in Riihimaki, der Kindern Abwechslung und Freude bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.80152,
-                        60.733568
-                  ]
-            },
-            {
-                  "name": "Toukolanpuisto",
-                  "text": "Ein kleiner Park mit Spielgeräten in Riihimaki, ideal für den täglichen Ausflug.",
-                  "category": "family",
-                  "coords": [
-                        24.818663,
-                        60.739277
-                  ]
-            },
-            {
-                  "name": "Tellervonpuisto",
-                  "text": "Spielplatz in Riihimaki, der eine schöne Umgebung für Kinder zum Toben bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.739276,
-                        60.749887
-                  ]
-            },
-            {
-                  "name": "Suojalanpuisto",
-                  "text": "Ein ruhiger Spielort für Kinder in einem Wohngebiet von Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.75768,
-                        60.753098
-                  ]
-            },
-            {
-                  "name": "Rajalanpuisto",
-                  "text": "Dieser Spielplatz in Riihimaki verfügt über verschiedene Geräte für kleine Entdecker.",
-                  "category": "family",
-                  "coords": [
-                        24.759898,
-                        60.757675
-                  ]
-            },
-            {
-                  "name": "Atrapuisto",
-                  "text": "Ein schöner Platz zum Spielen für Kinder in der Stadt Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.816156,
-                        60.745852
-                  ]
-            },
-            {
-                  "name": "Kanervapuisto",
-                  "text": "Ein kinderfreundlicher Spielbereich in Riihimaki, ideal für Familien.",
-                  "category": "family",
-                  "coords": [
-                        24.799792,
-                        60.747607
-                  ]
-            },
-            {
-                  "name": "Perhospuisto",
-                  "text": "Dieser kleine Park in Riihimaki bietet Spielspaß in einer grünen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        24.775199,
-                        60.756397
-                  ]
-            },
-            {
-                  "name": "Marjatanpuisto",
-                  "text": "Ein sicherer Ort für Kinder zum Spielen und Klettern in Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.735766,
-                        60.748865
-                  ]
-            },
-            {
-                  "name": "Vainionpuisto",
-                  "text": "Ein lokaler Spielplatz in Riihimaki, der Platz für Outdoor-Aktivitäten bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.755034,
-                        60.739935
-                  ]
-            },
-            {
-                  "name": "Lehtolantienpuisto",
-                  "text": "Dieser Spielplatz in Riihimaki lädt zum Verweilen und Spielen an der frischen Luft ein.",
-                  "category": "family",
-                  "coords": [
-                        24.745135,
-                        60.738366
-                  ]
-            },
-            {
-                  "name": "Sammalpuisto",
-                  "text": "Ein kleiner Spielbereich in Riihimaki, gut geeignet für einen kurzen Ausflug.",
-                  "category": "family",
-                  "coords": [
-                        24.789227,
-                        60.717345
-                  ]
-            },
-            {
-                  "name": "Kantakadun leikkipuisto",
-                  "text": "Spielplatz in Riihimaki mit klassischen Geräten für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        24.779412,
-                        60.752895
-                  ]
-            },
-            {
-                  "name": "Töyrypuisto",
-                  "text": "Ein hübscher Spielplatz in Riihimaki, der zum täglichen Spielen im Freien einlädt.",
-                  "category": "family",
-                  "coords": [
-                        24.764116,
-                        60.734488
-                  ]
-            },
-            {
-                  "name": "Antinpuiston leikkipaikka",
-                  "text": "Spielstelle in Riihimaki, die eine sichere Umgebung für Kleinkinder bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.754264,
-                        60.726031
-                  ]
-            },
-            {
-                  "name": "Hirsimäenpuiston leikkipaikka",
-                  "text": "Ein lokaler Park mit Spielplatz in Riihimaki, ideal für eine Pause mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        24.754574,
-                        60.729929
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Riihimäen taidemuseo",
-                  "text": "Riihimäki művészeti múzeuma, amely a finn alkotásokra összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        24.76786,
-                        60.736532
-                  ]
-            },
-            {
-                  "name": "Suomen lasimuseo",
-                  "text": "Speciális múzeum Riihimäkiben, amely az üveggyártás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.736625,
-                        60.732161
-                  ]
-            },
-            {
-                  "name": "Suomen Metsästysmuseo",
-                  "text": "Riihimäki nemzeti múzeuma, amelyet a vadászat történetének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        24.737012,
-                        60.731116
-                  ]
-            },
-            {
-                  "name": "Vantaanjokivarren luonnonsuojelualue",
-                  "text": "Védett természeti terület a Vantaanjoki folyó mentén Riihimäkiben.",
-                  "category": "natural",
-                  "coords": [
-                        24.807919,
-                        60.738907
-                  ]
-            },
-            {
-                  "name": "Korttionmäen luonnonsuojelualue",
-                  "text": "Helyi természetvédelmi terület Riihimäki régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        24.787864,
-                        60.711608
-                  ]
-            },
-            {
-                  "name": "Käpälämäen luonnonsuojelualue",
-                  "text": "Természetvédelmi célból megőrzött erdős terület Riihimäkiben.",
-                  "category": "natural",
-                  "coords": [
-                        24.733051,
-                        60.728526
-                  ]
-            },
-            {
-                  "name": "Riihimäen Teatteri",
-                  "text": "Riihimäki professzionális színháza, változatos előadásokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        24.768415,
-                        60.735354
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Szabadtéri színpad Riihimäkiben a nyári előadásokhoz.",
-                  "category": "cultural",
-                  "coords": [
-                        24.774109,
-                        60.742399
-                  ]
-            },
-            {
-                  "name": "Riihimäen Nuorisoteatteri",
-                  "text": "Aktív ifjúsági színház Riihimäkiben a fiatal tehetségek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        24.778634,
-                        60.739565
-                  ]
-            },
-            {
-                  "name": "Työväentalomuseo",
-                  "text": "Riihimäki múzeuma, amely a munkásosztály életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.785676,
-                        60.738855
-                  ]
-            },
-            {
-                  "name": "Poikainahonmäen luonnonsuojelualue",
-                  "text": "Csendes természetvédelmi terület Riihimäki közelében.",
-                  "category": "natural",
-                  "coords": [
-                        24.733996,
-                        60.742797
-                  ]
-            },
-            {
-                  "name": "Atsaleapuisto",
-                  "text": "Riihimäki parkja, amely a virágzó azáleáiról ismert.",
-                  "category": "park",
-                  "coords": [
-                        24.805892,
-                        60.731307
-                  ]
-            },
-            {
-                  "name": "Jukka Jalosen puisto",
-                  "text": "Riihimäki parkja, amelyet Jukka Jalonen jégkorongedzőről neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        24.777638,
-                        60.738222
-                  ]
-            },
-            {
-                  "name": "Itsenäisyydenpuisto",
-                  "text": "Központi park Riihimäkiben, amelyet a függetlenségnek szenteltek.",
-                  "category": "park",
-                  "coords": [
-                        24.766674,
-                        60.738106
-                  ]
-            },
-            {
-                  "name": "Urheilupuisto",
-                  "text": "Sport- és szabadidős létesítményekkel rendelkező park Riihimäkiben.",
-                  "category": "park",
-                  "coords": [
-                        24.772502,
-                        60.743327
-                  ]
-            },
-            {
-                  "name": "Rautatienpuisto",
-                  "text": "Történelmi park a riihimäki vasútállomás közelében.",
-                  "category": "park",
-                  "coords": [
-                        24.775371,
-                        60.736019
-                  ]
-            },
-            {
-                  "name": "H. G. Paloheimon muistomerkki",
-                  "text": "Emlékmű Riihimäkiben H. G. Paloheimo iparos tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        24.779671,
-                        60.734798
-                  ]
-            },
-            {
-                  "name": "Riihimäen-Lopen rautatien muistomerkki",
-                  "text": "A Riihimäki-Loppi vasútvonal emlékére állított emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        24.765302,
-                        60.731749
-                  ]
-            },
-            {
-                  "name": "Riihimäen kenttätykistöperinteiden muistomerkki",
-                  "text": "A riihimäki tábori tüzérségi hagyományok előtt tisztelgő emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        24.772844,
-                        60.740009
-                  ]
-            },
-            {
-                  "name": "Mattilan kartanon työläisten asunnon rauniot",
-                  "text": "A Mattila-kúria egykori munkáslakásainak romjai.",
-                  "category": "historical",
-                  "coords": [
-                        24.755674,
-                        60.712839
-                  ]
-            },
-            {
-                  "name": "Riihimäen vapaaseurakunta",
-                  "text": "Szabadegyházi templom Riihimäkiben keresztény istentiszteletekhez.",
-                  "category": "religious",
-                  "coords": [
-                        24.775368,
-                        60.737957
-                  ]
-            },
-            {
-                  "name": "Riihimäen Kotikirkko",
-                  "text": "Keresztény közösségi központ és templom Riihimäkiben.",
-                  "category": "religious",
-                  "coords": [
-                        24.766561,
-                        60.735596
-                  ]
-            },
-            {
-                  "name": "Keskuskirkko",
-                  "text": "Riihimäki központi temploma, jelentős vallási épület.",
-                  "category": "religious",
-                  "coords": [
-                        24.771003,
-                        60.735927
-                  ]
-            },
-            {
-                  "name": "Vähäjärvi",
-                  "text": "Egy tó Riihimaki területén, amely ideális pihentető erdei sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        24.661074,
-                        60.690902
-                  ]
-            },
-            {
-                  "name": "Erkylänjärvi",
-                  "text": "Csendes vízfelület Riihimaki közelében, amely pihenésre és a táj élvezetére hív.",
-                  "category": "natural",
-                  "coords": [
-                        24.888589,
-                        60.707183
-                  ]
-            },
-            {
-                  "name": "Paalijärvi",
-                  "text": "Ez a Riihimaki melletti tó festői környezetet biztosít a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        24.680263,
-                        60.683785
-                  ]
-            },
-            {
-                  "name": "Josefiinanpuisto",
-                  "text": "Riihimaki egyik nyilvános játszótere, amely biztonságos környezetet nyújt a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        24.749153,
-                        60.751311
-                  ]
-            },
-            {
-                  "name": "Ruotsinkadunpuisto",
-                  "text": "Helyi találkozóhely családoknak Riihimaki városában, különféle játéklehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        24.777622,
-                        60.747746
-                  ]
-            },
-            {
-                  "name": "Kisapuisto",
-                  "text": "Játszótér Riihimaki területén, amely változatosságot és örömöt kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        24.80152,
-                        60.733568
-                  ]
-            },
-            {
-                  "name": "Toukolanpuisto",
-                  "text": "Kisebb park játékokkal Riihimaki városában, ideális napi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        24.818663,
-                        60.739277
-                  ]
-            },
-            {
-                  "name": "Tellervonpuisto",
-                  "text": "Riihimaki játszótere, amely kellemes környezetet biztosít a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        24.739276,
-                        60.749887
-                  ]
-            },
-            {
-                  "name": "Suojalanpuisto",
-                  "text": "Csendes játszóhely gyerekeknek Riihimaki egyik lakóövezetében.",
-                  "category": "family",
-                  "coords": [
-                        24.75768,
-                        60.753098
-                  ]
-            },
-            {
-                  "name": "Rajalanpuisto",
-                  "text": "Ez a riihimaki játszótér különféle eszközökkel várja a kis felfedezőket.",
-                  "category": "family",
-                  "coords": [
-                        24.759898,
-                        60.757675
-                  ]
-            },
-            {
-                  "name": "Atrapuisto",
-                  "text": "Kellemes hely a játékhoz a gyermekek számára Riihimaki városában.",
-                  "category": "family",
-                  "coords": [
-                        24.816156,
-                        60.745852
-                  ]
-            },
-            {
-                  "name": "Kanervapuisto",
-                  "text": "Gyermekbarát játszóövezet Riihimaki területén, amely ideális a családok számára.",
-                  "category": "family",
-                  "coords": [
-                        24.799792,
-                        60.747607
-                  ]
-            },
-            {
-                  "name": "Perhospuisto",
-                  "text": "Ez a kis park Riihimaki városában játékos kikapcsolódást kínál zöld környezetben.",
-                  "category": "family",
-                  "coords": [
-                        24.775199,
-                        60.756397
-                  ]
-            },
-            {
-                  "name": "Marjatanpuisto",
-                  "text": "Biztonságos hely a játékra és mászásra a gyerekeknek Riihimaki városában.",
-                  "category": "family",
-                  "coords": [
-                        24.735766,
-                        60.748865
-                  ]
-            },
-            {
-                  "name": "Vainionpuisto",
-                  "text": "Helyi játszótér Riihimaki városában, amely helyet biztosít a szabadtéri tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        24.755034,
-                        60.739935
-                  ]
-            },
-            {
-                  "name": "Lehtolantienpuisto",
-                  "text": "Ez a riihimaki játszótér játékra és szabadtéri időtöltésre hív.",
-                  "category": "family",
-                  "coords": [
-                        24.745135,
-                        60.738366
-                  ]
-            },
-            {
-                  "name": "Sammalpuisto",
-                  "text": "Kisebb játszóterület Riihimaki városában, alkalmas egy rövid kiruccanáshoz.",
-                  "category": "family",
-                  "coords": [
-                        24.789227,
-                        60.717345
-                  ]
-            },
-            {
-                  "name": "Kantakadun leikkipuisto",
-                  "text": "Játszótér Riihimaki területén, klasszikus játékokkal minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        24.779412,
-                        60.752895
-                  ]
-            },
-            {
-                  "name": "Töyrypuisto",
-                  "text": "Csinos játszótér Riihimaki városában, amely mindennapi szabadtéri játékra csábít.",
-                  "category": "family",
-                  "coords": [
-                        24.764116,
-                        60.734488
-                  ]
-            },
-            {
-                  "name": "Antinpuiston leikkipaikka",
-                  "text": "Játszóhely Riihimaki területén, amely biztonságos környezetet nyújt a kisgyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        24.754264,
-                        60.726031
-                  ]
-            },
-            {
-                  "name": "Hirsimäenpuiston leikkipaikka",
-                  "text": "Helyi park játszótérrel Riihimaki városában, ideális pihenőhely gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        24.754574,
-                        60.729929
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Riihimäen taidemuseo",
-                  "text": "Un muzeu din Riihimäki care se concentrează pe arta finlandeză.",
-                  "category": "museum",
-                  "coords": [
-                        24.76786,
-                        60.736532
-                  ]
-            },
-            {
-                  "name": "Suomen lasimuseo",
-                  "text": "Un muzeu specializat din Riihimäki care prezintă istoria fabricării sticlei.",
-                  "category": "museum",
-                  "coords": [
-                        24.736625,
-                        60.732161
-                  ]
-            },
-            {
-                  "name": "Suomen Metsästysmuseo",
-                  "text": "Un muzeu național din Riihimäki dedicat istoriei vânătorii.",
-                  "category": "museum",
-                  "coords": [
-                        24.737012,
-                        60.731116
-                  ]
-            },
-            {
-                  "name": "Vantaanjokivarren luonnonsuojelualue",
-                  "text": "O zonă naturală protejată de-a lungul râului Vantaanjoki din Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.807919,
-                        60.738907
-                  ]
-            },
-            {
-                  "name": "Korttionmäen luonnonsuojelualue",
-                  "text": "O rezervație naturală locală în regiunea Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.787864,
-                        60.711608
-                  ]
-            },
-            {
-                  "name": "Käpälämäen luonnonsuojelualue",
-                  "text": "O zonă forestieră protejată pentru conservarea naturii în Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733051,
-                        60.728526
-                  ]
-            },
-            {
-                  "name": "Riihimäen Teatteri",
-                  "text": "Teatrul profesional din Riihimäki, cu spectacole diverse.",
-                  "category": "cultural",
-                  "coords": [
-                        24.768415,
-                        60.735354
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Un teatru în aer liber din Riihimäki pentru spectacole de vară.",
-                  "category": "cultural",
-                  "coords": [
-                        24.774109,
-                        60.742399
-                  ]
-            },
-            {
-                  "name": "Riihimäen Nuorisoteatteri",
-                  "text": "Un teatru de tineret activ în Riihimäki pentru tineri talentați.",
-                  "category": "cultural",
-                  "coords": [
-                        24.778634,
-                        60.739565
-                  ]
-            },
-            {
-                  "name": "Työväentalomuseo",
-                  "text": "Un muzeu din Riihimäki care ilustrează viața clasei muncitoare.",
-                  "category": "museum",
-                  "coords": [
-                        24.785676,
-                        60.738855
-                  ]
-            },
-            {
-                  "name": "Poikainahonmäen luonnonsuojelualue",
-                  "text": "O rezervație naturală liniștită situată lângă Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733996,
-                        60.742797
-                  ]
-            },
-            {
-                  "name": "Atsaleapuisto",
-                  "text": "Un parc din Riihimäki cunoscut pentru azaleele sale înflorite.",
-                  "category": "park",
-                  "coords": [
-                        24.805892,
-                        60.731307
-                  ]
-            },
-            {
-                  "name": "Jukka Jalosen puisto",
-                  "text": "Un parc din Riihimäki numit după antrenorul de hochei Jukka Jalonen.",
-                  "category": "park",
-                  "coords": [
-                        24.777638,
-                        60.738222
-                  ]
-            },
-            {
-                  "name": "Itsenäisyydenpuisto",
-                  "text": "Un parc central din Riihimäki dedicat independenței.",
-                  "category": "park",
-                  "coords": [
-                        24.766674,
-                        60.738106
-                  ]
-            },
-            {
-                  "name": "Urheilupuisto",
-                  "text": "Un parc din Riihimäki cu facilități sportive și de recreere.",
-                  "category": "park",
-                  "coords": [
-                        24.772502,
-                        60.743327
-                  ]
-            },
-            {
-                  "name": "Rautatienpuisto",
-                  "text": "Un parc istoric situat lângă gara din Riihimäki.",
-                  "category": "park",
-                  "coords": [
-                        24.775371,
-                        60.736019
-                  ]
-            },
-            {
-                  "name": "H. G. Paloheimon muistomerkki",
-                  "text": "Un monument în Riihimäki în onoarea industriașului H. G. Paloheimo.",
-                  "category": "historical",
-                  "coords": [
-                        24.779671,
-                        60.734798
-                  ]
-            },
-            {
-                  "name": "Riihimäen-Lopen rautatien muistomerkki",
-                  "text": "Un monument care comemorează calea ferată Riihimäki-Loppi.",
-                  "category": "historical",
-                  "coords": [
-                        24.765302,
-                        60.731749
-                  ]
-            },
-            {
-                  "name": "Riihimäen kenttätykistöperinteiden muistomerkki",
-                  "text": "Un monument care onorează tradițiile artileriei de câmp din Riihimäki.",
-                  "category": "historical",
-                  "coords": [
-                        24.772844,
-                        60.740009
-                  ]
-            },
-            {
-                  "name": "Mattilan kartanon työläisten asunnon rauniot",
-                  "text": "Ruinele locuințelor istorice ale muncitorilor de la conacul Mattila.",
-                  "category": "historical",
-                  "coords": [
-                        24.755674,
-                        60.712839
-                  ]
-            },
-            {
-                  "name": "Riihimäen vapaaseurakunta",
-                  "text": "O biserică liberă din Riihimäki pentru servicii creștine.",
-                  "category": "religious",
-                  "coords": [
-                        24.775368,
-                        60.737957
-                  ]
-            },
-            {
-                  "name": "Riihimäen Kotikirkko",
-                  "text": "Un centru comunitar creștin și biserică în Riihimäki.",
-                  "category": "religious",
-                  "coords": [
-                        24.766561,
-                        60.735596
-                  ]
-            },
-            {
-                  "name": "Keskuskirkko",
-                  "text": "Biserica centrală din Riihimäki, o clădire religioasă importantă.",
-                  "category": "religious",
-                  "coords": [
-                        24.771003,
-                        60.735927
-                  ]
-            },
-            {
-                  "name": "Vähäjärvi",
-                  "text": "Un lac în Riihimaki, ideal pentru plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.661074,
-                        60.690902
-                  ]
-            },
-            {
-                  "name": "Erkylänjärvi",
-                  "text": "O apă liniștită în Riihimaki, care invită la relaxare și la admirarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        24.888589,
-                        60.707183
-                  ]
-            },
-            {
-                  "name": "Paalijärvi",
-                  "text": "Acest lac din Riihimaki oferă un cadru pitoresc pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.680263,
-                        60.683785
-                  ]
-            },
-            {
-                  "name": "Josefiinanpuisto",
-                  "text": "O zonă de joacă publică în Riihimaki, care invită la joacă în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        24.749153,
-                        60.751311
-                  ]
-            },
-            {
-                  "name": "Ruotsinkadunpuisto",
-                  "text": "Un punct de întâlnire local pentru familii în Riihimaki, cu diverse facilități de joacă.",
-                  "category": "family",
-                  "coords": [
-                        24.777622,
-                        60.747746
-                  ]
-            },
-            {
-                  "name": "Kisapuisto",
-                  "text": "Un loc de joacă în Riihimaki, care oferă varietate și bucurie copiilor.",
-                  "category": "family",
-                  "coords": [
-                        24.80152,
-                        60.733568
-                  ]
-            },
-            {
-                  "name": "Toukolanpuisto",
-                  "text": "Un mic parc cu echipamente de joacă în Riihimaki, ideal pentru o ieșire zilnică.",
-                  "category": "family",
-                  "coords": [
-                        24.818663,
-                        60.739277
-                  ]
-            },
-            {
-                  "name": "Tellervonpuisto",
-                  "text": "Loc de joacă în Riihimaki, care oferă un mediu plăcut pentru zburdălnicia copiilor.",
-                  "category": "family",
-                  "coords": [
-                        24.739276,
-                        60.749887
-                  ]
-            },
-            {
-                  "name": "Suojalanpuisto",
-                  "text": "Un loc de joacă liniștit pentru copii într-o zonă rezidențială din Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.75768,
-                        60.753098
-                  ]
-            },
-            {
-                  "name": "Rajalanpuisto",
-                  "text": "Acest loc de joacă din Riihimaki are diverse echipamente pentru micii exploratori.",
-                  "category": "family",
-                  "coords": [
-                        24.759898,
-                        60.757675
-                  ]
-            },
-            {
-                  "name": "Atrapuisto",
-                  "text": "Un loc frumos de joacă pentru copii în orașul Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.816156,
-                        60.745852
-                  ]
-            },
-            {
-                  "name": "Kanervapuisto",
-                  "text": "O zonă de joacă prietenoasă cu copiii în Riihimaki, ideală pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        24.799792,
-                        60.747607
-                  ]
-            },
-            {
-                  "name": "Perhospuisto",
-                  "text": "Acest mic parc din Riihimaki oferă distracție în aer liber într-un cadru verde.",
-                  "category": "family",
-                  "coords": [
-                        24.775199,
-                        60.756397
-                  ]
-            },
-            {
-                  "name": "Marjatanpuisto",
-                  "text": "Un loc sigur pentru copii unde se pot juca și cățăra în Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.735766,
-                        60.748865
-                  ]
-            },
-            {
-                  "name": "Vainionpuisto",
-                  "text": "Un loc de joacă local în Riihimaki, care oferă spațiu pentru activități în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        24.755034,
-                        60.739935
-                  ]
-            },
-            {
-                  "name": "Lehtolantienpuisto",
-                  "text": "Acest loc de joacă din Riihimaki invită la petrecerea timpului și la joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        24.745135,
-                        60.738366
-                  ]
-            },
-            {
-                  "name": "Sammalpuisto",
-                  "text": "O mică zonă de joacă în Riihimaki, potrivită pentru o scurtă ieșire.",
-                  "category": "family",
-                  "coords": [
-                        24.789227,
-                        60.717345
-                  ]
-            },
-            {
-                  "name": "Kantakadun leikkipuisto",
-                  "text": "Loc de joacă în Riihimaki cu echipamente clasice pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        24.779412,
-                        60.752895
-                  ]
-            },
-            {
-                  "name": "Töyrypuisto",
-                  "text": "Un loc de joacă drăguț în Riihimaki, care invită la joaca zilnică în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        24.764116,
-                        60.734488
-                  ]
-            },
-            {
-                  "name": "Antinpuiston leikkipaikka",
-                  "text": "Loc de joacă în Riihimaki care oferă un mediu sigur pentru copiii mici.",
-                  "category": "family",
-                  "coords": [
-                        24.754264,
-                        60.726031
-                  ]
-            },
-            {
-                  "name": "Hirsimäenpuiston leikkipaikka",
-                  "text": "Un parc local cu loc de joacă în Riihimaki, ideal pentru o pauză cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        24.754574,
-                        60.729929
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Riihimäen taidemuseo",
-                  "text": "An art museum in Riihimäki focusing on Finnish visual arts.",
-                  "category": "museum",
-                  "coords": [
-                        24.76786,
-                        60.736532
-                  ]
-            },
-            {
-                  "name": "Finnish Glass Museum",
-                  "text": "A specialized museum in Riihimäki showcasing the history of glassmaking.",
-                  "category": "museum",
-                  "coords": [
-                        24.736625,
-                        60.732161
-                  ]
-            },
-            {
-                  "name": "The Hunting Museum of Finland",
-                  "text": "A national museum in Riihimäki dedicated to the history of hunting.",
-                  "category": "museum",
-                  "coords": [
-                        24.737012,
-                        60.731116
-                  ]
-            },
-            {
-                  "name": "Vantaanjokivarren luonnonsuojelualue",
-                  "text": "A protected nature reserve along the Vantaanjoki river in Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.807919,
-                        60.738907
-                  ]
-            },
-            {
-                  "name": "Korttionmäen luonnonsuojelualue",
-                  "text": "A local nature reserve situated in the Riihimäki area.",
-                  "category": "natural",
-                  "coords": [
-                        24.787864,
-                        60.711608
-                  ]
-            },
-            {
-                  "name": "Käpälämäen luonnonsuojelualue",
-                  "text": "A preserved forest area for nature conservation in Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733051,
-                        60.728526
-                  ]
-            },
-            {
-                  "name": "Riihimäen Teatteri",
-                  "text": "The professional theatre of Riihimäki, offering a variety of performances.",
-                  "category": "cultural",
-                  "coords": [
-                        24.768415,
-                        60.735354
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "An open-air theatre in Riihimäki for summer performances.",
-                  "category": "cultural",
-                  "coords": [
-                        24.774109,
-                        60.742399
-                  ]
-            },
-            {
-                  "name": "Riihimäen Nuorisoteatteri",
-                  "text": "An active youth theatre in Riihimäki for young performers.",
-                  "category": "cultural",
-                  "coords": [
-                        24.778634,
-                        60.739565
-                  ]
-            },
-            {
-                  "name": "Työväentalomuseo",
-                  "text": "A museum in Riihimäki focusing on the history of the labour movement.",
-                  "category": "museum",
-                  "coords": [
-                        24.785676,
-                        60.738855
-                  ]
-            },
-            {
-                  "name": "Poikainahonmäen luonnonsuojelualue",
-                  "text": "A peaceful nature reserve located near Riihimäki.",
-                  "category": "natural",
-                  "coords": [
-                        24.733996,
-                        60.742797
-                  ]
-            },
-            {
-                  "name": "Atsaleapuisto",
-                  "text": "A park in Riihimäki famous for its blooming azaleas.",
-                  "category": "park",
-                  "coords": [
-                        24.805892,
-                        60.731307
-                  ]
-            },
-            {
-                  "name": "Jukka Jalosen puisto",
-                  "text": "A park in Riihimäki named after ice hockey coach Jukka Jalonen.",
-                  "category": "park",
-                  "coords": [
-                        24.777638,
-                        60.738222
-                  ]
-            },
-            {
-                  "name": "Itsenäisyydenpuisto",
-                  "text": "A central park in Riihimäki dedicated to Finnish independence.",
-                  "category": "park",
-                  "coords": [
-                        24.766674,
-                        60.738106
-                  ]
-            },
-            {
-                  "name": "Urheilupuisto",
-                  "text": "A park in Riihimäki featuring sports and recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        24.772502,
-                        60.743327
-                  ]
-            },
-            {
-                  "name": "Rautatienpuisto",
-                  "text": "A historic park located near the Riihimäki railway station.",
-                  "category": "park",
-                  "coords": [
-                        24.775371,
-                        60.736019
-                  ]
-            },
-            {
-                  "name": "H. G. Paloheimon muistomerkki",
-                  "text": "A monument in Riihimäki honouring industrialist H. G. Paloheimo.",
-                  "category": "historical",
-                  "coords": [
-                        24.779671,
-                        60.734798
-                  ]
-            },
-            {
-                  "name": "Riihimäen-Lopen rautatien muistomerkki",
-                  "text": "A monument commemorating the Riihimäki-Loppi railway line.",
-                  "category": "historical",
-                  "coords": [
-                        24.765302,
-                        60.731749
-                  ]
-            },
-            {
-                  "name": "Riihimäen kenttätykistöperinteiden muistomerkki",
-                  "text": "A monument honouring the field artillery traditions in Riihimäki.",
-                  "category": "historical",
-                  "coords": [
-                        24.772844,
-                        60.740009
-                  ]
-            },
-            {
-                  "name": "Mattilan kartanon työläisten asunnon rauniot",
-                  "text": "Ruins of historic worker housing from the Mattila estate.",
-                  "category": "historical",
-                  "coords": [
-                        24.755674,
-                        60.712839
-                  ]
-            },
-            {
-                  "name": "Riihimäen vapaaseurakunta",
-                  "text": "A free church in Riihimäki providing Christian services.",
-                  "category": "religious",
-                  "coords": [
-                        24.775368,
-                        60.737957
-                  ]
-            },
-            {
-                  "name": "Riihimäen Kotikirkko",
-                  "text": "A Christian community church and centre in Riihimäki.",
-                  "category": "religious",
-                  "coords": [
-                        24.766561,
-                        60.735596
-                  ]
-            },
-            {
-                  "name": "Keskuskirkko",
-                  "text": "The Central Church of Riihimäki, a prominent religious landmark.",
-                  "category": "religious",
-                  "coords": [
-                        24.771003,
-                        60.735927
-                  ]
-            },
-            {
-                  "name": "Vähäjärvi",
-                  "text": "A lake in Riihimaki, ideal for relaxing walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.661074,
-                        60.690902
-                  ]
-            },
-            {
-                  "name": "Erkylänjärvi",
-                  "text": "A quiet body of water in Riihimaki, inviting you to relax and enjoy the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        24.888589,
-                        60.707183
-                  ]
-            },
-            {
-                  "name": "Paalijärvi",
-                  "text": "This lake in Riihimaki offers a scenic backdrop for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        24.680263,
-                        60.683785
-                  ]
-            },
-            {
-                  "name": "Josefiinanpuisto",
-                  "text": "A public play area in Riihimaki that offers a safe environment for playing.",
-                  "category": "family",
-                  "coords": [
-                        24.749153,
-                        60.751311
-                  ]
-            },
-            {
-                  "name": "Ruotsinkadunpuisto",
-                  "text": "A local meeting point for families in Riihimaki with various play options.",
-                  "category": "family",
-                  "coords": [
-                        24.777622,
-                        60.747746
-                  ]
-            },
-            {
-                  "name": "Kisapuisto",
-                  "text": "A playground in Riihimaki providing variety and fun for children.",
-                  "category": "family",
-                  "coords": [
-                        24.80152,
-                        60.733568
-                  ]
-            },
-            {
-                  "name": "Toukolanpuisto",
-                  "text": "A small park with play equipment in Riihimaki, ideal for a daily outing.",
-                  "category": "family",
-                  "coords": [
-                        24.818663,
-                        60.739277
-                  ]
-            },
-            {
-                  "name": "Tellervonpuisto",
-                  "text": "Playground in Riihimaki offering a nice environment for children to run around.",
-                  "category": "family",
-                  "coords": [
-                        24.739276,
-                        60.749887
-                  ]
-            },
-            {
-                  "name": "Suojalanpuisto",
-                  "text": "A quiet place for children to play in a residential area of Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.75768,
-                        60.753098
-                  ]
-            },
-            {
-                  "name": "Rajalanpuisto",
-                  "text": "This playground in Riihimaki features various equipment for little explorers.",
-                  "category": "family",
-                  "coords": [
-                        24.759898,
-                        60.757675
-                  ]
-            },
-            {
-                  "name": "Atrapuisto",
-                  "text": "A nice spot for children to play in the city of Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.816156,
-                        60.745852
-                  ]
-            },
-            {
-                  "name": "Kanervapuisto",
-                  "text": "A child-friendly play area in Riihimaki, ideal for families.",
-                  "category": "family",
-                  "coords": [
-                        24.799792,
-                        60.747607
-                  ]
-            },
-            {
-                  "name": "Perhospuisto",
-                  "text": "This small park in Riihimaki offers play fun in a green environment.",
-                  "category": "family",
-                  "coords": [
-                        24.775199,
-                        60.756397
-                  ]
-            },
-            {
-                  "name": "Marjatanpuisto",
-                  "text": "A safe place for children to play and climb in Riihimaki.",
-                  "category": "family",
-                  "coords": [
-                        24.735766,
-                        60.748865
-                  ]
-            },
-            {
-                  "name": "Vainionpuisto",
-                  "text": "A local playground in Riihimaki offering space for outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        24.755034,
-                        60.739935
-                  ]
-            },
-            {
-                  "name": "Lehtolantienpuisto",
-                  "text": "This playground in Riihimaki invites you to stay and play in the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        24.745135,
-                        60.738366
-                  ]
-            },
-            {
-                  "name": "Sammalpuisto",
-                  "text": "A small play area in Riihimaki, well-suited for a short outing.",
-                  "category": "family",
-                  "coords": [
-                        24.789227,
-                        60.717345
-                  ]
-            },
-            {
-                  "name": "Kantakadun leikkipuisto",
-                  "text": "Playground in Riihimaki with classic equipment for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        24.779412,
-                        60.752895
-                  ]
-            },
-            {
-                  "name": "Töyrypuisto",
-                  "text": "A pretty playground in Riihimaki that invites daily outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        24.764116,
-                        60.734488
-                  ]
-            },
-            {
-                  "name": "Antinpuiston leikkipaikka",
-                  "text": "Play area in Riihimaki providing a safe environment for small children.",
-                  "category": "family",
-                  "coords": [
-                        24.754264,
-                        60.726031
-                  ]
-            },
-            {
-                  "name": "Hirsimäenpuiston leikkipaikka",
-                  "text": "A local park with a playground in Riihimaki, ideal for a break with children.",
-                  "category": "family",
-                  "coords": [
-                        24.754574,
-                        60.729929
-                  ]
-            }
-      ]
-},
+    id: "city-riihimaki", "sights": {"de": [{"name": "Riihimäen taidemuseo", "text": "Ein Museum in Riihimäki, das sich auf finnische Kunst konzentriert.", "category": "museum", "coords": [24.76786, 60.736532]}, {"name": "Suomen lasimuseo", "text": "Ein spezialisiertes Museum in Riihimäki, das die Geschichte der Glasherstellung zeigt.", "category": "museum", "coords": [24.736625, 60.732161]}, {"name": "Suomen Metsästysmuseo", "text": "Ein nationales Museum in Riihimäki, das der Geschichte der Jagd gewidmet ist.", "category": "museum", "coords": [24.737012, 60.731116]}, {"name": "Vantaanjokivarren luonnonsuojelualue", "text": "Ein geschütztes Naturgebiet am Fluss Vantaanjoki in Riihimäki.", "category": "natural", "coords": [24.807919, 60.738907]}, {"name": "Korttionmäen luonnonsuojelualue", "text": "Ein lokales Naturschutzgebiet in der Region Riihimäki.", "category": "natural", "coords": [24.787864, 60.711608]}, {"name": "Käpälämäen luonnonsuojelualue", "text": "Ein bewahrtes Waldgebiet für den Naturschutz in Riihimäki.", "category": "natural", "coords": [24.733051, 60.728526]}, {"name": "Riihimäen Teatteri", "text": "Das professionelle Theater von Riihimäki mit vielfältigen Aufführungen.", "category": "cultural", "coords": [24.768415, 60.735354]}, {"name": "Kesäteatteri", "text": "Ein Freilichttheater in Riihimäki für sommerliche Aufführungen.", "category": "cultural", "coords": [24.774109, 60.742399]}, {"name": "Riihimäen Nuorisoteatteri", "text": "Ein aktives Jugendtheater in Riihimäki für junge Talente.", "category": "cultural", "coords": [24.778634, 60.739565]}, {"name": "Työväentalomuseo", "text": "Ein Museum in Riihimäki, das das Leben der Arbeiterklasse beleuchtet.", "category": "museum", "coords": [24.785676, 60.738855]}, {"name": "Poikainahonmäen luonnonsuojelualue", "text": "Ein ruhiges Naturschutzgebiet in der Nähe von Riihimäki.", "category": "natural", "coords": [24.733996, 60.742797]}, {"name": "Atsaleapuisto", "text": "Ein Park in Riihimäki, der für seine blühenden Azaleen bekannt ist.", "category": "park", "coords": [24.805892, 60.731307]}, {"name": "Jukka Jalosen puisto", "text": "Ein Park in Riihimäki, benannt nach dem Eishockeytrainer Jukka Jalonen.", "category": "park", "coords": [24.777638, 60.738222]}, {"name": "Itsenäisyydenpuisto", "text": "Ein zentraler Park in Riihimäki, der der Unabhängigkeit gewidmet ist.", "category": "park", "coords": [24.766674, 60.738106]}, {"name": "Urheilupuisto", "text": "Ein Park in Riihimäki mit Sport- und Freizeiteinrichtungen.", "category": "park", "coords": [24.772502, 60.743327]}, {"name": "Rautatienpuisto", "text": "Ein historischer Park in der Nähe des Bahnhofs von Riihimäki.", "category": "park", "coords": [24.775371, 60.736019]}, {"name": "H. G. Paloheimon muistomerkki", "text": "Ein Denkmal in Riihimäki zu Ehren des Industriellen H. G. Paloheimo.", "category": "historical", "coords": [24.779671, 60.734798]}, {"name": "Riihimäen-Lopen rautatien muistomerkki", "text": "Das historische Denkmal Riihimäen-Lopen rautatien muistomerkki in Riihimaki erinnert an die ehemalige Eisenbahnverbindung nach Loppi. Es dient als stummer Zeuge der regionalen Verkehrsgeschichte.", "category": "historical", "coords": [24.765302, 60.731749]}, {"name": "Riihimäen kenttätykistöperinteiden muistomerkki", "text": "Ein Denkmal zur Ehrung der Feldartillerie-Tradition in Riihimäki.", "category": "historical", "coords": [24.772844, 60.740009]}, {"name": "Mattilan kartanon työläisten asunnon rauniot", "text": "Ruinen historischer Arbeiterwohnungen des Gutshofs Mattila.", "category": "historical", "coords": [24.755674, 60.712839]}, {"name": "Riihimäen vapaaseurakunta", "text": "Eine Freikirche in Riihimäki für christliche Gottesdienste.", "category": "religious", "coords": [24.775368, 60.737957]}, {"name": "Riihimäen Kotikirkko", "text": "Ein christliches Gemeindezentrum in Riihimäki.", "category": "religious", "coords": [24.766561, 60.735596]}, {"name": "Keskuskirkko", "text": "Die Zentralkirche von Riihimäki, ein markantes religiöses Gebäude.", "category": "religious", "coords": [24.771003, 60.735927]}, {"name": "Vähäjärvi", "text": "Ein See in Riihimaki, ideal für entspannte Spaziergänge in der Natur.", "category": "natural", "coords": [24.661074, 60.690902]}, {"name": "Erkylänjärvi", "text": "Ein ruhiges Gewässer in Riihimaki, das zum Verweilen und Genießen der Landschaft einlädt.", "category": "natural", "coords": [24.888589, 60.707183]}, {"name": "Paalijärvi", "text": "Dieser See in Riihimaki bietet eine malerische Kulisse für Naturliebhaber.", "category": "natural", "coords": [24.680263, 60.683785]}, {"name": "Josefiinanpuisto", "text": "Ein öffentlicher Spielbereich in Riihimaki, der sicher zum Spielen einlädt.", "category": "family", "coords": [24.749153, 60.751311]}, {"name": "Ruotsinkadunpuisto", "text": "Ein lokaler Treffpunkt für Familien in Riihimaki mit verschiedenen Spielmöglichkeiten.", "category": "family", "coords": [24.777622, 60.747746]}, {"name": "Kisapuisto", "text": "Ein Spielplatz in Riihimaki, der Kindern Abwechslung und Freude bietet.", "category": "family", "coords": [24.80152, 60.733568]}, {"name": "Toukolanpuisto", "text": "Ein kleiner Park mit Spielgeräten in Riihimaki, ideal für den täglichen Ausflug.", "category": "family", "coords": [24.818663, 60.739277]}, {"name": "Tellervonpuisto", "text": "Spielplatz in Riihimaki, der eine schöne Umgebung für Kinder zum Toben bietet.", "category": "family", "coords": [24.739276, 60.749887]}, {"name": "Suojalanpuisto", "text": "Ein ruhiger Spielort für Kinder in einem Wohngebiet von Riihimaki.", "category": "family", "coords": [24.75768, 60.753098]}, {"name": "Rajalanpuisto", "text": "Dieser Spielplatz in Riihimaki verfügt über verschiedene Geräte für kleine Entdecker.", "category": "family", "coords": [24.759898, 60.757675]}, {"name": "Atrapuisto", "text": "Ein schöner Platz zum Spielen für Kinder in der Stadt Riihimaki.", "category": "family", "coords": [24.816156, 60.745852]}, {"name": "Kanervapuisto", "text": "Ein kinderfreundlicher Spielbereich in Riihimaki, ideal für Familien.", "category": "family", "coords": [24.799792, 60.747607]}, {"name": "Perhospuisto", "text": "Dieser kleine Park in Riihimaki bietet Spielspaß in einer grünen Umgebung.", "category": "family", "coords": [24.775199, 60.756397]}, {"name": "Marjatanpuisto", "text": "Ein sicherer Ort für Kinder zum Spielen und Klettern in Riihimaki.", "category": "family", "coords": [24.735766, 60.748865]}, {"name": "Vainionpuisto", "text": "Ein lokaler Spielplatz in Riihimaki, der Platz für Outdoor-Aktivitäten bietet.", "category": "family", "coords": [24.755034, 60.739935]}, {"name": "Lehtolantienpuisto", "text": "Dieser Spielplatz in Riihimaki lädt zum Verweilen und Spielen an der frischen Luft ein.", "category": "family", "coords": [24.745135, 60.738366]}, {"name": "Sammalpuisto", "text": "Ein kleiner Spielbereich in Riihimaki, gut geeignet für einen kurzen Ausflug.", "category": "family", "coords": [24.789227, 60.717345]}, {"name": "Kantakadun leikkipuisto", "text": "Spielplatz in Riihimaki mit klassischen Geräten für Kinder jeden Alters.", "category": "family", "coords": [24.779412, 60.752895]}, {"name": "Töyrypuisto", "text": "Ein hübscher Spielplatz in Riihimaki, der zum täglichen Spielen im Freien einlädt.", "category": "family", "coords": [24.764116, 60.734488]}, {"name": "Antinpuiston leikkipaikka", "text": "Spielstelle in Riihimaki, die eine sichere Umgebung für Kleinkinder bietet.", "category": "family", "coords": [24.754264, 60.726031]}, {"name": "Hirsimäenpuiston leikkipaikka", "text": "Ein lokaler Park mit Spielplatz in Riihimaki, ideal für eine Pause mit Kindern.", "category": "family", "coords": [24.754574, 60.729929]}, {"name": "Urheilupuiston Uimala", "text": "Urheilupuiston Uimala ist ein Schwimmbad in Riihimäki. Es verfügt über Becken für Freizeitschwimmer und Sportler.", "category": "family", "coords": [24.768875, 60.741604]}], "hu": [{"name": "Riihimäen taidemuseo", "text": "Riihimäki művészeti múzeuma, amely a finn alkotásokra összpontosít.", "category": "museum", "coords": [24.76786, 60.736532]}, {"name": "Suomen lasimuseo", "text": "Speciális múzeum Riihimäkiben, amely az üveggyártás történetét mutatja be.", "category": "museum", "coords": [24.736625, 60.732161]}, {"name": "Suomen Metsästysmuseo", "text": "Riihimäki nemzeti múzeuma, amelyet a vadászat történetének szenteltek.", "category": "museum", "coords": [24.737012, 60.731116]}, {"name": "Vantaanjokivarren luonnonsuojelualue", "text": "Védett természeti terület a Vantaanjoki folyó mentén Riihimäkiben.", "category": "natural", "coords": [24.807919, 60.738907]}, {"name": "Korttionmäen luonnonsuojelualue", "text": "Helyi természetvédelmi terület Riihimäki régiójában.", "category": "natural", "coords": [24.787864, 60.711608]}, {"name": "Käpälämäen luonnonsuojelualue", "text": "Természetvédelmi célból megőrzött erdős terület Riihimäkiben.", "category": "natural", "coords": [24.733051, 60.728526]}, {"name": "Riihimäen Teatteri", "text": "Riihimäki professzionális színháza, változatos előadásokkal.", "category": "cultural", "coords": [24.768415, 60.735354]}, {"name": "Kesäteatteri", "text": "Szabadtéri színpad Riihimäkiben a nyári előadásokhoz.", "category": "cultural", "coords": [24.774109, 60.742399]}, {"name": "Riihimäen Nuorisoteatteri", "text": "Aktív ifjúsági színház Riihimäkiben a fiatal tehetségek számára.", "category": "cultural", "coords": [24.778634, 60.739565]}, {"name": "Työväentalomuseo", "text": "Riihimäki múzeuma, amely a munkásosztály életét mutatja be.", "category": "museum", "coords": [24.785676, 60.738855]}, {"name": "Poikainahonmäen luonnonsuojelualue", "text": "Csendes természetvédelmi terület Riihimäki közelében.", "category": "natural", "coords": [24.733996, 60.742797]}, {"name": "Atsaleapuisto", "text": "Riihimäki parkja, amely a virágzó azáleáiról ismert.", "category": "park", "coords": [24.805892, 60.731307]}, {"name": "Jukka Jalosen puisto", "text": "Riihimäki parkja, amelyet Jukka Jalonen jégkorongedzőről neveztek el.", "category": "park", "coords": [24.777638, 60.738222]}, {"name": "Itsenäisyydenpuisto", "text": "Központi park Riihimäkiben, amelyet a függetlenségnek szenteltek.", "category": "park", "coords": [24.766674, 60.738106]}, {"name": "Urheilupuisto", "text": "Sport- és szabadidős létesítményekkel rendelkező park Riihimäkiben.", "category": "park", "coords": [24.772502, 60.743327]}, {"name": "Rautatienpuisto", "text": "Történelmi park a riihimäki vasútállomás közelében.", "category": "park", "coords": [24.775371, 60.736019]}, {"name": "H. G. Paloheimon muistomerkki", "text": "Emlékmű Riihimäkiben H. G. Paloheimo iparos tiszteletére.", "category": "historical", "coords": [24.779671, 60.734798]}, {"name": "Riihimäen-Lopen rautatien muistomerkki", "text": "A riihimäki-i Riihimäen-Lopen rautatien muistomerkki egy történelmi emlékmű, amely a Loppi felé vezető egykori vasútvonalnak állít emléket. Az alkotás a regionális közlekedéstörténet néma tanúja.", "category": "historical", "coords": [24.765302, 60.731749]}, {"name": "Riihimäen kenttätykistöperinteiden muistomerkki", "text": "A riihimäki tábori tüzérségi hagyományok előtt tisztelgő emlékmű.", "category": "historical", "coords": [24.772844, 60.740009]}, {"name": "Mattilan kartanon työläisten asunnon rauniot", "text": "A Mattila-kúria egykori munkáslakásainak romjai.", "category": "historical", "coords": [24.755674, 60.712839]}, {"name": "Riihimäen vapaaseurakunta", "text": "Szabadegyházi templom Riihimäkiben keresztény istentiszteletekhez.", "category": "religious", "coords": [24.775368, 60.737957]}, {"name": "Riihimäen Kotikirkko", "text": "Keresztény közösségi központ és templom Riihimäkiben.", "category": "religious", "coords": [24.766561, 60.735596]}, {"name": "Keskuskirkko", "text": "Riihimäki központi temploma, jelentős vallási épület.", "category": "religious", "coords": [24.771003, 60.735927]}, {"name": "Vähäjärvi", "text": "Egy tó Riihimaki területén, amely ideális pihentető erdei sétákhoz.", "category": "natural", "coords": [24.661074, 60.690902]}, {"name": "Erkylänjärvi", "text": "Csendes vízfelület Riihimaki közelében, amely pihenésre és a táj élvezetére hív.", "category": "natural", "coords": [24.888589, 60.707183]}, {"name": "Paalijärvi", "text": "Ez a Riihimaki melletti tó festői környezetet biztosít a természet kedvelőinek.", "category": "natural", "coords": [24.680263, 60.683785]}, {"name": "Josefiinanpuisto", "text": "Riihimaki egyik nyilvános játszótere, amely biztonságos környezetet nyújt a játékhoz.", "category": "family", "coords": [24.749153, 60.751311]}, {"name": "Ruotsinkadunpuisto", "text": "Helyi találkozóhely családoknak Riihimaki városában, különféle játéklehetőségekkel.", "category": "family", "coords": [24.777622, 60.747746]}, {"name": "Kisapuisto", "text": "Játszótér Riihimaki területén, amely változatosságot és örömöt kínál a gyerekeknek.", "category": "family", "coords": [24.80152, 60.733568]}, {"name": "Toukolanpuisto", "text": "Kisebb park játékokkal Riihimaki városában, ideális napi kikapcsolódáshoz.", "category": "family", "coords": [24.818663, 60.739277]}, {"name": "Tellervonpuisto", "text": "Riihimaki játszótere, amely kellemes környezetet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [24.739276, 60.749887]}, {"name": "Suojalanpuisto", "text": "Csendes játszóhely gyerekeknek Riihimaki egyik lakóövezetében.", "category": "family", "coords": [24.75768, 60.753098]}, {"name": "Rajalanpuisto", "text": "Ez a riihimaki játszótér különféle eszközökkel várja a kis felfedezőket.", "category": "family", "coords": [24.759898, 60.757675]}, {"name": "Atrapuisto", "text": "Kellemes hely a játékhoz a gyermekek számára Riihimaki városában.", "category": "family", "coords": [24.816156, 60.745852]}, {"name": "Kanervapuisto", "text": "Gyermekbarát játszóövezet Riihimaki területén, amely ideális a családok számára.", "category": "family", "coords": [24.799792, 60.747607]}, {"name": "Perhospuisto", "text": "Ez a kis park Riihimaki városában játékos kikapcsolódást kínál zöld környezetben.", "category": "family", "coords": [24.775199, 60.756397]}, {"name": "Marjatanpuisto", "text": "Biztonságos hely a játékra és mászásra a gyerekeknek Riihimaki városában.", "category": "family", "coords": [24.735766, 60.748865]}, {"name": "Vainionpuisto", "text": "Helyi játszótér Riihimaki városában, amely helyet biztosít a szabadtéri tevékenységekhez.", "category": "family", "coords": [24.755034, 60.739935]}, {"name": "Lehtolantienpuisto", "text": "Ez a riihimaki játszótér játékra és szabadtéri időtöltésre hív.", "category": "family", "coords": [24.745135, 60.738366]}, {"name": "Sammalpuisto", "text": "Kisebb játszóterület Riihimaki városában, alkalmas egy rövid kiruccanáshoz.", "category": "family", "coords": [24.789227, 60.717345]}, {"name": "Kantakadun leikkipuisto", "text": "Játszótér Riihimaki területén, klasszikus játékokkal minden korosztály számára.", "category": "family", "coords": [24.779412, 60.752895]}, {"name": "Töyrypuisto", "text": "Csinos játszótér Riihimaki városában, amely mindennapi szabadtéri játékra csábít.", "category": "family", "coords": [24.764116, 60.734488]}, {"name": "Antinpuiston leikkipaikka", "text": "Játszóhely Riihimaki területén, amely biztonságos környezetet nyújt a kisgyermekeknek.", "category": "family", "coords": [24.754264, 60.726031]}, {"name": "Hirsimäenpuiston leikkipaikka", "text": "Helyi park játszótérrel Riihimaki városában, ideális pihenőhely gyerekekkel.", "category": "family", "coords": [24.754574, 60.729929]}, {"name": "Urheilupuiston Uimala", "text": "Az Urheilupuiston Uimala egy úszómedence Riihimäkiben. Medencékkel várja a szabadidős úszókat és sportolókat.", "category": "family", "coords": [24.768875, 60.741604]}], "ro": [{"name": "Riihimäen taidemuseo", "text": "Un muzeu din Riihimäki care se concentrează pe arta finlandeză.", "category": "museum", "coords": [24.76786, 60.736532]}, {"name": "Suomen lasimuseo", "text": "Un muzeu specializat din Riihimäki care prezintă istoria fabricării sticlei.", "category": "museum", "coords": [24.736625, 60.732161]}, {"name": "Suomen Metsästysmuseo", "text": "Un muzeu național din Riihimäki dedicat istoriei vânătorii.", "category": "museum", "coords": [24.737012, 60.731116]}, {"name": "Vantaanjokivarren luonnonsuojelualue", "text": "O zonă naturală protejată de-a lungul râului Vantaanjoki din Riihimäki.", "category": "natural", "coords": [24.807919, 60.738907]}, {"name": "Korttionmäen luonnonsuojelualue", "text": "O rezervație naturală locală în regiunea Riihimäki.", "category": "natural", "coords": [24.787864, 60.711608]}, {"name": "Käpälämäen luonnonsuojelualue", "text": "O zonă forestieră protejată pentru conservarea naturii în Riihimäki.", "category": "natural", "coords": [24.733051, 60.728526]}, {"name": "Riihimäen Teatteri", "text": "Teatrul profesional din Riihimäki, cu spectacole diverse.", "category": "cultural", "coords": [24.768415, 60.735354]}, {"name": "Kesäteatteri", "text": "Un teatru în aer liber din Riihimäki pentru spectacole de vară.", "category": "cultural", "coords": [24.774109, 60.742399]}, {"name": "Riihimäen Nuorisoteatteri", "text": "Un teatru de tineret activ în Riihimäki pentru tineri talentați.", "category": "cultural", "coords": [24.778634, 60.739565]}, {"name": "Työväentalomuseo", "text": "Un muzeu din Riihimäki care ilustrează viața clasei muncitoare.", "category": "museum", "coords": [24.785676, 60.738855]}, {"name": "Poikainahonmäen luonnonsuojelualue", "text": "O rezervație naturală liniștită situată lângă Riihimäki.", "category": "natural", "coords": [24.733996, 60.742797]}, {"name": "Atsaleapuisto", "text": "Un parc din Riihimäki cunoscut pentru azaleele sale înflorite.", "category": "park", "coords": [24.805892, 60.731307]}, {"name": "Jukka Jalosen puisto", "text": "Un parc din Riihimäki numit după antrenorul de hochei Jukka Jalonen.", "category": "park", "coords": [24.777638, 60.738222]}, {"name": "Itsenäisyydenpuisto", "text": "Un parc central din Riihimäki dedicat independenței.", "category": "park", "coords": [24.766674, 60.738106]}, {"name": "Urheilupuisto", "text": "Un parc din Riihimäki cu facilități sportive și de recreere.", "category": "park", "coords": [24.772502, 60.743327]}, {"name": "Rautatienpuisto", "text": "Un parc istoric situat lângă gara din Riihimäki.", "category": "park", "coords": [24.775371, 60.736019]}, {"name": "H. G. Paloheimon muistomerkki", "text": "Un monument în Riihimäki în onoarea industriașului H. G. Paloheimo.", "category": "historical", "coords": [24.779671, 60.734798]}, {"name": "Riihimäen-Lopen rautatien muistomerkki", "text": "Monumentul istoric Riihimäen-Lopen rautatien muistomerkki din Riihimaki comemorează fosta conexiune feroviară către Loppi. Acesta servește drept martor tăcut al istoriei transportului regional.", "category": "historical", "coords": [24.765302, 60.731749]}, {"name": "Riihimäen kenttätykistöperinteiden muistomerkki", "text": "Un monument care onorează tradițiile artileriei de câmp din Riihimäki.", "category": "historical", "coords": [24.772844, 60.740009]}, {"name": "Mattilan kartanon työläisten asunnon rauniot", "text": "Ruinele locuințelor istorice ale muncitorilor de la conacul Mattila.", "category": "historical", "coords": [24.755674, 60.712839]}, {"name": "Riihimäen vapaaseurakunta", "text": "O biserică liberă din Riihimäki pentru servicii creștine.", "category": "religious", "coords": [24.775368, 60.737957]}, {"name": "Riihimäen Kotikirkko", "text": "Un centru comunitar creștin și biserică în Riihimäki.", "category": "religious", "coords": [24.766561, 60.735596]}, {"name": "Keskuskirkko", "text": "Biserica centrală din Riihimäki, o clădire religioasă importantă.", "category": "religious", "coords": [24.771003, 60.735927]}, {"name": "Vähäjärvi", "text": "Un lac în Riihimaki, ideal pentru plimbări relaxante în natură.", "category": "natural", "coords": [24.661074, 60.690902]}, {"name": "Erkylänjärvi", "text": "O apă liniștită în Riihimaki, care invită la relaxare și la admirarea peisajului.", "category": "natural", "coords": [24.888589, 60.707183]}, {"name": "Paalijärvi", "text": "Acest lac din Riihimaki oferă un cadru pitoresc pentru iubitorii de natură.", "category": "natural", "coords": [24.680263, 60.683785]}, {"name": "Josefiinanpuisto", "text": "O zonă de joacă publică în Riihimaki, care invită la joacă în siguranță.", "category": "family", "coords": [24.749153, 60.751311]}, {"name": "Ruotsinkadunpuisto", "text": "Un punct de întâlnire local pentru familii în Riihimaki, cu diverse facilități de joacă.", "category": "family", "coords": [24.777622, 60.747746]}, {"name": "Kisapuisto", "text": "Un loc de joacă în Riihimaki, care oferă varietate și bucurie copiilor.", "category": "family", "coords": [24.80152, 60.733568]}, {"name": "Toukolanpuisto", "text": "Un mic parc cu echipamente de joacă în Riihimaki, ideal pentru o ieșire zilnică.", "category": "family", "coords": [24.818663, 60.739277]}, {"name": "Tellervonpuisto", "text": "Loc de joacă în Riihimaki, care oferă un mediu plăcut pentru zburdălnicia copiilor.", "category": "family", "coords": [24.739276, 60.749887]}, {"name": "Suojalanpuisto", "text": "Un loc de joacă liniștit pentru copii într-o zonă rezidențială din Riihimaki.", "category": "family", "coords": [24.75768, 60.753098]}, {"name": "Rajalanpuisto", "text": "Acest loc de joacă din Riihimaki are diverse echipamente pentru micii exploratori.", "category": "family", "coords": [24.759898, 60.757675]}, {"name": "Atrapuisto", "text": "Un loc frumos de joacă pentru copii în orașul Riihimaki.", "category": "family", "coords": [24.816156, 60.745852]}, {"name": "Kanervapuisto", "text": "O zonă de joacă prietenoasă cu copiii în Riihimaki, ideală pentru familii.", "category": "family", "coords": [24.799792, 60.747607]}, {"name": "Perhospuisto", "text": "Acest mic parc din Riihimaki oferă distracție în aer liber într-un cadru verde.", "category": "family", "coords": [24.775199, 60.756397]}, {"name": "Marjatanpuisto", "text": "Un loc sigur pentru copii unde se pot juca și cățăra în Riihimaki.", "category": "family", "coords": [24.735766, 60.748865]}, {"name": "Vainionpuisto", "text": "Un loc de joacă local în Riihimaki, care oferă spațiu pentru activități în aer liber.", "category": "family", "coords": [24.755034, 60.739935]}, {"name": "Lehtolantienpuisto", "text": "Acest loc de joacă din Riihimaki invită la petrecerea timpului și la joacă în aer liber.", "category": "family", "coords": [24.745135, 60.738366]}, {"name": "Sammalpuisto", "text": "O mică zonă de joacă în Riihimaki, potrivită pentru o scurtă ieșire.", "category": "family", "coords": [24.789227, 60.717345]}, {"name": "Kantakadun leikkipuisto", "text": "Loc de joacă în Riihimaki cu echipamente clasice pentru copii de toate vârstele.", "category": "family", "coords": [24.779412, 60.752895]}, {"name": "Töyrypuisto", "text": "Un loc de joacă drăguț în Riihimaki, care invită la joaca zilnică în aer liber.", "category": "family", "coords": [24.764116, 60.734488]}, {"name": "Antinpuiston leikkipaikka", "text": "Loc de joacă în Riihimaki care oferă un mediu sigur pentru copiii mici.", "category": "family", "coords": [24.754264, 60.726031]}, {"name": "Hirsimäenpuiston leikkipaikka", "text": "Un parc local cu loc de joacă în Riihimaki, ideal pentru o pauză cu copiii.", "category": "family", "coords": [24.754574, 60.729929]}, {"name": "Urheilupuiston Uimala", "text": "Urheilupuiston Uimala este o piscină în Riihimäki. Dispune de bazine pentru înotători de agrement și sportivi.", "category": "family", "coords": [24.768875, 60.741604]}], "en": [{"name": "Riihimäen taidemuseo", "text": "An art museum in Riihimäki focusing on Finnish visual arts.", "category": "museum", "coords": [24.76786, 60.736532]}, {"name": "Finnish Glass Museum", "text": "A specialized museum in Riihimäki showcasing the history of glassmaking.", "category": "museum", "coords": [24.736625, 60.732161]}, {"name": "The Hunting Museum of Finland", "text": "A national museum in Riihimäki dedicated to the history of hunting.", "category": "museum", "coords": [24.737012, 60.731116]}, {"name": "Vantaanjokivarren luonnonsuojelualue", "text": "A protected nature reserve along the Vantaanjoki river in Riihimäki.", "category": "natural", "coords": [24.807919, 60.738907]}, {"name": "Korttionmäen luonnonsuojelualue", "text": "A local nature reserve situated in the Riihimäki area.", "category": "natural", "coords": [24.787864, 60.711608]}, {"name": "Käpälämäen luonnonsuojelualue", "text": "A preserved forest area for nature conservation in Riihimäki.", "category": "natural", "coords": [24.733051, 60.728526]}, {"name": "Riihimäen Teatteri", "text": "The professional theatre of Riihimäki, offering a variety of performances.", "category": "cultural", "coords": [24.768415, 60.735354]}, {"name": "Kesäteatteri", "text": "An open-air theatre in Riihimäki for summer performances.", "category": "cultural", "coords": [24.774109, 60.742399]}, {"name": "Riihimäen Nuorisoteatteri", "text": "An active youth theatre in Riihimäki for young performers.", "category": "cultural", "coords": [24.778634, 60.739565]}, {"name": "Työväentalomuseo", "text": "A museum in Riihimäki focusing on the history of the labour movement.", "category": "museum", "coords": [24.785676, 60.738855]}, {"name": "Poikainahonmäen luonnonsuojelualue", "text": "A peaceful nature reserve located near Riihimäki.", "category": "natural", "coords": [24.733996, 60.742797]}, {"name": "Atsaleapuisto", "text": "A park in Riihimäki famous for its blooming azaleas.", "category": "park", "coords": [24.805892, 60.731307]}, {"name": "Jukka Jalosen puisto", "text": "A park in Riihimäki named after ice hockey coach Jukka Jalonen.", "category": "park", "coords": [24.777638, 60.738222]}, {"name": "Itsenäisyydenpuisto", "text": "A central park in Riihimäki dedicated to Finnish independence.", "category": "park", "coords": [24.766674, 60.738106]}, {"name": "Urheilupuisto", "text": "A park in Riihimäki featuring sports and recreational facilities.", "category": "park", "coords": [24.772502, 60.743327]}, {"name": "Rautatienpuisto", "text": "A historic park located near the Riihimäki railway station.", "category": "park", "coords": [24.775371, 60.736019]}, {"name": "H. G. Paloheimon muistomerkki", "text": "A monument in Riihimäki honouring industrialist H. G. Paloheimo.", "category": "historical", "coords": [24.779671, 60.734798]}, {"name": "Riihimäen-Lopen rautatien muistomerkki", "text": "The historical monument Riihimäen-Lopen rautatien muistomerkki in Riihimaki commemorates the former railway connection to Loppi. It stands as a silent witness to the region's transportation history.", "category": "historical", "coords": [24.765302, 60.731749]}, {"name": "Riihimäen kenttätykistöperinteiden muistomerkki", "text": "A monument honouring the field artillery traditions in Riihimäki.", "category": "historical", "coords": [24.772844, 60.740009]}, {"name": "Mattilan kartanon työläisten asunnon rauniot", "text": "Ruins of historic worker housing from the Mattila estate.", "category": "historical", "coords": [24.755674, 60.712839]}, {"name": "Riihimäen vapaaseurakunta", "text": "A free church in Riihimäki providing Christian services.", "category": "religious", "coords": [24.775368, 60.737957]}, {"name": "Riihimäen Kotikirkko", "text": "A Christian community church and centre in Riihimäki.", "category": "religious", "coords": [24.766561, 60.735596]}, {"name": "Keskuskirkko", "text": "The Central Church of Riihimäki, a prominent religious landmark.", "category": "religious", "coords": [24.771003, 60.735927]}, {"name": "Vähäjärvi", "text": "A lake in Riihimaki, ideal for relaxing walks in nature.", "category": "natural", "coords": [24.661074, 60.690902]}, {"name": "Erkylänjärvi", "text": "A quiet body of water in Riihimaki, inviting you to relax and enjoy the scenery.", "category": "natural", "coords": [24.888589, 60.707183]}, {"name": "Paalijärvi", "text": "This lake in Riihimaki offers a scenic backdrop for nature lovers.", "category": "natural", "coords": [24.680263, 60.683785]}, {"name": "Josefiinanpuisto", "text": "A public play area in Riihimaki that offers a safe environment for playing.", "category": "family", "coords": [24.749153, 60.751311]}, {"name": "Ruotsinkadunpuisto", "text": "A local meeting point for families in Riihimaki with various play options.", "category": "family", "coords": [24.777622, 60.747746]}, {"name": "Kisapuisto", "text": "A playground in Riihimaki providing variety and fun for children.", "category": "family", "coords": [24.80152, 60.733568]}, {"name": "Toukolanpuisto", "text": "A small park with play equipment in Riihimaki, ideal for a daily outing.", "category": "family", "coords": [24.818663, 60.739277]}, {"name": "Tellervonpuisto", "text": "Playground in Riihimaki offering a nice environment for children to run around.", "category": "family", "coords": [24.739276, 60.749887]}, {"name": "Suojalanpuisto", "text": "A quiet place for children to play in a residential area of Riihimaki.", "category": "family", "coords": [24.75768, 60.753098]}, {"name": "Rajalanpuisto", "text": "This playground in Riihimaki features various equipment for little explorers.", "category": "family", "coords": [24.759898, 60.757675]}, {"name": "Atrapuisto", "text": "A nice spot for children to play in the city of Riihimaki.", "category": "family", "coords": [24.816156, 60.745852]}, {"name": "Kanervapuisto", "text": "A child-friendly play area in Riihimaki, ideal for families.", "category": "family", "coords": [24.799792, 60.747607]}, {"name": "Perhospuisto", "text": "This small park in Riihimaki offers play fun in a green environment.", "category": "family", "coords": [24.775199, 60.756397]}, {"name": "Marjatanpuisto", "text": "A safe place for children to play and climb in Riihimaki.", "category": "family", "coords": [24.735766, 60.748865]}, {"name": "Vainionpuisto", "text": "A local playground in Riihimaki offering space for outdoor activities.", "category": "family", "coords": [24.755034, 60.739935]}, {"name": "Lehtolantienpuisto", "text": "This playground in Riihimaki invites you to stay and play in the fresh air.", "category": "family", "coords": [24.745135, 60.738366]}, {"name": "Sammalpuisto", "text": "A small play area in Riihimaki, well-suited for a short outing.", "category": "family", "coords": [24.789227, 60.717345]}, {"name": "Kantakadun leikkipuisto", "text": "Playground in Riihimaki with classic equipment for children of all ages.", "category": "family", "coords": [24.779412, 60.752895]}, {"name": "Töyrypuisto", "text": "A pretty playground in Riihimaki that invites daily outdoor play.", "category": "family", "coords": [24.764116, 60.734488]}, {"name": "Antinpuiston leikkipaikka", "text": "Play area in Riihimaki providing a safe environment for small children.", "category": "family", "coords": [24.754264, 60.726031]}, {"name": "Hirsimäenpuiston leikkipaikka", "text": "A local park with a playground in Riihimaki, ideal for a break with children.", "category": "family", "coords": [24.754574, 60.729929]}, {"name": "Urheilupuiston Uimala", "text": "Urheilupuiston Uimala is a swimming pool in Riihimaki. It features pools for recreational swimmers and athletes.", "category": "family", "coords": [24.768875, 60.741604]}]},
     type: "city",
     parent: "reg-kanta-hame-fi",
     coords: [24.7680, 60.7390],
@@ -35094,6 +32196,15 @@ export const finlandNatureExtended: POI[] = [
                         27.30567,
                         61.681187
                   ]
+            },
+            {
+                  "name": "Dinosauria",
+                  "text": "Dinosauria ist ein Wasserpark in Mikkeli. Er bietet themenbasierte Wasserattraktionen für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        27.342576,
+                        61.700636
+                  ]
             }
       ],
       "hu": [
@@ -35518,6 +32629,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.30567,
                         61.681187
+                  ]
+            },
+            {
+                  "name": "Dinosauria",
+                  "text": "A Dinosauria egy vízipark Mikkeliben. Tematikus vízi attrakciókat kínál gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        27.342576,
+                        61.700636
                   ]
             }
       ],
@@ -35944,6 +33064,15 @@ export const finlandNatureExtended: POI[] = [
                         27.30567,
                         61.681187
                   ]
+            },
+            {
+                  "name": "Dinosauria",
+                  "text": "Dinosauria este un parc acvatic în Mikkeli. Oferă atracții acvatice tematice pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        27.342576,
+                        61.700636
+                  ]
             }
       ],
       "en": [
@@ -36368,6 +33497,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.30567,
                         61.681187
+                  ]
+            },
+            {
+                  "name": "Dinosauria",
+                  "text": "Dinosauria is a water park in Mikkeli. It offers themed water attractions for families with children.",
+                  "category": "family",
+                  "coords": [
+                        27.342576,
+                        61.700636
                   ]
             }
       ]
@@ -37251,6 +34389,15 @@ export const finlandNatureExtended: POI[] = [
                         28.766878,
                         61.172565
                   ]
+            },
+            {
+                  "name": "Imatran uimahalli",
+                  "text": "Imatran uimahalli ist ein Schwimmbad in Imatra. Es bietet verschiedene Becken für das tägliche Schwimmtraining.",
+                  "category": "family",
+                  "coords": [
+                        28.779613,
+                        61.186051
+                  ]
             }
       ],
       "hu": [
@@ -37333,6 +34480,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         28.766878,
                         61.172565
+                  ]
+            },
+            {
+                  "name": "Imatran uimahalli",
+                  "text": "Az Imatran uimahalli egy úszómedence Imatrában. Különböző medencéket kínál a napi úszóedzésekhez.",
+                  "category": "family",
+                  "coords": [
+                        28.779613,
+                        61.186051
                   ]
             }
       ],
@@ -37417,6 +34573,15 @@ export const finlandNatureExtended: POI[] = [
                         28.766878,
                         61.172565
                   ]
+            },
+            {
+                  "name": "Imatran uimahalli",
+                  "text": "Imatran uimahalli este o piscină în Imatra. Oferă diverse bazine pentru antrenamentul zilnic de înot.",
+                  "category": "family",
+                  "coords": [
+                        28.779613,
+                        61.186051
+                  ]
             }
       ],
       "en": [
@@ -37499,6 +34664,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         28.766878,
                         61.172565
+                  ]
+            },
+            {
+                  "name": "Imatran uimahalli",
+                  "text": "Imatran uimahalli is a swimming pool in Imatra. It offers various pools for daily swimming practice.",
+                  "category": "family",
+                  "coords": [
+                        28.779613,
+                        61.186051
                   ]
             }
       ]

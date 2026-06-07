@@ -312,6 +312,60 @@ export const poiExtraFranceCities: POI[] = [
                         5.731763,
                         45.158386
                   ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "Silence ist ein öffentliches Bad in Grenoble. Es bietet einen Ort zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "piscine tardy ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Hamman café ist ein öffentliches Bad in Grenoble. Es bietet einen Ort zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Grand bassin ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "Petit Bassin ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
+                  ]
             }
       ],
       "hu": [
@@ -579,6 +633,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731763,
                         45.158386
+                  ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "A Silence egy nyilvános fürdő Grenoble-ban. Helyet kínál a pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "A piscine tardy egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "A Hamman café egy nyilvános fürdő Grenoble-ban. Helyet kínál a pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "A Grand bassin egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "A Petit Bassin egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "A Piscine egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
                   ]
             }
       ],
@@ -848,6 +956,60 @@ export const poiExtraFranceCities: POI[] = [
                         5.731763,
                         45.158386
                   ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "Silence este o baie publică în Grenoble. Oferă un loc perfect pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "piscine tardy este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Hamman café este o baie publică în Grenoble. Oferă un loc perfect pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Grand bassin este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "Petit Bassin este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
+                  ]
             }
       ],
       "en": [
@@ -1115,6 +1277,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731763,
                         45.158386
+                  ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "Silence is a public bath in Grenoble. It offers a place for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "piscine tardy is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Hamman café is a public bath in Grenoble. It offers a place for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Grand bassin is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "Petit Bassin is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
                   ]
             }
       ],
@@ -1629,6 +1845,24 @@ export const poiExtraFranceCities: POI[] = [
                         1.109873,
                         49.433602
                   ]
+            },
+            {
+                  "name": "Ambiance Spa",
+                  "text": "Dieses öffentliche Bad in Rouen bietet eine ruhige Atmosphäre für Entspannung und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        1.094256,
+                        49.474849
+                  ]
+            },
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "Dieser Vogelgarten in Rouen ist ein schöner Ort für Familien, um die bunte Vogelwelt zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
             }
       ],
       "hu": [
@@ -1780,6 +2014,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.109873,
                         49.433602
+                  ]
+            },
+            {
+                  "name": "Ambiance Spa",
+                  "text": "Ez a roueni közfürdő nyugodt légkört biztosít a pihenéshez és a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.094256,
+                        49.474849
+                  ]
+            },
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "Ez a roueni madárkert szép hely a családok számára a színes madárvilág felfedezéséhez.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
                   ]
             }
       ],
@@ -1933,6 +2185,24 @@ export const poiExtraFranceCities: POI[] = [
                         1.109873,
                         49.433602
                   ]
+            },
+            {
+                  "name": "Ambiance Spa",
+                  "text": "Această baie publică din Rouen oferă o atmosferă liniștită pentru relaxare și recuperare.",
+                  "category": "family",
+                  "coords": [
+                        1.094256,
+                        49.474849
+                  ]
+            },
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "Această grădină de păsări din Rouen este un loc plăcut pentru familii pentru a descoperi lumea colorată a păsărilor.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
             }
       ],
       "en": [
@@ -2084,6 +2354,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.109873,
                         49.433602
+                  ]
+            },
+            {
+                  "name": "Ambiance Spa",
+                  "text": "This public bath in Rouen provides a quiet atmosphere for relaxation and recovery.",
+                  "category": "family",
+                  "coords": [
+                        1.094256,
+                        49.474849
+                  ]
+            },
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "This bird garden in Rouen is a lovely place for families to discover the colorful bird world.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
                   ]
             }
       ],
@@ -2598,6 +2886,51 @@ export const poiExtraFranceCities: POI[] = [
                         3.889924,
                         43.59082
                   ]
+            },
+            {
+                  "name": "La Volière",
+                  "text": "La Volière ist ein Zoo in Montpellier, der Vögel in einer familienfreundlichen Umgebung zeigt.",
+                  "category": "family",
+                  "coords": [
+                        3.870509,
+                        43.613528
+                  ]
+            },
+            {
+                  "name": "Planet Ocean Montpellier",
+                  "text": "Planet Ocean Montpellier ist ein Aquarium in Montpellier mit faszinierenden Einblicken für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.91706,
+                        43.602875
+                  ]
+            },
+            {
+                  "name": "Piscine du Nouveau Monde",
+                  "text": "Piscine du Nouveau Monde ist ein Schwimmbad in Montpellier für den Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        3.888078,
+                        43.606464
+                  ]
+            },
+            {
+                  "name": "Résidence Parc Academie La Rosiere",
+                  "text": "Résidence Parc Academie La Rosiere ist ein Schwimmbad in Montpellier für familienfreundliches Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        3.863128,
+                        43.640835
+                  ]
+            },
+            {
+                  "name": "Zoo de Lunaret",
+                  "text": "Zoo de Lunaret ist ein Zoo in Montpellier, der Naturerlebnisse für Groß und Klein bietet.",
+                  "category": "family",
+                  "coords": [
+                        3.88044,
+                        43.642612
+                  ]
             }
       ],
       "hu": [
@@ -2966,6 +3299,51 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.889924,
                         43.59082
+                  ]
+            },
+            {
+                  "name": "La Volière",
+                  "text": "A La Volière egy állatkert Montpellier városában, amely madarakat mutat be családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        3.870509,
+                        43.613528
+                  ]
+            },
+            {
+                  "name": "Planet Ocean Montpellier",
+                  "text": "A Planet Ocean Montpellier egy akvárium Montpellier városában, amely lenyűgöző látványt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.91706,
+                        43.602875
+                  ]
+            },
+            {
+                  "name": "Piscine du Nouveau Monde",
+                  "text": "A Piscine du Nouveau Monde egy úszómedence Montpellier városában, amely várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        3.888078,
+                        43.606464
+                  ]
+            },
+            {
+                  "name": "Résidence Parc Academie La Rosiere",
+                  "text": "A Résidence Parc Academie La Rosiere egy úszómedence Montpellier városában a családok kikapcsolódására.",
+                  "category": "family",
+                  "coords": [
+                        3.863128,
+                        43.640835
+                  ]
+            },
+            {
+                  "name": "Zoo de Lunaret",
+                  "text": "A Zoo de Lunaret egy állatkert Montpellier városában, amely természetközeli élményt nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.88044,
+                        43.642612
                   ]
             }
       ],
@@ -3336,6 +3714,51 @@ export const poiExtraFranceCities: POI[] = [
                         3.889924,
                         43.59082
                   ]
+            },
+            {
+                  "name": "La Volière",
+                  "text": "La Volière este o grădină zoologică în Montpellier care prezintă păsări într-un cadru primitor pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.870509,
+                        43.613528
+                  ]
+            },
+            {
+                  "name": "Planet Ocean Montpellier",
+                  "text": "Planet Ocean Montpellier este un acvariu în Montpellier cu expoziții fascinante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.91706,
+                        43.602875
+                  ]
+            },
+            {
+                  "name": "Piscine du Nouveau Monde",
+                  "text": "Piscine du Nouveau Monde este o piscină în Montpellier deschisă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.888078,
+                        43.606464
+                  ]
+            },
+            {
+                  "name": "Résidence Parc Academie La Rosiere",
+                  "text": "Résidence Parc Academie La Rosiere este o piscină în Montpellier pentru activități acvatice în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.863128,
+                        43.640835
+                  ]
+            },
+            {
+                  "name": "Zoo de Lunaret",
+                  "text": "Zoo de Lunaret este o grădină zoologică în Montpellier care oferă experiențe în natură pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        3.88044,
+                        43.642612
+                  ]
             }
       ],
       "en": [
@@ -3704,6 +4127,51 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.889924,
                         43.59082
+                  ]
+            },
+            {
+                  "name": "La Volière",
+                  "text": "La Volière is a zoo in Montpellier showcasing birds in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        3.870509,
+                        43.613528
+                  ]
+            },
+            {
+                  "name": "Planet Ocean Montpellier",
+                  "text": "Planet Ocean Montpellier is an aquarium in Montpellier with fascinating exhibits for families.",
+                  "category": "family",
+                  "coords": [
+                        3.91706,
+                        43.602875
+                  ]
+            },
+            {
+                  "name": "Piscine du Nouveau Monde",
+                  "text": "Piscine du Nouveau Monde is a swimming pool in Montpellier open for family visits.",
+                  "category": "family",
+                  "coords": [
+                        3.888078,
+                        43.606464
+                  ]
+            },
+            {
+                  "name": "Résidence Parc Academie La Rosiere",
+                  "text": "Résidence Parc Academie La Rosiere is a swimming pool in Montpellier for family-friendly swimming.",
+                  "category": "family",
+                  "coords": [
+                        3.863128,
+                        43.640835
+                  ]
+            },
+            {
+                  "name": "Zoo de Lunaret",
+                  "text": "Zoo de Lunaret is a zoo in Montpellier offering nature experiences for all ages.",
+                  "category": "family",
+                  "coords": [
+                        3.88044,
+                        43.642612
                   ]
             }
       ],
@@ -4097,6 +4565,24 @@ export const poiExtraFranceCities: POI[] = [
                         4.80556,
                         43.9483
                   ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "Bassin nordique ist ein Schwimmbad in Avignon. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
+            },
+            {
+                  "name": "Urban Wake Park",
+                  "text": "Urban Wake Park ist ein Wasserpark in Avignon. Ein toller Ort für familiären Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        4.853904,
+                        43.961172
+                  ]
             }
       ],
       "hu": [
@@ -4258,6 +4744,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.80556,
                         43.9483
+                  ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "A Bassin nordique egy uszoda Avignon-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
+            },
+            {
+                  "name": "Urban Wake Park",
+                  "text": "Az Urban Wake Park egy vízi vidámpark Avignon-ban. Remek hely családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.853904,
+                        43.961172
                   ]
             }
       ],
@@ -4421,6 +4925,24 @@ export const poiExtraFranceCities: POI[] = [
                         4.80556,
                         43.9483
                   ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "Bassin nordique este o piscină în Avignon. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
+            },
+            {
+                  "name": "Urban Wake Park",
+                  "text": "Urban Wake Park este un parc acvatic în Avignon. Un loc minunat pentru distracție în apă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.853904,
+                        43.961172
+                  ]
             }
       ],
       "en": [
@@ -4582,6 +5104,24 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.80556,
                         43.9483
+                  ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "Bassin nordique is a swimming pool in Avignon. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
+            },
+            {
+                  "name": "Urban Wake Park",
+                  "text": "Urban Wake Park is a water park in Avignon. A great place for family water fun.",
+                  "category": "family",
+                  "coords": [
+                        4.853904,
+                        43.961172
                   ]
             }
       ],
@@ -4976,6 +5516,60 @@ export const poiExtraFranceCities: POI[] = [
                         5.04217,
                         47.3227
                   ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Dieses Paintball-Zentrum in Dijon bietet actiongeladene Abenteuer und Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Parc de la Toison d'Or",
+                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        5.056362,
+                        47.355529
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "Ein Schwimmbad in Dijon, ideal für einen aktiven Tag im Wasser mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
+                  ]
             }
       ],
       "hu": [
@@ -5137,6 +5731,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04217,
                         47.3227
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Ez a dijoni paintball központ akciódús kalandokat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Parc de la Toison d'Or",
+                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        5.056362,
+                        47.355529
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "Egy uszoda Dijon területén, amely ideális egy aktív családi naphoz a vízben.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
                   ]
             }
       ],
@@ -5300,6 +5948,60 @@ export const poiExtraFranceCities: POI[] = [
                         5.04217,
                         47.3227
                   ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Acest centru de paintball din Dijon oferă aventuri pline de acțiune și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Parc de la Toison d'Or",
+                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        5.056362,
+                        47.355529
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "O piscină în Dijon, ideală pentru o zi activă în apă alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
+                  ]
             }
       ],
       "en": [
@@ -5461,6 +6163,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04217,
                         47.3227
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "This paintball center in Dijon offers action-packed adventures and fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Parc de la Toison d'Or",
+                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
+                  "category": "family",
+                  "coords": [
+                        5.056362,
+                        47.355529
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "A swimming pool in Dijon, ideal for an active day in the water with the family.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
                   ]
             }
       ],
@@ -5788,6 +6544,33 @@ export const poiExtraFranceCities: POI[] = [
                         3.068801,
                         45.779215
                   ]
+            },
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic ist ein Wasserpark in Clermont Ferrand für Wellness und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Etablissement Thermal de Royat-Chamalières ist ein öffentliches Bad in Clermont Ferrand für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Piscine privée ist ein Wasserpark in Clermont Ferrand für private Familienerlebnisse.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
             }
       ],
       "hu": [
@@ -5969,6 +6752,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.068801,
                         45.779215
+                  ]
+            },
+            {
+                  "name": "RoyaTonic",
+                  "text": "A RoyaTonic egy vízipark Clermont Ferrand városában, amely wellness élményt kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Az Etablissement Thermal de Royat-Chamalières egy közfürdő Clermont Ferrand városában a családok pihenésére.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "A Piscine privée egy vízipark Clermont Ferrand városában a családok privát kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
                   ]
             }
       ],
@@ -6152,6 +6962,33 @@ export const poiExtraFranceCities: POI[] = [
                         3.068801,
                         45.779215
                   ]
+            },
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic este un parc acvatic în Clermont Ferrand pentru wellness și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Etablissement Thermal de Royat-Chamalières este o baie publică în Clermont Ferrand pentru relaxarea familiei.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Piscine privée este un parc acvatic în Clermont Ferrand pentru experiențe private în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
             }
       ],
       "en": [
@@ -6333,6 +7170,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.068801,
                         45.779215
+                  ]
+            },
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic is a water park in Clermont Ferrand for wellness and family fun.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Etablissement Thermal de Royat-Chamalières is a public bath in Clermont Ferrand for families.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Piscine privée is a water park in Clermont Ferrand offering private family experiences.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
                   ]
             }
       ],
@@ -7002,6 +7866,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.4475,
                         43.5316
                   ]
+            },
+            {
+                  "name": "Piscine Parc Voltina",
+                  "text": "Piscine Parc Voltina ist ein Schwimmbad in Aix En Provence. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.469546,
+                        43.519969
+                  ]
+            },
+            {
+                  "name": "Radisson Hôtel",
+                  "text": "Radisson Hôtel ist ein Schwimmbad in Aix En Provence. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.426042,
+                        43.528859
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine ist ein Schwimmbad in Aix En Provence. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        5.400973,
+                        43.531675
+                  ]
             }
       ],
       "hu": [
@@ -7163,6 +8054,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.4475,
                         43.5316
+                  ]
+            },
+            {
+                  "name": "Piscine Parc Voltina",
+                  "text": "A Piscine Parc Voltina egy uszoda Aix En Provence-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.469546,
+                        43.519969
+                  ]
+            },
+            {
+                  "name": "Radisson Hôtel",
+                  "text": "A Radisson Hôtel egy uszoda Aix En Provence-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.426042,
+                        43.528859
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "A Piscine egy uszoda Aix En Provence-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        5.400973,
+                        43.531675
                   ]
             }
       ],
@@ -7326,6 +8244,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.4475,
                         43.5316
                   ]
+            },
+            {
+                  "name": "Piscine Parc Voltina",
+                  "text": "Piscine Parc Voltina este o piscină în Aix En Provence. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.469546,
+                        43.519969
+                  ]
+            },
+            {
+                  "name": "Radisson Hôtel",
+                  "text": "Radisson Hôtel este o piscină în Aix En Provence. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.426042,
+                        43.528859
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine este o piscină în Aix En Provence. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        5.400973,
+                        43.531675
+                  ]
             }
       ],
       "en": [
@@ -7487,6 +8432,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.4475,
                         43.5316
+                  ]
+            },
+            {
+                  "name": "Piscine Parc Voltina",
+                  "text": "Piscine Parc Voltina is a swimming pool in Aix En Provence. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.469546,
+                        43.519969
+                  ]
+            },
+            {
+                  "name": "Radisson Hôtel",
+                  "text": "Radisson Hôtel is a swimming pool in Aix En Provence. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.426042,
+                        43.528859
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscine is a swimming pool in Aix En Provence. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        5.400973,
+                        43.531675
                   ]
             }
       ],

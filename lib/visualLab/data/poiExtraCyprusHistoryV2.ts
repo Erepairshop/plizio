@@ -183,52 +183,7 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-soli-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-vouni-palace-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Omega Beach",
-                  "text": "Strand beim Vouni-Palast.",
-                  "category": "recreational",
-                  "coords": [
-                        32.664087,
-                        35.191986
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Omega Beach",
-                  "text": "Strand a Vouni-palotánál.",
-                  "category": "recreational",
-                  "coords": [
-                        32.664087,
-                        35.191986
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Omega Beach",
-                  "text": "Plajă lângă Palatul Vouni.",
-                  "category": "recreational",
-                  "coords": [
-                        32.664087,
-                        35.191986
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Omega Beach",
-                  "text": "Beach near Vouni Palace.",
-                  "category": "recreational",
-                  "coords": [
-                        32.664087,
-                        35.191986
-                  ]
-            }
-      ]
-},
+    id: "cyprus-vouni-palace-history-v2", "sights": {"de": [{"name": "Omega Beach", "text": "Zu Füßen des historischen Vouni-Palastes schmiegt sich der Omega Beach malerisch an die zyprische Küste. Die eindrucksvolle Kulisse verbindet Geschichte und Natur zu einem unvergesslichen Erlebnis am Wasser. Ein entspanntes Bad in den Wellen ist der perfekte Abschluss, nachdem man die antiken Ruinen erkundet hat.", "category": "recreational", "coords": [32.664087, 35.191986]}], "hu": [{"name": "Omega Beach", "text": "A történelmi Vouni-palota lábánál az Omega Beach festőien simul a ciprusi partokhoz. A lenyűgöző háttér a történelmet és a természetet egy felejthetetlen vízparti élménnyé ötvözi. Egy pihentető fürdőzés a hullámok között tökéletes lezárása az antik romok felfedezésének.", "category": "recreational", "coords": [32.664087, 35.191986]}], "ro": [{"name": "Omega Beach", "text": "La poalele istoricului Palat Vouni, Omega Beach se îmbrățișează pitoresc cu țărmul cipriot. Decorul impresionant combină istoria și natura într-o experiență de neuitat la malul apei. O baie relaxantă în valuri este încheierea perfectă după explorarea ruinelor antice.", "category": "recreational", "coords": [32.664087, 35.191986]}], "en": [{"name": "Omega Beach", "text": "Nestled at the foot of the historic Vouni Palace, Omega Beach clings picturesquely to the Cypriot coastline. The impressive backdrop combines history and nature into an unforgettable seaside experience. A relaxing dip in the waves is the perfect finale after exploring the ancient ruins.", "category": "recreational", "coords": [32.664087, 35.191986]}]},
     type: "palace",
     parent: "CY",
     name: { de: "Palast von Vouni", hu: "Vouni palotája", ro: "Palatul din Vouni", en: "Vouni Palace" },
@@ -498,52 +453,7 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-paphos-odeon-history-v2.webp",
   },
   {
-    id: "cyprus-saranta-kolones-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Alykes Beach",
-                  "text": "Strand bei Saranta Kolones.",
-                  "category": "recreational",
-                  "coords": [
-                        32.416996,
-                        34.754775
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Alykes Beach",
-                  "text": "Strand Szaránda Kolónesznél.",
-                  "category": "recreational",
-                  "coords": [
-                        32.416996,
-                        34.754775
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Alykes Beach",
-                  "text": "Plajă lângă Saranta Kolones.",
-                  "category": "recreational",
-                  "coords": [
-                        32.416996,
-                        34.754775
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Alykes Beach",
-                  "text": "Beach near Saranta Kolones.",
-                  "category": "recreational",
-                  "coords": [
-                        32.416996,
-                        34.754775
-                  ]
-            }
-      ]
-},
+    id: "cyprus-saranta-kolones-history-v2", "sights": {"de": [{"name": "Alykes Beach", "text": "Nahe der berühmten Saranta Kolones lädt der Alykes Beach zu einer wunderbaren Auszeit am blauen Meer ein. Das sanft abfallende Ufer und das beruhigende Wasser schaffen eine einladende Atmosphäre für Sonnenanbeter und Schwimmer. Besonders in den Vormittagsstunden offenbart dieser Küstenstreifen seinen ganzen ruhigen Charme.", "category": "recreational", "coords": [32.416996, 34.754775]}], "hu": [{"name": "Alykes Beach", "text": "A híres Saranta Kolones közelében fekvő Alykes Beach csodálatos kikapcsolódásra hív a kék tenger partján. A lassan mélyülő part és a megnyugtató víz hívogató légkört teremt a napozók és az úszók számára. Különösen a délelőtti órákban mutatja meg ez a partszakasz a maga teljes, nyugodt báját.", "category": "recreational", "coords": [32.416996, 34.754775]}], "ro": [{"name": "Alykes Beach", "text": "Aproape de faimosul Saranta Kolones, Alykes Beach te invită la o pauză minunată lângă marea albastră. Țărmul cu o pantă lină și apa liniștitoare creează o atmosferă primitoare pentru adoratorii soarelui și înotători. Mai ales în orele dimineții, această porțiune de coastă își dezvăluie tot farmecul său pașnic.", "category": "recreational", "coords": [32.416996, 34.754775]}], "en": [{"name": "Alykes Beach", "text": "Close to the famous Saranta Kolones, Alykes Beach invites you to a wonderful break by the blue sea. The gently sloping shore and soothing water create a welcoming atmosphere for sun worshippers and swimmers alike. This stretch of coastline reveals its full, tranquil charm especially during the morning hours.", "category": "recreational", "coords": [32.416996, 34.754775]}]},
     type: "castle",
     parent: "CY",
     name: { de: "Saranta Kolones", hu: "Szaránta Kolónesz", ro: "Saranta Kolones", en: "Saranta Kolones" },
@@ -633,88 +543,7 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-machairas-monastery-history-v2.webp",
   },
     {
-    id: "cyprus-kyrenia-castle-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bella Marin",
-                  "text": "Bella Marin liegt in der Nähe von Kyrenia.",
-                  "category": "recreational",
-                  "coords": [
-                        33.331216,
-                        35.341196
-                  ]
-            },
-            {
-                  "name": "Bella Marin Beach",
-                  "text": "Bella Marin-Strand bei der Burg Kyrenia.",
-                  "category": "recreational",
-                  "coords": [
-                        33.334569,
-                        35.338185
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bella Marin",
-                  "text": "Bella Marin Kyrenia közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.331216,
-                        35.341196
-                  ]
-            },
-            {
-                  "name": "Bella Marin Beach",
-                  "text": "Bella Marin-part a Kyrenia-vár közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        33.334569,
-                        35.338185
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bella Marin",
-                  "text": "Bella Marin este situată lângă Kyrenia.",
-                  "category": "recreational",
-                  "coords": [
-                        33.331216,
-                        35.341196
-                  ]
-            },
-            {
-                  "name": "Bella Marin Beach",
-                  "text": "Plaja Bella Marin lângă castelul Kyrenia.",
-                  "category": "recreational",
-                  "coords": [
-                        33.334569,
-                        35.338185
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bella Marin",
-                  "text": "Bella Marin is located near Kyrenia.",
-                  "category": "recreational",
-                  "coords": [
-                        33.331216,
-                        35.341196
-                  ]
-            },
-            {
-                  "name": "Bella Marin Beach",
-                  "text": "Bella Marin Beach near Kyrenia Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        33.334569,
-                        35.338185
-                  ]
-            }
-      ]
-},
+    id: "cyprus-kyrenia-castle-history-v2", "sights": {"de": [{"name": "Bella Marin", "text": "Bella Marin liegt in der Nähe von Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Gelegen in unmittelbarer Nähe zur historischen Burg Kyrenia, bietet der Bella Marin Beach eine reizvolle Kulisse an der zyprischen Küste. Die Umgebung lädt zu erholsamen Spaziergängen und entspannten Stunden am Wasser ein. Badegäste können hier die Sonne genießen und sich im Meer erfrischen. Ein Besuch empfiehlt sich besonders in den warmen Sommermonaten.", "category": "recreational", "coords": [33.334569, 35.338185]}], "hu": [{"name": "Bella Marin", "text": "Bella Marin Kyrenia közelében található.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "A történelmi Kyrenia kastély közvetlen közelében található Bella Marin Beach elragadó tengerparti élményt nyújt Cipruson. A környék pihentető sétákra és a tengerparti lazításra egyaránt hívogat. Látogatóként kellemes úszásra és napozásra számíthat ezen a festői helyen. Érdemes a melegebb hónapokban érkezni a legjobb élmény érdekében.", "category": "recreational", "coords": [33.334569, 35.338185]}], "ro": [{"name": "Bella Marin", "text": "Bella Marin este situată lângă Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Situată în imediata apropiere a istoricului Castel Kyrenia, plaja Bella Marin oferă un decor fermecător pe coasta Ciprului. Împrejurimile invită la plimbări relaxante și ore liniștite petrecute la malul apei. Vizitatorii se pot bucura de înot și plajă într-o atmosferă plăcută. O vizită este recomandată în special în zilele însorite de vară.", "category": "recreational", "coords": [33.334569, 35.338185]}], "en": [{"name": "Bella Marin", "text": "Bella Marin is located near Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Bella Marin Beach", "text": "Set in close proximity to the historic Kyrenia Castle, Bella Marin Beach provides a charming coastal backdrop in Cyprus. The surroundings invite visitors for relaxing strolls and peaceful hours by the water. Sunbathers and swimmers can enjoy a pleasant atmosphere along the shore. It is best experienced during the warm summer months.", "category": "recreational", "coords": [33.334569, 35.338185]}]},
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kyrenia", hu: "Kyreniai vár", ro: "Castelul din Kyrenia", en: "Kyrenia Castle" },
@@ -759,52 +588,7 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-kyrenia-castle-history-v2.webp",
   },
   {
-    id: "cyprus-salamis-ruins-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kocareis Beach",
-                  "text": "Kocareis-Strand bei den Ruinen von Salamis.",
-                  "category": "recreational",
-                  "coords": [
-                        33.899803,
-                        35.203271
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kocareis Beach",
-                  "text": "Kocareis-part a Salamis-romok közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        33.899803,
-                        35.203271
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kocareis Beach",
-                  "text": "Plaja Kocareis lângă ruinele Salamis.",
-                  "category": "recreational",
-                  "coords": [
-                        33.899803,
-                        35.203271
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kocareis Beach",
-                  "text": "Kocareis Beach near the Salamis ruins.",
-                  "category": "recreational",
-                  "coords": [
-                        33.899803,
-                        35.203271
-                  ]
-            }
-      ]
-},
+    id: "cyprus-salamis-ruins-history-v2", "sights": {"de": [{"name": "Kocareis Beach", "text": "Unweit der faszinierenden Ruinen von Salamis erstreckt sich der Kocareis-Strand an der Küste Zyperns. Dieser Küstenabschnitt verbindet historische Eindrücke mit entspannten Bademomenten. Spaziergänger und Sonnenanbeter finden hier einen angenehmen Ort zum Verweilen und Schwimmen. Wer die Region erkundet, sollte einen Stopp für eine erfrischende Pause einplanen.", "category": "recreational", "coords": [33.899803, 35.203271]}], "hu": [{"name": "Kocareis Beach", "text": "A lenyűgöző szalamiszi romok közelében fekvő Kocareis Beach különleges parti hangulatot kínál Cipruson. Ez a partszakasz nagyszerűen ötvözi a történelmi felfedezéseket a nyugodt tengerparti pihenéssel. A látogatók élvezhetik a napozást, a sétákat és a frissítő úszást a tengerben. Kiváló megállóhely egy hosszú, városnézéssel töltött nap után.", "category": "recreational", "coords": [33.899803, 35.203271]}], "ro": [{"name": "Kocareis Beach", "text": "Aproape de fascinantele ruine din Salamis, plaja Kocareis se întinde pitoresc pe coasta Ciprului. Această porțiune de litoral combină perfect impresiile istorice cu momentele relaxante la malul mării. Pasionații de soare și înot vor găsi aici un loc plăcut pentru a se destinde. Este o oprire ideală pentru o pauză revigorantă în timpul explorării regiunii.", "category": "recreational", "coords": [33.899803, 35.203271]}], "en": [{"name": "Kocareis Beach", "text": "Located not far from the fascinating Ruins of Salamis, Kocareis Beach stretches along the scenic coastline of Cyprus. This stretch of shore beautifully combines historical exploration with relaxing beach moments. Sun worshippers and swimmers will find a pleasant spot to unwind and enjoy the water. It makes for an ideal refreshing stop while touring the area.", "category": "recreational", "coords": [33.899803, 35.203271]}]},
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Salamis", hu: "Salamis romjai", ro: "Ruinele din Salamis", en: "Ruins of Salamis" },

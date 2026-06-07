@@ -204,6 +204,51 @@ const citySeeds: CitySeed[] = [
                         -1.678864,
                         48.109859
                   ]
+            },
+            {
+                  "name": "Enclos aux canards",
+                  "text": "Dieses Entengehege in Rennes ist ein schöner Ort für Familien, um Enten in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        -1.668952,
+                        48.113282
+                  ]
+            },
+            {
+                  "name": "Pop Corn Labyrinthe",
+                  "text": "Dieser Freizeitpark in Rennes bietet spannende Labyrinthe und Abenteuer für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.715084,
+                        48.146874
+                  ]
+            },
+            {
+                  "name": "Bassin nordique de la piscine de Bréquigny",
+                  "text": "Das nordische Becken in Rennes bietet Familien ein einzigartiges und erfrischendes Schwimmerlebnis im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -1.690534,
+                        48.088164
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Diese Voliere in Rennes ist ein wunderbares Ziel für Familien, um verschiedene Vogelarten aus der Nähe zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        -1.670125,
+                        48.114005
+                  ]
+            },
+            {
+                  "name": "Blue nat",
+                  "text": "Blue Nat in Rennes ist der ideale Ort für Familien, um gemeinsam Spaß im Wasser zu haben.",
+                  "category": "family",
+                  "coords": [
+                        -1.691529,
+                        48.090464
+                  ]
             }
       ],
       "hu": [
@@ -365,6 +410,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.678864,
                         48.109859
+                  ]
+            },
+            {
+                  "name": "Enclos aux canards",
+                  "text": "Ez a rennes-i kacsakifutó szép hely a családok számára a kacsák megfigyelésére természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -1.668952,
+                        48.113282
+                  ]
+            },
+            {
+                  "name": "Pop Corn Labyrinthe",
+                  "text": "Ez a rennes-i élménypark izgalmas útvesztőket és kalandokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -1.715084,
+                        48.146874
+                  ]
+            },
+            {
+                  "name": "Bassin nordique de la piscine de Bréquigny",
+                  "text": "A rennes-i északi medence egyedülálló és frissítő szabadtéri úszási élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.690534,
+                        48.088164
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Ez a rennes-i madárház csodálatos úti cél a családok számára a különböző madárfajok közeli felfedezéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -1.670125,
+                        48.114005
+                  ]
+            },
+            {
+                  "name": "Blue nat",
+                  "text": "A rennes-i Blue nat ideális hely a családok számára a közös vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.691529,
+                        48.090464
                   ]
             }
       ],
@@ -528,6 +618,51 @@ const citySeeds: CitySeed[] = [
                         -1.678864,
                         48.109859
                   ]
+            },
+            {
+                  "name": "Enclos aux canards",
+                  "text": "Această împrejmuire pentru rațe din Rennes este un loc plăcut pentru familii pentru a observa rațele într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        -1.668952,
+                        48.113282
+                  ]
+            },
+            {
+                  "name": "Pop Corn Labyrinthe",
+                  "text": "Acest parc tematic din Rennes oferă labirinturi și aventuri incitante pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.715084,
+                        48.146874
+                  ]
+            },
+            {
+                  "name": "Bassin nordique de la piscine de Bréquigny",
+                  "text": "Bazinul nordic din Rennes oferă familiilor o experiență de înot în aer liber unică și revigorantă.",
+                  "category": "family",
+                  "coords": [
+                        -1.690534,
+                        48.088164
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Această volieră din Rennes este o destinație minunată pentru familii pentru a descoperi de aproape diverse specii de păsări.",
+                  "category": "family",
+                  "coords": [
+                        -1.670125,
+                        48.114005
+                  ]
+            },
+            {
+                  "name": "Blue nat",
+                  "text": "Blue nat din Rennes este locul ideal pentru familii pentru a se distra împreună în apă.",
+                  "category": "family",
+                  "coords": [
+                        -1.691529,
+                        48.090464
+                  ]
             }
       ],
       "en": [
@@ -690,6 +825,51 @@ const citySeeds: CitySeed[] = [
                         -1.678864,
                         48.109859
                   ]
+            },
+            {
+                  "name": "Enclos aux canards",
+                  "text": "This duck enclosure in Rennes is a lovely place for families to observe ducks in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        -1.668952,
+                        48.113282
+                  ]
+            },
+            {
+                  "name": "Pop Corn Labyrinthe",
+                  "text": "This theme park in Rennes offers exciting mazes and adventures for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -1.715084,
+                        48.146874
+                  ]
+            },
+            {
+                  "name": "Bassin nordique de la piscine de Bréquigny",
+                  "text": "The Nordic pool in Rennes offers families a unique and refreshing outdoor swimming experience.",
+                  "category": "family",
+                  "coords": [
+                        -1.690534,
+                        48.088164
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "This aviary in Rennes is a wonderful destination for families to discover various bird species up close.",
+                  "category": "family",
+                  "coords": [
+                        -1.670125,
+                        48.114005
+                  ]
+            },
+            {
+                  "name": "Blue nat",
+                  "text": "Blue nat in Rennes is the ideal place for families to have fun together in the water.",
+                  "category": "family",
+                  "coords": [
+                        -1.691529,
+                        48.090464
+                  ]
             }
       ],
       "fr": [
@@ -792,858 +972,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Fondée en 1517 par François Ier", "Patrimoine mondial de l'UNESCO depuis 2005", "Centre conçu par Auguste Perret", "L'église Saint-Joseph mesure 107 mètres de haut", "Deuxième port de commerce de France", "Source d'inspiration pour l'impressionnisme de Monet"],
     },
     image: "/poi-images/le-havre.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Le Volcan",
-                  "text": "Das vom Architekten Oscar Niemeyer entworfene Kulturzentrum besticht durch seine geschwungene, weiße Form.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        0.106945,
-                        49.4904
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville du Havre",
-                  "text": "Das Rathaus mit seinem markanten Turm ist Teil des UNESCO-Welterbes und ein Wahrzeichen des Wiederaufbaus.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1078,
-                        49.4935
-                  ]
-            },
-            {
-                  "name": "Appartement Témoin Perret",
-                  "text": "Diese Musterwohnung zeigt originalgetreu das Wohndesign und den Komfort der 1950er Jahre in Le Havre.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.10757,
-                        49.49178
-                  ]
-            },
-            {
-                  "name": "Port du Havre",
-                  "text": "Einer der größten Häfen Europas, der das wirtschaftliche Herz und die Identität der Stadt prägt.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1569,
-                        49.4705
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame du Havre",
-                  "text": "Diese Kathedrale aus dem 16. Jahrhundert ist eines der wenigen Gebäude, die die Zerstörung der Stadt im Jahr 1944 überstanden haben.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.108333,
-                        49.486944
-                  ]
-            },
-            {
-                  "name": "Docks Vauban",
-                  "text": "Ehemalige historische Hafenspeicher, die zu einem modernen Einkaufs- und Freizeitzentrum mit Kinos und Restaurants umgebaut wurden.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.129537,
-                        49.490201
-                  ]
-            },
-            {
-                  "name": "Abbaye de Graville",
-                  "text": "Eine romanische Abtei auf einem Hügel mit Blick auf die Seine, die eine bedeutende Sammlung religiöser Kunstgegenstände beherbergt.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        0.164923,
-                        49.503487
-                  ]
-            },
-            {
-                  "name": "Maison de l'Armateur",
-                  "text": "Ein prächtiges Kaufmannshaus aus dem 18. Jahrhundert, das Einblicke in das bürgerliche Leben und die maritime Geschichte der Stadt bietet.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        0.11275,
-                        49.4869
-                  ]
-            },
-            {
-                  "name": "Strand von Le Havre",
-                  "text": "Ein weitläufiger Kiesstrand mit einer lebhaften Promenade, bunten Strandhütten und einem weiten Blick auf den Ärmelkanal.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.0912,
-                        49.4961
-                  ]
-            },
-            {
-                  "name": "Forêt de Montgeon",
-                  "text": "Ein riesiger Stadtwald im Herzen von Le Havre, der zahlreiche Wanderwege, Seen und Sportanlagen für die Erholung im Grünen bietet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.1435,
-                        49.516
-                  ]
-            },
-            {
-                  "name": "Stade Océane",
-                  "text": "Ein modernes Öko-Stadion mit einer charakteristischen blauen Fassade, das für seine nachhaltige Bauweise und Architektur bekannt ist.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1697,
-                        49.4988
-                  ]
-            },
-            {
-                  "name": "Le Pain de Sucre",
-                  "text": "Ein markantes Denkmal in Sainte-Adresse, das den Seeleuten gewidmet ist und einen Panoramablick über die gesamte Bucht bietet.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.083215,
-                        49.504477
-                  ]
-            },
-            {
-                  "name": "Paradox",
-                  "text": "Ein spannendes Freizeitzentrum in Le Havre mit vielen Spielen für Kinder und Jugendliche.",
-                  "category": "family",
-                  "coords": [
-                        0.134492,
-                        49.492371
-                  ]
-            },
-            {
-                  "name": "Family's games",
-                  "text": "Ein familienfreundliches Spielezentrum in Le Havre, das Spaß für alle Altersgruppen garantiert.",
-                  "category": "family",
-                  "coords": [
-                        0.111725,
-                        49.496004
-                  ]
-            },
-            {
-                  "name": "Le city",
-                  "text": "Ein zentraler Spielbereich in Le Havre, ideal für eine aktive Pause.",
-                  "category": "family",
-                  "coords": [
-                        0.148879,
-                        49.497205
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Ein aufregendes Unterhaltungszentrum in Le Havre für gemeinsame Aktivitäten in der Familie.",
-                  "category": "family",
-                  "coords": [
-                        0.137339,
-                        49.492384
-                  ]
-            },
-            {
-                  "name": "Square Chillou",
-                  "text": "Ein ruhiger, kleiner Spielplatz in Le Havre für Kinder aus der Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        0.110592,
-                        49.491981
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Ein großzügiger Spielplatz in Le Havre mit viel Platz für Bewegung im Freien.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
-                  "name": "Araignée",
-                  "text": "Ein fantasievoll gestaltetes Kletter- oder Spielgerät in Le Havre für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        0.105272,
-                        49.484469
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
-                  "text": "Ein beliebter Spielplatz in Le Havre auf einem ehemaligen Sportgelände.",
-                  "category": "family",
-                  "coords": [
-                        0.149712,
-                        49.5061
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
-                  "text": "Ein naturnaher Spielbereich im Wald von Montgeon bei Le Havre für kleine Entdecker.",
-                  "category": "family",
-                  "coords": [
-                        0.139547,
-                        49.514171
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Le Volcan",
-                  "text": "Oscar Niemeyer által tervezett futurisztikus kulturális központ, amely vulkánszerű formájáról kapta nevét.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        0.106945,
-                        49.4904
-                  ]
-            },
-            {
-                  "name": "Le Havre-i városháza",
-                  "text": "Az UNESCO világörökség részét képező épület a modern városépítészet egyik legfontosabb jelképe.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1078,
-                        49.4935
-                  ]
-            },
-            {
-                  "name": "Perret mintaapartman",
-                  "text": "Egy 1950-es évekbeli lakás, amely bemutatja, hogyan éltek a város újjáépítése utáni első lakók.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.10757,
-                        49.49178
-                  ]
-            },
-            {
-                  "name": "Le Havre-i kikötő",
-                  "text": "Franciaország egyik legjelentősebb teherkikötője, amely meghatározza a város ipari és tengeri jellegét.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1569,
-                        49.4705
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame du Havre",
-                  "text": "A 16. századi székesegyház a város azon kevés épületeinek egyike, amely épségben túlélte az 1944-es pusztító bombázásokat.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.108333,
-                        49.486944
-                  ]
-            },
-            {
-                  "name": "Docks Vauban",
-                  "text": "A korábbi kikötői raktárakból kialakított modern bevásárló- és szórakoztatóközpont megőrizte a történelmi téglafalakat.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.129537,
-                        49.490201
-                  ]
-            },
-            {
-                  "name": "Abbaye de Graville",
-                  "text": "A Szajna torkolatára néző román stílusú apátság és múzeum, amely jelentős vallási és történeti gyűjteménnyel rendelkezik.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        0.164923,
-                        49.503487
-                  ]
-            },
-            {
-                  "name": "Maison de l'Armateur",
-                  "text": "A 18. századi ötszintes polgárház a hajótulajdonosok életmódját és a város tengeri kereskedelmének aranykorát mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        0.11275,
-                        49.4869
-                  ]
-            },
-            {
-                  "name": "Le Havre strandja",
-                  "text": "Hosszú kavicsos tengerpart sétánnyal és jellegzetes fehér kabinokkal, amely népszerű hely a vízi sportok és a pihenés kedvelőinek.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.0912,
-                        49.4961
-                  ]
-            },
-            {
-                  "name": "Forêt de Montgeon",
-                  "text": "Hatalmas városi erdő és park tóval, ahol tanösvények és sportpályák várják a természetbe vágyó látogatókat.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.1435,
-                        49.516
-                  ]
-            },
-            {
-                  "name": "Stade Océane",
-                  "text": "Ultramodern, kék színű üvegfaláról felismerhető öko-stadion, amely Európa egyik legfenntarthatóbb sportlétesítménye.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1697,
-                        49.4988
-                  ]
-            },
-            {
-                  "name": "Le Pain de Sucre",
-                  "text": "A tengerészek emlékére állított, cukorsüveg alakú emlékmű Sainte-Adresse-ben, ahonnan páratlan kilátás nyílik a tengerre.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.083215,
-                        49.504477
-                  ]
-            },
-            {
-                  "name": "Paradox",
-                  "text": "Egy izgalmas szabadidős központ Le Havre-ban, sok játékkal gyerekeknek és fiataloknak.",
-                  "category": "family",
-                  "coords": [
-                        0.134492,
-                        49.492371
-                  ]
-            },
-            {
-                  "name": "Family's games",
-                  "text": "Egy családbarát játékcenter Le Havre-ban, amely minden korosztálynak szórakozást garantál.",
-                  "category": "family",
-                  "coords": [
-                        0.111725,
-                        49.496004
-                  ]
-            },
-            {
-                  "name": "Le city",
-                  "text": "Egy központi játszóterület Le Havre-ban, ideális egy aktív pihenőhöz.",
-                  "category": "family",
-                  "coords": [
-                        0.148879,
-                        49.497205
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Egy izgalmas szórakoztató központ Le Havre-ban a közös családi tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        0.137339,
-                        49.492384
-                  ]
-            },
-            {
-                  "name": "Square Chillou",
-                  "text": "Egy nyugodt, kis játszótér Le Havre-ban a környékbeli gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        0.110592,
-                        49.491981
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Egy tágas játszótér Le Havre-ban, sok hellyel a szabadtéri mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
-                  "name": "Araignée",
-                  "text": "Egy fantáziadúsan kialakított mászó- vagy játékeszköz Le Havre-ban gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        0.105272,
-                        49.484469
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
-                  "text": "Egy népszerű játszótér Le Havre-ban, egy egykori sportterületen.",
-                  "category": "family",
-                  "coords": [
-                        0.149712,
-                        49.5061
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
-                  "text": "Természetközeli játszóterület a Montgeon erdőben Le Havre-nál a kis felfedezőknek.",
-                  "category": "family",
-                  "coords": [
-                        0.139547,
-                        49.514171
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Le Volcan",
-                  "text": "Centrul cultural proiectat de Oscar Niemeyer, recunoscut pentru formele sale albe și curbate neobișnuite.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        0.106945,
-                        49.4904
-                  ]
-            },
-            {
-                  "name": "Primăria orașului Le Havre",
-                  "text": "O piesă centrală a arhitecturii moderne de după război, parte a patrimoniului mondial UNESCO.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1078,
-                        49.4935
-                  ]
-            },
-            {
-                  "name": "Apartamentul-Martor Perret",
-                  "text": "O reconstituire fidelă a unui apartament din anii '50, oferind o incursiune în viața cotidiană a acelei epoci.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.10757,
-                        49.49178
-                  ]
-            },
-            {
-                  "name": "Portul Le Havre",
-                  "text": "Unul dintre cele mai mari porturi comerciale din Europa, esențial pentru economia și istoria locală.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1569,
-                        49.4705
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame du Havre",
-                  "text": "Catedrală din secolul al XVI-lea, una dintre puținele clădiri care au supraviețuit distrugerii aproape totale a orașului în 1944.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.108333,
-                        49.486944
-                  ]
-            },
-            {
-                  "name": "Docks Vauban",
-                  "text": "Foste depozite portuare istorice transformate într-un centru comercial și de agrement modern, păstrând arhitectura de cărămidă.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.129537,
-                        49.490201
-                  ]
-            },
-            {
-                  "name": "Abbaye de Graville",
-                  "text": "O mănăstire romanică situată pe un deal cu vedere la estuarul Senei, găzduind un muzeu de artă sacră și sculpturi.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        0.164923,
-                        49.503487
-                  ]
-            },
-            {
-                  "name": "Maison de l'Armateur",
-                  "text": "O casă de negustor din secolul al XVIII-lea ce prezintă stilul de viață burghez și istoria maritimă glorioasă a portului.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        0.11275,
-                        49.4869
-                  ]
-            },
-            {
-                  "name": "Plaja din Le Havre",
-                  "text": "O plajă vastă de pietriș cu o faleză animată, cabine albe emblematice și vederi superbe spre Canalul Mânecii.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.0912,
-                        49.4961
-                  ]
-            },
-            {
-                  "name": "Forêt de Montgeon",
-                  "text": "O pădure urbană întinsă în centrul orașului, oferind lacuri, trasee de drumeție și spații verzi pentru recreere în aer liber.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.1435,
-                        49.516
-                  ]
-            },
-            {
-                  "name": "Stade Océane",
-                  "text": "Un stadion modern cu o fațadă albastră translucidă, remarcat pentru designul său ecologic și sustenabilitatea energetică.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1697,
-                        49.4988
-                  ]
-            },
-            {
-                  "name": "Le Pain de Sucre",
-                  "text": "Monument distinctiv în Sainte-Adresse dedicat marinarilor, oferind o panoramă spectaculoasă asupra întregului golf.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.083215,
-                        49.504477
-                  ]
-            },
-            {
-                  "name": "Paradox",
-                  "text": "Un centru de divertisment captivant în Le Havre, cu multe jocuri pentru copii și tineri.",
-                  "category": "family",
-                  "coords": [
-                        0.134492,
-                        49.492371
-                  ]
-            },
-            {
-                  "name": "Family's games",
-                  "text": "Un centru de jocuri pentru familie în Le Havre, garantând distracție pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        0.111725,
-                        49.496004
-                  ]
-            },
-            {
-                  "name": "Le city",
-                  "text": "O zonă de joacă centrală în Le Havre, ideală pentru o pauză activă.",
-                  "category": "family",
-                  "coords": [
-                        0.148879,
-                        49.497205
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Un centru de divertisment palpitant în Le Havre pentru activități de familie.",
-                  "category": "family",
-                  "coords": [
-                        0.137339,
-                        49.492384
-                  ]
-            },
-            {
-                  "name": "Square Chillou",
-                  "text": "Un loc de joacă mic și liniștit în Le Havre pentru copiii din vecinătate.",
-                  "category": "family",
-                  "coords": [
-                        0.110592,
-                        49.491981
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Un loc de joacă generos în Le Havre cu mult spațiu pentru mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
-                  "name": "Araignée",
-                  "text": "Un echipament de cățărat sau de joacă conceput cu imaginație în Le Havre.",
-                  "category": "family",
-                  "coords": [
-                        0.105272,
-                        49.484469
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
-                  "text": "Un loc de joacă popular în Le Havre, pe un fost teren sportiv.",
-                  "category": "family",
-                  "coords": [
-                        0.149712,
-                        49.5061
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
-                  "text": "O zonă de joacă în natură în pădurea Montgeon de lângă Le Havre pentru mici exploratori.",
-                  "category": "family",
-                  "coords": [
-                        0.139547,
-                        49.514171
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Le Volcan",
-                  "text": "The cultural venue designed by Oscar Niemeyer, shaped like a large white volcano in the city center.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        0.106945,
-                        49.4904
-                  ]
-            },
-            {
-                  "name": "Le Havre City Hall",
-                  "text": "The centerpiece of the Perret reconstruction, this UNESCO-listed civic building features a tall watchtower.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1078,
-                        49.4935
-                  ]
-            },
-            {
-                  "name": "Perret Show Flat",
-                  "text": "A meticulously preserved 1950s apartment showing the original layout and furniture from the reconstruction era.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.10757,
-                        49.49178
-                  ]
-            },
-            {
-                  "name": "Port of Le Havre",
-                  "text": "France's leading port for international trade, offering boat tours to see its massive industrial docks.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1569,
-                        49.4705
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame du Havre",
-                  "text": "A 16th-century cathedral and one of the rare survivors of the 1944 bombings, featuring a mix of Gothic and Renaissance styles.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.108333,
-                        49.486944
-                  ]
-            },
-            {
-                  "name": "Docks Vauban",
-                  "text": "Former historic port warehouses converted into a modern shopping and leisure complex with cinemas and restaurants.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.129537,
-                        49.490201
-                  ]
-            },
-            {
-                  "name": "Abbaye de Graville",
-                  "text": "An ancient Romanesque abbey overlooking the Seine estuary, housing a museum with a significant collection of sacred art.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        0.164923,
-                        49.503487
-                  ]
-            },
-            {
-                  "name": "Maison de l'Armateur",
-                  "text": "An 18th-century merchant's house that provides a glimpse into the bourgeois life and maritime history of Le Havre.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        0.11275,
-                        49.4869
-                  ]
-            },
-            {
-                  "name": "Le Havre Beach",
-                  "text": "A long pebble beach with a famous promenade, colorful beach huts, and expansive views of the English Channel.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.0912,
-                        49.4961
-                  ]
-            },
-            {
-                  "name": "Forêt de Montgeon",
-                  "text": "A massive urban forest in the heart of the city, offering many trails, lakes, and sports facilities for outdoor recreation.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.1435,
-                        49.516
-                  ]
-            },
-            {
-                  "name": "Stade Océane",
-                  "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        0.1697,
-                        49.4988
-                  ]
-            },
-            {
-                  "name": "Le Pain de Sucre",
-                  "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.083215,
-                        49.504477
-                  ]
-            },
-            {
-                  "name": "Paradox",
-                  "text": "An exciting leisure center in Le Havre with many games for children and teens.",
-                  "category": "family",
-                  "coords": [
-                        0.134492,
-                        49.492371
-                  ]
-            },
-            {
-                  "name": "Family's games",
-                  "text": "A family-friendly games center in Le Havre, guaranteeing fun for all ages.",
-                  "category": "family",
-                  "coords": [
-                        0.111725,
-                        49.496004
-                  ]
-            },
-            {
-                  "name": "Le city",
-                  "text": "A central play area in Le Havre, ideal for an active break.",
-                  "category": "family",
-                  "coords": [
-                        0.148879,
-                        49.497205
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "An exciting entertainment center in Le Havre for joint family activities.",
-                  "category": "family",
-                  "coords": [
-                        0.137339,
-                        49.492384
-                  ]
-            },
-            {
-                  "name": "Square Chillou",
-                  "text": "A quiet, small playground in Le Havre for neighborhood children.",
-                  "category": "family",
-                  "coords": [
-                        0.110592,
-                        49.491981
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "A spacious playground in Le Havre with plenty of room for outdoor movement.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
-                  "name": "Araignée",
-                  "text": "An imaginatively designed climbing or play structure in Le Havre for children.",
-                  "category": "family",
-                  "coords": [
-                        0.105272,
-                        49.484469
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
-                  "text": "A popular playground in Le Havre on a former sports site.",
-                  "category": "family",
-                  "coords": [
-                        0.149712,
-                        49.5061
-                  ]
-            },
-            {
-                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
-                  "text": "A nature-oriented play area in the Montgeon forest near Le Havre for little explorers.",
-                  "category": "family",
-                  "coords": [
-                        0.139547,
-                        49.514171
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Le Volcan",
-                  "text": "Le centre culturel conçu par l'architecte Oscar Niemeyer se distingue par sa forme blanche et courbe.",
-                  "category": "cultural",
-                  "coords": [
-                        0.106945,
-                        49.4904
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville du Havre",
-                  "text": "L'hôtel de ville avec sa tour caractéristique est classé au patrimoine mondial de l'UNESCO et témoigne de la reconstruction.",
-                  "category": "civic",
-                  "coords": [
-                        0.1078,
-                        49.4935
-                  ]
-            },
-            {
-                  "name": "Appartement témoin Perret",
-                  "text": "Cet appartement témoin montre fidèlement le design et le confort de vie dans les années 1950 au Havre.",
-                  "category": "historical",
-                  "coords": [
-                        0.10757,
-                        49.49178
-                  ]
-            },
-            {
-                  "name": "Port du Havre",
-                  "text": "L'un des plus grands ports d'Europe, véritable moteur économique et identitaire de la ville.",
-                  "category": "civic",
-                  "coords": [
-                        0.1569,
-                        49.4705
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Le Volcan", "text": "Das vom Architekten Oscar Niemeyer entworfene Kulturzentrum besticht durch seine geschwungene, weiße Form.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Hôtel de Ville du Havre", "text": "Das Rathaus mit seinem markanten Turm ist Teil des UNESCO-Welterbes und ein Wahrzeichen des Wiederaufbaus.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Appartement Témoin Perret", "text": "Diese Musterwohnung zeigt originalgetreu das Wohndesign und den Komfort der 1950er Jahre in Le Havre.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Port du Havre", "text": "Einer der größten Häfen Europas, der das wirtschaftliche Herz und die Identität der Stadt prägt.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "Diese Kathedrale aus dem 16. Jahrhundert ist eines der wenigen Gebäude, die die Zerstörung der Stadt im Jahr 1944 überstanden haben.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Ehemalige historische Hafenspeicher, die zu einem modernen Einkaufs- und Freizeitzentrum mit Kinos und Restaurants umgebaut wurden.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "Eine romanische Abtei auf einem Hügel mit Blick auf die Seine, die eine bedeutende Sammlung religiöser Kunstgegenstände beherbergt.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "Ein prächtiges Kaufmannshaus aus dem 18. Jahrhundert, das Einblicke in das bürgerliche Leben und die maritime Geschichte der Stadt bietet.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Strand von Le Havre", "text": "Dieser weitläufige Kiesstrand in Le Havre bietet einen weiten Blick auf den Ärmelkanal. Besucher können die lebhafte Promenade mit ihren bunten Strandhütten genießen. Es ist ein großartiger Ort für ausgedehnte Spaziergänge oder zum Entspannen am Wasser. Ein Besuch in den wärmeren Monaten lohnt sich besonders.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "Ein riesiger Stadtwald im Herzen von Le Havre, der zahlreiche Wanderwege, Seen und Sportanlagen für die Erholung im Grünen bietet.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Ein modernes Öko-Stadion mit einer charakteristischen blauen Fassade, das für seine nachhaltige Bauweise und Architektur bekannt ist.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "Ein markantes Denkmal in Sainte-Adresse, das den Seeleuten gewidmet ist und einen Panoramablick über die gesamte Bucht bietet.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Ein spannendes Freizeitzentrum in Le Havre mit vielen Spielen für Kinder und Jugendliche.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Ein familienfreundliches Spielezentrum in Le Havre, das Spaß für alle Altersgruppen garantiert.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "Ein zentraler Spielbereich in Le Havre, ideal für eine aktive Pause.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Ein aufregendes Unterhaltungszentrum in Le Havre für gemeinsame Aktivitäten in der Familie.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Ein ruhiger, kleiner Spielplatz in Le Havre für Kinder aus der Nachbarschaft.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Ein großzügiger Spielplatz in Le Havre mit viel Platz für Bewegung im Freien.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Ein fantasievoll gestaltetes Kletter- oder Spielgerät in Le Havre für Kinder.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Ein beliebter Spielplatz in Le Havre auf einem ehemaligen Sportgelände.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "Ein naturnaher Spielbereich im Wald von Montgeon bei Le Havre für kleine Entdecker.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée in Le Havre ist ein Freizeitort mit Attraktionen, die Kinder magisch finden werden.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Die Piscine Edouard Thomas in Le Havre bietet verschiedene Wasseranlagen für Spaß und Bewegung.", "category": "family", "coords": [0.161631, 49.49857]}], "hu": [{"name": "Le Volcan", "text": "Oscar Niemeyer által tervezett futurisztikus kulturális központ, amely vulkánszerű formájáról kapta nevét.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Le Havre-i városháza", "text": "Az UNESCO világörökség részét képező épület a modern városépítészet egyik legfontosabb jelképe.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Perret mintaapartman", "text": "Egy 1950-es évekbeli lakás, amely bemutatja, hogyan éltek a város újjáépítése utáni első lakók.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Le Havre-i kikötő", "text": "Franciaország egyik legjelentősebb teherkikötője, amely meghatározza a város ipari és tengeri jellegét.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "A 16. századi székesegyház a város azon kevés épületeinek egyike, amely épségben túlélte az 1944-es pusztító bombázásokat.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "A korábbi kikötői raktárakból kialakított modern bevásárló- és szórakoztatóközpont megőrizte a történelmi téglafalakat.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "A Szajna torkolatára néző román stílusú apátság és múzeum, amely jelentős vallási és történeti gyűjteménnyel rendelkezik.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "A 18. századi ötszintes polgárház a hajótulajdonosok életmódját és a város tengeri kereskedelmének aranykorát mutatja be.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Le Havre strandja", "text": "Le Havre kavicsos strandja széles kilátást nyújt a La Manche csatornára. A látogatók élvezhetik a nyüzsgő sétányt és a színes tengerparti kabinokat. Kiváló hely egy hosszú sétára vagy a vízparti pihenésre. Érdemes a melegebb hónapokban felkeresni.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "Hatalmas városi erdő és park tóval, ahol tanösvények és sportpályák várják a természetbe vágyó látogatókat.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Ultramodern, kék színű üvegfaláról felismerhető öko-stadion, amely Európa egyik legfenntarthatóbb sportlétesítménye.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "A tengerészek emlékére állított, cukorsüveg alakú emlékmű Sainte-Adresse-ben, ahonnan páratlan kilátás nyílik a tengerre.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Egy izgalmas szabadidős központ Le Havre-ban, sok játékkal gyerekeknek és fiataloknak.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Egy családbarát játékcenter Le Havre-ban, amely minden korosztálynak szórakozást garantál.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "Egy központi játszóterület Le Havre-ban, ideális egy aktív pihenőhöz.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Egy izgalmas szórakoztató központ Le Havre-ban a közös családi tevékenységekhez.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Egy nyugodt, kis játszótér Le Havre-ban a környékbeli gyerekeknek.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Egy tágas játszótér Le Havre-ban, sok hellyel a szabadtéri mozgáshoz.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Egy fantáziadúsan kialakított mászó- vagy játékeszköz Le Havre-ban gyerekeknek.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Egy népszerű játszótér Le Havre-ban, egy egykori sportterületen.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "Természetközeli játszóterület a Montgeon erdőben Le Havre-nál a kis felfedezőknek.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "A Le Havre-i La Fontaine enchantée egy olyan szabadidős helyszín, amelyet a gyermekek varázslatosnak találnak majd.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "A Le Havre-i Piscine Edouard Thomas különféle vízi létesítményeket kínál szórakozáshoz és edzéshez.", "category": "family", "coords": [0.161631, 49.49857]}], "ro": [{"name": "Le Volcan", "text": "Centrul cultural proiectat de Oscar Niemeyer, recunoscut pentru formele sale albe și curbate neobișnuite.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Primăria orașului Le Havre", "text": "O piesă centrală a arhitecturii moderne de după război, parte a patrimoniului mondial UNESCO.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Apartamentul-Martor Perret", "text": "O reconstituire fidelă a unui apartament din anii '50, oferind o incursiune în viața cotidiană a acelei epoci.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Portul Le Havre", "text": "Unul dintre cele mai mari porturi comerciale din Europa, esențial pentru economia și istoria locală.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "Catedrală din secolul al XVI-lea, una dintre puținele clădiri care au supraviețuit distrugerii aproape totale a orașului în 1944.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Foste depozite portuare istorice transformate într-un centru comercial și de agrement modern, păstrând arhitectura de cărămidă.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "O mănăstire romanică situată pe un deal cu vedere la estuarul Senei, găzduind un muzeu de artă sacră și sculpturi.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "O casă de negustor din secolul al XVIII-lea ce prezintă stilul de viață burghez și istoria maritimă glorioasă a portului.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Plaja din Le Havre", "text": "Această plajă întinsă cu pietriș din Le Havre oferă o vedere largă asupra Canalului Mânecii. Vizitatorii se pot bucura de promenada animată și de cabanele de plajă colorate. Este un loc excelent pentru plimbări lungi sau pentru relaxare la malul apei. O vizită în lunile mai calde este recomandată.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "O pădure urbană întinsă în centrul orașului, oferind lacuri, trasee de drumeție și spații verzi pentru recreere în aer liber.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Un stadion modern cu o fațadă albastră translucidă, remarcat pentru designul său ecologic și sustenabilitatea energetică.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "Monument distinctiv în Sainte-Adresse dedicat marinarilor, oferind o panoramă spectaculoasă asupra întregului golf.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Un centru de divertisment captivant în Le Havre, cu multe jocuri pentru copii și tineri.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Un centru de jocuri pentru familie în Le Havre, garantând distracție pentru toate vârstele.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "O zonă de joacă centrală în Le Havre, ideală pentru o pauză activă.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Un centru de divertisment palpitant în Le Havre pentru activități de familie.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Un loc de joacă mic și liniștit în Le Havre pentru copiii din vecinătate.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Un loc de joacă generos în Le Havre cu mult spațiu pentru mișcare în aer liber.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Un echipament de cățărat sau de joacă conceput cu imaginație în Le Havre.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Un loc de joacă popular în Le Havre, pe un fost teren sportiv.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "O zonă de joacă în natură în pădurea Montgeon de lângă Le Havre pentru mici exploratori.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée din Le Havre este un loc de agrement cu elemente pe care copiii le vor găsi magice.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Piscina Edouard Thomas din Le Havre oferă diverse facilități acvatice pentru distracție și exerciții fizice.", "category": "family", "coords": [0.161631, 49.49857]}], "en": [{"name": "Le Volcan", "text": "The cultural venue designed by Oscar Niemeyer, shaped like a large white volcano in the city center.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Le Havre City Hall", "text": "The centerpiece of the Perret reconstruction, this UNESCO-listed civic building features a tall watchtower.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Perret Show Flat", "text": "A meticulously preserved 1950s apartment showing the original layout and furniture from the reconstruction era.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Port of Le Havre", "text": "France's leading port for international trade, offering boat tours to see its massive industrial docks.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "A 16th-century cathedral and one of the rare survivors of the 1944 bombings, featuring a mix of Gothic and Renaissance styles.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Former historic port warehouses converted into a modern shopping and leisure complex with cinemas and restaurants.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "An ancient Romanesque abbey overlooking the Seine estuary, housing a museum with a significant collection of sacred art.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "An 18th-century merchant's house that provides a glimpse into the bourgeois life and maritime history of Le Havre.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Le Havre Beach", "text": "This sweeping pebble beach in Le Havre offers expansive views over the English Channel. Visitors can enjoy the lively promenade lined with brightly colored beach huts. It serves as a wonderful spot for a long walk or relaxing by the water. Planning a visit during the warmer months is a great idea.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "A massive urban forest in the heart of the city, offering many trails, lakes, and sports facilities for outdoor recreation.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "An exciting leisure center in Le Havre with many games for children and teens.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "A family-friendly games center in Le Havre, guaranteeing fun for all ages.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "A central play area in Le Havre, ideal for an active break.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "An exciting entertainment center in Le Havre for joint family activities.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "A quiet, small playground in Le Havre for neighborhood children.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "A spacious playground in Le Havre with plenty of room for outdoor movement.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "An imaginatively designed climbing or play structure in Le Havre for children.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "A popular playground in Le Havre on a former sports site.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "A nature-oriented play area in the Montgeon forest near Le Havre for little explorers.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée in Le Havre is a leisure spot with features that children will find magical.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Piscine Edouard Thomas in Le Havre offers various aquatic facilities for fun and exercise.", "category": "family", "coords": [0.161631, 49.49857]}], "fr": [{"name": "Le Volcan", "text": "Le centre culturel conçu par l'architecte Oscar Niemeyer se distingue par sa forme blanche et courbe.", "category": "cultural", "coords": [0.106945, 49.4904]}, {"name": "Hôtel de Ville du Havre", "text": "L'hôtel de ville avec sa tour caractéristique est classé au patrimoine mondial de l'UNESCO et témoigne de la reconstruction.", "category": "civic", "coords": [0.1078, 49.4935]}, {"name": "Appartement témoin Perret", "text": "Cet appartement témoin montre fidèlement le design et le confort de vie dans les années 1950 au Havre.", "category": "historical", "coords": [0.10757, 49.49178]}, {"name": "Port du Havre", "text": "L'un des plus grands ports d'Europe, véritable moteur économique et identitaire de la ville.", "category": "civic", "coords": [0.1569, 49.4705]}]}
   },
   {
     id: "angers", population: 159022,
@@ -1809,6 +1138,24 @@ const citySeeds: CitySeed[] = [
                         -0.561328,
                         47.475504
                   ]
+            },
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Skoubi Parc in Angers ist ein Freizeitpark für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Ouistiti Compagnie",
+                  "text": "Ouistiti Compagnie ist ein Freizeitpark in Angers, der Spaß für die ganze Familie bereithält.",
+                  "category": "family",
+                  "coords": [
+                        -0.61728,
+                        47.462931
+                  ]
             }
       ],
       "hu": [
@@ -1940,6 +1287,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.561328,
                         47.475504
+                  ]
+            },
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Az angers-i Skoubi Parc egy vidámpark családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Ouistiti Compagnie",
+                  "text": "Az Ouistiti Compagnie egy vidámpark Angers-ban, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.61728,
+                        47.462931
                   ]
             }
       ],
@@ -2073,6 +1438,24 @@ const citySeeds: CitySeed[] = [
                         -0.561328,
                         47.475504
                   ]
+            },
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Skoubi Parc din Angers este un parc tematic pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Ouistiti Compagnie",
+                  "text": "Ouistiti Compagnie este un parc tematic în Angers, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.61728,
+                        47.462931
+                  ]
             }
       ],
       "en": [
@@ -2204,6 +1587,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.561328,
                         47.475504
+                  ]
+            },
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Skoubi Parc in Angers is a theme park for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Ouistiti Compagnie",
+                  "text": "Ouistiti Compagnie is a theme park in Angers that provides fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.61728,
+                        47.462931
                   ]
             }
       ],
@@ -2438,6 +1839,15 @@ const citySeeds: CitySeed[] = [
                         4.362368,
                         43.837591
                   ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Dieses öffentliche Bad in Nîmes bietet allen Besuchern ein entspannendes und traditionelles Wellness-Erlebnis.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
+                  ]
             }
       ],
       "hu": [
@@ -2569,6 +1979,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.362368,
                         43.837591
+                  ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Ez a nîmes-i közfürdő pihentető és hagyományos wellness élményt nyújt minden látogatónak.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
                   ]
             }
       ],
@@ -2702,6 +2121,15 @@ const citySeeds: CitySeed[] = [
                         4.362368,
                         43.837591
                   ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Această baie publică din Nîmes oferă o experiență de wellness relaxantă și tradițională pentru toți vizitatorii.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
+                  ]
             }
       ],
       "en": [
@@ -2833,6 +2261,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.362368,
                         43.837591
+                  ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "This public bath in Nimes provides a relaxing and traditional wellness experience for all visitors.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
                   ]
             }
       ],
@@ -3078,6 +2515,24 @@ const citySeeds: CitySeed[] = [
                         -4.482126,
                         48.392787
                   ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "Der Games Park in Brest ist ein Unterhaltungszentrum mit verschiedenen Spielen und Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Das Scuba-Center in Brest bietet Wasseraktivitäten und Lernmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
             }
       ],
       "hu": [
@@ -3229,6 +2684,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.482126,
                         48.392787
+                  ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "A bresti Games Park egy szórakoztató központ különféle játékokkal és tevékenységekkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "A bresti Scuba center vízi tevékenységeket és tanulási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
                   ]
             }
       ],
@@ -3382,6 +2855,24 @@ const citySeeds: CitySeed[] = [
                         -4.482126,
                         48.392787
                   ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "Games Park din Brest este un centru de divertisment cu diverse jocuri și activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Scuba center din Brest oferă activități acvatice și oportunități de învățare pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
             }
       ],
       "en": [
@@ -3533,6 +3024,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.482126,
                         48.392787
+                  ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "Games Park in Brest is an entertainment center with various games and activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Scuba center",
+                  "text": "The Scuba center in Brest provides water-based activities and learning opportunities for families.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
                   ]
             }
       ],
@@ -3907,6 +3416,33 @@ const citySeeds: CitySeed[] = [
                         0.681562,
                         47.381271
                   ]
+            },
+            {
+                  "name": "Lulu Parc",
+                  "text": "Lulu Parc in Tours ist ein Freizeitpark für Familien.",
+                  "category": "family",
+                  "coords": [
+                        0.745261,
+                        47.406318
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "Die Mini ferme in Tours bietet als kleiner Zoo ein tolles Erlebnis für Familien.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili ist ein Tierpark in Tours, ideal für einen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
             }
       ],
       "hu": [
@@ -4187,6 +3723,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.681562,
                         47.381271
+                  ]
+            },
+            {
+                  "name": "Lulu Parc",
+                  "text": "A tours-i Lulu Parc egy vidámpark családoknak.",
+                  "category": "family",
+                  "coords": [
+                        0.745261,
+                        47.406318
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "A tours-i Mini ferme kis állatkertként nagyszerű élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "A Flamants du Chili egy vadaspark Tours-ban, ideális kiránduláshoz gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
                   ]
             }
       ],
@@ -4469,6 +4032,33 @@ const citySeeds: CitySeed[] = [
                         0.681562,
                         47.381271
                   ]
+            },
+            {
+                  "name": "Lulu Parc",
+                  "text": "Lulu Parc din Tours este un parc tematic pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        0.745261,
+                        47.406318
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "Mini ferme din Tours oferă o experiență grozavă pentru familii, fiind o mică grădină zoologică.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili este un parc de animale în Tours, ideal pentru o excursie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
             }
       ],
       "en": [
@@ -4749,6 +4339,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.681562,
                         47.381271
+                  ]
+            },
+            {
+                  "name": "Lulu Parc",
+                  "text": "Lulu Parc in Tours is a theme park for families.",
+                  "category": "family",
+                  "coords": [
+                        0.745261,
+                        47.406318
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "The Mini ferme in Tours offers a great experience for families as a small zoo.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili is an animal park in Tours, ideal for a trip with children.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
                   ]
             }
       ],
@@ -5691,6 +5308,15 @@ const citySeeds: CitySeed[] = [
                         1.230123,
                         45.811255
                   ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "Dieses Freizeitbecken in Limoges bietet lustige Wasserattraktionen und Bereiche für Familien zum Genießen.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
+                  ]
             }
       ],
       "hu": [
@@ -5888,6 +5514,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.230123,
                         45.811255
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "Ez a limoges-i élménymedence szórakoztató vízi elemeket és kikapcsolódási lehetőséget kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
                   ]
             }
       ],
@@ -6087,6 +5722,15 @@ const citySeeds: CitySeed[] = [
                         1.230123,
                         45.811255
                   ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "Această piscină de agrement din Limoges oferă elemente acvatice distractive și zone de care familiile să se bucure.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
+                  ]
             }
       ],
       "en": [
@@ -6284,6 +5928,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.230123,
                         45.811255
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "This leisure pool in Limoges offers fun water features and areas for families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
                   ]
             }
       ],
@@ -6566,6 +6219,24 @@ const citySeeds: CitySeed[] = [
                         6.220276,
                         49.12463
                   ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo ist ein Freizeitpark in Metz. Ein idealer Ort für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "Die Volière du jardin botanique in Metz ist ein Zoo, der Familien zur Vogelbeobachtung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
+                  ]
             }
       ],
       "hu": [
@@ -6754,6 +6425,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.220276,
                         49.12463
+                  ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "A Pass Partoo egy vidámpark Metzben. Ideális hely családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "A metzi Volière du jardin botanique egy állatkert, amely madármegfigyelésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
                   ]
             }
       ],
@@ -6944,6 +6633,24 @@ const citySeeds: CitySeed[] = [
                         6.220276,
                         49.12463
                   ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo este un parc tematic în Metz. Un loc ideal pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "Volière du jardin botanique din Metz este o grădină zoologică care invită familiile la observarea păsărilor.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
+                  ]
             }
       ],
       "en": [
@@ -7132,6 +6839,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.220276,
                         49.12463
+                  ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo is a theme park in Metz. An ideal place for family outings.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "The Volière du jardin botanique in Metz is a zoo that invites families for bird watching.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
                   ]
             }
       ],
@@ -7486,6 +7211,33 @@ const citySeeds: CitySeed[] = [
                         2.943525,
                         42.690518
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Dieses Planschbecken in Perpignan ist ein idealer Ort für kleine Kinder, um sicher im Wasser zu spielen.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Dieser Freizeitpark in Perpignan bietet eine Vielzahl an Aktivitäten und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Dieses Thermalbad in Perpignan bietet Besuchern eine entspannende Auszeit in einer wohltuenden Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
+                  ]
             }
       ],
       "hu": [
@@ -7746,6 +7498,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.943525,
                         42.690518
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Ez a perpignani pancsolómedence ideális hely a kisgyermekek számára a biztonságos vízi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Ez a perpignani élménypark különféle tevékenységeket és szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Ez a perpignani termálfürdő pihentető kikapcsolódást kínál a látogatóknak nyugodt környezetben.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
                   ]
             }
       ],
@@ -8008,6 +7787,33 @@ const citySeeds: CitySeed[] = [
                         2.943525,
                         42.690518
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Această piscină pentru copii din Perpignan este un loc ideal pentru copiii mici pentru a se juca în siguranță în apă.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Acest parc tematic din Perpignan oferă o varietate de activități și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Această baie termală din Perpignan oferă vizitatorilor o pauză relaxantă într-un mediu liniștitor.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
+                  ]
             }
       ],
       "en": [
@@ -8269,6 +8075,33 @@ const citySeeds: CitySeed[] = [
                         2.943525,
                         42.690518
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "This paddling pool in Perpignan is an ideal spot for young children to play safely in the water.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "This theme park in Perpignan offers a variety of activities and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "This thermal bath in Perpignan offers visitors a relaxing break in a soothing environment.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
+                  ]
             }
       ],
       "fr": [
@@ -8511,6 +8344,42 @@ const citySeeds: CitySeed[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Das Aquarium Georges BRESSE in Besançon zeigt einheimische und exotische Wasserlebewesen für einen interessanten Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure de Chalezeule",
+                  "text": "Dieses Freibad in Besançon bietet Familien einen erfrischenden Raum zum Schwimmen und Spielen im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        6.07181,
+                        47.265719
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Dieser Bereich in Besançon ist Teil einer größeren Tieranlage, in der Familien verschiedene Arten sehen können.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Dieser Zoo in Besançon befindet sich in der historischen Zitadelle und bietet Familien einen einzigartigen Blick auf die Tierwelt.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "hu": [
@@ -8660,6 +8529,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "A besançoni Aquarium Georges BRESSE helyi és egzotikus vízi élővilágot mutat be egy érdekes családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure de Chalezeule",
+                  "text": "Ez a besançoni szabadtéri medence frissítő helyet biztosít a családoknak az úszáshoz és a játékhoz nyáron.",
+                  "category": "family",
+                  "coords": [
+                        6.07181,
+                        47.265719
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Ez a besançoni terület egy nagyobb állatos létesítmény része, ahol a családok különböző fajokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Ez a besançoni állatkert a történelmi citadellában található, és egyedülálló kilátást nyújt a vadvilágra a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -8811,6 +8716,42 @@ const citySeeds: CitySeed[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Aquarium Georges BRESSE din Besançon prezintă viața acvatică locală și exotică pentru o vizită interesantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure de Chalezeule",
+                  "text": "Această piscină în aer liber din Besançon oferă un spațiu revigorant pentru ca familiile să înoate și să se joace în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        6.07181,
+                        47.265719
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Această zonă din Besançon face parte dintr-o facilitate mai mare pentru animale unde familiile pot vedea diferite specii.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Situată în citadela istorică, această grădină zoologică din Besançon oferă familiilor o vedere unică asupra vieții sălbatice.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "en": [
@@ -8960,6 +8901,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Aquarium Georges BRESSE in Besancon showcases local and exotic aquatic life for an interesting family visit.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Piscine Extérieure de Chalezeule",
+                  "text": "This outdoor pool in Besancon provides a refreshing space for families to swim and play during summer.",
+                  "category": "family",
+                  "coords": [
+                        6.07181,
+                        47.265719
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "This area in Besancon is part of a larger animal facility where families can see different species.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Located within the historic citadel, this zoo in Besancon offers families a unique view of wildlife.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -9258,6 +9235,60 @@ const citySeeds: CitySeed[] = [
                         1.901113,
                         47.897965
                   ]
+            },
+            {
+                  "name": "Base de Loisir de L'Île Charlemagne",
+                  "text": "Die Base de Loisir de L'Île Charlemagne in Orleans ist ein Wasserpark für den Familienspaß im kühlen Nass.",
+                  "category": "family",
+                  "coords": [
+                        1.940444,
+                        47.895626
+                  ]
+            },
+            {
+                  "name": "Kidy Land",
+                  "text": "Kidy Land ist ein Freizeitpark in Orleans, der sich perfekt für spielende Kinder und deren Familien eignet.",
+                  "category": "family",
+                  "coords": [
+                        1.916885,
+                        47.945271
+                  ]
+            },
+            {
+                  "name": "Léo Parc aventure - Aqua-parc",
+                  "text": "Der Léo Parc aventure - Aqua-parc ist ein Wasserpark in Orleans. Ein tolles Ziel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.946882,
+                        47.89956
+                  ]
+            },
+            {
+                  "name": "Bassin Victor Fouillade",
+                  "text": "Das Schwimmbad Bassin Victor Fouillade befindet sich in Orleans.",
+                  "category": "family",
+                  "coords": [
+                        1.895204,
+                        47.921289
+                  ]
+            },
+            {
+                  "name": "Novotel",
+                  "text": "Das Novotel in Orleans verfügt über ein Schwimmbad.",
+                  "category": "family",
+                  "coords": [
+                        1.905447,
+                        47.90594
+                  ]
+            },
+            {
+                  "name": "Chapit'O",
+                  "text": "Chapit'O ist ein Freizeitpark in Orleans. Ein fantastischer Ort für Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        1.896086,
+                        47.93934
+                  ]
             }
       ],
       "hu": [
@@ -9480,6 +9511,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.901113,
                         47.897965
+                  ]
+            },
+            {
+                  "name": "Base de Loisir de L'Île Charlemagne",
+                  "text": "Az orleans-i Base de Loisir de L'Île Charlemagne egy vízipark, amely hűsítő családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        1.940444,
+                        47.895626
+                  ]
+            },
+            {
+                  "name": "Kidy Land",
+                  "text": "A Kidy Land egy vidámpark Orleans-ban, amely tökéletes játszadozó gyerekek és családjaik számára.",
+                  "category": "family",
+                  "coords": [
+                        1.916885,
+                        47.945271
+                  ]
+            },
+            {
+                  "name": "Léo Parc aventure - Aqua-parc",
+                  "text": "A Léo Parc aventure - Aqua-parc egy vízipark Orleans-ban. Nagyszerű célpont az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        1.946882,
+                        47.89956
+                  ]
+            },
+            {
+                  "name": "Bassin Victor Fouillade",
+                  "text": "A Bassin Victor Fouillade uszoda Orleans-ban található.",
+                  "category": "family",
+                  "coords": [
+                        1.895204,
+                        47.921289
+                  ]
+            },
+            {
+                  "name": "Novotel",
+                  "text": "Az orleans-i Novotel rendelkezik úszómedencével.",
+                  "category": "family",
+                  "coords": [
+                        1.905447,
+                        47.90594
+                  ]
+            },
+            {
+                  "name": "Chapit'O",
+                  "text": "A Chapit'O egy vidámpark Orleans-ban. Fantasztikus hely családi szórakozásra.",
+                  "category": "family",
+                  "coords": [
+                        1.896086,
+                        47.93934
                   ]
             }
       ],
@@ -9704,6 +9789,60 @@ const citySeeds: CitySeed[] = [
                         1.901113,
                         47.897965
                   ]
+            },
+            {
+                  "name": "Base de Loisir de L'Île Charlemagne",
+                  "text": "Base de Loisir de L'Île Charlemagne din Orleans este un parc acvatic pentru distracția familiei în apă.",
+                  "category": "family",
+                  "coords": [
+                        1.940444,
+                        47.895626
+                  ]
+            },
+            {
+                  "name": "Kidy Land",
+                  "text": "Kidy Land este un parc tematic în Orleans, perfect pentru copiii care se joacă și familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        1.916885,
+                        47.945271
+                  ]
+            },
+            {
+                  "name": "Léo Parc aventure - Aqua-parc",
+                  "text": "Léo Parc aventure - Aqua-parc este un parc acvatic în Orleans. O destinație excelentă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.946882,
+                        47.89956
+                  ]
+            },
+            {
+                  "name": "Bassin Victor Fouillade",
+                  "text": "Piscina Bassin Victor Fouillade se află în Orleans.",
+                  "category": "family",
+                  "coords": [
+                        1.895204,
+                        47.921289
+                  ]
+            },
+            {
+                  "name": "Novotel",
+                  "text": "Novotel din Orleans are o piscină.",
+                  "category": "family",
+                  "coords": [
+                        1.905447,
+                        47.90594
+                  ]
+            },
+            {
+                  "name": "Chapit'O",
+                  "text": "Chapit'O este un parc tematic în Orleans. Un loc fantastic pentru divertismentul în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.896086,
+                        47.93934
+                  ]
             }
       ],
       "en": [
@@ -9926,6 +10065,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.901113,
                         47.897965
+                  ]
+            },
+            {
+                  "name": "Base de Loisir de L'Île Charlemagne",
+                  "text": "The Base de Loisir de L'Île Charlemagne in Orleans is a water park for family fun in the water.",
+                  "category": "family",
+                  "coords": [
+                        1.940444,
+                        47.895626
+                  ]
+            },
+            {
+                  "name": "Kidy Land",
+                  "text": "Kidy Land is a theme park in Orleans, perfect for playing children and their families.",
+                  "category": "family",
+                  "coords": [
+                        1.916885,
+                        47.945271
+                  ]
+            },
+            {
+                  "name": "Léo Parc aventure - Aqua-parc",
+                  "text": "Léo Parc aventure - Aqua-parc is a water park in Orleans. A great destination for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.946882,
+                        47.89956
+                  ]
+            },
+            {
+                  "name": "Bassin Victor Fouillade",
+                  "text": "The Bassin Victor Fouillade swimming pool is located in Orleans.",
+                  "category": "family",
+                  "coords": [
+                        1.895204,
+                        47.921289
+                  ]
+            },
+            {
+                  "name": "Novotel",
+                  "text": "The Novotel in Orleans features a swimming pool.",
+                  "category": "family",
+                  "coords": [
+                        1.905447,
+                        47.90594
+                  ]
+            },
+            {
+                  "name": "Chapit'O",
+                  "text": "Chapit'O is a theme park in Orleans. A fantastic place for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        1.896086,
+                        47.93934
                   ]
             }
       ],
@@ -10189,6 +10382,42 @@ const citySeeds: CitySeed[] = [
                         7.324488,
                         47.737943
                   ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Dieses Lasergame-Zentrum in Mulhouse bietet spannende Herausforderungen und Spaß für Familien und Gruppen.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "Das Familienbecken in Mulhouse ist speziell für den gemeinsamen Badespaß mit der ganzen Familie konzipiert.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Sprungturm",
+                  "text": "Diese Sprunganlage in Mulhouse bietet aktiven Wasserspaß und Herausforderungen für begeisterte Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Dieser Kinderzoo in Mulhouse ist ein großartiger Ort für Kinder, um Tiere hautnah zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
             }
       ],
       "hu": [
@@ -10367,6 +10596,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.324488,
                         47.737943
+                  ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Ez a mulhouse-i lézerjáték-központ izgalmas kihívásokat és szórakozást kínál családoknak és csoportoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "A mulhouse-i családi medence kifejezetten az egész család közös fürdőzésére készült.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Ez a mulhouse-i műugró hely aktív vízi szórakozást és kihívásokat kínál a lelkes úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Ez a mulhouse-i gyerekállatkert nagyszerű hely a gyerekek számára az állatok közeli megismeréséhez.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
                   ]
             }
       ],
@@ -10547,6 +10812,42 @@ const citySeeds: CitySeed[] = [
                         7.324488,
                         47.737943
                   ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Acest centru de laser game din Mulhouse oferă provocări incitante și distracție pentru familii și grupuri.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "Bazinul familial din Mulhouse este conceput special pentru distracția la înot a întregii familii.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Această facilitate de sărituri din Mulhouse oferă distracție activă în apă și provocări pentru înotătorii entuziaști.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Această grădină zoologică pentru copii din Mulhouse este un loc minunat pentru ca cei mici să experimenteze animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
             }
       ],
       "en": [
@@ -10725,6 +11026,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.324488,
                         47.737943
+                  ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "This laser game center in Mulhouse offers exciting challenges and fun for families and groups.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "The family pool in Mulhouse is specially designed for swimming fun with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "This diving facility in Mulhouse offers active water fun and challenges for enthusiastic swimmers.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "This children's zoo in Mulhouse is a great place for kids to experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
                   ]
             }
       ],
@@ -11060,6 +11397,24 @@ const citySeeds: CitySeed[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Diese Sprunganlage in Caen bietet einen Tiefwasserbereich für Sprünge und sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury in Caen bietet aktive Outdoor-Sitzungen für Familien und Gruppen, die Spaß suchen.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ],
       "hu": [
@@ -11301,6 +11656,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.389162,
                         49.197907
+                  ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Ez a caeni ugrólétesítmény mélyvizes területet biztosít az ugráshoz és a sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "A caeni Paint Ball Fury aktív szabadtéri játékot kínál családoknak és szórakozni vágyó csoportoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
                   ]
             }
       ],
@@ -11544,6 +11917,24 @@ const citySeeds: CitySeed[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Această facilitate de sărituri din Caen oferă o zonă cu apă adâncă pentru sărituri și activități atletice.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury din Caen oferă sesiuni active în aer liber pentru familii și grupuri care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ],
       "en": [
@@ -11786,6 +12177,24 @@ const citySeeds: CitySeed[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "This diving facility in Caen provides a deep water area for jumping and athletic activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury in Caen offers active outdoor sessions for families and groups looking for fun.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ],
       "fr": [
@@ -11985,6 +12394,24 @@ const citySeeds: CitySeed[] = [
                         6.203726,
                         48.705781
                   ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Der Espace Animalier in Nancy ist ein Zoo und ein schönes Ausflugsziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis ist ein Strandresort in Nancy.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "hu": [
@@ -12100,6 +12527,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.203726,
                         48.705781
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "A nancy-i Espace Animalier egy állatkert és szép kirándulóhely családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "A L’oasis egy tengerparti üdülőhely Nancy-ban.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ],
@@ -12217,6 +12662,24 @@ const citySeeds: CitySeed[] = [
                         6.203726,
                         48.705781
                   ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Espace Animalier din Nancy este o grădină zoologică și o destinație frumoasă de excursie pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis este o stațiune pe plajă în Nancy.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "en": [
@@ -12332,6 +12795,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.203726,
                         48.705781
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "The Espace Animalier in Nancy is a zoo and a lovely excursion destination for families.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis is a beach resort in Nancy.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ],
@@ -12748,6 +13229,69 @@ const citySeeds: CitySeed[] = [
                         2.34339,
                         48.96093
                   ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "Dieses traditionelle türkische Bad in Saint-Denis bietet eine authentische und entspannende Atmosphäre für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "Dieses öffentliche Bad in Saint-Denis ist der perfekte Ort für eine erholsame Wellness-Pause.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "hamman",
+                  "text": "Genießen Sie ein beruhigendes Erlebnis in diesem traditionellen Bad in Saint-Denis.",
+                  "category": "family",
+                  "coords": [
+                        2.387351,
+                        48.937979
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Dieser Wasserpark in Saint-Denis bietet aufregende Wasseraktivitäten und Rutschen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Newtown Park",
+                  "text": "Dieser Freizeitpark in Saint-Denis bietet vielseitige Unterhaltung und Spielbereiche für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        2.328032,
+                        48.924773
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "Diese Kinderzone in Saint-Denis ist ein Paradies für junge Abenteurer mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
+            },
+            {
+                  "name": "Olympic 50m pool",
+                  "text": "Dieses olympische Schwimmbecken in Saint-Denis bietet erstklassige Bedingungen für Familien und Hobbyschwimmer.",
+                  "category": "family",
+                  "coords": [
+                        2.355305,
+                        48.923639
+                  ]
             }
       ],
       "hu": [
@@ -13070,6 +13614,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.34339,
                         48.96093
+                  ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "Ez a hagyományos törökfürdő Saint-Denis-ben autentikus és pihentető légkört kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "Ez a Saint-Denis-i közfürdő tökéletes hely egy pihentető wellness-szünethez.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "hamman",
+                  "text": "Élvezze a megnyugtató élményt ebben a hagyományos Saint-Denis-i fürdőben.",
+                  "category": "family",
+                  "coords": [
+                        2.387351,
+                        48.937979
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Ez a Saint-Denis-i vízipark izgalmas vízi tevékenységeket és csúszdákat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Newtown Park",
+                  "text": "Ez a Saint-Denis-i élménypark sokoldalú szórakozást és játszótereket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        2.328032,
+                        48.924773
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "Ez a Saint-Denis-i gyerekzóna a fiatal kalandorok paradicsoma, számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
+            },
+            {
+                  "name": "Olympic 50m pool",
+                  "text": "Ez a Saint-Denis-i olimpiai úszómedence kiváló feltételeket biztosít a családok és a hobbiúszók számára.",
+                  "category": "family",
+                  "coords": [
+                        2.355305,
+                        48.923639
                   ]
             }
       ],
@@ -13394,6 +14001,69 @@ const citySeeds: CitySeed[] = [
                         2.34339,
                         48.96093
                   ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "Această baie turcească tradițională din Saint-Denis oferă o atmosferă autentică și relaxantă pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "Această baie publică din Saint-Denis este locul perfect pentru o pauză de wellness relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "hamman",
+                  "text": "Bucurați-vă de o experiență liniștitoare în această baie tradițională din Saint-Denis.",
+                  "category": "family",
+                  "coords": [
+                        2.387351,
+                        48.937979
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Acest parc acvatic din Saint-Denis oferă activități acvatice incitante și tobogane pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Newtown Park",
+                  "text": "Acest parc tematic din Saint-Denis oferă divertisment versatil și zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        2.328032,
+                        48.924773
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "Această zonă pentru copii din Saint-Denis este un paradis pentru tinerii aventurieri, cu multe opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
+            },
+            {
+                  "name": "Olympic 50m pool",
+                  "text": "Această piscină olimpică din Saint-Denis oferă condiții excelente pentru familii și înotători amatori.",
+                  "category": "family",
+                  "coords": [
+                        2.355305,
+                        48.923639
+                  ]
             }
       ],
       "en": [
@@ -13716,6 +14386,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.34339,
                         48.96093
+                  ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "This traditional turkish bath in Saint Denis offers an authentic and relaxing atmosphere for visitors.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "This public bath in Saint Denis is the perfect place for a relaxing wellness break.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "hamman",
+                  "text": "Enjoy a soothing experience at this traditional bath in Saint Denis.",
+                  "category": "family",
+                  "coords": [
+                        2.387351,
+                        48.937979
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "This water park in Saint Denis features exciting aquatic activities and slides for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Newtown Park",
+                  "text": "This theme park in Saint Denis provides versatile entertainment and play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        2.328032,
+                        48.924773
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "This kids' zone in Saint Denis is a paradise for young adventurers with plenty of play options.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
+            },
+            {
+                  "name": "Olympic 50m pool",
+                  "text": "This Olympic swimming pool in Saint Denis offers excellent conditions for families and amateur swimmers.",
+                  "category": "family",
+                  "coords": [
+                        2.355305,
+                        48.923639
                   ]
             }
       ],
@@ -14095,6 +14828,42 @@ const citySeeds: CitySeed[] = [
                         2.259763,
                         48.961382
                   ]
+            },
+            {
+                  "name": "Fermes de Gally - Ferme pédagogique",
+                  "text": "Dieser pädagogische Bauernhof in Argenteuil bietet Familien die Möglichkeit, mit Bauernhoftieren zu interagieren und etwas über die Landwirtschaft zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        2.188933,
+                        48.941095
+                  ]
+            },
+            {
+                  "name": "Parkids",
+                  "text": "Parkids in Argenteuil ist ein Indoor-Freizeitbereich, der für die Unterhaltung von Kindern und das Familienspiel konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        2.197093,
+                        48.94943
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo in Argenteuil verfügt über Thermalbecken und Wellnesseinrichtungen, die für die Entspannung der Familie geeignet sind.",
+                  "category": "family",
+                  "coords": [
+                        2.191897,
+                        48.954321
+                  ]
+            },
+            {
+                  "name": "Espace aquatique",
+                  "text": "Dieser Wasserbereich in Argenteuil bietet verschiedene Becken und Wasseraktivitäten für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        2.191299,
+                        48.960673
+                  ]
             }
       ],
       "hu": [
@@ -14389,6 +15158,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.259763,
                         48.961382
+                  ]
+            },
+            {
+                  "name": "Fermes de Gally - Ferme pédagogique",
+                  "text": "Ez az argenteuili oktatófarm lehetőséget kínál a családoknak, hogy haszonállatokkal ismerkedjenek és tanuljanak a mezőgazdaságról.",
+                  "category": "family",
+                  "coords": [
+                        2.188933,
+                        48.941095
+                  ]
+            },
+            {
+                  "name": "Parkids",
+                  "text": "Az argenteuili Parkids egy beltéri szabadidős központ, amelyet gyermekek szórakoztatására és családi játékra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        2.197093,
+                        48.94943
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Az argenteuili Calicéo termálmedencékkel és wellness-létesítményekkel várja a családi kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        2.191897,
+                        48.954321
+                  ]
+            },
+            {
+                  "name": "Espace aquatique",
+                  "text": "Ez az argenteuili vízi központ különféle medencéket és vízi tevékenységeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.191299,
+                        48.960673
                   ]
             }
       ],
@@ -14685,6 +15490,42 @@ const citySeeds: CitySeed[] = [
                         2.259763,
                         48.961382
                   ]
+            },
+            {
+                  "name": "Fermes de Gally - Ferme pédagogique",
+                  "text": "Această fermă educațională din Argenteuil oferă familiilor șansa de a interacționa cu animalele de fermă și de a învăța despre agricultură.",
+                  "category": "family",
+                  "coords": [
+                        2.188933,
+                        48.941095
+                  ]
+            },
+            {
+                  "name": "Parkids",
+                  "text": "Parkids din Argenteuil este un spațiu de agrement interior conceput pentru divertismentul copiilor și joaca în familie.",
+                  "category": "family",
+                  "coords": [
+                        2.197093,
+                        48.94943
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo din Argenteuil are piscine termale și facilități de wellness potrivite pentru relaxarea familiei.",
+                  "category": "family",
+                  "coords": [
+                        2.191897,
+                        48.954321
+                  ]
+            },
+            {
+                  "name": "Espace aquatique",
+                  "text": "Acest spațiu acvatic din Argenteuil oferă diverse piscine și activități acvatice pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        2.191299,
+                        48.960673
+                  ]
             }
       ],
       "en": [
@@ -14980,6 +15821,42 @@ const citySeeds: CitySeed[] = [
                         2.259763,
                         48.961382
                   ]
+            },
+            {
+                  "name": "Fermes de Gally - Ferme pédagogique",
+                  "text": "This educational farm in Argenteuil offers families a chance to interact with farm animals and learn about agriculture.",
+                  "category": "family",
+                  "coords": [
+                        2.188933,
+                        48.941095
+                  ]
+            },
+            {
+                  "name": "Parkids",
+                  "text": "Parkids in Argenteuil is an indoor leisure space designed for children's entertainment and family play.",
+                  "category": "family",
+                  "coords": [
+                        2.197093,
+                        48.94943
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo in Argenteuil features thermal pools and wellness facilities suitable for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        2.191897,
+                        48.954321
+                  ]
+            },
+            {
+                  "name": "Espace aquatique",
+                  "text": "This aquatic space in Argenteuil offers various pools and water activities for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        2.191299,
+                        48.960673
+                  ]
             }
       ],
       "fr": [
@@ -15222,6 +16099,15 @@ const citySeeds: CitySeed[] = [
                         4.09416,
                         48.285753
                   ]
+            },
+            {
+                  "name": "Pavillon Exotique",
+                  "text": "Der Pavillon Exotique in Troyes ist ein Zoo, der Familien mit exotischen Tieren begeistert.",
+                  "category": "family",
+                  "coords": [
+                        4.068882,
+                        48.318938
+                  ]
             }
       ],
       "hu": [
@@ -15380,6 +16266,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.09416,
                         48.285753
+                  ]
+            },
+            {
+                  "name": "Pavillon Exotique",
+                  "text": "A troyes-i Pavillon Exotique egy állatkert, amely egzotikus állatokkal kápráztatja el a családokat.",
+                  "category": "family",
+                  "coords": [
+                        4.068882,
+                        48.318938
                   ]
             }
       ],
@@ -15540,6 +16435,15 @@ const citySeeds: CitySeed[] = [
                         4.09416,
                         48.285753
                   ]
+            },
+            {
+                  "name": "Pavillon Exotique",
+                  "text": "Pavillon Exotique din Troyes este o grădină zoologică care încântă familiile cu animale exotice.",
+                  "category": "family",
+                  "coords": [
+                        4.068882,
+                        48.318938
+                  ]
             }
       ],
       "en": [
@@ -15698,6 +16602,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.09416,
                         48.285753
+                  ]
+            },
+            {
+                  "name": "Pavillon Exotique",
+                  "text": "The Pavillon Exotique in Troyes is a zoo that delights families with exotic animals.",
+                  "category": "family",
+                  "coords": [
+                        4.068882,
+                        48.318938
                   ]
             }
       ],
@@ -16051,6 +16964,15 @@ const citySeeds: CitySeed[] = [
                         4.38523,
                         45.433724
                   ]
+            },
+            {
+                  "name": "Hammam Sabra 2000",
+                  "text": "Dieses öffentliche Bad in Saint-Étienne bietet eine ruhige Umgebung für Entspannung und Wohlbefinden.",
+                  "category": "family",
+                  "coords": [
+                        4.379635,
+                        45.432699
+                  ]
             }
       ],
       "hu": [
@@ -16328,6 +17250,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.38523,
                         45.433724
+                  ]
+            },
+            {
+                  "name": "Hammam Sabra 2000",
+                  "text": "Ez a Saint-Étienne-i közfürdő nyugodt környezetet biztosít a pihenéshez és a jó közérzethöz.",
+                  "category": "family",
+                  "coords": [
+                        4.379635,
+                        45.432699
                   ]
             }
       ],
@@ -16607,6 +17538,15 @@ const citySeeds: CitySeed[] = [
                         4.38523,
                         45.433724
                   ]
+            },
+            {
+                  "name": "Hammam Sabra 2000",
+                  "text": "Această baie publică din Saint-Étienne oferă un mediu liniștit pentru relaxare și bunăstare.",
+                  "category": "family",
+                  "coords": [
+                        4.379635,
+                        45.432699
+                  ]
             }
       ],
       "en": [
@@ -16885,6 +17825,15 @@ const citySeeds: CitySeed[] = [
                         4.38523,
                         45.433724
                   ]
+            },
+            {
+                  "name": "Hammam Sabra 2000",
+                  "text": "This public bath in Saint Etienne provides a peaceful environment for relaxation and well-being.",
+                  "category": "family",
+                  "coords": [
+                        4.379635,
+                        45.432699
+                  ]
             }
       ],
       "fr": [
@@ -17159,6 +18108,15 @@ const citySeeds: CitySeed[] = [
                         5.938483,
                         43.111059
                   ]
+            },
+            {
+                  "name": "Zoo du Faron",
+                  "text": "Der Zoo du Faron in Toulon ist bekannt für seine Sammlung von Großkatzen und bietet ein interessantes Erlebnis für Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.940542,
+                        43.152824
+                  ]
             }
       ],
       "hu": [
@@ -17340,6 +18298,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.938483,
                         43.111059
+                  ]
+            },
+            {
+                  "name": "Zoo du Faron",
+                  "text": "A touloni Zoo du Faron nagymacska-gyűjteményéről ismert, és érdekes élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.940542,
+                        43.152824
                   ]
             }
       ],
@@ -17523,6 +18490,15 @@ const citySeeds: CitySeed[] = [
                         5.938483,
                         43.111059
                   ]
+            },
+            {
+                  "name": "Zoo du Faron",
+                  "text": "Zoo du Faron din Toulon este cunoscută pentru colecția sa de feline mari și oferă o experiență interesantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        5.940542,
+                        43.152824
+                  ]
             }
       ],
       "en": [
@@ -17704,6 +18680,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.938483,
                         43.111059
+                  ]
+            },
+            {
+                  "name": "Zoo du Faron",
+                  "text": "Zoo du Faron in Toulon is known for its collection of big cats and offers an interesting experience for families.",
+                  "category": "family",
+                  "coords": [
+                        5.940542,
+                        43.152824
                   ]
             }
       ],
@@ -18012,6 +18997,15 @@ const citySeeds: CitySeed[] = [
                         4.908235,
                         44.950713
                   ]
+            },
+            {
+                  "name": "Ninja Land",
+                  "text": "Ninja Land in Valence ist ein aufregender Freizeitpark für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.884551,
+                        44.895941
+                  ]
             }
       ],
       "hu": [
@@ -18226,6 +19220,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.908235,
                         44.950713
+                  ]
+            },
+            {
+                  "name": "Ninja Land",
+                  "text": "A valence-i Ninja Land egy izgalmas vidámpark az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        4.884551,
+                        44.895941
                   ]
             }
       ],
@@ -18442,6 +19445,15 @@ const citySeeds: CitySeed[] = [
                         4.908235,
                         44.950713
                   ]
+            },
+            {
+                  "name": "Ninja Land",
+                  "text": "Ninja Land din Valence este un parc tematic captivant pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.884551,
+                        44.895941
+                  ]
             }
       ],
       "en": [
@@ -18656,6 +19668,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.908235,
                         44.950713
+                  ]
+            },
+            {
+                  "name": "Ninja Land",
+                  "text": "Ninja Land in Valence is an exciting theme park for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        4.884551,
+                        44.895941
                   ]
             }
       ],
@@ -19090,712 +20111,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus de 338 000 soldats ont été évacués en 1940 lors de l'Opération Dynamo.", "Le port est le troisième de France en termes de volume.", "Le beffroi de Saint-Éloi culmine à 58 mètres de hauteur.", "Le carnaval de Dunkerque dure près de trois mois chaque année.", "La ville a été détruite à 80 % à la fin de la Seconde Guerre mondiale.", "Le célèbre corsaire Jean Bart est né ici en 1650."],
     },
     image: "/poi-images/dunkerque.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Beffroi de Dunkerque",
-                  "text": "Dieser Backsteinturm aus dem 15. Jahrhundert gehört zum UNESCO-Weltkulturerbe und bietet einen Blick auf den Hafen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.37619,
-                        51.035612
-                  ]
-            },
-            {
-                  "name": "Musée Portuaire",
-                  "text": "Ein Museum in einem ehemaligen Tabaklager, das die Geschichte des Hafens von Dünkirchen und das Leben der Seeleute zeigt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.37168,
-                        51.0379
-                  ]
-            },
-            {
-                  "name": "Église Saint-Éloi",
-                  "text": "Eine imposante Backsteinkirche aus dem 16. Jahrhundert, die als „Kathedrale des Sandes“ bekannt ist.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.377177,
-                        51.035607
-                  ]
-            },
-            {
-                  "name": "Mémorial du Souvenir",
-                  "text": "Dieses Museum dokumentiert die dramatische „Operation Dynamo“ von 1940 während der Evakuierung der alliierten Truppen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.381111,
-                        51.046111
-                  ]
-            },
-            {
-                  "name": "Plage de Malo-les-Bains",
-                  "text": "Ein langer Sandstrand, bekannt für seine Belle-Époque-Villen und die Strandpromenade mit zahlreichen Cafés.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.41333,
-                        51.0556
-                  ]
-            },
-            {
-                  "name": "Phare du Risban",
-                  "text": "Der 1843 erbaute Leuchtturm ist 63 Meter hoch und leitet die Schiffe sicher in den Hafen von Dünkirchen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.364167,
-                        51.048889
-                  ]
-            },
-            {
-                  "name": "LAAC",
-                  "text": "Museum für moderne Kunst in einem Park am Meer, mit Werken aus den 1950er bis 1980er Jahren.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.38253,
-                        51.0461
-                  ]
-            },
-            {
-                  "name": "FRAC Grand Large",
-                  "text": "Zentrum für zeitgenössische Kunst in einem markanten Glasgebäude, einer ehemaligen Werftwerkstatt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.380949,
-                        51.046989
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville de Dunkerque",
-                  "text": "Rathaus im neoflämischen Stil, eingeweiht 1901, bekannt für seine prächtige Fassade und Buntglasfenster.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        2.376755,
-                        51.037662
-                  ]
-            },
-            {
-                  "name": "Tour du Leughenaer",
-                  "text": "Das älteste Denkmal der Stadt, dieser achteckige Turm stammt aus dem Jahr 1405 und diente als Leuchtturm.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.378569,
-                        51.040157
-                  ]
-            },
-            {
-                  "name": "Musée de l'Opération Dynamo",
-                  "text": "Geschichtsmuseum in der Bastion 32, gewidmet der Evakuierung der alliierten Truppen im Jahr 1940.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.381435,
-                        51.046048
-                  ]
-            },
-            {
-                  "name": "Princess Elizabeth",
-                  "text": "Authentischer Schaufelraddampfer, der während der Operation Dynamo eingesetzt wurde, heute ein Restaurant.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.370626,
-                        51.035242
-                  ]
-            },
-            {
-                  "name": "Fort des Dunes",
-                  "text": "Unterirdische Befestigungsanlage von 1878 zum Schutz des Hafens, Schauplatz schwerer Kämpfe im Jahr 1940.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        2.444498,
-                        51.053975
-                  ]
-            },
-            {
-                  "name": "Jardin des Sculptures",
-                  "text": "Freiluftgalerie rund um das LAAC mit monumentalen modernen Skulpturen in einer grünen Parklandschaft.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.373532,
-                        51.034355
-                  ]
-            },
-            {
-                  "name": "Gare de Dunkerque",
-                  "text": "Hauptbahnhof der Stadt, der nach dem Krieg im modernen Stil wiederaufgebaut wurde und den TGV bedient.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        2.36876,
-                        51.03038
-                  ]
-            },
-            {
-                  "name": "Kursaal",
-                  "text": "Das Palais des Congrès der Stadt, ein wichtiges kulturelles Zentrum für Veranstaltungen direkt am Meer.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.38839,
-                        51.049117
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Beffroi de Dunkerque",
-                  "text": "A 15. századi harangtorony az UNESCO Világörökség része, tetejéről lenyűgöző panoráma nyílik a városra és az Északi-tengerre.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.37619,
-                        51.035612
-                  ]
-            },
-            {
-                  "name": "Musée Portuaire",
-                  "text": "A kikötői múzeum egy régi dohányraktárban kapott helyet, és a város tengeri kereskedelmét és hajózási múltját mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.37168,
-                        51.0379
-                  ]
-            },
-            {
-                  "name": "Église Saint-Éloi",
-                  "text": "Egy hatalmas gótikus téglaépület a 16. századból, amelyet a helyiek gyakran a homok katedrálisaként emlegetnek.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.377177,
-                        51.035607
-                  ]
-            },
-            {
-                  "name": "Mémorial du Souvenir",
-                  "text": "A múzeum az 1940-es Dynamo-hadműveletnek állít emléket, amikor a szövetséges csapatokat kimentették a tengerpartról.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.381111,
-                        51.046111
-                  ]
-            },
-            {
-                  "name": "Plage de Malo-les-Bains",
-                  "text": "Dunkerque híres homokos strandja, amelyet színes 19. századi villák és egy nyüzsgő sétány tesz vonzóvá.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.41333,
-                        51.0556
-                  ]
-            },
-            {
-                  "name": "Phare du Risban",
-                  "text": "A 63 méter magas világítótorony 1843 óta segíti a hajók navigálását Dunkerque fontos kikötőjének bejáratánál.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.364167,
-                        51.048889
-                  ]
-            },
-            {
-                  "name": "LAAC",
-                  "text": "Modern művészeti múzeum egy tengerparti parkban, az 1950-es és 1980-as évek közötti művekkel.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.38253,
-                        51.0461
-                  ]
-            },
-            {
-                  "name": "FRAC Grand Large",
-                  "text": "Kortárs művészeti központ egy látványos üvegépületben, amely egykori hajógyári műhely volt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.380949,
-                        51.046989
-                  ]
-            },
-            {
-                  "name": "Dunkerque-i városháza",
-                  "text": "1901-ben felavatott neoflamand stílusú városháza, amely homlokzatáról és üvegablakairól híres.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        2.376755,
-                        51.037662
-                  ]
-            },
-            {
-                  "name": "Leughenaer-torony",
-                  "text": "A város legrégebbi műemléke, ez a nyolcszögletű torony 1405-ből származik, és világítótoronyként szolgált.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.378569,
-                        51.040157
-                  ]
-            },
-            {
-                  "name": "Dinamó hadművelet múzeuma",
-                  "text": "A 32-es bástyában található történelmi múzeum, amely a szövetséges csapatok 1940-es evakuálásának állít emléket.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.381435,
-                        51.046048
-                  ]
-            },
-            {
-                  "name": "Princess Elizabeth",
-                  "text": "Az Operation Dynamo során használt eredeti lapátkerekes gőzhajó, amely ma étteremként üzemel.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.370626,
-                        51.035242
-                  ]
-            },
-            {
-                  "name": "Fort des Dunes",
-                  "text": "1878-ban épült föld alatti erődítmény a kikötő védelmére, 1940-ben súlyos harcok helyszíne volt.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        2.444498,
-                        51.053975
-                  ]
-            },
-            {
-                  "name": "Szoborkert",
-                  "text": "A LAAC-ot körülvevő szabadtéri galéria, amely monumentális modern szobrokat mutat be zöld környezetben.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.373532,
-                        51.034355
-                  ]
-            },
-            {
-                  "name": "Dunkerque vasútállomás",
-                  "text": "A város főpályaudvara, amelyet a háború után újjáépítettek, és ma TGV-összeköttetést biztosít.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        2.36876,
-                        51.03038
-                  ]
-            },
-            {
-                  "name": "Kursaal",
-                  "text": "A város kongresszusi palotája, amely fontos kulturális eseményeknek ad otthont a tengerparton.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.38839,
-                        51.049117
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Beffroi de Dunkerque",
-                  "text": "Turnul cu clopotniță din secolul al XV-lea, inclus în patrimoniul UNESCO, oferă o panoramă superbă asupra mării și orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.37619,
-                        51.035612
-                  ]
-            },
-            {
-                  "name": "Musée Portuaire",
-                  "text": "Situat într-un depozit vechi de tutun, acest muzeu ilustrează istoria maritimă și vizitarea navelor istorice ancorate.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.37168,
-                        51.0379
-                  ]
-            },
-            {
-                  "name": "Église Saint-Éloi",
-                  "text": "O biserică impunătoare din secolul al XVI-lea construită din cărămidă, martoră a istoriei zbuciumate a orașului.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.377177,
-                        51.035607
-                  ]
-            },
-            {
-                  "name": "Mémorial du Souvenir",
-                  "text": "Un muzeu dedicat Bătăliei de la Dunkerque și Operațiunii Dynamo din 1940, esențial pentru înțelegerea celui de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.381111,
-                        51.046111
-                  ]
-            },
-            {
-                  "name": "Plage de Malo-les-Bains",
-                  "text": "O plajă imensă de nisip mărginită de vile colorate din epoca Belle Époque și numeroase restaurante primitoare.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.41333,
-                        51.0556
-                  ]
-            },
-            {
-                  "name": "Phare du Risban",
-                  "text": "Farul orașului, cu o înălțime de 63 de metri, este un monument istoric ce ghidează navele spre unul dintre cele mai mari porturi.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.364167,
-                        51.048889
-                  ]
-            },
-            {
-                  "name": "LAAC",
-                  "text": "Muzeu de artă modernă situat într-un parc lângă mare, prezentând lucrări din anii 1950 până în 1980.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.38253,
-                        51.0461
-                  ]
-            },
-            {
-                  "name": "FRAC Grand Large",
-                  "text": "Centru de artă contemporană găzduit într-o clădire de sticlă impresionantă, fost atelier naval.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.380949,
-                        51.046989
-                  ]
-            },
-            {
-                  "name": "Primăria Dunkerque",
-                  "text": "Primăria în stil neoflamand inaugurată în 1901, renumită pentru fațada sa și vitralii.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        2.376755,
-                        51.037662
-                  ]
-            },
-            {
-                  "name": "Turnul Leughenaer",
-                  "text": "Cel mai vechi monument din oraș, acest turn octogonal datează din 1405 și a servit drept far.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.378569,
-                        51.040157
-                  ]
-            },
-            {
-                  "name": "Muzeul Operațiunii Dynamo",
-                  "text": "Muzeu de istorie situat în Bastionul 32, dedicat evacuării trupelor aliate în anul 1940.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.381435,
-                        51.046048
-                  ]
-            },
-            {
-                  "name": "Princess Elizabeth",
-                  "text": "Vapor cu roți autentic folosit în timpul Operațiunii Dynamo, acum ancorat și servind drept restaurant.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.370626,
-                        51.035242
-                  ]
-            },
-            {
-                  "name": "Fort des Dunes",
-                  "text": "Fortificație subterană construită în 1878 pentru protejarea portului, locul unor lupte grele în 1940.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        2.444498,
-                        51.053975
-                  ]
-            },
-            {
-                  "name": "Grădina de Sculpturi",
-                  "text": "Galerie în aer liber care înconjoară LAAC, prezentând sculpturi moderne monumentale într-un cadru verde.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.373532,
-                        51.034355
-                  ]
-            },
-            {
-                  "name": "Gara Dunkerque",
-                  "text": "Gara principală a orașului, reconstruită în stil modern după război, deservind trenurile TGV.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        2.36876,
-                        51.03038
-                  ]
-            },
-            {
-                  "name": "Kursaal",
-                  "text": "Palatul Congreselor din oraș, un centru cultural important pentru evenimente, situat pe malul mării.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.38839,
-                        51.049117
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dunkirk Belfry",
-                  "text": "This 15th-century brick tower is part of a UNESCO World Heritage site and offers grand views of the harbor and North Sea.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.37619,
-                        51.035612
-                  ]
-            },
-            {
-                  "name": "Port Museum",
-                  "text": "Set in a former tobacco warehouse, this museum showcases the city's seafaring heritage and features historic ships to visit.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.37168,
-                        51.0379
-                  ]
-            },
-            {
-                  "name": "Saint-Eloi Church",
-                  "text": "A massive 16th-century Gothic brick church, often called the 'Cathedral of the Sands' due to its proximity to the coast.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.377177,
-                        51.035607
-                  ]
-            },
-            {
-                  "name": "Memorial of the Souvenir",
-                  "text": "A museum dedicated to 'Operation Dynamo' in 1940, telling the dramatic story of the evacuation of Allied troops.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.381111,
-                        51.046111
-                  ]
-            },
-            {
-                  "name": "Malo-les-Bains Beach",
-                  "text": "A wide sandy beach famous for its Belle Époque villas and its lively promenade lined with cafes and ice cream parlors.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.41333,
-                        51.0556
-                  ]
-            },
-            {
-                  "name": "Risban Lighthouse",
-                  "text": "Standing 63 meters tall, this historic lighthouse built in 1843 guides vessels into the bustling port of Dunkirk.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.364167,
-                        51.048889
-                  ]
-            },
-            {
-                  "name": "LAAC",
-                  "text": "Modern art museum located in a park near the sea, featuring works from the 1950s to the 1980s.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.38253,
-                        51.0461
-                  ]
-            },
-            {
-                  "name": "FRAC Grand Large",
-                  "text": "Contemporary art center housed in a striking glass building, a former shipyard workshop.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.380949,
-                        51.046989
-                  ]
-            },
-            {
-                  "name": "Dunkerque Town Hall",
-                  "text": "Neo-Flemish style town hall inaugurated in 1901, famous for its facade and stained glass windows.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        2.376755,
-                        51.037662
-                  ]
-            },
-            {
-                  "name": "Leughenaer Tower",
-                  "text": "The oldest monument in the city, this octagonal tower dates back to 1405 and served as a lighthouse.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.378569,
-                        51.040157
-                  ]
-            },
-            {
-                  "name": "Operation Dynamo Museum",
-                  "text": "History museum located in the Bastion 32, dedicated to the evacuation of Allied troops in 1940.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        2.381435,
-                        51.046048
-                  ]
-            },
-            {
-                  "name": "Princess Elizabeth",
-                  "text": "Authentic paddle steamer used during Operation Dynamo, now docked and serving as a restaurant.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        2.370626,
-                        51.035242
-                  ]
-            },
-            {
-                  "name": "Fort des Dunes",
-                  "text": "Underground fortification built in 1878 to protect the port, site of heavy fighting in 1940.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        2.444498,
-                        51.053975
-                  ]
-            },
-            {
-                  "name": "Sculpture Garden",
-                  "text": "Outdoor gallery surrounding the LAAC, featuring monumental modern sculptures in a green setting.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.373532,
-                        51.034355
-                  ]
-            },
-            {
-                  "name": "Dunkerque Railway Station",
-                  "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        2.36876,
-                        51.03038
-                  ]
-            },
-            {
-                  "name": "Kursaal",
-                  "text": "The city's congress center, a major cultural venue for events and performances right by the beach.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.38839,
-                        51.049117
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Beffroi de Dunkerque",
-                  "text": "Ce beffroi en briques du XVe siècle est classé au patrimoine mondial de l'UNESCO et offre une vue sur le port.",
-                  "category": "historical",
-                  "coords": [
-                        2.37619,
-                        51.035612
-                  ]
-            },
-            {
-                  "name": "Musée Portuaire",
-                  "text": "Installé dans un ancien entrepôt de tabac, il retrace l'histoire du port de Dunkerque et le quotidien des marins.",
-                  "category": "museum",
-                  "coords": [
-                        2.37168,
-                        51.0379
-                  ]
-            },
-            {
-                  "name": "Église Saint-Éloi",
-                  "text": "Une imposante église en briques du XVIe siècle, surnommée la « cathédrale des sables ».",
-                  "category": "religious",
-                  "coords": [
-                        2.377177,
-                        51.035607
-                  ]
-            },
-            {
-                  "name": "Mémorial du Souvenir",
-                  "text": "Musée documentant l'opération Dynamo de 1940 lors de l'évacuation historique des troupes alliées.",
-                  "category": "historical",
-                  "coords": [
-                        2.381111,
-                        51.046111
-                  ]
-            },
-            {
-                  "name": "Plage de Malo-les-Bains",
-                  "text": "Longue plage de sable réputée pour ses villas Belle Époque et sa digue ponctuée de nombreux cafés.",
-                  "category": "recreational",
-                  "coords": [
-                        2.41333,
-                        51.0556
-                  ]
-            },
-            {
-                  "name": "Phare du Risban",
-                  "text": "Haut de 63 mètres et construit en 1843, ce phare guide les navires en toute sécurité vers le port de Dunkerque.",
-                  "category": "historical",
-                  "coords": [
-                        2.364167,
-                        51.048889
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Beffroi de Dunkerque", "text": "Dieser Backsteinturm aus dem 15. Jahrhundert gehört zum UNESCO-Weltkulturerbe und bietet einen Blick auf den Hafen.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Ein Museum in einem ehemaligen Tabaklager, das die Geschichte des Hafens von Dünkirchen und das Leben der Seeleute zeigt.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Eine imposante Backsteinkirche aus dem 16. Jahrhundert, die als „Kathedrale des Sandes“ bekannt ist.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Dieses Museum dokumentiert die dramatische „Operation Dynamo“ von 1940 während der Evakuierung der alliierten Truppen.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "In Dunkerque lädt dieser lange Sandstrand mit seiner charmanten Belle-Époque-Architektur zum Verweilen ein. Die angrenzende Promenade lockt mit zahlreichen Cafés und einer entspannten Atmosphäre. Hier lassen sich gemütliche Nachmittage beim Sonnenbaden oder Flanieren verbringen. Ein früher Spaziergang am Morgen bietet besondere Ruhe.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Der 1843 erbaute Leuchtturm ist 63 Meter hoch und leitet die Schiffe sicher in den Hafen von Dünkirchen.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Museum für moderne Kunst in einem Park am Meer, mit Werken aus den 1950er bis 1980er Jahren.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Zentrum für zeitgenössische Kunst in einem markanten Glasgebäude, einer ehemaligen Werftwerkstatt.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Hôtel de Ville de Dunkerque", "text": "Rathaus im neoflämischen Stil, eingeweiht 1901, bekannt für seine prächtige Fassade und Buntglasfenster.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Tour du Leughenaer", "text": "Das älteste Denkmal der Stadt, dieser achteckige Turm stammt aus dem Jahr 1405 und diente als Leuchtturm.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Musée de l'Opération Dynamo", "text": "Geschichtsmuseum in der Bastion 32, gewidmet der Evakuierung der alliierten Truppen im Jahr 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Authentischer Schaufelraddampfer, der während der Operation Dynamo eingesetzt wurde, heute ein Restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Unterirdische Befestigungsanlage von 1878 zum Schutz des Hafens, Schauplatz schwerer Kämpfe im Jahr 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Jardin des Sculptures", "text": "Freiluftgalerie rund um das LAAC mit monumentalen modernen Skulpturen in einer grünen Parklandschaft.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Gare de Dunkerque", "text": "Hauptbahnhof der Stadt, der nach dem Krieg im modernen Stil wiederaufgebaut wurde und den TGV bedient.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "Das Palais des Congrès der Stadt, ein wichtiges kulturelles Zentrum für Veranstaltungen direkt am Meer.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque ist ein Wildpark, in dem Familien etwas über die Artenvielfalt lernen und verschiedene Tiere sehen können.", "category": "family", "coords": [2.309729, 51.029878]}], "hu": [{"name": "Beffroi de Dunkerque", "text": "A 15. századi harangtorony az UNESCO Világörökség része, tetejéről lenyűgöző panoráma nyílik a városra és az Északi-tengerre.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "A kikötői múzeum egy régi dohányraktárban kapott helyet, és a város tengeri kereskedelmét és hajózási múltját mutatja be.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Egy hatalmas gótikus téglaépület a 16. századból, amelyet a helyiek gyakran a homok katedrálisaként emlegetnek.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "A múzeum az 1940-es Dynamo-hadműveletnek állít emléket, amikor a szövetséges csapatokat kimentették a tengerpartról.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "Dunkerque-ben ez a hosszú homokos tengerpart elbűvölő Belle-Époque építészetével hívogat. A szomszédos sétány számos kávézóval és nyugodt légkörrel várja a vendégeket. Kellemes délutánokat tölthetünk itt napozással vagy sétálgatással. Egy kora reggeli séta különleges nyugalmat kínál.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "A 63 méter magas világítótorony 1843 óta segíti a hajók navigálását Dunkerque fontos kikötőjének bejáratánál.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Modern művészeti múzeum egy tengerparti parkban, az 1950-es és 1980-as évek közötti művekkel.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Kortárs művészeti központ egy látványos üvegépületben, amely egykori hajógyári műhely volt.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Dunkerque-i városháza", "text": "1901-ben felavatott neoflamand stílusú városháza, amely homlokzatáról és üvegablakairól híres.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Leughenaer-torony", "text": "A város legrégebbi műemléke, ez a nyolcszögletű torony 1405-ből származik, és világítótoronyként szolgált.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Dinamó hadművelet múzeuma", "text": "A 32-es bástyában található történelmi múzeum, amely a szövetséges csapatok 1940-es evakuálásának állít emléket.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Az Operation Dynamo során használt eredeti lapátkerekes gőzhajó, amely ma étteremként üzemel.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "1878-ban épült föld alatti erődítmény a kikötő védelmére, 1940-ben súlyos harcok helyszíne volt.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Szoborkert", "text": "A LAAC-ot körülvevő szabadtéri galéria, amely monumentális modern szobrokat mutat be zöld környezetben.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Dunkerque vasútállomás", "text": "A város főpályaudvara, amelyet a háború után újjáépítettek, és ma TGV-összeköttetést biztosít.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "A város kongresszusi palotája, amely fontos kulturális eseményeknek ad otthont a tengerparton.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "A Bio-Topia Dunkerque egy vadaspark, ahol a családok tanulhatnak a biodiverzitásról és különféle állatokat láthatnak.", "category": "family", "coords": [2.309729, 51.029878]}], "ro": [{"name": "Beffroi de Dunkerque", "text": "Turnul cu clopotniță din secolul al XV-lea, inclus în patrimoniul UNESCO, oferă o panoramă superbă asupra mării și orașului.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Situat într-un depozit vechi de tutun, acest muzeu ilustrează istoria maritimă și vizitarea navelor istorice ancorate.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "O biserică impunătoare din secolul al XVI-lea construită din cărămidă, martoră a istoriei zbuciumate a orașului.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Un muzeu dedicat Bătăliei de la Dunkerque și Operațiunii Dynamo din 1940, esențial pentru înțelegerea celui de-al Doilea Război Mondial.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "În Dunkerque, această lungă plajă de nisip atrage prin arhitectura sa fermecătoare din perioada Belle-Époque. Promenada adiacentă este plină de cafenele și oferă o atmosferă relaxată. Aici se pot petrece după-amiezi plăcute la soare sau la plimbare. O plimbare dis-de-dimineață oferă o liniște deosebită.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Farul orașului, cu o înălțime de 63 de metri, este un monument istoric ce ghidează navele spre unul dintre cele mai mari porturi.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Muzeu de artă modernă situat într-un parc lângă mare, prezentând lucrări din anii 1950 până în 1980.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Centru de artă contemporană găzduit într-o clădire de sticlă impresionantă, fost atelier naval.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Primăria Dunkerque", "text": "Primăria în stil neoflamand inaugurată în 1901, renumită pentru fațada sa și vitralii.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Turnul Leughenaer", "text": "Cel mai vechi monument din oraș, acest turn octogonal datează din 1405 și a servit drept far.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Muzeul Operațiunii Dynamo", "text": "Muzeu de istorie situat în Bastionul 32, dedicat evacuării trupelor aliate în anul 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Vapor cu roți autentic folosit în timpul Operațiunii Dynamo, acum ancorat și servind drept restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Fortificație subterană construită în 1878 pentru protejarea portului, locul unor lupte grele în 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Grădina de Sculpturi", "text": "Galerie în aer liber care înconjoară LAAC, prezentând sculpturi moderne monumentale într-un cadru verde.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Gara Dunkerque", "text": "Gara principală a orașului, reconstruită în stil modern după război, deservind trenurile TGV.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "Palatul Congreselor din oraș, un centru cultural important pentru evenimente, situat pe malul mării.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque este un parc cu animale sălbatice unde familiile pot învăța despre biodiversitate și pot vedea diverse animale.", "category": "family", "coords": [2.309729, 51.029878]}], "en": [{"name": "Dunkirk Belfry", "text": "This 15th-century brick tower is part of a UNESCO World Heritage site and offers grand views of the harbor and North Sea.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Port Museum", "text": "Set in a former tobacco warehouse, this museum showcases the city's seafaring heritage and features historic ships to visit.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Saint-Eloi Church", "text": "A massive 16th-century Gothic brick church, often called the 'Cathedral of the Sands' due to its proximity to the coast.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Memorial of the Souvenir", "text": "A museum dedicated to 'Operation Dynamo' in 1940, telling the dramatic story of the evacuation of Allied troops.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Malo-les-Bains Beach", "text": "Situated in Dunkerque, this long sandy beach charms visitors with its Belle-Époque villas. The nearby promenade is bustling with numerous cafes and a relaxed atmosphere. It is the perfect place for a leisurely afternoon of sunbathing or strolling. Arriving early in the morning guarantees a peaceful experience.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Risban Lighthouse", "text": "Standing 63 meters tall, this historic lighthouse built in 1843 guides vessels into the bustling port of Dunkirk.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Modern art museum located in a park near the sea, featuring works from the 1950s to the 1980s.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Contemporary art center housed in a striking glass building, a former shipyard workshop.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Dunkerque Town Hall", "text": "Neo-Flemish style town hall inaugurated in 1901, famous for its facade and stained glass windows.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Leughenaer Tower", "text": "The oldest monument in the city, this octagonal tower dates back to 1405 and served as a lighthouse.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Operation Dynamo Museum", "text": "History museum located in the Bastion 32, dedicated to the evacuation of Allied troops in 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Authentic paddle steamer used during Operation Dynamo, now docked and serving as a restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Underground fortification built in 1878 to protect the port, site of heavy fighting in 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Sculpture Garden", "text": "Outdoor gallery surrounding the LAAC, featuring monumental modern sculptures in a green setting.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Dunkerque Railway Station", "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "The city's congress center, a major cultural venue for events and performances right by the beach.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque is a wildlife park where families can learn about biodiversity and see various animals.", "category": "family", "coords": [2.309729, 51.029878]}], "fr": [{"name": "Beffroi de Dunkerque", "text": "Ce beffroi en briques du XVe siècle est classé au patrimoine mondial de l'UNESCO et offre une vue sur le port.", "category": "historical", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Installé dans un ancien entrepôt de tabac, il retrace l'histoire du port de Dunkerque et le quotidien des marins.", "category": "museum", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Une imposante église en briques du XVIe siècle, surnommée la « cathédrale des sables ».", "category": "religious", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Musée documentant l'opération Dynamo de 1940 lors de l'évacuation historique des troupes alliées.", "category": "historical", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "À Dunkerque, cette longue plage de sable séduit par son architecture Belle-Époque. La promenade adjacente regorge de cafés et offre une atmosphère détendue. On peut y passer d'agréables après-midis à bronzer ou à se promener. Une promenade tôt le matin offre une tranquillité particulière.", "category": "recreational", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Haut de 63 mètres et construit en 1843, ce phare guide les navires en toute sécurité vers le port de Dunkerque.", "category": "historical", "coords": [2.364167, 51.048889]}]}
   },
   {
     id: "la-rochelle", population: 79961,
@@ -19961,6 +20277,15 @@ const citySeeds: CitySeed[] = [
                         -1.17916,
                         46.1379
                   ]
+            },
+            {
+                  "name": "Parc Animalier Charles-Édouard Beltremieux",
+                  "text": "Der Parc Animalier Charles-Édouard Beltremieux ist ein Zoo in La Rochelle. Ideal für tierliebe Familien.",
+                  "category": "family",
+                  "coords": [
+                        -1.161187,
+                        46.157494
+                  ]
             }
       ],
       "hu": [
@@ -20092,6 +20417,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.17916,
                         46.1379
+                  ]
+            },
+            {
+                  "name": "Parc Animalier Charles-Édouard Beltremieux",
+                  "text": "A Parc Animalier Charles-Édouard Beltremieux egy állatkert La Rochelle-ben. Ideális állatbarát családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -1.161187,
+                        46.157494
                   ]
             }
       ],
@@ -20225,6 +20559,15 @@ const citySeeds: CitySeed[] = [
                         -1.17916,
                         46.1379
                   ]
+            },
+            {
+                  "name": "Parc Animalier Charles-Édouard Beltremieux",
+                  "text": "Parc Animalier Charles-Édouard Beltremieux este o grădină zoologică în La Rochelle. Ideală pentru familiile iubitoare de animale.",
+                  "category": "family",
+                  "coords": [
+                        -1.161187,
+                        46.157494
+                  ]
             }
       ],
       "en": [
@@ -20357,6 +20700,15 @@ const citySeeds: CitySeed[] = [
                         -1.17916,
                         46.1379
                   ]
+            },
+            {
+                  "name": "Parc Animalier Charles-Édouard Beltremieux",
+                  "text": "The Parc Animalier Charles-Édouard Beltremieux is a zoo in La Rochelle. Ideal for animal-loving families.",
+                  "category": "family",
+                  "coords": [
+                        -1.161187,
+                        46.157494
+                  ]
             }
       ],
       "fr": [
@@ -20459,1009 +20811,7 @@ const citySeeds: CitySeed[] = [
       fr: ["La pratique du surf a été introduite dans la ville en 1957.", "L'Hôtel du Palais fut édifié en 1854 pour servir de résidence à l'impératrice Eugénie.", "Le phare de Biarritz a été construit en 1834.", "La passerelle menant au Rocher de la Vierge fut achevée en 1887.", "L'aquarium de la ville a ouvert ses portes en 1933.", "La cité se trouve à seulement 18 kilomètres de la frontière espagnole."],
     },
     image: "/poi-images/biarritz.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Rocher de la Vierge",
-                  "text": "Ein markanter Felsen im Meer, der über eine von Gustave Eiffel entworfene Brücke erreichbar ist und eine Statue der Jungfrau Maria trägt.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.57032,
-                        43.4841
-                  ]
-            },
-            {
-                  "name": "Phare de Biarritz",
-                  "text": "Dieser 73 Meter hohe Leuchtturm bietet nach dem Aufstieg von 248 Stufen einen atemberaubenden Ausblick auf die baskische Küste.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.55389,
-                        43.4939
-                  ]
-            },
-            {
-                  "name": "Aquarium de Biarritz",
-                  "text": "Ein Art-déco-Gebäude direkt am Meer, das eine reiche Sammlung an Meereslebewesen und ein beliebtes Robbenaquarium beherbergt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5675,
-                        43.4833
-                  ]
-            },
-            {
-                  "name": "Villa Belza",
-                  "text": "Diese ikonische Villa auf einem Felsvorsprung zwischen zwei Stränden ist für ihre geheimnisvolle Architektur und Lage bekannt.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568982,
-                        43.481652
-                  ]
-            },
-            {
-                  "name": "Côte des Basques",
-                  "text": "Dieser berühmte Strand gilt als Geburtsort des Surfens in Europa und ist von beeindruckenden Klippen und Villen umgeben.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568556,
-                        43.474897
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Eugénie",
-                  "text": "Eine neugotische Kirche aus grauem Stein, die den Hafen überragt und für ihre schönen Glasfenster und die Meeresatmosphäre bekannt ist.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.56467,
-                        43.4828
-                  ]
-            },
-            {
-                  "name": "Casino Barrière",
-                  "text": "Ein prachtvolles Casino im Art-déco-Stil direkt an der Grande Plage, das das goldene Zeitalter von Biarritz als Kurort widerspiegelt.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.559328,
-                        43.483818
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Chambre d'Amour",
-                  "text": "Plage de la Petite Chambre d'Amour ist ein bekannter Strand an der Küste von Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.546575,
-                        43.495771
-                  ]
-            },
-            {
-                  "name": "Erretegia",
-                  "text": "Erretegia ist ein Küstenstrand in der Gemeinde Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.589778,
-                        43.446632
-                  ]
-            },
-            {
-                  "name": "Pavillon Royal",
-                  "text": "Pavillon Royal ist ein lokaler Strand in der Stadt Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.583864,
-                        43.453637
-                  ]
-            },
-            {
-                  "name": "Plage du Miramar",
-                  "text": "Plage du Miramar ist ein Badestrand am Meer in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.553047,
-                        43.491056
-                  ]
-            },
-            {
-                  "name": "Plage de la Milady",
-                  "text": "Plage de la Milady ist ein Strand in der Küstenstadt Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.575638,
-                        43.464193
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage ist ein großer und prominenter Strand in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.559198,
-                        43.485323
-                  ]
-            },
-            {
-                  "name": "Plage des Sables d'Or",
-                  "text": "Plage des Sables d'Or ist ein Sandstrand an der Küste von Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.541876,
-                        43.501621
-                  ]
-            },
-            {
-                  "name": "Plage du Club",
-                  "text": "Plage du Club ist ein Strand in der Stadt Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.543956,
-                        43.499284
-                  ]
-            },
-            {
-                  "name": "Plage de l'Océan",
-                  "text": "Plage de l'Océan ist ein Strand in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.531906,
-                        43.514364
-                  ]
-            },
-            {
-                  "name": "Plage de Marinella",
-                  "text": "Plage de Marinella ist ein Strandziel in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53961,
-                        43.504404
-                  ]
-            },
-            {
-                  "name": "Plage de la Barre",
-                  "text": "Plage de la Barre ist ein lokaler Strand in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.52421,
-                        43.525953
-                  ]
-            },
-            {
-                  "name": "Plage de la Marbellla",
-                  "text": "Plage de la Marbellla ist ein öffentlicher Strand in der Stadt Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.573516,
-                        43.467821
-                  ]
-            },
-            {
-                  "name": "Ilbarritz",
-                  "text": "Ilbarritz ist ein anerkannter Küstenstrand in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.579541,
-                        43.459197
-                  ]
-            },
-            {
-                  "name": "Plages des Dunes",
-                  "text": "Plages des Dunes ist ein Küstenstrandbereich in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.528976,
-                        43.517939
-                  ]
-            },
-            {
-                  "name": "Plages de la Madrague",
-                  "text": "Plages de la Madrague ist ein Strandabschnitt in der Stadt Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.534015,
-                        43.511738
-                  ]
-            },
-            {
-                  "name": "Plages des Cavaliers",
-                  "text": "Plages des Cavaliers ist ein Strandbereich in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.526627,
-                        43.522052
-                  ]
-            },
-            {
-                  "name": "Plages de la Petite Madrague",
-                  "text": "Plages de la Petite Madrague ist ein Strandabschnitt in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.535599,
-                        43.509795
-                  ]
-            },
-            {
-                  "name": "Plage des Corsaires",
-                  "text": "Plage des Corsaires ist ein Küstenort mit einem Strand in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53749,
-                        43.507449
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Rocher de la Vierge",
-                  "text": "A tengerben álló jellegzetes szikla, amely egy Gustave Eiffel által tervezett hídon érhető el, tetején Szűz Mária szobrával.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.57032,
-                        43.4841
-                  ]
-            },
-            {
-                  "name": "Phare de Biarritz",
-                  "text": "A 73 méter magas világítótoronyból 248 lépcső megtétele után lélegzetelállító kilátás nyílik a baszk partvidékre és az óceánra.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.55389,
-                        43.4939
-                  ]
-            },
-            {
-                  "name": "Aquarium de Biarritz",
-                  "text": "Közvetlenül az óceán partján fekvő Art Deco épület, amely gazdag tengeri élővilágot és népszerű fóka-bemutatókat kínál.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5675,
-                        43.4833
-                  ]
-            },
-            {
-                  "name": "Villa Belza",
-                  "text": "Ez az ikonikus villa egy sziklafalon áll két strand között, titokzatos építészetéről és drámai fekvéséről ismert jelképe a városnak.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568982,
-                        43.481652
-                  ]
-            },
-            {
-                  "name": "Côte des Basques",
-                  "text": "A szörfözés európai bölcsőjeként ismert híres strand, amelyet lenyűgöző sziklák és elegáns villák vesznek körül.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568556,
-                        43.474897
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Eugénie",
-                  "text": "Szürke kőből épült neogótikus templom, amely a kikötő felett magasodik, gyönyörű ólomüveg ablakairól és tengeri hangulatáról ismert.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.56467,
-                        43.4828
-                  ]
-            },
-            {
-                  "name": "Casino Barrière",
-                  "text": "Közvetlenül a Grande Plage parton található pompás Art Deco kaszinó, amely Biarritz fürdővárosi aranykorát idézi.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.559328,
-                        43.483818
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Chambre d'Amour",
-                  "text": "A Plage de la Petite Chambre d'Amour egy ismert strand Anglet partvidékén.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.546575,
-                        43.495771
-                  ]
-            },
-            {
-                  "name": "Erretegia",
-                  "text": "Az Erretegia egy tengerparti strand Anglet önkormányzatában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.589778,
-                        43.446632
-                  ]
-            },
-            {
-                  "name": "Pavillon Royal",
-                  "text": "A Pavillon Royal egy strandterület Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.583864,
-                        43.453637
-                  ]
-            },
-            {
-                  "name": "Plage du Miramar",
-                  "text": "A Plage du Miramar egy tengerparti strand Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.553047,
-                        43.491056
-                  ]
-            },
-            {
-                  "name": "Plage de la Milady",
-                  "text": "A Plage de la Milady egy strand Anglet tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.575638,
-                        43.464193
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "A Grande Plage egy nagy és jelentős strand Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.559198,
-                        43.485323
-                  ]
-            },
-            {
-                  "name": "Plage des Sables d'Or",
-                  "text": "A Plage des Sables d'Or egy homokos strand Anglet partvidékén.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.541876,
-                        43.501621
-                  ]
-            },
-            {
-                  "name": "Plage du Club",
-                  "text": "A Plage du Club egy strand Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.543956,
-                        43.499284
-                  ]
-            },
-            {
-                  "name": "Plage de l'Océan",
-                  "text": "A Plage de l'Océan egy strand Anglet-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.531906,
-                        43.514364
-                  ]
-            },
-            {
-                  "name": "Plage de Marinella",
-                  "text": "A Plage de Marinella egy strand úti cél Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53961,
-                        43.504404
-                  ]
-            },
-            {
-                  "name": "Plage de la Barre",
-                  "text": "A Plage de la Barre egy helyi strand Anglet-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.52421,
-                        43.525953
-                  ]
-            },
-            {
-                  "name": "Plage de la Marbellla",
-                  "text": "A Plage de la Marbellla egy nyilvános strand Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.573516,
-                        43.467821
-                  ]
-            },
-            {
-                  "name": "Ilbarritz",
-                  "text": "Az Ilbarritz egy elismert tengerparti strand Anglet-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.579541,
-                        43.459197
-                  ]
-            },
-            {
-                  "name": "Plages des Dunes",
-                  "text": "A Plages des Dunes egy tengerparti strandterület Anglet-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.528976,
-                        43.517939
-                  ]
-            },
-            {
-                  "name": "Plages de la Madrague",
-                  "text": "A Plages de la Madrague egy strandrész Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.534015,
-                        43.511738
-                  ]
-            },
-            {
-                  "name": "Plages des Cavaliers",
-                  "text": "A Plages des Cavaliers egy strandterület Anglet-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.526627,
-                        43.522052
-                  ]
-            },
-            {
-                  "name": "Plages de la Petite Madrague",
-                  "text": "A Plages de la Petite Madrague egy partszakasz Anglet városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.535599,
-                        43.509795
-                  ]
-            },
-            {
-                  "name": "Plage des Corsaires",
-                  "text": "A Plage des Corsaires egy tengerparti helyszín Anglet-ben, amely egy stranddal rendelkezik.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53749,
-                        43.507449
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Rocher de la Vierge",
-                  "text": "O stâncă emblematică în mare, accesibilă printr-un pod proiectat de Gustave Eiffel, purtând în vârf o statuie a Fecioarei Maria.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.57032,
-                        43.4841
-                  ]
-            },
-            {
-                  "name": "Phare de Biarritz",
-                  "text": "Acest far cu o înălțime de 73 de metri oferă o panoramă spectaculoasă asupra coastei basce după urcarea celor 248 de trepte.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.55389,
-                        43.4939
-                  ]
-            },
-            {
-                  "name": "Aquarium de Biarritz",
-                  "text": "O clădire în stil Art Deco situată chiar pe malul oceanului, care adăpostește o colecție bogată de faună marină și foci jucăușe.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5675,
-                        43.4833
-                  ]
-            },
-            {
-                  "name": "Villa Belza",
-                  "text": "Această vilă iconică situată pe o stâncă între două plaje este celebră pentru arhitectura sa misterioasă și poziția sa dramatică.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568982,
-                        43.481652
-                  ]
-            },
-            {
-                  "name": "Côte des Basques",
-                  "text": "Cunoscută drept locul de naștere al surfului în Europa, această plajă celebră este înconjurată de stânci impresionante și vile elegante.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568556,
-                        43.474897
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Eugénie",
-                  "text": "O biserică neogotică din piatră gri care domină portul, renumită pentru vitraliile sale superbe și atmosfera sa solemnă.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.56467,
-                        43.4828
-                  ]
-            },
-            {
-                  "name": "Casino Barrière",
-                  "text": "Un cazinou splendid în stil Art Deco situat pe Grande Plage, reflectând epoca de aur a orașului Biarritz ca stațiune balneară de lux.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.559328,
-                        43.483818
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Chambre d'Amour",
-                  "text": "Plage de la Petite Chambre d'Amour este o plajă cunoscută de-a lungul coastei din Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.546575,
-                        43.495771
-                  ]
-            },
-            {
-                  "name": "Erretegia",
-                  "text": "Erretegia este o plajă de coastă situată în municipalitatea Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.589778,
-                        43.446632
-                  ]
-            },
-            {
-                  "name": "Pavillon Royal",
-                  "text": "Pavillon Royal este o zonă de plajă situată în orașul Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.583864,
-                        43.453637
-                  ]
-            },
-            {
-                  "name": "Plage du Miramar",
-                  "text": "Plage du Miramar este o plajă la malul mării situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.553047,
-                        43.491056
-                  ]
-            },
-            {
-                  "name": "Plage de la Milady",
-                  "text": "Plage de la Milady este o plajă situată în orașul de coastă Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.575638,
-                        43.464193
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage este o plajă mare și importantă situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.559198,
-                        43.485323
-                  ]
-            },
-            {
-                  "name": "Plage des Sables d'Or",
-                  "text": "Plage des Sables d'Or este o plajă locală situată pe coasta din Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.541876,
-                        43.501621
-                  ]
-            },
-            {
-                  "name": "Plage du Club",
-                  "text": "Plage du Club este o plajă situată în orașul Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.543956,
-                        43.499284
-                  ]
-            },
-            {
-                  "name": "Plage de l'Océan",
-                  "text": "Plage de l'Océan este o plajă situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.531906,
-                        43.514364
-                  ]
-            },
-            {
-                  "name": "Plage de Marinella",
-                  "text": "Plage de Marinella este o destinație de plajă din orașul Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53961,
-                        43.504404
-                  ]
-            },
-            {
-                  "name": "Plage de la Barre",
-                  "text": "Plage de la Barre este o plajă locală în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.52421,
-                        43.525953
-                  ]
-            },
-            {
-                  "name": "Plage de la Marbellla",
-                  "text": "Plage de la Marbellla este o plajă publică în orașul Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.573516,
-                        43.467821
-                  ]
-            },
-            {
-                  "name": "Ilbarritz",
-                  "text": "Ilbarritz este o plajă de coastă recunoscută, situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.579541,
-                        43.459197
-                  ]
-            },
-            {
-                  "name": "Plages des Dunes",
-                  "text": "Plages des Dunes este o zonă de plajă de coastă în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.528976,
-                        43.517939
-                  ]
-            },
-            {
-                  "name": "Plages de la Madrague",
-                  "text": "Plages de la Madrague este o zonă de plajă din orașul Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.534015,
-                        43.511738
-                  ]
-            },
-            {
-                  "name": "Plages des Cavaliers",
-                  "text": "Plages des Cavaliers este o zonă de plajă situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.526627,
-                        43.522052
-                  ]
-            },
-            {
-                  "name": "Plages de la Petite Madrague",
-                  "text": "Plages de la Petite Madrague este o porțiune de plajă situată în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.535599,
-                        43.509795
-                  ]
-            },
-            {
-                  "name": "Plage des Corsaires",
-                  "text": "Plage des Corsaires este un loc de coastă care oferă o plajă în Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53749,
-                        43.507449
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Rocher de la Vierge",
-                  "text": "An iconic rock formation in the sea, reachable via a bridge designed by Gustave Eiffel and topped with a statue of the Virgin Mary.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.57032,
-                        43.4841
-                  ]
-            },
-            {
-                  "name": "Phare de Biarritz",
-                  "text": "This 73-meter-high lighthouse offers breathtaking views of the Basque coast after a climb of 248 steps to the top gallery.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.55389,
-                        43.4939
-                  ]
-            },
-            {
-                  "name": "Aquarium de Biarritz",
-                  "text": "An Art Deco building right on the seafront, housing a diverse collection of marine life and a popular seal enclosure.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5675,
-                        43.4833
-                  ]
-            },
-            {
-                  "name": "Villa Belza",
-                  "text": "This iconic villa perched on a rocky outcrop between two beaches is famous for its mysterious architecture and dramatic location.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568982,
-                        43.481652
-                  ]
-            },
-            {
-                  "name": "Côte des Basques",
-                  "text": "Known as the birthplace of surfing in Europe, this famous beach is framed by impressive cliffs and elegant 19th-century villas.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.568556,
-                        43.474897
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Eugénie",
-                  "text": "A Neo-Gothic grey stone church overlooking the harbor, known for its beautiful stained glass windows and maritime atmosphere.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.56467,
-                        43.4828
-                  ]
-            },
-            {
-                  "name": "Casino Barrière",
-                  "text": "A magnificent Art Deco casino located directly on the Grande Plage, reflecting Biarritz's golden age as a luxury resort town.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.559328,
-                        43.483818
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Chambre d'Amour",
-                  "text": "Plage de la Petite Chambre d'Amour is a well-known beach located along the coast of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.546575,
-                        43.495771
-                  ]
-            },
-            {
-                  "name": "Erretegia",
-                  "text": "Erretegia is a coastal beach located in the municipality of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.589778,
-                        43.446632
-                  ]
-            },
-            {
-                  "name": "Pavillon Royal",
-                  "text": "Pavillon Royal is a beach area situated in the town of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.583864,
-                        43.453637
-                  ]
-            },
-            {
-                  "name": "Plage du Miramar",
-                  "text": "Plage du Miramar is a seaside beach located in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.553047,
-                        43.491056
-                  ]
-            },
-            {
-                  "name": "Plage de la Milady",
-                  "text": "Plage de la Milady is a beach located in the coastal city of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.575638,
-                        43.464193
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage is a large and prominent beach situated in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.559198,
-                        43.485323
-                  ]
-            },
-            {
-                  "name": "Plage des Sables d'Or",
-                  "text": "Plage des Sables d'Or is a local beach situated on the coast of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.541876,
-                        43.501621
-                  ]
-            },
-            {
-                  "name": "Plage du Club",
-                  "text": "Plage du Club is a beach situated in the city of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.543956,
-                        43.499284
-                  ]
-            },
-            {
-                  "name": "Plage de l'Océan",
-                  "text": "Plage de l'Océan is a beach located in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.531906,
-                        43.514364
-                  ]
-            },
-            {
-                  "name": "Plage de Marinella",
-                  "text": "Plage de Marinella is a beach destination in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53961,
-                        43.504404
-                  ]
-            },
-            {
-                  "name": "Plage de la Barre",
-                  "text": "Plage de la Barre is a local beach in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.52421,
-                        43.525953
-                  ]
-            },
-            {
-                  "name": "Plage de la Marbellla",
-                  "text": "Plage de la Marbellla is a public beach in the city of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.573516,
-                        43.467821
-                  ]
-            },
-            {
-                  "name": "Ilbarritz",
-                  "text": "Ilbarritz is a recognized coastal beach located in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.579541,
-                        43.459197
-                  ]
-            },
-            {
-                  "name": "Plages des Dunes",
-                  "text": "Plages des Dunes is a coastal beach area in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.528976,
-                        43.517939
-                  ]
-            },
-            {
-                  "name": "Plages de la Madrague",
-                  "text": "Plages de la Madrague is a beachfront location in the city of Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.534015,
-                        43.511738
-                  ]
-            },
-            {
-                  "name": "Plages des Cavaliers",
-                  "text": "Plages des Cavaliers is a beach area situated in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.526627,
-                        43.522052
-                  ]
-            },
-            {
-                  "name": "Plages de la Petite Madrague",
-                  "text": "Plages de la Petite Madrague is a stretch of beach located in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.535599,
-                        43.509795
-                  ]
-            },
-            {
-                  "name": "Plage des Corsaires",
-                  "text": "Plage des Corsaires is a coastal spot featuring a beach in Anglet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.53749,
-                        43.507449
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Rocher de la Vierge",
-                  "text": "Rocher emblématique en mer, accessible par une passerelle signée Gustave Eiffel, portant une statue de la Vierge.",
-                  "category": "natural",
-                  "coords": [
-                        -1.57032,
-                        43.4841
-                  ]
-            },
-            {
-                  "name": "Phare de Biarritz",
-                  "text": "Culminant à 73 mètres, ce phare offre, après 248 marches, une vue spectaculaire sur toute la côte basque.",
-                  "category": "historical",
-                  "coords": [
-                        -1.55389,
-                        43.4939
-                  ]
-            },
-            {
-                  "name": "Aquarium de Biarritz",
-                  "text": "Bâtiment Art déco au bord de l'océan, abritant une riche collection marine et un bassin des phoques très apprécié.",
-                  "category": "museum",
-                  "coords": [
-                        -1.5675,
-                        43.4833
-                  ]
-            },
-            {
-                  "name": "Villa Belza",
-                  "text": "Villa iconique située sur un promontoire entre deux plages, réputée pour son architecture et sa situation mystérieuses.",
-                  "category": "historical",
-                  "coords": [
-                        -1.568982,
-                        43.481652
-                  ]
-            },
-            {
-                  "name": "Côte des Basques",
-                  "text": "Plage célèbre considérée comme le berceau du surf en Europe, entourée de falaises spectaculaires et de villas.",
-                  "category": "natural",
-                  "coords": [
-                        -1.568556,
-                        43.474897
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Eugénie",
-                  "text": "Église néo-gothique dominant le port, réputée pour ses vitraux et son atmosphère tournée vers l'océan.",
-                  "category": "religious",
-                  "coords": [
-                        -1.56467,
-                        43.4828
-                  ]
-            },
-            {
-                  "name": "Casino Barrière",
-                  "text": "Splendide casino Art déco face à la Grande Plage, reflétant l'âge d'or de Biarritz en tant que station balnéaire.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.559328,
-                        43.483818
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Rocher de la Vierge", "text": "Ein markanter Felsen im Meer, der über eine von Gustave Eiffel entworfene Brücke erreichbar ist und eine Statue der Jungfrau Maria trägt.", "category": "natural", "confidence": "high", "coords": [-1.57032, 43.4841]}, {"name": "Phare de Biarritz", "text": "Dieser 73 Meter hohe Leuchtturm bietet nach dem Aufstieg von 248 Stufen einen atemberaubenden Ausblick auf die baskische Küste.", "category": "historical", "confidence": "high", "coords": [-1.55389, 43.4939]}, {"name": "Aquarium de Biarritz", "text": "Ein Art-déco-Gebäude direkt am Meer, das eine reiche Sammlung an Meereslebewesen und ein beliebtes Robbenaquarium beherbergt.", "category": "museum", "confidence": "high", "coords": [-1.5675, 43.4833]}, {"name": "Villa Belza", "text": "Diese ikonische Villa auf einem Felsvorsprung zwischen zwei Stränden ist für ihre geheimnisvolle Architektur und Lage bekannt.", "category": "historical", "confidence": "high", "coords": [-1.568982, 43.481652]}, {"name": "Côte des Basques", "text": "Dieser berühmte Strand gilt als Geburtsort des Surfens in Europa und ist von beeindruckenden Klippen und Villen umgeben.", "category": "natural", "confidence": "high", "coords": [-1.568556, 43.474897]}, {"name": "Église Sainte-Eugénie", "text": "Eine neugotische Kirche aus grauem Stein, die den Hafen überragt und für ihre schönen Glasfenster und die Meeresatmosphäre bekannt ist.", "category": "religious", "confidence": "high", "coords": [-1.56467, 43.4828]}, {"name": "Casino Barrière", "text": "Ein prachtvolles Casino im Art-déco-Stil direkt an der Grande Plage, das das goldene Zeitalter von Biarritz als Kurort widerspiegelt.", "category": "recreational", "confidence": "high", "coords": [-1.559328, 43.483818]}, {"name": "Plage de la Petite Chambre d'Amour", "text": "Bekannt als ein beliebtes Küstenziel in der Gegend von Anglet, liegt dieser Strand in der Nähe von Biarritz. Die Meereskulisse lädt Einheimische und Reisende gleichermaßen ein. Man kann sich auf entspannte Stunden im Sand oder erfrischende Momente am Wasser freuen. Für einen ruhigen Platz empfiehlt sich eine Ankunft am Vormittag.", "category": "recreational", "coords": [-1.546575, 43.495771]}, {"name": "Erretegia", "text": "Erretegia ist ein Küstenstrand in der Gemeinde Anglet.", "category": "recreational", "coords": [-1.589778, 43.446632]}, {"name": "Pavillon Royal", "text": "Pavillon Royal ist ein lokaler Strand in der Stadt Anglet.", "category": "recreational", "coords": [-1.583864, 43.453637]}, {"name": "Plage du Miramar", "text": "Eingebettet in die Küstenlandschaft von Anglet bei Biarritz, bietet dieser Badestrand eine direkte Verbindung zum Meer. Das offene Wasser zieht Besucher an, die das maritime Flair schätzen. Schwimmen und das Genießen der Küstenbrise stehen hier im Vordergrund. An sonnigen Sommertagen ist die Gegend besonders einladend.", "category": "recreational", "coords": [-1.553047, 43.491056]}, {"name": "Plage de la Milady", "text": "Dieser Strand bereichert die Küstenstadt Anglet nahe Biarritz mit seinem Zugang zum Meer. Die Atmosphäre wird von den rhythmischen Wellen und der Weite des Ozeans geprägt. Reisende finden hier Raum für entspannte Aufenthalte am Wasser. Ein Besuch bei Sonnenuntergang bietet oft ein malerisches Panorama.", "category": "recreational", "coords": [-1.575638, 43.464193]}, {"name": "Grande Plage", "text": "Als großer und prominenter Strandabschnitt in Anglet zieht dieser Ort bei Biarritz viele Blicke auf sich. Die großzügige Fläche ermöglicht ein geselliges Miteinander am Ozean. Sonnenanbeter und Meeresliebhaber kommen hier gleichermaßen auf ihre Kosten. Wer das bunte Treiben mag, sollte in der Hauptsaison vorbeischauen.", "category": "recreational", "coords": [-1.559198, 43.485323]}, {"name": "Plage des Sables d'Or", "text": "Sandstrände wie dieser an der Küste von Anglet laden in der Region Biarritz zum Verweilen ein. Der weiche Untergrund und das Rauschen des Meeres schaffen ein beruhigendes Umfeld. Man kann sich auf entspanntes Liegen im Sand oder kleine Uferspaziergänge freuen. Packen Sie am besten ein Picknick für einen schönen Strandtag ein.", "category": "recreational", "coords": [-1.541876, 43.501621]}, {"name": "Plage du Club", "text": "Ein weiterer Anlaufpunkt in der Stadt Anglet ist dieser Strand unweit von Biarritz. Die Umgebung spiegelt den typischen Charme der französischen Atlantikküste wider. Es ist ein passender Ort, um frische Luft zu schnappen und ans Wasser zu gehen. Für einen angenehmen Ausflug empfiehlt es sich, das Wetter im Vorfeld zu prüfen.", "category": "recreational", "coords": [-1.543956, 43.499284]}, {"name": "Plage de l'Océan", "text": "Direkt dem Ozean zugewandt, liegt dieser Strandabschnitt in Anglet bei Biarritz. Das Ambiente ist maritim und lädt dazu ein, die Natur auf sich wirken zu lassen. Entspannte Stunden am Wasser und weite Ausblicke sind hier garantiert. Ein windgeschützter Platz ist an stürmischeren Tagen von Vorteil.", "category": "recreational", "coords": [-1.531906, 43.514364]}, {"name": "Plage de Marinella", "text": "Dieses Strandziel in Anglet, Biarritz, bietet eine schöne Kulisse für Meeresfreunde. Die Küstenatmosphäre lässt den Alltag schnell in Vergessenheit geraten. Ob beim Sonnen oder einem kleinen Spaziergang, die Erholung kommt nicht zu kurz. Nehmen Sie sich Zeit, um die maritime Brise ausgiebig zu genießen.", "category": "recreational", "coords": [-1.53961, 43.504404]}, {"name": "Plage de la Barre", "text": "Als lokaler Strandabschnitt fügt sich dieser Ort gut in das Küstenbild von Anglet ein. In der Nähe von Biarritz gelegen, verspricht er unaufgeregte Stunden am Wasser. Es ist eine solide Wahl für alle, die das Meer ohne weite Wege genießen möchten. An Wochenenden kann ein frühzeitiger Besuch sinnvoll sein.", "category": "recreational", "coords": [-1.52421, 43.525953]}, {"name": "Plage de la Marbellla", "text": "Innerhalb der Stadt Anglet bietet dieser öffentliche Strand freien Zugang zu den Wellen des Atlantiks. Biarritz ist nicht weit, und die Lage zieht unterschiedliche Küstenbesucher an. Der Fokus liegt hier auf einfachen Freuden wie Schwimmen und Ausruhen am Strand. Sonnencreme und ein gutes Buch machen den Ausflug perfekt.", "category": "recreational", "coords": [-1.573516, 43.467821]}, {"name": "Ilbarritz", "text": "Ilbarritz ist ein anerkannter Küstenstrand in Anglet.", "category": "recreational", "coords": [-1.579541, 43.459197]}, {"name": "Plages des Dunes", "text": "Plages des Dunes ist ein Küstenstrandbereich in Anglet.", "category": "recreational", "coords": [-1.528976, 43.517939]}, {"name": "Plages de la Madrague", "text": "Plages de la Madrague ist ein Strandabschnitt in der Stadt Anglet.", "category": "recreational", "coords": [-1.534015, 43.511738]}, {"name": "Plages des Cavaliers", "text": "Plages des Cavaliers ist ein Strandbereich in Anglet.", "category": "recreational", "coords": [-1.526627, 43.522052]}, {"name": "Plages de la Petite Madrague", "text": "Plages de la Petite Madrague ist ein Strandabschnitt in Anglet.", "category": "recreational", "coords": [-1.535599, 43.509795]}, {"name": "Plage des Corsaires", "text": "Dieser Küstenort mit Strandzugang prägt das maritime Leben in Anglet bei Biarritz. Die raue Schönheit der Meeresküste ist hier allgegenwärtig. Besucher schätzen den Ort für entspannte Tage am Ozean und Strandspaziergänge. Eine Jacke für die frische Meeresbrise ist oft ein guter Begleiter.", "category": "recreational", "coords": [-1.53749, 43.507449]}, {"name": "Piscine Résidence Arghitzea", "text": "Dieses Schwimmbad in Biarritz ist ein schöner Ort für eine erfrischende Pause während Ihres Aufenthalts.", "category": "family", "coords": [-1.539246, 43.491166]}], "hu": [{"name": "Rocher de la Vierge", "text": "A tengerben álló jellegzetes szikla, amely egy Gustave Eiffel által tervezett hídon érhető el, tetején Szűz Mária szobrával.", "category": "natural", "confidence": "high", "coords": [-1.57032, 43.4841]}, {"name": "Phare de Biarritz", "text": "A 73 méter magas világítótoronyból 248 lépcső megtétele után lélegzetelállító kilátás nyílik a baszk partvidékre és az óceánra.", "category": "historical", "confidence": "high", "coords": [-1.55389, 43.4939]}, {"name": "Aquarium de Biarritz", "text": "Közvetlenül az óceán partján fekvő Art Deco épület, amely gazdag tengeri élővilágot és népszerű fóka-bemutatókat kínál.", "category": "museum", "confidence": "high", "coords": [-1.5675, 43.4833]}, {"name": "Villa Belza", "text": "Ez az ikonikus villa egy sziklafalon áll két strand között, titokzatos építészetéről és drámai fekvéséről ismert jelképe a városnak.", "category": "historical", "confidence": "high", "coords": [-1.568982, 43.481652]}, {"name": "Côte des Basques", "text": "A szörfözés európai bölcsőjeként ismert híres strand, amelyet lenyűgöző sziklák és elegáns villák vesznek körül.", "category": "natural", "confidence": "high", "coords": [-1.568556, 43.474897]}, {"name": "Église Sainte-Eugénie", "text": "Szürke kőből épült neogótikus templom, amely a kikötő felett magasodik, gyönyörű ólomüveg ablakairól és tengeri hangulatáról ismert.", "category": "religious", "confidence": "high", "coords": [-1.56467, 43.4828]}, {"name": "Casino Barrière", "text": "Közvetlenül a Grande Plage parton található pompás Art Deco kaszinó, amely Biarritz fürdővárosi aranykorát idézi.", "category": "recreational", "confidence": "high", "coords": [-1.559328, 43.483818]}, {"name": "Plage de la Petite Chambre d'Amour", "text": "Az Anglet partvidékén, Biarritz közelében található ez a népszerű tengerparti úti cél. A tengeri környezet egyaránt vonzza a helyieket és az utazókat. Pihentető órákat tölthet a homokban, vagy frissítő pillanatokat élhet át a vízparton. A nyugodt hely biztosítása érdekében érdemes délelőtt érkezni.", "category": "recreational", "coords": [-1.546575, 43.495771]}, {"name": "Erretegia", "text": "Az Erretegia egy tengerparti strand Anglet önkormányzatában.", "category": "recreational", "coords": [-1.589778, 43.446632]}, {"name": "Pavillon Royal", "text": "A Pavillon Royal egy strandterület Anglet városában.", "category": "recreational", "coords": [-1.583864, 43.453637]}, {"name": "Plage du Miramar", "text": "A Biarritz melletti Anglet tengerparti tájába ágyazva, ez a fürdőhely közvetlen kapcsolatot kínál a tengerrel. A nyílt víz vonzza azokat a látogatókat, akik értékelik a tengeri hangulatot. Az úszás és a tengerparti szellő élvezete áll itt a középpontban. Napos nyári napokon a környék különösen hívogató.", "category": "recreational", "coords": [-1.553047, 43.491056]}, {"name": "Plage de la Milady", "text": "Ez a strand a tengerhez való hozzáférésével gazdagítja a Biarritz melletti Anglet tengerparti városát. A hangulatot a ritmikus hullámok és az óceán tágassága határozza meg. Az utazók itt teret találnak a vízparti pihentető időtöltéshez. A naplementekor tett látogatás gyakran festői panorámát nyújt.", "category": "recreational", "coords": [-1.575638, 43.464193]}, {"name": "Grande Plage", "text": "Anglet nagy és kiemelkedő partszakaszaként ez a Biarritz melletti hely sok tekintetet vonz. A tágas terület lehetővé teszi a társas együttlétet az óceán partján. A napozás szerelmesei és a tenger kedvelői egyaránt megtalálják itt a számításukat. Aki szereti a nyüzsgést, annak a főszezonban érdemes ellátogatnia ide.", "category": "recreational", "coords": [-1.559198, 43.485323]}, {"name": "Plage des Sables d'Or", "text": "A Biarritz régióban az Anglet partján található ilyen homokos strandok időzésre csábítanak. A puha talaj és a tenger zúgása nyugtató környezetet teremt. Számíthat a homokban való pihentető fekvésre vagy a part menti rövid sétákra. A legjobb, ha csomagol egy pikniket egy szép tengerparti naphoz.", "category": "recreational", "coords": [-1.541876, 43.501621]}, {"name": "Plage du Club", "text": "Az Anglet városában található másik találkozási pont ez a Biarritzhoz közeli strand. A környék a francia Atlanti-óceán partjának jellegzetes varázsát tükrözi. Megfelelő hely a friss levegő szívására és a vízpartra menésre. A kellemes kirándulás érdekében érdemes előre ellenőrizni az időjárást.", "category": "recreational", "coords": [-1.543956, 43.499284]}, {"name": "Plage de l'Océan", "text": "Közvetlenül az óceán felé néz ez a partszakasz Angletben, Biarritz közelében. A hangulat tengeri, és arra hív, hogy hagyjuk a természetet hatni ránk. A vízparti pihentető órák és a széles kilátás itt garantált. A szélvédett hely előnyt jelent a viharosabb napokon.", "category": "recreational", "coords": [-1.531906, 43.514364]}, {"name": "Plage de Marinella", "text": "Ez a strandcélpont Angletben, Biarritzban gyönyörű hátteret kínál a tenger szerelmeseinek. A tengerparti hangulat hamar feledteti a mindennapokat. Legyen szó napozásról vagy egy rövid sétáról, a pihenés nem marad el. Szánjon időt arra, hogy bőségesen élvezze a tengeri szellőt.", "category": "recreational", "coords": [-1.53961, 43.504404]}, {"name": "Plage de la Barre", "text": "Helyi partszakaszként ez a hely jól illeszkedik Anglet tengerparti képébe. A Biarritz közelében található strand nyugodt órákat ígér a vízparton. Megbízható választás mindazoknak, akik hosszú utak nélkül szeretnék élvezni a tengert. Hétvégén érdemes lehet korán érkezni.", "category": "recreational", "coords": [-1.52421, 43.525953]}, {"name": "Plage de la Marbellla", "text": "Anglet városán belül ez a nyilvános strand szabad hozzáférést biztosít az Atlanti-óceán hullámaihoz. Biarritz nincs messze, és a helyszín különféle tengerparti látogatókat vonz. A hangsúly itt az egyszerű örömökön van, mint az úszás és a tengerparti pihenés. A naptej és egy jó könyv tökéletessé teszi a kirándulást.", "category": "recreational", "coords": [-1.573516, 43.467821]}, {"name": "Ilbarritz", "text": "Az Ilbarritz egy elismert tengerparti strand Anglet-ben.", "category": "recreational", "coords": [-1.579541, 43.459197]}, {"name": "Plages des Dunes", "text": "A Plages des Dunes egy tengerparti strandterület Anglet-ben.", "category": "recreational", "coords": [-1.528976, 43.517939]}, {"name": "Plages de la Madrague", "text": "A Plages de la Madrague egy strandrész Anglet városában.", "category": "recreational", "coords": [-1.534015, 43.511738]}, {"name": "Plages des Cavaliers", "text": "A Plages des Cavaliers egy strandterület Anglet-ben.", "category": "recreational", "coords": [-1.526627, 43.522052]}, {"name": "Plages de la Petite Madrague", "text": "A Plages de la Petite Madrague egy partszakasz Anglet városában.", "category": "recreational", "coords": [-1.535599, 43.509795]}, {"name": "Plage des Corsaires", "text": "Ez a strandkapcsolattal rendelkező tengerparti üdülőhely határozza meg a tengeri életet a Biarritz melletti Angletben. A tengerpart zord szépsége itt mindenütt jelen van. A látogatók nagyra értékelik a helyet az óceánparti pihentető napokért és a tengerparti sétákért. A friss tengeri szellő ellen egy kabát gyakran jó útitárs.", "category": "recreational", "coords": [-1.53749, 43.507449]}, {"name": "Piscine Résidence Arghitzea", "text": "Ez a biarritzi úszómedence kellemes hely egy frissítő szünethez az itt-tartózkodás alatt.", "category": "family", "coords": [-1.539246, 43.491166]}], "ro": [{"name": "Rocher de la Vierge", "text": "O stâncă emblematică în mare, accesibilă printr-un pod proiectat de Gustave Eiffel, purtând în vârf o statuie a Fecioarei Maria.", "category": "natural", "confidence": "high", "coords": [-1.57032, 43.4841]}, {"name": "Phare de Biarritz", "text": "Acest far cu o înălțime de 73 de metri oferă o panoramă spectaculoasă asupra coastei basce după urcarea celor 248 de trepte.", "category": "historical", "confidence": "high", "coords": [-1.55389, 43.4939]}, {"name": "Aquarium de Biarritz", "text": "O clădire în stil Art Deco situată chiar pe malul oceanului, care adăpostește o colecție bogată de faună marină și foci jucăușe.", "category": "museum", "confidence": "high", "coords": [-1.5675, 43.4833]}, {"name": "Villa Belza", "text": "Această vilă iconică situată pe o stâncă între două plaje este celebră pentru arhitectura sa misterioasă și poziția sa dramatică.", "category": "historical", "confidence": "high", "coords": [-1.568982, 43.481652]}, {"name": "Côte des Basques", "text": "Cunoscută drept locul de naștere al surfului în Europa, această plajă celebră este înconjurată de stânci impresionante și vile elegante.", "category": "natural", "confidence": "high", "coords": [-1.568556, 43.474897]}, {"name": "Église Sainte-Eugénie", "text": "O biserică neogotică din piatră gri care domină portul, renumită pentru vitraliile sale superbe și atmosfera sa solemnă.", "category": "religious", "confidence": "high", "coords": [-1.56467, 43.4828]}, {"name": "Casino Barrière", "text": "Un cazinou splendid în stil Art Deco situat pe Grande Plage, reflectând epoca de aur a orașului Biarritz ca stațiune balneară de lux.", "category": "recreational", "confidence": "high", "coords": [-1.559328, 43.483818]}, {"name": "Plage de la Petite Chambre d'Amour", "text": "Cunoscută ca o destinație populară pe coasta din Anglet, această plajă se află în apropiere de Biarritz. Peisajul marin invită deopotrivă localnicii și călătorii. Vă puteți bucura de ore relaxante pe nisip sau de momente răcoritoare la malul apei. Pentru a găsi un loc liniștit, se recomandă sosirea în cursul dimineții.", "category": "recreational", "coords": [-1.546575, 43.495771]}, {"name": "Erretegia", "text": "Erretegia este o plajă de coastă situată în municipalitatea Anglet.", "category": "recreational", "coords": [-1.589778, 43.446632]}, {"name": "Pavillon Royal", "text": "Pavillon Royal este o zonă de plajă situată în orașul Anglet.", "category": "recreational", "coords": [-1.583864, 43.453637]}, {"name": "Plage du Miramar", "text": "Amplasată în peisajul de coastă din Anglet, lângă Biarritz, această plajă oferă o legătură directă cu marea. Apele deschise atrag vizitatorii care apreciază aerul maritim. Înotul și bucuria brizei de coastă sunt principalele atracții aici. În zilele însorite de vară, zona este deosebit de primitoare.", "category": "recreational", "coords": [-1.553047, 43.491056]}, {"name": "Plage de la Milady", "text": "Această plajă îmbogățește orașul de coastă Anglet de lângă Biarritz cu accesul său la mare. Atmosfera este modelată de valurile ritmice și de vastitatea oceanului. Călătorii găsesc aici spațiu pentru sejururi relaxante la malul apei. O vizită la apusul soarelui oferă adesea o panoramă pitorească.", "category": "recreational", "coords": [-1.575638, 43.464193]}, {"name": "Grande Plage", "text": "Ca o porțiune mare și proeminentă de plajă în Anglet, acest loc de lângă Biarritz atrage multe priviri. Spațiul generos permite o interacțiune socială la ocean. Iubitorii de soare și de mare își vor găsi deopotrivă locul aici. Cei cărora le place agitația ar trebui să treacă pe aici în sezonul de vârf.", "category": "recreational", "coords": [-1.559198, 43.485323]}, {"name": "Plage des Sables d'Or", "text": "Plajele cu nisip ca aceasta de pe coasta Anglet te invită să zăbovești în regiunea Biarritz. Suprafața moale și sunetul mării creează un mediu liniștitor. Vă puteți bucura de o odihnă relaxantă pe nisip sau de scurte plimbări pe mal. Cel mai bine este să împachetați un picnic pentru o zi frumoasă la plajă.", "category": "recreational", "coords": [-1.541876, 43.501621]}, {"name": "Plage du Club", "text": "Un alt punct de atracție în orașul Anglet este această plajă nu departe de Biarritz. Împrejurimile reflectă farmecul tipic al coastei franceze a Atlanticului. Este un loc potrivit pentru a lua o gură de aer proaspăt și a merge la apă. Pentru o excursie plăcută, se recomandă verificarea vremii în prealabil.", "category": "recreational", "coords": [-1.543956, 43.499284]}, {"name": "Plage de l'Océan", "text": "Situată direct cu fața spre ocean, această secțiune de plajă se află în Anglet, lângă Biarritz. Ambianța este maritimă și vă invită să lăsați natura să aibă un efect asupra dumneavoastră. Orele relaxante la apă și priveliștile largi sunt garantate aici. Un loc adăpostit de vânt este un avantaj în zilele mai furtunoase.", "category": "recreational", "coords": [-1.531906, 43.514364]}, {"name": "Plage de Marinella", "text": "Această destinație de plajă din Anglet, Biarritz, oferă un fundal frumos pentru iubitorii de mare. Atmosfera de coastă te face să uiți rapid de viața de zi cu zi. Indiferent dacă faceți plajă sau o scurtă plimbare, relaxarea nu este neglijată. Fă-ți timp pentru a te bucura din plin de briza maritimă.", "category": "recreational", "coords": [-1.53961, 43.504404]}, {"name": "Plage de la Barre", "text": "Ca o porțiune locală de plajă, acest loc se potrivește bine în peisajul de coastă din Anglet. Situat în apropiere de Biarritz, promite ore liniștite la malul apei. Este o alegere solidă pentru oricine dorește să se bucure de mare fără a merge prea departe. La sfârșit de săptămână, o vizită timpurie poate avea sens.", "category": "recreational", "coords": [-1.52421, 43.525953]}, {"name": "Plage de la Marbellla", "text": "În interiorul orașului Anglet, această plajă publică oferă acces liber la valurile Atlanticului. Biarritz nu este departe, iar locația atrage o varietate de vizitatori ai coastei. Accentul se pune aici pe plăcerile simple, cum ar fi înotul și odihna pe plajă. Crema de soare și o carte bună fac excursia perfectă.", "category": "recreational", "coords": [-1.573516, 43.467821]}, {"name": "Ilbarritz", "text": "Ilbarritz este o plajă de coastă recunoscută, situată în Anglet.", "category": "recreational", "coords": [-1.579541, 43.459197]}, {"name": "Plages des Dunes", "text": "Plages des Dunes este o zonă de plajă de coastă în Anglet.", "category": "recreational", "coords": [-1.528976, 43.517939]}, {"name": "Plages de la Madrague", "text": "Plages de la Madrague este o zonă de plajă din orașul Anglet.", "category": "recreational", "coords": [-1.534015, 43.511738]}, {"name": "Plages des Cavaliers", "text": "Plages des Cavaliers este o zonă de plajă situată în Anglet.", "category": "recreational", "coords": [-1.526627, 43.522052]}, {"name": "Plages de la Petite Madrague", "text": "Plages de la Petite Madrague este o porțiune de plajă situată în Anglet.", "category": "recreational", "coords": [-1.535599, 43.509795]}, {"name": "Plage des Corsaires", "text": "Această stațiune de coastă cu acces la plajă caracterizează viața maritimă din Anglet, lângă Biarritz. Frumusețea aspră a coastei mării este omniprezentă aici. Vizitatorii apreciază locul pentru zilele relaxante la ocean și plimbările pe plajă. O jachetă pentru briza proaspătă a mării este adesea un partener bun.", "category": "recreational", "coords": [-1.53749, 43.507449]}, {"name": "Piscine Résidence Arghitzea", "text": "Această piscină din Biarritz este un loc plăcut pentru o pauză revigorantă în timpul șederii dumneavoastră.", "category": "family", "coords": [-1.539246, 43.491166]}], "en": [{"name": "Rocher de la Vierge", "text": "An iconic rock formation in the sea, reachable via a bridge designed by Gustave Eiffel and topped with a statue of the Virgin Mary.", "category": "natural", "confidence": "high", "coords": [-1.57032, 43.4841]}, {"name": "Phare de Biarritz", "text": "This 73-meter-high lighthouse offers breathtaking views of the Basque coast after a climb of 248 steps to the top gallery.", "category": "historical", "confidence": "high", "coords": [-1.55389, 43.4939]}, {"name": "Aquarium de Biarritz", "text": "An Art Deco building right on the seafront, housing a diverse collection of marine life and a popular seal enclosure.", "category": "museum", "confidence": "high", "coords": [-1.5675, 43.4833]}, {"name": "Villa Belza", "text": "This iconic villa perched on a rocky outcrop between two beaches is famous for its mysterious architecture and dramatic location.", "category": "historical", "confidence": "high", "coords": [-1.568982, 43.481652]}, {"name": "Côte des Basques", "text": "Known as the birthplace of surfing in Europe, this famous beach is framed by impressive cliffs and elegant 19th-century villas.", "category": "natural", "confidence": "high", "coords": [-1.568556, 43.474897]}, {"name": "Église Sainte-Eugénie", "text": "A Neo-Gothic grey stone church overlooking the harbor, known for its beautiful stained glass windows and maritime atmosphere.", "category": "religious", "confidence": "high", "coords": [-1.56467, 43.4828]}, {"name": "Casino Barrière", "text": "A magnificent Art Deco casino located directly on the Grande Plage, reflecting Biarritz's golden age as a luxury resort town.", "category": "recreational", "confidence": "high", "coords": [-1.559328, 43.483818]}, {"name": "Plage de la Petite Chambre d'Amour", "text": "Known as a popular coastal destination in the Anglet area, this beach is located near Biarritz. The ocean setting welcomes locals and travelers alike. Guests can look forward to relaxing hours on the sand or refreshing moments by the water. Arriving mid-morning is a good way to secure a quiet spot.", "category": "recreational", "coords": [-1.546575, 43.495771]}, {"name": "Erretegia", "text": "Erretegia is a coastal beach located in the municipality of Anglet.", "category": "recreational", "coords": [-1.589778, 43.446632]}, {"name": "Pavillon Royal", "text": "Pavillon Royal is a beach area situated in the town of Anglet.", "category": "recreational", "coords": [-1.583864, 43.453637]}, {"name": "Plage du Miramar", "text": "Nestled in the coastal landscape of Anglet near Biarritz, this bathing spot offers a direct connection to the sea. The open water draws visitors who appreciate a strong maritime vibe. Swimming and taking in the coastal breeze are the main activities to enjoy. During sunny summer days, the area is especially inviting.", "category": "recreational", "coords": [-1.553047, 43.491056]}, {"name": "Plage de la Milady", "text": "Enhancing the coastal town of Anglet near Biarritz, this beach provides wonderful access to the sea. The atmosphere is shaped by the rhythmic waves and the vastness of the ocean. Travelers will find plenty of room for a relaxing stay by the water. Catching the sunset here frequently provides a picturesque panorama.", "category": "recreational", "coords": [-1.575638, 43.464193]}, {"name": "Grande Plage", "text": "Serving as a large and prominent stretch of sand in Anglet, this location near Biarritz draws plenty of attention. The generous space encourages a social atmosphere right on the ocean. Both sun worshipers and ocean lovers will find exactly what they need. Anyone who enjoys a lively environment should drop by during peak season.", "category": "recreational", "coords": [-1.559198, 43.485323]}, {"name": "Plage des Sables d'Or", "text": "Sandy beaches like this one on the Anglet coast invite you to linger in the Biarritz region. The soft ground and the sound of the sea combine to create a calming environment. You can look forward to unwinding on the sand or taking brief walks along the shore. Packing a picnic is highly recommended for a lovely beach day.", "category": "recreational", "coords": [-1.541876, 43.501621]}, {"name": "Plage du Club", "text": "Another spot to consider in the town of Anglet is this beach not far from Biarritz. The surroundings reflect the typical charm associated with the French Atlantic coast. It provides a suitable setting for getting some fresh air and stepping into the water. Checking the weather beforehand will help ensure a pleasant outing.", "category": "recreational", "coords": [-1.543956, 43.499284]}, {"name": "Plage de l'Océan", "text": "Facing directly out to the ocean, this stretch of beach is situated in Anglet near Biarritz. The maritime ambiance invites visitors to let nature take its course. Relaxing hours spent by the water and sweeping views are pretty much guaranteed. Seeking a sheltered spot is beneficial on windier days.", "category": "recreational", "coords": [-1.531906, 43.514364]}, {"name": "Plage de Marinella", "text": "Found in Anglet, Biarritz, this beach destination offers a beautiful backdrop for ocean enthusiasts. The coastal atmosphere quickly makes the stresses of everyday life fade away. Whether you are sunbathing or going for a short walk, relaxation is certainly on the agenda. Take your time to fully appreciate the fresh maritime breeze.", "category": "recreational", "coords": [-1.53961, 43.504404]}, {"name": "Plage de la Barre", "text": "Blending seamlessly into the coastal picture of Anglet, this functions as a nice local stretch of beach. Located near Biarritz, it promises an unhurried time by the water. It represents a solid choice for anyone wanting to enjoy the ocean without traveling far. Showing up early can be a smart move on weekends.", "category": "recreational", "coords": [-1.52421, 43.525953]}, {"name": "Plage de la Marbellla", "text": "Within the city of Anglet, this public beach provides clear access to the rolling Atlantic waves. With Biarritz close by, the location attracts a varied mix of coastal visitors. The focus here is on simple pleasures like swimming and unwinding on the shore. Bringing some sunscreen and a good book completes the outing.", "category": "recreational", "coords": [-1.573516, 43.467821]}, {"name": "Ilbarritz", "text": "Ilbarritz is a recognized coastal beach located in Anglet.", "category": "recreational", "coords": [-1.579541, 43.459197]}, {"name": "Plages des Dunes", "text": "Plages des Dunes is a coastal beach area in Anglet.", "category": "recreational", "coords": [-1.528976, 43.517939]}, {"name": "Plages de la Madrague", "text": "Plages de la Madrague is a beachfront location in the city of Anglet.", "category": "recreational", "coords": [-1.534015, 43.511738]}, {"name": "Plages des Cavaliers", "text": "Plages des Cavaliers is a beach area situated in Anglet.", "category": "recreational", "coords": [-1.526627, 43.522052]}, {"name": "Plages de la Petite Madrague", "text": "Plages de la Petite Madrague is a stretch of beach located in Anglet.", "category": "recreational", "coords": [-1.535599, 43.509795]}, {"name": "Plage des Corsaires", "text": "Featuring beach access, this coastal spot characterizes maritime life in Anglet near Biarritz. The rugged beauty of the seashore is evident everywhere you look. Visitors appreciate the area for easygoing days by the ocean and leisurely beach walks. Carrying a jacket to handle the fresh sea breeze is generally a wise idea.", "category": "recreational", "coords": [-1.53749, 43.507449]}, {"name": "Piscine Résidence Arghitzea", "text": "This swimming pool in Biarritz is a lovely spot for a refreshing break during your stay.", "category": "family", "coords": [-1.539246, 43.491166]}], "fr": [{"name": "Rocher de la Vierge", "text": "Rocher emblématique en mer, accessible par une passerelle signée Gustave Eiffel, portant une statue de la Vierge.", "category": "natural", "coords": [-1.57032, 43.4841]}, {"name": "Phare de Biarritz", "text": "Culminant à 73 mètres, ce phare offre, après 248 marches, une vue spectaculaire sur toute la côte basque.", "category": "historical", "coords": [-1.55389, 43.4939]}, {"name": "Aquarium de Biarritz", "text": "Bâtiment Art déco au bord de l'océan, abritant une riche collection marine et un bassin des phoques très apprécié.", "category": "museum", "coords": [-1.5675, 43.4833]}, {"name": "Villa Belza", "text": "Villa iconique située sur un promontoire entre deux plages, réputée pour son architecture et sa situation mystérieuses.", "category": "historical", "coords": [-1.568982, 43.481652]}, {"name": "Côte des Basques", "text": "Plage célèbre considérée comme le berceau du surf en Europe, entourée de falaises spectaculaires et de villas.", "category": "natural", "coords": [-1.568556, 43.474897]}, {"name": "Église Sainte-Eugénie", "text": "Église néo-gothique dominant le port, réputée pour ses vitraux et son atmosphère tournée vers l'océan.", "category": "religious", "coords": [-1.56467, 43.4828]}, {"name": "Casino Barrière", "text": "Splendide casino Art déco face à la Grande Plage, reflétant l'âge d'or de Biarritz en tant que station balnéaire.", "category": "recreational", "coords": [-1.559328, 43.483818]}]}
   },
   {
     id: "pau", population: 81166,
@@ -21677,6 +21027,33 @@ const citySeeds: CitySeed[] = [
                         -0.375331,
                         43.304897
                   ]
+            },
+            {
+                  "name": "Fun Room Escape Game",
+                  "text": "Fun Room Escape Game in Pau bietet herausfordernde und interaktive Rätsel, die Familien gemeinsam lösen können.",
+                  "category": "family",
+                  "coords": [
+                        -0.380302,
+                        43.333732
+                  ]
+            },
+            {
+                  "name": "Le phare",
+                  "text": "Le phare in Pau ist eine öffentliche Badeanstalt, die eine saubere und sichere Umgebung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.374986,
+                        43.302515
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Toni",
+                  "text": "Le Jardin de Toni in Pau ist ein kleiner Tierpark, ideal für einen ruhigen und lehrreichen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -0.397221,
+                        43.307706
+                  ]
             }
       ],
       "hu": [
@@ -21858,6 +21235,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.375331,
                         43.304897
+                  ]
+            },
+            {
+                  "name": "Fun Room Escape Game",
+                  "text": "A pau-i Fun Room Escape Game kihívást jelentő és interaktív rejtvényeket kínál, amelyeket a családok együtt oldhatnak meg.",
+                  "category": "family",
+                  "coords": [
+                        -0.380302,
+                        43.333732
+                  ]
+            },
+            {
+                  "name": "Le phare",
+                  "text": "A pau-i Le phare egy nyilvános fürdő, amely tiszta és biztonságos környezetet biztosít a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.374986,
+                        43.302515
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Toni",
+                  "text": "A pau-i Le Jardin de Toni egy kis állatpark, amely ideális egy nyugodt és oktató jellegű családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.397221,
+                        43.307706
                   ]
             }
       ],
@@ -22041,6 +21445,33 @@ const citySeeds: CitySeed[] = [
                         -0.375331,
                         43.304897
                   ]
+            },
+            {
+                  "name": "Fun Room Escape Game",
+                  "text": "Fun Room Escape Game din Pau oferă puzzle-uri provocatoare și interactive pe care familiile le pot rezolva împreună.",
+                  "category": "family",
+                  "coords": [
+                        -0.380302,
+                        43.333732
+                  ]
+            },
+            {
+                  "name": "Le phare",
+                  "text": "Le phare din Pau este o baie publică ce oferă un mediu curat și sigur pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.374986,
+                        43.302515
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Toni",
+                  "text": "Le Jardin de Toni din Pau este un mic parc cu animale, ideal pentru o ieșire liniștită și educativă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.397221,
+                        43.307706
+                  ]
             }
       ],
       "en": [
@@ -22222,6 +21653,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.375331,
                         43.304897
+                  ]
+            },
+            {
+                  "name": "Fun Room Escape Game",
+                  "text": "Fun Room Escape Game in Pau offers challenging and interactive puzzles for families to solve together.",
+                  "category": "family",
+                  "coords": [
+                        -0.380302,
+                        43.333732
+                  ]
+            },
+            {
+                  "name": "Le phare",
+                  "text": "Le phare in Pau is a public bathing facility providing a clean and safe environment for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.374986,
+                        43.302515
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Toni",
+                  "text": "Le Jardin de Toni in Pau is a small animal park ideal for a calm and educational family outing.",
+                  "category": "family",
+                  "coords": [
+                        -0.397221,
+                        43.307706
                   ]
             }
       ],
@@ -22466,6 +21924,24 @@ const citySeeds: CitySeed[] = [
                         -1.47665,
                         43.47204
                   ]
+            },
+            {
+                  "name": "Schtroumpfland",
+                  "text": "Schtroumpfland ist ein Freizeitpark in Bayonne. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        -1.443945,
+                        43.480644
+                  ]
+            },
+            {
+                  "name": "AirFly64",
+                  "text": "AirFly64 ist ein Freizeitpark in Bayonne. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        -1.445778,
+                        43.483084
+                  ]
             }
       ],
       "hu": [
@@ -22607,6 +22083,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.47665,
                         43.47204
+                  ]
+            },
+            {
+                  "name": "Schtroumpfland",
+                  "text": "A Schtroumpfland egy vidámpark Bayonne-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        -1.443945,
+                        43.480644
+                  ]
+            },
+            {
+                  "name": "AirFly64",
+                  "text": "Az AirFly64 egy vidámpark Bayonne-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        -1.445778,
+                        43.483084
                   ]
             }
       ],
@@ -22750,6 +22244,24 @@ const citySeeds: CitySeed[] = [
                         -1.47665,
                         43.47204
                   ]
+            },
+            {
+                  "name": "Schtroumpfland",
+                  "text": "Schtroumpfland este un parc tematic în Bayonne. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        -1.443945,
+                        43.480644
+                  ]
+            },
+            {
+                  "name": "AirFly64",
+                  "text": "AirFly64 este un parc tematic în Bayonne. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        -1.445778,
+                        43.483084
+                  ]
             }
       ],
       "en": [
@@ -22891,6 +22403,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.47665,
                         43.47204
+                  ]
+            },
+            {
+                  "name": "Schtroumpfland",
+                  "text": "Schtroumpfland is a theme park in Bayonne. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        -1.443945,
+                        43.480644
+                  ]
+            },
+            {
+                  "name": "AirFly64",
+                  "text": "AirFly64 is a theme park in Bayonne. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        -1.445778,
+                        43.483084
                   ]
             }
       ],
@@ -23297,6 +22827,15 @@ const citySeeds: CitySeed[] = [
                         0.371166,
                         46.583383
                   ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "Ludi Fête in Poitiers bietet abwechslungsreichen Spielspaß und Attraktionen für einen tollen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
+                  ]
             }
       ],
       "hu": [
@@ -23600,6 +23139,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.371166,
                         46.583383
+                  ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "A poitiers-i Ludi Fête változatos játékokat és látnivalókat kínál egy remek családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
                   ]
             }
       ],
@@ -23905,6 +23453,15 @@ const citySeeds: CitySeed[] = [
                         0.371166,
                         46.583383
                   ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "Ludi Fête din Poitiers oferă distracție variată și atracții pentru o zi minunată în familie.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
+                  ]
             }
       ],
       "en": [
@@ -24209,6 +23766,15 @@ const citySeeds: CitySeed[] = [
                         0.371166,
                         46.583383
                   ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "Ludi Fete in Poitiers offers diverse gaming fun and attractions for a great family day out.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
+                  ]
             }
       ],
       "fr": [
@@ -24469,6 +24035,24 @@ const citySeeds: CitySeed[] = [
                         -2.747419,
                         47.652453
                   ]
+            },
+            {
+                  "name": "Yakapark",
+                  "text": "Der Yakapark in Vannes ist ein Indoor-Spielplatz, der viele aktive Unterhaltungsmöglichkeiten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.800374,
+                        47.678556
+                  ]
+            },
+            {
+                  "name": "Piscine de Conleau",
+                  "text": "Die Piscine de Conleau in Vannes ist ein Meerwasserbecken, das Familien ein natürliches Schwimmerlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.780142,
+                        47.62882
+                  ]
             }
       ],
       "hu": [
@@ -24645,6 +24229,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.747419,
                         47.652453
+                  ]
+            },
+            {
+                  "name": "Yakapark",
+                  "text": "A vannes-i Yakapark egy beltéri játszótér, amely számos aktív szórakozási lehetőséget kínál gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.800374,
+                        47.678556
+                  ]
+            },
+            {
+                  "name": "Piscine de Conleau",
+                  "text": "A vannes-i Piscine de Conleau egy tengervizes medence, amely természetes úszási élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.780142,
+                        47.62882
                   ]
             }
       ],
@@ -24823,6 +24425,24 @@ const citySeeds: CitySeed[] = [
                         -2.747419,
                         47.652453
                   ]
+            },
+            {
+                  "name": "Yakapark",
+                  "text": "Yakapark din Vannes este un loc de joacă interior care oferă multe opțiuni de divertisment activ pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -2.800374,
+                        47.678556
+                  ]
+            },
+            {
+                  "name": "Piscine de Conleau",
+                  "text": "Piscina de Conleau din Vannes este o piscină cu apă de mare care oferă familiilor o experiență naturală de înot.",
+                  "category": "family",
+                  "coords": [
+                        -2.780142,
+                        47.62882
+                  ]
             }
       ],
       "en": [
@@ -24999,6 +24619,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.747419,
                         47.652453
+                  ]
+            },
+            {
+                  "name": "Yakapark",
+                  "text": "Yakapark in Vannes is an indoor playground offering many active entertainment options for children.",
+                  "category": "family",
+                  "coords": [
+                        -2.800374,
+                        47.678556
+                  ]
+            },
+            {
+                  "name": "Piscine de Conleau",
+                  "text": "Piscine de Conleau in Vannes is a seawater pool providing a natural swimming experience for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.780142,
+                        47.62882
                   ]
             }
       ],
@@ -25224,6 +24862,15 @@ const citySeeds: CitySeed[] = [
                         -3.366111,
                         47.755278
                   ]
+            },
+            {
+                  "name": "Mayapark",
+                  "text": "Mayapark ist ein Freizeitpark in Lorient. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        -3.352551,
+                        47.777781
+                  ]
             }
       ],
       "hu": [
@@ -25355,6 +25002,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -3.366111,
                         47.755278
+                  ]
+            },
+            {
+                  "name": "Mayapark",
+                  "text": "A Mayapark egy vidámpark Lorient-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        -3.352551,
+                        47.777781
                   ]
             }
       ],
@@ -25488,6 +25144,15 @@ const citySeeds: CitySeed[] = [
                         -3.366111,
                         47.755278
                   ]
+            },
+            {
+                  "name": "Mayapark",
+                  "text": "Mayapark este un parc tematic în Lorient. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        -3.352551,
+                        47.777781
+                  ]
             }
       ],
       "en": [
@@ -25620,6 +25285,15 @@ const citySeeds: CitySeed[] = [
                         -3.366111,
                         47.755278
                   ]
+            },
+            {
+                  "name": "Mayapark",
+                  "text": "Mayapark is a theme park in Lorient. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        -3.352551,
+                        47.777781
+                  ]
             }
       ],
       "fr": [
@@ -25704,361 +25378,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Les remparts de Saint-Malo ont une longueur totale d'environ 1,7 kilomètre.", "En 1944, lors de la Libération, environ 80 % de la vieille ville fut détruite.", "L'écrivain François-René de Chateaubriand est né à Saint-Malo en 1768.", "L'amplitude des marées dans la baie est l'une des plus fortes d'Europe, atteignant 13 mètres.", "La tour Solidor a été construite au XIVe siècle pour contrôler l'accès à la Rance.", "Jacques Cartier, le découvreur du Canada, est parti de Saint-Malo pour ses expéditions."],
     },
     image: "/poi-images/saint-malo.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Stadtmauern von Saint-Malo",
-                  "text": "Die berühmten Granitmauern umgeben die Altstadt und bieten einen atemberaubenden Blick auf das Meer und den Hafen.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Kathedrale Saint-Vincent",
-                  "text": "Diese historische Kathedrale vereint Romanik und Gotik und ist das religiöse Herz der befestigten Stadt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.02554,
-                        48.64949
-                  ]
-            },
-            {
-                  "name": "Fort National",
-                  "text": "Eine von Vauban entworfene Festung auf einer Insel, die nur bei Ebbe zu Fuß vom Strand aus erreichbar ist.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.023333,
-                        48.654722
-                  ]
-            },
-            {
-                  "name": "Le Grand Bé",
-                  "text": "Eine kleine unbewohnte Insel, auf der sich das einsame Grab des berühmten Schriftstellers Chateaubriand befindet.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.033333,
-                        48.652222
-                  ]
-            },
-            {
-                  "name": "Schloss von Saint-Malo",
-                  "text": "Die mittelalterliche Burg beherbergt heute das Stadtmuseum und zeigt die Geschichte der Korsaren und Entdecker.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Plage du Sillon",
-                  "text": "Ein langer Sandstrand, bekannt für seine hölzernen Wellenbrecher und den spektakulären Tidenhub der Region.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.007637,
-                        48.657195
-                  ]
-            },
-            {
-                  "name": "Tour Solidor",
-                  "text": "Ein markanter Dreifachturm aus dem 14. Jahrhundert, der einst die Mündung des Flusses Rance bewachte.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.026111,
-                        48.633889
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Saint-Malo városfalai",
-                  "text": "A híres gránitfalak körülölelik az óvárost, lenyűgöző kilátást nyújtva a tengerre és a kikötőre.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Szent Vince-székesegyház",
-                  "text": "Ez a történelmi katedrális a román és gótikus stílust ötvözi, az erődváros vallási központja.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.02554,
-                        48.64949
-                  ]
-            },
-            {
-                  "name": "Fort National",
-                  "text": "Vauban által tervezett erőd egy szigeten, amely csak apály idején érhető el gyalogosan a partról.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.023333,
-                        48.654722
-                  ]
-            },
-            {
-                  "name": "Le Grand Bé",
-                  "text": "Egy kis lakatlan sziget, ahol a híres író, Chateaubriand magányos sírja található a tenger felett.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.033333,
-                        48.652222
-                  ]
-            },
-            {
-                  "name": "Saint-Malo kastélya",
-                  "text": "A középkori vár ma a városi múzeumnak ad otthont, bemutatva a kalózok és felfedezők izgalmas történetét.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Plage du Sillon",
-                  "text": "Hosszú homokos tengerpart, amely híres a hullámtörő cölöpsorairól és a látványos árapály-jelenségről.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.007637,
-                        48.657195
-                  ]
-            },
-            {
-                  "name": "Solidor-torony",
-                  "text": "Jellegzetes, 14. századi hármas torony, amely egykor a Rance folyó torkolatát őrizte Saint-Servan-ban.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.026111,
-                        48.633889
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zidurile orașului Saint-Malo",
-                  "text": "Celebrele ziduri de granit înconjoară orașul vechi și oferă vederi uluitoare asupra mării și a portului.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Catedrala Saint-Vincent",
-                  "text": "Această catedrală istorică îmbină stilurile romanic și gotic, fiind inima religioasă a orașului fortificat.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.02554,
-                        48.64949
-                  ]
-            },
-            {
-                  "name": "Fort National",
-                  "text": "O fortăreață proiectată de Vauban pe o insulă, accesibilă pe jos de pe plajă doar în timpul refluxului.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.023333,
-                        48.654722
-                  ]
-            },
-            {
-                  "name": "Le Grand Bé",
-                  "text": "O mică insulă nelocuită unde se află mormântul solitar al celebrului scriitor Chateaubriand.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.033333,
-                        48.652222
-                  ]
-            },
-            {
-                  "name": "Castelul din Saint-Malo",
-                  "text": "Castelul medieval găzduiește astăzi muzeul orașului, prezentând istoria corsarilor și a marilor exploratori.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Plaja Sillon",
-                  "text": "O plajă lungă de nisip, renumită pentru digurile sale din lemn și spectacolul mareelor înalte din regiune.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.007637,
-                        48.657195
-                  ]
-            },
-            {
-                  "name": "Turnul Solidor",
-                  "text": "Un turn triplu marcant din secolul al XIV-lea, care păzea odinioară estuarul râului Rance.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.026111,
-                        48.633889
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ramparts of Saint-Malo",
-                  "text": "The famous granite walls surround the old town and offer breathtaking views of the sea and the harbor.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Saint-Vincent Cathedral",
-                  "text": "This historic cathedral blends Romanesque and Gothic styles and is the religious heart of the walled city.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.02554,
-                        48.64949
-                  ]
-            },
-            {
-                  "name": "Fort National",
-                  "text": "A fortress designed by Vauban on an island, accessible by foot from the beach only at low tide.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.023333,
-                        48.654722
-                  ]
-            },
-            {
-                  "name": "Le Grand Bé",
-                  "text": "A small uninhabited island where the lonely tomb of the famous writer Chateaubriand is located.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.033333,
-                        48.652222
-                  ]
-            },
-            {
-                  "name": "Saint-Malo Castle",
-                  "text": "The medieval castle now houses the city museum, showcasing the history of corsairs and great explorers.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Sillon Beach",
-                  "text": "A long sandy beach famous for its wooden breakwaters and the spectacular tidal range of the region.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.007637,
-                        48.657195
-                  ]
-            },
-            {
-                  "name": "Solidor Tower",
-                  "text": "A striking 14th-century triple tower that once guarded the mouth of the Rance river in Saint-Servan.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.026111,
-                        48.633889
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Remparts de Saint-Malo",
-                  "text": "Les célèbres remparts en granit entourent la vieille ville et offrent une vue imprenable sur la mer et le port.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Vincent",
-                  "text": "Cette cathédrale historique mêle art roman et gothique et constitue le cœur religieux de la cité fortifiée.",
-                  "category": "religious",
-                  "coords": [
-                        -2.02554,
-                        48.64949
-                  ]
-            },
-            {
-                  "name": "Fort National",
-                  "text": "Une forteresse conçue par Vauban sur une île, accessible à pied depuis la plage uniquement à marée basse.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.023333,
-                        48.654722
-                  ]
-            },
-            {
-                  "name": "Le Grand Bé",
-                  "text": "Une petite île inhabitée abritant la tombe solitaire du célèbre écrivain Chateaubriand.",
-                  "category": "historical",
-                  "coords": [
-                        -2.033333,
-                        48.652222
-                  ]
-            },
-            {
-                  "name": "Château de Saint-Malo",
-                  "text": "Le château médiéval abrite aujourd'hui le musée d'histoire de la ville, retraçant l'épopée des corsaires et explorateurs.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.0228,
-                        48.6514
-                  ]
-            },
-            {
-                  "name": "Plage du Sillon",
-                  "text": "Une longue plage de sable, connue pour ses brise-lames en bois et l'amplitude spectaculaire des marées de la région.",
-                  "category": "natural",
-                  "coords": [
-                        -2.007637,
-                        48.657195
-                  ]
-            },
-            {
-                  "name": "Tour Solidor",
-                  "text": "Une tour triple marquante du XIVe siècle qui surveillait autrefois l'embouchure de la rivière Rance.",
-                  "category": "historical",
-                  "coords": [
-                        -2.026111,
-                        48.633889
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Stadtmauern von Saint-Malo", "text": "Die berühmten Granitmauern umgeben die Altstadt und bieten einen atemberaubenden Blick auf das Meer und den Hafen.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Kathedrale Saint-Vincent", "text": "Diese historische Kathedrale vereint Romanik und Gotik und ist das religiöse Herz der befestigten Stadt.", "category": "religious", "confidence": "high", "coords": [-2.02554, 48.64949]}, {"name": "Fort National", "text": "Eine von Vauban entworfene Festung auf einer Insel, die nur bei Ebbe zu Fuß vom Strand aus erreichbar ist.", "category": "fortress", "confidence": "high", "coords": [-2.023333, 48.654722]}, {"name": "Le Grand Bé", "text": "Eine kleine unbewohnte Insel, auf der sich das einsame Grab des berühmten Schriftstellers Chateaubriand befindet.", "category": "historical", "confidence": "high", "coords": [-2.033333, 48.652222]}, {"name": "Schloss von Saint-Malo", "text": "Die mittelalterliche Burg beherbergt heute das Stadtmuseum und zeigt die Geschichte der Korsaren und Entdecker.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Plage du Sillon", "text": "Berühmt für seine hölzernen Wellenbrecher, erstreckt sich dieser lange Sandstrand an der Küste von Saint Malo. Die dramatischen Gezeiten verleihen dem Ort eine faszinierende, sich ständig wandelnde Atmosphäre. Man kann hier hervorragend spazieren gehen und das Naturschauspiel des Tidenhubs beobachten. Bei Flut ist Vorsicht geboten, wenn man am Ufer entlangläuft.", "category": "natural", "confidence": "high", "coords": [-2.007637, 48.657195]}, {"name": "Tour Solidor", "text": "Ein markanter Dreifachturm aus dem 14. Jahrhundert, der einst die Mündung des Flusses Rance bewachte.", "category": "historical", "confidence": "high", "coords": [-2.026111, 48.633889]}, {"name": "Microzoo", "text": "Dieser Microzoo in Saint-Malo bietet Familien eine einzigartige Gelegenheit, kleine Tierarten aus nächster Nähe zu sehen.", "category": "family", "coords": [-2.024089, 48.651632]}, {"name": "Grand Aquarium - Saint-Malo", "text": "Das große Aquarium in Saint-Malo entführt die ganze Familie in eine beeindruckende Unterwasserwelt.", "category": "family", "coords": [-1.994418, 48.6194]}, {"name": "Piscine de Bon-Secours", "text": "Dieses Schwimmbad in Saint-Malo ist ein idealer Ort für Familien, um den Tag im Wasser zu genießen.", "category": "family", "coords": [-2.030278, 48.648562]}, {"name": "Piscine de la porte d’Émeraude", "text": "Genießen Sie ein erfrischendes Bad mit der ganzen Familie in diesem einladenden Schwimmbad in Saint-Malo.", "category": "family", "coords": [-2.049851, 48.637141]}], "hu": [{"name": "Saint-Malo városfalai", "text": "A híres gránitfalak körülölelik az óvárost, lenyűgöző kilátást nyújtva a tengerre és a kikötőre.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Szent Vince-székesegyház", "text": "Ez a történelmi katedrális a román és gótikus stílust ötvözi, az erődváros vallási központja.", "category": "religious", "confidence": "high", "coords": [-2.02554, 48.64949]}, {"name": "Fort National", "text": "Vauban által tervezett erőd egy szigeten, amely csak apály idején érhető el gyalogosan a partról.", "category": "fortress", "confidence": "high", "coords": [-2.023333, 48.654722]}, {"name": "Le Grand Bé", "text": "Egy kis lakatlan sziget, ahol a híres író, Chateaubriand magányos sírja található a tenger felett.", "category": "historical", "confidence": "high", "coords": [-2.033333, 48.652222]}, {"name": "Saint-Malo kastélya", "text": "A középkori vár ma a városi múzeumnak ad otthont, bemutatva a kalózok és felfedezők izgalmas történetét.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Plage du Sillon", "text": "A fa hullámtörőiről híres hosszú homokos strand Saint Malo partján húzódik. A drámai árapály lenyűgöző, folyamatosan változó hangulatot kölcsönöz a helynek. Kiválóan alkalmas sétálásra és az árapály természeti látványosságának megfigyelésére. Dagálykor óvatosság javasolt a part menti séta során.", "category": "natural", "confidence": "high", "coords": [-2.007637, 48.657195]}, {"name": "Solidor-torony", "text": "Jellegzetes, 14. századi hármas torony, amely egykor a Rance folyó torkolatát őrizte Saint-Servan-ban.", "category": "historical", "confidence": "high", "coords": [-2.026111, 48.633889]}, {"name": "Microzoo", "text": "Ez a Saint-Malo-i mikroállatkert egyedülálló lehetőséget kínál a családoknak kis állatfajok közeli megtekintésére.", "category": "family", "coords": [-2.024089, 48.651632]}, {"name": "Grand Aquarium - Saint-Malo", "text": "A Saint-Malo-i nagy akvárium az egész családot lenyűgöző víz alatti világba kalauzolja el.", "category": "family", "coords": [-1.994418, 48.6194]}, {"name": "Piscine de Bon-Secours", "text": "Ez a Saint-Malo-i úszómedence ideális hely a családok számára a vízi szórakozáshoz.", "category": "family", "coords": [-2.030278, 48.648562]}, {"name": "Piscine de la porte d’Émeraude", "text": "Élvezze a frissítő úszást az egész családdal ebben a hívogató Saint-Malo-i úszómedencében.", "category": "family", "coords": [-2.049851, 48.637141]}], "ro": [{"name": "Zidurile orașului Saint-Malo", "text": "Celebrele ziduri de granit înconjoară orașul vechi și oferă vederi uluitoare asupra mării și a portului.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Catedrala Saint-Vincent", "text": "Această catedrală istorică îmbină stilurile romanic și gotic, fiind inima religioasă a orașului fortificat.", "category": "religious", "confidence": "high", "coords": [-2.02554, 48.64949]}, {"name": "Fort National", "text": "O fortăreață proiectată de Vauban pe o insulă, accesibilă pe jos de pe plajă doar în timpul refluxului.", "category": "fortress", "confidence": "high", "coords": [-2.023333, 48.654722]}, {"name": "Le Grand Bé", "text": "O mică insulă nelocuită unde se află mormântul solitar al celebrului scriitor Chateaubriand.", "category": "historical", "confidence": "high", "coords": [-2.033333, 48.652222]}, {"name": "Castelul din Saint-Malo", "text": "Castelul medieval găzduiește astăzi muzeul orașului, prezentând istoria corsarilor și a marilor exploratori.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Plaja Sillon", "text": "Faimoasă pentru digurile sale de lemn, această lungă plajă de nisip se întinde de-a lungul coastei din Saint Malo. Mareele dramatice conferă locului o atmosferă fascinantă, în continuă schimbare. Este un loc excelent pentru a face o plimbare și a urmări spectacolul natural al mareelor. La mareea înaltă, se recomandă prudență la plimbarea de-a lungul țărmului.", "category": "natural", "confidence": "high", "coords": [-2.007637, 48.657195]}, {"name": "Turnul Solidor", "text": "Un turn triplu marcant din secolul al XIV-lea, care păzea odinioară estuarul râului Rance.", "category": "historical", "confidence": "high", "coords": [-2.026111, 48.633889]}, {"name": "Microzoo", "text": "Această micro-grădină zoologică din Saint-Malo oferă familiilor o ocazie unică de a vedea de aproape specii mici de animale.", "category": "family", "coords": [-2.024089, 48.651632]}, {"name": "Grand Aquarium - Saint-Malo", "text": "Marele acvariu din Saint-Malo poartă întreaga familie într-o lume subacvatică impresionantă.", "category": "family", "coords": [-1.994418, 48.6194]}, {"name": "Piscine de Bon-Secours", "text": "Această piscină din Saint-Malo este un loc ideal pentru familii pentru a se bucura de o zi în apă.", "category": "family", "coords": [-2.030278, 48.648562]}, {"name": "Piscine de la porte d’Émeraude", "text": "Bucurați-vă de o baie răcoritoare cu întreaga familie în această piscină primitoare din Saint-Malo.", "category": "family", "coords": [-2.049851, 48.637141]}], "en": [{"name": "Ramparts of Saint-Malo", "text": "The famous granite walls surround the old town and offer breathtaking views of the sea and the harbor.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Saint-Vincent Cathedral", "text": "This historic cathedral blends Romanesque and Gothic styles and is the religious heart of the walled city.", "category": "religious", "confidence": "high", "coords": [-2.02554, 48.64949]}, {"name": "Fort National", "text": "A fortress designed by Vauban on an island, accessible by foot from the beach only at low tide.", "category": "fortress", "confidence": "high", "coords": [-2.023333, 48.654722]}, {"name": "Le Grand Bé", "text": "A small uninhabited island where the lonely tomb of the famous writer Chateaubriand is located.", "category": "historical", "confidence": "high", "coords": [-2.033333, 48.652222]}, {"name": "Saint-Malo Castle", "text": "The medieval castle now houses the city museum, showcasing the history of corsairs and great explorers.", "category": "fortress", "confidence": "high", "coords": [-2.0228, 48.6514]}, {"name": "Sillon Beach", "text": "Famous for its wooden breakwaters, this long sandy beach stretches along the coast of Saint Malo. The dramatic tides give the location a fascinating, ever-changing atmosphere. It is an excellent place to go for a walk and watch the natural spectacle of the tidal range. Caution is advised when walking along the shore during high tide.", "category": "natural", "confidence": "high", "coords": [-2.007637, 48.657195]}, {"name": "Solidor Tower", "text": "A striking 14th-century triple tower that once guarded the mouth of the Rance river in Saint-Servan.", "category": "historical", "confidence": "high", "coords": [-2.026111, 48.633889]}, {"name": "Microzoo", "text": "This microzoo in Saint Malo offers a unique opportunity for families to see small animal species up close.", "category": "family", "coords": [-2.024089, 48.651632]}, {"name": "Grand Aquarium - Saint-Malo", "text": "The large aquarium in Saint Malo takes the whole family into an impressive underwater world.", "category": "family", "coords": [-1.994418, 48.6194]}, {"name": "Piscine de Bon-Secours", "text": "This swimming pool in Saint Malo is an ideal place for families to enjoy a day in the water.", "category": "family", "coords": [-2.030278, 48.648562]}, {"name": "Piscine de la porte d’Émeraude", "text": "Enjoy a refreshing swim with the whole family in this inviting swimming pool in Saint Malo.", "category": "family", "coords": [-2.049851, 48.637141]}], "fr": [{"name": "Remparts de Saint-Malo", "text": "Les célèbres remparts en granit entourent la vieille ville et offrent une vue imprenable sur la mer et le port.", "category": "fortress", "coords": [-2.0228, 48.6514]}, {"name": "Cathédrale Saint-Vincent", "text": "Cette cathédrale historique mêle art roman et gothique et constitue le cœur religieux de la cité fortifiée.", "category": "religious", "coords": [-2.02554, 48.64949]}, {"name": "Fort National", "text": "Une forteresse conçue par Vauban sur une île, accessible à pied depuis la plage uniquement à marée basse.", "category": "fortress", "coords": [-2.023333, 48.654722]}, {"name": "Le Grand Bé", "text": "Une petite île inhabitée abritant la tombe solitaire du célèbre écrivain Chateaubriand.", "category": "historical", "coords": [-2.033333, 48.652222]}, {"name": "Château de Saint-Malo", "text": "Le château médiéval abrite aujourd'hui le musée d'histoire de la ville, retraçant l'épopée des corsaires et explorateurs.", "category": "fortress", "coords": [-2.0228, 48.6514]}, {"name": "Plage du Sillon", "text": "Célèbre pour ses brise-lames en bois, cette longue plage de sable s'étend sur la côte de Saint-Malo. Les marées spectaculaires confèrent au lieu une atmosphère fascinante et en constante évolution. C'est un endroit idéal pour se promener et observer le spectacle naturel des marées. À marée haute, la prudence est de mise lors des promenades sur le rivage.", "category": "natural", "coords": [-2.007637, 48.657195]}, {"name": "Tour Solidor", "text": "Une tour triple marquante du XIVe siècle qui surveillait autrefois l'embouchure de la rivière Rance.", "category": "historical", "coords": [-2.026111, 48.633889]}]}
   },
   {
     id: "quimper", population: 66743,
@@ -26244,6 +25564,24 @@ const citySeeds: CitySeed[] = [
                         -4.092222,
                         47.994722
                   ]
+            },
+            {
+                  "name": "Tytaz",
+                  "text": "Tytaz in Quimper bietet Wasserspielbereiche und Einrichtungen, die für den Spaß von Kindern und Familienbesuche konzipiert sind.",
+                  "category": "family",
+                  "coords": [
+                        -4.081238,
+                        47.95396
+                  ]
+            },
+            {
+                  "name": "Bonobo Park",
+                  "text": "Der Bonobo Park in Quimper ist ein Abenteuerpark mit Kletter- und Baumwipfelaktivitäten für aktive Familien.",
+                  "category": "family",
+                  "coords": [
+                        -4.098135,
+                        47.977265
+                  ]
             }
       ],
       "hu": [
@@ -26395,6 +25733,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.092222,
                         47.994722
+                  ]
+            },
+            {
+                  "name": "Tytaz",
+                  "text": "A quimperi Tytaz vízi játszótereket és létesítményeket kínál a gyermekek szórakozására és családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.081238,
+                        47.95396
+                  ]
+            },
+            {
+                  "name": "Bonobo Park",
+                  "text": "A quimperi Bonobo Park egy kalandpark mászó- és lombkorona-tevékenységekkel az aktív családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -4.098135,
+                        47.977265
                   ]
             }
       ],
@@ -26548,6 +25904,24 @@ const citySeeds: CitySeed[] = [
                         -4.092222,
                         47.994722
                   ]
+            },
+            {
+                  "name": "Tytaz",
+                  "text": "Tytaz din Quimper oferă zone de joacă cu apă și facilități concepute pentru distracția copiilor și vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.081238,
+                        47.95396
+                  ]
+            },
+            {
+                  "name": "Bonobo Park",
+                  "text": "Bonobo Park din Quimper este un parc de aventură cu activități de cățărare și trasee prin copaci pentru familii active.",
+                  "category": "family",
+                  "coords": [
+                        -4.098135,
+                        47.977265
+                  ]
             }
       ],
       "en": [
@@ -26699,6 +26073,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.092222,
                         47.994722
+                  ]
+            },
+            {
+                  "name": "Tytaz",
+                  "text": "Tytaz in Quimper offers water play areas and facilities designed for children's fun and family visits.",
+                  "category": "family",
+                  "coords": [
+                        -4.081238,
+                        47.95396
+                  ]
+            },
+            {
+                  "name": "Bonobo Park",
+                  "text": "Bonobo Park in Quimper is an adventure park with climbing and tree-top activities for active families.",
+                  "category": "family",
+                  "coords": [
+                        -4.098135,
+                        47.977265
                   ]
             }
       ],
@@ -27084,1752 +26476,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Dinard compte aujourd'hui exactement 407 villas classées datant de la Belle Époque.", "Le premier casino de la ville a été ouvert dès 1866.", "Depuis 1989, la ville accueille chaque année le Festival du film britannique.", "Une statue d'Alfred Hitchcock sur la plage rappelle ses séjours à Dinard.", "La Promenade au Clair de Lune propose des spectacles de lumière et de musique en été.", "Le Gulf Stream permet aux palmiers et aux plantes méditerranéennes de s'épanouir dans la ville."],
     },
     image: "/poi-images/dinard.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Plage de l'Écluse",
-                  "text": "Der Hauptstrand von Dinard ist bekannt für seine charakteristischen blau-weiß gestreiften Badezelte und die elegante Promenade.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0546,
-                        48.6361
-                  ]
-            },
-            {
-                  "name": "Promenade au Clair de Lune",
-                  "text": "Ein malerischer Küstenweg, der am Abend beleuchtet wird und traumhafte Ausblicke auf die Bucht von Saint-Malo bietet.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.05205,
-                        48.63156
-                  ]
-            },
-            {
-                  "name": "Belle-Époque-Villen",
-                  "text": "Über 400 prächtige Villen aus dem späten 19. Jahrhundert verleihen dem Badeort seinen mondänen und nostalgischen Charakter.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053192,
-                        48.629868
-                  ]
-            },
-            {
-                  "name": "Pointe du Moulinet",
-                  "text": "Diese felsige Landspitze bietet einen spektakulären Rundumblick auf das Meer, die Rance-Mündung und die befestigte Stadt Saint-Malo.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.04945,
-                        48.636984
-                  ]
-            },
-            {
-                  "name": "Casino de Dinard",
-                  "text": "Das direkt am Meer gelegene Casino ist ein Wahrzeichen des Ortes und spiegelt den luxuriösen Lebensstil der Belle Époque wider.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053479,
-                        48.635359
-                  ]
-            },
-            {
-                  "name": "Alfred-Hitchcock-Statue",
-                  "text": "Diese Statue erinnert an das berühmte Filmfestival von Dinard und die angebliche Inspiration für den Film Die Vögel.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.054745,
-                        48.635472
-                  ]
-            },
-            {
-                  "name": "Plage de Port Salut",
-                  "text": "Plage de Port Salut ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.059417,
-                        48.64003
-                  ]
-            },
-            {
-                  "name": "Plage du Rocher",
-                  "text": "Plage du Rocher ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145507,
-                        48.619899
-                  ]
-            },
-            {
-                  "name": "Plage des Fours à Chaux",
-                  "text": "Plage des Fours à Chaux ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013936,
-                        48.627238
-                  ]
-            },
-            {
-                  "name": "Plage du Môle",
-                  "text": "Plage du Môle ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.031398,
-                        48.645096
-                  ]
-            },
-            {
-                  "name": "Plage de Bon Secours",
-                  "text": "Plage de Bon Secours ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.029856,
-                        48.648713
-                  ]
-            },
-            {
-                  "name": "Plage Malo",
-                  "text": "Plage Malo ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.02665,
-                        48.652861
-                  ]
-            },
-            {
-                  "name": "Plage de l'Islet",
-                  "text": "Plage de l'Islet ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.151623,
-                        48.61786
-                  ]
-            },
-            {
-                  "name": "Plage de la Cerisaie",
-                  "text": "Plage de la Cerisaie ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143596,
-                        48.617765
-                  ]
-            },
-            {
-                  "name": "Plage du Corps de Garde",
-                  "text": "Plage du Corps de Garde ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.152862,
-                        48.615104
-                  ]
-            },
-            {
-                  "name": "Plage du Minihic",
-                  "text": "Plage du Minihic ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.9888,
-                        48.670555
-                  ]
-            },
-            {
-                  "name": "Plage des Bas-Sablons",
-                  "text": "Plage des Bas-Sablons ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020337,
-                        48.638292
-                  ]
-            },
-            {
-                  "name": "Plage de Rochebonne",
-                  "text": "Plage de Rochebonne ist ein angenehmer Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.992821,
-                        48.666109
-                  ]
-            },
-            {
-                  "name": "Plage du Pont",
-                  "text": "Plage du Pont ist ein Küstenstrand in der Stadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985065,
-                        48.674715
-                  ]
-            },
-            {
-                  "name": "Plage de la Varde",
-                  "text": "Plage de la Varde ist ein Strand mit Küstenblick in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985737,
-                        48.681945
-                  ]
-            },
-            {
-                  "name": "Plage du Béchet",
-                  "text": "Plage du Béchet ist ein lokaler Strandbereich in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.140614,
-                        48.625219
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Salinette",
-                  "text": "Plage de la Petite Salinette ist ein charmanter Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.146384,
-                        48.626609
-                  ]
-            },
-            {
-                  "name": "Plage de Solidor",
-                  "text": "Plage de Solidor ist ein erholsames Strandziel in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.022829,
-                        48.634004
-                  ]
-            },
-            {
-                  "name": "Plage du Rosais",
-                  "text": "Plage du Rosais ist ein malerischer Strand in der Stadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013476,
-                        48.624386
-                  ]
-            },
-            {
-                  "name": "Plage des Corbières",
-                  "text": "Plage des Corbières ist eine schöne Strandlandschaft in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020425,
-                        48.630972
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Énogat",
-                  "text": "Plage de Saint-Énogat ist ein bekannter Sandstrand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.069368,
-                        48.639085
-                  ]
-            },
-            {
-                  "name": "Plage de Port-Riou",
-                  "text": "Plage de Port-Riou ist ein Küstenstrandort in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.06502,
-                        48.639269
-                  ]
-            },
-            {
-                  "name": "Plage du Tertre Pelé",
-                  "text": "Plage du Tertre Pelé ist ein friedlicher Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145186,
-                        48.63188
-                  ]
-            },
-            {
-                  "name": "Plage de la Vicomté",
-                  "text": "Plage de la Vicomté ist ein wunderschöner Strandbereich in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.036163,
-                        48.625602
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage ist der große Hauptstrand in der Küstenstadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.108911,
-                        48.637851
-                  ]
-            },
-            {
-                  "name": "Plage du Port aux Chevaux",
-                  "text": "Plage du Port aux Chevaux ist ein Strand in der Stadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.149899,
-                        48.63177
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Salinette",
-                  "text": "Plage de la Grande Salinette ist ein lokaler Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143774,
-                        48.624641
-                  ]
-            },
-            {
-                  "name": "Plage de la Fosse aux Vaults",
-                  "text": "Plage de la Fosse aux Vaults ist ein Strand an der Küste von Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.09428,
-                        48.633919
-                  ]
-            },
-            {
-                  "name": "Plage de Longchamp",
-                  "text": "Plage de Longchamp ist ein bekannter Sandstrand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.122291,
-                        48.636803
-                  ]
-            },
-            {
-                  "name": "Plage de Port Hue",
-                  "text": "Plage de Port Hue ist ein Strandziel in der Stadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.14002,
-                        48.632585
-                  ]
-            },
-            {
-                  "name": "Plage de la Fourberie",
-                  "text": "Plage de la Fourberie ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.086168,
-                        48.635289
-                  ]
-            },
-            {
-                  "name": "Plage du Perron",
-                  "text": "Plage du Perron ist ein Küstenstrand in der Gegend von Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.15123,
-                        48.629101
-                  ]
-            },
-            {
-                  "name": "Plage du Port-Blanc",
-                  "text": "Plage du Port-Blanc ist ein Strand in der Küstenstadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.081909,
-                        48.636492
-                  ]
-            },
-            {
-                  "name": "Plage du Prieuré",
-                  "text": "Plage du Prieuré ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.052261,
-                        48.625726
-                  ]
-            },
-            {
-                  "name": "Plage du Rieul",
-                  "text": "Plage du Rieul ist ein lokaler Strand in der Stadt Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.142039,
-                        48.613319
-                  ]
-            },
-            {
-                  "name": "Plage de la Garde Guérin",
-                  "text": "Plage de la Garde Guérin ist ein Strand an der Küstenlinie von Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.135985,
-                        48.634682
-                  ]
-            },
-            {
-                  "name": "Plage des Hirondelles",
-                  "text": "Plage des Hirondelles ist ein Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.116887,
-                        48.640988
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sieu",
-                  "text": "Plage de Saint-Sieu ist ein Strandziel in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.156462,
-                        48.608873
-                  ]
-            },
-            {
-                  "name": "Plage de La Hoguette",
-                  "text": "Plage de La Hoguette ist ein Strandgebiet in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.000208,
-                        48.661594
-                  ]
-            },
-            {
-                  "name": "Crique du Fort",
-                  "text": "Crique du Fort ist eine Strandbucht in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.988243,
-                        48.678634
-                  ]
-            },
-            {
-                  "name": "Plage naturiste",
-                  "text": "Plage naturiste ist ein FKK-Strand in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.089678,
-                        48.634204
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Écluse-strand",
-                  "text": "Dinard fő strandja a kék-fehér csíkos strandsátrairól és a part menti elegáns sétányáról ismert világszerte.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0546,
-                        48.6361
-                  ]
-            },
-            {
-                  "name": "Holdfény-sétány",
-                  "text": "Ez a tengerparti ösvény éjszaka kivilágítva várja a látogatókat, csodás kilátást nyújtva Saint-Malo városára.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.05205,
-                        48.63156
-                  ]
-            },
-            {
-                  "name": "Belle Époque villák",
-                  "text": "A város több mint 400 pompás 19. századi villával büszkélkedhet, amelyek a luxusüdülőhely aranykorát idézik.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053192,
-                        48.629868
-                  ]
-            },
-            {
-                  "name": "Pointe du Moulinet",
-                  "text": "A sziklás földnyelv panorámás kilátópont, ahonnan belátható az egész smaragdpart és a Rance folyó torkolata.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.04945,
-                        48.636984
-                  ]
-            },
-            {
-                  "name": "Dinard Kaszinó",
-                  "text": "A közvetlenül a tengerparton álló épület a város társasági életének központja és építészeti jelképe.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053479,
-                        48.635359
-                  ]
-            },
-            {
-                  "name": "Alfred Hitchcock szobra",
-                  "text": "A szobor a város híres brit filmfesztiváljának állít emléket, utalva a rendező helyi kötődésére.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.054745,
-                        48.635472
-                  ]
-            },
-            {
-                  "name": "Plage de Port Salut",
-                  "text": "A Plage de Port Salut egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.059417,
-                        48.64003
-                  ]
-            },
-            {
-                  "name": "Plage du Rocher",
-                  "text": "A Plage du Rocher egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145507,
-                        48.619899
-                  ]
-            },
-            {
-                  "name": "Plage des Fours à Chaux",
-                  "text": "A Plage des Fours à Chaux egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013936,
-                        48.627238
-                  ]
-            },
-            {
-                  "name": "Plage du Môle",
-                  "text": "A Plage du Môle egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.031398,
-                        48.645096
-                  ]
-            },
-            {
-                  "name": "Plage de Bon Secours",
-                  "text": "A Plage de Bon Secours egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.029856,
-                        48.648713
-                  ]
-            },
-            {
-                  "name": "Plage Malo",
-                  "text": "A Plage Malo egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.02665,
-                        48.652861
-                  ]
-            },
-            {
-                  "name": "Plage de l'Islet",
-                  "text": "A Plage de l'Islet egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.151623,
-                        48.61786
-                  ]
-            },
-            {
-                  "name": "Plage de la Cerisaie",
-                  "text": "A Plage de la Cerisaie egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143596,
-                        48.617765
-                  ]
-            },
-            {
-                  "name": "Plage du Corps de Garde",
-                  "text": "A Plage du Corps de Garde egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.152862,
-                        48.615104
-                  ]
-            },
-            {
-                  "name": "Plage du Minihic",
-                  "text": "A Plage du Minihic egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.9888,
-                        48.670555
-                  ]
-            },
-            {
-                  "name": "Plage des Bas-Sablons",
-                  "text": "A Plage des Bas-Sablons egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020337,
-                        48.638292
-                  ]
-            },
-            {
-                  "name": "Plage de Rochebonne",
-                  "text": "A Plage de Rochebonne egy kellemes strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.992821,
-                        48.666109
-                  ]
-            },
-            {
-                  "name": "Plage du Pont",
-                  "text": "A Plage du Pont egy tengerparti strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985065,
-                        48.674715
-                  ]
-            },
-            {
-                  "name": "Plage de la Varde",
-                  "text": "A Plage de la Varde egy tengerparti kilátást nyújtó strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985737,
-                        48.681945
-                  ]
-            },
-            {
-                  "name": "Plage du Béchet",
-                  "text": "A Plage du Béchet egy helyi strandszakasz Dinard területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.140614,
-                        48.625219
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Salinette",
-                  "text": "A Plage de la Petite Salinette egy hangulatos strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.146384,
-                        48.626609
-                  ]
-            },
-            {
-                  "name": "Plage de Solidor",
-                  "text": "A Plage de Solidor egy pihentető tengerparti úti cél Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.022829,
-                        48.634004
-                  ]
-            },
-            {
-                  "name": "Plage du Rosais",
-                  "text": "A Plage du Rosais egy festői strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013476,
-                        48.624386
-                  ]
-            },
-            {
-                  "name": "Plage des Corbières",
-                  "text": "A Plage des Corbières egy gyönyörű strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020425,
-                        48.630972
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Énogat",
-                  "text": "A Plage de Saint-Énogat egy jól ismert homokos strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.069368,
-                        48.639085
-                  ]
-            },
-            {
-                  "name": "Plage de Port-Riou",
-                  "text": "A Plage de Port-Riou egy tengerparti helyszín Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.06502,
-                        48.639269
-                  ]
-            },
-            {
-                  "name": "Plage du Tertre Pelé",
-                  "text": "A Plage du Tertre Pelé egy békés strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145186,
-                        48.63188
-                  ]
-            },
-            {
-                  "name": "Plage de la Vicomté",
-                  "text": "A Plage de la Vicomté egy szép strandszakasz Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.036163,
-                        48.625602
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "A Grande Plage egy nagy fő strand Dinard tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.108911,
-                        48.637851
-                  ]
-            },
-            {
-                  "name": "Plage du Port aux Chevaux",
-                  "text": "A Plage du Port aux Chevaux egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.149899,
-                        48.63177
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Salinette",
-                  "text": "A Plage de la Grande Salinette egy helyi strand Dinard-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143774,
-                        48.624641
-                  ]
-            },
-            {
-                  "name": "Plage de la Fosse aux Vaults",
-                  "text": "A Plage de la Fosse aux Vaults egy strand Dinard partjainál.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.09428,
-                        48.633919
-                  ]
-            },
-            {
-                  "name": "Plage de Longchamp",
-                  "text": "A Plage de Longchamp egy homokos strand Dinard-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.122291,
-                        48.636803
-                  ]
-            },
-            {
-                  "name": "Plage de Port Hue",
-                  "text": "A Plage de Port Hue egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.14002,
-                        48.632585
-                  ]
-            },
-            {
-                  "name": "Plage de la Fourberie",
-                  "text": "A Plage de la Fourberie egy strand Dinard-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.086168,
-                        48.635289
-                  ]
-            },
-            {
-                  "name": "Plage du Perron",
-                  "text": "A Plage du Perron egy tengerparti strand Dinard környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.15123,
-                        48.629101
-                  ]
-            },
-            {
-                  "name": "Plage du Port-Blanc",
-                  "text": "A Plage du Port-Blanc egy strand Dinard tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.081909,
-                        48.636492
-                  ]
-            },
-            {
-                  "name": "Plage du Prieuré",
-                  "text": "A Plage du Prieuré egy strand Dinard-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.052261,
-                        48.625726
-                  ]
-            },
-            {
-                  "name": "Plage du Rieul",
-                  "text": "A Plage du Rieul egy helyi strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.142039,
-                        48.613319
-                  ]
-            },
-            {
-                  "name": "Plage de la Garde Guérin",
-                  "text": "A Plage de la Garde Guérin egy strand Dinard partvonalán.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.135985,
-                        48.634682
-                  ]
-            },
-            {
-                  "name": "Plage des Hirondelles",
-                  "text": "A Plage des Hirondelles egy strand Dinard városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.116887,
-                        48.640988
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sieu",
-                  "text": "A Plage de Saint-Sieu egy strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.156462,
-                        48.608873
-                  ]
-            },
-            {
-                  "name": "Plage de La Hoguette",
-                  "text": "A Plage de La Hoguette egy partszakasz Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.000208,
-                        48.661594
-                  ]
-            },
-            {
-                  "name": "Crique du Fort",
-                  "text": "A Crique du Fort egy tengerparti öböl Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.988243,
-                        48.678634
-                  ]
-            },
-            {
-                  "name": "Plage naturiste",
-                  "text": "A Plage naturiste egy naturista strand Dinardban.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.089678,
-                        48.634204
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plaja l'Écluse",
-                  "text": "Cea mai populară plajă din Dinard, renumită pentru corturile sale de baie în dungi albastre și albe și promenada sa șic.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0546,
-                        48.6361
-                  ]
-            },
-            {
-                  "name": "Promenada Clair de Lune",
-                  "text": "O alee de coastă spectaculoasă care pe timpul verii este iluminată și acompaniată de muzică, oferind vederi spre Saint-Malo.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.05205,
-                        48.63156
-                  ]
-            },
-            {
-                  "name": "Vilele Belle Époque",
-                  "text": "Dinard conservă peste 400 de vile monumentale ce amintesc de perioada în care orașul era destinația preferată a aristocrației britanice.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053192,
-                        48.629868
-                  ]
-            },
-            {
-                  "name": "Pointe du Moulinet",
-                  "text": "Un punct de observație strategic de unde se poate admira arhitectura impunătoare a vilelor și marea de culoarea smaraldului.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.04945,
-                        48.636984
-                  ]
-            },
-            {
-                  "name": "Cazinoul din Dinard",
-                  "text": "Situat pe faleză, cazinoul este o emblemă a distracției rafinate și a arhitecturii litorale clasice franceze.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053479,
-                        48.635359
-                  ]
-            },
-            {
-                  "name": "Statuia lui Alfred Hitchcock",
-                  "text": "O sculptură neobișnuită ce onorează legătura cineastului cu orașul și prestigiosul Festival al Filmului Britanic de aici.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.054745,
-                        48.635472
-                  ]
-            },
-            {
-                  "name": "Plage de Port Salut",
-                  "text": "Plage de Port Salut este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.059417,
-                        48.64003
-                  ]
-            },
-            {
-                  "name": "Plage du Rocher",
-                  "text": "Plage du Rocher este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145507,
-                        48.619899
-                  ]
-            },
-            {
-                  "name": "Plage des Fours à Chaux",
-                  "text": "Plage des Fours à Chaux este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013936,
-                        48.627238
-                  ]
-            },
-            {
-                  "name": "Plage du Môle",
-                  "text": "Plage du Môle este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.031398,
-                        48.645096
-                  ]
-            },
-            {
-                  "name": "Plage de Bon Secours",
-                  "text": "Plage de Bon Secours este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.029856,
-                        48.648713
-                  ]
-            },
-            {
-                  "name": "Plage Malo",
-                  "text": "Plage Malo este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.02665,
-                        48.652861
-                  ]
-            },
-            {
-                  "name": "Plage de l'Islet",
-                  "text": "Plage de l'Islet este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.151623,
-                        48.61786
-                  ]
-            },
-            {
-                  "name": "Plage de la Cerisaie",
-                  "text": "Plage de la Cerisaie este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143596,
-                        48.617765
-                  ]
-            },
-            {
-                  "name": "Plage du Corps de Garde",
-                  "text": "Plage du Corps de Garde este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.152862,
-                        48.615104
-                  ]
-            },
-            {
-                  "name": "Plage du Minihic",
-                  "text": "Plage du Minihic este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.9888,
-                        48.670555
-                  ]
-            },
-            {
-                  "name": "Plage des Bas-Sablons",
-                  "text": "Plage des Bas-Sablons este o plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020337,
-                        48.638292
-                  ]
-            },
-            {
-                  "name": "Plage de Rochebonne",
-                  "text": "Plage de Rochebonne este o plajă plăcută situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.992821,
-                        48.666109
-                  ]
-            },
-            {
-                  "name": "Plage du Pont",
-                  "text": "Plage du Pont este o plajă de coastă situată în orașul Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985065,
-                        48.674715
-                  ]
-            },
-            {
-                  "name": "Plage de la Varde",
-                  "text": "Plage de la Varde este o plajă care oferă vedere la coastă în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985737,
-                        48.681945
-                  ]
-            },
-            {
-                  "name": "Plage du Béchet",
-                  "text": "Plage du Béchet este o zonă de plajă locală situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.140614,
-                        48.625219
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Salinette",
-                  "text": "Plage de la Petite Salinette este o plajă fermecătoare aflată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.146384,
-                        48.626609
-                  ]
-            },
-            {
-                  "name": "Plage de Solidor",
-                  "text": "Plage de Solidor este o destinație de plajă relaxantă situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.022829,
-                        48.634004
-                  ]
-            },
-            {
-                  "name": "Plage du Rosais",
-                  "text": "Plage du Rosais este o plajă pitorească situată în orașul Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013476,
-                        48.624386
-                  ]
-            },
-            {
-                  "name": "Plage des Corbières",
-                  "text": "Plage des Corbières este un cadru frumos de plajă în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020425,
-                        48.630972
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Énogat",
-                  "text": "Plage de Saint-Énogat este o plajă de nisip bine cunoscută situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.069368,
-                        48.639085
-                  ]
-            },
-            {
-                  "name": "Plage de Port-Riou",
-                  "text": "Plage de Port-Riou este un loc de plajă pe coastă în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.06502,
-                        48.639269
-                  ]
-            },
-            {
-                  "name": "Plage du Tertre Pelé",
-                  "text": "Plage du Tertre Pelé este o plajă liniștită situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145186,
-                        48.63188
-                  ]
-            },
-            {
-                  "name": "Plage de la Vicomté",
-                  "text": "Plage de la Vicomté este o zonă de plajă minunată situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.036163,
-                        48.625602
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage este o plajă principală situată în orașul de coastă Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.108911,
-                        48.637851
-                  ]
-            },
-            {
-                  "name": "Plage du Port aux Chevaux",
-                  "text": "Plage du Port aux Chevaux este o plajă situată în orașul Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.149899,
-                        48.63177
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Salinette",
-                  "text": "Plage de la Grande Salinette este o plajă locală situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143774,
-                        48.624641
-                  ]
-            },
-            {
-                  "name": "Plage de la Fosse aux Vaults",
-                  "text": "Plage de la Fosse aux Vaults este o plajă situată pe coasta din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.09428,
-                        48.633919
-                  ]
-            },
-            {
-                  "name": "Plage de Longchamp",
-                  "text": "Plage de Longchamp este o plajă de nisip situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.122291,
-                        48.636803
-                  ]
-            },
-            {
-                  "name": "Plage de Port Hue",
-                  "text": "Plage de Port Hue este o destinație de plajă aflată în orașul Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.14002,
-                        48.632585
-                  ]
-            },
-            {
-                  "name": "Plage de la Fourberie",
-                  "text": "Plage de la Fourberie este o plajă situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.086168,
-                        48.635289
-                  ]
-            },
-            {
-                  "name": "Plage du Perron",
-                  "text": "Plage du Perron este o plajă de coastă situată în zona Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.15123,
-                        48.629101
-                  ]
-            },
-            {
-                  "name": "Plage du Port-Blanc",
-                  "text": "Plage du Port-Blanc este o plajă situată în orașul de coastă Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.081909,
-                        48.636492
-                  ]
-            },
-            {
-                  "name": "Plage du Prieuré",
-                  "text": "Plage du Prieuré este o plajă situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.052261,
-                        48.625726
-                  ]
-            },
-            {
-                  "name": "Plage du Rieul",
-                  "text": "Plage du Rieul este o plajă locală situată în orașul Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.142039,
-                        48.613319
-                  ]
-            },
-            {
-                  "name": "Plage de la Garde Guérin",
-                  "text": "Plage de la Garde Guérin este o plajă situată pe țărmul din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.135985,
-                        48.634682
-                  ]
-            },
-            {
-                  "name": "Plage des Hirondelles",
-                  "text": "Plage des Hirondelles este o plajă în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.116887,
-                        48.640988
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sieu",
-                  "text": "Plage de Saint-Sieu este o destinație de plajă în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.156462,
-                        48.608873
-                  ]
-            },
-            {
-                  "name": "Plage de La Hoguette",
-                  "text": "Plage de La Hoguette este o zonă de plajă situată în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.000208,
-                        48.661594
-                  ]
-            },
-            {
-                  "name": "Crique du Fort",
-                  "text": "Crique du Fort este un golfuleț cu plajă din Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.988243,
-                        48.678634
-                  ]
-            },
-            {
-                  "name": "Plage naturiste",
-                  "text": "Plage naturiste este o plajă pentru nudiști în Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.089678,
-                        48.634204
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Écluse Beach",
-                  "text": "The town's main beach is iconic for its blue-and-white striped bathing tents and grand surrounding architecture.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.0546,
-                        48.6361
-                  ]
-            },
-            {
-                  "name": "Moonlight Promenade",
-                  "text": "A scenic coastal walk that comes alive at night with lights and music, offering breathtaking views of the bay.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.05205,
-                        48.63156
-                  ]
-            },
-            {
-                  "name": "Belle Époque Villas",
-                  "text": "More than 400 stunning villas from the 19th century dominate the cliffs, showcasing the town's aristocratic heritage.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053192,
-                        48.629868
-                  ]
-            },
-            {
-                  "name": "Pointe du Moulinet",
-                  "text": "A rocky headland offering a 360-degree panorama of the Emerald Coast, the Rance estuary, and the town of Saint-Malo.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.04945,
-                        48.636984
-                  ]
-            },
-            {
-                  "name": "Dinard Casino",
-                  "text": "An elegant beachfront landmark that has been the center of high-society entertainment since the town's golden age.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.053479,
-                        48.635359
-                  ]
-            },
-            {
-                  "name": "Alfred Hitchcock Statue",
-                  "text": "Erected in honor of the British Film Festival, this statue commemorates the director's visits to this charming seaside resort.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.054745,
-                        48.635472
-                  ]
-            },
-            {
-                  "name": "Plage de Port Salut",
-                  "text": "Plage de Port Salut is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.059417,
-                        48.64003
-                  ]
-            },
-            {
-                  "name": "Plage du Rocher",
-                  "text": "Plage du Rocher is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145507,
-                        48.619899
-                  ]
-            },
-            {
-                  "name": "Plage des Fours à Chaux",
-                  "text": "Plage des Fours à Chaux is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013936,
-                        48.627238
-                  ]
-            },
-            {
-                  "name": "Plage du Môle",
-                  "text": "Plage du Môle is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.031398,
-                        48.645096
-                  ]
-            },
-            {
-                  "name": "Plage de Bon Secours",
-                  "text": "Plage de Bon Secours is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.029856,
-                        48.648713
-                  ]
-            },
-            {
-                  "name": "Plage Malo",
-                  "text": "Plage Malo is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.02665,
-                        48.652861
-                  ]
-            },
-            {
-                  "name": "Plage de l'Islet",
-                  "text": "Plage de l'Islet is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.151623,
-                        48.61786
-                  ]
-            },
-            {
-                  "name": "Plage de la Cerisaie",
-                  "text": "Plage de la Cerisaie is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143596,
-                        48.617765
-                  ]
-            },
-            {
-                  "name": "Plage du Corps de Garde",
-                  "text": "Plage du Corps de Garde is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.152862,
-                        48.615104
-                  ]
-            },
-            {
-                  "name": "Plage du Minihic",
-                  "text": "Plage du Minihic is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.9888,
-                        48.670555
-                  ]
-            },
-            {
-                  "name": "Plage des Bas-Sablons",
-                  "text": "Plage des Bas-Sablons is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020337,
-                        48.638292
-                  ]
-            },
-            {
-                  "name": "Plage de Rochebonne",
-                  "text": "Plage de Rochebonne is a pleasant beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.992821,
-                        48.666109
-                  ]
-            },
-            {
-                  "name": "Plage du Pont",
-                  "text": "Plage du Pont is a coastal beach situated in the city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985065,
-                        48.674715
-                  ]
-            },
-            {
-                  "name": "Plage de la Varde",
-                  "text": "Plage de la Varde is a beach offering coastal views in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.985737,
-                        48.681945
-                  ]
-            },
-            {
-                  "name": "Plage du Béchet",
-                  "text": "Plage du Béchet is a local beach area located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.140614,
-                        48.625219
-                  ]
-            },
-            {
-                  "name": "Plage de la Petite Salinette",
-                  "text": "Plage de la Petite Salinette is a charming beach found in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.146384,
-                        48.626609
-                  ]
-            },
-            {
-                  "name": "Plage de Solidor",
-                  "text": "Plage de Solidor is a relaxing beach destination situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.022829,
-                        48.634004
-                  ]
-            },
-            {
-                  "name": "Plage du Rosais",
-                  "text": "Plage du Rosais is a scenic beach located in the city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.013476,
-                        48.624386
-                  ]
-            },
-            {
-                  "name": "Plage des Corbières",
-                  "text": "Plage des Corbières is a beautiful beach setting in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.020425,
-                        48.630972
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Énogat",
-                  "text": "Plage de Saint-Énogat is a well-known sandy beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.069368,
-                        48.639085
-                  ]
-            },
-            {
-                  "name": "Plage de Port-Riou",
-                  "text": "Plage de Port-Riou is a coastal beach spot in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.06502,
-                        48.639269
-                  ]
-            },
-            {
-                  "name": "Plage du Tertre Pelé",
-                  "text": "Plage du Tertre Pelé is a peaceful beach situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.145186,
-                        48.63188
-                  ]
-            },
-            {
-                  "name": "Plage de la Vicomté",
-                  "text": "Plage de la Vicomté is a lovely beach area located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.036163,
-                        48.625602
-                  ]
-            },
-            {
-                  "name": "Grande Plage",
-                  "text": "Grande Plage is a large main beach located in the coastal city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.108911,
-                        48.637851
-                  ]
-            },
-            {
-                  "name": "Plage du Port aux Chevaux",
-                  "text": "Plage du Port aux Chevaux is a beach located in the city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.149899,
-                        48.63177
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Salinette",
-                  "text": "Plage de la Grande Salinette is a local beach situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.143774,
-                        48.624641
-                  ]
-            },
-            {
-                  "name": "Plage de la Fosse aux Vaults",
-                  "text": "Plage de la Fosse aux Vaults is a beach located on the coast of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.09428,
-                        48.633919
-                  ]
-            },
-            {
-                  "name": "Plage de Longchamp",
-                  "text": "Plage de Longchamp is a sandy beach situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.122291,
-                        48.636803
-                  ]
-            },
-            {
-                  "name": "Plage de Port Hue",
-                  "text": "Plage de Port Hue is a beach destination found in the city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.14002,
-                        48.632585
-                  ]
-            },
-            {
-                  "name": "Plage de la Fourberie",
-                  "text": "Plage de la Fourberie is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.086168,
-                        48.635289
-                  ]
-            },
-            {
-                  "name": "Plage du Perron",
-                  "text": "Plage du Perron is a coastal beach located in the area of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.15123,
-                        48.629101
-                  ]
-            },
-            {
-                  "name": "Plage du Port-Blanc",
-                  "text": "Plage du Port-Blanc is a beach located in the coastal city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.081909,
-                        48.636492
-                  ]
-            },
-            {
-                  "name": "Plage du Prieuré",
-                  "text": "Plage du Prieuré is a beach situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.052261,
-                        48.625726
-                  ]
-            },
-            {
-                  "name": "Plage du Rieul",
-                  "text": "Plage du Rieul is a local beach situated in the city of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.142039,
-                        48.613319
-                  ]
-            },
-            {
-                  "name": "Plage de la Garde Guérin",
-                  "text": "Plage de la Garde Guérin is a beach located on the shoreline of Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.135985,
-                        48.634682
-                  ]
-            },
-            {
-                  "name": "Plage des Hirondelles",
-                  "text": "Plage des Hirondelles is a beach located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.116887,
-                        48.640988
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sieu",
-                  "text": "Plage de Saint-Sieu is a beach destination in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.156462,
-                        48.608873
-                  ]
-            },
-            {
-                  "name": "Plage de La Hoguette",
-                  "text": "Plage de La Hoguette is a beach area situated in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.000208,
-                        48.661594
-                  ]
-            },
-            {
-                  "name": "Crique du Fort",
-                  "text": "Crique du Fort is a beach cove located in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.988243,
-                        48.678634
-                  ]
-            },
-            {
-                  "name": "Plage naturiste",
-                  "text": "Plage naturiste is a designated naturist beach in Dinard.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.089678,
-                        48.634204
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Plage de l'Écluse",
-                  "text": "La plage principale de Dinard est connue pour ses tentes de plage rayées bleu et blanc caractéristiques et son élégante promenade.",
-                  "category": "natural",
-                  "coords": [
-                        -2.0546,
-                        48.6361
-                  ]
-            },
-            {
-                  "name": "Promenade au Clair de Lune",
-                  "text": "Un chemin côtier pittoresque qui est illuminé le soir, offrant des vues de rêve sur la baie de Saint-Malo.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.05205,
-                        48.63156
-                  ]
-            },
-            {
-                  "name": "Villas Belle Époque",
-                  "text": "Plus de 400 villas somptueuses de la fin du XIXe siècle confèrent à la station balnéaire son caractère mondain et nostalgique.",
-                  "category": "historical",
-                  "coords": [
-                        -2.053192,
-                        48.629868
-                  ]
-            },
-            {
-                  "name": "Pointe du Moulinet",
-                  "text": "Cette pointe rocheuse offre une vue panoramique spectaculaire sur la mer, l'estuaire de la Rance et la cité fortifiée de Saint-Malo.",
-                  "category": "natural",
-                  "coords": [
-                        -2.04945,
-                        48.636984
-                  ]
-            },
-            {
-                  "name": "Casino de Dinard",
-                  "text": "Situé directement en bord de mer, le casino est un symbole de la ville et reflète le style de vie luxueux de la Belle Époque.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.053479,
-                        48.635359
-                  ]
-            },
-            {
-                  "name": "Statue d'Alfred Hitchcock",
-                  "text": "Cette statue rappelle le célèbre festival du film de Dinard et l'inspiration présumée pour le film Les Oiseaux.",
-                  "category": "cultural",
-                  "coords": [
-                        -2.054745,
-                        48.635472
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Plage de l'Écluse", "text": "Der Hauptstrand von Dinard besticht durch seine elegante Promenade und die ikonischen, blau-weiß gestreiften Badezelte. Die Atmosphäre versprüht einen Hauch von historischem Küsten-Chic. Hier können Badegäste im feinen Sand entspannen oder entlang der Küstenwege schlendern. Ein Besuch im Sommer zeigt den Strand von seiner lebhaftesten Seite.", "category": "natural", "confidence": "high", "coords": [-2.0546, 48.6361]}, {"name": "Promenade au Clair de Lune", "text": "Ein malerischer Küstenweg, der am Abend beleuchtet wird und traumhafte Ausblicke auf die Bucht von Saint-Malo bietet.", "category": "recreational", "confidence": "high", "coords": [-2.05205, 48.63156]}, {"name": "Belle-Époque-Villen", "text": "Über 400 prächtige Villen aus dem späten 19. Jahrhundert verleihen dem Badeort seinen mondänen und nostalgischen Charakter.", "category": "historical", "confidence": "high", "coords": [-2.053192, 48.629868]}, {"name": "Pointe du Moulinet", "text": "Diese felsige Landspitze bietet einen spektakulären Rundumblick auf das Meer, die Rance-Mündung und die befestigte Stadt Saint-Malo.", "category": "natural", "confidence": "high", "coords": [-2.04945, 48.636984]}, {"name": "Casino de Dinard", "text": "Das direkt am Meer gelegene Casino ist ein Wahrzeichen des Ortes und spiegelt den luxuriösen Lebensstil der Belle Époque wider.", "category": "recreational", "confidence": "high", "coords": [-2.053479, 48.635359]}, {"name": "Alfred-Hitchcock-Statue", "text": "Diese Statue erinnert an das berühmte Filmfestival von Dinard und die angebliche Inspiration für den Film Die Vögel.", "category": "cultural", "confidence": "high", "coords": [-2.054745, 48.635472]}, {"name": "Plage de Port Salut", "text": "Dieser Strandabschnitt fügt sich harmonisch in die Küstenlinie von Dinard ein. Das maritime Umfeld lädt dazu ein, die Seele am Rand des Meeres baumeln zu lassen. Besucher können sich auf ruhige Stunden am Ufer und entspannte Wasseraktivitäten freuen. Frühaufsteher genießen hier oft die beste Atmosphäre.", "category": "recreational", "coords": [-2.059417, 48.64003]}, {"name": "Plage du Rocher", "text": "Umgeben von der felsigen Natur der Küste von Dinard, liegt dieser Strandabschnitt malerisch am Wasser. Die Umgebung strahlt eine beruhigende, natürliche Schönheit aus. Es ist ein schöner Ort, um das Meeresschauspiel zu beobachten und frische Luft zu tanken. Festes Schuhwerk ist für die Erkundung der angrenzenden Felsen ratsam.", "category": "recreational", "coords": [-2.145507, 48.619899]}, {"name": "Plage des Fours à Chaux", "text": "An der Küste von Dinard gelegen, bietet dieser Strand einen unkomplizierten Zugang zum Wasser. Das Meeresflair macht ihn zu einem angenehmen Rückzugsort für Erholungssuchende. Man verbringt hier gerne Zeit mit Sonnenbaden oder leichtem Schwimmen im kühlen Nass. Vorab die Gezeitenzeiten zu prüfen, ist immer eine gute Idee.", "category": "recreational", "coords": [-2.013936, 48.627238]}, {"name": "Plage du Môle", "text": "In Dinard finden Strandliebhaber an diesem Küstenabschnitt einen charmanten Platz am Meer. Die Nähe zum Wasser und die frische Brise beleben die Sinne. Spaziergänge am Ufer und ruhige Momente auf dem Sand gehören zu den Hauptaktivitäten. Bei strahlendem Sonnenschein entfaltet der Ort seinen vollen Reiz.", "category": "recreational", "coords": [-2.031398, 48.645096]}, {"name": "Plage de Bon Secours", "text": "Ein weiterer attraktiver Strand in Dinard lädt dazu ein, die französische Küstenluft zu genießen. Die ruhigere Lage abseits der ganz großen Massen verspricht Entspannung pur. Schwimmen im Ozean oder einfach nur das Rauschen der Wellen hören – beides ist möglich. Ein Handtuch und etwas Proviant reichen für einen gelungenen Aufenthalt.", "category": "recreational", "coords": [-2.029856, 48.648713]}, {"name": "Plage Malo", "text": "Mitten in Dinard präsentiert sich dieser Strand als unkompliziertes Ziel für Küstenausflüge. Das Wasser des Ärmelkanals sorgt für Erfrischung an warmen Tagen. Einheimische wie Touristen schätzen die einfache Zugänglichkeit und das offene Panorama. An heißen Sommertagen sollte man an ausreichenden Sonnenschutz denken.", "category": "recreational", "coords": [-2.02665, 48.652861]}, {"name": "Plage de l'Islet", "text": "Klein und fein liegt dieser Küstenabschnitt in Dinard direkt am Wasser. Die Atmosphäre ist angenehm unaufgeregt und maritim geprägt. Hier lässt es sich wunderbar in der Sonne liegen und dem Spiel der Gezeiten zuschauen. Ein idealer Ort für alle, die eine kurze Pause am Meer suchen.", "category": "recreational", "coords": [-2.151623, 48.61786]}, {"name": "Plage de la Cerisaie", "text": "Dieser Strand bereichert die Auswahl an Badeorten im französischen Dinard. Das Meeresufer zieht Erholungssuchende mit seinem klassischen Küstenflair an. Schwimmen und Spaziergänge im weichen Sand bestimmen das Tagesprogramm. Die Morgenstunden bieten meist die meiste Ruhe für einen Strandbesuch.", "category": "recreational", "coords": [-2.143596, 48.617765]}, {"name": "Plage du Corps de Garde", "text": "Mit freiem Blick auf das Meer lädt dieser Strand in Dinard zum Verweilen ein. Die Küstenlandschaft der Region zeigt sich hier von ihrer ruhigeren Seite. Es ist ein fabelhafter Ort, um die Füße ins Wasser zu halten und die Gedanken schweifen zu lassen. Ein Besuch lohnt sich besonders bei klarem Wetter für die Aussicht.", "category": "recreational", "coords": [-2.152862, 48.615104]}, {"name": "Plage du Minihic", "text": "Abseits des großen Trubels bietet dieser Strand in Dinard eine familiäre Umgebung am Meer. Das ruhige Uferambiente ist ideal, um fernab der Massen auszuspannen. Badegäste genießen die Nähe zum Ozean und den ungestörten Küstencharme. Für einen längeren Aufenthalt sollten Snacks und Getränke selbst mitgebracht werden.", "category": "recreational", "coords": [-1.9888, 48.670555]}, {"name": "Plage des Bas-Sablons", "text": "Der Plage des Bas-Sablons liegt an der französischen Küste von Dinard und bietet eine entspannte Atmosphäre. Besucher können hier am Wasser entlang spazieren und die Meeresbrise genießen. Dieser Strand eignet sich besonders gut für einen ruhigen Nachmittag im Sommer.", "category": "recreational", "coords": [-2.020337, 48.638292]}, {"name": "Plage de Rochebonne", "text": "Als angenehmer Rückzugsort in Dinard lädt der Plage de Rochebonne zu entspannten Stunden am Meer ein. Die französische Küstenlandschaft bildet eine malerische Kulisse für Spaziergänge am Wasser. Ein Besuch empfiehlt sich vor allem an warmen Tagen, um die erfrischende Umgebung zu erleben.", "category": "recreational", "coords": [-1.992821, 48.666109]}, {"name": "Plage du Pont", "text": "Der Küstenstrand Plage du Pont in Dinard bietet einen direkten Zugang zum französischen Meer. Hier erwartet die Gäste ein typisches maritimes Ambiente, das zum Sonnenbaden und Verweilen einlädt. Um den Tag optimal zu nutzen, empfiehlt sich eine Anreise in den frühen Morgenstunden.", "category": "recreational", "coords": [-1.985065, 48.674715]}, {"name": "Plage de la Varde", "text": "Mit einem weiten Blick auf die Küste von Dinard fasziniert der Plage de la Varde seine Besucher. Die Naturkulisse in Frankreich schafft eine ruhige Umgebung für Strandspaziergänge und Naturbeobachtungen. Dieser Ort ist ideal, um an sonnigen Tagen frische Seeluft zu schnappen.", "category": "recreational", "coords": [-1.985737, 48.681945]}, {"name": "Plage du Béchet", "text": "Als lokaler Strandabschnitt in Dinard spiegelt der Plage du Béchet den authentischen Charme der französischen Küste wider. Hier treffen sich Einheimische und Besucher, um das Meer und die sandige Umgebung zu genießen. Für einen entspannten Aufenthalt bringt man am besten eine bequeme Stranddecke mit.", "category": "recreational", "coords": [-2.140614, 48.625219]}, {"name": "Plage de la Petite Salinette", "text": "Der charmante Plage de la Petite Salinette liegt reizvoll an der Küste von Dinard. Er bietet Besuchern eine intime und einladende Atmosphäre, fernab des großen Trubels der französischen Strände. Besonders in den wärmeren Monaten lohnt sich ein Ausflug an diesen beschaulichen Ort.", "category": "recreational", "coords": [-2.146384, 48.626609]}, {"name": "Plage de Solidor", "text": "Für Erholungsuchende ist der Plage de Solidor in Dinard ein hervorragendes Ziel am Meer. Die sanfte Meeresströmung der französischen Küste schafft ein wunderbares Umfeld für ruhige Momente. Besucher schätzen diesen Ort besonders für entspannte Abendspaziergänge im Sommer.", "category": "recreational", "coords": [-2.022829, 48.634004]}, {"name": "Plage du Rosais", "text": "Der malerische Plage du Rosais fügt sich nahtlos in das Stadtbild von Dinard ein. Dieser Strand an der französischen Küste lädt zum Verweilen und Genießen der natürlichen Schönheit ein. Wer dem Alltag entfliehen möchte, findet hier an sonnigen Nachmittagen den perfekten Rückzugsort.", "category": "recreational", "coords": [-2.013476, 48.624386]}, {"name": "Plage des Corbières", "text": "Eine schöne Strandlandschaft prägt das Bild des Plage des Corbières in Dinard. Die idyllische Lage in Frankreich macht diesen Ort zu einem beliebten Ziel für alle, die das Rauschen der Wellen lieben. Es ist ratsam, einen Besuch in den ruhigeren Morgenstunden einzuplanen.", "category": "recreational", "coords": [-2.020425, 48.630972]}, {"name": "Plage de Saint-Énogat", "text": "Als bekannter Sandstrand in Dinard zieht der Plage de Saint-Énogat viele Meeresliebhaber an. Die Weite der französischen Küste bietet hier ideale Bedingungen für einen klassischen Strandtag. An heißen Tagen empfiehlt sich ein früher Start, um die angenehmste Zeit am Wasser zu erleben.", "category": "recreational", "coords": [-2.069368, 48.639085]}, {"name": "Plage de Port-Riou", "text": "Der Plage de Port-Riou ist ein einladender Küstenstrandort in der Gegend von Dinard. Hier lässt sich die frische französische Seeluft bei ausgedehnten Spaziergängen am Ufer hervorragend genießen. Ein Besuch zur Ebbe offenbart zudem die weite Schönheit dieser Küstenlandschaft.", "category": "recreational", "coords": [-2.06502, 48.639269]}, {"name": "Plage du Tertre Pelé", "text": "Ruhige Momente am Meer erwarten die Gäste des friedlichen Plage du Tertre Pelé in Dinard. Diese Küstenoase in Frankreich bietet eine angenehme Atmosphäre für alle, die das Wasser lieben. Für einen entspannten Sommertag am Ufer ist dieser Strand eine ausgezeichnete Wahl.", "category": "recreational", "coords": [-2.145186, 48.63188]}, {"name": "Plage de la Vicomté", "text": "Ein wunderschöner Strandbereich zeichnet den Plage de la Vicomté in Dinard aus. Die französische Küste präsentiert sich hier von ihrer anmutigsten Seite und lädt zum Sonnenbaden ein. Besucher sollten im Sommer etwas Zeit mitbringen, um die maritime Szenerie vollends aufzunehmen.", "category": "recreational", "coords": [-2.036163, 48.625602]}, {"name": "Grande Plage", "text": "Der große Hauptstrand Grande Plage bildet das lebhafte Zentrum der Küstenstadt Dinard. Hier spürt man den Puls der französischen Riviera des Nordens, ideal für ausgedehnte Strandtage und Spaziergänge. Ein früher Besuch sichert die besten Plätze auf dem weitläufigen Sand in den Sommermonaten.", "category": "recreational", "coords": [-2.108911, 48.637851]}, {"name": "Plage du Port aux Chevaux", "text": "Entlang der Küste von Dinard bietet der Plage du Port aux Chevaux einen angenehmen Ort zum Entspannen. Die französische Meereskulisse lädt dazu ein, den Alltag hinter sich zu lassen. Ein Ausflug dorthin lohnt sich am meisten, wenn das Wetter zu einem Sprung ins kühle Nass einlädt.", "category": "recreational", "coords": [-2.149899, 48.63177]}, {"name": "Plage de la Grande Salinette", "text": "Der lokale Plage de la Grande Salinette in Dinard vermittelt ein authentisches Strandgefühl. Umgeben von der französischen Küstennatur, ist dieser Ort perfekt für entspannte Stunden am Wasser. Besucher finden hier an warmen Nachmittagen eine willkommene Erfrischung.", "category": "recreational", "coords": [-2.143774, 48.624641]}, {"name": "Plage de la Fosse aux Vaults", "text": "An der rauen Küste von Dinard gelegen, verspricht der Plage de la Fosse aux Vaults eindrucksvolle Ausblicke. Der französische Strandort ist ein idealer Punkt, um das maritime Flair voll auszukosten. Ein winddichter Pullover ist oftmals empfehlenswert für ausgedehnte Küstenspaziergänge.", "category": "recreational", "coords": [-2.09428, 48.633919]}, {"name": "Plage de Longchamp", "text": "Weicher Sand und das Rauschen des Meeres definieren den bekannten Plage de Longchamp in Dinard. Die französische Kulisse lädt zu langen Tagen am Strand und entspannten Spaziergängen ein. Am besten bringt man sich einen Sonnenschirm mit, um den Sommeraufenthalt perfekt zu machen.", "category": "recreational", "coords": [-2.122291, 48.636803]}, {"name": "Plage de Port Hue", "text": "Das charmante Strandziel Plage de Port Hue befindet sich in der schönen Stadt Dinard. Entlang der französischen Küstenlinie können Besucher hier entspannen und die maritime Atmosphäre genießen. Ein Besuch ist besonders empfehlenswert, wenn man die ruhigeren Seiten des Meeres sucht.", "category": "recreational", "coords": [-2.14002, 48.632585]}, {"name": "Plage de la Fourberie", "text": "Der Strand Plage de la Fourberie in Dinard ist ein wunderbarer Ort für Liebhaber des Meeres. Eingebettet in die französische Küstenlandschaft, bietet er Raum für Erholung und Spaziergänge im Sand. Wer den Strandaufenthalt voll auskosten möchte, wählt dafür am besten einen warmen Sommertag.", "category": "recreational", "coords": [-2.086168, 48.635289]}, {"name": "Plage du Perron", "text": "In der Gegend von Dinard lockt der Küstenstrand Plage du Perron mit seiner natürlichen Schönheit. An der französischen See gelegen, bietet dieser Ort eine schöne Kulisse für Momente der Entspannung. Ein Spaziergang am frühen Abend taucht den Strand oft in ein besonders stimmungsvolles Licht.", "category": "recreational", "coords": [-2.15123, 48.629101]}, {"name": "Plage du Port-Blanc", "text": "Die Küstenstadt Dinard beherbergt den einladenden Plage du Port-Blanc. Das französische Ufer präsentiert sich hier als idealer Ort zum Schwimmen und Sonnenbaden in ruhiger Umgebung. Für ein unbeschwertes Erlebnis am Meer ist ein Besuch bei gutem Sommerwetter sehr zu empfehlen.", "category": "recreational", "coords": [-2.081909, 48.636492]}, {"name": "Plage du Prieuré", "text": "Der Strand Plage du Prieuré lädt dazu ein, die maritime Seite von Dinard kennenzulernen. In Frankreichs Küstenlandschaft eingebettet, bietet er eine hervorragende Gelegenheit für entspannte Tage am Wasser. Am besten packt man ein gutes Buch ein, um die friedliche Zeit am Ufer zu genießen.", "category": "recreational", "coords": [-2.052261, 48.625726]}, {"name": "Plage du Rieul", "text": "Als malerischer lokaler Strand in Dinard verspricht der Plage du Rieul angenehme Stunden am Meer. Besucher schätzen das typisch französische Küstenambiente und die Möglichkeit zur Erholung abseits der Massen. Um die ruhige Atmosphäre optimal zu nutzen, empfiehlt sich ein Besuch am Morgen.", "category": "recreational", "coords": [-2.142039, 48.613319]}, {"name": "Plage de la Garde Guérin", "text": "Entlang der schönen Küstenlinie von Dinard findet sich der Strand Plage de la Garde Guérin. Dieses französische Naturidyll ist ein wunderbarer Ort, um frische Meeresluft zu atmen und dem Rauschen der Wellen zu lauschen. Für Naturliebhaber lohnt sich hier ein Ausflug zu jeder Jahreszeit.", "category": "recreational", "coords": [-2.135985, 48.634682]}, {"name": "Plage des Hirondelles", "text": "Eingebettet in die malerische Küste von Dinard bietet der Plage des Hirondelles einen einladenden Ort für Entspannung am Meer in Frankreich. Die Küstenlinie eignet sich hervorragend für unbeschwerte Spaziergänge und angenehme Momente in der Sonne. Es ist ein wunderbares Ziel, um die lokale maritime Atmosphäre zu erleben. Ein Besuch während der warmen Sommermonate verspricht den schönsten Rückzugsort an der Küste.", "category": "recreational", "coords": [-2.116887, 48.640988]}, {"name": "Plage de Saint-Sieu", "text": "In der lebhaften Stadt Dinard gelegen, präsentiert sich der Plage de Saint-Sieu als ein wunderschöner Abschnitt der französischen Küste. Besucher erwartet eine erfrischende Umgebung zum Schwimmen und um die Sonne der Küste zu genießen. Die Gegend fängt die Essenz des klassischen Strandcharmes ein. Für das beste Erlebnis empfiehlt es sich, früh am Tag anzureisen, um einen gemütlichen Platz am Wasser zu sichern.", "category": "recreational", "coords": [-2.156462, 48.608873]}, {"name": "Plage de La Hoguette", "text": "Der Plage de La Hoguette ist ein reizvolles Strandgebiet vor der Küstenkulisse von Dinard, Frankreich. Er bietet eine friedliche Umgebung, in der Einheimische und Reisende gleichermaßen entspannt sonnenbaden können. Das Ufer ist ein hervorragender Ausgangspunkt, um die maritime Schönheit der Stadt zu entdecken. Spaziergänge am späten Nachmittag sind sehr zu empfehlen, um die ruhige Atmosphäre voll auszukosten.", "category": "recreational", "coords": [-2.000208, 48.661594]}, {"name": "Crique du Fort", "text": "Crique du Fort ist eine Strandbucht in Dinard.", "category": "recreational", "coords": [-1.988243, 48.678634]}, {"name": "Plage naturiste", "text": "Versteckt in Dinard bietet dieser spezielle FKK-Strand eine befreiende Möglichkeit, die französische Küste zu erleben. Er richtet sich an alle, die in einer dafür vorgesehenen Umgebung eine engere Verbindung zur Natur suchen. Besucher können ungestörtes Sonnenbaden und Schwimmen am friedlichen Ufer genießen. Achten Sie bei einem Besuch dieses speziellen Bereichs darauf, die lokalen Richtlinien und die Privatsphäre anderer zu respektieren.", "category": "recreational", "coords": [-2.089678, 48.634204]}], "hu": [{"name": "Écluse-strand", "text": "Dinard fő strandja elegáns sétányával és ikonikus, kék-fehér csíkos fürdősátraival hódít. A hangulat a történelmi tengerparti elegancia fuvallatát árasztja. A fürdőzők a finom homokban pihenhetnek, vagy a parti ösvényeken sétálhatnak. A nyári látogatás során a strand a legnyüzsgőbb arcát mutatja.", "category": "natural", "confidence": "high", "coords": [-2.0546, 48.6361]}, {"name": "Holdfény-sétány", "text": "Ez a tengerparti ösvény éjszaka kivilágítva várja a látogatókat, csodás kilátást nyújtva Saint-Malo városára.", "category": "recreational", "confidence": "high", "coords": [-2.05205, 48.63156]}, {"name": "Belle Époque villák", "text": "A város több mint 400 pompás 19. századi villával büszkélkedhet, amelyek a luxusüdülőhely aranykorát idézik.", "category": "historical", "confidence": "high", "coords": [-2.053192, 48.629868]}, {"name": "Pointe du Moulinet", "text": "A sziklás földnyelv panorámás kilátópont, ahonnan belátható az egész smaragdpart és a Rance folyó torkolata.", "category": "natural", "confidence": "high", "coords": [-2.04945, 48.636984]}, {"name": "Dinard Kaszinó", "text": "A közvetlenül a tengerparton álló épület a város társasági életének központja és építészeti jelképe.", "category": "recreational", "confidence": "high", "coords": [-2.053479, 48.635359]}, {"name": "Alfred Hitchcock szobra", "text": "A szobor a város híres brit filmfesztiváljának állít emléket, utalva a rendező helyi kötődésére.", "category": "cultural", "confidence": "high", "coords": [-2.054745, 48.635472]}, {"name": "Plage de Port Salut", "text": "Ez a partszakasz harmonikusan illeszkedik Dinard partvonalába. A tengeri környezet arra hív, hogy a tenger partján lazítsunk. A látogatók nyugodt órákra számíthatnak a parton és pihentető vízi tevékenységekre. A korán kelők gyakran itt élvezik a legjobb hangulatot.", "category": "recreational", "coords": [-2.059417, 48.64003]}, {"name": "Plage du Rocher", "text": "A Dinard partvidékének sziklás természete által körülvett partszakasz festői szépségű a vízparton. A környezet nyugtató, természetes szépséget sugároz. Gyönyörű hely a tenger látványának megfigyelésére és friss levegő szívására. A szomszédos sziklák felfedezéséhez masszív lábbeli viselése javasolt.", "category": "recreational", "coords": [-2.145507, 48.619899]}, {"name": "Plage des Fours à Chaux", "text": "A Dinard partján található strand egyszerű hozzáférést biztosít a vízhez. A tengeri hangulat kellemes menedékké teszi a kikapcsolódásra vágyók számára. Az emberek szívesen töltenek itt időt napozással vagy egy könnyű úszással a hűsítő vízben. Mindig jó ötlet előre ellenőrizni az árapály idejét.", "category": "recreational", "coords": [-2.013936, 48.627238]}, {"name": "Plage du Môle", "text": "Dinard-ban a strandok szerelmesei bájos tengerparti helyet találnak ezen a partszakaszon. A víz közelsége és a friss szellő élénkíti az érzékeket. A parti séták és a homokban töltött nyugodt pillanatok a fő tevékenységek közé tartoznak. Ragyogó napsütésben a hely megmutatja teljes vonzerejét.", "category": "recreational", "coords": [-2.031398, 48.645096]}, {"name": "Plage de Bon Secours", "text": "Egy másik vonzó dinard-i strand a francia tengerparti levegő élvezetére csábít. A nagy tömegektől távolabbi, csendesebb elhelyezkedés tiszta kikapcsolódást ígér. Óceáni úszás vagy egyszerűen csak a hullámok zúgásának hallgatása – mindkettő lehetséges. Egy törölköző és némi elemózsia elegendő a sikeres tartózkodáshoz.", "category": "recreational", "coords": [-2.029856, 48.648713]}, {"name": "Plage Malo", "text": "Dinard közepén ez a strand a tengerparti kirándulások egyszerű célpontjaként jelenik meg. A La Manche csatorna vize felfrissülést nyújt a meleg napokon. A helyiek és a turisták egyaránt értékelik az egyszerű megközelíthetőséget és a nyitott panorámát. A forró nyári napokon gondolni kell a megfelelő napvédelemre.", "category": "recreational", "coords": [-2.02665, 48.652861]}, {"name": "Plage de l'Islet", "text": "Kicsi és finom, ez a partszakasz Dinard-ban közvetlenül a vízen fekszik. A légkör kellemesen nyugodt és tengeri jellegű. Itt csodálatosan lehet feküdni a napon, és nézni az árapály játékát. Ideális hely mindazoknak, akik egy rövid tengerparti pihenőre vágynak.", "category": "recreational", "coords": [-2.151623, 48.61786]}, {"name": "Plage de la Cerisaie", "text": "Ez a strand gazdagítja a franciaországi Dinard fürdőhelyeinek választékát. A tengerpart klasszikus tengerparti hangulatával vonzza a kikapcsolódásra vágyókat. A napi programot a puha homokban való úszás és séta határozza meg. A reggeli órák nyújtják a legnagyobb nyugalmat egy tengerparti látogatáshoz.", "category": "recreational", "coords": [-2.143596, 48.617765]}, {"name": "Plage du Corps de Garde", "text": "A tengerre nyíló szabad kilátással ez a dinardi strand időzésre hív. A régió partvidéki tája itt a csendesebb arcát mutatja. Mesés hely, ahol a vízbe lógathatja a lábát, és hagyhatja, hogy elkalandozzanak a gondolatai. A kilátás miatt tiszta időben különösen érdemes ellátogatni ide.", "category": "recreational", "coords": [-2.152862, 48.615104]}, {"name": "Plage du Minihic", "text": "A nagy nyüzsgéstől távol, ez a dinard-i strand családias környezetet kínál a tengerparton. A csendes vízparti hangulat ideális a tömegektől távol eső kikapcsolódáshoz. A fürdőzők élvezik az óceán közelségét és a zavartalan tengerparti varázst. Hosszabb tartózkodás esetén érdemes saját rágcsálnivalót és italt hozni.", "category": "recreational", "coords": [-1.9888, 48.670555]}, {"name": "Plage des Bas-Sablons", "text": "A Plage des Bas-Sablons Dinard francia tengerpartján található, és nyugodt légkört kínál. A látogatók sétálhatnak a víz mentén, és élvezhetik a tengeri szellőt. Ez a strand különösen alkalmas egy csendes nyári délutánra.", "category": "recreational", "coords": [-2.020337, 48.638292]}, {"name": "Plage de Rochebonne", "text": "Dinard kellemes menedékeként a Plage de Rochebonne pihentető órákra csábít a tengerparton. A francia partvidék festői hátteret biztosít a vízparti sétákhoz. Érdemes leginkább meleg napokon ellátogatni ide, hogy megtapasztaljuk a frissítő környezetet.", "category": "recreational", "coords": [-1.992821, 48.666109]}, {"name": "Plage du Pont", "text": "A dinardi Plage du Pont tengerpartja közvetlen hozzáférést biztosít a francia tengerhez. Itt a vendégeket egy jellegzetes tengeri hangulat várja, amely napozásra és időtöltésre hívogat. A nap maximális kihasználása érdekében érdemes kora reggel érkezni.", "category": "recreational", "coords": [-1.985065, 48.674715]}, {"name": "Plage de la Varde", "text": "A Dinard partvidékére nyíló széles kilátással a Plage de la Varde lenyűgözi a látogatókat. A franciaországi természeti környezet nyugodt légkört teremt a tengerparti sétákhoz és a természet megfigyeléséhez. Ez a hely ideális arra, hogy napsütéses napokon friss tengeri levegőt szívjon.", "category": "recreational", "coords": [-1.985737, 48.681945]}, {"name": "Plage du Béchet", "text": "Dinard helyi strandszakaszaként a Plage du Béchet a francia partvidék autentikus varázsát tükrözi. Itt találkoznak a helyiek és a látogatók, hogy élvezzék a tengert és a homokos környezetet. A pihentető tartózkodáshoz a legjobb, ha kényelmes strandtakarót visz magával.", "category": "recreational", "coords": [-2.140614, 48.625219]}, {"name": "Plage de la Petite Salinette", "text": "A bájos Plage de la Petite Salinette vonzóan helyezkedik el Dinard partján. Intim és barátságos légkört kínál a látogatóknak, távol a francia strandok nagy nyüzsgésétől. Különösen a melegebb hónapokban érdemes kirándulni erre a békés helyre.", "category": "recreational", "coords": [-2.146384, 48.626609]}, {"name": "Plage de Solidor", "text": "A pihenni vágyók számára a dinardi Plage de Solidor kiváló célpont a tengerparton. A francia tengerpart enyhe tengeri áramlatai csodálatos környezetet teremtenek a nyugodt pillanatokhoz. A látogatók különösen nagyra értékelik ezt a helyet a pihentető nyári esti séták miatt.", "category": "recreational", "coords": [-2.022829, 48.634004]}, {"name": "Plage du Rosais", "text": "A festői Plage du Rosais zökkenőmentesen illeszkedik Dinard városképébe. Ez a francia partvidéken található strand a természeti szépség élvezetére és elidőzésre hív. Azok, akik szeretnének elmenekülni a mindennapok elől, itt tökéletes menedéket találnak a napsütéses délutánokon.", "category": "recreational", "coords": [-2.013476, 48.624386]}, {"name": "Plage des Corbières", "text": "Dinardban a Plage des Corbières képét egy gyönyörű strandtáj jellemzi. A franciaországi idilli elhelyezkedés népszerű célponttá teszi ezt a helyet mindenki számára, aki szereti a hullámok zúgását. Érdemes a látogatást a csendesebb reggeli órákra időzíteni.", "category": "recreational", "coords": [-2.020425, 48.630972]}, {"name": "Plage de Saint-Énogat", "text": "Dinard jól ismert homokos strandjaként a Plage de Saint-Énogat sok tengerkedvelőt vonz. A francia partvidék kiterjedése itt ideális feltételeket kínál egy klasszikus strandnaphoz. Forró napokon érdemes korán indulni, hogy a legkellemesebb időt töltsük el a vízen.", "category": "recreational", "coords": [-2.069368, 48.639085]}, {"name": "Plage de Port-Riou", "text": "A Plage de Port-Riou egy hívogató tengerparti strand Dinard térségében. Itt kiválóan élvezheti a friss francia tengeri levegőt a part menti kiterjedt séták során. A partvidék szépsége apály idején is megmutatkozik.", "category": "recreational", "coords": [-2.06502, 48.639269]}, {"name": "Plage du Tertre Pelé", "text": "Békés tengerparti pillanatok várják a vendégeket a csendes dinardi Plage du Tertre Pelé területén. Ez a franciaországi tengerparti oázis kellemes légkört kínál mindenkinek, aki szereti a vizet. Ez a strand kiváló választás egy pihentető nyári naphoz a parton.", "category": "recreational", "coords": [-2.145186, 48.63188]}, {"name": "Plage de la Vicomté", "text": "A Plage de la Vicomté gyönyörű strandrésszel büszkélkedhet Dinard városában. A francia tengerpart itt mutatja meg a legkecsesebb oldalát, és napozásra csábít. Nyáron a látogatóknak érdemes időt szánniuk arra, hogy teljesen elmerüljenek a tengeri tájban.", "category": "recreational", "coords": [-2.036163, 48.625602]}, {"name": "Grande Plage", "text": "A nagy fő strand, a Grande Plage Dinard tengerparti városának nyüzsgő központja. Itt érezheti az északi francia riviéra lüktetését, amely ideális a hosszú strandnapokhoz és sétákhoz. A korai látogatás biztosítja a legjobb helyeket a kiterjedt homokon a nyári hónapokban.", "category": "recreational", "coords": [-2.108911, 48.637851]}, {"name": "Plage du Port aux Chevaux", "text": "A Dinard partjai mentén húzódó Plage du Port aux Chevaux kellemes helyet kínál a kikapcsolódásra. A francia tengerparti díszlet arra csábít, hogy maga mögött hagyja a mindennapi életet. Egy odaút akkor éri meg a legjobban, ha az időjárás egy csobbanásra hívogat a hűsítő vízbe.", "category": "recreational", "coords": [-2.149899, 48.63177]}, {"name": "Plage de la Grande Salinette", "text": "A dinardi Plage de la Grande Salinette autentikus tengerparti hangulatot áraszt. A francia tengerparti természet által körülvett hely tökéletes a vízparti pihentető órákhoz. A meleg délutánokon a látogatók kellemes felfrissülést találnak itt.", "category": "recreational", "coords": [-2.143774, 48.624641]}, {"name": "Plage de la Fosse aux Vaults", "text": "A Dinard zord partján fekvő Plage de la Fosse aux Vaults lenyűgöző kilátást ígér. A francia tengerparti üdülőhely ideális kiindulópont a tengeri hangulat teljes kiélvezéséhez. A kiterjedt part menti sétákhoz gyakran ajánlott a szélálló pulóver.", "category": "recreational", "coords": [-2.09428, 48.633919]}, {"name": "Plage de Longchamp", "text": "Puha homok és a tenger zúgása határozza meg a híres Plage de Longchampot Dinardban. A francia háttér hosszú strandolásokra és pihentető sétákra hív. A legjobb, ha hoz magával napernyőt, hogy tökéletes legyen a nyári tartózkodása.", "category": "recreational", "coords": [-2.122291, 48.636803]}, {"name": "Plage de Port Hue", "text": "A bájos Plage de Port Hue tengerparti úti cél Dinard gyönyörű városában található. A francia partvonal mentén a látogatók pihenhetnek, és élvezhetik a tengeri hangulatot. Különösen ajánlott a látogatás, ha a tenger csendesebb oldalait keresi.", "category": "recreational", "coords": [-2.14002, 48.632585]}, {"name": "Plage de la Fourberie", "text": "Dinardban a Plage de la Fourberie strand csodálatos hely a tenger szerelmeseinek. A francia tengerparti tájba ágyazva helyet ad a pihenésnek és a homokban való sétáknak. Aki a legteljesebb mértékben szeretné kiélvezni a tengerparti tartózkodást, a legjobb, ha meleg nyári napot választ.", "category": "recreational", "coords": [-2.086168, 48.635289]}, {"name": "Plage du Perron", "text": "Dinard környékén a Plage du Perron tengerparti strand természetes szépségével hívogat. A francia tengerparton fekvő hely gyönyörű hátteret kínál a kikapcsolódás pillanataihoz. Egy kora esti séta gyakran különösen hangulatos fényben fürdeti a strandot.", "category": "recreational", "coords": [-2.15123, 48.629101]}, {"name": "Plage du Port-Blanc", "text": "Dinard tengerparti városában található a hívogató Plage du Port-Blanc. A francia tengerpart ideális hely úszásra és napozásra csendes környezetben. A tengerparti gondtalan élményért meleg nyári időben érdemes ellátogatni ide.", "category": "recreational", "coords": [-2.081909, 48.636492]}, {"name": "Plage du Prieuré", "text": "A Plage du Prieuré strand arra invitálja, hogy megismerje Dinard tengeri oldalát. A francia partvidékbe ágyazva kiváló lehetőséget kínál a vízparti pihentető napokhoz. A legjobb, ha bepakol egy jó könyvet, hogy élvezze a békés időt a parton.", "category": "recreational", "coords": [-2.052261, 48.625726]}, {"name": "Plage du Rieul", "text": "A dinardi festői helyi strandként a Plage du Rieul kellemes órákat ígér a tengerparton. A látogatók értékelik a jellegzetes francia tengerparti hangulatot és a tömegtől távoli pihenés lehetőségét. A csendes légkör legjobb kihasználása érdekében érdemes reggel ellátogatni ide.", "category": "recreational", "coords": [-2.142039, 48.613319]}, {"name": "Plage de la Garde Guérin", "text": "A gyönyörű Dinard partvonal mentén található a Plage de la Garde Guérin strand. Ez a francia természeti idill csodálatos hely arra, hogy friss tengeri levegőt lélegezzen, és hallgassa a hullámok zúgását. A természetkedvelők számára itt az év bármely szakában érdemes kirándulni.", "category": "recreational", "coords": [-2.135985, 48.634682]}, {"name": "Plage des Hirondelles", "text": "Dinard festői partvidékén megbújva, a Plage des Hirondelles hívogató helyet kínál a tengerparti kikapcsolódáshoz Franciaországban. A barátságos partvonal tökéletes a ráérős sétákhoz és a napfényben eltöltött kellemes pillanatokhoz. Csodálatos úti cél a helyi tengeri hangulat megtapasztalására. A meleg nyári hónapokban tett látogatás biztosítja a legkellemesebb tengerparti elvonulást.", "category": "recreational", "coords": [-2.116887, 48.640988]}, {"name": "Plage de Saint-Sieu", "text": "A nyüzsgő Dinard városában található Plage de Saint-Sieu a francia partvidék egy gyönyörű szakaszát tárja elénk. A látogatókat frissítő környezet várja az úszáshoz és a tengerparti napsütés élvezetéhez. A környék tökéletesen megragadja a klasszikus tengerparti báj lényegét. A legjobb élmény érdekében érkezzen kora reggel, hogy kényelmes helyet találjon a víz partján.", "category": "recreational", "coords": [-2.156462, 48.608873]}, {"name": "Plage de La Hoguette", "text": "A Plage de La Hoguette egy elragadó strand Dinard tengerparti hátterével Franciaországban. Békés környezetet biztosít, ahol a helyiek és az utazók egyaránt nyugodtan napozhatnak. A part kiváló kiindulópont a város tengerparti szépségének felfedezéséhez. A késő délutáni séták kifejezetten ajánlott, hogy teljes mértékben kiélvezzük a nyugodt környezetet.", "category": "recreational", "coords": [-2.000208, 48.661594]}, {"name": "Crique du Fort", "text": "A Crique du Fort egy tengerparti öböl Dinardban.", "category": "recreational", "coords": [-1.988243, 48.678634]}, {"name": "Plage naturiste", "text": "Ez a Dinardban eldugott naturista strand felszabadító lehetőséget kínál a francia partvidék megtapasztalására. Azokat várja, akik szorosabb kapcsolatot keresnek a természettel egy erre a célra kijelölt környezetben. A látogatók akadálytalanul napozhatnak és úszhatnak a békés parton. Látogatáskor ne felejtse el tiszteletben tartani a helyi irányelveket és mások magánéletét.", "category": "recreational", "coords": [-2.089678, 48.634204]}], "ro": [{"name": "Plaja l'Écluse", "text": "Plaja principală din Dinard captivează prin promenada sa elegantă și corturile de baie emblematice, în dungi alb-albastre. Atmosfera emană un aer de eleganță istorică de coastă. Aici, oaspeții se pot relaxa pe nisipul fin sau se pot plimba pe potecile de coastă. O vizită în timpul verii arată plaja din cea mai animată latură a sa.", "category": "natural", "confidence": "high", "coords": [-2.0546, 48.6361]}, {"name": "Promenada Clair de Lune", "text": "O alee de coastă spectaculoasă care pe timpul verii este iluminată și acompaniată de muzică, oferind vederi spre Saint-Malo.", "category": "recreational", "confidence": "high", "coords": [-2.05205, 48.63156]}, {"name": "Vilele Belle Époque", "text": "Dinard conservă peste 400 de vile monumentale ce amintesc de perioada în care orașul era destinația preferată a aristocrației britanice.", "category": "historical", "confidence": "high", "coords": [-2.053192, 48.629868]}, {"name": "Pointe du Moulinet", "text": "Un punct de observație strategic de unde se poate admira arhitectura impunătoare a vilelor și marea de culoarea smaraldului.", "category": "natural", "confidence": "high", "coords": [-2.04945, 48.636984]}, {"name": "Cazinoul din Dinard", "text": "Situat pe faleză, cazinoul este o emblemă a distracției rafinate și a arhitecturii litorale clasice franceze.", "category": "recreational", "confidence": "high", "coords": [-2.053479, 48.635359]}, {"name": "Statuia lui Alfred Hitchcock", "text": "O sculptură neobișnuită ce onorează legătura cineastului cu orașul și prestigiosul Festival al Filmului Britanic de aici.", "category": "cultural", "confidence": "high", "coords": [-2.054745, 48.635472]}, {"name": "Plage de Port Salut", "text": "Această porțiune de plajă se integrează armonios în linia de coastă din Dinard. Mediul maritim vă invită să vă relaxați la marginea mării. Vizitatorii pot aștepta cu nerăbdare ore liniștite pe țărm și activități acvatice relaxante. Cei care se trezesc devreme se bucură adesea de cea mai bună atmosferă aici.", "category": "recreational", "coords": [-2.059417, 48.64003]}, {"name": "Plage du Rocher", "text": "Înconjurată de natura stâncoasă a coastei din Dinard, această porțiune de plajă este pitorească la malul apei. Împrejurimile radiază o frumusețe naturală liniștitoare. Este un loc frumos pentru a urmări spectacolul marin și a respira aer curat. Încălțămintea rezistentă este recomandabilă pentru a explora stâncile adiacente.", "category": "recreational", "coords": [-2.145507, 48.619899]}, {"name": "Plage des Fours à Chaux", "text": "Situată pe coasta din Dinard, această plajă oferă acces ușor la apă. Atmosfera marină o face un refugiu plăcut pentru cei care caută relaxare. Oamenilor le place să petreacă timpul aici făcând plajă sau înotând ușor în apele răcoroase. Verificarea în prealabil a orelor mareelor este întotdeauna o idee bună.", "category": "recreational", "coords": [-2.013936, 48.627238]}, {"name": "Plage du Môle", "text": "În Dinard, iubitorii de plajă vor găsi un loc fermecător pe malul mării pe această porțiune de coastă. Apropierea de apă și briza proaspătă revigorează simțurile. Plimbările pe țărm și momentele liniștite pe nisip sunt printre activitățile principale. În lumina soarelui strălucitor, locul își dezvăluie întregul farmec.", "category": "recreational", "coords": [-2.031398, 48.645096]}, {"name": "Plage de Bon Secours", "text": "O altă plajă atractivă din Dinard vă invită să vă bucurați de aerul de coastă francez. Locația mai liniștită, departe de marile mulțimi, promite relaxare pură. Înotul în ocean sau pur și simplu ascultarea sunetului valurilor - ambele sunt posibile. Un prosop și câteva provizii sunt suficiente pentru o ședere reușită.", "category": "recreational", "coords": [-2.029856, 48.648713]}, {"name": "Plage Malo", "text": "În mijlocul orașului Dinard, această plajă se prezintă ca o destinație simplă pentru excursiile pe coastă. Apele Canalului Mânecii oferă răcorire în zilele călduroase. Localnicii și turiștii apreciază deopotrivă accesibilitatea ușoară și panorama deschisă. În zilele fierbinți de vară, ar trebui să vă gândiți la o protecție solară adecvată.", "category": "recreational", "coords": [-2.02665, 48.652861]}, {"name": "Plage de l'Islet", "text": "Mică și fină, această porțiune de coastă din Dinard este situată direct pe apă. Atmosfera este plăcut de calmă și maritimă. Aici puteți sta minunat la soare și urmări jocul mareelor. Un loc ideal pentru toți cei care caută o scurtă pauză la mare.", "category": "recreational", "coords": [-2.151623, 48.61786]}, {"name": "Plage de la Cerisaie", "text": "Această plajă îmbogățește selecția de stațiuni balneare din Dinard, Franța. Malul mării îi atrage pe cei care caută relaxare prin flerul său clasic de coastă. Înotul și plimbările pe nisipul moale determină programul zilei. Orele dimineții oferă de obicei cea mai mare liniște pentru o vizită la plajă.", "category": "recreational", "coords": [-2.143596, 48.617765]}, {"name": "Plage du Corps de Garde", "text": "Cu vederi neobstrucționate la mare, această plajă din Dinard te invită să zăbovești. Peisajul de coastă al regiunii își arată latura mai liniștită aici. Este un loc fabulos pentru a vă scufunda picioarele în apă și a lăsa gândurile să rătăcească. O vizită merită în mod special pe vreme senină pentru priveliște.", "category": "recreational", "coords": [-2.152862, 48.615104]}, {"name": "Plage du Minihic", "text": "Departe de marea agitație, această plajă din Dinard oferă un mediu familial la malul mării. Ambianța liniștită de pe malul apei este ideală pentru relaxare departe de mulțimi. Cei care fac baie se bucură de apropierea de ocean și de farmecul netulburat al coastei. Pentru o ședere mai lungă, ar trebui să vă aduceți propriile gustări și băuturi.", "category": "recreational", "coords": [-1.9888, 48.670555]}, {"name": "Plage des Bas-Sablons", "text": "Plage des Bas-Sablons este situată pe coasta franceză a orașului Dinard și oferă o atmosferă relaxantă. Vizitatorii se pot plimba pe malul apei și se pot bucura de briza mării. Această plajă este deosebit de potrivită pentru o după-amiază liniștită de vară.", "category": "recreational", "coords": [-2.020337, 48.638292]}, {"name": "Plage de Rochebonne", "text": "Ca refugiu plăcut în Dinard, Plage de Rochebonne vă invită să petreceți ore relaxante la malul mării. Peisajul de coastă francez oferă un fundal pitoresc pentru plimbările pe apă. O vizită este recomandată în special în zilele calde pentru a experimenta împrejurimile răcoroase.", "category": "recreational", "coords": [-1.992821, 48.666109]}, {"name": "Plage du Pont", "text": "Plaja de coastă Plage du Pont din Dinard oferă acces direct la marea franceză. Aici, oaspeții sunt întâmpinați de o ambianță maritimă tipică, care îi invită la plajă și relaxare. Pentru a profita la maximum de zi, se recomandă să ajungeți la primele ore ale dimineții.", "category": "recreational", "coords": [-1.985065, 48.674715]}, {"name": "Plage de la Varde", "text": "Cu o vedere amplă asupra coastei Dinard, Plage de la Varde își fascinează vizitatorii. Cadrul natural din Franța creează un mediu liniștit pentru plimbările pe plajă și observarea naturii. Acest loc este ideal pentru a respira aerul proaspăt al mării în zilele însorite.", "category": "recreational", "coords": [-1.985737, 48.681945]}, {"name": "Plage du Béchet", "text": "Ca secțiune locală de plajă în Dinard, Plage du Béchet reflectă farmecul autentic al coastei franceze. Aici se întâlnesc localnicii și vizitatorii pentru a se bucura de mare și de împrejurimile nisipoase. Pentru o ședere relaxantă, cel mai bine este să aduceți o pătură confortabilă de plajă.", "category": "recreational", "coords": [-2.140614, 48.625219]}, {"name": "Plage de la Petite Salinette", "text": "Fermecătoarea Plage de la Petite Salinette este situată atractiv pe coasta Dinard. Oferă vizitatorilor o atmosferă intimă și primitoare, departe de agitația marilor plaje franceze. O excursie în acest loc liniștit merită din plin, mai ales în lunile mai calde.", "category": "recreational", "coords": [-2.146384, 48.626609]}, {"name": "Plage de Solidor", "text": "Pentru cei care caută relaxare, Plage de Solidor din Dinard este o destinație excelentă pe litoral. Curenții blânzi ai mării de pe coasta franceză creează un mediu minunat pentru momente liniștite. Vizitatorii apreciază în mod deosebit acest loc pentru plimbările relaxante de seară vara.", "category": "recreational", "coords": [-2.022829, 48.634004]}, {"name": "Plage du Rosais", "text": "Pitoreasca Plage du Rosais se îmbină perfect cu peisajul urban din Dinard. Această plajă de pe coasta franceză te invită să zăbovești și să te bucuri de frumusețea naturală. Cei care doresc să scape de viața de zi cu zi vor găsi aici refugiul perfect în după-amiezile însorite.", "category": "recreational", "coords": [-2.013476, 48.624386]}, {"name": "Plage des Corbières", "text": "Un peisaj frumos de plajă caracterizează imaginea Plage des Corbières din Dinard. Locația idilică din Franța face din acest loc o destinație populară pentru oricine iubește sunetul valurilor. Este indicat să planificați o vizită în orele mai liniștite ale dimineții.", "category": "recreational", "coords": [-2.020425, 48.630972]}, {"name": "Plage de Saint-Énogat", "text": "Fiind o plajă cu nisip binecunoscută în Dinard, Plage de Saint-Énogat atrage mulți iubitori ai mării. Extinderea coastei franceze oferă aici condiții ideale pentru o zi clasică de plajă. În zilele caniculare, este recomandat un început devreme pentru a experimenta cel mai plăcut timp pe apă.", "category": "recreational", "coords": [-2.069368, 48.639085]}, {"name": "Plage de Port-Riou", "text": "Plage de Port-Riou este o destinație primitoare pe plaja de coastă din zona Dinard. Aici vă puteți bucura din plin de aerul curat al mării franceze în timpul plimbărilor prelungite de-a lungul malului. O vizită la reflux dezvăluie, de asemenea, frumusețea imensă a acestui peisaj de coastă.", "category": "recreational", "coords": [-2.06502, 48.639269]}, {"name": "Plage du Tertre Pelé", "text": "Momente de liniște pe malul mării îi așteaptă pe oaspeții pe plaja liniștită Plage du Tertre Pelé din Dinard. Această oază de coastă din Franța oferă o atmosferă plăcută pentru oricine iubește apa. Această plajă este o alegere excelentă pentru o zi relaxantă de vară pe țărm.", "category": "recreational", "coords": [-2.145186, 48.63188]}, {"name": "Plage de la Vicomté", "text": "O zonă frumoasă de plajă caracterizează Plage de la Vicomté din Dinard. Coasta franceză se prezintă aici din partea ei cea mai grațioasă și te invită la plajă. Vizitatorii ar trebui să-și ia ceva timp vara pentru a se bucura din plin de peisajul maritim.", "category": "recreational", "coords": [-2.036163, 48.625602]}, {"name": "Grande Plage", "text": "Plaja principală, Grande Plage, formează centrul plin de viață al orașului de coastă Dinard. Aici poți simți pulsul Rivierei Franceze a Nordului, ideală pentru zile lungi de plajă și plimbări. O vizită timpurie vă asigură cele mai bune locuri pe nisipul extins în lunile de vară.", "category": "recreational", "coords": [-2.108911, 48.637851]}, {"name": "Plage du Port aux Chevaux", "text": "De-a lungul coastei Dinard, Plage du Port aux Chevaux oferă un loc plăcut de relaxare. Cadrul mării franceze te invită să lași în urmă viața de zi cu zi. O excursie acolo merită cel mai mult atunci când vremea te invită să faci o baie în apele răcoroase.", "category": "recreational", "coords": [-2.149899, 48.63177]}, {"name": "Plage de la Grande Salinette", "text": "Plage de la Grande Salinette locală din Dinard transmite o senzație de plajă autentică. Înconjurat de natura de coastă franceză, acest loc este perfect pentru ore de relaxare pe apă. Vizitatorii vor găsi aici o băutură răcoritoare binevenită în după-amiezele calde.", "category": "recreational", "coords": [-2.143774, 48.624641]}, {"name": "Plage de la Fosse aux Vaults", "text": "Situată pe coasta accidentată a orașului Dinard, Plage de la Fosse aux Vaults promite priveliști impresionante. Stațiunea pe plajă franceză este un punct ideal pentru a vă bucura din plin de flerul maritim. Un pulover rezistent la vânt este adesea recomandat pentru plimbările lungi pe coastă.", "category": "recreational", "coords": [-2.09428, 48.633919]}, {"name": "Plage de Longchamp", "text": "Nisipul moale și sunetul mării definesc cunoscuta Plage de Longchamp din Dinard. Cadrul francez vă invită să petreceți zile lungi pe plajă și la plimbări relaxante. Cel mai bine este să aduci cu tine o umbrelă de soare pentru a-ți face șederea de vară perfectă.", "category": "recreational", "coords": [-2.122291, 48.636803]}, {"name": "Plage de Port Hue", "text": "Fermecătoarea destinație de plajă Plage de Port Hue se află în frumosul oraș Dinard. De-a lungul coastei franceze, vizitatorii se pot relaxa aici și se pot bucura de atmosfera maritimă. O vizită este recomandată în special dacă sunteți în căutarea laturilor mai liniștite ale mării.", "category": "recreational", "coords": [-2.14002, 48.632585]}, {"name": "Plage de la Fourberie", "text": "Plaja Plage de la Fourberie din Dinard este un loc minunat pentru iubitorii mării. Amplasat în peisajul de coastă francez, oferă spațiu de relaxare și plimbare pe nisip. Dacă vrei să te bucuri la maximum de șederea ta pe plajă, cel mai bine este să alegi o zi caldă de vară.", "category": "recreational", "coords": [-2.086168, 48.635289]}, {"name": "Plage du Perron", "text": "În zona Dinard, plaja de coastă Plage du Perron atrage prin frumusețea sa naturală. Situat pe Marea Franceză, acest loc oferă un fundal frumos pentru momente de relaxare. O plimbare devreme seara scaldă adesea plaja într-o lumină deosebit de atmosferică.", "category": "recreational", "coords": [-2.15123, 48.629101]}, {"name": "Plage du Port-Blanc", "text": "Orașul de coastă Dinard găzduiește primitoarea Plage du Port-Blanc. Malul francez se prezintă ca un loc ideal pentru înot și plajă într-un mediu liniștit. Pentru o experiență fără griji pe mare, o vizită pe vreme bună de vară este foarte recomandată.", "category": "recreational", "coords": [-2.081909, 48.636492]}, {"name": "Plage du Prieuré", "text": "Plaja Plage du Prieuré vă invită să cunoașteți partea maritimă a orașului Dinard. Amplasat în peisajul de coastă al Franței, oferă o oportunitate excelentă pentru zile de relaxare pe apă. Cel mai bine este să împachetezi o carte bună pentru a te bucura de timpul liniștit petrecut pe mal.", "category": "recreational", "coords": [-2.052261, 48.625726]}, {"name": "Plage du Rieul", "text": "Ca o plajă locală pitorească din Dinard, Plage du Rieul promite ore plăcute pe malul mării. Vizitatorii apreciază ambianța tipică de coastă franceză și oportunitatea de a se relaxa departe de aglomerație. Pentru a profita la maximum de atmosfera linistită, se recomanda o vizita dimineata.", "category": "recreational", "coords": [-2.142039, 48.613319]}, {"name": "Plage de la Garde Guérin", "text": "De-a lungul coastei frumoasei Dinard, veți găsi plaja Plage de la Garde Guérin. Acest idil natural francez este un loc minunat pentru a respira aerul curat al mării și pentru a asculta sunetul valurilor. Pentru iubitorii de natură, o excursie aici merită din plin în orice perioadă a anului.", "category": "recreational", "coords": [-2.135985, 48.634682]}, {"name": "Plage des Hirondelles", "text": "Amplasată de-a lungul coastei pitorești din Dinard, Plage des Hirondelles oferă un loc primitor pentru relaxare la malul mării în Franța. Țărmul îmbietor este perfect pentru plimbări pe îndelete și momente plăcute sub soare. Este o destinație minunată pentru a experimenta atmosfera maritimă locală. O vizită în timpul lunilor calde de vară garantează o evadare de neuitat pe litoral.", "category": "recreational", "coords": [-2.116887, 48.640988]}, {"name": "Plage de Saint-Sieu", "text": "Situată în orașul vibrant Dinard, Plage de Saint-Sieu reprezintă o porțiune frumoasă a coastei franceze. Vizitatorii se pot aștepta la un cadru revigorant pentru înot și pentru a se bucura de soarele litoralului. Zona surprinde esența farmecului clasic al plajelor. Pentru o experiență optimă, ajungeți devreme în timpul zilei pentru a vă asigura un loc confortabil lângă apă.", "category": "recreational", "coords": [-2.156462, 48.608873]}, {"name": "Plage de La Hoguette", "text": "Plage de La Hoguette este o zonă de plajă încântătoare, situată pe fundalul de coastă din Dinard, Franța. Aceasta oferă un mediu liniștit unde localnicii și călătorii deopotrivă se pot bucura de plajă pe îndelete. Țărmul este un punct de plecare excelent pentru a descoperi frumusețea litorală a orașului. Plimbările făcute după-amiaza târziu sunt foarte recomandate pentru a aprecia pe deplin atmosfera calmă.", "category": "recreational", "coords": [-2.000208, 48.661594]}, {"name": "Crique du Fort", "text": "Crique du Fort este un golfuleț cu plajă din Dinard.", "category": "recreational", "coords": [-1.988243, 48.678634]}, {"name": "Plage naturiste", "text": "Ascunsă în Dinard, această plajă naturistă distinctă oferă un mod eliberator de a experimenta litoralul francez. Se adresează celor care caută o conexiune mai strânsă cu natura într-un mediu desemnat. Vizitatorii se pot bucura de plajă și de înot nestingheriți de-a lungul țărmului liniștit. Nu uitați să respectați regulile locale și intimitatea celorlalți atunci când vizitați această zonă specifică.", "category": "recreational", "coords": [-2.089678, 48.634204]}], "en": [{"name": "Écluse Beach", "text": "The main beach of Dinard captivates with its elegant promenade and iconic blue-and-white striped bathing tents. The overall atmosphere radiates a touch of historic coastal chic. Bathers are able to relax in the fine sand or stroll along the nearby coastal paths. Visiting during summer reveals the beach at its most vibrant.", "category": "natural", "confidence": "high", "coords": [-2.0546, 48.6361]}, {"name": "Moonlight Promenade", "text": "A scenic coastal walk that comes alive at night with lights and music, offering breathtaking views of the bay.", "category": "recreational", "confidence": "high", "coords": [-2.05205, 48.63156]}, {"name": "Belle Époque Villas", "text": "More than 400 stunning villas from the 19th century dominate the cliffs, showcasing the town's aristocratic heritage.", "category": "historical", "confidence": "high", "coords": [-2.053192, 48.629868]}, {"name": "Pointe du Moulinet", "text": "A rocky headland offering a 360-degree panorama of the Emerald Coast, the Rance estuary, and the town of Saint-Malo.", "category": "natural", "confidence": "high", "coords": [-2.04945, 48.636984]}, {"name": "Dinard Casino", "text": "An elegant beachfront landmark that has been the center of high-society entertainment since the town's golden age.", "category": "recreational", "confidence": "high", "coords": [-2.053479, 48.635359]}, {"name": "Alfred Hitchcock Statue", "text": "Erected in honor of the British Film Festival, this statue commemorates the director's visits to this charming seaside resort.", "category": "cultural", "confidence": "high", "coords": [-2.054745, 48.635472]}, {"name": "Plage de Port Salut", "text": "Blending harmoniously into the coastline of Dinard, this beach is a delight. The maritime setting invites everyone to simply unwind right at the water's edge. Visitors can look forward to quiet hours on the shore and easygoing water activities. Early risers frequently enjoy the most serene atmosphere here.", "category": "recreational", "coords": [-2.059417, 48.64003]}, {"name": "Plage du Rocher", "text": "Surrounded by the rocky nature of the Dinard coastline, this beach is situated picturesquely by the water. The environment radiates a very soothing and natural beauty. It remains a lovely spot to watch the marine scenery and get some fresh air. Sturdy shoes are advisable if you plan on exploring the adjacent rocks.", "category": "recreational", "coords": [-2.145507, 48.619899]}, {"name": "Plage des Fours à Chaux", "text": "Located along the coast of Dinard, this beach offers uncomplicated access to the water. The ocean flair transforms it into a pleasant retreat for those seeking relaxation. You can easily spend time sunbathing or enjoying a light swim in the cool sea. Checking the local tide schedules in advance is always a good idea.", "category": "recreational", "coords": [-2.013936, 48.627238]}, {"name": "Plage du Môle", "text": "Beach lovers in Dinard will discover a charming spot by the sea along this stretch of coast. The proximity to the water and the fresh breeze definitely enliven the senses. Taking strolls along the shore and experiencing quiet moments on the sand are the main draws. The location really reveals its full appeal in bright sunshine.", "category": "recreational", "coords": [-2.031398, 48.645096]}, {"name": "Plage de Bon Secours", "text": "Another attractive beach in Dinard invites visitors to soak up the French coastal air. The quieter location away from the really big crowds promises pure relaxation. Swimming in the ocean or simply listening to the sound of the waves are both easy to do here. Bringing a towel and some snacks is enough for a successful stay.", "category": "recreational", "coords": [-2.029856, 48.648713]}, {"name": "Plage Malo", "text": "Right in the middle of Dinard, this beach presents itself as an uncomplicated destination for coastal trips. The waters of the English Channel provide a welcome refreshment on warm days. Both locals and tourists appreciate the easy accessibility and the open panorama. Proper sun protection is a must on hot summer afternoons.", "category": "recreational", "coords": [-2.02665, 48.652861]}, {"name": "Plage de l'Islet", "text": "Small and refined, this coastal stretch in Dinard sits directly on the water. The atmosphere remains pleasantly low-key and distinctly maritime. It is a wonderful place to lie in the sun and watch the daily play of the tides. An ideal spot for anyone looking for a brief pause by the ocean.", "category": "recreational", "coords": [-2.151623, 48.61786]}, {"name": "Plage de la Cerisaie", "text": "Expanding the selection of seaside spots in the French town of Dinard, this beach is a fine choice. The seashore attracts relaxation-seekers with its classic coastal flair. Swimming and walking on the soft sand dictate the typical daily routine. Morning hours generally provide the most peace and quiet for a visit.", "category": "recreational", "coords": [-2.143596, 48.617765]}, {"name": "Plage du Corps de Garde", "text": "Offering unobstructed views of the sea, this beach in Dinard invites visitors to linger for a while. The coastal landscape of the region shows its quieter side right here. It is a fabulous place to dip your feet in the water and let your mind wander. Visiting in clear weather is especially worthwhile for the views.", "category": "recreational", "coords": [-2.152862, 48.615104]}, {"name": "Plage du Minihic", "text": "Tucked away from the main hustle and bustle, this beach in Dinard offers a familiar environment by the sea. The calm waterside ambiance is ideal for relaxing away from the crowds. Bathers will thoroughly enjoy the proximity to the ocean and the undisturbed coastal charm. Bringing your own snacks and drinks is recommended for a longer stay.", "category": "recreational", "coords": [-1.9888, 48.670555]}, {"name": "Plage des Bas-Sablons", "text": "Set along the French coast of Dinard, Plage des Bas-Sablons offers a relaxed atmosphere for its visitors. Guests can stroll along the water's edge and take in the refreshing sea breeze. This beach is highly recommended for a quiet summer afternoon.", "category": "recreational", "coords": [-2.020337, 48.638292]}, {"name": "Plage de Rochebonne", "text": "Serving as a pleasant retreat in Dinard, Plage de Rochebonne invites visitors to spend relaxing hours by the sea. The French coastal landscape provides a picturesque backdrop for peaceful waterside walks. A visit is especially recommended on warm days to fully experience the refreshing surroundings.", "category": "recreational", "coords": [-1.992821, 48.666109]}, {"name": "Plage du Pont", "text": "The coastal stretch of Plage du Pont in Dinard provides direct access to the French sea. Guests are welcomed by a typical maritime ambiance that invites them to sunbathe and linger by the water. To make the most of the day, arriving early in the morning is highly suggested.", "category": "recreational", "coords": [-1.985065, 48.674715]}, {"name": "Plage de la Varde", "text": "With a sweeping view of the Dinard coastline, Plage de la Varde continuously fascinates its visitors. The natural French setting creates a tranquil environment for beach walks and quiet contemplation. This spot is perfectly suited for taking in the fresh sea air on sunny days.", "category": "recreational", "coords": [-1.985737, 48.681945]}, {"name": "Plage du Béchet", "text": "Serving as a local beach section in Dinard, Plage du Béchet reflects the authentic charm of the French coastline. It is a place where locals and visitors gather to enjoy the sea and the pleasant sandy environment. For a relaxing stay, bringing a comfortable beach blanket is a great idea.", "category": "recreational", "coords": [-2.140614, 48.625219]}, {"name": "Plage de la Petite Salinette", "text": "The charming Plage de la Petite Salinette is attractively situated on the coast of Dinard. It offers visitors an intimate and welcoming atmosphere, tucked away from the main bustle of the French beaches. A trip to this tranquil spot is particularly rewarding during the warmer months of the year.", "category": "recreational", "coords": [-2.146384, 48.626609]}, {"name": "Plage de Solidor", "text": "For those seeking relaxation, Plage de Solidor in Dinard is an excellent seaside destination. The gentle sea breeze of the French coast creates a wonderful environment for quiet moments of reflection. Visitors particularly appreciate this spot for relaxing evening walks during the summer season.", "category": "recreational", "coords": [-2.022829, 48.634004]}, {"name": "Plage du Rosais", "text": "The picturesque Plage du Rosais blends seamlessly into the townscape of Dinard. This beach on the French coast invites guests to linger and enjoy the area's natural beauty. Anyone looking to escape their daily routine will find the perfect retreat here on a sunny afternoon.", "category": "recreational", "coords": [-2.013476, 48.624386]}, {"name": "Plage des Corbières", "text": "A beautiful beach landscape defines the character of Plage des Corbières in Dinard. Its idyllic setting in France makes this spot a popular destination for anyone who loves the sound of the ocean waves. It is highly advisable to plan a visit during the quieter morning hours.", "category": "recreational", "coords": [-2.020425, 48.630972]}, {"name": "Plage de Saint-Énogat", "text": "As a well-known sandy beach in Dinard, Plage de Saint-Énogat attracts many sea lovers. The wide expanse of the French coastline here offers ideal conditions for a classic beach day. On hot summer days, an early start is recommended to experience the most pleasant time by the water.", "category": "recreational", "coords": [-2.069368, 48.639085]}, {"name": "Plage de Port-Riou", "text": "Plage de Port-Riou is an inviting coastal beach spot in the Dinard area. Visitors can thoroughly enjoy the fresh French sea air during long walks along the shoreline here. A visit during low tide also reveals the vast and varied beauty of this coastal landscape.", "category": "recreational", "coords": [-2.06502, 48.639269]}, {"name": "Plage du Tertre Pelé", "text": "Tranquil moments by the sea await guests at the peaceful Plage du Tertre Pelé in Dinard. This coastal oasis in France provides a pleasant atmosphere for anyone who appreciates the water. This beach stands out as an excellent choice for a relaxing summer day on the shore.", "category": "recreational", "coords": [-2.145186, 48.63188]}, {"name": "Plage de la Vicomté", "text": "A truly gorgeous beach area defines Plage de la Vicomté in Dinard. The French coast presents itself from its most graceful side here, warmly inviting guests to sunbathe. Visitors should plan to spend plenty of time during the summer to completely absorb the maritime scenery.", "category": "recreational", "coords": [-2.036163, 48.625602]}, {"name": "Grande Plage", "text": "The large main beach, Grande Plage, serves as the vibrant heart of the coastal town of Dinard. Here, you can feel the energy of the northern French Riviera, making it ideal for long beach days and strolls. Arriving early ensures securing the best spots on the extensive sand during the summer months.", "category": "recreational", "coords": [-2.108911, 48.637851]}, {"name": "Plage du Port aux Chevaux", "text": "Along the coast of Dinard, Plage du Port aux Chevaux offers a pleasant spot for ultimate relaxation. The French maritime setting invites you to easily leave your everyday worries behind. A trip there is most worthwhile when the sunny weather encourages a quick dip into the refreshing water.", "category": "recreational", "coords": [-2.149899, 48.63177]}, {"name": "Plage de la Grande Salinette", "text": "The local Plage de la Grande Salinette in Dinard conveys a truly authentic beach experience. Surrounded by beautiful French coastal nature, this location is perfect for spending relaxing hours by the water. Visitors will find welcome refreshment here during warm summer afternoons.", "category": "recreational", "coords": [-2.143774, 48.624641]}, {"name": "Plage de la Fosse aux Vaults", "text": "Set against the somewhat rugged coast of Dinard, Plage de la Fosse aux Vaults promises impressive sweeping views. This French beach location is an ideal spot to fully embrace the region's maritime flair. Carrying a windproof sweater is often recommended for extended coastal walks here.", "category": "recreational", "coords": [-2.09428, 48.633919]}, {"name": "Plage de Longchamp", "text": "Soft sands and the rhythmic sound of the ocean define the well-known Plage de Longchamp in Dinard. The broad French backdrop invites guests to enjoy long days on the beach and relaxing waterside strolls. Bringing along a sun umbrella is highly suggested to make your summer stay perfectly comfortable.", "category": "recreational", "coords": [-2.122291, 48.636803]}, {"name": "Plage de Port Hue", "text": "The charming beach destination of Plage de Port Hue is located in the beautiful town of Dinard. Stretching along the French coastline, visitors can easily relax here and absorb the refreshing maritime atmosphere. A visit is highly recommended if you are looking to explore the quieter sides of the sea.", "category": "recreational", "coords": [-2.14002, 48.632585]}, {"name": "Plage de la Fourberie", "text": "Plage de la Fourberie in Dinard is a wonderful spot for anyone who deeply loves the sea. Nestled within the French coastal landscape, it provides ample space for relaxation and casual strolls on the sand. Those wishing to fully enjoy their beach stay are best off choosing a warm summer day.", "category": "recreational", "coords": [-2.086168, 48.635289]}, {"name": "Plage du Perron", "text": "Located in the Dinard area, the coastal Plage du Perron easily tempts visitors with its natural beauty. Situated by the French sea, this location provides a lovely backdrop for pure moments of relaxation. Taking a walk in the early evening often bathes the beach in a particularly atmospheric light.", "category": "recreational", "coords": [-2.15123, 48.629101]}, {"name": "Plage du Port-Blanc", "text": "The charming coastal town of Dinard is home to the very welcoming Plage du Port-Blanc. The French shore presents itself here as an ideal place for swimming and sunbathing in a relatively quiet environment. For a carefree seaside experience, planning a visit during fine summer weather is highly recommended.", "category": "recreational", "coords": [-2.081909, 48.636492]}, {"name": "Plage du Prieuré", "text": "The serene Plage du Prieuré kindly invites you to get to know the distinct maritime side of Dinard. Embedded in France's coastal landscape, it offers an excellent opportunity for spending relaxing days right on the water. It is best to pack a good book to truly enjoy your peaceful time on the shore.", "category": "recreational", "coords": [-2.052261, 48.625726]}, {"name": "Plage du Rieul", "text": "Serving as a picturesque local beach in Dinard, Plage du Rieul consistently promises pleasant hours by the sea. Visitors appreciate the typical French coastal ambiance and the chance to relax far away from massive crowds. To make the most of the quiet atmosphere, visiting in the morning is recommended.", "category": "recreational", "coords": [-2.142039, 48.613319]}, {"name": "Plage de la Garde Guérin", "text": "Along the beautiful coastline of Dinard, you will eventually find the lovely Plage de la Garde Guérin beach. This French natural idyll is a wonderful place to simply breathe in fresh sea air and listen to the breaking waves. For avid nature lovers, an excursion here is worthwhile at any time of the year.", "category": "recreational", "coords": [-2.135985, 48.634682]}, {"name": "Plage des Hirondelles", "text": "Nestled along the scenic coast of Dinard, Plage des Hirondelles offers a welcoming spot for seaside relaxation in France. The inviting shoreline is perfect for unhurried walks and pleasant moments under the sun. It is a wonderful destination to experience the local maritime atmosphere. Visiting during the warm summer months allows for the most enjoyable coastal retreat.", "category": "recreational", "coords": [-2.116887, 48.640988]}, {"name": "Plage de Saint-Sieu", "text": "Located in the vibrant town of Dinard, Plage de Saint-Sieu presents a beautiful stretch of the French coast. Visitors can expect a refreshing setting for swimming and soaking up the coastal sunshine. The area captures the essence of classic seaside charm. For the best experience, arrive early in the day to secure a comfortable spot by the water.", "category": "recreational", "coords": [-2.156462, 48.608873]}, {"name": "Plage de La Hoguette", "text": "Plage de La Hoguette is a delightful beach area set against the coastal backdrop of Dinard, France. It provides a peaceful environment where locals and travelers alike can enjoy leisurely sunbathing. The shore is an excellent starting point for discovering the town's seaside beauty. Late afternoon walks here are highly recommended to fully appreciate the tranquil setting.", "category": "recreational", "coords": [-2.000208, 48.661594]}, {"name": "Crique du Fort", "text": "Crique du Fort is a beach cove located in Dinard.", "category": "recreational", "coords": [-1.988243, 48.678634]}, {"name": "Plage naturiste", "text": "Tucked away in Dinard, this distinct naturist beach offers a liberating way to experience the French coastline. It caters to those seeking a closer connection with nature in a designated, clothing-optional environment. Visitors can enjoy unhindered sunbathing and swimming along the peaceful shore. Remember to respect local guidelines and the privacy of others when visiting this specific area.", "category": "recreational", "coords": [-2.089678, 48.634204]}], "fr": [{"name": "Plage de l'Écluse", "text": "La plage principale de Dinard séduit par son élégante promenade et ses tentes de bain emblématiques rayées bleu et blanc. L'atmosphère dégage une touche de chic côtier historique. Les baigneurs peuvent se détendre sur le sable fin ou flâner le long des sentiers côtiers. Une visite en été révèle la plage sous son aspect le plus animé.", "category": "natural", "coords": [-2.0546, 48.6361]}, {"name": "Promenade au Clair de Lune", "text": "Un chemin côtier pittoresque qui est illuminé le soir, offrant des vues de rêve sur la baie de Saint-Malo.", "category": "recreational", "coords": [-2.05205, 48.63156]}, {"name": "Villas Belle Époque", "text": "Plus de 400 villas somptueuses de la fin du XIXe siècle confèrent à la station balnéaire son caractère mondain et nostalgique.", "category": "historical", "coords": [-2.053192, 48.629868]}, {"name": "Pointe du Moulinet", "text": "Cette pointe rocheuse offre une vue panoramique spectaculaire sur la mer, l'estuaire de la Rance et la cité fortifiée de Saint-Malo.", "category": "natural", "coords": [-2.04945, 48.636984]}, {"name": "Casino de Dinard", "text": "Situé directement en bord de mer, le casino est un symbole de la ville et reflète le style de vie luxueux de la Belle Époque.", "category": "recreational", "coords": [-2.053479, 48.635359]}, {"name": "Statue d'Alfred Hitchcock", "text": "Cette statue rappelle le célèbre festival du film de Dinard et l'inspiration présumée pour le film Les Oiseaux.", "category": "cultural", "coords": [-2.054745, 48.635472]}]}
   },
   {
     id: "laval", population: 52359,
@@ -28942,6 +26589,24 @@ const citySeeds: CitySeed[] = [
                         -0.812836,
                         48.081667
                   ]
+            },
+            {
+                  "name": "Aquabulle",
+                  "text": "Aquabulle in Laval verfügt über mehrere Becken und Rutschen und ist damit ein großartiges Ziel für einen Familien-Wassertag.",
+                  "category": "family",
+                  "coords": [
+                        -0.765315,
+                        48.087775
+                  ]
+            },
+            {
+                  "name": "Echologia",
+                  "text": "Echologia in Laval bietet naturnahe Aktivitäten und Wanderwege, die die ganze Familie gemeinsam erkunden kann.",
+                  "category": "family",
+                  "coords": [
+                        -0.723162,
+                        48.109758
+                  ]
             }
       ],
       "hu": [
@@ -29020,6 +26685,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.812836,
                         48.081667
+                  ]
+            },
+            {
+                  "name": "Aquabulle",
+                  "text": "A lavali Aquabulle számos medencével és csúszdával várja a családokat egy közös vízi napra.",
+                  "category": "family",
+                  "coords": [
+                        -0.765315,
+                        48.087775
+                  ]
+            },
+            {
+                  "name": "Echologia",
+                  "text": "A lavali Echologia természetközeli tevékenységeket és ösvényeket kínál, amelyeket az egész család együtt fedezhet fel.",
+                  "category": "family",
+                  "coords": [
+                        -0.723162,
+                        48.109758
                   ]
             }
       ],
@@ -29100,6 +26783,24 @@ const citySeeds: CitySeed[] = [
                         -0.812836,
                         48.081667
                   ]
+            },
+            {
+                  "name": "Aquabulle",
+                  "text": "Aquabulle din Laval are mai multe piscine și tobogane, fiind o destinație excelentă pentru o zi în familie la apă.",
+                  "category": "family",
+                  "coords": [
+                        -0.765315,
+                        48.087775
+                  ]
+            },
+            {
+                  "name": "Echologia",
+                  "text": "Echologia din Laval oferă activități bazate pe natură și trasee pe care întreaga familie le poate explora împreună.",
+                  "category": "family",
+                  "coords": [
+                        -0.723162,
+                        48.109758
+                  ]
             }
       ],
       "en": [
@@ -29178,6 +26879,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.812836,
                         48.081667
+                  ]
+            },
+            {
+                  "name": "Aquabulle",
+                  "text": "Aquabulle in City Laval features several pools and slides, making it a great destination for a family water day.",
+                  "category": "family",
+                  "coords": [
+                        -0.765315,
+                        48.087775
+                  ]
+            },
+            {
+                  "name": "Echologia",
+                  "text": "Echologia in City Laval offers nature-based activities and trails that the whole family can explore together.",
+                  "category": "family",
+                  "coords": [
+                        -0.723162,
+                        48.109758
                   ]
             }
       ],
@@ -29394,6 +27113,15 @@ const citySeeds: CitySeed[] = [
                         -0.881218,
                         47.059057
                   ]
+            },
+            {
+                  "name": "L’ile aux Jeux",
+                  "text": "L’ile aux Jeux ist ein Freizeitpark in Cholet. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        -0.931149,
+                        47.0606
+                  ]
             }
       ],
       "hu": [
@@ -29525,6 +27253,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.881218,
                         47.059057
+                  ]
+            },
+            {
+                  "name": "L’ile aux Jeux",
+                  "text": "A L’ile aux Jeux egy vidámpark Cholet-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        -0.931149,
+                        47.0606
                   ]
             }
       ],
@@ -29658,6 +27395,15 @@ const citySeeds: CitySeed[] = [
                         -0.881218,
                         47.059057
                   ]
+            },
+            {
+                  "name": "L’ile aux Jeux",
+                  "text": "L’ile aux Jeux este un parc tematic în Cholet. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        -0.931149,
+                        47.0606
+                  ]
             }
       ],
       "en": [
@@ -29790,6 +27536,15 @@ const citySeeds: CitySeed[] = [
                         -0.881218,
                         47.059057
                   ]
+            },
+            {
+                  "name": "L’ile aux Jeux",
+                  "text": "L’ile aux Jeux is a theme park in Cholet. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        -0.931149,
+                        47.0606
+                  ]
             }
       ],
       "fr": [
@@ -29883,780 +27638,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Le chantier naval Chantiers de l'Atlantique a été fondé dès 1861.", "La base sous-marine de Saint-Nazaire se compose de plus de 300 000 mètres cubes de béton.", "Le pont de Saint-Nazaire mesure 3 356 mètres et était le plus long de France à son ouverture en 1975.", "Le Queen Mary 2, l'un des plus grands paquebots, y fut achevé en 2003.", "Environ 85 % de la ville fut détruite par les bombardements durant la Seconde Guerre mondiale.", "Saint-Nazaire possède au total 20 plages différentes sur son territoire communal."],
     },
     image: "/poi-images/saint-nazaire.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Escal'Atlantic",
-                  "text": "In der ehemaligen U-Boot-Basis untergebracht, entführt dieses Erlebnis-Museum die Besucher in die Welt der legendären Ozeandampfer.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2,
-                        47.28
-                  ]
-            },
-            {
-                  "name": "U-Boot Espadon",
-                  "text": "Das erste französische U-Boot, das unter das Packeis tauchte, kann heute im Hafenbecken von Saint-Nazaire besichtigt werden.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.202624,
-                        47.275872
-                  ]
-            },
-            {
-                  "name": "U-Boot-Basis",
-                  "text": "Ein gewaltiges Betonbauwerk aus dem Zweiten Weltkrieg, das heute als Kulturzentrum und Ausstellungsraum für die Stadt dient.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2025,
-                        47.275833
-                  ]
-            },
-            {
-                  "name": "Brücke von Saint-Nazaire",
-                  "text": "Die imposante Schrägseilbrücke überspannt die Loire-Mündung und bietet spektakuläre Ausblicke auf die Werften und den Ozean.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
-                  ]
-            },
-            {
-                  "name": "Chantiers de l'Atlantique",
-                  "text": "Eine der größten Werften weltweit, auf der die berühmtesten Kreuzfahrtschiffe der Welt gebaut werden, bietet geführte Touren an.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.195302,
-                        47.285769
-                  ]
-            },
-            {
-                  "name": "Plage de Monsieur Hulot",
-                  "text": "Ein charmanter Sandstrand in Saint-Marc-sur-Mer, der durch Jacques Tatis Filmklassiker weltberühmt wurde.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2806,
-                        47.2377
-                  ]
-            },
-            {
-                  "name": "EOL Centre éolien",
-                  "text": "Ein interaktives Museum in der U-Boot-Basis, das die Technologie der Offshore-Windparks erklärt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198828,
-                        47.275507
-                  ]
-            },
-            {
-                  "name": "Lancastria-Denkmal",
-                  "text": "Ein bewegendes Denkmal, das an die Versenkung der RMS Lancastria im Jahr 1940 vor der Küste erinnert.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.204636,
-                        47.271252
-                  ]
-            },
-            {
-                  "name": "Parc Paysager",
-                  "text": "Ein 50 Hektar großer Park im Stadtzentrum mit einem See, Gärten und verschiedenen Freizeitmöglichkeiten.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.22774,
-                        47.27194
-                  ]
-            },
-            {
-                  "name": "Vieux Môle",
-                  "text": "Die älteste Mole des Hafens bietet einen weiten Blick über die Mündung der Loire.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.197335,
-                        47.271378
-                  ]
-            },
-            {
-                  "name": "Écomusée de Saint-Nazaire",
-                  "text": "Das Museum zeigt die Geschichte des Schiffbaus und den Wiederaufbau der Stadt nach dem Krieg.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.19851,
-                        47.2742
-                  ]
-            },
-            {
-                  "name": "Rathaus (Hôtel de Ville)",
-                  "text": "Ein markantes Gebäude im modernistischen Stil, das das Verwaltungszentrum der Hafenstadt bildet.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213905,
-                        47.273294
-                  ]
-            },
-            {
-                  "name": "Commando-Denkmal",
-                  "text": "Es ehrt die britischen Soldaten, die 1942 an der wagemutigen Operation Chariot teilgenommen haben.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198663,
-                        47.271801
-                  ]
-            },
-            {
-                  "name": "Fort de l'Eve",
-                  "text": "Eine ehemalige Verteidigungsanlage an der Küste, die heute als Wanderziel mit Meerblick dient.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.26722,
-                        47.2392
-                  ]
-            },
-            {
-                  "name": "Kirche Saint-Nazaire",
-                  "text": "Die Hauptkirche der Stadt, die nach dem Zweiten Weltkrieg im schlichten modernen Stil wiederaufgebaut wurde.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213891,
-                        47.273352
-                  ]
-            },
-            {
-                  "name": "Dragon des mers",
-                  "text": "Der Spielplatz Dragon des mers in Saint-Nazaire bietet maritimen Spielspaß für abenteuerlustige Kinder.",
-                  "category": "family",
-                  "coords": [
-                        -2.212758,
-                        47.277507
-                  ]
-            },
-            {
-                  "name": "Geckoland",
-                  "text": "Geckoland in Saint-Nazaire ist ein Spielplatz, auf dem Kinder aktiv sein und neue Geräte entdecken können.",
-                  "category": "family",
-                  "coords": [
-                        -2.204014,
-                        47.280748
-                  ]
-            },
-            {
-                  "name": "Golf miniature",
-                  "text": "Der Minigolfplatz in Saint-Nazaire bietet Familien ein unterhaltsames Erlebnis beim Einlochen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        -2.221973,
-                        47.269059
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Escal'Atlantic",
-                  "text": "Az egykori tengeralattjáró-bázison található múzeum a nagy óceánjárók világát idézi meg interaktív módon.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2,
-                        47.28
-                  ]
-            },
-            {
-                  "name": "Espadon tengeralattjáró",
-                  "text": "A látogatók bejárhatják az első francia tengeralattjárót, amely átkelt az északi sarkkör jege alatt.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.202624,
-                        47.275872
-                  ]
-            },
-            {
-                  "name": "Tengeralattjáró-bázis",
-                  "text": "Hatalmas betonbunker a második világháborúból, amely ma kulturális központként és múzeumként üzemel.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2025,
-                        47.275833
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire-híd",
-                  "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
-                  ]
-            },
-            {
-                  "name": "Chantiers de l'Atlantique",
-                  "text": "A világ egyik legnagyobb hajógyára, ahol vezetett túrák során ismerhető meg az óriási tengerjárók építése.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.195302,
-                        47.285769
-                  ]
-            },
-            {
-                  "name": "Monsieur Hulot strandja",
-                  "text": "Kellemes tengerparti öböl, ahol Jacques Tati híres filmjét forgatták; ma kedvelt fürdőhely.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2806,
-                        47.2377
-                  ]
-            },
-            {
-                  "name": "EOL Szélenergia Központ",
-                  "text": "Interaktív múzeum a tengeralattjáró-bázison, amely a tengeri szélparkok technológiáját mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198828,
-                        47.275507
-                  ]
-            },
-            {
-                  "name": "Lancastria-emlékmű",
-                  "text": "Megható emlékmű, amely az RMS Lancastria 1940-es elsüllyedésének áldozataira emlékeztet a partoknál.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.204636,
-                        47.271252
-                  ]
-            },
-            {
-                  "name": "Parc Paysager",
-                  "text": "50 hektáros park a városközpontban tóval, kertekkel és számos szabadidős sportolási lehetőséggel.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.22774,
-                        47.27194
-                  ]
-            },
-            {
-                  "name": "Vieux Môle",
-                  "text": "A kikötő legrégebbi mólója, amely panorámás kilátást nyújt a hajókra és a Saint-Nazaire-hídra.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.197335,
-                        47.271378
-                  ]
-            },
-            {
-                  "name": "Écomusée de Saint-Nazaire",
-                  "text": "A múzeum a helyi hajógyártás történetét és a város háború utáni újjáépítését mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.19851,
-                        47.2742
-                  ]
-            },
-            {
-                  "name": "Városháza (Hôtel de Ville)",
-                  "text": "Jellegzetes modernista stílusú épület, amely a kikötőváros adminisztratív központja.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213905,
-                        47.273294
-                  ]
-            },
-            {
-                  "name": "Commando-emlékmű",
-                  "text": "A brit katonák előtt tiszteleg, akik 1942-ben részt vettek a merész Operation Chariot akcióban.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198663,
-                        47.271801
-                  ]
-            },
-            {
-                  "name": "Fort de l'Eve",
-                  "text": "Egykori tengerparti védmű, amely ma kedvelt kirándulóhely az óceánra nyíló kilátással.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.26722,
-                        47.2392
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire-templom",
-                  "text": "A város főtemploma, amelyet a második világháború után egyszerű, modern stílusban építettek újjá.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213891,
-                        47.273352
-                  ]
-            },
-            {
-                  "name": "Dragon des mers",
-                  "text": "A Saint-Nazaire-i Dragon des mers játszótér tengeri tematikájú szórakozást kínál a kalandvágyó gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        -2.212758,
-                        47.277507
-                  ]
-            },
-            {
-                  "name": "Geckoland",
-                  "text": "A Saint-Nazaire-i Geckoland játszótéren a gyerekek aktívan tölthetik az időt és új játékokat fedezhetnek fel.",
-                  "category": "family",
-                  "coords": [
-                        -2.204014,
-                        47.280748
-                  ]
-            },
-            {
-                  "name": "Golf miniature",
-                  "text": "A Saint-Nazaire-i minigolfpálya szórakoztató szabadtéri élményt nyújt a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -2.221973,
-                        47.269059
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Escal'Atlantic",
-                  "text": "Situat în interiorul bazei de submarine, acest muzeu oferă o incursiune fascinantă în epoca marilor pacheboturi transatlantice.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2,
-                        47.28
-                  ]
-            },
-            {
-                  "name": "Submarinul Espadon",
-                  "text": "Primul submarin francez care s-a scufundat sub gheața polară poate fi acum vizitat în portul orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.202624,
-                        47.275872
-                  ]
-            },
-            {
-                  "name": "Baza de Submarine",
-                  "text": "O fortăreață gigantică de beton din al Doilea Război Mondial, transformată astăzi într-un hub cultural și turistic.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2025,
-                        47.275833
-                  ]
-            },
-            {
-                  "name": "Podul din Saint-Nazaire",
-                  "text": "O capodoperă a ingineriei care traversează estuarul Loirei, oferind panorame superbe asupra zonei portuare.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
-                  ]
-            },
-            {
-                  "name": "Chantiers de l'Atlantique",
-                  "text": "Unul dintre cele mai mari șantiere navale din lume, unde pot fi văzute în construcție cele mai mari nave de croazieră.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.195302,
-                        47.285769
-                  ]
-            },
-            {
-                  "name": "Plaja Monsieur Hulot",
-                  "text": "O plajă pitorească făcută celebră de regizorul Jacques Tati, ideală pentru relaxare pe coasta Atlanticului.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2806,
-                        47.2377
-                  ]
-            },
-            {
-                  "name": "EOL Centre éolien",
-                  "text": "Un muzeu interactiv situat în baza de submarine, care explică tehnologia parcurilor eoliene offshore.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198828,
-                        47.275507
-                  ]
-            },
-            {
-                  "name": "Monumentul Lancastria",
-                  "text": "Un monument emoționant care comemorează scufundarea navei RMS Lancastria în 1940, lângă coastă.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.204636,
-                        47.271252
-                  ]
-            },
-            {
-                  "name": "Parc Paysager",
-                  "text": "Un parc de 50 de hectare în centrul orașului, cu un lac, grădini și diverse facilități de recreere.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.22774,
-                        47.27194
-                  ]
-            },
-            {
-                  "name": "Vieux Môle",
-                  "text": "Cel mai vechi dig al portului oferă o vedere panoramică asupra navelor și a podului Saint-Nazaire.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.197335,
-                        47.271378
-                  ]
-            },
-            {
-                  "name": "Écomusée de Saint-Nazaire",
-                  "text": "Muzeul prezintă istoria construcțiilor navale și reconstrucția orașului după cel de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.19851,
-                        47.2742
-                  ]
-            },
-            {
-                  "name": "Primăria (Hôtel de Ville)",
-                  "text": "O clădire marcantă în stil modernist, care constituie centrul administrativ al acestui oraș portuar.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213905,
-                        47.273294
-                  ]
-            },
-            {
-                  "name": "Monumentul Commando",
-                  "text": "Onorează soldații britanici care au participat la îndrăzneața Operațiune Chariot în anul 1942.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198663,
-                        47.271801
-                  ]
-            },
-            {
-                  "name": "Fort de l'Eve",
-                  "text": "O fostă fortificație de apărare de coastă, care astăzi servește drept destinație de drumeție cu vedere la ocean.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.26722,
-                        47.2392
-                  ]
-            },
-            {
-                  "name": "Biserica Saint-Nazaire",
-                  "text": "Principala biserică a orașului, reconstruită după război într-un stil modern și sobru.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213891,
-                        47.273352
-                  ]
-            },
-            {
-                  "name": "Dragon des mers",
-                  "text": "Locul de joacă Dragon des mers din Saint-Nazaire oferă distracție maritimă pentru copiii dornici de aventură.",
-                  "category": "family",
-                  "coords": [
-                        -2.212758,
-                        47.277507
-                  ]
-            },
-            {
-                  "name": "Geckoland",
-                  "text": "Geckoland din Saint-Nazaire este un loc de joacă unde copiii pot fi activi și pot descoperi noi echipamente.",
-                  "category": "family",
-                  "coords": [
-                        -2.204014,
-                        47.280748
-                  ]
-            },
-            {
-                  "name": "Golf miniature",
-                  "text": "Terenul de minigolf din Saint-Nazaire oferă familiilor o experiență distractivă de joc în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        -2.221973,
-                        47.269059
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Escal'Atlantic",
-                  "text": "An immersive museum located within the submarine base that recreates the luxury and history of great ocean liners.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2,
-                        47.28
-                  ]
-            },
-            {
-                  "name": "Espadon Submarine",
-                  "text": "The first French submarine to dive under ice, now open to the public for a unique walkthrough experience in the harbor.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.202624,
-                        47.275872
-                  ]
-            },
-            {
-                  "name": "Submarine Base",
-                  "text": "A massive WWII concrete bunker that has been repurposed into a creative cultural space and visitor attraction.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2025,
-                        47.275833
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire Bridge",
-                  "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
-                  ]
-            },
-            {
-                  "name": "Chantiers de l'Atlantique",
-                  "text": "One of the world's largest shipyards, famous for building iconic cruise ships and offering guided industrial tours.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.195302,
-                        47.285769
-                  ]
-            },
-            {
-                  "name": "Monsieur Hulot's Beach",
-                  "text": "The setting for Jacques Tati's famous film, this scenic beach is a popular spot for leisure and seaside strolls.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -2.2806,
-                        47.2377
-                  ]
-            },
-            {
-                  "name": "EOL Wind Power Centre",
-                  "text": "An interactive museum inside the submarine base explaining the technology of offshore wind farms.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198828,
-                        47.275507
-                  ]
-            },
-            {
-                  "name": "Lancastria Memorial",
-                  "text": "A moving monument commemorating the sinking of the RMS Lancastria in 1940 off the coast of the city.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.204636,
-                        47.271252
-                  ]
-            },
-            {
-                  "name": "Parc Paysager",
-                  "text": "A 50-hectare park in the city center featuring a lake, gardens, and various recreational opportunities.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -2.22774,
-                        47.27194
-                  ]
-            },
-            {
-                  "name": "Vieux Môle",
-                  "text": "The port's oldest jetty offers a panoramic view of the ships and the impressive Saint-Nazaire Bridge.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.197335,
-                        47.271378
-                  ]
-            },
-            {
-                  "name": "Écomusée de Saint-Nazaire",
-                  "text": "This museum showcases the history of shipbuilding and the city's post-war reconstruction.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -2.19851,
-                        47.2742
-                  ]
-            },
-            {
-                  "name": "Town Hall (Hôtel de Ville)",
-                  "text": "A striking modernist building that serves as the administrative heart of this port city.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213905,
-                        47.273294
-                  ]
-            },
-            {
-                  "name": "Commando Monument",
-                  "text": "It honors the British soldiers who took part in the daring Operation Chariot raid in 1942.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.198663,
-                        47.271801
-                  ]
-            },
-            {
-                  "name": "Fort de l'Eve",
-                  "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -2.26722,
-                        47.2392
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire Church",
-                  "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -2.213891,
-                        47.273352
-                  ]
-            },
-            {
-                  "name": "Dragon des mers",
-                  "text": "The Dragon des mers playground in Saint-Nazaire offers maritime-themed fun for adventurous children.",
-                  "category": "family",
-                  "coords": [
-                        -2.212758,
-                        47.277507
-                  ]
-            },
-            {
-                  "name": "Geckoland",
-                  "text": "Geckoland in Saint-Nazaire is a playground where children can stay active and discover new equipment.",
-                  "category": "family",
-                  "coords": [
-                        -2.204014,
-                        47.280748
-                  ]
-            },
-            {
-                  "name": "Golf miniature",
-                  "text": "The miniature golf course in Saint-Nazaire provides a fun outdoor experience for families.",
-                  "category": "family",
-                  "coords": [
-                        -2.221973,
-                        47.269059
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Escal'Atlantic",
-                  "text": "Installé dans l'ancienne base sous-marine, ce musée immersif transporte les visiteurs dans le monde des paquebots légendaires.",
-                  "category": "museum",
-                  "coords": [
-                        -2.2,
-                        47.28
-                  ]
-            },
-            {
-                  "name": "Sous-marin Espadon",
-                  "text": "Le premier sous-marin français à avoir navigué sous la banquise peut être visité aujourd'hui dans le bassin portuaire de Saint-Nazaire.",
-                  "category": "historical",
-                  "coords": [
-                        -2.202624,
-                        47.275872
-                  ]
-            },
-            {
-                  "name": "Base sous-marine",
-                  "text": "Une énorme structure en béton de la Seconde Guerre mondiale, servant aujourd'hui de centre culturel et d'espace d'exposition.",
-                  "category": "historical",
-                  "coords": [
-                        -2.2025,
-                        47.275833
-                  ]
-            },
-            {
-                  "name": "Pont de Saint-Nazaire",
-                  "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.",
-                  "category": "civic",
-                  "coords": [
-                        -2.165681,
-                        47.278764
-                  ]
-            },
-            {
-                  "name": "Chantiers de l'Atlantique",
-                  "text": "L'un des plus grands chantiers navals au monde, où sont construits les navires de croisière les plus célèbres, propose des visites guidées.",
-                  "category": "historical",
-                  "coords": [
-                        -2.195302,
-                        47.285769
-                  ]
-            },
-            {
-                  "name": "Plage de Monsieur Hulot",
-                  "text": "Une plage de sable charmante à Saint-Marc-sur-Mer, rendue mondialement célèbre par le film classique de Jacques Tati.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.2806,
-                        47.2377
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Escal'Atlantic", "text": "In der ehemaligen U-Boot-Basis untergebracht, entführt dieses Erlebnis-Museum die Besucher in die Welt der legendären Ozeandampfer.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "U-Boot Espadon", "text": "Das erste französische U-Boot, das unter das Packeis tauchte, kann heute im Hafenbecken von Saint-Nazaire besichtigt werden.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "U-Boot-Basis", "text": "Ein gewaltiges Betonbauwerk aus dem Zweiten Weltkrieg, das heute als Kulturzentrum und Ausstellungsraum für die Stadt dient.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Brücke von Saint-Nazaire", "text": "Die imposante Schrägseilbrücke überspannt die Loire-Mündung und bietet spektakuläre Ausblicke auf die Werften und den Ozean.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "Eine der größten Werften weltweit, auf der die berühmtesten Kreuzfahrtschiffe der Welt gebaut werden, bietet geführte Touren an.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Plage de Monsieur Hulot", "text": "Berühmt geworden durch Jacques Tatis Filmklassiker, ist der Plage de Monsieur Hulot ein charmanter Sandstrand in Saint-Marc-sur-Mer bei Saint Nazaire. Die Küstenkulisse strahlt eine nostalgische Meeresatmosphäre aus, die perfekt für entspannte Spaziergänge und sanftes Schwimmen ist. Besucher werden von der filmischen Geschichte, die an diesem Ufer verweilt, verzaubert sein. Ein Besuch an einem sonnigen Nachmittag fängt den zeitlosen Geist der französischen Küste perfekt ein.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Centre éolien", "text": "Ein interaktives Museum in der U-Boot-Basis, das die Technologie der Offshore-Windparks erklärt.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria-Denkmal", "text": "Ein bewegendes Denkmal, das an die Versenkung der RMS Lancastria im Jahr 1940 vor der Küste erinnert.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "Ein 50 Hektar großer Park im Stadtzentrum mit einem See, Gärten und verschiedenen Freizeitmöglichkeiten.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "Die älteste Mole des Hafens bietet einen weiten Blick über die Mündung der Loire.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "Das Museum zeigt die Geschichte des Schiffbaus und den Wiederaufbau der Stadt nach dem Krieg.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Rathaus (Hôtel de Ville)", "text": "Ein markantes Gebäude im modernistischen Stil, das das Verwaltungszentrum der Hafenstadt bildet.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando-Denkmal", "text": "Es ehrt die britischen Soldaten, die 1942 an der wagemutigen Operation Chariot teilgenommen haben.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "Eine ehemalige Verteidigungsanlage an der Küste, die heute als Wanderziel mit Meerblick dient.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Kirche Saint-Nazaire", "text": "Die Hauptkirche der Stadt, die nach dem Zweiten Weltkrieg im schlichten modernen Stil wiederaufgebaut wurde.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "Der Spielplatz Dragon des mers in Saint-Nazaire bietet maritimen Spielspaß für abenteuerlustige Kinder.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland in Saint-Nazaire ist ein Spielplatz, auf dem Kinder aktiv sein und neue Geräte entdecken können.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "Der Minigolfplatz in Saint-Nazaire bietet Familien ein unterhaltsames Erlebnis beim Einlochen im Freien.", "category": "family", "coords": [-2.221973, 47.269059]}], "hu": [{"name": "Escal'Atlantic", "text": "Az egykori tengeralattjáró-bázison található múzeum a nagy óceánjárók világát idézi meg interaktív módon.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Espadon tengeralattjáró", "text": "A látogatók bejárhatják az első francia tengeralattjárót, amely átkelt az északi sarkkör jege alatt.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Tengeralattjáró-bázis", "text": "Hatalmas betonbunker a második világháborúból, amely ma kulturális központként és múzeumként üzemel.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Saint-Nazaire-híd", "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "A világ egyik legnagyobb hajógyára, ahol vezetett túrák során ismerhető meg az óriási tengerjárók építése.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Monsieur Hulot strandja", "text": "A Jacques Tati klasszikus filmje által híressé vált Plage de Monsieur Hulot egy bájos homokos strand Saint-Marc-sur-Merben, Saint Nazaire közelében. A tengerparti környezet nosztalgikus hangulatot áraszt, amely tökéletes a nyugodt sétákhoz és a lágy úszáshoz. A látogatókat elvarázsolja a part mentén elterülő filmes történelem. Egy napos délutáni látogatás tökéletesen megragadja a francia tengerpart időtlen szellemét.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Szélenergia Központ", "text": "Interaktív múzeum a tengeralattjáró-bázison, amely a tengeri szélparkok technológiáját mutatja be.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria-emlékmű", "text": "Megható emlékmű, amely az RMS Lancastria 1940-es elsüllyedésének áldozataira emlékeztet a partoknál.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "50 hektáros park a városközpontban tóval, kertekkel és számos szabadidős sportolási lehetőséggel.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "A kikötő legrégebbi mólója, amely panorámás kilátást nyújt a hajókra és a Saint-Nazaire-hídra.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "A múzeum a helyi hajógyártás történetét és a város háború utáni újjáépítését mutatja be.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Városháza (Hôtel de Ville)", "text": "Jellegzetes modernista stílusú épület, amely a kikötőváros adminisztratív központja.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando-emlékmű", "text": "A brit katonák előtt tiszteleg, akik 1942-ben részt vettek a merész Operation Chariot akcióban.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "Egykori tengerparti védmű, amely ma kedvelt kirándulóhely az óceánra nyíló kilátással.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Saint-Nazaire-templom", "text": "A város főtemploma, amelyet a második világháború után egyszerű, modern stílusban építettek újjá.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "A Saint-Nazaire-i Dragon des mers játszótér tengeri tematikájú szórakozást kínál a kalandvágyó gyerekeknek.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "A Saint-Nazaire-i Geckoland játszótéren a gyerekek aktívan tölthetik az időt és új játékokat fedezhetnek fel.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "A Saint-Nazaire-i minigolfpálya szórakoztató szabadtéri élményt nyújt a családoknak.", "category": "family", "coords": [-2.221973, 47.269059]}], "ro": [{"name": "Escal'Atlantic", "text": "Situat în interiorul bazei de submarine, acest muzeu oferă o incursiune fascinantă în epoca marilor pacheboturi transatlantice.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Submarinul Espadon", "text": "Primul submarin francez care s-a scufundat sub gheața polară poate fi acum vizitat în portul orașului.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Baza de Submarine", "text": "O fortăreață gigantică de beton din al Doilea Război Mondial, transformată astăzi într-un hub cultural și turistic.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Podul din Saint-Nazaire", "text": "O capodoperă a ingineriei care traversează estuarul Loirei, oferind panorame superbe asupra zonei portuare.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "Unul dintre cele mai mari șantiere navale din lume, unde pot fi văzute în construcție cele mai mari nave de croazieră.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Plaja Monsieur Hulot", "text": "Renumită prin filmul clasic al lui Jacques Tati, Plage de Monsieur Hulot este o plajă de nisip fermecătoare situată în Saint-Marc-sur-Mer, lângă Saint Nazaire. Decorul de coastă emană o atmosferă nostalgică de litoral, perfectă pentru plimbări relaxate și înot liniștit. Vizitatorii vor fi fermecați de istoria cinematografică ce stăruie de-a lungul țărmului. O vizită într-o după-amiază însorită surprinde perfect spiritul atemporal al litoralului francez.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Centre éolien", "text": "Un muzeu interactiv situat în baza de submarine, care explică tehnologia parcurilor eoliene offshore.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Monumentul Lancastria", "text": "Un monument emoționant care comemorează scufundarea navei RMS Lancastria în 1940, lângă coastă.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "Un parc de 50 de hectare în centrul orașului, cu un lac, grădini și diverse facilități de recreere.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "Cel mai vechi dig al portului oferă o vedere panoramică asupra navelor și a podului Saint-Nazaire.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "Muzeul prezintă istoria construcțiilor navale și reconstrucția orașului după cel de-al Doilea Război Mondial.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Primăria (Hôtel de Ville)", "text": "O clădire marcantă în stil modernist, care constituie centrul administrativ al acestui oraș portuar.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Monumentul Commando", "text": "Onorează soldații britanici care au participat la îndrăzneața Operațiune Chariot în anul 1942.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "O fostă fortificație de apărare de coastă, care astăzi servește drept destinație de drumeție cu vedere la ocean.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Biserica Saint-Nazaire", "text": "Principala biserică a orașului, reconstruită după război într-un stil modern și sobru.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "Locul de joacă Dragon des mers din Saint-Nazaire oferă distracție maritimă pentru copiii dornici de aventură.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland din Saint-Nazaire este un loc de joacă unde copiii pot fi activi și pot descoperi noi echipamente.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "Terenul de minigolf din Saint-Nazaire oferă familiilor o experiență distractivă de joc în aer liber.", "category": "family", "coords": [-2.221973, 47.269059]}], "en": [{"name": "Escal'Atlantic", "text": "An immersive museum located within the submarine base that recreates the luxury and history of great ocean liners.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Espadon Submarine", "text": "The first French submarine to dive under ice, now open to the public for a unique walkthrough experience in the harbor.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Submarine Base", "text": "A massive WWII concrete bunker that has been repurposed into a creative cultural space and visitor attraction.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Saint-Nazaire Bridge", "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "One of the world's largest shipyards, famous for building iconic cruise ships and offering guided industrial tours.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Monsieur Hulot's Beach", "text": "Renowned through Jacques Tati's classic film, Plage de Monsieur Hulot is a charming sandy beach located in Saint-Marc-sur-Mer near Saint Nazaire. The coastal setting exudes a nostalgic seaside atmosphere perfect for relaxed walks and gentle swimming. Visitors will find themselves charmed by the cinematic history that lingers along the shore. Visiting on a sunny afternoon perfectly captures the timeless spirit of the French seaside.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Wind Power Centre", "text": "An interactive museum inside the submarine base explaining the technology of offshore wind farms.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria Memorial", "text": "A moving monument commemorating the sinking of the RMS Lancastria in 1940 off the coast of the city.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "A 50-hectare park in the city center featuring a lake, gardens, and various recreational opportunities.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "The port's oldest jetty offers a panoramic view of the ships and the impressive Saint-Nazaire Bridge.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "This museum showcases the history of shipbuilding and the city's post-war reconstruction.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Town Hall (Hôtel de Ville)", "text": "A striking modernist building that serves as the administrative heart of this port city.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando Monument", "text": "It honors the British soldiers who took part in the daring Operation Chariot raid in 1942.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Saint-Nazaire Church", "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "The Dragon des mers playground in Saint-Nazaire offers maritime-themed fun for adventurous children.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland in Saint-Nazaire is a playground where children can stay active and discover new equipment.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "The miniature golf course in Saint-Nazaire provides a fun outdoor experience for families.", "category": "family", "coords": [-2.221973, 47.269059]}], "fr": [{"name": "Escal'Atlantic", "text": "Installé dans l'ancienne base sous-marine, ce musée immersif transporte les visiteurs dans le monde des paquebots légendaires.", "category": "museum", "coords": [-2.2, 47.28]}, {"name": "Sous-marin Espadon", "text": "Le premier sous-marin français à avoir navigué sous la banquise peut être visité aujourd'hui dans le bassin portuaire de Saint-Nazaire.", "category": "historical", "coords": [-2.202624, 47.275872]}, {"name": "Base sous-marine", "text": "Une énorme structure en béton de la Seconde Guerre mondiale, servant aujourd'hui de centre culturel et d'espace d'exposition.", "category": "historical", "coords": [-2.2025, 47.275833]}, {"name": "Pont de Saint-Nazaire", "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.", "category": "civic", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "L'un des plus grands chantiers navals au monde, où sont construits les navires de croisière les plus célèbres, propose des visites guidées.", "category": "historical", "coords": [-2.195302, 47.285769]}, {"name": "Plage de Monsieur Hulot", "text": "Célèbre grâce au classique cinématographique de Jacques Tati, la Plage de Monsieur Hulot est une charmante étendue de sable située à Saint-Marc-sur-Mer près de Saint Nazaire. Le cadre côtier dégage une atmosphère balnéaire nostalgique, idéale pour des promenades détendues et des baignades en douceur. Les visiteurs seront séduits par l'histoire cinématographique qui imprègne le rivage. Une visite par un après-midi ensoleillé capture parfaitement l'esprit intemporel du bord de mer français.", "category": "recreational", "coords": [-2.2806, 47.2377]}]}
   },
   {
     id: "chartres", population: 40361,
@@ -30770,6 +27752,15 @@ const citySeeds: CitySeed[] = [
                         1.522226,
                         48.439237
                   ]
+            },
+            {
+                  "name": "Piscine à vagues",
+                  "text": "Dieses Wellenbad in Chartres bietet ein aufregendes Schwimmerlebnis für Familien, die aktiven Spaß suchen.",
+                  "category": "family",
+                  "coords": [
+                        1.508895,
+                        48.454095
+                  ]
             }
       ],
       "hu": [
@@ -30849,6 +27840,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.522226,
                         48.439237
+                  ]
+            },
+            {
+                  "name": "Piscine à vagues",
+                  "text": "Ez a chartres-i hullámmedence izgalmas úszási élményt nyújt az aktív szórakozást kereső családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.508895,
+                        48.454095
                   ]
             }
       ],
@@ -30930,6 +27930,15 @@ const citySeeds: CitySeed[] = [
                         1.522226,
                         48.439237
                   ]
+            },
+            {
+                  "name": "Piscine à vagues",
+                  "text": "Această piscină cu valuri din Chartres oferă o experiență de înot incitantă pentru familiile care caută distracție activă.",
+                  "category": "family",
+                  "coords": [
+                        1.508895,
+                        48.454095
+                  ]
             }
       ],
       "en": [
@@ -31009,6 +28018,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.522226,
                         48.439237
+                  ]
+            },
+            {
+                  "name": "Piscine à vagues",
+                  "text": "This wave pool in Chartres provides an exciting swimming experience for families looking for active fun.",
+                  "category": "family",
+                  "coords": [
+                        1.508895,
+                        48.454095
                   ]
             }
       ],
@@ -31191,6 +28209,24 @@ const citySeeds: CitySeed[] = [
                         1.319085,
                         47.565411
                   ]
+            },
+            {
+                  "name": "La mini-ferme d'Emma",
+                  "text": "La mini-ferme d'Emma ist ein Zoo in Blois. Es bietet Kindern und Familien die Möglichkeit, Tiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        1.366072,
+                        47.611069
+                  ]
+            },
+            {
+                  "name": "Bassin extèrieur",
+                  "text": "Bassin extèrieur ist ein Schwimmbad in Blois. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        1.332415,
+                        47.567435
+                  ]
             }
       ],
       "hu": [
@@ -31279,6 +28315,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.319085,
                         47.565411
+                  ]
+            },
+            {
+                  "name": "La mini-ferme d'Emma",
+                  "text": "A La mini-ferme d'Emma egy állatkert Blois-ban. Lehetőséget kínál a gyerekeknek és a családoknak az állatok megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        1.366072,
+                        47.611069
+                  ]
+            },
+            {
+                  "name": "Bassin extèrieur",
+                  "text": "A Bassin extèrieur egy uszoda Blois-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        1.332415,
+                        47.567435
                   ]
             }
       ],
@@ -31369,6 +28423,24 @@ const citySeeds: CitySeed[] = [
                         1.319085,
                         47.565411
                   ]
+            },
+            {
+                  "name": "La mini-ferme d'Emma",
+                  "text": "La mini-ferme d'Emma este o grădină zoologică în Blois. Oferă oportunitatea copiilor și familiilor de a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        1.366072,
+                        47.611069
+                  ]
+            },
+            {
+                  "name": "Bassin extèrieur",
+                  "text": "Bassin extèrieur este o piscină în Blois. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        1.332415,
+                        47.567435
+                  ]
             }
       ],
       "en": [
@@ -31457,6 +28529,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.319085,
                         47.565411
+                  ]
+            },
+            {
+                  "name": "La mini-ferme d'Emma",
+                  "text": "La mini-ferme d'Emma is a zoo in Blois. It offers an opportunity for children and families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        1.366072,
+                        47.611069
+                  ]
+            },
+            {
+                  "name": "Bassin extèrieur",
+                  "text": "Bassin extèrieur is a swimming pool in Blois. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        1.332415,
+                        47.567435
                   ]
             }
       ],
@@ -32312,6 +29402,33 @@ const citySeeds: CitySeed[] = [
                         1.695151,
                         46.814907
                   ]
+            },
+            {
+                  "name": "Balsan'éo Bassin de Compétition",
+                  "text": "Dieses Wettkampfbecken in Châteauroux bietet Einrichtungen nach professionellem Standard für Familienschwimmen und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        1.674017,
+                        46.812942
+                  ]
+            },
+            {
+                  "name": "Monky Chateauroux",
+                  "text": "Monky Chateauroux ist ein Freizeitpark in Chateauroux, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.667965,
+                        46.797427
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin Nordique",
+                  "text": "Balsan'éo Bassin Nordique ist ein Schwimmbad in Chateauroux für sportliche Aktivitäten und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        1.673098,
+                        46.813001
+                  ]
             }
       ],
       "hu": [
@@ -32373,6 +29490,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.695151,
                         46.814907
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin de Compétition",
+                  "text": "Ez a châteauroux-i versenymedence professzionális létesítményeket kínál családi úszáshoz és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        1.674017,
+                        46.812942
+                  ]
+            },
+            {
+                  "name": "Monky Chateauroux",
+                  "text": "A Monky Chateauroux egy vidámpark Chateauroux városában, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        1.667965,
+                        46.797427
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin Nordique",
+                  "text": "A Balsan'éo Bassin Nordique egy úszómedence Chateauroux városában, amely kiváló kikapcsolódást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.673098,
+                        46.813001
                   ]
             }
       ],
@@ -32436,6 +29580,33 @@ const citySeeds: CitySeed[] = [
                         1.695151,
                         46.814907
                   ]
+            },
+            {
+                  "name": "Balsan'éo Bassin de Compétition",
+                  "text": "Această piscină de competiție din Châteauroux oferă facilități la standarde profesionale pentru înot în familie și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        1.674017,
+                        46.812942
+                  ]
+            },
+            {
+                  "name": "Monky Chateauroux",
+                  "text": "Monky Chateauroux este un parc de distracții în Chateauroux care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        1.667965,
+                        46.797427
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin Nordique",
+                  "text": "Balsan'éo Bassin Nordique este o piscină în Chateauroux pentru activități sportive și relaxare în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.673098,
+                        46.813001
+                  ]
             }
       ],
       "en": [
@@ -32497,6 +29668,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.695151,
                         46.814907
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin de Compétition",
+                  "text": "This competition pool in Chateauroux offers professional-standard facilities for family swimming and exercise.",
+                  "category": "family",
+                  "coords": [
+                        1.674017,
+                        46.812942
+                  ]
+            },
+            {
+                  "name": "Monky Chateauroux",
+                  "text": "Monky Chateauroux is a theme park in Chateauroux offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        1.667965,
+                        46.797427
+                  ]
+            },
+            {
+                  "name": "Balsan'éo Bassin Nordique",
+                  "text": "Balsan'éo Bassin Nordique is a swimming pool in Chateauroux suitable for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        1.673098,
+                        46.813001
                   ]
             }
       ],
@@ -32652,6 +29850,15 @@ const citySeeds: CitySeed[] = [
                         0.983991,
                         47.412553
                   ]
+            },
+            {
+                  "name": "Miniaturpark Loireschlösser",
+                  "text": "Mini-Châteaux Val de Loire ist ein Freizeitpark in Amboise. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        1.002931,
+                        47.392351
+                  ]
             }
       ],
       "hu": [
@@ -32713,6 +29920,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.983991,
                         47.412553
+                  ]
+            },
+            {
+                  "name": "Mini-Châteaux Val de Loire",
+                  "text": "A Mini-Châteaux Val de Loire egy vidámpark Amboise-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        1.002931,
+                        47.392351
                   ]
             }
       ],
@@ -32776,6 +29992,15 @@ const citySeeds: CitySeed[] = [
                         0.983991,
                         47.412553
                   ]
+            },
+            {
+                  "name": "Mini-Châteaux Val de Loire",
+                  "text": "Mini-Châteaux Val de Loire este un parc tematic în Amboise. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        1.002931,
+                        47.392351
+                  ]
             }
       ],
       "en": [
@@ -32837,6 +30062,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.983991,
                         47.412553
+                  ]
+            },
+            {
+                  "name": "Mini-Châteaux Val de Loire",
+                  "text": "Mini-Châteaux Val de Loire is a theme park in Amboise. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        1.002931,
+                        47.392351
                   ]
             }
       ],
@@ -33396,6 +30630,15 @@ const citySeeds: CitySeed[] = [
                         2.557517,
                         44.360681
                   ]
+            },
+            {
+                  "name": "Piscine du Domaine de Combelles",
+                  "text": "Die Piscine du Domaine de Combelles ist ein Schwimmbad in Rodez für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.592291,
+                        44.331886
+                  ]
             }
       ],
       "hu": [
@@ -33512,6 +30755,15 @@ const citySeeds: CitySeed[] = [
                         2.557517,
                         44.360681
                   ]
+            },
+            {
+                  "name": "Piscine du Domaine de Combelles",
+                  "text": "A Piscine du Domaine de Combelles egy úszómedence Rodez városában, amely az egész család számára nyitott.",
+                  "category": "family",
+                  "coords": [
+                        2.592291,
+                        44.331886
+                  ]
             }
       ],
       "ro": [
@@ -33627,6 +30879,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.557517,
                         44.360681
+                  ]
+            },
+            {
+                  "name": "Piscine du Domaine de Combelles",
+                  "text": "Piscine du Domaine de Combelles este o piscină în Rodez potrivită pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.592291,
+                        44.331886
                   ]
             }
       ],
@@ -33753,6 +31014,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.557517,
                         44.360681
+                  ]
+            },
+            {
+                  "name": "Piscine du Domaine de Combelles",
+                  "text": "Piscine du Domaine de Combelles is a swimming pool in Rodez offering family-friendly swimming.",
+                  "category": "family",
+                  "coords": [
+                        2.592291,
+                        44.331886
                   ]
             }
       ],
@@ -34017,6 +31287,15 @@ const citySeeds: CitySeed[] = [
                         1.346732,
                         44.014398
                   ]
+            },
+            {
+                  "name": "Fosse de Plongée",
+                  "text": "Fosse de Plongée ist ein Schwimmbad in Montauban. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        1.366873,
+                        44.01329
+                  ]
             }
       ],
       "hu": [
@@ -34169,6 +31448,15 @@ const citySeeds: CitySeed[] = [
                         1.358944,
                         44.008634
                   ]
+            },
+            {
+                  "name": "Fosse de Plongée",
+                  "text": "A Fosse de Plongée egy uszoda Montauban-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        1.366873,
+                        44.01329
+                  ]
             }
       ],
       "ro": [
@@ -34320,6 +31608,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.358944,
                         44.008634
+                  ]
+            },
+            {
+                  "name": "Fosse de Plongée",
+                  "text": "Fosse de Plongée este o piscină în Montauban. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        1.366873,
+                        44.01329
                   ]
             }
       ],
@@ -34482,6 +31779,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.346732,
                         44.014398
+                  ]
+            },
+            {
+                  "name": "Fosse de Plongée",
+                  "text": "Fosse de Plongée is a swimming pool in Montauban. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        1.366873,
+                        44.01329
                   ]
             }
       ],
@@ -35642,918 +32948,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Narbonne a été fondée en 118 av. J.-C. sous le nom de Narbo Martius.", "La construction de la cathédrale a débuté en 1272, mais n'a jamais été achevée pour des raisons défensives.", "Le canal de la Robine est un embranchement de 32 kilomètres du canal du Midi.", "La Via Domitia n'a été redécouverte qu'en 1997 lors de travaux sur la place de l'Hôtel de Ville.", "L'Horreum est un entrepôt romain souterrain datant du Ier siècle av. J.-C.", "Narbonne était au Moyen Âge un centre majeur de l'exégèse et de la culture juive."],
     },
     image: "/poi-images/narbonne.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
-                  "text": "Diese unvollendete gotische Kathedrale aus dem 13. Jahrhundert beeindruckt durch eines der höchsten Kirchenschiffe Frankreichs.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.003889,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Palais des Archevêques",
-                  "text": "Der monumentale Erzbischofspalast beherbergt heute das Rathaus sowie bedeutende Kunst- und Archäologiemuseen der Stadt Narbonne.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.00374,
-                        43.1842
-                  ]
-            },
-            {
-                  "name": "Horreum Romain",
-                  "text": "Einzigartige unterirdische Lagerräume aus der Römerzeit, die einen faszinierenden Einblick in das antike Handelszentrum bieten.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004627,
-                        43.185779
-                  ]
-            },
-            {
-                  "name": "Les Halles de Narbonne",
-                  "text": "Diese prachtvolle schmiedeeiserne Markthalle aus dem Jahr 1901 gilt als einer der schönsten überdachten Märkte ganz Frankreichs.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        3.0051,
-                        43.18116
-                  ]
-            },
-            {
-                  "name": "Canal de la Robine",
-                  "text": "Der zum UNESCO-Welterbe gehörende Kanal durchquert das Stadtzentrum und lädt zu entspannten Spaziergängen am Wasserufer ein.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.960833,
-                        43.245
-                  ]
-            },
-            {
-                  "name": "Via Domitia",
-                  "text": "Überreste der ersten römischen Straße in Gallien, die direkt vor dem Rathaus auf dem Place de l'Hôtel de Ville freigelegt wurden.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Paul",
-                  "text": "Eine bedeutende frühgotische Basilika, die auf einer antiken christlichen Nekropole errichtet wurde und berühmte Kapitelle besitzt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.99931,
-                        43.1816
-                  ]
-            },
-            {
-                  "name": "Narbo Via Museum",
-                  "text": "Ein modernes, von Norman Foster entworfenes Museum, das die reiche römische Geschichte der antiken Metropole Narbo Martius präsentiert.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Abbaye de Fontfroide",
-                  "text": "Eine prachtvolle ehemalige Zisterzienserabtei, bekannt für ihren gut erhaltenen Kreuzgang und Rosengarten.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        2.898336,
-                        43.127372
-                  ]
-            },
-            {
-                  "name": "Pont des Marchands",
-                  "text": "Eine seltene mittelalterliche Brücke, die mit Häusern bebaut ist und den Canal de la Robine überquert.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.003693,
-                        43.183201
-                  ]
-            },
-            {
-                  "name": "Maison Natale de Charles Trenet",
-                  "text": "Das Geburtshaus des berühmten Sängers, heute ein Museum, das seinem Leben und Werk gewidmet ist.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.996542,
-                        43.183884
-                  ]
-            },
-            {
-                  "name": "Donjon Gilles Aycelin",
-                  "text": "Ein massiver Wehrturm aus dem 13. Jahrhundert, der einen Panoramablick über Narbonne bietet.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        3.00389,
-                        43.183808
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Lamourguier",
-                  "text": "Eine ehemalige gotische Kirche, die heute eine beeindruckende Sammlung römischer Steindenkmäler beherbergt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00414,
-                        43.18098
-                  ]
-            },
-            {
-                  "name": "Narbonne-Plage",
-                  "text": "Ein breiter Sandstrand am Mittelmeer, ideal für Wassersport und Entspannung an der französischen Küste.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        3.003611,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Massif de la Clape",
-                  "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
-                  "name": "Place de l'Hôtel de Ville",
-                  "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.004385,
-                        43.183777
-                  ]
-            },
-            {
-                  "name": "Musée d'Art et d'Histoire",
-                  "text": "Im Erzbischofspalast gelegen, zeigt es bedeutende Sammlungen von Gemälden und dekorativer Kunst.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00382,
-                        43.1837
-                  ]
-            },
-            {
-                  "name": "Eglise Saint-Sébastien",
-                  "text": "Eine charmante gotische Kirche aus dem 15. Jahrhundert mit einem eleganten Glockenturm im Stadtzentrum.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.006884,
-                        43.185983
-                  ]
-            },
-            {
-                  "name": "Bassin",
-                  "text": "Ein See in Narbonne, ideal für eine entspannte Zeit am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        2.973265,
-                        43.215753
-                  ]
-            },
-            {
-                  "name": "B3 - CERS",
-                  "text": "Ein See in Narbonne, der die natürliche Landschaft bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        2.984079,
-                        43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Ein großer See bei Narbonne, bekannt für seine weite Wasserfläche.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Szent Jusztusz és Szent Pasztor székesegyház",
-                  "text": "Ez a befejezetlen gótikus katedrális lenyűgöző méretű kórussal rendelkezik, amely az egyik legmagasabb egész Franciaországban.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.003889,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Érseki palota",
-                  "text": "A monumentális épületegyüttes ma a városházának és múzeumoknak ad otthont, bemutatva Narbonne középkori hatalmát.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.00374,
-                        43.1842
-                  ]
-            },
-            {
-                  "name": "Római Horreum",
-                  "text": "Föld alatti folyosórendszer a római korból, amely egykor raktárként szolgált a város ókori kereskedelmi központjában.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004627,
-                        43.185779
-                  ]
-            },
-            {
-                  "name": "Les Halles vásárcsarnok",
-                  "text": "A város híres, 1901-ben épült fedett piaca, ahol a régió legkiválóbb gasztronómiai termékeit és borait kóstolhatjuk meg.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        3.0051,
-                        43.18116
-                  ]
-            },
-            {
-                  "name": "Canal de la Robine",
-                  "text": "Az UNESCO Világörökség részét képező csatorna partján platánsorok alatt sétálhatunk Narbonne történelmi központjában.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.960833,
-                        43.245
-                  ]
-            },
-            {
-                  "name": "Via Domitia maradványok",
-                  "text": "Az ókori Galliát átszelő első római út feltárt szakasza közvetlenül a városháza előtti téren tekinthető meg.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Szent Pál-bazilika",
-                  "text": "A 12. századi bazilika egyike Dél-Franciaország legkorábbi gótikus épületeinek, egy ősi keresztény temető helyén épült.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.99931,
-                        43.1816
-                  ]
-            },
-            {
-                  "name": "Narbo Via múzeum",
-                  "text": "Új, ultramodern régészeti múzeum, amely Narbonne római kori örökségét és lenyűgöző kőfaragványait mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Abbaye de Fontfroide",
-                  "text": "Pompás egykori ciszterci apátság, amely jól megőrzött keringőjéről és rózsakertjéről híres.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        2.898336,
-                        43.127372
-                  ]
-            },
-            {
-                  "name": "Pont des Marchands",
-                  "text": "Ritka középkori híd, amelyre házak épültek, és a Canal de la Robine csatorna felett ível át.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.003693,
-                        43.183201
-                  ]
-            },
-            {
-                  "name": "Maison Natale de Charles Trenet",
-                  "text": "A híres énekes szülőháza, amely ma az életét és munkásságát bemutató múzeumként működik.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.996542,
-                        43.183884
-                  ]
-            },
-            {
-                  "name": "Donjon Gilles Aycelin",
-                  "text": "Masszív, 13. századi védőtorony, ahonnan panorámás kilátás nyílik Narbonne-ra és környékére.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        3.00389,
-                        43.183808
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Lamourguier",
-                  "text": "Egykori gótikus templom, amely ma római kori kőemlékek lenyűgöző gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00414,
-                        43.18098
-                  ]
-            },
-            {
-                  "name": "Narbonne-Plage",
-                  "text": "Széles homokos tengerpart a Földközi-tengeren, ideális vízi sportokhoz és pihenéshez a francia riviérán.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        3.003611,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Massif de la Clape",
-                  "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
-                  "name": "Place de l'Hôtel de Ville",
-                  "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.004385,
-                        43.183777
-                  ]
-            },
-            {
-                  "name": "Musée d'Art et d'Histoire",
-                  "text": "Az érseki palotában található múzeum, amely jelentős festmény- és díszítőművészeti gyűjteménnyel bír.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00382,
-                        43.1837
-                  ]
-            },
-            {
-                  "name": "Eglise Saint-Sébastien",
-                  "text": "Bájos, 15. századi gótikus templom elegáns harangtoronnyal, Narbonne történelmi belvárosában.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.006884,
-                        43.185983
-                  ]
-            },
-            {
-                  "name": "Bassin",
-                  "text": "Egy tó Narbonne-ban, ideális a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        2.973265,
-                        43.215753
-                  ]
-            },
-            {
-                  "name": "B3 - CERS",
-                  "text": "Egy tó Narbonne-ban, amely gazdagítja a természeti tájat.",
-                  "category": "natural",
-                  "coords": [
-                        2.984079,
-                        43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Egy nagy tó Narbonne közelében, amely tágas vízfelületéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Catedrala Saint-Just-et-Saint-Pasteur",
-                  "text": "O capodoperă a goticului narbonez, faimoasă pentru corul său imens, rămasă neterminată din motive defensive în secolul XIV.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.003889,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Palatul Arhiepiscopal",
-                  "text": "Un complex arhitectural impresionant care îmbină stilurile gotic și clasic, găzduind primăria și muzeul de artă al orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.00374,
-                        43.1842
-                  ]
-            },
-            {
-                  "name": "Horreum Roman",
-                  "text": "Galerii subterane unice din secolul I î.Hr., folosite ca depozite în perioada în care Narbonne era o colonie romană prosperă.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004627,
-                        43.185779
-                  ]
-            },
-            {
-                  "name": "Les Halles de Narbonne",
-                  "text": "Piața acoperită în stil Baltard, construită la începutul secolului XX, este inima gastronomică vibrantă a orașului Narbonne.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        3.0051,
-                        43.18116
-                  ]
-            },
-            {
-                  "name": "Canal de la Robine",
-                  "text": "Inclus în patrimoniul UNESCO, acest canal pitoresc traversează orașul și oferă trasee superbe pentru plimbări pe sub platani.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.960833,
-                        43.245
-                  ]
-            },
-            {
-                  "name": "Via Domitia",
-                  "text": "Vestigii ale primei rute romane construite în Galia, vizibile chiar în centrul Place de l'Hôtel de Ville din Narbonne.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Bazilica Saint-Paul",
-                  "text": "O biserică remarcabilă construită pe locul unei necropole romane, fiind unul dintre primele exemple de gotic din sudul Franței.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.99931,
-                        43.1816
-                  ]
-            },
-            {
-                  "name": "Muzeul Narbo Via",
-                  "text": "Un muzeu de arheologie spectaculos care expune mii de blocuri de piatră sculptate și obiecte din perioada romană a orașului.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Abbaye de Fontfroide",
-                  "text": "O fostă abație cisterciană magnifică, renumită pentru claustrul său bine conservat și grădina de trandafiri.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        2.898336,
-                        43.127372
-                  ]
-            },
-            {
-                  "name": "Pont des Marchands",
-                  "text": "Un pod medieval rar, mărginit de case, care traversează canalul de la Robine în centrul orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.003693,
-                        43.183201
-                  ]
-            },
-            {
-                  "name": "Maison Natale de Charles Trenet",
-                  "text": "Casa natală a faimosului cântăreț, astăzi un muzeu dedicat vieții și operei sale muzicale.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.996542,
-                        43.183884
-                  ]
-            },
-            {
-                  "name": "Donjon Gilles Aycelin",
-                  "text": "Un turn defensiv masiv din secolul al XIII-lea, oferind vederi panoramice asupra orașului Narbonne.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        3.00389,
-                        43.183808
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Lamourguier",
-                  "text": "O fostă biserică gotică care găzduiește acum o colecție impresionantă de monumente romane din piatră.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00414,
-                        43.18098
-                  ]
-            },
-            {
-                  "name": "Narbonne-Plage",
-                  "text": "O plajă largă cu nisip la Marea Mediterană, ideală pentru sporturi nautice și relaxare pe coasta franceză.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        3.003611,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Massif de la Clape",
-                  "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
-                  "name": "Place de l'Hôtel de Ville",
-                  "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.004385,
-                        43.183777
-                  ]
-            },
-            {
-                  "name": "Musée d'Art et d'Histoire",
-                  "text": "Situat în Palatul Arhiepiscopal, expune colecții semnificative de picturi și arte decorative.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00382,
-                        43.1837
-                  ]
-            },
-            {
-                  "name": "Eglise Saint-Sébastien",
-                  "text": "O biserică gotică fermecătoare din secolul al XV-lea, cu un turn elegant cu clopot în centrul vechi.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.006884,
-                        43.185983
-                  ]
-            },
-            {
-                  "name": "Bassin",
-                  "text": "Un lac în Narbonne, ideal pentru un timp relaxant pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        2.973265,
-                        43.215753
-                  ]
-            },
-            {
-                  "name": "B3 - CERS",
-                  "text": "Un lac în Narbonne care îmbogățește peisajul natural.",
-                  "category": "natural",
-                  "coords": [
-                        2.984079,
-                        43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Un lac mare lângă Narbonne, cunoscut pentru suprafața sa vastă de apă.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Saint-Just and Saint-Pasteur Cathedral",
-                  "text": "An ambitious 13th-century Gothic cathedral, famous for its towering choir which remains one of the highest in France.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.003889,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Archbishops' Palace",
-                  "text": "A grand complex featuring the Old and New Palaces, now housing the Town Hall and fine arts and archaeology museums.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.00374,
-                        43.1842
-                  ]
-            },
-            {
-                  "name": "Roman Horreum",
-                  "text": "Ancient underground galleries dating back to the 1st century BC, originally used as a grain warehouse during Roman rule.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004627,
-                        43.185779
-                  ]
-            },
-            {
-                  "name": "Les Halles de Narbonne",
-                  "text": "A stunning iron-framed covered market built in 1901, renowned as one of the best and most beautiful food markets in France.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        3.0051,
-                        43.18116
-                  ]
-            },
-            {
-                  "name": "Canal de la Robine",
-                  "text": "A UNESCO World Heritage site that flows through the heart of Narbonne, lined with scenic paths and pleasure boats.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.960833,
-                        43.245
-                  ]
-            },
-            {
-                  "name": "Via Domitia",
-                  "text": "An excavated section of the first Roman road in Gaul, discovered in 1997 in the center of the City Hall square.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Basilica of Saint Paul",
-                  "text": "A beautiful Romanesque-Gothic church built over an early Christian cemetery, featuring a famous 'frog' stoup in its interior.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        2.99931,
-                        43.1816
-                  ]
-            },
-            {
-                  "name": "Narbo Via Museum",
-                  "text": "A world-class archaeological museum designed by Norman Foster, showcasing the city's prestigious Roman past.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Abbaye de Fontfroide",
-                  "text": "A magnificent former Cistercian abbey, famous for its well-preserved cloister and rose garden.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        2.898336,
-                        43.127372
-                  ]
-            },
-            {
-                  "name": "Pont des Marchands",
-                  "text": "A rare medieval bridge lined with houses, spanning the Canal de la Robine in the city center.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.003693,
-                        43.183201
-                  ]
-            },
-            {
-                  "name": "Maison Natale de Charles Trenet",
-                  "text": "The birthplace of the famous singer, now a museum dedicated to his life and musical work.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.996542,
-                        43.183884
-                  ]
-            },
-            {
-                  "name": "Donjon Gilles Aycelin",
-                  "text": "A massive 13th-century defensive tower offering panoramic views over Narbonne and its surroundings.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        3.00389,
-                        43.183808
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Lamourguier",
-                  "text": "A former Gothic church that now houses an impressive collection of Roman stone monuments.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00414,
-                        43.18098
-                  ]
-            },
-            {
-                  "name": "Narbonne-Plage",
-                  "text": "A wide sandy beach on the Mediterranean, ideal for water sports and relaxation on the French coast.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        3.003611,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Massif de la Clape",
-                  "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
-                  "name": "Place de l'Hôtel de Ville",
-                  "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.004385,
-                        43.183777
-                  ]
-            },
-            {
-                  "name": "Musée d'Art et d'Histoire",
-                  "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        3.00382,
-                        43.1837
-                  ]
-            },
-            {
-                  "name": "Eglise Saint-Sébastien",
-                  "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        3.006884,
-                        43.185983
-                  ]
-            },
-            {
-                  "name": "Bassin",
-                  "text": "A lake in Narbonne, ideal for a relaxed time by the water.",
-                  "category": "natural",
-                  "coords": [
-                        2.973265,
-                        43.215753
-                  ]
-            },
-            {
-                  "name": "B3 - CERS",
-                  "text": "A lake in Narbonne that enriches the natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        2.984079,
-                        43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "A large lake near Narbonne, known for its wide expanse of water.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
-                  "text": "Cette cathédrale gothique inachevée du XIIIe siècle se distingue par l'une des voûtes les plus hautes de France.",
-                  "category": "religious",
-                  "coords": [
-                        3.003889,
-                        43.184722
-                  ]
-            },
-            {
-                  "name": "Palais des Archevêques",
-                  "text": "Cet ancien palais épiscopal monumental abrite aujourd'hui l'hôtel de ville ainsi que des musées d'art et d'archéologie.",
-                  "category": "historical",
-                  "coords": [
-                        3.00374,
-                        43.1842
-                  ]
-            },
-            {
-                  "name": "Horreum Romain",
-                  "text": "Des entrepôts souterrains uniques datant de l'époque romaine, offrant un aperçu fascinant du commerce antique.",
-                  "category": "museum",
-                  "coords": [
-                        3.004627,
-                        43.185779
-                  ]
-            },
-            {
-                  "name": "Les Halles de Narbonne",
-                  "text": "Splendide halle de style Baltard datant de 1901, considérée comme l'un des plus beaux marchés couverts de France.",
-                  "category": "culinary",
-                  "coords": [
-                        3.0051,
-                        43.18116
-                  ]
-            },
-            {
-                  "name": "Canal de la Robine",
-                  "text": "Classé au patrimoine mondial de l'UNESCO, ce canal traverse le centre-ville et invite à la promenade le long de ses quais.",
-                  "category": "recreational",
-                  "coords": [
-                        2.960833,
-                        43.245
-                  ]
-            },
-            {
-                  "name": "Via Domitia",
-                  "text": "Vestiges de la première voie romaine en Gaule, découverts et mis en valeur face à l'hôtel de ville.",
-                  "category": "historical",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Paul",
-                  "text": "Importante basilique protogothique bâtie sur une nécropole paléochrétienne, célèbre pour ses chapiteaux sculptés.",
-                  "category": "religious",
-                  "coords": [
-                        2.99931,
-                        43.1816
-                  ]
-            },
-            {
-                  "name": "Narbo Via Museum",
-                  "text": "Musée moderne conçu par Norman Foster, présentant la riche histoire romaine de l'antique cité de Narbo Martius.",
-                  "category": "museum",
-                  "coords": [
-                        3.004218,
-                        43.183767
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Cathédrale Saint-Just-et-Saint-Pasteur", "text": "Diese unvollendete gotische Kathedrale aus dem 13. Jahrhundert beeindruckt durch eines der höchsten Kirchenschiffe Frankreichs.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Palais des Archevêques", "text": "Der monumentale Erzbischofspalast beherbergt heute das Rathaus sowie bedeutende Kunst- und Archäologiemuseen der Stadt Narbonne.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Horreum Romain", "text": "Einzigartige unterirdische Lagerräume aus der Römerzeit, die einen faszinierenden Einblick in das antike Handelszentrum bieten.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Diese prachtvolle schmiedeeiserne Markthalle aus dem Jahr 1901 gilt als einer der schönsten überdachten Märkte ganz Frankreichs.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Der zum UNESCO-Welterbe gehörende Kanal durchquert das Stadtzentrum und lädt zu entspannten Spaziergängen am Wasserufer ein.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Überreste der ersten römischen Straße in Gallien, die direkt vor dem Rathaus auf dem Place de l'Hôtel de Ville freigelegt wurden.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Basilique Saint-Paul", "text": "Eine bedeutende frühgotische Basilika, die auf einer antiken christlichen Nekropole errichtet wurde und berühmte Kapitelle besitzt.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "Ein modernes, von Norman Foster entworfenes Museum, das die reiche römische Geschichte der antiken Metropole Narbo Martius präsentiert.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "Eine prachtvolle ehemalige Zisterzienserabtei, bekannt für ihren gut erhaltenen Kreuzgang und Rosengarten.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Eine seltene mittelalterliche Brücke, die mit Häusern bebaut ist und den Canal de la Robine überquert.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "Das Geburtshaus des berühmten Sängers, heute ein Museum, das seinem Leben und Werk gewidmet ist.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Ein massiver Wehrturm aus dem 13. Jahrhundert, der einen Panoramablick über Narbonne bietet.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "Eine ehemalige gotische Kirche, die heute eine beeindruckende Sammlung römischer Steindenkmäler beherbergt.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Narbonne-Plage erstreckt sich weitläufig entlang des Mittelmeers und ist ein herrliches Ziel an der französischen Küste. Dieses ausgedehnte Sandufer lädt Besucher ein, sich aufregenden Wassersportarten hinzugeben oder einfach in einer entspannenden Atmosphäre die Seele baumeln zu lassen. Die lebendige Umgebung bietet ausreichend Platz für aktive Urlauber und Ruhesuchende gleichermaßen. Das Erkunden dieses Strandes in den hellen Sommermonaten verspricht einen unvergesslichen mediterranen Kurzurlaub.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Im Erzbischofspalast gelegen, zeigt es bedeutende Sammlungen von Gemälden und dekorativer Kunst.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "Eine charmante gotische Kirche aus dem 15. Jahrhundert mit einem eleganten Glockenturm im Stadtzentrum.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Ein See in Narbonne, ideal für eine entspannte Zeit am Wasser.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Ein See in Narbonne, der die natürliche Landschaft bereichert.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Ein großer See bei Narbonne, bekannt für seine weite Wasserfläche.", "category": "natural", "coords": [2.999547, 43.109492]}], "hu": [{"name": "Szent Jusztusz és Szent Pasztor székesegyház", "text": "Ez a befejezetlen gótikus katedrális lenyűgöző méretű kórussal rendelkezik, amely az egyik legmagasabb egész Franciaországban.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Érseki palota", "text": "A monumentális épületegyüttes ma a városházának és múzeumoknak ad otthont, bemutatva Narbonne középkori hatalmát.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Római Horreum", "text": "Föld alatti folyosórendszer a római korból, amely egykor raktárként szolgált a város ókori kereskedelmi központjában.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles vásárcsarnok", "text": "A város híres, 1901-ben épült fedett piaca, ahol a régió legkiválóbb gasztronómiai termékeit és borait kóstolhatjuk meg.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Az UNESCO Világörökség részét képező csatorna partján platánsorok alatt sétálhatunk Narbonne történelmi központjában.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia maradványok", "text": "Az ókori Galliát átszelő első római út feltárt szakasza közvetlenül a városháza előtti téren tekinthető meg.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Szent Pál-bazilika", "text": "A 12. századi bazilika egyike Dél-Franciaország legkorábbi gótikus épületeinek, egy ősi keresztény temető helyén épült.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via múzeum", "text": "Új, ultramodern régészeti múzeum, amely Narbonne római kori örökségét és lenyűgöző kőfaragványait mutatja be.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "Pompás egykori ciszterci apátság, amely jól megőrzött keringőjéről és rózsakertjéről híres.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Ritka középkori híd, amelyre házak épültek, és a Canal de la Robine csatorna felett ível át.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "A híres énekes szülőháza, amely ma az életét és munkásságát bemutató múzeumként működik.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Masszív, 13. századi védőtorony, ahonnan panorámás kilátás nyílik Narbonne-ra és környékére.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "Egykori gótikus templom, amely ma római kori kőemlékek lenyűgöző gyűjteményének ad otthont.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "A Földközi-tenger mentén szélesen elterülő Narbonne-Plage egy csodálatos úti cél a francia tengerparton. Ez a kiterjedt homokos part meghívja a látogatókat az izgalmas vízi sportok kipróbálására, vagy egyszerűen csak a pihentető légkörben való feltöltődésre. Az élettel teli környezet bőséges teret biztosít mind az aktív nyaralóknak, mind a tiszta kikapcsolódásra vágyóknak. Ennek a strandnak a felfedezése a világos nyári hónapokban igazán emlékezetes mediterrán kiruccanást ígér.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Az érseki palotában található múzeum, amely jelentős festmény- és díszítőművészeti gyűjteménnyel bír.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "Bájos, 15. századi gótikus templom elegáns harangtoronnyal, Narbonne történelmi belvárosában.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Egy tó Narbonne-ban, ideális a vízparti pihenéshez.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Egy tó Narbonne-ban, amely gazdagítja a természeti tájat.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Egy nagy tó Narbonne közelében, amely tágas vízfelületéről ismert.", "category": "natural", "coords": [2.999547, 43.109492]}], "ro": [{"name": "Catedrala Saint-Just-et-Saint-Pasteur", "text": "O capodoperă a goticului narbonez, faimoasă pentru corul său imens, rămasă neterminată din motive defensive în secolul XIV.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Palatul Arhiepiscopal", "text": "Un complex arhitectural impresionant care îmbină stilurile gotic și clasic, găzduind primăria și muzeul de artă al orașului.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Horreum Roman", "text": "Galerii subterane unice din secolul I î.Hr., folosite ca depozite în perioada în care Narbonne era o colonie romană prosperă.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Piața acoperită în stil Baltard, construită la începutul secolului XX, este inima gastronomică vibrantă a orașului Narbonne.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Inclus în patrimoniul UNESCO, acest canal pitoresc traversează orașul și oferă trasee superbe pentru plimbări pe sub platani.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Vestigii ale primei rute romane construite în Galia, vizibile chiar în centrul Place de l'Hôtel de Ville din Narbonne.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Bazilica Saint-Paul", "text": "O biserică remarcabilă construită pe locul unei necropole romane, fiind unul dintre primele exemple de gotic din sudul Franței.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Muzeul Narbo Via", "text": "Un muzeu de arheologie spectaculos care expune mii de blocuri de piatră sculptate și obiecte din perioada romană a orașului.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "O fostă abație cisterciană magnifică, renumită pentru claustrul său bine conservat și grădina de trandafiri.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Un pod medieval rar, mărginit de case, care traversează canalul de la Robine în centrul orașului.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "Casa natală a faimosului cântăreț, astăzi un muzeu dedicat vieții și operei sale muzicale.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Un turn defensiv masiv din secolul al XIII-lea, oferind vederi panoramice asupra orașului Narbonne.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "O fostă biserică gotică care găzduiește acum o colecție impresionantă de monumente romane din piatră.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Întinzându-se larg de-a lungul Mării Mediterane, Narbonne-Plage este o destinație magnifică pe coasta franceză. Acest țărm vast de nisip invită vizitatorii să se bucure de sporturi nautice palpitante sau pur și simplu să se relaxeze într-o atmosferă calmă. Decorul vibrant asigură spațiu din plin atât pentru turiștii activi, cât și pentru cei care caută o relaxare totală. Explorarea acestei plaje în timpul lunilor luminoase de vară promite o evadare mediteraneană cu adevărat memorabilă.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Situat în Palatul Arhiepiscopal, expune colecții semnificative de picturi și arte decorative.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "O biserică gotică fermecătoare din secolul al XV-lea, cu un turn elegant cu clopot în centrul vechi.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Un lac în Narbonne, ideal pentru un timp relaxant pe malul apei.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Un lac în Narbonne care îmbogățește peisajul natural.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Un lac mare lângă Narbonne, cunoscut pentru suprafața sa vastă de apă.", "category": "natural", "coords": [2.999547, 43.109492]}], "en": [{"name": "Saint-Just and Saint-Pasteur Cathedral", "text": "An ambitious 13th-century Gothic cathedral, famous for its towering choir which remains one of the highest in France.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Archbishops' Palace", "text": "A grand complex featuring the Old and New Palaces, now housing the Town Hall and fine arts and archaeology museums.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Roman Horreum", "text": "Ancient underground galleries dating back to the 1st century BC, originally used as a grain warehouse during Roman rule.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "A stunning iron-framed covered market built in 1901, renowned as one of the best and most beautiful food markets in France.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "A UNESCO World Heritage site that flows through the heart of Narbonne, lined with scenic paths and pleasure boats.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "An excavated section of the first Roman road in Gaul, discovered in 1997 in the center of the City Hall square.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Basilica of Saint Paul", "text": "A beautiful Romanesque-Gothic church built over an early Christian cemetery, featuring a famous 'frog' stoup in its interior.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "A world-class archaeological museum designed by Norman Foster, showcasing the city's prestigious Roman past.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "A magnificent former Cistercian abbey, famous for its well-preserved cloister and rose garden.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "A rare medieval bridge lined with houses, spanning the Canal de la Robine in the city center.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "The birthplace of the famous singer, now a museum dedicated to his life and musical work.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "A massive 13th-century defensive tower offering panoramic views over Narbonne and its surroundings.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "A former Gothic church that now houses an impressive collection of Roman stone monuments.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Stretching broadly along the Mediterranean Sea, Narbonne-Plage is a magnificent destination on the French coast. This expansive sandy shore invites visitors to indulge in thrilling water sports or simply unwind in a relaxing atmosphere. The vibrant setting ensures plenty of space for both active vacationers and those seeking pure relaxation. Exploring this beach during the bright summer months promises a truly memorable Mediterranean getaway.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "A lake in Narbonne, ideal for a relaxed time by the water.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "A lake in Narbonne that enriches the natural landscape.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "A large lake near Narbonne, known for its wide expanse of water.", "category": "natural", "coords": [2.999547, 43.109492]}], "fr": [{"name": "Cathédrale Saint-Just-et-Saint-Pasteur", "text": "Cette cathédrale gothique inachevée du XIIIe siècle se distingue par l'une des voûtes les plus hautes de France.", "category": "religious", "coords": [3.003889, 43.184722]}, {"name": "Palais des Archevêques", "text": "Cet ancien palais épiscopal monumental abrite aujourd'hui l'hôtel de ville ainsi que des musées d'art et d'archéologie.", "category": "historical", "coords": [3.00374, 43.1842]}, {"name": "Horreum Romain", "text": "Des entrepôts souterrains uniques datant de l'époque romaine, offrant un aperçu fascinant du commerce antique.", "category": "museum", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Splendide halle de style Baltard datant de 1901, considérée comme l'un des plus beaux marchés couverts de France.", "category": "culinary", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Classé au patrimoine mondial de l'UNESCO, ce canal traverse le centre-ville et invite à la promenade le long de ses quais.", "category": "recreational", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Vestiges de la première voie romaine en Gaule, découverts et mis en valeur face à l'hôtel de ville.", "category": "historical", "coords": [3.004218, 43.183767]}, {"name": "Basilique Saint-Paul", "text": "Importante basilique protogothique bâtie sur une nécropole paléochrétienne, célèbre pour ses chapiteaux sculptés.", "category": "religious", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "Musée moderne conçu par Norman Foster, présentant la riche histoire romaine de l'antique cité de Narbo Martius.", "category": "museum", "coords": [3.004218, 43.183767]}]}
   },
   {
     id: "sete", population: 45337,
@@ -36588,649 +32983,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Sète a été officiellement fondée le 29 juillet 1666 avec le premier coup de pioche pour le môle du port.", "Le mont Saint-Clair offre une vue qui, par temps clair, s'étend jusqu'aux Pyrénées.", "L'étang de Thau est célèbre pour son élevage d'huîtres et de moules.", "La fête annuelle de la Saint-Louis en août est le point d'orgue de la saison des joutes.", "Sète possède douze kilomètres de plages de sable qui s'étendent entre la mer et la lagune.", "Le musée Paul Valéry se trouve dans un bâtiment surplombant le cimetière marin."],
     },
     image: "/poi-images/sete.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Mont Saint-Clair",
-                  "text": "Der Hausberg von Sète bietet von seinem Gipfel aus ein atemberaubendes Panorama über die Stadt, das Meer und den Etang de Thau.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.696667,
-                        43.404444
-                  ]
-            },
-            {
-                  "name": "Le Quartier Haut",
-                  "text": "Das älteste Viertel der Stadt, oft 'kleines Neapel' genannt, ist geprägt von Künstlern, steilen Gassen und italienischem Flair.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.693788,
-                        43.401105
-                  ]
-            },
-            {
-                  "name": "Musée Paul Valéry",
-                  "text": "Das am Fuße des Mont Saint-Clair gelegene Museum ist dem berühmten Dichter gewidmet und zeigt beeindruckende Kunstsammlungen.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.691083,
-                        43.395467
-                  ]
-            },
-            {
-                  "name": "Théâtre de la Mer",
-                  "text": "Ein ehemaliges Fort direkt am Wasser, das heute als Freilichtbühne für Konzerte mit Blick auf das Mittelmeer dient.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.6925,
-                        43.3936
-                  ]
-            },
-            {
-                  "name": "Phare de la Méditerranée",
-                  "text": "Der Leuchtturm am Môle Saint-Louis markiert den Eingang zum Hafen und bietet einen weiten Blick über die Küste des Languedoc.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Cimetière Marin",
-                  "text": "Der Friedhof am Meer ist die letzte Ruhestätte von Paul Valéry und bietet eine melancholische Schönheit direkt über den Klippen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.6917,
-                        43.3947
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis",
-                  "text": "Die im 17. Jahrhundert erbaute Mole schützt den Hafen und ist ein beliebter Ort für Spaziergänge zwischen Stadt und Meer.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Plage de la Fontaine",
-                  "text": "Plage de la Fontaine ist ein Strand in der Ortschaft Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.661041,
-                        43.392322
-                  ]
-            },
-            {
-                  "name": "Plage du Tambourin",
-                  "text": "Plage du Tambourin ist ein Strand in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.608089,
-                        43.42257
-                  ]
-            },
-            {
-                  "name": "Plage du Thalassa",
-                  "text": "Plage du Thalassa ist ein Strandgebiet in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.602916,
-                        43.420659
-                  ]
-            },
-            {
-                  "name": "Plage du Lido",
-                  "text": "Plage du Lido ist ein Strand in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.655862,
-                        43.390744
-                  ]
-            },
-            {
-                  "name": "Plage du Lazaret",
-                  "text": "Plage du Lazaret ist ein ruhiger Strandbereich in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.673079,
-                        43.392027
-                  ]
-            },
-            {
-                  "name": "Plage de la Corniche",
-                  "text": "Plage de la Corniche ist ein malerischer Strand in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.667039,
-                        43.393465
-                  ]
-            },
-            {
-                  "name": "Plage de la Trémie",
-                  "text": "Plage de la Trémie ist ein angenehmer Strand in der Küstengegend von Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.651734,
-                        43.448234
-                  ]
-            },
-            {
-                  "name": "Plage de la Pyramide",
-                  "text": "Plage de la Pyramide ist ein sandiger Küstenabschnitt in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.663155,
-                        43.446962
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mont Saint-Clair",
-                  "text": "Sète jellegzetes hegye, amelynek 183 méteres csúcsáról lenyűgöző kilátás nyílik a lagúnára és a Földközi-tengerre.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.696667,
-                        43.404444
-                  ]
-            },
-            {
-                  "name": "Felső negyed (Quartier Haut)",
-                  "text": "A művészek és halászok lakta történelmi negyed szűk utcáival és színes házaival az olasz városok hangulatát idézi.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.693788,
-                        43.401105
-                  ]
-            },
-            {
-                  "name": "Paul Valéry Múzeum",
-                  "text": "A híres költő nevét viselő múzeum képzőművészeti gyűjteményeknek ad otthont a Mont Saint-Clair oldalában.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.691083,
-                        43.395467
-                  ]
-            },
-            {
-                  "name": "Tengeri Színház (Théâtre de la Mer)",
-                  "text": "Egy egykori erődben kialakított szabadtéri amfiteátrum, ahol a koncertek hátterét közvetlenül a tenger adja.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.6925,
-                        43.3936
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis világítótorony",
-                  "text": "A kikötő bejáratánál álló történelmi világítótorony a 17. századi móló végén található, ma is fontos jelzőpont.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Tengeri temető (Cimetière Marin)",
-                  "text": "Paul Valéry végső nyughelye; a tengerparti sziklákon fekvő temető egyedülálló hangulatú és panorámájú helyszín.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.6917,
-                        43.3947
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis móló",
-                  "text": "XIV. Lajos idején épült monumentális gát, amely a kikötőt védi és Sète egyik legnépszerűbb sétaútvonala.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Plage de la Fontaine",
-                  "text": "A Plage de la Fontaine egy strand Loupian településen.",
-                  "category": "recreational",
-                  "coords": [
-                        3.661041,
-                        43.392322
-                  ]
-            },
-            {
-                  "name": "Plage du Tambourin",
-                  "text": "A Plage du Tambourin egy strand Loupian közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        3.608089,
-                        43.42257
-                  ]
-            },
-            {
-                  "name": "Plage du Thalassa",
-                  "text": "A Plage du Thalassa egy strand Loupian-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        3.602916,
-                        43.420659
-                  ]
-            },
-            {
-                  "name": "Plage du Lido",
-                  "text": "A Plage du Lido egy strand Loupian területén.",
-                  "category": "recreational",
-                  "coords": [
-                        3.655862,
-                        43.390744
-                  ]
-            },
-            {
-                  "name": "Plage du Lazaret",
-                  "text": "A Plage du Lazaret egy nyugodt strand Loupianban.",
-                  "category": "recreational",
-                  "coords": [
-                        3.673079,
-                        43.392027
-                  ]
-            },
-            {
-                  "name": "Plage de la Corniche",
-                  "text": "A Plage de la Corniche egy festői strand Loupianban.",
-                  "category": "recreational",
-                  "coords": [
-                        3.667039,
-                        43.393465
-                  ]
-            },
-            {
-                  "name": "Plage de la Trémie",
-                  "text": "A Plage de la Trémie egy kellemes strand Loupian partvidékén.",
-                  "category": "recreational",
-                  "coords": [
-                        3.651734,
-                        43.448234
-                  ]
-            },
-            {
-                  "name": "Plage de la Pyramide",
-                  "text": "A Plage de la Pyramide egy homokos partszakasz Loupianban.",
-                  "category": "recreational",
-                  "coords": [
-                        3.663155,
-                        43.446962
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muntele Saint-Clair",
-                  "text": "Un deal dominant de 183 metri înălțime care oferă o vedere panoramică spectaculoasă asupra orașului și lagunei Thau.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.696667,
-                        43.404444
-                  ]
-            },
-            {
-                  "name": "Quartier Haut",
-                  "text": "Cunoscut ca 'Mica Neapole', acest cartier istoric este inima artistică a orașului, cu străzi abrupte și fațade colorate.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.693788,
-                        43.401105
-                  ]
-            },
-            {
-                  "name": "Muzeul Paul Valéry",
-                  "text": "Situat lângă cimitirul marin, muzeul este dedicat scriitorului și expune opere de artă modernă și istorie locală.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.691083,
-                        43.395467
-                  ]
-            },
-            {
-                  "name": "Théâtre de la Mer",
-                  "text": "Un fost fort militar transformat într-o scenă de spectacole în aer liber, oferind un cadru magic direct pe malul mării.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.6925,
-                        43.3936
-                  ]
-            },
-            {
-                  "name": "Farul de la Môle Saint-Louis",
-                  "text": "O construcție istorică situată la capătul digului, care ghidează navele în portul Sète încă din secolul al XVII-lea.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Cimitirul Marin",
-                  "text": "Un loc de o frumusețe melancolică unde este înmormântat poetul Paul Valéry, având vedere directă spre Marea Mediterană.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.6917,
-                        43.3947
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis",
-                  "text": "Primul dig construit la Sète în 1666, acesta oferă o promenadă relaxantă între portul vechi și largul mării.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Plage de la Fontaine",
-                  "text": "Plage de la Fontaine este o plajă situată în Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.661041,
-                        43.392322
-                  ]
-            },
-            {
-                  "name": "Plage du Tambourin",
-                  "text": "Plage du Tambourin este o plajă din Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.608089,
-                        43.42257
-                  ]
-            },
-            {
-                  "name": "Plage du Thalassa",
-                  "text": "Plage du Thalassa este o zonă de plajă din Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.602916,
-                        43.420659
-                  ]
-            },
-            {
-                  "name": "Plage du Lido",
-                  "text": "Plage du Lido este o plajă din Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.655862,
-                        43.390744
-                  ]
-            },
-            {
-                  "name": "Plage du Lazaret",
-                  "text": "Plage du Lazaret este o plajă liniștită situată în Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.673079,
-                        43.392027
-                  ]
-            },
-            {
-                  "name": "Plage de la Corniche",
-                  "text": "Plage de la Corniche este o plajă pitorească situată în Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.667039,
-                        43.393465
-                  ]
-            },
-            {
-                  "name": "Plage de la Trémie",
-                  "text": "Plage de la Trémie este o plajă plăcută situată pe coasta din Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.651734,
-                        43.448234
-                  ]
-            },
-            {
-                  "name": "Plage de la Pyramide",
-                  "text": "Plage de la Pyramide este o porțiune de coastă cu nisip din Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.663155,
-                        43.446962
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mont Saint-Clair",
-                  "text": "The iconic hill of Sète offering breathtaking 360-degree views of the Mediterranean Sea and the Thau lagoon.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.696667,
-                        43.404444
-                  ]
-            },
-            {
-                  "name": "Quartier Haut",
-                  "text": "The historic upper district, nicknamed 'Little Naples', known for its fishing heritage, steep alleys, and street art.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.693788,
-                        43.401105
-                  ]
-            },
-            {
-                  "name": "Paul Valéry Museum",
-                  "text": "Nestled on the slopes of Mont Saint-Clair, this museum celebrates the poet's work and showcases fine arts collections.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.691083,
-                        43.395467
-                  ]
-            },
-            {
-                  "name": "Théâtre de la Mer",
-                  "text": "A former fort turned into an open-air amphitheater, offering unique concert experiences with the sea as a backdrop.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        3.6925,
-                        43.3936
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis Lighthouse",
-                  "text": "A historic lighthouse marking the entrance to the old port, standing at the end of the 17th-century breakwater.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Seaside Cemetery (Cimetière Marin)",
-                  "text": "The final resting place of Paul Valéry, this beautiful cemetery overlooks the cliffs and the shimmering Mediterranean.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        3.6917,
-                        43.3947
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis",
-                  "text": "The massive pier protecting the harbor since 1666, it is a favorite spot for locals and tourists to enjoy a sea breeze.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Plage de la Fontaine",
-                  "text": "Plage de la Fontaine is a beach located in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.661041,
-                        43.392322
-                  ]
-            },
-            {
-                  "name": "Plage du Tambourin",
-                  "text": "Plage du Tambourin is a local beach in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.608089,
-                        43.42257
-                  ]
-            },
-            {
-                  "name": "Plage du Thalassa",
-                  "text": "Plage du Thalassa is a beach area located in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.602916,
-                        43.420659
-                  ]
-            },
-            {
-                  "name": "Plage du Lido",
-                  "text": "Plage du Lido is a beach located in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.655862,
-                        43.390744
-                  ]
-            },
-            {
-                  "name": "Plage du Lazaret",
-                  "text": "Plage du Lazaret is a tranquil beach area located in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.673079,
-                        43.392027
-                  ]
-            },
-            {
-                  "name": "Plage de la Corniche",
-                  "text": "Plage de la Corniche is a scenic beach situated in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.667039,
-                        43.393465
-                  ]
-            },
-            {
-                  "name": "Plage de la Trémie",
-                  "text": "Plage de la Trémie is a pleasant beach located in the coastal area of Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.651734,
-                        43.448234
-                  ]
-            },
-            {
-                  "name": "Plage de la Pyramide",
-                  "text": "Plage de la Pyramide is a sandy coastal stretch found in Loupian.",
-                  "category": "recreational",
-                  "coords": [
-                        3.663155,
-                        43.446962
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Mont Saint-Clair",
-                  "text": "Le point culminant de Sète offre un panorama époustouflant sur la ville, la mer et l'étang de Thau.",
-                  "category": "natural",
-                  "coords": [
-                        3.696667,
-                        43.404444
-                  ]
-            },
-            {
-                  "name": "Le Quartier Haut",
-                  "text": "Le plus vieux quartier de la ville, aux ruelles pentues, reflète l'âme artistique et l'influence italienne de Sète.",
-                  "category": "historical",
-                  "coords": [
-                        3.693788,
-                        43.401105
-                  ]
-            },
-            {
-                  "name": "Musée Paul Valéry",
-                  "text": "Situé au pied du mont Saint-Clair, ce musée est dédié au poète et présente des collections artistiques variées.",
-                  "category": "cultural",
-                  "coords": [
-                        3.691083,
-                        43.395467
-                  ]
-            },
-            {
-                  "name": "Théâtre de la Mer",
-                  "text": "Ancien fort situé en bord de mer, transformé en scène à ciel ouvert offrant une vue imprenable sur la Méditerranée.",
-                  "category": "cultural",
-                  "coords": [
-                        3.6925,
-                        43.3936
-                  ]
-            },
-            {
-                  "name": "Phare de la Méditerranée",
-                  "text": "Ce phare sur le môle Saint-Louis signale l'entrée du port et offre une vue étendue sur la côte languedocienne.",
-                  "category": "historical",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            },
-            {
-                  "name": "Cimetière Marin",
-                  "text": "Dernière demeure de Paul Valéry, ce cimetière surplombant la mer offre une beauté mélancolique au sommet des falaises.",
-                  "category": "historical",
-                  "coords": [
-                        3.6917,
-                        43.3947
-                  ]
-            },
-            {
-                  "name": "Môle Saint-Louis",
-                  "text": "Construit au XVIIe siècle pour protéger le port, ce môle est un lieu de promenade privilégié entre ville et mer.",
-                  "category": "civic",
-                  "coords": [
-                        3.701722,
-                        43.396889
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Mont Saint-Clair", "text": "Der Hausberg von Sète bietet von seinem Gipfel aus ein atemberaubendes Panorama über die Stadt, das Meer und den Etang de Thau.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Le Quartier Haut", "text": "Das älteste Viertel der Stadt, oft 'kleines Neapel' genannt, ist geprägt von Künstlern, steilen Gassen und italienischem Flair.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Musée Paul Valéry", "text": "Das am Fuße des Mont Saint-Clair gelegene Museum ist dem berühmten Dichter gewidmet und zeigt beeindruckende Kunstsammlungen.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Ein ehemaliges Fort direkt am Wasser, das heute als Freilichtbühne für Konzerte mit Blick auf das Mittelmeer dient.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Phare de la Méditerranée", "text": "Der Leuchtturm am Môle Saint-Louis markiert den Eingang zum Hafen und bietet einen weiten Blick über die Küste des Languedoc.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Cimetière Marin", "text": "Der Friedhof am Meer ist die letzte Ruhestätte von Paul Valéry und bietet eine melancholische Schönheit direkt über den Klippen.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Die im 17. Jahrhundert erbaute Mole schützt den Hafen und ist ein beliebter Ort für Spaziergänge zwischen Stadt und Meer.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Der Plage de la Fontaine bietet ein ruhiges Stranderlebnis in der charmanten Ortschaft Loupian bei Sete. Das ruhige Wasser lädt die Besucher zu erfrischendem Schwimmen und leisem Sonnenbaden abseits der geschäftigen Stadtzentren ein. Es ist ein idealer Ort, um den entspannten Rhythmus der südfranzösischen Küste aufzusaugen. Ein Besuch am Morgen ist sehr zu empfehlen, um die friedliche Atmosphäre zu genießen, bevor der Tag wärmer wird.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Ruhig in Loupian in der Region Sete gelegen, bietet der Plage du Tambourin einen reizvollen Zufluchtsort am Wasser. Besucher erwartet eine einfache, natürliche Küstenlinie, die sich perfekt für gemütliche Spaziergänge und ungezwungenes Baden eignet. Das unaufgeregte Tempo hier macht es zu einem wunderbaren Ort, um sich wieder mit der maritimen Umgebung zu verbinden. Wenn Sie einen leichten Snack einpacken und am Vormittag anreisen, schaffen Sie die perfekten Voraussetzungen für einen entspannten Tag im Freien.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Der Plage du Thalassa ist ein angenehmes Strandgebiet, das darauf wartet, in der Gegend von Loupian nahe Sete entdeckt zu werden. Das einladende Ufer bietet eine hervorragende Kulisse, um ein Handtuch auszubreiten und die sanfte Meeresbrise aufzunehmen. Es entsteht eine Atmosphäre, die sich hervorragend für ruhige Nachmittage in Wassernähe eignet. Ein gutes Buch oder gute Gesellschaft mitzubringen, ist der beste Weg, diesen friedlichen Ort zu genießen.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Als wunderschönes Tor zur Küste dienend, ist der Plage du Lido ein feiner Strand im Bezirk Loupian nahe Sete. Die sandige Umgebung zieht natürlich all jene an, die entspanntes Strandgut-Sammeln und erfrischende Badegänge genießen möchten. Er verkörpert ein fröhliches und doch nicht überlaufenes lokales Flair. Ein Besuch am frühen Abend bietet eine wunderbare Gelegenheit, die prächtigen Farbwechsel am Himmel zu beobachten.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Für diejenigen, die einen stillen Rückzugsort suchen, bietet der Plage du Lazaret einen ruhigen Strandabschnitt in Loupian, Frankreich. Die gelassene Atmosphäre wird besonders von Besuchern geschätzt, die dem Lärm entfliehen und einfach dem sanften Plätschern der Wellen lauschen möchten. Es ist ein exquisiter Ort für erholsame Spaziergänge oder stille Meditation am Wasser. Sonnencreme und eine bequeme Strandmatte sind alles, was Sie für einen Nachmittag mit friedlichem Sonnenbaden benötigen.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Der Plage de la Corniche schmückt die Küste von Loupian und ist ein malerischer Strand, der bemerkenswerte Aussichten in der Nähe von Sete bietet. Die landschaftlich reizvolle Umgebung macht ihn zu einer ausgezeichneten Wahl für Fotobegeisterte und Gelegenheitsschwimmer gleichermaßen. Es entsteht ganz natürlich eine romantische und inspirierende Atmosphäre entlang des Ufers. Ein sanfter Spaziergang bei Sonnenuntergang rundet einen Tag der französischen Küstenerkundung perfekt ab.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Der Plage de la Trémie liegt in der einladenden Küstengegend von Loupian und ist ein angenehmes Ziel für Sonnenanbeter in Frankreich. Die freundliche, offene Küstenlinie ist ideal für Familien und Paare, die einen entspannten Tag am Meer verbringen möchten. Besucher können fröhlich zwischen einer Abkühlung im Wasser und dem Ausruhen auf dem warmen Sand wechseln. Achten Sie darauf, ausreichend Flüssigkeit und Sonnenschutz mitzubringen, um auch in der Mittagshitze komfortabel zu bleiben.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Der Plage de la Pyramide ist ein hübscher, sandiger Küstenabschnitt, versteckt in Loupian, der einen klassischen Strandausflug verspricht. Das einladende Terrain ermutigt zu nackten Füßen, langen Spaziergängen und fröhlichem Spielen in der sanften Küstenbrandung. Er versprüht eine mühelos entspannte Atmosphäre, in der die Zeit langsamer zu vergehen scheint. Mit einer leichten Strandmatte anzureisen ist ideal, um seinen Platz auf dem weichen Sand einzunehmen.", "category": "recreational", "coords": [3.663155, 43.446962]}], "hu": [{"name": "Mont Saint-Clair", "text": "Sète jellegzetes hegye, amelynek 183 méteres csúcsáról lenyűgöző kilátás nyílik a lagúnára és a Földközi-tengerre.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Felső negyed (Quartier Haut)", "text": "A művészek és halászok lakta történelmi negyed szűk utcáival és színes házaival az olasz városok hangulatát idézi.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Paul Valéry Múzeum", "text": "A híres költő nevét viselő múzeum képzőművészeti gyűjteményeknek ad otthont a Mont Saint-Clair oldalában.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Tengeri Színház (Théâtre de la Mer)", "text": "Egy egykori erődben kialakított szabadtéri amfiteátrum, ahol a koncertek hátterét közvetlenül a tenger adja.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Môle Saint-Louis világítótorony", "text": "A kikötő bejáratánál álló történelmi világítótorony a 17. századi móló végén található, ma is fontos jelzőpont.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Tengeri temető (Cimetière Marin)", "text": "Paul Valéry végső nyughelye; a tengerparti sziklákon fekvő temető egyedülálló hangulatú és panorámájú helyszín.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis móló", "text": "XIV. Lajos idején épült monumentális gát, amely a kikötőt védi és Sète egyik legnépszerűbb sétaútvonala.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "A Plage de la Fontaine nyugodt tengerparti élményt nyújt Sete közelében, a bájos Loupian városában. A békés vizek frissítő úszásra és csendes napozásra csábítják a látogatókat, távol a nyüzsgő városközpontoktól. Ideális hely a dél-franciaországi laza tengerparti ritmus megtapasztalására. A reggeli látogatás kifejezetten ajánlott, hogy élvezhessük a békés légkört, mielőtt a nap felmelegszik.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "A Sete régióban, Loupianban csendesen fekvő Plage du Tambourin elragadó menedéket nyújt a víz partján. A látogatók egy egyszerű, természetes partvonalra számíthatnak, amely tökéletes a ráérős sétákhoz és az alkalmi fürdőzéshez. Az itteni nyugodt tempó csodálatos hellyé teszi a tengerparti környezettel való kapcsolat újrateremtéséhez. Könnyű harapnivalóval felszerelkezve és a délelőtt közepén érkezve tökéletes alapot teremthet egy pihentető szabadtéri naphoz.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "A Plage du Thalassa egy kellemes strandterület, amely csak arra vár, hogy felfedezzék a Sete melletti Loupian környékén. A hívogató part kiváló környezetet kínál egy törölköző kiterítéséhez és a lágy tengeri szellő élvezetéhez. Olyan légkört teremt, amely nagyszerűen illik a víz közelében eltöltött nyugodt délutánokhoz. Egy jó könyv vagy jó társaság magunkkal vitele a legjobb módja ennek a békés helynek az élvezetére.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Gyönyörű tengerparti kapuként szolgál a Plage du Lido, egy finom strand Sete közelében, a Loupian kerületben. A homokos környezet természetesen vonzza azokat, akik szeretnének elmerülni a nyugodt parti sétákban és a frissítő csobbanásokban. A vidám, de mégsem túlzsúfolt helyi ízvilágot testesíti meg. A kora esti látogatás csodálatos lehetőséget kínál arra, hogy szemtanúi legyünk az égbolt gyönyörűen változó színeinek.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Azok számára, akik egy csendes menedéket keresnek, a Plage du Lazaret egy nyugodt strandszakaszt kínál a franciaországi Loupianban. A derűs légkört különösen azok a látogatók kedvelik, akik szeretnének elmenekülni a zaj elől, és egyszerűen csak a lágyan hullámzó vizet hallgatni. Kiváló helyszín egy pihentető sétához vagy csendes meditációhoz a víz partján. Egy naptej és egy kényelmes strandmatrac minden, amire szüksége van egy békés napozással töltött délutánhoz.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Loupian partvidékét díszítve, a Plage de la Corniche egy festői strand, amely lenyűgöző kilátást kínál Sete közelében. A látványos környezet kiváló választássá teszi a fotózás szerelmesei és az alkalmi úszók számára egyaránt. Természetes módon romantikus és inspiráló légkört teremt a part mentén. Egy finom séta itt naplementekor tökéletesen megkoronázza a francia tengerpart felfedezésének napját.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "A Loupian hívogató partvidékén fekvő Plage de la Trémie kellemes úti cél a napfény szerelmeseinek Franciaországban. A barátságos, nyitott partvonal kiválóan alkalmas családok és párok számára, akik egy pihentető napot szeretnének a tengerparton tölteni. A látogatók boldogan válthatnak a vízben való hűsölés és a meleg homokon való pihenés között. Gondoskodjon megfelelő folyadékpótlásról és árnyékról, hogy a déli hőségben is jól érezze magát.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "A Plage de la Pyramide egy kedves homokos tengerparti szakasz Loupianban elrejtve, amely klasszikus tengerparti kiruccanást ígér. A hívogató terep mezítlábas sétákra és vidám játékra csábít a lágy parti hullámokban. Erőfeszítés nélküli, nyugodt légkört áraszt, ahol mintha lelassulna az idő. Érdemes egy könnyű strandmatraccal érkezni, hogy biztosítsa a helyét a puha homokban.", "category": "recreational", "coords": [3.663155, 43.446962]}], "ro": [{"name": "Muntele Saint-Clair", "text": "Un deal dominant de 183 metri înălțime care oferă o vedere panoramică spectaculoasă asupra orașului și lagunei Thau.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Quartier Haut", "text": "Cunoscut ca 'Mica Neapole', acest cartier istoric este inima artistică a orașului, cu străzi abrupte și fațade colorate.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Muzeul Paul Valéry", "text": "Situat lângă cimitirul marin, muzeul este dedicat scriitorului și expune opere de artă modernă și istorie locală.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Un fost fort militar transformat într-o scenă de spectacole în aer liber, oferind un cadru magic direct pe malul mării.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Farul de la Môle Saint-Louis", "text": "O construcție istorică situată la capătul digului, care ghidează navele în portul Sète încă din secolul al XVII-lea.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Cimitirul Marin", "text": "Un loc de o frumusețe melancolică unde este înmormântat poetul Paul Valéry, având vedere directă spre Marea Mediterană.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Primul dig construit la Sète în 1666, acesta oferă o promenadă relaxantă între portul vechi și largul mării.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Plage de la Fontaine oferă o experiență de plajă liniștită, situată în fermecătoarea localitate Loupian de lângă Sete. Apele senine invită vizitatorii la înot revigorant și plajă în liniște, departe de centrele urbane aglomerate. Este un loc ideal pentru a absorbi ritmul de coastă relaxat al sudului Franței. O vizită de dimineață este foarte recomandată pentru a savura atmosfera pașnică înainte ca ziua să se încălzească.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Odihnindu-se liniștită în Loupian, în regiunea Sete, Plage du Tambourin oferă o evadare încântătoare lângă apă. Vizitatorii pot anticipa o linie de coastă simplă, naturală, perfectă pentru plimbări pe îndelete și băi relaxate. Ritmul lent de aici îl face un loc minunat pentru a vă reconecta cu mediul de coastă. Împachetarea unei gustări ușoare și sosirea la mijlocul dimineții creează contextul perfect pentru o zi relaxantă în aer liber.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Plage du Thalassa este o zonă de plajă plăcută care așteaptă să fie descoperită în zona Loupian din apropiere de Sete. Țărmul îmbietor oferă un cadru excelent pentru a întinde un prosop și a savura briza blândă a mării. Se creează o atmosferă foarte potrivită pentru după-amiezi calme petrecute lângă apă. Aducerea unei cărți bune sau o companie plăcută este cel mai bun mod de a vă bucura de acest loc liniștit.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Servind ca o frumoasă poartă de coastă, Plage du Lido este o plajă fină situată în districtul Loupian de lângă Sete. Mediul nisipos îi atrage firesc pe cei care doresc să se lase absorbiți de căutarea de scoici și de băi răcoritoare. Aceasta întruchipează o aromă locală veselă, dar deloc aglomerată. O vizită la începutul serii oferă o oportunitate minunată de a asista la culorile superbe și schimbătoare ale cerului.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "Pentru cei care caută un refugiu liniștit, Plage du Lazaret oferă un sector de plajă calm în Loupian, Franța. Atmosfera senină este apreciată în mod deosebit de vizitatorii care doresc să scape de zgomot și pur și simplu să asculte valurile care se sparg ușor. Este o locație rafinată pentru plimbări revigorante sau meditație tăcută lângă apă. Crema de protecție solară și un covoraș de plajă confortabil sunt tot ce aveți nevoie pentru o după-amiază de plajă pașnică.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Înnobilând linia de coastă din Loupian, Plage de la Corniche este o plajă pitorească ce oferă priveliști impresionante lângă Sete. Împrejurimile pitorești o fac o alegere excelentă atât pentru pasionații de fotografie, cât și pentru înotătorii de ocazie. Cultivă în mod natural o atmosferă romantică și plină de inspirație de-a lungul țărmului. O plimbare ușoară aici, la apus, completează perfect o zi de explorare a coastei franceze.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Situată în zona de coastă primitoare a localității Loupian, Plage de la Trémie este o destinație plăcută pentru iubitorii de soare din Franța. Litoralul deschis și prietenos este foarte potrivit pentru familii și cupluri care doresc să petreacă o zi relaxantă la mare. Vizitatorii pot alterna cu bucurie între răcorirea în apă și odihna pe nisipul cald. Asigurați-vă că aduceți suficientă apă și o umbrelă pentru a vă menține confortul pe durata căldurii de la amiază.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Plage de la Pyramide este o porțiune de coastă nisipoasă minunată, ascunsă în Loupian, promițând o ieșire clasică la plajă. Terenul primitor încurajează mersul desculț, plimbările lungi și jocul vesel în valurile blânde. Susține o atmosferă de o relaxare naturală, unde timpul pare să încetinească. Sosirea cu un covoraș de plajă ușor este ideală pentru a vă revendica locul pe nisipul moale.", "category": "recreational", "coords": [3.663155, 43.446962]}], "en": [{"name": "Mont Saint-Clair", "text": "The iconic hill of Sète offering breathtaking 360-degree views of the Mediterranean Sea and the Thau lagoon.", "category": "natural", "confidence": "high", "coords": [3.696667, 43.404444]}, {"name": "Quartier Haut", "text": "The historic upper district, nicknamed 'Little Naples', known for its fishing heritage, steep alleys, and street art.", "category": "historical", "confidence": "high", "coords": [3.693788, 43.401105]}, {"name": "Paul Valéry Museum", "text": "Nestled on the slopes of Mont Saint-Clair, this museum celebrates the poet's work and showcases fine arts collections.", "category": "cultural", "confidence": "high", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "A former fort turned into an open-air amphitheater, offering unique concert experiences with the sea as a backdrop.", "category": "cultural", "confidence": "high", "coords": [3.6925, 43.3936]}, {"name": "Môle Saint-Louis Lighthouse", "text": "A historic lighthouse marking the entrance to the old port, standing at the end of the 17th-century breakwater.", "category": "historical", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Seaside Cemetery (Cimetière Marin)", "text": "The final resting place of Paul Valéry, this beautiful cemetery overlooks the cliffs and the shimmering Mediterranean.", "category": "historical", "confidence": "high", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "The massive pier protecting the harbor since 1666, it is a favorite spot for locals and tourists to enjoy a sea breeze.", "category": "civic", "confidence": "high", "coords": [3.701722, 43.396889]}, {"name": "Plage de la Fontaine", "text": "Plage de la Fontaine offers a tranquil beach experience situated in the charming town of Loupian near Sete. The serene waters invite visitors for refreshing swims and quiet sunbathing away from bustling city centers. It is an ideal spot to absorb the laid-back coastal rhythm of the French south. A morning visit is highly recommended to enjoy the peaceful atmosphere before the day warms up.", "category": "recreational", "coords": [3.661041, 43.392322]}, {"name": "Plage du Tambourin", "text": "Resting quietly in Loupian within the Sete region, Plage du Tambourin provides a delightful escape by the water. Visitors can anticipate a simple, natural shoreline perfect for leisurely walks and casual bathing. The unhurried pace here makes it a wonderful place to reconnect with the coastal environment. Packing a light snack and arriving mid-morning creates a perfect setup for a relaxing day outdoors.", "category": "recreational", "coords": [3.608089, 43.42257]}, {"name": "Plage du Thalassa", "text": "Plage du Thalassa is a pleasant beach area waiting to be discovered in the Loupian area near Sete. The inviting shore offers an excellent setting for spreading out a towel and taking in the gentle sea breeze. It creates an atmosphere well-suited for calm afternoons spent near the water. Bringing along a good book or good company is the best way to enjoy this tranquil spot.", "category": "recreational", "coords": [3.602916, 43.420659]}, {"name": "Plage du Lido", "text": "Serving as a beautiful coastal gateway, Plage du Lido is a fine beach located in the Loupian district near Sete. The sandy environment naturally draws those looking to immerse themselves in relaxed beachcombing and refreshing dips. It embodies a cheerful yet uncrowded local flavor. Visiting during the early evening presents a wonderful opportunity to witness gorgeous shifting colors across the sky.", "category": "recreational", "coords": [3.655862, 43.390744]}, {"name": "Plage du Lazaret", "text": "For those seeking a hushed retreat, Plage du Lazaret provides a quiet beach sector in Loupian, France. The serene atmosphere is particularly favored by visitors wanting to escape the noise and simply listen to the gently lapping waves. It is an exquisite location for restorative walks or quiet meditation by the water. Sunscreen and a comfortable beach mat are all you need for an afternoon of peaceful sunbathing.", "category": "recreational", "coords": [3.673079, 43.392027]}, {"name": "Plage de la Corniche", "text": "Gracing the coastline of Loupian, Plage de la Corniche is a picturesque beach offering striking views near Sete. The scenic surroundings make it an excellent choice for photography enthusiasts and casual swimmers alike. It naturally cultivates a romantic and inspiring atmosphere along the shore. Taking a gentle stroll here at sunset perfectly rounds off a day of French coastal exploration.", "category": "recreational", "coords": [3.667039, 43.393465]}, {"name": "Plage de la Trémie", "text": "Situated in the welcoming coastal area of Loupian, Plage de la Trémie is a pleasant destination for sun seekers in France. The friendly, open shoreline is well-suited for families and couples wishing to spend a relaxing day by the sea. Visitors can happily transition between cooling off in the water and resting on the warm sand. Ensure you bring sufficient hydration and shade to stay comfortable throughout the midday heat.", "category": "recreational", "coords": [3.651734, 43.448234]}, {"name": "Plage de la Pyramide", "text": "Plage de la Pyramide is a lovely sandy coastal stretch tucked away in Loupian, promising a classic beach outing. The inviting terrain encourages bare feet, long walks, and joyful play in the gentle coastal surf. It sustains an effortlessly relaxed vibe where time seems to slow down. Arriving with a light beach mat is ideal to claim your spot on the soft sand.", "category": "recreational", "coords": [3.663155, 43.446962]}], "fr": [{"name": "Mont Saint-Clair", "text": "Le point culminant de Sète offre un panorama époustouflant sur la ville, la mer et l'étang de Thau.", "category": "natural", "coords": [3.696667, 43.404444]}, {"name": "Le Quartier Haut", "text": "Le plus vieux quartier de la ville, aux ruelles pentues, reflète l'âme artistique et l'influence italienne de Sète.", "category": "historical", "coords": [3.693788, 43.401105]}, {"name": "Musée Paul Valéry", "text": "Situé au pied du mont Saint-Clair, ce musée est dédié au poète et présente des collections artistiques variées.", "category": "cultural", "coords": [3.691083, 43.395467]}, {"name": "Théâtre de la Mer", "text": "Ancien fort situé en bord de mer, transformé en scène à ciel ouvert offrant une vue imprenable sur la Méditerranée.", "category": "cultural", "coords": [3.6925, 43.3936]}, {"name": "Phare de la Méditerranée", "text": "Ce phare sur le môle Saint-Louis signale l'entrée du port et offre une vue étendue sur la côte languedocienne.", "category": "historical", "coords": [3.701722, 43.396889]}, {"name": "Cimetière Marin", "text": "Dernière demeure de Paul Valéry, ce cimetière surplombant la mer offre une beauté mélancolique au sommet des falaises.", "category": "historical", "coords": [3.6917, 43.3947]}, {"name": "Môle Saint-Louis", "text": "Construit au XVIIe siècle pour protéger le port, ce môle est un lieu de promenade privilégié entre ville et mer.", "category": "civic", "coords": [3.701722, 43.396889]}]}
   },
   {
     id: "tarbes", population: 44529,
@@ -37499,6 +33252,15 @@ const citySeeds: CitySeed[] = [
                         1.607417,
                         42.963706
                   ]
+            },
+            {
+                  "name": "Forges de Pyrène",
+                  "text": "Forges de Pyrène ist ein Freizeitpark in Foix. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        1.629839,
+                        42.939877
+                  ]
             }
       ],
       "hu": [
@@ -37540,6 +33302,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.607417,
                         42.963706
+                  ]
+            },
+            {
+                  "name": "Forges de Pyrène",
+                  "text": "A Forges de Pyrène egy vidámpark Foix-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        1.629839,
+                        42.939877
                   ]
             }
       ],
@@ -37583,6 +33354,15 @@ const citySeeds: CitySeed[] = [
                         1.607417,
                         42.963706
                   ]
+            },
+            {
+                  "name": "Forges de Pyrène",
+                  "text": "Forges de Pyrène este un parc tematic în Foix. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        1.629839,
+                        42.939877
+                  ]
             }
       ],
       "en": [
@@ -37624,6 +33404,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.607417,
                         42.963706
+                  ]
+            },
+            {
+                  "name": "Forges de Pyrène",
+                  "text": "Forges de Pyrène is a theme park in Foix. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        1.629839,
+                        42.939877
                   ]
             }
       ],
@@ -37751,6 +33540,15 @@ const citySeeds: CitySeed[] = [
                         0.714722,
                         45.1818
                   ]
+            },
+            {
+                  "name": "piscine privée",
+                  "text": "Dieses Schwimmbad in Périgueux bietet eine private und erfrischende Atmosphäre für Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        0.730876,
+                        45.18481
+                  ]
             }
       ],
       "hu": [
@@ -37802,6 +33600,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.714722,
                         45.1818
+                  ]
+            },
+            {
+                  "name": "piscine privée",
+                  "text": "Ez a périgueux-i úszómedence privát és frissítő légkört kínál a fürdőzőknek.",
+                  "category": "family",
+                  "coords": [
+                        0.730876,
+                        45.18481
                   ]
             }
       ],
@@ -37855,6 +33662,15 @@ const citySeeds: CitySeed[] = [
                         0.714722,
                         45.1818
                   ]
+            },
+            {
+                  "name": "piscine privée",
+                  "text": "Această piscină din Périgueux oferă o atmosferă privată și revigorantă pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        0.730876,
+                        45.18481
+                  ]
             }
       ],
       "en": [
@@ -37906,6 +33722,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.714722,
                         45.1818
+                  ]
+            },
+            {
+                  "name": "piscine privée",
+                  "text": "This swimming pool in Perigueux offers a private and refreshing atmosphere for bathers.",
+                  "category": "family",
+                  "coords": [
+                        0.730876,
+                        45.18481
                   ]
             }
       ],
@@ -38042,6 +33867,15 @@ const citySeeds: CitySeed[] = [
                         0.15222,
                         45.6492
                   ]
+            },
+            {
+                  "name": "Piscine à Vagues",
+                  "text": "Piscine à Vagues ist ein Wellenbad in Angouleme für Wasserspaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.145341,
+                        45.684136
+                  ]
             }
       ],
       "hu": [
@@ -38093,6 +33927,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.15222,
                         45.6492
+                  ]
+            },
+            {
+                  "name": "Piscine à Vagues",
+                  "text": "A Piscine à Vagues egy hullámmedence Angouleme városában, amely izgalmas élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        0.145341,
+                        45.684136
                   ]
             }
       ],
@@ -38146,6 +33989,15 @@ const citySeeds: CitySeed[] = [
                         0.15222,
                         45.6492
                   ]
+            },
+            {
+                  "name": "Piscine à Vagues",
+                  "text": "Piscine à Vagues este o piscină cu valuri în Angouleme pentru distracție acvatică în familie.",
+                  "category": "family",
+                  "coords": [
+                        0.145341,
+                        45.684136
+                  ]
             }
       ],
       "en": [
@@ -38197,6 +34049,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.15222,
                         45.6492
+                  ]
+            },
+            {
+                  "name": "Piscine à Vagues",
+                  "text": "Piscine à Vagues is a wave pool in Angouleme offering water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.145341,
+                        45.684136
                   ]
             }
       ],
@@ -38333,6 +34194,24 @@ const citySeeds: CitySeed[] = [
                         -0.333156,
                         45.699259
                   ]
+            },
+            {
+                  "name": "Animaux en volières et cages",
+                  "text": "Animaux en volières et cages ist ein Zoo in Cognac. Es bietet Kindern und Familien die Möglichkeit, Tiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        -0.324201,
+                        45.69691
+                  ]
+            },
+            {
+                  "name": "Le Verti...Go Park Cognac",
+                  "text": "Le Verti...Go Park Cognac ist ein Freizeitpark in Cognac. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        -0.306429,
+                        45.689601
+                  ]
             }
       ],
       "hu": [
@@ -38384,6 +34263,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.333156,
                         45.699259
+                  ]
+            },
+            {
+                  "name": "Animaux en volières et cages",
+                  "text": "Az Animaux en volières et cages egy állatkert Cognac-ban. Lehetőséget kínál a gyerekeknek és a családoknak az állatok megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        -0.324201,
+                        45.69691
+                  ]
+            },
+            {
+                  "name": "Le Verti...Go Park Cognac",
+                  "text": "A Le Verti...Go Park Cognac egy vidámpark Cognac-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        -0.306429,
+                        45.689601
                   ]
             }
       ],
@@ -38437,6 +34334,24 @@ const citySeeds: CitySeed[] = [
                         -0.333156,
                         45.699259
                   ]
+            },
+            {
+                  "name": "Animaux en volières et cages",
+                  "text": "Animaux en volières et cages este o grădină zoologică în Cognac. Oferă oportunitatea copiilor și familiilor de a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        -0.324201,
+                        45.69691
+                  ]
+            },
+            {
+                  "name": "Le Verti...Go Park Cognac",
+                  "text": "Le Verti...Go Park Cognac este un parc tematic în Cognac. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        -0.306429,
+                        45.689601
+                  ]
             }
       ],
       "en": [
@@ -38488,6 +34403,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.333156,
                         45.699259
+                  ]
+            },
+            {
+                  "name": "Animaux en volières et cages",
+                  "text": "Animaux en volières et cages is a zoo in Cognac. It offers an opportunity for children and families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        -0.324201,
+                        45.69691
+                  ]
+            },
+            {
+                  "name": "Le Verti...Go Park Cognac",
+                  "text": "Le Verti...Go Park Cognac is a theme park in Cognac. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        -0.306429,
+                        45.689601
                   ]
             }
       ],
@@ -38624,6 +34557,15 @@ const citySeeds: CitySeed[] = [
                         -0.631944,
                         45.744495
                   ]
+            },
+            {
+                  "name": "Park 1920",
+                  "text": "Dieser Freizeitpark in Saintes bietet vielfältige Attraktionen für einen unvergesslichen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        -0.66005,
+                        45.750178
+                  ]
             }
       ],
       "hu": [
@@ -38675,6 +34617,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.631944,
                         45.744495
+                  ]
+            },
+            {
+                  "name": "Park 1920",
+                  "text": "Ez a saintes-i élménypark változatos látnivalókat kínál egy felejthetetlen családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.66005,
+                        45.750178
                   ]
             }
       ],
@@ -38728,6 +34679,15 @@ const citySeeds: CitySeed[] = [
                         -0.631944,
                         45.744495
                   ]
+            },
+            {
+                  "name": "Park 1920",
+                  "text": "Acest parc tematic din Saintes oferă atracții diverse pentru o zi de familie de neuitat.",
+                  "category": "family",
+                  "coords": [
+                        -0.66005,
+                        45.750178
+                  ]
             }
       ],
       "en": [
@@ -38779,6 +34739,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.631944,
                         45.744495
+                  ]
+            },
+            {
+                  "name": "Park 1920",
+                  "text": "This theme park in Saintes offers diverse attractions for an unforgettable family day out.",
+                  "category": "family",
+                  "coords": [
+                        -0.66005,
+                        45.750178
                   ]
             }
       ],
@@ -38979,6 +34948,15 @@ const citySeeds: CitySeed[] = [
                         -0.976293,
                         45.939639
                   ]
+            },
+            {
+                  "name": "Thermes de Rochefort",
+                  "text": "Thermes de Rochefort ist ein öffentliches Bad in Rochefort für Entspannung und Familienzeit.",
+                  "category": "family",
+                  "coords": [
+                        -0.961647,
+                        45.942338
+                  ]
             }
       ],
       "hu": [
@@ -39094,6 +35072,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.976293,
                         45.939639
+                  ]
+            },
+            {
+                  "name": "Thermes de Rochefort",
+                  "text": "A Thermes de Rochefort egy közfürdő Rochefort városában, amely pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.961647,
+                        45.942338
                   ]
             }
       ],
@@ -39211,6 +35198,15 @@ const citySeeds: CitySeed[] = [
                         -0.976293,
                         45.939639
                   ]
+            },
+            {
+                  "name": "Thermes de Rochefort",
+                  "text": "Thermes de Rochefort este o baie publică în Rochefort pentru relaxare și timp petrecut cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -0.961647,
+                        45.942338
+                  ]
             }
       ],
       "en": [
@@ -39326,6 +35322,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.976293,
                         45.939639
+                  ]
+            },
+            {
+                  "name": "Thermes de Rochefort",
+                  "text": "Thermes de Rochefort is a public bath in Rochefort offering relaxation for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.961647,
+                        45.942338
                   ]
             }
       ],
@@ -39516,6 +35521,15 @@ const citySeeds: CitySeed[] = [
                         -0.450008,
                         46.307077
                   ]
+            },
+            {
+                  "name": "Bassin extérieur",
+                  "text": "Bassin extérieur ist ein Schwimmbad in Niort. Besucher können hier ein erfrischendes Bad nehmen.",
+                  "category": "family",
+                  "coords": [
+                        -0.463376,
+                        46.331257
+                  ]
             }
       ],
       "hu": [
@@ -39612,6 +35626,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.450008,
                         46.307077
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur",
+                  "text": "A Bassin extérieur egy uszoda Niort-ban. A látogatók itt frissítő úszást élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        -0.463376,
+                        46.331257
                   ]
             }
       ],
@@ -39710,6 +35733,15 @@ const citySeeds: CitySeed[] = [
                         -0.450008,
                         46.307077
                   ]
+            },
+            {
+                  "name": "Bassin extérieur",
+                  "text": "Bassin extérieur este o piscină în Niort. Vizitatorii se pot bucura de o baie răcoritoare aici.",
+                  "category": "family",
+                  "coords": [
+                        -0.463376,
+                        46.331257
+                  ]
             }
       ],
       "en": [
@@ -39806,6 +35838,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.450008,
                         46.307077
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur",
+                  "text": "Bassin extérieur is a swimming pool in Niort. Visitors can enjoy a refreshing swim here.",
+                  "category": "family",
+                  "coords": [
+                        -0.463376,
+                        46.331257
                   ]
             }
       ],
@@ -39988,6 +36029,96 @@ const citySeeds: CitySeed[] = [
                         -1.051858,
                         43.697285
                   ]
+            },
+            {
+                  "name": "Thermes Foch",
+                  "text": "Dieses Thermalbad in Dax bietet allen Besuchern eine wohltuende und entspannende Wellness-Erfahrung.",
+                  "category": "family",
+                  "coords": [
+                        -1.055684,
+                        43.70953
+                  ]
+            },
+            {
+                  "name": "Thermes Borda",
+                  "text": "Dieses Bad in Dax ist ein wunderbarer Ort für Entspannung und Regeneration in ruhiger Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        -1.062819,
+                        43.709835
+                  ]
+            },
+            {
+                  "name": "Thermes Bérot",
+                  "text": "Genießen Sie erstklassige Wellness-Behandlungen und Entspannung in diesem renommierten Bad in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050641,
+                        43.708195
+                  ]
+            },
+            {
+                  "name": "Thermes Bains Saint-Pierre",
+                  "text": "Erleben Sie traditionelle Badekultur und pure Entspannung in diesem einladenden Bad in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050391,
+                        43.711399
+                  ]
+            },
+            {
+                  "name": "Thermes des Arènes",
+                  "text": "Dieses Thermalbad in Dax bietet wohltuende Anwendungen für Ihre Gesundheit und Ihr Wohlbefinden.",
+                  "category": "family",
+                  "coords": [
+                        -1.048998,
+                        43.714831
+                  ]
+            },
+            {
+                  "name": "Thermes du Grand Hôtel",
+                  "text": "Genießen Sie entspannende Momente und professionelle Wellness-Services in diesem Bad in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.048615,
+                        43.71062
+                  ]
+            },
+            {
+                  "name": "Thermes de l'Avenue",
+                  "text": "Dieses Thermalbad in Dax ist der perfekte Ort, um Körper und Geist in Einklang zu bringen.",
+                  "category": "family",
+                  "coords": [
+                        -1.048443,
+                        43.708689
+                  ]
+            },
+            {
+                  "name": "Thermes des Chênes",
+                  "text": "Erholen Sie sich in der ruhigen und angenehmen Atmosphäre dieses Thermalbads in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.065095,
+                        43.731057
+                  ]
+            },
+            {
+                  "name": "Thermes Sourcéo",
+                  "text": "Dieses moderne Thermalbad in Dax bietet umfassende Wellness-Angebote für eine erholsame Zeit.",
+                  "category": "family",
+                  "coords": [
+                        -1.063166,
+                        43.728854
+                  ]
+            },
+            {
+                  "name": "Thermes de Christus",
+                  "text": "Genießen Sie Entspannung pur in diesem spezialisierten Thermalbad in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.064897,
+                        43.729028
+                  ]
             }
       ],
       "hu": [
@@ -40085,6 +36216,96 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.051858,
                         43.697285
+                  ]
+            },
+            {
+                  "name": "Thermes Foch",
+                  "text": "Ez a dax-i termálfürdő jótékony és pihentető wellness élményt nyújt minden látogatónak.",
+                  "category": "family",
+                  "coords": [
+                        -1.055684,
+                        43.70953
+                  ]
+            },
+            {
+                  "name": "Thermes Borda",
+                  "text": "Ez a dax-i fürdő csodálatos hely a kikapcsolódásra és a regenerálódásra nyugodt légkörben.",
+                  "category": "family",
+                  "coords": [
+                        -1.062819,
+                        43.709835
+                  ]
+            },
+            {
+                  "name": "Thermes Bérot",
+                  "text": "Élvezze az első osztályú wellness kezeléseket és a kikapcsolódást ebben a neves dax-i fürdőben.",
+                  "category": "family",
+                  "coords": [
+                        -1.050641,
+                        43.708195
+                  ]
+            },
+            {
+                  "name": "Thermes Bains Saint-Pierre",
+                  "text": "Tapasztalja meg a hagyományos fürdőkultúrát és a tiszta kikapcsolódást ebben a hívogató dax-i fürdőben.",
+                  "category": "family",
+                  "coords": [
+                        -1.050391,
+                        43.711399
+                  ]
+            },
+            {
+                  "name": "Thermes des Arènes",
+                  "text": "Ez a dax-i termálfürdő jótékony kezeléseket kínál az Ön egészsége és jó közérzete érdekében.",
+                  "category": "family",
+                  "coords": [
+                        -1.048998,
+                        43.714831
+                  ]
+            },
+            {
+                  "name": "Thermes du Grand Hôtel",
+                  "text": "Élvezze a pihentető pillanatokat és a professzionális wellness szolgáltatásokat ebben a dax-i fürdőben.",
+                  "category": "family",
+                  "coords": [
+                        -1.048615,
+                        43.71062
+                  ]
+            },
+            {
+                  "name": "Thermes de l'Avenue",
+                  "text": "Ez a dax-i termálfürdő a tökéletes hely a test és a lélek összehangolására.",
+                  "category": "family",
+                  "coords": [
+                        -1.048443,
+                        43.708689
+                  ]
+            },
+            {
+                  "name": "Thermes des Chênes",
+                  "text": "Kapcsolódjon ki a dax-i termálfürdő nyugodt és kellemes légkörében.",
+                  "category": "family",
+                  "coords": [
+                        -1.065095,
+                        43.731057
+                  ]
+            },
+            {
+                  "name": "Thermes Sourcéo",
+                  "text": "Ez a modern dax-i termálfürdő átfogó wellness ajánlatokat kínál a pihentető időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        -1.063166,
+                        43.728854
+                  ]
+            },
+            {
+                  "name": "Thermes de Christus",
+                  "text": "Élvezze a tiszta kikapcsolódást ebben a dax-i speciális termálfürdőben.",
+                  "category": "family",
+                  "coords": [
+                        -1.064897,
+                        43.729028
                   ]
             }
       ],
@@ -40184,6 +36405,96 @@ const citySeeds: CitySeed[] = [
                         -1.051858,
                         43.697285
                   ]
+            },
+            {
+                  "name": "Thermes Foch",
+                  "text": "Această baie termală din Dax oferă o experiență de wellness binefăcătoare și relaxantă pentru toți vizitatorii.",
+                  "category": "family",
+                  "coords": [
+                        -1.055684,
+                        43.70953
+                  ]
+            },
+            {
+                  "name": "Thermes Borda",
+                  "text": "Această baie din Dax este un loc minunat pentru relaxare și regenerare într-o atmosferă liniștită.",
+                  "category": "family",
+                  "coords": [
+                        -1.062819,
+                        43.709835
+                  ]
+            },
+            {
+                  "name": "Thermes Bérot",
+                  "text": "Bucurați-vă de tratamente de wellness de primă clasă și relaxare în această baie renumită din Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050641,
+                        43.708195
+                  ]
+            },
+            {
+                  "name": "Thermes Bains Saint-Pierre",
+                  "text": "Experimentați cultura tradițională a băii și relaxarea pură în această baie primitoare din Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050391,
+                        43.711399
+                  ]
+            },
+            {
+                  "name": "Thermes des Arènes",
+                  "text": "Această baie termală din Dax oferă tratamente benefice pentru sănătatea și bunăstarea dumneavoastră.",
+                  "category": "family",
+                  "coords": [
+                        -1.048998,
+                        43.714831
+                  ]
+            },
+            {
+                  "name": "Thermes du Grand Hôtel",
+                  "text": "Bucurați-vă de momente relaxante și servicii profesionale de wellness în această baie din Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.048615,
+                        43.71062
+                  ]
+            },
+            {
+                  "name": "Thermes de l'Avenue",
+                  "text": "Această baie termală din Dax este locul perfect pentru a armoniza corpul și mintea.",
+                  "category": "family",
+                  "coords": [
+                        -1.048443,
+                        43.708689
+                  ]
+            },
+            {
+                  "name": "Thermes des Chênes",
+                  "text": "Relaxați-vă în atmosfera liniștită și plăcută a acestei băi termale din Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.065095,
+                        43.731057
+                  ]
+            },
+            {
+                  "name": "Thermes Sourcéo",
+                  "text": "Această baie termală modernă din Dax oferă oferte complete de wellness pentru un timp relaxant.",
+                  "category": "family",
+                  "coords": [
+                        -1.063166,
+                        43.728854
+                  ]
+            },
+            {
+                  "name": "Thermes de Christus",
+                  "text": "Bucurați-vă de relaxare pură în această baie termală specializată din Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.064897,
+                        43.729028
+                  ]
             }
       ],
       "en": [
@@ -40282,6 +36593,96 @@ const citySeeds: CitySeed[] = [
                         -1.051858,
                         43.697285
                   ]
+            },
+            {
+                  "name": "Thermes Foch",
+                  "text": "This thermal bath in Dax offers a beneficial and relaxing wellness experience for all visitors.",
+                  "category": "family",
+                  "coords": [
+                        -1.055684,
+                        43.70953
+                  ]
+            },
+            {
+                  "name": "Thermes Borda",
+                  "text": "This bath in Dax is a wonderful place for relaxation and regeneration in a quiet atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        -1.062819,
+                        43.709835
+                  ]
+            },
+            {
+                  "name": "Thermes Bérot",
+                  "text": "Enjoy top-class wellness treatments and relaxation at this renowned bath in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050641,
+                        43.708195
+                  ]
+            },
+            {
+                  "name": "Thermes Bains Saint-Pierre",
+                  "text": "Experience traditional bathing culture and pure relaxation at this inviting bath in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.050391,
+                        43.711399
+                  ]
+            },
+            {
+                  "name": "Thermes des Arènes",
+                  "text": "This thermal bath in Dax offers beneficial treatments for your health and well-being.",
+                  "category": "family",
+                  "coords": [
+                        -1.048998,
+                        43.714831
+                  ]
+            },
+            {
+                  "name": "Thermes du Grand Hôtel",
+                  "text": "Enjoy relaxing moments and professional wellness services at this bath in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.048615,
+                        43.71062
+                  ]
+            },
+            {
+                  "name": "Thermes de l'Avenue",
+                  "text": "This thermal bath in Dax is the perfect place to harmonize body and mind.",
+                  "category": "family",
+                  "coords": [
+                        -1.048443,
+                        43.708689
+                  ]
+            },
+            {
+                  "name": "Thermes des Chênes",
+                  "text": "Relax in the quiet and pleasant atmosphere of this thermal bath in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.065095,
+                        43.731057
+                  ]
+            },
+            {
+                  "name": "Thermes Sourcéo",
+                  "text": "This modern thermal bath in Dax offers comprehensive wellness deals for a relaxing time.",
+                  "category": "family",
+                  "coords": [
+                        -1.063166,
+                        43.728854
+                  ]
+            },
+            {
+                  "name": "Thermes de Christus",
+                  "text": "Enjoy pure relaxation at this specialized thermal bath in Dax.",
+                  "category": "family",
+                  "coords": [
+                        -1.064897,
+                        43.729028
+                  ]
             }
       ],
       "fr": [
@@ -40375,443 +36776,7 @@ const citySeeds: CitySeed[] = [
       fr: ["La dune du Pilat atteint une hauteur allant jusqu'à 106 mètres", "La ville d'Hiver a été conçue dès 1862 comme station climatique", "Arcachon est devenue une commune autonome en 1857 par décret de Napoléon III", "Plus de 300 villas de la Belle Époque sont préservées dans la ville d'Hiver", "Le bassin d'Arcachon produit annuellement environ 8 000 à 10 000 tonnes d'huîtres", "La ville compte aujourd'hui environ 11 500 habitants"],
     },
     image: "/poi-images/arcachon.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Dune du Pilat",
-                  "text": "Die höchste Wanderdüne Europas, die einen atemberaubenden Blick auf den Atlantik und die umliegenden Pinienwälder bietet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.211667,
-                        44.59
-                  ]
-            },
-            {
-                  "name": "Ville d'Hiver",
-                  "text": "Ein charmantes Viertel, bekannt für seine eklektischen Villen aus dem 19. Jahrhundert in verschiedenen Baustilen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.168431,
-                        44.656843
-                  ]
-            },
-            {
-                  "name": "Jetée Thiers",
-                  "text": "Die Hauptmole von Arcachon, ein lebendiger Ort und Ausgangspunkt für Bootsfahrten zum Cap Ferret und über die Bucht.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.16877,
-                        44.66481
-                  ]
-            },
-            {
-                  "name": "Parc Mauresque",
-                  "text": "Ein wunderschöner Park auf einer Anhöhe, der einst ein maurisches Casino beherbergte und heute botanische Gärten bietet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.172903,
-                        44.658282
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-des-Passes",
-                  "text": "Eine Kirche aus dem 19. Jahrhundert im byzantinischen Stil, die im Viertel Moulleau den Eingang zur Bucht überblickt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.19909,
-                        44.641213
-                  ]
-            },
-            {
-                  "name": "Plage Péreire",
-                  "text": "Der Plage Péreire ist ein weitläufiger Strand in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.193691,
-                        44.659218
-                  ]
-            },
-            {
-                  "name": "Plage d'Eyrac",
-                  "text": "Plage d'Eyrac ist ein Sandstrand in der Gemeinde La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.15859,
-                        44.662909
-                  ]
-            },
-            {
-                  "name": "Plage Thiers",
-                  "text": "Plage Thiers ist ein bekannter Strand in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.17147,
-                        44.663874
-                  ]
-            },
-            {
-                  "name": "Plage de la Hume",
-                  "text": "Plage de la Hume ist ein familienfreundlicher Strand in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.114292,
-                        44.645409
-                  ]
-            },
-            {
-                  "name": "Plage de Larros",
-                  "text": "Plage de Larros bietet eine Strandlandschaft in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.074466,
-                        44.64526
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dune du Pilat",
-                  "text": "Európa legmagasabb homokdűnéje, amely lélegzetelállító kilátást nyújt az Atlanti-óceánra és a környező fenyőerdőkre.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.211667,
-                        44.59
-                  ]
-            },
-            {
-                  "name": "Ville d'Hiver",
-                  "text": "Egy bájos negyed, amely eklektikus 19. századi villáiról híres, svájci, gótikus és mór stílusjegyeket ötvözve.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.168431,
-                        44.656843
-                  ]
-            },
-            {
-                  "name": "Jetée Thiers",
-                  "text": "Arcachon fő mólója, egy élettel teli hely, ahonnan hajók indulnak a Cap Ferret-re, és remek kilátás nyílik az öbölre.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.16877,
-                        44.66481
-                  ]
-            },
-            {
-                  "name": "Parc Mauresque",
-                  "text": "Egy gyönyörű dombtetőn fekvő park, ahol egykor egy hatalmas mór stílusú kaszinó állt, ma botanikus kert és kilátóhely.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.172903,
-                        44.658282
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-des-Passes",
-                  "text": "Egy 19. századi, bizánci stílusban épült templom, amely az öböl bejáratára néz a Moulleau negyedben.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.19909,
-                        44.641213
-                  ]
-            },
-            {
-                  "name": "Plage Péreire",
-                  "text": "A Plage Péreire egy kiterjedt strand La Teste De Buch városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.193691,
-                        44.659218
-                  ]
-            },
-            {
-                  "name": "Plage d'Eyrac",
-                  "text": "A Plage d'Eyrac egy homokos strand La Teste De Buch területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.15859,
-                        44.662909
-                  ]
-            },
-            {
-                  "name": "Plage Thiers",
-                  "text": "A Plage Thiers egy népszerű strand La Teste De Buch városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.17147,
-                        44.663874
-                  ]
-            },
-            {
-                  "name": "Plage de la Hume",
-                  "text": "A Plage de la Hume egy strand La Teste De Buch part menti területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.114292,
-                        44.645409
-                  ]
-            },
-            {
-                  "name": "Plage de Larros",
-                  "text": "A Plage de Larros egy kellemes homokos partszakasz La Teste De Buch városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.074466,
-                        44.64526
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dune du Pilat",
-                  "text": "Cea mai înaltă dună de nisip din Europa, oferind vederi spectaculoase asupra Oceanului Atlantic și a pădurilor de pini.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.211667,
-                        44.59
-                  ]
-            },
-            {
-                  "name": "Ville d'Hiver",
-                  "text": "Un cartier fermecător, faimos pentru vilele sale eclectice din secolul al XIX-lea, care îmbină stilurile gotic și maur.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.168431,
-                        44.656843
-                  ]
-            },
-            {
-                  "name": "Jetée Thiers",
-                  "text": "Principalul debarcader din Arcachon, un punct plin de viață ideal pentru plecări spre Cap Ferret și pentru a admira golful.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.16877,
-                        44.66481
-                  ]
-            },
-            {
-                  "name": "Parc Mauresque",
-                  "text": "Un parc frumos situat pe deal, unde se afla odinioară un cazinou în stil maur, oferind astăzi grădini botanice și panorame.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.172903,
-                        44.658282
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-des-Passes",
-                  "text": "O biserică din secolul al XIX-lea construită în stil bizantin, situată în cartierul Moulleau, cu vedere spre intrarea în golf.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.19909,
-                        44.641213
-                  ]
-            },
-            {
-                  "name": "Plage Péreire",
-                  "text": "Plage Péreire este o plajă întinsă în La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.193691,
-                        44.659218
-                  ]
-            },
-            {
-                  "name": "Plage d'Eyrac",
-                  "text": "Plage d'Eyrac este o plajă de nisip din La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.15859,
-                        44.662909
-                  ]
-            },
-            {
-                  "name": "Plage Thiers",
-                  "text": "Plage Thiers este o plajă populară situată în La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.17147,
-                        44.663874
-                  ]
-            },
-            {
-                  "name": "Plage de la Hume",
-                  "text": "Plage de la Hume este o plajă situată în zona de coastă a orașului La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.114292,
-                        44.645409
-                  ]
-            },
-            {
-                  "name": "Plage de Larros",
-                  "text": "Plage de Larros este o plajă situată în La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.074466,
-                        44.64526
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dune du Pilat",
-                  "text": "The tallest sand dune in Europe, offering breathtaking views of the Atlantic Ocean and the surrounding pine forests.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.211667,
-                        44.59
-                  ]
-            },
-            {
-                  "name": "Ville d'Hiver",
-                  "text": "A charming neighborhood famous for its eclectic 19th-century villas, showcasing a mix of Swiss, Gothic, and Moorish styles.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.168431,
-                        44.656843
-                  ]
-            },
-            {
-                  "name": "Jetée Thiers",
-                  "text": "The main pier of Arcachon, a lively spot perfect for departures to Cap Ferret and enjoying views of the bay.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        -1.16877,
-                        44.66481
-                  ]
-            },
-            {
-                  "name": "Parc Mauresque",
-                  "text": "A beautiful hilltop park that once housed a grand Moorish-style casino, now offering botanical gardens and viewpoints.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.172903,
-                        44.658282
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-des-Passes",
-                  "text": "A 19th-century church built in the Byzantine style, overlooking the entrance to the bay in the Moulleau district.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.19909,
-                        44.641213
-                  ]
-            },
-            {
-                  "name": "Plage Péreire",
-                  "text": "Plage Péreire is an expansive beach located in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.193691,
-                        44.659218
-                  ]
-            },
-            {
-                  "name": "Plage d'Eyrac",
-                  "text": "Plage d'Eyrac is a sandy beach located in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.15859,
-                        44.662909
-                  ]
-            },
-            {
-                  "name": "Plage Thiers",
-                  "text": "Plage Thiers is a popular beach situated in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.17147,
-                        44.663874
-                  ]
-            },
-            {
-                  "name": "Plage de la Hume",
-                  "text": "Plage de la Hume is a relaxing beach located in the coastal area of La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.114292,
-                        44.645409
-                  ]
-            },
-            {
-                  "name": "Plage de Larros",
-                  "text": "Plage de Larros is a local beach environment in La Teste De Buch.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.074466,
-                        44.64526
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Dune du Pilat",
-                  "text": "La plus haute dune d'Europe, offrant une vue imprenable sur l'Atlantique et la forêt de pins environnante.",
-                  "category": "natural",
-                  "coords": [
-                        -1.211667,
-                        44.59
-                  ]
-            },
-            {
-                  "name": "Ville d'Hiver",
-                  "text": "Quartier pittoresque célèbre pour ses villas éclectiques du XIXe siècle arborant des styles architecturaux variés.",
-                  "category": "historical",
-                  "coords": [
-                        -1.168431,
-                        44.656843
-                  ]
-            },
-            {
-                  "name": "Jetée Thiers",
-                  "text": "Jetée principale d'Arcachon, lieu animé et point de départ des navettes vers le Cap Ferret et le bassin.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.16877,
-                        44.66481
-                  ]
-            },
-            {
-                  "name": "Parc Mauresque",
-                  "text": "Beau parc en hauteur qui abritait jadis un casino mauresque, proposant aujourd'hui des jardins botaniques.",
-                  "category": "natural",
-                  "coords": [
-                        -1.172903,
-                        44.658282
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-des-Passes",
-                  "text": "Église du XIXe siècle de style byzantin, dominant l'entrée du bassin dans le quartier du Moulleau.",
-                  "category": "religious",
-                  "coords": [
-                        -1.19909,
-                        44.641213
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Dune du Pilat", "text": "Die höchste Wanderdüne Europas, die einen atemberaubenden Blick auf den Atlantik und die umliegenden Pinienwälder bietet.", "category": "natural", "confidence": "high", "coords": [-1.211667, 44.59]}, {"name": "Ville d'Hiver", "text": "Ein charmantes Viertel, bekannt für seine eklektischen Villen aus dem 19. Jahrhundert in verschiedenen Baustilen.", "category": "historical", "confidence": "high", "coords": [-1.168431, 44.656843]}, {"name": "Jetée Thiers", "text": "Die Hauptmole von Arcachon, ein lebendiger Ort und Ausgangspunkt für Bootsfahrten zum Cap Ferret und über die Bucht.", "category": "recreational", "confidence": "high", "coords": [-1.16877, 44.66481]}, {"name": "Parc Mauresque", "text": "Ein wunderschöner Park auf einer Anhöhe, der einst ein maurisches Casino beherbergte und heute botanische Gärten bietet.", "category": "natural", "confidence": "high", "coords": [-1.172903, 44.658282]}, {"name": "Notre-Dame-des-Passes", "text": "Eine Kirche aus dem 19. Jahrhundert im byzantinischen Stil, die im Viertel Moulleau den Eingang zur Bucht überblickt.", "category": "religious", "confidence": "high", "coords": [-1.19909, 44.641213]}, {"name": "Plage Péreire", "text": "Bekannt für seine beeindruckende Weite, ist der Plage Péreire ein riesiger und atemberaubender Strand in La Teste De Buch in der Nähe von Arcachon. Das breite Ufer ermöglicht herrliche Spaziergänge mit weiten Ausblicken auf die umliegende Küstenlandschaft. Er besitzt eine friedliche und doch majestätische Atmosphäre, die Naturliebhaber und Sonnenanbeter anzieht. Um seine immense Schönheit voll zu schätzen, planen Sie Ihren Besuch während des weicheren Lichts am frühen Morgen.", "category": "recreational", "coords": [-1.193691, 44.659218]}, {"name": "Plage d'Eyrac", "text": "In der Gemeinde La Teste De Buch gelegen, bietet der Plage d'Eyrac einen reizvollen Sandstrand in der Nähe des charmanten Arcachon. Sein behaglicher Sand bietet eine großartige Grundlage zum Entspannen, Lesen oder einfach zum Beobachten des Wassers. Der Strand bewahrt ein stetiges, lokales Summen von glücklichen Urlaubern und entspannten Einwohnern. Das Tragen von bequemen Wandersandalen macht es einfach, von den umliegenden Straßen direkt auf den Sand zu wechseln.", "category": "recreational", "coords": [-1.15859, 44.662909]}, {"name": "Plage Thiers", "text": "Der Plage Thiers ist ein sehr bekannter und beliebter Strandort in La Teste De Buch. Dieser prominente Küstenstreifen zieht Besucher an, die schwimmen, sich austauschen und in den lebhaften maritimen Geist der Gegend von Arcachon eintauchen möchten. Er balanciert energiegeladene Strandaktivitäten perfekt mit ruhigen Sonnenbädern aus. Aufgrund seiner Beliebtheit ist die Nutzung öffentlicher Verkehrsmittel oder der Fußweg die stressfreieste Art der Anreise.", "category": "recreational", "coords": [-1.17147, 44.663874]}, {"name": "Plage de la Hume", "text": "Speziell auf das Vergnügen von Familien zugeschnitten, bietet der Plage de la Hume einen sicheren und fröhlichen Küstenrückzugsort in La Teste De Buch. Die sanfte Neigung des Ufers eignet sich hervorragend für spielende Kinder und Erwachsene, die sicher ins Wasser waten. Die Atmosphäre wird durch die Geräusche von Familienpicknicks und planschenden Wellen heiter belebt. Bringen Sie Eimer und Schaufeln mit, denn die Umgebung ist praktisch wie gemacht für das Bauen von Sandburgen.", "category": "recreational", "coords": [-1.114292, 44.645409]}, {"name": "Plage de Larros", "text": "Der Plage de Larros präsentiert eine unverwechselbare und wunderschöne Strandlandschaft und ist ein einladender Ort, eingebettet in La Teste De Buch. Das Ufer ist ein hervorragendes Terrain, um Ebbe und Flut zu beobachten, während man die freie Natur genießt. Er bewahrt ein eher gedämpftes, natürliches Ambiente im Vergleich zu den größeren Stadtstränden in der Nähe. Das Einpacken einer leichten Windjacke ist klug, da die Meeresbrise angenehm frisch sein kann.", "category": "recreational", "coords": [-1.074466, 44.64526]}], "hu": [{"name": "Dune du Pilat", "text": "Európa legmagasabb homokdűnéje, amely lélegzetelállító kilátást nyújt az Atlanti-óceánra és a környező fenyőerdőkre.", "category": "natural", "confidence": "high", "coords": [-1.211667, 44.59]}, {"name": "Ville d'Hiver", "text": "Egy bájos negyed, amely eklektikus 19. századi villáiról híres, svájci, gótikus és mór stílusjegyeket ötvözve.", "category": "historical", "confidence": "high", "coords": [-1.168431, 44.656843]}, {"name": "Jetée Thiers", "text": "Arcachon fő mólója, egy élettel teli hely, ahonnan hajók indulnak a Cap Ferret-re, és remek kilátás nyílik az öbölre.", "category": "recreational", "confidence": "high", "coords": [-1.16877, 44.66481]}, {"name": "Parc Mauresque", "text": "Egy gyönyörű dombtetőn fekvő park, ahol egykor egy hatalmas mór stílusú kaszinó állt, ma botanikus kert és kilátóhely.", "category": "natural", "confidence": "high", "coords": [-1.172903, 44.658282]}, {"name": "Notre-Dame-des-Passes", "text": "Egy 19. századi, bizánci stílusban épült templom, amely az öböl bejáratára néz a Moulleau negyedben.", "category": "religious", "confidence": "high", "coords": [-1.19909, 44.641213]}, {"name": "Plage Péreire", "text": "Lenyűgöző kiterjedéséről ismert a Plage Péreire, egy hatalmas és lenyűgöző strand az Arcachon melletti La Teste De Buchban. A széles part csodálatos sétákat tesz lehetővé, pazar kilátással a környező partvidéki tájra. Békés, mégis fenséges légkörrel rendelkezik, amely vonzza a természet szerelmeseit és a napozókat. Hatalmas szépségének igazi megcsodálásához érdemes a látogatást a kora reggeli, lágyabb fények idejére időzíteni.", "category": "recreational", "coords": [-1.193691, 44.659218]}, {"name": "Plage d'Eyrac", "text": "A La Teste De Buch községben található Plage d'Eyrac elragadó homokos partot kínál Arcachon varázsának közelében. Kellemes homokja nagyszerű alapot nyújt a pihenéshez, olvasáshoz vagy egyszerűen a víz szemléléséhez. A strand fenntartja a boldog nyaralók és a laza helyiek folyamatos, visszafogott pezsgését. A kényelmes sétaszandál viselése megkönnyíti a környező utcákról egyenesen a homokra való átjutást.", "category": "recreational", "coords": [-1.15859, 44.662909]}, {"name": "Plage Thiers", "text": "A Plage Thiers egy rendkívül ismert és népszerű strand úti cél La Teste De Buchban. Ez a kiemelkedő partvonal vonzza azokat a látogatókat, akik úszni, társalogni vágynak, és el akarnak merülni az Arcachon környéki nyüzsgő tengerparti szellemben. Tökéletesen egyensúlyozza az energikus strandtevékenységeket a nyugodt napozással. Népszerűsége miatt a tömegközlekedés vagy a gyaloglás a legstresszmentesebb módja az érkezésnek.", "category": "recreational", "coords": [-1.17147, 44.663874]}, {"name": "Plage de la Hume", "text": "Kifejezetten a családok szórakozására szabott Plage de la Hume biztonságos és vidám tengerparti menedéket nyújt La Teste De Buchban. A part enyhe lejtése kiválóan alkalmas a gyerekek játékához és a felnőttek biztonságos vízbe gázolásához. Légkörét a családi piknikek hangjai és a csobbanó hullámok vidáman elevenítik meg. Érdemes vödröt és lapátot magunkkal vinni, mivel a környezet szinte homokvárak építésére termett.", "category": "recreational", "coords": [-1.114292, 44.645409]}, {"name": "Plage de Larros", "text": "A jellegzetes és gyönyörű tengerparti tájat bemutató Plage de Larros egy hívogató hely a La Teste De Buch ölelésében. A part kiváló terep az árapály váltakozásának megfigyelésére, miközben élvezzük a szabad levegőt. Visszafogottabb, természetesebb hangulatot áraszt a közeli, nagyobb városi strandokhoz képest. Okos dolog egy könnyű széldzsekit csomagolni, mivel az óceáni szellő kellemesen friss lehet.", "category": "recreational", "coords": [-1.074466, 44.64526]}], "ro": [{"name": "Dune du Pilat", "text": "Cea mai înaltă dună de nisip din Europa, oferind vederi spectaculoase asupra Oceanului Atlantic și a pădurilor de pini.", "category": "natural", "confidence": "high", "coords": [-1.211667, 44.59]}, {"name": "Ville d'Hiver", "text": "Un cartier fermecător, faimos pentru vilele sale eclectice din secolul al XIX-lea, care îmbină stilurile gotic și maur.", "category": "historical", "confidence": "high", "coords": [-1.168431, 44.656843]}, {"name": "Jetée Thiers", "text": "Principalul debarcader din Arcachon, un punct plin de viață ideal pentru plecări spre Cap Ferret și pentru a admira golful.", "category": "recreational", "confidence": "high", "coords": [-1.16877, 44.66481]}, {"name": "Parc Mauresque", "text": "Un parc frumos situat pe deal, unde se afla odinioară un cazinou în stil maur, oferind astăzi grădini botanice și panorame.", "category": "natural", "confidence": "high", "coords": [-1.172903, 44.658282]}, {"name": "Notre-Dame-des-Passes", "text": "O biserică din secolul al XIX-lea construită în stil bizantin, situată în cartierul Moulleau, cu vedere spre intrarea în golf.", "category": "religious", "confidence": "high", "coords": [-1.19909, 44.641213]}, {"name": "Plage Péreire", "text": "Cunoscută pentru întinderea sa impresionantă, Plage Péreire este o plajă vastă și uimitoare situată în La Teste De Buch, lângă Arcachon. Țărmul larg permite plimbări magnifice cu vederi ample asupra peisajului de coastă din jur. Are o atmosferă liniștită, dar maiestuoasă, care atrage iubitorii de natură și de plajă. Pentru a aprecia cu adevărat frumusețea sa imensă, planificați-vă vizita în lumina mai blândă a dimineții devreme.", "category": "recreational", "coords": [-1.193691, 44.659218]}, {"name": "Plage d'Eyrac", "text": "Odihnindu-se în comuna La Teste De Buch, Plage d'Eyrac oferă un țărm de nisip încântător aproape de farmecul din Arcachon. Nisipul său reconfortant oferă un cadru excelent pentru relaxare, lectură sau pur și simplu pentru a privi apele. Plaja menține un murmur local și constant de turiști fericiți și rezidenți relaxați. Purtarea unor sandale confortabile facilitează trecerea din străzile din jur direct pe nisip.", "category": "recreational", "coords": [-1.15859, 44.662909]}, {"name": "Plage Thiers", "text": "Plage Thiers este o destinație de plajă foarte recunoscută și populară, situată în La Teste De Buch. Această linie de coastă proeminentă atrage vizitatori gata să înoate, să socializeze și să se cufunde în spiritul viu al litoralului din zona Arcachon. Echilibrează perfect activitățile pline de energie de pe plajă cu locurile pentru plajă liniștită. Datorită popularității sale, utilizarea transportului public sau mersul pe jos este cea mai lipsită de stres modalitate de a ajunge.", "category": "recreational", "coords": [-1.17147, 44.663874]}, {"name": "Plage de la Hume", "text": "Adaptată special pentru bucuria familiilor, Plage de la Hume oferă un refugiu de coastă sigur și vesel în La Teste De Buch. Înclinația blândă a țărmului este minunat de potrivită pentru copiii care se joacă și pentru adulții care intră în apă în siguranță. Atmosfera sa este animată cu voioșie de sunetele picnicurilor în familie și de valurile care se sparg. Aduceți cu voi găleți și lopeți, deoarece mediul este practic creat pentru construirea castelelor de nisip.", "category": "recreational", "coords": [-1.114292, 44.645409]}, {"name": "Plage de Larros", "text": "Prezentând un peisaj de plajă distinct și frumos, Plage de Larros este un loc primitor cuibărit în La Teste De Buch. Țărmul este un teren excelent pentru a asista la fluxul și refluxul mareei, bucurându-vă în același timp de aer liber. Păstrează o ambianță mai discretă și naturală în comparație cu plajele mai mari din orașele din apropiere. Împachetarea unui paravânt ușor este inteligentă, deoarece briza oceanului poate fi plăcut de rece.", "category": "recreational", "coords": [-1.074466, 44.64526]}], "en": [{"name": "Dune du Pilat", "text": "The tallest sand dune in Europe, offering breathtaking views of the Atlantic Ocean and the surrounding pine forests.", "category": "natural", "confidence": "high", "coords": [-1.211667, 44.59]}, {"name": "Ville d'Hiver", "text": "A charming neighborhood famous for its eclectic 19th-century villas, showcasing a mix of Swiss, Gothic, and Moorish styles.", "category": "historical", "confidence": "high", "coords": [-1.168431, 44.656843]}, {"name": "Jetée Thiers", "text": "The main pier of Arcachon, a lively spot perfect for departures to Cap Ferret and enjoying views of the bay.", "category": "recreational", "confidence": "high", "coords": [-1.16877, 44.66481]}, {"name": "Parc Mauresque", "text": "A beautiful hilltop park that once housed a grand Moorish-style casino, now offering botanical gardens and viewpoints.", "category": "natural", "confidence": "high", "coords": [-1.172903, 44.658282]}, {"name": "Notre-Dame-des-Passes", "text": "A 19th-century church built in the Byzantine style, overlooking the entrance to the bay in the Moulleau district.", "category": "religious", "confidence": "high", "coords": [-1.19909, 44.641213]}, {"name": "Plage Péreire", "text": "Known for its impressive expanse, Plage Péreire is a vast and stunning beach situated in La Teste De Buch near Arcachon. The broad shore allows for magnificent walks with sweeping views of the surrounding coastal landscape. It possesses a peaceful yet majestic atmosphere that draws nature lovers and sunbathers. To truly appreciate its immense beauty, plan your visit during the softer light of the early morning.", "category": "recreational", "coords": [-1.193691, 44.659218]}, {"name": "Plage d'Eyrac", "text": "Resting in the commune of La Teste De Buch, Plage d'Eyrac offers a delightful sandy shore close to the charm of Arcachon. Its comforting sand provides a great canvas for relaxation, reading, or simply watching the waters. The beach maintains a steady, localized hum of happy vacationers and relaxed residents. Wearing comfortable walking sandals makes it easy to transition from the surrounding streets straight onto the sand.", "category": "recreational", "coords": [-1.15859, 44.662909]}, {"name": "Plage Thiers", "text": "Plage Thiers is a highly recognizable and popular beach destination situated in La Teste De Buch. This prominent coastline draws visitors ready to swim, socialize, and immerse themselves in the lively seaside spirit of the Arcachon area. It perfectly balances energetic beach activities with spots for calm sunbathing. Due to its popularity, utilizing public transport or walking is the most stress-free way to arrive.", "category": "recreational", "coords": [-1.17147, 44.663874]}, {"name": "Plage de la Hume", "text": "Specially tailored for family enjoyment, Plage de la Hume provides a secure and cheerful coastal retreat in La Teste De Buch. The gentle incline of the shore is brilliantly suited for children playing and adults wading safely into the water. Its atmosphere is brightly animated by the sounds of family picnics and splashing waves. Bring along buckets and spades, as the environment is practically made for building sandcastles.", "category": "recreational", "coords": [-1.114292, 44.645409]}, {"name": "Plage de Larros", "text": "Presenting a distinct and beautiful beach landscape, Plage de Larros is an inviting spot nestled within La Teste De Buch. The shore is an excellent terrain to witness the ebb and flow of the tide while enjoying the open air. It retains a more subdued, natural ambiance compared to the larger city beaches nearby. Packing a light windbreaker is smart, as the ocean breeze can be pleasantly crisp.", "category": "recreational", "coords": [-1.074466, 44.64526]}], "fr": [{"name": "Dune du Pilat", "text": "La plus haute dune d'Europe, offrant une vue imprenable sur l'Atlantique et la forêt de pins environnante.", "category": "natural", "coords": [-1.211667, 44.59]}, {"name": "Ville d'Hiver", "text": "Quartier pittoresque célèbre pour ses villas éclectiques du XIXe siècle arborant des styles architecturaux variés.", "category": "historical", "coords": [-1.168431, 44.656843]}, {"name": "Jetée Thiers", "text": "Jetée principale d'Arcachon, lieu animé et point de départ des navettes vers le Cap Ferret et le bassin.", "category": "recreational", "coords": [-1.16877, 44.66481]}, {"name": "Parc Mauresque", "text": "Beau parc en hauteur qui abritait jadis un casino mauresque, proposant aujourd'hui des jardins botaniques.", "category": "natural", "coords": [-1.172903, 44.658282]}, {"name": "Notre-Dame-des-Passes", "text": "Église du XIXe siècle de style byzantin, dominant l'entrée du bassin dans le quartier du Moulleau.", "category": "religious", "coords": [-1.19909, 44.641213]}]}
   },
   {
     id: "royan",
@@ -40846,731 +36811,7 @@ const citySeeds: CitySeed[] = [
       fr: ["L'église Notre-Dame de Royan a été inaugurée en 1958", "Royan a été détruite en janvier et avril 1945 par des bombardements alliés", "Le phare de Cordouan est situé à environ 7 kilomètres de la côte", "La plage de la Grande Conche mesure plus de 2 kilomètres de long", "Le marché central de Royan a une forme de voûte caractéristique en béton", "La ville compte aujourd'hui environ 18 500 habitants"],
     },
     image: "/poi-images/royan.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Notre-Dame de Royan",
-                  "text": "Ein monumentales Betonbauwerk des Wiederaufbaus, berühmt für seine futuristische Ästhetik und Akustik.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.03266,
-                        45.6235
-                  ]
-            },
-            {
-                  "name": "Zentralmarkt von Royan",
-                  "text": "Ein markantes Gebäude in Form einer Muschel, das 1955 als Herzstück des städtischen Lebens errichtet wurde.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -1.002547,
-                        45.62858
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Conche",
-                  "text": "Der wichtigste Sandstrand der Stadt, gesäumt von Villen aus der Belle Époque und modernen Bauten.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.01486,
-                        45.6169
-                  ]
-            },
-            {
-                  "name": "Planet Exotica",
-                  "text": "Ein weitläufiger botanischer Garten mit exotischen Tieren, Reptilien und einer Sammlung alter Olivenbäume.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0125,
-                        45.63
-                  ]
-            },
-            {
-                  "name": "Musée de Royan",
-                  "text": "In einem ehemaligen Marktgebäude untergebracht, dokumentiert es die lokale Geschichte von der Antike bis heute.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0484,
-                        45.6267
-                  ]
-            },
-            {
-                  "name": "Plage du Pigeonnier",
-                  "text": "Plage du Pigeonnier ist ein reizvoller Sandstrand in der Küstenstadt Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.047013,
-                        45.621673
-                  ]
-            },
-            {
-                  "name": "Plage du Chay",
-                  "text": "Plage du Chay ist ein malerischer Strand in der Küstenstadt Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.043234,
-                        45.619696
-                  ]
-            },
-            {
-                  "name": "Plage du Conseil",
-                  "text": "Plage du Conseil ist ein lokaler Strand, der eine entspannte Atmosphäre in Royan bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.069873,
-                        45.634424
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sordelin",
-                  "text": "Plage de Saint-Sordelin ist ein angenehmer Strand in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.064781,
-                        45.630668
-                  ]
-            },
-            {
-                  "name": "conche de gilet",
-                  "text": "Conche de gilet ist eine kleine Bucht und ein Strandbereich in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.058722,
-                        45.627183
-                  ]
-            },
-            {
-                  "name": "Plage du Port",
-                  "text": "Plage du Port ist ein Strand in günstiger Lage nahe dem Hafengebiet von Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.005883,
-                        45.599393
-                  ]
-            },
-            {
-                  "name": "Plage de Foncillon",
-                  "text": "Plage de Foncillon ist ein bekannter Sandstrand in der Stadt Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.033617,
-                        45.61909
-                  ]
-            },
-            {
-                  "name": "La Grande Conche",
-                  "text": "La Grande Conche ist der weitläufige Hauptsandstrand in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.018123,
-                        45.614411
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Georges de Didonne",
-                  "text": "Plage de Saint-Georges de Didonne ist ein schöner Strandabschnitt in der Nähe von Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.994649,
-                        45.591941
-                  ]
-            },
-            {
-                  "name": "Plage de Pontaillac",
-                  "text": "Plage de Pontaillac ist ein beliebter Stadtstrand in Royan, der für das Surfen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.053109,
-                        45.625448
-                  ]
-            },
-            {
-                  "name": "Plage du Concié",
-                  "text": "Plage du Concié ist eine ruhige Strandkulisse in der Küstenstadt Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.110236,
-                        45.646851
-                  ]
-            },
-            {
-                  "name": "Plage du Platin",
-                  "text": "Plage du Platin ist ein ruhiger Strand in der Gemeinde Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.099849,
-                        45.642836
-                  ]
-            },
-            {
-                  "name": "Plage Saint-Nicolas",
-                  "text": "Plage Saint-Nicolas ist ein idyllisches Strandziel in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.076728,
-                        45.569828
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Notre-Dame de Royan",
-                  "text": "A vasbeton építészet remekműve, amely a város 1945-ös pusztulása utáni újjáépítés egyik jelképe lett.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.03266,
-                        45.6235
-                  ]
-            },
-            {
-                  "name": "Royan központi piaca",
-                  "text": "Kagyló alakú modern vásárcsarnok, amely 1955-ben épült és Royan gasztronómiai életének központja.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -1.002547,
-                        45.62858
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Conche",
-                  "text": "Royan fő homokos strandja, amelyet gyönyörű villák és modern sétányok szegélyeznek.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.01486,
-                        45.6169
-                  ]
-            },
-            {
-                  "name": "Planet Exotica",
-                  "text": "Botanikus és zoológiai park, ahol egzotikus állatok és ezeréves olajfák várják a látogatókat.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0125,
-                        45.63
-                  ]
-            },
-            {
-                  "name": "Royan Múzeum",
-                  "text": "A város történelmét bemutató múzeum, különös tekintettel a második világháborús eseményekre.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0484,
-                        45.6267
-                  ]
-            },
-            {
-                  "name": "Plage du Pigeonnier",
-                  "text": "A Plage du Pigeonnier egy bájos homokos strand Royan tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.047013,
-                        45.621673
-                  ]
-            },
-            {
-                  "name": "Plage du Chay",
-                  "text": "A Plage du Chay egy festői strand a tengerparti Royan városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.043234,
-                        45.619696
-                  ]
-            },
-            {
-                  "name": "Plage du Conseil",
-                  "text": "A Plage du Conseil egy helyi strand, amely pihentető légkört kínál Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.069873,
-                        45.634424
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sordelin",
-                  "text": "A Plage de Saint-Sordelin egy kellemes strand Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.064781,
-                        45.630668
-                  ]
-            },
-            {
-                  "name": "conche de gilet",
-                  "text": "A Conche de gilet egy kis öböl és strandterület Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.058722,
-                        45.627183
-                  ]
-            },
-            {
-                  "name": "Plage du Port",
-                  "text": "A Plage du Port egy strand, amely kényelmes helyen, Royan kikötőjének közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.005883,
-                        45.599393
-                  ]
-            },
-            {
-                  "name": "Plage de Foncillon",
-                  "text": "A Plage de Foncillon egy jól ismert homokos strand Royan városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.033617,
-                        45.61909
-                  ]
-            },
-            {
-                  "name": "La Grande Conche",
-                  "text": "A La Grande Conche a fő, tágas homokos strand Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.018123,
-                        45.614411
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Georges de Didonne",
-                  "text": "A Plage de Saint-Georges de Didonne egy gyönyörű strandszakasz Royan közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.994649,
-                        45.591941
-                  ]
-            },
-            {
-                  "name": "Plage de Pontaillac",
-                  "text": "A Plage de Pontaillac egy népszerű városi strand, amely szörfözéséről ismert Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.053109,
-                        45.625448
-                  ]
-            },
-            {
-                  "name": "Plage du Concié",
-                  "text": "A Plage du Concié egy csendes strand a tengerparti Royan városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.110236,
-                        45.646851
-                  ]
-            },
-            {
-                  "name": "Plage du Platin",
-                  "text": "A Plage du Platin egy nyugodt strand Royan településen.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.099849,
-                        45.642836
-                  ]
-            },
-            {
-                  "name": "Plage Saint-Nicolas",
-                  "text": "A Plage Saint-Nicolas egy békés strand Royanban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.076728,
-                        45.569828
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Notre-Dame de Royan",
-                  "text": "O capodoperă a arhitecturii moderne din beton, construită după distrugerea orașului în 1945.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.03266,
-                        45.6235
-                  ]
-            },
-            {
-                  "name": "Piața Centrală din Royan",
-                  "text": "O piață acoperită cu un design inovator în formă de scoică, inima comerțului local din Royan.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -1.002547,
-                        45.62858
-                  ]
-            },
-            {
-                  "name": "Plaja Grande Conche",
-                  "text": "Plaja principală cu nisip fin, celebră pentru vilele sale istorice și atmosfera de vacanță.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.01486,
-                        45.6169
-                  ]
-            },
-            {
-                  "name": "Planet Exotica",
-                  "text": "Un parc botanic și zoologic fascinant care găzduiește animale exotice și o grădină de măslini vechi.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0125,
-                        45.63
-                  ]
-            },
-            {
-                  "name": "Muzeul din Royan",
-                  "text": "Situat într-o fostă hală, acest muzeu prezintă istoria locală, de la antichitate până la reconstrucție.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0484,
-                        45.6267
-                  ]
-            },
-            {
-                  "name": "Plage du Pigeonnier",
-                  "text": "Plage du Pigeonnier este o plajă de nisip situată în orașul de coastă Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.047013,
-                        45.621673
-                  ]
-            },
-            {
-                  "name": "Plage du Chay",
-                  "text": "Plage du Chay este o plajă pitorească situată în orașul de coastă Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.043234,
-                        45.619696
-                  ]
-            },
-            {
-                  "name": "Plage du Conseil",
-                  "text": "Plage du Conseil este o plajă locală care oferă o atmosferă relaxantă în Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.069873,
-                        45.634424
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sordelin",
-                  "text": "Plage de Saint-Sordelin este o plajă plăcută situată în Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.064781,
-                        45.630668
-                  ]
-            },
-            {
-                  "name": "conche de gilet",
-                  "text": "Conche de gilet este un mic golf și o zonă de plajă situată în Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.058722,
-                        45.627183
-                  ]
-            },
-            {
-                  "name": "Plage du Port",
-                  "text": "Plage du Port este o plajă situată convenabil în apropierea zonei portului din Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.005883,
-                        45.599393
-                  ]
-            },
-            {
-                  "name": "Plage de Foncillon",
-                  "text": "Plage de Foncillon este o plajă de nisip bine-cunoscută situată în orașul Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.033617,
-                        45.61909
-                  ]
-            },
-            {
-                  "name": "La Grande Conche",
-                  "text": "La Grande Conche este principala plajă vastă de nisip din Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.018123,
-                        45.614411
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Georges de Didonne",
-                  "text": "Plage de Saint-Georges de Didonne este o frumoasă porțiune de plajă care se întinde lângă Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.994649,
-                        45.591941
-                  ]
-            },
-            {
-                  "name": "Plage de Pontaillac",
-                  "text": "Plage de Pontaillac este o plajă urbană populară, cunoscută pentru surfing în Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.053109,
-                        45.625448
-                  ]
-            },
-            {
-                  "name": "Plage du Concié",
-                  "text": "Plage du Concié este un cadru de plajă liniștit în orașul de coastă Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.110236,
-                        45.646851
-                  ]
-            },
-            {
-                  "name": "Plage du Platin",
-                  "text": "Plage du Platin este o plajă liniștită situată în municipalitatea Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.099849,
-                        45.642836
-                  ]
-            },
-            {
-                  "name": "Plage Saint-Nicolas",
-                  "text": "Plage Saint-Nicolas este o destinație de plajă senină aflată în Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.076728,
-                        45.569828
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Notre-Dame de Royan",
-                  "text": "A masterpiece of modern concrete architecture, built as a symbol of the city's reconstruction after 1945.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.03266,
-                        45.6235
-                  ]
-            },
-            {
-                  "name": "Royan Central Market",
-                  "text": "An iconic shell-shaped market hall built in 1955, serving as the vibrant heart of Royan's food scene.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -1.002547,
-                        45.62858
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Conche",
-                  "text": "The main sandy beach of the resort, known for its vast size and beautiful waterfront villas.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.01486,
-                        45.6169
-                  ]
-            },
-            {
-                  "name": "Planet Exotica",
-                  "text": "A large botanical and zoological park featuring exotic reptiles, birds, and ancient olive tree gardens.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0125,
-                        45.63
-                  ]
-            },
-            {
-                  "name": "Royan Museum",
-                  "text": "Housed in a former market building, this museum tracks the city's history from Roman times to the present.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.0484,
-                        45.6267
-                  ]
-            },
-            {
-                  "name": "Plage du Pigeonnier",
-                  "text": "Plage du Pigeonnier is a charming sandy beach located in the coastal city of Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.047013,
-                        45.621673
-                  ]
-            },
-            {
-                  "name": "Plage du Chay",
-                  "text": "Plage du Chay is a scenic beach located in the coastal city of Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.043234,
-                        45.619696
-                  ]
-            },
-            {
-                  "name": "Plage du Conseil",
-                  "text": "Plage du Conseil is a local beach offering a relaxing atmosphere in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.069873,
-                        45.634424
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Sordelin",
-                  "text": "Plage de Saint-Sordelin is a pleasant beach situated in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.064781,
-                        45.630668
-                  ]
-            },
-            {
-                  "name": "conche de gilet",
-                  "text": "Conche de gilet is a small cove and beach area located in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.058722,
-                        45.627183
-                  ]
-            },
-            {
-                  "name": "Plage du Port",
-                  "text": "Plage du Port is a beach conveniently located near the harbor area in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.005883,
-                        45.599393
-                  ]
-            },
-            {
-                  "name": "Plage de Foncillon",
-                  "text": "Plage de Foncillon is a well-known sandy beach situated in the city of Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.033617,
-                        45.61909
-                  ]
-            },
-            {
-                  "name": "La Grande Conche",
-                  "text": "La Grande Conche is the main expansive sandy beach located in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.018123,
-                        45.614411
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-Georges de Didonne",
-                  "text": "Plage de Saint-Georges de Didonne is a beautiful stretch of beach extending near Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.994649,
-                        45.591941
-                  ]
-            },
-            {
-                  "name": "Plage de Pontaillac",
-                  "text": "Plage de Pontaillac is a popular urban beach known for surfing in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.053109,
-                        45.625448
-                  ]
-            },
-            {
-                  "name": "Plage du Concié",
-                  "text": "Plage du Concié is a quiet beach setting in the coastal town of Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.110236,
-                        45.646851
-                  ]
-            },
-            {
-                  "name": "Plage du Platin",
-                  "text": "Plage du Platin is a tranquil beach located in the municipality of Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.099849,
-                        45.642836
-                  ]
-            },
-            {
-                  "name": "Plage Saint-Nicolas",
-                  "text": "Plage Saint-Nicolas is a serene beach destination found in Royan.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.076728,
-                        45.569828
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Notre-Dame de Royan",
-                  "text": "Monumental édifice en béton de la Reconstruction, célèbre pour son esthétique futuriste et son acoustique.",
-                  "category": "religious",
-                  "coords": [
-                        -1.03266,
-                        45.6235
-                  ]
-            },
-            {
-                  "name": "Marché central de Royan",
-                  "text": "Bâtiment emblématique en forme de coquille, érigé en 1955 comme centre battant de la vie urbaine.",
-                  "category": "civic",
-                  "coords": [
-                        -1.002547,
-                        45.62858
-                  ]
-            },
-            {
-                  "name": "Plage de la Grande Conche",
-                  "text": "La principale plage de sable de la ville, bordée de villas Belle Époque et de constructions modernes.",
-                  "category": "natural",
-                  "coords": [
-                        -1.01486,
-                        45.6169
-                  ]
-            },
-            {
-                  "name": "Planet Exotica",
-                  "text": "Vaste parc botanique agrémenté d'animaux exotiques, de reptiles et d'une collection d'oliviers millénaires.",
-                  "category": "natural",
-                  "coords": [
-                        -1.0125,
-                        45.63
-                  ]
-            },
-            {
-                  "name": "Musée de Royan",
-                  "text": "Installé dans un ancien marché, il documente l'histoire locale depuis l'Antiquité jusqu'à nos jours.",
-                  "category": "museum",
-                  "coords": [
-                        -1.0484,
-                        45.6267
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Notre-Dame de Royan", "text": "Ein monumentales Betonbauwerk des Wiederaufbaus, berühmt für seine futuristische Ästhetik und Akustik.", "category": "religious", "confidence": "high", "coords": [-1.03266, 45.6235]}, {"name": "Zentralmarkt von Royan", "text": "Ein markantes Gebäude in Form einer Muschel, das 1955 als Herzstück des städtischen Lebens errichtet wurde.", "category": "civic", "confidence": "high", "coords": [-1.002547, 45.62858]}, {"name": "Plage de la Grande Conche", "text": "Als feinster Sandstrand von Royan wird der Plage de la Grande Conche wunderschön von historischen Villen aus der Belle Époque und markanter moderner Architektur eingerahmt. Diese zentrale Küstenlinie pulsiert vor Aktivität und bietet weite Strecken zum Schwimmen, Flanieren und um die Sonne zu genießen. Die Atmosphäre ist lebendig und fungiert als das pulsierende soziale Herz der städtischen Küste. Ein Abendspaziergang entlang des Randes bietet wunderbare architektonische Ausblicke im Kontrast zum Meer.", "category": "natural", "confidence": "high", "coords": [-1.01486, 45.6169]}, {"name": "Planet Exotica", "text": "Ein weitläufiger botanischer Garten mit exotischen Tieren, Reptilien und einer Sammlung alter Olivenbäume.", "category": "natural", "confidence": "high", "coords": [-1.0125, 45.63]}, {"name": "Musée de Royan", "text": "In einem ehemaligen Marktgebäude untergebracht, dokumentiert es die lokale Geschichte von der Antike bis heute.", "category": "museum", "confidence": "high", "coords": [-1.0484, 45.6267]}, {"name": "Plage du Pigeonnier", "text": "Der Plage du Pigeonnier ist ein charmanter und intimer Sandstrand, der sich in das Küstengefüge von Royan einfügt. Seine geringere Größe fördert eine wunderbar gemütliche Umgebung für Schwimmer und Sonnenanbeter, die eine Pause von den großen Menschenmassen wünschen. Sie können eine sanfte, einladende Atmosphäre erwarten, die den idyllischen maritimen Lebensstil Frankreichs widerspiegelt. Es wird dringend geraten, mit weniger Gepäck anzureisen, um sich leicht an diesem zarten Ort niederzulassen.", "category": "recreational", "coords": [-1.047013, 45.621673]}, {"name": "Plage du Chay", "text": "Mit seiner äußerst malerischen Küstenlinie ist der Plage du Chay ein atemberaubendes Ziel, um die natürliche Schönheit von Royan zu schätzen. Der Strand ist ein hervorragender Ort, um das Meerwasser zu spüren und die strahlende Sonne vor einer wunderschönen Küstenkulisse zu genießen. Die allgemeine Stimmung ist entspannt, was ihn zu einem Favoriten für diejenigen macht, die visuelle Inspiration am Meer suchen. Fotoliebhaber werden besonders während der goldenen Stunden des Tages einen Besuch abstatten wollen.", "category": "recreational", "coords": [-1.043234, 45.619696]}, {"name": "Plage du Conseil", "text": "Bei Einheimischen beliebt, bietet der Plage du Conseil eine wunderbar entspannte Atmosphäre direkt im Herzen von Royan. Er bietet einen ruhigen, unprätentiösen Sandstreifen, der sich ideal für ein nachmittägliches Bad und zum Entspannen mit Familie oder Freunden eignet. Besucher erleben hier ein Stück des alltäglichen französischen Küstenlebens ohne die Hektik der großen Touristenhochburgen. Ein Besuch an einem Wochentag garantiert einen noch abgelegeneren und friedlicheren Moment am Meer.", "category": "recreational", "coords": [-1.069873, 45.634424]}, {"name": "Plage de Saint-Sordelin", "text": "Der Plage de Saint-Sordelin stellt eine durchweg angenehme Strandoption für jeden dar, der an der Küste von Royan reist. Er verbindet den sanften Rhythmus des Meeres mit einer sehr zugänglichen und aufgeräumten sandigen Umgebung. Das Ufer wird von all jenen frequentiert, die einfach nur im Wasser treiben oder bequem sonnenbaden möchten. Ein kuscheliges Strandtuch und gute Laune sind das Rezept für einen perfekten Aufenthalt hier.", "category": "recreational", "coords": [-1.064781, 45.630668]}, {"name": "conche de gilet", "text": "Conche de gilet ist eine kleine Bucht und ein Strandbereich in Royan.", "category": "recreational", "coords": [-1.058722, 45.627183]}, {"name": "Plage du Port", "text": "Durch seine günstige Lage in der Nähe des Hafengebiets ist der Plage du Port ein leicht erreichbarer Strand in Royan. Diese Zweckmäßigkeit macht ihn zu einer hervorragenden Wahl für ein schnelles Bad oder zum Ausruhen am Wasser, nachdem man die nahegelegenen Docks erkundet hat. Trotz der Nähe zum Hafen bewahrt er eine charmante Atmosphäre, die zur Entspannung einlädt. Es ist ein fantastischer Ort, um einen Spaziergang bei Sonnenuntergang zu genießen und dabei das maritime Treiben zu beobachten.", "category": "recreational", "coords": [-1.005883, 45.599393]}, {"name": "Plage de Foncillon", "text": "In der Küstenstadt Royan gelegen, bietet die Plage de Foncillon einen bekannten Sandstrand, der sich perfekt für einen klassischen Ausflug ans Meer eignet. Die Atmosphäre ist hier stets einladend für Einheimische und Besucher, die entspannte Sonnenbäder oder gemütliche Strandspaziergänge suchen. Ein Bad im Ozean ist in den wärmeren Monaten ein wahrer Genuss. Ein frühes Erscheinen im Sommer garantiert den besten Platz für Ihr Handtuch.", "category": "recreational", "coords": [-1.033617, 45.61909]}, {"name": "La Grande Conche", "text": "La Grande Conche ist der weitläufige Hauptsandstrand in Royan.", "category": "recreational", "coords": [-1.018123, 45.614411]}, {"name": "Plage de Saint-Georges de Didonne", "text": "Etwas außerhalb des belebten Zentrums von Royan bietet dieser wunderschöne Strandabschnitt eine herrliche Kulisse für puren Genuss am Meer. Besucher erwartet eine angenehme Umgebung zum Entspannen, sei es bei einem erfrischenden Bad oder beim einfachen Verweilen am Wasser. Die umgebende Küstenatmosphäre macht diesen Ort zu einem beliebten Ziel für Tagesausflüge. Ein Besuch an einem sonnigen Nachmittag ist besonders empfehlenswert, um die Aussicht in vollen Zügen zu genießen.", "category": "recreational", "coords": [-0.994649, 45.591941]}, {"name": "Plage de Pontaillac", "text": "Als prominenter Stadtstrand in Royan verbindet die Plage de Pontaillac auf einzigartige Weise städtischen Komfort mit einem aktiven Küstenlebensstil. Die Uferpromenade ist berühmt für ihre Surfmöglichkeiten und wimmelt nur so von energiegeladenen Einheimischen und Wassersportlern. Neben dem Surfen ist dies ein hervorragendes Ziel, um sich in der Sonne zu baden und die lebhafte maritime Atmosphäre in sich aufzusaugen. Ein Besuch während des morgendlichen Wellengangs ist eine großartige Idee für alle, die die besten Wellen erwischen möchten.", "category": "recreational", "coords": [-1.053109, 45.625448]}, {"name": "Plage du Concié", "text": "Versteckt in der Küstenstadt Royan bietet die Plage du Concié eine bemerkenswert ruhige Strandkulisse abseits der großen Menschenmassen. Die friedliche Atmosphäre lädt Besucher dazu ein, eine stillere Seite der französischen Küste zu erleben. Es ist ein wunderbarer Ort für einen besinnlichen Spaziergang oder einen ruhigen Nachmittag mit einem Buch in der Sonne. Für ein Höchstmaß an Entspannung ist ein morgendlicher Besuch sehr zu empfehlen.", "category": "recreational", "coords": [-1.110236, 45.646851]}, {"name": "Plage du Platin", "text": "Innerhalb der Gemeinde Royan gelegen, fungiert die Plage du Platin als ruhiger Rückzugsort an der wunderschönen Küstenlinie. Dieser friedliche Strand zeichnet sich durch sein stilles Wesen aus und zieht all jene an, die die sehr belebten Touristenorte lieber meiden. Besucher können sich auf ungestörtes Sonnenbaden und entspanntes Schwimmen in einer sanften Küstenumgebung freuen. Ein mitgebrachtes Picknick sorgt für einen idyllischen Nachmittag unter freiem Himmel.", "category": "recreational", "coords": [-1.099849, 45.642836]}, {"name": "Plage Saint-Nicolas", "text": "Die Plage Saint-Nicolas offenbart sich als wahrhaft idyllisches Küstenziel eingebettet in Royan. Die malerische Schönheit der Küstenlinie sorgt hier für eine entspannende und natürlich schöne Atmosphäre für alle Spaziergänger. Es ist ein herrlicher Ort, um ein Handtuch auszubreiten, ein sanftes Bad zu nehmen oder eindrucksvolle Fotos der französischen Küste zu schießen. Ein Besuch am späten Nachmittag taucht den Sand in das vorteilhafteste Licht.", "category": "recreational", "coords": [-1.076728, 45.569828]}, {"name": "Pirate Park", "text": "Pirate Park ist ein Freizeitpark in Royan. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.", "category": "family", "coords": [-1.015672, 45.659966]}, {"name": "Institut Marin Royan", "text": "Institut Marin Royan ist ein öffentliches Bad in Royan. Es bietet einen Ort zur Entspannung.", "category": "family", "coords": [-1.022857, 45.623084]}], "hu": [{"name": "Notre-Dame de Royan", "text": "A vasbeton építészet remekműve, amely a város 1945-ös pusztulása utáni újjáépítés egyik jelképe lett.", "category": "religious", "confidence": "high", "coords": [-1.03266, 45.6235]}, {"name": "Royan központi piaca", "text": "Kagyló alakú modern vásárcsarnok, amely 1955-ben épült és Royan gasztronómiai életének központja.", "category": "civic", "confidence": "high", "coords": [-1.002547, 45.62858]}, {"name": "Plage de la Grande Conche", "text": "Royan első számú homokos strandjaként a Plage de la Grande Conche-t történelmi Belle Époque villák és lenyűgöző modern építészet keretezi gyönyörűen. Ez a központi partvonal lüktet a tevékenységektől, hatalmas területeket kínálva az úszáshoz, a sétához és a napsütés élvezetéhez. A légkör vibráló, a város partvidékének nyüzsgő társadalmi központjaként működik. Egy esti séta a perem mentén csodálatos építészeti kilátást nyújt a tengerrel kontrasztban.", "category": "natural", "confidence": "high", "coords": [-1.01486, 45.6169]}, {"name": "Planet Exotica", "text": "Botanikus és zoológiai park, ahol egzotikus állatok és ezeréves olajfák várják a látogatókat.", "category": "natural", "confidence": "high", "coords": [-1.0125, 45.63]}, {"name": "Royan Múzeum", "text": "A város történelmét bemutató múzeum, különös tekintettel a második világháborús eseményekre.", "category": "museum", "confidence": "high", "coords": [-1.0484, 45.6267]}, {"name": "Plage du Pigeonnier", "text": "A Plage du Pigeonnier egy bájos és meghitt homokos strand, amely Royan tengerparti szövetébe ékelődik. Kisebb mérete csodálatosan barátságos környezetet teremt az úszók és napozók számára, akik szeretnének egy kis szünetet a hatalmas tömegektől. Finom, hívogató hangulatra számíthat, amely tükrözi Franciaország idilli tengerparti életmódját. Kifejezetten ajánlott kevesebb holmival érkezni, hogy könnyen elhelyezkedhessen ezen a finom helyen.", "category": "recreational", "coords": [-1.047013, 45.621673]}, {"name": "Plage du Chay", "text": "A rendkívül festői partvonallal rendelkező Plage du Chay lenyűgöző úti cél Royan természetes szépségének megcsodálásához. A strand kiváló helyszín az óceán vizének érzékelésére és a sugárzó napsütés élvezetére a gyönyörű tengerparti háttér előtt. Az általános hangulat nyugodt, így a tengerparti vizuális inspirációt keresők kedvence. A fotózás szerelmesei különösen a nap arany óráiban fognak idelátogatni.", "category": "recreational", "coords": [-1.043234, 45.619696]}, {"name": "Plage du Conseil", "text": "A helyiek által kedvelt Plage du Conseil csodálatosan nyugodt légkört kínál közvetlenül Royan szívében. Csendes, szerény homokos szakaszt nyújt, amely ideális a délutáni csobbanáshoz és a családdal vagy barátokkal való kikapcsolódáshoz. A látogatók bepillantást nyerhetnek a mindennapi francia tengerparti életbe, a nagyobb turisztikai központok rohanása nélkül. A hétköznapi látogatás még elszigeteltebb és békésebb tengerparti pillanatot garantál.", "category": "recreational", "coords": [-1.069873, 45.634424]}, {"name": "Plage de Saint-Sordelin", "text": "A Plage de Saint-Sordelin egy folyamatosan kellemes strandolási lehetőséget képvisel mindenki számára, aki Royan partvidékén utazik. A tenger lágy ritmusát egy rendkívül barátságos és rendezett homokos környezettel ötvözi. A partot gyakran látogatják azok, akik egyszerűen csak lebegni szeretnének a vízben, vagy kényelmesen napoznának. Egy puha strandtörölköző és a jókedv a recept egy tökéletes itteni tartózkodáshoz.", "category": "recreational", "coords": [-1.064781, 45.630668]}, {"name": "conche de gilet", "text": "A Conche de gilet egy kis öböl és strandterület Royanban.", "category": "recreational", "coords": [-1.058722, 45.627183]}, {"name": "Plage du Port", "text": "A kikötő közelében lévő kényelmes elhelyezkedésének köszönhetően a Plage du Port egy könnyen megközelíthető strand Royanban. Ez a praktikusság kiváló választássá teszi egy gyors úszáshoz vagy a vízparti pihenéshez a közeli dokkok felfedezése után. A kikötő közelsége ellenére megőrzi a pihenésre alkalmas, bájos atmoszféráját. Fantasztikus hely egy naplementi sétához, miközben figyelemmel kísérjük a tengeri tevékenységet.", "category": "recreational", "coords": [-1.005883, 45.599393]}, {"name": "Plage de Foncillon", "text": "A part menti Royan városában található Plage de Foncillon egy jól ismert homokos partszakasz, amely tökéletes egy klasszikus tengerparti kiruccanáshoz. A légkör itt általában hívogató mind a helyiek, mind a látogatók számára, akik nyugodt napozásra vagy kényelmes sétákra vágynak a part mentén. Az óceánban való megmártózás igazi élvezet a melegebb hónapokban. Érdemes nyáron korán érkezni, hogy biztosan megtalálja a tökéletes helyet a törölközőjének.", "category": "recreational", "coords": [-1.033617, 45.61909]}, {"name": "La Grande Conche", "text": "A La Grande Conche a fő, tágas homokos strand Royanban.", "category": "recreational", "coords": [-1.018123, 45.614411]}, {"name": "Plage de Saint-Georges de Didonne", "text": "Közvetlenül Royan nyüzsgő központján kívül ez a gyönyörű partszakasz csodálatos helyszínt biztosít a tengerparti élvezetekhez. A látogatók kellemes környezetre számíthatnak a kikapcsolódáshoz, legyen szó egy frissítő úszásról vagy egyszerűen csak a vízparti pihenésről. A környező partvidéki hangulat miatt népszerű választás egynapos kirándulásokhoz. Érdemes egy napos délutánon ellátogatni ide, hogy teljes mértékben értékelni lehessen a kilátást.", "category": "recreational", "coords": [-0.994649, 45.591941]}, {"name": "Plage de Pontaillac", "text": "Royan kiemelkedő városi strandjaként a Plage de Pontaillac egyedülálló módon ötvözi a városi kényelmet az aktív tengerparti életmóddal. A szörfözési lehetőségeiről híres vízparton energikus helyiek és a hullámokat meglovagoló vízisport-rajongók nyüzsögnek. A szörfözésen túl kiváló célpont napozásra és a nyüzsgő tengeri hangulat magába szívására. A reggeli hullámzás idejére tervezett látogatás nagyszerű ötlet azok számára, akik a legjobb hullámokat szeretnék elkapni.", "category": "recreational", "coords": [-1.053109, 45.625448]}, {"name": "Plage du Concié", "text": "A tengerparti Royan városában megbúvó Plage du Concié figyelemre méltóan nyugodt tengerparti környezetet biztosít távol a nagyobb tömegektől. A csendes légkör arra csábítja a látogatókat, hogy megtapasztalják a francia tengerpart egy békésebb oldalát. Csodálatos hely egy elmélkedő sétához vagy egy csendes olvasással és napozással töltött délutánhoz a tengerparton. A legnyugodtabb élmény érdekében egy reggeli látogatás kifejezetten ajánlott.", "category": "recreational", "coords": [-1.110236, 45.646851]}, {"name": "Plage du Platin", "text": "A Royan községben található Plage du Platin egy nyugodt menedékként szolgál a gyönyörű partvonalon. Ezt a békés strandot a csendes viselkedés jellemzi, és azokat vonzza, akik inkább elkerülik a túlságosan nyüzsgő turisztikai helyeket. A látogatók zavartalan napozásra és pihentető úszásra számíthatnak egy szelíd partvidéki környezetben. Egy piknik magunkkal vitele idilli délutánt ígér a szabad ég alatt.", "category": "recreational", "coords": [-1.099849, 45.642836]}, {"name": "Plage Saint-Nicolas", "text": "A Plage Saint-Nicolas egy igazán idilli tengerparti úti célként tárul elénk Royanban. A partvonal festői szépsége itt pihentető és természetesen látványos légkört teremt mindenki számára, aki erre téved. Ez egy bájos helyszín a törölköző kiterítésére, egy kellemes úszásra vagy a francia tengerpartról készült lenyűgöző fényképek készítésére. Késő délutáni látogatás során a legszebb a fény a homokon.", "category": "recreational", "coords": [-1.076728, 45.569828]}, {"name": "Pirate Park", "text": "A Pirate Park egy vidámpark Royan-ban. A családok különféle látványosságokat élvezhetnek itt.", "category": "family", "coords": [-1.015672, 45.659966]}, {"name": "Institut Marin Royan", "text": "Az Institut Marin Royan egy nyilvános fürdő Royan-ban. Helyet kínál a pihenésre.", "category": "family", "coords": [-1.022857, 45.623084]}], "ro": [{"name": "Notre-Dame de Royan", "text": "O capodoperă a arhitecturii moderne din beton, construită după distrugerea orașului în 1945.", "category": "religious", "confidence": "high", "coords": [-1.03266, 45.6235]}, {"name": "Piața Centrală din Royan", "text": "O piață acoperită cu un design inovator în formă de scoică, inima comerțului local din Royan.", "category": "civic", "confidence": "high", "coords": [-1.002547, 45.62858]}, {"name": "Plaja Grande Conche", "text": "Fiind plaja principală de nisip din Royan, Plage de la Grande Conche este frumos încadrată de vile istorice din Belle Époque și de o arhitectură modernă impresionantă. Această zonă centrală de coastă pulsează de activitate, oferind întinderi vaste pentru înot, plimbare și pentru a vă bucura de soare. Atmosfera este vibrantă, acționând ca inima socială plină de viață a litoralului orașului. O plimbare de seară pe margine oferă vederi arhitecturale minunate în contrast cu marea.", "category": "natural", "confidence": "high", "coords": [-1.01486, 45.6169]}, {"name": "Planet Exotica", "text": "Un parc botanic și zoologic fascinant care găzduiește animale exotice și o grădină de măslini vechi.", "category": "natural", "confidence": "high", "coords": [-1.0125, 45.63]}, {"name": "Muzeul din Royan", "text": "Situat într-o fostă hală, acest muzeu prezintă istoria locală, de la antichitate până la reconstrucție.", "category": "museum", "confidence": "high", "coords": [-1.0484, 45.6267]}, {"name": "Plage du Pigeonnier", "text": "Plage du Pigeonnier este o plajă de nisip fermecătoare și intimă, ascunsă în țesutul de coastă din Royan. Dimensiunea sa mai mică favorizează un mediu minunat de confortabil pentru înotători și iubitorii de plajă care doresc o pauză de la mulțimile masive. Vă puteți aștepta la o vibrație blândă, primitoare, care reflectă stilul de viață idilic la malul mării din Franța. Este foarte recomandat să sosiți cu mai puține bagaje pentru a vă așeza cu ușurință în acest loc delicat.", "category": "recreational", "coords": [-1.047013, 45.621673]}, {"name": "Plage du Chay", "text": "Oferind o coastă extrem de pitorească, Plage du Chay este o destinație uimitoare pentru a aprecia frumusețea naturală a orașului Royan. Plaja este o locație superbă pentru a simți apa oceanului și pentru a vă bucura de soarele radiant pe un fundal de coastă superb. Starea de spirit generală este relaxată, ceea ce o face un favorit pentru cei care caută inspirație vizuală la mare. Iubitorii de fotografie vor dori în mod special să o viziteze în timpul orelor de aur ale zilei.", "category": "recreational", "coords": [-1.043234, 45.619696]}, {"name": "Plage du Conseil", "text": "Iubită de localnici, Plage du Conseil oferă o atmosferă minunat de relaxată chiar în inima orașului Royan. Oferă o porțiune de nisip liniștită, lipsită de pretenții, ideală pentru băi de după-amiază și pentru a vă relaxa cu familia sau prietenii. Vizitatorii vor experimenta o felie din viața de coastă franceză de zi cu zi, fără goana marilor puncte turistice. Alegerea unei vizite în timpul săptămânii garantează un moment la mare și mai retras și pașnic.", "category": "recreational", "coords": [-1.069873, 45.634424]}, {"name": "Plage de Saint-Sordelin", "text": "Plage de Saint-Sordelin reprezintă o opțiune de plajă constant plăcută pentru oricine călătorește de-a lungul coastei din Royan. Îmbină ritmul blând al mării cu un cadru de nisip foarte accesibil și îngrijit. Țărmul este frecventat de cei care pur și simplu doresc să plutească în apă sau să facă plajă confortabil. A avea la sine un prosop de plajă confortabil și o atitudine bună este rețeta pentru o ședere perfectă aici.", "category": "recreational", "coords": [-1.064781, 45.630668]}, {"name": "conche de gilet", "text": "Conche de gilet este un mic golf și o zonă de plajă situată în Royan.", "category": "recreational", "coords": [-1.058722, 45.627183]}, {"name": "Plage du Port", "text": "Beneficiind de locația sa convenabilă lângă zona portului, Plage du Port este o plajă ușor accesibilă din Royan. Această latură practică o face o alegere excelentă pentru o baie rapidă sau o odihnă lângă apă, după ce ați explorat docurile din apropiere. În ciuda apropierii de port, ea menține o atmosferă fermecătoare potrivită pentru relaxare. Este un loc fantastic pentru a vă bucura de o plimbare la apus, privind în același timp activitatea maritimă.", "category": "recreational", "coords": [-1.005883, 45.599393]}, {"name": "Plage de Foncillon", "text": "Situată în orașul de coastă Royan, Plage de Foncillon oferă o întindere de nisip binecunoscută, perfectă pentru o evadare clasică la malul mării. Atmosfera de aici este de obicei primitoare pentru localnici și vizitatori care caută plaje relaxante sau plimbări pe îndelete de-a lungul țărmului. O baie în ocean este o adevărată încântare în lunile mai calde. Ajungând devreme în timpul verii vă asigură că veți găsi locul perfect pentru a vă așeza prosopul.", "category": "recreational", "coords": [-1.033617, 45.61909]}, {"name": "La Grande Conche", "text": "La Grande Conche este principala plajă vastă de nisip din Royan.", "category": "recreational", "coords": [-1.018123, 45.614411]}, {"name": "Plage de Saint-Georges de Didonne", "text": "Chiar în afara centrului plin de viață al orașului Royan, această porțiune frumoasă de plajă oferă un cadru minunat pentru bucuria de la malul mării. Vizitatorii se pot aștepta la un mediu plăcut pentru relaxare, fie că asta înseamnă o baie răcoritoare sau pur și simplu odihnă la marginea apei. Ambianța de coastă din jur o face o alegere populară pentru excursii de o zi. Este recomandat să o vizitați într-o după-amiază însorită pentru a aprecia pe deplin priveliștea.", "category": "recreational", "coords": [-0.994649, 45.591941]}, {"name": "Plage de Pontaillac", "text": "Ca o plajă urbană proeminentă în Royan, Plage de Pontaillac combină în mod unic confortul orașului cu un stil de viață activ de coastă. Renumită pentru oportunitățile sale de surfing, faleza este plină de localnici plini de energie și entuziaști ai sporturilor acvatice. Dincolo de surfing, este o destinație excelentă pentru plajă și pentru a absorbi atmosfera maritimă plină de viață. Planificarea unei vizite în timpul valurilor de dimineață este o idee grozavă pentru cei care doresc să prindă cele mai bune valuri.", "category": "recreational", "coords": [-1.053109, 45.625448]}, {"name": "Plage du Concié", "text": "Ascunsă în orașul de coastă Royan, Plage du Concié oferă un cadru de plajă remarcabil de liniștit, departe de aglomerația mare. Atmosfera liniștită invită vizitatorii să experimenteze o latură mai pașnică a coastei franceze. Este un loc minunat pentru o plimbare contemplativă sau o după-amiază tăcută de lectură și plajă la malul mării. Pentru cea mai senină experiență, o vizită dimineața este foarte recomandată.", "category": "recreational", "coords": [-1.110236, 45.646851]}, {"name": "Plage du Platin", "text": "Situată în municipalitatea Royan, Plage du Platin acționează ca un refugiu calm pe țărmul frumos. Această plajă liniștită se caracterizează prin comportamentul său tăcut, atrăgându-i pe cei care preferă să evite punctele turistice extrem de energice. Vizitatorii pot aștepta cu nerăbdare la plaje netulburate și înot relaxant într-un mediu de coastă blând. Aducerea unui picnic promite o după-amiază idilică sub cerul liber.", "category": "recreational", "coords": [-1.099849, 45.642836]}, {"name": "Plage Saint-Nicolas", "text": "Plage Saint-Nicolas se dezvăluie ca o destinație de coastă cu adevărat idilică cuibărită în Royan. Frumusețea pitorească a țărmului de aici încurajează o atmosferă relaxantă și natural pitorească pentru toți cei care se plimbă. Este o locație minunată pentru a întinde un prosop, a vă bucura de o baie blândă sau a face fotografii pitorești ale coastei franceze. O oprire la sfârșitul după-amiezii oferă cea mai măgulitoare lumină peste nisip.", "category": "recreational", "coords": [-1.076728, 45.569828]}, {"name": "Pirate Park", "text": "Pirate Park este un parc tematic în Royan. Familiile se pot bucura de o zi plină de atracții aici.", "category": "family", "coords": [-1.015672, 45.659966]}, {"name": "Institut Marin Royan", "text": "Institut Marin Royan este o baie publică în Royan. Oferă un loc perfect pentru relaxare.", "category": "family", "coords": [-1.022857, 45.623084]}], "en": [{"name": "Notre-Dame de Royan", "text": "A masterpiece of modern concrete architecture, built as a symbol of the city's reconstruction after 1945.", "category": "religious", "confidence": "high", "coords": [-1.03266, 45.6235]}, {"name": "Royan Central Market", "text": "An iconic shell-shaped market hall built in 1955, serving as the vibrant heart of Royan's food scene.", "category": "civic", "confidence": "high", "coords": [-1.002547, 45.62858]}, {"name": "Plage de la Grande Conche", "text": "As the premier sandy beach of Royan, Plage de la Grande Conche is beautifully framed by historic Belle Époque villas and striking modern architecture. This central shoreline pulses with activity, offering vast stretches for swimming, strolling, and enjoying the sun. The atmosphere is vibrant, acting as the lively social heart of the city's coastline. An evening walk along the perimeter provides wonderful architectural views contrasting with the sea.", "category": "natural", "confidence": "high", "coords": [-1.01486, 45.6169]}, {"name": "Planet Exotica", "text": "A large botanical and zoological park featuring exotic reptiles, birds, and ancient olive tree gardens.", "category": "natural", "confidence": "high", "coords": [-1.0125, 45.63]}, {"name": "Royan Museum", "text": "Housed in a former market building, this museum tracks the city's history from Roman times to the present.", "category": "museum", "confidence": "high", "coords": [-1.0484, 45.6267]}, {"name": "Plage du Pigeonnier", "text": "Plage du Pigeonnier is a charming and intimate sandy beach tucked into the coastal fabric of Royan. Its smaller size fosters a wonderfully cozy environment for swimmers and sunbathers wanting a break from the massive crowds. You can expect a gentle, welcoming vibe that reflects the idyllic seaside lifestyle of France. It is highly advised to arrive with fewer belongings to easily settle into this delicate spot.", "category": "recreational", "coords": [-1.047013, 45.621673]}, {"name": "Plage du Chay", "text": "Offering a highly picturesque shoreline, Plage du Chay is a stunning destination to appreciate the natural beauty of Royan. The beach is a superb location for feeling the ocean water and enjoying the radiant sun against a beautiful coastal backdrop. The general mood is relaxed, making it a favorite for those seeking visual inspiration by the sea. Photography lovers will especially want to visit during the golden hours of the day.", "category": "recreational", "coords": [-1.043234, 45.619696]}, {"name": "Plage du Conseil", "text": "Beloved by locals, Plage du Conseil serves up a wonderfully relaxed atmosphere right in the heart of Royan. It provides a quiet, unpretentious stretch of sand ideal for afternoon dips and unwinding with family or friends. Visitors will experience a slice of everyday French coastal life without the rush of major tourist hotspots. Opting for a weekday visit guarantees an even more secluded and peaceful seaside moment.", "category": "recreational", "coords": [-1.069873, 45.634424]}, {"name": "Plage de Saint-Sordelin", "text": "Plage de Saint-Sordelin represents a consistently pleasant beach option for anyone traveling through the Royan coastline. It merges the gentle rhythm of the sea with a highly approachable and tidy sandy setting. The shore is frequented by those who simply wish to float in the water or sunbathe comfortably. Carrying a cozy beach towel and a good attitude is the recipe for a perfect stay here.", "category": "recreational", "coords": [-1.064781, 45.630668]}, {"name": "conche de gilet", "text": "Conche de gilet is a small cove and beach area located in Royan.", "category": "recreational", "coords": [-1.058722, 45.627183]}, {"name": "Plage du Port", "text": "Benefiting from its convenient location near the harbor area, Plage du Port is an easily accessible beach in Royan. This practicality makes it an excellent choice for a quick swim or resting by the water after exploring the nearby docks. Despite its proximity to the port, it maintains a charming atmosphere suitable for relaxation. It is a fantastic spot to enjoy a sunset stroll while watching the maritime activity.", "category": "recreational", "coords": [-1.005883, 45.599393]}, {"name": "Plage de Foncillon", "text": "Located in the coastal town of Royan, Plage de Foncillon offers a well-known sandy stretch perfect for a classic seaside getaway. The atmosphere here is typically welcoming for both locals and visitors seeking relaxed sunbathing or leisurely strolls along the shore. Taking a dip in the ocean is a delight during the warmer months. Arriving early in the summer ensures you find the perfect spot to lay down your towel.", "category": "recreational", "coords": [-1.033617, 45.61909]}, {"name": "La Grande Conche", "text": "La Grande Conche is the main expansive sandy beach located in Royan.", "category": "recreational", "coords": [-1.018123, 45.614411]}, {"name": "Plage de Saint-Georges de Didonne", "text": "Just outside the bustling center of Royan, this lovely stretch of beach provides a wonderful setting for seaside enjoyment. Visitors can expect a pleasant environment for unwinding, whether that means a refreshing swim or simply relaxing by the water. The surrounding coastal ambiance makes it a popular choice for day trips. It is recommended to visit during a sunny afternoon to fully appreciate the views.", "category": "recreational", "coords": [-0.994649, 45.591941]}, {"name": "Plage de Pontaillac", "text": "As a prominent urban beach in Royan, Plage de Pontaillac uniquely combines city convenience with an active coastal lifestyle. Renowned for its surfing opportunities, the waterfront buzzes with energetic locals and water sports enthusiasts riding the waves. Beyond surfing, it is an excellent destination for sunbathing and absorbing the lively maritime atmosphere. Planning a visit during the morning swell is a great idea for those looking to catch the best waves.", "category": "recreational", "coords": [-1.053109, 45.625448]}, {"name": "Plage du Concié", "text": "Tucked away in the coastal city of Royan, Plage du Concié provides a remarkably tranquil beach setting away from the larger crowds. The quiet atmosphere invites visitors to experience a more peaceful side of the French coast. It is a wonderful spot for a contemplative walk or a silent afternoon of reading and sunbathing by the sea. For the most serene experience, a morning visit is highly recommended.", "category": "recreational", "coords": [-1.110236, 45.646851]}, {"name": "Plage du Platin", "text": "Situated within the municipality of Royan, Plage du Platin acts as a calm retreat on the beautiful shoreline. This peaceful beach is characterized by its quiet demeanor, attracting those who prefer avoiding the highly energetic tourist spots. Visitors can look forward to undisturbed sunbathing and relaxing swims in a gentle coastal environment. Bringing a picnic makes for an idyllic afternoon under the open sky.", "category": "recreational", "coords": [-1.099849, 45.642836]}, {"name": "Plage Saint-Nicolas", "text": "Plage Saint-Nicolas reveals itself as a truly idyllic coastal destination nestled in Royan. The scenic beauty of the shoreline here fosters a relaxing and naturally picturesque atmosphere for all who wander by. It is a lovely location for spreading out a towel, enjoying a gentle swim, or taking scenic photographs of the French coast. Stopping by in the late afternoon provides the most flattering light across the sands.", "category": "recreational", "coords": [-1.076728, 45.569828]}, {"name": "Pirate Park", "text": "Pirate Park is a theme park in Royan. Families can enjoy a day out with various attractions here.", "category": "family", "coords": [-1.015672, 45.659966]}, {"name": "Institut Marin Royan", "text": "Institut Marin Royan is a public bath in Royan. It offers a place for relaxation.", "category": "family", "coords": [-1.022857, 45.623084]}], "fr": [{"name": "Notre-Dame de Royan", "text": "Monumental édifice en béton de la Reconstruction, célèbre pour son esthétique futuriste et son acoustique.", "category": "religious", "coords": [-1.03266, 45.6235]}, {"name": "Marché central de Royan", "text": "Bâtiment emblématique en forme de coquille, érigé en 1955 comme centre battant de la vie urbaine.", "category": "civic", "coords": [-1.002547, 45.62858]}, {"name": "Plage de la Grande Conche", "text": "En tant que principale plage de sable de Royan, la Plage de la Grande Conche est magnifiquement encadrée de villas historiques de la Belle Époque et d'une architecture moderne saisissante. Ce littoral central palpite d'activité, offrant de vastes étendues pour nager, flâner et profiter du soleil. L'atmosphère y est vibrante, agissant comme le cœur social animé de la côte de la ville. Une promenade en soirée le long du périmètre offre de superbes vues architecturales contrastant avec la mer.", "category": "natural", "coords": [-1.01486, 45.6169]}, {"name": "Planet Exotica", "text": "Vaste parc botanique agrémenté d'animaux exotiques, de reptiles et d'une collection d'oliviers millénaires.", "category": "natural", "coords": [-1.0125, 45.63]}, {"name": "Musée de Royan", "text": "Installé dans un ancien marché, il documente l'histoire locale depuis l'Antiquité jusqu'à nos jours.", "category": "museum", "coords": [-1.0484, 45.6267]}]}
   },
   {
     id: "agen", population: 34949,
@@ -41666,6 +36907,33 @@ const citySeeds: CitySeed[] = [
                         0.617433,
                         44.20476
                   ]
+            },
+            {
+                  "name": "Kaléa - Bains et Spa",
+                  "text": "Dieser Wellness-Bereich in Agen bietet entspannende Whirlpools für eine wohltuende Auszeit.",
+                  "category": "family",
+                  "coords": [
+                        0.619948,
+                        44.179452
+                  ]
+            },
+            {
+                  "name": "Walygator Sud-Ouest",
+                  "text": "Dieser Freizeitpark in Agen bietet aufregende Fahrgeschäfte und Shows für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.573746,
+                        44.186752
+                  ]
+            },
+            {
+                  "name": "Aqualand",
+                  "text": "Diese beliebte Attraktion in Agen bietet vielseitigen Wasserspaß und Erlebnisse für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        0.576205,
+                        44.185152
+                  ]
             }
       ],
       "hu": [
@@ -41727,6 +36995,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.617433,
                         44.20476
+                  ]
+            },
+            {
+                  "name": "Kaléa - Bains et Spa",
+                  "text": "Ez az ageni wellness központ pihentető pezsgőfürdőket kínál a jótékony kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        0.619948,
+                        44.179452
+                  ]
+            },
+            {
+                  "name": "Walygator Sud-Ouest",
+                  "text": "Ez az ageni élménypark izgalmas vidámparki játékokat és show-műsorokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        0.573746,
+                        44.186752
+                  ]
+            },
+            {
+                  "name": "Aqualand",
+                  "text": "Ez a népszerű ageni látványosság változatos vízi szórakozást és élményeket kínál kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        0.576205,
+                        44.185152
                   ]
             }
       ],
@@ -41790,6 +37085,33 @@ const citySeeds: CitySeed[] = [
                         0.617433,
                         44.20476
                   ]
+            },
+            {
+                  "name": "Kaléa - Bains et Spa",
+                  "text": "Acest centru wellness din Agen oferă căzi cu hidromasaj relaxante pentru o pauză binefăcătoare.",
+                  "category": "family",
+                  "coords": [
+                        0.619948,
+                        44.179452
+                  ]
+            },
+            {
+                  "name": "Walygator Sud-Ouest",
+                  "text": "Acest parc tematic din Agen oferă atracții palpitante și spectacole pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.573746,
+                        44.186752
+                  ]
+            },
+            {
+                  "name": "Aqualand",
+                  "text": "Această atracție populară din Agen oferă distracție acvatică versatilă și experiențe pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        0.576205,
+                        44.185152
+                  ]
             }
       ],
       "en": [
@@ -41851,6 +37173,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.617433,
                         44.20476
+                  ]
+            },
+            {
+                  "name": "Kaléa - Bains et Spa",
+                  "text": "This wellness area in Agen features relaxing hot tubs for a beneficial break.",
+                  "category": "family",
+                  "coords": [
+                        0.619948,
+                        44.179452
+                  ]
+            },
+            {
+                  "name": "Walygator Sud-Ouest",
+                  "text": "This theme park in Agen offers exciting rides and shows for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.573746,
+                        44.186752
+                  ]
+            },
+            {
+                  "name": "Aqualand",
+                  "text": "This popular attraction in Agen offers versatile water fun and experiences for all ages.",
+                  "category": "family",
+                  "coords": [
+                        0.576205,
+                        44.185152
                   ]
             }
       ],
@@ -42285,214 +37634,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Cœur d'un vignoble comptant 13 appellations d'origine contrôlée (AOC).", "Abrite l'unique Musée National du Tabac.", "Statues de Cyrano de Bergerac érigées dans le centre-ville.", "La vieille ville conserve de nombreuses maisons à colombages du XVe siècle.", "Situation privilégiée sur les bords de la Dordogne, en Périgord Pourpre.", "Ancien port fluvial majeur pour l'exportation des vins de Monbazillac."],
     },
     image: "/poi-images/bergerac.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Cyrano-Statue",
-                  "text": "Denkmal für den berühmten Helden von Rostand, das den Charme des historischen Place de la Mirpe unterstreicht.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.483211,
-                        44.851317
-                  ]
-            },
-            {
-                  "name": "Maison des Vins",
-                  "text": "Ein ehemaliges Franziskanerkloster aus dem 17. Jahrhundert, in dem heute die Weine der Region präsentiert werden.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        0.482898,
-                        44.850049
-                  ]
-            },
-            {
-                  "name": "Gabarres de Bergerac",
-                  "text": "Traditionelle Boote, die Rundfahrten auf der Dordogne anbieten und einen Blick auf die Stadt vom Wasser ermöglichen.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        0.481853,
-                        44.849879
-                  ]
-            },
-            {
-                  "name": "Kirche Notre-Dame",
-                  "text": "Eine neugotische Kirche aus dem 19. Jahrhundert, deren 80 Meter hoher Turm das Stadtbild von Bergerac prägt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.483632,
-                        44.854083
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cyrano szobor",
-                  "text": "Cyrano de Bergerac híres szobra a Place de la Mirpe téren, amely a város irodalmi legendájának állít emléket.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.483211,
-                        44.851317
-                  ]
-            },
-            {
-                  "name": "Borok háza",
-                  "text": "Egy 17. századi egykori kolostorban működő borok háza, ahol megismerhetők a vidék híres borai.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        0.482898,
-                        44.850049
-                  ]
-            },
-            {
-                  "name": "Gabarres de Bergerac",
-                  "text": "Hagyományos folyami hajók a Dordogne-on, amelyekről gyönyörű kilátás nyílik a városra és a természetre.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        0.481853,
-                        44.849879
-                  ]
-            },
-            {
-                  "name": "Notre-Dame templom",
-                  "text": "19. századi neogótikus templom, amelynek 80 méter magas tornya messziről látható a város felett.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.483632,
-                        44.854083
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Statuia lui Cyrano",
-                  "text": "Celebra statuie a lui Cyrano de Bergerac din Piața Mirpe, un omagiu adus legendarului personaj literar.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.483211,
-                        44.851317
-                  ]
-            },
-            {
-                  "name": "Maison des Vins",
-                  "text": "Situată într-o mănăstire din secolul XVII, această casă a vinurilor oferă degustări din podgoriile locale.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        0.482898,
-                        44.850049
-                  ]
-            },
-            {
-                  "name": "Gabarres de Bergerac",
-                  "text": "Ambarcațiuni tradiționale care oferă plimbări pe râul Dordogne, oferind o perspectivă unică asupra orașului.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        0.481853,
-                        44.849879
-                  ]
-            },
-            {
-                  "name": "Biserica Notre-Dame",
-                  "text": "O biserică neogotică impunătoare din secolul XIX, al cărei turn domină panorama orașului Bergerac.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.483632,
-                        44.854083
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Statue of Cyrano",
-                  "text": "The iconic statue of Cyrano de Bergerac in Place de la Mirpe, celebrating the city's most famous literary hero.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.483211,
-                        44.851317
-                  ]
-            },
-            {
-                  "name": "Wine House of Bergerac",
-                  "text": "Housed in a beautiful 17th-century cloister, this center is dedicated to the prestigious wines of Bergerac.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        0.482898,
-                        44.850049
-                  ]
-            },
-            {
-                  "name": "Gabarres de Bergerac",
-                  "text": "Traditional wooden boats that take visitors on scenic tours along the Dordogne River through the valley.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        0.481853,
-                        44.849879
-                  ]
-            },
-            {
-                  "name": "Notre-Dame Church",
-                  "text": "A massive 19th-century Neo-Gothic church whose 80-meter spire is a landmark visible from across the city.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        0.483632,
-                        44.854083
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Statue de Cyrano",
-                  "text": "Hommage au célèbre héros de Rostand, soulignant le charme historique de la place de la Mirpe.",
-                  "category": "historical",
-                  "coords": [
-                        0.483211,
-                        44.851317
-                  ]
-            },
-            {
-                  "name": "Maison des Vins",
-                  "text": "Ancien couvent des Récollets du XVIIe siècle où sont présentés les vins de la région.",
-                  "category": "culinary",
-                  "coords": [
-                        0.482898,
-                        44.850049
-                  ]
-            },
-            {
-                  "name": "Gabarres de Bergerac",
-                  "text": "Bateaux traditionnels proposant des croisières sur la Dordogne pour admirer la ville au fil de l'eau.",
-                  "category": "recreational",
-                  "coords": [
-                        0.481853,
-                        44.849879
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "Église néogothique du XIXe siècle, dont le clocher de 80 mètres domine le paysage urbain de Bergerac.",
-                  "category": "religious",
-                  "coords": [
-                        0.483632,
-                        44.854083
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Cyrano-Statue", "text": "Denkmal für den berühmten Helden von Rostand, das den Charme des historischen Place de la Mirpe unterstreicht.", "category": "historical", "confidence": "high", "coords": [0.483211, 44.851317]}, {"name": "Maison des Vins", "text": "Ein ehemaliges Franziskanerkloster aus dem 17. Jahrhundert, in dem heute die Weine der Region präsentiert werden.", "category": "culinary", "confidence": "high", "coords": [0.482898, 44.850049]}, {"name": "Gabarres de Bergerac", "text": "Traditionelle Boote, die Rundfahrten auf der Dordogne anbieten und einen Blick auf die Stadt vom Wasser ermöglichen.", "category": "recreational", "confidence": "high", "coords": [0.481853, 44.849879]}, {"name": "Kirche Notre-Dame", "text": "Die Kirche Notre-Dame ist ein eindrucksvolles neugotisches Bauwerk aus dem 19. Jahrhundert in Bergerac. Mit ihrem 80 Meter hohen Turm prägt dieses sakrale Gebäude majestätisch das Stadtbild. Besucher können hier eine bedeutende religiöse Stätte in Frankreich bewundern.", "category": "religious", "confidence": "high", "coords": [0.483632, 44.854083]}, {"name": "Parc Public Naturel de Pombonne", "text": "Parc Public Naturel de Pombonne ist ein Wasserpark in Bergerac. Ein toller Ort für familiären Wasserspaß.", "category": "family", "coords": [0.494461, 44.870517]}, {"name": "piscine", "text": "piscine ist ein Schwimmbad in Bergerac. Besucher können hier ein erfrischendes Bad nehmen.", "category": "family", "coords": [0.494641, 44.848536]}, {"name": "L'Aqualud", "text": "L'Aqualud ist ein Wasserpark in Bergerac. Ein toller Ort für familiären Wasserspaß.", "category": "family", "coords": [0.470331, 44.825673]}], "hu": [{"name": "Cyrano szobor", "text": "Cyrano de Bergerac híres szobra a Place de la Mirpe téren, amely a város irodalmi legendájának állít emléket.", "category": "historical", "confidence": "high", "coords": [0.483211, 44.851317]}, {"name": "Borok háza", "text": "Egy 17. századi egykori kolostorban működő borok háza, ahol megismerhetők a vidék híres borai.", "category": "culinary", "confidence": "high", "coords": [0.482898, 44.850049]}, {"name": "Gabarres de Bergerac", "text": "Hagyományos folyami hajók a Dordogne-on, amelyekről gyönyörű kilátás nyílik a városra és a természetre.", "category": "recreational", "confidence": "high", "coords": [0.481853, 44.849879]}, {"name": "Notre-Dame templom", "text": "A Kirche Notre-Dame egy lenyűgöző, 19. századi neogótikus építmény Bergerac városában. 80 méter magas tornyával ez a vallási épület meghatározza a település látképét. A látogatók egy jelentős franciaországi szakrális helyszínt fedezhetnek fel itt.", "category": "religious", "confidence": "high", "coords": [0.483632, 44.854083]}, {"name": "Parc Public Naturel de Pombonne", "text": "A Parc Public Naturel de Pombonne egy vízi vidámpark Bergerac-ban. Remek hely családi vízi szórakozáshoz.", "category": "family", "coords": [0.494461, 44.870517]}, {"name": "piscine", "text": "A piscine egy uszoda Bergerac-ban. A látogatók itt frissítő úszást élvezhetnek.", "category": "family", "coords": [0.494641, 44.848536]}, {"name": "L'Aqualud", "text": "A L'Aqualud egy vízi vidámpark Bergerac-ban. Remek hely családi vízi szórakozáshoz.", "category": "family", "coords": [0.470331, 44.825673]}], "ro": [{"name": "Statuia lui Cyrano", "text": "Celebra statuie a lui Cyrano de Bergerac din Piața Mirpe, un omagiu adus legendarului personaj literar.", "category": "historical", "confidence": "high", "coords": [0.483211, 44.851317]}, {"name": "Maison des Vins", "text": "Situată într-o mănăstire din secolul XVII, această casă a vinurilor oferă degustări din podgoriile locale.", "category": "culinary", "confidence": "high", "coords": [0.482898, 44.850049]}, {"name": "Gabarres de Bergerac", "text": "Ambarcațiuni tradiționale care oferă plimbări pe râul Dordogne, oferind o perspectivă unică asupra orașului.", "category": "recreational", "confidence": "high", "coords": [0.481853, 44.849879]}, {"name": "Biserica Notre-Dame", "text": "Biserica Notre-Dame este un impresionant edificiu neogotic din secolul al XIX-lea în Bergerac. Cu turnul său de 80 de metri înălțime, această clădire religioasă domină peisajul urban. Vizitatorii pot admira aici un lăcaș de cult important din Franța.", "category": "religious", "confidence": "high", "coords": [0.483632, 44.854083]}, {"name": "Parc Public Naturel de Pombonne", "text": "Parc Public Naturel de Pombonne este un parc acvatic în Bergerac. Un loc minunat pentru distracție în apă în familie.", "category": "family", "coords": [0.494461, 44.870517]}, {"name": "piscine", "text": "piscine este o piscină în Bergerac. Vizitatorii se pot bucura de o baie răcoritoare aici.", "category": "family", "coords": [0.494641, 44.848536]}, {"name": "L'Aqualud", "text": "L'Aqualud este un parc acvatic în Bergerac. Un loc minunat pentru distracție în apă în familie.", "category": "family", "coords": [0.470331, 44.825673]}], "en": [{"name": "Statue of Cyrano", "text": "The iconic statue of Cyrano de Bergerac in Place de la Mirpe, celebrating the city's most famous literary hero.", "category": "historical", "confidence": "high", "coords": [0.483211, 44.851317]}, {"name": "Wine House of Bergerac", "text": "Housed in a beautiful 17th-century cloister, this center is dedicated to the prestigious wines of Bergerac.", "category": "culinary", "confidence": "high", "coords": [0.482898, 44.850049]}, {"name": "Gabarres de Bergerac", "text": "Traditional wooden boats that take visitors on scenic tours along the Dordogne River through the valley.", "category": "recreational", "confidence": "high", "coords": [0.481853, 44.849879]}, {"name": "Notre-Dame Church", "text": "The Kirche Notre-Dame is an impressive 19th-century neo-gothic structure in Bergerac. With its 80-meter-high tower, this religious building majestically shapes the cityscape. Visitors can admire a significant sacred site in France here.", "category": "religious", "confidence": "high", "coords": [0.483632, 44.854083]}, {"name": "Parc Public Naturel de Pombonne", "text": "Parc Public Naturel de Pombonne is a water park in Bergerac. A great place for family water fun.", "category": "family", "coords": [0.494461, 44.870517]}, {"name": "piscine", "text": "piscine is a swimming pool in Bergerac. Visitors can enjoy a refreshing swim here.", "category": "family", "coords": [0.494641, 44.848536]}, {"name": "L'Aqualud", "text": "L'Aqualud is a water park in Bergerac. A great place for family water fun.", "category": "family", "coords": [0.470331, 44.825673]}], "fr": [{"name": "Statue de Cyrano", "text": "Hommage au célèbre héros de Rostand, soulignant le charme historique de la place de la Mirpe.", "category": "historical", "coords": [0.483211, 44.851317]}, {"name": "Maison des Vins", "text": "Ancien couvent des Récollets du XVIIe siècle où sont présentés les vins de la région.", "category": "culinary", "coords": [0.482898, 44.850049]}, {"name": "Gabarres de Bergerac", "text": "Bateaux traditionnels proposant des croisières sur la Dordogne pour admirer la ville au fil de l'eau.", "category": "recreational", "coords": [0.481853, 44.849879]}, {"name": "Église Notre-Dame", "text": "L'église Notre-Dame est un impressionnant édifice néogothique du XIXe siècle à Bergerac. Avec sa tour de 80 mètres de haut, ce bâtiment religieux façonne majestueusement le paysage urbain. Les visiteurs peuvent y admirer un site sacré majeur de la ville.", "category": "religious", "coords": [0.483632, 44.854083]}]}
   },
   {
     id: "colmar", population: 71445,
@@ -42658,6 +37800,15 @@ const citySeeds: CitySeed[] = [
                         7.35671,
                         48.074
                   ]
+            },
+            {
+                  "name": "Okidok",
+                  "text": "Okidok in Colmar ist ein Indoor-Spielplatz, der Kindern viele Möglichkeiten zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.369499,
+                        48.09649
+                  ]
             }
       ],
       "hu": [
@@ -42779,6 +37930,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.35817,
                         48.077
+                  ]
+            },
+            {
+                  "name": "Okidok",
+                  "text": "A colmari Okidok egy beltéri játszóház, amely számos lehetőséget kínál a gyerekeknek a játékra és a mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        7.369499,
+                        48.09649
                   ]
             }
       ],
@@ -42912,6 +38072,15 @@ const citySeeds: CitySeed[] = [
                         7.35671,
                         48.074
                   ]
+            },
+            {
+                  "name": "Okidok",
+                  "text": "Okidok din Colmar este un loc de joacă interior care oferă copiilor multe oportunități de a se juca și a se mișca.",
+                  "category": "family",
+                  "coords": [
+                        7.369499,
+                        48.09649
+                  ]
             }
       ],
       "en": [
@@ -43043,6 +38212,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.35671,
                         48.074
+                  ]
+            },
+            {
+                  "name": "Okidok",
+                  "text": "Okidok in Colmar is an indoor playground offering children many opportunities to play and move around.",
+                  "category": "family",
+                  "coords": [
+                        7.369499,
+                        48.09649
                   ]
             }
       ],
@@ -43518,6 +38696,15 @@ const citySeeds: CitySeed[] = [
                         6.16939,
                         49.35649
                   ]
+            },
+            {
+                  "name": "Piscine Municipale",
+                  "text": "Piscine Municipale ist ein Wasserpark in Thionville. Ein toller Ort für familiären Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        6.161719,
+                        49.367477
+                  ]
             }
       ],
       "hu": [
@@ -43559,6 +38746,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.16939,
                         49.35649
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale",
+                  "text": "A Piscine Municipale egy vízi vidámpark Thionville-ben. Remek hely családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.161719,
+                        49.367477
                   ]
             }
       ],
@@ -43602,6 +38798,15 @@ const citySeeds: CitySeed[] = [
                         6.16939,
                         49.35649
                   ]
+            },
+            {
+                  "name": "Piscine Municipale",
+                  "text": "Piscine Municipale este un parc acvatic în Thionville. Un loc minunat pentru distracție în apă în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.161719,
+                        49.367477
+                  ]
             }
       ],
       "en": [
@@ -43643,6 +38848,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.16939,
                         49.35649
+                  ]
+            },
+            {
+                  "name": "Piscine Municipale",
+                  "text": "Piscine Municipale is a water park in Thionville. A great place for family water fun.",
+                  "category": "family",
+                  "coords": [
+                        6.161719,
+                        49.367477
                   ]
             }
       ],
@@ -43951,6 +39165,15 @@ const citySeeds: CitySeed[] = [
                         4.688762,
                         49.764868
                   ]
+            },
+            {
+                  "name": "Parc Animalier",
+                  "text": "Dieser Tierpark in Charleville-Mézières ist ein wunderbares Ziel für einen entspannten Familienspaziergang in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        4.780531,
+                        49.772835
+                  ]
             }
       ],
       "hu": [
@@ -44183,6 +39406,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.688762,
                         49.764868
+                  ]
+            },
+            {
+                  "name": "Parc Animalier",
+                  "text": "Ez a Charleville-Mézières-i állatpark csodálatos úti cél egy pihentető családi sétához a természetben.",
+                  "category": "family",
+                  "coords": [
+                        4.780531,
+                        49.772835
                   ]
             }
       ],
@@ -44417,6 +39649,15 @@ const citySeeds: CitySeed[] = [
                         4.688762,
                         49.764868
                   ]
+            },
+            {
+                  "name": "Parc Animalier",
+                  "text": "Acest parc de animale din Charleville-Mézières este o destinație minunată pentru o plimbare relaxantă în familie în natură.",
+                  "category": "family",
+                  "coords": [
+                        4.780531,
+                        49.772835
+                  ]
             }
       ],
       "en": [
@@ -44649,6 +39890,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.688762,
                         49.764868
+                  ]
+            },
+            {
+                  "name": "Parc Animalier",
+                  "text": "This animal park in Charleville-Mézières is a wonderful destination for a relaxed family walk in nature.",
+                  "category": "family",
+                  "coords": [
+                        4.780531,
+                        49.772835
                   ]
             }
       ],
@@ -44893,6 +40143,15 @@ const citySeeds: CitySeed[] = [
                         -1.642683,
                         49.625419
                   ]
+            },
+            {
+                  "name": "Piscine aux Allemands",
+                  "text": "Piscine aux Allemands ist ein Schwimmbad in Cherbourg En Cotentin für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.674282,
+                        49.605747
+                  ]
             }
       ],
       "hu": [
@@ -45034,6 +40293,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.642683,
                         49.625419
+                  ]
+            },
+            {
+                  "name": "Piscine aux Allemands",
+                  "text": "A Piscine aux Allemands egy úszómedence Cherbourg En Cotentin városában, amely alkalmas családi programokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.674282,
+                        49.605747
                   ]
             }
       ],
@@ -45177,6 +40445,15 @@ const citySeeds: CitySeed[] = [
                         -1.642683,
                         49.625419
                   ]
+            },
+            {
+                  "name": "Piscine aux Allemands",
+                  "text": "Piscine aux Allemands este o piscină în Cherbourg En Cotentin potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.674282,
+                        49.605747
+                  ]
             }
       ],
       "en": [
@@ -45319,6 +40596,15 @@ const citySeeds: CitySeed[] = [
                         -1.642683,
                         49.625419
                   ]
+            },
+            {
+                  "name": "Piscine aux Allemands",
+                  "text": "Piscine aux Allemands is a swimming pool in Cherbourg En Cotentin for family-friendly activities.",
+                  "category": "family",
+                  "coords": [
+                        -1.674282,
+                        49.605747
+                  ]
             }
       ],
       "fr": [
@@ -45412,312 +40698,7 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus ancienne station balnéaire de France, fondée en 1824", "Lieu principal de l'Opération Jubilee le 19 août 1942", "Le musée du château possède une collection d'ivoires de renommée mondiale", "Premier port français pour la coquille Saint-Jacques", "Point de départ de la colonisation de la Nouvelle-France (Canada)", "Hôte du plus grand festival international de cerf-volant"],
     },
     image: "/poi-images/dieppe.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Château de Dieppe",
-                  "text": "Eine imposante Burg auf den Klippen, die heute ein Museum mit einer berühmten Elfenbeinsammlung beherbergt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.07026,
-                        49.92473
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jacques",
-                  "text": "Eine prächtige gotische Kirche, die eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela ist.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.078503,
-                        49.925558
-                  ]
-            },
-            {
-                  "name": "Estran Cité de la Mer",
-                  "text": "Ein Meereszentrum, das sich mit Fischerei, Schiffbau und der maritimen Umwelt der Küste befasst.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.0836,
-                        49.9304
-                  ]
-            },
-            {
-                  "name": "Plage de Dieppe",
-                  "text": "Ein langer Kiesstrand, der von weißen Kreidefelsen gesäumt wird und für sein internationales Drachenfestival bekannt ist.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.0753,
-                        49.92914
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bonsecours",
-                  "text": "Eine Kapelle auf den Klippen, die den Seeleuten gewidmet ist und einen herrlichen Blick auf die Stadt bietet.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.083956,
-                        49.928745
-                  ]
-            },
-            {
-                  "name": "Pont Colbert",
-                  "text": "Die letzte große Drehbrücke Europas aus dem 19. Jahrhundert, die noch mit ihrem ursprünglichen hydraulischen System funktioniert.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.085139,
-                        49.927268
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Château de Dieppe",
-                  "text": "A sziklákon magasodó impozáns várkastély, amelyben várostörténeti múzeum és híres elefántcsont-gyűjtemény található.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.07026,
-                        49.92473
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jacques",
-                  "text": "Pompás gótikus templom, amely fontos megállóhely a Szent Jakab-úton a zarándokok számára.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.078503,
-                        49.925558
-                  ]
-            },
-            {
-                  "name": "Estran Cité de la Mer",
-                  "text": "Tengerészeti központ, amely a halászatot, a hajóépítést és a tengeri élővilágot mutatja be interaktív módon.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.0836,
-                        49.9304
-                  ]
-            },
-            {
-                  "name": "Plage de Dieppe",
-                  "text": "Hosszú kavicsos tengerpart fehér kréta sziklákkal övezve, amely a nemzetközi sárkányeregető fesztivál helyszíne.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.0753,
-                        49.92914
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bonsecours",
-                  "text": "A sziklafalon álló kápolna a tengerészek emlékére, ahonnan lenyűgöző panoráma nyílik Dieppe városára.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.083956,
-                        49.928745
-                  ]
-            },
-            {
-                  "name": "Pont Colbert",
-                  "text": "Európa utolsó nagy 19. századi forgóhídja, amely ma is az eredeti hidraulikus rendszerrel működik.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.085139,
-                        49.927268
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Château de Dieppe",
-                  "text": "Castel impunător situat pe faleză, adăpostind un muzeu cu o faimoasă colecție de sculpturi în fildeș.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.07026,
-                        49.92473
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jacques",
-                  "text": "Biserică gotică superbă, un punct de reper istoric și religios important pe drumul pelerinilor spre Santiago.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.078503,
-                        49.925558
-                  ]
-            },
-            {
-                  "name": "Estran Cité de la Mer",
-                  "text": "Centru de descoperire maritimă axat pe pescuit, navigație și protejarea ecosistemelor litorale.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.0836,
-                        49.9304
-                  ]
-            },
-            {
-                  "name": "Plage de Dieppe",
-                  "text": "Plajă extinsă de pietriș flancată de stânci de cretă, celebră pentru Festivalul Internațional de Zmeie.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.0753,
-                        49.92914
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bonsecours",
-                  "text": "Capelă pitorească pe vârful stâncii, dedicată marinarilor, oferind o priveliște superbă asupra coastei.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.083956,
-                        49.928745
-                  ]
-            },
-            {
-                  "name": "Pont Colbert",
-                  "text": "Ultimul pod pivotant mare din Europa, o capodoperă a ingineriei hidraulice de la sfârșitul secolului XIX.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.085139,
-                        49.927268
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Château de Dieppe",
-                  "text": "A fortified castle on the cliffs housing a museum with a renowned collection of ivory carvings and maritime history.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.07026,
-                        49.92473
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jacques",
-                  "text": "A magnificent Gothic church that serves as a historic stop for pilgrims on the Way of Saint James.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.078503,
-                        49.925558
-                  ]
-            },
-            {
-                  "name": "Estran Cité de la Mer",
-                  "text": "A maritime discovery center focusing on fishing, shipbuilding, and the sea life of the Channel coast.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.0836,
-                        49.9304
-                  ]
-            },
-            {
-                  "name": "Plage de Dieppe",
-                  "text": "A long pebble beach framed by white chalk cliffs, famous for hosting the International Kite Festival.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.0753,
-                        49.92914
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bonsecours",
-                  "text": "A cliffside chapel dedicated to lost sailors, offering one of the best viewpoints over the town and harbor.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.083956,
-                        49.928745
-                  ]
-            },
-            {
-                  "name": "Pont Colbert",
-                  "text": "The last large swing bridge in Europe to still operate with its original 19th-century hydraulic system.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.085139,
-                        49.927268
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Château de Dieppe",
-                  "text": "Forteresse imposante sur les falaises abritant un musée avec une célèbre collection d'ivoires.",
-                  "category": "museum",
-                  "coords": [
-                        1.07026,
-                        49.92473
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jacques",
-                  "text": "Somptueuse église gothique, étape importante sur le chemin de Saint-Jacques-de-Compostelle.",
-                  "category": "religious",
-                  "coords": [
-                        1.078503,
-                        49.925558
-                  ]
-            },
-            {
-                  "name": "Estran Cité de la Mer",
-                  "text": "Centre maritime dédié à la pêche, à la construction navale et à l'environnement marin côtier.",
-                  "category": "museum",
-                  "coords": [
-                        1.0836,
-                        49.9304
-                  ]
-            },
-            {
-                  "name": "Plage de Dieppe",
-                  "text": "Longue plage de galets bordée de falaises blanches, célèbre pour son festival international de cerf-volant.",
-                  "category": "natural",
-                  "coords": [
-                        1.0753,
-                        49.92914
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bonsecours",
-                  "text": "Chapelle située sur les falaises, dédiée aux marins, offrant une vue magnifique sur la ville.",
-                  "category": "religious",
-                  "coords": [
-                        1.083956,
-                        49.928745
-                  ]
-            },
-            {
-                  "name": "Pont Colbert",
-                  "text": "Dernier grand pont tournant d'Europe du XIXe siècle, fonctionnant toujours avec son mécanisme hydraulique d'origine.",
-                  "category": "historical",
-                  "coords": [
-                        1.085139,
-                        49.927268
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Château de Dieppe", "text": "Eine imposante Burg auf den Klippen, die heute ein Museum mit einer berühmten Elfenbeinsammlung beherbergt.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Eine prächtige gotische Kirche, die eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela ist.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Ein Meereszentrum, das sich mit Fischerei, Schiffbau und der maritimen Umwelt der Küste befasst.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Umrahmt von markanten weißen Kreidefelsen, bietet der ausgedehnte Kiesstrand von Dieppe ein dramatisches und atemberaubendes Küstenpanorama. Die Meeresbrise verleiht dem Ufer eine dynamische Energie, die unter anderem das berühmte internationale Drachenfestival beflügelt. Ein Spaziergang über die charakteristischen Kieselsteine oder der bloße Blick in den drachenerfüllten Himmel bieten ein höchst einzigartiges Stranderlebnis. Festes Schuhwerk ist eine kluge Wahl bei der Erkundung dieser bemerkenswerten Küste.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Eine Kapelle auf den Klippen, die den Seeleuten gewidmet ist und einen herrlichen Blick auf die Stadt bietet.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Die letzte große Drehbrücke Europas aus dem 19. Jahrhundert, die noch mit ihrem ursprünglichen hydraulischen System funktioniert.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains ist ein Schwimmbad in Dieppe. Besucher können hier ein erfrischendes Bad nehmen.", "category": "family", "coords": [1.07105, 49.926667]}], "hu": [{"name": "Château de Dieppe", "text": "A sziklákon magasodó impozáns várkastély, amelyben várostörténeti múzeum és híres elefántcsont-gyűjtemény található.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Pompás gótikus templom, amely fontos megállóhely a Szent Jakab-úton a zarándokok számára.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Tengerészeti központ, amely a halászatot, a hajóépítést és a tengeri élővilágot mutatja be interaktív módon.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "A lenyűgöző fehér krétasziklákkal szegélyezett, kiterjedt dieppe-i kavicsos strand drámai és lélegzetelállító partvidéki panorámát nyújt. A tengeri szellő dinamikus energiát hoz a partra, amely egy híres színes nemzetközi sárkányfesztiválnak ad otthont. A jellegzetes kavicsokon sétálni, vagy egyszerűen csak a sárkányokkal teli eget nézni rendkívül egyedi tengerparti élményt nyújt. Érdemes masszív lábbelit választani e figyelemre méltó vízpart felfedezéséhez.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "A sziklafalon álló kápolna a tengerészek emlékére, ahonnan lenyűgöző panoráma nyílik Dieppe városára.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Európa utolsó nagy 19. századi forgóhídja, amely ma is az eredeti hidraulikus rendszerrel működik.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "A Les Bains egy uszoda Dieppe-ben. A látogatók itt frissítő úszást élvezhetnek.", "category": "family", "coords": [1.07105, 49.926667]}], "ro": [{"name": "Château de Dieppe", "text": "Castel impunător situat pe faleză, adăpostind un muzeu cu o faimoasă colecție de sculpturi în fildeș.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Biserică gotică superbă, un punct de reper istoric și religios important pe drumul pelerinilor spre Santiago.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Centru de descoperire maritimă axat pe pescuit, navigație și protejarea ecosistemelor litorale.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Mărginită de stânci albe izbitoare din cretă, plaja extinsă cu pietriș din Dieppe prezintă o panoramă de coastă dramatică și uluitoare. Briza de coastă aduce o energie dinamică țărmului, găzduind în mod faimos un festival internațional de zmee plin de culoare. Mersul pe pietricelele distincte sau pur și simplu privind cerul plin de zmee oferă o experiență extrem de unică pe litoral. Încălțămintea robustă este o alegere rațională atunci când explorați acest mal remarcabil.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Capelă pitorească pe vârful stâncii, dedicată marinarilor, oferind o priveliște superbă asupra coastei.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Ultimul pod pivotant mare din Europa, o capodoperă a ingineriei hidraulice de la sfârșitul secolului XIX.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains este o piscină în Dieppe. Vizitatorii se pot bucura de o baie răcoritoare aici.", "category": "family", "coords": [1.07105, 49.926667]}], "en": [{"name": "Château de Dieppe", "text": "A fortified castle on the cliffs housing a museum with a renowned collection of ivory carvings and maritime history.", "category": "museum", "confidence": "high", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "A magnificent Gothic church that serves as a historic stop for pilgrims on the Way of Saint James.", "category": "religious", "confidence": "high", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "A maritime discovery center focusing on fishing, shipbuilding, and the sea life of the Channel coast.", "category": "museum", "confidence": "high", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Bordered by striking white chalk cliffs, the expansive pebble beach of Dieppe presents a dramatic and breathtaking coastal panorama. The coastal breeze brings a dynamic energy to the shore, famously hosting a colorful international kite festival. Walking along the distinct pebbles or simply watching the sky filled with kites provides a highly unique seaside experience. Sturdy footwear is a sensible choice when exploring this remarkable waterfront.", "category": "natural", "confidence": "high", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "A cliffside chapel dedicated to lost sailors, offering one of the best viewpoints over the town and harbor.", "category": "religious", "confidence": "high", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "The last large swing bridge in Europe to still operate with its original 19th-century hydraulic system.", "category": "historical", "confidence": "high", "coords": [1.085139, 49.927268]}, {"name": "Les Bains", "text": "Les Bains is a swimming pool in Dieppe. Visitors can enjoy a refreshing swim here.", "category": "family", "coords": [1.07105, 49.926667]}], "fr": [{"name": "Château de Dieppe", "text": "Forteresse imposante sur les falaises abritant un musée avec une célèbre collection d'ivoires.", "category": "museum", "coords": [1.07026, 49.92473]}, {"name": "Église Saint-Jacques", "text": "Somptueuse église gothique, étape importante sur le chemin de Saint-Jacques-de-Compostelle.", "category": "religious", "coords": [1.078503, 49.925558]}, {"name": "Estran Cité de la Mer", "text": "Centre maritime dédié à la pêche, à la construction navale et à l'environnement marin côtier.", "category": "museum", "coords": [1.0836, 49.9304]}, {"name": "Plage de Dieppe", "text": "Bordée de falaises de craie blanche saisissantes, la vaste plage de galets de Dieppe présente un panorama côtier dramatique et à couper le souffle. La brise côtière apporte une énergie dynamique au rivage, qui accueille d'ailleurs un célèbre festival international de cerfs-volants. Marcher sur ces galets caractéristiques ou simplement regarder le ciel rempli de cerfs-volants offre une expérience balnéaire tout à fait unique. Des chaussures robustes sont un choix judicieux pour explorer ce front de mer remarquable.", "category": "natural", "coords": [1.0753, 49.92914]}, {"name": "Notre-Dame de Bonsecours", "text": "Chapelle située sur les falaises, dédiée aux marins, offrant une vue magnifique sur la ville.", "category": "religious", "coords": [1.083956, 49.928745]}, {"name": "Pont Colbert", "text": "Dernier grand pont tournant d'Europe du XIXe siècle, fonctionnant toujours avec son mécanisme hydraulique d'origine.", "category": "historical", "coords": [1.085139, 49.927268]}]}
   },
   {
     id: "evreux", population: 51560,
@@ -46176,6 +41157,24 @@ const citySeeds: CitySeed[] = [
                         2.77778,
                         50.2909
                   ]
+            },
+            {
+                  "name": "Riverside Park",
+                  "text": "Riverside Park ist ein Wasserpark in Arras mit verschiedenen Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        2.804205,
+                        50.298
+                  ]
+            },
+            {
+                  "name": "Bassin Sportif de 25 M",
+                  "text": "Bassin Sportif de 25 M ist ein Schwimmbad in Arras für Schwimmbegeisterte und Familien.",
+                  "category": "family",
+                  "coords": [
+                        2.781071,
+                        50.298284
+                  ]
             }
       ],
       "hu": [
@@ -46237,6 +41236,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.77778,
                         50.2909
+                  ]
+            },
+            {
+                  "name": "Riverside Park",
+                  "text": "A Riverside Park egy vízipark Arras városában, amely számos élményt kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.804205,
+                        50.298
+                  ]
+            },
+            {
+                  "name": "Bassin Sportif de 25 M",
+                  "text": "A Bassin Sportif de 25 M egy úszómedence Arras városában, amely alkalmas családi úszásra is.",
+                  "category": "family",
+                  "coords": [
+                        2.781071,
+                        50.298284
                   ]
             }
       ],
@@ -46300,6 +41317,24 @@ const citySeeds: CitySeed[] = [
                         2.77778,
                         50.2909
                   ]
+            },
+            {
+                  "name": "Riverside Park",
+                  "text": "Riverside Park este un parc acvatic în Arras cu diverse atracții pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.804205,
+                        50.298
+                  ]
+            },
+            {
+                  "name": "Bassin Sportif de 25 M",
+                  "text": "Bassin Sportif de 25 M este o piscină în Arras potrivită pentru înot și activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        2.781071,
+                        50.298284
+                  ]
             }
       ],
       "en": [
@@ -46361,6 +41396,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.77778,
                         50.2909
+                  ]
+            },
+            {
+                  "name": "Riverside Park",
+                  "text": "Riverside Park is a water park in Arras with attractions for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        2.804205,
+                        50.298
+                  ]
+            },
+            {
+                  "name": "Bassin Sportif de 25 M",
+                  "text": "Bassin Sportif de 25 M is a swimming pool in Arras offering space for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        2.781071,
+                        50.298284
                   ]
             }
       ],
@@ -47071,7 +42124,160 @@ const citySeeds: CitySeed[] = [
 }
   },
   {
-    id: "lens",
+    id: "lens", "sights": {
+      "de": [
+            {
+                  "name": "Parc des Glissoires Ch' ti Parc",
+                  "text": "Parc des Glissoires Ch' ti Parc ist ein Freizeitpark in Lens für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        2.831386,
+                        50.416297
+                  ]
+            },
+            {
+                  "name": "Loos Parc",
+                  "text": "Loos Parc ist ein Freizeitpark in Lens mit Unterhaltung für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        2.797985,
+                        50.447661
+                  ]
+            },
+            {
+                  "name": "Zoo du Parc des Cytises",
+                  "text": "Zoo du Parc des Cytises ist ein Zoo in Lens, der Familien die Tierwelt näher bringt.",
+                  "category": "family",
+                  "coords": [
+                        2.823067,
+                        50.463489
+                  ]
+            },
+            {
+                  "name": "Les Loupiots",
+                  "text": "Les Loupiots ist ein Freizeitpark in Lens, der speziell auf Familien ausgerichtet ist.",
+                  "category": "family",
+                  "coords": [
+                        2.817979,
+                        50.454056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc des Glissoires Ch' ti Parc",
+                  "text": "A Parc des Glissoires Ch' ti Parc egy vidámpark Lens városában, amely remek családi program.",
+                  "category": "family",
+                  "coords": [
+                        2.831386,
+                        50.416297
+                  ]
+            },
+            {
+                  "name": "Loos Parc",
+                  "text": "A Loos Parc egy vidámpark Lens városában, amely szórakozást nyújt gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        2.797985,
+                        50.447661
+                  ]
+            },
+            {
+                  "name": "Zoo du Parc des Cytises",
+                  "text": "A Zoo du Parc des Cytises egy állatkert Lens városában, amely bemutatja az állatvilágot a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        2.823067,
+                        50.463489
+                  ]
+            },
+            {
+                  "name": "Les Loupiots",
+                  "text": "A Les Loupiots egy vidámpark Lens városában, amely kifejezetten családoknak szól.",
+                  "category": "family",
+                  "coords": [
+                        2.817979,
+                        50.454056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc des Glissoires Ch' ti Parc",
+                  "text": "Parc des Glissoires Ch' ti Parc este un parc de distracții în Lens pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        2.831386,
+                        50.416297
+                  ]
+            },
+            {
+                  "name": "Loos Parc",
+                  "text": "Loos Parc este un parc de distracții în Lens cu activități pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        2.797985,
+                        50.447661
+                  ]
+            },
+            {
+                  "name": "Zoo du Parc des Cytises",
+                  "text": "Zoo du Parc des Cytises este o grădină zoologică în Lens care apropie familiile de lumea animală.",
+                  "category": "family",
+                  "coords": [
+                        2.823067,
+                        50.463489
+                  ]
+            },
+            {
+                  "name": "Les Loupiots",
+                  "text": "Les Loupiots este un parc de distracții în Lens creat special pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        2.817979,
+                        50.454056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc des Glissoires Ch' ti Parc",
+                  "text": "Parc des Glissoires Ch' ti Parc is a theme park in Lens perfect for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        2.831386,
+                        50.416297
+                  ]
+            },
+            {
+                  "name": "Loos Parc",
+                  "text": "Loos Parc is a theme park in Lens offering entertainment for children and parents.",
+                  "category": "family",
+                  "coords": [
+                        2.797985,
+                        50.447661
+                  ]
+            },
+            {
+                  "name": "Zoo du Parc des Cytises",
+                  "text": "Zoo du Parc des Cytises is a zoo in Lens where families can explore the animal world.",
+                  "category": "family",
+                  "coords": [
+                        2.823067,
+                        50.463489
+                  ]
+            },
+            {
+                  "name": "Les Loupiots",
+                  "text": "Les Loupiots is a theme park in Lens designed for family enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        2.817979,
+                        50.454056
+                  ]
+            }
+      ]
+},
     parent: "FR-HDF",
     coords: [2.8260, 50.4330],
     name: { de: "Lens", hu: "Lens", ro: "Lens", en: "Lens" },
@@ -47223,6 +42429,15 @@ const citySeeds: CitySeed[] = [
                         3.228438,
                         50.185253
                   ]
+            },
+            {
+                  "name": "Village d'Été de l'Aéroplaine",
+                  "text": "Village d'Été de l'Aéroplaine ist ein Freizeitpark in Cambrai. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
+                  "category": "family",
+                  "coords": [
+                        3.264411,
+                        50.145171
+                  ]
             }
       ],
       "hu": [
@@ -47341,6 +42556,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.228438,
                         50.185253
+                  ]
+            },
+            {
+                  "name": "Village d'Été de l'Aéroplaine",
+                  "text": "A Village d'Été de l'Aéroplaine egy vidámpark Cambrai-ban. A családok különféle látványosságokat élvezhetnek itt.",
+                  "category": "family",
+                  "coords": [
+                        3.264411,
+                        50.145171
                   ]
             }
       ],
@@ -47461,6 +42685,15 @@ const citySeeds: CitySeed[] = [
                         3.228438,
                         50.185253
                   ]
+            },
+            {
+                  "name": "Village d'Été de l'Aéroplaine",
+                  "text": "Village d'Été de l'Aéroplaine este un parc tematic în Cambrai. Familiile se pot bucura de o zi plină de atracții aici.",
+                  "category": "family",
+                  "coords": [
+                        3.264411,
+                        50.145171
+                  ]
             }
       ],
       "en": [
@@ -47579,6 +42812,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.228438,
                         50.185253
+                  ]
+            },
+            {
+                  "name": "Village d'Été de l'Aéroplaine",
+                  "text": "Village d'Été de l'Aéroplaine is a theme park in Cambrai. Families can enjoy a day out with various attractions here.",
+                  "category": "family",
+                  "coords": [
+                        3.264411,
+                        50.145171
                   ]
             }
       ]

@@ -103,6 +103,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.414006,
                         59.3072
                   ]
+            },
+            {
+                  "name": "Keila tervisekeskus",
+                  "text": "Das Keila tervisekeskus bietet moderne Einrichtungen für Schwimmen und körperliches Wohlbefinden.",
+                  "category": "family",
+                  "coords": [
+                        24.411861,
+                        59.314696
+                  ]
             }
       ],
       "hu": [
@@ -203,6 +212,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.414006,
                         59.3072
+                  ]
+            },
+            {
+                  "name": "Keila tervisekeskus",
+                  "text": "A Keila tervisekeskus modern létesítményeket kínál az úszáshoz és a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.411861,
+                        59.314696
                   ]
             }
       ],
@@ -305,6 +323,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.414006,
                         59.3072
                   ]
+            },
+            {
+                  "name": "Keila tervisekeskus",
+                  "text": "Keila tervisekeskus oferă facilități moderne pentru înot și bunăstare fizică.",
+                  "category": "family",
+                  "coords": [
+                        24.411861,
+                        59.314696
+                  ]
             }
       ],
       "en": [
@@ -405,6 +432,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.414006,
                         59.3072
+                  ]
+            },
+            {
+                  "name": "Keila tervisekeskus",
+                  "text": "Keila tervisekeskus offers modern facilities for swimming and physical well-being.",
+                  "category": "family",
+                  "coords": [
+                        24.411861,
+                        59.314696
                   ]
             }
       ]
@@ -508,6 +544,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.854987,
                         59.167077
                   ]
+            },
+            {
+                  "name": "Kohila Posti ujumiskoht",
+                  "text": "Kohila Posti ujumiskoht in Kohila ist ein Badebereich für eine Erfrischung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        24.756302,
+                        59.170569
+                  ]
             }
       ],
       "hu": [
@@ -563,6 +608,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.854987,
                         59.167077
+                  ]
+            },
+            {
+                  "name": "Kohila Posti ujumiskoht",
+                  "text": "A Kohila Posti ujumiskoht Kohilában egy fürdőhely a szabadtéri hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        24.756302,
+                        59.170569
                   ]
             }
       ],
@@ -620,6 +674,15 @@ export const estoniaCitiesV2: POI[] = [
                         24.854987,
                         59.167077
                   ]
+            },
+            {
+                  "name": "Kohila Posti ujumiskoht",
+                  "text": "Kohila Posti ujumiskoht din Kohila este o zonă de înot pentru o răcorire în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.756302,
+                        59.170569
+                  ]
             }
       ],
       "en": [
@@ -675,6 +738,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.854987,
                         59.167077
+                  ]
+            },
+            {
+                  "name": "Kohila Posti ujumiskoht",
+                  "text": "Kohila Posti ujumiskoht in Kohila is a swimming area for an outdoor cooling dip.",
+                  "category": "family",
+                  "coords": [
+                        24.756302,
+                        59.170569
                   ]
             }
       ]
@@ -949,6 +1021,69 @@ export const estoniaCitiesV2: POI[] = [
                         24.608938,
                         58.386876
                   ]
+            },
+            {
+                  "name": "Viira ujumiskoht",
+                  "text": "Malerischer Badeplatz in Sindi, ideal für ein erfrischendes Bad im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        24.675856,
+                        58.417785
+                  ]
+            },
+            {
+                  "name": "Sindi väliujula",
+                  "text": "Örtlicher Badeplatz im Freien in Sindi für sommerliche Erholung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        24.664183,
+                        58.413706
+                  ]
+            },
+            {
+                  "name": "Sindi Sõpruse pargi ujumiskoht",
+                  "text": "Ruhiger Badeplatz im Sõpruse-Park in Sindi zur Entspannung in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        24.639499,
+                        58.400905
+                  ]
+            },
+            {
+                  "name": "Saialille ujumiskoht",
+                  "text": "Beliebter Badeplatz in Sindi, der Möglichkeiten zum Schwimmen und Abkühlen bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.605479,
+                        58.389057
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Pahke ujumiskoht",
+                  "text": "Badeplatz am Fluss Pärnu in Sindi, ideal für Naturliebhaber und Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        24.609364,
+                        58.381049
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Tammiste Jõekalda ujumiskoht",
+                  "text": "Schöner Badeplatz am Flussufer in Sindi für ein entspanntes Bad im Freien.",
+                  "category": "family",
+                  "coords": [
+                        24.605532,
+                        58.378263
+                  ]
+            },
+            {
+                  "name": "Paikuse Kalda tee ujumiskoht",
+                  "text": "Örtlicher Badeplatz in Sindi, der einen einfachen Zugang zum Wasser ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        24.622845,
+                        58.385413
+                  ]
             }
       ],
       "hu": [
@@ -1013,6 +1148,69 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.608938,
                         58.386876
+                  ]
+            },
+            {
+                  "name": "Viira ujumiskoht",
+                  "text": "Festői fürdőhely Sindi városában, amely ideális egy frissítő csobbanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.675856,
+                        58.417785
+                  ]
+            },
+            {
+                  "name": "Sindi väliujula",
+                  "text": "Helyi szabadtéri fürdőhely Sindi városában a nyári vízparti kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.664183,
+                        58.413706
+                  ]
+            },
+            {
+                  "name": "Sindi Sõpruse pargi ujumiskoht",
+                  "text": "Nyugodt fürdőhely a Sindi Sõpruse parkban a természetbeni kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.639499,
+                        58.400905
+                  ]
+            },
+            {
+                  "name": "Saialille ujumiskoht",
+                  "text": "Népszerű fürdőhely Sindi területén, amely lehetőséget nyújt úszásra és felfrissülésre.",
+                  "category": "family",
+                  "coords": [
+                        24.605479,
+                        58.389057
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Pahke ujumiskoht",
+                  "text": "Fürdőhely a Pärnu-folyónál Sindi városában, ideális a természet kedvelőinek és úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.609364,
+                        58.381049
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Tammiste Jõekalda ujumiskoht",
+                  "text": "Szép folyóparti fürdőhely Sindi városában egy kellemes szabadtéri csobbanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.605532,
+                        58.378263
+                  ]
+            },
+            {
+                  "name": "Paikuse Kalda tee ujumiskoht",
+                  "text": "Helyi fürdőhely Sindi városában, amely könnyű hozzáférést biztosít a vízhez.",
+                  "category": "family",
+                  "coords": [
+                        24.622845,
+                        58.385413
                   ]
             }
       ],
@@ -1079,6 +1277,69 @@ export const estoniaCitiesV2: POI[] = [
                         24.608938,
                         58.386876
                   ]
+            },
+            {
+                  "name": "Viira ujumiskoht",
+                  "text": "Zonă de înot pitorească în Sindi, ideală pentru o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        24.675856,
+                        58.417785
+                  ]
+            },
+            {
+                  "name": "Sindi väliujula",
+                  "text": "Loc de înot local în aer liber în Sindi pentru relaxare de vară la apă.",
+                  "category": "family",
+                  "coords": [
+                        24.664183,
+                        58.413706
+                  ]
+            },
+            {
+                  "name": "Sindi Sõpruse pargi ujumiskoht",
+                  "text": "Loc de înot liniștit în parcul Sõpruse din Sindi pentru relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        24.639499,
+                        58.400905
+                  ]
+            },
+            {
+                  "name": "Saialille ujumiskoht",
+                  "text": "Zonă de înot populară în Sindi, oferind posibilități de scăldat și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        24.605479,
+                        58.389057
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Pahke ujumiskoht",
+                  "text": "Loc de înot pe râul Pärnu în Sindi, ideal pentru iubitorii de natură și înotători.",
+                  "category": "family",
+                  "coords": [
+                        24.609364,
+                        58.381049
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Tammiste Jõekalda ujumiskoht",
+                  "text": "Zonă frumoasă de înot pe malul râului în Sindi pentru o baie relaxantă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        24.605532,
+                        58.378263
+                  ]
+            },
+            {
+                  "name": "Paikuse Kalda tee ujumiskoht",
+                  "text": "Loc de înot local în Sindi, care oferă un acces ușor la apă.",
+                  "category": "family",
+                  "coords": [
+                        24.622845,
+                        58.385413
+                  ]
             }
       ],
       "en": [
@@ -1143,6 +1404,69 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.608938,
                         58.386876
+                  ]
+            },
+            {
+                  "name": "Viira ujumiskoht",
+                  "text": "Scenic swimming area in Sindi, ideal for a refreshing dip in the water.",
+                  "category": "family",
+                  "coords": [
+                        24.675856,
+                        58.417785
+                  ]
+            },
+            {
+                  "name": "Sindi väliujula",
+                  "text": "Local outdoor swimming spot in Sindi for summer recreation by the water.",
+                  "category": "family",
+                  "coords": [
+                        24.664183,
+                        58.413706
+                  ]
+            },
+            {
+                  "name": "Sindi Sõpruse pargi ujumiskoht",
+                  "text": "Quiet swimming spot in Sindi Sõpruse Park for relaxation in nature.",
+                  "category": "family",
+                  "coords": [
+                        24.639499,
+                        58.400905
+                  ]
+            },
+            {
+                  "name": "Saialille ujumiskoht",
+                  "text": "Popular swimming area in Sindi offering opportunities for bathing and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        24.605479,
+                        58.389057
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Pahke ujumiskoht",
+                  "text": "Swimming spot on the Pärnu River in Sindi, ideal for nature lovers and swimmers.",
+                  "category": "family",
+                  "coords": [
+                        24.609364,
+                        58.381049
+                  ]
+            },
+            {
+                  "name": "Pärnu jõe Tammiste Jõekalda ujumiskoht",
+                  "text": "Beautiful riverside swimming area in Sindi for a relaxed outdoor dip.",
+                  "category": "family",
+                  "coords": [
+                        24.605532,
+                        58.378263
+                  ]
+            },
+            {
+                  "name": "Paikuse Kalda tee ujumiskoht",
+                  "text": "Local swimming spot in Sindi providing easy access to the water.",
+                  "category": "family",
+                  "coords": [
+                        24.622845,
+                        58.385413
                   ]
             }
       ]
@@ -1264,6 +1588,15 @@ export const estoniaCitiesV2: POI[] = [
                         26.535832,
                         59.503871
                   ]
+            },
+            {
+                  "name": "Kunda supelranna ujumiskoht",
+                  "text": "Kunda supelranna ujumiskoht in Kunda ist ein Badebereich für Wasserspaß am Strand.",
+                  "category": "family",
+                  "coords": [
+                        26.537348,
+                        59.521615
+                  ]
             }
       ],
       "hu": [
@@ -1337,6 +1670,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         26.535832,
                         59.503871
+                  ]
+            },
+            {
+                  "name": "Kunda supelranna ujumiskoht",
+                  "text": "A Kunda supelranna ujumiskoht Kundában egy fürdőhely a strandoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.537348,
+                        59.521615
                   ]
             }
       ],
@@ -1412,6 +1754,15 @@ export const estoniaCitiesV2: POI[] = [
                         26.535832,
                         59.503871
                   ]
+            },
+            {
+                  "name": "Kunda supelranna ujumiskoht",
+                  "text": "Kunda supelranna ujumiskoht din Kunda este o zonă de scăldat pentru distracție pe plajă.",
+                  "category": "family",
+                  "coords": [
+                        26.537348,
+                        59.521615
+                  ]
             }
       ],
       "en": [
@@ -1485,6 +1836,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         26.535832,
                         59.503871
+                  ]
+            },
+            {
+                  "name": "Kunda supelranna ujumiskoht",
+                  "text": "Kunda supelranna ujumiskoht in Kunda is a swimming area for water fun at the beach.",
+                  "category": "family",
+                  "coords": [
+                        26.537348,
+                        59.521615
                   ]
             }
       ]

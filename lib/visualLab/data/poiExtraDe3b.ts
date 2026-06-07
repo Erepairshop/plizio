@@ -360,6 +360,15 @@ export const poiExtraDe3b: POI[] = [
                         14.328276,
                         51.741129
                   ]
+            },
+            {
+                  "name": "JumpUp TrampolinPark Cottbus",
+                  "text": "Ein actionreiches Ziel für Familien in Cottbus, das zum Springen und Bewegen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        14.309839,
+                        51.718624
+                  ]
             }
       ],
       "hu": [
@@ -636,6 +645,15 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.328276,
                         51.741129
+                  ]
+            },
+            {
+                  "name": "JumpUp TrampolinPark Cottbus",
+                  "text": "Akciódús úticél családok számára Cottbusban, amely ugrálásra és mozgásra hív.",
+                  "category": "family",
+                  "coords": [
+                        14.309839,
+                        51.718624
                   ]
             }
       ],
@@ -914,6 +932,15 @@ export const poiExtraDe3b: POI[] = [
                         14.328276,
                         51.741129
                   ]
+            },
+            {
+                  "name": "JumpUp TrampolinPark Cottbus",
+                  "text": "O destinație plină de acțiune pentru familii în Cottbus, care invită la sărituri și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        14.309839,
+                        51.718624
+                  ]
             }
       ],
       "en": [
@@ -1190,6 +1217,15 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.328276,
                         51.741129
+                  ]
+            },
+            {
+                  "name": "JumpUp TrampolinPark Cottbus",
+                  "text": "An action-packed destination for families in Cottbus that invites jumping and moving.",
+                  "category": "family",
+                  "coords": [
+                        14.309839,
+                        51.718624
                   ]
             }
       ],
@@ -2196,6 +2232,15 @@ export const poiExtraDe3b: POI[] = [
                         14.540469,
                         52.312977
                   ]
+            },
+            {
+                  "name": "SchwimmBahn",
+                  "text": "Das Basen Odkryty in Frankfurt Oder ist ein Schwimmbecken für die Freizeitnutzung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        14.590273,
+                        52.345399
+                  ]
             }
       ],
       "hu": [
@@ -2435,6 +2480,15 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.540469,
                         52.312977
+                  ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "A frankfurti (Odera) Basen Odkryty egy úszómedence szabadtéri szabadidős használatra.",
+                  "category": "family",
+                  "coords": [
+                        14.590273,
+                        52.345399
                   ]
             }
       ],
@@ -2676,6 +2730,15 @@ export const poiExtraDe3b: POI[] = [
                         14.540469,
                         52.312977
                   ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "Basen Odkryty din Frankfurt Oder este o piscină pentru utilizare recreativă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        14.590273,
+                        52.345399
+                  ]
             }
       ],
       "en": [
@@ -2915,6 +2978,15 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.540469,
                         52.312977
+                  ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "The Basen Odkryty in Frankfurt Oder is a swimming pool for outdoor recreational use.",
+                  "category": "family",
+                  "coords": [
+                        14.590273,
+                        52.345399
                   ]
             }
       ],

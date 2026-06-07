@@ -183,52 +183,7 @@ export const romaniaLifeV2: POI[] = [
     image: "/poi-images/romania-rezervatia-tinovul-mohos-life-v2.webp",
   },
   {
-    id: "romania-parcul-natural-balta-mica-a-brailei-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plaja naturală Măgureni",
-                  "text": "Natürlicher Strand im Naturpark Balta Mică a Brăilei.",
-                  "category": "recreational",
-                  "coords": [
-                        27.905396,
-                        44.774535
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plaja naturală Măgureni",
-                  "text": "Természetes strand a Balta Mică a Brăilei Natúrparkban.",
-                  "category": "recreational",
-                  "coords": [
-                        27.905396,
-                        44.774535
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plaja naturală Măgureni",
-                  "text": "Plajă naturală situată în Parcul Natural Balta Mică a Brăilei.",
-                  "category": "recreational",
-                  "coords": [
-                        27.905396,
-                        44.774535
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plaja naturală Măgureni",
-                  "text": "Natural beach located in the Balta Mică a Brăilei Natural Park.",
-                  "category": "recreational",
-                  "coords": [
-                        27.905396,
-                        44.774535
-                  ]
-            }
-      ]
-},
+    id: "romania-parcul-natural-balta-mica-a-brailei-life-v2", "sights": {"de": [{"name": "Plaja naturală Măgureni", "text": "Mitten im Naturpark Balta Mică a Brăilei liegt der unberührte Naturstrand Măgureni. Dieses Refugium verzaubert durch seine wilde Landschaft und lädt zu ruhigen Momenten des Badens fern der Zivilisation ein. Die dichte Naturverbundenheit sorgt für ein außergewöhnlich leises und friedvolles Erlebnis am Wasser. Respektvoller Umgang mit der Flora und Fauna ist hier oberstes Gebot.", "category": "recreational", "coords": [27.905396, 44.774535]}], "hu": [{"name": "Plaja naturală Măgureni", "text": "A Balta Mică a Brăilei Natúrpark szívében fekszik az érintetlen Măgureni természetes strand. Ez a menedék vad tájával varázsol el, és csendes fürdőzős pillanatokra hív a civilizációtól távol. A szoros természetközelség kivételesen csendes és békés élményt biztosít a vízparton. A növény- és állatvilág iránti tiszteletteljes viselkedés itt a legfőbb szabály.", "category": "recreational", "coords": [27.905396, 44.774535]}], "ro": [{"name": "Plaja naturală Măgureni", "text": "În inima Parcului Natural Balta Mică a Brăilei se află plaja naturală neatinsă Măgureni. Acest refugiu încântă prin peisajul său sălbatic și invită la momente liniștite de baie, departe de civilizație. Conexiunea densă cu natura asigură o experiență excepțional de tăcută și pașnică la apă. Comportamentul respectuos față de floră și faună este de o importanță maximă aici.", "category": "recreational", "coords": [27.905396, 44.774535]}], "en": [{"name": "Plaja naturală Măgureni", "text": "In the middle of the Balta Mică a Brăilei Natural Park lies the untouched natural beach of Măgureni. This sanctuary enchants with its wild landscape and invites quiet moments of bathing far from civilization. The profound connection to nature ensures an exceptionally silent and peaceful experience by the water. Respectful treatment of the flora and fauna is the top priority here.", "category": "recreational", "coords": [27.905396, 44.774535]}]},
     type: "park",
     parent: "RO",
     name: { de: "Naturpark Balta Mică a Brăilei", hu: "Kis-Braila-szigeti Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Balta Mică a Brăilei Natural Park" },

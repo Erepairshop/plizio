@@ -1296,52 +1296,7 @@ imageHint: "Belfry of Mons Baroque tower",
     },
     image: "/poi-images/belgium-mons-belfry-history-v2.webp",
 },  {
-    id: "belgium-la-roche-castle-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage de Maboge",
-                  "text": "Badestrand von Maboge nahe Schloss La Roche.",
-                  "category": "recreational",
-                  "coords": [
-                        5.616795,
-                        50.167136
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage de Maboge",
-                  "text": "A maboge-i strand a La Roche kastély közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.616795,
-                        50.167136
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage de Maboge",
-                  "text": "Plaja Maboge lângă Castelul La Roche.",
-                  "category": "recreational",
-                  "coords": [
-                        5.616795,
-                        50.167136
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage de Maboge",
-                  "text": "Maboge Beach near La Roche Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        5.616795,
-                        50.167136
-                  ]
-            }
-      ]
-},
+    id: "belgium-la-roche-castle-history-v2", "sights": {"de": [{"name": "Plage de Maboge", "text": "Der malerische Badestrand Plage de Maboge liegt nahe dem Schloss La Roche an der plätschernden Ourthe. Die natürliche Uferlandschaft bietet an heißen Tagen eine ersehnte Abkühlung in ruhiger Umgebung. Familien und Naturliebhaber schätzen das grüne Umfeld für entspannte Picknicks am Wasser. Es empfiehlt sich, frühzeitig anzureisen, um einen guten Schattenplatz zu sichern.", "category": "recreational", "coords": [5.616795, 50.167136]}], "hu": [{"name": "Plage de Maboge", "text": "A festői Plage de Maboge fürdőstrand a La Roche kastély közelében, a csobogó Ourthe folyó partján fekszik. A természetes partvidék forró napokon vágyott felfrissülést nyújt békés környezetben. A családok és a természet szerelmesei nagyra értékelik a zöldellő vidéket a vízparti piknikezéshez. Érdemes korán érkezni, hogy biztosítsunk egy jó árnyékos helyet.", "category": "recreational", "coords": [5.616795, 50.167136]}], "ro": [{"name": "Plage de Maboge", "text": "Pitoreasca plajă de scăldat Plage de Maboge este situată lângă Castelul La Roche, pe malul râului susurător Ourthe. Peisajul natural al malului oferă o răcorire mult dorită în zilele toride, într-un mediu liniștit. Familiile și iubitorii de natură apreciază mediul verde pentru picnicuri relaxante la malul apei. Este recomandat să sosiți devreme pentru a prinde un loc bun la umbră.", "category": "recreational", "coords": [5.616795, 50.167136]}], "en": [{"name": "Plage de Maboge", "text": "The picturesque bathing beach Plage de Maboge is located near the Castle of La Roche along the babbling Ourthe river. The natural riverbank landscape offers much-needed cooling on hot days in a peaceful setting. Families and nature lovers appreciate the green surroundings for relaxing waterside picnics. Arriving early is recommended to secure a good shaded spot.", "category": "recreational", "coords": [5.616795, 50.167136]}]},
     parent: "BE",
     type: "ruins",
     name: { de: "Burg La Roche-en-Ardenne", hu: "La Roche-en-Ardenne vára", ro: "Castelul La Roche-en-Ardenne", en: "Castle of La Roche-en-Ardenne"},

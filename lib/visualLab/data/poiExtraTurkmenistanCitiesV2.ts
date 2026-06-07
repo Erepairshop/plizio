@@ -2040,52 +2040,7 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-serdar-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
-                  "text": "Ein Museum, das die Geschichte der Stadt Serdar dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        56.276178,
-                        38.977589
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
-                  "text": "Serdar városának történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        56.276178,
-                        38.977589
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
-                  "text": "Un muzeu care documentează istoria orașului Serdar.",
-                  "category": "museum",
-                  "coords": [
-                        56.276178,
-                        38.977589
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gyzylarbat City History Museum",
-                  "text": "A museum documenting the history of the city of Serdar.",
-                  "category": "museum",
-                  "coords": [
-                        56.276178,
-                        38.977589
-                  ]
-            }
-      ]
-},
+    id: "tm-serdar-cities-v2", "sights": {"de": [{"name": "Gyzylarbat Şäherinyň Taryhy Muzeyi", "text": "Das Gyzylarbat Şäherinyň Taryhy Muzeyi ist das historische Museum der Stadt Serdar in Turkmenistan. Es widmet sich der Aufgabe, die reiche städtische Geschichte für künftige Generationen zu dokumentieren.", "category": "museum", "coords": [56.276178, 38.977589]}], "hu": [{"name": "Gyzylarbat Şäherinyň Taryhy Muzeyi", "text": "A Gyzylarbat Şäherinyň Taryhy Muzeyi a türkmén Serdar városának történelmi múzeuma. Az intézmény célja a város gazdag történelmének dokumentálása és bemutatása az utókor számára.", "category": "museum", "coords": [56.276178, 38.977589]}], "ro": [{"name": "Gyzylarbat Şäherinyň Taryhy Muzeyi", "text": "Gyzylarbat Şäherinyň Taryhy Muzeyi este muzeul istoric al orașului Serdar din Turkmenistan. Această instituție este dedicată documentării și conservării istoriei urbane bogate a regiunii.", "category": "museum", "coords": [56.276178, 38.977589]}], "en": [{"name": "Gyzylarbat City History Museum", "text": "The Gyzylarbat Şäherinyň Taryhy Muzeyi is the historical museum of the city of Serdar in Turkmenistan. It is dedicated to documenting and preserving the rich urban history of the area.", "category": "museum", "coords": [56.276178, 38.977589]}]},
     type: "city",
     parent: "TM-B",
     coords: [56.2833, 38.9833],

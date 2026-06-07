@@ -331,6 +331,24 @@ export const franceEconomicV2: POI[] = [
                         2.230801,
                         48.880118
                   ]
+            },
+            {
+                  "name": "Jardin d'Acclimatation",
+                  "text": "Der Freizeitpark Jardin d'Acclimatation in La Défense ist ein Ziel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.264684,
+                        48.878145
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire",
+                  "text": "Das Schwimmbad Pateaugeoire befindet sich in La Défense.",
+                  "category": "family",
+                  "coords": [
+                        2.254188,
+                        48.894801
+                  ]
             }
       ],
       "hu": [
@@ -571,6 +589,24 @@ export const franceEconomicV2: POI[] = [
                   "coords": [
                         2.230801,
                         48.880118
+                  ]
+            },
+            {
+                  "name": "Jardin d'Acclimatation",
+                  "text": "A La Défense-i Jardin d'Acclimatation szabadidőpark az egész család számára kínál kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        2.264684,
+                        48.878145
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire",
+                  "text": "A Pateaugeoire úszómedence La Défense-ban található.",
+                  "category": "family",
+                  "coords": [
+                        2.254188,
+                        48.894801
                   ]
             }
       ],
@@ -813,6 +849,24 @@ export const franceEconomicV2: POI[] = [
                         2.230801,
                         48.880118
                   ]
+            },
+            {
+                  "name": "Jardin d'Acclimatation",
+                  "text": "Parcul de distracții Jardin d'Acclimatation din La Defense este o destinație pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.264684,
+                        48.878145
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire",
+                  "text": "Piscina Pateaugeoire este situată în La Defense.",
+                  "category": "family",
+                  "coords": [
+                        2.254188,
+                        48.894801
+                  ]
             }
       ],
       "en": [
@@ -1053,6 +1107,24 @@ export const franceEconomicV2: POI[] = [
                   "coords": [
                         2.230801,
                         48.880118
+                  ]
+            },
+            {
+                  "name": "Jardin d'Acclimatation",
+                  "text": "The theme park Jardin d'Acclimatation in La Defense is a destination for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        2.264684,
+                        48.878145
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire",
+                  "text": "The swimming pool Pateaugeoire is located in La Defense.",
+                  "category": "family",
+                  "coords": [
+                        2.254188,
+                        48.894801
                   ]
             }
       ]

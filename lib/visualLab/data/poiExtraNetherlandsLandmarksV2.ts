@@ -1263,52 +1263,7 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-city-hall-leiden-landmarks-v2.webp",
   },
   {
-    id: "netherlands-st-laurence-church-rotterdam-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Strand Kralingse Plas",
-                  "text": "Strand am Kralingse Plas, ein städtisches Erholungsgebiet bei Rotterdam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.511872,
-                        51.941022
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Strand Kralingse Plas",
-                  "text": "Strand a Kralingse Plas tónál, városi rekreációs terület Rotterdam közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        4.511872,
-                        51.941022
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Strand Kralingse Plas",
-                  "text": "Plajă la Kralingse Plas, o zonă de recreere urbană lângă Rotterdam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.511872,
-                        51.941022
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Strand Kralingse Plas",
-                  "text": "Beach at Kralingse Plas, an urban recreation area near Rotterdam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.511872,
-                        51.941022
-                  ]
-            }
-      ]
-},
+    id: "netherlands-st-laurence-church-rotterdam-landmarks-v2", "sights": {"de": [{"name": "Strand Kralingse Plas", "text": "Dieser Strand am Kralingse Plas nahe Rotterdam ist Teil eines äußerst beliebten städtischen Naherholungsgebiets. Von den frühen Morgenstunden bis zur Dämmerung herrscht hier eine freundliche und lebendige lokale Energie. Besucher können problemlos Spaziergänge, Schwimmen und Sonnenbaden mit einem Blick auf den umliegenden Park verbinden. Die Anreise mit dem Fahrrad oder den öffentlichen Verkehrsmitteln ist meist der bequemste Weg hierher.", "category": "recreational", "coords": [4.511872, 51.941022]}], "hu": [{"name": "Strand Kralingse Plas", "text": "A Rotterdamhoz közeli Kralingse Plas mentén található strand egy kedvelt városi pihenőövezet része. Kora reggeltől kora estig barátságos, helyi energiáktól pezseg. A látogatók könnyedén kombinálhatják a sétát, az úszást és a napozást a környező park nyújtotta kilátással. Az idejutás legkényelmesebb módja gyakran a kerékpár vagy a tömegközlekedés igénybevétele.", "category": "recreational", "coords": [4.511872, 51.941022]}], "ro": [{"name": "Strand Kralingse Plas", "text": "Situată de-a lungul Kralingse Plas lângă Rotterdam, această plajă face parte dintr-o zonă de recreere urbană foarte îndrăgită. Aici domină mereu o energie locală prietenoasă, de dimineața devreme până la lăsarea întunericului. Vizitatorii pot îmbina cu ușurință plimbările, înotul și băile de soare cu priveliștile parcului înconjurător. Călătoria cu bicicleta sau cu mijloacele de transport în comun este adesea cel mai convenabil mod de a ajunge aici.", "category": "recreational", "coords": [4.511872, 51.941022]}], "en": [{"name": "Strand Kralingse Plas", "text": "Located along the Kralingse Plas near Rotterdam, this beach is part of a beloved urban recreation area. It consistently buzzes with a friendly, local energy from early morning until dusk. Visitors can easily blend walking, swimming, and sunbathing with views of the surrounding park. Traveling by bicycle or public transport is often the most convenient way to arrive here.", "category": "recreational", "coords": [4.511872, 51.941022]}]},
     type: "church",
     parent: "NL",
     name: { de: "Sankt-Laurenz-Kirche Rotterdam", hu: "Szent Lőrinc-templom Rotterdam", ro: "Biserica Sfântul Laurențiu Rotterdam", en: "St. Laurence Church Rotterdam" },

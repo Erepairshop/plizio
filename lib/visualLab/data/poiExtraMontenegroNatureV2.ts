@@ -453,52 +453,7 @@ export const montenegroNatureV2: POI[] = [
     image: "/poi-images/montenegro-rijeka-lim-nature-v2.webp",
   },
   {
-    id: "montenegro-otok-sveti-nikola-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Laguna beach",
-                  "text": "Laguna beach befindet sich auf der Insel Sveti Nikola.",
-                  "category": "recreational",
-                  "coords": [
-                        18.85014,
-                        42.269341
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Laguna beach",
-                  "text": "A Laguna beach a Sveti Nikola-szigeten található.",
-                  "category": "recreational",
-                  "coords": [
-                        18.85014,
-                        42.269341
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Laguna beach",
-                  "text": "Laguna beach se află pe insula Sveti Nikola.",
-                  "category": "recreational",
-                  "coords": [
-                        18.85014,
-                        42.269341
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Laguna beach",
-                  "text": "Laguna beach is located on the island of Sveti Nikola.",
-                  "category": "recreational",
-                  "coords": [
-                        18.85014,
-                        42.269341
-                  ]
-            }
-      ]
-},
+    id: "montenegro-otok-sveti-nikola-nature-v2", "sights": {"de": [{"name": "Laguna beach", "text": "Auf der malerischen Insel Sveti Nikola gelegen, lockt der Laguna Beach mit einem abgeschiedenen Inselerlebnis vor der Küste Montenegros. Das klare Wasser und die markante Inselkulisse machen diesen Ort perfekt zum Schwimmen und für ungestörtes Sonnenbaden. Die Atmosphäre ist abenteuerlich und zugleich tief entspannend, weit weg vom Trubel des Festlands. Eine kurze Bootsfahrt am frühen Morgen sichert den besten Platz am Wasser.", "category": "recreational", "coords": [18.85014, 42.269341]}], "hu": [{"name": "Laguna beach", "text": "A festői Sveti Nikola szigeten található Laguna beach egy eldugott szigeti menedéket nyújt a montenegrói partok közelében. A tiszta víz és a lenyűgöző szigeti táj kivételes helyszínt biztosít az úszáshoz és a zavartalan napozáshoz. A hangulat egyszerre kalandos és mélyen pihentető, távol a szárazföld rohanásától. Egy korai rövid hajóút garantálja a legszebb helyeket a víz mellett.", "category": "recreational", "coords": [18.85014, 42.269341]}], "ro": [{"name": "Laguna beach", "text": "Aflată pe pitoreasca insulă Sveti Nikola, Laguna beach oferă o evadare insulară izolată, chiar în largul coastelor Muntenegrului. Apele limpezi și peisajul dramatic al insulei transformă acest loc într-o destinație excepțională pentru înot și plajă netulburată. Atmosfera combină spiritul de aventură cu o relaxare profundă, departe de agitația continentului. O scurtă călătorie cu barca dis-de-dimineață vă asigură cel mai bun loc pe plajă.", "category": "recreational", "coords": [18.85014, 42.269341]}], "en": [{"name": "Laguna beach", "text": "Found on the picturesque Sveti Nikola Island, Laguna beach offers a secluded island getaway just off the coast of Montenegro. The clear waters and striking island scenery make it an exceptional spot for swimming and undisturbed sunbathing. The atmosphere feels adventurous yet deeply relaxing, removed from the mainland's rush. Taking a short boat ride early in the day secures a wonderful spot by the water.", "category": "recreational", "coords": [18.85014, 42.269341]}]},
     type: "island",
     parent: "ME",
     name: { de: "Insel Sveti Nikola", hu: "Sveti Nikola-sziget", ro: "Insula Sveti Nikola", en: "Sveti Nikola Island" },

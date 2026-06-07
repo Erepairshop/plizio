@@ -250,6 +250,51 @@ export const poiExtraDe2: POI[] = [
                         8.800207,
                         50.797726
                   ]
+            },
+            {
+                  "name": "Salzheilkammer Marburg",
+                  "text": "Die Salzheilkammer Marburg ist ein Wellness-Bereich, der zur Entspannung und Erholung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.770202,
+                        50.817347
+                  ]
+            },
+            {
+                  "name": "Waschbären",
+                  "text": "Das Waschbären-Gehege in Marburg bietet Besuchern die Möglichkeit, diese Tiere aus der Nähe zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        8.807934,
+                        50.803052
+                  ]
+            },
+            {
+                  "name": "Hallenbad Wehrda",
+                  "text": "Das Hallenbad Wehrda in Marburg bietet ganzjährig Möglichkeiten zum Schwimmen und für Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.750493,
+                        50.834355
+                  ]
+            },
+            {
+                  "name": "Aquamar",
+                  "text": "Das Aquamar in Marburg ist ein vielseitiger Wasserpark für Sport- und Freizeitaktivitäten im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.771158,
+                        50.800852
+                  ]
+            },
+            {
+                  "name": "Bienen",
+                  "text": "Die Bienen-Anlage in Marburg bietet einen Einblick in das Leben und die Bedeutung dieser Insekten.",
+                  "category": "family",
+                  "coords": [
+                        8.809337,
+                        50.804454
+                  ]
             }
       ],
       "hu": [
@@ -436,6 +481,51 @@ export const poiExtraDe2: POI[] = [
                         8.800207,
                         50.797726
                   ]
+            },
+            {
+                  "name": "Salzheilkammer Marburg",
+                  "text": "A Salzheilkammer Marburg egy wellness-részleg, amely pihenésre és feltöltődésre hívja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        8.770202,
+                        50.817347
+                  ]
+            },
+            {
+                  "name": "Waschbären",
+                  "text": "A marburgi mosómedve-kifutó lehetőséget ad a látogatóknak, hogy közelről megfigyeljék ezeket az állatokat.",
+                  "category": "family",
+                  "coords": [
+                        8.807934,
+                        50.803052
+                  ]
+            },
+            {
+                  "name": "Hallenbad Wehrda",
+                  "text": "A marburgi Hallenbad Wehrda egész évben lehetőséget nyújt az úszásra és a vízi szórakozásra.",
+                  "category": "family",
+                  "coords": [
+                        8.750493,
+                        50.834355
+                  ]
+            },
+            {
+                  "name": "Aquamar",
+                  "text": "A marburgi Aquamar egy sokoldalú élményfürdő sportoláshoz és vízi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        8.771158,
+                        50.800852
+                  ]
+            },
+            {
+                  "name": "Bienen",
+                  "text": "A marburgi méhészeti bemutatóhely betekintést nyújt a méhek életébe és jelentőségébe.",
+                  "category": "family",
+                  "coords": [
+                        8.809337,
+                        50.804454
+                  ]
             }
       ],
       "ro": [
@@ -621,6 +711,51 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.800207,
                         50.797726
+                  ]
+            },
+            {
+                  "name": "Salzheilkammer Marburg",
+                  "text": "Salzheilkammer Marburg este o zonă de spa care invită la relaxare și recuperare.",
+                  "category": "family",
+                  "coords": [
+                        8.770202,
+                        50.817347
+                  ]
+            },
+            {
+                  "name": "Waschbären",
+                  "text": "Țarcul de ratoni din Marburg oferă vizitatorilor ocazia de a observa aceste animale de aproape.",
+                  "category": "family",
+                  "coords": [
+                        8.807934,
+                        50.803052
+                  ]
+            },
+            {
+                  "name": "Hallenbad Wehrda",
+                  "text": "Hallenbad Wehrda din Marburg oferă oportunități de înot și distracție acvatică pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        8.750493,
+                        50.834355
+                  ]
+            },
+            {
+                  "name": "Aquamar",
+                  "text": "Aquamar din Marburg este un parc acvatic versatil pentru activități sportive și de agrement în apă.",
+                  "category": "family",
+                  "coords": [
+                        8.771158,
+                        50.800852
+                  ]
+            },
+            {
+                  "name": "Bienen",
+                  "text": "Facilitatea pentru albine din Marburg oferă o perspectivă asupra vieții și importanței acestor insecte.",
+                  "category": "family",
+                  "coords": [
+                        8.809337,
+                        50.804454
                   ]
             }
       ],
@@ -817,6 +952,51 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.800207,
                         50.797726
+                  ]
+            },
+            {
+                  "name": "Salzheilkammer Marburg",
+                  "text": "The Salzheilkammer Marburg is a spa area that invites visitors for relaxation and recovery.",
+                  "category": "family",
+                  "coords": [
+                        8.770202,
+                        50.817347
+                  ]
+            },
+            {
+                  "name": "Waschbären",
+                  "text": "The raccoon enclosure in Marburg offers visitors the chance to observe these animals up close.",
+                  "category": "family",
+                  "coords": [
+                        8.807934,
+                        50.803052
+                  ]
+            },
+            {
+                  "name": "Hallenbad Wehrda",
+                  "text": "The Hallenbad Wehrda in Marburg offers year-round opportunities for swimming and water fun.",
+                  "category": "family",
+                  "coords": [
+                        8.750493,
+                        50.834355
+                  ]
+            },
+            {
+                  "name": "Aquamar",
+                  "text": "The Aquamar in Marburg is a versatile water park for sports and leisure activities in the water.",
+                  "category": "family",
+                  "coords": [
+                        8.771158,
+                        50.800852
+                  ]
+            },
+            {
+                  "name": "Bienen",
+                  "text": "The bee facility in Marburg provides an insight into the life and importance of these insects.",
+                  "category": "family",
+                  "coords": [
+                        8.809337,
+                        50.804454
                   ]
             }
       ],
@@ -1444,6 +1624,15 @@ export const poiExtraDe2: POI[] = [
                         8.67951,
                         50.583505
                   ]
+            },
+            {
+                  "name": "Freibad Kleinlinden",
+                  "text": "Das Freibad Kleinlinden in Gießen bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.647144,
+                        50.562887
+                  ]
             }
       ],
       "hu": [
@@ -1585,6 +1774,15 @@ export const poiExtraDe2: POI[] = [
                         8.67951,
                         50.583505
                   ]
+            },
+            {
+                  "name": "Freibad Kleinlinden",
+                  "text": "A Gießenben található Freibad Kleinlinden vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.647144,
+                        50.562887
+                  ]
             }
       ],
       "ro": [
@@ -1725,6 +1923,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.67951,
                         50.583505
+                  ]
+            },
+            {
+                  "name": "Freibad Kleinlinden",
+                  "text": "Freibad Kleinlinden din Gießen oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.647144,
+                        50.562887
                   ]
             }
       ],
@@ -1876,6 +2083,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.67951,
                         50.583505
+                  ]
+            },
+            {
+                  "name": "Freibad Kleinlinden",
+                  "text": "The Freibad Kleinlinden in Giessen offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        8.647144,
+                        50.562887
                   ]
             }
       ],
@@ -2525,6 +2741,24 @@ export const poiExtraDe2: POI[] = [
                         10.830468,
                         52.412781
                   ]
+            },
+            {
+                  "name": "Badeland Wolfsburg",
+                  "text": "Das Badeland Wolfsburg ist ein großes Erlebnisbad mit vielen Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.813905,
+                        52.435977
+                  ]
+            },
+            {
+                  "name": "schwimmender Pool",
+                  "text": "Der schwimmende Pool in Wolfsburg bietet ein besonderes Badeerlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.789131,
+                        52.433433
+                  ]
             }
       ],
       "hu": [
@@ -2887,6 +3121,24 @@ export const poiExtraDe2: POI[] = [
                         10.830468,
                         52.412781
                   ]
+            },
+            {
+                  "name": "Badeland Wolfsburg",
+                  "text": "A Badeland Wolfsburg egy nagy élményfürdő, számos attrakcióval a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.813905,
+                        52.435977
+                  ]
+            },
+            {
+                  "name": "schwimmender Pool",
+                  "text": "A wolfsburgi úszó medence különleges fürdőzési élményt nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.789131,
+                        52.433433
+                  ]
             }
       ],
       "ro": [
@@ -3248,6 +3500,24 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.830468,
                         52.412781
+                  ]
+            },
+            {
+                  "name": "Badeland Wolfsburg",
+                  "text": "Badeland Wolfsburg este un parc acvatic mare, cu multe atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.813905,
+                        52.435977
+                  ]
+            },
+            {
+                  "name": "schwimmender Pool",
+                  "text": "Piscina plutitoare din Wolfsburg oferă o experiență de înot deosebită pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.789131,
+                        52.433433
                   ]
             }
       ],
@@ -3628,6 +3898,24 @@ export const poiExtraDe2: POI[] = [
                         10.830468,
                         52.412781
                   ]
+            },
+            {
+                  "name": "Badeland Wolfsburg",
+                  "text": "The Badeland Wolfsburg is a large water park with many attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        10.813905,
+                        52.435977
+                  ]
+            },
+            {
+                  "name": "schwimmender Pool",
+                  "text": "The floating pool in Wolfsburg offers a special swimming experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.789131,
+                        52.433433
+                  ]
             }
       ],
       "tr": [
@@ -3731,88 +4019,7 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Brocken, 1.141 m ile Kuzey Almanya'nın en yüksek noktasıdır.", "Nationalpark Harz, 24.700 hektarlık bir alanı kapsar.", "Rammelsberg madeni 1992'den beri UNESCO Dünya Mirası'dır.", "Harzer Schmalspurbahnen'in hat ağı yaklaşık 140 km'dir.", "Okertalsperre, 47 milyon m³ kapasiteye sahiptir.", "Harz'daki son yabani ayı 1718 yılında avlanmıştır."]}, image: "/poi-images/mnt-brocken-ni-extra.webp"},
       {
-    id: "river-weser-ni-extra", "sights": {
-      "de": [
-            {
-                  "name": "Surfstrand Mardorf",
-                  "text": "Der Surfstrand Mardorf liegt am Steinhuder Meer bei Mardorf.",
-                  "category": "recreational",
-                  "coords": [
-                        9.34241,
-                        52.494212
-                  ]
-            },
-            {
-                  "name": "Badestrand Weiße Düne",
-                  "text": "Badestrand Weiße Düne an der Weser bei Nienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.333369,
-                        52.493005
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Surfstrand Mardorf",
-                  "text": "A Surfstrand Mardorf a Steinhuder Meer-nél található.",
-                  "category": "recreational",
-                  "coords": [
-                        9.34241,
-                        52.494212
-                  ]
-            },
-            {
-                  "name": "Badestrand Weiße Düne",
-                  "text": "Badestrand Weiße Düne strand a Weser folyónál, Nienburg közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        9.333369,
-                        52.493005
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Surfstrand Mardorf",
-                  "text": "Plaja Surfstrand Mardorf este situată pe malul lacului Steinhuder Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        9.34241,
-                        52.494212
-                  ]
-            },
-            {
-                  "name": "Badestrand Weiße Düne",
-                  "text": "Plaja Badestrand Weiße Düne pe râul Weser lângă Nienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.333369,
-                        52.493005
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Surfstrand Mardorf",
-                  "text": "Surfstrand Mardorf is located on Steinhuder Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        9.34241,
-                        52.494212
-                  ]
-            },
-            {
-                  "name": "Badestrand Weiße Düne",
-                  "text": "Badestrand Weiße Düne on the Weser river near Nienburg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.333369,
-                        52.493005
-                  ]
-            }
-      ]
-},
+    id: "river-weser-ni-extra", "sights": {"de": [{"name": "Surfstrand Mardorf", "text": "Der Surfstrand Mardorf liegt am Steinhuder Meer bei Mardorf.", "category": "recreational", "coords": [9.34241, 52.494212]}, {"name": "Badestrand Weiße Düne", "text": "Am sanften Ufer der Weser bei Nienburg bietet der Badestrand Weiße Düne eine idyllische Kulisse für sonnige Tage. Der flussnahe Sandstrand vermittelt ein charmantes Binnen-Urlaubsgefühl und lädt zum entspannten Sonnenbaden ein. Hier lässt es sich gemütlich am Wasser spazieren oder bei einer Pause die vorbeigleitenden Flusslandschaften beobachten. Packen Sie am besten ein Picknick ein, um den Tag an der Weser voll auszukosten.", "category": "recreational", "coords": [9.333369, 52.493005]}], "hu": [{"name": "Surfstrand Mardorf", "text": "A Surfstrand Mardorf a Steinhuder Meer-nél található.", "category": "recreational", "coords": [9.34241, 52.494212]}, {"name": "Badestrand Weiße Düne", "text": "A Nienburg melletti Weser folyó szelíd partján fekvő Badestrand Weiße Düne idilli hátteret kínál a napsütéses napokhoz. A folyó menti homokos strand bájos belföldi nyaralási élményt nyújt, és pihentető napozásra csábít. Itt kényelmesen lehet sétálni a vízparton, vagy egy kis pihenő közben figyelni az elsuhanó folyami tájat. A legjobb, ha csomagol egy piknikkosarat, hogy teljes mértékben kiélvezhesse a Weser partján töltött napot.", "category": "recreational", "coords": [9.333369, 52.493005]}], "ro": [{"name": "Surfstrand Mardorf", "text": "Plaja Surfstrand Mardorf este situată pe malul lacului Steinhuder Meer.", "category": "recreational", "coords": [9.34241, 52.494212]}, {"name": "Badestrand Weiße Düne", "text": "Pe malul blând al râului Weser, lângă Nienburg, Badestrand Weiße Düne oferă un decor idilic pentru zilele însorite. Plaja de nisip din apropierea râului transmite un sentiment fermecător de vacanță interioară și te invită la băi de soare relaxante. Aici te poți plimba confortabil pe malul apei sau poți face o pauză pentru a observa peisajele fluviale care trec. Cel mai bine este să împachetați un picnic pentru a vă bucura din plin de ziua pe Weser.", "category": "recreational", "coords": [9.333369, 52.493005]}], "en": [{"name": "Surfstrand Mardorf", "text": "Surfstrand Mardorf is located on Steinhuder Meer.", "category": "recreational", "coords": [9.34241, 52.494212]}, {"name": "Badestrand Weiße Düne", "text": "Resting gracefully on the gentle banks of the Weser river near Nienburg, the Badestrand Weiße Düne provides an idyllic backdrop for sunny days. The riverside sandy beach conveys a delightfully charming inland holiday feel, openly inviting you for relaxed sunbathing. It is a great spot to stroll comfortably by the water or pause to watch the passing riverland scenery. Packing a lovely picnic is the absolute best way to fully enjoy a day on the Weser.", "category": "recreational", "coords": [9.333369, 52.493005]}]},
     type: "river",
     parent: "DE-NI",
     coords: [9.3500, 52.5000],
@@ -4403,6 +4610,15 @@ export const poiExtraDe2: POI[] = [
                         9.979695,
                         52.133835
                   ]
+            },
+            {
+                  "name": "VfV Hildesheim - Freibad",
+                  "text": "Das Freibad des VfV Hildesheim bietet im Sommer Abkühlung und Schwimmspaß unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        9.948883,
+                        52.135552
+                  ]
             }
       ],
       "hu": [
@@ -4868,6 +5084,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         9.979695,
                         52.133835
+                  ]
+            },
+            {
+                  "name": "VfV Hildesheim - Freibad",
+                  "text": "A VfV Hildesheim szabadtéri strandja nyáron felfrissülést és úszási élményt nyújt a szabad ég alatt.",
+                  "category": "family",
+                  "coords": [
+                        9.948883,
+                        52.135552
                   ]
             }
       ],
@@ -5335,6 +5560,15 @@ export const poiExtraDe2: POI[] = [
                         9.979695,
                         52.133835
                   ]
+            },
+            {
+                  "name": "VfV Hildesheim - Freibad",
+                  "text": "Ștrandul VfV Hildesheim oferă răcorire și distracție la înot sub cerul liber în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        9.948883,
+                        52.135552
+                  ]
             }
       ],
       "en": [
@@ -5800,6 +6034,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         9.979695,
                         52.133835
+                  ]
+            },
+            {
+                  "name": "VfV Hildesheim - Freibad",
+                  "text": "The outdoor pool of VfV Hildesheim offers cooling and swimming fun under the open sky in summer.",
+                  "category": "family",
+                  "coords": [
+                        9.948883,
+                        52.135552
                   ]
             }
       ],
@@ -6303,6 +6546,15 @@ export const poiExtraDe2: POI[] = [
                         10.083757,
                         52.617715
                   ]
+            },
+            {
+                  "name": "Freibad Westercelle",
+                  "text": "Das Freibad Westercelle in Celle bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.079989,
+                        52.596415
+                  ]
             }
       ],
       "hu": [
@@ -6479,6 +6731,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.083757,
                         52.617715
+                  ]
+            },
+            {
+                  "name": "Freibad Westercelle",
+                  "text": "A Celle városában található Freibad Westercelle vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.079989,
+                        52.596415
                   ]
             }
       ],
@@ -6657,6 +6918,15 @@ export const poiExtraDe2: POI[] = [
                         10.083757,
                         52.617715
                   ]
+            },
+            {
+                  "name": "Freibad Westercelle",
+                  "text": "Freibad Westercelle din Celle oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        10.079989,
+                        52.596415
+                  ]
             }
       ],
       "en": [
@@ -6833,6 +7103,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         10.083757,
                         52.617715
+                  ]
+            },
+            {
+                  "name": "Freibad Westercelle",
+                  "text": "The Freibad Westercelle in Celle offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        10.079989,
+                        52.596415
                   ]
             }
       ],
@@ -7455,6 +7734,33 @@ export const poiExtraDe2: POI[] = [
                         12.906427,
                         50.817132
                   ]
+            },
+            {
+                  "name": "Schwimmhalle \"Am Südring\"",
+                  "text": "Dieses Bad in Chemnitz bietet vielseitigen Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.893542,
+                        50.796461
+                  ]
+            },
+            {
+                  "name": "Freibad Gablenz",
+                  "text": "Dieses Freibad in Chemnitz lädt Familien an warmen Tagen zum Schwimmen und Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        12.971505,
+                        50.830096
+                  ]
+            },
+            {
+                  "name": "Vivarium",
+                  "text": "Ein interessanter Ort in Chemnitz, um gemeinsam mit der Familie verschiedene Tierarten zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        12.891247,
+                        50.849933
+                  ]
             }
       ],
       "hu": [
@@ -7893,6 +8199,33 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.906427,
                         50.817132
+                  ]
+            },
+            {
+                  "name": "Schwimmhalle \"Am Südring\"",
+                  "text": "Ez a chemnitzi fürdő sokoldalú vízi szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.893542,
+                        50.796461
+                  ]
+            },
+            {
+                  "name": "Freibad Gablenz",
+                  "text": "Ez a chemnitzi szabadtéri strand meleg napokon úszásra és pihenésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        12.971505,
+                        50.830096
+                  ]
+            },
+            {
+                  "name": "Vivarium",
+                  "text": "Érdekes hely Chemnitzben, ahol a családdal együtt különböző állatfajokat figyelhetnek meg.",
+                  "category": "family",
+                  "coords": [
+                        12.891247,
+                        50.849933
                   ]
             }
       ],
@@ -8333,6 +8666,33 @@ export const poiExtraDe2: POI[] = [
                         12.906427,
                         50.817132
                   ]
+            },
+            {
+                  "name": "Schwimmhalle \"Am Südring\"",
+                  "text": "Acest ștrand din Chemnitz oferă distracție acvatică variată și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.893542,
+                        50.796461
+                  ]
+            },
+            {
+                  "name": "Freibad Gablenz",
+                  "text": "Acest ștrand în aer liber din Chemnitz invită familiile la înot și relaxare în zilele călduroase.",
+                  "category": "family",
+                  "coords": [
+                        12.971505,
+                        50.830096
+                  ]
+            },
+            {
+                  "name": "Vivarium",
+                  "text": "Un loc interesant în Chemnitz pentru a observa diverse specii de animale împreună cu familia.",
+                  "category": "family",
+                  "coords": [
+                        12.891247,
+                        50.849933
+                  ]
             }
       ],
       "en": [
@@ -8772,6 +9132,33 @@ export const poiExtraDe2: POI[] = [
                         12.906427,
                         50.817132
                   ]
+            },
+            {
+                  "name": "Schwimmhalle \"Am Südring\"",
+                  "text": "This pool in Chemnitz offers versatile water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.893542,
+                        50.796461
+                  ]
+            },
+            {
+                  "name": "Freibad Gablenz",
+                  "text": "This outdoor pool in Chemnitz invites families for swimming and relaxation on warm days.",
+                  "category": "family",
+                  "coords": [
+                        12.971505,
+                        50.830096
+                  ]
+            },
+            {
+                  "name": "Vivarium",
+                  "text": "An interesting place in Chemnitz to observe various animal species together with the family.",
+                  "category": "family",
+                  "coords": [
+                        12.891247,
+                        50.849933
+                  ]
             }
       ],
       "tr": [
@@ -9064,6 +9451,15 @@ export const poiExtraDe2: POI[] = [
                         12.497927,
                         50.720206
                   ]
+            },
+            {
+                  "name": "04-Bad",
+                  "text": "Das 04-Bad in Zwickau ist ein Wasserpark, der Möglichkeiten zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.497684,
+                        50.737862
+                  ]
             }
       ],
       "hu": [
@@ -9259,6 +9655,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.497927,
                         50.720206
+                  ]
+            },
+            {
+                  "name": "04-Bad",
+                  "text": "A zwickaui 04-Bad egy élményfürdő, amely úszási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.497684,
+                        50.737862
                   ]
             }
       ],
@@ -9456,6 +9861,15 @@ export const poiExtraDe2: POI[] = [
                         12.497927,
                         50.720206
                   ]
+            },
+            {
+                  "name": "04-Bad",
+                  "text": "04-Bad din Zwickau este un parc acvatic care oferă oportunități de înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        12.497684,
+                        50.737862
+                  ]
             }
       ],
       "en": [
@@ -9651,6 +10065,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.497927,
                         50.720206
+                  ]
+            },
+            {
+                  "name": "04-Bad",
+                  "text": "The 04-Bad in Zwickau is a water park offering opportunities for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        12.497684,
+                        50.737862
                   ]
             }
       ],
@@ -10438,6 +10861,24 @@ export const poiExtraDe2: POI[] = [
                         13.328993,
                         50.914051
                   ]
+            },
+            {
+                  "name": "Salzgrotte am Dom",
+                  "text": "Die Salzgrotte am Dom in Freiberg bietet Entspannung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        13.345044,
+                        50.920245
+                  ]
+            },
+            {
+                  "name": "Waldbad \"Großer Teich\"",
+                  "text": "Das Waldbad \"Großer Teich\" in Freiberg lädt zum Baden in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        13.317482,
+                        50.895083
+                  ]
             }
       ],
       "hu": [
@@ -10660,6 +11101,24 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         13.328993,
                         50.914051
+                  ]
+            },
+            {
+                  "name": "Salzgrotte am Dom",
+                  "text": "A Freibergben található Salzgrotte am Dom kikapcsolódást nyújt családok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.345044,
+                        50.920245
+                  ]
+            },
+            {
+                  "name": "Waldbad \"Großer Teich\"",
+                  "text": "A Freibergben található Waldbad \"Großer Teich\" fürdőzésre hív a természetben.",
+                  "category": "family",
+                  "coords": [
+                        13.317482,
+                        50.895083
                   ]
             }
       ],
@@ -10884,6 +11343,24 @@ export const poiExtraDe2: POI[] = [
                         13.328993,
                         50.914051
                   ]
+            },
+            {
+                  "name": "Salzgrotte am Dom",
+                  "text": "Salzgrotte am Dom din Freiberg oferă relaxare pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        13.345044,
+                        50.920245
+                  ]
+            },
+            {
+                  "name": "Waldbad \"Großer Teich\"",
+                  "text": "Waldbad \"Großer Teich\" din Freiberg vă invită la scăldat în natură.",
+                  "category": "family",
+                  "coords": [
+                        13.317482,
+                        50.895083
+                  ]
             }
       ],
       "en": [
@@ -11107,6 +11584,24 @@ export const poiExtraDe2: POI[] = [
                         13.328993,
                         50.914051
                   ]
+            },
+            {
+                  "name": "Salzgrotte am Dom",
+                  "text": "The Salzgrotte am Dom in Freiberg offers relaxation for families.",
+                  "category": "family",
+                  "coords": [
+                        13.345044,
+                        50.920245
+                  ]
+            },
+            {
+                  "name": "Waldbad \"Großer Teich\"",
+                  "text": "The Waldbad \"Großer Teich\" in Freiberg invites you to swim in nature.",
+                  "category": "family",
+                  "coords": [
+                        13.317482,
+                        50.895083
+                  ]
             }
       ],
       "tr": [
@@ -11304,1606 +11799,7 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["M.Ö. 8 yılında Romalılar tarafından kurulmuştur", "Şehrin 2000. yıldönümü 1992 yılında kutlanmıştır", "Ehrenbreitstein, Avrupa'nın en büyük ikinci kalesidir", "Nüfusu yaklaşık 115.000 kişidir", "UNESCO Dünya Mirası statüsünü 2002 yılında almıştır", "2011 yılında Federal Bahçe Şovu'na (Bundesgartenschau) ev sahipliği yapmıştır"]},
     image: "/poi-images/city-koblenz-extra.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Deutsches Eck",
-                  "text": "Landzunge am Zusammenfluss von Rhein und Mosel mit dem monumentalen Reiterstandbild Kaiser Wilhelms I.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.605639,
-                        50.364167
-                  ]
-            },
-            {
-                  "name": "Festung Ehrenbreitstein",
-                  "text": "Eine der größten erhaltenen Festungen Europas, die hoch über dem Rhein thront und einen Panoramablick bietet.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.61528,
-                        50.365
-                  ]
-            },
-            {
-                  "name": "Seilbahn Koblenz",
-                  "text": "Verbindet die Rheinanlagen mit der Festung Ehrenbreitstein und bietet eine spektakuläre Aussicht über das UNESCO-Welterbe.",
-                  "category": "Bridges, train stations of note",
-                  "confidence": "high",
-                  "coords": [
-                        7.60889,
-                        50.3639
-                  ]
-            },
-            {
-                  "name": "Schloss Stolzenfels",
-                  "text": "Ein Juwel der Rheinromantik, erbaut als neugotisches Schloss oberhalb des linken Rheinufer im Süden von Koblenz.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.59242,
-                        50.3032
-                  ]
-            },
-            {
-                  "name": "Kurfürstliches Schloss",
-                  "text": "Eines der bedeutendsten Schlösser des Frühklassizismus in Deutschland, direkt am Rheinufer gelegen.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.60222,
-                        50.3556
-                  ]
-            },
-            {
-                  "name": "Basilika St. Kastor",
-                  "text": "Die älteste Kirche von Koblenz, Schauplatz bedeutender historischer Ereignisse am Deutschen Eck.",
-                  "category": "Churches & monasteries",
-                  "confidence": "high"
-            },
-            {
-                  "name": "Kulturfabrik Koblenz",
-                  "text": "Ein Kulturzentrum in Koblenz, das für Theateraufführungen, Konzerte und Kleinkunst bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        7.597263,
-                        50.372701
-                  ]
-            },
-            {
-                  "name": "Mittelrhein-Museum",
-                  "text": "Das Museum in Koblenz präsentiert Kunst und Kulturgeschichte vom Mittelalter bis zur Moderne.",
-                  "category": "museum",
-                  "coords": [
-                        7.59637,
-                        50.358709
-                  ]
-            },
-            {
-                  "name": "Deinhard Kellermuseum",
-                  "text": "Ein Museum im historischen Keller von Deinhard, das die Geschichte der Sektherstellung zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        7.599359,
-                        50.357959
-                  ]
-            },
-            {
-                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
-                  "text": "Das Museum in Koblenz zeigt Exponate zur Geschichte des rheinischen Karnevals und der Fastnacht.",
-                  "category": "museum",
-                  "coords": [
-                        7.587256,
-                        50.351002
-                  ]
-            },
-            {
-                  "name": "DB Museum Koblenz",
-                  "text": "Eine Außenstelle des DB Museums in Koblenz, die historische Lokomotiven und Waggons ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        7.592178,
-                        50.37781
-                  ]
-            },
-            {
-                  "name": "Wehrtechnische Studiensammlung",
-                  "text": "Eine technische Sammlung der Bundeswehr in Koblenz, die die Entwicklung der Wehrtechnik dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        7.58536,
-                        50.369062
-                  ]
-            },
-            {
-                  "name": "Ludwig-Museum im Deutschherrenhaus",
-                  "text": "Ein Museum im historischen Deutschherrenhaus in Koblenz, das internationale zeitgenössische Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        7.604961,
-                        50.362771
-                  ]
-            },
-            {
-                  "name": "Dikasterialgebäude",
-                  "text": "Das ehemalige Verwaltungsgebäude gehörte zum barocken Komplex von Schloss Philippsburg in Koblenz.",
-                  "category": "castle",
-                  "coords": [
-                        7.611329,
-                        50.361772
-                  ]
-            },
-            {
-                  "name": "Alte Burg",
-                  "text": "Die im 13. Jahrhundert erbaute ehemalige kurfürstliche Wasserburg liegt am Ufer der Mosel.",
-                  "category": "castle",
-                  "coords": [
-                        7.594074,
-                        50.362333
-                  ]
-            },
-            {
-                  "name": "Mosellum",
-                  "text": "Ein interaktives Erlebniszentrum an der Fischtreppe Koblenz, das Einblicke in die Mosel-Ökologie bietet.",
-                  "category": "museum",
-                  "coords": [
-                        7.581473,
-                        50.365192
-                  ]
-            },
-            {
-                  "name": "Rheinmuseum",
-                  "text": "Das Museum präsentiert die Geschichte der Schifffahrt und des Lebens am Rhein.",
-                  "category": "museum",
-                  "coords": [
-                        7.611617,
-                        50.36078
-                  ]
-            },
-            {
-                  "name": "Rheinburg",
-                  "text": "Ein historisches Festungsbauwerk im Stadtteil Ehrenbreitstein, das zum preußischen Verteidigungssystem gehörte.",
-                  "category": "castle",
-                  "coords": [
-                        7.614691,
-                        50.359511
-                  ]
-            },
-            {
-                  "name": "Wache am Helfenstein",
-                  "text": "Ein Teil der Festung Ehrenbreitstein, der zur Sicherung des südlichen Hangs diente.",
-                  "category": "castle",
-                  "coords": [
-                        7.613128,
-                        50.361578
-                  ]
-            },
-            {
-                  "name": "Werk Bleidenberg",
-                  "text": "Ein ehemaliges Befestigungswerk der preußischen Festung Koblenz im Bereich des Ehrenbreitsteins.",
-                  "category": "castle",
-                  "coords": [
-                        7.621886,
-                        50.371076
-                  ]
-            },
-            {
-                  "name": "Eiszeitliches Lößprofil",
-                  "text": "Ein bedeutendes geologisches Naturdenkmal in Koblenz-Metternich mit sichtbaren Sedimentschichten der Eiszeit.",
-                  "category": "natural",
-                  "coords": [
-                        7.555002,
-                        50.356497
-                  ]
-            },
-            {
-                  "name": "Museum Moselweiß",
-                  "text": "Ein lokales Heimatmuseum, das sich mit der Geschichte und Kultur des Stadtteils Moselweiß befasst.",
-                  "category": "museum",
-                  "coords": [
-                        7.55651,
-                        50.349386
-                  ]
-            },
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Ein beliebter Stadtstrand an der Mosel mit Freizeitangeboten und Gastronomie im Freien.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
-                  "name": "Löwentor",
-                  "text": "Das monumentale Haupttor der Festung Ehrenbreitstein, geschmückt mit Löwenfiguren.",
-                  "category": "castle",
-                  "coords": [
-                        7.579997,
-                        50.347812
-                  ]
-            },
-            {
-                  "name": "Gleisanlage vom DB Museum Koblenz",
-                  "text": "Historische Gleisanlagen im Außenbereich des DB Museums Koblenz mit verschiedenen Schienenfahrzeugen.",
-                  "category": "museum",
-                  "coords": [
-                        7.587155,
-                        50.37911
-                  ]
-            },
-            {
-                  "name": "Freibad Oberwerth",
-                  "text": "Großes Freibad im Stadtteil Oberwerth mit verschiedenen Schwimmbecken und Sportanlagen.",
-                  "category": "family",
-                  "coords": [
-                        7.595279,
-                        50.342123
-                  ]
-            },
-            {
-                  "name": "Escarpe der Neuendorfer Flesche",
-                  "text": "Innere Verteidigungsmauer der preußischen Festungsanlage Neuendorfer Flesche in Koblenz-Lützel.",
-                  "category": "castle",
-                  "coords": [
-                        7.597352,
-                        50.374555
-                  ]
-            },
-            {
-                  "name": "Wagenhäuser der Feste Franz",
-                  "text": "Ehemalige Wagenhäuser der preußischen Feste Franz, die zur Lagerung von Militärfahrzeugen dienten.",
-                  "category": "fortress",
-                  "coords": [
-                        7.592408,
-                        50.371926
-                  ]
-            },
-            {
-                  "name": "Moselbad",
-                  "text": "Schwimm- und Freizeitzentrum an der Mosel mit Innen- und Außenbecken für Wassersport.",
-                  "category": "family",
-                  "coords": [
-                        7.575103,
-                        50.366396
-                  ]
-            },
-            {
-                  "name": "Rheinanschlusskaserne",
-                  "text": "Ruinen einer ehemaligen preußischen Kaserne am Rheinufer im Stadtteil Lützel.",
-                  "category": "historical",
-                  "coords": [
-                        7.602148,
-                        50.353717
-                  ]
-            },
-            {
-                  "name": "Lützeler Volkspark",
-                  "text": "Öffentliche Grünanlage im Stadtteil Lützel mit Spielplätzen und Blick auf das Deutsche Eck.",
-                  "category": "park",
-                  "coords": [
-                        7.589243,
-                        50.374534
-                  ]
-            },
-            {
-                  "name": "Rheinanlagen",
-                  "text": "Großzügige Parkanlagen entlang des Rheinufers mit Denkmälern und Spazierwegen.",
-                  "category": "park",
-                  "coords": [
-                        7.594093,
-                        50.345269
-                  ]
-            },
-            {
-                  "name": "Konrad-Adenauer-Ufer",
-                  "text": "Bekannte Uferpromenade am Rhein, benannt nach dem ersten deutschen Bundeskanzler.",
-                  "category": "park",
-                  "coords": [
-                        7.60511,
-                        50.360463
-                  ]
-            },
-            {
-                  "name": "Luisenturm",
-                  "text": "Historischer Turm in Koblenz, der als Teil der ehemaligen Stadtbefestigung errichtet wurde.",
-                  "category": "tower",
-                  "coords": [
-                        7.61235,
-                        50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Ein ruhiger See bei Koblenz, ideal zum Entspannen in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
-                  ]
-            },
-            {
-                  "name": "Wasserspielplatz am deutschen Eck",
-                  "text": "Ein beliebter Wasserspielplatz am Deutschen Eck in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.603758,
-                        50.363228
-                  ]
-            },
-            {
-                  "name": "Spielplatz Behringstraße",
-                  "text": "Ein schöner Spielplatz in Koblenz für Kinder zum Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        7.576964,
-                        50.358478
-                  ]
-            },
-            {
-                  "name": "Spielplatz Junglassiedlung",
-                  "text": "Ein freundlicher Spielplatz in Koblenz für die Bewohner der Siedlung.",
-                  "category": "family",
-                  "coords": [
-                        7.57217,
-                        50.35434
-                  ]
-            },
-            {
-                  "name": "Kletterspielplatz Werk Bleidenberg",
-                  "text": "Ein spannender Kletterspielplatz am Werk Bleidenberg in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.620854,
-                        50.371045
-                  ]
-            },
-            {
-                  "name": "Rheinspielplatz",
-                  "text": "Ein schön gelegener Spielplatz am Rhein in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.590756,
-                        50.34323
-                  ]
-            },
-            {
-                  "name": "Spielplatz In der Weglänge",
-                  "text": "Ein gepflegter Spielplatz in Koblenz für Kinder zum Toben.",
-                  "category": "family",
-                  "coords": [
-                        7.561204,
-                        50.370407
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisenacher Straße",
-                  "text": "Ein einladender Spielplatz in Koblenz mit verschiedenen Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        7.562825,
-                        50.339283
-                  ]
-            },
-            {
-                  "name": "Captain Fun Kids Club",
-                  "text": "Ein unterhaltsames Freizeitzentrum in Koblenz für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        7.596293,
-                        50.357652
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Német sarok (Deutsches Eck)",
-                  "text": "A Rajna és a Mosel összefolyásánál található félsziget I. Vilmos császár monumentális lovasszobrával.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.605639,
-                        50.364167
-                  ]
-            },
-            {
-                  "name": "Ehrenbreitstein erőd",
-                  "text": "Európa egyik legnagyobb épségben maradt erődítménye, amely magasan a Rajna felett trónol és pazar kilátást nyújt.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.61528,
-                        50.365
-                  ]
-            },
-            {
-                  "name": "Koblenzi felvonó",
-                  "text": "A Rajna-partot köti össze az erőddel, lélegzetelállító panorámát biztosítva az UNESCO világörökségi tájra.",
-                  "category": "Bridges, train stations of note",
-                  "confidence": "high",
-                  "coords": [
-                        7.60889,
-                        50.3639
-                  ]
-            },
-            {
-                  "name": "Stolzenfels-kastély",
-                  "text": "A rajnai romantika ékköve, egy neogótikus kastély a folyó partján, amely pazar kertjeiről is híres.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.59242,
-                        50.3032
-                  ]
-            },
-            {
-                  "name": "Választófejedelmi kastély",
-                  "text": "Németország egyik legfontosabb kora klasszicista kastélya, amely közvetlenül a Rajna mentén fekszik.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.60222,
-                        50.3556
-                  ]
-            },
-            {
-                  "name": "Kulturfabrik Koblenz",
-                  "text": "Koblenzi kulturális központ, amely színházi előadásokról, koncertekről és kabaréműsorokról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        7.597263,
-                        50.372701
-                  ]
-            },
-            {
-                  "name": "Mittelrhein-Museum",
-                  "text": "A koblenzi múzeum a középkortól a modern korig mutatja be a művészet- és kultúrtörténetet.",
-                  "category": "museum",
-                  "coords": [
-                        7.59637,
-                        50.358709
-                  ]
-            },
-            {
-                  "name": "Deinhard Kellermuseum",
-                  "text": "A Deinhard történelmi pincéjében kialakított múzeum a pezsgőkészítés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.599359,
-                        50.357959
-                  ]
-            },
-            {
-                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
-                  "text": "A koblenzi múzeum a rajnai karnevál és a farsangi hagyományok történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.587256,
-                        50.351002
-                  ]
-            },
-            {
-                  "name": "DB Museum Koblenz",
-                  "text": "A DB Múzeum koblenzi telephelye, ahol történelmi mozdonyokat és vagonokat állítanak ki.",
-                  "category": "museum",
-                  "coords": [
-                        7.592178,
-                        50.37781
-                  ]
-            },
-            {
-                  "name": "Wehrtechnische Studiensammlung",
-                  "text": "A Bundeswehr haditechnikai gyűjteménye Koblenzben, amely a fegyverkezési technológia fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.58536,
-                        50.369062
-                  ]
-            },
-            {
-                  "name": "Ludwig-Museum im Deutschherrenhaus",
-                  "text": "A koblenzi történelmi Deutschherrenhaus épületében működő múzeum nemzetközi kortárs művészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        7.604961,
-                        50.362771
-                  ]
-            },
-            {
-                  "name": "Dikasterialgebäude",
-                  "text": "Az egykori közigazgatási épület a koblenzi Philippsburg-kastély barokk együttesének része volt.",
-                  "category": "castle",
-                  "coords": [
-                        7.611329,
-                        50.361772
-                  ]
-            },
-            {
-                  "name": "Alte Burg",
-                  "text": "A 13. században épült egykori választófejedelmi vár a Mosel folyó partján áll.",
-                  "category": "castle",
-                  "coords": [
-                        7.594074,
-                        50.362333
-                  ]
-            },
-            {
-                  "name": "Mosellum",
-                  "text": "Interaktív látogatóközpont a koblenzi hallépcsőnél, amely a Mosel ökológiáját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.581473,
-                        50.365192
-                  ]
-            },
-            {
-                  "name": "Rheinmuseum",
-                  "text": "A múzeum a rajnai hajózás és a folyó menti élet történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.611617,
-                        50.36078
-                  ]
-            },
-            {
-                  "name": "Rheinburg",
-                  "text": "Történelmi erődítmény Ehrenbreitstein városrészben, amely a porosz védelmi rendszer része volt.",
-                  "category": "castle",
-                  "coords": [
-                        7.614691,
-                        50.359511
-                  ]
-            },
-            {
-                  "name": "Wache am Helfenstein",
-                  "text": "Az Ehrenbreitstein-erőd része, amely a déli hegyoldal védelmét szolgálta.",
-                  "category": "castle",
-                  "coords": [
-                        7.613128,
-                        50.361578
-                  ]
-            },
-            {
-                  "name": "Werk Bleidenberg",
-                  "text": "A porosz koblenzi erődrendszer egykori védműve az Ehrenbreitstein területén.",
-                  "category": "castle",
-                  "coords": [
-                        7.621886,
-                        50.371076
-                  ]
-            },
-            {
-                  "name": "Eiszeitliches Lößprofil",
-                  "text": "Jelentős földtani természeti emlék Koblenz-Metternichben, látható jégkorszaki üledéksorokkal.",
-                  "category": "natural",
-                  "coords": [
-                        7.555002,
-                        50.356497
-                  ]
-            },
-            {
-                  "name": "Museum Moselweiß",
-                  "text": "Helytörténeti múzeum, amely Moselweiß városrész múltját és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.55651,
-                        50.349386
-                  ]
-            },
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Népszerű városi strand a Mosel partján, szabadidős lehetőségekkel és szabadtéri vendéglátással.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
-                  "name": "Löwentor",
-                  "text": "Az Ehrenbreitstein-erőd monumentális főkapuja, amelyet oroszlánfigurák díszítenek.",
-                  "category": "castle",
-                  "coords": [
-                        7.579997,
-                        50.347812
-                  ]
-            },
-            {
-                  "name": "Gleisanlage vom DB Museum Koblenz",
-                  "text": "A koblenzi DB Vasúti Múzeum szabadtéri vágányhálózata és kiállított vasúti kocsijai.",
-                  "category": "museum",
-                  "coords": [
-                        7.587155,
-                        50.37911
-                  ]
-            },
-            {
-                  "name": "Freibad Oberwerth",
-                  "text": "Nagy szabadtéri strandfürdő az Oberwerth városrészben, különféle medencékkel és sportpályákkal.",
-                  "category": "family",
-                  "coords": [
-                        7.595279,
-                        50.342123
-                  ]
-            },
-            {
-                  "name": "Escarpe der Neuendorfer Flesche",
-                  "text": "A porosz Neuendorfer Flesche erődítmény belső védőfala Koblenz-Lützel városrészben.",
-                  "category": "castle",
-                  "coords": [
-                        7.597352,
-                        50.374555
-                  ]
-            },
-            {
-                  "name": "Wagenhäuser der Feste Franz",
-                  "text": "A porosz Feste Franz erődrendszer egykori kocsiszínei, ahol hadi járműveket tároltak.",
-                  "category": "fortress",
-                  "coords": [
-                        7.592408,
-                        50.371926
-                  ]
-            },
-            {
-                  "name": "Moselbad",
-                  "text": "Vízi sportközpont a Mosel folyó partján, fedett és szabadtéri úszómedencékkel.",
-                  "category": "family",
-                  "coords": [
-                        7.575103,
-                        50.366396
-                  ]
-            },
-            {
-                  "name": "Rheinanschlusskaserne",
-                  "text": "Egykori porosz katonai laktanya romjai a Rajna partján, Lützel városrészben.",
-                  "category": "historical",
-                  "coords": [
-                        7.602148,
-                        50.353717
-                  ]
-            },
-            {
-                  "name": "Lützeler Volkspark",
-                  "text": "Nyilvános közpark Lützelben, játszóterekkel és kilátással a Deutsches Eckre.",
-                  "category": "park",
-                  "coords": [
-                        7.589243,
-                        50.374534
-                  ]
-            },
-            {
-                  "name": "Rheinanlagen",
-                  "text": "Kiterjedt parkrendszer a Rajna partján, számos emlékművel és sétánnyal.",
-                  "category": "park",
-                  "coords": [
-                        7.594093,
-                        50.345269
-                  ]
-            },
-            {
-                  "name": "Konrad-Adenauer-Ufer",
-                  "text": "Népszerű Rajna-parti sétány, amely az első német szövetségi kancellár nevét viseli.",
-                  "category": "park",
-                  "coords": [
-                        7.60511,
-                        50.360463
-                  ]
-            },
-            {
-                  "name": "Luisenturm",
-                  "text": "Történelmi torony Koblenzben, amely az egykori városi védművek részeként épült.",
-                  "category": "tower",
-                  "coords": [
-                        7.61235,
-                        50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Egy nyugodt tó Koblenz közelében, ideális pihenésre a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
-                  ]
-            },
-            {
-                  "name": "Wasserspielplatz am deutschen Eck",
-                  "text": "Népszerű vízi játszótér a koblenzi Deutsches Ecknél.",
-                  "category": "family",
-                  "coords": [
-                        7.603758,
-                        50.363228
-                  ]
-            },
-            {
-                  "name": "Spielplatz Behringstraße",
-                  "text": "Szép játszótér Koblenzben a szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.576964,
-                        50.358478
-                  ]
-            },
-            {
-                  "name": "Spielplatz Junglassiedlung",
-                  "text": "Barátságos játszótér Koblenzben a lakótelep lakóinak.",
-                  "category": "family",
-                  "coords": [
-                        7.57217,
-                        50.35434
-                  ]
-            },
-            {
-                  "name": "Kletterspielplatz Werk Bleidenberg",
-                  "text": "Izgalmas mászó játszótér a koblenzi Werk Bleidenberg területén.",
-                  "category": "family",
-                  "coords": [
-                        7.620854,
-                        50.371045
-                  ]
-            },
-            {
-                  "name": "Rheinspielplatz",
-                  "text": "Szép fekvésű játszótér a Rajna partján, Koblenzben.",
-                  "category": "family",
-                  "coords": [
-                        7.590756,
-                        50.34323
-                  ]
-            },
-            {
-                  "name": "Spielplatz In der Weglänge",
-                  "text": "Gondozott játszótér Koblenzben, ahol a gyerekek kitámbolhatják magukat.",
-                  "category": "family",
-                  "coords": [
-                        7.561204,
-                        50.370407
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisenacher Straße",
-                  "text": "Hívogató játszótér Koblenzben különféle játéklehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        7.562825,
-                        50.339283
-                  ]
-            },
-            {
-                  "name": "Captain Fun Kids Club",
-                  "text": "Szórakoztató szabadidőközpont Koblenzben gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        7.596293,
-                        50.357652
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Colțul German",
-                  "text": "Locul unde Mosela se varsă în Rin, dominat de monumentala statuie ecvestră a împăratului Wilhelm I.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.605639,
-                        50.364167
-                  ]
-            },
-            {
-                  "name": "Cetatea Ehrenbreitstein",
-                  "text": "O fortăreață impresionantă situată pe o stâncă deasupra Rinului, oferind o panoramă unică asupra orașului.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.61528,
-                        50.365
-                  ]
-            },
-            {
-                  "name": "Telecabina din Koblenz",
-                  "text": "O instalație modernă care traversează Rinul spre cetate, oferind vederi spectaculoase de la înălțime.",
-                  "category": "Bridges, train stations of note",
-                  "confidence": "high",
-                  "coords": [
-                        7.60889,
-                        50.3639
-                  ]
-            },
-            {
-                  "name": "Castelul Stolzenfels",
-                  "text": "Un castel neogotic reprezentativ pentru romantismul renan, situat pe un versant împădurit la sud de oraș.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.59242,
-                        50.3032
-                  ]
-            },
-            {
-                  "name": "Palatul Electoral",
-                  "text": "Un edificiu neoclasic grandios situat pe malul Rinului, fostă reședință a ultimului arhiepiscop de Trier.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.60222,
-                        50.3556
-                  ]
-            },
-            {
-                  "name": "Kulturfabrik Koblenz",
-                  "text": "Un centru cultural din Koblenz, cunoscut pentru spectacole de teatru, concerte și spectacole de cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        7.597263,
-                        50.372701
-                  ]
-            },
-            {
-                  "name": "Mittelrhein-Museum",
-                  "text": "Muzeul din Koblenz prezintă istoria artei și a culturii din epoca medievală până în perioada modernă.",
-                  "category": "museum",
-                  "coords": [
-                        7.59637,
-                        50.358709
-                  ]
-            },
-            {
-                  "name": "Deinhard Kellermuseum",
-                  "text": "Un muzeu situat în pivnița istorică Deinhard, care prezintă istoria producerii vinului spumant.",
-                  "category": "museum",
-                  "coords": [
-                        7.599359,
-                        50.357959
-                  ]
-            },
-            {
-                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
-                  "text": "Muzeul din Koblenz prezintă exponate privind istoria carnavalului rhenan și a tradițiilor de lăsatul secului.",
-                  "category": "museum",
-                  "coords": [
-                        7.587256,
-                        50.351002
-                  ]
-            },
-            {
-                  "name": "DB Museum Koblenz",
-                  "text": "O filială a Muzeului DB din Koblenz, care expune locomotive și vagoane istorice.",
-                  "category": "museum",
-                  "coords": [
-                        7.592178,
-                        50.37781
-                  ]
-            },
-            {
-                  "name": "Wehrtechnische Studiensammlung",
-                  "text": "O colecție tehnică a Bundeswehr-ului din Koblenz, care documentează evoluția tehnologiei militare.",
-                  "category": "museum",
-                  "coords": [
-                        7.58536,
-                        50.369062
-                  ]
-            },
-            {
-                  "name": "Ludwig-Museum im Deutschherrenhaus",
-                  "text": "Un muzeu situat în clădirea istorică Deutschherrenhaus din Koblenz, care expune artă contemporană internațională.",
-                  "category": "museum",
-                  "coords": [
-                        7.604961,
-                        50.362771
-                  ]
-            },
-            {
-                  "name": "Dikasterialgebäude",
-                  "text": "Această fostă clădire administrativă a făcut parte din complexul baroc al Castelului Philippsburg din Koblenz.",
-                  "category": "castle",
-                  "coords": [
-                        7.611329,
-                        50.361772
-                  ]
-            },
-            {
-                  "name": "Alte Burg",
-                  "text": "Acest fost castel electoral din secolul al XIII-lea este situat pe malul râului Mosela.",
-                  "category": "castle",
-                  "coords": [
-                        7.594074,
-                        50.362333
-                  ]
-            },
-            {
-                  "name": "Mosellum",
-                  "text": "Un centru de vizitare interactiv la scara de pești din Koblenz, care prezintă ecologia râului Mosela.",
-                  "category": "museum",
-                  "coords": [
-                        7.581473,
-                        50.365192
-                  ]
-            },
-            {
-                  "name": "Rheinmuseum",
-                  "text": "Muzeul prezintă istoria navigației și a vieții de-a lungul râului Rin.",
-                  "category": "museum",
-                  "coords": [
-                        7.611617,
-                        50.36078
-                  ]
-            },
-            {
-                  "name": "Rheinburg",
-                  "text": "O structură fortificată istorică din districtul Ehrenbreitstein, care a făcut parte din sistemul de apărare prusac.",
-                  "category": "castle",
-                  "coords": [
-                        7.614691,
-                        50.359511
-                  ]
-            },
-            {
-                  "name": "Wache am Helfenstein",
-                  "text": "O parte a fortreței Ehrenbreitstein, care a servit la asigurarea versantului sudic.",
-                  "category": "castle",
-                  "coords": [
-                        7.613128,
-                        50.361578
-                  ]
-            },
-            {
-                  "name": "Werk Bleidenberg",
-                  "text": "O fostă lucrare de fortificație a sistemului prusac Koblenz din zona Ehrenbreitstein.",
-                  "category": "castle",
-                  "coords": [
-                        7.621886,
-                        50.371076
-                  ]
-            },
-            {
-                  "name": "Eiszeitliches Lößprofil",
-                  "text": "Un monument natural geologic important în Koblenz-Metternich, cu straturi vizibile de sedimente din epoca glaciară.",
-                  "category": "natural",
-                  "coords": [
-                        7.555002,
-                        50.356497
-                  ]
-            },
-            {
-                  "name": "Museum Moselweiß",
-                  "text": "Un muzeu local de istorie care se ocupă de trecutul și cultura districtului Moselweiß.",
-                  "category": "museum",
-                  "coords": [
-                        7.55651,
-                        50.349386
-                  ]
-            },
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "O plajă urbană populară pe malul Moselei, cu facilități de agrement și gastronomie în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
-                  "name": "Löwentor",
-                  "text": "Poarta principală monumentală a fortreței Ehrenbreitstein, decorată cu figuri de lei.",
-                  "category": "castle",
-                  "coords": [
-                        7.579997,
-                        50.347812
-                  ]
-            },
-            {
-                  "name": "Gleisanlage vom DB Museum Koblenz",
-                  "text": "Liniile ferate istorice din zona exterioară a Muzeului DB din Koblenz, incluzând diverse vehicule.",
-                  "category": "museum",
-                  "coords": [
-                        7.587155,
-                        50.37911
-                  ]
-            },
-            {
-                  "name": "Freibad Oberwerth",
-                  "text": "Ștrand spațios în cartierul Oberwerth, dotat cu diverse bazine și terenuri de sport.",
-                  "category": "family",
-                  "coords": [
-                        7.595279,
-                        50.342123
-                  ]
-            },
-            {
-                  "name": "Escarpe der Neuendorfer Flesche",
-                  "text": "Zidul de apărare interior al fortificației prusace Neuendorfer Flesche din Koblenz-Lützel.",
-                  "category": "castle",
-                  "coords": [
-                        7.597352,
-                        50.374555
-                  ]
-            },
-            {
-                  "name": "Wagenhäuser der Feste Franz",
-                  "text": "Fostele remize ale fortificației prusace Feste Franz, utilizate pentru vehicule militare.",
-                  "category": "fortress",
-                  "coords": [
-                        7.592408,
-                        50.371926
-                  ]
-            },
-            {
-                  "name": "Moselbad",
-                  "text": "Centru de înot și agrement la râul Mosela, cu bazine interioare și exterioare.",
-                  "category": "family",
-                  "coords": [
-                        7.575103,
-                        50.366396
-                  ]
-            },
-            {
-                  "name": "Rheinanschlusskaserne",
-                  "text": "Ruinele unei foste cazărmi prusace situate pe malul Rinului în cartierul Lützel.",
-                  "category": "historical",
-                  "coords": [
-                        7.602148,
-                        50.353717
-                  ]
-            },
-            {
-                  "name": "Lützeler Volkspark",
-                  "text": "Parc public în cartierul Lützel, cu locuri de joacă și vedere spre Deutsches Eck.",
-                  "category": "park",
-                  "coords": [
-                        7.589243,
-                        50.374534
-                  ]
-            },
-            {
-                  "name": "Rheinanlagen",
-                  "text": "Zone verzi întinse de-a lungul malului Rinului, cu monumente și alei pietonale.",
-                  "category": "park",
-                  "coords": [
-                        7.594093,
-                        50.345269
-                  ]
-            },
-            {
-                  "name": "Konrad-Adenauer-Ufer",
-                  "text": "Promenadă celebră pe malul Rinului, numită după primul cancelar federal german.",
-                  "category": "park",
-                  "coords": [
-                        7.60511,
-                        50.360463
-                  ]
-            },
-            {
-                  "name": "Luisenturm",
-                  "text": "Turn istoric din Koblenz, construit ca parte a fostelor fortificații ale orașului.",
-                  "category": "tower",
-                  "coords": [
-                        7.61235,
-                        50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Un lac liniștit lângă Koblenz, perfect pentru relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
-                  ]
-            },
-            {
-                  "name": "Wasserspielplatz am deutschen Eck",
-                  "text": "Un teren de joacă cu apă popular la Deutsches Eck în Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.603758,
-                        50.363228
-                  ]
-            },
-            {
-                  "name": "Spielplatz Behringstraße",
-                  "text": "Un teren de joacă frumos în Koblenz pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.576964,
-                        50.358478
-                  ]
-            },
-            {
-                  "name": "Spielplatz Junglassiedlung",
-                  "text": "Un teren de joacă primitor în Koblenz pentru locuitorii cartierului.",
-                  "category": "family",
-                  "coords": [
-                        7.57217,
-                        50.35434
-                  ]
-            },
-            {
-                  "name": "Kletterspielplatz Werk Bleidenberg",
-                  "text": "Un teren de joacă pentru cățărat captivant la Werk Bleidenberg în Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.620854,
-                        50.371045
-                  ]
-            },
-            {
-                  "name": "Rheinspielplatz",
-                  "text": "Un teren de joacă frumos situat pe malul Rinului în Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.590756,
-                        50.34323
-                  ]
-            },
-            {
-                  "name": "Spielplatz In der Weglänge",
-                  "text": "Un teren de joacă bine întreținut în Koblenz pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.561204,
-                        50.370407
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisenacher Straße",
-                  "text": "Un teren de joacă primitor în Koblenz cu diverse dotări.",
-                  "category": "family",
-                  "coords": [
-                        7.562825,
-                        50.339283
-                  ]
-            },
-            {
-                  "name": "Captain Fun Kids Club",
-                  "text": "Un centru de divertisment distractiv în Koblenz pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.596293,
-                        50.357652
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Deutsches Eck (German Corner)",
-                  "text": "The famous confluence of the Rhine and Moselle rivers, featuring a huge equestrian statue of Emperor William I.",
-                  "category": "Town hall & historic squares",
-                  "confidence": "high",
-                  "coords": [
-                        7.605639,
-                        50.364167
-                  ]
-            },
-            {
-                  "name": "Ehrenbreitstein Fortress",
-                  "text": "One of Europe's largest preserved fortifications, offering history and great views from high above the Rhine.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.61528,
-                        50.365
-                  ]
-            },
-            {
-                  "name": "Koblenz Cable Car",
-                  "text": "A modern cable car crossing the Rhine, providing a spectacular bird's-eye view of the river valley and the city.",
-                  "category": "Bridges, train stations of note",
-                  "confidence": "high",
-                  "coords": [
-                        7.60889,
-                        50.3639
-                  ]
-            },
-            {
-                  "name": "Stolzenfels Castle",
-                  "text": "A jewel of Rhine Romanticism, this neo-Gothic castle is surrounded by beautiful gardens and terraced landscapes.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.59242,
-                        50.3032
-                  ]
-            },
-            {
-                  "name": "Electoral Palace",
-                  "text": "A major early neoclassical palace located on the riverbank, which served as a residence for Prussian royals.",
-                  "category": "Castles & palaces",
-                  "confidence": "high",
-                  "coords": [
-                        7.60222,
-                        50.3556
-                  ]
-            },
-            {
-                  "name": "Kulturfabrik Koblenz",
-                  "text": "A cultural center in Koblenz known for theatre performances, concerts, and cabaret shows.",
-                  "category": "cultural",
-                  "coords": [
-                        7.597263,
-                        50.372701
-                  ]
-            },
-            {
-                  "name": "Mittelrhein-Museum",
-                  "text": "The museum in Koblenz presents art and cultural history from the Middle Ages to the modern era.",
-                  "category": "museum",
-                  "coords": [
-                        7.59637,
-                        50.358709
-                  ]
-            },
-            {
-                  "name": "Deinhard Kellermuseum",
-                  "text": "A museum in the historic Deinhard cellar showing the history of sparkling wine production.",
-                  "category": "museum",
-                  "coords": [
-                        7.599359,
-                        50.357959
-                  ]
-            },
-            {
-                  "name": "Rheinisches Fastnachtsmuseum Koblenz",
-                  "text": "The museum in Koblenz displays exhibits on the history of Rhenish carnival and Fastnacht traditions.",
-                  "category": "museum",
-                  "coords": [
-                        7.587256,
-                        50.351002
-                  ]
-            },
-            {
-                  "name": "DB Museum Koblenz",
-                  "text": "A branch of the DB Museum in Koblenz displaying historic locomotives and railway carriages.",
-                  "category": "museum",
-                  "coords": [
-                        7.592178,
-                        50.37781
-                  ]
-            },
-            {
-                  "name": "Wehrtechnische Studiensammlung",
-                  "text": "A technical collection of the Bundeswehr in Koblenz documenting the development of defense technology.",
-                  "category": "museum",
-                  "coords": [
-                        7.58536,
-                        50.369062
-                  ]
-            },
-            {
-                  "name": "Ludwig-Museum im Deutschherrenhaus",
-                  "text": "A museum in the historic Deutschherrenhaus in Koblenz displaying international contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        7.604961,
-                        50.362771
-                  ]
-            },
-            {
-                  "name": "Dikasterialgebäude",
-                  "text": "This former administrative building was part of the baroque Schloss Philippsburg complex in Koblenz.",
-                  "category": "castle",
-                  "coords": [
-                        7.611329,
-                        50.361772
-                  ]
-            },
-            {
-                  "name": "Alte Burg",
-                  "text": "Built in the 13th century, this former electoral castle is located on the banks of the Moselle.",
-                  "category": "castle",
-                  "coords": [
-                        7.594074,
-                        50.362333
-                  ]
-            },
-            {
-                  "name": "Mosellum",
-                  "text": "An interactive visitor center at the Koblenz fish pass, showcasing the ecology of the Moselle river.",
-                  "category": "museum",
-                  "coords": [
-                        7.581473,
-                        50.365192
-                  ]
-            },
-            {
-                  "name": "Rheinmuseum",
-                  "text": "The museum presents the history of navigation and life along the Rhine river.",
-                  "category": "museum",
-                  "coords": [
-                        7.611617,
-                        50.36078
-                  ]
-            },
-            {
-                  "name": "Rheinburg",
-                  "text": "A historic fortification building in the Ehrenbreitstein district, once part of the Prussian defense system.",
-                  "category": "castle",
-                  "coords": [
-                        7.614691,
-                        50.359511
-                  ]
-            },
-            {
-                  "name": "Wache am Helfenstein",
-                  "text": "A part of the Ehrenbreitstein Fortress that served to secure the southern slope.",
-                  "category": "castle",
-                  "coords": [
-                        7.613128,
-                        50.361578
-                  ]
-            },
-            {
-                  "name": "Werk Bleidenberg",
-                  "text": "A former fortification work of the Prussian Koblenz fortress system in the Ehrenbreitstein area.",
-                  "category": "castle",
-                  "coords": [
-                        7.621886,
-                        50.371076
-                  ]
-            },
-            {
-                  "name": "Eiszeitliches Lößprofil",
-                  "text": "An important geological natural monument in Koblenz-Metternich with visible sediment layers from the Ice Age.",
-                  "category": "natural",
-                  "coords": [
-                        7.555002,
-                        50.356497
-                  ]
-            },
-            {
-                  "name": "Museum Moselweiß",
-                  "text": "A local history museum focusing on the heritage and culture of the Moselweiß district.",
-                  "category": "museum",
-                  "coords": [
-                        7.55651,
-                        50.349386
-                  ]
-            },
-            {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "A popular urban beach on the Moselle with leisure facilities and outdoor dining.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
-                  "name": "Löwentor",
-                  "text": "The monumental main gate of the Ehrenbreitstein Fortress, decorated with lion figures.",
-                  "category": "castle",
-                  "coords": [
-                        7.579997,
-                        50.347812
-                  ]
-            },
-            {
-                  "name": "Gleisanlage vom DB Museum Koblenz",
-                  "text": "Historical railway tracks and rolling stock in the outdoor area of the DB Museum Koblenz.",
-                  "category": "museum",
-                  "coords": [
-                        7.587155,
-                        50.37911
-                  ]
-            },
-            {
-                  "name": "Freibad Oberwerth",
-                  "text": "Large open-air swimming pool in the Oberwerth district with various pools and sports facilities.",
-                  "category": "family",
-                  "coords": [
-                        7.595279,
-                        50.342123
-                  ]
-            },
-            {
-                  "name": "Escarpe der Neuendorfer Flesche",
-                  "text": "Inner defensive wall of the Prussian Neuendorfer Flesche fortification in Koblenz-Lützel.",
-                  "category": "castle",
-                  "coords": [
-                        7.597352,
-                        50.374555
-                  ]
-            },
-            {
-                  "name": "Wagenhäuser der Feste Franz",
-                  "text": "Former carriage houses of the Prussian Feste Franz fort, used for storing military vehicles.",
-                  "category": "fortress",
-                  "coords": [
-                        7.592408,
-                        50.371926
-                  ]
-            },
-            {
-                  "name": "Moselbad",
-                  "text": "Swimming and leisure center by the Moselle with indoor and outdoor pools for water sports.",
-                  "category": "family",
-                  "coords": [
-                        7.575103,
-                        50.366396
-                  ]
-            },
-            {
-                  "name": "Rheinanschlusskaserne",
-                  "text": "Ruins of a former Prussian military barracks on the Rhine bank in the Lützel district.",
-                  "category": "historical",
-                  "coords": [
-                        7.602148,
-                        50.353717
-                  ]
-            },
-            {
-                  "name": "Lützeler Volkspark",
-                  "text": "Public green space in the Lützel district with playgrounds and views of the Deutsches Eck.",
-                  "category": "park",
-                  "coords": [
-                        7.589243,
-                        50.374534
-                  ]
-            },
-            {
-                  "name": "Rheinanlagen",
-                  "text": "Extensive parklands along the Rhine riverbank with monuments and walking paths.",
-                  "category": "park",
-                  "coords": [
-                        7.594093,
-                        50.345269
-                  ]
-            },
-            {
-                  "name": "Konrad-Adenauer-Ufer",
-                  "text": "Famous riverside promenade along the Rhine, named after the first German Federal Chancellor.",
-                  "category": "park",
-                  "coords": [
-                        7.60511,
-                        50.360463
-                  ]
-            },
-            {
-                  "name": "Luisenturm",
-                  "text": "Historical tower in Koblenz, built as part of the former city fortifications.",
-                  "category": "tower",
-                  "coords": [
-                        7.61235,
-                        50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "A peaceful lake near Koblenz, perfect for relaxing in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
-                  ]
-            },
-            {
-                  "name": "Wasserspielplatz am deutschen Eck",
-                  "text": "A popular water playground at the Deutsches Eck in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.603758,
-                        50.363228
-                  ]
-            },
-            {
-                  "name": "Spielplatz Behringstraße",
-                  "text": "A nice playground in Koblenz for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        7.576964,
-                        50.358478
-                  ]
-            },
-            {
-                  "name": "Spielplatz Junglassiedlung",
-                  "text": "A friendly playground in Koblenz for the local residents.",
-                  "category": "family",
-                  "coords": [
-                        7.57217,
-                        50.35434
-                  ]
-            },
-            {
-                  "name": "Kletterspielplatz Werk Bleidenberg",
-                  "text": "An exciting climbing playground at Werk Bleidenberg in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.620854,
-                        50.371045
-                  ]
-            },
-            {
-                  "name": "Rheinspielplatz",
-                  "text": "A beautifully located playground by the Rhine in Koblenz.",
-                  "category": "family",
-                  "coords": [
-                        7.590756,
-                        50.34323
-                  ]
-            },
-            {
-                  "name": "Spielplatz In der Weglänge",
-                  "text": "A well-kept playground in Koblenz for children to run around.",
-                  "category": "family",
-                  "coords": [
-                        7.561204,
-                        50.370407
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisenacher Straße",
-                  "text": "An inviting playground in Koblenz with various play options.",
-                  "category": "family",
-                  "coords": [
-                        7.562825,
-                        50.339283
-                  ]
-            },
-            {
-                  "name": "Captain Fun Kids Club",
-                  "text": "An entertaining leisure center in Koblenz for children.",
-                  "category": "family",
-                  "coords": [
-                        7.596293,
-                        50.357652
-                  ]
-            }
-      ],
-      "tr": [
-            {
-                  "name": "Deutsches Eck",
-                  "text": "Ren ve Mosel nehirlerinin birleştiği noktada, İmparator I. Wilhelm'in anıtsal atlı heykelinin bulunduğu burun.",
-                  "category": "Town hall & historic squares",
-                  "coords": [
-                        7.605639,
-                        50.364167
-                  ]
-            },
-            {
-                  "name": "Ehrenbreitstein Kalesi",
-                  "text": "Ren nehrinin üzerinde yükselen ve panoramik bir manzara sunan, Avrupa'nın en büyük korunmuş kalelerinden biri.",
-                  "category": "Castles & palaces",
-                  "coords": [
-                        7.61528,
-                        50.365
-                  ]
-            },
-            {
-                  "name": "Koblenz Teleferiği",
-                  "text": "Ren kıyılarını kaleye bağlar ve UNESCO Dünya Mirası üzerinde muhteşem bir manzara sunar.",
-                  "category": "Bridges, train stations of note",
-                  "coords": [
-                        7.60889,
-                        50.3639
-                  ]
-            },
-            {
-                  "name": "Stolzenfels Şatosu",
-                  "text": "Koblenz'in güneyinde, Ren nehrinin sol kıyısında Neo-Gotik tarzda inşa edilmiş bir romantizm mücevheri.",
-                  "category": "Castles & palaces",
-                  "coords": [
-                        7.59242,
-                        50.3032
-                  ]
-            },
-            {
-                  "name": "Elektörlük Şatosu",
-                  "text": "Ren kıyısında yer alan, Almanya'nın Erken Klasisizm dönemine ait en önemli şatolarından biridir.",
-                  "category": "Castles & palaces",
-                  "coords": [
-                        7.60222,
-                        50.3556
-                  ]
-            },
-            {
-                  "name": "St. Kastor Bazilikası",
-                  "text": "Koblenz'in en eski kilisesi olup Deutsches Eck'teki önemli tarihi olaylara tanıklık etmiştir.",
-                  "category": "Churches & monasteries"
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Deutsches Eck", "text": "Landzunge am Zusammenfluss von Rhein und Mosel mit dem monumentalen Reiterstandbild Kaiser Wilhelms I.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.605639, 50.364167]}, {"name": "Festung Ehrenbreitstein", "text": "Eine der größten erhaltenen Festungen Europas, die hoch über dem Rhein thront und einen Panoramablick bietet.", "category": "Castles & palaces", "confidence": "high", "coords": [7.61528, 50.365]}, {"name": "Seilbahn Koblenz", "text": "Verbindet die Rheinanlagen mit der Festung Ehrenbreitstein und bietet eine spektakuläre Aussicht über das UNESCO-Welterbe.", "category": "Bridges, train stations of note", "confidence": "high", "coords": [7.60889, 50.3639]}, {"name": "Schloss Stolzenfels", "text": "Ein Juwel der Rheinromantik, erbaut als neugotisches Schloss oberhalb des linken Rheinufer im Süden von Koblenz.", "category": "Castles & palaces", "confidence": "high", "coords": [7.59242, 50.3032]}, {"name": "Kurfürstliches Schloss", "text": "Eines der bedeutendsten Schlösser des Frühklassizismus in Deutschland, direkt am Rheinufer gelegen.", "category": "Castles & palaces", "confidence": "high", "coords": [7.60222, 50.3556]}, {"name": "Basilika St. Kastor", "text": "Die älteste Kirche von Koblenz, Schauplatz bedeutender historischer Ereignisse am Deutschen Eck.", "category": "Churches & monasteries", "confidence": "high"}, {"name": "Kulturfabrik Koblenz", "text": "Ein Kulturzentrum in Koblenz, das für Theateraufführungen, Konzerte und Kleinkunst bekannt ist.", "category": "cultural", "coords": [7.597263, 50.372701]}, {"name": "Mittelrhein-Museum", "text": "Das Museum in Koblenz präsentiert Kunst und Kulturgeschichte vom Mittelalter bis zur Moderne.", "category": "museum", "coords": [7.59637, 50.358709]}, {"name": "Deinhard Kellermuseum", "text": "Ein Museum im historischen Keller von Deinhard, das die Geschichte der Sektherstellung zeigt.", "category": "museum", "coords": [7.599359, 50.357959]}, {"name": "Rheinisches Fastnachtsmuseum Koblenz", "text": "Das Museum in Koblenz zeigt Exponate zur Geschichte des rheinischen Karnevals und der Fastnacht.", "category": "museum", "coords": [7.587256, 50.351002]}, {"name": "DB Museum Koblenz", "text": "Eine Außenstelle des DB Museums in Koblenz, die historische Lokomotiven und Waggons ausstellt.", "category": "museum", "coords": [7.592178, 50.37781]}, {"name": "Wehrtechnische Studiensammlung", "text": "Eine technische Sammlung der Bundeswehr in Koblenz, die die Entwicklung der Wehrtechnik dokumentiert.", "category": "museum", "coords": [7.58536, 50.369062]}, {"name": "Ludwig-Museum im Deutschherrenhaus", "text": "Ein Museum im historischen Deutschherrenhaus in Koblenz, das internationale zeitgenössische Kunst zeigt.", "category": "museum", "coords": [7.604961, 50.362771]}, {"name": "Dikasterialgebäude", "text": "Das ehemalige Verwaltungsgebäude gehörte zum barocken Komplex von Schloss Philippsburg in Koblenz.", "category": "castle", "coords": [7.611329, 50.361772]}, {"name": "Alte Burg", "text": "Die im 13. Jahrhundert erbaute ehemalige kurfürstliche Wasserburg liegt am Ufer der Mosel.", "category": "castle", "coords": [7.594074, 50.362333]}, {"name": "Mosellum", "text": "Ein interaktives Erlebniszentrum an der Fischtreppe Koblenz, das Einblicke in die Mosel-Ökologie bietet.", "category": "museum", "coords": [7.581473, 50.365192]}, {"name": "Rheinmuseum", "text": "Das Museum präsentiert die Geschichte der Schifffahrt und des Lebens am Rhein.", "category": "museum", "coords": [7.611617, 50.36078]}, {"name": "Rheinburg", "text": "Ein historisches Festungsbauwerk im Stadtteil Ehrenbreitstein, das zum preußischen Verteidigungssystem gehörte.", "category": "castle", "coords": [7.614691, 50.359511]}, {"name": "Wache am Helfenstein", "text": "Ein Teil der Festung Ehrenbreitstein, der zur Sicherung des südlichen Hangs diente.", "category": "castle", "coords": [7.613128, 50.361578]}, {"name": "Werk Bleidenberg", "text": "Ein ehemaliges Befestigungswerk der preußischen Festung Koblenz im Bereich des Ehrenbreitsteins.", "category": "castle", "coords": [7.621886, 50.371076]}, {"name": "Eiszeitliches Lößprofil", "text": "Ein bedeutendes geologisches Naturdenkmal in Koblenz-Metternich mit sichtbaren Sedimentschichten der Eiszeit.", "category": "natural", "coords": [7.555002, 50.356497]}, {"name": "Museum Moselweiß", "text": "Ein lokales Heimatmuseum, das sich mit der Geschichte und Kultur des Stadtteils Moselweiß befasst.", "category": "museum", "coords": [7.55651, 50.349386]}, {"name": "Statt-Strand-Koblenz", "text": "Direkt an der Mosel gelegen, bringt dieser charmante Stadtstrand eine entspannte Urlaubsatmosphäre nach Koblenz. Besucher können hier bei einem kühlen Getränk aus der Außengastronomie die vorbeiziehenden Schiffe beobachten und die Sonne genießen. Die vielfältigen Freizeitangebote sorgen dafür, dass weder bei Familien noch bei Freunden Langeweile aufkommt. Ein Besuch zum Sonnenuntergang verspricht eine besonders romantische Stimmung am Wasser.", "category": "recreational", "coords": [7.563724, 50.362186]}, {"name": "Löwentor", "text": "Das monumentale Haupttor der Festung Ehrenbreitstein, geschmückt mit Löwenfiguren.", "category": "castle", "coords": [7.579997, 50.347812]}, {"name": "Gleisanlage vom DB Museum Koblenz", "text": "Historische Gleisanlagen im Außenbereich des DB Museums Koblenz mit verschiedenen Schienenfahrzeugen.", "category": "museum", "coords": [7.587155, 50.37911]}, {"name": "Freibad Oberwerth", "text": "Großes Freibad im Stadtteil Oberwerth mit verschiedenen Schwimmbecken und Sportanlagen.", "category": "family", "coords": [7.595279, 50.342123]}, {"name": "Escarpe der Neuendorfer Flesche", "text": "Innere Verteidigungsmauer der preußischen Festungsanlage Neuendorfer Flesche in Koblenz-Lützel.", "category": "castle", "coords": [7.597352, 50.374555]}, {"name": "Wagenhäuser der Feste Franz", "text": "Ehemalige Wagenhäuser der preußischen Feste Franz, die zur Lagerung von Militärfahrzeugen dienten.", "category": "fortress", "coords": [7.592408, 50.371926]}, {"name": "Moselbad", "text": "Schwimm- und Freizeitzentrum an der Mosel mit Innen- und Außenbecken für Wassersport.", "category": "family", "coords": [7.575103, 50.366396]}, {"name": "Rheinanschlusskaserne", "text": "Ruinen einer ehemaligen preußischen Kaserne am Rheinufer im Stadtteil Lützel.", "category": "historical", "coords": [7.602148, 50.353717]}, {"name": "Lützeler Volkspark", "text": "Öffentliche Grünanlage im Stadtteil Lützel mit Spielplätzen und Blick auf das Deutsche Eck.", "category": "park", "coords": [7.589243, 50.374534]}, {"name": "Rheinanlagen", "text": "Großzügige Parkanlagen entlang des Rheinufers mit Denkmälern und Spazierwegen.", "category": "park", "coords": [7.594093, 50.345269]}, {"name": "Konrad-Adenauer-Ufer", "text": "Bekannte Uferpromenade am Rhein, benannt nach dem ersten deutschen Bundeskanzler.", "category": "park", "coords": [7.60511, 50.360463]}, {"name": "Luisenturm", "text": "Historischer Turm in Koblenz, der als Teil der ehemaligen Stadtbefestigung errichtet wurde.", "category": "tower", "coords": [7.61235, 50.35711]}, {"name": "Kahle Loch", "text": "Ein ruhiger See bei Koblenz, ideal zum Entspannen in der Natur.", "category": "natural", "coords": [7.543719, 50.418923]}, {"name": "Wasserspielplatz am deutschen Eck", "text": "Ein beliebter Wasserspielplatz am Deutschen Eck in Koblenz.", "category": "family", "coords": [7.603758, 50.363228]}, {"name": "Spielplatz Behringstraße", "text": "Ein schöner Spielplatz in Koblenz für Kinder zum Spielen im Freien.", "category": "family", "coords": [7.576964, 50.358478]}, {"name": "Spielplatz Junglassiedlung", "text": "Ein freundlicher Spielplatz in Koblenz für die Bewohner der Siedlung.", "category": "family", "coords": [7.57217, 50.35434]}, {"name": "Kletterspielplatz Werk Bleidenberg", "text": "Ein spannender Kletterspielplatz am Werk Bleidenberg in Koblenz.", "category": "family", "coords": [7.620854, 50.371045]}, {"name": "Rheinspielplatz", "text": "Ein schön gelegener Spielplatz am Rhein in Koblenz.", "category": "family", "coords": [7.590756, 50.34323]}, {"name": "Spielplatz In der Weglänge", "text": "Ein gepflegter Spielplatz in Koblenz für Kinder zum Toben.", "category": "family", "coords": [7.561204, 50.370407]}, {"name": "Spielplatz Eisenacher Straße", "text": "Ein einladender Spielplatz in Koblenz mit verschiedenen Spielmöglichkeiten.", "category": "family", "coords": [7.562825, 50.339283]}, {"name": "Captain Fun Kids Club", "text": "Ein unterhaltsames Freizeitzentrum in Koblenz für Kinder.", "category": "family", "coords": [7.596293, 50.357652]}], "hu": [{"name": "Német sarok (Deutsches Eck)", "text": "A Rajna és a Mosel összefolyásánál található félsziget I. Vilmos császár monumentális lovasszobrával.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.605639, 50.364167]}, {"name": "Ehrenbreitstein erőd", "text": "Európa egyik legnagyobb épségben maradt erődítménye, amely magasan a Rajna felett trónol és pazar kilátást nyújt.", "category": "Castles & palaces", "confidence": "high", "coords": [7.61528, 50.365]}, {"name": "Koblenzi felvonó", "text": "A Rajna-partot köti össze az erőddel, lélegzetelállító panorámát biztosítva az UNESCO világörökségi tájra.", "category": "Bridges, train stations of note", "confidence": "high", "coords": [7.60889, 50.3639]}, {"name": "Stolzenfels-kastély", "text": "A rajnai romantika ékköve, egy neogótikus kastély a folyó partján, amely pazar kertjeiről is híres.", "category": "Castles & palaces", "confidence": "high", "coords": [7.59242, 50.3032]}, {"name": "Választófejedelmi kastély", "text": "Németország egyik legfontosabb kora klasszicista kastélya, amely közvetlenül a Rajna mentén fekszik.", "category": "Castles & palaces", "confidence": "high", "coords": [7.60222, 50.3556]}, {"name": "Kulturfabrik Koblenz", "text": "Koblenzi kulturális központ, amely színházi előadásokról, koncertekről és kabaréműsorokról ismert.", "category": "cultural", "coords": [7.597263, 50.372701]}, {"name": "Mittelrhein-Museum", "text": "A koblenzi múzeum a középkortól a modern korig mutatja be a művészet- és kultúrtörténetet.", "category": "museum", "coords": [7.59637, 50.358709]}, {"name": "Deinhard Kellermuseum", "text": "A Deinhard történelmi pincéjében kialakított múzeum a pezsgőkészítés történetét mutatja be.", "category": "museum", "coords": [7.599359, 50.357959]}, {"name": "Rheinisches Fastnachtsmuseum Koblenz", "text": "A koblenzi múzeum a rajnai karnevál és a farsangi hagyományok történetét mutatja be.", "category": "museum", "coords": [7.587256, 50.351002]}, {"name": "DB Museum Koblenz", "text": "A DB Múzeum koblenzi telephelye, ahol történelmi mozdonyokat és vagonokat állítanak ki.", "category": "museum", "coords": [7.592178, 50.37781]}, {"name": "Wehrtechnische Studiensammlung", "text": "A Bundeswehr haditechnikai gyűjteménye Koblenzben, amely a fegyverkezési technológia fejlődését mutatja be.", "category": "museum", "coords": [7.58536, 50.369062]}, {"name": "Ludwig-Museum im Deutschherrenhaus", "text": "A koblenzi történelmi Deutschherrenhaus épületében működő múzeum nemzetközi kortárs művészetet mutat be.", "category": "museum", "coords": [7.604961, 50.362771]}, {"name": "Dikasterialgebäude", "text": "Az egykori közigazgatási épület a koblenzi Philippsburg-kastély barokk együttesének része volt.", "category": "castle", "coords": [7.611329, 50.361772]}, {"name": "Alte Burg", "text": "A 13. században épült egykori választófejedelmi vár a Mosel folyó partján áll.", "category": "castle", "coords": [7.594074, 50.362333]}, {"name": "Mosellum", "text": "Interaktív látogatóközpont a koblenzi hallépcsőnél, amely a Mosel ökológiáját mutatja be.", "category": "museum", "coords": [7.581473, 50.365192]}, {"name": "Rheinmuseum", "text": "A múzeum a rajnai hajózás és a folyó menti élet történelmét mutatja be.", "category": "museum", "coords": [7.611617, 50.36078]}, {"name": "Rheinburg", "text": "Történelmi erődítmény Ehrenbreitstein városrészben, amely a porosz védelmi rendszer része volt.", "category": "castle", "coords": [7.614691, 50.359511]}, {"name": "Wache am Helfenstein", "text": "Az Ehrenbreitstein-erőd része, amely a déli hegyoldal védelmét szolgálta.", "category": "castle", "coords": [7.613128, 50.361578]}, {"name": "Werk Bleidenberg", "text": "A porosz koblenzi erődrendszer egykori védműve az Ehrenbreitstein területén.", "category": "castle", "coords": [7.621886, 50.371076]}, {"name": "Eiszeitliches Lößprofil", "text": "Jelentős földtani természeti emlék Koblenz-Metternichben, látható jégkorszaki üledéksorokkal.", "category": "natural", "coords": [7.555002, 50.356497]}, {"name": "Museum Moselweiß", "text": "Helytörténeti múzeum, amely Moselweiß városrész múltját és kultúráját mutatja be.", "category": "museum", "coords": [7.55651, 50.349386]}, {"name": "Statt-Strand-Koblenz", "text": "Népszerű városi strand a Mosel partján, szabadidős lehetőségekkel és szabadtéri vendéglátással.", "category": "recreational", "coords": [7.563724, 50.362186]}, {"name": "Löwentor", "text": "Az Ehrenbreitstein-erőd monumentális főkapuja, amelyet oroszlánfigurák díszítenek.", "category": "castle", "coords": [7.579997, 50.347812]}, {"name": "Gleisanlage vom DB Museum Koblenz", "text": "A koblenzi DB Vasúti Múzeum szabadtéri vágányhálózata és kiállított vasúti kocsijai.", "category": "museum", "coords": [7.587155, 50.37911]}, {"name": "Freibad Oberwerth", "text": "Nagy szabadtéri strandfürdő az Oberwerth városrészben, különféle medencékkel és sportpályákkal.", "category": "family", "coords": [7.595279, 50.342123]}, {"name": "Escarpe der Neuendorfer Flesche", "text": "A porosz Neuendorfer Flesche erődítmény belső védőfala Koblenz-Lützel városrészben.", "category": "castle", "coords": [7.597352, 50.374555]}, {"name": "Wagenhäuser der Feste Franz", "text": "A porosz Feste Franz erődrendszer egykori kocsiszínei, ahol hadi járműveket tároltak.", "category": "fortress", "coords": [7.592408, 50.371926]}, {"name": "Moselbad", "text": "Vízi sportközpont a Mosel folyó partján, fedett és szabadtéri úszómedencékkel.", "category": "family", "coords": [7.575103, 50.366396]}, {"name": "Rheinanschlusskaserne", "text": "Egykori porosz katonai laktanya romjai a Rajna partján, Lützel városrészben.", "category": "historical", "coords": [7.602148, 50.353717]}, {"name": "Lützeler Volkspark", "text": "Nyilvános közpark Lützelben, játszóterekkel és kilátással a Deutsches Eckre.", "category": "park", "coords": [7.589243, 50.374534]}, {"name": "Rheinanlagen", "text": "Kiterjedt parkrendszer a Rajna partján, számos emlékművel és sétánnyal.", "category": "park", "coords": [7.594093, 50.345269]}, {"name": "Konrad-Adenauer-Ufer", "text": "Népszerű Rajna-parti sétány, amely az első német szövetségi kancellár nevét viseli.", "category": "park", "coords": [7.60511, 50.360463]}, {"name": "Luisenturm", "text": "Történelmi torony Koblenzben, amely az egykori városi védművek részeként épült.", "category": "tower", "coords": [7.61235, 50.35711]}, {"name": "Kahle Loch", "text": "Egy nyugodt tó Koblenz közelében, ideális pihenésre a természetben.", "category": "natural", "coords": [7.543719, 50.418923]}, {"name": "Wasserspielplatz am deutschen Eck", "text": "Népszerű vízi játszótér a koblenzi Deutsches Ecknél.", "category": "family", "coords": [7.603758, 50.363228]}, {"name": "Spielplatz Behringstraße", "text": "Szép játszótér Koblenzben a szabadtéri játékhoz.", "category": "family", "coords": [7.576964, 50.358478]}, {"name": "Spielplatz Junglassiedlung", "text": "Barátságos játszótér Koblenzben a lakótelep lakóinak.", "category": "family", "coords": [7.57217, 50.35434]}, {"name": "Kletterspielplatz Werk Bleidenberg", "text": "Izgalmas mászó játszótér a koblenzi Werk Bleidenberg területén.", "category": "family", "coords": [7.620854, 50.371045]}, {"name": "Rheinspielplatz", "text": "Szép fekvésű játszótér a Rajna partján, Koblenzben.", "category": "family", "coords": [7.590756, 50.34323]}, {"name": "Spielplatz In der Weglänge", "text": "Gondozott játszótér Koblenzben, ahol a gyerekek kitámbolhatják magukat.", "category": "family", "coords": [7.561204, 50.370407]}, {"name": "Spielplatz Eisenacher Straße", "text": "Hívogató játszótér Koblenzben különféle játéklehetőségekkel.", "category": "family", "coords": [7.562825, 50.339283]}, {"name": "Captain Fun Kids Club", "text": "Szórakoztató szabadidőközpont Koblenzben gyermekek számára.", "category": "family", "coords": [7.596293, 50.357652]}], "ro": [{"name": "Colțul German", "text": "Locul unde Mosela se varsă în Rin, dominat de monumentala statuie ecvestră a împăratului Wilhelm I.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.605639, 50.364167]}, {"name": "Cetatea Ehrenbreitstein", "text": "O fortăreață impresionantă situată pe o stâncă deasupra Rinului, oferind o panoramă unică asupra orașului.", "category": "Castles & palaces", "confidence": "high", "coords": [7.61528, 50.365]}, {"name": "Telecabina din Koblenz", "text": "O instalație modernă care traversează Rinul spre cetate, oferind vederi spectaculoase de la înălțime.", "category": "Bridges, train stations of note", "confidence": "high", "coords": [7.60889, 50.3639]}, {"name": "Castelul Stolzenfels", "text": "Un castel neogotic reprezentativ pentru romantismul renan, situat pe un versant împădurit la sud de oraș.", "category": "Castles & palaces", "confidence": "high", "coords": [7.59242, 50.3032]}, {"name": "Palatul Electoral", "text": "Un edificiu neoclasic grandios situat pe malul Rinului, fostă reședință a ultimului arhiepiscop de Trier.", "category": "Castles & palaces", "confidence": "high", "coords": [7.60222, 50.3556]}, {"name": "Kulturfabrik Koblenz", "text": "Un centru cultural din Koblenz, cunoscut pentru spectacole de teatru, concerte și spectacole de cabaret.", "category": "cultural", "coords": [7.597263, 50.372701]}, {"name": "Mittelrhein-Museum", "text": "Muzeul din Koblenz prezintă istoria artei și a culturii din epoca medievală până în perioada modernă.", "category": "museum", "coords": [7.59637, 50.358709]}, {"name": "Deinhard Kellermuseum", "text": "Un muzeu situat în pivnița istorică Deinhard, care prezintă istoria producerii vinului spumant.", "category": "museum", "coords": [7.599359, 50.357959]}, {"name": "Rheinisches Fastnachtsmuseum Koblenz", "text": "Muzeul din Koblenz prezintă exponate privind istoria carnavalului rhenan și a tradițiilor de lăsatul secului.", "category": "museum", "coords": [7.587256, 50.351002]}, {"name": "DB Museum Koblenz", "text": "O filială a Muzeului DB din Koblenz, care expune locomotive și vagoane istorice.", "category": "museum", "coords": [7.592178, 50.37781]}, {"name": "Wehrtechnische Studiensammlung", "text": "O colecție tehnică a Bundeswehr-ului din Koblenz, care documentează evoluția tehnologiei militare.", "category": "museum", "coords": [7.58536, 50.369062]}, {"name": "Ludwig-Museum im Deutschherrenhaus", "text": "Un muzeu situat în clădirea istorică Deutschherrenhaus din Koblenz, care expune artă contemporană internațională.", "category": "museum", "coords": [7.604961, 50.362771]}, {"name": "Dikasterialgebäude", "text": "Această fostă clădire administrativă a făcut parte din complexul baroc al Castelului Philippsburg din Koblenz.", "category": "castle", "coords": [7.611329, 50.361772]}, {"name": "Alte Burg", "text": "Acest fost castel electoral din secolul al XIII-lea este situat pe malul râului Mosela.", "category": "castle", "coords": [7.594074, 50.362333]}, {"name": "Mosellum", "text": "Un centru de vizitare interactiv la scara de pești din Koblenz, care prezintă ecologia râului Mosela.", "category": "museum", "coords": [7.581473, 50.365192]}, {"name": "Rheinmuseum", "text": "Muzeul prezintă istoria navigației și a vieții de-a lungul râului Rin.", "category": "museum", "coords": [7.611617, 50.36078]}, {"name": "Rheinburg", "text": "O structură fortificată istorică din districtul Ehrenbreitstein, care a făcut parte din sistemul de apărare prusac.", "category": "castle", "coords": [7.614691, 50.359511]}, {"name": "Wache am Helfenstein", "text": "O parte a fortreței Ehrenbreitstein, care a servit la asigurarea versantului sudic.", "category": "castle", "coords": [7.613128, 50.361578]}, {"name": "Werk Bleidenberg", "text": "O fostă lucrare de fortificație a sistemului prusac Koblenz din zona Ehrenbreitstein.", "category": "castle", "coords": [7.621886, 50.371076]}, {"name": "Eiszeitliches Lößprofil", "text": "Un monument natural geologic important în Koblenz-Metternich, cu straturi vizibile de sedimente din epoca glaciară.", "category": "natural", "coords": [7.555002, 50.356497]}, {"name": "Museum Moselweiß", "text": "Un muzeu local de istorie care se ocupă de trecutul și cultura districtului Moselweiß.", "category": "museum", "coords": [7.55651, 50.349386]}, {"name": "Statt-Strand-Koblenz", "text": "O plajă urbană populară pe malul Moselei, cu facilități de agrement și gastronomie în aer liber.", "category": "recreational", "coords": [7.563724, 50.362186]}, {"name": "Löwentor", "text": "Poarta principală monumentală a fortreței Ehrenbreitstein, decorată cu figuri de lei.", "category": "castle", "coords": [7.579997, 50.347812]}, {"name": "Gleisanlage vom DB Museum Koblenz", "text": "Liniile ferate istorice din zona exterioară a Muzeului DB din Koblenz, incluzând diverse vehicule.", "category": "museum", "coords": [7.587155, 50.37911]}, {"name": "Freibad Oberwerth", "text": "Ștrand spațios în cartierul Oberwerth, dotat cu diverse bazine și terenuri de sport.", "category": "family", "coords": [7.595279, 50.342123]}, {"name": "Escarpe der Neuendorfer Flesche", "text": "Zidul de apărare interior al fortificației prusace Neuendorfer Flesche din Koblenz-Lützel.", "category": "castle", "coords": [7.597352, 50.374555]}, {"name": "Wagenhäuser der Feste Franz", "text": "Fostele remize ale fortificației prusace Feste Franz, utilizate pentru vehicule militare.", "category": "fortress", "coords": [7.592408, 50.371926]}, {"name": "Moselbad", "text": "Centru de înot și agrement la râul Mosela, cu bazine interioare și exterioare.", "category": "family", "coords": [7.575103, 50.366396]}, {"name": "Rheinanschlusskaserne", "text": "Ruinele unei foste cazărmi prusace situate pe malul Rinului în cartierul Lützel.", "category": "historical", "coords": [7.602148, 50.353717]}, {"name": "Lützeler Volkspark", "text": "Parc public în cartierul Lützel, cu locuri de joacă și vedere spre Deutsches Eck.", "category": "park", "coords": [7.589243, 50.374534]}, {"name": "Rheinanlagen", "text": "Zone verzi întinse de-a lungul malului Rinului, cu monumente și alei pietonale.", "category": "park", "coords": [7.594093, 50.345269]}, {"name": "Konrad-Adenauer-Ufer", "text": "Promenadă celebră pe malul Rinului, numită după primul cancelar federal german.", "category": "park", "coords": [7.60511, 50.360463]}, {"name": "Luisenturm", "text": "Turn istoric din Koblenz, construit ca parte a fostelor fortificații ale orașului.", "category": "tower", "coords": [7.61235, 50.35711]}, {"name": "Kahle Loch", "text": "Un lac liniștit lângă Koblenz, perfect pentru relaxare în natură.", "category": "natural", "coords": [7.543719, 50.418923]}, {"name": "Wasserspielplatz am deutschen Eck", "text": "Un teren de joacă cu apă popular la Deutsches Eck în Koblenz.", "category": "family", "coords": [7.603758, 50.363228]}, {"name": "Spielplatz Behringstraße", "text": "Un teren de joacă frumos în Koblenz pentru joacă în aer liber.", "category": "family", "coords": [7.576964, 50.358478]}, {"name": "Spielplatz Junglassiedlung", "text": "Un teren de joacă primitor în Koblenz pentru locuitorii cartierului.", "category": "family", "coords": [7.57217, 50.35434]}, {"name": "Kletterspielplatz Werk Bleidenberg", "text": "Un teren de joacă pentru cățărat captivant la Werk Bleidenberg în Koblenz.", "category": "family", "coords": [7.620854, 50.371045]}, {"name": "Rheinspielplatz", "text": "Un teren de joacă frumos situat pe malul Rinului în Koblenz.", "category": "family", "coords": [7.590756, 50.34323]}, {"name": "Spielplatz In der Weglänge", "text": "Un teren de joacă bine întreținut în Koblenz pentru copii.", "category": "family", "coords": [7.561204, 50.370407]}, {"name": "Spielplatz Eisenacher Straße", "text": "Un teren de joacă primitor în Koblenz cu diverse dotări.", "category": "family", "coords": [7.562825, 50.339283]}, {"name": "Captain Fun Kids Club", "text": "Un centru de divertisment distractiv în Koblenz pentru copii.", "category": "family", "coords": [7.596293, 50.357652]}], "en": [{"name": "Deutsches Eck (German Corner)", "text": "The famous confluence of the Rhine and Moselle rivers, featuring a huge equestrian statue of Emperor William I.", "category": "Town hall & historic squares", "confidence": "high", "coords": [7.605639, 50.364167]}, {"name": "Ehrenbreitstein Fortress", "text": "One of Europe's largest preserved fortifications, offering history and great views from high above the Rhine.", "category": "Castles & palaces", "confidence": "high", "coords": [7.61528, 50.365]}, {"name": "Koblenz Cable Car", "text": "A modern cable car crossing the Rhine, providing a spectacular bird's-eye view of the river valley and the city.", "category": "Bridges, train stations of note", "confidence": "high", "coords": [7.60889, 50.3639]}, {"name": "Stolzenfels Castle", "text": "A jewel of Rhine Romanticism, this neo-Gothic castle is surrounded by beautiful gardens and terraced landscapes.", "category": "Castles & palaces", "confidence": "high", "coords": [7.59242, 50.3032]}, {"name": "Electoral Palace", "text": "A major early neoclassical palace located on the riverbank, which served as a residence for Prussian royals.", "category": "Castles & palaces", "confidence": "high", "coords": [7.60222, 50.3556]}, {"name": "Kulturfabrik Koblenz", "text": "A cultural center in Koblenz known for theatre performances, concerts, and cabaret shows.", "category": "cultural", "coords": [7.597263, 50.372701]}, {"name": "Mittelrhein-Museum", "text": "The museum in Koblenz presents art and cultural history from the Middle Ages to the modern era.", "category": "museum", "coords": [7.59637, 50.358709]}, {"name": "Deinhard Kellermuseum", "text": "A museum in the historic Deinhard cellar showing the history of sparkling wine production.", "category": "museum", "coords": [7.599359, 50.357959]}, {"name": "Rheinisches Fastnachtsmuseum Koblenz", "text": "The museum in Koblenz displays exhibits on the history of Rhenish carnival and Fastnacht traditions.", "category": "museum", "coords": [7.587256, 50.351002]}, {"name": "DB Museum Koblenz", "text": "A branch of the DB Museum in Koblenz displaying historic locomotives and railway carriages.", "category": "museum", "coords": [7.592178, 50.37781]}, {"name": "Wehrtechnische Studiensammlung", "text": "A technical collection of the Bundeswehr in Koblenz documenting the development of defense technology.", "category": "museum", "coords": [7.58536, 50.369062]}, {"name": "Ludwig-Museum im Deutschherrenhaus", "text": "A museum in the historic Deutschherrenhaus in Koblenz displaying international contemporary art.", "category": "museum", "coords": [7.604961, 50.362771]}, {"name": "Dikasterialgebäude", "text": "This former administrative building was part of the baroque Schloss Philippsburg complex in Koblenz.", "category": "castle", "coords": [7.611329, 50.361772]}, {"name": "Alte Burg", "text": "Built in the 13th century, this former electoral castle is located on the banks of the Moselle.", "category": "castle", "coords": [7.594074, 50.362333]}, {"name": "Mosellum", "text": "An interactive visitor center at the Koblenz fish pass, showcasing the ecology of the Moselle river.", "category": "museum", "coords": [7.581473, 50.365192]}, {"name": "Rheinmuseum", "text": "The museum presents the history of navigation and life along the Rhine river.", "category": "museum", "coords": [7.611617, 50.36078]}, {"name": "Rheinburg", "text": "A historic fortification building in the Ehrenbreitstein district, once part of the Prussian defense system.", "category": "castle", "coords": [7.614691, 50.359511]}, {"name": "Wache am Helfenstein", "text": "A part of the Ehrenbreitstein Fortress that served to secure the southern slope.", "category": "castle", "coords": [7.613128, 50.361578]}, {"name": "Werk Bleidenberg", "text": "A former fortification work of the Prussian Koblenz fortress system in the Ehrenbreitstein area.", "category": "castle", "coords": [7.621886, 50.371076]}, {"name": "Eiszeitliches Lößprofil", "text": "An important geological natural monument in Koblenz-Metternich with visible sediment layers from the Ice Age.", "category": "natural", "coords": [7.555002, 50.356497]}, {"name": "Museum Moselweiß", "text": "A local history museum focusing on the heritage and culture of the Moselweiß district.", "category": "museum", "coords": [7.55651, 50.349386]}, {"name": "Statt-Strand-Koblenz", "text": "A popular urban beach on the Moselle with leisure facilities and outdoor dining.", "category": "recreational", "coords": [7.563724, 50.362186]}, {"name": "Löwentor", "text": "The monumental main gate of the Ehrenbreitstein Fortress, decorated with lion figures.", "category": "castle", "coords": [7.579997, 50.347812]}, {"name": "Gleisanlage vom DB Museum Koblenz", "text": "Historical railway tracks and rolling stock in the outdoor area of the DB Museum Koblenz.", "category": "museum", "coords": [7.587155, 50.37911]}, {"name": "Freibad Oberwerth", "text": "Large open-air swimming pool in the Oberwerth district with various pools and sports facilities.", "category": "family", "coords": [7.595279, 50.342123]}, {"name": "Escarpe der Neuendorfer Flesche", "text": "Inner defensive wall of the Prussian Neuendorfer Flesche fortification in Koblenz-Lützel.", "category": "castle", "coords": [7.597352, 50.374555]}, {"name": "Wagenhäuser der Feste Franz", "text": "Former carriage houses of the Prussian Feste Franz fort, used for storing military vehicles.", "category": "fortress", "coords": [7.592408, 50.371926]}, {"name": "Moselbad", "text": "Swimming and leisure center by the Moselle with indoor and outdoor pools for water sports.", "category": "family", "coords": [7.575103, 50.366396]}, {"name": "Rheinanschlusskaserne", "text": "Ruins of a former Prussian military barracks on the Rhine bank in the Lützel district.", "category": "historical", "coords": [7.602148, 50.353717]}, {"name": "Lützeler Volkspark", "text": "Public green space in the Lützel district with playgrounds and views of the Deutsches Eck.", "category": "park", "coords": [7.589243, 50.374534]}, {"name": "Rheinanlagen", "text": "Extensive parklands along the Rhine riverbank with monuments and walking paths.", "category": "park", "coords": [7.594093, 50.345269]}, {"name": "Konrad-Adenauer-Ufer", "text": "Famous riverside promenade along the Rhine, named after the first German Federal Chancellor.", "category": "park", "coords": [7.60511, 50.360463]}, {"name": "Luisenturm", "text": "Historical tower in Koblenz, built as part of the former city fortifications.", "category": "tower", "coords": [7.61235, 50.35711]}, {"name": "Kahle Loch", "text": "A peaceful lake near Koblenz, perfect for relaxing in nature.", "category": "natural", "coords": [7.543719, 50.418923]}, {"name": "Wasserspielplatz am deutschen Eck", "text": "A popular water playground at the Deutsches Eck in Koblenz.", "category": "family", "coords": [7.603758, 50.363228]}, {"name": "Spielplatz Behringstraße", "text": "A nice playground in Koblenz for outdoor play.", "category": "family", "coords": [7.576964, 50.358478]}, {"name": "Spielplatz Junglassiedlung", "text": "A friendly playground in Koblenz for the local residents.", "category": "family", "coords": [7.57217, 50.35434]}, {"name": "Kletterspielplatz Werk Bleidenberg", "text": "An exciting climbing playground at Werk Bleidenberg in Koblenz.", "category": "family", "coords": [7.620854, 50.371045]}, {"name": "Rheinspielplatz", "text": "A beautifully located playground by the Rhine in Koblenz.", "category": "family", "coords": [7.590756, 50.34323]}, {"name": "Spielplatz In der Weglänge", "text": "A well-kept playground in Koblenz for children to run around.", "category": "family", "coords": [7.561204, 50.370407]}, {"name": "Spielplatz Eisenacher Straße", "text": "An inviting playground in Koblenz with various play options.", "category": "family", "coords": [7.562825, 50.339283]}, {"name": "Captain Fun Kids Club", "text": "An entertaining leisure center in Koblenz for children.", "category": "family", "coords": [7.596293, 50.357652]}], "tr": [{"name": "Deutsches Eck", "text": "Ren ve Mosel nehirlerinin birleştiği noktada, İmparator I. Wilhelm'in anıtsal atlı heykelinin bulunduğu burun.", "category": "Town hall & historic squares", "coords": [7.605639, 50.364167]}, {"name": "Ehrenbreitstein Kalesi", "text": "Ren nehrinin üzerinde yükselen ve panoramik bir manzara sunan, Avrupa'nın en büyük korunmuş kalelerinden biri.", "category": "Castles & palaces", "coords": [7.61528, 50.365]}, {"name": "Koblenz Teleferiği", "text": "Ren kıyılarını kaleye bağlar ve UNESCO Dünya Mirası üzerinde muhteşem bir manzara sunar.", "category": "Bridges, train stations of note", "coords": [7.60889, 50.3639]}, {"name": "Stolzenfels Şatosu", "text": "Koblenz'in güneyinde, Ren nehrinin sol kıyısında Neo-Gotik tarzda inşa edilmiş bir romantizm mücevheri.", "category": "Castles & palaces", "coords": [7.59242, 50.3032]}, {"name": "Elektörlük Şatosu", "text": "Ren kıyısında yer alan, Almanya'nın Erken Klasisizm dönemine ait en önemli şatolarından biridir.", "category": "Castles & palaces", "coords": [7.60222, 50.3556]}, {"name": "St. Kastor Bazilikası", "text": "Koblenz'in en eski kilisesi olup Deutsches Eck'teki önemli tarihi olaylara tanıklık etmiştir.", "category": "Churches & monasteries"}]}
   },
   {
     id: "river-mosel-rp-extra",
@@ -13455,6 +12351,51 @@ export const poiExtraDe2: POI[] = [
                         8.417009,
                         49.472338
                   ]
+            },
+            {
+                  "name": "Herzogenriedbad",
+                  "text": "Das Herzogenriedbad in Ludwigshafen ist ein weitläufiger Wasserpark für Familien und Sportbegeisterte.",
+                  "category": "family",
+                  "coords": [
+                        8.479934,
+                        49.503085
+                  ]
+            },
+            {
+                  "name": "Heinz-Hunsinger-Sommerbad",
+                  "text": "Das Heinz-Hunsinger-Sommerbad in Ludwigshafen bietet sommerlichen Badespaß im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.470624,
+                        49.45184
+                  ]
+            },
+            {
+                  "name": "Kinderschwimmbecken",
+                  "text": "Das Kinderschwimmbecken in Ludwigshafen bietet sicheren Wasserspaß für die kleinsten Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        8.471707,
+                        49.450923
+                  ]
+            },
+            {
+                  "name": "Sommerbad am Stollenwörthweiher",
+                  "text": "Das Sommerbad am Stollenwörthweiher in Ludwigshafen lädt zum Schwimmen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        8.468917,
+                        49.454265
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "Das Flamingo-Gehege in Ludwigshafen ermöglicht die Beobachtung dieser farbenfrohen Vögel.",
+                  "category": "family",
+                  "coords": [
+                        8.491934,
+                        49.484698
+                  ]
             }
       ],
       "hu": [
@@ -13901,6 +12842,51 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.417009,
                         49.472338
+                  ]
+            },
+            {
+                  "name": "Herzogenriedbad",
+                  "text": "A ludwigshafeni Herzogenriedbad egy tágas élményfürdő családok és a sport kedvelői számára.",
+                  "category": "family",
+                  "coords": [
+                        8.479934,
+                        49.503085
+                  ]
+            },
+            {
+                  "name": "Heinz-Hunsinger-Sommerbad",
+                  "text": "A ludwigshafeni Heinz-Hunsinger-Sommerbad nyári fürdőzési élményt nyújt a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        8.470624,
+                        49.45184
+                  ]
+            },
+            {
+                  "name": "Kinderschwimmbecken",
+                  "text": "A ludwigshafeni gyermekmedence biztonságos vízi szórakozást nyújt a legkisebb fürdőzőknek.",
+                  "category": "family",
+                  "coords": [
+                        8.471707,
+                        49.450923
+                  ]
+            },
+            {
+                  "name": "Sommerbad am Stollenwörthweiher",
+                  "text": "A ludwigshafeni Sommerbad am Stollenwörthweiher szabadtéri úszásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.468917,
+                        49.454265
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "A ludwigshafeni flamingó-kifutó lehetővé teszi ezen színes madarak megfigyelését.",
+                  "category": "family",
+                  "coords": [
+                        8.491934,
+                        49.484698
                   ]
             }
       ],
@@ -14349,6 +13335,51 @@ export const poiExtraDe2: POI[] = [
                         8.417009,
                         49.472338
                   ]
+            },
+            {
+                  "name": "Herzogenriedbad",
+                  "text": "Herzogenriedbad din Ludwigshafen este un parc acvatic spațios pentru familii și pasionații de sport.",
+                  "category": "family",
+                  "coords": [
+                        8.479934,
+                        49.503085
+                  ]
+            },
+            {
+                  "name": "Heinz-Hunsinger-Sommerbad",
+                  "text": "Heinz-Hunsinger-Sommerbad din Ludwigshafen oferă distracție estivală la înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.470624,
+                        49.45184
+                  ]
+            },
+            {
+                  "name": "Kinderschwimmbecken",
+                  "text": "Piscina pentru copii din Ludwigshafen oferă distracție acvatică sigură pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        8.471707,
+                        49.450923
+                  ]
+            },
+            {
+                  "name": "Sommerbad am Stollenwörthweiher",
+                  "text": "Sommerbad am Stollenwörthweiher din Ludwigshafen invită la înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.468917,
+                        49.454265
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "Țarcul de flamingo din Ludwigshafen permite observarea acestor păsări colorate.",
+                  "category": "family",
+                  "coords": [
+                        8.491934,
+                        49.484698
+                  ]
             }
       ],
       "en": [
@@ -14795,6 +13826,51 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.417009,
                         49.472338
+                  ]
+            },
+            {
+                  "name": "Herzogenriedbad",
+                  "text": "The Herzogenriedbad in Ludwigshafen is a spacious water park for families and sports enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        8.479934,
+                        49.503085
+                  ]
+            },
+            {
+                  "name": "Heinz-Hunsinger-Sommerbad",
+                  "text": "The Heinz-Hunsinger-Sommerbad in Ludwigshafen offers summer swimming fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.470624,
+                        49.45184
+                  ]
+            },
+            {
+                  "name": "Kinderschwimmbecken",
+                  "text": "The children's swimming pool in Ludwigshafen offers safe water fun for the youngest bathers.",
+                  "category": "family",
+                  "coords": [
+                        8.471707,
+                        49.450923
+                  ]
+            },
+            {
+                  "name": "Sommerbad am Stollenwörthweiher",
+                  "text": "The Sommerbad am Stollenwörthweiher in Ludwigshafen invites for outdoor swimming.",
+                  "category": "family",
+                  "coords": [
+                        8.468917,
+                        49.454265
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "The flamingo enclosure in Ludwigshafen allows for the observation of these colorful birds.",
+                  "category": "family",
+                  "coords": [
+                        8.491934,
+                        49.484698
                   ]
             }
       ],
@@ -15435,6 +14511,15 @@ export const poiExtraDe2: POI[] = [
                         8.372463,
                         49.614707
                   ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "Das Planschbecken in Worms bietet Wasserspaß für die Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        8.337207,
+                        49.631659
+                  ]
             }
       ],
       "hu": [
@@ -15602,6 +14687,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.372463,
                         49.614707
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "A Wormsban található Planschbecken vízi szórakozást nyújt a legkisebbeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.337207,
+                        49.631659
                   ]
             }
       ],
@@ -15771,6 +14865,15 @@ export const poiExtraDe2: POI[] = [
                         8.372463,
                         49.614707
                   ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "Planschbecken din Worms oferă distracție acvatică pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        8.337207,
+                        49.631659
+                  ]
             }
       ],
       "en": [
@@ -15938,6 +15041,15 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.372463,
                         49.614707
+                  ]
+            },
+            {
+                  "name": "Planschbecken",
+                  "text": "The Planschbecken in Worms offers water fun for the little ones.",
+                  "category": "family",
+                  "coords": [
+                        8.337207,
+                        49.631659
                   ]
             }
       ],

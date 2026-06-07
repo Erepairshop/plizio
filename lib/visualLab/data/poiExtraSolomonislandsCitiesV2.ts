@@ -2262,52 +2262,7 @@ export const solomonislandsCitiesV2: POI[] = [
     image: "/poi-images/solomonislands-kolipoint-cities-v2.webp",
   },
   {
-    id: "solomonislands-redbeach-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Red Beach",
-                  "text": "Red Beach ist eine beliebte Attraktion, die man in Red Beach erkunden kann.",
-                  "category": "landmark",
-                  "coords": [
-                        160.121561,
-                        -9.426502
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Red Beach",
-                  "text": "A Red Beach egy népszerű felfedezésre váró látványosság Red Beach városában.",
-                  "category": "landmark",
-                  "coords": [
-                        160.121561,
-                        -9.426502
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Red Beach",
-                  "text": "Red Beach este o atracție populară de explorat în Red Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        160.121561,
-                        -9.426502
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Red Beach",
-                  "text": "Red Beach is a popular attraction to explore in Red Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        160.121561,
-                        -9.426502
-                  ]
-            }
-      ]
-},
+    id: "solomonislands-redbeach-cities-v2", "sights": {"de": [{"name": "Red Beach", "text": "An den Ufern der Salomonen gelegen, besticht der Red Beach sowohl durch seine natürliche Schönheit als auch durch seine spannende Umgebung. Die Region wirkt abgelegen und weckt den Entdeckergeist, wodurch Besucher unweigerlich in ihren Bann gezogen werden. Gäste können entlang der markanten Sandflächen spazieren, die Küstenlandschaft beobachten und die Weite genießen. Bequemes Schuhwerk und ein zuverlässiger Sonnenschutz sind für diesen Ausflug wärmstens zu empfehlen.", "category": "landmark", "coords": [160.121561, -9.426502]}], "hu": [{"name": "Red Beach", "text": "A Salamon-szigetek partjainál található Red Beach nyers természeti szépsége és izgalmas környezete miatt egyaránt rendkívül vonzó. A környék csodálatosan elhagyatott és felfedezésre csábít, ami természetes módon vonzza a látogatókat. A vendégek könnyedén sétálhatnak a jellegzetes homokos szakaszokon, megfigyelhetik az élénk partvidéki tájat, és élvezhetik a tágas teret. Nappali látogatáshoz mindenképpen ajánlott kényelmes sétacipőt és megfelelő napvédelmet hozni.", "category": "landmark", "coords": [160.121561, -9.426502]}], "ro": [{"name": "Red Beach", "text": "Aflată pe țărmurile Insulelor Solomon, Red Beach exercită o atracție semnificativă atât pentru frumusețea sa naturală, cât și pentru împrejurimile sale fascinante. Mediul se simte minunat de izolat și propice explorării, atrăgând în mod natural vizitatorii. Oaspeții se pot plimba cu ușurință de-a lungul întinderilor de nisip distincte, pot observa peisajul de coastă și se pot bucura de spațiul vast. Aducerea de încălțăminte confortabilă pentru mers și protecție solară adecvată este foarte recomandată pentru orice vizită.", "category": "landmark", "coords": [160.121561, -9.426502]}], "en": [{"name": "Red Beach", "text": "Found on the shores of the Solomon Islands, Red Beach holds significant allure for both its natural beauty and its fascinating surroundings. The environment feels wonderfully remote and exploratory, naturally drawing visitors in. Guests can easily walk along the distinctive sandy stretches, observe the vivid coastal scenery, and enjoy the vast space. Bringing comfortable walking shoes and adequate sun protection is highly advised for any daytime visit.", "category": "landmark", "coords": [160.121561, -9.426502]}]},
     parent: "SB",
     type: "village",
     name: { de: "Red Beach", hu: "Red Beach", ro: "Red Beach", en: "Red Beach" },

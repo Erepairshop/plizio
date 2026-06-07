@@ -813,52 +813,7 @@ export const romaniaLandmarksV2: POI[] = [
     image: "/poi-images/romania-craiova-prefect-landmarks-v2.webp",
   },
   {
-    id: "romania-galati-theatre-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plaja Brateș",
-                  "text": "Ein Strand am Ufer in der Nähe von Galați.",
-                  "category": "recreational",
-                  "coords": [
-                        28.045404,
-                        45.47235
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plaja Brateș",
-                  "text": "Strand a folyóparton Galați közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        28.045404,
-                        45.47235
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plaja Brateș",
-                  "text": "O plajă pe malul apei lângă Galați.",
-                  "category": "recreational",
-                  "coords": [
-                        28.045404,
-                        45.47235
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plaja Brateș",
-                  "text": "A riverside beach near Galați.",
-                  "category": "recreational",
-                  "coords": [
-                        28.045404,
-                        45.47235
-                  ]
-            }
-      ]
-},
+    id: "romania-galati-theatre-landmarks-v2", "sights": {"de": [{"name": "Plaja Brateș", "text": "Unweit der Stadt Galați empfängt die Plaja Brateș ihre Gäste mit entspannendem Ufercharme. Besucher können sich hier auf erfrischende Bademomente und gemütliche Runden am flachen Gewässer freuen. Eine gelassene Stimmung prägt diesen Treffpunkt, der sich wunderbar für einen spontanen Wochenendausflug eignet. Packen Sie am besten ein paar Snacks für ein gemütliches Picknick ein.", "category": "recreational", "coords": [28.045404, 45.47235]}], "hu": [{"name": "Plaja Brateș", "text": "Galați városától nem messze a Plaja Brateș pihentető vízparti bájjal fogadja vendégeit. A látogatók frissítő fürdőzésekre és kellemes, sekély vízparti beszélgetésekre számíthatnak. Egy nyugodt hangulat hatja át ezt a találkozóhelyet, amely csodálatosan alkalmas egy spontán hétvégi kiránduláshoz. A legjobb, ha becsomagol néhány harapnivalót egy hangulatos piknikhez.", "category": "recreational", "coords": [28.045404, 45.47235]}], "ro": [{"name": "Plaja Brateș", "text": "Nu departe de orașul Galați, Plaja Brateș își întâmpină oaspeții cu un farmec relaxant de coastă. Vizitatorii se pot bucura aici de momente răcoroase de înot și relaxare confortabilă la apele puțin adânci. O atmosferă senină definește acest loc de întâlnire, fiind minunat pentru o escapadă spontană de weekend. Cel mai bine este să împachetați câteva gustări pentru un picnic confortabil.", "category": "recreational", "coords": [28.045404, 45.47235]}], "en": [{"name": "Plaja Brateș", "text": "Not far from the city of Galați, Plaja Brateș welcomes its guests with relaxing shore charm. Visitors can look forward to refreshing swimming moments and cozy gatherings by the shallow waters here. A serene mood characterizes this meeting place, which is wonderfully suited for a spontaneous weekend getaway. It is best to pack a few snacks for a cozy picnic.", "category": "recreational", "coords": [28.045404, 45.47235]}]},
     type: "theater",
     parent: "RO",
     name: { de: "Staatstheater Galați", hu: "Galaci Állami Színház", ro: "Teatrul Dramatic Fani Tardini", en: "Fani Tardini Theatre Galați" },

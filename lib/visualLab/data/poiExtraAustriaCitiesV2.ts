@@ -139,6 +139,24 @@ export const austriaCitiesV2: POI[] = [
                         13.845881,
                         46.601974
                   ]
+            },
+            {
+                  "name": "Planet Lollipop",
+                  "text": "Ein Indoor-Spielplatz in Villach für Kinder zum Spielen und Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        13.836671,
+                        46.596321
+                  ]
+            },
+            {
+                  "name": "Thermalaußenbecken KärntenTherme",
+                  "text": "Ein beheiztes Außenbecken in Villach, ideal zum Entspannen im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        13.827252,
+                        46.587966
+                  ]
             }
       ],
       "hu": [
@@ -275,6 +293,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.845881,
                         46.601974
+                  ]
+            },
+            {
+                  "name": "Planet Lollipop",
+                  "text": "Beltéri játszótér Villachban, ahol a gyerekek játszhatnak és felfedezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        13.836671,
+                        46.596321
+                  ]
+            },
+            {
+                  "name": "Thermalaußenbecken KärntenTherme",
+                  "text": "Fűtött kültéri medence Villachban, ideális a vízparti kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.827252,
+                        46.587966
                   ]
             }
       ],
@@ -413,6 +449,24 @@ export const austriaCitiesV2: POI[] = [
                         13.845881,
                         46.601974
                   ]
+            },
+            {
+                  "name": "Planet Lollipop",
+                  "text": "Un loc de joacă interior în Villach, unde copiii se pot juca și pot explora.",
+                  "category": "family",
+                  "coords": [
+                        13.836671,
+                        46.596321
+                  ]
+            },
+            {
+                  "name": "Thermalaußenbecken KärntenTherme",
+                  "text": "O piscină exterioară încălzită în Villach, ideală pentru relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        13.827252,
+                        46.587966
+                  ]
             }
       ],
       "en": [
@@ -549,6 +603,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.845881,
                         46.601974
+                  ]
+            },
+            {
+                  "name": "Planet Lollipop",
+                  "text": "An indoor playground in Villach for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        13.836671,
+                        46.596321
+                  ]
+            },
+            {
+                  "name": "Thermalaußenbecken KärntenTherme",
+                  "text": "A heated outdoor pool in Villach, ideal for relaxing in the water.",
+                  "category": "family",
+                  "coords": [
+                        13.827252,
+                        46.587966
                   ]
             }
       ]
@@ -3172,6 +3244,33 @@ export const austriaCitiesV2: POI[] = [
                         9.727445,
                         47.409574
                   ]
+            },
+            {
+                  "name": "Streichelzoo Möcklebur",
+                  "text": "Der Streichelzoo Möcklebur in Dornbirn ist ein beliebtes Ziel für Kinder, um Tiere hautnah zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        9.716166,
+                        47.442704
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Das Kinderbecken in Dornbirn bietet einen sicheren Badebereich für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.761304,
+                        47.396958
+                  ]
+            },
+            {
+                  "name": "Julians Pool",
+                  "text": "Julians Pool in Dornbirn lädt zum Schwimmen und zur Erholung im Wasser ein.",
+                  "category": "family",
+                  "coords": [
+                        9.728494,
+                        47.406603
+                  ]
             }
       ],
       "hu": [
@@ -3605,6 +3704,33 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.727445,
                         47.409574
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Möcklebur",
+                  "text": "A dornbirni Streichelzoo Möcklebur népszerű helyszín, ahol a gyerekek közelről találkozhatnak az állatokkal.",
+                  "category": "family",
+                  "coords": [
+                        9.716166,
+                        47.442704
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "A dornbirni Kinderbecken biztonságos fürdőhelyet biztosít a legfiatalabb látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        9.761304,
+                        47.396958
+                  ]
+            },
+            {
+                  "name": "Julians Pool",
+                  "text": "A Dornbirn-ben található Julians Pool úszásra és vizes kikapcsolódásra hívja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        9.728494,
+                        47.406603
                   ]
             }
       ],
@@ -4040,6 +4166,33 @@ export const austriaCitiesV2: POI[] = [
                         9.727445,
                         47.409574
                   ]
+            },
+            {
+                  "name": "Streichelzoo Möcklebur",
+                  "text": "Streichelzoo Möcklebur din Dornbirn este o destinație populară unde copiii pot interacționa cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        9.716166,
+                        47.442704
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Kinderbecken din Dornbirn oferă o zonă de înot sigură pentru micii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        9.761304,
+                        47.396958
+                  ]
+            },
+            {
+                  "name": "Julians Pool",
+                  "text": "Julians Pool din Dornbirn invită la înot și relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        9.728494,
+                        47.406603
+                  ]
             }
       ],
       "en": [
@@ -4473,6 +4626,33 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.727445,
                         47.409574
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Möcklebur",
+                  "text": "Streichelzoo Möcklebur in Dornbirn is a popular destination for children to experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        9.716166,
+                        47.442704
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "The Kinderbecken in Dornbirn provides a safe swimming area for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.761304,
+                        47.396958
+                  ]
+            },
+            {
+                  "name": "Julians Pool",
+                  "text": "Julians Pool in Dornbirn invites visitors for swimming and water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        9.728494,
+                        47.406603
                   ]
             }
       ]
@@ -6439,6 +6619,15 @@ export const austriaCitiesV2: POI[] = [
                         9.587718,
                         47.261628
                   ]
+            },
+            {
+                  "name": "Naturbad Untere Au",
+                  "text": "Dieses Naturbad in Feldkirch bietet ein naturnahes Badeerlebnis für seine Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.634264,
+                        47.223752
+                  ]
             }
       ],
       "hu": [
@@ -7007,6 +7196,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.587718,
                         47.261628
+                  ]
+            },
+            {
+                  "name": "Naturbad Untere Au",
+                  "text": "Ez a feldkirchi természetes fürdő természetközeli élményt nyújt látogatóinak.",
+                  "category": "family",
+                  "coords": [
+                        9.634264,
+                        47.223752
                   ]
             }
       ],
@@ -7577,6 +7775,15 @@ export const austriaCitiesV2: POI[] = [
                         9.587718,
                         47.261628
                   ]
+            },
+            {
+                  "name": "Naturbad Untere Au",
+                  "text": "Această zonă de înot naturală din Feldkirch oferă o experiență de scăldat aproape de natură pentru vizitatorii săi.",
+                  "category": "family",
+                  "coords": [
+                        9.634264,
+                        47.223752
+                  ]
             }
       ],
       "en": [
@@ -8145,6 +8352,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.587718,
                         47.261628
+                  ]
+            },
+            {
+                  "name": "Naturbad Untere Au",
+                  "text": "This natural swimming area in Feldkirch offers a nature-oriented bathing experience for its visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.634264,
+                        47.223752
                   ]
             }
       ]
@@ -9895,6 +10111,15 @@ export const austriaCitiesV2: POI[] = [
                         16.25695,
                         47.999013
                   ]
+            },
+            {
+                  "name": "Römertherme Baden",
+                  "text": "Ein Thermalbad in Baden bei Wien, bekannt für seine entspannenden Becken.",
+                  "category": "family",
+                  "coords": [
+                        16.229472,
+                        48.008525
+                  ]
             }
       ],
       "hu": [
@@ -10463,6 +10688,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.25695,
                         47.999013
+                  ]
+            },
+            {
+                  "name": "Römertherme Baden",
+                  "text": "Termálfürdő Baden bei Wienben, amely relaxációs medencéiről ismert.",
+                  "category": "family",
+                  "coords": [
+                        16.229472,
+                        48.008525
                   ]
             }
       ],
@@ -11033,6 +11267,15 @@ export const austriaCitiesV2: POI[] = [
                         16.25695,
                         47.999013
                   ]
+            },
+            {
+                  "name": "Römertherme Baden",
+                  "text": "O baie termală în Baden bei Wien, cunoscută pentru piscinele sale relaxante.",
+                  "category": "family",
+                  "coords": [
+                        16.229472,
+                        48.008525
+                  ]
             }
       ],
       "en": [
@@ -11601,6 +11844,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.25695,
                         47.999013
+                  ]
+            },
+            {
+                  "name": "Römertherme Baden",
+                  "text": "A thermal bath in Baden bei Wien, known for its relaxing pools.",
+                  "category": "family",
+                  "coords": [
+                        16.229472,
+                        48.008525
                   ]
             }
       ]
@@ -13621,6 +13873,24 @@ export const austriaCitiesV2: POI[] = [
                         15.586283,
                         48.404551
                   ]
+            },
+            {
+                  "name": "Freizeitanlage Mautern",
+                  "text": "Eine Freizeitanlage in Krems mit Möglichkeiten zum Baden und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        15.587026,
+                        48.39682
+                  ]
+            },
+            {
+                  "name": "Donaustrand Mautern",
+                  "text": "Ein Strandbereich an der Donau in Krems, ideal für Sommertage am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        15.572844,
+                        48.394946
+                  ]
             }
       ],
       "hu": [
@@ -13649,6 +13919,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.586283,
                         48.404551
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Mautern",
+                  "text": "Szabadidős létesítmény Kremsben, fürdőzési és pihenési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        15.587026,
+                        48.39682
+                  ]
+            },
+            {
+                  "name": "Donaustrand Mautern",
+                  "text": "Duna-parti strand Kremsben, ideális a vízparti nyári napokhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.572844,
+                        48.394946
                   ]
             }
       ],
@@ -13679,6 +13967,24 @@ export const austriaCitiesV2: POI[] = [
                         15.586283,
                         48.404551
                   ]
+            },
+            {
+                  "name": "Freizeitanlage Mautern",
+                  "text": "O facilitate de agrement în Krems, cu posibilități de scăldat și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.587026,
+                        48.39682
+                  ]
+            },
+            {
+                  "name": "Donaustrand Mautern",
+                  "text": "O zonă de plajă pe Dunăre în Krems, ideală pentru zilele de vară lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        15.572844,
+                        48.394946
+                  ]
             }
       ],
       "en": [
@@ -13707,6 +14013,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.586283,
                         48.404551
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Mautern",
+                  "text": "A leisure facility in Krems with opportunities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        15.587026,
+                        48.39682
+                  ]
+            },
+            {
+                  "name": "Donaustrand Mautern",
+                  "text": "A beach area on the Danube in Krems, ideal for summer days by the water.",
+                  "category": "family",
+                  "coords": [
+                        15.572844,
+                        48.394946
                   ]
             }
       ]
@@ -13981,6 +14305,15 @@ export const austriaCitiesV2: POI[] = [
                         14.24481,
                         48.225206
                   ]
+            },
+            {
+                  "name": "lago di karin",
+                  "text": "Dieses Schwimmbad in Traun lädt zu einer entspannten Abkühlung im Wasser ein.",
+                  "category": "family",
+                  "coords": [
+                        14.241544,
+                        48.225197
+                  ]
             }
       ],
       "hu": [
@@ -14207,6 +14540,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.24481,
                         48.225206
+                  ]
+            },
+            {
+                  "name": "lago di karin",
+                  "text": "Ez a trauni úszómedence pihentető felfrissülésre hív a vízben.",
+                  "category": "family",
+                  "coords": [
+                        14.241544,
+                        48.225197
                   ]
             }
       ],
@@ -14435,6 +14777,15 @@ export const austriaCitiesV2: POI[] = [
                         14.24481,
                         48.225206
                   ]
+            },
+            {
+                  "name": "lago di karin",
+                  "text": "Această piscină din Traun invită la o răcorire relaxantă în apă.",
+                  "category": "family",
+                  "coords": [
+                        14.241544,
+                        48.225197
+                  ]
             }
       ],
       "en": [
@@ -14661,6 +15012,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.24481,
                         48.225206
+                  ]
+            },
+            {
+                  "name": "lago di karin",
+                  "text": "This swimming pool in Traun invites visitors for a relaxed dip in the water.",
+                  "category": "family",
+                  "coords": [
+                        14.241544,
+                        48.225197
                   ]
             }
       ]
@@ -14962,6 +15322,15 @@ export const austriaCitiesV2: POI[] = [
                         9.665357,
                         47.443908
                   ]
+            },
+            {
+                  "name": "Badi Berneck",
+                  "text": "Badi Berneck in Lustenau bietet Wasserspaß und Erholung in einer familienfreundlichen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        9.619592,
+                        47.419045
+                  ]
             }
       ],
       "hu": [
@@ -15215,6 +15584,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.665357,
                         47.443908
+                  ]
+            },
+            {
+                  "name": "Badi Berneck",
+                  "text": "A Lustenau-ban található Badi Berneck vízi szórakozást és pihenést kínál családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.619592,
+                        47.419045
                   ]
             }
       ],
@@ -15470,6 +15848,15 @@ export const austriaCitiesV2: POI[] = [
                         9.665357,
                         47.443908
                   ]
+            },
+            {
+                  "name": "Badi Berneck",
+                  "text": "Badi Berneck din Lustenau oferă distracție acvatică și relaxare într-un mediu adaptat familiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.619592,
+                        47.419045
+                  ]
             }
       ],
       "en": [
@@ -15723,6 +16110,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.665357,
                         47.443908
+                  ]
+            },
+            {
+                  "name": "Badi Berneck",
+                  "text": "Badi Berneck in Lustenau offers water fun and relaxation in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        9.619592,
+                        47.419045
                   ]
             }
       ]
@@ -16636,6 +17032,33 @@ export const austriaCitiesV2: POI[] = [
                         13.089178,
                         47.667199
                   ]
+            },
+            {
+                  "name": "Kaltwasserbecken Kurzentrum Bad Vigaun",
+                  "text": "Dieses Kaltwasserbecken in Hallein bietet eine belebende Erfrischung für Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        13.135475,
+                        47.669765
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Doktorbad",
+                  "text": "Dieses Schwimmbad in Hallein ist ein historischer Ort für Aktivitäten im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        13.128885,
+                        47.692281
+                  ]
+            },
+            {
+                  "name": "Freibad Marktschellenberg",
+                  "text": "Dieser Wasserpark in Hallein bietet Vergnügen und Abkühlung unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        13.04507,
+                        47.685006
+                  ]
             }
       ],
       "hu": [
@@ -16907,6 +17330,33 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089178,
                         47.667199
+                  ]
+            },
+            {
+                  "name": "Kaltwasserbecken Kurzentrum Bad Vigaun",
+                  "text": "Ez a halleini hideg vizes medence élénkítő felfrissülést nyújt a fürdőzőknek.",
+                  "category": "family",
+                  "coords": [
+                        13.135475,
+                        47.669765
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Doktorbad",
+                  "text": "Ez a halleini úszómedence történelmi helyszín a vízi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        13.128885,
+                        47.692281
+                  ]
+            },
+            {
+                  "name": "Freibad Marktschellenberg",
+                  "text": "Ez a halleini vízi park szórakozást és felfrissülést kínál a szabad ég alatt.",
+                  "category": "family",
+                  "coords": [
+                        13.04507,
+                        47.685006
                   ]
             }
       ],
@@ -17180,6 +17630,33 @@ export const austriaCitiesV2: POI[] = [
                         13.089178,
                         47.667199
                   ]
+            },
+            {
+                  "name": "Kaltwasserbecken Kurzentrum Bad Vigaun",
+                  "text": "Acest bazin cu apă rece din Hallein oferă o răcorire revigorantă pentru oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        13.135475,
+                        47.669765
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Doktorbad",
+                  "text": "Această piscină din Hallein este un loc istoric pentru activități în apă.",
+                  "category": "family",
+                  "coords": [
+                        13.128885,
+                        47.692281
+                  ]
+            },
+            {
+                  "name": "Freibad Marktschellenberg",
+                  "text": "Acest parc acvatic din Hallein oferă distracție și răcorire sub cerul liber.",
+                  "category": "family",
+                  "coords": [
+                        13.04507,
+                        47.685006
+                  ]
             }
       ],
       "en": [
@@ -17451,6 +17928,33 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089178,
                         47.667199
+                  ]
+            },
+            {
+                  "name": "Kaltwasserbecken Kurzentrum Bad Vigaun",
+                  "text": "This cold water pool in Hallein offers a bracing refreshment for bathers.",
+                  "category": "family",
+                  "coords": [
+                        13.135475,
+                        47.669765
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Doktorbad",
+                  "text": "This swimming pool in Hallein is a historic location for water-based activities.",
+                  "category": "family",
+                  "coords": [
+                        13.128885,
+                        47.692281
+                  ]
+            },
+            {
+                  "name": "Freibad Marktschellenberg",
+                  "text": "This water park in Hallein offers enjoyment and cooling off in the open air.",
+                  "category": "family",
+                  "coords": [
+                        13.04507,
+                        47.685006
                   ]
             }
       ]
@@ -19119,7 +19623,88 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-braunau-am-inn-cities-v2.webp",
   },
   {
-    id: "austria-saalfelden-cities-v2",
+    id: "austria-saalfelden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ritzensee",
+                  "text": "Dieser Badesee in Saalfelden bietet eine malerische Kulisse für Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        12.846982,
+                        47.41896
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Obsmarkt Saalfelden",
+                  "text": "Dieses Erlebnisbad in Saalfelden verfügt über vielfältige Wasserattraktionen für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        12.856239,
+                        47.428553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ritzensee",
+                  "text": "Ez a saalfeldeni fürdőhely festői hátteret biztosít az úszók számára.",
+                  "category": "family",
+                  "coords": [
+                        12.846982,
+                        47.41896
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Obsmarkt Saalfelden",
+                  "text": "Ez a saalfeldeni élményfürdő változatos vízi attrakciókkal várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        12.856239,
+                        47.428553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ritzensee",
+                  "text": "Această zonă de înot din Saalfelden oferă un cadru pitoresc pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        12.846982,
+                        47.41896
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Obsmarkt Saalfelden",
+                  "text": "Acest parc acvatic din Saalfelden dispune de diverse atracții acvatice pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        12.856239,
+                        47.428553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ritzensee",
+                  "text": "This swimming area in Saalfelden offers a picturesque backdrop for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        12.846982,
+                        47.41896
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Obsmarkt Saalfelden",
+                  "text": "This water park in Saalfelden features a variety of water attractions for visitors.",
+                  "category": "family",
+                  "coords": [
+                        12.856239,
+                        47.428553
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Saalfelden", hu: "Saalfelden", ro: "Saalfelden", en: "Saalfelden" },
@@ -19164,7 +19749,88 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-saalfelden-cities-v2.webp",
   },
   {
-    id: "austria-stockerau-cities-v2",
+    id: "austria-stockerau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kombi-Sportbecken",
+                  "text": "Das Kombi-Sportbecken in Stockerau eignet sich sowohl für sportliches Schwimmen als auch für Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        16.218122,
+                        48.394045
+                  ]
+            },
+            {
+                  "name": "Aubad Spillern",
+                  "text": "Das Aubad Spillern in Stockerau ist ein öffentliches Bad, das Erfrischung an heißen Tagen bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.257626,
+                        48.371676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kombi-Sportbecken",
+                  "text": "A stockeraui Kombi-Sportbecken sportolásra és szabadidős úszásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        16.218122,
+                        48.394045
+                  ]
+            },
+            {
+                  "name": "Aubad Spillern",
+                  "text": "A Stockerau-ban található Aubad Spillern egy nyilvános fürdő, amely felfrissülést nyújt a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        16.257626,
+                        48.371676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kombi-Sportbecken",
+                  "text": "Kombi-Sportbecken din Stockerau este potrivit atât pentru înot sportiv, cât și pentru activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        16.218122,
+                        48.394045
+                  ]
+            },
+            {
+                  "name": "Aubad Spillern",
+                  "text": "Aubad Spillern din Stockerau este o baie publică ce oferă răcorire în zilele toride.",
+                  "category": "family",
+                  "coords": [
+                        16.257626,
+                        48.371676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kombi-Sportbecken",
+                  "text": "The Kombi-Sportbecken in Stockerau is suitable for both competitive swimming and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        16.218122,
+                        48.394045
+                  ]
+            },
+            {
+                  "name": "Aubad Spillern",
+                  "text": "Aubad Spillern in Stockerau is a public bath providing refreshment on hot days.",
+                  "category": "family",
+                  "coords": [
+                        16.257626,
+                        48.371676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Stockerau", hu: "Stockerau", ro: "Stockerau", en: "Stockerau" },
@@ -19695,1492 +20361,7 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-ansfelden-cities-v2.webp",
   },
   {
-    id: "austria-hohenems-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Stoffels Säge-Mühle",
-                  "text": "Ein Freilichtmuseum in Hohenems, das historische Säge- und Mühlentechnik zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        9.691714,
-                        47.360595
-                  ]
-            },
-            {
-                  "name": "Burg Neu-Ems",
-                  "text": "Eine gut erhaltene Höhenburg in Hohenems, auch bekannt als Schloss Glopper.",
-                  "category": "castle",
-                  "coords": [
-                        9.705678,
-                        47.368404
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum",
-                  "text": "Ein Museum, das die Geschichte der jüdischen Gemeinde in Hohenems dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        9.688622,
-                        47.364642
-                  ]
-            },
-            {
-                  "name": "Franz-Schubert-Museum",
-                  "text": "Ein Museum in Hohenems, das dem Leben und Werk des Komponisten Franz Schubert gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        9.689599,
-                        47.363939
-                  ]
-            },
-            {
-                  "name": "Burgruine Alt-Ems",
-                  "text": "Die Ruine einer einst mächtigen Festungsanlage auf einem Felsen über Hohenems.",
-                  "category": "castle",
-                  "coords": [
-                        9.695793,
-                        47.363502
-                  ]
-            },
-            {
-                  "name": "Erholungszentrum Rheinauen",
-                  "text": "Ein großes Freizeit- und Freibadgelände direkt an den Rheinauen in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.653178,
-                        47.367247
-                  ]
-            },
-            {
-                  "name": "Hohe Kugel - Hoher Freschen - Mellental",
-                  "text": "Ein weitläufiges Naturschutzgebiet in Vorarlberg mit alpiner Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        9.738829,
-                        47.306713
-                  ]
-            },
-            {
-                  "name": "Strandbad Diepoldsau",
-                  "text": "Ein Naturbad am See in Diepoldsau, nahe der Grenze zu Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.672279,
-                        47.380802
-                  ]
-            },
-            {
-                  "name": "Arche Noah - Sammlung Kunst & Natur",
-                  "text": "Eine vielfältige Sammlung von Kunst- und Naturobjekten in Hohenems.",
-                  "category": "museum",
-                  "coords": [
-                        9.675272,
-                        47.371139
-                  ]
-            },
-            {
-                  "name": "Otten Kunstraum",
-                  "text": "Ein moderner Kunstraum in Hohenems für zeitgenössische Ausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        9.671949,
-                        47.349427
-                  ]
-            },
-            {
-                  "name": "Klien",
-                  "text": "Ein geschütztes Naturreservat in der Nähe von Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.714664,
-                        47.377899
-                  ]
-            },
-            {
-                  "name": "Strahlkopf",
-                  "text": "Ein markanter Berggipfel im Bregenzerwaldgebirge bei Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.721715,
-                        47.353552
-                  ]
-            },
-            {
-                  "name": "Kapf",
-                  "text": "Ein Aussichtsgipfel im Bregenzerwaldgebirge mit Blick über Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.687052,
-                        47.342751
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Ein lokaler Berggipfel in Hohenems, bekannt für seine historische Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        9.698309,
-                        47.36596
-                  ]
-            },
-            {
-                  "name": "Sonderberg",
-                  "text": "Ein Berggipfel in der hügeligen Landschaft um Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Eine Erhebung in der Berglandschaft von Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
-                  "name": "Wieskopf",
-                  "text": "Ein Berggipfel in der alpinen Umgebung von Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.700455,
-                        47.345768
-                  ]
-            },
-            {
-                  "name": "Witeleloch",
-                  "text": "Ein natürlicher Höhleneingang in der Region Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.677919,
-                        47.33664
-                  ]
-            },
-            {
-                  "name": "Wandfluh",
-                  "text": "Ein Gipfel in der bergigen Region von Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.725753,
-                        47.356537
-                  ]
-            },
-            {
-                  "name": "Ranzenberg",
-                  "text": "Ein markanter Punkt in der Bergwelt um Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.716765,
-                        47.360724
-                  ]
-            },
-            {
-                  "name": "Sonnaspitz",
-                  "text": "Ein Gipfel in den Bergen, die Hohenems umgeben.",
-                  "category": "natural",
-                  "coords": [
-                        9.70773,
-                        47.349091
-                  ]
-            },
-            {
-                  "name": "ProKonTra",
-                  "text": "Ein Kultur- und Kunstzentrum in Hohenems für verschiedene Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        9.684524,
-                        47.358269
-                  ]
-            },
-            {
-                  "name": "Gsätzle",
-                  "text": "Ein beliebter Aussichtspunkt mit Blick auf die Stadt Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.6932,
-                        47.363117
-                  ]
-            },
-            {
-                  "name": "Söle",
-                  "text": "Ein Aussichtspunkt in der Umgebung von Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "Eine historische Kapelle in Hohenems, die dem Heiligen Johannes Nepomuk gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        9.66531,
-                        47.359677
-                  ]
-            },
-            {
-                  "name": "St.Rochus",
-                  "text": "Eine denkmalgeschützte Kapelle in Hohenems, die dem Heiligen Rochus gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        9.706759,
-                        47.366242
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Die katholische Pfarrkirche der Gemeinde Altach bei Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
-                  "name": "Kapelle hl. Sebastian und hl. Antonius",
-                  "text": "Eine dem Heiligen Sebastian und Antonius gewidmete Kapelle in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.688724,
-                        47.358028
-                  ]
-            },
-            {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "Eine kleine Kapelle in erhöhter Lage in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Herrenried",
-                  "text": "Die moderne Pfarrkirche im Stadtteil Herrenried in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.676975,
-                        47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Der Alte Rhein in Hohenems ist ein Gewässer in schöner Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Die Lehmlöcher in Hohenems sind Teiche, die sich für Spaziergänge eignen.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Der Stockenweiher in Hohenems ist ein kleiner See in der Region.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Ein lokaler Löschteich in Hohenems in ruhiger Lage.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
-                  "name": "Kinder-Erlebniswelt",
-                  "text": "Die Kinder-Erlebniswelt in Hohenems bietet Abwechslung für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        9.655476,
-                        47.367182
-                  ]
-            },
-            {
-                  "name": "Indoor Minigolf",
-                  "text": "Eine Indoor-Minigolfanlage in Hohenems für wetterunabhängigen Familienspaß.",
-                  "category": "family",
-                  "coords": [
-                        9.676229,
-                        47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Ein Spielplatz am Dorfplatz in Hohenems für die kleinsten Besucher.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grillparzerstraße",
-                  "text": "Ein kinderfreundlicher Spielplatz in der Grillparzerstraße in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.674806,
-                        47.368909
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Dämmle",
-                  "text": "Der Spielplatz am Dämmle in Hohenems lädt Kinder zum Spielen ein.",
-                  "category": "family",
-                  "coords": [
-                        9.681627,
-                        47.368456
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Witzke",
-                  "text": "Ein schöner Spielplatz im Viertel Witzke in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.669,
-                        47.357913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schwefel",
-                  "text": "Ein öffentlicher Spielplatz im Stadtteil Schwefel in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.676851,
-                        47.356063
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stoffels Säge-Mühle",
-                  "text": "Szabadtéri múzeum Hohenemsben, amely történelmi fűrész- és malomtechnológiát mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        9.691714,
-                        47.360595
-                  ]
-            },
-            {
-                  "name": "Burg Neu-Ems",
-                  "text": "Jó állapotban fennmaradt hegyi vár Hohenemsben, más néven Schloss Glopper.",
-                  "category": "castle",
-                  "coords": [
-                        9.705678,
-                        47.368404
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum",
-                  "text": "Múzeum, amely a hohenemsi zsidó közösség történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.688622,
-                        47.364642
-                  ]
-            },
-            {
-                  "name": "Franz-Schubert-Museum",
-                  "text": "Hohenemsi múzeum, amely Franz Schubert zeneszerző életének és munkásságának állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        9.689599,
-                        47.363939
-                  ]
-            },
-            {
-                  "name": "Burgruine Alt-Ems",
-                  "text": "Egy egykor hatalmas erődítmény romjai a Hohenems feletti sziklán.",
-                  "category": "castle",
-                  "coords": [
-                        9.695793,
-                        47.363502
-                  ]
-            },
-            {
-                  "name": "Erholungszentrum Rheinauen",
-                  "text": "Nagy szabadidő- és strandkomplexum közvetlenül a hohenemsi Rajna-ártérnél.",
-                  "category": "family",
-                  "coords": [
-                        9.653178,
-                        47.367247
-                  ]
-            },
-            {
-                  "name": "Hohe Kugel - Hoher Freschen - Mellental",
-                  "text": "Kiterjedt természetvédelmi terület Vorarlbergben, alpesi flórával és faunával.",
-                  "category": "natural",
-                  "coords": [
-                        9.738829,
-                        47.306713
-                  ]
-            },
-            {
-                  "name": "Strandbad Diepoldsau",
-                  "text": "Természetes tóparti strand Diepoldsauban, a hohenemsi határ közelében.",
-                  "category": "family",
-                  "coords": [
-                        9.672279,
-                        47.380802
-                  ]
-            },
-            {
-                  "name": "Arche Noah - Sammlung Kunst & Natur",
-                  "text": "Művészeti és természeti tárgyak változatos gyűjteménye Hohenemsben.",
-                  "category": "museum",
-                  "coords": [
-                        9.675272,
-                        47.371139
-                  ]
-            },
-            {
-                  "name": "Otten Kunstraum",
-                  "text": "Modern művészeti tér Hohenemsben kortárs kiállítások számára.",
-                  "category": "museum",
-                  "coords": [
-                        9.671949,
-                        47.349427
-                  ]
-            },
-            {
-                  "name": "Klien",
-                  "text": "Védett természetvédelmi terület Hohenems közelében.",
-                  "category": "natural",
-                  "coords": [
-                        9.714664,
-                        47.377899
-                  ]
-            },
-            {
-                  "name": "Strahlkopf",
-                  "text": "Jellegzetes hegycsúcs a Bregenzerwald-hegységben, Hohenems közelében.",
-                  "category": "natural",
-                  "coords": [
-                        9.721715,
-                        47.353552
-                  ]
-            },
-            {
-                  "name": "Kapf",
-                  "text": "Kilátóhely a Bregenzerwald-hegységben, ahonnan panoráma nyílik Hohenemsre.",
-                  "category": "natural",
-                  "coords": [
-                        9.687052,
-                        47.342751
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Hohenems egyik helyi hegycsúcsa, amely történelmi jelentőségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        9.698309,
-                        47.36596
-                  ]
-            },
-            {
-                  "name": "Sonderberg",
-                  "text": "Hegycsúcs Hohenems dombos vidékén.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Egy kiemelkedő pont Hohenems hegyvidéki táján.",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
-                  "name": "Wieskopf",
-                  "text": "Hegycsúcs Hohenems alpesi környezetében.",
-                  "category": "natural",
-                  "coords": [
-                        9.700455,
-                        47.345768
-                  ]
-            },
-            {
-                  "name": "Witeleloch",
-                  "text": "Természetes barlangbejárat Hohenems régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        9.677919,
-                        47.33664
-                  ]
-            },
-            {
-                  "name": "Wandfluh",
-                  "text": "Hegycsúcs Hohenems hegyvidéki területén.",
-                  "category": "natural",
-                  "coords": [
-                        9.725753,
-                        47.356537
-                  ]
-            },
-            {
-                  "name": "Ranzenberg",
-                  "text": "Jellegzetes pont a Hohenems környéki hegyekben.",
-                  "category": "natural",
-                  "coords": [
-                        9.716765,
-                        47.360724
-                  ]
-            },
-            {
-                  "name": "Sonnaspitz",
-                  "text": "Hegycsúcs a Hohenemset körülvevő hegyekben.",
-                  "category": "natural",
-                  "coords": [
-                        9.70773,
-                        47.349091
-                  ]
-            },
-            {
-                  "name": "ProKonTra",
-                  "text": "Hohenemsi kulturális és művészeti központ különféle rendezvények számára.",
-                  "category": "cultural",
-                  "coords": [
-                        9.684524,
-                        47.358269
-                  ]
-            },
-            {
-                  "name": "Gsätzle",
-                  "text": "Népszerű kilátóhely, ahonnan rálátni Hohenems városára.",
-                  "category": "natural",
-                  "coords": [
-                        9.6932,
-                        47.363117
-                  ]
-            },
-            {
-                  "name": "Söle",
-                  "text": "Kilátóhely Hohenems környékén.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "Nepomuki Szent Jánosnak szentelt történelmi kápolna Hohenemsben.",
-                  "category": "religious",
-                  "coords": [
-                        9.66531,
-                        47.359677
-                  ]
-            },
-            {
-                  "name": "St.Rochus",
-                  "text": "Szent Rókusnak szentelt, műemlékvédelem alatt álló kápolna Hohenemsben.",
-                  "category": "religious",
-                  "coords": [
-                        9.706759,
-                        47.366242
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Altach község katolikus plébániatemploma Hohenems közelében.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
-                  "name": "Kapelle hl. Sebastian und hl. Antonius",
-                  "text": "Szent Sebestyénnek és Antalnak szentelt kápolna Hohenemsben.",
-                  "category": "religious",
-                  "coords": [
-                        9.688724,
-                        47.358028
-                  ]
-            },
-            {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "Kisméretű kápolna Hohenems egyik magaslati pontján.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Herrenried",
-                  "text": "Modern plébániatemplom Hohenems Herrenried városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        9.676975,
-                        47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Az Alter Rhein Hohenemsben egy szép természeti környezetben fekvő állóvíz.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "A hohenemsi Lehmlöcher tavak alkalmasak egy kellemes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "A hohenemsi Stockenweiher egy kis tó a régióban.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Egy helyi tűzivíztározó Hohenemsben, nyugodt környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
-                  "name": "Kinder-Erlebniswelt",
-                  "text": "A hohenemsi Kinder-Erlebniswelt kikapcsolódást nyújt a gyermekes családoknak.",
-                  "category": "family",
-                  "coords": [
-                        9.655476,
-                        47.367182
-                  ]
-            },
-            {
-                  "name": "Indoor Minigolf",
-                  "text": "Egy beltéri minigolfpálya Hohenemsben az időjárástól független családi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        9.676229,
-                        47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Egy játszótér a hohenemsi Dorfplatzon a legkisebb látogatók számára.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grillparzerstraße",
-                  "text": "Egy gyerekbarát játszótér a hohenemsi Grillparzerstraße utcában.",
-                  "category": "family",
-                  "coords": [
-                        9.674806,
-                        47.368909
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Dämmle",
-                  "text": "A hohenemsi Spielplatz am Dämmle játékra hívja a gyermekeket.",
-                  "category": "family",
-                  "coords": [
-                        9.681627,
-                        47.368456
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Witzke",
-                  "text": "Egy szép játszótér a hohenemsi Witzke negyedben.",
-                  "category": "family",
-                  "coords": [
-                        9.669,
-                        47.357913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schwefel",
-                  "text": "Egy nyilvános játszótér a hohenemsi Schwefel városrészben.",
-                  "category": "family",
-                  "coords": [
-                        9.676851,
-                        47.356063
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stoffels Säge-Mühle",
-                  "text": "Un muzeu în aer liber în Hohenems care prezintă tehnici istorice de tăiere a lemnului și măcinare.",
-                  "category": "museum",
-                  "coords": [
-                        9.691714,
-                        47.360595
-                  ]
-            },
-            {
-                  "name": "Burg Neu-Ems",
-                  "text": "Un castel de munte bine conservat în Hohenems, cunoscut și sub numele de Schloss Glopper.",
-                  "category": "castle",
-                  "coords": [
-                        9.705678,
-                        47.368404
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum",
-                  "text": "Un muzeu care documentează istoria comunității evreiești din Hohenems.",
-                  "category": "museum",
-                  "coords": [
-                        9.688622,
-                        47.364642
-                  ]
-            },
-            {
-                  "name": "Franz-Schubert-Museum",
-                  "text": "Un muzeu în Hohenems dedicat vieții și operei compozitorului Franz Schubert.",
-                  "category": "museum",
-                  "coords": [
-                        9.689599,
-                        47.363939
-                  ]
-            },
-            {
-                  "name": "Burgruine Alt-Ems",
-                  "text": "Ruina unei fortificații odinioară puternice pe o stâncă deasupra orașului Hohenems.",
-                  "category": "castle",
-                  "coords": [
-                        9.695793,
-                        47.363502
-                  ]
-            },
-            {
-                  "name": "Erholungszentrum Rheinauen",
-                  "text": "O zonă mare de agrement și ștrand situată direct în luncile Rinului din Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.653178,
-                        47.367247
-                  ]
-            },
-            {
-                  "name": "Hohe Kugel - Hoher Freschen - Mellental",
-                  "text": "O rezervație naturală extinsă în Vorarlberg, cu floră și faună alpină.",
-                  "category": "natural",
-                  "coords": [
-                        9.738829,
-                        47.306713
-                  ]
-            },
-            {
-                  "name": "Strandbad Diepoldsau",
-                  "text": "Un ștrand natural la lac în Diepoldsau, lângă granița cu Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.672279,
-                        47.380802
-                  ]
-            },
-            {
-                  "name": "Arche Noah - Sammlung Kunst & Natur",
-                  "text": "O colecție diversă de obiecte de artă și natură în Hohenems.",
-                  "category": "museum",
-                  "coords": [
-                        9.675272,
-                        47.371139
-                  ]
-            },
-            {
-                  "name": "Otten Kunstraum",
-                  "text": "Un spațiu de artă modernă în Hohenems pentru expoziții contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        9.671949,
-                        47.349427
-                  ]
-            },
-            {
-                  "name": "Klien",
-                  "text": "O rezervație naturală protejată în apropiere de Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.714664,
-                        47.377899
-                  ]
-            },
-            {
-                  "name": "Strahlkopf",
-                  "text": "Un vârf montan proeminent în munții Bregenzerwald, lângă Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.721715,
-                        47.353552
-                  ]
-            },
-            {
-                  "name": "Kapf",
-                  "text": "Un vârf cu belvedere în munții Bregenzerwald, oferind o panoramă asupra Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.687052,
-                        47.342751
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "Un vârf montan local în Hohenems, cunoscut pentru importanța sa istorică.",
-                  "category": "natural",
-                  "coords": [
-                        9.698309,
-                        47.36596
-                  ]
-            },
-            {
-                  "name": "Sonderberg",
-                  "text": "Un vârf montan în peisajul deluros din jurul localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "O proeminență în peisajul montan din Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
-                  "name": "Wieskopf",
-                  "text": "Un vârf montan în împrejurimile alpine ale localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.700455,
-                        47.345768
-                  ]
-            },
-            {
-                  "name": "Witeleloch",
-                  "text": "O intrare naturală într-o peșteră în regiunea Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.677919,
-                        47.33664
-                  ]
-            },
-            {
-                  "name": "Wandfluh",
-                  "text": "Un vârf în regiunea muntoasă a localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.725753,
-                        47.356537
-                  ]
-            },
-            {
-                  "name": "Ranzenberg",
-                  "text": "Un punct proeminent în munții din jurul localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.716765,
-                        47.360724
-                  ]
-            },
-            {
-                  "name": "Sonnaspitz",
-                  "text": "Un vârf în munții care înconjoară Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.70773,
-                        47.349091
-                  ]
-            },
-            {
-                  "name": "ProKonTra",
-                  "text": "Un centru cultural și de artă în Hohenems pentru diverse evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        9.684524,
-                        47.358269
-                  ]
-            },
-            {
-                  "name": "Gsätzle",
-                  "text": "Un punct de belvedere popular cu vedere spre orașul Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.6932,
-                        47.363117
-                  ]
-            },
-            {
-                  "name": "Söle",
-                  "text": "Un punct de belvedere în împrejurimile localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "O capelă istorică din Hohenems dedicată Sfântului Ioan Nepomuk.",
-                  "category": "religious",
-                  "coords": [
-                        9.66531,
-                        47.359677
-                  ]
-            },
-            {
-                  "name": "St.Rochus",
-                  "text": "O capelă protejată din Hohenems dedicată Sfântului Rochus.",
-                  "category": "religious",
-                  "coords": [
-                        9.706759,
-                        47.366242
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Biserica parohială catolică a comunei Altach de lângă Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
-                  "name": "Kapelle hl. Sebastian und hl. Antonius",
-                  "text": "O capelă dedicată sfinților Sebastian și Anton în Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.688724,
-                        47.358028
-                  ]
-            },
-            {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "O mică capelă situată într-o zonă înaltă din Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Herrenried",
-                  "text": "Biserica parohială modernă din cartierul Herrenried în Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.676975,
-                        47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Alter Rhein din Hohenems este o apă stătătoare într-un cadru natural frumos.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Lehmlöcher din Hohenems sunt iazuri potrivite pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Stockenweiher din Hohenems este un lac mic din regiune.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "Un iaz de incendiu local în Hohenems, într-o locație liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
-                  "name": "Kinder-Erlebniswelt",
-                  "text": "Kinder-Erlebniswelt din Hohenems oferă recreere pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        9.655476,
-                        47.367182
-                  ]
-            },
-            {
-                  "name": "Indoor Minigolf",
-                  "text": "Un teren de minigolf acoperit în Hohenems pentru distracție în familie, indiferent de vreme.",
-                  "category": "family",
-                  "coords": [
-                        9.676229,
-                        47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Un loc de joacă în Dorfplatz din Hohenems pentru cei mai mici vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grillparzerstraße",
-                  "text": "Un loc de joacă pentru copii pe strada Grillparzerstraße din Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.674806,
-                        47.368909
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Dämmle",
-                  "text": "Locul de joacă am Dämmle din Hohenems îi invită pe copii la joacă.",
-                  "category": "family",
-                  "coords": [
-                        9.681627,
-                        47.368456
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Witzke",
-                  "text": "Un loc de joacă frumos în cartierul Witzke din Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.669,
-                        47.357913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schwefel",
-                  "text": "Un loc de joacă public în districtul Schwefel din Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.676851,
-                        47.356063
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stoffels Säge-Mühle",
-                  "text": "An open-air museum in Hohenems showcasing historic sawing and milling technology.",
-                  "category": "museum",
-                  "coords": [
-                        9.691714,
-                        47.360595
-                  ]
-            },
-            {
-                  "name": "Burg Neu-Ems",
-                  "text": "A well-preserved hill castle in Hohenems, also known as Glopper Castle.",
-                  "category": "castle",
-                  "coords": [
-                        9.705678,
-                        47.368404
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum",
-                  "text": "A museum documenting the history of the Jewish community in Hohenems.",
-                  "category": "museum",
-                  "coords": [
-                        9.688622,
-                        47.364642
-                  ]
-            },
-            {
-                  "name": "Franz-Schubert-Museum",
-                  "text": "A museum in Hohenems dedicated to the life and work of composer Franz Schubert.",
-                  "category": "museum",
-                  "coords": [
-                        9.689599,
-                        47.363939
-                  ]
-            },
-            {
-                  "name": "Burgruine Alt-Ems",
-                  "text": "The ruins of a once mighty fortress on a rock above Hohenems.",
-                  "category": "castle",
-                  "coords": [
-                        9.695793,
-                        47.363502
-                  ]
-            },
-            {
-                  "name": "Erholungszentrum Rheinauen",
-                  "text": "A large leisure and outdoor pool area located directly on the Rhine floodplains in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.653178,
-                        47.367247
-                  ]
-            },
-            {
-                  "name": "Hohe Kugel - Hoher Freschen - Mellental",
-                  "text": "A vast nature reserve in Vorarlberg featuring alpine flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        9.738829,
-                        47.306713
-                  ]
-            },
-            {
-                  "name": "Strandbad Diepoldsau",
-                  "text": "A natural lakeside pool in Diepoldsau, near the border with Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.672279,
-                        47.380802
-                  ]
-            },
-            {
-                  "name": "Arche Noah - Sammlung Kunst & Natur",
-                  "text": "A diverse collection of art and nature objects in Hohenems.",
-                  "category": "museum",
-                  "coords": [
-                        9.675272,
-                        47.371139
-                  ]
-            },
-            {
-                  "name": "Otten Kunstraum",
-                  "text": "A modern art space in Hohenems for contemporary exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        9.671949,
-                        47.349427
-                  ]
-            },
-            {
-                  "name": "Klien",
-                  "text": "A protected nature reserve area near Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.714664,
-                        47.377899
-                  ]
-            },
-            {
-                  "name": "Strahlkopf",
-                  "text": "A prominent mountain peak in the Bregenzerwald Mountains near Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.721715,
-                        47.353552
-                  ]
-            },
-            {
-                  "name": "Kapf",
-                  "text": "A peak in the Bregenzerwald Mountains offering panoramic views over Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.687052,
-                        47.342751
-                  ]
-            },
-            {
-                  "name": "Schlossberg",
-                  "text": "A local mountain peak in Hohenems known for its historical significance.",
-                  "category": "natural",
-                  "coords": [
-                        9.698309,
-                        47.36596
-                  ]
-            },
-            {
-                  "name": "Sonderberg",
-                  "text": "A mountain peak in the hilly landscape around Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "A peak in the mountain landscape of Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
-                  "name": "Wieskopf",
-                  "text": "A mountain peak in the alpine surroundings of Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.700455,
-                        47.345768
-                  ]
-            },
-            {
-                  "name": "Witeleloch",
-                  "text": "A natural cave entrance in the Hohenems region.",
-                  "category": "natural",
-                  "coords": [
-                        9.677919,
-                        47.33664
-                  ]
-            },
-            {
-                  "name": "Wandfluh",
-                  "text": "A peak in the mountainous region of Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.725753,
-                        47.356537
-                  ]
-            },
-            {
-                  "name": "Ranzenberg",
-                  "text": "A prominent point in the mountains around Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.716765,
-                        47.360724
-                  ]
-            },
-            {
-                  "name": "Sonnaspitz",
-                  "text": "A peak in the mountains surrounding Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.70773,
-                        47.349091
-                  ]
-            },
-            {
-                  "name": "ProKonTra",
-                  "text": "A cultural and arts centre in Hohenems for various events.",
-                  "category": "cultural",
-                  "coords": [
-                        9.684524,
-                        47.358269
-                  ]
-            },
-            {
-                  "name": "Gsätzle",
-                  "text": "A popular viewpoint overlooking the town of Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.6932,
-                        47.363117
-                  ]
-            },
-            {
-                  "name": "Soele",
-                  "text": "A viewpoint in the surroundings of Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "A historic chapel in Hohenems dedicated to Saint John of Nepomuk.",
-                  "category": "religious",
-                  "coords": [
-                        9.66531,
-                        47.359677
-                  ]
-            },
-            {
-                  "name": "St.Rochus",
-                  "text": "A listed chapel in Hohenems dedicated to Saint Roch.",
-                  "category": "religious",
-                  "coords": [
-                        9.706759,
-                        47.366242
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Altach",
-                  "text": "The Catholic parish church of the municipality of Altach near Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
-                  "name": "Kapelle hl. Sebastian und hl. Antonius",
-                  "text": "A chapel dedicated to Saints Sebastian and Anthony in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.688724,
-                        47.358028
-                  ]
-            },
-            {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "A small chapel located on an elevated site in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Herrenried",
-                  "text": "The modern parish church in the Herrenried district of Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.676975,
-                        47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "The Alter Rhein in Hohenems is a body of water in a beautiful natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "The Lehmlöcher in Hohenems are ponds suitable for walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "The Stockenweiher in Hohenems is a small lake in the region.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Löschteich",
-                  "text": "A local fire pond in Hohenems in a quiet location.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
-                  "name": "Kinder-Erlebniswelt",
-                  "text": "The Kinder-Erlebniswelt in Hohenems offers recreation for families with children.",
-                  "category": "family",
-                  "coords": [
-                        9.655476,
-                        47.367182
-                  ]
-            },
-            {
-                  "name": "Indoor Minigolf",
-                  "text": "An indoor minigolf course in Hohenems for weather-independent family fun.",
-                  "category": "family",
-                  "coords": [
-                        9.676229,
-                        47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "A playground at the Dorfplatz in Hohenems for the youngest visitors.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
-                  ]
-            },
-            {
-                  "name": "Spielplatz Grillparzerstraße",
-                  "text": "A child-friendly playground in Grillparzerstraße in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.674806,
-                        47.368909
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Dämmle",
-                  "text": "The playground am Dämmle in Hohenems invites children to play.",
-                  "category": "family",
-                  "coords": [
-                        9.681627,
-                        47.368456
-                  ]
-            },
-            {
-                  "name": "Spielplatz im Witzke",
-                  "text": "A nice playground in the Witzke district in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.669,
-                        47.357913
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schwefel",
-                  "text": "A public playground in the Schwefel district in Hohenems.",
-                  "category": "family",
-                  "coords": [
-                        9.676851,
-                        47.356063
-                  ]
-            }
-      ]
-},
+    id: "austria-hohenems-cities-v2", "sights": {"de": [{"name": "Stoffels Säge-Mühle", "text": "Ein Freilichtmuseum in Hohenems, das historische Säge- und Mühlentechnik zeigt.", "category": "museum", "coords": [9.691714, 47.360595]}, {"name": "Burg Neu-Ems", "text": "Eine gut erhaltene Höhenburg in Hohenems, auch bekannt als Schloss Glopper.", "category": "castle", "coords": [9.705678, 47.368404]}, {"name": "Jüdisches Museum", "text": "Das Jüdisches Museum in Hohenems dokumentiert die weitreichende Geschichte der dortigen jüdischen Gemeinde in Österreich. Durch vielfältige Ausstellungen gewährt das Museum tiefe Einblicke in das historische Erbe und die Kultur der Gemeinde. Besucher können hier ein wichtiges Stück regionaler Zeitgeschichte entdecken.", "category": "museum", "coords": [9.688622, 47.364642]}, {"name": "Franz-Schubert-Museum", "text": "Ein Museum in Hohenems, das dem Leben und Werk des Komponisten Franz Schubert gewidmet ist.", "category": "museum", "coords": [9.689599, 47.363939]}, {"name": "Burgruine Alt-Ems", "text": "Die Ruine einer einst mächtigen Festungsanlage auf einem Felsen über Hohenems.", "category": "castle", "coords": [9.695793, 47.363502]}, {"name": "Erholungszentrum Rheinauen", "text": "Ein großes Freizeit- und Freibadgelände direkt an den Rheinauen in Hohenems.", "category": "family", "coords": [9.653178, 47.367247]}, {"name": "Hohe Kugel - Hoher Freschen - Mellental", "text": "Ein weitläufiges Naturschutzgebiet in Vorarlberg mit alpiner Flora und Fauna.", "category": "natural", "coords": [9.738829, 47.306713]}, {"name": "Strandbad Diepoldsau", "text": "Ein Naturbad am See in Diepoldsau, nahe der Grenze zu Hohenems.", "category": "family", "coords": [9.672279, 47.380802]}, {"name": "Arche Noah - Sammlung Kunst & Natur", "text": "Eine vielfältige Sammlung von Kunst- und Naturobjekten in Hohenems.", "category": "museum", "coords": [9.675272, 47.371139]}, {"name": "Otten Kunstraum", "text": "Ein moderner Kunstraum in Hohenems für zeitgenössische Ausstellungen.", "category": "museum", "coords": [9.671949, 47.349427]}, {"name": "Klien", "text": "Ein geschütztes Naturreservat in der Nähe von Hohenems.", "category": "natural", "coords": [9.714664, 47.377899]}, {"name": "Strahlkopf", "text": "Ein markanter Berggipfel im Bregenzerwaldgebirge bei Hohenems.", "category": "natural", "coords": [9.721715, 47.353552]}, {"name": "Kapf", "text": "Ein Aussichtsgipfel im Bregenzerwaldgebirge mit Blick über Hohenems.", "category": "natural", "coords": [9.687052, 47.342751]}, {"name": "Schlossberg", "text": "Ein lokaler Berggipfel in Hohenems, bekannt für seine historische Bedeutung.", "category": "natural", "coords": [9.698309, 47.36596]}, {"name": "Sonderberg", "text": "Ein Berggipfel in der hügeligen Landschaft um Hohenems.", "category": "natural", "coords": [9.654437, 47.347513]}, {"name": "Eichbühel", "text": "Eine Erhebung in der Berglandschaft von Hohenems.", "category": "natural", "coords": [9.664928, 47.340575]}, {"name": "Wieskopf", "text": "Ein Berggipfel in der alpinen Umgebung von Hohenems.", "category": "natural", "coords": [9.700455, 47.345768]}, {"name": "Witeleloch", "text": "Ein natürlicher Höhleneingang in der Region Hohenems.", "category": "natural", "coords": [9.677919, 47.33664]}, {"name": "Wandfluh", "text": "Ein Gipfel in der bergigen Region von Hohenems.", "category": "natural", "coords": [9.725753, 47.356537]}, {"name": "Ranzenberg", "text": "Ein markanter Punkt in der Bergwelt um Hohenems.", "category": "natural", "coords": [9.716765, 47.360724]}, {"name": "Sonnaspitz", "text": "Ein Gipfel in den Bergen, die Hohenems umgeben.", "category": "natural", "coords": [9.70773, 47.349091]}, {"name": "ProKonTra", "text": "Ein Kultur- und Kunstzentrum in Hohenems für verschiedene Veranstaltungen.", "category": "cultural", "coords": [9.684524, 47.358269]}, {"name": "Gsätzle", "text": "Ein beliebter Aussichtspunkt mit Blick auf die Stadt Hohenems.", "category": "natural", "coords": [9.6932, 47.363117]}, {"name": "Söle", "text": "Ein Aussichtspunkt in der Umgebung von Hohenems.", "category": "natural", "coords": [9.664708, 47.342443]}, {"name": "Nepomukkapelle", "text": "Eine historische Kapelle in Hohenems, die dem Heiligen Johannes Nepomuk gewidmet ist.", "category": "religious", "coords": [9.66531, 47.359677]}, {"name": "St.Rochus", "text": "Eine denkmalgeschützte Kapelle in Hohenems, die dem Heiligen Rochus gewidmet ist.", "category": "religious", "coords": [9.706759, 47.366242]}, {"name": "Pfarrkirche Altach", "text": "Die katholische Pfarrkirche der Gemeinde Altach bei Hohenems.", "category": "religious", "coords": [9.65191, 47.354091]}, {"name": "Kapelle hl. Sebastian und hl. Antonius", "text": "Eine dem Heiligen Sebastian und Antonius gewidmete Kapelle in Hohenems.", "category": "religious", "coords": [9.688724, 47.358028]}, {"name": "Kapelle Oberer Berg", "text": "Eine kleine Kapelle in erhöhter Lage in Hohenems.", "category": "religious", "coords": [9.671665, 47.340096]}, {"name": "Pfarrkirche Herrenried", "text": "Die moderne Pfarrkirche im Stadtteil Herrenried in Hohenems.", "category": "religious", "coords": [9.676975, 47.366303]}, {"name": "Alter Rhein", "text": "Der Alte Rhein in Hohenems ist ein Gewässer in schöner Natur.", "category": "natural", "coords": [9.655836, 47.403005]}, {"name": "Lehmlöcher", "text": "Die Lehmlöcher in Hohenems sind Teiche, die sich für Spaziergänge eignen.", "category": "natural", "coords": [9.674038, 47.358909]}, {"name": "Stockenweiher", "text": "Der Stockenweiher in Hohenems ist ein kleiner See in der Region.", "category": "natural", "coords": [9.675548, 47.357544]}, {"name": "Löschteich", "text": "Ein lokaler Löschteich in Hohenems in ruhiger Lage.", "category": "natural", "coords": [9.680772, 47.316005]}, {"name": "Kinder-Erlebniswelt", "text": "Die Kinder-Erlebniswelt in Hohenems bietet Abwechslung für Familien mit Kindern.", "category": "family", "coords": [9.655476, 47.367182]}, {"name": "Indoor Minigolf", "text": "Eine Indoor-Minigolfanlage in Hohenems für wetterunabhängigen Familienspaß.", "category": "family", "coords": [9.676229, 47.371814]}, {"name": "Dorfplatz", "text": "Ein Spielplatz am Dorfplatz in Hohenems für die kleinsten Besucher.", "category": "family", "coords": [9.650201, 47.353957]}, {"name": "Spielplatz Grillparzerstraße", "text": "Ein kinderfreundlicher Spielplatz in der Grillparzerstraße in Hohenems.", "category": "family", "coords": [9.674806, 47.368909]}, {"name": "Spielplatz am Dämmle", "text": "Der Spielplatz am Dämmle in Hohenems lädt Kinder zum Spielen ein.", "category": "family", "coords": [9.681627, 47.368456]}, {"name": "Spielplatz im Witzke", "text": "Ein schöner Spielplatz im Viertel Witzke in Hohenems.", "category": "family", "coords": [9.669, 47.357913]}, {"name": "Spielplatz Schwefel", "text": "Ein öffentlicher Spielplatz im Stadtteil Schwefel in Hohenems.", "category": "family", "coords": [9.676851, 47.356063]}, {"name": "Schwimmbad in der Riebe", "text": "Dieses Wasserpark in Hohenems lädt mit seinen Anlagen zum Baden und Verweilen ein.", "category": "family", "coords": [9.654433, 47.333162]}], "hu": [{"name": "Stoffels Säge-Mühle", "text": "Szabadtéri múzeum Hohenemsben, amely történelmi fűrész- és malomtechnológiát mutat be.", "category": "museum", "coords": [9.691714, 47.360595]}, {"name": "Burg Neu-Ems", "text": "Jó állapotban fennmaradt hegyi vár Hohenemsben, más néven Schloss Glopper.", "category": "castle", "coords": [9.705678, 47.368404]}, {"name": "Jüdisches Museum", "text": "A hohenemsi Jüdisches Museum az ottani zsidó közösség messzire nyúló ausztriai történetét dokumentálja. A múzeum sokrétű kiállításokon keresztül nyújt mély bepillantást a közösség történelmi örökségébe és kultúrájába. A látogatók a regionális jelenkortörténet egy fontos darabját fedezhetik fel itt.", "category": "museum", "coords": [9.688622, 47.364642]}, {"name": "Franz-Schubert-Museum", "text": "Hohenemsi múzeum, amely Franz Schubert zeneszerző életének és munkásságának állít emléket.", "category": "museum", "coords": [9.689599, 47.363939]}, {"name": "Burgruine Alt-Ems", "text": "Egy egykor hatalmas erődítmény romjai a Hohenems feletti sziklán.", "category": "castle", "coords": [9.695793, 47.363502]}, {"name": "Erholungszentrum Rheinauen", "text": "Nagy szabadidő- és strandkomplexum közvetlenül a hohenemsi Rajna-ártérnél.", "category": "family", "coords": [9.653178, 47.367247]}, {"name": "Hohe Kugel - Hoher Freschen - Mellental", "text": "Kiterjedt természetvédelmi terület Vorarlbergben, alpesi flórával és faunával.", "category": "natural", "coords": [9.738829, 47.306713]}, {"name": "Strandbad Diepoldsau", "text": "Természetes tóparti strand Diepoldsauban, a hohenemsi határ közelében.", "category": "family", "coords": [9.672279, 47.380802]}, {"name": "Arche Noah - Sammlung Kunst & Natur", "text": "Művészeti és természeti tárgyak változatos gyűjteménye Hohenemsben.", "category": "museum", "coords": [9.675272, 47.371139]}, {"name": "Otten Kunstraum", "text": "Modern művészeti tér Hohenemsben kortárs kiállítások számára.", "category": "museum", "coords": [9.671949, 47.349427]}, {"name": "Klien", "text": "Védett természetvédelmi terület Hohenems közelében.", "category": "natural", "coords": [9.714664, 47.377899]}, {"name": "Strahlkopf", "text": "Jellegzetes hegycsúcs a Bregenzerwald-hegységben, Hohenems közelében.", "category": "natural", "coords": [9.721715, 47.353552]}, {"name": "Kapf", "text": "Kilátóhely a Bregenzerwald-hegységben, ahonnan panoráma nyílik Hohenemsre.", "category": "natural", "coords": [9.687052, 47.342751]}, {"name": "Schlossberg", "text": "Hohenems egyik helyi hegycsúcsa, amely történelmi jelentőségéről ismert.", "category": "natural", "coords": [9.698309, 47.36596]}, {"name": "Sonderberg", "text": "Hegycsúcs Hohenems dombos vidékén.", "category": "natural", "coords": [9.654437, 47.347513]}, {"name": "Eichbühel", "text": "Egy kiemelkedő pont Hohenems hegyvidéki táján.", "category": "natural", "coords": [9.664928, 47.340575]}, {"name": "Wieskopf", "text": "Hegycsúcs Hohenems alpesi környezetében.", "category": "natural", "coords": [9.700455, 47.345768]}, {"name": "Witeleloch", "text": "Természetes barlangbejárat Hohenems régiójában.", "category": "natural", "coords": [9.677919, 47.33664]}, {"name": "Wandfluh", "text": "Hegycsúcs Hohenems hegyvidéki területén.", "category": "natural", "coords": [9.725753, 47.356537]}, {"name": "Ranzenberg", "text": "Jellegzetes pont a Hohenems környéki hegyekben.", "category": "natural", "coords": [9.716765, 47.360724]}, {"name": "Sonnaspitz", "text": "Hegycsúcs a Hohenemset körülvevő hegyekben.", "category": "natural", "coords": [9.70773, 47.349091]}, {"name": "ProKonTra", "text": "Hohenemsi kulturális és művészeti központ különféle rendezvények számára.", "category": "cultural", "coords": [9.684524, 47.358269]}, {"name": "Gsätzle", "text": "Népszerű kilátóhely, ahonnan rálátni Hohenems városára.", "category": "natural", "coords": [9.6932, 47.363117]}, {"name": "Söle", "text": "Kilátóhely Hohenems környékén.", "category": "natural", "coords": [9.664708, 47.342443]}, {"name": "Nepomukkapelle", "text": "Nepomuki Szent Jánosnak szentelt történelmi kápolna Hohenemsben.", "category": "religious", "coords": [9.66531, 47.359677]}, {"name": "St.Rochus", "text": "Szent Rókusnak szentelt, műemlékvédelem alatt álló kápolna Hohenemsben.", "category": "religious", "coords": [9.706759, 47.366242]}, {"name": "Pfarrkirche Altach", "text": "Altach község katolikus plébániatemploma Hohenems közelében.", "category": "religious", "coords": [9.65191, 47.354091]}, {"name": "Kapelle hl. Sebastian und hl. Antonius", "text": "Szent Sebestyénnek és Antalnak szentelt kápolna Hohenemsben.", "category": "religious", "coords": [9.688724, 47.358028]}, {"name": "Kapelle Oberer Berg", "text": "Kisméretű kápolna Hohenems egyik magaslati pontján.", "category": "religious", "coords": [9.671665, 47.340096]}, {"name": "Pfarrkirche Herrenried", "text": "Modern plébániatemplom Hohenems Herrenried városrészében.", "category": "religious", "coords": [9.676975, 47.366303]}, {"name": "Alter Rhein", "text": "Az Alter Rhein Hohenemsben egy szép természeti környezetben fekvő állóvíz.", "category": "natural", "coords": [9.655836, 47.403005]}, {"name": "Lehmlöcher", "text": "A hohenemsi Lehmlöcher tavak alkalmasak egy kellemes sétához.", "category": "natural", "coords": [9.674038, 47.358909]}, {"name": "Stockenweiher", "text": "A hohenemsi Stockenweiher egy kis tó a régióban.", "category": "natural", "coords": [9.675548, 47.357544]}, {"name": "Löschteich", "text": "Egy helyi tűzivíztározó Hohenemsben, nyugodt környezetben.", "category": "natural", "coords": [9.680772, 47.316005]}, {"name": "Kinder-Erlebniswelt", "text": "A hohenemsi Kinder-Erlebniswelt kikapcsolódást nyújt a gyermekes családoknak.", "category": "family", "coords": [9.655476, 47.367182]}, {"name": "Indoor Minigolf", "text": "Egy beltéri minigolfpálya Hohenemsben az időjárástól független családi szórakozáshoz.", "category": "family", "coords": [9.676229, 47.371814]}, {"name": "Dorfplatz", "text": "Egy játszótér a hohenemsi Dorfplatzon a legkisebb látogatók számára.", "category": "family", "coords": [9.650201, 47.353957]}, {"name": "Spielplatz Grillparzerstraße", "text": "Egy gyerekbarát játszótér a hohenemsi Grillparzerstraße utcában.", "category": "family", "coords": [9.674806, 47.368909]}, {"name": "Spielplatz am Dämmle", "text": "A hohenemsi Spielplatz am Dämmle játékra hívja a gyermekeket.", "category": "family", "coords": [9.681627, 47.368456]}, {"name": "Spielplatz im Witzke", "text": "Egy szép játszótér a hohenemsi Witzke negyedben.", "category": "family", "coords": [9.669, 47.357913]}, {"name": "Spielplatz Schwefel", "text": "Egy nyilvános játszótér a hohenemsi Schwefel városrészben.", "category": "family", "coords": [9.676851, 47.356063]}, {"name": "Schwimmbad in der Riebe", "text": "Ez a hohenemsi vízi park fürdőzésre és pihenésre hívja a látogatókat.", "category": "family", "coords": [9.654433, 47.333162]}], "ro": [{"name": "Stoffels Säge-Mühle", "text": "Un muzeu în aer liber în Hohenems care prezintă tehnici istorice de tăiere a lemnului și măcinare.", "category": "museum", "coords": [9.691714, 47.360595]}, {"name": "Burg Neu-Ems", "text": "Un castel de munte bine conservat în Hohenems, cunoscut și sub numele de Schloss Glopper.", "category": "castle", "coords": [9.705678, 47.368404]}, {"name": "Jüdisches Museum", "text": "Jüdisches Museum din Hohenems documentează istoria vastă a comunității evreiești de acolo, din Austria. Prin diverse expoziții, muzeul oferă perspective profunde asupra moștenirii istorice și culturii comunității. Vizitatorii pot descoperi aici o parte importantă a istoriei regionale contemporane.", "category": "museum", "coords": [9.688622, 47.364642]}, {"name": "Franz-Schubert-Museum", "text": "Un muzeu în Hohenems dedicat vieții și operei compozitorului Franz Schubert.", "category": "museum", "coords": [9.689599, 47.363939]}, {"name": "Burgruine Alt-Ems", "text": "Ruina unei fortificații odinioară puternice pe o stâncă deasupra orașului Hohenems.", "category": "castle", "coords": [9.695793, 47.363502]}, {"name": "Erholungszentrum Rheinauen", "text": "O zonă mare de agrement și ștrand situată direct în luncile Rinului din Hohenems.", "category": "family", "coords": [9.653178, 47.367247]}, {"name": "Hohe Kugel - Hoher Freschen - Mellental", "text": "O rezervație naturală extinsă în Vorarlberg, cu floră și faună alpină.", "category": "natural", "coords": [9.738829, 47.306713]}, {"name": "Strandbad Diepoldsau", "text": "Un ștrand natural la lac în Diepoldsau, lângă granița cu Hohenems.", "category": "family", "coords": [9.672279, 47.380802]}, {"name": "Arche Noah - Sammlung Kunst & Natur", "text": "O colecție diversă de obiecte de artă și natură în Hohenems.", "category": "museum", "coords": [9.675272, 47.371139]}, {"name": "Otten Kunstraum", "text": "Un spațiu de artă modernă în Hohenems pentru expoziții contemporane.", "category": "museum", "coords": [9.671949, 47.349427]}, {"name": "Klien", "text": "O rezervație naturală protejată în apropiere de Hohenems.", "category": "natural", "coords": [9.714664, 47.377899]}, {"name": "Strahlkopf", "text": "Un vârf montan proeminent în munții Bregenzerwald, lângă Hohenems.", "category": "natural", "coords": [9.721715, 47.353552]}, {"name": "Kapf", "text": "Un vârf cu belvedere în munții Bregenzerwald, oferind o panoramă asupra Hohenems.", "category": "natural", "coords": [9.687052, 47.342751]}, {"name": "Schlossberg", "text": "Un vârf montan local în Hohenems, cunoscut pentru importanța sa istorică.", "category": "natural", "coords": [9.698309, 47.36596]}, {"name": "Sonderberg", "text": "Un vârf montan în peisajul deluros din jurul localității Hohenems.", "category": "natural", "coords": [9.654437, 47.347513]}, {"name": "Eichbühel", "text": "O proeminență în peisajul montan din Hohenems.", "category": "natural", "coords": [9.664928, 47.340575]}, {"name": "Wieskopf", "text": "Un vârf montan în împrejurimile alpine ale localității Hohenems.", "category": "natural", "coords": [9.700455, 47.345768]}, {"name": "Witeleloch", "text": "O intrare naturală într-o peșteră în regiunea Hohenems.", "category": "natural", "coords": [9.677919, 47.33664]}, {"name": "Wandfluh", "text": "Un vârf în regiunea muntoasă a localității Hohenems.", "category": "natural", "coords": [9.725753, 47.356537]}, {"name": "Ranzenberg", "text": "Un punct proeminent în munții din jurul localității Hohenems.", "category": "natural", "coords": [9.716765, 47.360724]}, {"name": "Sonnaspitz", "text": "Un vârf în munții care înconjoară Hohenems.", "category": "natural", "coords": [9.70773, 47.349091]}, {"name": "ProKonTra", "text": "Un centru cultural și de artă în Hohenems pentru diverse evenimente.", "category": "cultural", "coords": [9.684524, 47.358269]}, {"name": "Gsätzle", "text": "Un punct de belvedere popular cu vedere spre orașul Hohenems.", "category": "natural", "coords": [9.6932, 47.363117]}, {"name": "Söle", "text": "Un punct de belvedere în împrejurimile localității Hohenems.", "category": "natural", "coords": [9.664708, 47.342443]}, {"name": "Nepomukkapelle", "text": "O capelă istorică din Hohenems dedicată Sfântului Ioan Nepomuk.", "category": "religious", "coords": [9.66531, 47.359677]}, {"name": "St.Rochus", "text": "O capelă protejată din Hohenems dedicată Sfântului Rochus.", "category": "religious", "coords": [9.706759, 47.366242]}, {"name": "Pfarrkirche Altach", "text": "Biserica parohială catolică a comunei Altach de lângă Hohenems.", "category": "religious", "coords": [9.65191, 47.354091]}, {"name": "Kapelle hl. Sebastian und hl. Antonius", "text": "O capelă dedicată sfinților Sebastian și Anton în Hohenems.", "category": "religious", "coords": [9.688724, 47.358028]}, {"name": "Kapelle Oberer Berg", "text": "O mică capelă situată într-o zonă înaltă din Hohenems.", "category": "religious", "coords": [9.671665, 47.340096]}, {"name": "Pfarrkirche Herrenried", "text": "Biserica parohială modernă din cartierul Herrenried în Hohenems.", "category": "religious", "coords": [9.676975, 47.366303]}, {"name": "Alter Rhein", "text": "Alter Rhein din Hohenems este o apă stătătoare într-un cadru natural frumos.", "category": "natural", "coords": [9.655836, 47.403005]}, {"name": "Lehmlöcher", "text": "Lehmlöcher din Hohenems sunt iazuri potrivite pentru plimbări.", "category": "natural", "coords": [9.674038, 47.358909]}, {"name": "Stockenweiher", "text": "Stockenweiher din Hohenems este un lac mic din regiune.", "category": "natural", "coords": [9.675548, 47.357544]}, {"name": "Löschteich", "text": "Un iaz de incendiu local în Hohenems, într-o locație liniștită.", "category": "natural", "coords": [9.680772, 47.316005]}, {"name": "Kinder-Erlebniswelt", "text": "Kinder-Erlebniswelt din Hohenems oferă recreere pentru familiile cu copii.", "category": "family", "coords": [9.655476, 47.367182]}, {"name": "Indoor Minigolf", "text": "Un teren de minigolf acoperit în Hohenems pentru distracție în familie, indiferent de vreme.", "category": "family", "coords": [9.676229, 47.371814]}, {"name": "Dorfplatz", "text": "Un loc de joacă în Dorfplatz din Hohenems pentru cei mai mici vizitatori.", "category": "family", "coords": [9.650201, 47.353957]}, {"name": "Spielplatz Grillparzerstraße", "text": "Un loc de joacă pentru copii pe strada Grillparzerstraße din Hohenems.", "category": "family", "coords": [9.674806, 47.368909]}, {"name": "Spielplatz am Dämmle", "text": "Locul de joacă am Dämmle din Hohenems îi invită pe copii la joacă.", "category": "family", "coords": [9.681627, 47.368456]}, {"name": "Spielplatz im Witzke", "text": "Un loc de joacă frumos în cartierul Witzke din Hohenems.", "category": "family", "coords": [9.669, 47.357913]}, {"name": "Spielplatz Schwefel", "text": "Un loc de joacă public în districtul Schwefel din Hohenems.", "category": "family", "coords": [9.676851, 47.356063]}, {"name": "Schwimmbad in der Riebe", "text": "Acest parc acvatic din Hohenems invită la scăldat și relaxare prin facilitățile sale.", "category": "family", "coords": [9.654433, 47.333162]}], "en": [{"name": "Stoffels Säge-Mühle", "text": "An open-air museum in Hohenems showcasing historic sawing and milling technology.", "category": "museum", "coords": [9.691714, 47.360595]}, {"name": "Burg Neu-Ems", "text": "A well-preserved hill castle in Hohenems, also known as Glopper Castle.", "category": "castle", "coords": [9.705678, 47.368404]}, {"name": "Jüdisches Museum", "text": "The Jüdisches Museum in Hohenems documents the extensive history of the local Jewish community in Austria. Through diverse exhibitions, the museum provides deep insights into the community's historical heritage and culture. Visitors can discover an important piece of regional contemporary history here.", "category": "museum", "coords": [9.688622, 47.364642]}, {"name": "Franz-Schubert-Museum", "text": "A museum in Hohenems dedicated to the life and work of composer Franz Schubert.", "category": "museum", "coords": [9.689599, 47.363939]}, {"name": "Burgruine Alt-Ems", "text": "The ruins of a once mighty fortress on a rock above Hohenems.", "category": "castle", "coords": [9.695793, 47.363502]}, {"name": "Erholungszentrum Rheinauen", "text": "A large leisure and outdoor pool area located directly on the Rhine floodplains in Hohenems.", "category": "family", "coords": [9.653178, 47.367247]}, {"name": "Hohe Kugel - Hoher Freschen - Mellental", "text": "A vast nature reserve in Vorarlberg featuring alpine flora and fauna.", "category": "natural", "coords": [9.738829, 47.306713]}, {"name": "Strandbad Diepoldsau", "text": "A natural lakeside pool in Diepoldsau, near the border with Hohenems.", "category": "family", "coords": [9.672279, 47.380802]}, {"name": "Arche Noah - Sammlung Kunst & Natur", "text": "A diverse collection of art and nature objects in Hohenems.", "category": "museum", "coords": [9.675272, 47.371139]}, {"name": "Otten Kunstraum", "text": "A modern art space in Hohenems for contemporary exhibitions.", "category": "museum", "coords": [9.671949, 47.349427]}, {"name": "Klien", "text": "A protected nature reserve area near Hohenems.", "category": "natural", "coords": [9.714664, 47.377899]}, {"name": "Strahlkopf", "text": "A prominent mountain peak in the Bregenzerwald Mountains near Hohenems.", "category": "natural", "coords": [9.721715, 47.353552]}, {"name": "Kapf", "text": "A peak in the Bregenzerwald Mountains offering panoramic views over Hohenems.", "category": "natural", "coords": [9.687052, 47.342751]}, {"name": "Schlossberg", "text": "A local mountain peak in Hohenems known for its historical significance.", "category": "natural", "coords": [9.698309, 47.36596]}, {"name": "Sonderberg", "text": "A mountain peak in the hilly landscape around Hohenems.", "category": "natural", "coords": [9.654437, 47.347513]}, {"name": "Eichbühel", "text": "A peak in the mountain landscape of Hohenems.", "category": "natural", "coords": [9.664928, 47.340575]}, {"name": "Wieskopf", "text": "A mountain peak in the alpine surroundings of Hohenems.", "category": "natural", "coords": [9.700455, 47.345768]}, {"name": "Witeleloch", "text": "A natural cave entrance in the Hohenems region.", "category": "natural", "coords": [9.677919, 47.33664]}, {"name": "Wandfluh", "text": "A peak in the mountainous region of Hohenems.", "category": "natural", "coords": [9.725753, 47.356537]}, {"name": "Ranzenberg", "text": "A prominent point in the mountains around Hohenems.", "category": "natural", "coords": [9.716765, 47.360724]}, {"name": "Sonnaspitz", "text": "A peak in the mountains surrounding Hohenems.", "category": "natural", "coords": [9.70773, 47.349091]}, {"name": "ProKonTra", "text": "A cultural and arts centre in Hohenems for various events.", "category": "cultural", "coords": [9.684524, 47.358269]}, {"name": "Gsätzle", "text": "A popular viewpoint overlooking the town of Hohenems.", "category": "natural", "coords": [9.6932, 47.363117]}, {"name": "Soele", "text": "A viewpoint in the surroundings of Hohenems.", "category": "natural", "coords": [9.664708, 47.342443]}, {"name": "Nepomukkapelle", "text": "A historic chapel in Hohenems dedicated to Saint John of Nepomuk.", "category": "religious", "coords": [9.66531, 47.359677]}, {"name": "St.Rochus", "text": "A listed chapel in Hohenems dedicated to Saint Roch.", "category": "religious", "coords": [9.706759, 47.366242]}, {"name": "Pfarrkirche Altach", "text": "The Catholic parish church of the municipality of Altach near Hohenems.", "category": "religious", "coords": [9.65191, 47.354091]}, {"name": "Kapelle hl. Sebastian und hl. Antonius", "text": "A chapel dedicated to Saints Sebastian and Anthony in Hohenems.", "category": "religious", "coords": [9.688724, 47.358028]}, {"name": "Kapelle Oberer Berg", "text": "A small chapel located on an elevated site in Hohenems.", "category": "religious", "coords": [9.671665, 47.340096]}, {"name": "Pfarrkirche Herrenried", "text": "The modern parish church in the Herrenried district of Hohenems.", "category": "religious", "coords": [9.676975, 47.366303]}, {"name": "Alter Rhein", "text": "The Alter Rhein in Hohenems is a body of water in a beautiful natural setting.", "category": "natural", "coords": [9.655836, 47.403005]}, {"name": "Lehmlöcher", "text": "The Lehmlöcher in Hohenems are ponds suitable for walks.", "category": "natural", "coords": [9.674038, 47.358909]}, {"name": "Stockenweiher", "text": "The Stockenweiher in Hohenems is a small lake in the region.", "category": "natural", "coords": [9.675548, 47.357544]}, {"name": "Löschteich", "text": "A local fire pond in Hohenems in a quiet location.", "category": "natural", "coords": [9.680772, 47.316005]}, {"name": "Kinder-Erlebniswelt", "text": "The Kinder-Erlebniswelt in Hohenems offers recreation for families with children.", "category": "family", "coords": [9.655476, 47.367182]}, {"name": "Indoor Minigolf", "text": "An indoor minigolf course in Hohenems for weather-independent family fun.", "category": "family", "coords": [9.676229, 47.371814]}, {"name": "Dorfplatz", "text": "A playground at the Dorfplatz in Hohenems for the youngest visitors.", "category": "family", "coords": [9.650201, 47.353957]}, {"name": "Spielplatz Grillparzerstraße", "text": "A child-friendly playground in Grillparzerstraße in Hohenems.", "category": "family", "coords": [9.674806, 47.368909]}, {"name": "Spielplatz am Dämmle", "text": "The playground am Dämmle in Hohenems invites children to play.", "category": "family", "coords": [9.681627, 47.368456]}, {"name": "Spielplatz im Witzke", "text": "A nice playground in the Witzke district in Hohenems.", "category": "family", "coords": [9.669, 47.357913]}, {"name": "Spielplatz Schwefel", "text": "A public playground in the Schwefel district in Hohenems.", "category": "family", "coords": [9.676851, 47.356063]}, {"name": "Schwimmbad in der Riebe", "text": "This water park in Hohenems invites visitors to swim and linger at its facilities.", "category": "family", "coords": [9.654433, 47.333162]}]},
     type: "city",
     parent: "AT",
     name: { de: "Hohenems", hu: "Hohenems", ro: "Hohenems", en: "Hohenems" },
@@ -26320,6 +25501,15 @@ export const austriaCitiesV2: POI[] = [
                         11.72521,
                         47.349831
                   ]
+            },
+            {
+                  "name": "Tirolland",
+                  "text": "Tirolland in Schwaz bietet verschiedene Attraktionen und Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        11.673386,
+                        47.32537
+                  ]
             }
       ],
       "hu": [
@@ -26609,6 +25799,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.72521,
                         47.349831
+                  ]
+            },
+            {
+                  "name": "Tirolland",
+                  "text": "A Schwaz-ban található Tirolland különféle látnivalókat és szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        11.673386,
+                        47.32537
                   ]
             }
       ],
@@ -26900,6 +26099,15 @@ export const austriaCitiesV2: POI[] = [
                         11.72521,
                         47.349831
                   ]
+            },
+            {
+                  "name": "Tirolland",
+                  "text": "Tirolland din Schwaz oferă diverse atracții și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        11.673386,
+                        47.32537
+                  ]
             }
       ],
       "en": [
@@ -27190,6 +26398,15 @@ export const austriaCitiesV2: POI[] = [
                         11.72521,
                         47.349831
                   ]
+            },
+            {
+                  "name": "Tirolland",
+                  "text": "Tirolland in Schwaz offers various attractions and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        11.673386,
+                        47.32537
+                  ]
             }
       ]
 },
@@ -27237,7 +26454,52 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-schwaz-cities-v2.webp",
   },
   {
-    id: "austria-hall-in-tirol-cities-v2",
+    id: "austria-hall-in-tirol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schwimmbad Hall",
+                  "text": "Ein modernes Schwimmbad in Hall in Tirol für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        11.495214,
+                        47.284956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schwimmbad Hall",
+                  "text": "Modern úszómedence Hall in Tirolban az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        11.495214,
+                        47.284956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schwimmbad Hall",
+                  "text": "O piscină modernă în Hall in Tirol pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        11.495214,
+                        47.284956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schwimmbad Hall",
+                  "text": "A modern swimming pool in Hall in Tirol for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        11.495214,
+                        47.284956
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Hall in Tirol", hu: "Hall in Tirol", ro: "Hall in Tirol", en: "Hall in Tirol" },
@@ -27535,6 +26797,42 @@ export const austriaCitiesV2: POI[] = [
                         12.15688,
                         47.581466
                   ]
+            },
+            {
+                  "name": "Kienbergklamm am Kienbach",
+                  "text": "Diese Badestelle in Kufstein bietet eine natürliche Umgebung für eine Erfrischung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.180309,
+                        47.581137
+                  ]
+            },
+            {
+                  "name": "Seearena Hechtsee",
+                  "text": "Dieses Schwimmbad in Kufstein bietet Sport- und Freizeitbecken für seine Gäste.",
+                  "category": "family",
+                  "coords": [
+                        12.169499,
+                        47.608431
+                  ]
+            },
+            {
+                  "name": "Innsola",
+                  "text": "Dieser Wasserpark in Kufstein sorgt mit verschiedenen Attraktionen für Unterhaltung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.189772,
+                        47.612328
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Dieser Wasserpark in Kufstein bietet abwechslungsreiche Möglichkeiten für Badevergnügen.",
+                  "category": "family",
+                  "coords": [
+                        12.120088,
+                        47.592609
+                  ]
             }
       ],
       "hu": [
@@ -27788,6 +27086,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.15688,
                         47.581466
+                  ]
+            },
+            {
+                  "name": "Kienbergklamm am Kienbach",
+                  "text": "Ez a kufsteini fürdőhely természetes környezetet kínál a vízi felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        12.180309,
+                        47.581137
+                  ]
+            },
+            {
+                  "name": "Seearena Hechtsee",
+                  "text": "Ez a kufsteini úszómedence sport- és szabadidős medencékkel várja vendégeit.",
+                  "category": "family",
+                  "coords": [
+                        12.169499,
+                        47.608431
+                  ]
+            },
+            {
+                  "name": "Innsola",
+                  "text": "Ez a kufsteini vízi park különféle attrakciókkal biztosítja a vízi szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        12.189772,
+                        47.612328
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Ez a kufsteini vízi park változatos lehetőségeket kínál a fürdőzés örömeire.",
+                  "category": "family",
+                  "coords": [
+                        12.120088,
+                        47.592609
                   ]
             }
       ],
@@ -28043,6 +27377,42 @@ export const austriaCitiesV2: POI[] = [
                         12.15688,
                         47.581466
                   ]
+            },
+            {
+                  "name": "Kienbergklamm am Kienbach",
+                  "text": "Acest loc de scăldat din Kufstein oferă un cadru natural pentru o răcorire în apă.",
+                  "category": "family",
+                  "coords": [
+                        12.180309,
+                        47.581137
+                  ]
+            },
+            {
+                  "name": "Seearena Hechtsee",
+                  "text": "Această piscină din Kufstein oferă bazine sportive și de agrement pentru oaspeții săi.",
+                  "category": "family",
+                  "coords": [
+                        12.169499,
+                        47.608431
+                  ]
+            },
+            {
+                  "name": "Innsola",
+                  "text": "Acest parc acvatic din Kufstein oferă divertisment în apă prin diverse atracții.",
+                  "category": "family",
+                  "coords": [
+                        12.189772,
+                        47.612328
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Acest parc acvatic din Kufstein oferă diverse oportunități pentru plăcerea scăldatului.",
+                  "category": "family",
+                  "coords": [
+                        12.120088,
+                        47.592609
+                  ]
             }
       ],
       "en": [
@@ -28296,6 +27666,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.15688,
                         47.581466
+                  ]
+            },
+            {
+                  "name": "Kienbergklamm am Kienbach",
+                  "text": "This bathing spot in Kufstein offers a natural setting for a refreshing dip.",
+                  "category": "family",
+                  "coords": [
+                        12.180309,
+                        47.581137
+                  ]
+            },
+            {
+                  "name": "Seearena Hechtsee",
+                  "text": "This swimming pool in Kufstein offers sports and leisure pools for its guests.",
+                  "category": "family",
+                  "coords": [
+                        12.169499,
+                        47.608431
+                  ]
+            },
+            {
+                  "name": "Innsola",
+                  "text": "This water park in Kufstein provides water-based entertainment with various attractions.",
+                  "category": "family",
+                  "coords": [
+                        12.189772,
+                        47.612328
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "This water park in Kufstein offers varied opportunities for bathing enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        12.120088,
+                        47.592609
                   ]
             }
       ]
@@ -29219,6 +28625,15 @@ export const austriaCitiesV2: POI[] = [
                         15.289901,
                         48.808322
                   ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Ein flaches Becken in Waidhofen an der Thaya, ideal für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        15.28843,
+                        48.808628
+                  ]
             }
       ],
       "hu": [
@@ -29391,6 +28806,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.289901,
                         48.808322
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Sekély medence Waidhofen an der Thayában, ideális kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.28843,
+                        48.808628
                   ]
             }
       ],
@@ -29565,6 +28989,15 @@ export const austriaCitiesV2: POI[] = [
                         15.289901,
                         48.808322
                   ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "O piscină de mică adâncime în Waidhofen an der Thaya, ideală pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        15.28843,
+                        48.808628
+                  ]
             }
       ],
       "en": [
@@ -29737,6 +29170,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.289901,
                         48.808322
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "A shallow pool in Waidhofen an der Thaya, ideal for small children.",
+                  "category": "family",
+                  "coords": [
+                        15.28843,
+                        48.808628
                   ]
             }
       ]
@@ -29921,6 +29363,15 @@ export const austriaCitiesV2: POI[] = [
                         14.653664,
                         47.168256
                   ]
+            },
+            {
+                  "name": "Therme Aqualux",
+                  "text": "Dieses öffentliche Bad in Judenburg bietet Entspannung in wohltuendem Wasser.",
+                  "category": "family",
+                  "coords": [
+                        14.673845,
+                        47.194455
+                  ]
             }
       ],
       "hu": [
@@ -30057,6 +29508,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.653664,
                         47.168256
+                  ]
+            },
+            {
+                  "name": "Therme Aqualux",
+                  "text": "Ez a judenburgi közfürdő pihenést kínál a jótékony vízben.",
+                  "category": "family",
+                  "coords": [
+                        14.673845,
+                        47.194455
                   ]
             }
       ],
@@ -30195,6 +29655,15 @@ export const austriaCitiesV2: POI[] = [
                         14.653664,
                         47.168256
                   ]
+            },
+            {
+                  "name": "Therme Aqualux",
+                  "text": "Această baie publică din Judenburg oferă relaxare în apă binefăcătoare.",
+                  "category": "family",
+                  "coords": [
+                        14.673845,
+                        47.194455
+                  ]
             }
       ],
       "en": [
@@ -30332,6 +29801,15 @@ export const austriaCitiesV2: POI[] = [
                         14.653664,
                         47.168256
                   ]
+            },
+            {
+                  "name": "Therme Aqualux",
+                  "text": "This public bath in Judenburg offers relaxation in soothing water.",
+                  "category": "family",
+                  "coords": [
+                        14.673845,
+                        47.194455
+                  ]
             }
       ]
 },
@@ -30425,6 +29903,15 @@ export const austriaCitiesV2: POI[] = [
                         14.500492,
                         48.502544
                   ]
+            },
+            {
+                  "name": "Freibecken",
+                  "text": "Das Freibecken in Freistadt ermöglicht Schwimmvergnügen unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        14.49755,
+                        48.506207
+                  ]
             }
       ],
       "hu": [
@@ -30471,6 +29958,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.500492,
                         48.502544
+                  ]
+            },
+            {
+                  "name": "Freibecken",
+                  "text": "A freistadti Freibecken szabadtéri úszási élményt tesz lehetővé a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        14.49755,
+                        48.506207
                   ]
             }
       ],
@@ -30519,6 +30015,15 @@ export const austriaCitiesV2: POI[] = [
                         14.500492,
                         48.502544
                   ]
+            },
+            {
+                  "name": "Freibecken",
+                  "text": "Freibecken din Freistadt permite bucuria înotului sub cerul liber.",
+                  "category": "family",
+                  "coords": [
+                        14.49755,
+                        48.506207
+                  ]
             }
       ],
       "en": [
@@ -30565,6 +30070,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.500492,
                         48.502544
+                  ]
+            },
+            {
+                  "name": "Freibecken",
+                  "text": "The Freibecken in Freistadt enables swimming enjoyment under the open sky.",
+                  "category": "family",
+                  "coords": [
+                        14.49755,
+                        48.506207
                   ]
             }
       ]
@@ -30677,6 +30191,15 @@ export const austriaCitiesV2: POI[] = [
                         14.778856,
                         47.19472
                   ]
+            },
+            {
+                  "name": "4WD Test Track",
+                  "text": "Eine Teststrecke in Zeltweg für Offroad-Abenteuer und Fahrspaß.",
+                  "category": "family",
+                  "coords": [
+                        14.757999,
+                        47.227955
+                  ]
             }
       ],
       "hu": [
@@ -30741,6 +30264,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.778856,
                         47.19472
+                  ]
+            },
+            {
+                  "name": "4WD Test Track",
+                  "text": "Tesztpálya Zeltwegben terepjárós kalandokhoz és vezetési élményekhez.",
+                  "category": "family",
+                  "coords": [
+                        14.757999,
+                        47.227955
                   ]
             }
       ],
@@ -30807,6 +30339,15 @@ export const austriaCitiesV2: POI[] = [
                         14.778856,
                         47.19472
                   ]
+            },
+            {
+                  "name": "4WD Test Track",
+                  "text": "O pistă de testare în Zeltweg pentru aventuri off-road și distracție la volan.",
+                  "category": "family",
+                  "coords": [
+                        14.757999,
+                        47.227955
+                  ]
             }
       ],
       "en": [
@@ -30871,6 +30412,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.778856,
                         47.19472
+                  ]
+            },
+            {
+                  "name": "4WD Test Track",
+                  "text": "A test track in Zeltweg for off-road adventures and driving fun.",
+                  "category": "family",
+                  "coords": [
+                        14.757999,
+                        47.227955
                   ]
             }
       ]
@@ -32900,6 +32450,15 @@ export const austriaCitiesV2: POI[] = [
                         10.560117,
                         47.138603
                   ]
+            },
+            {
+                  "name": "Tramser Badeweiher",
+                  "text": "Dieser Badeweiher in Landeck bietet eine ruhige, natürliche Umgebung für ein Bad.",
+                  "category": "family",
+                  "coords": [
+                        10.582788,
+                        47.14504
+                  ]
             }
       ],
       "hu": [
@@ -33315,6 +32874,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         10.560117,
                         47.138603
+                  ]
+            },
+            {
+                  "name": "Tramser Badeweiher",
+                  "text": "Ez a landecki fürdőtó nyugodt, természetes környezetet biztosít a fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.582788,
+                        47.14504
                   ]
             }
       ],
@@ -33732,6 +33300,15 @@ export const austriaCitiesV2: POI[] = [
                         10.560117,
                         47.138603
                   ]
+            },
+            {
+                  "name": "Tramser Badeweiher",
+                  "text": "Această zonă de înot din Landeck oferă un cadru liniștit și natural pentru o baie.",
+                  "category": "family",
+                  "coords": [
+                        10.582788,
+                        47.14504
+                  ]
             }
       ],
       "en": [
@@ -34148,6 +33725,15 @@ export const austriaCitiesV2: POI[] = [
                         10.560117,
                         47.138603
                   ]
+            },
+            {
+                  "name": "Tramser Badeweiher",
+                  "text": "This swimming area in Landeck offers a quiet, natural setting for a swim.",
+                  "category": "family",
+                  "coords": [
+                        10.582788,
+                        47.14504
+                  ]
             }
       ]
 },
@@ -34295,6 +33881,15 @@ export const austriaCitiesV2: POI[] = [
                         15.603943,
                         47.212558
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Das Schwimmbad in Weiz bietet Wasserflächen für Schwimmer und Erholungssuchende.",
+                  "category": "family",
+                  "coords": [
+                        15.643875,
+                        47.229838
+                  ]
             }
       ],
       "hu": [
@@ -34395,6 +33990,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.603943,
                         47.212558
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "A Weiz-ben található úszómedence vízfelületet biztosít az úszni vágyóknak és a pihenni vágyóknak.",
+                  "category": "family",
+                  "coords": [
+                        15.643875,
+                        47.229838
                   ]
             }
       ],
@@ -34497,6 +34101,15 @@ export const austriaCitiesV2: POI[] = [
                         15.603943,
                         47.212558
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Piscina din Weiz oferă spații acvatice pentru înotători și cei care caută relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.643875,
+                        47.229838
+                  ]
             }
       ],
       "en": [
@@ -34597,6 +34210,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.603943,
                         47.212558
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "The swimming pool in Weiz provides water areas for swimmers and those seeking relaxation.",
+                  "category": "family",
+                  "coords": [
+                        15.643875,
+                        47.229838
                   ]
             }
       ]
@@ -34763,6 +34385,15 @@ export const austriaCitiesV2: POI[] = [
                         10.737119,
                         47.239204
                   ]
+            },
+            {
+                  "name": "Schwimmbad Imst",
+                  "text": "Ein Freibad in Imst, das Erholung und Wasserspaß in den Bergen bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.747003,
+                        47.240341
+                  ]
             }
       ],
       "hu": [
@@ -34881,6 +34512,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         10.737119,
                         47.239204
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Imst",
+                  "text": "Szabadtéri fürdő Imstben, amely pihenést és vízi élményt kínál a hegyekben.",
+                  "category": "family",
+                  "coords": [
+                        10.747003,
+                        47.240341
                   ]
             }
       ],
@@ -35001,6 +34641,15 @@ export const austriaCitiesV2: POI[] = [
                         10.737119,
                         47.239204
                   ]
+            },
+            {
+                  "name": "Schwimmbad Imst",
+                  "text": "O piscină în aer liber în Imst, care oferă relaxare și distracție în apă în munți.",
+                  "category": "family",
+                  "coords": [
+                        10.747003,
+                        47.240341
+                  ]
             }
       ],
       "en": [
@@ -35120,6 +34769,15 @@ export const austriaCitiesV2: POI[] = [
                         10.737119,
                         47.239204
                   ]
+            },
+            {
+                  "name": "Schwimmbad Imst",
+                  "text": "An outdoor pool in Imst offering relaxation and water fun in the mountains.",
+                  "category": "family",
+                  "coords": [
+                        10.747003,
+                        47.240341
+                  ]
             }
       ]
 },
@@ -35195,6 +34853,24 @@ export const austriaCitiesV2: POI[] = [
                         15.966468,
                         47.270131
                   ]
+            },
+            {
+                  "name": "Hallenbad Herz",
+                  "text": "Dieses Hallenbad in Hartberg ist ein wetterunabhängiger Ort für Schwimmaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        15.974424,
+                        47.278379
+                  ]
+            },
+            {
+                  "name": "Pool Wilfinger Ring Bio Hotel",
+                  "text": "Dieses Schwimmbecken in Hartberg bietet eine gute Gelegenheit für eine sportliche Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        15.945646,
+                        47.268054
+                  ]
             }
       ],
       "hu": [
@@ -35223,6 +34899,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.966468,
                         47.270131
+                  ]
+            },
+            {
+                  "name": "Hallenbad Herz",
+                  "text": "Ez a hartbergi fedett uszoda időjárástól független helyszín az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.974424,
+                        47.278379
+                  ]
+            },
+            {
+                  "name": "Pool Wilfinger Ring Bio Hotel",
+                  "text": "Ez a hartbergi úszómedence jó lehetőséget kínál egy sportos felfrissülésre.",
+                  "category": "family",
+                  "coords": [
+                        15.945646,
+                        47.268054
                   ]
             }
       ],
@@ -35253,6 +34947,24 @@ export const austriaCitiesV2: POI[] = [
                         15.966468,
                         47.270131
                   ]
+            },
+            {
+                  "name": "Hallenbad Herz",
+                  "text": "Această piscină acoperită din Hartberg este un loc independent de vreme pentru activități de înot.",
+                  "category": "family",
+                  "coords": [
+                        15.974424,
+                        47.278379
+                  ]
+            },
+            {
+                  "name": "Pool Wilfinger Ring Bio Hotel",
+                  "text": "Această piscină din Hartberg oferă o oportunitate bună pentru o răcorire sportivă.",
+                  "category": "family",
+                  "coords": [
+                        15.945646,
+                        47.268054
+                  ]
             }
       ],
       "en": [
@@ -35281,6 +34993,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.966468,
                         47.270131
+                  ]
+            },
+            {
+                  "name": "Hallenbad Herz",
+                  "text": "This indoor swimming pool in Hartberg is a weather-independent location for swimming activities.",
+                  "category": "family",
+                  "coords": [
+                        15.974424,
+                        47.278379
+                  ]
+            },
+            {
+                  "name": "Pool Wilfinger Ring Bio Hotel",
+                  "text": "This swimming pool in Hartberg offers a good opportunity for a sporting dip.",
+                  "category": "family",
+                  "coords": [
+                        15.945646,
+                        47.268054
                   ]
             }
       ]
@@ -35546,6 +35276,24 @@ export const austriaCitiesV2: POI[] = [
                         16.216227,
                         47.964472
                   ]
+            },
+            {
+                  "name": "Sprungbecken",
+                  "text": "Das Sprungbecken in Bad Vöslau ist speziell für Sprünge ins kühle Nass konzipiert.",
+                  "category": "family",
+                  "coords": [
+                        16.210955,
+                        47.931751
+                  ]
+            },
+            {
+                  "name": "Blaues Becken",
+                  "text": "Das Blaue Becken in Bad Vöslau bietet eine entspannte Atmosphäre für Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        16.212134,
+                        47.96723
+                  ]
             }
       ],
       "hu": [
@@ -35763,6 +35511,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.216227,
                         47.964472
+                  ]
+            },
+            {
+                  "name": "Sprungbecken",
+                  "text": "A Bad Vöslau-i Sprungbecken kifejezetten a vízbe ugráshoz lett kialakítva.",
+                  "category": "family",
+                  "coords": [
+                        16.210955,
+                        47.931751
+                  ]
+            },
+            {
+                  "name": "Blaues Becken",
+                  "text": "A Bad Vöslau-i Blaues Becken nyugodt légkört kínál az úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        16.212134,
+                        47.96723
                   ]
             }
       ],
@@ -35982,6 +35748,24 @@ export const austriaCitiesV2: POI[] = [
                         16.216227,
                         47.964472
                   ]
+            },
+            {
+                  "name": "Sprungbecken",
+                  "text": "Sprungbecken din Bad Vöslau este conceput special pentru sărituri în apa răcoroasă.",
+                  "category": "family",
+                  "coords": [
+                        16.210955,
+                        47.931751
+                  ]
+            },
+            {
+                  "name": "Blaues Becken",
+                  "text": "Blaues Becken din Bad Vöslau oferă o atmosferă relaxată pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        16.212134,
+                        47.96723
+                  ]
             }
       ],
       "en": [
@@ -36200,6 +35984,24 @@ export const austriaCitiesV2: POI[] = [
                         16.216227,
                         47.964472
                   ]
+            },
+            {
+                  "name": "Sprungbecken",
+                  "text": "The Sprungbecken in Bad Voeslau is specially designed for diving into the water.",
+                  "category": "family",
+                  "coords": [
+                        16.210955,
+                        47.931751
+                  ]
+            },
+            {
+                  "name": "Blaues Becken",
+                  "text": "The Blaues Becken in Bad Voeslau offers a relaxed atmosphere for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        16.212134,
+                        47.96723
+                  ]
             }
       ]
 },
@@ -36392,6 +36194,69 @@ export const austriaCitiesV2: POI[] = [
                         16.319431,
                         48.100345
                   ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Ein Schwimmbecken in Brunn am Gebirge für sportliche Betätigung.",
+                  "category": "family",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Eine künstliche Surfanlage in Brunn am Gebirge für Wellenreiter.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Mehrzweckbecken",
+                  "text": "Ein vielseitiges Schwimmbecken in Brunn am Gebirge für verschiedene Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        16.280172,
+                        48.132803
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Stadtbad Mödling",
+                  "text": "Ein Erlebnisbad in Brunn am Gebirge mit verschiedenen Freizeitangeboten.",
+                  "category": "family",
+                  "coords": [
+                        16.287914,
+                        48.081397
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Perchtoldsdorf",
+                  "text": "Ein Freizeitzentrum in Brunn am Gebirge mit Schwimmbecken und Sportbereichen.",
+                  "category": "family",
+                  "coords": [
+                        16.267314,
+                        48.12328
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Ein strandähnlicher Bereich in Brunn am Gebirge zum Entspannen am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Ein Naturbadeteich in Brunn am Gebirge, ideal für eine natürliche Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        16.318821,
+                        48.071808
+                  ]
             }
       ],
       "hu": [
@@ -36537,6 +36402,69 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.319431,
                         48.100345
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Úszómedence Brunn am Gebirgében a sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "Mesterséges hullámlovagló pálya Brunn am Gebirgében szörfösöknek.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Mehrzweckbecken",
+                  "text": "Sokoldalú úszómedence Brunn am Gebirgében különféle tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        16.280172,
+                        48.132803
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Stadtbad Mödling",
+                  "text": "Élményfürdő Brunn am Gebirgében különféle szabadidős lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        16.287914,
+                        48.081397
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Perchtoldsdorf",
+                  "text": "Szabadidőközpont Brunn am Gebirgében úszómedencékkel és sportpályákkal.",
+                  "category": "family",
+                  "coords": [
+                        16.267314,
+                        48.12328
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "Strandszerű terület Brunn am Gebirgében a vízparti pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Természetes fürdőtó Brunn am Gebirgében, ideális a természetes hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        16.318821,
+                        48.071808
                   ]
             }
       ],
@@ -36684,6 +36612,69 @@ export const austriaCitiesV2: POI[] = [
                         16.319431,
                         48.100345
                   ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "O piscină în Brunn am Gebirge pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "O instalație de surfing artificială în Brunn am Gebirge pentru surferi.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Mehrzweckbecken",
+                  "text": "O piscină versatilă în Brunn am Gebirge pentru diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        16.280172,
+                        48.132803
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Stadtbad Mödling",
+                  "text": "Un parc acvatic în Brunn am Gebirge cu diverse oferte de agrement.",
+                  "category": "family",
+                  "coords": [
+                        16.287914,
+                        48.081397
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Perchtoldsdorf",
+                  "text": "Un centru de agrement în Brunn am Gebirge cu piscine și zone sportive.",
+                  "category": "family",
+                  "coords": [
+                        16.267314,
+                        48.12328
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "O zonă asemănătoare unei plaje în Brunn am Gebirge pentru relaxare lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "Un iaz natural pentru scăldat în Brunn am Gebirge, ideal pentru o răcorire naturală.",
+                  "category": "family",
+                  "coords": [
+                        16.318821,
+                        48.071808
+                  ]
             }
       ],
       "en": [
@@ -36829,6 +36820,69 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.319431,
                         48.100345
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "A swimming pool in Brunn am Gebirge for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        16.280819,
+                        48.08626
+                  ]
+            },
+            {
+                  "name": "SCS Multiplex CityWave",
+                  "text": "An artificial surfing facility in Brunn am Gebirge for surfers.",
+                  "category": "family",
+                  "coords": [
+                        16.317831,
+                        48.103291
+                  ]
+            },
+            {
+                  "name": "Mehrzweckbecken",
+                  "text": "A versatile swimming pool in Brunn am Gebirge for various activities.",
+                  "category": "family",
+                  "coords": [
+                        16.280172,
+                        48.132803
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Stadtbad Mödling",
+                  "text": "A water park in Brunn am Gebirge with various leisure offerings.",
+                  "category": "family",
+                  "coords": [
+                        16.287914,
+                        48.081397
+                  ]
+            },
+            {
+                  "name": "Freizeitzentrum Perchtoldsdorf",
+                  "text": "A leisure center in Brunn am Gebirge with swimming pools and sports areas.",
+                  "category": "family",
+                  "coords": [
+                        16.267314,
+                        48.12328
+                  ]
+            },
+            {
+                  "name": "Lilly Beach House",
+                  "text": "A beach-like area in Brunn am Gebirge for relaxing by the water.",
+                  "category": "family",
+                  "coords": [
+                        16.309543,
+                        48.112661
+                  ]
+            },
+            {
+                  "name": "Erika-Teich",
+                  "text": "A natural swimming pond in Brunn am Gebirge, ideal for a natural cool-down.",
+                  "category": "family",
+                  "coords": [
+                        16.318821,
+                        48.071808
                   ]
             }
       ]
@@ -37274,6 +37328,42 @@ export const austriaCitiesV2: POI[] = [
                         14.279251,
                         48.291329
                   ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Dieser Wasserpark in Leonding bietet vielfältige Becken und Spielbereiche für Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "Der Zoo Linz in Leonding beheimatet zahlreiche Tierarten und ist ein beliebtes Ausflugsziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Das Hallenbad in Leonding ermöglicht wetterunabhängiges Schwimmen und sportliche Betätigung.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Dieser Pool in Leonding bietet eine gute Gelegenheit zur Erfrischung und zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        14.257978,
+                        48.269517
+                  ]
             }
       ],
       "hu": [
@@ -37671,6 +37761,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.279251,
                         48.291329
+                  ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Ez a leondingi vízi park változatos medencékkel és játszóterekkel várja a fürdőzőket.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "A leondingi Zoo Linz számos állatfajnak ad otthont, és népszerű kirándulóhely a családok körében.",
+                  "category": "family",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "A leondingi fedett uszoda az időjárástól függetlenül kínál lehetőséget az úszásra és a sportolásra.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Ez a leondingi medence jó lehetőséget nyújt a felfrissülésre és az úszásra.",
+                  "category": "family",
+                  "coords": [
+                        14.257978,
+                        48.269517
                   ]
             }
       ],
@@ -38070,6 +38196,42 @@ export const austriaCitiesV2: POI[] = [
                         14.279251,
                         48.291329
                   ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Acest parc acvatic din Leonding oferă bazine diverse și zone de joacă pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "Grădina Zoologică Linz din Leonding găzduiește numeroase specii de animale și este o destinație populară pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Piscina interioară din Leonding permite înotul și activitățile sportive indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Această piscină din Leonding oferă o oportunitate bună pentru răcorire și înot.",
+                  "category": "family",
+                  "coords": [
+                        14.257978,
+                        48.269517
+                  ]
             }
       ],
       "en": [
@@ -38468,6 +38630,42 @@ export const austriaCitiesV2: POI[] = [
                         14.279251,
                         48.291329
                   ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "This water park in Leonding offers diverse pools and play areas for bathers.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "Zoo Linz",
+                  "text": "The Zoo Linz in Leonding is home to numerous animal species and is a popular excursion destination for families.",
+                  "category": "family",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "The indoor pool in Leonding allows for swimming and sporting activities regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "This pool in Leonding offers a good opportunity for refreshment and swimming.",
+                  "category": "family",
+                  "coords": [
+                        14.257978,
+                        48.269517
+                  ]
             }
       ]
 },
@@ -38534,6 +38732,15 @@ export const austriaCitiesV2: POI[] = [
                         16.727312,
                         48.342432
                   ]
+            },
+            {
+                  "name": "Erlebnispark Gänserndorf",
+                  "text": "Der Erlebnispark Gänserndorf bietet vielfältige Freizeitaktivitäten und Abenteuer für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.711156,
+                        48.301219
+                  ]
             }
       ],
       "hu": [
@@ -38553,6 +38760,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.727312,
                         48.342432
+                  ]
+            },
+            {
+                  "name": "Erlebnispark Gänserndorf",
+                  "text": "Az Erlebnispark Gänserndorf változatos szabadidős tevékenységeket és kalandokat kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.711156,
+                        48.301219
                   ]
             }
       ],
@@ -38574,6 +38790,15 @@ export const austriaCitiesV2: POI[] = [
                         16.727312,
                         48.342432
                   ]
+            },
+            {
+                  "name": "Erlebnispark Gänserndorf",
+                  "text": "Erlebnispark Gänserndorf oferă activități diverse de petrecere a timpului liber și aventură pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.711156,
+                        48.301219
+                  ]
             }
       ],
       "en": [
@@ -38593,6 +38818,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.727312,
                         48.342432
+                  ]
+            },
+            {
+                  "name": "Erlebnispark Gänserndorf",
+                  "text": "Erlebnispark Gänserndorf offers diverse leisure activities and adventures for families.",
+                  "category": "family",
+                  "coords": [
+                        16.711156,
+                        48.301219
                   ]
             }
       ]
@@ -39271,448 +39505,7 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-st-veit-an-der-glan-cities-v2.webp",
   },
   {
-    id: "austria-hermagor-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Burgruine Malenthein",
-                  "text": "Historische Überreste einer mittelalterlichen Burganlage bei Hermagor.",
-                  "category": "castle",
-                  "coords": [
-                        13.363386,
-                        46.622944
-                  ]
-            },
-            {
-                  "name": "Schloss Möderndorf",
-                  "text": "Ein historisches Schloss in Hermagor, das heute ein Museum beherbergt.",
-                  "category": "castle",
-                  "coords": [
-                        13.362072,
-                        46.610588
-                  ]
-            },
-            {
-                  "name": "Naturschwimmbad Radnig",
-                  "text": "Ein Naturbad in Radnig, das Erholung im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        13.364023,
-                        46.644566
-                  ]
-            },
-            {
-                  "name": "Kärntner Volksabstimmung",
-                  "text": "Ein Denkmal zur Erinnerung an die Kärntner Volksabstimmung.",
-                  "category": "historical",
-                  "coords": [
-                        13.371127,
-                        46.625783
-                  ]
-            },
-            {
-                  "name": "Bank mit Aussicht auf Hermagor.",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über die Stadt Hermagor.",
-                  "category": "natural",
-                  "coords": [
-                        13.381942,
-                        46.625474
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche",
-                  "text": "Die spätgotische Hauptkirche der Stadt Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.368801,
-                        46.627704
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche Hermagor",
-                  "text": "Die evangelische Schneerosenkirche im Zentrum von Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.371625,
-                        46.628484
-                  ]
-            },
-            {
-                  "name": "St.-Ulrichs-Kapelle",
-                  "text": "Eine kleine Kapelle in Hermagor, die dem Heiligen Ulrich gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        13.325934,
-                        46.631408
-                  ]
-            },
-            {
-                  "name": "Wallfahrtskirche Maria Thurn",
-                  "text": "Eine bedeutende Wallfahrtskirche in der Umgebung von Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.362248,
-                        46.631748
-                  ]
-            },
-            {
-                  "name": "Filialkirche Möderndorf (Hl. Martin)",
-                  "text": "Eine dem Heiligen Martin gewidmete Filialkirche in Möderndorf.",
-                  "category": "religious",
-                  "coords": [
-                        13.364071,
-                        46.611233
-                  ]
-            },
-            {
-                  "name": "Hl. Magdalena",
-                  "text": "Eine dem Heiligen Magdalena gewidmete Kirche in Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.345106,
-                        46.618581
-                  ]
-            },
-            {
-                  "name": "St. Urban",
-                  "text": "Eine historische Kirche, die dem Heiligen Urban gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        13.355801,
-                        46.60052
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Burgruine Malenthein",
-                  "text": "Egy középkori vár történelmi maradványai Hermagor közelében.",
-                  "category": "castle",
-                  "coords": [
-                        13.363386,
-                        46.622944
-                  ]
-            },
-            {
-                  "name": "Schloss Möderndorf",
-                  "text": "Történelmi kastély Hermagorban, amely ma múzeumnak ad otthont.",
-                  "category": "castle",
-                  "coords": [
-                        13.362072,
-                        46.610588
-                  ]
-            },
-            {
-                  "name": "Naturschwimmbad Radnig",
-                  "text": "Természetes strandfürdő Radnigban, amely szabadtéri kikapcsolódást kínál.",
-                  "category": "family",
-                  "coords": [
-                        13.364023,
-                        46.644566
-                  ]
-            },
-            {
-                  "name": "Kärntner Volksabstimmung",
-                  "text": "A karintiai népszavazás emlékére állított emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        13.371127,
-                        46.625783
-                  ]
-            },
-            {
-                  "name": "Bank mit Aussicht auf Hermagor.",
-                  "text": "Kilátópont, ahonnan széles körkilátás nyílik Hermagor városára.",
-                  "category": "natural",
-                  "coords": [
-                        13.381942,
-                        46.625474
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche",
-                  "text": "Hermagor városának késő gótikus főtemploma.",
-                  "category": "religious",
-                  "coords": [
-                        13.368801,
-                        46.627704
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche Hermagor",
-                  "text": "Az evangélikus Schneerosenkirche Hermagor központjában.",
-                  "category": "religious",
-                  "coords": [
-                        13.371625,
-                        46.628484
-                  ]
-            },
-            {
-                  "name": "St.-Ulrichs-Kapelle",
-                  "text": "Szent Ulriknak szentelt kis kápolna Hermagorban.",
-                  "category": "religious",
-                  "coords": [
-                        13.325934,
-                        46.631408
-                  ]
-            },
-            {
-                  "name": "Wallfahrtskirche Maria Thurn",
-                  "text": "Jelentős zarándoktemplom Hermagor környékén.",
-                  "category": "religious",
-                  "coords": [
-                        13.362248,
-                        46.631748
-                  ]
-            },
-            {
-                  "name": "Filialkirche Möderndorf (Hl. Martin)",
-                  "text": "Szent Mártonnak szentelt filiális templom Möderndorfban.",
-                  "category": "religious",
-                  "coords": [
-                        13.364071,
-                        46.611233
-                  ]
-            },
-            {
-                  "name": "Hl. Magdalena",
-                  "text": "Szent Magdolnának szentelt templom Hermagorban.",
-                  "category": "religious",
-                  "coords": [
-                        13.345106,
-                        46.618581
-                  ]
-            },
-            {
-                  "name": "St. Urban",
-                  "text": "Szent Orbánnak szentelt történelmi templom.",
-                  "category": "religious",
-                  "coords": [
-                        13.355801,
-                        46.60052
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Burgruine Malenthein",
-                  "text": "Rămășițele istorice ale unui castel medieval lângă Hermagor.",
-                  "category": "castle",
-                  "coords": [
-                        13.363386,
-                        46.622944
-                  ]
-            },
-            {
-                  "name": "Schloss Möderndorf",
-                  "text": "Un castel istoric din Hermagor, care astăzi găzduiește un muzeu.",
-                  "category": "castle",
-                  "coords": [
-                        13.362072,
-                        46.610588
-                  ]
-            },
-            {
-                  "name": "Naturschwimmbad Radnig",
-                  "text": "Un ștrand natural în Radnig, care oferă recreere în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        13.364023,
-                        46.644566
-                  ]
-            },
-            {
-                  "name": "Kärntner Volksabstimmung",
-                  "text": "Un monument dedicat referendumului din Carintia.",
-                  "category": "historical",
-                  "coords": [
-                        13.371127,
-                        46.625783
-                  ]
-            },
-            {
-                  "name": "Bank mit Aussicht auf Hermagor.",
-                  "text": "Un punct de observație cu o vedere panoramică asupra orașului Hermagor.",
-                  "category": "natural",
-                  "coords": [
-                        13.381942,
-                        46.625474
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche",
-                  "text": "Principala biserică în stil gotic târziu din Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.368801,
-                        46.627704
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche Hermagor",
-                  "text": "Biserica evanghelică Schneerosenkirche din centrul orașului Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.371625,
-                        46.628484
-                  ]
-            },
-            {
-                  "name": "St.-Ulrichs-Kapelle",
-                  "text": "O mică capelă în Hermagor, dedicată Sfântului Ulrich.",
-                  "category": "religious",
-                  "coords": [
-                        13.325934,
-                        46.631408
-                  ]
-            },
-            {
-                  "name": "Wallfahrtskirche Maria Thurn",
-                  "text": "O importantă biserică de pelerinaj în împrejurimile orașului Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.362248,
-                        46.631748
-                  ]
-            },
-            {
-                  "name": "Filialkirche Möderndorf (Hl. Martin)",
-                  "text": "O biserică filială dedicată Sfântului Martin în Möderndorf.",
-                  "category": "religious",
-                  "coords": [
-                        13.364071,
-                        46.611233
-                  ]
-            },
-            {
-                  "name": "Hl. Magdalena",
-                  "text": "O biserică dedicată Sfintei Magdalena în Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.345106,
-                        46.618581
-                  ]
-            },
-            {
-                  "name": "St. Urban",
-                  "text": "O biserică istorică dedicată Sfântului Urban.",
-                  "category": "religious",
-                  "coords": [
-                        13.355801,
-                        46.60052
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Burgruine Malenthein",
-                  "text": "Historical remains of a medieval castle near Hermagor.",
-                  "category": "castle",
-                  "coords": [
-                        13.363386,
-                        46.622944
-                  ]
-            },
-            {
-                  "name": "Schloss Möderndorf",
-                  "text": "A historical castle in Hermagor, which today houses a museum.",
-                  "category": "castle",
-                  "coords": [
-                        13.362072,
-                        46.610588
-                  ]
-            },
-            {
-                  "name": "Naturschwimmbad Radnig",
-                  "text": "A natural swimming pool in Radnig offering outdoor recreation.",
-                  "category": "family",
-                  "coords": [
-                        13.364023,
-                        46.644566
-                  ]
-            },
-            {
-                  "name": "Kärntner Volksabstimmung",
-                  "text": "A monument commemorating the Carinthian plebiscite.",
-                  "category": "historical",
-                  "coords": [
-                        13.371127,
-                        46.625783
-                  ]
-            },
-            {
-                  "name": "Bank mit Aussicht auf Hermagor.",
-                  "text": "A viewpoint offering a wide vista over the town of Hermagor.",
-                  "category": "natural",
-                  "coords": [
-                        13.381942,
-                        46.625474
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche",
-                  "text": "The late Gothic main church of the town of Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.368801,
-                        46.627704
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche Hermagor",
-                  "text": "The Protestant Schneerosenkirche in the center of Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.371625,
-                        46.628484
-                  ]
-            },
-            {
-                  "name": "St.-Ulrichs-Kapelle",
-                  "text": "A small chapel in Hermagor dedicated to Saint Ulrich.",
-                  "category": "religious",
-                  "coords": [
-                        13.325934,
-                        46.631408
-                  ]
-            },
-            {
-                  "name": "Wallfahrtskirche Maria Thurn",
-                  "text": "A significant pilgrimage church in the surroundings of Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.362248,
-                        46.631748
-                  ]
-            },
-            {
-                  "name": "Filialkirche Möderndorf (Hl. Martin)",
-                  "text": "A filial church dedicated to Saint Martin in Möderndorf.",
-                  "category": "religious",
-                  "coords": [
-                        13.364071,
-                        46.611233
-                  ]
-            },
-            {
-                  "name": "Hl. Magdalena",
-                  "text": "A church dedicated to Saint Magdalene in Hermagor.",
-                  "category": "religious",
-                  "coords": [
-                        13.345106,
-                        46.618581
-                  ]
-            },
-            {
-                  "name": "St. Urban",
-                  "text": "A historical church dedicated to Saint Urban.",
-                  "category": "religious",
-                  "coords": [
-                        13.355801,
-                        46.60052
-                  ]
-            }
-      ]
-},
+    id: "austria-hermagor-cities-v2", "sights": {"de": [{"name": "Burgruine Malenthein", "text": "Historische Überreste einer mittelalterlichen Burganlage bei Hermagor.", "category": "castle", "coords": [13.363386, 46.622944]}, {"name": "Schloss Möderndorf", "text": "Ein historisches Schloss in Hermagor, das heute ein Museum beherbergt.", "category": "castle", "coords": [13.362072, 46.610588]}, {"name": "Naturschwimmbad Radnig", "text": "Ein Naturbad in Radnig, das Erholung im Freien bietet.", "category": "family", "coords": [13.364023, 46.644566]}, {"name": "Kärntner Volksabstimmung", "text": "In Hermagor Pressegger See steht das historische Denkmal Kärntner Volksabstimmung. Es erinnert dauerhaft an dieses wichtige historische Ereignis im österreichischen Bundesland Kärnten. Die Gedenkstätte lädt Besucher dazu ein, sich mit der regionalen Geschichte auseinanderzusetzen.", "category": "historical", "coords": [13.371127, 46.625783]}, {"name": "Bank mit Aussicht auf Hermagor.", "text": "Die Bank mit Aussicht auf Hermagor. ist ein idyllischer Naturpunkt in der österreichischen Gemeinde Hermagor Pressegger See. Wer an diesem schönen Aussichtspunkt Platz nimmt, genießt einen weiten und beruhigenden Blick über die Stadt Hermagor. Es ist der perfekte Ort für eine kleine Pause in der Natur.", "category": "natural", "coords": [13.381942, 46.625474]}, {"name": "Pfarrkirche", "text": "Die spätgotische Hauptkirche der Stadt Hermagor.", "category": "religious", "coords": [13.368801, 46.627704]}, {"name": "Evangelische Kirche Hermagor", "text": "Die evangelische Schneerosenkirche im Zentrum von Hermagor.", "category": "religious", "coords": [13.371625, 46.628484]}, {"name": "St.-Ulrichs-Kapelle", "text": "Eine kleine Kapelle in Hermagor, die dem Heiligen Ulrich gewidmet ist.", "category": "religious", "coords": [13.325934, 46.631408]}, {"name": "Wallfahrtskirche Maria Thurn", "text": "Eine bedeutende Wallfahrtskirche in der Umgebung von Hermagor.", "category": "religious", "coords": [13.362248, 46.631748]}, {"name": "Filialkirche Möderndorf (Hl. Martin)", "text": "Eine dem Heiligen Martin gewidmete Filialkirche in Möderndorf.", "category": "religious", "coords": [13.364071, 46.611233]}, {"name": "Hl. Magdalena", "text": "Eine dem Heiligen Magdalena gewidmete Kirche in Hermagor.", "category": "religious", "coords": [13.345106, 46.618581]}, {"name": "St. Urban", "text": "Eine historische Kirche, die dem Heiligen Urban gewidmet ist.", "category": "religious", "coords": [13.355801, 46.60052]}], "hu": [{"name": "Burgruine Malenthein", "text": "Egy középkori vár történelmi maradványai Hermagor közelében.", "category": "castle", "coords": [13.363386, 46.622944]}, {"name": "Schloss Möderndorf", "text": "Történelmi kastély Hermagorban, amely ma múzeumnak ad otthont.", "category": "castle", "coords": [13.362072, 46.610588]}, {"name": "Naturschwimmbad Radnig", "text": "Természetes strandfürdő Radnigban, amely szabadtéri kikapcsolódást kínál.", "category": "family", "coords": [13.364023, 46.644566]}, {"name": "Kärntner Volksabstimmung", "text": "Hermagor Pressegger See-ben található a Kärntner Volksabstimmung történelmi emlékmű. Ez a hely tartósan emlékeztet erre a fontos történelmi eseményre az osztrák Karintia tartományban. Az emlékhely arra invitálja a látogatókat, hogy megismerkedjenek a regionális történelemmel.", "category": "historical", "coords": [13.371127, 46.625783]}, {"name": "Bank mit Aussicht auf Hermagor.", "text": "A Bank mit Aussicht auf Hermagor. egy idillikus természeti pont az ausztriai Hermagor Pressegger See községben. Aki helyet foglal ezen a gyönyörű kilátóponton, tágas és megnyugtató kilátást élvezhet Hermagor városára. Tökéletes hely egy kis pihenésre a természetben.", "category": "natural", "coords": [13.381942, 46.625474]}, {"name": "Pfarrkirche", "text": "Hermagor városának késő gótikus főtemploma.", "category": "religious", "coords": [13.368801, 46.627704]}, {"name": "Evangelische Kirche Hermagor", "text": "Az evangélikus Schneerosenkirche Hermagor központjában.", "category": "religious", "coords": [13.371625, 46.628484]}, {"name": "St.-Ulrichs-Kapelle", "text": "Szent Ulriknak szentelt kis kápolna Hermagorban.", "category": "religious", "coords": [13.325934, 46.631408]}, {"name": "Wallfahrtskirche Maria Thurn", "text": "Jelentős zarándoktemplom Hermagor környékén.", "category": "religious", "coords": [13.362248, 46.631748]}, {"name": "Filialkirche Möderndorf (Hl. Martin)", "text": "Szent Mártonnak szentelt filiális templom Möderndorfban.", "category": "religious", "coords": [13.364071, 46.611233]}, {"name": "Hl. Magdalena", "text": "Szent Magdolnának szentelt templom Hermagorban.", "category": "religious", "coords": [13.345106, 46.618581]}, {"name": "St. Urban", "text": "Szent Orbánnak szentelt történelmi templom.", "category": "religious", "coords": [13.355801, 46.60052]}], "ro": [{"name": "Burgruine Malenthein", "text": "Rămășițele istorice ale unui castel medieval lângă Hermagor.", "category": "castle", "coords": [13.363386, 46.622944]}, {"name": "Schloss Möderndorf", "text": "Un castel istoric din Hermagor, care astăzi găzduiește un muzeu.", "category": "castle", "coords": [13.362072, 46.610588]}, {"name": "Naturschwimmbad Radnig", "text": "Un ștrand natural în Radnig, care oferă recreere în aer liber.", "category": "family", "coords": [13.364023, 46.644566]}, {"name": "Kärntner Volksabstimmung", "text": "În Hermagor Pressegger See se află monumentul istoric Kärntner Volksabstimmung. Acesta amintește permanent de acest eveniment istoric important din landul austriac Carintia. Memorialul invită vizitatorii să reflecteze asupra istoriei regionale.", "category": "historical", "coords": [13.371127, 46.625783]}, {"name": "Bank mit Aussicht auf Hermagor.", "text": "Bank mit Aussicht auf Hermagor. este un loc natural idilic în comuna austriacă Hermagor Pressegger See. Cei care iau loc la acest frumos punct de belvedere se bucură de o vedere vastă și liniștitoare asupra orașului Hermagor. Este locul perfect pentru o scurtă pauză în natură.", "category": "natural", "coords": [13.381942, 46.625474]}, {"name": "Pfarrkirche", "text": "Principala biserică în stil gotic târziu din Hermagor.", "category": "religious", "coords": [13.368801, 46.627704]}, {"name": "Evangelische Kirche Hermagor", "text": "Biserica evanghelică Schneerosenkirche din centrul orașului Hermagor.", "category": "religious", "coords": [13.371625, 46.628484]}, {"name": "St.-Ulrichs-Kapelle", "text": "O mică capelă în Hermagor, dedicată Sfântului Ulrich.", "category": "religious", "coords": [13.325934, 46.631408]}, {"name": "Wallfahrtskirche Maria Thurn", "text": "O importantă biserică de pelerinaj în împrejurimile orașului Hermagor.", "category": "religious", "coords": [13.362248, 46.631748]}, {"name": "Filialkirche Möderndorf (Hl. Martin)", "text": "O biserică filială dedicată Sfântului Martin în Möderndorf.", "category": "religious", "coords": [13.364071, 46.611233]}, {"name": "Hl. Magdalena", "text": "O biserică dedicată Sfintei Magdalena în Hermagor.", "category": "religious", "coords": [13.345106, 46.618581]}, {"name": "St. Urban", "text": "O biserică istorică dedicată Sfântului Urban.", "category": "religious", "coords": [13.355801, 46.60052]}], "en": [{"name": "Burgruine Malenthein", "text": "Historical remains of a medieval castle near Hermagor.", "category": "castle", "coords": [13.363386, 46.622944]}, {"name": "Schloss Möderndorf", "text": "A historical castle in Hermagor, which today houses a museum.", "category": "castle", "coords": [13.362072, 46.610588]}, {"name": "Naturschwimmbad Radnig", "text": "A natural swimming pool in Radnig offering outdoor recreation.", "category": "family", "coords": [13.364023, 46.644566]}, {"name": "Kärntner Volksabstimmung", "text": "The historical monument Kärntner Volksabstimmung is located in Hermagor Pressegger See. It serves as a permanent reminder of this important historical event in the Austrian state of Carinthia. The memorial invites visitors to reflect on regional history.", "category": "historical", "coords": [13.371127, 46.625783]}, {"name": "Bank mit Aussicht auf Hermagor.", "text": "The Bank mit Aussicht auf Hermagor. is an idyllic natural spot in the Austrian municipality of Hermagor Pressegger See. Those who take a seat at this beautiful viewpoint enjoy a sweeping and calming view over the town of Hermagor. It is the perfect place for a short break in nature.", "category": "natural", "coords": [13.381942, 46.625474]}, {"name": "Pfarrkirche", "text": "The late Gothic main church of the town of Hermagor.", "category": "religious", "coords": [13.368801, 46.627704]}, {"name": "Evangelische Kirche Hermagor", "text": "The Protestant Schneerosenkirche in the center of Hermagor.", "category": "religious", "coords": [13.371625, 46.628484]}, {"name": "St.-Ulrichs-Kapelle", "text": "A small chapel in Hermagor dedicated to Saint Ulrich.", "category": "religious", "coords": [13.325934, 46.631408]}, {"name": "Wallfahrtskirche Maria Thurn", "text": "A significant pilgrimage church in the surroundings of Hermagor.", "category": "religious", "coords": [13.362248, 46.631748]}, {"name": "Filialkirche Möderndorf (Hl. Martin)", "text": "A filial church dedicated to Saint Martin in Möderndorf.", "category": "religious", "coords": [13.364071, 46.611233]}, {"name": "Hl. Magdalena", "text": "A church dedicated to Saint Magdalene in Hermagor.", "category": "religious", "coords": [13.345106, 46.618581]}, {"name": "St. Urban", "text": "A historical church dedicated to Saint Urban.", "category": "religious", "coords": [13.355801, 46.60052]}]},
     type: "city",
     parent: "AT",
     name: { de: "Hermagor-Pressegger See", hu: "Hermagor-Pressegger See", ro: "Hermagor-Pressegger See", en: "Hermagor-Pressegger See" },
@@ -40064,6 +39857,24 @@ export const austriaCitiesV2: POI[] = [
                         15.711598,
                         47.100072
                   ]
+            },
+            {
+                  "name": "Sprungturmbecken",
+                  "text": "Ein Becken mit Sprunganlage in Gleisdorf für mutige Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        15.710428,
+                        47.111059
+                  ]
+            },
+            {
+                  "name": "Kinder- bzw. Plantschbecken",
+                  "text": "Ein spezielles Becken in Gleisdorf für Kleinkinder zum Planschen.",
+                  "category": "family",
+                  "coords": [
+                        15.711484,
+                        47.112158
+                  ]
             }
       ],
       "hu": [
@@ -40101,6 +39912,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.711598,
                         47.100072
+                  ]
+            },
+            {
+                  "name": "Sprungturmbecken",
+                  "text": "Ugrótornyos medence Gleisdorfban a bátor úszók számára.",
+                  "category": "family",
+                  "coords": [
+                        15.710428,
+                        47.111059
+                  ]
+            },
+            {
+                  "name": "Kinder- bzw. Plantschbecken",
+                  "text": "Speciális pancsolómedence Gleisdorfban kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.711484,
+                        47.112158
                   ]
             }
       ],
@@ -40140,6 +39969,24 @@ export const austriaCitiesV2: POI[] = [
                         15.711598,
                         47.100072
                   ]
+            },
+            {
+                  "name": "Sprungturmbecken",
+                  "text": "O piscină cu o platformă de sărituri în Gleisdorf pentru înotătorii curajoși.",
+                  "category": "family",
+                  "coords": [
+                        15.710428,
+                        47.111059
+                  ]
+            },
+            {
+                  "name": "Kinder- bzw. Plantschbecken",
+                  "text": "O piscină specială în Gleisdorf pentru copiii mici să se bălăcească.",
+                  "category": "family",
+                  "coords": [
+                        15.711484,
+                        47.112158
+                  ]
             }
       ],
       "en": [
@@ -40177,6 +40024,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.711598,
                         47.100072
+                  ]
+            },
+            {
+                  "name": "Sprungturmbecken",
+                  "text": "A pool with a diving platform in Gleisdorf for brave swimmers.",
+                  "category": "family",
+                  "coords": [
+                        15.710428,
+                        47.111059
+                  ]
+            },
+            {
+                  "name": "Kinder- bzw. Plantschbecken",
+                  "text": "A special pool in Gleisdorf for toddlers to splash around.",
+                  "category": "family",
+                  "coords": [
+                        15.711484,
+                        47.112158
                   ]
             }
       ]

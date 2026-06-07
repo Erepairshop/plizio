@@ -370,88 +370,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
     },
     image: "/poi-images/belgium-ourthe-river-nature-v2.webp",
 },  {
-    id: "belgium-semois-river-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "plage de Alle",
-                  "text": "Badestrand von Alle an der Semois.",
-                  "category": "recreational",
-                  "coords": [
-                        4.976573,
-                        49.847115
-                  ]
-            },
-            {
-                  "name": "Plage de Membre (herbe)",
-                  "text": "Grasstrand von Membre an der Semois.",
-                  "category": "recreational",
-                  "coords": [
-                        4.900464,
-                        49.864397
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "plage de Alle",
-                  "text": "Az Alle-i strand a Semois folyó mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        4.976573,
-                        49.847115
-                  ]
-            },
-            {
-                  "name": "Plage de Membre (herbe)",
-                  "text": "A membre-i füves strand a Semois folyó mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        4.900464,
-                        49.864397
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "plage de Alle",
-                  "text": "Plaja Alle pe râul Semois.",
-                  "category": "recreational",
-                  "coords": [
-                        4.976573,
-                        49.847115
-                  ]
-            },
-            {
-                  "name": "Plage de Membre (herbe)",
-                  "text": "Plajă cu iarbă Membre pe râul Semois.",
-                  "category": "recreational",
-                  "coords": [
-                        4.900464,
-                        49.864397
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "plage de Alle",
-                  "text": "Alle Beach along the Semois River.",
-                  "category": "recreational",
-                  "coords": [
-                        4.976573,
-                        49.847115
-                  ]
-            },
-            {
-                  "name": "Plage de Membre (herbe)",
-                  "text": "Membre grassy beach along the Semois River.",
-                  "category": "recreational",
-                  "coords": [
-                        4.900464,
-                        49.864397
-                  ]
-            }
-      ]
-},
+    id: "belgium-semois-river-nature-v2", "sights": {"de": [{"name": "plage de Alle", "text": "Am sanften Lauf der Semois lädt die Plage de Alle zu erholsamen Stunden in der belgischen Natur ein. Dieser kleine Badestrand ist ideal, um die Füße ins kühle Flusswasser zu tauchen und die Seele baumeln zu lassen. Die bewaldeten Ufer verströmen eine beruhigende Atmosphäre fernab des Alltags. Wasserschuhe sind praktisch, um die Flusssteine bequem zu überqueren.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Dieser idyllische Grasstrand bei Membre schmiegt sich malerisch an die Ufer der Semois. Die Plage de Membre ist ein wunderbarer Rückzugsort für alle, die eine weiche Liegewiese dem Sand vorziehen. Das friedliche Flussambiente lädt zum Sonnenbaden und Lesen in der Natur ein. Eine Decke als Unterlage macht den Aufenthalt auf dem Rasen noch komfortabler.", "category": "recreational", "coords": [4.900464, 49.864397]}], "hu": [{"name": "plage de Alle", "text": "A Semois folyó szelíd sodrásánál található Plage de Alle pihentető órákra csábít a belga természetben. Ez a kis fürdőstrand ideális arra, hogy lábunkat a hűvös folyóvízbe lógassuk és kikapcsolódjunk. Az erdős partok megnyugtató légkört árasztanak, távol a mindennapoktól. Egy vizicipő praktikus lehet a folyami köveken való kényelmes átkeléshez.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Ez az idilli füves strand Membre közelében festőien simul a Semois folyó partjához. A Plage de Membre csodálatos menedék azoknak, akik a puha pázsitot részesítik előnyben a homokkal szemben. A békés folyami környezet napozásra és természetben való olvasásra hívogat. Egy kényelmes takaró még kellemesebbé teszi a füvön tartózkodást.", "category": "recreational", "coords": [4.900464, 49.864397]}], "ro": [{"name": "plage de Alle", "text": "De-a lungul cursului lin al râului Semois, Plage de Alle te invită la ore de relaxare în natura belgiană. Această mică plajă de scăldat este ideală pentru a-ți scufunda picioarele în apa rece a râului și a te deconecta. Malurile împădurite emană o atmosferă liniștitoare, departe de viața cotidiană. Încălțămintea de apă este practică pentru a traversa confortabil pietrele din râu.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Această plajă idilică cu iarbă de lângă Membre se cuibărește pitoresc pe malurile râului Semois. Plage de Membre este un refugiu minunat pentru cei care preferă o pajiște moale în loc de nisip. Ambianța pașnică a râului te invită la băi de soare și la lectură în natură. O pătură face ca șederea pe iarbă să fie și mai confortabilă.", "category": "recreational", "coords": [4.900464, 49.864397]}], "en": [{"name": "plage de Alle", "text": "Along the gentle course of the Semois river, Plage de Alle invites you to relaxing hours in the Belgian outdoors. This small bathing beach is ideal for dipping your feet into the cool river water and letting your mind wander. The wooded banks exude a calming atmosphere far from everyday life. Water shoes come in handy to comfortably navigate the river stones.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "This idyllic grassy beach near Membre nestles picturesquely along the banks of the Semois river. Plage de Membre is a wonderful retreat for anyone who prefers a soft lawn over sandy shores. The peaceful river ambiance invites sunbathing and reading in the midst of nature. Bringing a blanket makes relaxing on the grass even more comfortable.", "category": "recreational", "coords": [4.900464, 49.864397]}]},
     parent: "BE",
     type: "river",
     name: { de: "Semois", hu: "Semois", ro: "Râul Semois", en: "Semois River"},
@@ -497,52 +416,7 @@ imageHint: "Semois river meander at Frahan viewpoint",
     },
     image: "/poi-images/belgium-semois-river-nature-v2.webp",
 },  {
-    id: "belgium-lesse-river-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage de Houyet (herbe)",
-                  "text": "Grasstrand an der Lesse.",
-                  "category": "recreational",
-                  "coords": [
-                        5.010082,
-                        50.186936
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage de Houyet (herbe)",
-                  "text": "Füves strand a Lesse folyó mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        5.010082,
-                        50.186936
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage de Houyet (herbe)",
-                  "text": "Plajă cu iarbă pe râul Lesse.",
-                  "category": "recreational",
-                  "coords": [
-                        5.010082,
-                        50.186936
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage de Houyet (herbe)",
-                  "text": "Grassy beach along the Lesse River.",
-                  "category": "recreational",
-                  "coords": [
-                        5.010082,
-                        50.186936
-                  ]
-            }
-      ]
-},
+    id: "belgium-lesse-river-nature-v2", "sights": {"de": [{"name": "Plage de Houyet (herbe)", "text": "Direkt am Fluss Lesse gelegen, lockt der Grasstrand von Houyet mit seiner grünen Uferlandschaft. Hier finden Besucher eine herrliche Kulisse für eine kurze Abkühlung während einer Kanutour oder Wanderung. Das entspannte Flair am Wasser ist besonders bei einheimischen Familien sehr beliebt. An sonnigen Wochenenden lohnt es sich, frühzeitig einen Platz auf der Wiese zu suchen.", "category": "recreational", "coords": [5.010082, 50.186936]}], "hu": [{"name": "Plage de Houyet (herbe)", "text": "A közvetlenül a Lesse folyó partján fekvő houyeti füves strand zöldellő partvidékével csábítja a látogatókat. Itt csodálatos környezetre lelhetünk egy gyors felfrissüléshez egy kenu- vagy gyalogtúra során. A nyugodt vízparti hangulat különösen a helyi családok körében rendkívül népszerű. Napsütéses hétvégéken érdemes korán helyet keresni a réten.", "category": "recreational", "coords": [5.010082, 50.186936]}], "ro": [{"name": "Plage de Houyet (herbe)", "text": "Situată direct pe râul Lesse, plaja cu iarbă din Houyet atrage prin peisajul său verde riveran. Aici vizitatorii găsesc un cadru minunat pentru o scurtă răcorire în timpul unei ture cu caiacul sau a unei drumeții. Atmosfera relaxată la malul apei este foarte populară în special printre familiile locale. În weekendurile însorite, merită să căutați devreme un loc pe iarbă.", "category": "recreational", "coords": [5.010082, 50.186936]}], "en": [{"name": "Plage de Houyet (herbe)", "text": "Situated right by the Lesse river, the grassy beach of Houyet beckons with its green riparian landscape. Visitors will find a glorious setting here for a quick cool-down during a canoe trip or hike. The relaxed waterside flair is especially popular among local families. On sunny weekends, it pays to find a spot on the meadow early.", "category": "recreational", "coords": [5.010082, 50.186936]}]},
     parent: "BE",
     type: "river",
     name: { de: "Lesse", hu: "Lesse", ro: "Râul Lesse", en: "Lesse River"},
@@ -588,52 +462,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
     },
     image: "/poi-images/belgium-lesse-river-nature-v2.webp",
 },  {
-    id: "belgium-lake-butgenbach-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "VENNtastic Beach",
-                  "text": "VENNtastic Beach am See Butgenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        6.218451,
-                        50.426707
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "VENNtastic Beach",
-                  "text": "VENNtastic strand a Bütgenbach-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        6.218451,
-                        50.426707
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "VENNtastic Beach",
-                  "text": "Plaja VENNtastic de pe lacul Bütgenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        6.218451,
-                        50.426707
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "VENNtastic Beach",
-                  "text": "VENNtastic Beach at Lake Bütgenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        6.218451,
-                        50.426707
-                  ]
-            }
-      ]
-},
+    id: "belgium-lake-butgenbach-nature-v2", "sights": {"de": [{"name": "VENNtastic Beach", "text": "Am Ufer des Sees Bütgenbach bietet der VENNtastic Beach ein modernes und vielseitiges Badeerlebnis. Der gepflegte Sandstrand ist ein wahres Paradies für Schwimmer und Liebhaber von Wassersport. Mit seiner lebendigen Atmosphäre zieht der See vor allem im Sommer zahlreiche Erholungssuchende an. Ein Ausflug mit der ganzen Familie wird hier zu einem runden Vergnügen.", "category": "recreational", "coords": [6.218451, 50.426707]}], "hu": [{"name": "VENNtastic Beach", "text": "A Bütgenbach-tó partján elterülő VENNtastic Beach modern és változatos fürdőélményt kínál. A gondozott homokos strand igazi paradicsom az úszók és a vízi sportok szerelmesei számára. Nyüzsgő hangulatával a tó különösen nyáron vonz számos pihenni vágyót. Egy kirándulás az egész családdal itt garantáltan teljes értékű szórakozást nyújt.", "category": "recreational", "coords": [6.218451, 50.426707]}], "ro": [{"name": "VENNtastic Beach", "text": "Pe malul lacului Bütgenbach, VENNtastic Beach oferă o experiență de baie modernă și variată. Plaja de nisip bine îngrijită este un adevărat paradis pentru înotători și iubitorii de sporturi nautice. Cu atmosfera sa vibrantă, lacul atrage numeroși oameni în căutare de relaxare, mai ales vara. O excursie cu întreaga familie devine aici o adevărată plăcere.", "category": "recreational", "coords": [6.218451, 50.426707]}], "en": [{"name": "VENNtastic Beach", "text": "On the shores of Lake Bütgenbach, VENNtastic Beach offers a modern and varied bathing experience. The well-kept sandy beach is a true paradise for swimmers and water sports enthusiasts. With its vibrant atmosphere, the lake attracts numerous people seeking relaxation, especially in the summer. A trip with the whole family turns into a fully enjoyable outing here.", "category": "recreational", "coords": [6.218451, 50.426707]}]},
     parent: "BE",
     type: "lake",
     name: { de: "Bütgenbacher See", hu: "Bütgenbach-tó", ro: "Lacul Bütgenbach", en: "Lake Bütgenbach"},

@@ -6261,52 +6261,7 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-bugibba-jetty-for-boat-trips-extra", "sights": {
-      "de": [
-            {
-                  "name": "Amazonia Beach",
-                  "text": "Amazonia Beach ist ein Badebereich am Hafen von Bugibba.",
-                  "category": "recreational",
-                  "coords": [
-                        14.417319,
-                        35.955102
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Amazonia Beach",
-                  "text": "Az Amazonia Beach egy fürdőhely a Bugibba kikötőnél.",
-                  "category": "recreational",
-                  "coords": [
-                        14.417319,
-                        35.955102
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Amazonia Beach",
-                  "text": "Amazonia Beach este o zonă de scăldat situată în portul Bugibba.",
-                  "category": "recreational",
-                  "coords": [
-                        14.417319,
-                        35.955102
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Amazonia Beach",
-                  "text": "Amazonia Beach is a swimming area at the harbor of Bugibba.",
-                  "category": "recreational",
-                  "coords": [
-                        14.417319,
-                        35.955102
-                  ]
-            }
-      ]
-},
+    id: "port-bugibba-jetty-for-boat-trips-extra", "sights": {"de": [{"name": "Amazonia Beach", "text": "Direkt am Hafen von Bugibba gelegen, ist der Amazonia Beach ein lebhafter Badebereich in Malta. Die Umgebung bietet eine Mischung aus lokalem Charme und dynamischer Atmosphäre, die dazu einlädt, das Wasser zu genießen und die Szenerie zu beobachten. Gäste können hier ein erfrischendes Bad wunderbar mit dem Blick auf den Bootsverkehr verbinden. Ein Besuch in den wärmeren Monaten verspricht einen angenehmen Nachmittag.", "category": "recreational", "coords": [14.417319, 35.955102]}], "hu": [{"name": "Amazonia Beach", "text": "A közvetlenül Bugibba kikötőjénél található Amazonia Beach egy élettel teli fürdőzőhely Máltán. A környezet a helyi báj és a dinamikus légkör keverékét nyújtja, amely ideális a víz élvezetéhez és a környék megfigyeléséhez. A vendégek könnyedén összeköthetik a frissítő úszást a közeli hajóforgalom figyelésével. A melegebb hónapokban tett látogatás kellemes délutánt ígér.", "category": "recreational", "coords": [14.417319, 35.955102]}], "ro": [{"name": "Amazonia Beach", "text": "Situată chiar în portul Bugibba, Amazonia Beach este o zonă de înot plină de viață din Malta. Cadrul oferă un amestec de farmec local și o atmosferă dinamică, potrivită pentru a te bucura de apă și a observa împrejurimile. Oaspeții pot îmbina cu ușurință o baie răcoritoare cu privitul traficului de bărci din apropiere. O vizită în lunile mai calde promite o după-amiază plăcută.", "category": "recreational", "coords": [14.417319, 35.955102]}], "en": [{"name": "Amazonia Beach", "text": "Located right at the harbor of Bugibba, Amazonia Beach is a lively swimming area in Malta. The setting provides a mix of local charm and a dynamic atmosphere suitable for enjoying the water and observing the surroundings. Guests can easily combine a refreshing swim with watching the nearby boat traffic. Visiting during the warmer months makes for a pleasant afternoon.", "category": "recreational", "coords": [14.417319, 35.955102]}]},
     type: "port",
     parent: "MT",
     coords: [14.417, 35.952],
@@ -7007,52 +6962,7 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-st-georges-bay-boat-charters-extra", "sights": {
-      "de": [
-            {
-                  "name": "Saint George's Beach",
-                  "text": "Saint George's Beach ist eine Bucht in der Nähe von St. Julians.",
-                  "category": "recreational",
-                  "coords": [
-                        14.488049,
-                        35.925863
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Saint George's Beach",
-                  "text": "A Saint George's Beach egy öböl St. Julians közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        14.488049,
-                        35.925863
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Saint George's Beach",
-                  "text": "Saint George's Beach este un golf situat în apropierea orașului St. Julians.",
-                  "category": "recreational",
-                  "coords": [
-                        14.488049,
-                        35.925863
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Saint George's Beach",
-                  "text": "Saint George's Beach is a bay located near St. Julians.",
-                  "category": "recreational",
-                  "coords": [
-                        14.488049,
-                        35.925863
-                  ]
-            }
-      ]
-},
+    id: "port-st-georges-bay-boat-charters-extra", "sights": {"de": [{"name": "Saint George's Beach", "text": "Versteckt in einer Bucht nahe St. Julians, ist der Saint George's Beach ein beliebtes Küstenziel in Malta. Die Umgebung zieht naturgemäß Einheimische und Besucher an, die einen lebendigen Ort zum Schwimmen und Sonnenbaden suchen. Er dient als gut erreichbarer Ort, um direkt neben der lebhaften Stadtkulisse zu entspannen. Es empfiehlt sich, gleich morgens dorthin zu gehen, um sich einen guten Platz zu sichern.", "category": "recreational", "coords": [14.488049, 35.925863]}], "hu": [{"name": "Saint George's Beach", "text": "A St. Julians közelében egy öbölben megbúvó Saint George's Beach egy népszerű tengerparti úti cél Máltán. A környezet természetesen vonzza mind a helyieket, mind a látogatókat, akik egy nyüzsgő helyet keresnek az úszáshoz és a napozáshoz. Könnyen megközelíthető helyként szolgál a kikapcsolódásra, közvetlenül a nyüzsgő városi környezet mellett. Érdemes már reggel odalátogatni, hogy biztosítsunk magunknak egy jó ülőhelyet.", "category": "recreational", "coords": [14.488049, 35.925863]}], "ro": [{"name": "Saint George's Beach", "text": "Ascunsă într-un golf din apropiere de St. Julians, Saint George's Beach este o destinație de coastă populară din Malta. Mediul atrage în mod natural atât localnici, cât și vizitatori care caută un loc vibrant pentru a înota și a se relaxa la soare. Servește drept un loc accesibil pentru a vă relaxa chiar lângă împrejurimile pline de viață ale orașului. Se recomandă să mergeți acolo dimineața pentru a vă asigura un loc bun de stat.", "category": "recreational", "coords": [14.488049, 35.925863]}], "en": [{"name": "Saint George's Beach", "text": "Tucked away in a bay near St. Julians, Saint George's Beach is a popular coastal destination in Malta. The environment naturally draws both locals and visitors looking for a vibrant place to swim and relax under the sun. It serves as an accessible spot to unwind right by the lively city surroundings. Heading there in the morning is recommended to secure a good place to sit.", "category": "recreational", "coords": [14.488049, 35.925863]}]},
     type: "port",
     parent: "MT",
     coords: [14.49, 35.925],

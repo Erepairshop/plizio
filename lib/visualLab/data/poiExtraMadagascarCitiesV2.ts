@@ -1001,52 +1001,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "morondava-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Thanksgiving Beach",
-                  "text": "Thanksgiving Beach ist ein Küstenerholungsgebiet in Morondava.",
-                  "category": "recreational",
-                  "coords": [
-                        44.272013,
-                        -20.293726
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Thanksgiving Beach",
-                  "text": "A Thanksgiving Beach egy tengerparti pihenőhely Morondava városában.",
-                  "category": "recreational",
-                  "coords": [
-                        44.272013,
-                        -20.293726
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Thanksgiving Beach",
-                  "text": "Thanksgiving Beach este o zonă de coastă recreativă situată în Morondava.",
-                  "category": "recreational",
-                  "coords": [
-                        44.272013,
-                        -20.293726
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Thanksgiving Beach",
-                  "text": "Thanksgiving Beach is a coastal recreational area located in Morondava.",
-                  "category": "recreational",
-                  "coords": [
-                        44.272013,
-                        -20.293726
-                  ]
-            }
-      ]
-},
+    id: "morondava-cities-v2", "sights": {"de": [{"name": "Thanksgiving Beach", "text": "Als herrliches Küstenerholungsgebiet in Morondava fängt der Thanksgiving Beach den exotischen Zauber Madagaskars ein. Die ruhige Umgebung ist perfekt, um im Meer zu baden oder bei einem Spaziergang die Seele baumeln zu lassen. Wer die besondere Stimmung des Ortes erleben möchte, sollte den malerischen Sonnenuntergang nicht verpassen.", "category": "recreational", "coords": [44.272013, -20.293726]}], "hu": [{"name": "Thanksgiving Beach", "text": "A morondavai csodálatos tengerparti üdülőhelyként szolgáló Thanksgiving Beach Madagaszkár egzotikus varázsát nyújtja. A csendes környezet tökéletes a tengeri fürdőzéshez és a nyugodt, elmélyült parti sétákhoz. Aki szeretné átélni a hely különleges hangulatát, semmiképp se hagyja ki a festői naplementét.", "category": "recreational", "coords": [44.272013, -20.293726]}], "ro": [{"name": "Thanksgiving Beach", "text": "Funcționând ca o splendidă zonă de recreere de coastă în Morondava, Thanksgiving Beach surprinde magia exotică a Madagascarului. Împrejurimile liniștite sunt perfecte pentru o baie în mare sau pentru o plimbare contemplativă pe plajă. Oricine dorește să simtă vibrația specială a locului trebuie neapărat să rămână pentru apusul pitoresc.", "category": "recreational", "coords": [44.272013, -20.293726]}], "en": [{"name": "Thanksgiving Beach", "text": "Functioning as a splendid coastal recreation area in Morondava, Thanksgiving Beach captures the exotic magic of Madagascar. The quiet surroundings are perfect for dipping into the sea or letting your mind wander during a beachside stroll. Anyone hoping to feel the location's special mood should absolutely stay for the picturesque sunset.", "category": "recreational", "coords": [44.272013, -20.293726]}]},
     type: "city",
     parent: "MG-U",
     coords: [44.2833, -20.2833],
@@ -1440,52 +1395,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "farafangana-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Coco beach farafangana",
-                  "text": "Strand in Farafangana.",
-                  "category": "recreational",
-                  "coords": [
-                        47.834548,
-                        -22.841566
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Coco beach farafangana",
-                  "text": "Strand Farafanganában.",
-                  "category": "recreational",
-                  "coords": [
-                        47.834548,
-                        -22.841566
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Coco beach farafangana",
-                  "text": "Plajă în Farafangana.",
-                  "category": "recreational",
-                  "coords": [
-                        47.834548,
-                        -22.841566
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Coco beach farafangana",
-                  "text": "Beach in Farafangana.",
-                  "category": "recreational",
-                  "coords": [
-                        47.834548,
-                        -22.841566
-                  ]
-            }
-      ]
-},
+    id: "farafangana-cities-v2", "sights": {"de": [{"name": "Coco beach farafangana", "text": "Der Coco Beach in Farafangana ist ein naturbelassener Sandstrand, der zum Träumen am Indischen Ozean einlädt. Badegäste können sich hier auf eine authentische tropische Kulisse und entspannte Runden im Wasser freuen. Für einen ungestörten Tag voller Sonne und Meeressand ist dieser Ort eine exzellente Wahl.", "category": "recreational", "coords": [47.834548, -22.841566]}], "hu": [{"name": "Coco beach farafangana", "text": "A farafanganai Coco Beach egy természetes szépségű homokos strand, amely álmodozásra csábít az Indiai-óceán partján. A fürdőzők egy autentikus trópusi környezetre és végtelenül pihentető vizes pillanatokra számíthatnak. Egy zavartalan, napsütésben és homokban gazdag naphoz ez a hely kitűnő választás.", "category": "recreational", "coords": [47.834548, -22.841566]}], "ro": [{"name": "Coco beach farafangana", "text": "Coco Beach din Farafangana este un țărm nisipos de o frumusețe naturală, care te invită la visare lângă Oceanul Indian. Înotătorii se pot bucura de un cadru tropical autentic și de momente complet relaxante în apă. Pentru o zi netulburată, plină de soare și nisip, acest loc este o alegere excelentă.", "category": "recreational", "coords": [47.834548, -22.841566]}], "en": [{"name": "Coco beach farafangana", "text": "Coco Beach in Farafangana is a naturally beautiful sandy shore that invites daydreaming by the Indian Ocean. Swimmers can look forward to an authentic tropical setting and completely relaxed moments in the water. For an undisturbed day full of sun and soft sand, this location is an excellent choice.", "category": "recreational", "coords": [47.834548, -22.841566]}]},
     type: "city",
     parent: "MG-F",
     coords: [47.8333, -22.8167],

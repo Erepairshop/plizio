@@ -543,52 +543,7 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-uilenhorst-life-v2.webp",
   },
   {
-    id: "netherlands-arkemheen-polder-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Laakse Strand",
-                  "text": "Laakse Strand im Arkemheen Polder.",
-                  "category": "recreational",
-                  "coords": [
-                        5.426907,
-                        52.255362
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Laakse Strand",
-                  "text": "Laakse Strand az Arkemheen Polderben.",
-                  "category": "recreational",
-                  "coords": [
-                        5.426907,
-                        52.255362
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Laakse Strand",
-                  "text": "Laakse Strand în Arkemheen Polder.",
-                  "category": "recreational",
-                  "coords": [
-                        5.426907,
-                        52.255362
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Laakse Strand",
-                  "text": "Laakse Strand in Arkemheen Polder.",
-                  "category": "recreational",
-                  "coords": [
-                        5.426907,
-                        52.255362
-                  ]
-            }
-      ]
-},
+    id: "netherlands-arkemheen-polder-life-v2", "sights": {"de": [{"name": "Laakse Strand", "text": "Inmitten der einzigartigen Landschaft des Arkemheen Polder bietet der Laakse Strand eine malerische Kulisse am Wasser. Sein ruhiges Ambiente ist ein echter Anziehungspunkt für alle, die der Hektik des Alltags entfliehen möchten. Naturliebhaber werden die ungestörte Ruhe beim Spazierengehen oder Entspannen am Wasser zu schätzen wissen. Um das beste Licht über dem Polder einzufangen, empfiehlt sich ein Besuch am späten Nachmittag.", "category": "recreational", "coords": [5.426907, 52.255362]}], "hu": [{"name": "Laakse Strand", "text": "Az Arkemheen Polder egyedülálló tájában megbúvó Laakse Strand festői vízparti környezetet biztosít. Békés atmoszférája igazi vonzerő azok számára, akik a mindennapi élet rohanásából szeretnének kiszakadni. A természet szerelmesei értékelni fogják a zavartalan nyugalmat, miközben a parton sétálnak vagy pihennek. A polder feletti legszebb fényviszonyok érdekében próbálja meg késő délután időzíteni a látogatást.", "category": "recreational", "coords": [5.426907, 52.255362]}], "ro": [{"name": "Laakse Strand", "text": "Amplasată în peisajul unic din Arkemheen Polder, Laakse Strand oferă un cadru pitoresc la malul apei. Ambianța sa senină este un adevărat magnet pentru cei care doresc să scape de ritmul alert al vieții de zi cu zi. Iubitorii de natură vor aprecia liniștea neîntreruptă în timp ce se bucură de plimbări sau se odihnesc lângă apă. Pentru a prinde cea mai bună lumină peste polder, încercați să vizitați spre sfârșitul după-amiezii.", "category": "recreational", "coords": [5.426907, 52.255362]}], "en": [{"name": "Laakse Strand", "text": "Set within the unique landscape of the Arkemheen Polder, Laakse Strand provides a picturesque waterfront setting. Its serene ambiance is a true draw for those wishing to escape the fast pace of daily life. Nature lovers will appreciate the uninterrupted tranquility while enjoying walks or resting by the water. To capture the best light over the polder, try to visit during the late afternoon.", "category": "recreational", "coords": [5.426907, 52.255362]}]},
     type: "park",
     parent: "NL",
     name: { de: "Polder Arkemheen", hu: "Arkemheen Polder", ro: "Polderul Arkemheen", en: "Arkemheen Polder" },

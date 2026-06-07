@@ -48,52 +48,7 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-ballycroy-national-park-life-v2.webp",
   },
   {
-    id: "ireland-killarney-national-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "McRose Beach",
-                  "text": "Strand im Killarney National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.521567,
-                        52.014384
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "McRose Beach",
-                  "text": "Strand a Killarney Nemzeti Parkban.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.521567,
-                        52.014384
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "McRose Beach",
-                  "text": "Plajă în Parcul Național Killarney.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.521567,
-                        52.014384
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "McRose Beach",
-                  "text": "Beach in Killarney National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.521567,
-                        52.014384
-                  ]
-            }
-      ]
-},
+    id: "ireland-killarney-national-park-life-v2", "sights": {"de": [{"name": "McRose Beach", "text": "Umgeben von der atemberaubenden Schönheit des Killarney Nationalparks, erweist sich McRose Beach als herrlicher Rückzugsort an einem See. Besucher können das ruhige Wasser genießen, das von üppigem Grün und majestätischen Bergen eingerahmt wird. Die friedliche Atmosphäre ist perfekt für Naturliebhaber, die innehalten und die bemerkenswerte Landschaft auf sich wirken lassen möchten. Die großartigen Spiegelungen auf der Wasseroberfläche sind ein fantastisches Fotomotiv.", "category": "recreational", "coords": [-9.521567, 52.014384]}], "hu": [{"name": "McRose Beach", "text": "A Killarney Nemzeti Park lélegzetelállító szépségével övezett McRose Beach egy lenyűgöző tóparti menedék. A látogatók élvezhetik a nyugodt vizet, amelyet buja növényzet és fenséges hegyek kereteznek. A békés légkör tökéletes a természet szerelmeseinek, akik meg akarnak állni, és elmerülni a figyelemre méltó tájban. Mindenképpen hozzon fényképezőgépet, hogy megörökítse a víz felszínén tükröződő pompás látványt.", "category": "recreational", "coords": [-9.521567, 52.014384]}], "ro": [{"name": "McRose Beach", "text": "Înconjurată de frumusețea uluitoare a Parcului Național Killarney, plaja McRose este o retragere uimitoare pe malul lacului. Vizitatorii se pot bucura de apele liniștite, încadrate de verdeață luxuriantă și munți maiestuoși. Atmosfera pașnică este perfectă pentru iubitorii de natură care doresc să facă o pauză și să absoarbă peisajul remarcabil. Asigurați-vă că aduceți un aparat foto pentru a surprinde reflexiile magnifice pe suprafața apei.", "category": "recreational", "coords": [-9.521567, 52.014384]}], "en": [{"name": "McRose Beach", "text": "Surrounded by the breathtaking beauty of Killarney National Park, McRose Beach is a stunning lakeside retreat. Visitors can enjoy the tranquil waters framed by lush greenery and majestic mountains. The peaceful atmosphere is perfect for nature lovers wanting to pause and soak in the remarkable landscape. Make sure to bring a camera to capture the magnificent reflections on the water's surface.", "category": "recreational", "coords": [-9.521567, 52.014384]}]},
     type: "park",
     parent: "IE",
     name: { de: "Killarney Nationalpark", hu: "Killarney Nemzeti Park", ro: "Parcul Național Killarney", en: "Killarney National Park" },
@@ -138,52 +93,7 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-killarney-national-park-life-v2.webp",
   },
   {
-    id: "ireland-wicklow-mountains-national-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Coon Beach",
-                  "text": "Coon Beach befindet sich im Wicklow Mountains National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.294246,
-                        53.078541
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Coon Beach",
-                  "text": "A Coon Beach a Wicklow Mountains Nemzeti Parkban található.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.294246,
-                        53.078541
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Coon Beach",
-                  "text": "Coon Beach se află în Parcul Național Wicklow Mountains.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.294246,
-                        53.078541
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Coon Beach",
-                  "text": "Coon Beach is located in the Wicklow Mountains National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.294246,
-                        53.078541
-                  ]
-            }
-      ]
-},
+    id: "ireland-wicklow-mountains-national-park-life-v2", "sights": {"de": [{"name": "Coon Beach", "text": "Versteckt in den malerischen Landschaften des Wicklow Mountains Nationalparks, bietet Coon Beach einen wunderbaren Rückzugsort in der Natur. Das Süßwasserufer lädt Gäste zu ruhigen Spaziergängen ein, während sie von der dramatischen Bergkulisse umgeben sind. Die herrliche Abgeschiedenheit macht den Ort ideal für eine friedliche Pause während einer Wanderung. Festes Schuhwerk ist von Vorteil, um die rauen Pfade zum Wasser zu meistern.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "hu": [{"name": "Coon Beach", "text": "A Wicklow Mountains Nemzeti Park festői tájainak mélyén megbúvó Coon Beach egy derűs természeti menedéket kínál. Az édesvízi partok csendes sétákra hívják a vendégeket, miközben a drámai hegyvidéki táj öleli körül őket. Gyönyörűen elszigetelt légkört biztosít, amely ideális egy nyugodt pihenőhelyhez egy túra során. Erős lábbeli hasznos a vízhez vezető sziklás ösvények felfedezéséhez.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "ro": [{"name": "Coon Beach", "text": "Ascunsă adânc în peisajele pitorești ale Parcului Național Munții Wicklow, Coon Beach oferă o evadare naturală senină. Țărmurile de apă dulce invită oaspeții la plimbări liniștite, fiind învăluiți de peisajul dramatic de munte. Oferă o atmosferă frumos izolată, ideală pentru un loc de odihnă pașnic în timpul unei drumeții. Încălțămintea robustă este utilă atunci când explorați traseele accidentate care duc la apă.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "en": [{"name": "Coon Beach", "text": "Tucked deep within the scenic landscapes of Wicklow Mountains National Park, Coon Beach offers a serene natural escape. The freshwater shores invite guests for quiet walks while being enveloped by the dramatic highland scenery. It provides a beautifully isolated atmosphere, ideal for a tranquil resting spot during a hike. Sturdy footwear is helpful when exploring the rugged trails leading to the water.", "category": "recreational", "coords": [-6.294246, 53.078541]}]},
     type: "park",
     parent: "IE",
     name: { de: "Wicklow Mountains Nationalpark", hu: "Wicklow-hegység Nemzeti Park", ro: "Parcul Național Munții Wicklow", en: "Wicklow Mountains National Park" },
@@ -543,52 +453,7 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-derryclare-wood-life-v2.webp",
   },
   {
-    id: "ireland-bull-island-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Dollymount Strand",
-                  "text": "Dollymount Strand ist ein bekannter Dünenstrand auf Bull Island.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dollymount Strand",
-                  "text": "Dollymount Strand egy népszerű dűnés strand a Bull Island-en.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dollymount Strand",
-                  "text": "Dollymount Strand este o plajă cu dune binecunoscută pe Bull Island.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dollymount Strand",
-                  "text": "Dollymount Strand is a well-known dune beach on Bull Island.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            }
-      ]
-},
+    id: "ireland-bull-island-life-v2", "sights": {"de": [{"name": "Dollymount Strand", "text": "Auf der North Bull Island gelegen, ist der Dollymount Strand ein berühmter Dünenstrand in der Nähe der Hauptstadt. Besucher erwartet hier eine weite Sandfläche, die sich ideal für lange Spaziergänge, zum Drachensteigen und zur Beobachtung von Küstenvögeln eignet. Die offene und oft lebhafte Atmosphäre zieht die Einheimischen an, sobald sich die Sonne zeigt. Die Anreise über die Holzbrücke verleiht dem Strandausflug eine besonders charmante Note.", "category": "recreational", "coords": [-6.139379, 53.366999]}], "hu": [{"name": "Dollymount Strand", "text": "A North Bull Islanden fekvő Dollymount Strand egy híres dűnés part, amely a főváros közelében nyúlik el. A látogatókat hatalmas homokos terület fogadja, amely tökéletes hosszú sétákhoz, sárkányeregetéshez és a helyi parti madarak megfigyeléséhez. A nyitott és élénk hangulat azonnal vonzza a helyieket, amint kisüt a nap. A fahídon keresztül történő megközelítés bájos vonást ad a tengerparti kirándulásnak.", "category": "recreational", "coords": [-6.139379, 53.366999]}], "ro": [{"name": "Dollymount Strand", "text": "Situată pe insula North Bull, Dollymount Strand este o celebră plajă cu dune, care se întinde în apropierea capitalei. Vizitatorii sunt întâmpinați de nisipuri extinse, perfecte pentru plimbări lungi, înălțarea zmeielor și observarea păsărilor de coastă locale. Atmosfera este deschisă și plină de viață, atrăgând localnicii ori de câte ori apare soarele. Accesul peste podul de lemn adaugă o notă fermecătoare ieșirii la plajă.", "category": "recreational", "coords": [-6.139379, 53.366999]}], "en": [{"name": "Dollymount Strand", "text": "Situated on North Bull Island, Dollymount Strand is a celebrated dune beach stretching out near the capital. Visitors are treated to extensive sands that are perfect for long walks, kite flying, and observing local coastal birds. The atmosphere is open and lively, drawing locals out whenever the sun makes an appearance. Access via the wooden bridge adds a charming touch to the beach outing.", "category": "recreational", "coords": [-6.139379, 53.366999]}]},
     type: "wildlife",
     parent: "IE",
     name: { de: "North Bull Island", hu: "North Bull-sziget", ro: "Insula North Bull", en: "North Bull Island" },

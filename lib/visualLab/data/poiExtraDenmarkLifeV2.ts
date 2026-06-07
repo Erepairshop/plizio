@@ -48,52 +48,7 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-thy-national-park-life-v2.webp",
   },
   {
-    id: "denmark-mols-bjerge-national-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Femmøller Strand",
-                  "text": "Femmøller Strand befindet sich im Nationalpark Mols Bjerge.",
-                  "category": "recreational",
-                  "coords": [
-                        10.608547,
-                        56.225927
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Femmøller Strand",
-                  "text": "Femmøller Strand a Mols Bjerge Nemzeti Parkban található.",
-                  "category": "recreational",
-                  "coords": [
-                        10.608547,
-                        56.225927
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Femmøller Strand",
-                  "text": "Femmøller Strand este situată în Parcul Național Mols Bjerge.",
-                  "category": "recreational",
-                  "coords": [
-                        10.608547,
-                        56.225927
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Femmøller Strand",
-                  "text": "Femmøller Strand is situated in the Mols Bjerge National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        10.608547,
-                        56.225927
-                  ]
-            }
-      ]
-},
+    id: "denmark-mols-bjerge-national-park-life-v2", "sights": {"de": [{"name": "Femmøller Strand", "text": "Umgeben von den atemberaubenden Landschaften des Nationalparks Mols Bjerge ist der Femmøller Strand ein Hauch frischer Küstenluft. Die wilde und natürliche Stimmung der Gegend schafft ein authentisches, ungestörtes Heiligtum für Outdoor-Enthusiasten. Besucher können problemlos in das erfrischende Wasser eintauchen, sich auf dem unberührten Sand ausruhen oder die nahe gelegenen malerischen Wege erwandern. Er ist ein idealer Ort, um die Schönheit der Natur zu bezeugen, während man eine Auszeit an der Küste genießt.", "category": "recreational", "coords": [10.608547, 56.225927]}], "hu": [{"name": "Femmøller Strand", "text": "A Mols Bjerge Nemzeti Park lenyűgöző tájai által körülvett Femmøller Strand a friss tengerparti levegő fuvallata. A terület vad és természetes hangulata hiteles, zavartalan menedéket teremt a szabadtéri rajongók számára. A látogatók könnyedén belevethetik magukat a frissítő vízbe, megpihenhetnek az érintetlen homokban, vagy túrázhatnak a közeli festői ösvényeken. Ideális hely a természet szépségének megcsodálására, miközben élvezzük a tengerparti menekülést.", "category": "recreational", "coords": [10.608547, 56.225927]}], "ro": [{"name": "Femmøller Strand", "text": "Înconjurată de peisajele uimitoare ale Parcului Național Mols Bjerge, Femmøller Strand este o gură de aer proaspăt de coastă. Starea de spirit sălbatică și naturală a zonei creează un sanctuar autentic, netulburat, pentru pasionații de aer liber. Vizitatorii se pot scufunda cu ușurință în apa rece, se pot odihni pe nisipurile imaculate sau pot face drumeții pe traseele pitorești din apropiere. Este un loc ideal pentru a asista la frumusețea naturii în timp ce vă bucurați de o evadare pe coastă.", "category": "recreational", "coords": [10.608547, 56.225927]}], "en": [{"name": "Femmøller Strand", "text": "Surrounded by the stunning landscapes of Mols Bjerge National Park, Femmøller Strand is a breath of fresh coastal air. The wild and natural mood of the area creates an authentic, undisturbed sanctuary for outdoor enthusiasts. Visitors can easily plunge into the brisk water, rest on the pristine sands, or hike the nearby scenic trails. It is an ideal spot to witness nature's beauty while enjoying a coastal escape.", "category": "recreational", "coords": [10.608547, 56.225927]}]},
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Mols Bjerge", hu: "Mols Bjerge Nemzeti Park", ro: "Parcul Național Mols Bjerge", en: "Mols Bjerge National Park" },
@@ -885,88 +840,7 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-ertholmene-wildlife-life-v2.webp",
   },
   {
-    id: "denmark-marselisborg-forest-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ballehage Strand",
-                  "text": "Ballehage Strand liegt in der Nähe des Marselisborg-Waldes.",
-                  "category": "recreational",
-                  "coords": [
-                        10.225497,
-                        56.121037
-                  ]
-            },
-            {
-                  "name": "Moesgård Strand",
-                  "text": "Ein Strand am Rande des Marselisborg-Waldes.",
-                  "category": "recreational",
-                  "coords": [
-                        10.248773,
-                        56.088032
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ballehage Strand",
-                  "text": "A Ballehage Strand a Marselisborg erdő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        10.225497,
-                        56.121037
-                  ]
-            },
-            {
-                  "name": "Moesgård Strand",
-                  "text": "Strand a Marselisborg-erdő szélén.",
-                  "category": "recreational",
-                  "coords": [
-                        10.248773,
-                        56.088032
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ballehage Strand",
-                  "text": "Ballehage Strand este situată lângă pădurea Marselisborg.",
-                  "category": "recreational",
-                  "coords": [
-                        10.225497,
-                        56.121037
-                  ]
-            },
-            {
-                  "name": "Moesgård Strand",
-                  "text": "O plajă la marginea pădurii Marselisborg.",
-                  "category": "recreational",
-                  "coords": [
-                        10.248773,
-                        56.088032
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ballehage Strand",
-                  "text": "Ballehage Strand is located near the Marselisborg Forest.",
-                  "category": "recreational",
-                  "coords": [
-                        10.225497,
-                        56.121037
-                  ]
-            },
-            {
-                  "name": "Moesgård Strand",
-                  "text": "A beach located at the edge of the Marselisborg Forest.",
-                  "category": "recreational",
-                  "coords": [
-                        10.248773,
-                        56.088032
-                  ]
-            }
-      ]
-},
+    id: "denmark-marselisborg-forest-life-v2", "sights": {"de": [{"name": "Ballehage Strand", "text": "Der Ballehage Strand ruht an den üppigen Rändern des Marselisborg-Waldes und vereint auf wunderschöne Weise tiefen Wald mit offenen Gewässern. Eine ruhige, erdende Energie durchdringt den Ort und zieht diejenigen an, die einen natürlicheren Badeort bevorzugen. Man kann friedliches Baden, sanftes Sonnenbaden im Schatten der Bäume und lange, meditative Strandspaziergänge erwarten. Ein Fahrrad mitzubringen, macht den Weg zu diesem bewaldeten Strand zu einem absoluten Vergnügen.", "category": "recreational", "coords": [10.225497, 56.121037]}, {"name": "Moesgård Strand", "text": "Am Rande des Marselisborg-Waldes in Dänemark gelegen, bietet der Moesgård Strand eine wunderbare Kulisse. Besucher erwartet hier eine entspannte Atmosphäre, die ideal für einen Tag am Wasser oder Spaziergänge am Ufer ist. Besonders im Sommer ist dieser ruhige Ort ein schönes Ziel, um die Natur zu genießen.", "category": "recreational", "coords": [10.248773, 56.088032]}], "hu": [{"name": "Ballehage Strand", "text": "A Marselisborg-erdő buja peremén pihenő Ballehage Strand gyönyörűen egyesíti a mély erdőt a nyílt vizekkel. Nyugodt, földelő energia hatja át a teret, vonzva azokat, akik a természetesebb fürdőhelyeket részesítik előnyben. Békés fürdőzésre, a fák árnyékában történő lágy napozásra és hosszú, meditatív parti sétákra számíthat. A kerékpárral való érkezés abszolút örömmé teszi ennek az erdős strandnak az elérését.", "category": "recreational", "coords": [10.225497, 56.121037]}, {"name": "Moesgård Strand", "text": "A Dániai Marselisborg-erdő szélén található Moesgård Strand csodálatos természeti környezetet kínál. A látogatók nyugodt légkörre számíthatnak, amely tökéletes egy vízparti naphoz vagy kellemes sétákhoz. Különösen nyáron érdemes felkeresni ezt a csendes helyet a természet közelsége miatt.", "category": "recreational", "coords": [10.248773, 56.088032]}], "ro": [{"name": "Ballehage Strand", "text": "Odihnindu-se la marginile luxuriante ale pădurii Marselisborg, Ballehage Strand unește frumos pădurea adâncă cu apele deschise. O energie calmă și de ancorare pătrunde în spațiu, atrăgând pe cei care favorizează un loc de înot mai natural. Vă puteți aștepta la băi pașnice, plajă moale printre umbrele copacilor și plimbări lungi și meditative pe țărm. Aducerea unei biciclete face ca ajungerea la această plajă împădurită să fie o bucurie absolută.", "category": "recreational", "coords": [10.225497, 56.121037]}, {"name": "Moesgård Strand", "text": "Situată la marginea pădurii Marselisborg din Danemarca, Moesgård Strand oferă un cadru natural minunat. Vizitatorii se pot aștepta la o atmosferă relaxată, ideală pentru o zi petrecută la malul apei sau pentru plimbări plăcute. Mai ales în timpul verii, acest loc liniștit este o destinație excelentă pentru a vă bucura de natură.", "category": "recreational", "coords": [10.248773, 56.088032]}], "en": [{"name": "Ballehage Strand", "text": "Resting against the lush fringes of Marselisborg Forest, Ballehage Strand beautifully unites deep woodland with open waters. A calm, grounding energy permeates the space, attracting those who favor a more natural swimming spot. You can expect peaceful bathing, soft sunbathing among the trees' shadows, and long, meditative walks on the shore. Bringing a bicycle makes reaching this forested beach an absolute joy.", "category": "recreational", "coords": [10.225497, 56.121037]}, {"name": "Moesgård Strand", "text": "Situated on the edge of the Marselisborg Forest in Denmark, Moesgård Strand offers a wonderful natural setting. Visitors can expect a relaxed atmosphere that is ideal for a day by the water or pleasant shoreline walks. Especially during the summer, this quiet spot is a lovely destination to enjoy the outdoors.", "category": "recreational", "coords": [10.248773, 56.088032]}]},
     type: "forest",
     parent: "DK",
     name: { de: "Marselisborg Wald", hu: "Marselisborg erdő", ro: "Pădurea Marselisborg", en: "Marselisborg Forest" },
@@ -1056,52 +930,7 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-randers-rainforest-life-v2.webp",
   },
   {
-    id: "denmark-skjern-aa-delta-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Stauning Strand",
-                  "text": "Der Stauning Strand liegt am Ufer des Skjern Aa-Deltas.",
-                  "category": "recreational",
-                  "coords": [
-                        8.365351,
-                        55.952131
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stauning Strand",
-                  "text": "A Stauning Strand a Skjern Aa-delta partján található.",
-                  "category": "recreational",
-                  "coords": [
-                        8.365351,
-                        55.952131
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stauning Strand",
-                  "text": "Stauning Strand este situată pe malul Deltei Skjern Aa.",
-                  "category": "recreational",
-                  "coords": [
-                        8.365351,
-                        55.952131
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stauning Strand",
-                  "text": "Stauning Strand is located on the edge of the Skjern Aa Delta.",
-                  "category": "recreational",
-                  "coords": [
-                        8.365351,
-                        55.952131
-                  ]
-            }
-      ]
-},
+    id: "denmark-skjern-aa-delta-life-v2", "sights": {"de": [{"name": "Stauning Strand", "text": "Am Ufer des malerischen Skjern Aa-Deltas in Dänemark findet man den Stauning Strand. Diese natürliche Umgebung bietet Besuchern die Möglichkeit, entspannte Stunden am Wasser zu verbringen oder die Uferlandschaft zu erkunden. Ein Besuch lohnt sich besonders an warmen Tagen, um die friedliche Atmosphäre der Region zu erleben.", "category": "recreational", "coords": [8.365351, 55.952131]}], "hu": [{"name": "Stauning Strand", "text": "A dániai Skjern Aa-delta partján fekszik a festői Stauning Strand. Ez a természetes környezet lehetőséget kínál a látogatóknak, hogy pihentető órákat töltsenek a víz mellett, vagy felfedezzék a part menti tájat. Meleg napokon különösen érdemes ide látogatni, hogy megtapasztaljuk a régió békés hangulatát.", "category": "recreational", "coords": [8.365351, 55.952131]}], "ro": [{"name": "Stauning Strand", "text": "Stauning Strand se găsește pe malurile pitorescului delta Skjern Aa din Danemarca. Acest cadru natural oferă vizitatorilor șansa de a petrece ore relaxante lângă apă sau de a explora peisajul de coastă. O vizită este deosebit de recomandată în zilele călduroase pentru a experimenta atmosfera pașnică a regiunii.", "category": "recreational", "coords": [8.365351, 55.952131]}], "en": [{"name": "Stauning Strand", "text": "Stauning Strand is found along the shores of the scenic Skjern Aa delta in Denmark. This natural setting offers visitors the chance to spend relaxing hours by the water or explore the coastal landscape. A visit is highly recommended on warm days to experience the peaceful atmosphere of the region.", "category": "recreational", "coords": [8.365351, 55.952131]}]},
     type: "wildlife",
     parent: "DK",
     name: { de: "Skjern Å Delta", hu: "Skjern Å delta", ro: "Delta râului Skjern", en: "Skjern Å Delta" },
@@ -1416,52 +1245,7 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-harrild-hede-nature-life-v2.webp",
   },
   {
-    id: "denmark-roskilde-fjord-wildlife-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gershøj Strand",
-                  "text": "Gershøj Strand liegt am Roskilde Fjord, einem Schutzgebiet für Wildtiere.",
-                  "category": "recreational",
-                  "coords": [
-                        11.979312,
-                        55.715813
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gershøj Strand",
-                  "text": "Gershøj Strand a Roskilde-fjordon található, amely egy vadrezervátum.",
-                  "category": "recreational",
-                  "coords": [
-                        11.979312,
-                        55.715813
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gershøj Strand",
-                  "text": "Gershøj Strand este situată pe fiordul Roskilde, o zonă protejată pentru animalele sălbatice.",
-                  "category": "recreational",
-                  "coords": [
-                        11.979312,
-                        55.715813
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gershøj Strand",
-                  "text": "Gershøj Strand is located on the Roskilde Fjord, a wildlife refuge area.",
-                  "category": "recreational",
-                  "coords": [
-                        11.979312,
-                        55.715813
-                  ]
-            }
-      ]
-},
+    id: "denmark-roskilde-fjord-wildlife-life-v2", "sights": {"de": [{"name": "Gershøj Strand", "text": "Der Gershøj Strand erstreckt sich entlang des Roskilde Fjords in Dänemark, welcher als Schutzgebiet für Wildtiere bekannt ist. Hier können Naturliebhaber eine ruhige Zeit am Wasser genießen und die unberührte Küstenlandschaft bewundern. Für einen ungestörten Aufenthalt empfiehlt es sich, früh am Tag anzureisen.", "category": "recreational", "coords": [11.979312, 55.715813]}], "hu": [{"name": "Gershøj Strand", "text": "A Gershøj Strand a dániai Roskilde-fjord mentén húzódik, amely vadvédelmi területként ismert. Itt a természetkedvelők nyugodt időt tölthetnek a vízparton, és megcsodálhatják az érintetlen part menti tájat. A zavartalan pihenés érdekében ajánlott a nap korai szakaszában érkezni.", "category": "recreational", "coords": [11.979312, 55.715813]}], "ro": [{"name": "Gershøj Strand", "text": "Gershøj Strand se întinde de-a lungul fiordului Roskilde din Danemarca, o zonă recunoscută ca refugiu pentru fauna sălbatică. Aici, iubitorii de natură se pot bucura de un timp liniștit la malul apei și pot admira peisajul de coastă neatins. Pentru o ședere netulburată, este recomandat să ajungeți devreme în timpul zilei.", "category": "recreational", "coords": [11.979312, 55.715813]}], "en": [{"name": "Gershøj Strand", "text": "Gershøj Strand stretches along the Roskilde Fjord in Denmark, an area recognized as a wildlife sanctuary. Here, nature lovers can enjoy a quiet time by the water and admire the unspoiled coastal landscape. For an undisturbed visit, arriving early in the day is highly recommended.", "category": "recreational", "coords": [11.979312, 55.715813]}]},
     type: "wildlife",
     parent: "DK",
     name: { de: "Roskilde Fjord", hu: "Roskilde-fjord", ro: "Fiordul Roskilde", en: "Roskilde Fjord" },

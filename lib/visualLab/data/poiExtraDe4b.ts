@@ -1016,6 +1016,15 @@ export const poiExtraDe4b: POI[] = [
                         9.943398,
                         53.579036
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Das Schwimmbad in Altona ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.90617,
+                        53.564556
+                  ]
             }
       ],
       "hu": [
@@ -1626,6 +1635,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.943398,
                         53.579036
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Az Altonában található Schwimmbad remek helyszín családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.90617,
+                        53.564556
                   ]
             }
       ],
@@ -2238,6 +2256,15 @@ export const poiExtraDe4b: POI[] = [
                         9.943398,
                         53.579036
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Schwimmbad din Altona este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.90617,
+                        53.564556
+                  ]
             }
       ],
       "en": [
@@ -2848,6 +2875,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.943398,
                         53.579036
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "The Schwimmbad in Altona is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        9.90617,
+                        53.564556
                   ]
             }
       ]
@@ -4503,6 +4539,15 @@ export const poiExtraDe4b: POI[] = [
                         9.962355,
                         53.466814
                   ]
+            },
+            {
+                  "name": "Kinderbauernhof Kirchdorf",
+                  "text": "Der Kinderbauernhof Kirchdorf in Hamburg Harburg ermöglicht Kindern den Kontakt zu Nutztieren.",
+                  "category": "family",
+                  "coords": [
+                        10.012708,
+                        53.483254
+                  ]
             }
       ],
       "hu": [
@@ -4788,6 +4833,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.962355,
                         53.466814
+                  ]
+            },
+            {
+                  "name": "Kinderbauernhof Kirchdorf",
+                  "text": "A hamburgi Harburgban található Kirchdorf gyermekfarm lehetővé teszi a gyerekeknek a haszonállatokkal való ismerkedést.",
+                  "category": "family",
+                  "coords": [
+                        10.012708,
+                        53.483254
                   ]
             }
       ],
@@ -5075,6 +5129,15 @@ export const poiExtraDe4b: POI[] = [
                         9.962355,
                         53.466814
                   ]
+            },
+            {
+                  "name": "Kinderbauernhof Kirchdorf",
+                  "text": "Ferma pentru copii Kirchdorf din Hamburg Harburg permite copiilor contactul cu animalele de fermă.",
+                  "category": "family",
+                  "coords": [
+                        10.012708,
+                        53.483254
+                  ]
             }
       ],
       "en": [
@@ -5360,6 +5423,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.962355,
                         53.466814
+                  ]
+            },
+            {
+                  "name": "Kinderbauernhof Kirchdorf",
+                  "text": "The Kinderbauernhof Kirchdorf in Hamburg Harburg allows children to have contact with farm animals.",
+                  "category": "family",
+                  "coords": [
+                        10.012708,
+                        53.483254
                   ]
             }
       ]

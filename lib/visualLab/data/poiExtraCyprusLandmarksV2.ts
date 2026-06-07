@@ -48,52 +48,7 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-alaas-mosque-landmarks-v2.webp",
   },
   {
-    id: "cyprus-panagia-angeloktisti-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Faros Beach",
-                  "text": "Faros Beach liegt bei der Kirche Panagia Angeloktisti.",
-                  "category": "recreational",
-                  "coords": [
-                        33.60404,
-                        34.819436
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Faros Beach",
-                  "text": "Faros Beach a Panagia Angeloktisti templom közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.60404,
-                        34.819436
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Faros Beach",
-                  "text": "Faros Beach este lângă biserica Panagia Angeloktisti.",
-                  "category": "recreational",
-                  "coords": [
-                        33.60404,
-                        34.819436
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Faros Beach",
-                  "text": "Faros Beach is near the Panagia Angeloktisti church.",
-                  "category": "recreational",
-                  "coords": [
-                        33.60404,
-                        34.819436
-                  ]
-            }
-      ]
-},
+    id: "cyprus-panagia-angeloktisti-landmarks-v2", "sights": {"de": [{"name": "Faros Beach", "text": "Der Faros Beach liegt in der Region der Panagia Angeloktisti Kirche und bietet eine ruhige Atmosphäre an der zyprischen Küste. Die maritime Umgebung ist ideal für Besucher, die entspannte Stunden am Meer verbringen möchten. Man kann gemütlich am Wasser spazieren oder sich dem Sonnenbaden widmen. Ein früher Besuch sichert oft die besten Plätze am Strand.", "category": "recreational", "coords": [33.60404, 34.819436]}], "hu": [{"name": "Faros Beach", "text": "A Panagia Angeloktisti templom vidékén található Faros Beach békés hangulattal várja a Ciprusra látogatókat. A tengerparti környezet tökéletes azok számára, akik zavartalan órákat szeretnének tölteni a vízparton. A vendégek nyugodtan sétálhatnak vagy átadhatják magukat a napozás és az úszás örömeinek. A kora reggeli érkezés nyugodtabb partélményt biztosít.", "category": "recreational", "coords": [33.60404, 34.819436]}], "ro": [{"name": "Faros Beach", "text": "Plaja Faros se află în regiunea bisericii Panagia Angeloktisti, oferind o atmosferă liniștită pe coasta cipriotă. Mediul maritim este ideal pentru vizitatorii care doresc să petreacă ore relaxante la malul mării. Aici vă puteți plimba în voie pe țărm sau vă puteți dedica înotului și băilor de soare. O sosire matinală garantează o experiență de plajă mult mai tihnită.", "category": "recreational", "coords": [33.60404, 34.819436]}], "en": [{"name": "Faros Beach", "text": "Found in the region of the Panagia Angeloktisti Church, Faros Beach offers a tranquil atmosphere on the coast of Cyprus. The maritime environment is perfect for visitors looking to spend relaxing hours by the sea. Guests can take leisurely strolls along the shore or fully dedicate themselves to sunbathing and swimming. Arriving early often ensures a more peaceful beach experience.", "category": "recreational", "coords": [33.60404, 34.819436]}]},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Angeloktisti", hu: "Panagia Angeloktisti-templom", ro: "Biserica Panagia Angeloktisti", en: "Panagia Angeloktisti Church" },
@@ -363,52 +318,7 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-agios-sozomenos-ruins-landmarks-v2.webp",
   },
   {
-    id: "cyprus-agios-andronikos-church-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Glapsides Beach",
-                  "text": "Glapsides Beach ist ein Strand bei der Kirche Agios Andronikos.",
-                  "category": "recreational",
-                  "coords": [
-                        33.915624,
-                        35.160188
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Glapsides Beach",
-                  "text": "Glapsides Beach egy strand az Agios Andronikos templom közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        33.915624,
-                        35.160188
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Glapsides Beach",
-                  "text": "Glapsides Beach este o plajă lângă biserica Agios Andronikos.",
-                  "category": "recreational",
-                  "coords": [
-                        33.915624,
-                        35.160188
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Glapsides Beach",
-                  "text": "Glapsides Beach is a beach near the Agios Andronikos church.",
-                  "category": "recreational",
-                  "coords": [
-                        33.915624,
-                        35.160188
-                  ]
-            }
-      ]
-},
+    id: "cyprus-agios-andronikos-church-landmarks-v2", "sights": {"de": [{"name": "Glapsides Beach", "text": "Glapsides Beach begrüßt seine Gäste unweit der Kirche Agios Andronikos mit einem einladenden Küstenstreifen auf Zypern. Die Gegend besticht durch ihre angenehme Strandatmosphäre, die zum Verweilen einlädt. Besucher können sich auf erfrischendes Schwimmen und ausgiebige Sonnenbäder freuen. Für einen unbeschwerten Tag am Meer packt man am besten ausreichend Sonnenschutz ein.", "category": "recreational", "coords": [33.915624, 35.160188]}], "hu": [{"name": "Glapsides Beach", "text": "Az Agios Andronikos templom közelében húzódó Glapsides Beach hívogató partszakasszal várja a Cipruson nyaralókat. A környék kellemes strandolási lehetőségeket kínál, amely hosszabb maradásra ösztönöz. A fürdőzők frissítő úszásra és hosszas napozásra számíthatnak ezen a békés helyen. Érdemes megfelelő napvédelemmel készülni egy felhőtlen tengerparti napra.", "category": "recreational", "coords": [33.915624, 35.160188]}], "ro": [{"name": "Glapsides Beach", "text": "Plaja Glapsides își întâmpină oaspeții nu departe de biserica Agios Andronikos, cu o fâșie de coastă primitoare în Cipru. Zona impresionează prin atmosfera sa plăcută, ideală pentru a zăbovi la soare. Vizitatorii se pot bucura de înot revigorant și de relaxare îndelungată pe țărm. Pentru o zi fără griji la mare, este bine să vă aduceți protecție solară adecvată.", "category": "recreational", "coords": [33.915624, 35.160188]}], "en": [{"name": "Glapsides Beach", "text": "Welcoming guests near the Agios Andronikos Church, Glapsides Beach features an inviting stretch of coastline in Cyprus. The area boasts a pleasant beach atmosphere that encourages visitors to linger and relax. Swimmers and sunbathers can look forward to refreshing dips and long, lazy afternoons by the water. Packing adequate sun protection is advised for a carefree day at the sea.", "category": "recreational", "coords": [33.915624, 35.160188]}]},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Andronikos", hu: "Agios Andronikos-templom", ro: "Biserica Agios Andronikos", en: "Agios Andronikos Church" },

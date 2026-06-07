@@ -46,759 +46,7 @@ export const franceCitiesV2: POI[] = [
       fr: ["Fondée au Ve siècle av. J.-C. comme colonie grecque d'Antipolis", "Le Port Vauban est le premier port de plaisance d'Europe avec 1 500 postes", "Le musée Picasso abrite 245 œuvres de l'artiste", "Le Fort Carré servit de prison à Napoléon au XVIIIe siècle", "Le marché provençal se tient tous les jours sauf le lundi", "Le sentier du littoral mesure 3,7 km de long"],
     },
     image: "/poi-images/france-antibes-cities-v2.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Picasso-Museum",
-                  "text": "Dieses Museum im Château Grimaldi beherbergt eine erstklassige Sammlung von Werken des berühmten Künstlers.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.580833
-                  ]
-            },
-            {
-                  "name": "Fort Carré",
-                  "text": "Eine sternförmige Festung aus dem 16. Jahrhundert mit Panoramablick auf das Mittelmeer und den Luxushafen.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        7.127222,
-                        43.590278
-                  ]
-            },
-            {
-                  "name": "Port Vauban",
-                  "text": "Einer der größten Freizeithäfen Europas, berühmt für seinen Milliardärskai und die prächtigen Yachten.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.126944,
-                        43.586667
-                  ]
-            },
-            {
-                  "name": "Cap d'Antibes",
-                  "text": "Eine atemberaubende Halbinsel, bekannt für ihre Luxusvillen, versteckten Buchten und den Küstenwanderweg.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.123056,
-                        43.58
-                  ]
-            },
-            {
-                  "name": "Kathedrale von Antibes",
-                  "text": "Eine wunderschöne Kathedrale mit markanter Ockerfassade an der Stelle eines antiken griechischen Tempels.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.581111
-                  ]
-            },
-            {
-                  "name": "Marineland Antibes",
-                  "text": "Berühmter Meeres-Themenpark mit Shows von Schwertwalen, Delfinen und vielen anderen Meerestieren.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.125,
-                        43.615
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "Ein leistungsstarker Leuchtturm auf dem Gipfel des Kaps, der eine weite Sicht über die Riviera bietet.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.13306,
-                        43.5642
-                  ]
-            },
-            {
-                  "name": "Kapelle von La Garoupe",
-                  "text": "Eine malerische Wallfahrtskapelle, die für ihre wertvolle Sammlung von Votivgaben der Seefahrer bekannt ist.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.132108,
-                        43.564218
-                  ]
-            },
-            {
-                  "name": "Jardin Botanique de la Villa Thuret",
-                  "text": "Botanischer Garten mit exotischen Pflanzenarten, der von staatlichen Forschungsinstituten verwaltet wird.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.124444,
-                        43.563889
-                  ]
-            },
-            {
-                  "name": "Plage de la Salis",
-                  "text": "Ein beliebter Sandstrand mit flachem Wasser und einem wunderbaren Blick auf die Altstadt von Antibes.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.12872,
-                        43.57056
-                  ]
-            },
-            {
-                  "name": "Sentier du Littoral",
-                  "text": "Ein spektakulärer Küstenpfad, der rund um das malerische Cap d'Antibes entlang der Klippen führt.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.139687,
-                        43.555293
-                  ]
-            },
-            {
-                  "name": "Villa Eilenroc",
-                  "text": "Prachtvolle neoklassizistische Villa mit weitläufigen Gärten, die für die Öffentlichkeit zugänglich sind.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.130054,
-                        43.547828
-                  ]
-            },
-            {
-                  "name": "Otaries de Stellers",
-                  "text": "Ein See in Antibes, der eine ruhige Atmosphäre für Besucher bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
-                  "name": "Urban Aventure",
-                  "text": "Ein spannender Abenteuerspielplatz in Antibes für aktive Familien und Kinder.",
-                  "category": "family",
-                  "coords": [
-                        7.123408,
-                        43.614674
-                  ]
-            },
-            {
-                  "name": "Adventure Golf",
-                  "text": "Ein herausfordernder Minigolfplatz in Antibes, ideal für einen spaßigen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        7.123851,
-                        43.613605
-                  ]
-            },
-            {
-                  "name": "Square Lutetia",
-                  "text": "Ein freundlicher Stadtspielplatz in Antibes, der zum Verweilen und Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.102205,
-                        43.571047
-                  ]
-            },
-            {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "Diese Spielmöglichkeiten am städtischen Schwimmbad in Antibes bieten Spaß für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "Ein schöner Spielbereich in Antibes, ideal für eine pause mit den kindern im freien.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Picasso Múzeum",
-                  "text": "A Château Grimaldi épületében található múzeum a híres művész alkotásainak világszínvonalú gyűjteményét őrzi.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.580833
-                  ]
-            },
-            {
-                  "name": "Fort Carré",
-                  "text": "16. századi csillag alakú erőd, amely panorámás kilátást nyújt a Földközi-tengerre és a luxuskikötőre.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        7.127222,
-                        43.590278
-                  ]
-            },
-            {
-                  "name": "Port Vauban",
-                  "text": "Európa egyik legnagyobb jachtkikötője, amely a Milliárdosok rakpartjáról és lenyűgöző jachtjairól híres.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.126944,
-                        43.586667
-                  ]
-            },
-            {
-                  "name": "Cap d'Antibes",
-                  "text": "Lenyűgöző félsziget, amely luxusvilláiról, rejtett öbleiről és a látványos tengerparti ösvényről ismert.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.123056,
-                        43.58
-                  ]
-            },
-            {
-                  "name": "Antibes-i katedrális",
-                  "text": "Gyönyörű katedrális jellegzetes okkersárga homlokzattal, amely egy ókori görög templom helyén áll.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.581111
-                  ]
-            },
-            {
-                  "name": "Marineland Antibes",
-                  "text": "Európa egyik legnagyobb tengeri vidámparkja gyilkos bálna- és delfinshow-kkal.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.125,
-                        43.615
-                  ]
-            },
-            {
-                  "name": "Garoupe-világítótorony",
-                  "text": "A félsziget legmagasabb pontján álló jelzőtorony, ahonnan belátható az egész francia Riviéra.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.13306,
-                        43.5642
-                  ]
-            },
-            {
-                  "name": "Garoupe-kápolna",
-                  "text": "Történelmi zarándokhely, ahol a tengerészek által felajánlott különleges fogadalmi ajándékok láthatók.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.132108,
-                        43.564218
-                  ]
-            },
-            {
-                  "name": "Villa Thuret botanikus kert",
-                  "text": "Egzotikus növényfajokat bemutató tudományos kert, amelyet még a 19. században alapítottak.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.124444,
-                        43.563889
-                  ]
-            },
-            {
-                  "name": "Plage de la Salis",
-                  "text": "Antibes egyik legszebb homokos strandja, ahonnan kiváló kilátás nyílik az óváros bástyáira.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.12872,
-                        43.57056
-                  ]
-            },
-            {
-                  "name": "Part menti sétány",
-                  "text": "Látványos gyalogút a sziklák mentén, amely megkerüli a Cap d'Antibes luxusvillákkal övezett partját.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.139687,
-                        43.555293
-                  ]
-            },
-            {
-                  "name": "Villa Eilenroc",
-                  "text": "Pazar neoklasszicista kastély és kert, amely a Riviéra aranykorának eleganciáját idézi.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.130054,
-                        43.547828
-                  ]
-            },
-            {
-                  "name": "Otaries de Stellers",
-                  "text": "Egy tó Antibes-ben, amely nyugodt légkört kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
-                  "name": "Urban Aventure",
-                  "text": "Egy izgalmas kalandjátszótér Antibes-ben az aktív családok és gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        7.123408,
-                        43.614674
-                  ]
-            },
-            {
-                  "name": "Adventure Golf",
-                  "text": "Egy kihívást jelentő minigolfpálya Antibes-ben, ideális egy vidám családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        7.123851,
-                        43.613605
-                  ]
-            },
-            {
-                  "name": "Square Lutetia",
-                  "text": "Egy barátságos városi játszótér Antibes-ben, amely pihenésre és játékra hív.",
-                  "category": "family",
-                  "coords": [
-                        7.102205,
-                        43.571047
-                  ]
-            },
-            {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "Az antibes-i városi uszodánál található játéklehetőségek szórakozást nyújtanak a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "Egy szép játszóhely Antibes-ben, ideális egy szabadtéri pihenőhöz a gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzeul Picasso",
-                  "text": "Situat în Château Grimaldi, acest muzeu găzduiește o colecție de clasă mondială a operelor celebrului artist.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.580833
-                  ]
-            },
-            {
-                  "name": "Fort Carré",
-                  "text": "O fortăreață în formă de stea din secolul al XVI-lea, oferind vederi panoramice asupra Mediteranei.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        7.127222,
-                        43.590278
-                  ]
-            },
-            {
-                  "name": "Port Vauban",
-                  "text": "Unul dintre cele mai mari porturi de agrement din Europa, faimos pentru Digul Miliardarilor și iahturile sale.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.126944,
-                        43.586667
-                  ]
-            },
-            {
-                  "name": "Cap d'Antibes",
-                  "text": "O peninsulă uimitoare cunoscută pentru vilele sale de lux, golfurile ascunse și poteca Sentier du Littoral.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.123056,
-                        43.58
-                  ]
-            },
-            {
-                  "name": "Catedrala din Antibes",
-                  "text": "O catedrală frumoasă cu o fațadă ocru distinctivă, ridicată pe locul unui vechi templu grecesc.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.581111
-                  ]
-            },
-            {
-                  "name": "Marineland Antibes",
-                  "text": "Un faimos parc marin ce oferă spectacole cu balene ucigașe, delfini și o varietate de specii marine.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.125,
-                        43.615
-                  ]
-            },
-            {
-                  "name": "Farul Garoupe",
-                  "text": "Un far maritim puternic situat pe colina Cap d'Antibes, oferind o panoramă vastă asupra Rivierei.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.13306,
-                        43.5642
-                  ]
-            },
-            {
-                  "name": "Capela Garoupe",
-                  "text": "Lăcaș de cult istoric, renumit pentru colecția sa de ofrande votive lăsate de marinarii locali.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.132108,
-                        43.564218
-                  ]
-            },
-            {
-                  "name": "Grădina Botanică Villa Thuret",
-                  "text": "Spațiu științific ce găzduiește numeroase specii de plante exotice aclimatizate pe Coasta de Azur.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.124444,
-                        43.563889
-                  ]
-            },
-            {
-                  "name": "Plaja Salis",
-                  "text": "Plajă populară cu nisip fin, oferind o vedere spectaculoasă spre zidurile vechiului oraș.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.12872,
-                        43.57056
-                  ]
-            },
-            {
-                  "name": "Sentier du Littoral",
-                  "text": "Potecă de coastă impresionantă ce șerpuiește de-a lungul stâncilor din jurul Cap d'Antibes.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.139687,
-                        43.555293
-                  ]
-            },
-            {
-                  "name": "Villa Eilenroc",
-                  "text": "Vila neoclasică magnifică, înconjurată de grădini luxuriante deschise vizitatorilor în anumite zile.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.130054,
-                        43.547828
-                  ]
-            },
-            {
-                  "name": "Otaries de Stellers",
-                  "text": "Un lac în Antibes, care oferă o atmosferă liniștită pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
-                  "name": "Urban Aventure",
-                  "text": "Un loc de joacă de aventură interesant în Antibes pentru familii și copii activi.",
-                  "category": "family",
-                  "coords": [
-                        7.123408,
-                        43.614674
-                  ]
-            },
-            {
-                  "name": "Adventure Golf",
-                  "text": "Un teren de minigolf provocator în Antibes, ideal pentru o excursie distractivă în familie.",
-                  "category": "family",
-                  "coords": [
-                        7.123851,
-                        43.613605
-                  ]
-            },
-            {
-                  "name": "Square Lutetia",
-                  "text": "Un loc de joacă urban prietenos în Antibes, care invită la relaxare și joacă.",
-                  "category": "family",
-                  "coords": [
-                        7.102205,
-                        43.571047
-                  ]
-            },
-            {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "Aceste facilități de joacă de la piscina municipală din Antibes oferă distracție pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "O zonă de joacă frumoasă în Antibes, ideală pentru o pauză în aer liber cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Picasso Museum",
-                  "text": "Located in the Château Grimaldi, this museum houses a world-class collection of works by the famous artist.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.580833
-                  ]
-            },
-            {
-                  "name": "Fort Carré",
-                  "text": "A 16th-century star-shaped fortress offering panoramic views of the Mediterranean and the luxury harbor.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        7.127222,
-                        43.590278
-                  ]
-            },
-            {
-                  "name": "Port Vauban",
-                  "text": "One of the largest pleasure ports in Europe, famous for its Billionaires' Quay and magnificent yachts.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.126944,
-                        43.586667
-                  ]
-            },
-            {
-                  "name": "Cap d'Antibes",
-                  "text": "A stunning peninsula known for its luxury villas, hidden coves, and the scenic Sentier du Littoral path.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.123056,
-                        43.58
-                  ]
-            },
-            {
-                  "name": "Antibes Cathedral",
-                  "text": "A beautiful cathedral with a distinctive ochre facade, standing on the site of an ancient Greek temple.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.128333,
-                        43.581111
-                  ]
-            },
-            {
-                  "name": "Marineland Antibes",
-                  "text": "Famous marine theme park featuring shows with killer whales, dolphins, and diverse sea life.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.125,
-                        43.615
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "A powerful lighthouse situated at the top of the cape, offering vast views over the Riviera.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.13306,
-                        43.5642
-                  ]
-            },
-            {
-                  "name": "Chapelle de la Garoupe",
-                  "text": "A picturesque pilgrimage chapel known for its collection of maritime ex-voto offerings.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.132108,
-                        43.564218
-                  ]
-            },
-            {
-                  "name": "Villa Thuret Botanical Garden",
-                  "text": "Scientific garden managed by INRA, hosting a wide variety of exotic and rare plant species.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.124444,
-                        43.563889
-                  ]
-            },
-            {
-                  "name": "Plage de la Salis",
-                  "text": "A popular sandy beach with shallow waters and a beautiful view of the Antibes old town.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.12872,
-                        43.57056
-                  ]
-            },
-            {
-                  "name": "Sentier du Littoral",
-                  "text": "Stunning coastal walking path that winds along the cliffs around the scenic Cap d'Antibes.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.139687,
-                        43.555293
-                  ]
-            },
-            {
-                  "name": "Villa Eilenroc",
-                  "text": "Magnificent neoclassical villa with beautiful public gardens representing the Belle Époque.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.130054,
-                        43.547828
-                  ]
-            },
-            {
-                  "name": "Otaries de Stellers",
-                  "text": "A lake in Antibes, offering a peaceful atmosphere for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
-                  "name": "Urban Aventure",
-                  "text": "An exciting adventure playground in Antibes for active families and children.",
-                  "category": "family",
-                  "coords": [
-                        7.123408,
-                        43.614674
-                  ]
-            },
-            {
-                  "name": "Adventure Golf",
-                  "text": "A challenging mini golf course in Antibes, ideal for a fun family outing.",
-                  "category": "family",
-                  "coords": [
-                        7.123851,
-                        43.613605
-                  ]
-            },
-            {
-                  "name": "Square Lutetia",
-                  "text": "A friendly urban playground in Antibes, inviting for relaxation and play.",
-                  "category": "family",
-                  "coords": [
-                        7.102205,
-                        43.571047
-                  ]
-            },
-            {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "These play facilities at the municipal swimming pool in Antibes offer fun for children.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "A beautiful play area in Antibes, ideal for an outdoor break with the children.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Musée Picasso",
-                  "text": "Installé au château Grimaldi, ce musée présente une collection de premier plan des œuvres du célèbre artiste.",
-                  "category": "museum",
-                  "coords": [
-                        7.128333,
-                        43.580833
-                  ]
-            },
-            {
-                  "name": "Fort Carré",
-                  "text": "Forteresse en forme d'étoile du XVIe siècle, offrant une vue panoramique sur la Méditerranée et le port de luxe.",
-                  "category": "fortress",
-                  "coords": [
-                        7.127222,
-                        43.590278
-                  ]
-            },
-            {
-                  "name": "Port Vauban",
-                  "text": "L'un des plus grands ports de plaisance d'Europe, célèbre pour son quai des milliardaires et ses yachts somptueux.",
-                  "category": "civic",
-                  "coords": [
-                        7.126944,
-                        43.586667
-                  ]
-            },
-            {
-                  "name": "Cap d'Antibes",
-                  "text": "Presqu'île éblouissante, réputée pour ses villas de luxe, ses criques cachées et son sentier littoral.",
-                  "category": "natural",
-                  "coords": [
-                        7.123056,
-                        43.58
-                  ]
-            },
-            {
-                  "name": "Cathédrale d'Antibes",
-                  "text": "Belle cathédrale à la façade ocre caractéristique, bâtie sur les ruines d'un ancien temple grec.",
-                  "category": "religious",
-                  "coords": [
-                        7.128333,
-                        43.581111
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Picasso-Museum", "text": "Dieses Museum im Château Grimaldi beherbergt eine erstklassige Sammlung von Werken des berühmten Künstlers.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Eine sternförmige Festung aus dem 16. Jahrhundert mit Panoramablick auf das Mittelmeer und den Luxushafen.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Einer der größten Freizeithäfen Europas, berühmt für seinen Milliardärskai und die prächtigen Yachten.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Eine atemberaubende Halbinsel, bekannt für ihre Luxusvillen, versteckten Buchten und den Küstenwanderweg.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Kathedrale von Antibes", "text": "Eine wunderschöne Kathedrale mit markanter Ockerfassade an der Stelle eines antiken griechischen Tempels.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Berühmter Meeres-Themenpark mit Shows von Schwertwalen, Delfinen und vielen anderen Meerestieren.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Phare de la Garoupe", "text": "Ein leistungsstarker Leuchtturm auf dem Gipfel des Kaps, der eine weite Sicht über die Riviera bietet.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Kapelle von La Garoupe", "text": "Eine malerische Wallfahrtskapelle, die für ihre wertvolle Sammlung von Votivgaben der Seefahrer bekannt ist.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Jardin Botanique de la Villa Thuret", "text": "Botanischer Garten mit exotischen Pflanzenarten, der von staatlichen Forschungsinstituten verwaltet wird.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "Mit einem wunderbaren Blick auf die historische Altstadt von Antibes lädt dieser beliebte Sandstrand zum Verweilen ein. Das flache Wasser sorgt für eine einladende Umgebung, die besonders bei Familien und entspannten Badegästen großen Anklang findet. Man kann hier die malerische Aussicht genießen, gemütlich planschen oder sich einfach im warmen Sand sonnen. An sonnigen Tagen füllt sich der Strand schnell, weshalb ein morgendlicher Besuch ratsam ist.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Ein spektakulärer Küstenpfad, der rund um das malerische Cap d'Antibes entlang der Klippen führt.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Prachtvolle neoklassizistische Villa mit weitläufigen Gärten, die für die Öffentlichkeit zugänglich sind.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Ein See in Antibes, der eine ruhige Atmosphäre für Besucher bietet.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Ein spannender Abenteuerspielplatz in Antibes für aktive Familien und Kinder.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Ein herausfordernder Minigolfplatz in Antibes, ideal für einen spaßigen Familienausflug.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Ein freundlicher Stadtspielplatz in Antibes, der zum Verweilen und Spielen einlädt.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Diese Spielmöglichkeiten am städtischen Schwimmbad in Antibes bieten Spaß für Kinder.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "Ein schöner Spielbereich in Antibes, ideal für eine pause mit den kindern im freien.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra ist ein Strandresort in Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Der Antibes Land Park ist ein Freizeitpark in Antibes. Hier gibt es viele Attraktionen für Familien mit Kindern.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Die Piscine Les Mimosas ist ein Schwimmbad in Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié ist ein Schwimmbad in Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "hu": [{"name": "Picasso Múzeum", "text": "A Château Grimaldi épületében található múzeum a híres művész alkotásainak világszínvonalú gyűjteményét őrzi.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "16. századi csillag alakú erőd, amely panorámás kilátást nyújt a Földközi-tengerre és a luxuskikötőre.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Európa egyik legnagyobb jachtkikötője, amely a Milliárdosok rakpartjáról és lenyűgöző jachtjairól híres.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Lenyűgöző félsziget, amely luxusvilláiról, rejtett öbleiről és a látványos tengerparti ösvényről ismert.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Antibes-i katedrális", "text": "Gyönyörű katedrális jellegzetes okkersárga homlokzattal, amely egy ókori görög templom helyén áll.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Európa egyik legnagyobb tengeri vidámparkja gyilkos bálna- és delfinshow-kkal.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Garoupe-világítótorony", "text": "A félsziget legmagasabb pontján álló jelzőtorony, ahonnan belátható az egész francia Riviéra.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Garoupe-kápolna", "text": "Történelmi zarándokhely, ahol a tengerészek által felajánlott különleges fogadalmi ajándékok láthatók.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Villa Thuret botanikus kert", "text": "Egzotikus növényfajokat bemutató tudományos kert, amelyet még a 19. században alapítottak.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "Az Antibes történelmi óvárosára nyíló csodálatos kilátással ez a népszerű homokos strand maradásra csábít. A sekély víz hívogató környezetet teremt, amely különösen a családok és a pihenni vágyó fürdőzők körében örvend nagy népszerűségnek. Itt élvezheti a festői kilátást, kényelmesen pancsolhat, vagy egyszerűen csak napozhat a meleg homokban. Napsütéses napokon a strand gyorsan megtelik, ezért érdemes reggel érkezni.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Part menti sétány", "text": "Látványos gyalogút a sziklák mentén, amely megkerüli a Cap d'Antibes luxusvillákkal övezett partját.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Pazar neoklasszicista kastély és kert, amely a Riviéra aranykorának eleganciáját idézi.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Egy tó Antibes-ben, amely nyugodt légkört kínál a látogatóknak.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Egy izgalmas kalandjátszótér Antibes-ben az aktív családok és gyerekek számára.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Egy kihívást jelentő minigolfpálya Antibes-ben, ideális egy vidám családi kiránduláshoz.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Egy barátságos városi játszótér Antibes-ben, amely pihenésre és játékra hív.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Az antibes-i városi uszodánál található játéklehetőségek szórakozást nyújtanak a gyerekeknek.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "Egy szép játszóhely Antibes-ben, ideális egy szabadtéri pihenőhöz a gyerekekkel.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "A Hydra egy tengerparti üdülőhely Antibes városában.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Az Antibes Land Park egy vidámpark Antibes városában. Számos látnivalót kínál a gyermekes családok számára.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "A Piscine Les Mimosas egy uszoda Antibes városában.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "A Le Moustié egy uszoda Antibes városában.", "category": "family", "coords": [7.0971, 43.592315]}], "ro": [{"name": "Muzeul Picasso", "text": "Situat în Château Grimaldi, acest muzeu găzduiește o colecție de clasă mondială a operelor celebrului artist.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "O fortăreață în formă de stea din secolul al XVI-lea, oferind vederi panoramice asupra Mediteranei.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Unul dintre cele mai mari porturi de agrement din Europa, faimos pentru Digul Miliardarilor și iahturile sale.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "O peninsulă uimitoare cunoscută pentru vilele sale de lux, golfurile ascunse și poteca Sentier du Littoral.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Catedrala din Antibes", "text": "O catedrală frumoasă cu o fațadă ocru distinctivă, ridicată pe locul unui vechi templu grecesc.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Un faimos parc marin ce oferă spectacole cu balene ucigașe, delfini și o varietate de specii marine.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Farul Garoupe", "text": "Un far maritim puternic situat pe colina Cap d'Antibes, oferind o panoramă vastă asupra Rivierei.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Capela Garoupe", "text": "Lăcaș de cult istoric, renumit pentru colecția sa de ofrande votive lăsate de marinarii locali.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Grădina Botanică Villa Thuret", "text": "Spațiu științific ce găzduiește numeroase specii de plante exotice aclimatizate pe Coasta de Azur.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plaja Salis", "text": "Cu o vedere minunată asupra centrului istoric din Antibes, această plajă populară cu nisip vă invită să zăboviți. Apa puțin adâncă creează un mediu primitor, care este deosebit de apreciat de familii și de cei care doresc să se relaxeze. Aici vă puteți bucura de priveliștea pitorească, vă puteți bălăci în voie sau pur și simplu puteți face plajă pe nisipul cald. În zilele însorite plaja se umple rapid, așa că o vizită matinală este recomandabilă.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Potecă de coastă impresionantă ce șerpuiește de-a lungul stâncilor din jurul Cap d'Antibes.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Vila neoclasică magnifică, înconjurată de grădini luxuriante deschise vizitatorilor în anumite zile.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Un lac în Antibes, care oferă o atmosferă liniștită pentru vizitatori.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Un loc de joacă de aventură interesant în Antibes pentru familii și copii activi.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Un teren de minigolf provocator în Antibes, ideal pentru o excursie distractivă în familie.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Un loc de joacă urban prietenos în Antibes, care invită la relaxare și joacă.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Aceste facilități de joacă de la piscina municipală din Antibes oferă distracție pentru copii.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "O zonă de joacă frumoasă în Antibes, ideală pentru o pauză în aer liber cu copiii.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra este o stațiune balneară situată în Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Antibes Land Park este un parc tematic în Antibes. Există multe atracții pentru familiile cu copii.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Piscine Les Mimosas este un bazin de înot situat în Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié este un bazin de înot situat în Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "en": [{"name": "Picasso Museum", "text": "Located in the Château Grimaldi, this museum houses a world-class collection of works by the famous artist.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "A 16th-century star-shaped fortress offering panoramic views of the Mediterranean and the luxury harbor.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "One of the largest pleasure ports in Europe, famous for its Billionaires' Quay and magnificent yachts.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "A stunning peninsula known for its luxury villas, hidden coves, and the scenic Sentier du Littoral path.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Antibes Cathedral", "text": "A beautiful cathedral with a distinctive ochre facade, standing on the site of an ancient Greek temple.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Famous marine theme park featuring shows with killer whales, dolphins, and diverse sea life.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Phare de la Garoupe", "text": "A powerful lighthouse situated at the top of the cape, offering vast views over the Riviera.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Chapelle de la Garoupe", "text": "A picturesque pilgrimage chapel known for its collection of maritime ex-voto offerings.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Villa Thuret Botanical Garden", "text": "Scientific garden managed by INRA, hosting a wide variety of exotic and rare plant species.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "With a wonderful view of the historic old town of Antibes, this popular sandy beach invites you to linger. The shallow water ensures a welcoming environment that is especially well-received by families and relaxed bathers. You can enjoy the picturesque outlook, splash around comfortably, or simply sunbathe on the warm sand. On sunny days, the beach fills up quickly, making a morning visit advisable.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Stunning coastal walking path that winds along the cliffs around the scenic Cap d'Antibes.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Magnificent neoclassical villa with beautiful public gardens representing the Belle Époque.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "A lake in Antibes, offering a peaceful atmosphere for visitors.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "An exciting adventure playground in Antibes for active families and children.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "A challenging mini golf course in Antibes, ideal for a fun family outing.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "A friendly urban playground in Antibes, inviting for relaxation and play.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "These play facilities at the municipal swimming pool in Antibes offer fun for children.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "A beautiful play area in Antibes, ideal for an outdoor break with the children.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra is a beach resort located in Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Antibes Land Park is a theme park located in Antibes. There are many attractions for families with children here.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Piscine Les Mimosas is a swimming pool located in Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié is a swimming pool located in Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "fr": [{"name": "Musée Picasso", "text": "Installé au château Grimaldi, ce musée présente une collection de premier plan des œuvres du célèbre artiste.", "category": "museum", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Forteresse en forme d'étoile du XVIe siècle, offrant une vue panoramique sur la Méditerranée et le port de luxe.", "category": "fortress", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "L'un des plus grands ports de plaisance d'Europe, célèbre pour son quai des milliardaires et ses yachts somptueux.", "category": "civic", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Presqu'île éblouissante, réputée pour ses villas de luxe, ses criques cachées et son sentier littoral.", "category": "natural", "coords": [7.123056, 43.58]}, {"name": "Cathédrale d'Antibes", "text": "Belle cathédrale à la façade ocre caractéristique, bâtie sur les ruines d'un ancien temple grec.", "category": "religious", "coords": [7.128333, 43.581111]}]}
   },
   
   {
@@ -846,681 +94,7 @@ export const franceCitiesV2: POI[] = [
       fr: ["Lieu de naissance de Napoléon Bonaparte en 1769", "Fondée par les Génois en 1492", "Préfecture du département de la Corse-du-Sud", "La superficie de la commune est de 82,03 km²", "Le point culminant se situe à 807 mètres d'altitude", "Abrite le palais Fesch, musée des beaux-arts (art italien)"],
     },
     image: "/poi-images/france-ajaccio-cities-v2.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Maison Bonaparte",
-                  "text": "Das Geburtshaus von Napoleon Bonaparte ist heute ein Nationalmuseum, das die Geschichte der Familie zeigt.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.73857,
-                        41.91803
-                  ]
-            },
-            {
-                  "name": "Kathedrale von Ajaccio",
-                  "text": "Eine barocke Kathedrale aus dem 16. Jahrhundert, in der Napoleon Bonaparte im Jahr 1771 getauft wurde.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.737961,
-                        41.917495
-                  ]
-            },
-            {
-                  "name": "Musée Fesch",
-                  "text": "Dieses bedeutende Kunstmuseum beherbergt eine der wichtigsten Sammlungen italienischer Malerei in ganz Frankreich.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.738333,
-                        41.921667
-                  ]
-            },
-            {
-                  "name": "Place Foch",
-                  "text": "Ein zentraler Platz am Hafen, geschmückt mit einer Marmorstatue von Napoleon als römischem Konsul.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738869,
-                        41.918943
-                  ]
-            },
-            {
-                  "name": "Citadelle d'Ajaccio",
-                  "text": "Eine historische Festung aus der Zeit der Genuesen, die den Hafen von Ajaccio seit Jahrhunderten bewacht.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        8.740278,
-                        41.916667
-                  ]
-            },
-            {
-                  "name": "Place Casone",
-                  "text": "Ein monumentaler Platz mit einem großen Denkmal für Napoleon, am Ende einer prächtigen Allee gelegen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.723622,
-                        41.916512
-                  ]
-            },
-            {
-                  "name": "Îles Sanguinaires",
-                  "text": "Vier Inseln aus rotem Porphyr am Eingang der Bucht, bekannt für ihre spektakulären Sonnenuntergänge.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.71084,
-                        41.908895
-                  ]
-            },
-            {
-                  "name": "Chapelle Impériale",
-                  "text": "Die 1857 unter Napoleon III. erbaute Kapelle beherbergt die Gräber von Napoleons Eltern und anderen Familienmitgliedern.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.73855,
-                        41.92177
-                  ]
-            },
-            {
-                  "name": "Palais Lantivy",
-                  "text": "Ein neoklassizistisches Gebäude aus dem 19. Jahrhundert, das heute als Sitz der Präfektur von Korsika dient.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.7361,
-                        41.9197
-                  ]
-            },
-            {
-                  "name": "Place de Gaulle",
-                  "text": "Der zentrale Platz der Stadt, auch Place du Diamant genannt, beherbergt ein monumentales Denkmal für Napoleon Bonaparte.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.735167,
-                        41.918185
-                  ]
-            },
-            {
-                  "name": "Marché d'Ajaccio",
-                  "text": "Ein lebhafter Markt am Place Foch, bekannt für korsische Spezialitäten wie Lonzu, Coppa und verschiedene Käsesorten.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        8.724286,
-                        41.912973
-                  ]
-            },
-            {
-                  "name": "Sentier des Crêtes",
-                  "text": "Ein beliebter Wanderweg oberhalb der Stadt, der spektakuläre Ausblicke auf den Golf von Ajaccio und die Küste bietet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.723639,
-                        41.919193
-                  ]
-            },
-            {
-                  "name": "Bibliothèque Municipale",
-                  "text": "Diese im Rathaus untergebrachte Bibliothek besitzt eine bedeutende Sammlung antiker Bücher und seltener napoleonischer Dokumente.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        8.738536,
-                        41.922183
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville d'Ajaccio",
-                  "text": "Das elegante Rathaus am Hafen beherbergt den Salon Napoléonien mit Porträts und persönlichen Gegenständen der kaiserlichen Familie.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738986,
-                        41.919299
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-François",
-                  "text": "Ein malerischer Stadtstrand direkt unterhalb der Zitadelle, ideal für einen schnellen Sprung ins kristallklare Mittelmeer.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        8.737564,
-                        41.916539
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Maison Bonaparte",
-                  "text": "Napóleon szülőháza, amely ma nemzeti múzeumként mutatja be a Bonaparte család korzikai életét.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.73857,
-                        41.91803
-                  ]
-            },
-            {
-                  "name": "Ajaccioi katedrális",
-                  "text": "16. századi barokk székesegyház, ahol 1771-ben megkeresztelték a későbbi francia császárt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.737961,
-                        41.917495
-                  ]
-            },
-            {
-                  "name": "Musée Fesch",
-                  "text": "Fesch kardinális által alapított szépművészeti múzeum, kiemelkedő olasz reneszánsz festészeti gyűjteménnyel.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.738333,
-                        41.921667
-                  ]
-            },
-            {
-                  "name": "Place Foch",
-                  "text": "A város egyik főtere a pálmafákkal és Napóleon szobrával, közel a régi kikötőhöz.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738869,
-                        41.918943
-                  ]
-            },
-            {
-                  "name": "Ajaccioi citadella",
-                  "text": "A 16. században épült genovai erődítmény, amely ma is meghatározza a tengerpart látképét.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        8.740278,
-                        41.916667
-                  ]
-            },
-            {
-                  "name": "Place Casone",
-                  "text": "Hatalmas emlékmű és tér, ahol a helyiek Napóleon dicsőségére emlékeznek a város felett.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.723622,
-                        41.916512
-                  ]
-            },
-            {
-                  "name": "Sanguinaires-szigetek",
-                  "text": "Vörös szikláiról híres szigetcsoport az öböl bejáratánál, népszerű kirándulóhely és világítótorony.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.71084,
-                        41.908895
-                  ]
-            },
-            {
-                  "name": "Császári kápolna",
-                  "text": "A III. Napóleon által 1857-ben építtetett kápolna Napóleon szüleinek és a család több tagjának sírhelyét őrzi.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.73855,
-                        41.92177
-                  ]
-            },
-            {
-                  "name": "Palais Lantivy",
-                  "text": "19. századi neoklasszicista épület, amely jelenleg Korzika prefektúrájának és közigazgatási központjának ad otthont.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.7361,
-                        41.9197
-                  ]
-            },
-            {
-                  "name": "Place de Gaulle",
-                  "text": "A város központi tere, amelyet Gyémánt térnek is neveznek, Napóleon monumentális emlékművéről és tengeri kilátásáról ismert.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.735167,
-                        41.918185
-                  ]
-            },
-            {
-                  "name": "Ajaccioi piac",
-                  "text": "A Place Foch mellett található nyüzsgő piac, ahol autentikus korzikai termékeket, sajtokat és felvágottakat kínálnak.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        8.724286,
-                        41.912973
-                  ]
-            },
-            {
-                  "name": "Sentier des Crêtes",
-                  "text": "Népszerű túraútvonal a város felett, amely lenyűgöző panorámát nyújt az Ajaccioi-öbölre és a környező hegyekre.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.723639,
-                        41.919193
-                  ]
-            },
-            {
-                  "name": "Városi Könyvtár",
-                  "text": "A városházán található intézmény értékes antik könyvgyűjteménnyel és Napóleon korából származó ritka iratokkal rendelkezik.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        8.738536,
-                        41.922183
-                  ]
-            },
-            {
-                  "name": "Ajaccioi városháza",
-                  "text": "A kikötőre néző elegáns épület Napóleon-termében a császári család személyes tárgyait és portréit állították ki.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738986,
-                        41.919299
-                  ]
-            },
-            {
-                  "name": "Plage de Saint-François",
-                  "text": "Közvetlenül a citadella alatt fekvő városi homokos strand, amely könnyen elérhető és tiszta kék vízzel várja a látogatókat.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        8.737564,
-                        41.916539
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Maison Bonaparte",
-                  "text": "Casa natală a lui Napoleon Bonaparte, transformată în muzeu național dedicat istoriei familiei sale.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.73857,
-                        41.91803
-                  ]
-            },
-            {
-                  "name": "Catedrala din Ajaccio",
-                  "text": "O catedrală barocă din secolul al XVI-lea, celebră pentru a fi locul unde a fost botezat Napoleon.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.737961,
-                        41.917495
-                  ]
-            },
-            {
-                  "name": "Musée Fesch",
-                  "text": "Muzeul de artă fondat de cardinalul Fesch, deținând una dintre cele mai mari colecții de pictură italiană.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.738333,
-                        41.921667
-                  ]
-            },
-            {
-                  "name": "Place Foch",
-                  "text": "Piața centrală decorată cu palmieri și o fântână cu statuia lui Napoleon înconjurat de patru lei.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738869,
-                        41.918943
-                  ]
-            },
-            {
-                  "name": "Citadela din Ajaccio",
-                  "text": "O fortăreață istorică construită de genovezi, oferind o vedere strategică asupra golfului Ajaccio.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        8.740278,
-                        41.916667
-                  ]
-            },
-            {
-                  "name": "Place Casone",
-                  "text": "Cunoscută și sub numele de Place d'Austerlitz, găzduiește un monument impunător dedicat împăratului Napoleon.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.723622,
-                        41.916512
-                  ]
-            },
-            {
-                  "name": "Insulele Sanguinaires",
-                  "text": "Un arhipelag de insule stâncoase roșiatice, faimoase pentru peisajele sălbatice și apusurile memorabile.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.71084,
-                        41.908895
-                  ]
-            },
-            {
-                  "name": "Capela Imperială",
-                  "text": "Construită în 1857 de Napoleon al III-lea, această capelă adăpostește mormintele părinților lui Napoleon și ale altor membri ai familiei.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.73855,
-                        41.92177
-                  ]
-            },
-            {
-                  "name": "Palais Lantivy",
-                  "text": "O clădire neoclasică impunătoare din secolul al XIX-lea, care servește drept sediu al Prefecturii Corsicii.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.7361,
-                        41.9197
-                  ]
-            },
-            {
-                  "name": "Piața de Gaulle",
-                  "text": "Cunoscută și sub numele de Piața Diamantului, este centrul orașului și găzduiește un monument grandios dedicat lui Napoleon.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.735167,
-                        41.918185
-                  ]
-            },
-            {
-                  "name": "Piața din Ajaccio",
-                  "text": "O piață tradițională vibrantă lângă Place Foch, renumită pentru delicatese corsicane precum brânzeturi și mezeluri artizanale.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        8.724286,
-                        41.912973
-                  ]
-            },
-            {
-                  "name": "Sentier des Crêtes",
-                  "text": "Un traseu de drumeție popular deasupra orașului, oferind vederi spectaculoase asupra Golfului Ajaccio și a țărmului stâncos.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.723639,
-                        41.919193
-                  ]
-            },
-            {
-                  "name": "Biblioteca Municipală",
-                  "text": "Găzduită în clădirea primăriei, deține o colecție impresionantă de cărți vechi și manuscrise rare din epoca napoleoniană.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        8.738536,
-                        41.922183
-                  ]
-            },
-            {
-                  "name": "Primăria din Ajaccio",
-                  "text": "O clădire elegantă în port care include Salonul Napoleonian, un muzeu dedicat suvenirurilor și istoriei familiei Bonaparte.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738986,
-                        41.919299
-                  ]
-            },
-            {
-                  "name": "Plaja Saint-François",
-                  "text": "O plajă urbană pitorească situată chiar sub zidurile cetății, oferind acces rapid la apele cristaline ale Mediteranei.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        8.737564,
-                        41.916539
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Maison Bonaparte",
-                  "text": "The ancestral home of the Bonaparte family, where Napoleon was born in 1769, now a national museum.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.73857,
-                        41.91803
-                  ]
-            },
-            {
-                  "name": "Ajaccio Cathedral",
-                  "text": "A 16th-century Renaissance cathedral where Napoleon Bonaparte was baptized on July 21, 1771.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.737961,
-                        41.917495
-                  ]
-            },
-            {
-                  "name": "Musée Fesch",
-                  "text": "An exceptional fine arts museum established by Cardinal Fesch, featuring a vast collection of Italian masters.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.738333,
-                        41.921667
-                  ]
-            },
-            {
-                  "name": "Place Foch",
-                  "text": "A charming square lined with palm trees and a statue of Napoleon, located in the heart of the Old Town.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738869,
-                        41.918943
-                  ]
-            },
-            {
-                  "name": "Ajaccio Citadel",
-                  "text": "A historic fortress built during the Genoese period to defend the city against maritime invasions.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        8.740278,
-                        41.916667
-                  ]
-            },
-            {
-                  "name": "Place Casone",
-                  "text": "A large public square featuring a monumental statue of Napoleon and a cave where he supposedly played as a child.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        8.723622,
-                        41.916512
-                  ]
-            },
-            {
-                  "name": "Sanguinaires Islands",
-                  "text": "A group of four crimson-hued islands at the tip of the gulf, offering stunning views and a lighthouse.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.71084,
-                        41.908895
-                  ]
-            },
-            {
-                  "name": "Imperial Chapel",
-                  "text": "Built in 1857 by Napoleon III, this chapel houses the tombs of Napoleon's parents and several family members.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        8.73855,
-                        41.92177
-                  ]
-            },
-            {
-                  "name": "Palais Lantivy",
-                  "text": "A grand 19th-century neoclassical building that currently serves as the headquarters of the Corsican Prefecture.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.7361,
-                        41.9197
-                  ]
-            },
-            {
-                  "name": "Place de Gaulle",
-                  "text": "The city's main square, also called Place du Diamant, featuring a monumental statue of Napoleon and his brothers.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.735167,
-                        41.918185
-                  ]
-            },
-            {
-                  "name": "Ajaccio Market",
-                  "text": "A lively open-air market near Place Foch, famous for local Corsican products like cured meats, honey, and sheep cheese.",
-                  "category": "culinary",
-                  "confidence": "high",
-                  "coords": [
-                        8.724286,
-                        41.912973
-                  ]
-            },
-            {
-                  "name": "Sentier des Crêtes",
-                  "text": "A scenic hiking trail above the city offering panoramic views of the Gulf of Ajaccio and the surrounding coastline.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        8.723639,
-                        41.919193
-                  ]
-            },
-            {
-                  "name": "Municipal Library",
-                  "text": "Located within the Town Hall, it preserves a magnificent collection of ancient books and rare Napoleonic documents.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        8.738536,
-                        41.922183
-                  ]
-            },
-            {
-                  "name": "Ajaccio Town Hall",
-                  "text": "The elegant harbor-front building containing the Napoleonic Salon, filled with portraits and relics of the Bonaparte family.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        8.738986,
-                        41.919299
-                  ]
-            },
-            {
-                  "name": "Saint-François Beach",
-                  "text": "A charming urban beach located right beneath the Citadel, perfect for a quick swim in the clear Mediterranean waters.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        8.737564,
-                        41.916539
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Maison Bonaparte",
-                  "text": "Lieu de naissance de Napoléon Bonaparte, transformé en musée national retraçant l'histoire familiale.",
-                  "category": "historical",
-                  "coords": [
-                        8.73857,
-                        41.91803
-                  ]
-            },
-            {
-                  "name": "Cathédrale d'Ajaccio",
-                  "text": "Cathédrale baroque du XVIe siècle où fut baptisé Napoléon Bonaparte en 1771.",
-                  "category": "religious",
-                  "coords": [
-                        8.737961,
-                        41.917495
-                  ]
-            },
-            {
-                  "name": "Musée Fesch",
-                  "text": "Ce musée majeur détient l'une des collections de peinture italienne les plus importantes de France.",
-                  "category": "museum",
-                  "coords": [
-                        8.738333,
-                        41.921667
-                  ]
-            },
-            {
-                  "name": "Place Foch",
-                  "text": "Place centrale face au port, agrémentée d'une statue en marbre de Napoléon en consul romain.",
-                  "category": "civic",
-                  "coords": [
-                        8.738869,
-                        41.918943
-                  ]
-            },
-            {
-                  "name": "Citadelle d'Ajaccio",
-                  "text": "Forteresse historique édifiée à l'époque génoise, protégeant le port d'Ajaccio depuis des siècles.",
-                  "category": "fortress",
-                  "coords": [
-                        8.740278,
-                        41.916667
-                  ]
-            },
-            {
-                  "name": "Place Casone",
-                  "text": "Place monumentale abritant un grand mémorial dédié à Napoléon, au bout d'une avenue majestueuse.",
-                  "category": "historical",
-                  "coords": [
-                        8.723622,
-                        41.916512
-                  ]
-            },
-            {
-                  "name": "Îles Sanguinaires",
-                  "text": "Quatre îles de porphyre rouge à l'entrée du golfe, célèbres pour leurs couchers de soleil spectaculaires.",
-                  "category": "natural",
-                  "coords": [
-                        8.71084,
-                        41.908895
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Maison Bonaparte", "text": "Das Geburtshaus von Napoleon Bonaparte ist heute ein Nationalmuseum, das die Geschichte der Familie zeigt.", "category": "historical", "confidence": "high", "coords": [8.73857, 41.91803]}, {"name": "Kathedrale von Ajaccio", "text": "Eine barocke Kathedrale aus dem 16. Jahrhundert, in der Napoleon Bonaparte im Jahr 1771 getauft wurde.", "category": "religious", "confidence": "high", "coords": [8.737961, 41.917495]}, {"name": "Musée Fesch", "text": "Dieses bedeutende Kunstmuseum beherbergt eine der wichtigsten Sammlungen italienischer Malerei in ganz Frankreich.", "category": "museum", "confidence": "high", "coords": [8.738333, 41.921667]}, {"name": "Place Foch", "text": "Ein zentraler Platz am Hafen, geschmückt mit einer Marmorstatue von Napoleon als römischem Konsul.", "category": "civic", "confidence": "high", "coords": [8.738869, 41.918943]}, {"name": "Citadelle d'Ajaccio", "text": "Eine historische Festung aus der Zeit der Genuesen, die den Hafen von Ajaccio seit Jahrhunderten bewacht.", "category": "fortress", "confidence": "high", "coords": [8.740278, 41.916667]}, {"name": "Place Casone", "text": "Ein monumentaler Platz mit einem großen Denkmal für Napoleon, am Ende einer prächtigen Allee gelegen.", "category": "historical", "confidence": "high", "coords": [8.723622, 41.916512]}, {"name": "Îles Sanguinaires", "text": "Vier Inseln aus rotem Porphyr am Eingang der Bucht, bekannt für ihre spektakulären Sonnenuntergänge.", "category": "natural", "confidence": "high", "coords": [8.71084, 41.908895]}, {"name": "Chapelle Impériale", "text": "Die 1857 unter Napoleon III. erbaute Kapelle beherbergt die Gräber von Napoleons Eltern und anderen Familienmitgliedern.", "category": "religious", "confidence": "high", "coords": [8.73855, 41.92177]}, {"name": "Palais Lantivy", "text": "Ein neoklassizistisches Gebäude aus dem 19. Jahrhundert, das heute als Sitz der Präfektur von Korsika dient.", "category": "civic", "confidence": "high", "coords": [8.7361, 41.9197]}, {"name": "Place de Gaulle", "text": "Der zentrale Platz der Stadt, auch Place du Diamant genannt, beherbergt ein monumentales Denkmal für Napoleon Bonaparte.", "category": "civic", "confidence": "high", "coords": [8.735167, 41.918185]}, {"name": "Marché d'Ajaccio", "text": "Ein lebhafter Markt am Place Foch, bekannt für korsische Spezialitäten wie Lonzu, Coppa und verschiedene Käsesorten.", "category": "culinary", "confidence": "high", "coords": [8.724286, 41.912973]}, {"name": "Sentier des Crêtes", "text": "Ein beliebter Wanderweg oberhalb der Stadt, der spektakuläre Ausblicke auf den Golf von Ajaccio und die Küste bietet.", "category": "natural", "confidence": "high", "coords": [8.723639, 41.919193]}, {"name": "Bibliothèque Municipale", "text": "Diese im Rathaus untergebrachte Bibliothek besitzt eine bedeutende Sammlung antiker Bücher und seltener napoleonischer Dokumente.", "category": "cultural", "confidence": "high", "coords": [8.738536, 41.922183]}, {"name": "Hôtel de Ville d'Ajaccio", "text": "Das elegante Rathaus am Hafen beherbergt den Salon Napoléonien mit Porträts und persönlichen Gegenständen der kaiserlichen Familie.", "category": "civic", "confidence": "high", "coords": [8.738986, 41.919299]}, {"name": "Plage de Saint-François", "text": "Direkt unterhalb der Zitadelle erstreckt sich dieser malerische Stadtstrand, der einen faszinierenden Kontrast zwischen historischen Mauern und dem kristallklaren Mittelmeer bildet. Die lebhafte, aber entspannte Kulisse ist ideal, um das städtische Flair von Ajaccio mit einem erfrischenden Bad zu verbinden. Ein schneller Sprung ins Wasser gehört hier ebenso zum Erlebnis wie das Beobachten des lokalen Treibens. Für eine spontane Abkühlung während einer Stadtbesichtigung ist dieser Ort die perfekte Wahl.", "category": "recreational", "confidence": "high", "coords": [8.737564, 41.916539]}], "hu": [{"name": "Maison Bonaparte", "text": "Napóleon szülőháza, amely ma nemzeti múzeumként mutatja be a Bonaparte család korzikai életét.", "category": "historical", "confidence": "high", "coords": [8.73857, 41.91803]}, {"name": "Ajaccioi katedrális", "text": "16. századi barokk székesegyház, ahol 1771-ben megkeresztelték a későbbi francia császárt.", "category": "religious", "confidence": "high", "coords": [8.737961, 41.917495]}, {"name": "Musée Fesch", "text": "Fesch kardinális által alapított szépművészeti múzeum, kiemelkedő olasz reneszánsz festészeti gyűjteménnyel.", "category": "museum", "confidence": "high", "coords": [8.738333, 41.921667]}, {"name": "Place Foch", "text": "A város egyik főtere a pálmafákkal és Napóleon szobrával, közel a régi kikötőhöz.", "category": "civic", "confidence": "high", "coords": [8.738869, 41.918943]}, {"name": "Ajaccioi citadella", "text": "A 16. században épült genovai erődítmény, amely ma is meghatározza a tengerpart látképét.", "category": "fortress", "confidence": "high", "coords": [8.740278, 41.916667]}, {"name": "Place Casone", "text": "Hatalmas emlékmű és tér, ahol a helyiek Napóleon dicsőségére emlékeznek a város felett.", "category": "historical", "confidence": "high", "coords": [8.723622, 41.916512]}, {"name": "Sanguinaires-szigetek", "text": "Vörös szikláiról híres szigetcsoport az öböl bejáratánál, népszerű kirándulóhely és világítótorony.", "category": "natural", "confidence": "high", "coords": [8.71084, 41.908895]}, {"name": "Császári kápolna", "text": "A III. Napóleon által 1857-ben építtetett kápolna Napóleon szüleinek és a család több tagjának sírhelyét őrzi.", "category": "religious", "confidence": "high", "coords": [8.73855, 41.92177]}, {"name": "Palais Lantivy", "text": "19. századi neoklasszicista épület, amely jelenleg Korzika prefektúrájának és közigazgatási központjának ad otthont.", "category": "civic", "confidence": "high", "coords": [8.7361, 41.9197]}, {"name": "Place de Gaulle", "text": "A város központi tere, amelyet Gyémánt térnek is neveznek, Napóleon monumentális emlékművéről és tengeri kilátásáról ismert.", "category": "civic", "confidence": "high", "coords": [8.735167, 41.918185]}, {"name": "Ajaccioi piac", "text": "A Place Foch mellett található nyüzsgő piac, ahol autentikus korzikai termékeket, sajtokat és felvágottakat kínálnak.", "category": "culinary", "confidence": "high", "coords": [8.724286, 41.912973]}, {"name": "Sentier des Crêtes", "text": "Népszerű túraútvonal a város felett, amely lenyűgöző panorámát nyújt az Ajaccioi-öbölre és a környező hegyekre.", "category": "natural", "confidence": "high", "coords": [8.723639, 41.919193]}, {"name": "Városi Könyvtár", "text": "A városházán található intézmény értékes antik könyvgyűjteménnyel és Napóleon korából származó ritka iratokkal rendelkezik.", "category": "cultural", "confidence": "high", "coords": [8.738536, 41.922183]}, {"name": "Ajaccioi városháza", "text": "A kikötőre néző elegáns épület Napóleon-termében a császári család személyes tárgyait és portréit állították ki.", "category": "civic", "confidence": "high", "coords": [8.738986, 41.919299]}, {"name": "Plage de Saint-François", "text": "Közvetlenül a fellegvár alatt húzódik ez a festői városi strand, amely lenyűgöző kontrasztot alkot a történelmi falak és a kristálytiszta Földközi-tenger között. Az élénk, mégis nyugodt környezet ideális arra, hogy Ajaccio városi hangulatát egy frissítő fürdőzéssel kössük össze. Egy gyors csobbanás a vízben éppúgy a helyi élmény része, mint a környék nyüzsgésének megfigyelése. Egy városnézés során megejtett spontán felfrissüléshez ez a hely tökéletes választás.", "category": "recreational", "confidence": "high", "coords": [8.737564, 41.916539]}], "ro": [{"name": "Maison Bonaparte", "text": "Casa natală a lui Napoleon Bonaparte, transformată în muzeu național dedicat istoriei familiei sale.", "category": "historical", "confidence": "high", "coords": [8.73857, 41.91803]}, {"name": "Catedrala din Ajaccio", "text": "O catedrală barocă din secolul al XVI-lea, celebră pentru a fi locul unde a fost botezat Napoleon.", "category": "religious", "confidence": "high", "coords": [8.737961, 41.917495]}, {"name": "Musée Fesch", "text": "Muzeul de artă fondat de cardinalul Fesch, deținând una dintre cele mai mari colecții de pictură italiană.", "category": "museum", "confidence": "high", "coords": [8.738333, 41.921667]}, {"name": "Place Foch", "text": "Piața centrală decorată cu palmieri și o fântână cu statuia lui Napoleon înconjurat de patru lei.", "category": "civic", "confidence": "high", "coords": [8.738869, 41.918943]}, {"name": "Citadela din Ajaccio", "text": "O fortăreață istorică construită de genovezi, oferind o vedere strategică asupra golfului Ajaccio.", "category": "fortress", "confidence": "high", "coords": [8.740278, 41.916667]}, {"name": "Place Casone", "text": "Cunoscută și sub numele de Place d'Austerlitz, găzduiește un monument impunător dedicat împăratului Napoleon.", "category": "historical", "confidence": "high", "coords": [8.723622, 41.916512]}, {"name": "Insulele Sanguinaires", "text": "Un arhipelag de insule stâncoase roșiatice, faimoase pentru peisajele sălbatice și apusurile memorabile.", "category": "natural", "confidence": "high", "coords": [8.71084, 41.908895]}, {"name": "Capela Imperială", "text": "Construită în 1857 de Napoleon al III-lea, această capelă adăpostește mormintele părinților lui Napoleon și ale altor membri ai familiei.", "category": "religious", "confidence": "high", "coords": [8.73855, 41.92177]}, {"name": "Palais Lantivy", "text": "O clădire neoclasică impunătoare din secolul al XIX-lea, care servește drept sediu al Prefecturii Corsicii.", "category": "civic", "confidence": "high", "coords": [8.7361, 41.9197]}, {"name": "Piața de Gaulle", "text": "Cunoscută și sub numele de Piața Diamantului, este centrul orașului și găzduiește un monument grandios dedicat lui Napoleon.", "category": "civic", "confidence": "high", "coords": [8.735167, 41.918185]}, {"name": "Piața din Ajaccio", "text": "O piață tradițională vibrantă lângă Place Foch, renumită pentru delicatese corsicane precum brânzeturi și mezeluri artizanale.", "category": "culinary", "confidence": "high", "coords": [8.724286, 41.912973]}, {"name": "Sentier des Crêtes", "text": "Un traseu de drumeție popular deasupra orașului, oferind vederi spectaculoase asupra Golfului Ajaccio și a țărmului stâncos.", "category": "natural", "confidence": "high", "coords": [8.723639, 41.919193]}, {"name": "Biblioteca Municipală", "text": "Găzduită în clădirea primăriei, deține o colecție impresionantă de cărți vechi și manuscrise rare din epoca napoleoniană.", "category": "cultural", "confidence": "high", "coords": [8.738536, 41.922183]}, {"name": "Primăria din Ajaccio", "text": "O clădire elegantă în port care include Salonul Napoleonian, un muzeu dedicat suvenirurilor și istoriei familiei Bonaparte.", "category": "civic", "confidence": "high", "coords": [8.738986, 41.919299]}, {"name": "Plaja Saint-François", "text": "Chiar sub citadelă se întinde această plajă pitorească a orașului, formând un contrast fascinant între zidurile istorice și Marea Mediterană cristalină. Cadrul plin de viață, dar relaxat, este ideal pentru a combina flerul urban al orașului Ajaccio cu o baie răcoritoare. O săritură rapidă în apă face parte din experiență la fel de mult ca și observarea agitației locale. Pentru o răcorire spontană în timpul unui tur al orașului, acest loc este alegerea perfectă.", "category": "recreational", "confidence": "high", "coords": [8.737564, 41.916539]}], "en": [{"name": "Maison Bonaparte", "text": "The ancestral home of the Bonaparte family, where Napoleon was born in 1769, now a national museum.", "category": "historical", "confidence": "high", "coords": [8.73857, 41.91803]}, {"name": "Ajaccio Cathedral", "text": "A 16th-century Renaissance cathedral where Napoleon Bonaparte was baptized on July 21, 1771.", "category": "religious", "confidence": "high", "coords": [8.737961, 41.917495]}, {"name": "Musée Fesch", "text": "An exceptional fine arts museum established by Cardinal Fesch, featuring a vast collection of Italian masters.", "category": "museum", "confidence": "high", "coords": [8.738333, 41.921667]}, {"name": "Place Foch", "text": "A charming square lined with palm trees and a statue of Napoleon, located in the heart of the Old Town.", "category": "civic", "confidence": "high", "coords": [8.738869, 41.918943]}, {"name": "Ajaccio Citadel", "text": "A historic fortress built during the Genoese period to defend the city against maritime invasions.", "category": "fortress", "confidence": "high", "coords": [8.740278, 41.916667]}, {"name": "Place Casone", "text": "A large public square featuring a monumental statue of Napoleon and a cave where he supposedly played as a child.", "category": "historical", "confidence": "high", "coords": [8.723622, 41.916512]}, {"name": "Sanguinaires Islands", "text": "A group of four crimson-hued islands at the tip of the gulf, offering stunning views and a lighthouse.", "category": "natural", "confidence": "high", "coords": [8.71084, 41.908895]}, {"name": "Imperial Chapel", "text": "Built in 1857 by Napoleon III, this chapel houses the tombs of Napoleon's parents and several family members.", "category": "religious", "confidence": "high", "coords": [8.73855, 41.92177]}, {"name": "Palais Lantivy", "text": "A grand 19th-century neoclassical building that currently serves as the headquarters of the Corsican Prefecture.", "category": "civic", "confidence": "high", "coords": [8.7361, 41.9197]}, {"name": "Place de Gaulle", "text": "The city's main square, also called Place du Diamant, featuring a monumental statue of Napoleon and his brothers.", "category": "civic", "confidence": "high", "coords": [8.735167, 41.918185]}, {"name": "Ajaccio Market", "text": "A lively open-air market near Place Foch, famous for local Corsican products like cured meats, honey, and sheep cheese.", "category": "culinary", "confidence": "high", "coords": [8.724286, 41.912973]}, {"name": "Sentier des Crêtes", "text": "A scenic hiking trail above the city offering panoramic views of the Gulf of Ajaccio and the surrounding coastline.", "category": "natural", "confidence": "high", "coords": [8.723639, 41.919193]}, {"name": "Municipal Library", "text": "Located within the Town Hall, it preserves a magnificent collection of ancient books and rare Napoleonic documents.", "category": "cultural", "confidence": "high", "coords": [8.738536, 41.922183]}, {"name": "Ajaccio Town Hall", "text": "The elegant harbor-front building containing the Napoleonic Salon, filled with portraits and relics of the Bonaparte family.", "category": "civic", "confidence": "high", "coords": [8.738986, 41.919299]}, {"name": "Saint-François Beach", "text": "Situated directly below the citadel, this picturesque city beach forms a fascinating contrast between historic walls and the crystal-clear Mediterranean Sea. The lively yet relaxed setting is ideal for combining the urban flair of Ajaccio with a refreshing swim. A quick dip in the water is as much a part of the experience here as watching the local hustle and bustle. For a spontaneous cool-down during a city tour, this spot is the perfect choice.", "category": "recreational", "confidence": "high", "coords": [8.737564, 41.916539]}], "fr": [{"name": "Maison Bonaparte", "text": "Lieu de naissance de Napoléon Bonaparte, transformé en musée national retraçant l'histoire familiale.", "category": "historical", "coords": [8.73857, 41.91803]}, {"name": "Cathédrale d'Ajaccio", "text": "Cathédrale baroque du XVIe siècle où fut baptisé Napoléon Bonaparte en 1771.", "category": "religious", "coords": [8.737961, 41.917495]}, {"name": "Musée Fesch", "text": "Ce musée majeur détient l'une des collections de peinture italienne les plus importantes de France.", "category": "museum", "coords": [8.738333, 41.921667]}, {"name": "Place Foch", "text": "Place centrale face au port, agrémentée d'une statue en marbre de Napoléon en consul romain.", "category": "civic", "coords": [8.738869, 41.918943]}, {"name": "Citadelle d'Ajaccio", "text": "Forteresse historique édifiée à l'époque génoise, protégeant le port d'Ajaccio depuis des siècles.", "category": "fortress", "coords": [8.740278, 41.916667]}, {"name": "Place Casone", "text": "Place monumentale abritant un grand mémorial dédié à Napoléon, au bout d'une avenue majestueuse.", "category": "historical", "coords": [8.723622, 41.916512]}, {"name": "Îles Sanguinaires", "text": "Quatre îles de porphyre rouge à l'entrée du golfe, célèbres pour leurs couchers de soleil spectaculaires.", "category": "natural", "coords": [8.71084, 41.908895]}]}
   }
 ,
   {
@@ -1570,6 +144,24 @@ export const franceCitiesV2: POI[] = [
                         1.230123,
                         45.811255
                   ]
+            },
+            {
+                  "name": "Aquarium du Limousin",
+                  "text": "Ein Aquarium in Limoges Sur Vienne, das verschiedene Wasserarten zeigt.",
+                  "category": "family",
+                  "coords": [
+                        1.259922,
+                        45.827466
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "Ein Freizeitbecken in Limoges Sur Vienne zum Schwimmen für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
+                  ]
             }
       ],
       "hu": [
@@ -1616,6 +208,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.230123,
                         45.811255
+                  ]
+            },
+            {
+                  "name": "Aquarium du Limousin",
+                  "text": "Akvárium Limoges Sur Vienne-ben, amely különféle vízi fajokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        1.259922,
+                        45.827466
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "Szabadidős medence Limoges Sur Vienne-ben családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
                   ]
             }
       ],
@@ -1664,6 +274,24 @@ export const franceCitiesV2: POI[] = [
                         1.230123,
                         45.811255
                   ]
+            },
+            {
+                  "name": "Aquarium du Limousin",
+                  "text": "Un acvariu în Limoges Sur Vienne care prezintă diverse specii acvatice.",
+                  "category": "family",
+                  "coords": [
+                        1.259922,
+                        45.827466
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "O piscină de agrement în Limoges Sur Vienne pentru înot în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
+                  ]
             }
       ],
       "en": [
@@ -1710,6 +338,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.230123,
                         45.811255
+                  ]
+            },
+            {
+                  "name": "Aquarium du Limousin",
+                  "text": "An aquarium in Limoges Sur Vienne showcasing various aquatic species.",
+                  "category": "family",
+                  "coords": [
+                        1.259922,
+                        45.827466
+                  ]
+            },
+            {
+                  "name": "Bassin Ludique",
+                  "text": "A leisure pool in Limoges Sur Vienne for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        1.217362,
+                        45.808177
                   ]
             }
       ]
@@ -1804,6 +450,60 @@ export const franceCitiesV2: POI[] = [
                         5.044783,
                         47.320455
                   ]
+            },
+            {
+                  "name": "Escale Beauté Institut Spa",
+                  "text": "Escale Beauté Institut Spa ist ein Spa in Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.043255,
+                        47.322992
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Néosys Paintball ist ein Freizeitpark in Dijon Centre. Eine actionreiche Option für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "Le Parc ist ein Zoo in Dijon Centre. Ein schöner Ort, um Tiere mit der Familie zu betrachten.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "La ferme à l'École ist ein Zoo in Dijon Centre. Perfekt für einen Familienbesuch, um etwas über Tiere zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Der Parc animalier ist ein Zoo in Dijon Centre. Er lädt Familien ein, die Tierwelt gemeinsam zu erkunden.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "Die Piscine du Carrousel - Bassin Extérieur ist ein Schwimmbad in Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
+                  ]
             }
       ],
       "hu": [
@@ -1841,6 +541,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.044783,
                         47.320455
+                  ]
+            },
+            {
+                  "name": "Escale Beauté Institut Spa",
+                  "text": "Az Escale Beauté Institut Spa egy gyógyfürdő Dijon Centre területén.",
+                  "category": "family",
+                  "coords": [
+                        5.043255,
+                        47.322992
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "A Néosys Paintball egy vidámpark Dijon Centre területén. Akciódús lehetőség egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "A Le Parc egy állatkert Dijon Centre területén. Szép hely az állatok megfigyelésére a családdal.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "A La ferme à l'École egy állatkert Dijon Centre területén. Tökéletes egy családi látogatáshoz, hogy a gyerekek tanuljanak az állatokról.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "A Parc animalier egy állatkert Dijon Centre területén. Arra hívja a családokat, hogy közösen fedezzék fel az élővilágot.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "A Piscine du Carrousel - Bassin Extérieur egy uszoda Dijon Centre területén.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
                   ]
             }
       ],
@@ -1880,6 +634,60 @@ export const franceCitiesV2: POI[] = [
                         5.044783,
                         47.320455
                   ]
+            },
+            {
+                  "name": "Escale Beauté Institut Spa",
+                  "text": "Escale Beauté Institut Spa este un spa situat în Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.043255,
+                        47.322992
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Néosys Paintball este un parc tematic în Dijon Centre. O opțiune plină de acțiune pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "Le Parc este o grădină zoologică în Dijon Centre. Un loc frumos pentru a privi animalele cu familia.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "La ferme à l'École este o grădină zoologică în Dijon Centre. Perfect pentru o vizită în familie pentru a învăța despre animale.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Parc animalier este o grădină zoologică în Dijon Centre. Invită familiile să exploreze fauna sălbatică împreună.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "Piscine du Carrousel - Bassin Extérieur este un bazin de înot situat în Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
+                  ]
             }
       ],
       "en": [
@@ -1917,6 +725,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.044783,
                         47.320455
+                  ]
+            },
+            {
+                  "name": "Escale Beauté Institut Spa",
+                  "text": "Escale Beauté Institut Spa is a spa located in Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.043255,
+                        47.322992
+                  ]
+            },
+            {
+                  "name": "Néosys Paintball",
+                  "text": "Néosys Paintball is a theme park located in Dijon Centre. An action-packed option for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.996368,
+                        47.343837
+                  ]
+            },
+            {
+                  "name": "Le Parc",
+                  "text": "Le Parc is a zoo located in Dijon Centre. A nice place to view animals with the family.",
+                  "category": "family",
+                  "coords": [
+                        4.984732,
+                        47.337146
+                  ]
+            },
+            {
+                  "name": "La ferme à l'École",
+                  "text": "La ferme à l'École is a zoo located in Dijon Centre. Perfect for a family visit to learn about animals.",
+                  "category": "family",
+                  "coords": [
+                        4.999569,
+                        47.291454
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Parc animalier is a zoo located in Dijon Centre. It invites families to explore wildlife together.",
+                  "category": "family",
+                  "coords": [
+                        5.042804,
+                        47.298668
+                  ]
+            },
+            {
+                  "name": "Piscine du Carrousel - Bassin Extérieur",
+                  "text": "Piscine du Carrousel - Bassin Extérieur is a swimming pool located in Dijon Centre.",
+                  "category": "family",
+                  "coords": [
+                        5.04556,
+                        47.307099
                   ]
             }
       ]
@@ -1976,6 +838,33 @@ export const franceCitiesV2: POI[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Das Aquarium Georges BRESSE befindet sich in Besançon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Der Zoo Magasin à poudre befindet sich in Besançon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Der Jardin zoologique de la Citadelle de Besançon befindet sich in Besançon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "hu": [
@@ -1986,6 +875,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "A Georges BRESSE akvárium Besançon Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "A Magasin à poudre állatkert Besançon Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "A Jardin zoologique de la Citadelle de Besançon állatkert Besançon Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -1998,6 +914,33 @@ export const franceCitiesV2: POI[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Acvariul Georges BRESSE este situat în Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Grădina zoologică Magasin à poudre este situată în Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Grădina zoologică de la Citadelle de Besançon este situată în Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "en": [
@@ -2008,6 +951,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "The Georges BRESSE aquarium is located in Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "The Magasin à poudre zoo is located in Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "The Jardin zoologique de la Citadelle de Besançon zoo is located in Besancon Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ]
@@ -2057,7 +1027,52 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-besancon-bis-cities-v2.webp",
   },
   {
-    id: "france-rouen-bis-cities-v2",
+    id: "france-rouen-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "Ein Vogelgarten und Zoo in Rouen Rive Gauche.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "Madárkert és állatkert Rouen Rive Gauche-ban.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "O grădină de păsări și grădină zoologică situată în Rouen Rive Gauche.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin des oiseaux",
+                  "text": "A bird garden and zoo located in Rouen Rive Gauche.",
+                  "category": "family",
+                  "coords": [
+                        1.055205,
+                        49.421222
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Rouen-Rive-Gauche", hu: "Rouen-Rive-Gauche", ro: "Rouen-Rive-Gauche", en: "Rouen-Rive-Gauche" },
@@ -2122,6 +1137,24 @@ export const franceCitiesV2: POI[] = [
                         6.235735,
                         49.095547
                   ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo ist ein Freizeitpark in Metz Centre. Es ist ein großartiges Ziel für Spaß mit den Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "Die Volière du jardin botanique ist ein Zoo in Metz Centre. Familien können hier verschiedene Vogelarten entdecken.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
+                  ]
             }
       ],
       "hu": [
@@ -2141,6 +1174,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.235735,
                         49.095547
+                  ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "A Pass Partoo egy vidámpark Metz Centre területén. Nagyszerű úti cél a gyerekekkel való szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "A Volière du jardin botanique egy állatkert Metz Centre területén. A családok különféle madárfajokat fedezhetnek fel itt.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
                   ]
             }
       ],
@@ -2162,6 +1213,24 @@ export const franceCitiesV2: POI[] = [
                         6.235735,
                         49.095547
                   ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo este un parc tematic în Metz Centre. Este o destinație grozavă pentru distracție cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "Volière du jardin botanique este o grădină zoologică în Metz Centre. Familiile pot descoperi aici diverse specii de păsări.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
+                  ]
             }
       ],
       "en": [
@@ -2181,6 +1250,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.235735,
                         49.095547
+                  ]
+            },
+            {
+                  "name": "Pass Partoo",
+                  "text": "Pass Partoo is a theme park located in Metz Centre. It is a great destination for fun with the kids.",
+                  "category": "family",
+                  "coords": [
+                        6.198172,
+                        49.134938
+                  ]
+            },
+            {
+                  "name": "Volière du jardin botanique",
+                  "text": "Volière du jardin botanique is a zoo located in Metz Centre. Families can discover various bird species here.",
+                  "category": "family",
+                  "coords": [
+                        6.16093,
+                        49.104162
                   ]
             }
       ]
@@ -2285,6 +1372,24 @@ export const franceCitiesV2: POI[] = [
                         4.036345,
                         49.243879
                   ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "Das SPA Avenue 51 befindet sich in Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "Das Schwimmbad Spa Connect befindet sich in Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
+                  ]
             }
       ],
       "hu": [
@@ -2340,6 +1445,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.036345,
                         49.243879
+                  ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "A SPA Avenue 51 gyógyfürdő Reims központjában található.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "A Spa Connect úszómedence Reims központjában található.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
                   ]
             }
       ],
@@ -2397,6 +1520,24 @@ export const franceCitiesV2: POI[] = [
                         4.036345,
                         49.243879
                   ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "Centrul SPA Avenue 51 este situat în Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "Piscina Spa Connect este situată în Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
+                  ]
             }
       ],
       "en": [
@@ -2452,6 +1593,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.036345,
                         49.243879
+                  ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "The SPA Avenue 51 is located in Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "The swimming pool Spa Connect is located in Reims Centre.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
                   ]
             }
       ]
@@ -2574,6 +1733,15 @@ export const franceCitiesV2: POI[] = [
                         2.303201,
                         49.915045
                   ]
+            },
+            {
+                  "name": "Parc Zoologique de la Petite Hotoie",
+                  "text": "Ein Tierpark in Amiens Nord, ideal für einen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        2.278485,
+                        49.900551
+                  ]
             }
       ],
       "hu": [
@@ -2647,6 +1815,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.303201,
                         49.915045
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique de la Petite Hotoie",
+                  "text": "Állatkert Amiens Nordban, amely ideális egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.278485,
+                        49.900551
                   ]
             }
       ],
@@ -2722,6 +1899,15 @@ export const franceCitiesV2: POI[] = [
                         2.303201,
                         49.915045
                   ]
+            },
+            {
+                  "name": "Parc Zoologique de la Petite Hotoie",
+                  "text": "Un parc zoologic în Amiens Nord, ideal pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        2.278485,
+                        49.900551
+                  ]
             }
       ],
       "en": [
@@ -2795,6 +1981,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.303201,
                         49.915045
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique de la Petite Hotoie",
+                  "text": "A zoological park in Amiens Nord ideal for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        2.278485,
+                        49.900551
                   ]
             }
       ]
@@ -2917,6 +2112,24 @@ export const franceCitiesV2: POI[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Fosse à plongeon ist ein Schwimmbad in Caen Centre.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury ist ein Freizeitpark in Caen Centre. Ideal für abenteuerlustige Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ],
       "hu": [
@@ -2990,6 +2203,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.389162,
                         49.197907
+                  ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "A Fosse à plongeon egy uszoda Caen Centre területén.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "A Paint Ball Fury egy vidámpark Caen Centre területén. Ideális kalandvágyó családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
                   ]
             }
       ],
@@ -3065,6 +2296,24 @@ export const franceCitiesV2: POI[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Fosse à plongeon este un bazin de înot în Caen Centre.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury este un parc tematic în Caen Centre. Ideal pentru familiile dornice de aventură.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ],
       "en": [
@@ -3139,6 +2388,24 @@ export const franceCitiesV2: POI[] = [
                         -0.389162,
                         49.197907
                   ]
+            },
+            {
+                  "name": "Fosse à plongeon",
+                  "text": "Fosse à plongeon is a swimming pool located in Caen Centre.",
+                  "category": "family",
+                  "coords": [
+                        -0.369215,
+                        49.176594
+                  ]
+            },
+            {
+                  "name": "Paint Ball Fury",
+                  "text": "Paint Ball Fury is a theme park located in Caen Centre. Ideal for adventurous families.",
+                  "category": "family",
+                  "coords": [
+                        -0.388339,
+                        49.166356
+                  ]
             }
       ]
 },
@@ -3187,7 +2454,88 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-caen-bis-cities-v2.webp",
   },
   {
-    id: "france-angers-bis-cities-v2",
+    id: "france-angers-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Der Freizeitpark Skoubi Parc in Angers Centre bietet Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Der Freizeitpark Terra Botanica in Angers Centre ist ein Ziel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.570449,
+                        47.50049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Az Angers központjában található Skoubi Parc szabadidőpark szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Az Angers központjában található Terra Botanica szabadidőpark az egész család számára kínál kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        -0.570449,
+                        47.50049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skoubi Parc",
+                  "text": "Parcul de distracții Skoubi Parc din Angers Centre oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "Parcul de distracții Terra Botanica din Angers Centre este o destinație pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.570449,
+                        47.50049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skoubi Parc",
+                  "text": "The theme park Skoubi Parc in Angers Centre offers fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.520432,
+                        47.475733
+                  ]
+            },
+            {
+                  "name": "Terra Botanica",
+                  "text": "The theme park Terra Botanica in Angers Centre is a destination for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -0.570449,
+                        47.50049
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Angers-Centre", hu: "Angers-Centre", ro: "Angers-Centre", en: "Angers-Centre" },
@@ -3297,6 +2645,24 @@ export const franceCitiesV2: POI[] = [
                         6.203726,
                         48.705781
                   ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Ein Tierbereich und Zoo in Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "Ein Strandresort-Bereich in Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "hu": [
@@ -3361,6 +2727,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.203726,
                         48.705781
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Állatpark és állatkert Nancy Nordban.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "Tengerparti üdülőhely Nancy Nordban.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ],
@@ -3427,6 +2811,24 @@ export const franceCitiesV2: POI[] = [
                         6.203726,
                         48.705781
                   ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Un spațiu cu animale și grădină zoologică în Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "O zonă de stațiune la plajă în Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "en": [
@@ -3491,6 +2893,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.203726,
                         48.705781
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "An animal area and zoo in Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "A beach resort area in Nancy Nord.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ]
@@ -4495,7 +3915,124 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-toulouse-bis-cities-v2.webp",
   },
   {
-    id: "france-bordeaux-bis-cities-v2",
+    id: "france-bordeaux-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine",
+                  "text": "Das Schwimmbad Piscine befindet sich in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "Das öffentliche Bad Les Bains de Cléopâtre befindet sich in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "Das öffentliche Bad Le Grand Hammam de Bordeaux befindet sich in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine",
+                  "text": "A Piscine úszómedence Bordeaux Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "A Les Bains de Cléopâtre közfürdő Bordeaux Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "A Le Grand Hammam de Bordeaux közfürdő Bordeaux Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine",
+                  "text": "Piscina Piscine este situată în Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "Baia publică Les Bains de Cléopâtre este situată în Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "Baia publică Le Grand Hammam de Bordeaux este situată în Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine",
+                  "text": "The swimming pool Piscine is located in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "The public bath Les Bains de Cléopâtre is located in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "The public bath Le Grand Hammam de Bordeaux is located in Bordeaux Sud.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Bordeaux-Sud", hu: "Bordeaux-Sud", ro: "Bordeaux-Sud", en: "Bordeaux-Sud" },
@@ -4776,7 +4313,268 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-nice-bis-cities-v2.webp",
   },
   {
-    id: "france-lyon-bis-cities-v2",
+    id: "france-lyon-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation ist ein Freizeitpark in Lyon Nord. Ein kreativer Ort für einen Besuch mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Die Bains He-Mal sind ein öffentliches Bad in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie ist ein Wasserpark in Lyon Nord. Familien können hier einen entspannten Tag am Wasser verbringen.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Das Bassin ludique ist ein Schwimmbad in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "Die Résidentielle ist ein Schwimmbad in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Der Parc aux Daims ist ein Zoo in Lyon Nord. Familien können bei einem Spaziergang die Hirsche beobachten.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "Der Zoo de la Tête d'Or ist ein Zoo in Lyon Nord. Ein wunderbarer Ort für Familien, um Tiere aus aller Welt kennenzulernen.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "A Centre Kapla Animation egy vidámpark Lyon Nord területén. Kreatív hely egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "A Bains He-Mal egy nyilvános fürdő Lyon Nord területén.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "A L'eau de soie egy vízi park Lyon Nord területén. A családok pihentető napot tölthetnek el itt a víz mellett.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "A Bassin ludique egy uszoda Lyon Nord területén.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "A Résidentielle egy uszoda Lyon Nord területén.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "A Parc aux Daims egy állatkert Lyon Nord területén. A családok sétálva figyelhetik meg a szarvasokat.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "A Zoo de la Tête d'Or egy állatkert Lyon Nord területén. Csodálatos hely a családok számára, hogy megismerjék a világ minden tájáról származó állatokat.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation este un parc tematic în Lyon Nord. Un loc creativ pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal este o baie publică situată în Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie este un parc acvatic în Lyon Nord. Familiile pot petrece o zi relaxantă la apă aici.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Bassin ludique este un bazin de înot situat în Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "Résidentielle este un bazin de înot situat în Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Parc aux Daims este o grădină zoologică în Lyon Nord. Familiile pot observa cerbii la o plimbare.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "Zoo de la Tête d'Or este o grădină zoologică în Lyon Nord. Un loc minunat pentru familii să cunoască animale din întreaga lume.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation is a theme park located in Lyon Nord. A creative place for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal is a public bath located in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie is a water park located in Lyon Nord. Families can spend a relaxing day by the water here.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Bassin ludique is a swimming pool located in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "Résidentielle is a swimming pool located in Lyon Nord.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Parc aux Daims is a zoo located in Lyon Nord. Families can watch the deer on a walk.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "Zoo de la Tête d'Or is a zoo located in Lyon Nord. A wonderful place for families to learn about animals from all over the world.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Lyon-Nord", hu: "Lyon-Nord", ro: "Lyon-Nord", en: "Lyon-Nord" },
@@ -4822,7 +4620,88 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-lyon-bis-cities-v2.webp",
   },
   {
-    id: "france-marseille-bis-cities-v2",
+    id: "france-marseille-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hammam Loubon",
+                  "text": "Das öffentliche Bad Hammam Loubon befindet sich in Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.383204,
+                        43.312796
+                  ]
+            },
+            {
+                  "name": "Rong Shu Bodhi Spa",
+                  "text": "Das SPA Rong Shu Bodhi Spa befindet sich in Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.3808,
+                        43.298025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hammam Loubon",
+                  "text": "A Hammam Loubon közfürdő Marseille Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        5.383204,
+                        43.312796
+                  ]
+            },
+            {
+                  "name": "Rong Shu Bodhi Spa",
+                  "text": "A Rong Shu Bodhi Spa gyógyfürdő Marseille Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        5.3808,
+                        43.298025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hammam Loubon",
+                  "text": "Baia publică Hammam Loubon este situată în Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.383204,
+                        43.312796
+                  ]
+            },
+            {
+                  "name": "Rong Shu Bodhi Spa",
+                  "text": "Centrul SPA Rong Shu Bodhi Spa este situat în Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.3808,
+                        43.298025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hammam Loubon",
+                  "text": "The public bath Hammam Loubon is located in Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.383204,
+                        43.312796
+                  ]
+            },
+            {
+                  "name": "Rong Shu Bodhi Spa",
+                  "text": "The SPA Rong Shu Bodhi Spa is located in Marseille Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.3808,
+                        43.298025
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Marseille-Nord", hu: "Marseille-Nord", ro: "Marsilia-Nord", en: "Marseille-Nord" },
@@ -5094,6 +4973,150 @@ export const franceCitiesV2: POI[] = [
                         2.375957,
                         48.886099
                   ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "Ein traditionelles türkisches Bad in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Hammam Medina Center",
+                  "text": "Ein öffentliches Bad und Hammam in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.384396,
+                        48.885398
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "Eine öffentliche Badeanlage in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356267,
+                        48.888511
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "Ein öffentliches Bad und Spa in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "Bassin-école Grange-aux-Belles",
+                  "text": "Ein Lehrschwimmbecken in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.367919,
+                        48.87773
+                  ]
+            },
+            {
+                  "name": "Les Bains d'Orient",
+                  "text": "Ein öffentliches Bad in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.368758,
+                        48.883242
+                  ]
+            },
+            {
+                  "name": "Les Cent Ciels",
+                  "text": "Ein öffentliches Bad und Entspannungsraum in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.372529,
+                        48.865339
+                  ]
+            },
+            {
+                  "name": "Les Jardins Suspendus",
+                  "text": "Ein Spa in Paris Nord mit verschiedenen Anwendungen.",
+                  "category": "family",
+                  "coords": [
+                        2.385256,
+                        48.853097
+                  ]
+            },
+            {
+                  "name": "Wave",
+                  "text": "Eine öffentliche Badeanlage in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.317457,
+                        48.882148
+                  ]
+            },
+            {
+                  "name": "Bains-Douches - Rue de Rome",
+                  "text": "Öffentliche Bäder und Duschen in der Rue de Rome in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.322434,
+                        48.87806
+                  ]
+            },
+            {
+                  "name": "Paris Plages, Caroussel, Boats, Fun",
+                  "text": "Ein saisonaler Freizeitparkbereich in Paris Nord mit verschiedenen Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        2.37762,
+                        48.88703
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "Ein historischer zoologischer Garten in Paris Nord für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Öffentliche Bäder und Duschen im Bereich Deux-Ponts in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Ein Wasserpark in Paris Nord mit Schwimmeinrichtungen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Baignade de la Villette",
+                  "text": "Ein Strandresort und Badebereich im Viertel La Villette in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.374575,
+                        48.885663
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "Ein spezieller Kinderbereich und Freizeitpark in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
             }
       ],
       "hu": [
@@ -5320,6 +5343,150 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.375957,
                         48.886099
+                  ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "Hagyományos törökfürdő Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Hammam Medina Center",
+                  "text": "Közfürdő és hammam Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.384396,
+                        48.885398
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "Közfürdő Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.356267,
+                        48.888511
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "Közfürdő és gyógyfürdő Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "Bassin-école Grange-aux-Belles",
+                  "text": "Tanmedence Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.367919,
+                        48.87773
+                  ]
+            },
+            {
+                  "name": "Les Bains d'Orient",
+                  "text": "Közfürdő Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.368758,
+                        48.883242
+                  ]
+            },
+            {
+                  "name": "Les Cent Ciels",
+                  "text": "Közfürdő és relaxációs hely Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.372529,
+                        48.865339
+                  ]
+            },
+            {
+                  "name": "Les Jardins Suspendus",
+                  "text": "Gyógyfürdő Paris Nordban, amely különféle kezeléseket kínál.",
+                  "category": "family",
+                  "coords": [
+                        2.385256,
+                        48.853097
+                  ]
+            },
+            {
+                  "name": "Wave",
+                  "text": "Közfürdő Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.317457,
+                        48.882148
+                  ]
+            },
+            {
+                  "name": "Bains-Douches - Rue de Rome",
+                  "text": "Közfürdők és zuhanyzók a Rue de Rome-on, Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.322434,
+                        48.87806
+                  ]
+            },
+            {
+                  "name": "Paris Plages, Caroussel, Boats, Fun",
+                  "text": "Szezonális vidámpark Paris Nordban különféle családi tevékenységekkel.",
+                  "category": "family",
+                  "coords": [
+                        2.37762,
+                        48.88703
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "Régi állatkert Paris Nordban családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Közfürdők és zuhanyzók a Deux-Ponts negyedben, Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Vízi park Paris Nordban úszási lehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Baignade de la Villette",
+                  "text": "Tengerparti üdülőhely és fürdőhely a La Villette negyedben, Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.374575,
+                        48.885663
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "Speciális gyerekzóna és vidámpark Paris Nordban.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
                   ]
             }
       ],
@@ -5548,6 +5715,150 @@ export const franceCitiesV2: POI[] = [
                         2.375957,
                         48.886099
                   ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "O baie turcească tradițională în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Hammam Medina Center",
+                  "text": "O baie publică și hammam în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.384396,
+                        48.885398
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "O unitate de baie publică în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356267,
+                        48.888511
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "O baie publică și spa în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "Bassin-école Grange-aux-Belles",
+                  "text": "O piscină de antrenament în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.367919,
+                        48.87773
+                  ]
+            },
+            {
+                  "name": "Les Bains d'Orient",
+                  "text": "O baie publică în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.368758,
+                        48.883242
+                  ]
+            },
+            {
+                  "name": "Les Cent Ciels",
+                  "text": "O baie publică și spațiu de relaxare în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.372529,
+                        48.865339
+                  ]
+            },
+            {
+                  "name": "Les Jardins Suspendus",
+                  "text": "Un spa în Paris Nord care oferă diverse tratamente.",
+                  "category": "family",
+                  "coords": [
+                        2.385256,
+                        48.853097
+                  ]
+            },
+            {
+                  "name": "Wave",
+                  "text": "O unitate de baie publică în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.317457,
+                        48.882148
+                  ]
+            },
+            {
+                  "name": "Bains-Douches - Rue de Rome",
+                  "text": "Băi publice și dușuri pe Rue de Rome în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.322434,
+                        48.87806
+                  ]
+            },
+            {
+                  "name": "Paris Plages, Caroussel, Boats, Fun",
+                  "text": "O zonă sezonieră de parc de distracții în Paris Nord cu diverse activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        2.37762,
+                        48.88703
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "O grădină zoologică veche în Paris Nord pentru ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Băi publice și dușuri în zona Deux-Ponts din Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "Un parc acvatic în Paris Nord cu facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Baignade de la Villette",
+                  "text": "O stațiune la plajă și zonă de înot în cartierul La Villette din Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.374575,
+                        48.885663
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "O zonă dedicată copiilor și parc de distracții în Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
             }
       ],
       "en": [
@@ -5775,6 +6086,150 @@ export const franceCitiesV2: POI[] = [
                         2.375957,
                         48.886099
                   ]
+            },
+            {
+                  "name": "Hammam Harim Essoltan",
+                  "text": "A traditional Turkish bath in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.392056,
+                        48.905488
+                  ]
+            },
+            {
+                  "name": "Hammam Medina Center",
+                  "text": "A public bath and hammam in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.384396,
+                        48.885398
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "A public bath facility in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356267,
+                        48.888511
+                  ]
+            },
+            {
+                  "name": "Spa Jasmin de nuit",
+                  "text": "A public bath and spa in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.340168,
+                        48.894442
+                  ]
+            },
+            {
+                  "name": "Bassin-école Grange-aux-Belles",
+                  "text": "A training swimming pool in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.367919,
+                        48.87773
+                  ]
+            },
+            {
+                  "name": "Les Bains d'Orient",
+                  "text": "A public bath in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.368758,
+                        48.883242
+                  ]
+            },
+            {
+                  "name": "Les Cent Ciels",
+                  "text": "A public bath and relaxation space in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.372529,
+                        48.865339
+                  ]
+            },
+            {
+                  "name": "Les Jardins Suspendus",
+                  "text": "A spa in Paris Nord offering various treatments.",
+                  "category": "family",
+                  "coords": [
+                        2.385256,
+                        48.853097
+                  ]
+            },
+            {
+                  "name": "Wave",
+                  "text": "A public bath facility in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.317457,
+                        48.882148
+                  ]
+            },
+            {
+                  "name": "Bains-Douches - Rue de Rome",
+                  "text": "Public baths and showers on Rue de Rome in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.322434,
+                        48.87806
+                  ]
+            },
+            {
+                  "name": "Paris Plages, Caroussel, Boats, Fun",
+                  "text": "A seasonal theme park area in Paris Nord with various family activities.",
+                  "category": "family",
+                  "coords": [
+                        2.37762,
+                        48.88703
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "An old zoological garden in Paris Nord for family outings.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Public baths and showers in the Deux-Ponts area of Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
+            },
+            {
+                  "name": "Espace nautique Auguste Delaune",
+                  "text": "A water park in Paris Nord with swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        2.33439,
+                        48.910626
+                  ]
+            },
+            {
+                  "name": "Baignade de la Villette",
+                  "text": "A beach resort and swimming area in the La Villette district of Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.374575,
+                        48.885663
+                  ]
+            },
+            {
+                  "name": "L'Ile de Tortuga - Kids Zone",
+                  "text": "A dedicated kids' zone and theme park in Paris Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.389327,
+                        48.896043
+                  ]
             }
       ]
 },
@@ -5905,6 +6360,33 @@ export const franceCitiesV2: POI[] = [
                         3.088534,
                         50.63041
                   ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Der Lille Zoo ist ein Zoo in Lille Nord. Er ist ein beliebtes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Die Marcel Dhénin Educational Farm ist ein Zoo in Lille Nord. Kinder können hier die Bauernhoftiere hautnah erleben.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Der Cita-Parc ist ein Freizeitpark in Lille Nord. Ideal für einen vergnüglichen Tag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "hu": [
@@ -5987,6 +6469,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.088534,
                         50.63041
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "A Lille Zoo egy állatkert Lille Nord területén. Népszerű úti cél családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "A Marcel Dhénin Educational Farm egy állatkert Lille Nord területén. A gyerekek testközelből ismerhetik meg a haszonállatokat.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "A Cita-Parc egy vidámpark Lille Nord területén. Ideális egy vidám naphoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
                   ]
             }
       ],
@@ -6071,6 +6580,33 @@ export const franceCitiesV2: POI[] = [
                         3.088534,
                         50.63041
                   ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Lille Zoo este o grădină zoologică în Lille Nord. Este o destinație populară pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Marcel Dhénin Educational Farm este o grădină zoologică în Lille Nord. Copiii pot experimenta îndeaproape animalele de la fermă.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc este un parc tematic în Lille Nord. Ideal pentru o zi distractivă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "en": [
@@ -6154,6 +6690,33 @@ export const franceCitiesV2: POI[] = [
                         3.088534,
                         50.63041
                   ]
+            },
+            {
+                  "name": "Lille Zoo",
+                  "text": "Lille Zoo is a zoo located in Lille Nord. It is a popular destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Marcel Dhénin Educational Farm",
+                  "text": "Marcel Dhénin Educational Farm is a zoo located in Lille Nord. Children can experience farm animals up close here.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc is a theme park located in Lille Nord. Ideal for a fun day out with the family.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ]
 },
@@ -6202,7 +6765,232 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-lille-bis-cities-v2.webp",
   },
   {
-    id: "france-grenoble-bis-cities-v2",
+    id: "france-grenoble-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silence",
+                  "text": "Das öffentliche Bad Silence befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "Das Schwimmbad piscine tardy befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Das öffentliche Bad Hamman café befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "Das öffentliche Bad Neroli befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Das Schwimmbad Grand bassin befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "Das Schwimmbad Petit Bassin befindet sich in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silence",
+                  "text": "A Silence közfürdő Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "A piscine tardy úszómedence Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "A Hamman café közfürdő Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "A Neroli közfürdő Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "A Grand bassin úszómedence Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "A Petit Bassin úszómedence Grenoble Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silence",
+                  "text": "Baia publică Silence este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "Piscina piscine tardy este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Baia publică Hamman café este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "Baia publică Neroli este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Piscina Grand bassin este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "Piscina Petit Bassin este situată în Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silence",
+                  "text": "The public bath Silence is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "The swimming pool piscine tardy is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "The public bath Hamman café is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "The public bath Neroli is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "The swimming pool Grand bassin is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Petit Bassin",
+                  "text": "The swimming pool Petit Bassin is located in Grenoble Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.754082,
+                        45.149681
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Grenoble-Sud", hu: "Grenoble-Sud", ro: "Grenoble-Sud", en: "Grenoble-Sud" },
@@ -6312,6 +7100,42 @@ export const franceCitiesV2: POI[] = [
                         -1.55031,
                         47.266798
                   ]
+            },
+            {
+                  "name": "Quintessia Hôtel & Spa - Nantes Orvault",
+                  "text": "Ein Hotel und Spa in Nantes Orvault.",
+                  "category": "family",
+                  "coords": [
+                        -1.589677,
+                        47.258164
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "Ein Planschbecken für Kinder in Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "Ein kleiner Zoo oder eine Menagerie in Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "Dieses Planschbecken in Nantes Nord bietet einen sicheren Badebereich für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
+                  ]
             }
       ],
       "hu": [
@@ -6376,6 +7200,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -1.55031,
                         47.266798
+                  ]
+            },
+            {
+                  "name": "Quintessia Hôtel & Spa - Nantes Orvault",
+                  "text": "Szálloda és gyógyfürdő Nantes Orvault-ban.",
+                  "category": "family",
+                  "coords": [
+                        -1.589677,
+                        47.258164
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "Pancsolómedence gyerekeknek Nantes Nordban.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "Kis állatkert vagy menazséria Nantes Nordban.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "Ez a Nantes Nord-i pancsolómedence biztonságos fürdőzési lehetőséget kínál a kisgyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
                   ]
             }
       ],
@@ -6442,6 +7302,42 @@ export const franceCitiesV2: POI[] = [
                         -1.55031,
                         47.266798
                   ]
+            },
+            {
+                  "name": "Quintessia Hôtel & Spa - Nantes Orvault",
+                  "text": "Un hotel și spa situat în Nantes Orvault.",
+                  "category": "family",
+                  "coords": [
+                        -1.589677,
+                        47.258164
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "O piscină pentru copii în Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "O mică grădină zoologică sau menajerie în Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "Această piscină pentru copii din Nantes Nord oferă o zonă de înot sigură pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
+                  ]
             }
       ],
       "en": [
@@ -6507,6 +7403,42 @@ export const franceCitiesV2: POI[] = [
                         -1.55031,
                         47.266798
                   ]
+            },
+            {
+                  "name": "Quintessia Hôtel & Spa - Nantes Orvault",
+                  "text": "A hotel and spa located in Nantes Orvault.",
+                  "category": "family",
+                  "coords": [
+                        -1.589677,
+                        47.258164
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "A paddling pool for children in Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "A small zoo or menagerie in Nantes Nord.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "This paddling pool in Nantes Nord offers a safe swimming area for young children.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
+                  ]
             }
       ]
 },
@@ -6555,7 +7487,88 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-nantes-bis-cities-v2.webp",
   },
   {
-    id: "france-perpignan-bis-cities-v2",
+    id: "france-perpignan-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pataugeoire",
+                  "text": "Die Pataugeoire ist ein Schwimmbad in Perpignan Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "L'Espace Enchanté",
+                  "text": "L'Espace Enchanté ist ein Zoo in Perpignan Nord. Ein faszinierender Ort für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.927353,
+                        42.728991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pataugeoire",
+                  "text": "A Pataugeoire egy uszoda Perpignan Nord területén.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "L'Espace Enchanté",
+                  "text": "A L'Espace Enchanté egy állatkert Perpignan Nord területén. Lenyűgöző hely az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        2.927353,
+                        42.728991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pataugeoire",
+                  "text": "Pataugeoire este un bazin de înot în Perpignan Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "L'Espace Enchanté",
+                  "text": "L'Espace Enchanté este o grădină zoologică în Perpignan Nord. Un loc fascinant pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.927353,
+                        42.728991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pataugeoire",
+                  "text": "Pataugeoire is a swimming pool located in Perpignan Nord.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "L'Espace Enchanté",
+                  "text": "L'Espace Enchanté is a zoo located in Perpignan Nord. A fascinating place for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        2.927353,
+                        42.728991
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Perpignan-Nord", hu: "Perpignan-Nord", ro: "Perpignan-Nord", en: "Perpignan-Nord" },
@@ -6910,6 +7923,51 @@ export const franceCitiesV2: POI[] = [
                         7.324488,
                         47.737943
                   ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Lasergame Évolution ist ein Freizeitpark in Mulhouse Centre. Es bietet Unterhaltung für Familien mit älteren Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Zoologischer und Botanischer Garten von Mulhouse",
+                  "text": "Der Parc Zoologique et Botanique de Mulhouse ist ein Zoo in Mulhouse Centre. Ein großartiges Erlebnis für Naturliebhaber jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        7.350321,
+                        47.734777
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "Das Bassin familial ist ein Schwimmbad in Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Sprungturm",
+                  "text": "Das Plongeoir ist ein Schwimmbad in Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Der Zoo pour enfant ist ein Zoo in Mulhouse Centre. Perfekt für einen Ausflug mit den Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
             }
       ],
       "hu": [
@@ -6938,6 +7996,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.324488,
                         47.737943
+                  ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "A Lasergame Évolution egy vidámpark Mulhouse Centre területén. Szórakozást nyújt idősebb gyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Mulhouse",
+                  "text": "A Parc Zoologique et Botanique de Mulhouse egy állatkert Mulhouse Centre területén. Nagyszerű élmény minden korosztály természetkedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        7.350321,
+                        47.734777
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "A Bassin familial egy uszoda Mulhouse Centre területén.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "A Plongeoir egy uszoda Mulhouse Centre területén.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "A Zoo pour enfant egy állatkert Mulhouse Centre területén. Tökéletes kiránduláshoz a legkisebbekkel.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
                   ]
             }
       ],
@@ -6968,6 +8071,51 @@ export const franceCitiesV2: POI[] = [
                         7.324488,
                         47.737943
                   ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Lasergame Évolution este un parc tematic în Mulhouse Centre. Oferă divertisment pentru familiile cu copii mai mari.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Mulhouse",
+                  "text": "Parc Zoologique et Botanique de Mulhouse este o grădină zoologică în Mulhouse Centre. O experiență excelentă pentru iubitorii de natură de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        7.350321,
+                        47.734777
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "Bassin familial este un bazin de înot situat în Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Plongeoir este un bazin de înot situat în Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Zoo pour enfant este o grădină zoologică în Mulhouse Centre. Perfect pentru o excursie cu cei mici.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
             }
       ],
       "en": [
@@ -6996,6 +8144,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.324488,
                         47.737943
+                  ]
+            },
+            {
+                  "name": "Lasergame Évolution",
+                  "text": "Lasergame Évolution is a theme park located in Mulhouse Centre. It provides entertainment for families with older children.",
+                  "category": "family",
+                  "coords": [
+                        7.351407,
+                        47.760764
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Mulhouse",
+                  "text": "Parc Zoologique et Botanique de Mulhouse is a zoo located in Mulhouse Centre. A great experience for nature lovers of all ages.",
+                  "category": "family",
+                  "coords": [
+                        7.350321,
+                        47.734777
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "Bassin familial is a swimming pool located in Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Plongeoir is a swimming pool located in Mulhouse Centre.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Zoo pour enfant is a zoo located in Mulhouse Centre. Perfect for a trip with the little ones.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
                   ]
             }
       ]
@@ -7140,6 +8333,33 @@ export const franceCitiesV2: POI[] = [
                         6.02345,
                         47.227
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Das Aquarium Georges BRESSE befindet sich in Besançon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Der Zoo Magasin à poudre befindet sich in Besançon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Der Jardin zoologique de la Citadelle de Besançon befindet sich in Besançon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "hu": [
@@ -7191,6 +8411,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.02345,
                         47.227
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "A Georges BRESSE akvárium Besançon Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "A Magasin à poudre állatkert Besançon Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "A Jardin zoologique de la Citadelle de Besançon állatkert Besançon Sudban található.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -7244,6 +8491,33 @@ export const franceCitiesV2: POI[] = [
                         6.02345,
                         47.227
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Acvariul Georges BRESSE este situat în Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Grădina zoologică Magasin à poudre este situată în Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Grădina zoologică de la Citadelle de Besançon este situată în Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "en": [
@@ -7295,6 +8569,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.02345,
                         47.227
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "The Georges BRESSE aquarium is located in Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "The Magasin à poudre zoo is located in Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "The Jardin zoologique de la Citadelle de Besançon zoo is located in Besancon Sud.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -7747,6 +9048,33 @@ export const franceCitiesV2: POI[] = [
                         -4.472579,
                         48.404856
                   ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "Der Freizeitpark Games Park in Brest Centre bietet Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Der Wasserpark Scuba center befindet sich in Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Das Aquarium Océanopolis befindet sich in Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
+                  ]
             }
       ],
       "hu": [
@@ -7829,6 +9157,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -4.472579,
                         48.404856
+                  ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "A Brest központjában található Games Park szabadidőpark szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "A Scuba center vízi park Brest központjában található.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Az Océanopolis akvárium Brest központjában található.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
                   ]
             }
       ],
@@ -7913,6 +9268,33 @@ export const franceCitiesV2: POI[] = [
                         -4.472579,
                         48.404856
                   ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "Parcul de distracții Games Park din Brest Centre oferă divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Parcul acvatic Scuba center este situat în Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Acvariul Océanopolis este situat în Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
+                  ]
             }
       ],
       "en": [
@@ -7995,6 +9377,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -4.472579,
                         48.404856
+                  ]
+            },
+            {
+                  "name": "Games Park",
+                  "text": "The theme park Games Park in Brest Centre offers entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -4.531968,
+                        48.386779
+                  ]
+            },
+            {
+                  "name": "Scuba center",
+                  "text": "The water park Scuba center is located in Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "The Océanopolis aquarium is located in Brest Centre.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
                   ]
             }
       ]
@@ -8387,7 +9796,124 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-avignon-bis-cities-v2.webp",
   },
   {
-    id: "france-clermont-bis-cities-v2",
+    id: "france-clermont-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic ist ein Wasserpark in Clermont Ferrand Nord. Ein tolles Ziel für eine Auszeit mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Das Etablissement Thermal de Royat-Chamalières ist ein öffentliches Bad in Clermont Ferrand Nord.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Die Piscine privée ist ein Wasserpark in Clermont Ferrand Nord. Familien finden hier abwechslungsreiche Wasserspiele.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RoyaTonic",
+                  "text": "A RoyaTonic egy vízi park Clermont Ferrand Nord területén. Nagyszerű célpont egy családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Az Etablissement Thermal de Royat-Chamalières egy nyilvános fürdő Clermont Ferrand Nord területén.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "A Piscine privée egy vízi park Clermont Ferrand Nord területén. A családok változatos vízi játékokat találhatnak itt.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic este un parc acvatic în Clermont Ferrand Nord. O destinație grozavă pentru o pauză în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Etablissement Thermal de Royat-Chamalières este o baie publică în Clermont Ferrand Nord.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Piscine privée este un parc acvatic în Clermont Ferrand Nord. Familiile pot găsi aici diverse jocuri cu apă.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RoyaTonic",
+                  "text": "RoyaTonic is a water park located in Clermont Ferrand Nord. A great destination for a break with the family.",
+                  "category": "family",
+                  "coords": [
+                        3.055257,
+                        45.766532
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Etablissement Thermal de Royat-Chamalières is a public bath located in Clermont Ferrand Nord.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
+            },
+            {
+                  "name": "Piscine privée",
+                  "text": "Piscine privée is a water park located in Clermont Ferrand Nord. Families can find varied water games here.",
+                  "category": "family",
+                  "coords": [
+                        3.122255,
+                        45.796876
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Clermont-Ferrand-Nord", hu: "Clermont-Ferrand-Nord", ro: "Clermont-Ferrand-Nord", en: "Clermont-Ferrand-Nord" },
@@ -8433,7 +9959,88 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-clermont-bis-cities-v2.webp",
   },
   {
-    id: "france-tours-bis-cities-v2",
+    id: "france-tours-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mini ferme",
+                  "text": "Der Zoo Mini ferme befindet sich in Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Der Zoo Flamants du Chili befindet sich in Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mini ferme",
+                  "text": "A Mini ferme állatkert Tours Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "A Flamants du Chili állatkert Tours Nordban található.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mini ferme",
+                  "text": "Grădina zoologică Mini ferme este situată în Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Grădina zoologică Flamants du Chili este situată în Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mini ferme",
+                  "text": "The Mini ferme zoo is located in Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "The Flamants du Chili zoo is located in Tours Nord.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Tours-Nord", hu: "Tours-Nord", ro: "Tours-Nord", en: "Tours-Nord" },
@@ -8646,6 +10253,33 @@ export const franceCitiesV2: POI[] = [
                         6.170828,
                         48.661896
                   ]
+            },
+            {
+                  "name": "Mounky Parc",
+                  "text": "Der Mounky Parc in Nancy Sud ist ein Indoor-Freizeitbereich, der für Familienspaß konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        6.186024,
+                        48.643256
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Dieser Tierbereich in Nancy Sud bietet Familien die Möglichkeit, verschiedene Arten in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis in Nancy Sud ist ein strandähnlicher Erholungsbereich, ideal für einen entspannten Familientag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "hu": [
@@ -8769,6 +10403,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.170828,
                         48.661896
+                  ]
+            },
+            {
+                  "name": "Mounky Parc",
+                  "text": "A Nancy Sud-i Mounky Parc egy beltéri szabadidős központ, amelyet családi szórakozásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        6.186024,
+                        48.643256
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Ez a Nancy Sud-i állatos terület lehetőséget nyújt a családoknak különböző fajok megfigyelésére természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "A Nancy Sud-i L’oasis egy tengerparti stílusú üdülőhely, amely tökéletes egy pihentető családi naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ],
@@ -8894,6 +10555,33 @@ export const franceCitiesV2: POI[] = [
                         6.170828,
                         48.661896
                   ]
+            },
+            {
+                  "name": "Mounky Parc",
+                  "text": "Mounky Parc din Nancy Sud este o zonă de agrement interioară concepută pentru distracție și activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.186024,
+                        48.643256
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "Acest spațiu pentru animale din Nancy Sud oferă familiilor ocazia de a observa diverse specii într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis din Nancy Sud este o zonă de relaxare în stil plajă, perfectă pentru o zi relaxantă în familie lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
+                  ]
             }
       ],
       "en": [
@@ -9017,6 +10705,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.170828,
                         48.661896
+                  ]
+            },
+            {
+                  "name": "Mounky Parc",
+                  "text": "Mounky Parc in Nancy Sud is an indoor leisure area designed for family fun and activities.",
+                  "category": "family",
+                  "coords": [
+                        6.186024,
+                        48.643256
+                  ]
+            },
+            {
+                  "name": "Espace Animalier",
+                  "text": "This animal area in Nancy Sud provides an opportunity for families to observe various species in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        6.184027,
+                        48.699055
+                  ]
+            },
+            {
+                  "name": "L’oasis",
+                  "text": "L’oasis in Nancy Sud is a beach-style resort area perfect for a relaxing family day by the water.",
+                  "category": "family",
+                  "coords": [
+                        6.207483,
+                        48.692832
                   ]
             }
       ],
@@ -9165,6 +10880,42 @@ export const franceCitiesV2: POI[] = [
                         1.478056,
                         43.573028
                   ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "Das Grand bassin Léo Lagrange ist ein Schwimmbad in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "Das Bassin Castex ist ein Schwimmbad in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Die Pataugeoire ist ein Schwimmbad in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
+            },
+            {
+                  "name": "Piscine Alban Minville",
+                  "text": "Das Schwimmbad Piscine Alban Minville in Toulouse Sud bietet Schwimmmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        1.39919,
+                        43.56395
+                  ]
             }
       ],
       "hu": [
@@ -9216,6 +10967,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.478056,
                         43.573028
+                  ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "A Grand bassin Léo Lagrange egy uszoda Toulouse Sud területén.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "A Bassin Castex egy uszoda Toulouse Sud területén.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "A Pataugeoire egy uszoda Toulouse Sud területén.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
+            },
+            {
+                  "name": "Piscine Alban Minville",
+                  "text": "A Toulouse Sud-ban található Piscine Alban Minville uszoda úszási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        1.39919,
+                        43.56395
                   ]
             }
       ],
@@ -9269,6 +11056,42 @@ export const franceCitiesV2: POI[] = [
                         1.478056,
                         43.573028
                   ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "Grand bassin Léo Lagrange este un bazin de înot situat în Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "Bassin Castex este un bazin de înot situat în Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Pataugeoire este un bazin de înot în Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
+            },
+            {
+                  "name": "Piscine Alban Minville",
+                  "text": "Piscina Piscine Alban Minville din Toulouse Sud oferă facilități de înot.",
+                  "category": "family",
+                  "coords": [
+                        1.39919,
+                        43.56395
+                  ]
             }
       ],
       "en": [
@@ -9320,6 +11143,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.478056,
                         43.573028
+                  ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "Grand bassin Léo Lagrange is a swimming pool located in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "Bassin Castex is a swimming pool located in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Pataugeoire is a swimming pool located in Toulouse Sud.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
+            },
+            {
+                  "name": "Piscine Alban Minville",
+                  "text": "The Piscine Alban Minville swimming pool in Toulouse Sud offers swimming facilities.",
+                  "category": "family",
+                  "coords": [
+                        1.39919,
+                        43.56395
                   ]
             }
       ],
@@ -9540,6 +11399,15 @@ export const franceCitiesV2: POI[] = [
                         7.249549,
                         43.710721
                   ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Das Schwimmbad Piscine befindet sich in Nizza Süd.",
+                  "category": "family",
+                  "coords": [
+                        7.216138,
+                        43.673628
+                  ]
             }
       ],
       "hu": [
@@ -9663,6 +11531,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.249549,
                         43.710721
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "A Piscine úszómedence Nizza déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        7.216138,
+                        43.673628
                   ]
             }
       ],
@@ -9788,6 +11665,15 @@ export const franceCitiesV2: POI[] = [
                         7.249549,
                         43.710721
                   ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscina Piscine este situată în Nice Sud.",
+                  "category": "family",
+                  "coords": [
+                        7.216138,
+                        43.673628
+                  ]
             }
       ],
       "en": [
@@ -9911,6 +11797,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.249549,
                         43.710721
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "The swimming pool Piscine is located in Nice Sud.",
+                  "category": "family",
+                  "coords": [
+                        7.216138,
+                        43.673628
                   ]
             }
       ],
@@ -10284,6 +12179,51 @@ export const franceCitiesV2: POI[] = [
                         4.842734,
                         45.752045
                   ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Das Centre Kapla Animation in Lyon Sud bietet kreative Bauaktivitäten, die die ganze Familie gemeinsam genießen kann.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal in Lyon Sud ist eine öffentliche Badeanstalt, die sich für einen erfrischenden Familienbesuch eignet.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "Park Events",
+                  "text": "Park Events in Lyon Sud ist ein Freizeitziel, das verschiedene Unterhaltungsmöglichkeiten für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.859255,
+                        45.715749
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Dieses Freizeitbecken in Lyon Sud verfügt über Wasserspielbereiche, die für Kinder und Familien konzipiert sind.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Aquarium de Lyon",
+                  "text": "Das Aquarium de Lyon präsentiert eine große Vielfalt an Meereslebewesen und ist ein lehrreicher Ausflug für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.815727,
+                        45.72796
+                  ]
             }
       ],
       "hu": [
@@ -10560,6 +12500,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.842734,
                         45.752045
+                  ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "A lyoni Centre Kapla Animation kreatív építőjátékokat kínál, amelyeket az egész család együtt élvezhet.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "A Lyon Sud-i Bains He-Mal egy nyilvános fürdő, amely alkalmas egy frissítő családi látogatásra.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "Park Events",
+                  "text": "A Lyon Sud-i Park Events egy szabadidős helyszín, amely különféle szórakozási lehetőségeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.859255,
+                        45.715749
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Ez a Lyon Sud-i élménymedence gyermekeknek és családoknak tervezett vízi játszóterekkel rendelkezik.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Aquarium de Lyon",
+                  "text": "Az Aquarium de Lyon a tengeri élővilág széles választékát mutatja be, így oktató jellegű kirándulás a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.815727,
+                        45.72796
                   ]
             }
       ],
@@ -10838,6 +12823,51 @@ export const franceCitiesV2: POI[] = [
                         4.842734,
                         45.752045
                   ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation din Lyon Sud oferă activități de construcție creative de care se poate bucura întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal din Lyon Sud este o baie publică potrivită pentru o vizită revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "Park Events",
+                  "text": "Park Events din Lyon Sud este o destinație de agrement care oferă diverse opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.859255,
+                        45.715749
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Această piscină de agrement din Lyon Sud are zone de joacă cu apă concepute pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Aquarium de Lyon",
+                  "text": "Aquarium de Lyon prezintă o mare varietate de viață marină, fiind o ieșire educativă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.815727,
+                        45.72796
+                  ]
             }
       ],
       "en": [
@@ -11115,6 +13145,51 @@ export const franceCitiesV2: POI[] = [
                         4.842734,
                         45.752045
                   ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation in Lyon Sud offers creative building activities that the whole family can enjoy together.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal in Lyon Sud is a public bathing facility suitable for a refreshing family visit.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "Park Events",
+                  "text": "Park Events in Lyon Sud is a leisure destination offering various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        4.859255,
+                        45.715749
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "This leisure pool in Lyon Sud features water play areas designed for children and families.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Aquarium de Lyon",
+                  "text": "The Aquarium de Lyon showcases a wide variety of marine life, making it an educational outing for families.",
+                  "category": "family",
+                  "coords": [
+                        4.815727,
+                        45.72796
+                  ]
             }
       ],
       "fr": [
@@ -11298,6 +13373,51 @@ export const franceCitiesV2: POI[] = [
                         5.382941,
                         43.257673
                   ]
+            },
+            {
+                  "name": "Petit Roucas Blanc",
+                  "text": "Der Schwimmbereich Petit Roucas Blanc in Marseille Sud lädt zum Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        5.368679,
+                        43.263481
+                  ]
+            },
+            {
+                  "name": "Grand Roucas Blanc",
+                  "text": "Der Schwimmbereich Grand Roucas Blanc in Marseille Sud eignet sich zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        5.370015,
+                        43.263299
+                  ]
+            },
+            {
+                  "name": "David",
+                  "text": "Der Schwimmbereich David befindet sich in Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.371488,
+                        43.261496
+                  ]
+            },
+            {
+                  "name": "L'Huveaune",
+                  "text": "L'Huveaune ist ein Schwimmbereich in Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.374568,
+                        43.259261
+                  ]
+            },
+            {
+                  "name": "Borély",
+                  "text": "Der Schwimmbereich Borély lädt in Marseille Sud zum Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        5.374158,
+                        43.256328
+                  ]
             }
       ],
       "hu": [
@@ -11385,6 +13505,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.382941,
                         43.257673
+                  ]
+            },
+            {
+                  "name": "Petit Roucas Blanc",
+                  "text": "A Marseille Sud-ban lévő Petit Roucas Blanc fürdőhely úszásra csábít.",
+                  "category": "family",
+                  "coords": [
+                        5.368679,
+                        43.263481
+                  ]
+            },
+            {
+                  "name": "Grand Roucas Blanc",
+                  "text": "A Marseille Sud-i Grand Roucas Blanc fürdőhely úszásra és pihenésre alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        5.370015,
+                        43.263299
+                  ]
+            },
+            {
+                  "name": "David",
+                  "text": "A David fürdőhely Marseille Sud-ban található.",
+                  "category": "family",
+                  "coords": [
+                        5.371488,
+                        43.261496
+                  ]
+            },
+            {
+                  "name": "L'Huveaune",
+                  "text": "A L'Huveaune egy fürdőhely Marseille Sud-ban.",
+                  "category": "family",
+                  "coords": [
+                        5.374568,
+                        43.259261
+                  ]
+            },
+            {
+                  "name": "Borély",
+                  "text": "A Borély fürdőhely Marseille Sud-ban várja a fürdőzőket.",
+                  "category": "family",
+                  "coords": [
+                        5.374158,
+                        43.256328
                   ]
             }
       ],
@@ -11474,6 +13639,51 @@ export const franceCitiesV2: POI[] = [
                         5.382941,
                         43.257673
                   ]
+            },
+            {
+                  "name": "Petit Roucas Blanc",
+                  "text": "Zona de înot Petit Roucas Blanc din Marseille Sud vă invită la o baie.",
+                  "category": "family",
+                  "coords": [
+                        5.368679,
+                        43.263481
+                  ]
+            },
+            {
+                  "name": "Grand Roucas Blanc",
+                  "text": "Zona de înot Grand Roucas Blanc din Marseille Sud este potrivită pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        5.370015,
+                        43.263299
+                  ]
+            },
+            {
+                  "name": "David",
+                  "text": "Zona de înot David este situată în Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.371488,
+                        43.261496
+                  ]
+            },
+            {
+                  "name": "L'Huveaune",
+                  "text": "L'Huveaune este o zonă de înot din Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.374568,
+                        43.259261
+                  ]
+            },
+            {
+                  "name": "Borély",
+                  "text": "Zona de înot Borély din Marseille Sud vă așteaptă să înotați.",
+                  "category": "family",
+                  "coords": [
+                        5.374158,
+                        43.256328
+                  ]
             }
       ],
       "en": [
@@ -11561,6 +13771,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.382941,
                         43.257673
+                  ]
+            },
+            {
+                  "name": "Petit Roucas Blanc",
+                  "text": "The Petit Roucas Blanc swimming area in Marseille Sud invites you for a swim.",
+                  "category": "family",
+                  "coords": [
+                        5.368679,
+                        43.263481
+                  ]
+            },
+            {
+                  "name": "Grand Roucas Blanc",
+                  "text": "The Grand Roucas Blanc swimming area in Marseille Sud is suitable for swimming and relaxing.",
+                  "category": "family",
+                  "coords": [
+                        5.370015,
+                        43.263299
+                  ]
+            },
+            {
+                  "name": "David",
+                  "text": "The David swimming area is located in Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.371488,
+                        43.261496
+                  ]
+            },
+            {
+                  "name": "L'Huveaune",
+                  "text": "L'Huveaune is a swimming area in Marseille Sud.",
+                  "category": "family",
+                  "coords": [
+                        5.374568,
+                        43.259261
+                  ]
+            },
+            {
+                  "name": "Borély",
+                  "text": "The Borély swimming area in Marseille Sud welcomes you for a swim.",
+                  "category": "family",
+                  "coords": [
+                        5.374158,
+                        43.256328
                   ]
             }
       ],
@@ -11853,6 +14108,60 @@ export const franceCitiesV2: POI[] = [
                         2.331281,
                         48.823796
                   ]
+            },
+            {
+                  "name": "Foire du Trône",
+                  "text": "Der Freizeitpark Foire du Trône in Paris Sud ist ein Vergnügen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.404444,
+                        48.831863
+                  ]
+            },
+            {
+                  "name": "Aquarium tropical",
+                  "text": "Das Tropical aquarium befindet sich in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.409077,
+                        48.835198
+                  ]
+            },
+            {
+                  "name": "Hammam Club Sauna",
+                  "text": "Das öffentliche Bad Hammam Club Sauna befindet sich in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356132,
+                        48.837757
+                  ]
+            },
+            {
+                  "name": "Bercy",
+                  "text": "Der Badebereich Bercy in Paris Sud lädt zum Schwimmen und Erholen ein.",
+                  "category": "family",
+                  "coords": [
+                        2.378951,
+                        48.835476
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "Der Zoo Ménagerie du Jardin des Plantes befindet sich in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Das öffentliche Bad Bains-douches des Deux-Ponts befindet sich in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
             }
       ],
       "hu": [
@@ -12048,6 +14357,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.331281,
                         48.823796
+                  ]
+            },
+            {
+                  "name": "Foire du Trône",
+                  "text": "A párizsi Foire du Trône szabadidőpark szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        2.404444,
+                        48.831863
+                  ]
+            },
+            {
+                  "name": "Aquarium tropical",
+                  "text": "A Tropical aquarium akvárium Párizs déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        2.409077,
+                        48.835198
+                  ]
+            },
+            {
+                  "name": "Hammam Club Sauna",
+                  "text": "A Hammam Club Sauna közfürdő Párizs déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        2.356132,
+                        48.837757
+                  ]
+            },
+            {
+                  "name": "Bercy",
+                  "text": "A párizsi Bercy fürdőhely úszásra és pihenésre hív.",
+                  "category": "family",
+                  "coords": [
+                        2.378951,
+                        48.835476
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "A Ménagerie du Jardin des Plantes állatkert Párizs déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "A Bains-douches des Deux-Ponts közfürdő Párizs déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
                   ]
             }
       ],
@@ -12245,6 +14608,60 @@ export const franceCitiesV2: POI[] = [
                         2.331281,
                         48.823796
                   ]
+            },
+            {
+                  "name": "Foire du Trône",
+                  "text": "Parcul de distracții Foire du Trône din Paris Sud este o plăcere pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        2.404444,
+                        48.831863
+                  ]
+            },
+            {
+                  "name": "Aquarium tropical",
+                  "text": "Acvariul Tropical aquarium este situat în Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.409077,
+                        48.835198
+                  ]
+            },
+            {
+                  "name": "Hammam Club Sauna",
+                  "text": "Baia publică Hammam Club Sauna este situată în Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356132,
+                        48.837757
+                  ]
+            },
+            {
+                  "name": "Bercy",
+                  "text": "Zona de înot Bercy din Paris Sud este un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        2.378951,
+                        48.835476
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "Grădina zoologică Ménagerie du Jardin des Plantes este situată în Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "Baia publică Bains-douches des Deux-Ponts este situată în Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
             }
       ],
       "en": [
@@ -12441,6 +14858,60 @@ export const franceCitiesV2: POI[] = [
                         2.331281,
                         48.823796
                   ]
+            },
+            {
+                  "name": "Foire du Trône",
+                  "text": "The theme park Foire du Trône in Paris Sud is a pleasure for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        2.404444,
+                        48.831863
+                  ]
+            },
+            {
+                  "name": "Tropical aquarium",
+                  "text": "The Tropical aquarium is located in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.409077,
+                        48.835198
+                  ]
+            },
+            {
+                  "name": "Hammam Club Sauna",
+                  "text": "The public bath Hammam Club Sauna is located in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356132,
+                        48.837757
+                  ]
+            },
+            {
+                  "name": "Bercy",
+                  "text": "The swimming area Bercy in Paris Sud is a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        2.378951,
+                        48.835476
+                  ]
+            },
+            {
+                  "name": "Ménagerie du Jardin des Plantes",
+                  "text": "The Ménagerie du Jardin des Plantes zoo is located in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.360595,
+                        48.845407
+                  ]
+            },
+            {
+                  "name": "Bains-douches des Deux-Ponts",
+                  "text": "The public bath Bains-douches des Deux-Ponts is located in Paris Sud.",
+                  "category": "family",
+                  "coords": [
+                        2.356807,
+                        48.851341
+                  ]
             }
       ],
       "fr": [
@@ -12588,6 +15059,42 @@ export const franceCitiesV2: POI[] = [
                         3.055278,
                         50.616389
                   ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga in Lille Sud ist ein Indoor-Spielpark mit Aktivitäten, die auf energiegeladene Kinder zugeschnitten sind.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Der Zoo von Lille bietet Familien die Möglichkeit, viele Tierarten in einer grünen städtischen Umgebung zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Dieser pädagogische Bauernhof in Lille Sud ermöglicht es Kindern, mit Bauernhoftieren zu interagieren und etwas über die Natur zu lernen.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Der Cita-Parc in Lille Sud bietet verschiedene Fahrgeschäfte und Attraktionen, die sich für einen Familienausflug eignen.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "hu": [
@@ -12639,6 +15146,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.055278,
                         50.616389
+                  ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "A Lille Sud-i L'ile de Tortuga egy beltéri játszópark az energikus gyermekek számára kialakított tevékenységekkel.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "A lille-i állatkert lehetőséget kínál a családoknak, hogy számos állatfajt láthassanak zöld városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Ez a Lille Sud-i oktatófarm lehetővé teszi a gyermekek számára, hogy haszonállatokkal ismerkedjenek és tanuljanak a természetről.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "A Lille Sud-i Cita-Parc különféle játékokkal és látnivalókkal várja a családokat egy közös kirándulásra.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
                   ]
             }
       ],
@@ -12692,6 +15235,42 @@ export const franceCitiesV2: POI[] = [
                         3.055278,
                         50.616389
                   ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga din Lille Sud este un parc de joacă interior cu activități adaptate pentru copiii plini de energie.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Grădina Zoologică din Lille oferă familiilor șansa de a vedea multe specii de animale într-un mediu urban verde.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Această fermă educațională din Lille Sud le permite copiilor să interacționeze cu animalele de fermă și să învețe despre natură.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc din Lille Sud oferă diverse caruseluri și atracții potrivite pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "en": [
@@ -12743,6 +15322,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.055278,
                         50.616389
+                  ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga in Lille Sud is an indoor play park with activities tailored for energetic children.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Lille Zoo",
+                  "text": "Lille Zoo offers families the chance to see many animal species in a green city environment.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Marcel Dhénin Educational Farm",
+                  "text": "This educational farm in Lille Sud allows children to interact with farm animals and learn about nature.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc in Lille Sud features various rides and attractions suitable for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
                   ]
             }
       ],
@@ -12991,6 +15606,60 @@ export const franceCitiesV2: POI[] = [
                         5.719168,
                         45.17904
                   ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "Das öffentliche Bad Silence befindet sich in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "Das Schwimmbad piscine tardy bietet Badegästen in Grenoble Nord Platz zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Das Hamman café ist ein öffentliches Bad in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "Neroli ist ein öffentliches Bad in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Das Schwimmbad Grand bassin befindet sich in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Dieses Schwimmbad namens Piscine liegt in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
+                  ]
             }
       ],
       "hu": [
@@ -13142,6 +15811,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.719168,
                         45.17904
+                  ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "A Silence nyilvános fürdő Grenoble Nord-ban található.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "A piscine tardy uszoda úszási lehetőséget biztosít Grenoble Nord-ban.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "A Hamman café egy nyilvános fürdő Grenoble Nord-ban.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "A Neroli egy nyilvános fürdő Grenoble Nord-ban.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "A Grand bassin uszoda Grenoble Nord-ban található.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Ez a Piscine nevű uszoda Grenoble Nord-ban található.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
                   ]
             }
       ],
@@ -13295,6 +16018,60 @@ export const franceCitiesV2: POI[] = [
                         5.719168,
                         45.17904
                   ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "Baia publică Silence se află în Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "Piscina piscine tardy oferă spațiu pentru înot în Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "Hamman café este o baie publică din Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "Neroli este o baie publică în Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "Piscina Grand bassin este situată în Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Această piscină numită Piscine se află în Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
+                  ]
             }
       ],
       "en": [
@@ -13446,6 +16223,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.719168,
                         45.17904
+                  ]
+            },
+            {
+                  "name": "Silence",
+                  "text": "The Silence public bath is located in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.728414,
+                        45.182841
+                  ]
+            },
+            {
+                  "name": "piscine tardy",
+                  "text": "The piscine tardy swimming pool offers swimming space in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.71023,
+                        45.170492
+                  ]
+            },
+            {
+                  "name": "Hamman café",
+                  "text": "The Hamman café is a public bath in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.717744,
+                        45.186874
+                  ]
+            },
+            {
+                  "name": "Neroli",
+                  "text": "Neroli is a public bath in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.730072,
+                        45.194063
+                  ]
+            },
+            {
+                  "name": "Grand bassin",
+                  "text": "The Grand bassin swimming pool is located in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.750851,
+                        45.183751
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "This swimming pool named Piscine is located in Grenoble Nord.",
+                  "category": "family",
+                  "coords": [
+                        5.673065,
+                        45.208432
                   ]
             }
       ],
@@ -13979,6 +16810,33 @@ export const franceCitiesV2: POI[] = [
                         2.879888,
                         42.68433
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Dieses Planschbecken in Perpignan Sud ist ein sicherer und flacher Wasserbereich, in dem Kleinkinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Le Complexe 66 in Perpignan Sud bietet eine Reihe von Indoor-Aktivitäten für Familien und Gruppen.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo in Perpignan Sud ist ein Wellness- und Badezentrum, ideal für die Entspannung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
+                  ]
             }
       ],
       "hu": [
@@ -14103,6 +16961,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.879888,
                         42.68433
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Ez a Perpignan Sud-i pancsolómedence biztonságos és sekély vizes terület a kisgyermekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "A Perpignan Sud-i Le Complexe 66 különféle beltéri tevékenységeket kínál családok és csoportok számára.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "A Perpignan Sud-i Calicéo egy wellness- és fürdőközpont, amely ideális a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
                   ]
             }
       ],
@@ -14229,6 +17114,33 @@ export const franceCitiesV2: POI[] = [
                         2.879888,
                         42.68433
                   ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Această piscină pentru copii din Perpignan Sud este o zonă cu apă sigură și puțin adâncă pentru joaca celor mici.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Le Complexe 66 din Perpignan Sud oferă o gamă de activități interioare pentru familii și grupuri.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo din Perpignan Sud este un centru de wellness și băi ideal pentru relaxarea familiei.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
+                  ]
             }
       ],
       "en": [
@@ -14353,6 +17265,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         2.879888,
                         42.68433
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "This paddling pool in Perpignan Sud is a safe and shallow water area for toddlers to play in.",
+                  "category": "family",
+                  "coords": [
+                        2.904126,
+                        42.677712
+                  ]
+            },
+            {
+                  "name": "Le Complexe 66",
+                  "text": "Le Complexe 66 in Perpignan Sud provides a range of indoor activities for families and groups.",
+                  "category": "family",
+                  "coords": [
+                        2.918927,
+                        42.668935
+                  ]
+            },
+            {
+                  "name": "Calicéo",
+                  "text": "Calicéo in Perpignan Sud is a wellness and bathing center ideal for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        2.926881,
+                        42.659
                   ]
             }
       ],
@@ -15212,469 +18151,7 @@ export const franceCitiesV2: POI[] = [
       fr: ["La Cité de l'Automobile expose plus de 400 véhicules.", "Mulhouse a rejoint la République française en 1798.", "La ville compte environ 110 000 habitants.", "Le Musée de l'Impression sur Étoffes a été fondé en 1955."],
     },
     image: "/poi-images/france-mulhouse-south-cities-v2.webp",
-    "sights": {
-      "de": [
-            {
-                  "name": "Cité de l'Automobile",
-                  "text": "Das größte Automobilmuseum der Welt beherbergt die berühmte Sammlung Schlumpf mit über 400 Luxus- und Rennwagen.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.328611,
-                        47.760833
-                  ]
-            },
-            {
-                  "name": "Cité du Train",
-                  "text": "Das nationale Eisenbahnmuseum zeigt die Geschichte der Schiene in Europa mit einer beeindruckenden Sammlung historischer Loks.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.293889,
-                        47.750556
-                  ]
-            },
-            {
-                  "name": "Temple Saint-Étienne",
-                  "text": "Die protestantische Kirche am Place de la Réunion ist bekannt für ihre prächtigen Glasmalereien aus dem 14. Jahrhundert.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.338889,
-                        47.747222
-                  ]
-            },
-            {
-                  "name": "Place de la Réunion",
-                  "text": "Der zentrale Platz der Stadt, umgeben von farbenfrohen Gebäuden wie dem Rathaus und dem Tempel Saint-Étienne.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.338614,
-                        47.746833
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "Das Rathaus im Renaissancestil ist berühmt für seine reich verzierten Fassadenmalereien und beherbergt das Historische Museum.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.339277,
-                        47.746602
-                  ]
-            },
-            {
-                  "name": "Musée de l'Impression sur Étoffes",
-                  "text": "Dieses weltweit einzigartige Museum dokumentiert die Geschichte der Stoffdruckindustrie, die Mulhouse reich gemacht hat.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.3446,
-                        47.7451
-                  ]
-            },
-            {
-                  "name": "Zoologischer und Botanischer Garten",
-                  "text": "Ein wunderschöner Park, der sich dem Schutz bedrohter Tierarten und der Erhaltung seltener Pflanzen widmet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.350487,
-                        47.734652
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Dieser Ort in Mulhouse Sud bietet eine ruhige Kulisse für einen Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Diese Minigolfanlage in Mulhouse Sud ist ein tolles Ziel für einen unterhaltsamen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Ein schöner Spielplatz in Mulhouse Sud, der Kindern viel Platz zum Toben und Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Autómúzeum (Cité de l'Automobile)",
-                  "text": "A világ legnagyobb autómúzeuma, amely a Schlumpf-fivérek elképesztő, több mint 400 darabos veteránautó-gyűjteményét őrzi.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.328611,
-                        47.760833
-                  ]
-            },
-            {
-                  "name": "Vasúti Múzeum (Cité du Train)",
-                  "text": "Franciaország nemzeti vasúti múzeuma, ahol hatalmas csarnokokban ismerhetjük meg a vasútfejlődés történetét és a híres mozdonyokat.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.293889,
-                        47.750556
-                  ]
-            },
-            {
-                  "name": "Szent István-templom",
-                  "text": "A főtéren álló protestáns templom Mulhouse egyik jelképe, amely 14. századi eredeti színes üvegablakairól nevezetes.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.338889,
-                        47.747222
-                  ]
-            },
-            {
-                  "name": "Place de la Réunion",
-                  "text": "A város történelmi szíve, egy gyönyörű tér, amelyet reneszánsz stílusú épületek és elegáns kávézók vesznek körül.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.338614,
-                        47.746833
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "A reneszánsz épület különlegessége a külső falakon látható élénk festés, belső termeiben pedig a városi történeti múzeum működik.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.339277,
-                        47.746602
-                  ]
-            },
-            {
-                  "name": "Textilmúzeum",
-                  "text": "A szövetnyomás történetét bemutató intézmény Mulhouse ipari múltjára emlékeztet, hatalmas mintagyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.3446,
-                        47.7451
-                  ]
-            },
-            {
-                  "name": "Állat- és Növénykert",
-                  "text": "Egy hatalmas zöld terület, amely különleges fajokat mutat be és fontos szerepet játszik a természetvédelemben.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.350487,
-                        47.734652
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Ez a Mulhouse Sud-i helyszín nyugodt környezetet biztosít egy vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "Ez a Mulhouse Sud területén található minigolfpálya remek helyszín egy vidám családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Egy kedves játszótér Mulhouse Sud területén, amely tágas helyet biztosít a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Orașul Automobilului",
-                  "text": "Cel mai mare muzeu auto din lume, adăpostind colecția Schlumpf cu peste 400 de modele rare, inclusiv faimoasele Bugatti Royale.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.328611,
-                        47.760833
-                  ]
-            },
-            {
-                  "name": "Orașul Trenului",
-                  "text": "Muzeul Național al Căilor Ferate din Franța, prezentând o colecție vastă de locomotive și vagoane care au marcat istoria transportului.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.293889,
-                        47.750556
-                  ]
-            },
-            {
-                  "name": "Templul Saint-Étienne",
-                  "text": "O biserică protestantă impunătoare situată în inima orașului, celebră pentru vitraliile sale medievale conservate perfect.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.338889,
-                        47.747222
-                  ]
-            },
-            {
-                  "name": "Piața Reuniunii",
-                  "text": "Centrul istoric al orașului Mulhouse, înconjurat de clădiri colorate și animat de numeroase evenimente culturale și piețe.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.338614,
-                        47.746833
-                  ]
-            },
-            {
-                  "name": "Primăria (Hôtel de Ville)",
-                  "text": "O clădire în stil renascentist rhenan, renumită pentru frescele exterioare care ilustrează virtuțile și istoria orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.339277,
-                        47.746602
-                  ]
-            },
-            {
-                  "name": "Muzeul Imprimeurilor pe Țesături",
-                  "text": "Un muzeu unic care explorează arta designului textil și istoria industrială bogată a orașului Mulhouse.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.3446,
-                        47.7451
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică și Botanică",
-                  "text": "Un parc vast fondat în 1868, adăpostind peste 1200 de animale și grădini tematice cu specii de plante rare.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.350487,
-                        47.734652
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Această locație din Mulhouse Sud oferă un cadru liniștit pentru o plimbare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "Acest teren de minigolf din Mulhouse Sud este o destinație excelentă pentru o ieșire distractivă în familie.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Un loc de joacă plăcut în Mulhouse Sud, oferind copiilor spațiu generos pentru joacă și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cité de l'Automobile",
-                  "text": "The world's largest car museum, featuring the legendary Schlumpf collection with over 400 vintage and luxury vehicles.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.328611,
-                        47.760833
-                  ]
-            },
-            {
-                  "name": "Cité du Train",
-                  "text": "The French national railway museum, showcasing a huge collection of historic locomotives and carriages in grand halls.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.293889,
-                        47.750556
-                  ]
-            },
-            {
-                  "name": "Temple Saint-Étienne",
-                  "text": "The main Protestant church of Mulhouse, noted for its exceptional 14th-century stained glass windows and high spire.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        7.338889,
-                        47.747222
-                  ]
-            },
-            {
-                  "name": "Place de la Réunion",
-                  "text": "The historic main square of the city, surrounded by colorful buildings and the ornate Renaissance Town Hall.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        7.338614,
-                        47.746833
-                  ]
-            },
-            {
-                  "name": "Town Hall (Hôtel de Ville)",
-                  "text": "A stunning Renaissance building famous for its painted exterior walls, now housing the city's historical museum.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        7.339277,
-                        47.746602
-                  ]
-            },
-            {
-                  "name": "Museum of Printed Textiles",
-                  "text": "This museum preserves the artistic and industrial heritage of textile printing, a craft that defined the city's history.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.3446,
-                        47.7451
-                  ]
-            },
-            {
-                  "name": "Zoological and Botanical Garden",
-                  "text": "A large urban park dedicated to the conservation of endangered animal species and the preservation of rare flora.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        7.350487,
-                        47.734652
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "This location in Mulhouse Sud offers a quiet setting for a walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "This mini-golf course in Mulhouse Sud is a great destination for a fun family outing.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "A lovely playground in Mulhouse Sud, offering children plenty of space to run and play.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Cité de l'Automobile",
-                  "text": "Le plus grand musée automobile au monde, abritant la célèbre collection Schlumpf avec plus de 400 voitures de luxe et de course.",
-                  "category": "museum",
-                  "coords": [
-                        7.328611,
-                        47.760833
-                  ]
-            },
-            {
-                  "name": "Cité du Train",
-                  "text": "Le musée ferroviaire national retrace l'histoire du rail en Europe avec une impressionnante collection de locomotives historiques.",
-                  "category": "museum",
-                  "coords": [
-                        7.293889,
-                        47.750556
-                  ]
-            },
-            {
-                  "name": "Temple Saint-Étienne",
-                  "text": "Église protestante sur la place de la Réunion, connue pour ses magnifiques vitraux du XIVe siècle.",
-                  "category": "religious",
-                  "coords": [
-                        7.338889,
-                        47.747222
-                  ]
-            },
-            {
-                  "name": "Place de la Réunion",
-                  "text": "Place centrale de la ville entourée de bâtiments colorés tels que l'hôtel de ville et le temple Saint-Étienne.",
-                  "category": "civic",
-                  "coords": [
-                        7.338614,
-                        47.746833
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "Hôtel de ville de style Renaissance, célèbre pour ses façades richement peintes, abritant le musée historique.",
-                  "category": "historical",
-                  "coords": [
-                        7.339277,
-                        47.746602
-                  ]
-            },
-            {
-                  "name": "Musée de l'Impression sur Étoffes",
-                  "text": "Musée unique au monde documentant l'histoire de l'industrie textile imprimée qui a fait la richesse de Mulhouse.",
-                  "category": "museum",
-                  "coords": [
-                        7.3446,
-                        47.7451
-                  ]
-            },
-            {
-                  "name": "Parc Zoologique et Botanique",
-                  "text": "Jardin magnifique dédié à la protection des espèces animales menacées et à la préservation de plantes rares.",
-                  "category": "natural",
-                  "coords": [
-                        7.350487,
-                        47.734652
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Cité de l'Automobile", "text": "Das größte Automobilmuseum der Welt beherbergt die berühmte Sammlung Schlumpf mit über 400 Luxus- und Rennwagen.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "Das nationale Eisenbahnmuseum zeigt die Geschichte der Schiene in Europa mit einer beeindruckenden Sammlung historischer Loks.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "Die protestantische Kirche am Place de la Réunion ist bekannt für ihre prächtigen Glasmalereien aus dem 14. Jahrhundert.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "Die Place de la Réunion bildet das bunte Zentrum im Bereich Mulhouse Sud in Frankreich. Typisch für diesen zivilen Treffpunkt sind die farbenfrohen Bauwerke, zu denen auch das Rathaus und der Tempel Saint-Étienne zählen. Bei einem Rundgang über den zentralen Platz lässt sich diese Architektur wunderbar bewundern.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Hôtel de Ville", "text": "Das Rathaus im Renaissancestil ist berühmt für seine reich verzierten Fassadenmalereien und beherbergt das Historische Museum.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Musée de l'Impression sur Étoffes", "text": "Dieses weltweit einzigartige Museum dokumentiert die Geschichte der Stoffdruckindustrie, die Mulhouse reich gemacht hat.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Zoologischer und Botanischer Garten", "text": "Ein wunderschöner Park, der sich dem Schutz bedrohter Tierarten und der Erhaltung seltener Pflanzen widmet.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Dieser Ort in Mulhouse Sud bietet eine ruhige Kulisse für einen Spaziergang am Wasser.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Minigolf", "text": "Diese Minigolfanlage in Mulhouse Sud ist ein tolles Ziel für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Ein schöner Spielplatz in Mulhouse Sud, der Kindern viel Platz zum Toben und Spielen bietet.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Familienbecken", "text": "Das Familienbecken in Mulhouse Sud ist so konzipiert, dass Schwimmer jeden Alters es gemeinsam genießen können.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Sprungturm", "text": "Diese Schwimmanlage in Mulhouse Sud verfügt über ein Sprungbrett für aktiven Familienspaß.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Streichelzoo", "text": "Dieser Kinderzoo in Mulhouse Sud bietet hautnahe Begegnungen mit freundlichen Tieren in einer sicheren Umgebung.", "category": "family", "coords": [7.352023, 47.737158]}], "hu": [{"name": "Autómúzeum (Cité de l'Automobile)", "text": "A világ legnagyobb autómúzeuma, amely a Schlumpf-fivérek elképesztő, több mint 400 darabos veteránautó-gyűjteményét őrzi.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Vasúti Múzeum (Cité du Train)", "text": "Franciaország nemzeti vasúti múzeuma, ahol hatalmas csarnokokban ismerhetjük meg a vasútfejlődés történetét és a híres mozdonyokat.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Szent István-templom", "text": "A főtéren álló protestáns templom Mulhouse egyik jelképe, amely 14. századi eredeti színes üvegablakairól nevezetes.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "A Place de la Réunion alkotja a franciaországi Mulhouse Sud színes központját. Erre a közösségi találkozóhelyre jellemzőek a festői épületek, amelyek közé tartozik a városháza és a Saint-Étienne templom is. A központi téren sétálva nagyszerűen megcsodálható ez a lenyűgöző építészet.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Városháza", "text": "A reneszánsz épület különlegessége a külső falakon látható élénk festés, belső termeiben pedig a városi történeti múzeum működik.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Textilmúzeum", "text": "A szövetnyomás történetét bemutató intézmény Mulhouse ipari múltjára emlékeztet, hatalmas mintagyűjteménnyel rendelkezik.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Állat- és Növénykert", "text": "Egy hatalmas zöld terület, amely különleges fajokat mutat be és fontos szerepet játszik a természetvédelemben.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Ez a Mulhouse Sud-i helyszín nyugodt környezetet biztosít egy vízparti sétához.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "Ez a Mulhouse Sud területén található minigolfpálya remek helyszín egy vidám családi kikapcsolódáshoz.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Egy kedves játszótér Mulhouse Sud területén, amely tágas helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "A Mulhouse Sud-i családi medencét úgy alakították ki, hogy minden korosztály együtt élvezhesse az úszást.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "Ez a Mulhouse Sud-i úszólétesítmény ugródeszkával várja az aktív családi szórakozást.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "Ez a Mulhouse Sud-i gyermekállatkert közeli találkozást kínál barátságos állatokkal, biztonságos környezetben.", "category": "family", "coords": [7.352023, 47.737158]}], "ro": [{"name": "Orașul Automobilului", "text": "Cel mai mare muzeu auto din lume, adăpostind colecția Schlumpf cu peste 400 de modele rare, inclusiv faimoasele Bugatti Royale.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Orașul Trenului", "text": "Muzeul Național al Căilor Ferate din Franța, prezentând o colecție vastă de locomotive și vagoane care au marcat istoria transportului.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Templul Saint-Étienne", "text": "O biserică protestantă impunătoare situată în inima orașului, celebră pentru vitraliile sale medievale conservate perfect.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Piața Reuniunii", "text": "Place de la Réunion formează centrul colorat din zona Mulhouse Sud din Franța. Acest punct de întâlnire civic se caracterizează prin clădirile sale viu colorate, care includ primăria și Templul Saint-Étienne. La o plimbare prin piața centrală, această arhitectură poate fi admirată în voie.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Primăria (Hôtel de Ville)", "text": "O clădire în stil renascentist rhenan, renumită pentru frescele exterioare care ilustrează virtuțile și istoria orașului.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Muzeul Imprimeurilor pe Țesături", "text": "Un muzeu unic care explorează arta designului textil și istoria industrială bogată a orașului Mulhouse.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Grădina Zoologică și Botanică", "text": "Un parc vast fondat în 1868, adăpostind peste 1200 de animale și grădini tematice cu specii de plante rare.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Această locație din Mulhouse Sud oferă un cadru liniștit pentru o plimbare lângă apă.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "Acest teren de minigolf din Mulhouse Sud este o destinație excelentă pentru o ieșire distractivă în familie.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Un loc de joacă plăcut în Mulhouse Sud, oferind copiilor spațiu generos pentru joacă și relaxare.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "Piscina familială din Mulhouse Sud este concepută pentru ca înotătorii de toate vârstele să se bucure împreună.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "Această bază de înot din Mulhouse Sud are o trambulină pentru distracție activă în familie.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "Această grădină zoologică pentru copii din Mulhouse Sud oferă întâlniri apropiate cu animale prietenoase într-un cadru sigur.", "category": "family", "coords": [7.352023, 47.737158]}], "en": [{"name": "Cité de l'Automobile", "text": "The world's largest car museum, featuring the legendary Schlumpf collection with over 400 vintage and luxury vehicles.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "The French national railway museum, showcasing a huge collection of historic locomotives and carriages in grand halls.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "The main Protestant church of Mulhouse, noted for its exceptional 14th-century stained glass windows and high spire.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "The Place de la Réunion forms the vibrant center in the Mulhouse Sud area of France. This civic meeting point is characterized by its brightly colored buildings, which include the town hall and the Saint-Étienne Temple. While walking across the central square, this architecture can be wonderfully admired.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Town Hall (Hôtel de Ville)", "text": "A stunning Renaissance building famous for its painted exterior walls, now housing the city's historical museum.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Museum of Printed Textiles", "text": "This museum preserves the artistic and industrial heritage of textile printing, a craft that defined the city's history.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Zoological and Botanical Garden", "text": "A large urban park dedicated to the conservation of endangered animal species and the preservation of rare flora.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "This location in Mulhouse Sud offers a quiet setting for a walk by the water.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "This mini-golf course in Mulhouse Sud is a great destination for a fun family outing.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "A lovely playground in Mulhouse Sud, offering children plenty of space to run and play.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "The family pool in Mulhouse Sud is designed for swimmers of all ages to enjoy together.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "This swimming facility in Mulhouse Sud features a diving board for active family fun.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "This children's zoo in Mulhouse Sud offers close encounters with friendly animals in a safe setting.", "category": "family", "coords": [7.352023, 47.737158]}], "fr": [{"name": "Cité de l'Automobile", "text": "Le plus grand musée automobile au monde, abritant la célèbre collection Schlumpf avec plus de 400 voitures de luxe et de course.", "category": "museum", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "Le musée ferroviaire national retrace l'histoire du rail en Europe avec une impressionnante collection de locomotives historiques.", "category": "museum", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "Église protestante sur la place de la Réunion, connue pour ses magnifiques vitraux du XIVe siècle.", "category": "religious", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "La Place de la Réunion constitue le centre coloré de la zone de Mulhouse Sud en France. Ce point de rencontre civique se caractérise par ses bâtiments aux couleurs vives, parmi lesquels on compte l'hôtel de ville et le temple Saint-Étienne. Lors d'une promenade sur la place centrale, on peut y admirer à merveille cette architecture.", "category": "civic", "coords": [7.338614, 47.746833]}, {"name": "Hôtel de Ville", "text": "Hôtel de ville de style Renaissance, célèbre pour ses façades richement peintes, abritant le musée historique.", "category": "historical", "coords": [7.339277, 47.746602]}, {"name": "Musée de l'Impression sur Étoffes", "text": "Musée unique au monde documentant l'histoire de l'industrie textile imprimée qui a fait la richesse de Mulhouse.", "category": "museum", "coords": [7.3446, 47.7451]}, {"name": "Parc Zoologique et Botanique", "text": "Jardin magnifique dédié à la protection des espèces animales menacées et à la préservation de plantes rares.", "category": "natural", "coords": [7.350487, 47.734652]}]}
   },
   {
     id: "france-besancon-west-cities-v2",
@@ -15791,6 +18268,33 @@ export const franceCitiesV2: POI[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Das Aquarium Georges BRESSE in Besancon Ouest zeigt verschiedene Wasserbewohner. Ein interessantes Ausflugsziel für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Der Zoo Magasin à poudre befindet sich in Besancon Ouest. Ein spannender Ort für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Der Jardin zoologique de la Citadelle de Besançon ist ein Zoo in Besancon Ouest. Ideal für Familien, die Tiere beobachten möchten.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "hu": [
@@ -15861,6 +18365,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "A Besancon Ouest-i Aquarium Georges BRESSE különféle vízi élőlényeket mutat be. Érdekes családi kirándulóhely.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "A Magasin à poudre állatkert Besancon Ouest-ban található. Izgalmas hely családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "A Jardin zoologique de la Citadelle de Besançon egy állatkert Besancon Ouest-ban. Ideális családoknak, akik állatokat szeretnének megfigyelni.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -15933,6 +18464,33 @@ export const franceCitiesV2: POI[] = [
                         5.999566,
                         47.233247
                   ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "Aquarium Georges BRESSE din Besancon Ouest expune diverse viețuitoare acvatice. O destinație interesantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "Grădina zoologică Magasin à poudre este situată în Besancon Ouest. Un loc interesant pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "Jardin zoologique de la Citadelle de Besançon este o grădină zoologică în Besancon Ouest. Ideală pentru familiile care doresc să observe animale.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
+                  ]
             }
       ],
       "en": [
@@ -16003,6 +18561,33 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.999566,
                         47.233247
+                  ]
+            },
+            {
+                  "name": "Aquarium Georges BRESSE",
+                  "text": "The Aquarium Georges BRESSE in Besancon Ouest displays various aquatic animals. An interesting destination for families.",
+                  "category": "family",
+                  "coords": [
+                        6.03446,
+                        47.228619
+                  ]
+            },
+            {
+                  "name": "Magasin à poudre",
+                  "text": "The Magasin à poudre zoo is located in Besancon Ouest. An exciting place for family outings.",
+                  "category": "family",
+                  "coords": [
+                        6.03574,
+                        47.228979
+                  ]
+            },
+            {
+                  "name": "Jardin zoologique de la Citadelle de Besançon",
+                  "text": "The Jardin zoologique de la Citadelle de Besançon is a zoo in Besancon Ouest. Ideal for families wanting to observe animals.",
+                  "category": "family",
+                  "coords": [
+                        6.035421,
+                        47.227956
                   ]
             }
       ],
@@ -16170,6 +18755,15 @@ export const franceCitiesV2: POI[] = [
                         0.359167,
                         46.575278
                   ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "Der Freizeitpark Ludi Fête in Poitiers Sud ist ein Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
+                  ]
             }
       ],
       "hu": [
@@ -16231,6 +18825,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.359167,
                         46.575278
+                  ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "A Poitiers déli részén található Ludi Fête szabadidőpark szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
                   ]
             }
       ],
@@ -16294,6 +18897,15 @@ export const franceCitiesV2: POI[] = [
                         0.359167,
                         46.575278
                   ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "Parcul de distracții Ludi Fête din Poitiers Sud este o distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
+                  ]
             }
       ],
       "en": [
@@ -16355,6 +18967,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.359167,
                         46.575278
+                  ]
+            },
+            {
+                  "name": "Ludi Fête",
+                  "text": "The theme park Ludi Fête in Poitiers Sud is fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.328095,
+                        46.558689
                   ]
             }
       ],
@@ -16567,6 +19188,15 @@ export const franceCitiesV2: POI[] = [
                         4.37844,
                         43.83337
                   ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Das Hammam el Yasmine in Nimes Nord ist ein traditionelles Badehaus, in dem Familien eine entspannte Atmosphäre erleben können.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
+                  ]
             }
       ],
       "hu": [
@@ -16673,6 +19303,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.37844,
                         43.83337
+                  ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "A Nimes Nord-i Hammam el Yasmine egy hagyományos fürdő, ahol a családok pihentető légkört tapasztalhatnak meg.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
                   ]
             }
       ],
@@ -16781,6 +19420,15 @@ export const franceCitiesV2: POI[] = [
                         4.37844,
                         43.83337
                   ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Hammam el Yasmine din Nimes Nord este o baie tradițională unde familiile pot experimenta o atmosferă relaxantă.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
+                  ]
             }
       ],
       "en": [
@@ -16887,6 +19535,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.37844,
                         43.83337
+                  ]
+            },
+            {
+                  "name": "Hammam el Yasmine",
+                  "text": "Hammam el Yasmine in Nimes Nord is a traditional bathhouse where families can experience a relaxing atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        4.373914,
+                        43.838388
                   ]
             }
       ],
@@ -17116,6 +19773,24 @@ export const franceCitiesV2: POI[] = [
                         -4.472579,
                         48.404856
                   ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Das Scuba center ist ein Wasserpark in Brest Nord. Ein tolles Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Das Océanopolis in Brest Nord ist ein Aquarium mit faszinierenden Meeresbewohnern. Ein schönes Ziel für einen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
+                  ]
             }
       ],
       "hu": [
@@ -17239,6 +19914,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -4.472579,
                         48.404856
+                  ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "A Scuba center egy vízipark Brest Nord-ban. Nagyszerű élmény az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "A Brest Nord-i Océanopolis egy akvárium lenyűgöző tengeri élőlényekkel. Szép úti cél egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
                   ]
             }
       ],
@@ -17364,6 +20057,24 @@ export const franceCitiesV2: POI[] = [
                         -4.472579,
                         48.404856
                   ]
+            },
+            {
+                  "name": "Espace Plongée des Docks",
+                  "text": "Scuba center este un parc acvatic în Brest Nord. O experiență excelentă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Océanopolis din Brest Nord este un acvariu cu creaturi marine fascinante. O destinație frumoasă pentru o vizită în familie.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
+                  ]
             }
       ],
       "en": [
@@ -17487,6 +20198,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -4.472579,
                         48.404856
+                  ]
+            },
+            {
+                  "name": "Scuba center",
+                  "text": "The Scuba center is a water park in Brest Nord. A great experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -4.491125,
+                        48.380278
+                  ]
+            },
+            {
+                  "name": "Océanopolis",
+                  "text": "Océanopolis in Brest Nord is an aquarium featuring fascinating marine life. A nice destination for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        -4.436154,
+                        48.389966
                   ]
             }
       ],
@@ -17645,6 +20374,15 @@ export const franceCitiesV2: POI[] = [
                         4.80587,
                         43.9459
                   ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "Das Schwimmbad Bassin nordique befindet sich in Avignon Sud.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
             }
       ],
       "hu": [
@@ -17706,6 +20444,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.80587,
                         43.9459
+                  ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "A Bassin nordique úszómedence Avignon déli részén található.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
                   ]
             }
       ],
@@ -17769,6 +20516,15 @@ export const franceCitiesV2: POI[] = [
                         4.80587,
                         43.9459
                   ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "Piscina Bassin nordique este situată în Avignon Sud.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
+                  ]
             }
       ],
       "en": [
@@ -17830,6 +20586,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.80587,
                         43.9459
+                  ]
+            },
+            {
+                  "name": "Bassin nordique",
+                  "text": "The swimming pool Bassin nordique is located in Avignon Sud.",
+                  "category": "family",
+                  "coords": [
+                        4.840624,
+                        43.929778
                   ]
             }
       ],
@@ -17997,6 +20762,15 @@ export const franceCitiesV2: POI[] = [
                         3.113075,
                         45.76173
                   ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Diese Thermaleinrichtung in Clermont Ferrand Sud bietet Badeanlagen in einem historischen Ambiente.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
             }
       ],
       "hu": [
@@ -18058,6 +20832,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.113075,
                         45.76173
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Ez a Clermont Ferrand Sud-i termálfürdő történelmi környezetben kínál fürdőzési lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
                   ]
             }
       ],
@@ -18121,6 +20904,15 @@ export const franceCitiesV2: POI[] = [
                         3.113075,
                         45.76173
                   ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "Acest așezământ termal din Clermont Ferrand Sud oferă facilități de baie într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
+                  ]
             }
       ],
       "en": [
@@ -18182,6 +20974,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.113075,
                         45.76173
+                  ]
+            },
+            {
+                  "name": "Etablissement Thermal de Royat-Chamalières",
+                  "text": "This thermal establishment in Clermont Ferrand Sud provides bathing facilities in a historic setting.",
+                  "category": "family",
+                  "coords": [
+                        3.057332,
+                        45.768244
                   ]
             }
       ],
@@ -18438,6 +21239,24 @@ export const franceCitiesV2: POI[] = [
                         0.679678,
                         47.353034
                   ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "Die Mini ferme in Tours Sud ist ein kleiner Zoo. Perfekt für Kinder, um Tiere hautnah zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili ist ein Zoo in Tours Sud. Ein interessantes Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
             }
       ],
       "hu": [
@@ -18588,6 +21407,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.679678,
                         47.353034
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "A Tours Sud-ban lévő Mini ferme egy kis állatkert. Tökéletes a gyerekek számára, hogy testközelből tapasztalják meg az állatokat.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "A Flamants du Chili egy állatkert Tours Sud-ban. Érdekes élmény az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
                   ]
             }
       ],
@@ -18740,6 +21577,24 @@ export const franceCitiesV2: POI[] = [
                         0.679678,
                         47.353034
                   ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "Mini ferme din Tours Sud este o mică grădină zoologică. Perfectă pentru copii pentru a experimenta animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili este o grădină zoologică în Tours Sud. O experiență interesantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
+                  ]
             }
       ],
       "en": [
@@ -18890,6 +21745,24 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.679678,
                         47.353034
+                  ]
+            },
+            {
+                  "name": "Mini ferme",
+                  "text": "The Mini ferme in Tours Sud is a small zoo. Perfect for children to experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        0.666921,
+                        47.38641
+                  ]
+            },
+            {
+                  "name": "Flamants du Chili",
+                  "text": "Flamants du Chili is a zoo in Tours Sud. An interesting experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        0.666864,
+                        47.385383
                   ]
             }
       ],

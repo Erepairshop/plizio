@@ -812,6 +812,87 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.74179,
                         52.017083
                   ]
+            },
+            {
+                  "name": "Eco Park",
+                  "text": "Der Eco Park in Milton Keynes bietet Freiflächen und umweltbezogene Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.728307,
+                        52.050766
+                  ]
+            },
+            {
+                  "name": "Kidsplay Activity Land",
+                  "text": "Das Kidsplay Activity Land bietet Indoor-Spielbereiche und Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.770691,
+                        52.021305
+                  ]
+            },
+            {
+                  "name": "Gambado",
+                  "text": "Gambado in Milton Keynes ist ein Indoor-Spielzentrum, das für Familienspaß konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        -0.772907,
+                        52.021792
+                  ]
+            },
+            {
+                  "name": "Stantonbury Leisure Centre",
+                  "text": "Stantonbury Leisure Centre bietet ein Schwimmbad und Sporteinrichtungen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.773049,
+                        52.060929
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions bietet spannende Spionage-Abenteuer und Herausforderungen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.76455,
+                        52.02783
+                  ]
+            },
+            {
+                  "name": "Gulliver's Land",
+                  "text": "Gulliver's Land ist ein Themenpark mit Attraktionen speziell für kleine Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.730963,
+                        52.051035
+                  ]
+            },
+            {
+                  "name": "Bounce",
+                  "text": "Bounce in Milton Keynes ist ein Indoor-Trampolinpark für aktive Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -0.738022,
+                        52.008681
+                  ]
+            },
+            {
+                  "name": "Gulliver's Dinosaur and Farm Park",
+                  "text": "Gulliver's Dinosaur and Farm Park bietet prähistorische Attraktionen und Tiere für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -0.730075,
+                        52.048727
+                  ]
+            },
+            {
+                  "name": "Splash ‘n’ Play",
+                  "text": "Splash ‘n’ Play ist ein Wasserspielbereich im Freien, ideal für Familienspaß in der Sonne.",
+                  "category": "family",
+                  "coords": [
+                        -0.724659,
+                        52.050599
+                  ]
             }
       ],
       "hu": [
@@ -1128,6 +1209,87 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.74179,
                         52.017083
+                  ]
+            },
+            {
+                  "name": "Eco Park",
+                  "text": "A Milton Keynes-i Eco Park szabadtéri területeket és környezetvédelmi tevékenységeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.728307,
+                        52.050766
+                  ]
+            },
+            {
+                  "name": "Kidsplay Activity Land",
+                  "text": "A Milton Keynes-i Kidsplay Activity Land fedett játszótereket és szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.770691,
+                        52.021305
+                  ]
+            },
+            {
+                  "name": "Gambado",
+                  "text": "A Milton Keynes-i Gambado egy fedett játszóház, amelyet családi szórakozásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        -0.772907,
+                        52.021792
+                  ]
+            },
+            {
+                  "name": "Stantonbury Leisure Centre",
+                  "text": "A Milton Keynes-i Stantonbury Leisure Centre úszómedencét és sportolási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.773049,
+                        52.060929
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "A Milton Keynes-i Si5 Spy Missions kém-témájú kalandokat és kihívásokat kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.76455,
+                        52.02783
+                  ]
+            },
+            {
+                  "name": "Gulliver's Land",
+                  "text": "A Milton Keynes-i Gulliver's Land kifejezetten kisgyermekeknek és családoknak kínál játékokat.",
+                  "category": "family",
+                  "coords": [
+                        -0.730963,
+                        52.051035
+                  ]
+            },
+            {
+                  "name": "Bounce",
+                  "text": "A Milton Keynes-i Bounce egy fedett trambulinpark, amely aktív szórakozást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.738022,
+                        52.008681
+                  ]
+            },
+            {
+                  "name": "Gulliver's Dinosaur and Farm Park",
+                  "text": "A Milton Keynes-i Gulliver's Dinosaur and Farm Park őskori látnivalókat és állatokat kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.730075,
+                        52.048727
+                  ]
+            },
+            {
+                  "name": "Splash ‘n’ Play",
+                  "text": "A Milton Keynes-i Splash ‘n’ Play egy szabadtéri vízi játszótér a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.724659,
+                        52.050599
                   ]
             }
       ],
@@ -1446,6 +1608,87 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.74179,
                         52.017083
                   ]
+            },
+            {
+                  "name": "Eco Park",
+                  "text": "Eco Park din Milton Keynes oferă spații în aer liber și activități ecologice pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.728307,
+                        52.050766
+                  ]
+            },
+            {
+                  "name": "Kidsplay Activity Land",
+                  "text": "Kidsplay Activity Land oferă zone de joacă interioare și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.770691,
+                        52.021305
+                  ]
+            },
+            {
+                  "name": "Gambado",
+                  "text": "Gambado este un centru de joacă interior conceput pentru distracția familiilor.",
+                  "category": "family",
+                  "coords": [
+                        -0.772907,
+                        52.021792
+                  ]
+            },
+            {
+                  "name": "Stantonbury Leisure Centre",
+                  "text": "Stantonbury Leisure Centre oferă o piscină și facilități sportive pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.773049,
+                        52.060929
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions oferă aventuri și provocări cu tematică de spionaj pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.76455,
+                        52.02783
+                  ]
+            },
+            {
+                  "name": "Gulliver's Land",
+                  "text": "Gulliver's Land este un parc tematic cu atracții specifice pentru copiii mici și familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.730963,
+                        52.051035
+                  ]
+            },
+            {
+                  "name": "Bounce",
+                  "text": "Bounce din Milton Keynes este un parc de trambuline interior pentru divertisment activ în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.738022,
+                        52.008681
+                  ]
+            },
+            {
+                  "name": "Gulliver's Dinosaur and Farm Park",
+                  "text": "Gulliver's Dinosaur and Farm Park oferă atracții preistorice și animale pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.730075,
+                        52.048727
+                  ]
+            },
+            {
+                  "name": "Splash ‘n’ Play",
+                  "text": "Splash ‘n’ Play este o zonă de joacă cu apă în aer liber, ideală pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.724659,
+                        52.050599
+                  ]
             }
       ],
       "en": [
@@ -1762,6 +2005,87 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.74179,
                         52.017083
+                  ]
+            },
+            {
+                  "name": "Eco Park",
+                  "text": "Eco Park in Milton Keynes offers outdoor spaces and environmental-themed activities for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.728307,
+                        52.050766
+                  ]
+            },
+            {
+                  "name": "Kidsplay Activity Land",
+                  "text": "Kidsplay Activity Land in Milton Keynes features indoor play areas and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.770691,
+                        52.021305
+                  ]
+            },
+            {
+                  "name": "Gambado",
+                  "text": "Gambado in Milton Keynes is an indoor play centre designed for family enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        -0.772907,
+                        52.021792
+                  ]
+            },
+            {
+                  "name": "Stantonbury Leisure Centre",
+                  "text": "Stantonbury Leisure Centre in Milton Keynes provides a swimming pool and sports facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.773049,
+                        52.060929
+                  ]
+            },
+            {
+                  "name": "Si5 Spy Missions",
+                  "text": "Si5 Spy Missions in Milton Keynes offers immersive spy-themed adventures and challenges for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.76455,
+                        52.02783
+                  ]
+            },
+            {
+                  "name": "Gulliver's Land",
+                  "text": "Gulliver's Land is a theme park with attractions specifically for young children and families.",
+                  "category": "family",
+                  "coords": [
+                        -0.730963,
+                        52.051035
+                  ]
+            },
+            {
+                  "name": "Bounce",
+                  "text": "Bounce in Milton Keynes is an indoor trampoline park providing active entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.738022,
+                        52.008681
+                  ]
+            },
+            {
+                  "name": "Gulliver's Dinosaur and Farm Park",
+                  "text": "Gulliver's Dinosaur and Farm Park offers prehistoric-themed attractions and animals for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.730075,
+                        52.048727
+                  ]
+            },
+            {
+                  "name": "Splash ‘n’ Play",
+                  "text": "Splash ‘n’ Play in Milton Keynes is an outdoor water play area ideal for family fun in the sun.",
+                  "category": "family",
+                  "coords": [
+                        -0.724659,
+                        52.050599
                   ]
             }
       ]

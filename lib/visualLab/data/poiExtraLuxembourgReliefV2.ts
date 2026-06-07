@@ -49,52 +49,7 @@ imageHint: "Kneiff summit stone marker Luxembourg",
     },
     image: "/poi-images/luxembourg-kneiff-relief-v2.webp",
 },  {
-    id: "luxembourg-buurgplaatz-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Deiffelt Beach",
-                  "text": "Strand nahe Buurgplaatz in Luxemburg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.007796,
-                        50.185865
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Deiffelt Beach",
-                  "text": "Luxemburg Buurgplaatz melletti strand.",
-                  "category": "recreational",
-                  "coords": [
-                        6.007796,
-                        50.185865
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Deiffelt Beach",
-                  "text": "Plajă lângă Buurgplaatz, Luxemburg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.007796,
-                        50.185865
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Deiffelt Beach",
-                  "text": "Beach near Buurgplaatz, Luxembourg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.007796,
-                        50.185865
-                  ]
-            }
-      ]
-},
+    id: "luxembourg-buurgplaatz-relief-v2", "sights": {"de": [{"name": "Deiffelt Beach", "text": "Versteckt in der Nähe von Buurgplaatz, überrascht der Deiffelt Beach als idyllischer kleiner Küsten- oder Uferabschnitt in Luxemburg. Die friedliche Atmosphäre lädt Spaziergänger und Naturliebhaber ein, am Wasser zu entspannen und dem Trubel zu entfliehen. Ein Besuch in den ruhigen Nachmittagsstunden garantiert ein besonders entspannendes Erlebnis in der Natur.", "category": "recreational", "coords": [6.007796, 50.185865]}], "hu": [{"name": "Deiffelt Beach", "text": "A Buurgplaatz közelében megbúvó Deiffelt Beach idilli kis vízparti szakaszként lepi meg a luxemburgi látogatókat. A békés légkör sétára és pihenésre hívja a természet szerelmeseit, távol a mindennapok zajától. A nyugodt délutáni órákban tett látogatás különösen pihentető és természetközeli élményt nyújt.", "category": "recreational", "coords": [6.007796, 50.185865]}], "ro": [{"name": "Deiffelt Beach", "text": "Ascunsă lângă Buurgplaatz, Deiffelt Beach surprinde vizitatorii ca o mică și idilică porțiune de coastă în Luxemburg. Atmosfera profund pașnică invită la plimbări și relaxare pe malul apei, departe de agitația zilnică. O ieșire aici în orele liniștite ale după-amiezii garantează o experiență naturală minunată.", "category": "recreational", "coords": [6.007796, 50.185865]}], "en": [{"name": "Deiffelt Beach", "text": "Hidden away near Buurgplaatz, Deiffelt Beach surprises visitors as an idyllic small shore section in Luxembourg. The deeply peaceful atmosphere invites walkers and nature enthusiasts to relax by the water and escape the daily grind. Taking a trip here during the quiet afternoon hours ensures a wonderfully refreshing natural experience.", "category": "recreational", "coords": [6.007796, 50.185865]}]},
     parent: "LU",
     type: "peak",
     name: { de: "Buurgplaatz", hu: "Buurgplaatz", ro: "Buurgplaatz", en: "Buurgplaatz"},

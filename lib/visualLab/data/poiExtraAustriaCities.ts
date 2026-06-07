@@ -3,772 +3,7 @@ import type { POI } from "./poi";
 
 export const austriaCities: POI[] = [
   {
-    id: "at-tulln-an-der-donau", "sights": {
-      "de": [
-            {
-                  "name": "Stadtmuseum Tulln",
-                  "text": "Ein Museum in Tulln, das die römische Geschichte des antiken Lagers Comagenis zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.057098,
-                        48.333309
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
-                  "text": "Das Geburtshaus des Künstlers Egon Schiele am Bahnhof Tulln.",
-                  "category": "museum",
-                  "coords": [
-                        16.063954,
-                        48.327474
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Museum",
-                  "text": "Ein Museum, das dem Leben und Werk des expressionistischen Malers Egon Schiele gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.052836,
-                        48.332974
-                  ]
-            },
-            {
-                  "name": "Danubium",
-                  "text": "Ein Kultur- und Veranstaltungszentrum in Tulln an der Donau.",
-                  "category": "cultural",
-                  "coords": [
-                        16.049698,
-                        48.331367
-                  ]
-            },
-            {
-                  "name": "DonauSplash Tulln",
-                  "text": "Ein Hallenbad und eine Wasserfreizeitanlage in Tulln.",
-                  "category": "family",
-                  "coords": [
-                        16.062296,
-                        48.333422
-                  ]
-            },
-            {
-                  "name": "Schanze",
-                  "text": "Eine archäologische Stätte mit historischen Befestigungsanlagen in Tulln.",
-                  "category": "historical",
-                  "coords": [
-                        16.072289,
-                        48.339873
-                  ]
-            },
-            {
-                  "name": "Die Garten Tulln",
-                  "text": "Eine große ökologische Gartenschau mit zahlreichen Themen-Gärten in Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.03459,
-                        48.329558
-                  ]
-            },
-            {
-                  "name": "Karner",
-                  "text": "Ein spätromanischer Karner in Tulln, bekannt für sein kunstvolles Portal.",
-                  "category": "landmark",
-                  "coords": [
-                        16.057345,
-                        48.331381
-                  ]
-            },
-            {
-                  "name": "Aubad Tulln",
-                  "text": "Das Aubad in Tulln ist ein weitläufiges Erholungsgebiet mit einem Naturbadesee.",
-                  "category": "park",
-                  "coords": [
-                        16.078794,
-                        48.331634
-                  ]
-            },
-            {
-                  "name": "Baumwipfelweg",
-                  "text": "Der Baumwipfelweg in Tulln bietet einen weiten Ausblick über das Gelände der Garten Tulln.",
-                  "category": "natural",
-                  "coords": [
-                        16.033194,
-                        48.329967
-                  ]
-            },
-            {
-                  "name": "Donaubühne Tulln",
-                  "text": "Die Donaubühne in Tulln ist eine bekannte Freiluftbühne direkt am Donauufer.",
-                  "category": "landmark",
-                  "coords": [
-                        16.052801,
-                        48.333991
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche",
-                  "text": "Die evangelische Kirche ist ein sakraler Ort für die protestantische Gemeinde in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.064413,
-                        48.329631
-                  ]
-            },
-            {
-                  "name": "St. Severin",
-                  "text": "Die römisch-katholische Pfarrkirche St. Severin dient als Gotteshaus in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.068106,
-                        48.32283
-                  ]
-            },
-            {
-                  "name": "Filialkirche Maria Heimsuchung",
-                  "text": "Die Filialkirche Maria Heimsuchung ist eine römisch-katholische Kapelle in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.080918,
-                        48.307989
-                  ]
-            },
-            {
-                  "name": "Saab Draken",
-                  "text": "Ein Saab Draken Kampfflugzeug steht als Denkmal am Kreisel in Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.084797,
-                        48.318773
-                  ]
-            },
-            {
-                  "name": "Hundertwasser-Schiff \"Regentag\"",
-                  "text": "Das Schiff „Regentag“ wurde vom Künstler Friedensreich Hundertwasser gestaltet.",
-                  "category": "landmark",
-                  "coords": [
-                        16.048797,
-                        48.333476
-                  ]
-            },
-            {
-                  "name": "MS Stadt Wien",
-                  "text": "Die MS Stadt Wien ist ein historisches Schaufelradschiff, das in Tulln vor Anker liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        16.050975,
-                        48.333964
-                  ]
-            },
-            {
-                  "name": "Rosskopfteich",
-                  "text": "Ein ruhiger See in Tulln an der Donau, ideal für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        16.059669,
-                        48.357612
-                  ]
-            },
-            {
-                  "name": "Erdabsetzbecken",
-                  "text": "Ein Gewässer in Tulln an der Donau mit einer ruhigen Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        16.057014,
-                        48.347804
-                  ]
-            },
-            {
-                  "name": "Hochwiesegraben",
-                  "text": "Ein kleiner See in Tulln an der Donau, umgeben von schöner Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        16.028526,
-                        48.329918
-                  ]
-            },
-            {
-                  "name": "Krakeninsel",
-                  "text": "Ein spannender Spielplatz in Tulln an der Donau für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        16.074679,
-                        48.332156
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stadtmuseum Tulln",
-                  "text": "Tullni múzeum, amely az ókori Comagenis tábor római kori történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.057098,
-                        48.333309
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
-                  "text": "Egon Schiele művész szülőháza a tullni vasútállomásnál.",
-                  "category": "museum",
-                  "coords": [
-                        16.063954,
-                        48.327474
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Museum",
-                  "text": "Egon Schiele expresszionista festő életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        16.052836,
-                        48.332974
-                  ]
-            },
-            {
-                  "name": "Danubium",
-                  "text": "Kulturális és rendezvényközpont Tulln an der Donau városában.",
-                  "category": "cultural",
-                  "coords": [
-                        16.049698,
-                        48.331367
-                  ]
-            },
-            {
-                  "name": "DonauSplash Tulln",
-                  "text": "Fedett uszoda és vízi élményközpont Tullnban.",
-                  "category": "family",
-                  "coords": [
-                        16.062296,
-                        48.333422
-                  ]
-            },
-            {
-                  "name": "Schanze",
-                  "text": "Régészeti lelőhely történelmi erődítményekkel Tullnban.",
-                  "category": "historical",
-                  "coords": [
-                        16.072289,
-                        48.339873
-                  ]
-            },
-            {
-                  "name": "Die Garten Tulln",
-                  "text": "Nagyszabású ökológiai kertkiállítás számos tematikus kerttel Tullnban.",
-                  "category": "landmark",
-                  "coords": [
-                        16.03459,
-                        48.329558
-                  ]
-            },
-            {
-                  "name": "Karner",
-                  "text": "Késő román kori csontkamra Tullnban, amely díszes kapujáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        16.057345,
-                        48.331381
-                  ]
-            },
-            {
-                  "name": "Aubad Tulln",
-                  "text": "A tullni Aubad egy kiterjedt szabadidős terület természetes fürdőtóval.",
-                  "category": "park",
-                  "coords": [
-                        16.078794,
-                        48.331634
-                  ]
-            },
-            {
-                  "name": "Baumwipfelweg",
-                  "text": "A tullni lombkoronaösvény kilátást nyújt a Garten Tulln területére.",
-                  "category": "natural",
-                  "coords": [
-                        16.033194,
-                        48.329967
-                  ]
-            },
-            {
-                  "name": "Donaubühne Tulln",
-                  "text": "A tullni Donaubühne egy népszerű szabadtéri színpad közvetlenül a Duna partján.",
-                  "category": "landmark",
-                  "coords": [
-                        16.052801,
-                        48.333991
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche",
-                  "text": "Az evangélikus templom a tullni protestáns közösség istentiszteleti helye.",
-                  "category": "religious",
-                  "coords": [
-                        16.064413,
-                        48.329631
-                  ]
-            },
-            {
-                  "name": "St. Severin",
-                  "text": "A tullni Szent Szeverin-plébániatemplom a helyi katolikus közösség temploma.",
-                  "category": "religious",
-                  "coords": [
-                        16.068106,
-                        48.32283
-                  ]
-            },
-            {
-                  "name": "Filialkirche Maria Heimsuchung",
-                  "text": "A Mária látogatása fióktemplom egy római katolikus kápolna Tullnban.",
-                  "category": "religious",
-                  "coords": [
-                        16.080918,
-                        48.307989
-                  ]
-            },
-            {
-                  "name": "Saab Draken",
-                  "text": "Egy Saab Draken vadászgép áll emlékműként egy tullni körforgalomnál.",
-                  "category": "landmark",
-                  "coords": [
-                        16.084797,
-                        48.318773
-                  ]
-            },
-            {
-                  "name": "Hundertwasser-Schiff \"Regentag\"",
-                  "text": "A „Regentag” nevű hajót Friedensreich Hundertwasser művész alakította ki.",
-                  "category": "landmark",
-                  "coords": [
-                        16.048797,
-                        48.333476
-                  ]
-            },
-            {
-                  "name": "MS Stadt Wien",
-                  "text": "Az MS Stadt Wien egy történelmi lapátkerekes gőzhajó, amely Tullnban állomásozik.",
-                  "category": "landmark",
-                  "coords": [
-                        16.050975,
-                        48.333964
-                  ]
-            },
-            {
-                  "name": "Rosskopfteich",
-                  "text": "Egy csendes tó Tulln an der Donauban, amely ideális természeti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.059669,
-                        48.357612
-                  ]
-            },
-            {
-                  "name": "Erdabsetzbecken",
-                  "text": "Egy vízfelület Tulln an der Donauban, nyugodt légkörrel.",
-                  "category": "natural",
-                  "coords": [
-                        16.057014,
-                        48.347804
-                  ]
-            },
-            {
-                  "name": "Hochwiesegraben",
-                  "text": "Egy kis tó Tulln an der Donauban, szép tájjal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        16.028526,
-                        48.329918
-                  ]
-            },
-            {
-                  "name": "Krakeninsel",
-                  "text": "Izgalmas játszótér Tulln an der Donauban az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        16.074679,
-                        48.332156
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stadtmuseum Tulln",
-                  "text": "Un muzeu din Tulln care prezintă istoria romană a vechiului castru Comagenis.",
-                  "category": "museum",
-                  "coords": [
-                        16.057098,
-                        48.333309
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
-                  "text": "Casa natală a artistului Egon Schiele, situată la gara din Tulln.",
-                  "category": "museum",
-                  "coords": [
-                        16.063954,
-                        48.327474
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Museum",
-                  "text": "Un muzeu dedicat vieții și operei pictorului expresionist Egon Schiele.",
-                  "category": "museum",
-                  "coords": [
-                        16.052836,
-                        48.332974
-                  ]
-            },
-            {
-                  "name": "Danubium",
-                  "text": "Un centru cultural și de evenimente în Tulln an der Donau.",
-                  "category": "cultural",
-                  "coords": [
-                        16.049698,
-                        48.331367
-                  ]
-            },
-            {
-                  "name": "DonauSplash Tulln",
-                  "text": "O piscină acoperită și facilitate de agrement acvatic în Tulln.",
-                  "category": "family",
-                  "coords": [
-                        16.062296,
-                        48.333422
-                  ]
-            },
-            {
-                  "name": "Schanze",
-                  "text": "Un sit arheologic care prezintă fortificații istorice în Tulln.",
-                  "category": "historical",
-                  "coords": [
-                        16.072289,
-                        48.339873
-                  ]
-            },
-            {
-                  "name": "Die Garten Tulln",
-                  "text": "O mare expoziție de grădini ecologice, cu numeroase grădini tematice în Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.03459,
-                        48.329558
-                  ]
-            },
-            {
-                  "name": "Karner",
-                  "text": "Un osuar în stil romanic târziu din Tulln, cunoscut pentru portalul său detaliat.",
-                  "category": "landmark",
-                  "coords": [
-                        16.057345,
-                        48.331381
-                  ]
-            },
-            {
-                  "name": "Aubad Tulln",
-                  "text": "Aubad din Tulln este o zonă de recreere vastă, cu un lac natural pentru înot.",
-                  "category": "park",
-                  "coords": [
-                        16.078794,
-                        48.331634
-                  ]
-            },
-            {
-                  "name": "Baumwipfelweg",
-                  "text": "Traseul printre coroanele copacilor din Tulln oferă o vedere panoramică asupra grădinilor.",
-                  "category": "natural",
-                  "coords": [
-                        16.033194,
-                        48.329967
-                  ]
-            },
-            {
-                  "name": "Donaubühne Tulln",
-                  "text": "Donaubühne din Tulln este o scenă în aer liber situată direct pe malul Dunării.",
-                  "category": "landmark",
-                  "coords": [
-                        16.052801,
-                        48.333991
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche",
-                  "text": "Biserica evanghelică este un lăcaș de cult pentru comunitatea protestantă din Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.064413,
-                        48.329631
-                  ]
-            },
-            {
-                  "name": "St. Severin",
-                  "text": "Biserica parohială Sfântul Severin din Tulln servește ca lăcaș de cult romano-catolic.",
-                  "category": "religious",
-                  "coords": [
-                        16.068106,
-                        48.32283
-                  ]
-            },
-            {
-                  "name": "Filialkirche Maria Heimsuchung",
-                  "text": "Biserica Maria Heimsuchung este o capelă romano-catolică situată în Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.080918,
-                        48.307989
-                  ]
-            },
-            {
-                  "name": "Saab Draken",
-                  "text": "Un avion de vânătoare Saab Draken este expus ca monument într-un sens giratoriu din Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.084797,
-                        48.318773
-                  ]
-            },
-            {
-                  "name": "Hundertwasser-Schiff \"Regentag\"",
-                  "text": "Nava „Regentag” a fost amenajată de către artistul Friedensreich Hundertwasser.",
-                  "category": "landmark",
-                  "coords": [
-                        16.048797,
-                        48.333476
-                  ]
-            },
-            {
-                  "name": "MS Stadt Wien",
-                  "text": "MS Stadt Wien este o navă istorică cu roți cu palate, ancorată în Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.050975,
-                        48.333964
-                  ]
-            },
-            {
-                  "name": "Rosskopfteich",
-                  "text": "Un lac liniștit în Tulln an der Donau, ideal pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.059669,
-                        48.357612
-                  ]
-            },
-            {
-                  "name": "Erdabsetzbecken",
-                  "text": "Un corp de apă în Tulln an der Donau, cu o atmosferă liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        16.057014,
-                        48.347804
-                  ]
-            },
-            {
-                  "name": "Hochwiesegraben",
-                  "text": "Un mic lac în Tulln an der Donau, înconjurat de un peisaj frumos.",
-                  "category": "natural",
-                  "coords": [
-                        16.028526,
-                        48.329918
-                  ]
-            },
-            {
-                  "name": "Krakeninsel",
-                  "text": "Un loc de joacă captivant în Tulln an der Donau pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        16.074679,
-                        48.332156
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stadtmuseum Tulln",
-                  "text": "A museum in Tulln showcasing the Roman history of the ancient camp Comagenis.",
-                  "category": "museum",
-                  "coords": [
-                        16.057098,
-                        48.333309
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
-                  "text": "The birthplace of artist Egon Schiele, located at the Tulln railway station.",
-                  "category": "museum",
-                  "coords": [
-                        16.063954,
-                        48.327474
-                  ]
-            },
-            {
-                  "name": "Egon Schiele Museum",
-                  "text": "A museum dedicated to the life and work of the expressionist painter Egon Schiele.",
-                  "category": "museum",
-                  "coords": [
-                        16.052836,
-                        48.332974
-                  ]
-            },
-            {
-                  "name": "Danubium",
-                  "text": "A cultural and event center in Tulln an der Donau.",
-                  "category": "cultural",
-                  "coords": [
-                        16.049698,
-                        48.331367
-                  ]
-            },
-            {
-                  "name": "DonauSplash Tulln",
-                  "text": "An indoor swimming pool and water leisure facility in Tulln.",
-                  "category": "family",
-                  "coords": [
-                        16.062296,
-                        48.333422
-                  ]
-            },
-            {
-                  "name": "Schanze",
-                  "text": "An archaeological site featuring historical fortifications in Tulln.",
-                  "category": "historical",
-                  "coords": [
-                        16.072289,
-                        48.339873
-                  ]
-            },
-            {
-                  "name": "Die Garten Tulln",
-                  "text": "A large ecological garden show featuring numerous themed gardens in Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.03459,
-                        48.329558
-                  ]
-            },
-            {
-                  "name": "Karner",
-                  "text": "A late Romanesque charnel house in Tulln, known for its intricate portal.",
-                  "category": "landmark",
-                  "coords": [
-                        16.057345,
-                        48.331381
-                  ]
-            },
-            {
-                  "name": "Aubad Tulln",
-                  "text": "Aubad Tulln is a large recreation area featuring a natural swimming lake.",
-                  "category": "park",
-                  "coords": [
-                        16.078794,
-                        48.331634
-                  ]
-            },
-            {
-                  "name": "Baumwipfelweg",
-                  "text": "The treetop path in Tulln offers a wide view over the Garten Tulln grounds.",
-                  "category": "natural",
-                  "coords": [
-                        16.033194,
-                        48.329967
-                  ]
-            },
-            {
-                  "name": "Donaubühne Tulln",
-                  "text": "The Donaubühne in Tulln is a popular open-air stage located directly on the banks of the Danube.",
-                  "category": "landmark",
-                  "coords": [
-                        16.052801,
-                        48.333991
-                  ]
-            },
-            {
-                  "name": "Evangelische Kirche",
-                  "text": "The Protestant church is a place of worship for the local congregation in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.064413,
-                        48.329631
-                  ]
-            },
-            {
-                  "name": "St. Severin",
-                  "text": "The Roman Catholic Parish Church of St. Severin serves as a place of worship in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.068106,
-                        48.32283
-                  ]
-            },
-            {
-                  "name": "Filialkirche Maria Heimsuchung",
-                  "text": "The Filial Church of Maria Heimsuchung is a Roman Catholic chapel in Tulln.",
-                  "category": "religious",
-                  "coords": [
-                        16.080918,
-                        48.307989
-                  ]
-            },
-            {
-                  "name": "Saab Draken",
-                  "text": "A Saab Draken fighter jet is displayed as a monument at a roundabout in Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.084797,
-                        48.318773
-                  ]
-            },
-            {
-                  "name": "Hundertwasser-Schiff \"Regentag\"",
-                  "text": "The ship \"Regentag\" was designed and used by the artist Friedensreich Hundertwasser.",
-                  "category": "landmark",
-                  "coords": [
-                        16.048797,
-                        48.333476
-                  ]
-            },
-            {
-                  "name": "MS Stadt Wien",
-                  "text": "The MS Stadt Wien is a historic paddle steamer anchored in Tulln.",
-                  "category": "landmark",
-                  "coords": [
-                        16.050975,
-                        48.333964
-                  ]
-            },
-            {
-                  "name": "Rosskopfteich",
-                  "text": "A quiet lake in Tulln an der Donau, ideal for nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        16.059669,
-                        48.357612
-                  ]
-            },
-            {
-                  "name": "Erdabsetzbecken",
-                  "text": "A body of water in Tulln an der Donau with a calm atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        16.057014,
-                        48.347804
-                  ]
-            },
-            {
-                  "name": "Hochwiesegraben",
-                  "text": "A small lake in Tulln an der Donau, surrounded by beautiful scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.028526,
-                        48.329918
-                  ]
-            },
-            {
-                  "name": "Krakeninsel",
-                  "text": "An exciting playground in Tulln an der Donau for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        16.074679,
-                        48.332156
-                  ]
-            }
-      ]
-},
+    id: "at-tulln-an-der-donau", "sights": {"de": [{"name": "Stadtmuseum Tulln", "text": "Ein Museum in Tulln, das die römische Geschichte des antiken Lagers Comagenis zeigt.", "category": "museum", "coords": [16.057098, 48.333309]}, {"name": "Egon Schiele Geburtshaus am Bahnhof Tulln", "text": "Das Geburtshaus des Künstlers Egon Schiele am Bahnhof Tulln.", "category": "museum", "coords": [16.063954, 48.327474]}, {"name": "Egon Schiele Museum", "text": "In der österreichischen Stadt Tulln An Der Danube ehrt das Egon Schiele Museum einen der bedeutendsten Künstler des Landes. Die Museumsräume sind speziell dem Leben und dem expressiven Werk des Malers Egon Schiele gewidmet. Kunstinteressierte finden hier eine hervorragende Möglichkeit, seine Kunst intensiv zu erleben.", "category": "museum", "coords": [16.052836, 48.332974]}, {"name": "Danubium", "text": "Ein Kultur- und Veranstaltungszentrum in Tulln an der Donau.", "category": "cultural", "coords": [16.049698, 48.331367]}, {"name": "DonauSplash Tulln", "text": "Ein Hallenbad und eine Wasserfreizeitanlage in Tulln.", "category": "family", "coords": [16.062296, 48.333422]}, {"name": "Schanze", "text": "Eine archäologische Stätte mit historischen Befestigungsanlagen in Tulln.", "category": "historical", "coords": [16.072289, 48.339873]}, {"name": "Die Garten Tulln", "text": "Eine große ökologische Gartenschau mit zahlreichen Themen-Gärten in Tulln.", "category": "landmark", "coords": [16.03459, 48.329558]}, {"name": "Karner", "text": "Ein spätromanischer Karner in Tulln, bekannt für sein kunstvolles Portal.", "category": "landmark", "coords": [16.057345, 48.331381]}, {"name": "Aubad Tulln", "text": "Das Aubad in Tulln ist ein weitläufiges Erholungsgebiet mit einem Naturbadesee.", "category": "park", "coords": [16.078794, 48.331634]}, {"name": "Baumwipfelweg", "text": "Der Baumwipfelweg in Tulln bietet einen weiten Ausblick über das Gelände der Garten Tulln.", "category": "natural", "coords": [16.033194, 48.329967]}, {"name": "Donaubühne Tulln", "text": "Die Donaubühne in Tulln ist eine bekannte Freiluftbühne direkt am Donauufer.", "category": "landmark", "coords": [16.052801, 48.333991]}, {"name": "Evangelische Kirche", "text": "Die evangelische Kirche ist ein sakraler Ort für die protestantische Gemeinde in Tulln.", "category": "religious", "coords": [16.064413, 48.329631]}, {"name": "St. Severin", "text": "Die römisch-katholische Pfarrkirche St. Severin dient als Gotteshaus in Tulln.", "category": "religious", "coords": [16.068106, 48.32283]}, {"name": "Filialkirche Maria Heimsuchung", "text": "Die Filialkirche Maria Heimsuchung ist eine römisch-katholische Kapelle in Tulln.", "category": "religious", "coords": [16.080918, 48.307989]}, {"name": "Saab Draken", "text": "Ein Saab Draken Kampfflugzeug steht als Denkmal am Kreisel in Tulln.", "category": "landmark", "coords": [16.084797, 48.318773]}, {"name": "Hundertwasser-Schiff \"Regentag\"", "text": "Das Schiff „Regentag“ wurde vom Künstler Friedensreich Hundertwasser gestaltet.", "category": "landmark", "coords": [16.048797, 48.333476]}, {"name": "MS Stadt Wien", "text": "Die MS Stadt Wien ist ein historisches Schaufelradschiff, das in Tulln vor Anker liegt.", "category": "landmark", "coords": [16.050975, 48.333964]}, {"name": "Rosskopfteich", "text": "Ein ruhiger See in Tulln an der Donau, ideal für Spaziergänge in der Natur.", "category": "natural", "coords": [16.059669, 48.357612]}, {"name": "Erdabsetzbecken", "text": "Ein Gewässer in Tulln an der Donau mit einer ruhigen Atmosphäre.", "category": "natural", "coords": [16.057014, 48.347804]}, {"name": "Hochwiesegraben", "text": "Ein kleiner See in Tulln an der Donau, umgeben von schöner Landschaft.", "category": "natural", "coords": [16.028526, 48.329918]}, {"name": "Krakeninsel", "text": "Ein spannender Spielplatz in Tulln an der Donau für die ganze Familie.", "category": "family", "coords": [16.074679, 48.332156]}], "hu": [{"name": "Stadtmuseum Tulln", "text": "Tullni múzeum, amely az ókori Comagenis tábor római kori történelmét mutatja be.", "category": "museum", "coords": [16.057098, 48.333309]}, {"name": "Egon Schiele Geburtshaus am Bahnhof Tulln", "text": "Egon Schiele művész szülőháza a tullni vasútállomásnál.", "category": "museum", "coords": [16.063954, 48.327474]}, {"name": "Egon Schiele Museum", "text": "Az ausztriai Tulln An Der Danube városában az Egon Schiele Museum az ország egyik legjelentősebb művészének állít emléket. A múzeum tereit kifejezetten Egon Schiele festő életének és expresszív munkásságának szentelték. A művészet iránt érdeklődők itt kiváló lehetőséget találnak művészetének intenzív megismerésére.", "category": "museum", "coords": [16.052836, 48.332974]}, {"name": "Danubium", "text": "Kulturális és rendezvényközpont Tulln an der Donau városában.", "category": "cultural", "coords": [16.049698, 48.331367]}, {"name": "DonauSplash Tulln", "text": "Fedett uszoda és vízi élményközpont Tullnban.", "category": "family", "coords": [16.062296, 48.333422]}, {"name": "Schanze", "text": "Régészeti lelőhely történelmi erődítményekkel Tullnban.", "category": "historical", "coords": [16.072289, 48.339873]}, {"name": "Die Garten Tulln", "text": "Nagyszabású ökológiai kertkiállítás számos tematikus kerttel Tullnban.", "category": "landmark", "coords": [16.03459, 48.329558]}, {"name": "Karner", "text": "Késő román kori csontkamra Tullnban, amely díszes kapujáról ismert.", "category": "landmark", "coords": [16.057345, 48.331381]}, {"name": "Aubad Tulln", "text": "A tullni Aubad egy kiterjedt szabadidős terület természetes fürdőtóval.", "category": "park", "coords": [16.078794, 48.331634]}, {"name": "Baumwipfelweg", "text": "A tullni lombkoronaösvény kilátást nyújt a Garten Tulln területére.", "category": "natural", "coords": [16.033194, 48.329967]}, {"name": "Donaubühne Tulln", "text": "A tullni Donaubühne egy népszerű szabadtéri színpad közvetlenül a Duna partján.", "category": "landmark", "coords": [16.052801, 48.333991]}, {"name": "Evangelische Kirche", "text": "Az evangélikus templom a tullni protestáns közösség istentiszteleti helye.", "category": "religious", "coords": [16.064413, 48.329631]}, {"name": "St. Severin", "text": "A tullni Szent Szeverin-plébániatemplom a helyi katolikus közösség temploma.", "category": "religious", "coords": [16.068106, 48.32283]}, {"name": "Filialkirche Maria Heimsuchung", "text": "A Mária látogatása fióktemplom egy római katolikus kápolna Tullnban.", "category": "religious", "coords": [16.080918, 48.307989]}, {"name": "Saab Draken", "text": "Egy Saab Draken vadászgép áll emlékműként egy tullni körforgalomnál.", "category": "landmark", "coords": [16.084797, 48.318773]}, {"name": "Hundertwasser-Schiff \"Regentag\"", "text": "A „Regentag” nevű hajót Friedensreich Hundertwasser művész alakította ki.", "category": "landmark", "coords": [16.048797, 48.333476]}, {"name": "MS Stadt Wien", "text": "Az MS Stadt Wien egy történelmi lapátkerekes gőzhajó, amely Tullnban állomásozik.", "category": "landmark", "coords": [16.050975, 48.333964]}, {"name": "Rosskopfteich", "text": "Egy csendes tó Tulln an der Donauban, amely ideális természeti sétákhoz.", "category": "natural", "coords": [16.059669, 48.357612]}, {"name": "Erdabsetzbecken", "text": "Egy vízfelület Tulln an der Donauban, nyugodt légkörrel.", "category": "natural", "coords": [16.057014, 48.347804]}, {"name": "Hochwiesegraben", "text": "Egy kis tó Tulln an der Donauban, szép tájjal körülvéve.", "category": "natural", "coords": [16.028526, 48.329918]}, {"name": "Krakeninsel", "text": "Izgalmas játszótér Tulln an der Donauban az egész család számára.", "category": "family", "coords": [16.074679, 48.332156]}], "ro": [{"name": "Stadtmuseum Tulln", "text": "Un muzeu din Tulln care prezintă istoria romană a vechiului castru Comagenis.", "category": "museum", "coords": [16.057098, 48.333309]}, {"name": "Egon Schiele Geburtshaus am Bahnhof Tulln", "text": "Casa natală a artistului Egon Schiele, situată la gara din Tulln.", "category": "museum", "coords": [16.063954, 48.327474]}, {"name": "Egon Schiele Museum", "text": "În orașul austriac Tulln An Der Danube, Egon Schiele Museum onorează unul dintre cei mai importanți artiști ai țării. Spațiile muzeului sunt dedicate în mod special vieții și operei expresive a pictorului Egon Schiele. Pasionații de artă găsesc aici o oportunitate excelentă de a experimenta intens arta sa.", "category": "museum", "coords": [16.052836, 48.332974]}, {"name": "Danubium", "text": "Un centru cultural și de evenimente în Tulln an der Donau.", "category": "cultural", "coords": [16.049698, 48.331367]}, {"name": "DonauSplash Tulln", "text": "O piscină acoperită și facilitate de agrement acvatic în Tulln.", "category": "family", "coords": [16.062296, 48.333422]}, {"name": "Schanze", "text": "Un sit arheologic care prezintă fortificații istorice în Tulln.", "category": "historical", "coords": [16.072289, 48.339873]}, {"name": "Die Garten Tulln", "text": "O mare expoziție de grădini ecologice, cu numeroase grădini tematice în Tulln.", "category": "landmark", "coords": [16.03459, 48.329558]}, {"name": "Karner", "text": "Un osuar în stil romanic târziu din Tulln, cunoscut pentru portalul său detaliat.", "category": "landmark", "coords": [16.057345, 48.331381]}, {"name": "Aubad Tulln", "text": "Aubad din Tulln este o zonă de recreere vastă, cu un lac natural pentru înot.", "category": "park", "coords": [16.078794, 48.331634]}, {"name": "Baumwipfelweg", "text": "Traseul printre coroanele copacilor din Tulln oferă o vedere panoramică asupra grădinilor.", "category": "natural", "coords": [16.033194, 48.329967]}, {"name": "Donaubühne Tulln", "text": "Donaubühne din Tulln este o scenă în aer liber situată direct pe malul Dunării.", "category": "landmark", "coords": [16.052801, 48.333991]}, {"name": "Evangelische Kirche", "text": "Biserica evanghelică este un lăcaș de cult pentru comunitatea protestantă din Tulln.", "category": "religious", "coords": [16.064413, 48.329631]}, {"name": "St. Severin", "text": "Biserica parohială Sfântul Severin din Tulln servește ca lăcaș de cult romano-catolic.", "category": "religious", "coords": [16.068106, 48.32283]}, {"name": "Filialkirche Maria Heimsuchung", "text": "Biserica Maria Heimsuchung este o capelă romano-catolică situată în Tulln.", "category": "religious", "coords": [16.080918, 48.307989]}, {"name": "Saab Draken", "text": "Un avion de vânătoare Saab Draken este expus ca monument într-un sens giratoriu din Tulln.", "category": "landmark", "coords": [16.084797, 48.318773]}, {"name": "Hundertwasser-Schiff \"Regentag\"", "text": "Nava „Regentag” a fost amenajată de către artistul Friedensreich Hundertwasser.", "category": "landmark", "coords": [16.048797, 48.333476]}, {"name": "MS Stadt Wien", "text": "MS Stadt Wien este o navă istorică cu roți cu palate, ancorată în Tulln.", "category": "landmark", "coords": [16.050975, 48.333964]}, {"name": "Rosskopfteich", "text": "Un lac liniștit în Tulln an der Donau, ideal pentru plimbări în natură.", "category": "natural", "coords": [16.059669, 48.357612]}, {"name": "Erdabsetzbecken", "text": "Un corp de apă în Tulln an der Donau, cu o atmosferă liniștită.", "category": "natural", "coords": [16.057014, 48.347804]}, {"name": "Hochwiesegraben", "text": "Un mic lac în Tulln an der Donau, înconjurat de un peisaj frumos.", "category": "natural", "coords": [16.028526, 48.329918]}, {"name": "Krakeninsel", "text": "Un loc de joacă captivant în Tulln an der Donau pentru întreaga familie.", "category": "family", "coords": [16.074679, 48.332156]}], "en": [{"name": "Stadtmuseum Tulln", "text": "A museum in Tulln showcasing the Roman history of the ancient camp Comagenis.", "category": "museum", "coords": [16.057098, 48.333309]}, {"name": "Egon Schiele Geburtshaus am Bahnhof Tulln", "text": "The birthplace of artist Egon Schiele, located at the Tulln railway station.", "category": "museum", "coords": [16.063954, 48.327474]}, {"name": "Egon Schiele Museum", "text": "In the Austrian city of Tulln An Der Danube, the Egon Schiele Museum honors one of the country's most significant artists. The museum spaces are specifically dedicated to the life and expressive work of the painter Egon Schiele. Art enthusiasts will find an excellent opportunity to deeply experience his art here.", "category": "museum", "coords": [16.052836, 48.332974]}, {"name": "Danubium", "text": "A cultural and event center in Tulln an der Donau.", "category": "cultural", "coords": [16.049698, 48.331367]}, {"name": "DonauSplash Tulln", "text": "An indoor swimming pool and water leisure facility in Tulln.", "category": "family", "coords": [16.062296, 48.333422]}, {"name": "Schanze", "text": "An archaeological site featuring historical fortifications in Tulln.", "category": "historical", "coords": [16.072289, 48.339873]}, {"name": "Die Garten Tulln", "text": "A large ecological garden show featuring numerous themed gardens in Tulln.", "category": "landmark", "coords": [16.03459, 48.329558]}, {"name": "Karner", "text": "A late Romanesque charnel house in Tulln, known for its intricate portal.", "category": "landmark", "coords": [16.057345, 48.331381]}, {"name": "Aubad Tulln", "text": "Aubad Tulln is a large recreation area featuring a natural swimming lake.", "category": "park", "coords": [16.078794, 48.331634]}, {"name": "Baumwipfelweg", "text": "The treetop path in Tulln offers a wide view over the Garten Tulln grounds.", "category": "natural", "coords": [16.033194, 48.329967]}, {"name": "Donaubühne Tulln", "text": "The Donaubühne in Tulln is a popular open-air stage located directly on the banks of the Danube.", "category": "landmark", "coords": [16.052801, 48.333991]}, {"name": "Evangelische Kirche", "text": "The Protestant church is a place of worship for the local congregation in Tulln.", "category": "religious", "coords": [16.064413, 48.329631]}, {"name": "St. Severin", "text": "The Roman Catholic Parish Church of St. Severin serves as a place of worship in Tulln.", "category": "religious", "coords": [16.068106, 48.32283]}, {"name": "Filialkirche Maria Heimsuchung", "text": "The Filial Church of Maria Heimsuchung is a Roman Catholic chapel in Tulln.", "category": "religious", "coords": [16.080918, 48.307989]}, {"name": "Saab Draken", "text": "A Saab Draken fighter jet is displayed as a monument at a roundabout in Tulln.", "category": "landmark", "coords": [16.084797, 48.318773]}, {"name": "Hundertwasser-Schiff \"Regentag\"", "text": "The ship \"Regentag\" was designed and used by the artist Friedensreich Hundertwasser.", "category": "landmark", "coords": [16.048797, 48.333476]}, {"name": "MS Stadt Wien", "text": "The MS Stadt Wien is a historic paddle steamer anchored in Tulln.", "category": "landmark", "coords": [16.050975, 48.333964]}, {"name": "Rosskopfteich", "text": "A quiet lake in Tulln an der Donau, ideal for nature walks.", "category": "natural", "coords": [16.059669, 48.357612]}, {"name": "Erdabsetzbecken", "text": "A body of water in Tulln an der Donau with a calm atmosphere.", "category": "natural", "coords": [16.057014, 48.347804]}, {"name": "Hochwiesegraben", "text": "A small lake in Tulln an der Donau, surrounded by beautiful scenery.", "category": "natural", "coords": [16.028526, 48.329918]}, {"name": "Krakeninsel", "text": "An exciting playground in Tulln an der Donau for the whole family.", "category": "family", "coords": [16.074679, 48.332156]}]},
     type: "city",
     parent: "AT-3",
     coords: [16.0589, 48.3284],
@@ -921,6 +156,15 @@ export const austriaCities: POI[] = [
                         15.977678,
                         47.741796
                   ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "Das Erlebnisparkbad blub in Neunkirchen bietet abwechslungsreichen Wasserspaß für aktive Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        16.029929,
+                        47.71738
+                  ]
             }
       ],
       "hu": [
@@ -1030,6 +274,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.977678,
                         47.741796
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "A neunkircheni blub élményfürdő változatos vízi szórakozást kínál az aktív fürdőzőknek.",
+                  "category": "family",
+                  "coords": [
+                        16.029929,
+                        47.71738
                   ]
             }
       ],
@@ -1141,6 +394,15 @@ export const austriaCities: POI[] = [
                         15.977678,
                         47.741796
                   ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "Parcul acvatic blub din Neunkirchen oferă distracție variată în apă pentru vizitatorii activi.",
+                  "category": "family",
+                  "coords": [
+                        16.029929,
+                        47.71738
+                  ]
             }
       ],
       "en": [
@@ -1250,6 +512,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.977678,
                         47.741796
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "The blub adventure pool in Neunkirchen offers varied water fun for active swimmers.",
+                  "category": "family",
+                  "coords": [
+                        16.029929,
+                        47.71738
                   ]
             }
       ]
@@ -2393,6 +1664,24 @@ export const austriaCities: POI[] = [
                         13.815187,
                         47.922955
                   ]
+            },
+            {
+                  "name": "Naturbadeplatz Seereiterweg",
+                  "text": "Der Naturbadeplatz Seereiterweg in Gmunden bietet einen Zugang zum See in natürlicher Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        13.808405,
+                        47.907937
+                  ]
+            },
+            {
+                  "name": "Solarbad Altmünster",
+                  "text": "Das Solarbad Altmünster in Gmunden bietet beheizte Schwimmbecken für Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        13.776145,
+                        47.903676
+                  ]
             }
       ],
       "hu": [
@@ -2655,6 +1944,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.815187,
                         47.922955
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Seereiterweg",
+                  "text": "A gmundeni Naturbadeplatz Seereiterweg természetes környezetben biztosít lejutást a tóhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.808405,
+                        47.907937
+                  ]
+            },
+            {
+                  "name": "Solarbad Altmünster",
+                  "text": "A gmundeni Solarbad Altmünster fűtött úszómedencéket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        13.776145,
+                        47.903676
                   ]
             }
       ],
@@ -2919,6 +2226,24 @@ export const austriaCities: POI[] = [
                         13.815187,
                         47.922955
                   ]
+            },
+            {
+                  "name": "Naturbadeplatz Seereiterweg",
+                  "text": "Naturbadeplatz Seereiterweg din Gmunden oferă acces la lac într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        13.808405,
+                        47.907937
+                  ]
+            },
+            {
+                  "name": "Solarbad Altmünster",
+                  "text": "Solarbad Altmünster din Gmunden oferă bazine de înot încălzite pentru oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        13.776145,
+                        47.903676
+                  ]
             }
       ],
       "en": [
@@ -3181,6 +2506,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.815187,
                         47.922955
+                  ]
+            },
+            {
+                  "name": "Naturbadeplatz Seereiterweg",
+                  "text": "Naturbadeplatz Seereiterweg in Gmunden offers access to the lake in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        13.808405,
+                        47.907937
+                  ]
+            },
+            {
+                  "name": "Solarbad Altmünster",
+                  "text": "Solarbad Altmünster in Gmunden offers heated swimming pools for bathers.",
+                  "category": "family",
+                  "coords": [
+                        13.776145,
+                        47.903676
                   ]
             }
       ]
@@ -3777,6 +3120,15 @@ export const austriaCities: POI[] = [
                         13.494604,
                         46.803545
                   ]
+            },
+            {
+                  "name": "Moserhof Naturbadeteich",
+                  "text": "Der Moserhof Naturbadeteich in Spittal an der Drau bietet Erfrischung in naturnahem Wasser.",
+                  "category": "family",
+                  "coords": [
+                        13.512491,
+                        46.816616
+                  ]
             }
       ],
       "hu": [
@@ -3913,6 +3265,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.494604,
                         46.803545
+                  ]
+            },
+            {
+                  "name": "Moserhof Naturbadeteich",
+                  "text": "A spittali Moserhof Naturbadeteich természetközeli vízzel kínál felfrissülést.",
+                  "category": "family",
+                  "coords": [
+                        13.512491,
+                        46.816616
                   ]
             }
       ],
@@ -4051,6 +3412,15 @@ export const austriaCities: POI[] = [
                         13.494604,
                         46.803545
                   ]
+            },
+            {
+                  "name": "Moserhof Naturbadeteich",
+                  "text": "Iazul de înot natural Moserhof din Spittal an der Drau oferă răcorire în apă naturală.",
+                  "category": "family",
+                  "coords": [
+                        13.512491,
+                        46.816616
+                  ]
             }
       ],
       "en": [
@@ -4187,6 +3557,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.494604,
                         46.803545
+                  ]
+            },
+            {
+                  "name": "Moserhof Naturbadeteich",
+                  "text": "The Moserhof Naturbadeteich in Spittal an der Drau offers refreshment in natural water.",
+                  "category": "family",
+                  "coords": [
+                        13.512491,
+                        46.816616
                   ]
             }
       ]
@@ -5512,6 +4891,15 @@ export const austriaCities: POI[] = [
                         12.068475,
                         47.49127
                   ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Ein Freibad in Wörgl, das Erholung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.089344,
+                        47.508971
+                  ]
             }
       ],
       "hu": [
@@ -5621,6 +5009,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.068475,
                         47.49127
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Szabadtéri strand Wörglben, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.089344,
+                        47.508971
                   ]
             }
       ],
@@ -5732,6 +5129,15 @@ export const austriaCities: POI[] = [
                         12.068475,
                         47.49127
                   ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "O piscină în aer liber în Wörgl, care oferă relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.089344,
+                        47.508971
+                  ]
             }
       ],
       "en": [
@@ -5841,6 +5247,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.068475,
                         47.49127
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "An outdoor pool in Wörgl offering relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.089344,
+                        47.508971
                   ]
             }
       ]

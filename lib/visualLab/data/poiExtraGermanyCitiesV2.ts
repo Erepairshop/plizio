@@ -3,340 +3,7 @@ import { POI } from './poi';
 export const germanyCitiesV2: POI[] = [
 
   {
-    id: "germany-paderborn-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Museum in der Kaiserpfalz",
-                  "text": "Ein Museum, das die Geschichte der karolingischen und ottonischen Kaiserpfalz in Paderborn zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.755206,
-                        51.71945
-                  ]
-            },
-            {
-                  "name": "Heinz Nixdorf MuseumsForum",
-                  "text": "Das weltweit größte Computermuseum, das die Entwicklung der Informationstechnik präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        8.735624,
-                        51.73133
-                  ]
-            },
-            {
-                  "name": "Theater Paderborn - Westfälische Kammerspiele",
-                  "text": "Das städtische Theater von Paderborn, das ein vielfältiges Programm an Kammerspielen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        8.755509,
-                        51.717134
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Ein Museum in Paderborn, das bedeutende religiöse Kunstwerke und Kirchenschätze ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        8.755178,
-                        51.718487
-                  ]
-            },
-            {
-                  "name": "Steinbruch Ilse",
-                  "text": "Ein ehemaliger Kalksteinbruch bei Paderborn, der heute als wertvolles Naturschutzgebiet dient.",
-                  "category": "natural",
-                  "coords": [
-                        8.725352,
-                        51.694046
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Das Stadtmuseum Paderborn präsentiert die wechselvolle Geschichte und Stadtentwicklung von den Anfängen bis heute.",
-                  "category": "museum",
-                  "coords": [
-                        8.752636,
-                        51.718455
-                  ]
-            },
-            {
-                  "name": "Deutsches Traktoren und Modellauto Museum",
-                  "text": "Dieses Museum zeigt eine beeindruckende Privatsammlung historischer Traktoren und detailgetreuer Modellautos.",
-                  "category": "museum",
-                  "coords": [
-                        8.770077,
-                        51.738232
-                  ]
-            },
-            {
-                  "name": "Mühlenmuseum",
-                  "text": "Das Mühlenmuseum an den Paderquellen dokumentiert die historische Bedeutung der Wassermühlen für die Region.",
-                  "category": "museum",
-                  "coords": [
-                        8.750728,
-                        51.721939
-                  ]
-            },
-            {
-                  "name": "Gedenkstätte Pauline von Mallinckrodt",
-                  "text": "Die Gedenkstätte erinnert an das Leben von Pauline von Mallinckrodt, der Gründerin der Schwestern der christlichen Liebe.",
-                  "category": "museum",
-                  "coords": [
-                        8.760898,
-                        51.715434
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museum in der Kaiserpfalz",
-                  "text": "Múzeum, amely a paderborni karoling és ottói császári palota történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.755206,
-                        51.71945
-                  ]
-            },
-            {
-                  "name": "Heinz Nixdorf MuseumsForum",
-                  "text": "A világ legnagyobb számítógépes múzeuma, amely az információtechnológia fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.735624,
-                        51.73133
-                  ]
-            },
-            {
-                  "name": "Theater Paderborn - Westfälische Kammerspiele",
-                  "text": "Paderborn városi színháza, amely változatos kamaraelőadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        8.755509,
-                        51.717134
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Paderborni múzeum, amely jelentős vallási műtárgyakat és egyházi kincseket állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        8.755178,
-                        51.718487
-                  ]
-            },
-            {
-                  "name": "Steinbruch Ilse",
-                  "text": "Egykori mészkőbánya Paderborn közelében, amely ma értékes természetvédelmi terület.",
-                  "category": "natural",
-                  "coords": [
-                        8.725352,
-                        51.694046
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "A Paderborni Városi Múzeum a település történetét és fejlődését mutatja be a kezdetektől napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        8.752636,
-                        51.718455
-                  ]
-            },
-            {
-                  "name": "Deutsches Traktoren und Modellauto Museum",
-                  "text": "Ez a múzeum történelmi traktorok és részletgazdag autómodellek lenyűgöző magángyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.770077,
-                        51.738232
-                  ]
-            },
-            {
-                  "name": "Mühlenmuseum",
-                  "text": "A Pader-forrásoknál található Malommúzeum a vízimalmok régión belüli történelmi jelentőségét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        8.750728,
-                        51.721939
-                  ]
-            },
-            {
-                  "name": "Gedenkstätte Pauline von Mallinckrodt",
-                  "text": "Az emlékhely Pauline von Mallinckrodt, a Keresztény Szeretet Nővérei rend alapítója életének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        8.760898,
-                        51.715434
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museum in der Kaiserpfalz",
-                  "text": "Un muzeu care prezintă istoria palatului imperial carolingian și ottonian din Paderborn.",
-                  "category": "museum",
-                  "coords": [
-                        8.755206,
-                        51.71945
-                  ]
-            },
-            {
-                  "name": "Heinz Nixdorf MuseumsForum",
-                  "text": "Cel mai mare muzeu de calculatoare din lume, care prezintă evoluția tehnologiei informației.",
-                  "category": "museum",
-                  "coords": [
-                        8.735624,
-                        51.73133
-                  ]
-            },
-            {
-                  "name": "Theater Paderborn - Westfälische Kammerspiele",
-                  "text": "Teatrul municipal din Paderborn, care oferă un program variat de piese de cameră.",
-                  "category": "cultural",
-                  "coords": [
-                        8.755509,
-                        51.717134
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Un muzeu din Paderborn care expune opere de artă religioasă semnificative și comori bisericești.",
-                  "category": "museum",
-                  "coords": [
-                        8.755178,
-                        51.718487
-                  ]
-            },
-            {
-                  "name": "Steinbruch Ilse",
-                  "text": "O fostă carieră de calcar lângă Paderborn, care astăzi servește drept rezervație naturală valoroasă.",
-                  "category": "natural",
-                  "coords": [
-                        8.725352,
-                        51.694046
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Muzeul Orașului Paderborn prezintă istoria și dezvoltarea urbană de la începuturi până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        8.752636,
-                        51.718455
-                  ]
-            },
-            {
-                  "name": "Deutsches Traktoren und Modellauto Museum",
-                  "text": "Acest muzeu expune o colecție privată impresionantă de tractoare istorice și mașini în miniatură detaliate.",
-                  "category": "museum",
-                  "coords": [
-                        8.770077,
-                        51.738232
-                  ]
-            },
-            {
-                  "name": "Mühlenmuseum",
-                  "text": "Muzeul Morii de la izvoarele râului Pader documentează importanța istorică a morilor de apă pentru regiune.",
-                  "category": "museum",
-                  "coords": [
-                        8.750728,
-                        51.721939
-                  ]
-            },
-            {
-                  "name": "Gedenkstätte Pauline von Mallinckrodt",
-                  "text": "Memorialul amintește de viața Paulinei von Mallinckrodt, fondatoarea Surorilor Carității Creștine.",
-                  "category": "museum",
-                  "coords": [
-                        8.760898,
-                        51.715434
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museum in der Kaiserpfalz",
-                  "text": "A museum showcasing the history of the Carolingian and Ottonian Imperial Palace in Paderborn.",
-                  "category": "museum",
-                  "coords": [
-                        8.755206,
-                        51.71945
-                  ]
-            },
-            {
-                  "name": "Heinz Nixdorf MuseumsForum",
-                  "text": "The world's largest computer museum, presenting the development of information technology.",
-                  "category": "museum",
-                  "coords": [
-                        8.735624,
-                        51.73133
-                  ]
-            },
-            {
-                  "name": "Theater Paderborn - Westfälische Kammerspiele",
-                  "text": "The municipal theatre of Paderborn, offering a diverse program of chamber plays.",
-                  "category": "cultural",
-                  "coords": [
-                        8.755509,
-                        51.717134
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "A museum in Paderborn exhibiting significant religious artworks and church treasures.",
-                  "category": "museum",
-                  "coords": [
-                        8.755178,
-                        51.718487
-                  ]
-            },
-            {
-                  "name": "Steinbruch Ilse",
-                  "text": "A former limestone quarry near Paderborn, now serving as a valuable nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        8.725352,
-                        51.694046
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "The Paderborn City Museum presents the varied history and urban development from its origins to today.",
-                  "category": "museum",
-                  "coords": [
-                        8.752636,
-                        51.718455
-                  ]
-            },
-            {
-                  "name": "Deutsches Traktoren und Modellauto Museum",
-                  "text": "This museum displays an impressive private collection of historical tractors and detailed model cars.",
-                  "category": "museum",
-                  "coords": [
-                        8.770077,
-                        51.738232
-                  ]
-            },
-            {
-                  "name": "Mühlenmuseum",
-                  "text": "The Mill Museum at the Pader springs documents the historical importance of water mills for the region.",
-                  "category": "museum",
-                  "coords": [
-                        8.750728,
-                        51.721939
-                  ]
-            },
-            {
-                  "name": "Gedenkstätte Pauline von Mallinckrodt",
-                  "text": "The memorial commemorates the life of Pauline von Mallinckrodt, founder of the Sisters of Christian Charity.",
-                  "category": "museum",
-                  "coords": [
-                        8.760898,
-                        51.715434
-                  ]
-            }
-      ]
-},
+    id: "germany-paderborn-cities-v2", "sights": {"de": [{"name": "Museum in der Kaiserpfalz", "text": "Das Museum in der Kaiserpfalz ist ein faszinierendes historisches Museum in Paderborn. Durch seine Ausstellungen zeigt es die reiche Geschichte der karolingischen und ottonischen Kaiserpfalz, die einst hier stand. Besucher erwartet eine lehrreiche Reise in die mittelalterliche Vergangenheit der Region.", "category": "museum", "coords": [8.755206, 51.71945]}, {"name": "Heinz Nixdorf MuseumsForum", "text": "Das weltweit größte Computermuseum, das die Entwicklung der Informationstechnik präsentiert.", "category": "museum", "coords": [8.735624, 51.73133]}, {"name": "Theater Paderborn - Westfälische Kammerspiele", "text": "Das städtische Theater von Paderborn, das ein vielfältiges Programm an Kammerspielen bietet.", "category": "cultural", "coords": [8.755509, 51.717134]}, {"name": "Diözesanmuseum", "text": "Ein Museum in Paderborn, das bedeutende religiöse Kunstwerke und Kirchenschätze ausstellt.", "category": "museum", "coords": [8.755178, 51.718487]}, {"name": "Steinbruch Ilse", "text": "Ein ehemaliger Kalksteinbruch bei Paderborn, der heute als wertvolles Naturschutzgebiet dient.", "category": "natural", "coords": [8.725352, 51.694046]}, {"name": "Stadtmuseum", "text": "Das Stadtmuseum Paderborn präsentiert die wechselvolle Geschichte und Stadtentwicklung von den Anfängen bis heute.", "category": "museum", "coords": [8.752636, 51.718455]}, {"name": "Deutsches Traktoren und Modellauto Museum", "text": "Dieses Museum zeigt eine beeindruckende Privatsammlung historischer Traktoren und detailgetreuer Modellautos.", "category": "museum", "coords": [8.770077, 51.738232]}, {"name": "Mühlenmuseum", "text": "Das Mühlenmuseum an den Paderquellen dokumentiert die historische Bedeutung der Wassermühlen für die Region.", "category": "museum", "coords": [8.750728, 51.721939]}, {"name": "Gedenkstätte Pauline von Mallinckrodt", "text": "Die Gedenkstätte erinnert an das Leben von Pauline von Mallinckrodt, der Gründerin der Schwestern der christlichen Liebe.", "category": "museum", "coords": [8.760898, 51.715434]}], "hu": [{"name": "Museum in der Kaiserpfalz", "text": "A Museum in der Kaiserpfalz egy lenyűgöző történelmi múzeum a németországi Paderbornban. Kiállításain keresztül bemutatja az egykor itt álló Karoling és Ottó-kori paloták gazdag történelmét. A látogatók egy oktató jellegű utazásra számíthatnak a régió középkori múltjába.", "category": "museum", "coords": [8.755206, 51.71945]}, {"name": "Heinz Nixdorf MuseumsForum", "text": "A világ legnagyobb számítógépes múzeuma, amely az információtechnológia fejlődését mutatja be.", "category": "museum", "coords": [8.735624, 51.73133]}, {"name": "Theater Paderborn - Westfälische Kammerspiele", "text": "Paderborn városi színháza, amely változatos kamaraelőadásokat kínál.", "category": "cultural", "coords": [8.755509, 51.717134]}, {"name": "Diözesanmuseum", "text": "Paderborni múzeum, amely jelentős vallási műtárgyakat és egyházi kincseket állít ki.", "category": "museum", "coords": [8.755178, 51.718487]}, {"name": "Steinbruch Ilse", "text": "Egykori mészkőbánya Paderborn közelében, amely ma értékes természetvédelmi terület.", "category": "natural", "coords": [8.725352, 51.694046]}, {"name": "Stadtmuseum", "text": "A Paderborni Városi Múzeum a település történetét és fejlődését mutatja be a kezdetektől napjainkig.", "category": "museum", "coords": [8.752636, 51.718455]}, {"name": "Deutsches Traktoren und Modellauto Museum", "text": "Ez a múzeum történelmi traktorok és részletgazdag autómodellek lenyűgöző magángyűjteményét mutatja be.", "category": "museum", "coords": [8.770077, 51.738232]}, {"name": "Mühlenmuseum", "text": "A Pader-forrásoknál található Malommúzeum a vízimalmok régión belüli történelmi jelentőségét dokumentálja.", "category": "museum", "coords": [8.750728, 51.721939]}, {"name": "Gedenkstätte Pauline von Mallinckrodt", "text": "Az emlékhely Pauline von Mallinckrodt, a Keresztény Szeretet Nővérei rend alapítója életének állít emléket.", "category": "museum", "coords": [8.760898, 51.715434]}], "ro": [{"name": "Museum in der Kaiserpfalz", "text": "Museum in der Kaiserpfalz este un muzeu istoric fascinant situat în Paderborn, Germania. Prin intermediul exponatelor sale, acesta prezintă istoria bogată a palatelor regale carolingiene și ottoniene care au existat aici odată. Vizitatorii se pot aștepta la o călătorie educativă în trecutul medieval al regiunii.", "category": "museum", "coords": [8.755206, 51.71945]}, {"name": "Heinz Nixdorf MuseumsForum", "text": "Cel mai mare muzeu de calculatoare din lume, care prezintă evoluția tehnologiei informației.", "category": "museum", "coords": [8.735624, 51.73133]}, {"name": "Theater Paderborn - Westfälische Kammerspiele", "text": "Teatrul municipal din Paderborn, care oferă un program variat de piese de cameră.", "category": "cultural", "coords": [8.755509, 51.717134]}, {"name": "Diözesanmuseum", "text": "Un muzeu din Paderborn care expune opere de artă religioasă semnificative și comori bisericești.", "category": "museum", "coords": [8.755178, 51.718487]}, {"name": "Steinbruch Ilse", "text": "O fostă carieră de calcar lângă Paderborn, care astăzi servește drept rezervație naturală valoroasă.", "category": "natural", "coords": [8.725352, 51.694046]}, {"name": "Stadtmuseum", "text": "Muzeul Orașului Paderborn prezintă istoria și dezvoltarea urbană de la începuturi până în prezent.", "category": "museum", "coords": [8.752636, 51.718455]}, {"name": "Deutsches Traktoren und Modellauto Museum", "text": "Acest muzeu expune o colecție privată impresionantă de tractoare istorice și mașini în miniatură detaliate.", "category": "museum", "coords": [8.770077, 51.738232]}, {"name": "Mühlenmuseum", "text": "Muzeul Morii de la izvoarele râului Pader documentează importanța istorică a morilor de apă pentru regiune.", "category": "museum", "coords": [8.750728, 51.721939]}, {"name": "Gedenkstätte Pauline von Mallinckrodt", "text": "Memorialul amintește de viața Paulinei von Mallinckrodt, fondatoarea Surorilor Carității Creștine.", "category": "museum", "coords": [8.760898, 51.715434]}], "en": [{"name": "Museum in der Kaiserpfalz", "text": "The Museum in der Kaiserpfalz is a fascinating historical museum located in Paderborn, Germany. Through its exhibits, it showcases the rich history of the Carolingian and Ottonian royal palaces that once stood there. Visitors can expect an educational journey into the region's medieval past.", "category": "museum", "coords": [8.755206, 51.71945]}, {"name": "Heinz Nixdorf MuseumsForum", "text": "The world's largest computer museum, presenting the development of information technology.", "category": "museum", "coords": [8.735624, 51.73133]}, {"name": "Theater Paderborn - Westfälische Kammerspiele", "text": "The municipal theatre of Paderborn, offering a diverse program of chamber plays.", "category": "cultural", "coords": [8.755509, 51.717134]}, {"name": "Diözesanmuseum", "text": "A museum in Paderborn exhibiting significant religious artworks and church treasures.", "category": "museum", "coords": [8.755178, 51.718487]}, {"name": "Steinbruch Ilse", "text": "A former limestone quarry near Paderborn, now serving as a valuable nature reserve.", "category": "natural", "coords": [8.725352, 51.694046]}, {"name": "Stadtmuseum", "text": "The Paderborn City Museum presents the varied history and urban development from its origins to today.", "category": "museum", "coords": [8.752636, 51.718455]}, {"name": "Deutsches Traktoren und Modellauto Museum", "text": "This museum displays an impressive private collection of historical tractors and detailed model cars.", "category": "museum", "coords": [8.770077, 51.738232]}, {"name": "Mühlenmuseum", "text": "The Mill Museum at the Pader springs documents the historical importance of water mills for the region.", "category": "museum", "coords": [8.750728, 51.721939]}, {"name": "Gedenkstätte Pauline von Mallinckrodt", "text": "The memorial commemorates the life of Pauline von Mallinckrodt, founder of the Sisters of Christian Charity.", "category": "museum", "coords": [8.760898, 51.715434]}]},
     type: "city",
     parent: "DE",
     name: { de: "Paderborn", hu: "Paderborn", ro: "Paderborn", en: "Paderborn" },
@@ -720,6 +387,33 @@ export const germanyCitiesV2: POI[] = [
                         9.248452,
                         48.48424
                   ]
+            },
+            {
+                  "name": "Freibad Markwasen",
+                  "text": "Das Freibad Markwasen in Reutlingen bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.193442,
+                        48.476691
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Das Lehrschwimmbecken in Reutlingen ist ein schönes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.20469,
+                        48.482729
+                  ]
+            },
+            {
+                  "name": "Waldfreibad Eningen",
+                  "text": "Das Waldfreibad Eningen in Reutlingen bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.283402,
+                        48.488779
+                  ]
             }
       ],
       "hu": [
@@ -1008,6 +702,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.248452,
                         48.48424
+                  ]
+            },
+            {
+                  "name": "Freibad Markwasen",
+                  "text": "A Reutlingen városában található Freibad Markwasen vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.193442,
+                        48.476691
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "A Reutlingenben található Lehrschwimmbecken remek helyszín családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.20469,
+                        48.482729
+                  ]
+            },
+            {
+                  "name": "Waldfreibad Eningen",
+                  "text": "A Reutlingen városában található Waldfreibad Eningen vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.283402,
+                        48.488779
                   ]
             }
       ],
@@ -1298,6 +1019,33 @@ export const germanyCitiesV2: POI[] = [
                         9.248452,
                         48.48424
                   ]
+            },
+            {
+                  "name": "Freibad Markwasen",
+                  "text": "Freibad Markwasen din Reutlingen oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.193442,
+                        48.476691
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Lehrschwimmbecken din Reutlingen este o destinație frumoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.20469,
+                        48.482729
+                  ]
+            },
+            {
+                  "name": "Waldfreibad Eningen",
+                  "text": "Waldfreibad Eningen din Reutlingen oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.283402,
+                        48.488779
+                  ]
             }
       ],
       "en": [
@@ -1587,6 +1335,33 @@ export const germanyCitiesV2: POI[] = [
                         9.248452,
                         48.48424
                   ]
+            },
+            {
+                  "name": "Freibad Markwasen",
+                  "text": "The Freibad Markwasen in Reutlingen offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.193442,
+                        48.476691
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "The Lehrschwimmbecken in Reutlingen is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        9.20469,
+                        48.482729
+                  ]
+            },
+            {
+                  "name": "Waldfreibad Eningen",
+                  "text": "The Waldfreibad Eningen in Reutlingen offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.283402,
+                        48.488779
+                  ]
             }
       ]
 }
@@ -1800,6 +1575,33 @@ export const germanyCitiesV2: POI[] = [
                         12.13506,
                         50.49577
                   ]
+            },
+            {
+                  "name": "Freibad Preißelpöhl",
+                  "text": "Das Freibad Preißelpöhl in Plauen bietet Abkühlung und Freizeitspaß im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        12.152216,
+                        50.514495
+                  ]
+            },
+            {
+                  "name": "Falknerei Herrmann",
+                  "text": "Die Falknerei Herrmann präsentiert eindrucksvolle Flugvorführungen mit verschiedenen Greifvögeln.",
+                  "category": "family",
+                  "coords": [
+                        12.151683,
+                        50.529118
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Der Streichelzoo in Plauen bietet Kindern die Möglichkeit, Tiere aus nächster Nähe zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        12.120445,
+                        50.499809
+                  ]
             }
       ],
       "hu": [
@@ -2008,6 +1810,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.13506,
                         50.49577
+                  ]
+            },
+            {
+                  "name": "Freibad Preißelpöhl",
+                  "text": "A plaueni Preißelpöhl strand hűsölést és szabadidős szórakozást kínál nyáron.",
+                  "category": "family",
+                  "coords": [
+                        12.152216,
+                        50.514495
+                  ]
+            },
+            {
+                  "name": "Falknerei Herrmann",
+                  "text": "A Herrmann solymászat lenyűgöző repülési bemutatókat mutat be különféle ragadozómadarakkal.",
+                  "category": "family",
+                  "coords": [
+                        12.151683,
+                        50.529118
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "A plaueni állatsimogató lehetőséget nyújt a gyerekeknek az állatok közeli megtapasztalására.",
+                  "category": "family",
+                  "coords": [
+                        12.120445,
+                        50.499809
                   ]
             }
       ],
@@ -2218,6 +2047,33 @@ export const germanyCitiesV2: POI[] = [
                         12.13506,
                         50.49577
                   ]
+            },
+            {
+                  "name": "Freibad Preißelpöhl",
+                  "text": "Ștrandul Preißelpöhl din Plauen oferă răcorire și distracție în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        12.152216,
+                        50.514495
+                  ]
+            },
+            {
+                  "name": "Falknerei Herrmann",
+                  "text": "Șoimăria Herrmann prezintă demonstrații de zbor impresionante cu diverse păsări răpitoare.",
+                  "category": "family",
+                  "coords": [
+                        12.151683,
+                        50.529118
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Grădina zoologică cu animale de mângâiat din Plauen oferă copiilor ocazia de a interacționa cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        12.120445,
+                        50.499809
+                  ]
             }
       ],
       "en": [
@@ -2426,6 +2282,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.13506,
                         50.49577
+                  ]
+            },
+            {
+                  "name": "Freibad Preißelpöhl",
+                  "text": "The Preißelpöhl outdoor pool in Plauen offers cooling and leisure fun in summer.",
+                  "category": "family",
+                  "coords": [
+                        12.152216,
+                        50.514495
+                  ]
+            },
+            {
+                  "name": "Falknerei Herrmann",
+                  "text": "The Herrmann falconry presents impressive flight demonstrations with various birds of prey.",
+                  "category": "family",
+                  "coords": [
+                        12.151683,
+                        50.529118
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "The petting zoo in Plauen offers children the opportunity to experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        12.120445,
+                        50.499809
                   ]
             }
       ]
@@ -3707,6 +3590,33 @@ export const germanyCitiesV2: POI[] = [
                         11.919854,
                         50.320176
                   ]
+            },
+            {
+                  "name": "Badestelle 1",
+                  "text": "Die Badestelle 1 in Hof lädt zum Baden und Entspannen in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        11.912221,
+                        50.284057
+                  ]
+            },
+            {
+                  "name": "Badestelle 6",
+                  "text": "Die Badestelle 6 in Hof lädt zum Baden und Entspannen in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        11.907315,
+                        50.284554
+                  ]
+            },
+            {
+                  "name": "Badestelle 5",
+                  "text": "Die Badestelle 5 in Hof lädt zum Baden und Entspannen in der Natur ein.",
+                  "category": "family",
+                  "coords": [
+                        11.906232,
+                        50.282794
+                  ]
             }
       ],
       "hu": [
@@ -3834,6 +3744,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         11.919854,
                         50.320176
+                  ]
+            },
+            {
+                  "name": "Badestelle 1",
+                  "text": "A Hofban található Badestelle 1 fürdőzésre és pihenésre hív a természetben.",
+                  "category": "family",
+                  "coords": [
+                        11.912221,
+                        50.284057
+                  ]
+            },
+            {
+                  "name": "Badestelle 6",
+                  "text": "A Hofban található Badestelle 6 fürdőzésre és pihenésre hív a természetben.",
+                  "category": "family",
+                  "coords": [
+                        11.907315,
+                        50.284554
+                  ]
+            },
+            {
+                  "name": "Badestelle 5",
+                  "text": "A Hofban található Badestelle 5 fürdőzésre és pihenésre hív a természetben.",
+                  "category": "family",
+                  "coords": [
+                        11.906232,
+                        50.282794
                   ]
             }
       ],
@@ -3963,6 +3900,33 @@ export const germanyCitiesV2: POI[] = [
                         11.919854,
                         50.320176
                   ]
+            },
+            {
+                  "name": "Badestelle 1",
+                  "text": "Badestelle 1 din Hof vă invită la scăldat și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        11.912221,
+                        50.284057
+                  ]
+            },
+            {
+                  "name": "Badestelle 6",
+                  "text": "Badestelle 6 din Hof vă invită la scăldat și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        11.907315,
+                        50.284554
+                  ]
+            },
+            {
+                  "name": "Badestelle 5",
+                  "text": "Badestelle 5 din Hof vă invită la scăldat și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        11.906232,
+                        50.282794
+                  ]
             }
       ],
       "en": [
@@ -4090,6 +4054,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         11.919854,
                         50.320176
+                  ]
+            },
+            {
+                  "name": "Badestelle 1",
+                  "text": "Badestelle 1 in Hof invites you to swim and relax in nature.",
+                  "category": "family",
+                  "coords": [
+                        11.912221,
+                        50.284057
+                  ]
+            },
+            {
+                  "name": "Badestelle 6",
+                  "text": "Badestelle 6 in Hof invites you to swim and relax in nature.",
+                  "category": "family",
+                  "coords": [
+                        11.907315,
+                        50.284554
+                  ]
+            },
+            {
+                  "name": "Badestelle 5",
+                  "text": "Badestelle 5 in Hof invites you to swim and relax in nature.",
+                  "category": "family",
+                  "coords": [
+                        11.906232,
+                        50.282794
                   ]
             }
       ]
@@ -4431,6 +4422,33 @@ export const germanyCitiesV2: POI[] = [
                         6.895098,
                         51.520842
                   ]
+            },
+            {
+                  "name": "Aquapark Oberhausen",
+                  "text": "Der Aquapark bietet zahlreiche Rutschen und Wasserbecken für einen erlebnisreichen Tag.",
+                  "category": "family",
+                  "coords": [
+                        6.885476,
+                        51.493822
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "Das LEGOLAND Discovery Centre bietet kreativen Spielspaß rund um die bunten Klemmbausteine.",
+                  "category": "family",
+                  "coords": [
+                        6.879247,
+                        51.493297
+                  ]
+            },
+            {
+                  "name": "Stenkhoffbad",
+                  "text": "Das Stenkhoffbad in Bottrop bietet Familien eine angenehme Umgebung für sommerliches Baden.",
+                  "category": "family",
+                  "coords": [
+                        6.936922,
+                        51.556279
+                  ]
             }
       ],
       "hu": [
@@ -4673,6 +4691,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
+                  ]
+            },
+            {
+                  "name": "Aquapark Oberhausen",
+                  "text": "Az Aquapark számos csúszdát és medencét kínál egy élménydús naphoz.",
+                  "category": "family",
+                  "coords": [
+                        6.885476,
+                        51.493822
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "A LEGOLAND Discovery Centre kreatív játékélményt kínál a színes építőkockák köré építve.",
+                  "category": "family",
+                  "coords": [
+                        6.879247,
+                        51.493297
+                  ]
+            },
+            {
+                  "name": "Stenkhoffbad",
+                  "text": "A bottropi Stenkhoffbad kellemes környezetet kínál a családoknak a nyári fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        6.936922,
+                        51.556279
                   ]
             }
       ],
@@ -4917,6 +4962,33 @@ export const germanyCitiesV2: POI[] = [
                         6.895098,
                         51.520842
                   ]
+            },
+            {
+                  "name": "Aquapark Oberhausen",
+                  "text": "Aquapark oferă numeroase tobogane și bazine pentru o zi plină de peripeții.",
+                  "category": "family",
+                  "coords": [
+                        6.885476,
+                        51.493822
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "LEGOLAND Discovery Centre oferă distracție creativă în jurul celebrelor piese de construit colorate.",
+                  "category": "family",
+                  "coords": [
+                        6.879247,
+                        51.493297
+                  ]
+            },
+            {
+                  "name": "Stenkhoffbad",
+                  "text": "Stenkhoffbad din Bottrop oferă familiilor un mediu plăcut pentru scăldatul de vară.",
+                  "category": "family",
+                  "coords": [
+                        6.936922,
+                        51.556279
+                  ]
             }
       ],
       "en": [
@@ -5159,6 +5231,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
+                  ]
+            },
+            {
+                  "name": "Aquapark Oberhausen",
+                  "text": "The Aquapark offers numerous slides and pools for an eventful day.",
+                  "category": "family",
+                  "coords": [
+                        6.885476,
+                        51.493822
+                  ]
+            },
+            {
+                  "name": "LEGOLAND Discovery Centre",
+                  "text": "The LEGOLAND Discovery Centre offers creative play fun centered around the colorful bricks.",
+                  "category": "family",
+                  "coords": [
+                        6.879247,
+                        51.493297
+                  ]
+            },
+            {
+                  "name": "Stenkhoffbad",
+                  "text": "The Stenkhoffbad in Bottrop offers families a pleasant environment for summer bathing.",
+                  "category": "family",
+                  "coords": [
+                        6.936922,
+                        51.556279
                   ]
             }
       ]
@@ -5499,6 +5598,24 @@ export const germanyCitiesV2: POI[] = [
                         9.643018,
                         50.543088
                   ]
+            },
+            {
+                  "name": "Sieben Welten Therme & Spa Resort",
+                  "text": "Das Sieben Welten Therme & Spa Resort in Fulda ist ein Wasserpark mit vielfältigen Wellness- und Badeangeboten.",
+                  "category": "family",
+                  "coords": [
+                        9.723349,
+                        50.537574
+                  ]
+            },
+            {
+                  "name": "Takka-Tukka Abenteuerland & Sportwelt",
+                  "text": "Das Takka-Tukka Abenteuerland & Sportwelt in Fulda ist ein Freizeitpark mit Spiel und Sport für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.72096,
+                        50.538678
+                  ]
             }
       ],
       "hu": [
@@ -5833,6 +5950,24 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.643018,
                         50.543088
+                  ]
+            },
+            {
+                  "name": "Sieben Welten Therme & Spa Resort",
+                  "text": "A fuldai Sieben Welten Therme & Spa Resort egy vízi park változatos wellness- és fürdőzési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.723349,
+                        50.537574
+                  ]
+            },
+            {
+                  "name": "Takka-Tukka Abenteuerland & Sportwelt",
+                  "text": "A fuldai Takka-Tukka Abenteuerland & Sportwelt egy vidámpark játékkal és sporttal gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.72096,
+                        50.538678
                   ]
             }
       ],
@@ -6169,6 +6304,24 @@ export const germanyCitiesV2: POI[] = [
                         9.643018,
                         50.543088
                   ]
+            },
+            {
+                  "name": "Sieben Welten Therme & Spa Resort",
+                  "text": "Sieben Welten Therme & Spa Resort din Fulda este un parc acvatic cu diverse oferte de wellness și scăldat.",
+                  "category": "family",
+                  "coords": [
+                        9.723349,
+                        50.537574
+                  ]
+            },
+            {
+                  "name": "Takka-Tukka Abenteuerland & Sportwelt",
+                  "text": "Takka-Tukka Abenteuerland & Sportwelt din Fulda este un parc de distracții cu jocuri și sport pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.72096,
+                        50.538678
+                  ]
             }
       ],
       "en": [
@@ -6503,6 +6656,24 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.643018,
                         50.543088
+                  ]
+            },
+            {
+                  "name": "Sieben Welten Therme & Spa Resort",
+                  "text": "The Seven Worlds Therme & Spa Resort in Fulda is a water park with diverse wellness and swimming offers.",
+                  "category": "family",
+                  "coords": [
+                        9.723349,
+                        50.537574
+                  ]
+            },
+            {
+                  "name": "Takka-Tukka Abenteuerland & Sportwelt",
+                  "text": "Takka-Tukka Adventureland & Sportsworld in Fulda is a theme park with games and sports for children.",
+                  "category": "family",
+                  "coords": [
+                        9.72096,
+                        50.538678
                   ]
             }
       ]
@@ -6925,6 +7096,15 @@ export const germanyCitiesV2: POI[] = [
                         8.472096,
                         49.380119
                   ]
+            },
+            {
+                  "name": "Falknerei Birds of Prey",
+                  "text": "Die Falknerei Birds of Prey in Speyer ist ein interessantes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.448437,
+                        49.35033
+                  ]
             }
       ],
       "hu": [
@@ -7295,6 +7475,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.472096,
                         49.380119
+                  ]
+            },
+            {
+                  "name": "Falknerei Birds of Prey",
+                  "text": "A Speyerben található Falknerei Birds of Prey érdekes célpont családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.448437,
+                        49.35033
                   ]
             }
       ],
@@ -7667,6 +7856,15 @@ export const germanyCitiesV2: POI[] = [
                         8.472096,
                         49.380119
                   ]
+            },
+            {
+                  "name": "Falknerei Birds of Prey",
+                  "text": "Falknerei Birds of Prey din Speyer este o destinație interesantă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.448437,
+                        49.35033
+                  ]
             }
       ],
       "en": [
@@ -8037,6 +8235,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.472096,
                         49.380119
+                  ]
+            },
+            {
+                  "name": "Falknerei Birds of Prey",
+                  "text": "The Falknerei Birds of Prey in Speyer is an interesting destination for families.",
+                  "category": "family",
+                  "coords": [
+                        8.448437,
+                        49.35033
                   ]
             }
       ]
@@ -9165,6 +9372,15 @@ export const germanyCitiesV2: POI[] = [
                         7.077121,
                         51.188061
                   ]
+            },
+            {
+                  "name": "Freibad Ittertal",
+                  "text": "Das Freibad Ittertal in Solingen ist ein Schwimmbad, das in schöner Lage zum Baden und Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.037152,
+                        51.190677
+                  ]
             }
       ],
       "hu": [
@@ -9247,6 +9463,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.077121,
                         51.188061
+                  ]
+            },
+            {
+                  "name": "Freibad Ittertal",
+                  "text": "A solingeni Freibad Ittertal egy úszómedence, amely szép környezetben hívogat fürdésre és pihenésre.",
+                  "category": "family",
+                  "coords": [
+                        7.037152,
+                        51.190677
                   ]
             }
       ],
@@ -9331,6 +9556,15 @@ export const germanyCitiesV2: POI[] = [
                         7.077121,
                         51.188061
                   ]
+            },
+            {
+                  "name": "Freibad Ittertal",
+                  "text": "Piscina în aer liber Ittertal din Solingen este o piscină care invită la scăldat și relaxare într-o locație frumoasă.",
+                  "category": "family",
+                  "coords": [
+                        7.037152,
+                        51.190677
+                  ]
             }
       ],
       "en": [
@@ -9413,6 +9647,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.077121,
                         51.188061
+                  ]
+            },
+            {
+                  "name": "Freibad Ittertal",
+                  "text": "The Ittertal open-air pool in Solingen is a swimming pool that invites you to bathe and relax in a beautiful location.",
+                  "category": "family",
+                  "coords": [
+                        7.037152,
+                        51.190677
                   ]
             }
       ]
@@ -9664,6 +9907,15 @@ export const germanyCitiesV2: POI[] = [
                         8.027476,
                         50.896445
                   ]
+            },
+            {
+                  "name": "Warmwasserfreibad Kaan-Marienborn",
+                  "text": "Das Warmwasserfreibad Kaan-Marienborn in Siegen bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.066705,
+                        50.874527
+                  ]
             }
       ],
       "hu": [
@@ -9863,6 +10115,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.027476,
                         50.896445
+                  ]
+            },
+            {
+                  "name": "Warmwasserfreibad Kaan-Marienborn",
+                  "text": "A Siegenben található Warmwasserfreibad Kaan-Marienborn vízi élményeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.066705,
+                        50.874527
                   ]
             }
       ],
@@ -10064,6 +10325,15 @@ export const germanyCitiesV2: POI[] = [
                         8.027476,
                         50.896445
                   ]
+            },
+            {
+                  "name": "Warmwasserfreibad Kaan-Marienborn",
+                  "text": "Warmwasserfreibad Kaan-Marienborn din Siegen oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.066705,
+                        50.874527
+                  ]
             }
       ],
       "en": [
@@ -10263,6 +10533,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.027476,
                         50.896445
+                  ]
+            },
+            {
+                  "name": "Warmwasserfreibad Kaan-Marienborn",
+                  "text": "The Warmwasserfreibad Kaan-Marienborn in Siegen offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        8.066705,
+                        50.874527
                   ]
             }
       ]
@@ -10595,6 +10874,15 @@ export const germanyCitiesV2: POI[] = [
                         8.695229,
                         53.867839
                   ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "Das Bojenbad Grimmershörn bietet die Möglichkeit zum Schwimmen in der Nordsee bei Cuxhaven.",
+                  "category": "family",
+                  "coords": [
+                        8.693305,
+                        53.876699
+                  ]
             }
       ],
       "hu": [
@@ -10875,6 +11163,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.695229,
                         53.867839
+                  ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "A Bojenbad Grimmershörn úszási lehetőséget kínál az Északi-tengerben Cuxhaven közelében.",
+                  "category": "family",
+                  "coords": [
+                        8.693305,
+                        53.876699
                   ]
             }
       ],
@@ -11157,6 +11454,15 @@ export const germanyCitiesV2: POI[] = [
                         8.695229,
                         53.867839
                   ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "Bojenbad Grimmershörn oferă posibilitatea de a înota în Marea Nordului, lângă Cuxhaven.",
+                  "category": "family",
+                  "coords": [
+                        8.693305,
+                        53.876699
+                  ]
             }
       ],
       "en": [
@@ -11437,6 +11743,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.695229,
                         53.867839
+                  ]
+            },
+            {
+                  "name": "Bojenbad Grimmershörn",
+                  "text": "The Bojenbad Grimmershörn offers the possibility to swim in the North Sea near Cuxhaven.",
+                  "category": "family",
+                  "coords": [
+                        8.693305,
+                        53.876699
                   ]
             }
       ]
@@ -11909,6 +12224,24 @@ export const germanyCitiesV2: POI[] = [
                         7.228837,
                         53.379247
                   ]
+            },
+            {
+                  "name": "Van-Ameren-Bad",
+                  "text": "Das Van-Ameren-Bad in Emden bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.220711,
+                        53.366331
+                  ]
+            },
+            {
+                  "name": "Friesentherme",
+                  "text": "Die Friesentherme in Emden bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.201947,
+                        53.374202
+                  ]
             }
       ],
       "hu": [
@@ -12044,6 +12377,24 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.228837,
                         53.379247
+                  ]
+            },
+            {
+                  "name": "Van-Ameren-Bad",
+                  "text": "Az Emden városában található Van-Ameren-Bad vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.220711,
+                        53.366331
+                  ]
+            },
+            {
+                  "name": "Friesentherme",
+                  "text": "Az Emden városában található Friesentherme vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.201947,
+                        53.374202
                   ]
             }
       ],
@@ -12181,6 +12532,24 @@ export const germanyCitiesV2: POI[] = [
                         7.228837,
                         53.379247
                   ]
+            },
+            {
+                  "name": "Van-Ameren-Bad",
+                  "text": "Van-Ameren-Bad din Emden oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.220711,
+                        53.366331
+                  ]
+            },
+            {
+                  "name": "Friesentherme",
+                  "text": "Friesentherme din Emden oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.201947,
+                        53.374202
+                  ]
             }
       ],
       "en": [
@@ -12316,6 +12685,24 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.228837,
                         53.379247
+                  ]
+            },
+            {
+                  "name": "Van-Ameren-Bad",
+                  "text": "The Van-Ameren-Bad in Emden offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.220711,
+                        53.366331
+                  ]
+            },
+            {
+                  "name": "Friesentherme",
+                  "text": "The Friesentherme in Emden offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.201947,
+                        53.374202
                   ]
             }
       ]
@@ -12559,6 +12946,33 @@ export const germanyCitiesV2: POI[] = [
                         8.212656,
                         48.779693
                   ]
+            },
+            {
+                  "name": "Bertholdbad Freibad",
+                  "text": "Das Bertholdbad Freibad in Baden-Baden ist ein Treffpunkt für Wassersport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        8.240601,
+                        48.754331
+                  ]
+            },
+            {
+                  "name": "Hardbergbad",
+                  "text": "Das Hardbergbad in Baden-Baden bietet verschiedene Becken für Schwimmer und Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.226701,
+                        48.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege im Stadtwald",
+                  "text": "Das Wildgehege im Stadtwald bietet die Möglichkeit, Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        8.275443,
+                        48.757416
+                  ]
             }
       ],
       "hu": [
@@ -12749,6 +13163,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.212656,
                         48.779693
+                  ]
+            },
+            {
+                  "name": "Bertholdbad Freibad",
+                  "text": "A Baden-Baden-i Bertholdbad strand a vízi sportok és a kikapcsolódás találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        8.240601,
+                        48.754331
+                  ]
+            },
+            {
+                  "name": "Hardbergbad",
+                  "text": "A Baden-Baden-i Hardbergbad különféle medencéket kínál az úszóknak és a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.226701,
+                        48.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege im Stadtwald",
+                  "text": "A városi erdőben található vadaspark lehetőséget nyújt az állatok természetes környezetben való megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        8.275443,
+                        48.757416
                   ]
             }
       ],
@@ -12941,6 +13382,33 @@ export const germanyCitiesV2: POI[] = [
                         8.212656,
                         48.779693
                   ]
+            },
+            {
+                  "name": "Bertholdbad Freibad",
+                  "text": "Ștrandul Bertholdbad din Baden-Baden este un loc de întâlnire pentru sporturi nautice și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.240601,
+                        48.754331
+                  ]
+            },
+            {
+                  "name": "Hardbergbad",
+                  "text": "Hardbergbad din Baden-Baden oferă diverse bazine pentru înotători și familii.",
+                  "category": "family",
+                  "coords": [
+                        8.226701,
+                        48.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege im Stadtwald",
+                  "text": "Țarcul de animale din pădurea orașului oferă posibilitatea de a observa animalele într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        8.275443,
+                        48.757416
+                  ]
             }
       ],
       "en": [
@@ -13131,6 +13599,33 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.212656,
                         48.779693
+                  ]
+            },
+            {
+                  "name": "Bertholdbad Freibad",
+                  "text": "The Bertholdbad outdoor pool in Baden-Baden is a meeting place for water sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.240601,
+                        48.754331
+                  ]
+            },
+            {
+                  "name": "Hardbergbad",
+                  "text": "The Hardbergbad in Baden-Baden offers various pools for swimmers and families.",
+                  "category": "family",
+                  "coords": [
+                        8.226701,
+                        48.776974
+                  ]
+            },
+            {
+                  "name": "Wildgehege im Stadtwald",
+                  "text": "The wildlife enclosure in the city forest offers the opportunity to observe animals in a natural environment.",
+                  "category": "family",
+                  "coords": [
+                        8.275443,
+                        48.757416
                   ]
             }
       ]
@@ -13927,6 +14422,15 @@ export const germanyCitiesV2: POI[] = [
                         6.850168,
                         51.120922
                   ]
+            },
+            {
+                  "name": "Wildpark im Tannenbusch",
+                  "text": "Der Wildpark im Tannenbusch in Dormagen ist ein ideales Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.788907,
+                        51.080566
+                  ]
             }
       ],
       "hu": [
@@ -14090,6 +14594,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.850168,
                         51.120922
+                  ]
+            },
+            {
+                  "name": "Wildpark im Tannenbusch",
+                  "text": "A Dormagenben található Wildpark im Tannenbusch ideális célpont családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.788907,
+                        51.080566
                   ]
             }
       ],
@@ -14255,6 +14768,15 @@ export const germanyCitiesV2: POI[] = [
                         6.850168,
                         51.120922
                   ]
+            },
+            {
+                  "name": "Wildpark im Tannenbusch",
+                  "text": "Wildpark im Tannenbusch din Dormagen este o destinație ideală pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.788907,
+                        51.080566
+                  ]
             }
       ],
       "en": [
@@ -14418,6 +14940,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.850168,
                         51.120922
+                  ]
+            },
+            {
+                  "name": "Wildpark im Tannenbusch",
+                  "text": "The Wildpark im Tannenbusch in Dormagen is an ideal destination for families.",
+                  "category": "family",
+                  "coords": [
+                        6.788907,
+                        51.080566
                   ]
             }
       ]
@@ -20314,6 +20845,42 @@ export const germanyCitiesV2: POI[] = [
                         6.857224,
                         51.308391
                   ]
+            },
+            {
+                  "name": "Angerbad (Freibad)",
+                  "text": "Das Angerbad (Freibad) in Ratingen bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.844353,
+                        51.302677
+                  ]
+            },
+            {
+                  "name": "Allwetterbad Lintorf",
+                  "text": "Das Allwetterbad Lintorf in Ratingen bietet Wasserspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.836841,
+                        51.331313
+                  ]
+            },
+            {
+                  "name": "Angerbad",
+                  "text": "Das Angerbad in Ratingen bietet Wasserspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.846031,
+                        51.30212
+                  ]
+            },
+            {
+                  "name": "Märchenzoo Blauer See",
+                  "text": "Der Märchenzoo Blauer See in Ratingen ist ein tolles Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.862139,
+                        51.30765
+                  ]
             }
       ],
       "hu": [
@@ -20432,6 +20999,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.857224,
                         51.308391
+                  ]
+            },
+            {
+                  "name": "Angerbad (Freibad)",
+                  "text": "A Ratingenben található Angerbad (Freibad) vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.844353,
+                        51.302677
+                  ]
+            },
+            {
+                  "name": "Allwetterbad Lintorf",
+                  "text": "A Ratingenben található Allwetterbad Lintorf vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.836841,
+                        51.331313
+                  ]
+            },
+            {
+                  "name": "Angerbad",
+                  "text": "A Ratingenben található Angerbad vízi élményeket kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.846031,
+                        51.30212
+                  ]
+            },
+            {
+                  "name": "Märchenzoo Blauer See",
+                  "text": "A Ratingenben található Märchenzoo Blauer See remek célpont családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.862139,
+                        51.30765
                   ]
             }
       ],
@@ -20552,6 +21155,42 @@ export const germanyCitiesV2: POI[] = [
                         6.857224,
                         51.308391
                   ]
+            },
+            {
+                  "name": "Angerbad (Freibad)",
+                  "text": "Angerbad (Freibad) din Ratingen oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.844353,
+                        51.302677
+                  ]
+            },
+            {
+                  "name": "Allwetterbad Lintorf",
+                  "text": "Allwetterbad Lintorf din Ratingen oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.836841,
+                        51.331313
+                  ]
+            },
+            {
+                  "name": "Angerbad",
+                  "text": "Angerbad din Ratingen oferă distracție acvatică pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.846031,
+                        51.30212
+                  ]
+            },
+            {
+                  "name": "Märchenzoo Blauer See",
+                  "text": "Märchenzoo Blauer See din Ratingen este o destinație minunată pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.862139,
+                        51.30765
+                  ]
             }
       ],
       "en": [
@@ -20670,6 +21309,42 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.857224,
                         51.308391
+                  ]
+            },
+            {
+                  "name": "Angerbad (Freibad)",
+                  "text": "The Angerbad (Freibad) in Ratingen offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.844353,
+                        51.302677
+                  ]
+            },
+            {
+                  "name": "Allwetterbad Lintorf",
+                  "text": "The Allwetterbad Lintorf in Ratingen offers water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        6.836841,
+                        51.331313
+                  ]
+            },
+            {
+                  "name": "Angerbad",
+                  "text": "The Angerbad in Ratingen offers water fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.846031,
+                        51.30212
+                  ]
+            },
+            {
+                  "name": "Märchenzoo Blauer See",
+                  "text": "The Märchenzoo Blauer See in Ratingen is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        6.862139,
+                        51.30765
                   ]
             }
       ]

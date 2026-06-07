@@ -1133,88 +1133,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le site de l'avifaune au barrage de Kouris est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'information expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une política d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-kouris-dam-birdlife-extra.webp"},
   {
-    id: "animal-habitat-cape-greco-environmental-centre-extra", "sights": {
-      "de": [
-            {
-                  "name": "Limnara Beach",
-                  "text": "Limnara Beach liegt bei Cape Greco.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040176,
-                        34.972991
-                  ]
-            },
-            {
-                  "name": "Ammos Kambouri",
-                  "text": "Ammos Kambouri nahe dem Cape Greco Zentrum.",
-                  "category": "recreational",
-                  "coords": [
-                        34.023652,
-                        34.978583
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Limnara Beach",
-                  "text": "Limnara Beach Cape Greco közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040176,
-                        34.972991
-                  ]
-            },
-            {
-                  "name": "Ammos Kambouri",
-                  "text": "Ammos Kambouri a Cape Greco központ közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.023652,
-                        34.978583
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Limnara Beach",
-                  "text": "Limnara Beach este situată lângă Cape Greco.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040176,
-                        34.972991
-                  ]
-            },
-            {
-                  "name": "Ammos Kambouri",
-                  "text": "Plaja Ammos Kambouri lângă centrul Cape Greco.",
-                  "category": "recreational",
-                  "coords": [
-                        34.023652,
-                        34.978583
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Limnara Beach",
-                  "text": "Limnara Beach is located near Cape Greco.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040176,
-                        34.972991
-                  ]
-            },
-            {
-                  "name": "Ammos Kambouri",
-                  "text": "Ammos Kambouri beach near the Cape Greco center.",
-                  "category": "recreational",
-                  "coords": [
-                        34.023652,
-                        34.978583
-                  ]
-            }
-      ]
-},
+    id: "animal-habitat-cape-greco-environmental-centre-extra", "sights": {"de": [{"name": "Limnara Beach", "text": "Umgeben von der natürlichen Schönheit des Cape Greco, ist der Limnara Beach ein malerisches Ziel an der Küste Zyperns. Die Nähe zum Umweltzentrum unterstreicht die landschaftliche Bedeutung dieses Gebietes. Gäste schätzen das ruhige Ambiente für ausgedehnte Badestunden und entspannte Küstenspaziergänge. Ein Aufenthalt lässt sich ideal mit einer kleinen Wanderung in der Region verbinden.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri nahe dem Cape Greco Zentrum.", "category": "recreational", "coords": [34.023652, 34.978583]}], "hu": [{"name": "Limnara Beach", "text": "A Cape Greco természeti szépségeivel körülvett Limnara Beach festői úti cél Ciprus partjainál. A környezetvédelmi központ közelsége is jelzi e régió különleges természeti értékét. A vendégek nagyra értékelik a békés hangulatot a fürdőzéshez és a nyugodt tengerparti sétákhoz. A strandolást érdemes összekötni a környék felfedezésével és egy rövidebb túrával.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri a Cape Greco központ közelében.", "category": "recreational", "coords": [34.023652, 34.978583]}], "ro": [{"name": "Limnara Beach", "text": "Înconjurată de frumusețea naturală de la Cape Greco, plaja Limnara este o destinație pitorească pe coasta Ciprului. Apropierea de centrul de mediu subliniază importanța peisagistică a acestei regiuni. Oaspeții apreciază ambianța liniștită, potrivită pentru înot și plimbări relaxante pe țărm. O vizită la plajă poate fi combinată perfect cu o mică drumeție prin împrejurimi.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Plaja Ammos Kambouri lângă centrul Cape Greco.", "category": "recreational", "coords": [34.023652, 34.978583]}], "en": [{"name": "Limnara Beach", "text": "Surrounded by the natural beauty of Cape Greco, Limnara Beach serves as a picturesque destination on the Cypriot coast. Its proximity to the environmental centre highlights the scenic value of this tranquil area. Guests appreciate the peaceful ambiance, making it perfect for swimming and relaxed coastal walks. A visit here is easily paired with a short hike exploring the regional landscape.", "category": "recreational", "coords": [34.040176, 34.972991]}, {"name": "Ammos Kambouri", "text": "Ammos Kambouri beach near the Cape Greco center.", "category": "recreational", "coords": [34.023652, 34.978583]}]},
     type: "animal-habitat",
     parent: "CY",
     coords: [34.01, 34.97],
@@ -1448,88 +1367,7 @@ export const cyprusOtherPoi: POI[] = [
    *
    */
   {
-    id: "kid-landmark-waterworld-waterpark-ayia-napa-extra", "sights": {
-      "de": [
-            {
-                  "name": "Ayia Thekla beach",
-                  "text": "Ayia Thekla Beach liegt bei Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934605,
-                        34.978848
-                  ]
-            },
-            {
-                  "name": "Nissaki beach",
-                  "text": "Strand bei Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934683,
-                        34.977941
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ayia Thekla beach",
-                  "text": "Ayia Thekla Beach Ayia Napa közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934605,
-                        34.978848
-                  ]
-            },
-            {
-                  "name": "Nissaki beach",
-                  "text": "Strand Ajía Nápanál.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934683,
-                        34.977941
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ayia Thekla beach",
-                  "text": "Ayia Thekla Beach este situată lângă Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934605,
-                        34.978848
-                  ]
-            },
-            {
-                  "name": "Nissaki beach",
-                  "text": "Plajă lângă Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934683,
-                        34.977941
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ayia Thekla beach",
-                  "text": "Ayia Thekla Beach is located near Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934605,
-                        34.978848
-                  ]
-            },
-            {
-                  "name": "Nissaki beach",
-                  "text": "Beach near Ayia Napa.",
-                  "category": "recreational",
-                  "coords": [
-                        33.934683,
-                        34.977941
-                  ]
-            }
-      ]
-},
+    id: "kid-landmark-waterworld-waterpark-ayia-napa-extra", "sights": {"de": [{"name": "Ayia Thekla beach", "text": "Der Strand Ayia Thekla liegt im Gebiet von Ayia Napa und bietet eine reizvolle Alternative zum nahegelegenen Trubel. Diese Küstenoase lädt zu entspannten Momenten am Mittelmeer ein. Man kann sich hier hervorragend im Meer abkühlen oder die zyprische Sonne genießen. Nach einem aufregenden Tag im benachbarten Wasserpark ist dieser Strand der ideale Ort zum Ausruhen.", "category": "recreational", "coords": [33.934605, 34.978848]}, {"name": "Nissaki beach", "text": "Ebenfalls in der pulsierenden Region Ayia Napa gelegen, präsentiert sich der Nissaki Beach als schöner Küstenabschnitt. Die Urlaubsatmosphäre ist hier stets spürbar und zieht Besucher aus aller Welt an. Neben dem Schwimmen lädt der Strand zu ausgedehnten Sonnenbädern und Küstenspaziergängen ein. Am besten besucht man diesen Ort morgens, um die friedlichsten Stunden des Tages zu erleben.", "category": "recreational", "coords": [33.934683, 34.977941]}], "hu": [{"name": "Ayia Thekla beach", "text": "Az Ayia Napa térségében fekvő Ayia Thekla strand vonzó alternatívát nyújt a közeli nyüzsgéssel szemben. Ez a part menti oázis békés pillanatokra csábít a Földközi-tenger partján. Itt kiváló lehetőség nyílik egy hűsítő csobbanásra vagy a ciprusi napsütés élvezetére. A szomszédos víziparkban töltött izgalmas nap után tökéletes helyszín a lazításra.", "category": "recreational", "coords": [33.934605, 34.978848]}, {"name": "Nissaki beach", "text": "A nyüzsgő Ayia Napa régióban található Nissaki Beach egy igazán szép és vonzó partszakasz. Az élénk nyaralási hangulat folyamatosan jelen van, amely mágnesként vonzza a látogatókat. Az úszás mellett a strand kiválóan alkalmas hosszú napozásokra és kellemes tengerparti sétákra. Érdemes a reggeli órákban érkezni, hogy megtapasztalhassuk a part legnyugodtabb arcát.", "category": "recreational", "coords": [33.934683, 34.977941]}], "ro": [{"name": "Ayia Thekla beach", "text": "Plaja Ayia Thekla se află în zona Ayia Napa, oferind o alternativă fermecătoare la agitația din apropiere. Această oază de coastă vă invită să petreceți momente relaxante la Marea Mediterană. Aici vă puteți răcori în valuri sau puteți savura soarele cald al Ciprului. După o zi plină de adrenalină la parcul acvatic învecinat, este locul ideal pentru relaxare.", "category": "recreational", "coords": [33.934605, 34.978848]}, {"name": "Nissaki beach", "text": "Situată tot în vibranta regiune Ayia Napa, plaja Nissaki se prezintă ca o porțiune de coastă extrem de atrăgătoare. Atmosfera de vacanță se simte din plin aici, atrăgând iubitori ai mării de pretutindeni. Pe lângă înot, plaja vă invită la băi lungi de soare și plimbări agreabile de-a lungul apei. Cel mai bine este să vizitați acest loc dimineața pentru a prinde cele mai pașnice ore.", "category": "recreational", "coords": [33.934683, 34.977941]}], "en": [{"name": "Ayia Thekla beach", "text": "Located in the Ayia Napa area, Ayia Thekla beach provides a charming alternative to the nearby bustling spots. This coastal oasis invites visitors to enjoy relaxing moments by the Mediterranean Sea. Guests can cool off in the gentle waves or simply soak up the radiant Cypriot sun. It is an ideal place to unwind after an exciting day at the adjacent waterpark.", "category": "recreational", "coords": [33.934605, 34.978848]}, {"name": "Nissaki beach", "text": "Also situated in the vibrant Ayia Napa region, Nissaki beach presents a lovely and appealing stretch of coastline. The holiday atmosphere is ever-present here, drawing sea lovers from all around. In addition to swimming, the beach is highly inviting for prolonged sunbathing and scenic shoreline strolls. Visiting during the morning hours allows guests to experience the most peaceful part of the day.", "category": "recreational", "coords": [33.934683, 34.977941]}]},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.9, 34.98],
@@ -1607,88 +1445,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Fasouri Watermania est le parc aquatique le plus vaste de l'île.", "Il propose des toboggans adaptés aux tout-petits comme aux amateurs de sensations.", "La rivière lente est parfaite pour se détendre entre deux descentes.", "De nombreux points de restauration et zones ombragées sont disponibles.", "Des tarifs de groupe et des forfaits anniversaire sont proposés.", "Le parc est accessible en voiture ou via des navettes spéciales.", "La sécurité est assurée en permanence par des maîtres-nageurs diplômés."],
     }, image: "/poi-images/kid-landmark-fasouri-watermania-limassol-extra.webp"},
   {
-    id: "kid-landmark-paphos-aphrodite-waterpark-extra", "sights": {
-      "de": [
-            {
-                  "name": "Geroskipou Beach",
-                  "text": "Geroskipou Beach liegt nahe Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.449202,
-                        34.733188
-                  ]
-            },
-            {
-                  "name": "Yeroskipou Plaz",
-                  "text": "Yeroskipou Plaz liegt nahe Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.442336,
-                        34.736107
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Geroskipou Beach",
-                  "text": "A Geroskipou strand Paphos közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        32.449202,
-                        34.733188
-                  ]
-            },
-            {
-                  "name": "Yeroskipou Plaz",
-                  "text": "A Yeroskipou Plaz Paphos közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        32.442336,
-                        34.736107
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Geroskipou Beach",
-                  "text": "Plaja Geroskipou este situată lângă Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.449202,
-                        34.733188
-                  ]
-            },
-            {
-                  "name": "Yeroskipou Plaz",
-                  "text": "Yeroskipou Plaz este situată lângă Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.442336,
-                        34.736107
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Geroskipou Beach",
-                  "text": "Geroskipou beach is located near Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.449202,
-                        34.733188
-                  ]
-            },
-            {
-                  "name": "Yeroskipou Plaz",
-                  "text": "Yeroskipou Plaz is located near Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.442336,
-                        34.736107
-                  ]
-            }
-      ]
-},
+    id: "kid-landmark-paphos-aphrodite-waterpark-extra", "sights": {"de": [{"name": "Geroskipou Beach", "text": "Nahe der Stadt Paphos und unweit des Aphrodite Waterparks erwartet der Geroskipou Beach seine Badegäste. Die weitläufige Strandlandschaft bietet eine angenehme Kombination aus Entspannung und maritimem Flair. Hier lassen sich gemütliche Stunden beim Schwimmen und Sonnenbaden verbringen. Für einen komfortablen Strandtag sollten Besucher an ausreichend Trinkwasser und Sonnenschutz denken.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz liegt nahe Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}], "hu": [{"name": "Geroskipou Beach", "text": "Páfosz városa és az Aphrodite Vízipark közelében várja fürdőzni vágyó vendégeit a Geroskipou Beach. A tágas tengerparti terület a pihenés és a jellegzetes tengeri hangulat remek kombinációját kínálja. Kellemes órákat tölthetünk itt úszással és a nap melengető sugarainak élvezetével. A kényelmes strandolás érdekében javasolt elegendő ivóvizet és naptejet vinni magunkkal.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "A Yeroskipou Plaz Paphos közelében található.", "category": "recreational", "coords": [32.442336, 34.736107]}], "ro": [{"name": "Geroskipou Beach", "text": "Aproape de orașul Paphos și nu departe de parcul acvatic Aphrodite, plaja Geroskipou își așteaptă oaspeții dornici de bălăceală. Peisajul extins al plajei oferă o combinație plăcută de relaxare și farmec maritim. Vă puteți petrece ore întregi înotând liniștit sau bucurându-vă de băi de soare. Pentru un plus de confort, este recomandat să aduceți suficientă apă și protecție solară.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz este situată lângă Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}], "en": [{"name": "Geroskipou Beach", "text": "Awaiting its guests near the city of Paphos and the Aphrodite Waterpark, Geroskipou Beach offers a broad coastal experience. The expansive beach landscape provides a pleasant mix of relaxation and classic maritime flair. Visitors can easily spend hours leisurely swimming and soaking in the warm sun. Remembering to bring plenty of water and sun protection will ensure a comfortable beach day.", "category": "recreational", "coords": [32.449202, 34.733188]}, {"name": "Yeroskipou Plaz", "text": "Yeroskipou Plaz is located near Paphos.", "category": "recreational", "coords": [32.442336, 34.736107]}]},
     type: "kid-landmark",
     parent: "CY",
     coords: [32.45, 34.75],
@@ -1981,124 +1738,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "kid-landmark-ocean-aquarium-protaras-extra", "sights": {
-      "de": [
-            {
-                  "name": "Louma Beach",
-                  "text": "Louma Beach ist ein Strand bei Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.038636,
-                        35.036695
-                  ]
-            },
-            {
-                  "name": "Ellines Beach",
-                  "text": "Ellines Beach ist ein Strand bei Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040095,
-                        35.034142
-                  ]
-            },
-            {
-                  "name": "Vizakia Beach",
-                  "text": "Vizakia Beach liegt bei Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.033959,
-                        35.040593
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Louma Beach",
-                  "text": "Louma Beach egy strand Protaras közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.038636,
-                        35.036695
-                  ]
-            },
-            {
-                  "name": "Ellines Beach",
-                  "text": "Ellines Beach egy strand Protaras közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040095,
-                        35.034142
-                  ]
-            },
-            {
-                  "name": "Vizakia Beach",
-                  "text": "Vizakia Beach Protaras közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        34.033959,
-                        35.040593
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Louma Beach",
-                  "text": "Louma Beach este o plajă lângă Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.038636,
-                        35.036695
-                  ]
-            },
-            {
-                  "name": "Ellines Beach",
-                  "text": "Ellines Beach este o plajă lângă Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040095,
-                        35.034142
-                  ]
-            },
-            {
-                  "name": "Vizakia Beach",
-                  "text": "Vizakia Beach este lângă Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.033959,
-                        35.040593
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Louma Beach",
-                  "text": "Louma Beach is a beach near Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.038636,
-                        35.036695
-                  ]
-            },
-            {
-                  "name": "Ellines Beach",
-                  "text": "Ellines Beach is a beach near Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.040095,
-                        35.034142
-                  ]
-            },
-            {
-                  "name": "Vizakia Beach",
-                  "text": "Vizakia Beach is near Protaras.",
-                  "category": "recreational",
-                  "coords": [
-                        34.033959,
-                        35.040593
-                  ]
-            }
-      ]
-},
+    id: "kid-landmark-ocean-aquarium-protaras-extra", "sights": {"de": [{"name": "Louma Beach", "text": "Der Louma Beach bei Protaras, unweit des Ozeanaquariums, ist ein zauberhafter Ort für Meeresliebhaber. Die sanft abfallende Küste Zyperns schafft hier ideale Bedingungen für einen unbeschwerten Badeausflug. Schwimmer und Erholungssuchende schätzen die freundliche Atmosphäre an diesem Strandabschnitt. Ein entspannter Nachmittag am Wasser lässt den Alltag schnell in Vergessenheit geraten.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Ebenfalls im schönen Protaras gelegen, bietet der Ellines Beach eine idyllische Strandkulisse für sonnige Tage. Die unmittelbare Nähe zum Meer verspricht erfrischende Bademomente unter dem blauen Himmel Zyperns. Gäste verbringen ihre Zeit gerne mit Sonnenbaden oder entspannten Spaziergängen entlang der Küste. Es lohnt sich, ein gutes Buch für die ruhigen Stunden am Sandstrand einzupacken.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Der Vizakia Beach in Protaras schmiegt sich malerisch an die östliche Küstenlinie Zyperns. Diese beschauliche Bucht lockt mit einer angenehmen Umgebung, die zum Verweilen und Genießen einlädt. Das klare Meerwasser bietet hervorragende Möglichkeiten für ein erfrischendes Bad in ruhiger Atmosphäre. An den Wochenenden empfiehlt sich eine etwas frühere Anreise, um den perfekten Liegeplatz zu ergattern.", "category": "recreational", "coords": [34.033959, 35.040593]}], "hu": [{"name": "Louma Beach", "text": "A Protaras mellett, az Óceánvárium közelében fekvő Louma Beach varázslatos helyszín a tenger szerelmeseinek. A fokozatosan mélyülő ciprusi partvidék ideális feltételeket teremt egy gondtalan fürdőzéshez. Az úszni vágyók és a pihenést keresők egyaránt kedvelik e partszakasz barátságos légkörét. Egy nyugodt vízparti délután hamar feledteti a mindennapok rohanását.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "A szintén a gyönyörű Protaras térségében található Ellines Beach idilli tengerparti hátteret nyújt a napsütéses napokhoz. A tenger közvetlen közelsége frissítő élményeket ígér Ciprus ragyogó kék ege alatt. A látogatók örömmel töltik idejüket napozással vagy kényelmes parti sétákkal. A csendes, homokos parton töltött órákhoz érdemes egy jó könyvet is a táskába készíteni.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "A protarasi Vizakia Beach festőien simul bele Ciprus keleti partvonalába. Ez a békés öböl kellemes környezettel csábít maradásra és a pillanat élvezetére. A tiszta tengervíz kiváló lehetőséget ad egy frissítő fürdőzésre igazán nyugodt körülmények között. Hétvégéken célszerű valamivel korábban érkezni, hogy biztosan megtaláljuk a legtökéletesebb pihenőhelyet a parton.", "category": "recreational", "coords": [34.033959, 35.040593]}], "ro": [{"name": "Louma Beach", "text": "Plaja Louma din zona Protaras, aproape de Acvariul Oceanic, este un loc fermecător pentru iubitorii de mare. Litoralul cipriot care coboară lin creează aici condiții ideale pentru o ieșire fără griji la scăldat. Înotătorii și cei care caută odihna apreciază atmosfera prietenoasă de pe această plajă. O după-amiază relaxantă lângă apă vă va face să uitați rapid de rutina zilnică.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Aflată tot în frumoasa zonă Protaras, plaja Ellines oferă un decor idilic pentru zilele însorite. Apropierea de mare promite momente revigorante de înot sub cerul albastru senin al Ciprului. Oaspeții își petrec adesea timpul bucurându-se de soare sau plimbându-se relaxat de-a lungul țărmului. Merită să aduceți o carte bună pentru orele liniștite petrecute pe nisipul cald.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Plaja Vizakia din Protaras se cuibărește pitoresc pe linia de coastă estică a Ciprului. Acest golf liniștit atrage printr-un mediu plăcut, care te îndeamnă să zăbovești și să te bucuri de clipă. Apa mării oferă oportunități excelente pentru o baie răcoroasă într-o atmosferă calmă. În weekend, se recomandă o sosire ceva mai devreme pentru a prinde cel mai bun loc de stat la plajă.", "category": "recreational", "coords": [34.033959, 35.040593]}], "en": [{"name": "Louma Beach", "text": "Situated by Protaras near the Ocean Aquarium, Louma Beach is a magical spot for sea lovers. The gently sloping Cypriot coastline here creates the ideal conditions for a carefree outing by the water. Swimmers and relaxation seekers alike value the friendly, easygoing atmosphere of this beach area. A laid-back afternoon spent here will quickly make you forget the rush of everyday life.", "category": "recreational", "coords": [34.038636, 35.036695]}, {"name": "Ellines Beach", "text": "Also set in beautiful Protaras, Ellines Beach offers an idyllic coastal backdrop for sunny days out. Being right by the sea promises refreshing swimming moments under the clear blue Cypriot sky. Guests generally spend their time sunbathing or enjoying relaxed strolls along the shoreline. Tucking a good book into your bag is highly recommended for those quiet hours on the sand.", "category": "recreational", "coords": [34.040095, 35.034142]}, {"name": "Vizakia Beach", "text": "Vizakia Beach in Protaras nestles picturesquely along the eastern coastline of Cyprus. This peaceful bay attracts visitors with a pleasant environment that encourages lingering and enjoying the moment. The sea water provides excellent opportunities for a refreshing swim in a calm atmosphere. On weekends, arriving a bit earlier is recommended to secure the perfect lounging spot.", "category": "recreational", "coords": [34.033959, 35.040593]}]},
     type: "kid-landmark",
     parent: "CY",
     coords: [34.03, 35.03],
@@ -2136,88 +1776,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["L'Aquarium Océanique est conçu pour les familles souhaitant découvrir la faune marine.", "Les zones thématiques présentent des écosystèmes tropicaux et polaires.", "Des programmes éducatifs et des événements spéciaux complètent la visite.", "Des zones couvertes et des aires de repos assurent le confort par tous les temps.", "Plusieurs sections de l'aquarium peuvent être explorées en une seule visite.", "L'accès est facile en voiture ou via les lignes de bus locales.", "Les expositions d'animaux exotiques sont régulièrement entretenues et mises à jour."],
     }, image: "/poi-images/kid-landmark-ocean-aquarium-protaras-extra.webp"},
   {
-    id: "kid-landmark-masterland-limassol-extra", "sights": {
-      "de": [
-            {
-                  "name": "Onisilos",
-                  "text": "Onisilos ist ein Strand bei Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.115477,
-                        34.70471
-                  ]
-            },
-            {
-                  "name": "Kastella Beach",
-                  "text": "Kastella Beach ist ein Strand bei Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.110841,
-                        34.703395
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Onisilos",
-                  "text": "Onisilos egy strand Limassol közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        33.115477,
-                        34.70471
-                  ]
-            },
-            {
-                  "name": "Kastella Beach",
-                  "text": "A Kastella strand Limassol közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.110841,
-                        34.703395
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Onisilos",
-                  "text": "Onisilos este o plajă lângă Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.115477,
-                        34.70471
-                  ]
-            },
-            {
-                  "name": "Kastella Beach",
-                  "text": "Plaja Kastella este situată lângă Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.110841,
-                        34.703395
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Onisilos",
-                  "text": "Onisilos is a beach near Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.115477,
-                        34.70471
-                  ]
-            },
-            {
-                  "name": "Kastella Beach",
-                  "text": "Kastella beach is located near Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.110841,
-                        34.703395
-                  ]
-            }
-      ]
-},
+    id: "kid-landmark-masterland-limassol-extra", "sights": {"de": [{"name": "Onisilos", "text": "Onisilos ist ein Strand bei Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Im lebhaften Limassol gelegen, bietet der Kastella Beach eine willkommene Auszeit am Meer. Die städtische Kulisse verschmilzt hier harmonisch mit dem entspannten Rhythmus des Strandlebens. Badegäste können im Wasser planschen oder einfach das Treiben an der Küste beobachten. Dieser Strand ist ideal für einen spontanen Sprung ins kühle Nass während einer Stadtbesichtigung.", "category": "recreational", "coords": [33.110841, 34.703395]}], "hu": [{"name": "Onisilos", "text": "Onisilos egy strand Limassol közelében.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "A nyüzsgő Limassol városában fekvő Kastella Beach kellemes tengerparti kikapcsolódást kínál. A városi háttér itt harmonikusan olvad össze a strandélet nyugodt ritmusával. A fürdőzők kedvükre csobbanhatnak a vízben, vagy csak figyelhetik a part menti forgatagot. Ez a strand tökéletes egy spontán mártózásra a város felfedezése közben.", "category": "recreational", "coords": [33.110841, 34.703395]}], "ro": [{"name": "Onisilos", "text": "Onisilos este o plajă lângă Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Situată în vibrantul Limassol, plaja Kastella oferă o evadare binevenită la malul mării. Decorul urban se îmbină aici armonios cu ritmul relaxat al vieții de plajă. Vizitatorii se pot bălăci în apă sau pot pur și simplu să observe mișcarea de pe coastă. Această plajă este ideală pentru o baie spontană și răcoroasă în timpul explorării orașului.", "category": "recreational", "coords": [33.110841, 34.703395]}], "en": [{"name": "Onisilos", "text": "Onisilos is a beach near Limassol.", "category": "recreational", "coords": [33.115477, 34.70471]}, {"name": "Kastella Beach", "text": "Situated in lively Limassol, Kastella Beach offers a welcoming seaside break. The urban backdrop blends harmoniously here with the relaxed rhythm of beach life. Swimmers can splash in the water or simply watch the activity unfold along the coast. This beach is highly ideal for a spontaneous, cooling dip while taking a tour of the city.", "category": "recreational", "coords": [33.110841, 34.703395]}]},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.1, 34.7],
@@ -2389,52 +1948,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Luna Park de Paphos s'adresse principalement aux familles avec jeunes enfants.", "Les manèges classiques et stands de jeux assurent un divertissement joyeux.", "Sa situation près du port permet de le combiner avec une promenade.", "La proximité de zones ombragées et de restaurants améliore le confort.", "Il est idéal pour une visite courte d'une heure ou deux en fin de journée.", "L'accès se fait facilement à pied depuis les hôtels de Kato Paphos ou en voiture.", "Le parc est généralement ouvert l'après-midi et en soirée avec ses lumières."],
     }, image: "/poi-images/kid-landmark-paphos-luna-park-extra.webp"},
   {
-    id: "kid-landmark-galactica-entertainment-limassol-extra", "sights": {
-      "de": [
-            {
-                  "name": "Agios Georgios Fragoudi 2 municipal beach",
-                  "text": "Der städtische Strand Agios Georgios Fragoudi 2 liegt in Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.071943,
-                        34.688565
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Agios Georgios Fragoudi 2 municipal beach",
-                  "text": "Az Agios Georgios Fragoudi 2 városi strand Limassolban található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.071943,
-                        34.688565
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Agios Georgios Fragoudi 2 municipal beach",
-                  "text": "Plaja municipală Agios Georgios Fragoudi 2 este în Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.071943,
-                        34.688565
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Agios Georgios Fragoudi 2 municipal beach",
-                  "text": "The municipal beach Agios Georgios Fragoudi 2 is in Limassol.",
-                  "category": "recreational",
-                  "coords": [
-                        33.071943,
-                        34.688565
-                  ]
-            }
-      ]
-},
+    id: "kid-landmark-galactica-entertainment-limassol-extra", "sights": {"de": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Der städtische Strand Agios Georgios Fragoudi 2 prägt das sommerliche Bild von Limassol. Die zentrale Lage macht ihn zu einem beliebten Treffpunkt für Einheimische und Besucher gleichermaßen. Das Wasser lädt zum Schwimmen ein, während der Strandbereich Platz zum Sonnenbaden bietet. Für einen abendlichen Spaziergang am Meer bietet dieser Strand eine wunderbare Kulisse.", "category": "recreational", "coords": [33.071943, 34.688565]}], "hu": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Az Agios Georgios Fragoudi 2 városi strand meghatározó része Limassol nyári arculatának. Központi elhelyezkedése miatt a helyiek és a turisták körében egyaránt kedvelt találkozóhely. A víz úszásra hívogat, miközben a parti sáv elegendő teret nyújt a napozáshoz. Egy esti tengerparti sétához is csodálatos hátteret és atmoszférát biztosít ez a helyszín.", "category": "recreational", "coords": [33.071943, 34.688565]}], "ro": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "Plaja municipală Agios Georgios Fragoudi 2 dă tonul verii în peisajul din Limassol. Locația sa centrală o face un punct de întâlnire popular atât pentru localnici, cât și pentru vizitatori. Apa te invită la înot, în timp ce zona de plajă oferă spațiu generos pentru băi de soare. Pentru o plimbare de seară la malul mării, această plajă oferă un cadru deosebit de frumos.", "category": "recreational", "coords": [33.071943, 34.688565]}], "en": [{"name": "Agios Georgios Fragoudi 2 municipal beach", "text": "The municipal Agios Georgios Fragoudi 2 beach defines the summer scenery in Limassol. Its central location makes it a popular gathering spot for locals and visitors alike. The water invites you in for a swim, while the sandy stretch provides ample space for sunbathing. For an evening stroll by the sea, this beach offers a truly wonderful setting.", "category": "recreational", "coords": [33.071943, 34.688565]}]},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.07, 34.69],
@@ -4281,52 +3795,7 @@ export const cyprusOtherPoi: POI[] = [
    *
    */
   {
-    id: "industry-vassiliko-cement-works-extra", "sights": {
-      "de": [
-            {
-                  "name": "Agia Barbara municipal beach",
-                  "text": "Strand bei Vassiliko.",
-                  "category": "recreational",
-                  "coords": [
-                        33.153953,
-                        34.712693
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Agia Barbara municipal beach",
-                  "text": "Strand Vassziliko közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        33.153953,
-                        34.712693
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Agia Barbara municipal beach",
-                  "text": "Plajă lângă Vassiliko.",
-                  "category": "recreational",
-                  "coords": [
-                        33.153953,
-                        34.712693
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Agia Barbara municipal beach",
-                  "text": "Beach near Vassiliko.",
-                  "category": "recreational",
-                  "coords": [
-                        33.153953,
-                        34.712693
-                  ]
-            }
-      ]
-},
+    id: "industry-vassiliko-cement-works-extra", "sights": {"de": [{"name": "Agia Barbara municipal beach", "text": "Der Agia Barbara Strand erstreckt sich in der Nähe von Vassiliko entlang der südlichen Küste Zyperns. Die von der lokalen Industrie geprägte Umgebung bildet einen interessanten Kontrast zum blauen Meerwasser. Besucher nutzen den Küstenstreifen gerne für eine kurze Erfrischung oder einen Spaziergang am Ufer. Ein ruhiger Ort, der besonders für Individualisten geeignet ist.", "category": "recreational", "coords": [33.153953, 34.712693]}], "hu": [{"name": "Agia Barbara municipal beach", "text": "Az Agia Barbara városi strand Vassiliko közelében húzódik Ciprus déli partvonalán. A helyi ipar által formált környezet érdekes és szokatlan kontrasztot alkot a kék tengervízzel. A látogatók szívesen használják ezt a partszakaszt egy rövid felfrissülésre vagy egy parti sétára. Ez egy igazán csendes hely, amely kifejezetten az egyéni utazóknak ajánlott.", "category": "recreational", "coords": [33.153953, 34.712693]}], "ro": [{"name": "Agia Barbara municipal beach", "text": "Plaja municipală Agia Barbara se întinde în apropiere de Vassiliko, de-a lungul coastei sudice a Ciprului. Împrejurimile, marcate de industria locală, formează un contrast interesant cu apa albastră a mării. Vizitatorii preferă această fâșie de coastă pentru o scurtă răcorire sau o plimbare pe țărm. Un loc tăcut, care este potrivit în mod special pentru cei cu spirit independent.", "category": "recreational", "coords": [33.153953, 34.712693]}], "en": [{"name": "Agia Barbara municipal beach", "text": "The Agia Barbara municipal beach stretches out near Vassiliko along the southern coast of Cyprus. The surroundings, influenced by local industry, create an interesting contrast with the blue sea water. Visitors often use this coastal strip for a quick, refreshing dip or a walk along the shore. It is a quiet location that is particularly well-suited for independent-minded travelers.", "category": "recreational", "coords": [33.153953, 34.712693]}]},
     type: "industry",
     parent: "CY",
     coords: [33.15, 34.72],
@@ -4739,52 +4208,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "industry-desalination-plant-larnaca-extra", "sights": {
-      "de": [
-            {
-                  "name": "CTO Beach",
-                  "text": "Strand bei Larnaka.",
-                  "category": "recreational",
-                  "coords": [
-                        33.698582,
-                        34.978203
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "CTO Beach",
-                  "text": "Strand Lárnakánál.",
-                  "category": "recreational",
-                  "coords": [
-                        33.698582,
-                        34.978203
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "CTO Beach",
-                  "text": "Plajă lângă Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.698582,
-                        34.978203
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "CTO Beach",
-                  "text": "Beach near Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.698582,
-                        34.978203
-                  ]
-            }
-      ]
-},
+    id: "industry-desalination-plant-larnaca-extra", "sights": {"de": [{"name": "CTO Beach", "text": "Der CTO Beach bei Larnaka bietet einen weitläufigen Sandstrand an der zyprischen Küste. Die breite Fläche macht ihn zu einem großartigen Ort für Familien und Sonnenanbeter, die viel Platz schätzen. Das ruhige Meer lädt zu entspannten Schwimmrunden und Spaziergängen an der Wasserkante ein. Ein perfektes Ziel, um den Tag mit einem gemütlichen Picknick am Strand ausklingen zu lassen.", "category": "recreational", "coords": [33.698582, 34.978203]}], "hu": [{"name": "CTO Beach", "text": "A lárnakai CTO Beach egy kifejezetten tágas, homokos partszakaszt kínál Ciprus partvidékén. A széles terület nagyszerű hellyé teszi a családok és a napozni vágyók számára, akik értékelik a teret. A nyugodt tenger pihentető úszásra és vízparti sétákra csábítja a vendégeket. Tökéletes úti cél arra, hogy a napot egy kellemes tengerparti piknikkel zárjuk.", "category": "recreational", "coords": [33.698582, 34.978203]}], "ro": [{"name": "CTO Beach", "text": "Plaja CTO de lângă Larnaca oferă o fâșie lungă de nisip pe coasta cipriotă. Suprafața lată o transformă într-un loc grozav pentru familii și iubitorii de soare care apreciază spațiul. Marea liniștită invită la sesiuni de înot relaxante și plimbări exact la marginea apei. O destinație perfectă pentru a încheia ziua cu un picnic confortabil chiar pe plajă.", "category": "recreational", "coords": [33.698582, 34.978203]}], "en": [{"name": "CTO Beach", "text": "The CTO Beach near Larnaca features an expansive sandy stretch along the Cypriot coast. The wide area makes it a great spot for families and sun worshippers who appreciate having plenty of space. The calm sea invites visitors for relaxed swimming sessions and walks right at the water's edge. It is a perfect destination to end your day with a cozy beachside picnic.", "category": "recreational", "coords": [33.698582, 34.978203]}]},
     type: "industry",
     parent: "CY",
     coords: [33.7, 34.96],
@@ -5442,52 +4866,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La Zone industrielle d'Asgata représente la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des réglementations environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le site est rarement mentionné en détail dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-asgata-industrial-area-extra.webp"},
   {
-    id: "industry-petrolina-larnaca-depot-extra", "sights": {
-      "de": [
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Mackenzie Beach ist ein bekannter Strand in Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Mackenzie Beach egy népszerű strand Larnacában.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Mackenzie Beach este o plajă populară în Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Mackenzie Beach is a popular beach in Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
-                  ]
-            }
-      ]
-},
+    id: "industry-petrolina-larnaca-depot-extra", "sights": {"de": [{"name": "Mackenzie Beach", "text": "Mackenzie Beach ist einer der bekanntesten und lebhaftesten Strände in Larnaca. Die Nähe zum Flughafen sorgt für eine einzigartige Atmosphäre, während Flugzeuge spektakulär über das Wasser einfliegen. Tagsüber lockt das flache Meer Familien und Schwimmer, abends verwandelt sich die Promenade in einen beliebten Treffpunkt. Es lohnt sich, bis zum Sonnenuntergang zu bleiben, um das besondere Flair zu genießen.", "category": "recreational", "coords": [33.638009, 34.890673]}], "hu": [{"name": "Mackenzie Beach", "text": "A Mackenzie Beach Lárnaka egyik legismertebb és legpezsgőbb strandja. A repülőtér közelsége egyedi hangulatot teremt, ahogy a repülőgépek látványosan ereszkednek le a víz felett. Nappal a sekély tenger a családokat és az úszókat vonzza, este pedig a sétány egy népszerű találkozóhellyé változik. Érdemes egészen naplementéig maradni, hogy átéljük ezt a különleges atmoszférát.", "category": "recreational", "coords": [33.638009, 34.890673]}], "ro": [{"name": "Mackenzie Beach", "text": "Plaja Mackenzie este una dintre cele mai cunoscute și pline de viață plaje din Larnaca. Apropierea de aeroport asigură o atmosferă unică, în timp ce avioanele coboară spectaculos deasupra apei. În timpul zilei, marea puțin adâncă atrage familii și înotători, iar seara promenada se transformă într-un punct de întâlnire popular. Merită să rămâneți până la apus pentru a vă bucura de flerul său deosebit.", "category": "recreational", "coords": [33.638009, 34.890673]}], "en": [{"name": "Mackenzie Beach", "text": "Mackenzie Beach is one of the most well-known and lively beaches in Larnaca. Its proximity to the airport provides a unique atmosphere as airplanes make spectacular descents over the water. During the day, the shallow sea attracts families and swimmers, while by evening the promenade turns into a popular gathering spot. Staying until sunset is highly recommended to fully enjoy the special vibe.", "category": "recreational", "coords": [33.638009, 34.890673]}]},
     type: "industry",
     parent: "CY",
     coords: [33.64, 34.9],
@@ -5723,88 +5102,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le port de Larnaca est le deuxième plus grand carrefour maritime de Chypre.", "Il gère un mélange important de fret et de passagers.", "Les installations comprennent des terminaux industriels et de croisière.", "C'est un centre logistique vital en Méditerranée orientale.", "Des systèmes modernes de navigation et de sécurité gèrent le trafic.", "Le port joue un rôle crucial dans l'approvisionnement national.", "Point d'intérêt pour observer les grands navires et l'activité commerciale."],
     }, image: "/poi-images/port-larnaca-port-extra.webp"},
   {
-    id: "port-paphos-harbour-extra", "sights": {
-      "de": [
-            {
-                  "name": "Pachyammos Beach",
-                  "text": "Pachyammos Beach liegt nahe dem Hafen von Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.425813,
-                        34.743689
-                  ]
-            },
-            {
-                  "name": "SODAP Beach",
-                  "text": "SODAP Beach liegt nahe dem Hafen von Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.421669,
-                        34.749885
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pachyammos Beach",
-                  "text": "A Pachyammos strand Paphos kikötőjének közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        32.425813,
-                        34.743689
-                  ]
-            },
-            {
-                  "name": "SODAP Beach",
-                  "text": "A SODAP strand Paphos kikötőjének közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        32.421669,
-                        34.749885
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pachyammos Beach",
-                  "text": "Plaja Pachyammos este situată lângă portul Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.425813,
-                        34.743689
-                  ]
-            },
-            {
-                  "name": "SODAP Beach",
-                  "text": "Plaja SODAP este situată lângă portul Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.421669,
-                        34.749885
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pachyammos Beach",
-                  "text": "Pachyammos beach is located near Paphos harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        32.425813,
-                        34.743689
-                  ]
-            },
-            {
-                  "name": "SODAP Beach",
-                  "text": "SODAP beach is located near Paphos harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        32.421669,
-                        34.749885
-                  ]
-            }
-      ]
-},
+    id: "port-paphos-harbour-extra", "sights": {"de": [{"name": "Pachyammos Beach", "text": "Nur einen kurzen Weg vom Hafen von Paphos entfernt, empfängt der Pachyammos Beach seine Besucher mit charmantem Küstenflair. Dieser Strandabschnitt ist ein hervorragender Ort, um nach der Besichtigung der Hafenstadt ein erfrischendes Bad im Mittelmeer zu nehmen. Die Umgebung lädt zum Verweilen im Sand und zum Genießen der Meeresbrise ein. Ein ideales Plätzchen für eine entspannte Nachmittagspause.", "category": "recreational", "coords": [32.425813, 34.743689]}, {"name": "SODAP Beach", "text": "Ebenfalls in der Nähe des Hafens von Paphos gelegen, bietet der SODAP Beach eine gepflegte Umgebung für entspannte Stunden am Meer. Besucher schätzen das klare Wasser, das zu ausgiebigen Schwimmrunden einlädt. Die entspannte Strandatmosphäre ist perfekt, um die Sonne Zyperns in vollen Zügen zu genießen. Am frühen Vormittag findet man hier oft die größte Ruhe für einen Spaziergang.", "category": "recreational", "coords": [32.421669, 34.749885]}], "hu": [{"name": "Pachyammos Beach", "text": "A páfoszi kikötőtől mindössze egy rövid sétára található Pachyammos Beach sármos tengerparti hangulattal várja látogatóit. Ez a partszakasz kiváló helyszín arra, hogy a kikötőváros felfedezése után egy frissítő fürdőt vegyünk a Földközi-tengerben. A környezet maradásra csábít a homokban és a tengeri szellő élvezetére. Ideális hely egy pihentető délutáni szünethez a városnézés közepette.", "category": "recreational", "coords": [32.425813, 34.743689]}, {"name": "SODAP Beach", "text": "A szintén a páfoszi kikötő közelében elhelyezkedő SODAP Beach gondozott környezetet kínál a tengerparti pihenéshez. A látogatók nagyra értékelik a tiszta vizet, amely hosszas úszásokra ösztönöz. A laza tengerparti hangulat tökéletes ahhoz, hogy teljes mértékben kiélvezzük Ciprus napsütését. Kora délelőtt találhatjuk itt a legnagyobb nyugalmat egy békés parti sétához.", "category": "recreational", "coords": [32.421669, 34.749885]}], "ro": [{"name": "Pachyammos Beach", "text": "La doar o scurtă distanță de portul din Paphos, plaja Pachyammos își primește vizitatorii cu un farmec de coastă deosebit. Această porțiune de plajă este un loc excelent pentru a face o baie revigorantă în Marea Mediterană după vizitarea orașului portuar. Împrejurimile te invită să zăbovești pe nisip și să te bucuri de briza mării. Un colț ideal pentru o pauză relaxantă de după-amiază.", "category": "recreational", "coords": [32.425813, 34.743689]}, {"name": "SODAP Beach", "text": "Situată, de asemenea, în apropierea portului din Paphos, plaja SODAP oferă un mediu îngrijit pentru ore relaxante la mare. Vizitatorii apreciază apa limpede, care invită la sesiuni prelungite de înot. Atmosfera relaxată de plajă este perfectă pentru a te bucura din plin de soarele Ciprului. Dimineața devreme, veți găsi adesea aici cea mai mare liniște pentru o plimbare pe țărm.", "category": "recreational", "coords": [32.421669, 34.749885]}], "en": [{"name": "Pachyammos Beach", "text": "Just a short distance from Paphos Harbour, Pachyammos Beach welcomes its visitors with a charming coastal flair. This beach stretch is an excellent spot to take a refreshing dip in the Mediterranean after exploring the port city. The surroundings invite you to linger on the sand and enjoy the gentle sea breeze. It serves as an ideal spot for a relaxing afternoon break during your travels.", "category": "recreational", "coords": [32.425813, 34.743689]}, {"name": "SODAP Beach", "text": "Also located near the Paphos Harbour, SODAP Beach provides a well-kept environment for relaxing hours by the sea. Visitors consistently appreciate the clear water, which invites prolonged swimming sessions. The laid-back beach atmosphere is perfect for soaking up the sun of Cyprus to the fullest. Early mornings here often offer the greatest peace and quiet for a shoreline stroll.", "category": "recreational", "coords": [32.421669, 34.749885]}]},
     type: "port",
     parent: "CY",
     coords: [32.41, 34.75],
@@ -6063,52 +5361,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le port d'Ayia Napa est un carrefour maritime majeur à Chypre.", "Navigation, pêche et tourisme s'y rejoignent.", "Quais de fret, bassins de pêche et amarrages pour yachts peuvent s'y côtoyer.", "Des promenades, des restaurants de poisson et des boutiques animent le quartier portuaire.", "Des systèmes de navigation et de sécurité modernes soutiennent l'activité.", "Le port illustre l'importance de la voie maritime pour l'approvisionnement et l'exportation.", "Les excursions en bateau et les points de vue rendent le lieu intéressant pour les touristes."],
     }, image: "/poi-images/port-ayia-napa-harbour-extra.webp"},
   {
-    id: "port-larnaca-international-airport-glafcos-clerides-extra", "sights": {
-      "de": [
-            {
-                  "name": "Dog Beach",
-                  "text": "Hundestrand bei Larnaka.",
-                  "category": "recreational",
-                  "coords": [
-                        33.637703,
-                        34.872274
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dog Beach",
-                  "text": "Kutyás strand Lárnakánál.",
-                  "category": "recreational",
-                  "coords": [
-                        33.637703,
-                        34.872274
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dog Beach",
-                  "text": "Plajă pentru câini lângă Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.637703,
-                        34.872274
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dog Beach",
-                  "text": "Dog beach near Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.637703,
-                        34.872274
-                  ]
-            }
-      ]
-},
+    id: "port-larnaca-international-airport-glafcos-clerides-extra", "sights": {"de": [{"name": "Dog Beach", "text": "Unweit des internationalen Flughafens von Larnaka bietet dieser Strandabschnitt einen speziellen Rückzugsort für vierbeinige Begleiter und ihre Besitzer. Der sogenannte Hundestrand ermöglicht entspannte Stunden am Meer, in denen Tiere frei spielen und im Wasser tollen können. Die ungezwungene Atmosphäre macht ihn zu einem beliebten Ziel für Tierliebhaber auf Zypern. Eine robuste Picknickdecke ist für einen Ausflug hierher sehr empfehlenswert.", "category": "recreational", "coords": [33.637703, 34.872274]}], "hu": [{"name": "Dog Beach", "text": "A lárnakai nemzetközi repülőtér közelében fekvő partszakasz különleges menedéket nyújt a négylábú kedvencek és gazdáik számára. Az úgynevezett kutyás strand békés tengerparti órákat biztosít, ahol az állatok szabadon játszhatnak és hancúrozhatnak a vízben. A kötetlen légkör miatt népszerű úti cél a Cipruson élő vagy nyaraló állatbarátok körében. Egy strapabíró pikniktakaró kifejezetten ajánlott az itteni kiruccanáshoz.", "category": "recreational", "coords": [33.637703, 34.872274]}], "ro": [{"name": "Dog Beach", "text": "Nu departe de aeroportul internațional din Larnaca, această porțiune de plajă oferă o retragere specială pentru companionii cu patru picioare și stăpânii lor. Așa-numita plajă pentru câini permite ore relaxante la mare, unde animalele se pot juca liber și se pot zbengui în apă. Atmosfera informală o face o destinație populară pentru iubitorii de animale din Cipru. O pătură de picnic robustă este foarte recomandată pentru o excursie aici.", "category": "recreational", "coords": [33.637703, 34.872274]}], "en": [{"name": "Dog Beach", "text": "Located near the Larnaca International Airport, this stretch of beach offers a special retreat for four-legged companions and their owners. The so-called Dog Beach allows for relaxing hours by the sea, where animals can play freely and splash around in the water. The casual atmosphere makes it a popular destination for animal lovers in Cyprus. Bringing a sturdy picnic blanket is highly recommended for an outing here.", "category": "recreational", "coords": [33.637703, 34.872274]}]},
     type: "port",
     parent: "CY",
     coords: [33.62, 34.87],
@@ -6253,88 +5506,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-pomos-fishing-shelter-extra", "sights": {
-      "de": [
-            {
-                  "name": "Pomos Municipal Beach",
-                  "text": "Pomos Municipal Beach liegt am Fischerhafen von Pomos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.555623,
-                        35.175592
-                  ]
-            },
-            {
-                  "name": "Pachyamos Beach",
-                  "text": "Strand beim Fischerhafen von Pomos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.585044,
-                        35.174644
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pomos Municipal Beach",
-                  "text": "Pomos Municipal Beach a Pomos halászkikötőnél található.",
-                  "category": "recreational",
-                  "coords": [
-                        32.555623,
-                        35.175592
-                  ]
-            },
-            {
-                  "name": "Pachyamos Beach",
-                  "text": "Strand a pomosi halászkikötőnél.",
-                  "category": "recreational",
-                  "coords": [
-                        32.585044,
-                        35.174644
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pomos Municipal Beach",
-                  "text": "Pomos Municipal Beach este lângă portul pescăresc Pomos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.555623,
-                        35.175592
-                  ]
-            },
-            {
-                  "name": "Pachyamos Beach",
-                  "text": "Plajă lângă portul pescăresc din Pomos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.585044,
-                        35.174644
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pomos Municipal Beach",
-                  "text": "Pomos Municipal Beach is near the Pomos fishing harbour.",
-                  "category": "recreational",
-                  "coords": [
-                        32.555623,
-                        35.175592
-                  ]
-            },
-            {
-                  "name": "Pachyamos Beach",
-                  "text": "Beach near the Port Pomos fishing shelter.",
-                  "category": "recreational",
-                  "coords": [
-                        32.585044,
-                        35.174644
-                  ]
-            }
-      ]
-},
+    id: "port-pomos-fishing-shelter-extra", "sights": {"de": [{"name": "Pomos Municipal Beach", "text": "Direkt am malerischen Fischerhafen von Pomos gelegen, versprüht der städtische Strand einen authentischen, maritimen Charme. Die ruhige Küstenlinie lädt zu ungestörten Momenten abseits der großen Touristenströme ein. Badegäste können hier im klaren Wasser schwimmen und die beschauliche Atmosphäre des Fischerdorfes auf sich wirken lassen. Für einen authentischen Eindruck der zypriotischen Küste ist dieser Ort perfekt geeignet.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Der Strand Pachyamos liegt eingebettet in die ruhige Küstenlandschaft beim Fischerhafen von Pomos. Diese friedliche Bucht besticht durch ihre natürliche Umgebung und das sanfte Rauschen der Wellen. Ein idealer Ort für alle, die das Schwimmen in einer abgeschiedenen, idyllischen Atmosphäre bevorzugen. Ein Besuch hier verspricht Entschleunigung pur, ideal für entspannte Lesestunden am Strand.", "category": "recreational", "coords": [32.585044, 35.174644]}], "hu": [{"name": "Pomos Municipal Beach", "text": "Közvetlenül a festői Pomos halászkikötője mellett elterülő városi strand autentikus tengeri bájjal rendelkezik. A békés partvonal zavartalan pillanatokra hívogat, távol a nagy turistatömegektől. A fürdőzők tiszta vízben úszhatnak, miközben átadják magukat a halászfalu csendes hangulatának. Ez a helyszín tökéletes választás a ciprusi partok őszinte és hagyományos arcának megismeréséhez.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "A Pachyamos strand a Pomos halászkikötő melletti békés parti tájba simul. Ez a nyugodt öböl lenyűgöző természeti környezetével és a hullámok lágy morajlásával varázsolja el a látogatókat. Ideális hely mindazoknak, akik egy eldugott, idilli atmoszférában szeretnének úszni. Az itteni látogatás a tiszta lelassulás élményét ígéri, amely tökéletes egy tengerparti olvasáshoz.", "category": "recreational", "coords": [32.585044, 35.174644]}], "ro": [{"name": "Pomos Municipal Beach", "text": "Situată chiar la pitorescul port pescăresc din Pomos, plaja municipală emană un farmec maritim autentic. Linia de coastă liniștită te invită la momente netulburate, departe de marile fluxuri de turiști. Cei care se scaldă pot înota aici în ape limpezi și pot lăsa atmosfera pașnică a satului de pescari să îi învăluie. Acest loc este absolut perfect pentru o impresie autentică a coastei cipriote.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Plaja Pachyamos este cuibărită în peisajul liniștit de coastă de lângă portul pescăresc din Pomos. Acest golf pașnic impresionează prin împrejurimile sale naturale și sunetul blând al valurilor. Un loc ideal pentru toți cei care preferă să înoate într-o atmosferă retrasă, idilică. O vizită aici promite relaxare absolută, fiind ideală pentru ore de lectură tihnită pe plajă.", "category": "recreational", "coords": [32.585044, 35.174644]}], "en": [{"name": "Pomos Municipal Beach", "text": "Set right by the picturesque Pomos fishing shelter, the municipal beach exudes a genuine, maritime charm. The quiet coastline invites visitors to enjoy undisturbed moments away from the major tourist streams. Swimmers can take a dip in the clear waters while taking in the tranquil atmosphere of the fishing village. This location is perfectly suited for experiencing an authentic side of the Cypriot coast.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Pachyamos Beach is nestled into the quiet coastal landscape near the Pomos fishing shelter. This peaceful bay captivates with its natural surroundings and the gentle sound of the waves. It is an ideal location for anyone who prefers swimming in a secluded, idyllic atmosphere. A visit here promises pure relaxation, making it perfect for quiet hours reading on the beach.", "category": "recreational", "coords": [32.585044, 35.174644]}]},
     type: "port",
     parent: "CY",
     coords: [32.55, 35.17],
@@ -6430,52 +5602,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-famagusta-port-extra", "sights": {
-      "de": [
-            {
-                  "name": "Palm beach",
-                  "text": "Palm Beach liegt beim Hafen von Famagusta.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Palm beach",
-                  "text": "Palm Beach a Famagusta kikötő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Palm beach",
-                  "text": "Palm Beach este lângă portul Famagusta.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Palm beach",
-                  "text": "Palm Beach is near the port of Famagusta.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            }
-      ]
-},
+    id: "port-famagusta-port-extra", "sights": {"de": [{"name": "Palm beach", "text": "Der Palm Beach beim Hafen von Famagusta vereint städtisches Treiben mit entspanntem Strandgefühl. Die Küstenpromenade ist gesäumt von Palmen, die dem Ort eine tropische Note verleihen. Badegäste erfreuen sich an dem weichen Sand und dem angenehmen Wasserstrom, der zum Schwimmen einlädt. Ein idealer Ort, um nach einem Hafenbummel die Füße im Sand auszustrecken.", "category": "recreational", "coords": [33.95836, 35.118152]}], "hu": [{"name": "Palm beach", "text": "A Famagusta kikötőjénél fekvő Palm Beach remekül ötvözi a városi pezsgést a laza tengerparti életérzéssel. A parti sétányt pálmafák szegélyezik, amelyek trópusi hangulatot kölcsönöznek a helynek. A strandolók örömüket lelik a puha homokban és a kellemes tengervízben, amely úszásra csábít. Tökéletes hely arra, hogy egy kikötői séta után a homokban nyújtóztassuk ki a lábainkat.", "category": "recreational", "coords": [33.95836, 35.118152]}], "ro": [{"name": "Palm beach", "text": "Plaja Palm de lângă portul Famagusta combină agitația urbană cu o senzație relaxată de plajă. Promenada de coastă este mărginită de palmieri, adăugând o notă tropicală locului. Cei care se scaldă se bucură de nisipul moale și de curentul plăcut de apă care invită la înot. Este un loc ideal pentru a vă întinde picioarele pe nisip după o plimbare prin port.", "category": "recreational", "coords": [33.95836, 35.118152]}], "en": [{"name": "Palm beach", "text": "Palm Beach by the Famagusta Port brilliantly combines urban energy with a relaxed beach feel. The coastal promenade is lined with palm trees, giving the location a distinct tropical touch. Swimmers enjoy the soft sand and the pleasant water that invites a refreshing dip. It is an ideal spot to stretch your legs on the sand after a stroll around the harbour.", "category": "recreational", "coords": [33.95836, 35.118152]}]},
     type: "port",
     parent: "CY",
     coords: [33.95, 35.12],
@@ -6523,160 +5650,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-agia-triada-fishing-shelter-extra", "sights": {
-      "de": [
-            {
-                  "name": "Firemans Beach",
-                  "text": "Strand am Fischerhafen Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.009504,
-                        35.059626
-                  ]
-            },
-            {
-                  "name": "Kapparis Bay",
-                  "text": "Kapparis Bay liegt bei Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.011181,
-                        35.05848
-                  ]
-            },
-            {
-                  "name": "Vrisoudia Beach",
-                  "text": "Vrisoudia Beach ist ein Strand bei Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.031602,
-                        35.04427
-                  ]
-            },
-            {
-                  "name": "Paralia Armyropigado",
-                  "text": "Paralia Armyropigado nahe dem Agia Triada Hafen.",
-                  "category": "recreational",
-                  "coords": [
-                        34.007397,
-                        35.061342
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Firemans Beach",
-                  "text": "Strand az Agia Triada halászkikötőnél.",
-                  "category": "recreational",
-                  "coords": [
-                        34.009504,
-                        35.059626
-                  ]
-            },
-            {
-                  "name": "Kapparis Bay",
-                  "text": "Kapparis Bay Agia Triada közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        34.011181,
-                        35.05848
-                  ]
-            },
-            {
-                  "name": "Vrisoudia Beach",
-                  "text": "Vrisoudia Beach egy strand Agia Triada közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.031602,
-                        35.04427
-                  ]
-            },
-            {
-                  "name": "Paralia Armyropigado",
-                  "text": "Paralia Armyropigado az Agia Triada kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.007397,
-                        35.061342
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Firemans Beach",
-                  "text": "Plajă lângă portul pescăresc Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.009504,
-                        35.059626
-                  ]
-            },
-            {
-                  "name": "Kapparis Bay",
-                  "text": "Kapparis Bay este lângă Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.011181,
-                        35.05848
-                  ]
-            },
-            {
-                  "name": "Vrisoudia Beach",
-                  "text": "Vrisoudia Beach este o plajă lângă Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.031602,
-                        35.04427
-                  ]
-            },
-            {
-                  "name": "Paralia Armyropigado",
-                  "text": "Paralia Armyropigado lângă portul Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.007397,
-                        35.061342
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Firemans Beach",
-                  "text": "Beach by the Agia Triada fishing shelter.",
-                  "category": "recreational",
-                  "coords": [
-                        34.009504,
-                        35.059626
-                  ]
-            },
-            {
-                  "name": "Kapparis Bay",
-                  "text": "Kapparis Bay is near Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.011181,
-                        35.05848
-                  ]
-            },
-            {
-                  "name": "Vrisoudia Beach",
-                  "text": "Vrisoudia Beach is a beach near Agia Triada.",
-                  "category": "recreational",
-                  "coords": [
-                        34.031602,
-                        35.04427
-                  ]
-            },
-            {
-                  "name": "Paralia Armyropigado",
-                  "text": "Paralia Armyropigado near Agia Triada harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        34.007397,
-                        35.061342
-                  ]
-            }
-      ]
-},
+    id: "port-agia-triada-fishing-shelter-extra", "sights": {"de": [{"name": "Firemans Beach", "text": "Der Firemans Beach am Fischerhafen Agia Triada ist eine kleine, geschützte Bucht mit besonderem Reiz. Die umgebenden Felsen verleihen dem Küstenabschnitt eine gemütliche und private Atmosphäre. Gäste können hier hervorragend im Mittelmeer schwimmen oder einfach die Aussicht auf die Boote genießen. Für einen unbeschwerten Badetag in authentischer Umgebung ist diese kleine Bucht eine exzellente Wahl.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay liegt bei Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Ebenfalls in der Nähe von Agia Triada gelegen, bietet der Vrisoudia Beach wunderbare Bedingungen für Strandliebhaber. Der feine Sand und das ruhige Wasser machen diesen Abschnitt zu einem Anziehungspunkt für entspannte Schwimmstunden. Die beschauliche Atmosphäre zieht Ruhesuchende an, die dem Alltag entfliehen möchten. Ein Sonnenschirm und ein gutes Buch komplettieren das Stranderlebnis an diesem schönen Ort.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Die Paralia Armyropigado liegt malerisch eingebettet in der Nähe des gemütlichen Fischerhafens Agia Triada auf Zypern. Besucher erwartet hier eine entspannte Küstenatmosphäre, die sich hervorragend zum ausgiebigen Schwimmen und Sonnenbaden eignet. Der sanfte Rhythmus des nahegelegenen Hafens verleiht dem Ort einen charmanten, authentischen Charakter. Ein Besuch am frühen Vormittag bietet sich an, um die friedliche Morgenstimmung in vollen Zügen zu genießen.", "category": "recreational", "coords": [34.007397, 35.061342]}], "hu": [{"name": "Firemans Beach", "text": "Az Agia Triada halászkikötőjénél található Firemans Beach egy kicsi, védett öböl, amely különleges vonzerővel bír. A környező sziklák meghitt és privát hangulatot kölcsönöznek a partszakasznak. A vendégek kiválóan úszhatnak a Földközi-tengerben, vagy egyszerűen csak élvezhetik a csónakokra nyíló kilátást. Egy gondtalan, autentikus fürdőzéshez ez a kis öböl kitűnő választás.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay Agia Triada közelében található.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "A szintén az Agia Triada kikötője közelében fekvő Vrisoudia Beach csodálatos feltételeket kínál a strandok szerelmeseinek. A finom homok és a nyugodt víz ezt a részt a pihentető úszások vonzó helyszínévé teszi. A békés légkör vonzza azokat, akik a mindennapok elől szeretnének egy kis időre elmenekülni. Egy napernyő és egy jó könyv tökéletessé teszi az itt töltött tengerparti élményt.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "A Paralia Armyropigado festői környezetben fekszik a ciprusi Agia Triada halászkikötő közelében. Az idelátogatókat nyugodt tengerparti hangulat várja, amely tökéletes egy kiadós úszáshoz és napozáshoz. A közeli kikötő csendes ritmusa bájos, autentikus karaktert kölcsönöz a helynek. Érdemes a kora délelőtti órákban érkezni, hogy teljes mértékben kiélvezhesse a békés reggeli atmoszférát.", "category": "recreational", "coords": [34.007397, 35.061342]}], "ro": [{"name": "Firemans Beach", "text": "Plaja Firemans de la portul pescăresc Agia Triada este un golf mic, protejat, cu un farmec cu totul special. Stâncile din jur conferă acestei porțiuni de coastă o atmosferă confortabilă și intimă. Oaspeții pot înota excelent aici în Marea Mediterană sau pur și simplu se pot bucura de vederea la bărci. Pentru o zi de baie fără griji într-un cadru autentic, acest mic golf este o alegere excelentă.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay este lângă Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Situată tot în apropiere de Agia Triada, plaja Vrisoudia oferă condiții minunate pentru iubitorii de litoral. Nisipul fin și apele calme fac din această porțiune un punct de atracție pentru sesiuni relaxante de înot. Atmosfera contemplativă atrage pe cei care caută liniște și doresc să scape de rutina zilnică. O umbrelă de soare și o carte bună completează experiența de plajă în acest loc frumos.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Paralia Armyropigado este situată pitoresc în apropierea adăpostului pescăresc Agia Triada din Cipru. Vizitatorii se pot bucura de o atmosferă de coastă relaxantă, ideală pentru înot și băi de soare. Ritmul blând al portului din apropiere conferă locului un caracter fermecător și autentic. O vizită dimineața devreme este perfectă pentru a savura pe deplin liniștea matinală.", "category": "recreational", "coords": [34.007397, 35.061342]}], "en": [{"name": "Firemans Beach", "text": "Firemans Beach at the Agia Triada fishing shelter is a small, sheltered bay with a special appeal. The surrounding rocks lend this stretch of coastline a cozy and surprisingly private atmosphere. Guests can easily swim in the Mediterranean here or simply enjoy the charming view of the boats. For a carefree beach day in an authentic setting, this small cove is an excellent choice.", "category": "recreational", "coords": [34.009504, 35.059626]}, {"name": "Kapparis Bay", "text": "Kapparis Bay is near Agia Triada.", "category": "recreational", "coords": [34.011181, 35.05848]}, {"name": "Vrisoudia Beach", "text": "Also located near Agia Triada, Vrisoudia Beach provides wonderful conditions for beach lovers. The fine sand and calm waters make this section a true magnet for relaxing swimming sessions. The contemplative atmosphere draws in those seeking peace and quiet away from their daily routines. Bringing a sun umbrella and a good book will nicely complete your beach experience here.", "category": "recreational", "coords": [34.031602, 35.04427]}, {"name": "Paralia Armyropigado", "text": "Paralia Armyropigado is picturesquely nestled near the charming Agia Triada Fishing Shelter in Cyprus. Visitors can expect a relaxed coastal atmosphere that is perfectly suited for swimming and soaking up the sun. The gentle rhythm of the nearby harbor gives the spot a delightfully authentic character. Arriving in the early morning is highly recommended to fully enjoy the peaceful seaside ambiance.", "category": "recreational", "coords": [34.007397, 35.061342]}]},
     type: "port",
     parent: "CY",
     coords: [34.02, 35.04],
@@ -6724,52 +5698,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-pernera-harbour-extra", "sights": {
-      "de": [
-            {
-                  "name": "Polyxenia Beach",
-                  "text": "Polyxenia Beach ist ein Strand nahe dem Hafen von Pernera.",
-                  "category": "recreational",
-                  "coords": [
-                        34.043908,
-                        35.03067
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Polyxenia Beach",
-                  "text": "Polyxenia Beach egy strand a Pernera kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        34.043908,
-                        35.03067
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Polyxenia Beach",
-                  "text": "Polyxenia Beach este o plajă lângă portul Pernera.",
-                  "category": "recreational",
-                  "coords": [
-                        34.043908,
-                        35.03067
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Polyxenia Beach",
-                  "text": "Polyxenia Beach is a beach near Pernera harbour.",
-                  "category": "recreational",
-                  "coords": [
-                        34.043908,
-                        35.03067
-                  ]
-            }
-      ]
-},
+    id: "port-pernera-harbour-extra", "sights": {"de": [{"name": "Polyxenia Beach", "text": "Unweit des Hafens von Pernera lädt der Polyxenia Beach zu erholsamen Stunden an der zypriotischen Küste ein. Die feine Strandkulisse bietet ideale Bedingungen für entspannte Spaziergänge am Wasser und erfrischende Badeeinheiten. Oft weht hier eine angenehme Brise, die an warmen Sommertagen willkommene Abkühlung verspricht. Besonders in der Ferienzeit ist dies ein lebhafter Ort, der sich gut für einen ausgedehnten Nachmittagsausflug eignet.", "category": "recreational", "coords": [34.043908, 35.03067]}], "hu": [{"name": "Polyxenia Beach", "text": "A pernerai kikötő közelében található Polyxenia Beach pihentető órákra csábít a ciprusi tengerparton. A finom homokos partszakasz ideális feltételeket kínál a kényelmes sétákhoz és a frissítő fürdőzéshez. Gyakran kellemes szellő fúj errefelé, amely a forró nyári napokon enyhülést hoz. Különösen a nyaralási szezonban ez egy élettel teli hely, amely nagyszerű célpont egy délutáni kikapcsolódáshoz.", "category": "recreational", "coords": [34.043908, 35.03067]}], "ro": [{"name": "Polyxenia Beach", "text": "Situată nu departe de portul Pernera, Polyxenia Beach vă invită la ore de relaxare pe coasta cipriotă. Peisajul plajei oferă condiții ideale pentru plimbări liniștite pe malul apei și sesiuni revigorante de înot. Adesea suflă o briză plăcută, care promite o răcorire binevenită în zilele călduroase de vară. Mai ales în sezonul estival, acesta este un loc animat, potrivit pentru o ieșire de după-amiază.", "category": "recreational", "coords": [34.043908, 35.03067]}], "en": [{"name": "Polyxenia Beach", "text": "Located just a short distance from Pernera Harbour, Polyxenia Beach invites visitors to spend relaxing hours along the Cypriot coast. The lovely beach setting provides ideal conditions for leisurely strolls by the water and refreshing swimming sessions. A pleasant sea breeze often blows here, offering welcome relief on warm summer days. It is a lively spot, particularly during the holiday season, making it a great destination for a leisurely afternoon outing.", "category": "recreational", "coords": [34.043908, 35.03067]}]},
     type: "port",
     parent: "CY",
     coords: [34.04, 35.02],
@@ -6807,52 +5736,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le port de Pernera est un nœud maritime important à Chypre.", "La navigation, la pêche et le tourisme se rejoignent ici.", "Des quais, des bassins de pêche et des postes d'amarrage sont présents.", "Des promenades et des restaurants de poisson caractérisent le quartier.", "Des systèmes de navigation modernes soutiennent les opérations.", "Le port illustre l'importance de la mer pour l'approvisionnement de l'île.", "Les sorties en bateau et les points de vue attirent les touristes."],
     }, image: "/poi-images/port-pernera-harbour-extra.webp"},
   {
-    id: "port-st-raphael-marina-limassol-extra", "sights": {
-      "de": [
-            {
-                  "name": "Panagies Beach",
-                  "text": "Panagies Beach liegt nahe der St. Raphael Marina.",
-                  "category": "recreational",
-                  "coords": [
-                        33.169232,
-                        34.711318
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Panagies Beach",
-                  "text": "A Panagies strand a St. Raphael kikötő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        33.169232,
-                        34.711318
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Panagies Beach",
-                  "text": "Plaja Panagies este situată lângă St. Raphael Marina.",
-                  "category": "recreational",
-                  "coords": [
-                        33.169232,
-                        34.711318
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Panagies Beach",
-                  "text": "Panagies beach is located near St. Raphael Marina.",
-                  "category": "recreational",
-                  "coords": [
-                        33.169232,
-                        34.711318
-                  ]
-            }
-      ]
-},
+    id: "port-st-raphael-marina-limassol-extra", "sights": {"de": [{"name": "Panagies Beach", "text": "Eingebettet in die Nachbarschaft der exklusiven St. Raphael Marina, präsentiert sich der Panagies Beach als reizvoller Rückzugsort auf Zypern. Die Kulisse verbindet maritimes Flair mit entspanntem Strandvergnügen, was sowohl Familien als auch Ruhesuchende anzieht. Hier lässt es sich wunderbar im Wasser planschen oder einfach die vorbeiziehenden Boote beobachten. An sonnigen Wochenenden empfiehlt es sich, zeitig vor Ort zu sein, um das beste Plätzchen zu sichern.", "category": "recreational", "coords": [33.169232, 34.711318]}], "hu": [{"name": "Panagies Beach", "text": "Az exkluzív St. Raphael Marina szomszédságában elterülő Panagies Beach varázslatos menedékként szolgál Cipruson. A környezet a tengeri hangulatot ötvözi a pihentető strandolás örömével, ami a családokat és a nyugalomra vágyókat egyaránt vonzza. Itt csodálatosan lehet fürdőzni, vagy egyszerűen csak figyelni az elhaladó hajókat. Napsütéses hétvégéken érdemes időben érkezni, hogy biztosítsa a legjobb helyet magának.", "category": "recreational", "coords": [33.169232, 34.711318]}], "ro": [{"name": "Panagies Beach", "text": "Amplasată în vecinătatea exclusivistei St. Raphael Marina, Panagies Beach se prezintă ca un refugiu fermecător în Cipru. Decorul îmbină flerul maritim cu bucuria relaxantă a plajei, atrăgând deopotrivă familiile și pe cei ce caută liniștea. Aici este minunat să te bălăcești în apă sau pur și simplu să urmărești bărcile trecând. În weekendurile însorite, este recomandat să sosiți devreme pentru a vă asigura cel mai bun loc.", "category": "recreational", "coords": [33.169232, 34.711318]}], "en": [{"name": "Panagies Beach", "text": "Nestled in the vicinity of the exclusive St Raphael Marina, Panagies Beach presents itself as a charming retreat in Cyprus. The setting effortlessly combines maritime flair with relaxed beachside leisure, attracting both families and those seeking tranquility. It is a wonderful spot for splashing in the water or simply watching the passing boats. On sunny weekends, it is advisable to arrive early to secure the best possible spot.", "category": "recreational", "coords": [33.169232, 34.711318]}]},
     type: "port",
     parent: "CY",
     coords: [33.17, 34.71],
@@ -7166,52 +6050,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-agios-georgios-peyias-harbour-extra", "sights": {
-      "de": [
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Kafizis-Strand in der Nähe des Hafens Agios Georgios.",
-                  "category": "recreational",
-                  "coords": [
-                        32.322783,
-                        34.894578
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Kafizis-part az Agios Georgios kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.322783,
-                        34.894578
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Plaja Kafizis lângă portul Agios Georgios.",
-                  "category": "recreational",
-                  "coords": [
-                        32.322783,
-                        34.894578
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Kafizis Beach near Agios Georgios harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        32.322783,
-                        34.894578
-                  ]
-            }
-      ]
-},
+    id: "port-agios-georgios-peyias-harbour-extra", "sights": {"de": [{"name": "Kafizis Beach", "text": "Nahe dem Hafen von Agios Georgios Pegeias lockt der Kafizis Beach mit seiner natürlichen Küstenschönheit. Die Umgebung ist geprägt von einer eher ruhigen, authentischen Atmosphäre, die zum Verweilen und Durchatmen einlädt. Besucher können hier entspannte Stunden beim Baden verbringen und die zypriotische Sonne genießen. Für einen ungestörten Aufenthalt fernab des großen Trubels ist dieser Strandabschnitt besonders in den frühen Abendstunden ein Geheimtipp.", "category": "recreational", "coords": [32.322783, 34.894578]}], "hu": [{"name": "Kafizis Beach", "text": "Az Agios Georgios Pegeias kikötő közelében található Kafizis Beach természetes parti szépségével csábítja a látogatókat. A környéket inkább egy nyugodt, autentikus légkör jellemzi, amely elidőzésre és kikapcsolódásra hívogat. A vendégek itt pihentető órákat tölthetnek fürdőzéssel, és élvezhetik a ciprusi napsütést. A nagy nyüzsgéstől távoli, zavartalan pihenéshez ez a partszakasz különösen a kora esti órákban számít titkos tippnek.", "category": "recreational", "coords": [32.322783, 34.894578]}], "ro": [{"name": "Kafizis Beach", "text": "Aproape de portul Agios Georgios Pegeias, Kafizis Beach atrage prin frumusețea sa naturală de coastă. Împrejurimile sunt caracterizate de o atmosferă mai degrabă liniștită și autentică, care te invită să zăbovești și să te relaxezi. Vizitatorii pot petrece ore odihnitoare înotând și bucurându-se de soarele cipriot. Pentru o ședere netulburată, departe de agitația mare, această porțiune de plajă este un pont secret, mai ales la orele timpurii ale serii.", "category": "recreational", "coords": [32.322783, 34.894578]}], "en": [{"name": "Kafizis Beach", "text": "Near the Agios Georgios Pegeias Harbour, Kafizis Beach allures visitors with its natural coastal beauty. The surrounding area is characterized by a rather quiet, authentic atmosphere that invites you to linger and take a deep breath. Guests can spend relaxing hours swimming and basking in the Cypriot sun. For an undisturbed stay away from the major hustle and bustle, this stretch of beach is a hidden gem, especially in the early evening hours.", "category": "recreational", "coords": [32.322783, 34.894578]}]},
     type: "port",
     parent: "CY",
     coords: [32.33, 34.88],
@@ -7963,52 +6802,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "landscape-governor-s-beach-white-rocks-extra", "sights": {
-      "de": [
-            {
-                  "name": "Governor's Beach",
-                  "text": "Governor's Beach, bekannt für seine weißen Felsen.",
-                  "category": "recreational",
-                  "coords": [
-                        33.271964,
-                        34.712249
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Governor's Beach",
-                  "text": "Governor's Beach, híres fehér szikláiról.",
-                  "category": "recreational",
-                  "coords": [
-                        33.271964,
-                        34.712249
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Governor's Beach",
-                  "text": "Governor's Beach, faimoasă pentru stâncile sale albe.",
-                  "category": "recreational",
-                  "coords": [
-                        33.271964,
-                        34.712249
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Governor's Beach",
-                  "text": "Governor's Beach, known for its white rocks.",
-                  "category": "recreational",
-                  "coords": [
-                        33.271964,
-                        34.712249
-                  ]
-            }
-      ]
-},
+    id: "landscape-governor-s-beach-white-rocks-extra", "sights": {"de": [{"name": "Governor's Beach", "text": "Berühmt für seine markanten weißen Felsen, ist der Governor's Beach auf Zypern ein optisches Highlight an der Küste. Der Kontrast zwischen dem dunklen Sand und den hellen Gesteinsformationen schafft eine einzigartige Kulisse zum Schwimmen und Fotografieren. Das ruhige Gewässer macht den Ort besonders attraktiv für Familien und Genussschwimmer. Ein Besuch am späten Nachmittag verspricht zudem faszinierende Lichtspiele auf den Felsen.", "category": "recreational", "coords": [33.271964, 34.712249]}], "hu": [{"name": "Governor's Beach", "text": "A lenyűgöző fehér szikláiról híres Governor's Beach egy igazi vizuális fénypont Ciprus partjainál. A sötét homok és a világos sziklaalakzatok közötti kontraszt egyedülálló hátteret teremt az úszáshoz és a fotózáshoz. A nyugodt víz különösen vonzóvá teszi a helyet a családok és a hobbi úszók számára. Egy késő délutáni látogatás ráadásul lenyűgöző fényjátékot ígér a sziklákon.", "category": "recreational", "coords": [33.271964, 34.712249]}], "ro": [{"name": "Governor's Beach", "text": "Faimoasă pentru rocile sale albe izbitoare, Governor's Beach din Cipru este o atracție vizuală de pe coastă. Contrastul dintre nisipul închis la culoare și formațiunile stâncoase luminoase creează un fundal unic pentru înot și fotografie. Apele calme fac locul deosebit de atractiv pentru familii și înotătorii de agrement. O vizită la sfârșitul după-amiezii promite, de asemenea, jocuri de lumini fascinante pe stânci.", "category": "recreational", "coords": [33.271964, 34.712249]}], "en": [{"name": "Governor's Beach", "text": "Famous for its striking white rocks, Governor's Beach in Cyprus is a visual highlight along the coastline. The dramatic contrast between the dark sand and the bright stone formations creates a truly unique backdrop for swimming and photography. Calm waters make this location particularly appealing to families and leisurely swimmers alike. Visiting in the late afternoon also promises a fascinating play of light across the rocky landscape.", "category": "recreational", "coords": [33.271964, 34.712249]}]},
     type: "geo",
     parent: "CY",
     coords: [33.27, 34.71],
@@ -8180,52 +6974,7 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "landscape-karpasia-peninsula-extra", "sights": {
-      "de": [
-            {
-                  "name": "Honey Beach - Balcı Plaza",
-                  "text": "Honey Beach liegt auf der Halbinsel Karpas.",
-                  "category": "recreational",
-                  "coords": [
-                        34.268267,
-                        35.572082
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Honey Beach - Balcı Plaza",
-                  "text": "A Honey Beach a Karpász-félszigeten található.",
-                  "category": "recreational",
-                  "coords": [
-                        34.268267,
-                        35.572082
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Honey Beach - Balcı Plaza",
-                  "text": "Honey Beach este situată pe peninsula Karpas.",
-                  "category": "recreational",
-                  "coords": [
-                        34.268267,
-                        35.572082
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Honey Beach - Balcı Plaza",
-                  "text": "Honey Beach is situated on the Karpas Peninsula.",
-                  "category": "recreational",
-                  "coords": [
-                        34.268267,
-                        35.572082
-                  ]
-            }
-      ]
-},
+    id: "landscape-karpasia-peninsula-extra", "sights": {"de": [{"name": "Honey Beach - Balcı Plaza", "text": "Versteckt auf der malerischen Halbinsel Karpas bietet der Honey Beach - Balcı Plaza eine Oase der Ruhe abseits der überlaufenen Routen. Die naturbelassene Szenerie lädt zu ausgedehnten Strandspaziergängen und erfrischenden Bädern im klaren Wasser ein. Es herrscht eine entspannte, beinahe unberührte Atmosphäre, die besonders Naturliebhaber schätzen werden. Nehmen Sie sich am besten eigene Verpflegung mit, um einen unbeschwerten Tag in der Natur zu verbringen.", "category": "recreational", "coords": [34.268267, 35.572082]}], "hu": [{"name": "Honey Beach - Balcı Plaza", "text": "A festői Karpas-félszigeten megbújó Honey Beach - Balcı Plaza a nyugalom oázisát kínálja, távol a zsúfolt útvonalaktól. A természetes táj hosszú tengerparti sétákra és frissítő fürdőzésre hívogat a tiszta vízben. A laza, szinte érintetlen hangulatot különösen a természetkedvelők fogják értékelni. A legjobb, ha saját enni- és innivalót hoz magával, hogy gondtalan napot tölthessen a szabadban.", "category": "recreational", "coords": [34.268267, 35.572082]}], "ro": [{"name": "Honey Beach - Balcı Plaza", "text": "Ascunsă pe pitoreasca peninsulă Karpas, Honey Beach - Balcı Plaza oferă o oază de liniște, departe de traseele aglomerate. Decorul natural vă invită la plimbări lungi pe plajă și la băi revigorante în apa limpede. Există o atmosferă relaxată, aproape neatinsă, pe care iubitorii de natură o vor aprecia în mod deosebit. Cel mai bine este să vă aduceți propriile provizii pentru a petrece o zi fără griji în aer liber.", "category": "recreational", "coords": [34.268267, 35.572082]}], "en": [{"name": "Honey Beach - Balcı Plaza", "text": "Tucked away on the picturesque Karpasia Peninsula, Honey Beach - Balcı Plaza offers a serene oasis far from the heavily trodden tourist paths. The unspoiled natural scenery is highly inviting for long coastal walks and refreshing swims in the clear waters. A deeply relaxed, almost untouched atmosphere prevails here, which nature enthusiasts will undoubtedly appreciate. It is best to bring your own provisions for a carefree day out in nature.", "category": "recreational", "coords": [34.268267, 35.572082]}]},
     type: "region",
     parent: "CY",
     coords: [34.3, 35.55],

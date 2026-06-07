@@ -2106,6 +2106,69 @@ export const franceCities: POI[] = [
                         4.827222,
                         45.760833
                   ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Das Centre Kapla Animation ist ein Freizeitpark in Lyon. Er bietet Unterhaltung für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Die Bains He-Mal sind ein öffentliches Bad in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie ist ein Wasserpark in Lyon. Ideal für Wasserspaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Das Schwimmbad Bassin ludique befindet sich in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "Das Schwimmbad Résidentielle ist eine Bademöglichkeit in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Der Parc aux Daims ist ein Zoo in Lyon. Ein schönes Ziel für einen entspannten Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "Der Zoo de la Tête d'Or in Lyon lädt Familien ein, verschiedene Tierarten zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
             }
       ],
       "hu": [
@@ -2177,6 +2240,69 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.827222,
                         45.760833
+                  ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "A Centre Kapla Animation egy vidámpark Lyonban. Szórakozást nyújt a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "A Bains He-Mal egy nyilvános fürdő Lyonban.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "A L'eau de soie egy vízipark Lyonban. Ideális családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "A Bassin ludique uszoda Lyonban található.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "A Résidentielle uszoda egy fürdési lehetőség Lyonban.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "A Parc aux Daims egy állatkert Lyonban. Szép úti cél egy pihentető családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "A lyoni Zoo de la Tête d'Or különféle állatfajok felfedezésére hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
                   ]
             }
       ],
@@ -2250,6 +2376,69 @@ export const franceCities: POI[] = [
                         4.827222,
                         45.760833
                   ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation este un parc tematic în Lyon. Oferă divertisment pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "Bains He-Mal este o baie publică din Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie este un parc acvatic în Lyon. Ideal pentru distracție în apă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "Piscina Bassin ludique se află în Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "Piscina Résidentielle este o opțiune de înot în Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Parc aux Daims este o grădină zoologică în Lyon. O destinație frumoasă pentru o ieșire relaxantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "Grădina zoologică Zoo de la Tête d'Or din Lyon invită familiile să descopere diverse specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
+                  ]
             }
       ],
       "en": [
@@ -2321,6 +2510,69 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.827222,
                         45.760833
+                  ]
+            },
+            {
+                  "name": "Centre Kapla Animation",
+                  "text": "Centre Kapla Animation is a theme park in Lyon. It offers entertainment for families with children.",
+                  "category": "family",
+                  "coords": [
+                        4.840829,
+                        45.7481
+                  ]
+            },
+            {
+                  "name": "Bains He-Mal",
+                  "text": "The Bains He-Mal is a public bath in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.843675,
+                        45.757161
+                  ]
+            },
+            {
+                  "name": "L'eau de soie",
+                  "text": "L'eau de soie is a water park in Lyon. Ideal for water fun with the family.",
+                  "category": "family",
+                  "coords": [
+                        4.794255,
+                        45.772862
+                  ]
+            },
+            {
+                  "name": "Bassin ludique",
+                  "text": "The Bassin ludique swimming pool is located in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.83845,
+                        45.754498
+                  ]
+            },
+            {
+                  "name": "Résidentielle",
+                  "text": "The Résidentielle swimming pool is a swimming option in Lyon.",
+                  "category": "family",
+                  "coords": [
+                        4.787164,
+                        45.763251
+                  ]
+            },
+            {
+                  "name": "Parc aux Daims",
+                  "text": "Parc aux Daims is a zoo in Lyon. A nice destination for a relaxing family outing.",
+                  "category": "family",
+                  "coords": [
+                        4.853826,
+                        45.774955
+                  ]
+            },
+            {
+                  "name": "Zoo de la Tête d'Or",
+                  "text": "The Zoo de la Tête d'Or in Lyon invites families to discover various animal species.",
+                  "category": "family",
+                  "coords": [
+                        4.855511,
+                        45.777428
                   ]
             }
       ],
@@ -2714,6 +2966,33 @@ export const franceCities: POI[] = [
                         1.455403,
                         43.603789
                   ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "Das Schwimmbad Grand bassin Léo Lagrange befindet sich in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "Das Schwimmbad Bassin Castex befindet sich in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Das Schwimmbad Pataugeoire befindet sich in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
             }
       ],
       "hu": [
@@ -3010,6 +3289,33 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.455403,
                         43.603789
+                  ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "A Grand bassin Léo Lagrange úszómedence Toulouse-ban található.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "A Bassin Castex úszómedence Toulouse-ban található.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "A Pataugeoire úszómedence Toulouse-ban található.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
                   ]
             }
       ],
@@ -3308,6 +3614,33 @@ export const franceCities: POI[] = [
                         1.455403,
                         43.603789
                   ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "Piscina Grand bassin Léo Lagrange este situată în Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "Piscina Bassin Castex este situată în Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "Piscina Pataugeoire este situată în Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
+                  ]
             }
       ],
       "en": [
@@ -3604,6 +3937,33 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.455403,
                         43.603789
+                  ]
+            },
+            {
+                  "name": "Grand bassin Léo Lagrange",
+                  "text": "The swimming pool Grand bassin Léo Lagrange is located in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.45487,
+                        43.60743
+                  ]
+            },
+            {
+                  "name": "Bassin Castex",
+                  "text": "The swimming pool Bassin Castex is located in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.434334,
+                        43.586107
+                  ]
+            },
+            {
+                  "name": "Pataugeoire",
+                  "text": "The swimming pool Pataugeoire is located in Toulouse.",
+                  "category": "family",
+                  "coords": [
+                        1.436583,
+                        43.585464
                   ]
             }
       ],
@@ -5009,6 +5369,51 @@ export const franceCities: POI[] = [
                         -1.566347,
                         47.212877
                   ]
+            },
+            {
+                  "name": "Moutons de Belle-Île",
+                  "text": "Moutons de Belle-Île ist ein Zoo in Nantes. Eine gute Gelegenheit für Kinder, Tiere kennenzulernen.",
+                  "category": "family",
+                  "coords": [
+                        -1.584737,
+                        47.199967
+                  ]
+            },
+            {
+                  "name": "Piscine démontable",
+                  "text": "Das Schwimmbad Piscine démontable befindet sich in Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.594002,
+                        47.212506
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "Das Schwimmbad Pateaugeoire Honduras liegt in Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "La ménagerie ist ein Tierpark in Nantes. Ideal für einen Besuch mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "Das Schwimmbad Pateaugeoire Boissière in Nantes lädt zum Schwimmen ein.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
+                  ]
             }
       ],
       "hu": [
@@ -5251,6 +5656,51 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.566347,
                         47.212877
+                  ]
+            },
+            {
+                  "name": "Moutons de Belle-Île",
+                  "text": "A Moutons de Belle-Île egy állatkert Nantes-ban. Jó alkalom a gyerekeknek az állatok megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        -1.584737,
+                        47.199967
+                  ]
+            },
+            {
+                  "name": "Piscine démontable",
+                  "text": "A Piscine démontable uszoda Nantes-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -1.594002,
+                        47.212506
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "A Pateaugeoire Honduras uszoda Nantes-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "A La ménagerie egy állatkert Nantes-ban. Ideális egy családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "A nantes-i Pateaugeoire Boissière uszoda úszásra hív.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
                   ]
             }
       ],
@@ -5495,6 +5945,51 @@ export const franceCities: POI[] = [
                         -1.566347,
                         47.212877
                   ]
+            },
+            {
+                  "name": "Moutons de Belle-Île",
+                  "text": "Moutons de Belle-Île este o grădină zoologică în Nantes. O bună oportunitate pentru copii de a cunoaște animalele.",
+                  "category": "family",
+                  "coords": [
+                        -1.584737,
+                        47.199967
+                  ]
+            },
+            {
+                  "name": "Piscine démontable",
+                  "text": "Piscina Piscine démontable este situată în Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.594002,
+                        47.212506
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "Piscina Pateaugeoire Honduras se află în Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "La ménagerie este o grădină zoologică în Nantes. Ideală pentru o vizită cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "Piscina Pateaugeoire Boissière din Nantes vă invită la înot.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
+                  ]
             }
       ],
       "en": [
@@ -5737,6 +6232,51 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.566347,
                         47.212877
+                  ]
+            },
+            {
+                  "name": "Moutons de Belle-Île",
+                  "text": "Moutons de Belle-Île is a zoo in Nantes. A good opportunity for children to learn about animals.",
+                  "category": "family",
+                  "coords": [
+                        -1.584737,
+                        47.199967
+                  ]
+            },
+            {
+                  "name": "Piscine démontable",
+                  "text": "The Piscine démontable swimming pool is located in Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.594002,
+                        47.212506
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Honduras",
+                  "text": "The Pateaugeoire Honduras swimming pool is located in Nantes.",
+                  "category": "family",
+                  "coords": [
+                        -1.564525,
+                        47.260049
+                  ]
+            },
+            {
+                  "name": "La ménagerie",
+                  "text": "La ménagerie is a zoo in Nantes. Ideal for a family visit.",
+                  "category": "family",
+                  "coords": [
+                        -1.541165,
+                        47.218596
+                  ]
+            },
+            {
+                  "name": "Pateaugeoire Boissière",
+                  "text": "The Pateaugeoire Boissière swimming pool in Nantes invites you for a swim.",
+                  "category": "family",
+                  "coords": [
+                        -1.568261,
+                        47.254176
                   ]
             }
       ],
@@ -6229,6 +6769,51 @@ export const franceCities: POI[] = [
                         -0.593679,
                         44.842076
                   ]
+            },
+            {
+                  "name": "Ferme animalière",
+                  "text": "Der Zoo Ferme animalière befindet sich in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.604206,
+                        44.851848
+                  ]
+            },
+            {
+                  "name": "La Bulle D'O",
+                  "text": "Das Schwimmbad La Bulle D'O befindet sich in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.613101,
+                        44.860577
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Das Schwimmbad Piscine befindet sich in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "Das öffentliche Bad Les Bains de Cléopâtre befindet sich in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "Das öffentliche Bad Le Grand Hammam de Bordeaux befindet sich in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
             }
       ],
       "hu": [
@@ -6615,6 +7200,51 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.593679,
                         44.842076
+                  ]
+            },
+            {
+                  "name": "Ferme animalière",
+                  "text": "A Ferme animalière állatkert Bordeaux-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.604206,
+                        44.851848
+                  ]
+            },
+            {
+                  "name": "La Bulle D'O",
+                  "text": "A La Bulle D'O úszómedence Bordeaux-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.613101,
+                        44.860577
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "A Piscine úszómedence Bordeaux-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "A Les Bains de Cléopâtre közfürdő Bordeaux-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "A Le Grand Hammam de Bordeaux közfürdő Bordeaux-ban található.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
                   ]
             }
       ],
@@ -7003,6 +7633,51 @@ export const franceCities: POI[] = [
                         -0.593679,
                         44.842076
                   ]
+            },
+            {
+                  "name": "Ferme animalière",
+                  "text": "Grădina zoologică Ferme animalière este situată în Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.604206,
+                        44.851848
+                  ]
+            },
+            {
+                  "name": "La Bulle D'O",
+                  "text": "Piscina La Bulle D'O este situată în Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.613101,
+                        44.860577
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Piscina Piscine este situată în Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "Baia publică Les Bains de Cléopâtre este situată în Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "Baia publică Le Grand Hammam de Bordeaux este situată în Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
             }
       ],
       "en": [
@@ -7390,6 +8065,51 @@ export const franceCities: POI[] = [
                         -0.593679,
                         44.842076
                   ]
+            },
+            {
+                  "name": "Ferme animalière",
+                  "text": "The Ferme animalière zoo is located in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.604206,
+                        44.851848
+                  ]
+            },
+            {
+                  "name": "La Bulle D'O",
+                  "text": "The swimming pool La Bulle D'O is located in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.613101,
+                        44.860577
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "The swimming pool Piscine is located in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.572322,
+                        44.812238
+                  ]
+            },
+            {
+                  "name": "Les Bains de Cléopâtre",
+                  "text": "The public bath Les Bains de Cléopâtre is located in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.569579,
+                        44.830945
+                  ]
+            },
+            {
+                  "name": "Le Grand Hammam de Bordeaux",
+                  "text": "The public bath Le Grand Hammam de Bordeaux is located in Bordeaux.",
+                  "category": "family",
+                  "coords": [
+                        -0.567559,
+                        44.833332
+                  ]
             }
       ],
       "fr": [
@@ -7676,6 +8396,24 @@ export const franceCities: POI[] = [
                         7.8029,
                         48.5693
                   ]
+            },
+            {
+                  "name": "Hammam et Traditions",
+                  "text": "Hammam et Traditions in Straßburg bietet ein authentisches Badeerlebnis, das für Familien geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        7.738689,
+                        48.583838
+                  ]
+            },
+            {
+                  "name": "Hammam Juste Pour Elles",
+                  "text": "Dieses Badehaus in Straßburg bietet einen speziellen Raum für Entspannung und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        7.76588,
+                        48.561223
+                  ]
             }
       ],
       "hu": [
@@ -7857,6 +8595,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.8029,
                         48.5693
+                  ]
+            },
+            {
+                  "name": "Hammam et Traditions",
+                  "text": "A strasbourgi Hammam et Traditions autentikus fürdőélményt kínál, amely családok számára is alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        7.738689,
+                        48.583838
+                  ]
+            },
+            {
+                  "name": "Hammam Juste Pour Elles",
+                  "text": "Ez a strasbourgi fürdő külön helyet biztosít a pihenésre és a wellnessre.",
+                  "category": "family",
+                  "coords": [
+                        7.76588,
+                        48.561223
                   ]
             }
       ],
@@ -8040,6 +8796,24 @@ export const franceCities: POI[] = [
                         7.8029,
                         48.5693
                   ]
+            },
+            {
+                  "name": "Hammam et Traditions",
+                  "text": "Hammam et Traditions din Strasbourg oferă o experiență de baie autentică, potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        7.738689,
+                        48.583838
+                  ]
+            },
+            {
+                  "name": "Hammam Juste Pour Elles",
+                  "text": "Această baie din Strasbourg oferă un spațiu dedicat relaxării și wellness-ului.",
+                  "category": "family",
+                  "coords": [
+                        7.76588,
+                        48.561223
+                  ]
             }
       ],
       "en": [
@@ -8221,6 +8995,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.8029,
                         48.5693
+                  ]
+            },
+            {
+                  "name": "Hammam et Traditions",
+                  "text": "Hammam et Traditions in Strasbourg offers a authentic bathing experience suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        7.738689,
+                        48.583838
+                  ]
+            },
+            {
+                  "name": "Hammam Juste Pour Elles",
+                  "text": "This bathhouse in Strasbourg provides a dedicated space for relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        7.76588,
+                        48.561223
                   ]
             }
       ],
@@ -8498,6 +9290,42 @@ export const franceCities: POI[] = [
                         3.069022,
                         50.626658
                   ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga in Lille ist ein Freizeitpark für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Der Lille Zoo beherbergt verschiedene Tierarten und ist ein tolles Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Die Marcel Dhénin Educational Farm ist ein Zoo in Lille, der Kindern die Tierwelt näherbringt.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc ist ein Freizeitpark in Lille. Er bietet viel Spaß und Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "hu": [
@@ -8669,6 +9497,42 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.069022,
                         50.626658
+                  ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "A lille-i L'ile de Tortuga egy vidámpark az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "A Lille Zoo különféle állatfajoknak ad otthont, és nagyszerű célpont a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "A Marcel Dhénin Educational Farm egy állatkert Lille-ben, amely közelebb hozza az állatvilágot a gyerekekhez.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "A Cita-Parc egy vidámpark Lille-ben. Sok szórakozást és vidámságot kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
                   ]
             }
       ],
@@ -8842,6 +9706,42 @@ export const franceCities: POI[] = [
                         3.069022,
                         50.626658
                   ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga din Lille este un parc tematic pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Zoo de Lille",
+                  "text": "Grădina zoologică Lille Zoo găzduiește diverse specii de animale și este o destinație excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Ferme pédagogique Marcel Dhénin",
+                  "text": "Marcel Dhénin Educational Farm este o grădină zoologică din Lille care îi apropie pe copii de lumea animalelor.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc este un parc tematic în Lille. Oferă multă distracție și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "en": [
@@ -9014,6 +9914,42 @@ export const franceCities: POI[] = [
                         3.069022,
                         50.626658
                   ]
+            },
+            {
+                  "name": "L'ile de Tortuga",
+                  "text": "L'ile de Tortuga in Lille is a theme park for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        3.083989,
+                        50.617369
+                  ]
+            },
+            {
+                  "name": "Lille Zoo",
+                  "text": "The Lille Zoo is home to various animal species and is a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        3.045981,
+                        50.637929
+                  ]
+            },
+            {
+                  "name": "Marcel Dhénin Educational Farm",
+                  "text": "The Marcel Dhénin Educational Farm is a zoo in Lille that brings children closer to the animal world.",
+                  "category": "family",
+                  "coords": [
+                        3.079935,
+                        50.637438
+                  ]
+            },
+            {
+                  "name": "Cita-Parc",
+                  "text": "Cita-Parc is a theme park in Lille. It offers a lot of fun and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        3.049171,
+                        50.638973
+                  ]
             }
       ],
       "fr": [
@@ -9139,7 +10075,52 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "mont-saint-michel",
+    id: "mont-saint-michel", "sights": {
+      "de": [
+            {
+                  "name": "Alligator Bay",
+                  "text": "Der Zoo Alligator Bay befindet sich in Le Mont Saint Michel.",
+                  "category": "family",
+                  "coords": [
+                        -1.511234,
+                        48.60112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alligator Bay",
+                  "text": "Az Alligator Bay állatkert Le Mont Saint Michelben található.",
+                  "category": "family",
+                  "coords": [
+                        -1.511234,
+                        48.60112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alligator Bay",
+                  "text": "Grădina zoologică Alligator Bay este situată în Le Mont Saint Michel.",
+                  "category": "family",
+                  "coords": [
+                        -1.511234,
+                        48.60112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alligator Bay",
+                  "text": "The Alligator Bay zoo is located in Le Mont Saint Michel.",
+                  "category": "family",
+                  "coords": [
+                        -1.511234,
+                        48.60112
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FR-NOR",
     coords: [-1.5115, 48.6361],
@@ -9386,6 +10367,69 @@ export const franceCities: POI[] = [
                         7.0409,
                         43.54672
                   ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "Das Strandbad Croisette Beach in Cannes lädt zum Sonnen und Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Copal Beach",
+                  "text": "Das Strandbad Copal Beach in Cannes lädt zum Sonnen und Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        7.027571,
+                        43.548532
+                  ]
+            },
+            {
+                  "name": "Plage Ciro's Cannes",
+                  "text": "Dieses Strandresort in Cannes bietet eine entspannte Atmosphäre für einen perfekten Familientag am Meer.",
+                  "category": "family",
+                  "coords": [
+                        7.019945,
+                        43.549852
+                  ]
+            },
+            {
+                  "name": "Lucia Cannes",
+                  "text": "Dieses einladende Strandresort in Cannes ist der ideale Ort für Erholung und Familienspaß am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        7.025269,
+                        43.549312
+                  ]
+            },
+            {
+                  "name": "Hyde Beach",
+                  "text": "Erleben Sie einen unvergesslichen Tag am Meer in diesem familienfreundlichen Strandresort in Cannes.",
+                  "category": "family",
+                  "coords": [
+                        7.024263,
+                        43.549566
+                  ]
+            },
+            {
+                  "name": "Mademoiselle Gray",
+                  "text": "Dieses charmante Strandresort in Cannes bietet alles für einen erholsamen Ausflug mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.023104,
+                        43.549807
+                  ]
+            },
+            {
+                  "name": "Grande Piscine",
+                  "text": "Dieses Schwimmbad in Cannes bietet eine großartige Umgebung für Familien, um ein erfrischendes Bad zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        7.052268,
+                        43.550537
+                  ]
             }
       ],
       "hu": [
@@ -9523,6 +10567,69 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "A cannes-i Croisette Beach strandfürdő napozásra és fürdésre hív.",
+                  "category": "family",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Copal Beach",
+                  "text": "A cannes-i Copal Beach strandfürdő napozásra és fürdésre hív.",
+                  "category": "family",
+                  "coords": [
+                        7.027571,
+                        43.548532
+                  ]
+            },
+            {
+                  "name": "Plage Ciro's Cannes",
+                  "text": "Ez a cannes-i tengerparti üdülőhely pihentető légkört biztosít egy tökéletes családi naphoz a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        7.019945,
+                        43.549852
+                  ]
+            },
+            {
+                  "name": "Lucia Cannes",
+                  "text": "Ez a hívogató cannes-i tengerparti üdülőhely ideális hely a kikapcsolódásra és a családi szórakozásra a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        7.025269,
+                        43.549312
+                  ]
+            },
+            {
+                  "name": "Hyde Beach",
+                  "text": "Éljen át egy felejthetetlen napot a tengerparton ebben a családbarát cannes-i tengerparti üdülőhelyen.",
+                  "category": "family",
+                  "coords": [
+                        7.024263,
+                        43.549566
+                  ]
+            },
+            {
+                  "name": "Mademoiselle Gray",
+                  "text": "Ez a bájos cannes-i tengerparti üdülőhely mindent kínál egy pihentető kiránduláshoz az egész családdal.",
+                  "category": "family",
+                  "coords": [
+                        7.023104,
+                        43.549807
+                  ]
+            },
+            {
+                  "name": "Grande Piscine",
+                  "text": "Ez a cannes-i úszómedence nagyszerű környezetet biztosít a családok számára egy frissítő úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.052268,
+                        43.550537
                   ]
             }
       ],
@@ -9662,6 +10769,69 @@ export const franceCities: POI[] = [
                         7.0409,
                         43.54672
                   ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "Stațiunea balneară Croisette Beach din Cannes este un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Copal Beach",
+                  "text": "Stațiunea balneară Copal Beach din Cannes este un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        7.027571,
+                        43.548532
+                  ]
+            },
+            {
+                  "name": "Plage Ciro's Cannes",
+                  "text": "Această stațiune de pe plajă din Cannes oferă o atmosferă relaxantă pentru o zi perfectă în familie la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        7.019945,
+                        43.549852
+                  ]
+            },
+            {
+                  "name": "Lucia Cannes",
+                  "text": "Această stațiune primitoare de pe plajă din Cannes este locul ideal pentru relaxare și distracție în familie lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        7.025269,
+                        43.549312
+                  ]
+            },
+            {
+                  "name": "Hyde Beach",
+                  "text": "Experimentați o zi de neuitat la malul mării în această stațiune de pe plajă potrivită pentru familii din Cannes.",
+                  "category": "family",
+                  "coords": [
+                        7.024263,
+                        43.549566
+                  ]
+            },
+            {
+                  "name": "Mademoiselle Gray",
+                  "text": "Această stațiune fermecătoare de pe plajă din Cannes oferă totul pentru o excursie relaxantă cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.023104,
+                        43.549807
+                  ]
+            },
+            {
+                  "name": "Grande Piscine",
+                  "text": "Această piscină din Cannes oferă un mediu minunat pentru familii pentru a se bucura de o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        7.052268,
+                        43.550537
+                  ]
             }
       ],
       "en": [
@@ -9799,6 +10969,69 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
+                  ]
+            },
+            {
+                  "name": "Croisette Beach",
+                  "text": "The beach resort Croisette Beach in Cannes is a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        7.028924,
+                        43.548016
+                  ]
+            },
+            {
+                  "name": "Copal Beach",
+                  "text": "The beach resort Copal Beach in Cannes is a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        7.027571,
+                        43.548532
+                  ]
+            },
+            {
+                  "name": "Plage Ciro's Cannes",
+                  "text": "This beach resort in Cannes offers a relaxing atmosphere for a perfect family day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        7.019945,
+                        43.549852
+                  ]
+            },
+            {
+                  "name": "Lucia Cannes",
+                  "text": "This inviting beach resort in Cannes is the ideal place for relaxation and family fun by the water.",
+                  "category": "family",
+                  "coords": [
+                        7.025269,
+                        43.549312
+                  ]
+            },
+            {
+                  "name": "Hyde Beach",
+                  "text": "Experience an unforgettable day by the sea at this family-friendly beach resort in Cannes.",
+                  "category": "family",
+                  "coords": [
+                        7.024263,
+                        43.549566
+                  ]
+            },
+            {
+                  "name": "Mademoiselle Gray",
+                  "text": "This charming beach resort in Cannes offers everything for a relaxing outing with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.023104,
+                        43.549807
+                  ]
+            },
+            {
+                  "name": "Grande Piscine",
+                  "text": "This swimming pool in Cannes provides a great environment for families to enjoy a refreshing swim.",
+                  "category": "family",
+                  "coords": [
+                        7.052268,
+                        43.550537
                   ]
             }
       ],
@@ -10119,811 +11352,7 @@ export const franceCities: POI[] = [
       pt: ["A distância até Dover é de apenas 34 quilómetros.", "O beffroi da câmara municipal tem 75 metros de altura.", "Calais esteve sob domínio inglês durante 211 anos.", "O Eurotúnel foi inaugurado oficialmente em 1994.", "A escultura de Rodin foi inaugurada em 1895.", "A cidade é a porta de entrada para o tráfego no Canal da Mancha."],
       fr: ["La distance jusqu'à Douvres n'est que de 34 kilomètres.", "Le beffroi de l'hôtel de ville mesure 75 mètres de haut.", "Calais a été sous domination anglaise pendant 211 ans.", "L'Eurotunnel a été officiellement inauguré en 1994.", "La sculpture de Rodin a été inaugurada en 1895.", "La ville est la porte d'entrée du trafic transmanche."],
     },
-    "sights": {
-      "de": [
-            {
-                  "name": "Beffroi de l'Hôtel de Ville",
-                  "text": "Das prächtige Rathaus von Calais besticht durch seinen flämischen Stil und den markanten hohen Glockenturm.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        1.854309,
-                        50.952927
-                  ]
-            },
-            {
-                  "name": "Les Bourgeois de Calais",
-                  "text": "Die berühmte Bronzeskulptur von Auguste Rodin erinnert an die Aufopferung der Bürger während des Krieges.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.853528,
-                        50.952278
-                  ]
-            },
-            {
-                  "name": "Phare de Calais",
-                  "text": "Ein historischer Leuchtturm im Stadtzentrum, der 58 Meter hoch ist und einen Blick auf den Ärmelkanal bietet.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85368,
-                        50.96133
-                  ]
-            },
-            {
-                  "name": "Fort Risban",
-                  "text": "Eine historische Festung am Eingang des Hafens, die einst die Stadt vor Angriffen vom Meer aus schützte.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8475,
-                        50.9637
-                  ]
-            },
-            {
-                  "name": "Citadelle de Calais",
-                  "text": "Eine ehemalige Festungsanlage, die heute als Park und Erholungsgebiet mit Sportanlagen genutzt wird.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8452,
-                        50.9578
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "Die einzige Kirche Frankreichs im Tudor-Stil, erbaut während der englischen Besetzung der Stadt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.85306,
-                        50.9583
-                  ]
-            },
-            {
-                  "name": "Plage de Calais",
-                  "text": "Ein weitläufiger Sandstrand mit einer Promenade, ideal für Spaziergänge und den Blick auf die Fähren.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.839266,
-                        50.965105
-                  ]
-            },
-            {
-                  "name": "Parc Richelieu",
-                  "text": "Ein schöner Stadtpark im Herzen von Calais, der ideal zum Entspannen und für kurze Spaziergänge ist.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.851953,
-                        50.956078
-                  ]
-            },
-            {
-                  "name": "Tour du Guet",
-                  "text": "Ein mittelalterlicher Wachturm aus dem 13. Jahrhundert, das älteste Gebäude im Stadtzentrum von Calais.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.84972,
-                        50.9589
-                  ]
-            },
-            {
-                  "name": "Le Dragon de Calais",
-                  "text": "Ein monumentales mechanisches Ungeheuer aus Stahl und Holz, das Besucher an der Strandpromenade von Calais spazieren führt.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.810173,
-                        50.935327
-                  ]
-            },
-            {
-                  "name": "Musée des Beaux-Arts",
-                  "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen vom 16. bis zum 21. Jahrhundert, darunter Werke von Rodin.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.851673,
-                        50.956888
-                  ]
-            },
-            {
-                  "name": "Théâtre de Calais",
-                  "text": "Ein prächtiges Gebäude im italienischen Stil aus dem frühen 20. Jahrhundert, das ein vielfältiges Programm an Opern und Theaterstücken bietet.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        1.853385,
-                        50.947012
-                  ]
-            },
-            {
-                  "name": "Monument du Pluviôse",
-                  "text": "Ein Denkmal zur Erinnerung an das U-Boot Pluviôse, das 1910 vor der Küste von Calais nach einer Kollision sank.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.845417,
-                        50.963796
-                  ]
-            },
-            {
-                  "name": "Gare de Calais-Ville",
-                  "text": "Der historische Bahnhof der Stadt, bekannt für seine klassische Architektur und seine Bedeutung als Verkehrsknotenpunkt zum Ärmelkanal.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        1.850556,
-                        50.953333
-                  ]
-            },
-            {
-                  "name": "Parc Saint-Pierre",
-                  "text": "Eine weitläufige Grünanlage gegenüber dem Rathaus, ideal für Spaziergänge und Entspannung im Herzen der Stadt.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.850864,
-                        50.951744
-                  ]
-            },
-            {
-                  "name": "Colonne Louis XVIII",
-                  "text": "Diese Säule im Hafen erinnert an die Rückkehr des Königs Louis XVIII. nach Frankreich im Jahr 1814 nach seinem Exil.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85028,
-                        50.96095
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Matisse",
-                  "text": "Ein moderner Spielplatz in Calais, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.",
-                  "category": "family",
-                  "coords": [
-                        1.899159,
-                        50.94827
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Morrelet",
-                  "text": "Ein schöner Ort in Calais für Kinder zum Spielen und für Familien zum Entspannen.",
-                  "category": "family",
-                  "coords": [
-                        1.828959,
-                        50.94852
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Beffroi de l'Hôtel de Ville",
-                  "text": "Calais pompás városháza flamand stílusával és jellegzetes, magas harangtornyával nyűgözi le a látogatókat.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        1.854309,
-                        50.952927
-                  ]
-            },
-            {
-                  "name": "Les Bourgeois de Calais",
-                  "text": "Auguste Rodin híres bronzszobra a város polgárainak önfeláldozására emlékeztet a százéves háború idején.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.853528,
-                        50.952278
-                  ]
-            },
-            {
-                  "name": "Phare de Calais",
-                  "text": "Történelmi világítótorony a városközpontban, amely 58 méter magas és kilátást nyújt az angol csatornára.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85368,
-                        50.96133
-                  ]
-            },
-            {
-                  "name": "Fort Risban",
-                  "text": "Történelmi erőd a kikötő bejáratánál, amely egykor a várost védte a tenger felőli támadások ellen.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8475,
-                        50.9637
-                  ]
-            },
-            {
-                  "name": "Citadelle de Calais",
-                  "text": "Egykori erődítményrendszer, amely ma közparkként és sportpályák otthonaként szolgál a helyieknek.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8452,
-                        50.9578
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "Franciaország egyetlen Tudor-stílusú temploma, amely a város angol megszállása idején épült fel.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.85306,
-                        50.9583
-                  ]
-            },
-            {
-                  "name": "Plage de Calais",
-                  "text": "Hatalmas homokos tengerpart sétánnyal, ahonnan remek kilátás nyílik a csatornán átkelő kompokra.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.839266,
-                        50.965105
-                  ]
-            },
-            {
-                  "name": "Parc Richelieu",
-                  "text": "Kellemes városi park Calais szívében, amely ideális helyszín a pihenésre és egy rövid sétára.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.851953,
-                        50.956078
-                  ]
-            },
-            {
-                  "name": "Tour du Guet",
-                  "text": "13. századi középkori őrtorony, amely Calais belvárosának legrégebbi fennmaradt épülete.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.84972,
-                        50.9589
-                  ]
-            },
-            {
-                  "name": "Calais sárkánya",
-                  "text": "Egy monumentális mechanikus acélszörny, amely a tengerparti sétányon szállítja az utasokat egy egyedülálló interaktív élmény keretében.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.810173,
-                        50.935327
-                  ]
-            },
-            {
-                  "name": "Szépművészeti Múzeum",
-                  "text": "A múzeum gazdag festmény- és szoborgyűjteményt mutat be a 16. századtól napjainkig, kiemelt figyelmet fordítva Rodin alkotásaira.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.851673,
-                        50.956888
-                  ]
-            },
-            {
-                  "name": "Calais-i Színház",
-                  "text": "Kora 20. századi, olasz stílusú épület, amely a város kulturális életének központja operákkal és drámai előadásokkal.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        1.853385,
-                        50.947012
-                  ]
-            },
-            {
-                  "name": "Pluviôse emlékmű",
-                  "text": "Az 1910-ben egy ütközés után elsüllyedt Pluviôse tengeralattjáró áldozatainak tiszteletére állított történelmi emlékmű.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.845417,
-                        50.963796
-                  ]
-            },
-            {
-                  "name": "Calais-Ville vasútállomás",
-                  "text": "Klasszikus építészetű vasúti csomópont, amely évtizedek óta köti össze a várost Párizzsal és a Csatorna-alagút térségével.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        1.850556,
-                        50.953333
-                  ]
-            },
-            {
-                  "name": "Szent Péter park",
-                  "text": "A városházával szemben elhelyezkedő tágas park virágágyásokkal és sétányokkal, a helyiek kedvelt pihenőhelye.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.850864,
-                        50.951744
-                  ]
-            },
-            {
-                  "name": "XVIII. Lajos oszlopa",
-                  "text": "A kikötőben található emlékoszlop, amely XVIII. Lajos király 1814-es száműzetésből való hazatérését örökíti meg.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85028,
-                        50.96095
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Matisse",
-                  "text": "Egy modern játszótér Calais-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        1.899159,
-                        50.94827
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Morrelet",
-                  "text": "Egy szép hely Calais-ban a gyerekeknek a játékhoz, a családoknak pedig a pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        1.828959,
-                        50.94852
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Beffroi de l'Hôtel de Ville",
-                  "text": "Primăria magnifică din Calais impresionează prin stilul său flamand și turnul cu clopotniță foarte înalt.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        1.854309,
-                        50.952927
-                  ]
-            },
-            {
-                  "name": "Les Bourgeois de Calais",
-                  "text": "Celebra sculptură din bronz a lui Auguste Rodin comemorează sacrificiul cetățenilor în timpul războiului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.853528,
-                        50.952278
-                  ]
-            },
-            {
-                  "name": "Phare de Calais",
-                  "text": "Un far istoric situat în centrul orașului, înalt de 58 de metri, oferind o vedere spre Canalul Mânecii.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85368,
-                        50.96133
-                  ]
-            },
-            {
-                  "name": "Fort Risban",
-                  "text": "O fortăreață istorică situată la intrarea în port, care odinioară proteja orașul de atacurile maritime.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8475,
-                        50.9637
-                  ]
-            },
-            {
-                  "name": "Citadelle de Calais",
-                  "text": "Foste fortificații transformate astăzi într-un parc public și zonă de recreere pentru locuitori.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8452,
-                        50.9578
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "Singura biserică din Franța construită în stil Tudor, ridicată în timpul ocupației engleze a orașului.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.85306,
-                        50.9583
-                  ]
-            },
-            {
-                  "name": "Plage de Calais",
-                  "text": "O plajă vastă de nisip cu o faleză amenajată, perfectă pentru plimbări și observarea feriboturilor.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.839266,
-                        50.965105
-                  ]
-            },
-            {
-                  "name": "Parc Richelieu",
-                  "text": "Un parc frumos situat în centrul orașului Calais, oferind un spațiu verde relaxant pentru vizitatori.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.851953,
-                        50.956078
-                  ]
-            },
-            {
-                  "name": "Tour du Guet",
-                  "text": "Un turn de veghe medieval din secolul al XIII-lea, fiind cea mai veche construcție din centrul orașului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.84972,
-                        50.9589
-                  ]
-            },
-            {
-                  "name": "Dragonul din Calais",
-                  "text": "O creatură mecanică gigantică din oțel și lemn care se plimbă pe faleza orașului, oferind o experiență turistică inedită.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.810173,
-                        50.935327
-                  ]
-            },
-            {
-                  "name": "Muzeul de Arte Frumoase",
-                  "text": "Găzduiește o colecție impresionantă de picturi și sculpturi, incluzând schițe și lucrări originale ale celebrului Auguste Rodin.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.851673,
-                        50.956888
-                  ]
-            },
-            {
-                  "name": "Teatrul din Calais",
-                  "text": "O clădire magnifică în stil italian inaugurată în 1905, inima culturală a orașului pentru spectacole de operă și balet.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        1.853385,
-                        50.947012
-                  ]
-            },
-            {
-                  "name": "Monumentul Pluviôse",
-                  "text": "Un monument ridicat în memoria echipajului submarinului Pluviôse, care s-a scufundat în fața portului în 1910.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.845417,
-                        50.963796
-                  ]
-            },
-            {
-                  "name": "Gara Calais-Ville",
-                  "text": "O gară istorică cu o arhitectură elegantă, servind drept punct principal de acces feroviar către centrul orașului.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        1.850556,
-                        50.953333
-                  ]
-            },
-            {
-                  "name": "Parcul Saint-Pierre",
-                  "text": "Un spațiu verde generos situat în fața primăriei, decorat cu grădini îngrijite și fântâni arteziene relaxante.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.850864,
-                        50.951744
-                  ]
-            },
-            {
-                  "name": "Coloana Ludovic al XVIII-lea",
-                  "text": "O coloană comemorativă situată în zona portuară, marcând revenirea regelui în Franța după exilul său din 1814.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85028,
-                        50.96095
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Matisse",
-                  "text": "Un loc de joacă modern în Calais, oferind copiilor diverse posibilități de joacă.",
-                  "category": "family",
-                  "coords": [
-                        1.899159,
-                        50.94827
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Morrelet",
-                  "text": "Un loc frumos în Calais pentru joaca copiilor și relaxarea familiilor.",
-                  "category": "family",
-                  "coords": [
-                        1.828959,
-                        50.94852
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Beffroi de l'Hôtel de Ville",
-                  "text": "The magnificent Calais City Hall stands out with its Flemish style and its distinctive high belfry tower.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        1.854309,
-                        50.952927
-                  ]
-            },
-            {
-                  "name": "Les Bourgeois de Calais",
-                  "text": "The famous bronze sculpture by Auguste Rodin commemorates the sacrifice of citizens during the Hundred Years' War.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.853528,
-                        50.952278
-                  ]
-            },
-            {
-                  "name": "Phare de Calais",
-                  "text": "A historic lighthouse in the city center, standing 58 meters tall and offering views of the English Channel.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85368,
-                        50.96133
-                  ]
-            },
-            {
-                  "name": "Fort Risban",
-                  "text": "A historic fortress at the port's entrance that once protected the town from naval attacks over centuries.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8475,
-                        50.9637
-                  ]
-            },
-            {
-                  "name": "Citadelle de Calais",
-                  "text": "A former military fortification system now serving as a public park and recreational sports ground.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        1.8452,
-                        50.9578
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "The only Tudor-style church in France, built during the English occupation of the city in the 14th century.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        1.85306,
-                        50.9583
-                  ]
-            },
-            {
-                  "name": "Plage de Calais",
-                  "text": "A vast sandy beach with a promenade, offering great views of the ferries crossing the English Channel.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        1.839266,
-                        50.965105
-                  ]
-            },
-            {
-                  "name": "Parc Richelieu",
-                  "text": "A pleasant urban park in the heart of Calais, perfect for relaxation and a short nature walk.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.851953,
-                        50.956078
-                  ]
-            },
-            {
-                  "name": "Tour du Guet",
-                  "text": "A 13th-century medieval watchtower, the oldest standing building in the city center of Calais.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.84972,
-                        50.9589
-                  ]
-            },
-            {
-                  "name": "The Dragon of Calais",
-                  "text": "A monumental mechanical creature made of steel and wood that carries passengers along the Calais seafront in a unique show.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.810173,
-                        50.935327
-                  ]
-            },
-            {
-                  "name": "Fine Arts Museum",
-                  "text": "The museum displays a rich collection of paintings and sculptures from the 16th to the 21st century, including works by Rodin.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        1.851673,
-                        50.956888
-                  ]
-            },
-            {
-                  "name": "Calais Theater",
-                  "text": "A beautiful early 20th-century Italian-style theater building that serves as the main venue for performing arts in the city.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        1.853385,
-                        50.947012
-                  ]
-            },
-            {
-                  "name": "Pluviôse Monument",
-                  "text": "A historical memorial dedicated to the crew of the submarine Pluviôse, which sank off Calais in 1910 after a collision.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.845417,
-                        50.963796
-                  ]
-            },
-            {
-                  "name": "Calais-Ville Station",
-                  "text": "The city's central railway station, noted for its classical architecture and its long history as a gateway to the Channel.",
-                  "category": "station",
-                  "confidence": "high",
-                  "coords": [
-                        1.850556,
-                        50.953333
-                  ]
-            },
-            {
-                  "name": "Saint-Pierre Park",
-                  "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        1.850864,
-                        50.951744
-                  ]
-            },
-            {
-                  "name": "Louis XVIII Column",
-                  "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        1.85028,
-                        50.96095
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Matisse",
-                  "text": "A modern playground in Calais, offering children varied play opportunities.",
-                  "category": "family",
-                  "coords": [
-                        1.899159,
-                        50.94827
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Morrelet",
-                  "text": "A lovely spot in Calais for children to play and families to relax.",
-                  "category": "family",
-                  "coords": [
-                        1.828959,
-                        50.94852
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Beffroi de l'hôtel de ville",
-                  "text": "Le somptueux hôtel de ville de Calais se distingue par son style flamand et son beffroi haut et caractéristique.",
-                  "category": "civic",
-                  "coords": [
-                        1.854309,
-                        50.952927
-                  ]
-            },
-            {
-                  "name": "Les Bourgeois de Calais",
-                  "text": "La célèbre sculpture en bronze d'Auguste Rodin commémore le sacrifice des bourgeois de la ville durant la guerre.",
-                  "category": "historical",
-                  "coords": [
-                        1.853528,
-                        50.952278
-                  ]
-            },
-            {
-                  "name": "Phare de Calais",
-                  "text": "Un phare historique du centre-ville, haut de 58 mètres, offrant une vue sur le pas de Calais.",
-                  "category": "historical",
-                  "coords": [
-                        1.85368,
-                        50.96133
-                  ]
-            },
-            {
-                  "name": "Fort Risban",
-                  "text": "Une forteresse historique à l'entrée du port qui protégeait autrefois la ville des attaques venant de la mer.",
-                  "category": "fortress",
-                  "coords": [
-                        1.8475,
-                        50.9637
-                  ]
-            },
-            {
-                  "name": "Citadelle de Calais",
-                  "text": "Une ancienne fortification reconvertie en parc et espace de loisirs avec des installations sportives.",
-                  "category": "fortress",
-                  "coords": [
-                        1.8452,
-                        50.9578
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame",
-                  "text": "La seule église de France de style Tudor, construite durant l'occupation anglaise de la ville.",
-                  "category": "religious",
-                  "coords": [
-                        1.85306,
-                        50.9583
-                  ]
-            },
-            {
-                  "name": "Plage de Calais",
-                  "text": "Une vaste plage de sable avec une promenade, idéale pour des balades en admirant le ballet des ferries.",
-                  "category": "natural",
-                  "coords": [
-                        1.839266,
-                        50.965105
-                  ]
-            },
-            {
-                  "name": "Parc Richelieu",
-                  "text": "Un charmant parc urbain au cœur de Calais, idéal pour se détendre et faire de courtes promenades.",
-                  "category": "recreational",
-                  "coords": [
-                        1.851953,
-                        50.956078
-                  ]
-            },
-            {
-                  "name": "Tour du Guet",
-                  "text": "Une tour de guet médiévale du XIIIe siècle, le plus vieux bâtiment du centre-ville de Calais.",
-                  "category": "historical",
-                  "coords": [
-                        1.84972,
-                        50.9589
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Das prächtige Rathaus von Calais besticht durch seinen flämischen Stil und den markanten hohen Glockenturm.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Die berühmte Bronzeskulptur von Auguste Rodin erinnert an die Aufopferung der Bürger während des Krieges.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Ein historischer Leuchtturm im Stadtzentrum, der 58 Meter hoch ist und einen Blick auf den Ärmelkanal bietet.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Eine historische Festung am Eingang des Hafens, die einst die Stadt vor Angriffen vom Meer aus schützte.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Eine ehemalige Festungsanlage, die heute als Park und Erholungsgebiet mit Sportanlagen genutzt wird.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Die einzige Kirche Frankreichs im Tudor-Stil, erbaut während der englischen Besetzung der Stadt.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Mit seiner riesigen Sandfläche bietet die Plage de Calais einen offenen und luftigen Rückzugsort am Ärmelkanal. Die Atmosphäre hier ist zutiefst maritim, geprägt von einer weitläufigen Promenade, die Spaziergänger und Schiffsbeobachter gleichermaßen anzieht. Besucher können sich an langen Strandspaziergängen erfreuen, während sie die Fähren beobachten, die in der Ferne das Wasser durchqueren. Eine leichte Jacke mitzubringen ist klug, da der Küstenwind auch an sonnigen Tagen erfrischend wirken kann.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Ein schöner Stadtpark im Herzen von Calais, der ideal zum Entspannen und für kurze Spaziergänge ist.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Ein mittelalterlicher Wachturm aus dem 13. Jahrhundert, das älteste Gebäude im Stadtzentrum von Calais.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Le Dragon de Calais", "text": "Ein monumentales mechanisches Ungeheuer aus Stahl und Holz, das Besucher an der Strandpromenade von Calais spazieren führt.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Musée des Beaux-Arts", "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen vom 16. bis zum 21. Jahrhundert, darunter Werke von Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Théâtre de Calais", "text": "Ein prächtiges Gebäude im italienischen Stil aus dem frühen 20. Jahrhundert, das ein vielfältiges Programm an Opern und Theaterstücken bietet.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Monument du Pluviôse", "text": "Ein Denkmal zur Erinnerung an das U-Boot Pluviôse, das 1910 vor der Küste von Calais nach einer Kollision sank.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Gare de Calais-Ville", "text": "Der historische Bahnhof der Stadt, bekannt für seine klassische Architektur und seine Bedeutung als Verkehrsknotenpunkt zum Ärmelkanal.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Parc Saint-Pierre", "text": "Eine weitläufige Grünanlage gegenüber dem Rathaus, ideal für Spaziergänge und Entspannung im Herzen der Stadt.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Colonne Louis XVIII", "text": "Diese Säule im Hafen erinnert an die Rückkehr des Königs Louis XVIII. nach Frankreich im Jahr 1814 nach seinem Exil.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Ein moderner Spielplatz in Calais, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Ein schöner Ort in Calais für Kinder zum Spielen und für Familien zum Entspannen.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "Der städtische Bauernhof in Calais ermöglicht es Familien, Bauernhoftiere in der städtischen Umgebung zu entdecken.", "category": "family", "coords": [1.852668, 50.94913]}], "hu": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Calais pompás városháza flamand stílusával és jellegzetes, magas harangtornyával nyűgözi le a látogatókat.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Auguste Rodin híres bronzszobra a város polgárainak önfeláldozására emlékeztet a százéves háború idején.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Történelmi világítótorony a városközpontban, amely 58 méter magas és kilátást nyújt az angol csatornára.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Történelmi erőd a kikötő bejáratánál, amely egykor a várost védte a tenger felőli támadások ellen.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Egykori erődítményrendszer, amely ma közparkként és sportpályák otthonaként szolgál a helyieknek.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Franciaország egyetlen Tudor-stílusú temploma, amely a város angol megszállása idején épült fel.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "A hatalmas homokos területet bemutató Plage de Calais nyitott és szellős tengerparti menedéket kínál a La Manche csatorna mentén. A légkör itt mélyen tengeri, amelyet egy tágas sétány határoz meg, amely egyaránt vonzza a sétálókat és a hajónézőket. A látogatók élvezhetik a hosszú parti sétákat, miközben a távolban figyelhetik a vizeken átszelő kompokat. Érdemes egy könnyű kabátot hozni, mivel a tengerparti szelek még napsütéses napokon is élénkítőek lehetnek.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Kellemes városi park Calais szívében, amely ideális helyszín a pihenésre és egy rövid sétára.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "13. századi középkori őrtorony, amely Calais belvárosának legrégebbi fennmaradt épülete.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Calais sárkánya", "text": "Egy monumentális mechanikus acélszörny, amely a tengerparti sétányon szállítja az utasokat egy egyedülálló interaktív élmény keretében.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Szépművészeti Múzeum", "text": "A múzeum gazdag festmény- és szoborgyűjteményt mutat be a 16. századtól napjainkig, kiemelt figyelmet fordítva Rodin alkotásaira.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Calais-i Színház", "text": "Kora 20. századi, olasz stílusú épület, amely a város kulturális életének központja operákkal és drámai előadásokkal.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Pluviôse emlékmű", "text": "Az 1910-ben egy ütközés után elsüllyedt Pluviôse tengeralattjáró áldozatainak tiszteletére állított történelmi emlékmű.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Calais-Ville vasútállomás", "text": "Klasszikus építészetű vasúti csomópont, amely évtizedek óta köti össze a várost Párizzsal és a Csatorna-alagút térségével.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Szent Péter park", "text": "A városházával szemben elhelyezkedő tágas park virágágyásokkal és sétányokkal, a helyiek kedvelt pihenőhelye.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "XVIII. Lajos oszlopa", "text": "A kikötőben található emlékoszlop, amely XVIII. Lajos király 1814-es száműzetésből való hazatérését örökíti meg.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Egy modern játszótér Calais-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Egy szép hely Calais-ban a gyerekeknek a játékhoz, a családoknak pedig a pihenéshez.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "A calais-i városi farm lehetővé teszi a családok számára, hogy haszonállatokat fedezzenek fel városi környezetben.", "category": "family", "coords": [1.852668, 50.94913]}], "ro": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Primăria magnifică din Calais impresionează prin stilul său flamand și turnul cu clopotniță foarte înalt.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Celebra sculptură din bronz a lui Auguste Rodin comemorează sacrificiul cetățenilor în timpul războiului.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Un far istoric situat în centrul orașului, înalt de 58 de metri, oferind o vedere spre Canalul Mânecii.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "O fortăreață istorică situată la intrarea în port, care odinioară proteja orașul de atacurile maritime.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Foste fortificații transformate astăzi într-un parc public și zonă de recreere pentru locuitori.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Singura biserică din Franța construită în stil Tudor, ridicată în timpul ocupației engleze a orașului.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Prezentând o întindere vastă de nisip, Plage de Calais oferă o retragere pe malul mării deschisă și aerisită de-a lungul Canalului Mânecii. Atmosfera de aici este profund maritimă, definită de o promenadă spațioasă care atrage deopotrivă plimbăreții și observatorii de nave. Vizitatorii se pot bucura de plimbări lungi pe țărm în timp ce observă feriboturile care traversează apele în depărtare. Aducerea unei jachete ușoare este înțeleaptă, deoarece vânturile de coastă pot fi revigorante chiar și în zilele însorite.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Un parc frumos situat în centrul orașului Calais, oferind un spațiu verde relaxant pentru vizitatori.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Un turn de veghe medieval din secolul al XIII-lea, fiind cea mai veche construcție din centrul orașului.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Dragonul din Calais", "text": "O creatură mecanică gigantică din oțel și lemn care se plimbă pe faleza orașului, oferind o experiență turistică inedită.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Muzeul de Arte Frumoase", "text": "Găzduiește o colecție impresionantă de picturi și sculpturi, incluzând schițe și lucrări originale ale celebrului Auguste Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Teatrul din Calais", "text": "O clădire magnifică în stil italian inaugurată în 1905, inima culturală a orașului pentru spectacole de operă și balet.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Monumentul Pluviôse", "text": "Un monument ridicat în memoria echipajului submarinului Pluviôse, care s-a scufundat în fața portului în 1910.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Gara Calais-Ville", "text": "O gară istorică cu o arhitectură elegantă, servind drept punct principal de acces feroviar către centrul orașului.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Parcul Saint-Pierre", "text": "Un spațiu verde generos situat în fața primăriei, decorat cu grădini îngrijite și fântâni arteziene relaxante.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Coloana Ludovic al XVIII-lea", "text": "O coloană comemorativă situată în zona portuară, marcând revenirea regelui în Franța după exilul său din 1814.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Un loc de joacă modern în Calais, oferind copiilor diverse posibilități de joacă.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Un loc frumos în Calais pentru joaca copiilor și relaxarea familiilor.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "Ferma urbană din Calais permite familiilor să descopere animalele de fermă în mediul urban.", "category": "family", "coords": [1.852668, 50.94913]}], "en": [{"name": "Beffroi de l'Hôtel de Ville", "text": "The magnificent Calais City Hall stands out with its Flemish style and its distinctive high belfry tower.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "The famous bronze sculpture by Auguste Rodin commemorates the sacrifice of citizens during the Hundred Years' War.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "A historic lighthouse in the city center, standing 58 meters tall and offering views of the English Channel.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "A historic fortress at the port's entrance that once protected the town from naval attacks over centuries.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "A former military fortification system now serving as a public park and recreational sports ground.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "The only Tudor-style church in France, built during the English occupation of the city in the 14th century.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Showcasing a vast expanse of sand, Plage de Calais offers an open and breezy seaside retreat along the English Channel. The atmosphere here is deeply maritime, defined by a spacious promenade that attracts walkers and ship-watchers alike. Visitors can delight in long shoreline strolls while observing the ferries traversing the waters in the distance. Bringing a light jacket is wise, as the coastal winds can be invigorating even on sunny days.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "A pleasant urban park in the heart of Calais, perfect for relaxation and a short nature walk.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "A 13th-century medieval watchtower, the oldest standing building in the city center of Calais.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "The Dragon of Calais", "text": "A monumental mechanical creature made of steel and wood that carries passengers along the Calais seafront in a unique show.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Fine Arts Museum", "text": "The museum displays a rich collection of paintings and sculptures from the 16th to the 21st century, including works by Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Calais Theater", "text": "A beautiful early 20th-century Italian-style theater building that serves as the main venue for performing arts in the city.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Pluviôse Monument", "text": "A historical memorial dedicated to the crew of the submarine Pluviôse, which sank off Calais in 1910 after a collision.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Calais-Ville Station", "text": "The city's central railway station, noted for its classical architecture and its long history as a gateway to the Channel.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Saint-Pierre Park", "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Louis XVIII Column", "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "A modern playground in Calais, offering children varied play opportunities.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "A lovely spot in Calais for children to play and families to relax.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "The urban farm in Calais allows families to discover farm animals within the city environment.", "category": "family", "coords": [1.852668, 50.94913]}], "fr": [{"name": "Beffroi de l'hôtel de ville", "text": "Le somptueux hôtel de ville de Calais se distingue par son style flamand et son beffroi haut et caractéristique.", "category": "civic", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "La célèbre sculpture en bronze d'Auguste Rodin commémore le sacrifice des bourgeois de la ville durant la guerre.", "category": "historical", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Un phare historique du centre-ville, haut de 58 mètres, offrant une vue sur le pas de Calais.", "category": "historical", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Une forteresse historique à l'entrée du port qui protégeait autrefois la ville des attaques venant de la mer.", "category": "fortress", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Une ancienne fortification reconvertie en parc et espace de loisirs avec des installations sportives.", "category": "fortress", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "La seule église de France de style Tudor, construite durant l'occupation anglaise de la ville.", "category": "religious", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Déployant une vaste étendue de sable, la Plage de Calais offre une retraite balnéaire ouverte et aérée le long de la Manche. L'atmosphère y est profondément maritime, définie par une promenade spacieuse qui attire autant les marcheurs que les observateurs de navires. Les visiteurs peuvent se délecter de longues promenades sur le rivage tout en observant les ferries traversant les eaux au loin. Il est prudent d'apporter une veste légère, car les vents côtiers peuvent être revigorants, même par temps ensoleillé.", "category": "natural", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Un charmant parc urbain au cœur de Calais, idéal pour se détendre et faire de courtes promenades.", "category": "recreational", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Une tour de guet médiévale du XIIIe siècle, le plus vieux bâtiment du centre-ville de Calais.", "category": "historical", "coords": [1.84972, 50.9589]}]}
   },
   {
     id: "reims", population: 187206,
@@ -11187,6 +11616,24 @@ export const franceCities: POI[] = [
                         4.036345,
                         49.243879
                   ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "Das SPA Avenue 51 in Reims bietet Entspannung und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "Spa Connect in Reims verfügt über ein Schwimmbad.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
+                  ]
             }
       ],
       "hu": [
@@ -11422,6 +11869,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.036345,
                         49.243879
+                  ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "A reimsi SPA Avenue 51 pihenést és wellnesst kínál.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "A reimsi Spa Connect rendelkezik úszómedencével.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
                   ]
             }
       ],
@@ -11659,6 +12124,24 @@ export const franceCities: POI[] = [
                         4.036345,
                         49.243879
                   ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "SPA Avenue 51 din Reims oferă relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "Spa Connect din Reims are o piscină.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
+                  ]
             }
       ],
       "en": [
@@ -11894,6 +12377,24 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.036345,
                         49.243879
+                  ]
+            },
+            {
+                  "name": "SPA Avenue 51",
+                  "text": "The SPA Avenue 51 in Reims offers relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        3.979625,
+                        49.247042
+                  ]
+            },
+            {
+                  "name": "Spa Connect (Salon de bien-être)",
+                  "text": "Spa Connect in Reims features a swimming pool.",
+                  "category": "family",
+                  "coords": [
+                        4.02185,
+                        49.240276
                   ]
             }
       ],
@@ -12213,592 +12714,7 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-calanques", "sights": {
-      "de": [
-            {
-                  "name": "Queyrons",
-                  "text": "Queyrons ist ein schöner Strand in der Küstenstadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.462228,
-                        43.210098
-                  ]
-            },
-            {
-                  "name": "Plage du Bestouan",
-                  "text": "Plage du Bestouan ist ein beliebter Strand, der in Cassis liegt.",
-                  "category": "recreational",
-                  "coords": [
-                        5.531278,
-                        43.212949
-                  ]
-            },
-            {
-                  "name": "Plage La Grande Mer",
-                  "text": "Plage La Grande Mer ist ein weitläufiger Strand im Zentrum von Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.537541,
-                        43.212792
-                  ]
-            },
-            {
-                  "name": "Plage d'En Vau",
-                  "text": "Plage d'En Vau ist ein atemberaubender Strandabschnitt in den Calanques von Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.498097,
-                        43.202344
-                  ]
-            },
-            {
-                  "name": "Plage naturiste des Pierres Tombées",
-                  "text": "Plage naturiste des Pierres Tombées ist ein FKK-Strand in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.457126,
-                        43.211454
-                  ]
-            },
-            {
-                  "name": "Plage des Capucins",
-                  "text": "Plage des Capucins ist ein entspannender Strand, der sich in Cassis befindet.",
-                  "category": "recreational",
-                  "coords": [
-                        5.614369,
-                        43.181643
-                  ]
-            },
-            {
-                  "name": "Calanque de Figuerolles",
-                  "text": "Calanque de Figuerolles ist eine faszinierende Felsbucht mit Strand in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.597284,
-                        43.166952
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Grand Mugel",
-                  "text": "Plage Calanque du Grand Mugel ist ein idyllischer Strand in einer Bucht von Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.606057,
-                        43.166241
-                  ]
-            },
-            {
-                  "name": "Plage du Corton",
-                  "text": "Plage du Corton ist ein ruhiger kleiner Strand, der in Cassis liegt.",
-                  "category": "recreational",
-                  "coords": [
-                        5.544791,
-                        43.210657
-                  ]
-            },
-            {
-                  "name": "Plage de Port Pin",
-                  "text": "Plage de Port Pin ist ein landschaftlich reizvoller Strand in der Region Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.510675,
-                        43.203952
-                  ]
-            },
-            {
-                  "name": "Plage Lumière",
-                  "text": "Plage Lumière ist ein Strand in der Stadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.621205,
-                        43.18566
-                  ]
-            },
-            {
-                  "name": "Plage Canine",
-                  "text": "Plage Canine ist ein Strand in der Stadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.615552,
-                        43.18229
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Petit Mugel",
-                  "text": "Plage Calanque du Petit Mugel ist ein Strand in der Stadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.60605,
-                        43.164987
-                  ]
-            },
-            {
-                  "name": "Plage Cyrnos",
-                  "text": "Plage Cyrnos ist ein Strand in der Stadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.618543,
-                        43.184221
-                  ]
-            },
-            {
-                  "name": "Plage de l’Arène",
-                  "text": "Plage de l’Arène ist ein Strand in Cassis, nahe Cap Naia.",
-                  "category": "recreational",
-                  "coords": [
-                        5.548667,
-                        43.208181
-                  ]
-            },
-            {
-                  "name": "Plage Bleue",
-                  "text": "Plage Bleue ist ein Strand in der Stadt Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.518574,
-                        43.205159
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Queyrons",
-                  "text": "A Queyrons egy szép strand Cassis tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.462228,
-                        43.210098
-                  ]
-            },
-            {
-                  "name": "Plage du Bestouan",
-                  "text": "A Plage du Bestouan egy népszerű strand, amely Cassis-ban fekszik.",
-                  "category": "recreational",
-                  "coords": [
-                        5.531278,
-                        43.212949
-                  ]
-            },
-            {
-                  "name": "Plage La Grande Mer",
-                  "text": "A Plage La Grande Mer egy tágas strand Cassis központjában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.537541,
-                        43.212792
-                  ]
-            },
-            {
-                  "name": "Plage d'En Vau",
-                  "text": "A Plage d'En Vau egy lélegzetelállító partszakasz Cassis calanque-jai között.",
-                  "category": "recreational",
-                  "coords": [
-                        5.498097,
-                        43.202344
-                  ]
-            },
-            {
-                  "name": "Plage naturiste des Pierres Tombées",
-                  "text": "A Plage naturiste des Pierres Tombées egy naturista strand Cassis-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        5.457126,
-                        43.211454
-                  ]
-            },
-            {
-                  "name": "Plage des Capucins",
-                  "text": "A Plage des Capucins egy pihentető strand, amely Cassis városában található.",
-                  "category": "recreational",
-                  "coords": [
-                        5.614369,
-                        43.181643
-                  ]
-            },
-            {
-                  "name": "Calanque de Figuerolles",
-                  "text": "A Calanque de Figuerolles egy lenyűgöző sziklás öböl és strand Cassis-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        5.597284,
-                        43.166952
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Grand Mugel",
-                  "text": "A Plage Calanque du Grand Mugel egy idilli strand Cassis egyik öblében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.606057,
-                        43.166241
-                  ]
-            },
-            {
-                  "name": "Plage du Corton",
-                  "text": "A Plage du Corton egy csendes kis strand, amely Cassis-ban található.",
-                  "category": "recreational",
-                  "coords": [
-                        5.544791,
-                        43.210657
-                  ]
-            },
-            {
-                  "name": "Plage de Port Pin",
-                  "text": "A Plage de Port Pin egy festői szépségű strand Cassis térségében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.510675,
-                        43.203952
-                  ]
-            },
-            {
-                  "name": "Plage Lumière",
-                  "text": "A Plage Lumière egy strand Cassis városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.621205,
-                        43.18566
-                  ]
-            },
-            {
-                  "name": "Plage Canine",
-                  "text": "A Plage Canine egy strand Cassis városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.615552,
-                        43.18229
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Petit Mugel",
-                  "text": "A Plage Calanque du Petit Mugel egy strand Cassis városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.60605,
-                        43.164987
-                  ]
-            },
-            {
-                  "name": "Plage Cyrnos",
-                  "text": "A Plage Cyrnos egy strand Cassis városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.618543,
-                        43.184221
-                  ]
-            },
-            {
-                  "name": "Plage de l’Arène",
-                  "text": "A Plage de l’Arène egy strand Cassis városában, a Cap Naia közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.548667,
-                        43.208181
-                  ]
-            },
-            {
-                  "name": "Plage Bleue",
-                  "text": "A Plage Bleue egy strand Cassis városában.",
-                  "category": "recreational",
-                  "coords": [
-                        5.518574,
-                        43.205159
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Queyrons",
-                  "text": "Queyrons este o plajă frumoasă din orașul de coastă Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.462228,
-                        43.210098
-                  ]
-            },
-            {
-                  "name": "Plage du Bestouan",
-                  "text": "Plage du Bestouan este o plajă populară situată în Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.531278,
-                        43.212949
-                  ]
-            },
-            {
-                  "name": "Plage La Grande Mer",
-                  "text": "Plage La Grande Mer este o plajă spațioasă în centrul orașului Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.537541,
-                        43.212792
-                  ]
-            },
-            {
-                  "name": "Plage d'En Vau",
-                  "text": "Plage d'En Vau este o plajă uluitoare printre calanque-urile din Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.498097,
-                        43.202344
-                  ]
-            },
-            {
-                  "name": "Plage naturiste des Pierres Tombées",
-                  "text": "Plage naturiste des Pierres Tombées este o plajă de nudiști în Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.457126,
-                        43.211454
-                  ]
-            },
-            {
-                  "name": "Plage des Capucins",
-                  "text": "Plage des Capucins este o plajă relaxantă situată în orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.614369,
-                        43.181643
-                  ]
-            },
-            {
-                  "name": "Calanque de Figuerolles",
-                  "text": "Calanque de Figuerolles este un golf stâncos fascinant cu plajă din Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.597284,
-                        43.166952
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Grand Mugel",
-                  "text": "Plage Calanque du Grand Mugel este o plajă idilică într-un golfuleț din Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.606057,
-                        43.166241
-                  ]
-            },
-            {
-                  "name": "Plage du Corton",
-                  "text": "Plage du Corton este o plajă mică și liniștită situată în Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.544791,
-                        43.210657
-                  ]
-            },
-            {
-                  "name": "Plage de Port Pin",
-                  "text": "Plage de Port Pin este o plajă pitorească în regiunea Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.510675,
-                        43.203952
-                  ]
-            },
-            {
-                  "name": "Plage Lumière",
-                  "text": "Plage Lumière este o plajă din orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.621205,
-                        43.18566
-                  ]
-            },
-            {
-                  "name": "Plage Canine",
-                  "text": "Plage Canine este o plajă din orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.615552,
-                        43.18229
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Petit Mugel",
-                  "text": "Plage Calanque du Petit Mugel este o plajă din orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.60605,
-                        43.164987
-                  ]
-            },
-            {
-                  "name": "Plage Cyrnos",
-                  "text": "Plage Cyrnos este o plajă din orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.618543,
-                        43.184221
-                  ]
-            },
-            {
-                  "name": "Plage de l’Arène",
-                  "text": "Plage de l’Arène este o plajă din Cassis, situată lângă Cap Naia.",
-                  "category": "recreational",
-                  "coords": [
-                        5.548667,
-                        43.208181
-                  ]
-            },
-            {
-                  "name": "Plage Bleue",
-                  "text": "Plage Bleue este o plajă din orașul Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.518574,
-                        43.205159
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Queyrons",
-                  "text": "Queyrons is a beautiful beach in the coastal town of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.462228,
-                        43.210098
-                  ]
-            },
-            {
-                  "name": "Plage du Bestouan",
-                  "text": "Plage du Bestouan is a popular beach located in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.531278,
-                        43.212949
-                  ]
-            },
-            {
-                  "name": "Plage La Grande Mer",
-                  "text": "Plage La Grande Mer is a spacious beach in the center of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.537541,
-                        43.212792
-                  ]
-            },
-            {
-                  "name": "Plage d'En Vau",
-                  "text": "Plage d'En Vau is a stunning beach area nestled within the calanques of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.498097,
-                        43.202344
-                  ]
-            },
-            {
-                  "name": "Plage naturiste des Pierres Tombées",
-                  "text": "Plage naturiste des Pierres Tombées is a naturist beach located in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.457126,
-                        43.211454
-                  ]
-            },
-            {
-                  "name": "Plage des Capucins",
-                  "text": "Plage des Capucins is a relaxing beach situated in the town of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.614369,
-                        43.181643
-                  ]
-            },
-            {
-                  "name": "Calanque de Figuerolles",
-                  "text": "Calanque de Figuerolles is a fascinating rocky cove and beach in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.597284,
-                        43.166952
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Grand Mugel",
-                  "text": "Plage Calanque du Grand Mugel is an idyllic beach in a cove of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.606057,
-                        43.166241
-                  ]
-            },
-            {
-                  "name": "Plage du Corton",
-                  "text": "Plage du Corton is a quiet little beach located in Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.544791,
-                        43.210657
-                  ]
-            },
-            {
-                  "name": "Plage de Port Pin",
-                  "text": "Plage de Port Pin is a highly scenic beach in the Cassis area.",
-                  "category": "recreational",
-                  "coords": [
-                        5.510675,
-                        43.203952
-                  ]
-            },
-            {
-                  "name": "Plage Lumière",
-                  "text": "Plage Lumière is a beach located in the city of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.621205,
-                        43.18566
-                  ]
-            },
-            {
-                  "name": "Plage Canine",
-                  "text": "Plage Canine is a beach located in the city of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.615552,
-                        43.18229
-                  ]
-            },
-            {
-                  "name": "Plage Calanque du Petit Mugel",
-                  "text": "Plage Calanque du Petit Mugel is a beach located in the city of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.60605,
-                        43.164987
-                  ]
-            },
-            {
-                  "name": "Plage Cyrnos",
-                  "text": "Plage Cyrnos is a beach located in the city of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.618543,
-                        43.184221
-                  ]
-            },
-            {
-                  "name": "Plage de l’Arène",
-                  "text": "Plage de l’Arène is a beach located in Cassis near Cap Naia.",
-                  "category": "recreational",
-                  "coords": [
-                        5.548667,
-                        43.208181
-                  ]
-            },
-            {
-                  "name": "Plage Bleue",
-                  "text": "Plage Bleue is a beach located in the city of Cassis.",
-                  "category": "recreational",
-                  "coords": [
-                        5.518574,
-                        43.205159
-                  ]
-            }
-      ]
-},
+    id: "fr-calanques", "sights": {"de": [{"name": "Queyrons", "text": "Queyrons ist ein schöner Strand in der Küstenstadt Cassis.", "category": "recreational", "coords": [5.462228, 43.210098]}, {"name": "Plage du Bestouan", "text": "Die Plage du Bestouan ist ein sehr beliebter Strandabschnitt, der in der faszinierenden Region des Calanques Nationalparks bei Cassis liegt. Hier vermischt sich die lokale Lebhaftigkeit mit der natürlichen Schönheit Südfrankreichs und lockt viele Badebegeisterte an. An sonnigen Tagen sollte man rechtzeitig anreisen, um sich einen schönen Platz nahe dem Wasser zu sichern.", "category": "recreational", "coords": [5.531278, 43.212949]}, {"name": "Plage La Grande Mer", "text": "Mitten im Zentrum von Cassis erstreckt sich die weitläufige Plage La Grande Mer entlang der Küste des Nationalparks. Durch die unmittelbare Nähe zum Stadtleben herrscht hier oft eine fröhliche und sehr gut besuchte Atmosphäre. Wer gerne viel Platz zum Sonnenbaden hat und die Bequemlichkeit der Stadt in Reichweite schätzt, wird diesen Hauptstrand lieben.", "category": "recreational", "coords": [5.537541, 43.212792]}, {"name": "Plage d'En Vau", "text": "In den dramatischen Felslandschaften der Calanques verbirgt sich mit der Plage d'En Vau ein wahrhaft atemberaubender Strandabschnitt. Das tiefblaue Wasser und die spektakuläre natürliche Kulisse machen diesen Ort zu einem unvergesslichen Erlebnis für Naturfreunde. Eine Wanderung dorthin lohnt sich ganz besonders, um in völliger Ruhe eine Abkühlung im Mittelmeer zu genießen.", "category": "recreational", "coords": [5.498097, 43.202344]}, {"name": "Plage naturiste des Pierres Tombées", "text": "Die Plage naturiste des Pierres Tombées ist ein spezieller FKK-Strand, der sich ruhig und abgeschieden an der Küste von Cassis präsentiert. Felsige Formationen umgeben das Ufer und bieten Naturisten einen geschützten Raum für ein ungestörtes Sonnenbad. Ein Besuch bietet ideale Voraussetzungen, um sich völlig frei zu fühlen und entspannt dem Rauschen der Wellen zu lauschen.", "category": "recreational", "coords": [5.457126, 43.211454]}, {"name": "Plage des Capucins", "text": "Der entspannende Strand Plage des Capucins schmiegt sich idyllisch an die Küstenlinie von Cassis. Durch seine überschaubare Größe entsteht eine oft friedliche und einladende familiäre Atmosphäre, abseits der ganz großen Touristenströme. Ein wunderbarer Ort für alle, die in Ruhe schwimmen und am späten Nachmittag die warme südfranzösische Sonne genießen möchten.", "category": "recreational", "coords": [5.614369, 43.181643]}, {"name": "Calanque de Figuerolles", "text": "Calanque de Figuerolles ist eine faszinierende Felsbucht mit Strand in Cassis.", "category": "recreational", "coords": [5.597284, 43.166952]}, {"name": "Plage Calanque du Grand Mugel", "text": "Versteckt in einer geschützten Bucht von Cassis verzaubert die Plage Calanque du Grand Mugel mit ihrer idyllischen Szenerie. Kieselsteine und klares Wasser prägen diesen Küstenstreifen, der eine sehr lokale und ruhige Atmosphäre ausstrahlt. Badeschuhe sind oft empfehlenswert, um das Wasser angenehm zu betreten und entspannt an diesem naturnahen Strandabschnitt zu verweilen.", "category": "recreational", "coords": [5.606057, 43.166241]}, {"name": "Plage du Corton", "text": "Die kleine, aber feine Plage du Corton ist ein ruhiger Rückzugsort entlang der Küste von Cassis. Dieser dezente Strandabschnitt ist ideal für Badegäste, die den Charme naturnaher Buchten ohne viel Trubel schätzen. Hier kann man hervorragend vom Alltag abschalten, dem sanften Wellenschlag lauschen und das Mittelmeer ganz privat erleben.", "category": "recreational", "coords": [5.544791, 43.210657]}, {"name": "Plage de Port Pin", "text": "In der beeindruckenden Region Cassis offenbart sich die Plage de Port Pin als ein landschaftlich ungemein reizvoller Strand. Eingerahmt von schroffen Felsen und grünen Kiefern, bietet der Ort eine idyllische Badestelle, die Erholungssuchende und Naturbegeisterte gleichermaßen anzieht. Ein Besuch dieser Bucht gleicht einem kleinen Abenteuer und verspricht herrliche Badefreuden im klaren, kühlen Wasser.", "category": "recreational", "coords": [5.510675, 43.203952]}, {"name": "Plage Lumière", "text": "Als gut erreichbarer Strand in der Stadt Cassis bietet die Plage Lumière eine einladende Kulisse für Sonnenanbeter. Die familiäre und oftmals belebte Stimmung macht es leicht, sich hier schnell wohlzufühlen und den Urlaubstag zu genießen. Dank der Stadtnähe lassen sich entspannte Stunden am Ufer wunderbar mit einem anschließenden Spaziergang durch die Gassen verbinden.", "category": "recreational", "coords": [5.621205, 43.18566]}, {"name": "Plage Canine", "text": "Für Hundebesitzer, die Cassis besuchen, ist die Plage Canine der perfekte Strand, um gemeinsam mit ihrem Vierbeiner ans Wasser zu gehen. Die entspannte und tolerante Atmosphäre ermöglicht es sowohl Mensch als auch Tier, eine unbeschwerte Zeit an der Küste zu verbringen. Es ist ein wunderbarer Ort, an dem Hunde im kühlen Nass spielen und herrliche Urlaubserinnerungen entstehen können.", "category": "recreational", "coords": [5.615552, 43.18229]}, {"name": "Plage Calanque du Petit Mugel", "text": "Etwas verborgen am Rande von Cassis erstreckt sich die reizvolle Plage Calanque du Petit Mugel. Dieser etwas intimere Strandabschnitt bietet eine herrlich ruhige Umgebung, ideal für genussvolle Pausen und sanftes Meeresrauschen. Wer dem geschäftigen Treiben für ein paar Stunden entfliehen möchte, findet hier eine wunderbare Oase der Erholung am Wasser.", "category": "recreational", "coords": [5.60605, 43.164987]}, {"name": "Plage Cyrnos", "text": "Die Plage Cyrnos ist ein charakteristischer Strand in Cassis, der durch seine entspannte Aura besticht. Oft tummeln sich hier Einheimische, die das erfrischende Bad im Meer zu schätzen wissen. Ein Besuch am späten Vormittag sichert einen guten Platz, um in Ruhe die südfranzösische Sonne auf sich wirken zu lassen.", "category": "recreational", "coords": [5.618543, 43.184221]}, {"name": "Plage de l’Arène", "text": "Nahe dem imposanten Cap Naia befindet sich die naturbelassene Plage de l’Arène in Cassis. Die felsig geprägte Küste vermittelt ein wunderbar wildes und ungestörtes Gefühl, das Naturfans begeistern wird. Am besten bringt man sich eine weiche Unterlage mit, um sich entspannt am Ufer niederzulassen und den unverstellten Blick auf das Meer zu genießen.", "category": "recreational", "coords": [5.548667, 43.208181]}, {"name": "Plage Bleue", "text": "Eingebettet in die beeindruckende Küstenlandschaft von Cassis liegt die Plage Bleue, ein malerischer Strand in der Nähe des Nationalparks Calanques. Besucher schätzen die natürliche Umgebung, die sich perfekt zum Sonnenbaden und für entspannte Spaziergänge am Meer eignet. Ein Ausflug hierher lohnt sich besonders an sonnigen Tagen.", "category": "recreational", "coords": [5.518574, 43.205159]}], "hu": [{"name": "Queyrons", "text": "A Queyrons egy szép strand Cassis tengerparti városában.", "category": "recreational", "coords": [5.462228, 43.210098]}, {"name": "Plage du Bestouan", "text": "A Plage du Bestouan egy rendkívül népszerű partszakasz, amely a Cassis melletti Calanques Nemzeti Park lenyűgöző régiójában terül el. Itt a helyi pezsgés keveredik Dél-Franciaország természeti szépségével, ami sok fürdőzni vágyót vonz. Napsütéses napokon érdemes időben érkezni, hogy biztosítsunk magunknak egy szép helyet a víz közelében.", "category": "recreational", "coords": [5.531278, 43.212949]}, {"name": "Plage La Grande Mer", "text": "Cassis központjában húzódik a tágas Plage La Grande Mer a Nemzeti Park partvonala mentén. A városi élet közvetlen közelsége miatt itt gyakran vidám és nagyon látogatott atmoszféra uralkodik. Aki szereti, ha sok hely van a napozáshoz, és értékeli a város kényelmének közelségét, az imádni fogja ezt a főstrandot.", "category": "recreational", "coords": [5.537541, 43.212792]}, {"name": "Plage d'En Vau", "text": "A Calanques drámai sziklatájai között bújik meg a Plage d'En Vau, amely egy igazán lélegzetelállító partszakasz. A mélykék víz és a látványos természeti környezet felejthetetlen élménnyé teszi ezt a helyet a természetkedvelők számára. Különösen megéri ide túrázni, hogy teljes nyugalomban élvezhessük a Földközi-tenger hűsítő habjait.", "category": "recreational", "coords": [5.498097, 43.202344]}, {"name": "Plage naturiste des Pierres Tombées", "text": "A Plage naturiste des Pierres Tombées egy különleges naturista strand, amely csendesen és elszigetelten fekszik Cassis partjainál. Sziklás képződmények veszik körül a partot, védett teret kínálva a naturistáknak a zavartalan napozáshoz. Egy itteni látogatás ideális feltételeket teremt ahhoz, hogy a látogatók teljesen szabadnak érezzék magukat, és lazán hallgassák a hullámok morajlását.", "category": "recreational", "coords": [5.457126, 43.211454]}, {"name": "Plage des Capucins", "text": "A pihentető Plage des Capucins strand idillien simul Cassis partvonalához. Átlátható méretének köszönhetően itt gyakran békés és hívogató családias légkör uralkodik, távol a legnagyobb turistahadaktól. Csodálatos hely mindazok számára, akik nyugodtan szeretnének úszni, és késő délután élvezni akarják a meleg dél-franciaországi napsütést.", "category": "recreational", "coords": [5.614369, 43.181643]}, {"name": "Calanque de Figuerolles", "text": "A Calanque de Figuerolles egy lenyűgöző sziklás öböl és strand Cassis-ban.", "category": "recreational", "coords": [5.597284, 43.166952]}, {"name": "Plage Calanque du Grand Mugel", "text": "A Cassis egy védett öblében megbúvó Plage Calanque du Grand Mugel idilli látványával varázsolja el a látogatókat. Kavicsok és tiszta víz jellemzik ezt a partszakaszt, amely nagyon helyi és csendes atmoszférát áraszt. A kényelmes vízbe jutás érdekében gyakran ajánlott fürdőcipőt viselni, és így nyugodtan elidőzni ezen a természetközeli strandon.", "category": "recreational", "coords": [5.606057, 43.166241]}, {"name": "Plage du Corton", "text": "A kicsi, de annál finomabb Plage du Corton egy csendes menedékhely Cassis partvidéke mentén. Ez a visszafogott partszakasz ideális azoknak a fürdőzőknek, akik értékelik a természetközeli öblök báját a nagy nyüzsgés nélkül. Itt kiválóan ki lehet kapcsolódni a mindennapokból, hallgatni a szelíd hullámverést, és szinte teljesen privát módon élvezni a Földközi-tengert.", "category": "recreational", "coords": [5.544791, 43.210657]}, {"name": "Plage de Port Pin", "text": "A lenyűgöző Cassis régióban található Plage de Port Pin egy tájképileg rendkívül vonzó strandként tárul elénk. Zord sziklák és zöldellő fenyők ölelésében a hely egy idilli fürdőhelyet kínál, amely a pihenni vágyókat és a természet szerelmeseit egyaránt vonzza. Az öböl felkeresése felér egy kis kalanddal, és csodás fürdőzést ígér a tiszta, hűs vízben.", "category": "recreational", "coords": [5.510675, 43.203952]}, {"name": "Plage Lumière", "text": "Cassis városának könnyen megközelíthető strandjaként a Plage Lumière hívogató környezetet kínál a napimádóknak. A családias és gyakran élénk hangulat megkönnyíti, hogy az ember gyorsan otthon érezze magát, és élvezze a nyaralás minden percét. A város közelségének köszönhetően a parton eltöltött pihentető órák remekül összeköthetők egy azt követő sétával az utcácskákon.", "category": "recreational", "coords": [5.621205, 43.18566]}, {"name": "Plage Canine", "text": "A Cassisba látogató kutyatulajdonosok számára a Plage Canine a tökéletes strand arra, hogy négylábú kedvencükkel együtt menjenek a vízhez. A nyugodt és toleráns légkör lehetővé teszi, hogy ember és állat egyaránt gondtalan időt tölthessen el a tengerparton. Ez egy csodálatos hely, ahol a kutyák a hűsítő habokban játszhatnak, és gyönyörű nyaralási emlékek születhetnek.", "category": "recreational", "coords": [5.615552, 43.18229]}, {"name": "Plage Calanque du Petit Mugel", "text": "Cassis szélén kissé elrejtve húzódik a bájos Plage Calanque du Petit Mugel. Ez a némileg intimebb partszakasz csodálatosan csendes környezetet biztosít, amely ideális a kellemes pihenőkhöz és a tenger halk morajlásának élvezetéhez. Aki néhány órára szeretne elmenekülni a sürgés-forgás elől, az itt a vízparti feltöltődés csodás oázisára lel.", "category": "recreational", "coords": [5.60605, 43.164987]}, {"name": "Plage Cyrnos", "text": "A Plage Cyrnos egy jellegzetes strand Cassisban, amely nyugodt aurájával hódítja meg a látogatókat. Gyakran fordulnak meg itt a helyiek, akik nagyra értékelik a tenger frissítő habjait. Egy késő délelőtti látogatás garantálja a jó helyet ahhoz, hogy békésen engedjük magunkba szívni a dél-franciaországi napsütést.", "category": "recreational", "coords": [5.618543, 43.184221]}, {"name": "Plage de l’Arène", "text": "Az impozáns Cap Naia közelében található a természetes szépségű Plage de l’Arène Cassisban. A sziklás jellegű part csodálatosan vad és zavartalan érzést kelt, amely a természetrajongókat biztosan lenyűgözi. A legjobb, ha hozunk magunkkal egy puha alátétet, hogy kényelmesen elhelyezkedjünk a parton, és élvezzük a tengerre nyíló zavartalan kilátást.", "category": "recreational", "coords": [5.548667, 43.208181]}, {"name": "Plage Bleue", "text": "A festői Cassis tengerparti környezetében található a Plage Bleue, egy gyönyörű strand a Calanques Nemzeti Park közelében. A látogatók értékelik a természetes közeget, amely tökéletes a napozáshoz és a tengerparti sétákhoz. Egy ide tett kirándulás különösen napsütéses napokon éri meg.", "category": "recreational", "coords": [5.518574, 43.205159]}], "ro": [{"name": "Queyrons", "text": "Queyrons este o plajă frumoasă din orașul de coastă Cassis.", "category": "recreational", "coords": [5.462228, 43.210098]}, {"name": "Plage du Bestouan", "text": "Plage du Bestouan este o secțiune de plajă foarte populară situată în regiunea fascinantă a Parcului Național Calanques, lângă Cassis. Aici, vivacitatea locală se amestecă cu frumusețea naturală a sudului Franței, atrăgând mulți pasionați de scăldat. În zilele însorite, este indicat să ajungeți destul de devreme pentru a vă asigura un loc bun aproape de apă.", "category": "recreational", "coords": [5.531278, 43.212949]}, {"name": "Plage La Grande Mer", "text": "Chiar în centrul orașului Cassis, vasta Plage La Grande Mer se întinde de-a lungul coastei Parcului Național. Datorită apropierii sale imediate de viața orașului, aici există adesea o atmosferă veselă și foarte frecventată. Cei cărora le place să aibă mult spațiu pentru a face plajă și apreciază confortul orașului la îndemână vor adora această plajă principală.", "category": "recreational", "coords": [5.537541, 43.212792]}, {"name": "Plage d'En Vau", "text": "Printre peisajele stâncoase dramatice din Calanques se ascunde Plage d'En Vau, o porțiune de coastă cu adevărat uluitoare. Apele de un albastru intens și peisajul natural spectaculos fac din acest loc o experiență de neuitat pentru iubitorii de natură. O drumeție până acolo merită din plin pentru a vă bucura de o răcorire în Marea Mediterană în deplină liniște.", "category": "recreational", "coords": [5.498097, 43.202344]}, {"name": "Plage naturiste des Pierres Tombées", "text": "Plage naturiste des Pierres Tombées este o plajă specială pentru nudiști, care se prezintă liniștită și izolată pe coasta din Cassis. Formațiunile stâncoase înconjoară malul, oferind nudiștilor un spațiu protejat pentru plajă netulburată. O vizită aici oferă condițiile ideale pentru a te simți complet liber și pentru a asculta relaxat sunetul valurilor.", "category": "recreational", "coords": [5.457126, 43.211454]}, {"name": "Plage des Capucins", "text": "Plaja relaxantă Plage des Capucins se cuibărește idilic pe linia de coastă din Cassis. Datorită dimensiunilor sale ușor de gestionat, aici se creează adesea o atmosferă pașnică și primitoare pentru familii, departe de mulțimile mari de turiști. Este un loc minunat pentru toți cei care doresc să înoate în liniște și să se bucure de soarele cald din sudul Franței la sfârșitul după-amiezii.", "category": "recreational", "coords": [5.614369, 43.181643]}, {"name": "Calanque de Figuerolles", "text": "Calanque de Figuerolles este un golf stâncos fascinant cu plajă din Cassis.", "category": "recreational", "coords": [5.597284, 43.166952]}, {"name": "Plage Calanque du Grand Mugel", "text": "Ascunsă într-un golf protejat din Cassis, Plage Calanque du Grand Mugel farmecă vizitatorii cu peisajul său idilic. Pietricelele și apa limpede caracterizează această porțiune de coastă, care emană o atmosferă foarte locală și liniștită. Încălțămintea de baie este adesea recomandată pentru a intra confortabil în apă și pentru a zăbovi relaxat pe această plajă apropiată de natură.", "category": "recreational", "coords": [5.606057, 43.166241]}, {"name": "Plage du Corton", "text": "Micuța, dar fermecătoarea Plage du Corton este un refugiu liniștit de-a lungul coastei din Cassis. Această porțiune de plajă discretă este ideală pentru cei care apreciază farmecul golfurilor naturale fără multă agitație. Aici vă puteți deconecta perfect de la viața de zi cu zi, puteți asculta sunetul blând al valurilor și puteți experimenta Marea Mediterană într-un mod destul de privat.", "category": "recreational", "coords": [5.544791, 43.210657]}, {"name": "Plage de Port Pin", "text": "În impresionanta regiune Cassis, Plage de Port Pin se dezvăluie ca o plajă cu un peisaj extrem de atrăgător. Înconjurată de stânci abrupte și pini verzi, locația oferă un loc de scăldat idilic care atrage atât pe cei care caută relaxare, cât și pe pasionații de natură. O vizită la acest golf seamănă cu o mică aventură și promite o experiență minunată de înot în apa limpede și răcoroasă.", "category": "recreational", "coords": [5.510675, 43.203952]}, {"name": "Plage Lumière", "text": "Fiind o plajă ușor accesibilă în orașul Cassis, Plage Lumière oferă un cadru primitor pentru iubitorii de soare. Atmosfera familiară și adesea animată face ca vizitatorii să se simtă rapid în largul lor și să se bucure de ziua de vacanță. Datorită apropierii de oraș, orele de relaxare pe mal pot fi combinate de minune cu o plimbare ulterioară pe străduțe.", "category": "recreational", "coords": [5.621205, 43.18566]}, {"name": "Plage Canine", "text": "Pentru proprietarii de câini care vizitează Cassis, Plage Canine este plaja perfectă pentru a merge la apă împreună cu prietenii lor necuvântători. Atmosfera relaxată și tolerantă permite atât oamenilor, cât și animalelor de companie să petreacă un timp lipsit de griji pe coastă. Este un loc minunat unde câinii se pot juca în apa răcoroasă și se pot crea amintiri minunate de vacanță.", "category": "recreational", "coords": [5.615552, 43.18229]}, {"name": "Plage Calanque du Petit Mugel", "text": "Ușor ascunsă la marginea orașului Cassis se întinde fermecătoarea Plage Calanque du Petit Mugel. Această porțiune de plajă ceva mai intimă oferă un mediu minunat de liniștit, ideal pentru pauze plăcute și pentru a asculta sunetul blând al mării. Cei care doresc să scape de agitație pentru câteva ore vor găsi aici o minunată oază de recreere la malul apei.", "category": "recreational", "coords": [5.60605, 43.164987]}, {"name": "Plage Cyrnos", "text": "Plage Cyrnos este o plajă caracteristică din Cassis, care captivează prin aura sa relaxată. Aici se adună adesea localnicii care apreciază o baie răcoritoare în mare. O vizită în a doua parte a dimineții asigură un loc bun pentru a lăsa soarele din sudul Franței să-și facă simțită prezența în deplină liniște.", "category": "recreational", "coords": [5.618543, 43.184221]}, {"name": "Plage de l’Arène", "text": "Lângă impresionantul Cap Naia se află plaja naturală Plage de l’Arène din Cassis. Coasta stâncoasă transmite un sentiment minunat de sălbăticie și liniște, care cu siguranță va încânta fanii naturii. Cel mai bine este să aduceți un suport moale pentru a vă așeza confortabil pe țărm și pentru a vă bucura de vederea neobstrucționată asupra mării.", "category": "recreational", "coords": [5.548667, 43.208181]}, {"name": "Plage Bleue", "text": "Cuibărit în peisajul de coastă uimitor din Cassis, Plage Bleue este o plajă pitorească situată în apropierea Parcului Național Calanques. Vizitatorii apreciază cadrul natural, perfect pentru plajă și plimbări relaxante la malul mării. O excursie aici merită cu siguranță, mai ales în zilele însorite.", "category": "recreational", "coords": [5.518574, 43.205159]}], "en": [{"name": "Queyrons", "text": "Queyrons is a beautiful beach in the coastal town of Cassis.", "category": "recreational", "coords": [5.462228, 43.210098]}, {"name": "Plage du Bestouan", "text": "Plage du Bestouan is a highly popular beach section located in the fascinating region of the Calanques National Park near Cassis. Here, the local liveliness mingles with the natural beauty of southern France, drawing in many swimming enthusiasts. On sunny days, it is wise to arrive early enough to secure a nice spot close to the water.", "category": "recreational", "coords": [5.531278, 43.212949]}, {"name": "Plage La Grande Mer", "text": "Right in the center of Cassis, the expansive Plage La Grande Mer stretches along the coastline of the National Park. Thanks to its immediate proximity to city life, there is often a cheerful and heavily frequented atmosphere here. Anyone who enjoys having plenty of space to sunbathe while appreciating the convenience of the city within reach will love this main beach.", "category": "recreational", "coords": [5.537541, 43.212792]}, {"name": "Plage d'En Vau", "text": "Hidden among the dramatic rocky landscapes of the Calanques is Plage d'En Vau, a truly breathtaking stretch of beach. The deep blue waters and spectacular natural scenery make this spot an unforgettable experience for nature lovers. Hiking there is particularly rewarding in order to enjoy a cooldown in the Mediterranean Sea in complete tranquility.", "category": "recreational", "coords": [5.498097, 43.202344]}, {"name": "Plage naturiste des Pierres Tombées", "text": "The Plage naturiste des Pierres Tombées is a specific nudist beach that presents itself quietly and secludedly on the coast of Cassis. Rocky formations surround the shore, offering naturists a protected space for undisturbed sunbathing. A visit provides the ideal conditions to feel completely free and relax while listening to the sound of the waves.", "category": "recreational", "coords": [5.457126, 43.211454]}, {"name": "Plage des Capucins", "text": "The relaxing beach of Plage des Capucins nestles idyllically along the coastline of Cassis. Due to its manageable size, an often peaceful and inviting family atmosphere develops here, away from the largest tourist crowds. It is a wonderful spot for anyone wishing to swim in peace and enjoy the warm southern French sun in the late afternoon.", "category": "recreational", "coords": [5.614369, 43.181643]}, {"name": "Calanque de Figuerolles", "text": "Calanque de Figuerolles is a fascinating rocky cove and beach in Cassis.", "category": "recreational", "coords": [5.597284, 43.166952]}, {"name": "Plage Calanque du Grand Mugel", "text": "Tucked away in a protected bay of Cassis, Plage Calanque du Grand Mugel enchants visitors with its idyllic scenery. Pebbles and clear water characterize this stretch of coastline, which radiates a very local and quiet atmosphere. Bathing shoes are often recommended to enter the water comfortably and linger in a relaxed manner at this nature-centric beach.", "category": "recreational", "coords": [5.606057, 43.166241]}, {"name": "Plage du Corton", "text": "The small but fine Plage du Corton is a quiet retreat along the coast of Cassis. This subtle stretch of beach is ideal for bathers who appreciate the charm of natural bays without much hustle and bustle. Here you can perfectly disconnect from everyday life, listen to the gentle lap of the waves, and experience the Mediterranean Sea quite privately.", "category": "recreational", "coords": [5.544791, 43.210657]}, {"name": "Plage de Port Pin", "text": "In the impressive region of Cassis, Plage de Port Pin reveals itself as an incredibly scenic beach. Framed by rugged rocks and green pines, the location offers an idyllic swimming spot that attracts those seeking relaxation and nature enthusiasts alike. A visit to this bay feels like a little adventure and promises wonderful swimming joy in the clear, cool water.", "category": "recreational", "coords": [5.510675, 43.203952]}, {"name": "Plage Lumière", "text": "As an easily accessible beach in the town of Cassis, Plage Lumière provides an inviting backdrop for sun worshippers. The familiar and often lively atmosphere makes it easy to quickly feel at ease here and enjoy the vacation day. Thanks to its proximity to the city, relaxed hours on the shore can be wonderfully combined with a subsequent stroll through the streets.", "category": "recreational", "coords": [5.621205, 43.18566]}, {"name": "Plage Canine", "text": "For dog owners visiting Cassis, Plage Canine is the perfect beach to go to the water together with their four-legged friends. The relaxed and tolerant atmosphere allows both humans and pets to spend carefree time on the coast. It is a wonderful spot where dogs can play in the cool water and beautiful vacation memories can be made.", "category": "recreational", "coords": [5.615552, 43.18229]}, {"name": "Plage Calanque du Petit Mugel", "text": "Somewhat hidden on the edge of Cassis stretches the charming Plage Calanque du Petit Mugel. This slightly more intimate section of beach provides a wonderfully quiet environment, ideal for enjoyable breaks and the gentle sound of the sea. Anyone wishing to escape the hustle and bustle for a few hours will find a wonderful oasis of waterfront recreation right here.", "category": "recreational", "coords": [5.60605, 43.164987]}, {"name": "Plage Cyrnos", "text": "Plage Cyrnos is a characteristic beach in Cassis that captivates visitors with its relaxed aura. Locals often gather here, appreciating a refreshing dip in the sea. A visit in the late morning secures a good spot to calmly soak in the southern French sun.", "category": "recreational", "coords": [5.618543, 43.184221]}, {"name": "Plage de l’Arène", "text": "Situated near the imposing Cap Naia is the naturally preserved Plage de l’Arène in Cassis. The rocky coast conveys a wonderfully wild and undisturbed feeling that will surely thrill nature fans. It is best to bring a soft mat to settle down comfortably on the shore and enjoy the unobstructed view of the sea.", "category": "recreational", "coords": [5.548667, 43.208181]}, {"name": "Plage Bleue", "text": "Nestled in the stunning coastal landscape of Cassis, Plage Bleue is a picturesque beach near the Calanques National Park. Visitors appreciate the natural surroundings, which are perfect for sunbathing and relaxed walks by the sea. A trip here is especially worthwhile on sunny days.", "category": "recreational", "coords": [5.518574, 43.205159]}]},
     type: "landmark",
     parent: "FR-PAC",
     coords: [5.4633, 43.2150],
@@ -13549,361 +13465,7 @@ export const franceCities: POI[] = [
       pt: ["Saint-Tropez tem apenas cerca de 4000 habitantes permanentes.", "A cidadela foi construída entre 1602 e 1608.", "O porto oferece espaço para cerca de 730 barcos e iates.", "O filme com Brigitte Bardot foi lançado no ano de 1956.", "As praias de Pampelonne situam-se a cerca de 5 quilómetros do centro da cidade.", "O Museu da Gendarmerie recorda os famosos filmes com Louis de Funès."],
       fr: ["Saint-Tropez ne compte qu'environ 4 000 habitants permanents.", "La citadelle a été construite entre 1602 et 1608.", "Le port peut accueillir environ 730 bateaux et yachts.", "Le film avec Brigitte Bardot est sorti en 1956.", "Les plages de Pampelonne se trouvent à environ 5 kilomètres du centre-ville.", "Le musée de la Gendarmerie rend hommage aux célèbres films avec Louis de Funès."],
     },
-    "sights": {
-      "de": [
-            {
-                  "name": "Zitadelle von Saint-Tropez",
-                  "text": "Diese Festung aus dem 17. Jahrhundert bietet einen atemberaubenden Blick über die Bucht und beherbergt ein Museum.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
-                  "name": "Hafen von Saint-Tropez",
-                  "text": "Der berühmte Yachthafen ist der ideale Ort, um luxuriöse Boote zu bewundern und das lebhafte Treiben zu genießen.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        6.63911,
-                        43.27177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Dieses Kunstmuseum in einer ehemaligen Kapelle zeigt Werke bedeutender moderner Maler wie Matisse und Signac.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Kirche Notre-Dame-de-l'Assomption",
-                  "text": "Die farbenfrohe ocker- und siena-farbene Kirche ist mit ihrem markanten Glockenturm das Wahrzeichen der Stadt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "Ein charmanter Platz unter Platanen, auf dem Einheimische Boule spielen und regelmäßig Märkte stattfinden.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "Einer der berühmtesten Strände der Welt, bekannt für seine exklusiven Strandclubs und feinen Sand.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
-                  ]
-            },
-            {
-                  "name": "Kapelle Sainte-Anne",
-                  "text": "Eine schlichte Kapelle auf einem Hügel, die Ruhe bietet und einen Panoramablick auf das Meer ermöglicht.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640347,
-                        43.257488
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Saint-Tropez citadella",
-                  "text": "Ez a 17. századi erőd lenyűgöző kilátást nyújt az öbölre, és tengerészeti múzeumnak ad otthont.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
-                  "name": "Saint-Tropez kikötője",
-                  "text": "A híres jachtkikötő ideális hely a luxushajók megcsodálására és a pezsgő kikötői élet élvezetére.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        6.63911,
-                        43.27177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Egy egykori kápolnában berendezett művészeti múzeum olyan mesterek műveivel, mint Matisse és Signac.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Notre-Dame-de-l'Assomption templom",
-                  "text": "A jellegzetes okkersárga és vörös színeiről ismert templomtorony a város egyik fő ismertetőjele.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "Hangulatos tér platánfák alatt, ahol a helyiek petanque-ot játszanak és híres piacokat tartanak.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Pampelonne-strand",
-                  "text": "A világ egyik leghíresebb strandja, amely exkluzív klubjairól és finom homokjáról vált ismertté.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
-                  ]
-            },
-            {
-                  "name": "Szent Anna kápolna",
-                  "text": "Egyszerű dombtetői kápolna, amely nyugalmat és panorámás kilátást kínál a tengerre.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640347,
-                        43.257488
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Citadela din Saint-Tropez",
-                  "text": "Această fortăreață din secolul al XVII-lea oferă o vedere panoramică asupra golfului și găzduiește un muzeu.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
-                  "name": "Portul din Saint-Tropez",
-                  "text": "Faimosul port de iahturi este locul ideal pentru a admira ambarcațiuni luxoase și a simți atmosfera vibrantă.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        6.63911,
-                        43.27177
-                  ]
-            },
-            {
-                  "name": "Muzeul Annonciade",
-                  "text": "Un muzeu de artă situat într-o fostă chapelă, expunând lucrări de Matisse, Signac și alți maeștri moderni.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Biserica Notre-Dame-de-l'Assomption",
-                  "text": "Biserica barocă în culori de ocru și siena este simbolul iconic al orașului cu turnul său de clopotniță.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "O piață fermecătoare umbrită de platani, unde localnicii joacă petanque și au loc piețe săptămânale.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Plaja Pampelonne",
-                  "text": "Una dintre cele mai celebre plaje din lume, cunoscută pentru nisipul fin și cluburile sale exclusiviste.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
-                  ]
-            },
-            {
-                  "name": "Capela Sainte-Anne",
-                  "text": "O chapelă simplă situată pe o colină, oferind liniște și o priveliște superbă asupra mării.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640347,
-                        43.257488
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Citadel of Saint-Tropez",
-                  "text": "A 17th-century fortress featuring a maritime museum and stunning views of the Mediterranean gulf.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
-                  "name": "Port of Saint-Tropez",
-                  "text": "The heart of the town, famous for its luxury yachts, vibrant cafes, and painter-filled promenade.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        6.63911,
-                        43.27177
-                  ]
-            },
-            {
-                  "name": "Annonciade Museum",
-                  "text": "Housed in a former chapel, this museum displays an exceptional collection of modern art masterpieces.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Church of Notre-Dame-de-l'Assomption",
-                  "text": "The town's colorful parish church, easily recognized by its bright ochre and sienna bell tower.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "A lively central square where locals play boules under centenarian plane trees during market days.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Pampelonne Beach",
-                  "text": "A world-renowned stretch of white sand known for its glamorous beach clubs and clear waters.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
-                  ]
-            },
-            {
-                  "name": "Sainte-Anne Chapel",
-                  "text": "A quiet chapel built in 1618 on a hilltop, offering a panoramic viewpoint over the town and bay.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        6.640347,
-                        43.257488
-                  ]
-            }
-      ],
-      "fr": [
-            {
-                  "name": "Citadelle de Saint-Tropez",
-                  "text": "Cette forteresse du XVIIe siècle offre une vue imprenable sur la baie et abrite un musée maritime.",
-                  "category": "fortress",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
-                  "name": "Port de Saint-Tropez",
-                  "text": "Le célèbre port de plaisance est l'endroit idéal pour admirer des yachts luxueux et profiter de l'animation.",
-                  "category": "recreational",
-                  "coords": [
-                        6.63911,
-                        43.27177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Ce musée d'art installé dans une ancienne chapelle présente des œuvres de peintres modernes comme Matisse et Signac.",
-                  "category": "museum",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame-de-l'Assomption",
-                  "text": "Avec son clocher caractéristique, cette église aux tons ocre et sienne est l'emblème de la ville.",
-                  "category": "religious",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "Une charmante place sous les platanes où les locaux jouent à la pétanque et où se tiennent des marchés réguliers.",
-                  "category": "civic",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "L'une des plages les plus célèbres au monde, connue pour ses clubs de plage exclusifs et son sable fin.",
-                  "category": "natural",
-                  "coords": [
-                        6.648086,
-                        43.235772
-                  ]
-            },
-            {
-                  "name": "Chapelle Sainte-Anne",
-                  "text": "Une chapelle simple perchée sur une colline, offrant calme et une vue panoramique sur la mer.",
-                  "category": "religious",
-                  "coords": [
-                        6.640347,
-                        43.257488
-                  ]
-            }
-      ]
-}
+    "sights": {"de": [{"name": "Zitadelle von Saint-Tropez", "text": "Diese Festung aus dem 17. Jahrhundert bietet einen atemberaubenden Blick über die Bucht und beherbergt ein Museum.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Hafen von Saint-Tropez", "text": "Der berühmte Yachthafen ist der ideale Ort, um luxuriöse Boote zu bewundern und das lebhafte Treiben zu genießen.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Dieses Kunstmuseum in einer ehemaligen Kapelle zeigt Werke bedeutender moderner Maler wie Matisse und Signac.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Kirche Notre-Dame-de-l'Assomption", "text": "Die farbenfrohe ocker- und siena-farbene Kirche ist mit ihrem markanten Glockenturm das Wahrzeichen der Stadt.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Ein charmanter Platz unter Platanen, auf dem Einheimische Boule spielen und regelmäßig Märkte stattfinden.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Plage de Pampelonne", "text": "Nahe Saint Tropez gelegen, präsentiert die weltberühmte Plage de Pampelonne eine atemberaubende Kulisse aus feinem Sand und mediterranem Flair. Die Stimmung ist außergewöhnlich exklusiv und lebhaft und zieht ein internationales Publikum in ihre renommierten Strandclubs. Gäste erwartet ein luxuriöser Tag voller Sonnenbäder, Geselligkeit und Schwimmen in den wunderschönen Küstengewässern. Eine frühzeitige Reservierung ist sehr zu empfehlen, wenn Sie die erstklassigen Club-Annehmlichkeiten genießen möchten.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Kapelle Sainte-Anne", "text": "Eine schlichte Kapelle auf einem Hügel, die Ruhe bietet und einen Panoramablick auf das Meer ermöglicht.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage in Saint Tropez ist ein Reiseziel am Meer, ideal für einen Familientag am Mittelmeer.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Dieser Terrassenpool in Saint Tropez bietet Schwimmen mit Aussicht, geeignet für Familien.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Dieser Swimmingpool in Saint Tropez ist Teil einer Ferienanlage, die für die Familienerholung konzipiert wurde.", "category": "family", "coords": [6.621601, 43.262278]}], "hu": [{"name": "Saint-Tropez citadella", "text": "Ez a 17. századi erőd lenyűgöző kilátást nyújt az öbölre, és tengerészeti múzeumnak ad otthont.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Saint-Tropez kikötője", "text": "A híres jachtkikötő ideális hely a luxushajók megcsodálására és a pezsgő kikötői élet élvezetére.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Egy egykori kápolnában berendezett művészeti múzeum olyan mesterek műveivel, mint Matisse és Signac.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Notre-Dame-de-l'Assomption templom", "text": "A jellegzetes okkersárga és vörös színeiről ismert templomtorony a város egyik fő ismertetőjele.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Hangulatos tér platánfák alatt, ahol a helyiek petanque-ot játszanak és híres piacokat tartanak.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Pampelonne-strand", "text": "A Saint Tropez közelében található világhírű Plage de Pampelonne a finom homok és a mediterrán vonzerő lenyűgöző vásznát kínálja. A hangulat kivételesen exkluzív és vibráló, nemzetközi közönséget vonz a híres strandklubokba. A vendégek a napozás, a társasági élet és a gyönyörű part menti vizekben való úszás luxus napjára számíthatnak. Erősen ajánlott előre asztalt foglalni, ha élvezni szeretné a prémium klubszolgáltatásokat.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Szent Anna kápolna", "text": "Egyszerű dombtetői kápolna, amely nyugalmat és panorámás kilátást kínál a tengerre.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "A Saint Tropez-i Le Diamant Plage egy tengerparti helyszín, amely tökéletes egy családi naphoz a Földközi-tenger partján.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Ez a Saint Tropez-i teraszos medence kilátással egybekötött úszást kínál, családok számára is alkalmas.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Ez a Saint Tropez-i úszómedence egy üdülőhely része, amelyet családi kikapcsolódásra terveztek.", "category": "family", "coords": [6.621601, 43.262278]}], "ro": [{"name": "Citadela din Saint-Tropez", "text": "Această fortăreață din secolul al XVII-lea oferă o vedere panoramică asupra golfului și găzduiește un muzeu.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Portul din Saint-Tropez", "text": "Faimosul port de iahturi este locul ideal pentru a admira ambarcațiuni luxoase și a simți atmosfera vibrantă.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Muzeul Annonciade", "text": "Un muzeu de artă situat într-o fostă chapelă, expunând lucrări de Matisse, Signac și alți maeștri moderni.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Biserica Notre-Dame-de-l'Assomption", "text": "Biserica barocă în culori de ocru și siena este simbolul iconic al orașului cu turnul său de clopotniță.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "O piață fermecătoare umbrită de platani, unde localnicii joacă petanque și au loc piețe săptămânale.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Plaja Pampelonne", "text": "Situată lângă Saint Tropez, faimoasa Plage de Pampelonne prezintă o pânză uimitoare de nisip fin și alură mediteraneană. Atmosfera este excepțional de exclusivistă și vibrantă, atrăgând o mulțime internațională la renumitele sale cluburi de plajă. Oaspeții se pot aștepta la o zi luxoasă de plajă, socializare și înot în frumoasele ape de coastă. O rezervare din timp este foarte recomandată dacă doriți să vă bucurați de facilitățile premium ale clubului.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Capela Sainte-Anne", "text": "O chapelă simplă situată pe o colină, oferind liniște și o priveliște superbă asupra mării.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage din Saint Tropez este o destinație de pe litoral, perfectă pentru o zi în familie la Marea Mediterană.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Această piscină pe terasă din Saint Tropez oferă înot cu vedere, fiind potrivită pentru familii.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Această piscină din Saint Tropez face parte dintr-o zonă de vacanță concepută pentru recreerea în familie.", "category": "family", "coords": [6.621601, 43.262278]}], "en": [{"name": "Citadel of Saint-Tropez", "text": "A 17th-century fortress featuring a maritime museum and stunning views of the Mediterranean gulf.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Port of Saint-Tropez", "text": "The heart of the town, famous for its luxury yachts, vibrant cafes, and painter-filled promenade.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Annonciade Museum", "text": "Housed in a former chapel, this museum displays an exceptional collection of modern art masterpieces.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Church of Notre-Dame-de-l'Assomption", "text": "The town's colorful parish church, easily recognized by its bright ochre and sienna bell tower.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "A lively central square where locals play boules under centenarian plane trees during market days.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Pampelonne Beach", "text": "Situated near Saint Tropez, the world-famous Plage de Pampelonne presents a stunning canvas of fine sand and Mediterranean allure. The vibe is exceptionally exclusive and vibrant, drawing an international crowd to its renowned beach clubs. Guests can expect a luxurious day of sunbathing, socializing, and swimming in the beautiful coastal waters. Making reservations ahead of time is highly advisable if you wish to enjoy the premium club amenities.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Sainte-Anne Chapel", "text": "A quiet chapel built in 1618 on a hilltop, offering a panoramic viewpoint over the town and bay.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage in Saint Tropez is a seaside destination perfect for a family day by the Mediterranean.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "This terrace pool in Saint Tropez offers swimming with a view, suitable for families.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "This swimming pool in Saint Tropez is part of a resort area designed for family recreation.", "category": "family", "coords": [6.621601, 43.262278]}], "fr": [{"name": "Citadelle de Saint-Tropez", "text": "Cette forteresse du XVIIe siècle offre une vue imprenable sur la baie et abrite un musée maritime.", "category": "fortress", "coords": [6.64458, 43.2722]}, {"name": "Port de Saint-Tropez", "text": "Le célèbre port de plaisance est l'endroit idéal pour admirer des yachts luxueux et profiter de l'animation.", "category": "recreational", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Ce musée d'art installé dans une ancienne chapelle présente des œuvres de peintres modernes comme Matisse et Signac.", "category": "museum", "coords": [6.637123, 43.271079]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "Avec son clocher caractéristique, cette église aux tons ocre et sienne est l'emblème de la ville.", "category": "religious", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Une charmante place sous les platanes où les locaux jouent à la pétanque et où se tiennent des marchés réguliers.", "category": "civic", "coords": [6.641139, 43.27]}, {"name": "Plage de Pampelonne", "text": "Située près de Saint-Tropez, la célèbre Plage de Pampelonne offre une toile époustouflante de sable fin et d'allure méditerranéenne. L'ambiance y est exceptionnellement exclusive et vibrante, attirant une foule internationale dans ses clubs de plage renommés. Les clients peuvent s'attendre à une journée luxueuse de bronzage, de rencontres et de baignades dans les magnifiques eaux côtières. Il est fortement conseillé de réserver à l'avance si vous souhaitez profiter des installations haut de gamme des clubs.", "category": "natural", "coords": [6.648086, 43.235772]}, {"name": "Chapelle Sainte-Anne", "text": "Une chapelle simple perchée sur une colline, offrant calme et une vue panoramique sur la mer.", "category": "religious", "coords": [6.640347, 43.257488]}]}
   },
   {
     id: "fr-le-mans",
@@ -14019,6 +13581,33 @@ export const franceCities: POI[] = [
                         0.210278,
                         48.006389
                   ]
+            },
+            {
+                  "name": "Centre Aquatique Les Atlantides",
+                  "text": "Das Centre Aquatique Les Atlantides ist ein Wasserpark in Le Mans für gemeinsamen Badespaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.225798,
+                        47.988149
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur de la piscine municipale",
+                  "text": "Dieses Außenbecken des städtischen Schwimmbads befindet sich in Le Mans.",
+                  "category": "family",
+                  "coords": [
+                        0.205961,
+                        48.026151
+                  ]
+            },
+            {
+                  "name": "Papéa Parc",
+                  "text": "Der Papéa Parc ist ein Freizeitpark in Le Mans. Ein aufregendes Erlebnis für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        0.257308,
+                        48.003521
+                  ]
             }
       ],
       "hu": [
@@ -14090,6 +13679,33 @@ export const franceCities: POI[] = [
                   "coords": [
                         0.210278,
                         48.006389
+                  ]
+            },
+            {
+                  "name": "Centre Aquatique Les Atlantides",
+                  "text": "A Centre Aquatique Les Atlantides egy vízipark Le Mans-ban, közös családi fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        0.225798,
+                        47.988149
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur de la piscine municipale",
+                  "text": "A városi uszoda szabadtéri medencéje Le Mans-ban található.",
+                  "category": "family",
+                  "coords": [
+                        0.205961,
+                        48.026151
+                  ]
+            },
+            {
+                  "name": "Papéa Parc",
+                  "text": "A Papéa Parc egy vidámpark Le Mans-ban. Izgalmas élmény a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        0.257308,
+                        48.003521
                   ]
             }
       ],
@@ -14163,6 +13779,33 @@ export const franceCities: POI[] = [
                         0.210278,
                         48.006389
                   ]
+            },
+            {
+                  "name": "Centre Aquatique Les Atlantides",
+                  "text": "Centre Aquatique Les Atlantides este un parc acvatic din Le Mans pentru distracție la scăldat cu familia.",
+                  "category": "family",
+                  "coords": [
+                        0.225798,
+                        47.988149
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur de la piscine municipale",
+                  "text": "Această piscină în aer liber a piscinei municipale se află în Le Mans.",
+                  "category": "family",
+                  "coords": [
+                        0.205961,
+                        48.026151
+                  ]
+            },
+            {
+                  "name": "Papéa Parc",
+                  "text": "Papéa Parc este un parc tematic în Le Mans. O experiență interesantă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        0.257308,
+                        48.003521
+                  ]
             }
       ],
       "en": [
@@ -14234,6 +13877,33 @@ export const franceCities: POI[] = [
                   "coords": [
                         0.210278,
                         48.006389
+                  ]
+            },
+            {
+                  "name": "Centre Aquatique Les Atlantides",
+                  "text": "The Centre Aquatique Les Atlantides is a water park in Le Mans for family bathing fun.",
+                  "category": "family",
+                  "coords": [
+                        0.225798,
+                        47.988149
+                  ]
+            },
+            {
+                  "name": "Bassin extérieur de la piscine municipale",
+                  "text": "This outdoor pool of the municipal swimming pool is located in Le Mans.",
+                  "category": "family",
+                  "coords": [
+                        0.205961,
+                        48.026151
+                  ]
+            },
+            {
+                  "name": "Papéa Parc",
+                  "text": "Papéa Parc is a theme park in Le Mans. An exciting experience for families with children.",
+                  "category": "family",
+                  "coords": [
+                        0.257308,
+                        48.003521
                   ]
             }
       ],

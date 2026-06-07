@@ -711,2464 +711,7 @@ export const austriaRegions: POI[] = [
 
 export const austriaCities: POI[] = [
   {
-    id: "AT-Graz", "sights": {
-      "de": [
-            {
-                  "name": "Puchmuseum",
-                  "text": "Ein Museum in Graz, das der Geschichte der Puch-Fahrzeuge gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        15.43765,
-                        47.04397
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum Graz",
-                  "text": "Das Museum der Diözese Graz-Seckau zeigt christliche Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        15.441755,
-                        47.071698
-                  ]
-            },
-            {
-                  "name": "Landeszeughaus",
-                  "text": "Die weltweit größte historische Waffenkammer mit einer riesigen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        15.439883,
-                        47.069803
-                  ]
-            },
-            {
-                  "name": "GrazMuseum",
-                  "text": "Das Stadtmuseum von Graz präsentiert die lokale Geschichte und Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        15.436518,
-                        47.072656
-                  ]
-            },
-            {
-                  "name": "Montan- und Werksbahnmuseum Graz",
-                  "text": "Ein Museum in Graz, das sich auf Werks- und Montanbahnen spezialisiert hat.",
-                  "category": "museum",
-                  "coords": [
-                        15.437505,
-                        47.078714
-                  ]
-            },
-            {
-                  "name": "Messe-Schlößl",
-                  "text": "Ein historisches Schlösschen auf dem Gelände der Grazer Messe.",
-                  "category": "castle",
-                  "coords": [
-                        15.451066,
-                        47.059291
-                  ]
-            },
-            {
-                  "name": "Halle für Kunst Steiermark",
-                  "text": "Ein zeitgenössisches Kunstmuseum im Grazer Stadtpark.",
-                  "category": "museum",
-                  "coords": [
-                        15.44458,
-                        47.07174
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum",
-                  "text": "Ein Museum für steirische Volkskunde und regionale Traditionen.",
-                  "category": "museum",
-                  "coords": [
-                        15.439702,
-                        47.075029
-                  ]
-            },
-            {
-                  "name": "Kunsthaus",
-                  "text": "Ein architektonisch markantes Museum für moderne Kunst, auch „Friendly Alien“ genannt.",
-                  "category": "museum",
-                  "coords": [
-                        15.434015,
-                        47.071298
-                  ]
-            },
-            {
-                  "name": "Kindermuseum FRida & freD",
-                  "text": "Ein interaktives Erlebnismuseum für Kinder in Graz.",
-                  "category": "museum",
-                  "coords": [
-                        15.436239,
-                        47.063162
-                  ]
-            },
-            {
-                  "name": "Museum der Wahrnehmung",
-                  "text": "Ein Museum in Graz, das sich mit der menschlichen Wahrnehmung befasst.",
-                  "category": "museum",
-                  "coords": [
-                        15.437541,
-                        47.062613
-                  ]
-            },
-            {
-                  "name": "Mühlschlössl",
-                  "text": "Ein historisches Schloss in Graz mit barocken Elementen.",
-                  "category": "castle",
-                  "coords": [
-                        15.425893,
-                        47.074071
-                  ]
-            },
-            {
-                  "name": "Meerscheinschlössl",
-                  "text": "Ein barockes Lustschloss, das heute von der Universität Graz genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        15.447013,
-                        47.07938
-                  ]
-            },
-            {
-                  "name": "Tupay-Schlössl",
-                  "text": "Ein ehemaliges spätbarockes Adelsschloss im Grazer Stadtbezirk Leonhard.",
-                  "category": "castle",
-                  "coords": [
-                        15.445429,
-                        47.052136
-                  ]
-            },
-            {
-                  "name": "Hallerschloss",
-                  "text": "Ein geschütztes historisches Schlossgebäude in Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.464259,
-                        47.070574
-                  ]
-            },
-            {
-                  "name": "Metahof-Schlössl",
-                  "text": "Ein barockes Schlösschen inmitten einer Parkanlage in Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.421252,
-                        47.072984
-                  ]
-            },
-            {
-                  "name": "Schloss Neu-Grabenhofen",
-                  "text": "Ein Schloss am nördlichen Stadtrand von Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.437473,
-                        47.095175
-                  ]
-            },
-            {
-                  "name": "Minoritenschlössl",
-                  "text": "Ein historisches Schlossgebäude, das ehemals dem Minoritenorden gehörte.",
-                  "category": "castle",
-                  "coords": [
-                        15.446838,
-                        47.090824
-                  ]
-            },
-            {
-                  "name": "Rosenhof",
-                  "text": "Ein Grazer Schlossbau mit langer Geschichte.",
-                  "category": "castle",
-                  "coords": [
-                        15.441602,
-                        47.089802
-                  ]
-            },
-            {
-                  "name": "Hubertus-Schlössl",
-                  "text": "Ein kleines Jagdschloss im Grazer Stadtbezirk Eggenberg.",
-                  "category": "castle",
-                  "coords": [
-                        15.447529,
-                        47.088756
-                  ]
-            },
-            {
-                  "name": "Mausoleum Prokesch-Osten",
-                  "text": "Ein bedeutendes Grabdenkmal auf dem Friedhof St. Leonhard.",
-                  "category": "historical",
-                  "coords": [
-                        15.46747,
-                        47.077377
-                  ]
-            },
-            {
-                  "name": "Burgtor",
-                  "text": "Eines der erhaltenen historischen Stadttore von Graz.",
-                  "category": "fortress",
-                  "coords": [
-                        15.443051,
-                        47.072161
-                  ]
-            },
-            {
-                  "name": "Oper",
-                  "text": "Das zweitgrößte Opernhaus Österreichs mit beeindruckender Architektur.",
-                  "category": "cultural",
-                  "coords": [
-                        15.445683,
-                        47.069004
-                  ]
-            },
-            {
-                  "name": "Schauspielhaus",
-                  "text": "Ein bedeutendes Theatergebäude für Schauspielkunst in Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.441641,
-                        47.072705
-                  ]
-            },
-            {
-                  "name": "Orpheum",
-                  "text": "Ein traditionsreiches Veranstaltungszentrum für Konzerte und Kleinkunst.",
-                  "category": "cultural",
-                  "coords": [
-                        15.429949,
-                        47.072328
-                  ]
-            },
-            {
-                  "name": "Kasematten",
-                  "text": "Eine Freilichtbühne in den historischen Gemäuern auf dem Schloßberg.",
-                  "category": "cultural",
-                  "coords": [
-                        15.43741,
-                        47.076321
-                  ]
-            },
-            {
-                  "name": "Stefaniensaal",
-                  "text": "Ein prunkvoller Konzertsaal im Herzen von Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.437803,
-                        47.069801
-                  ]
-            },
-            {
-                  "name": "Helmut-List-Halle",
-                  "text": "Eine multifunktionale Veranstaltungshalle für Kunst und Kultur.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411948,
-                        47.079682
-                  ]
-            },
-            {
-                  "name": "Forum Stadtpark",
-                  "text": "Ein Zentrum für zeitgenössische Kunst und Kultur im Stadtpark.",
-                  "category": "cultural",
-                  "coords": [
-                        15.443571,
-                        47.074651
-                  ]
-            },
-            {
-                  "name": "Tennenmälzerei",
-                  "text": "Ein historisches Industriegebäude, das heute kulturell genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411465,
-                        47.064232
-                  ]
-            },
-            {
-                  "name": "Altkatholische Christophoruskirche",
-                  "text": "Die Kirche der altkatholischen Kirchengemeinde in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.430862,
-                        47.069594
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Ein religiöser Komplex mit Kreuzwegstationen und Kapellen.",
-                  "category": "religious",
-                  "coords": [
-                        15.417565,
-                        47.093152
-                  ]
-            },
-            {
-                  "name": "Leechkirche",
-                  "text": "Eine der ältesten Kirchen von Graz mit gotischen Elementen.",
-                  "category": "religious",
-                  "coords": [
-                        15.446743,
-                        47.075571
-                  ]
-            },
-            {
-                  "name": "Stadtpfarrkirche zum Heiligen Blut",
-                  "text": "Die barocke Hauptpfarrkirche von Graz mit bedeutenden Kunstwerken.",
-                  "category": "religious",
-                  "coords": [
-                        15.441151,
-                        47.069413
-                  ]
-            },
-            {
-                  "name": "Sankt-Josef-Kirche",
-                  "text": "Eine neugotische Kirche im Grazer Stadtbezirk Jakomini.",
-                  "category": "religious",
-                  "coords": [
-                        15.441031,
-                        47.058849
-                  ]
-            },
-            {
-                  "name": "Synagoge",
-                  "text": "Das religiöse Zentrum der jüdischen Gemeinde in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433563,
-                        47.064138
-                  ]
-            },
-            {
-                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
-                  "text": "Ein modernes katholisches Kirchengebäude im Westen von Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.465785,
-                        47.082636
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Eine imposante neugotische Kirche mit dem höchsten Kirchturm von Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.455737,
-                        47.069626
-                  ]
-            },
-            {
-                  "name": "Sankt Johannes",
-                  "text": "Eine moderne katholische Pfarre im Grazer Stadtteil Straßgang.",
-                  "category": "religious",
-                  "coords": [
-                        15.427986,
-                        47.049339
-                  ]
-            },
-            {
-                  "name": "Münzgrabenkirche",
-                  "text": "Eine markante Kirche in Graz, die nach dem Zweiten Weltkrieg wiederaufgebaut wurde.",
-                  "category": "religious",
-                  "coords": [
-                        15.4523,
-                        47.061317
-                  ]
-            },
-            {
-                  "name": "Kirche Hl. Kyrill und Method",
-                  "text": "Die serbisch-orthodoxe Kirche in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.427313,
-                        47.045289
-                  ]
-            },
-            {
-                  "name": "Barmherzigenkirche Maria Verkündigung",
-                  "text": "Eine barocke Klosterkirche der Barmherzigen Brüder.",
-                  "category": "religious",
-                  "coords": [
-                        15.432035,
-                        47.071442
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Leonhard",
-                  "text": "Eine gotische Hallenkirche mit einem bedeutenden Friedhof.",
-                  "category": "religious",
-                  "coords": [
-                        15.465103,
-                        47.078581
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "Ein Kloster und eine Kirche des Franziskanerordens in der Grazer Altstadt.",
-                  "category": "religious",
-                  "coords": [
-                        15.436444,
-                        47.070693
-                  ]
-            },
-            {
-                  "name": "Stiegenkirche",
-                  "text": "Eine historische Treppenkirche in der Grazer Innenstadt.",
-                  "category": "religious",
-                  "coords": [
-                        15.438745,
-                        47.072602
-                  ]
-            },
-            {
-                  "name": "Mariahilfer Kirche",
-                  "text": "Eine bedeutende barocke Wallfahrtskirche in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433031,
-                        47.072797
-                  ]
-            },
-            {
-                  "name": "Sankt Vinzenz",
-                  "text": "Eine römisch-katholische Pfarrkirche im Grazer Bezirk Eggenberg.",
-                  "category": "religious",
-                  "coords": [
-                        15.405101,
-                        47.074555
-                  ]
-            },
-            {
-                  "name": "Christus der Auferstandene",
-                  "text": "Eine moderne römisch-katholische Kirche im Grazer Bezirk Straßgang.",
-                  "category": "religious",
-                  "coords": [
-                        15.450884,
-                        47.046613
-                  ]
-            },
-            {
-                  "name": "Grabenkirche",
-                  "text": "Eine historische Kirche in der Nähe des Stadtparks, bekannt für ihren barocken Altar.",
-                  "category": "religious",
-                  "coords": [
-                        15.439751,
-                        47.081475
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Andrä",
-                  "text": "Eine markante Kirche im Grazer Bezirk Gries, bekannt für ihre Integration moderner Kunst.",
-                  "category": "religious",
-                  "coords": [
-                        15.429007,
-                        47.069603
-                  ]
-            },
-            {
-                  "name": "Kirche Sankt Ulrichsbrunn",
-                  "text": "Eine idyllisch gelegene Wallfahrtskirche mit einer heiligen Quelle im Norden von Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.429072,
-                        47.096565
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Don Bosco",
-                  "text": "Eine moderne römisch-katholische Pfarrkirche im Grazer Bezirk Lend.",
-                  "category": "religious",
-                  "coords": [
-                        15.416474,
-                        47.056462
-                  ]
-            },
-            {
-                  "name": "Thalersee",
-                  "text": "Der Thalersee in Graz ist ein beliebtes Ziel für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        15.366565,
-                        47.07003
-                  ]
-            },
-            {
-                  "name": "Wagner-Jauregg-Bad",
-                  "text": "Das Wagner-Jauregg-Bad in Graz bietet eine ruhige Umgebung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        15.426908,
-                        47.037179
-                  ]
-            },
-            {
-                  "name": "Bespielbarer Bach",
-                  "text": "Dieser Spielbereich in Graz ermöglicht Kindern das naturnahe Spielen am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        15.458488,
-                        47.0735
-                  ]
-            },
-            {
-                  "name": "Sandkiste",
-                  "text": "Ein kleiner Spielplatz mit Sandkiste in Graz für die jüngsten Besucher.",
-                  "category": "family",
-                  "coords": [
-                        15.46606,
-                        47.060773
-                  ]
-            },
-            {
-                  "name": "Grete-Schurz-Platz",
-                  "text": "Der Spielplatz am Grete-Schurz-Platz in Graz bietet Abwechslung im städtischen Umfeld.",
-                  "category": "family",
-                  "coords": [
-                        15.407622,
-                        47.059263
-                  ]
-            },
-            {
-                  "name": "Dr.-Hans-Spitzy-Platzl",
-                  "text": "Ein zentral gelegener Kinderspielplatz in Graz für eine kurze Spielpause.",
-                  "category": "family",
-                  "coords": [
-                        15.43014,
-                        47.051783
-                  ]
-            },
-            {
-                  "name": "Junges Europa",
-                  "text": "Dieser moderne Spielplatz in Graz bietet verschiedene Kletter- und Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        15.403698,
-                        47.071577
-                  ]
-            },
-            {
-                  "name": "Minigolf Milkowski",
-                  "text": "Die Minigolfanlage in Graz ist ein unterhaltsames Ziel für einen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        15.454618,
-                        47.082524
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Afritschgarten",
-                  "text": "Dieser Abenteuerspielplatz in Graz bietet Kindern viele Möglichkeiten zum Entdecken.",
-                  "category": "family",
-                  "coords": [
-                        15.426263,
-                        47.077055
-                  ]
-            },
-            {
-                  "name": "Theodor-Körner Spielplatz",
-                  "text": "Ein schattiger Spielplatz in Graz, ideal für Familien mit kleinen Kindern.",
-                  "category": "family",
-                  "coords": [
-                        15.425459,
-                        47.09266
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Marienwiese",
-                  "text": "Der Kinderspielplatz Marienwiese in Graz liegt in einer grünen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        15.422457,
-                        47.078286
-                  ]
-            },
-            {
-                  "name": "Konsumwiese",
-                  "text": "Ein beliebter Treffpunkt für Familien mit Kindern im Grazer Stadtgebiet.",
-                  "category": "family",
-                  "coords": [
-                        15.411434,
-                        47.078262
-                  ]
-            },
-            {
-                  "name": "Volksschule Leopoldinum",
-                  "text": "Dieser Spielplatz in Graz bietet nachmittags Raum für Bewegung und Spiel.",
-                  "category": "family",
-                  "coords": [
-                        15.410443,
-                        47.078925
-                  ]
-            },
-            {
-                  "name": "Motorikpark St. Peter",
-                  "text": "Der Motorikpark in Graz fördert spielerisch die Geschicklichkeit von Kindern.",
-                  "category": "family",
-                  "coords": [
-                        15.464363,
-                        47.053596
-                  ]
-            },
-            {
-                  "name": "Calisthenics",
-                  "text": "Ein Spielplatz in Graz mit Geräten zur sportlichen Betätigung für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        15.447337,
-                        47.064277
-                  ]
-            },
-            {
-                  "name": "Spielzeile Reininghaus",
-                  "text": "Diese Spielzeile in Graz bietet moderne Spielgeräte in ansprechendem Design.",
-                  "category": "family",
-                  "coords": [
-                        15.410397,
-                        47.061903
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Puchmuseum",
-                  "text": "A Puch-járművek történetének szentelt múzeum Grazban.",
-                  "category": "museum",
-                  "coords": [
-                        15.43765,
-                        47.04397
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum Graz",
-                  "text": "A Graz-Seckau-i egyházmegye múzeuma keresztény művészeti alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        15.441755,
-                        47.071698
-                  ]
-            },
-            {
-                  "name": "Landeszeughaus",
-                  "text": "A világ legnagyobb történelmi fegyvertára hatalmas gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        15.439883,
-                        47.069803
-                  ]
-            },
-            {
-                  "name": "GrazMuseum",
-                  "text": "Graz városi múzeuma a helyi történelmet és kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.436518,
-                        47.072656
-                  ]
-            },
-            {
-                  "name": "Montan- und Werksbahnmuseum Graz",
-                  "text": "Ipari és bányavasutakra szakosodott múzeum Grazban.",
-                  "category": "museum",
-                  "coords": [
-                        15.437505,
-                        47.078714
-                  ]
-            },
-            {
-                  "name": "Messe-Schlößl",
-                  "text": "Történelmi kiskastély a grazi vásár területén.",
-                  "category": "castle",
-                  "coords": [
-                        15.451066,
-                        47.059291
-                  ]
-            },
-            {
-                  "name": "Halle für Kunst Steiermark",
-                  "text": "Kortárs művészeti múzeum a grazi Városligetben.",
-                  "category": "museum",
-                  "coords": [
-                        15.44458,
-                        47.07174
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum",
-                  "text": "Stájer néprajzi és regionális hagyományokat bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        15.439702,
-                        47.075029
-                  ]
-            },
-            {
-                  "name": "Kunsthaus Graz",
-                  "text": "Építészetileg meghatározó modern művészeti múzeum, más néven „Friendly Alien”.",
-                  "category": "museum",
-                  "coords": [
-                        15.434015,
-                        47.071298
-                  ]
-            },
-            {
-                  "name": "Kindermuseum FRida & freD",
-                  "text": "Interaktív élménymúzeum gyermekek számára Grazban.",
-                  "category": "museum",
-                  "coords": [
-                        15.436239,
-                        47.063162
-                  ]
-            },
-            {
-                  "name": "Museum der Wahrnehmung",
-                  "text": "Az emberi érzékeléssel foglalkozó múzeum Grazban.",
-                  "category": "museum",
-                  "coords": [
-                        15.437541,
-                        47.062613
-                  ]
-            },
-            {
-                  "name": "Mühlschlössl",
-                  "text": "Történelmi kastély Grazban barokk elemekkel.",
-                  "category": "castle",
-                  "coords": [
-                        15.425893,
-                        47.074071
-                  ]
-            },
-            {
-                  "name": "Meerscheinschlössl",
-                  "text": "Barokk kastély, amelyet ma a Grazi Egyetem használ.",
-                  "category": "castle",
-                  "coords": [
-                        15.447013,
-                        47.07938
-                  ]
-            },
-            {
-                  "name": "Tupay-Schlössl",
-                  "text": "Egykori késő barokk nemesi kastély Graz Leonhard negyedében.",
-                  "category": "castle",
-                  "coords": [
-                        15.445429,
-                        47.052136
-                  ]
-            },
-            {
-                  "name": "Hallerschloss",
-                  "text": "Védett történelmi kastélyépület Grazban.",
-                  "category": "castle",
-                  "coords": [
-                        15.464259,
-                        47.070574
-                  ]
-            },
-            {
-                  "name": "Metahof-Schlössl",
-                  "text": "Barokk kiskastély egy grazi park közepén.",
-                  "category": "castle",
-                  "coords": [
-                        15.421252,
-                        47.072984
-                  ]
-            },
-            {
-                  "name": "Schloss Neu-Grabenhofen",
-                  "text": "Kastély Graz északi peremén.",
-                  "category": "castle",
-                  "coords": [
-                        15.437473,
-                        47.095175
-                  ]
-            },
-            {
-                  "name": "Minoritenschlössl",
-                  "text": "Történelmi kastélyépület, amely egykor a minorita rendé volt.",
-                  "category": "castle",
-                  "coords": [
-                        15.446838,
-                        47.090824
-                  ]
-            },
-            {
-                  "name": "Rosenhof",
-                  "text": "Hosszú múltra visszatekintő grazi kastélyépület.",
-                  "category": "castle",
-                  "coords": [
-                        15.441602,
-                        47.089802
-                  ]
-            },
-            {
-                  "name": "Hubertus-Schlössl",
-                  "text": "Kisméretű vadászkastély Graz Eggenberg negyedében.",
-                  "category": "castle",
-                  "coords": [
-                        15.447529,
-                        47.088756
-                  ]
-            },
-            {
-                  "name": "Mausoleum Prokesch-Osten",
-                  "text": "Jelentős síremlék a Szent Leonárd-temetőben.",
-                  "category": "historical",
-                  "coords": [
-                        15.46747,
-                        47.077377
-                  ]
-            },
-            {
-                  "name": "Burgtor",
-                  "text": "Graz egyik fennmaradt történelmi városkapuja.",
-                  "category": "fortress",
-                  "coords": [
-                        15.443051,
-                        47.072161
-                  ]
-            },
-            {
-                  "name": "Oper",
-                  "text": "Ausztria második legnagyobb operaháza lenyűgöző építészettel.",
-                  "category": "cultural",
-                  "coords": [
-                        15.445683,
-                        47.069004
-                  ]
-            },
-            {
-                  "name": "Schauspielhaus",
-                  "text": "Graz jelentős színházépülete a drámai művészetek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        15.441641,
-                        47.072705
-                  ]
-            },
-            {
-                  "name": "Orpheum",
-                  "text": "Nagy múltú rendezvényközpont koncertek és kabarék számára.",
-                  "category": "cultural",
-                  "coords": [
-                        15.429949,
-                        47.072328
-                  ]
-            },
-            {
-                  "name": "Kasematten",
-                  "text": "Szabadtéri színpad a várhegyi történelmi falak között.",
-                  "category": "cultural",
-                  "coords": [
-                        15.43741,
-                        47.076321
-                  ]
-            },
-            {
-                  "name": "Stefaniensaal",
-                  "text": "Pompás hangversenyterem Graz szívében.",
-                  "category": "cultural",
-                  "coords": [
-                        15.437803,
-                        47.069801
-                  ]
-            },
-            {
-                  "name": "Helmut-List-Halle",
-                  "text": "Többfunkciós rendezvénycsarnok művészeti és kulturális eseményekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411948,
-                        47.079682
-                  ]
-            },
-            {
-                  "name": "Forum Stadtpark",
-                  "text": "Kortárs művészeti és kulturális központ a Városligetben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.443571,
-                        47.074651
-                  ]
-            },
-            {
-                  "name": "Tennenmälzerei",
-                  "text": "Történelmi ipari épület, amelyet ma kulturális célokra használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411465,
-                        47.064232
-                  ]
-            },
-            {
-                  "name": "Altkatholische Christophoruskirche",
-                  "text": "Az ókatolikus egyházközség temploma Grazban.",
-                  "category": "religious",
-                  "coords": [
-                        15.430862,
-                        47.069594
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Vallási épületegyüttes keresztúti állomásokkal és kápolnákkal.",
-                  "category": "religious",
-                  "coords": [
-                        15.417565,
-                        47.093152
-                  ]
-            },
-            {
-                  "name": "Leechkirche",
-                  "text": "Graz egyik legrégebbi temploma gótikus elemekkel.",
-                  "category": "religious",
-                  "coords": [
-                        15.446743,
-                        47.075571
-                  ]
-            },
-            {
-                  "name": "Stadtpfarrkirche zum Heiligen Blut",
-                  "text": "Graz barokk főplébániatemploma jelentős műalkotásokkal.",
-                  "category": "religious",
-                  "coords": [
-                        15.441151,
-                        47.069413
-                  ]
-            },
-            {
-                  "name": "Sankt-Josef-Kirche",
-                  "text": "Neogótikus templom Graz Jakomini negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        15.441031,
-                        47.058849
-                  ]
-            },
-            {
-                  "name": "Synagoge",
-                  "text": "A grazi zsidó hitközség vallási központja.",
-                  "category": "religious",
-                  "coords": [
-                        15.433563,
-                        47.064138
-                  ]
-            },
-            {
-                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
-                  "text": "Modern katolikus templomépület Graz nyugati részén.",
-                  "category": "religious",
-                  "coords": [
-                        15.465785,
-                        47.082636
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Impozáns neogótikus templom Graz legmagasabb tornyával.",
-                  "category": "religious",
-                  "coords": [
-                        15.455737,
-                        47.069626
-                  ]
-            },
-            {
-                  "name": "Sankt Johannes",
-                  "text": "Modern katolikus plébánia Graz Straßgang negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        15.427986,
-                        47.049339
-                  ]
-            },
-            {
-                  "name": "Münzgrabenkirche",
-                  "text": "Jellegzetes grazi templom, amelyet a második világháború után építettek újjá.",
-                  "category": "religious",
-                  "coords": [
-                        15.4523,
-                        47.061317
-                  ]
-            },
-            {
-                  "name": "Kirche Hl. Kyrill und Method",
-                  "text": "A szerb ortodox templom Grazban.",
-                  "category": "religious",
-                  "coords": [
-                        15.427313,
-                        47.045289
-                  ]
-            },
-            {
-                  "name": "Barmherzigenkirche Maria Verkündigung",
-                  "text": "Az Irgalmas Rend barokk kolostortemploma.",
-                  "category": "religious",
-                  "coords": [
-                        15.432035,
-                        47.071442
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Leonhard",
-                  "text": "Gótikus csarnoktemplom jelentős temetővel.",
-                  "category": "religious",
-                  "coords": [
-                        15.465103,
-                        47.078581
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "A ferences rend kolostora és temploma Graz óvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        15.436444,
-                        47.070693
-                  ]
-            },
-            {
-                  "name": "Stiegenkirche",
-                  "text": "Történelmi lépcsős templom Graz belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        15.438745,
-                        47.072602
-                  ]
-            },
-            {
-                  "name": "Mariahilfer Kirche",
-                  "text": "Jelentős barokk zarándoktemplom Grazban.",
-                  "category": "religious",
-                  "coords": [
-                        15.433031,
-                        47.072797
-                  ]
-            },
-            {
-                  "name": "Sankt Vinzenz",
-                  "text": "Római katolikus plébániatemplom Graz Eggenberg negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        15.405101,
-                        47.074555
-                  ]
-            },
-            {
-                  "name": "Christus der Auferstandene",
-                  "text": "Modern római katolikus templom Graz Straßgang negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        15.450884,
-                        47.046613
-                  ]
-            },
-            {
-                  "name": "Grabenkirche",
-                  "text": "Történelmi templom a városi park közelében, barokk oltáráról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        15.439751,
-                        47.081475
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Andrä",
-                  "text": "Graz Gries negyedének jellegzetes temploma, amely a modern művészet integrációjáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        15.429007,
-                        47.069603
-                  ]
-            },
-            {
-                  "name": "Kirche Sankt Ulrichsbrunn",
-                  "text": "Idilli fekvésű zarándoktemplom szent forrással Graz északi részén.",
-                  "category": "religious",
-                  "coords": [
-                        15.429072,
-                        47.096565
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Don Bosco",
-                  "text": "Modern római katolikus plébániatemplom Graz Lend negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        15.416474,
-                        47.056462
-                  ]
-            },
-            {
-                  "name": "Thalersee",
-                  "text": "A grazi Thalersee népszerű úti cél sétákhoz és természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        15.366565,
-                        47.07003
-                  ]
-            },
-            {
-                  "name": "Wagner-Jauregg-Bad",
-                  "text": "A grazi Wagner-Jauregg-Bad nyugodt környezetet biztosít a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        15.426908,
-                        47.037179
-                  ]
-            },
-            {
-                  "name": "Bespielbarer Bach",
-                  "text": "Ez a grazi játszóterület lehetővé teszi a gyerekeknek a természethez közeli játékot a víznél.",
-                  "category": "family",
-                  "coords": [
-                        15.458488,
-                        47.0735
-                  ]
-            },
-            {
-                  "name": "Sandkiste",
-                  "text": "Egy kis játszótér homokozóval Grazban a legkisebb látogatók számára.",
-                  "category": "family",
-                  "coords": [
-                        15.46606,
-                        47.060773
-                  ]
-            },
-            {
-                  "name": "Grete-Schurz-Platz",
-                  "text": "A grazi Grete-Schurz-Platz játszótere kikapcsolódást nyújt a városi környezetben.",
-                  "category": "family",
-                  "coords": [
-                        15.407622,
-                        47.059263
-                  ]
-            },
-            {
-                  "name": "Dr.-Hans-Spitzy-Platzl",
-                  "text": "Egy központi fekvésű játszótér Grazban egy rövid játékos szünethez.",
-                  "category": "family",
-                  "coords": [
-                        15.43014,
-                        47.051783
-                  ]
-            },
-            {
-                  "name": "Junges Europa",
-                  "text": "Ez a modern grazi játszótér különféle mászó- és játéklehetőségeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        15.403698,
-                        47.071577
-                  ]
-            },
-            {
-                  "name": "Minigolf Milkowski",
-                  "text": "A grazi minigolfpálya szórakoztató úti cél egy családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        15.454618,
-                        47.082524
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Afritschgarten",
-                  "text": "Ez a grazi kalandjátszótér számos felfedezési lehetőséget kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        15.426263,
-                        47.077055
-                  ]
-            },
-            {
-                  "name": "Theodor-Körner Spielplatz",
-                  "text": "Egy árnyas játszótér Grazban, amely ideális kisgyermekes családoknak.",
-                  "category": "family",
-                  "coords": [
-                        15.425459,
-                        47.09266
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Marienwiese",
-                  "text": "A grazi Marienwiese játszótér zöld környezetben található.",
-                  "category": "family",
-                  "coords": [
-                        15.422457,
-                        47.078286
-                  ]
-            },
-            {
-                  "name": "Konsumwiese",
-                  "text": "Népszerű találkozóhely gyermekes családok számára Graz városában.",
-                  "category": "family",
-                  "coords": [
-                        15.411434,
-                        47.078262
-                  ]
-            },
-            {
-                  "name": "Volksschule Leopoldinum",
-                  "text": "Ez a grazi játszótér délutánonként teret biztosít a mozgáshoz és a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        15.410443,
-                        47.078925
-                  ]
-            },
-            {
-                  "name": "Motorikpark St. Peter",
-                  "text": "A grazi motorikus park játékos formában fejleszti a gyerekek ügyességét.",
-                  "category": "family",
-                  "coords": [
-                        15.464363,
-                        47.053596
-                  ]
-            },
-            {
-                  "name": "Calisthenics",
-                  "text": "Egy grazi játszótér sporteszközökkel az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        15.447337,
-                        47.064277
-                  ]
-            },
-            {
-                  "name": "Spielzeile Reininghaus",
-                  "text": "Ez a grazi játszósáv modern játékokat kínál vonzó kivitelben.",
-                  "category": "family",
-                  "coords": [
-                        15.410397,
-                        47.061903
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Puchmuseum",
-                  "text": "Un muzeu din Graz dedicat istoriei vehiculelor Puch.",
-                  "category": "museum",
-                  "coords": [
-                        15.43765,
-                        47.04397
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum Graz",
-                  "text": "Muzeul Diecezei Graz-Seckau expune artă creștină.",
-                  "category": "museum",
-                  "coords": [
-                        15.441755,
-                        47.071698
-                  ]
-            },
-            {
-                  "name": "Landeszeughaus",
-                  "text": "Cea mai mare armurărie istorică din lume, cu o colecție vastă.",
-                  "category": "museum",
-                  "coords": [
-                        15.439883,
-                        47.069803
-                  ]
-            },
-            {
-                  "name": "GrazMuseum",
-                  "text": "Muzeul orașului Graz prezintă istoria și cultura locală.",
-                  "category": "museum",
-                  "coords": [
-                        15.436518,
-                        47.072656
-                  ]
-            },
-            {
-                  "name": "Montan- und Werksbahnmuseum Graz",
-                  "text": "Un muzeu din Graz specializat în căi ferate industriale și miniere.",
-                  "category": "museum",
-                  "coords": [
-                        15.437505,
-                        47.078714
-                  ]
-            },
-            {
-                  "name": "Messe-Schlößl",
-                  "text": "Un mic castel istoric situat în incinta târgului din Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.451066,
-                        47.059291
-                  ]
-            },
-            {
-                  "name": "Halle für Kunst Steiermark",
-                  "text": "Un muzeu de artă contemporană în parcul orașului Graz.",
-                  "category": "museum",
-                  "coords": [
-                        15.44458,
-                        47.07174
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum",
-                  "text": "Un muzeu de etnografie stiriană și tradiții regionale.",
-                  "category": "museum",
-                  "coords": [
-                        15.439702,
-                        47.075029
-                  ]
-            },
-            {
-                  "name": "Kunsthaus Graz",
-                  "text": "Un muzeu de artă modernă cu o arhitectură distinctă, supranumit „Friendly Alien”.",
-                  "category": "museum",
-                  "coords": [
-                        15.434015,
-                        47.071298
-                  ]
-            },
-            {
-                  "name": "Kindermuseum FRida & freD",
-                  "text": "Un muzeu interactiv și experimental pentru copii în Graz.",
-                  "category": "museum",
-                  "coords": [
-                        15.436239,
-                        47.063162
-                  ]
-            },
-            {
-                  "name": "Museum der Wahrnehmung",
-                  "text": "Un muzeu din Graz care explorează percepția umană.",
-                  "category": "museum",
-                  "coords": [
-                        15.437541,
-                        47.062613
-                  ]
-            },
-            {
-                  "name": "Mühlschlössl",
-                  "text": "Un castel istoric din Graz cu elemente baroce.",
-                  "category": "castle",
-                  "coords": [
-                        15.425893,
-                        47.074071
-                  ]
-            },
-            {
-                  "name": "Meerscheinschlössl",
-                  "text": "Un castel baroc utilizat astăzi de Universitatea din Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.447013,
-                        47.07938
-                  ]
-            },
-            {
-                  "name": "Tupay-Schlössl",
-                  "text": "Un fost castel nobiliar în stil baroc târziu din districtul Leonhard din Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.445429,
-                        47.052136
-                  ]
-            },
-            {
-                  "name": "Hallerschloss",
-                  "text": "O clădire de castel istoric protejată în Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.464259,
-                        47.070574
-                  ]
-            },
-            {
-                  "name": "Metahof-Schlössl",
-                  "text": "Un mic castel baroc în mijlocul unui parc din Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.421252,
-                        47.072984
-                  ]
-            },
-            {
-                  "name": "Schloss Neu-Grabenhofen",
-                  "text": "Un castel situat la periferia nordică a orașului Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.437473,
-                        47.095175
-                  ]
-            },
-            {
-                  "name": "Minoritenschlössl",
-                  "text": "O clădire istorică de castel care a aparținut ordinului minorit.",
-                  "category": "castle",
-                  "coords": [
-                        15.446838,
-                        47.090824
-                  ]
-            },
-            {
-                  "name": "Rosenhof",
-                  "text": "O construcție de castel din Graz cu o istorie îndelungată.",
-                  "category": "castle",
-                  "coords": [
-                        15.441602,
-                        47.089802
-                  ]
-            },
-            {
-                  "name": "Hubertus-Schlössl",
-                  "text": "Un mic castel de vânătoare în districtul Eggenberg din Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.447529,
-                        47.088756
-                  ]
-            },
-            {
-                  "name": "Mausoleum Prokesch-Osten",
-                  "text": "Un monument funerar important în cimitirul Sf. Leonhard.",
-                  "category": "historical",
-                  "coords": [
-                        15.46747,
-                        47.077377
-                  ]
-            },
-            {
-                  "name": "Burgtor",
-                  "text": "Una dintre porțile istorice păstrate ale orașului Graz.",
-                  "category": "fortress",
-                  "coords": [
-                        15.443051,
-                        47.072161
-                  ]
-            },
-            {
-                  "name": "Oper",
-                  "text": "A doua cea mai mare operă din Austria, cu o arhitectură impresionantă.",
-                  "category": "cultural",
-                  "coords": [
-                        15.445683,
-                        47.069004
-                  ]
-            },
-            {
-                  "name": "Schauspielhaus",
-                  "text": "O clădire teatrală importantă pentru arta dramatică din Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.441641,
-                        47.072705
-                  ]
-            },
-            {
-                  "name": "Orpheum",
-                  "text": "Un centru de evenimente cu tradiție pentru concerte și spectacole mici.",
-                  "category": "cultural",
-                  "coords": [
-                        15.429949,
-                        47.072328
-                  ]
-            },
-            {
-                  "name": "Kasematten",
-                  "text": "O scenă în aer liber în zidurile istorice de pe Schloßberg.",
-                  "category": "cultural",
-                  "coords": [
-                        15.43741,
-                        47.076321
-                  ]
-            },
-            {
-                  "name": "Stefaniensaal",
-                  "text": "O sală de concerte somptuoasă în inima orașului Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.437803,
-                        47.069801
-                  ]
-            },
-            {
-                  "name": "Helmut-List-Halle",
-                  "text": "O sală de evenimente multifuncțională pentru artă și cultură.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411948,
-                        47.079682
-                  ]
-            },
-            {
-                  "name": "Forum Stadtpark",
-                  "text": "Un centru pentru artă și cultură contemporană în parcul orașului.",
-                  "category": "cultural",
-                  "coords": [
-                        15.443571,
-                        47.074651
-                  ]
-            },
-            {
-                  "name": "Tennenmälzerei",
-                  "text": "O clădire industrială istorică, utilizată astăzi în scopuri culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411465,
-                        47.064232
-                  ]
-            },
-            {
-                  "name": "Altkatholische Christophoruskirche",
-                  "text": "Biserica comunității vechi-catolice din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.430862,
-                        47.069594
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Un complex religios cu stații ale Căii Crucii și capele.",
-                  "category": "religious",
-                  "coords": [
-                        15.417565,
-                        47.093152
-                  ]
-            },
-            {
-                  "name": "Leechkirche",
-                  "text": "Una dintre cele mai vechi biserici din Graz, cu elemente gotice.",
-                  "category": "religious",
-                  "coords": [
-                        15.446743,
-                        47.075571
-                  ]
-            },
-            {
-                  "name": "Stadtpfarrkirche zum Heiligen Blut",
-                  "text": "Biserica parohială principală în stil baroc din Graz, cu opere de artă importante.",
-                  "category": "religious",
-                  "coords": [
-                        15.441151,
-                        47.069413
-                  ]
-            },
-            {
-                  "name": "Sankt-Josef-Kirche",
-                  "text": "O biserică neogotică în districtul Jakomini din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.441031,
-                        47.058849
-                  ]
-            },
-            {
-                  "name": "Synagoge",
-                  "text": "Centrul religios al comunității evreiești din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433563,
-                        47.064138
-                  ]
-            },
-            {
-                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
-                  "text": "O clădire modernă de biserică catolică în vestul orașului Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.465785,
-                        47.082636
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "O biserică neogotică impunătoare cu cel mai înalt turn din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.455737,
-                        47.069626
-                  ]
-            },
-            {
-                  "name": "Sankt Johannes",
-                  "text": "O parohie catolică modernă în cartierul Straßgang din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.427986,
-                        47.049339
-                  ]
-            },
-            {
-                  "name": "Münzgrabenkirche",
-                  "text": "O biserică distinctivă din Graz, reconstruită după al Doilea Război Mondial.",
-                  "category": "religious",
-                  "coords": [
-                        15.4523,
-                        47.061317
-                  ]
-            },
-            {
-                  "name": "Kirche Hl. Kyrill und Method",
-                  "text": "Biserica ortodoxă sârbă din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.427313,
-                        47.045289
-                  ]
-            },
-            {
-                  "name": "Barmherzigenkirche Maria Verkündigung",
-                  "text": "O biserică mănăstirească barocă a Ordinului Ospitalier.",
-                  "category": "religious",
-                  "coords": [
-                        15.432035,
-                        47.071442
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Leonhard",
-                  "text": "O biserică hală gotică cu un cimitir important.",
-                  "category": "religious",
-                  "coords": [
-                        15.465103,
-                        47.078581
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "O mănăstire și o biserică a ordinului franciscan în centrul vechi din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.436444,
-                        47.070693
-                  ]
-            },
-            {
-                  "name": "Stiegenkirche",
-                  "text": "O biserică istorică cu scări în centrul orașului Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.438745,
-                        47.072602
-                  ]
-            },
-            {
-                  "name": "Mariahilfer Kirche",
-                  "text": "O biserică de pelerinaj barocă importantă din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433031,
-                        47.072797
-                  ]
-            },
-            {
-                  "name": "Sankt Vinzenz",
-                  "text": "O biserică parohială romano-catolică din cartierul Eggenberg din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.405101,
-                        47.074555
-                  ]
-            },
-            {
-                  "name": "Christus der Auferstandene",
-                  "text": "O biserică romano-catolică modernă în districtul Straßgang din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.450884,
-                        47.046613
-                  ]
-            },
-            {
-                  "name": "Grabenkirche",
-                  "text": "O biserică istorică lângă parcul orașului, cunoscută pentru altarul său baroc.",
-                  "category": "religious",
-                  "coords": [
-                        15.439751,
-                        47.081475
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Andrä",
-                  "text": "O biserică proeminentă din districtul Gries din Graz, cunoscută pentru integrarea artei moderne.",
-                  "category": "religious",
-                  "coords": [
-                        15.429007,
-                        47.069603
-                  ]
-            },
-            {
-                  "name": "Kirche Sankt Ulrichsbrunn",
-                  "text": "O biserică de pelerinaj situată idilic, cu un izvor sfânt în nordul orașului Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.429072,
-                        47.096565
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Don Bosco",
-                  "text": "O biserică parohială romano-catolică modernă în districtul Lend din Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.416474,
-                        47.056462
-                  ]
-            },
-            {
-                  "name": "Thalersee",
-                  "text": "Lacul Thaler din Graz este o destinație populară pentru plimbări și experiențe în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.366565,
-                        47.07003
-                  ]
-            },
-            {
-                  "name": "Wagner-Jauregg-Bad",
-                  "text": "Wagner-Jauregg-Bad din Graz oferă un mediu liniștit lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        15.426908,
-                        47.037179
-                  ]
-            },
-            {
-                  "name": "Bespielbarer Bach",
-                  "text": "Această zonă de joacă din Graz permite copiilor să se joace în apropierea apei și a naturii.",
-                  "category": "family",
-                  "coords": [
-                        15.458488,
-                        47.0735
-                  ]
-            },
-            {
-                  "name": "Sandkiste",
-                  "text": "Un mic loc de joacă cu groapă de nisip în Graz pentru cei mai tineri vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        15.46606,
-                        47.060773
-                  ]
-            },
-            {
-                  "name": "Grete-Schurz-Platz",
-                  "text": "Locul de joacă de la Grete-Schurz-Platz din Graz oferă diversitate în mediul urban.",
-                  "category": "family",
-                  "coords": [
-                        15.407622,
-                        47.059263
-                  ]
-            },
-            {
-                  "name": "Dr.-Hans-Spitzy-Platzl",
-                  "text": "Un loc de joacă central în Graz pentru o scurtă pauză de joacă.",
-                  "category": "family",
-                  "coords": [
-                        15.43014,
-                        47.051783
-                  ]
-            },
-            {
-                  "name": "Junges Europa",
-                  "text": "Acest loc de joacă modern din Graz oferă diverse posibilități de cățărare și joacă.",
-                  "category": "family",
-                  "coords": [
-                        15.403698,
-                        47.071577
-                  ]
-            },
-            {
-                  "name": "Minigolf Milkowski",
-                  "text": "Terenul de minigolf din Graz este o destinație distractivă pentru o excursie în familie.",
-                  "category": "family",
-                  "coords": [
-                        15.454618,
-                        47.082524
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Afritschgarten",
-                  "text": "Acest loc de joacă de aventură din Graz oferă copiilor multe oportunități de explorare.",
-                  "category": "family",
-                  "coords": [
-                        15.426263,
-                        47.077055
-                  ]
-            },
-            {
-                  "name": "Theodor-Körner Spielplatz",
-                  "text": "Un loc de joacă umbrit în Graz, ideal pentru familiile cu copii mici.",
-                  "category": "family",
-                  "coords": [
-                        15.425459,
-                        47.09266
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Marienwiese",
-                  "text": "Locul de joacă pentru copii Marienwiese din Graz este situat într-un mediu verde.",
-                  "category": "family",
-                  "coords": [
-                        15.422457,
-                        47.078286
-                  ]
-            },
-            {
-                  "name": "Konsumwiese",
-                  "text": "Un loc de întâlnire popular pentru familiile cu copii în zona orașului Graz.",
-                  "category": "family",
-                  "coords": [
-                        15.411434,
-                        47.078262
-                  ]
-            },
-            {
-                  "name": "Volksschule Leopoldinum",
-                  "text": "Acest loc de joacă din Graz oferă spațiu pentru mișcare și joacă după-amiaza.",
-                  "category": "family",
-                  "coords": [
-                        15.410443,
-                        47.078925
-                  ]
-            },
-            {
-                  "name": "Motorikpark St. Peter",
-                  "text": "Parcul de motricitate din Graz promovează abilitățile copiilor prin joacă.",
-                  "category": "family",
-                  "coords": [
-                        15.464363,
-                        47.053596
-                  ]
-            },
-            {
-                  "name": "Calisthenics",
-                  "text": "Un loc de joacă din Graz cu echipamente pentru activități sportive pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        15.447337,
-                        47.064277
-                  ]
-            },
-            {
-                  "name": "Spielzeile Reininghaus",
-                  "text": "Această zonă de joacă din Graz oferă echipamente moderne într-un design atractiv.",
-                  "category": "family",
-                  "coords": [
-                        15.410397,
-                        47.061903
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Puchmuseum",
-                  "text": "A museum in Graz dedicated to the history of Puch vehicles.",
-                  "category": "museum",
-                  "coords": [
-                        15.43765,
-                        47.04397
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum Graz",
-                  "text": "The museum of the Graz-Seckau diocese displaying Christian art.",
-                  "category": "museum",
-                  "coords": [
-                        15.441755,
-                        47.071698
-                  ]
-            },
-            {
-                  "name": "Styrian Armoury",
-                  "text": "The world's largest historical armoury featuring a vast collection.",
-                  "category": "museum",
-                  "coords": [
-                        15.439883,
-                        47.069803
-                  ]
-            },
-            {
-                  "name": "GrazMuseum",
-                  "text": "The city museum of Graz presenting local history and culture.",
-                  "category": "museum",
-                  "coords": [
-                        15.436518,
-                        47.072656
-                  ]
-            },
-            {
-                  "name": "Montan- und Werksbahnmuseum Graz",
-                  "text": "A museum in Graz specializing in industrial and mining railways.",
-                  "category": "museum",
-                  "coords": [
-                        15.437505,
-                        47.078714
-                  ]
-            },
-            {
-                  "name": "Messe-Schlößl",
-                  "text": "A historic small castle located on the Graz exhibition grounds.",
-                  "category": "castle",
-                  "coords": [
-                        15.451066,
-                        47.059291
-                  ]
-            },
-            {
-                  "name": "Halle für Kunst Steiermark",
-                  "text": "A contemporary art museum located in the Graz city park.",
-                  "category": "museum",
-                  "coords": [
-                        15.44458,
-                        47.07174
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum",
-                  "text": "A museum of Styrian folklore and regional traditions.",
-                  "category": "museum",
-                  "coords": [
-                        15.439702,
-                        47.075029
-                  ]
-            },
-            {
-                  "name": "Modern Art Museum Graz",
-                  "text": "An architecturally striking modern art museum, also known as the 'Friendly Alien'.",
-                  "category": "museum",
-                  "coords": [
-                        15.434015,
-                        47.071298
-                  ]
-            },
-            {
-                  "name": "Kindermuseum FRida & freD",
-                  "text": "An interactive experiential museum for children in Graz.",
-                  "category": "museum",
-                  "coords": [
-                        15.436239,
-                        47.063162
-                  ]
-            },
-            {
-                  "name": "Museum der Wahrnehmung",
-                  "text": "A museum in Graz focused on human perception.",
-                  "category": "museum",
-                  "coords": [
-                        15.437541,
-                        47.062613
-                  ]
-            },
-            {
-                  "name": "Mühlschlössl",
-                  "text": "A historic castle in Graz with Baroque elements.",
-                  "category": "castle",
-                  "coords": [
-                        15.425893,
-                        47.074071
-                  ]
-            },
-            {
-                  "name": "Meerscheinschlössl",
-                  "text": "A Baroque castle currently used by the University of Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.447013,
-                        47.07938
-                  ]
-            },
-            {
-                  "name": "Tupay-Schlössl",
-                  "text": "A former late-Baroque noble castle in the Leonhard district of Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.445429,
-                        47.052136
-                  ]
-            },
-            {
-                  "name": "Hallerschloss",
-                  "text": "A protected historic castle building in Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.464259,
-                        47.070574
-                  ]
-            },
-            {
-                  "name": "Metahof-Schlössl",
-                  "text": "A small Baroque castle set within a park in Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.421252,
-                        47.072984
-                  ]
-            },
-            {
-                  "name": "Schloss Neu-Grabenhofen",
-                  "text": "A castle located on the northern outskirts of Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.437473,
-                        47.095175
-                  ]
-            },
-            {
-                  "name": "Minoritenschlössl",
-                  "text": "A historic castle building formerly belonging to the Minorite order.",
-                  "category": "castle",
-                  "coords": [
-                        15.446838,
-                        47.090824
-                  ]
-            },
-            {
-                  "name": "Rosenhof",
-                  "text": "A Graz castle building with a long history.",
-                  "category": "castle",
-                  "coords": [
-                        15.441602,
-                        47.089802
-                  ]
-            },
-            {
-                  "name": "Hubertus-Schlössl",
-                  "text": "A small hunting lodge located in the Eggenberg district of Graz.",
-                  "category": "castle",
-                  "coords": [
-                        15.447529,
-                        47.088756
-                  ]
-            },
-            {
-                  "name": "Mausoleum Prokesch-Osten",
-                  "text": "A significant funerary monument in the St. Leonhard cemetery.",
-                  "category": "historical",
-                  "coords": [
-                        15.46747,
-                        47.077377
-                  ]
-            },
-            {
-                  "name": "Burgtor",
-                  "text": "One of the surviving historic city gates of Graz.",
-                  "category": "fortress",
-                  "coords": [
-                        15.443051,
-                        47.072161
-                  ]
-            },
-            {
-                  "name": "Oper",
-                  "text": "The second largest opera house in Austria with impressive architecture.",
-                  "category": "cultural",
-                  "coords": [
-                        15.445683,
-                        47.069004
-                  ]
-            },
-            {
-                  "name": "Schauspielhaus",
-                  "text": "A significant theatre building for dramatic arts in Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.441641,
-                        47.072705
-                  ]
-            },
-            {
-                  "name": "Orpheum",
-                  "text": "A traditional event venue for concerts and cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        15.429949,
-                        47.072328
-                  ]
-            },
-            {
-                  "name": "Kasematten",
-                  "text": "An open-air stage within the historic walls on the Schloßberg hill.",
-                  "category": "cultural",
-                  "coords": [
-                        15.43741,
-                        47.076321
-                  ]
-            },
-            {
-                  "name": "Stefaniensaal",
-                  "text": "A magnificent concert hall in the heart of Graz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.437803,
-                        47.069801
-                  ]
-            },
-            {
-                  "name": "Helmut-List-Halle",
-                  "text": "A multi-functional event hall for arts and culture.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411948,
-                        47.079682
-                  ]
-            },
-            {
-                  "name": "Forum Stadtpark",
-                  "text": "A center for contemporary art and culture in the city park.",
-                  "category": "cultural",
-                  "coords": [
-                        15.443571,
-                        47.074651
-                  ]
-            },
-            {
-                  "name": "Tennenmälzerei",
-                  "text": "A historic industrial building now used for cultural purposes.",
-                  "category": "cultural",
-                  "coords": [
-                        15.411465,
-                        47.064232
-                  ]
-            },
-            {
-                  "name": "Altkatholische Christophoruskirche",
-                  "text": "The church of the Old Catholic community in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.430862,
-                        47.069594
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "A religious complex featuring Stations of the Cross and chapels.",
-                  "category": "religious",
-                  "coords": [
-                        15.417565,
-                        47.093152
-                  ]
-            },
-            {
-                  "name": "Leechkirche",
-                  "text": "One of the oldest churches in Graz with Gothic elements.",
-                  "category": "religious",
-                  "coords": [
-                        15.446743,
-                        47.075571
-                  ]
-            },
-            {
-                  "name": "Stadtpfarrkirche zum Heiligen Blut",
-                  "text": "The Baroque main parish church of Graz featuring significant artworks.",
-                  "category": "religious",
-                  "coords": [
-                        15.441151,
-                        47.069413
-                  ]
-            },
-            {
-                  "name": "Sankt-Josef-Kirche",
-                  "text": "A Neo-Gothic church in the Jakomini district of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.441031,
-                        47.058849
-                  ]
-            },
-            {
-                  "name": "Synagoge",
-                  "text": "The religious center of the Jewish community in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433563,
-                        47.064138
-                  ]
-            },
-            {
-                  "name": "Catholic Church",
-                  "text": "A modern Catholic church building in the west of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.465785,
-                        47.082636
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "An imposing Neo-Gothic church featuring the tallest church tower in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.455737,
-                        47.069626
-                  ]
-            },
-            {
-                  "name": "Sankt Johannes",
-                  "text": "A modern Catholic parish in the Straßgang district of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.427986,
-                        47.049339
-                  ]
-            },
-            {
-                  "name": "Münzgrabenkirche",
-                  "text": "A distinctive church in Graz rebuilt after World War II.",
-                  "category": "religious",
-                  "coords": [
-                        15.4523,
-                        47.061317
-                  ]
-            },
-            {
-                  "name": "Kirche Hl. Kyrill und Method",
-                  "text": "The Serbian Orthodox church in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.427313,
-                        47.045289
-                  ]
-            },
-            {
-                  "name": "Barmherzigenkirche Maria Verkündigung",
-                  "text": "A Baroque monastery church of the Hospitaller Order.",
-                  "category": "religious",
-                  "coords": [
-                        15.432035,
-                        47.071442
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Leonhard",
-                  "text": "A Gothic hall church with a significant cemetery.",
-                  "category": "religious",
-                  "coords": [
-                        15.465103,
-                        47.078581
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "A monastery and church of the Franciscan order in the Graz old town.",
-                  "category": "religious",
-                  "coords": [
-                        15.436444,
-                        47.070693
-                  ]
-            },
-            {
-                  "name": "Stiegenkirche",
-                  "text": "A historic staircase church in the city center of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.438745,
-                        47.072602
-                  ]
-            },
-            {
-                  "name": "Mariahilfer Kirche",
-                  "text": "A significant Baroque pilgrimage church in Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.433031,
-                        47.072797
-                  ]
-            },
-            {
-                  "name": "Sankt Vinzenz",
-                  "text": "A Roman Catholic parish church located in the Eggenberg district of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.405101,
-                        47.074555
-                  ]
-            },
-            {
-                  "name": "Christus der Auferstandene",
-                  "text": "A modern Roman Catholic church located in the Straßgang district of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.450884,
-                        47.046613
-                  ]
-            },
-            {
-                  "name": "Grabenkirche",
-                  "text": "A historic church near the city park, known for its Baroque altar.",
-                  "category": "religious",
-                  "coords": [
-                        15.439751,
-                        47.081475
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Sankt Andrä",
-                  "text": "A prominent church in the Gries district of Graz, known for its integration of modern art.",
-                  "category": "religious",
-                  "coords": [
-                        15.429007,
-                        47.069603
-                  ]
-            },
-            {
-                  "name": "Kirche Sankt Ulrichsbrunn",
-                  "text": "An idyllically situated pilgrimage church with a holy spring in the north of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.429072,
-                        47.096565
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Don Bosco",
-                  "text": "A modern Roman Catholic parish church in the Lend district of Graz.",
-                  "category": "religious",
-                  "coords": [
-                        15.416474,
-                        47.056462
-                  ]
-            },
-            {
-                  "name": "Thalersee",
-                  "text": "The Thalersee in Graz is a popular destination for walks and nature experiences.",
-                  "category": "natural",
-                  "coords": [
-                        15.366565,
-                        47.07003
-                  ]
-            },
-            {
-                  "name": "Wagner-Jauregg-Bad",
-                  "text": "The Wagner-Jauregg-Bad in Graz offers a quiet environment by the water.",
-                  "category": "natural",
-                  "coords": [
-                        15.426908,
-                        47.037179
-                  ]
-            },
-            {
-                  "name": "Bespielbarer Bach",
-                  "text": "This play area in Graz allows children to play close to nature by the water.",
-                  "category": "family",
-                  "coords": [
-                        15.458488,
-                        47.0735
-                  ]
-            },
-            {
-                  "name": "Sandkiste",
-                  "text": "A small playground with a sandbox in Graz for the youngest visitors.",
-                  "category": "family",
-                  "coords": [
-                        15.46606,
-                        47.060773
-                  ]
-            },
-            {
-                  "name": "Grete-Schurz-Platz",
-                  "text": "The playground at Grete-Schurz-Platz in Graz offers variety in an urban setting.",
-                  "category": "family",
-                  "coords": [
-                        15.407622,
-                        47.059263
-                  ]
-            },
-            {
-                  "name": "Dr.-Hans-Spitzy-Platzl",
-                  "text": "A centrally located playground in Graz for a short play break.",
-                  "category": "family",
-                  "coords": [
-                        15.43014,
-                        47.051783
-                  ]
-            },
-            {
-                  "name": "Junges Europa",
-                  "text": "This modern playground in Graz offers various climbing and play options.",
-                  "category": "family",
-                  "coords": [
-                        15.403698,
-                        47.071577
-                  ]
-            },
-            {
-                  "name": "Minigolf Milkowski",
-                  "text": "The miniature golf course in Graz is an entertaining destination for a family outing.",
-                  "category": "family",
-                  "coords": [
-                        15.454618,
-                        47.082524
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz Afritschgarten",
-                  "text": "This adventure playground in Graz offers children many opportunities for discovery.",
-                  "category": "family",
-                  "coords": [
-                        15.426263,
-                        47.077055
-                  ]
-            },
-            {
-                  "name": "Theodor-Körner Spielplatz",
-                  "text": "A shaded playground in Graz, ideal for families with young children.",
-                  "category": "family",
-                  "coords": [
-                        15.425459,
-                        47.09266
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Marienwiese",
-                  "text": "The Marienwiese playground in Graz is situated in a green environment.",
-                  "category": "family",
-                  "coords": [
-                        15.422457,
-                        47.078286
-                  ]
-            },
-            {
-                  "name": "Konsumwiese",
-                  "text": "A popular meeting spot for families with children in the Graz urban area.",
-                  "category": "family",
-                  "coords": [
-                        15.411434,
-                        47.078262
-                  ]
-            },
-            {
-                  "name": "Volksschule Leopoldinum",
-                  "text": "This playground in Graz offers space for movement and play in the afternoons.",
-                  "category": "family",
-                  "coords": [
-                        15.410443,
-                        47.078925
-                  ]
-            },
-            {
-                  "name": "Motorikpark St. Peter",
-                  "text": "The motor skills park in Graz promotes children's dexterity through play.",
-                  "category": "family",
-                  "coords": [
-                        15.464363,
-                        47.053596
-                  ]
-            },
-            {
-                  "name": "Calisthenics",
-                  "text": "A playground in Graz with equipment for athletic activities for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        15.447337,
-                        47.064277
-                  ]
-            },
-            {
-                  "name": "Spielzeile Reininghaus",
-                  "text": "This play area in Graz offers modern play equipment in an appealing design.",
-                  "category": "family",
-                  "coords": [
-                        15.410397,
-                        47.061903
-                  ]
-            }
-      ]
-}, type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
+    id: "AT-Graz", "sights": {"de": [{"name": "Puchmuseum", "text": "Ein Museum in Graz, das der Geschichte der Puch-Fahrzeuge gewidmet ist.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "Das Museum der Diözese Graz-Seckau zeigt christliche Kunst.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "Die weltweit größte historische Waffenkammer mit einer riesigen Sammlung.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Das Stadtmuseum von Graz präsentiert die lokale Geschichte und Kultur.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Ein Museum in Graz, das sich auf Werks- und Montanbahnen spezialisiert hat.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Ein historisches Schlösschen auf dem Gelände der Grazer Messe.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Ein zeitgenössisches Kunstmuseum im Grazer Stadtpark.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Ein Museum für steirische Volkskunde und regionale Traditionen.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus", "text": "Ein architektonisch markantes Museum für moderne Kunst, auch „Friendly Alien“ genannt.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Ein interaktives Erlebnismuseum für Kinder in Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Ein Museum in Graz, das sich mit der menschlichen Wahrnehmung befasst.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Ein historisches Schloss in Graz mit barocken Elementen.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Ein barockes Lustschloss, das heute von der Universität Graz genutzt wird.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Ein ehemaliges spätbarockes Adelsschloss im Grazer Stadtbezirk Leonhard.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "Ein geschütztes historisches Schlossgebäude in Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Ein barockes Schlösschen inmitten einer Parkanlage in Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Ein Schloss am nördlichen Stadtrand von Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "Ein historisches Schlossgebäude, das ehemals dem Minoritenorden gehörte.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "Ein Grazer Schlossbau mit langer Geschichte.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Ein kleines Jagdschloss im Grazer Stadtbezirk Eggenberg.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Ein bedeutendes Grabdenkmal auf dem Friedhof St. Leonhard.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Eines der erhaltenen historischen Stadttore von Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "Das zweitgrößte Opernhaus Österreichs mit beeindruckender Architektur.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "Ein bedeutendes Theatergebäude für Schauspielkunst in Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Ein traditionsreiches Veranstaltungszentrum für Konzerte und Kleinkunst.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "Eine Freilichtbühne in den historischen Gemäuern auf dem Schloßberg.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "Ein prunkvoller Konzertsaal im Herzen von Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "Eine multifunktionale Veranstaltungshalle für Kunst und Kultur.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Als Zentrum für zeitgenössische Kunst und Kultur lädt das Forum Stadtpark in Graz zu inspirierenden Besuchen ein. Diese kulturelle Einrichtung befindet sich direkt im städtischen Parkgelände.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "Ein historisches Industriegebäude, das heute kulturell genutzt wird.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Die Kirche der altkatholischen Kirchengemeinde in Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Ein religiöser Komplex mit Kreuzwegstationen und Kapellen.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Eine der ältesten Kirchen von Graz mit gotischen Elementen.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Die barocke Hauptpfarrkirche von Graz mit bedeutenden Kunstwerken.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "Eine neugotische Kirche im Grazer Stadtbezirk Jakomini.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "Das religiöse Zentrum der jüdischen Gemeinde in Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "Ein modernes katholisches Kirchengebäude im Westen von Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "Eine imposante neugotische Kirche mit dem höchsten Kirchturm von Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "Eine moderne katholische Pfarre im Grazer Stadtteil Straßgang.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "Eine markante Kirche in Graz, die nach dem Zweiten Weltkrieg wiederaufgebaut wurde.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "Die serbisch-orthodoxe Kirche in Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "Eine barocke Klosterkirche der Barmherzigen Brüder.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "Eine gotische Hallenkirche mit einem bedeutenden Friedhof.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "Ein Kloster und eine Kirche des Franziskanerordens in der Grazer Altstadt.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "Eine historische Treppenkirche in der Grazer Innenstadt.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "Eine bedeutende barocke Wallfahrtskirche in Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "Eine römisch-katholische Pfarrkirche im Grazer Bezirk Eggenberg.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "Eine moderne römisch-katholische Kirche im Grazer Bezirk Straßgang.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "Eine historische Kirche in der Nähe des Stadtparks, bekannt für ihren barocken Altar.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "Eine markante Kirche im Grazer Bezirk Gries, bekannt für ihre Integration moderner Kunst.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "Eine idyllisch gelegene Wallfahrtskirche mit einer heiligen Quelle im Norden von Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "Eine moderne römisch-katholische Pfarrkirche im Grazer Bezirk Lend.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "Der Thalersee in Graz ist ein beliebtes Ziel für Spaziergänge und Naturerlebnisse.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "Das Wagner-Jauregg-Bad in Graz bietet eine ruhige Umgebung am Wasser.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Dieser Spielbereich in Graz ermöglicht Kindern das naturnahe Spielen am Wasser.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Ein kleiner Spielplatz mit Sandkiste in Graz für die jüngsten Besucher.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "Der Spielplatz am Grete-Schurz-Platz in Graz bietet Abwechslung im städtischen Umfeld.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Ein zentral gelegener Kinderspielplatz in Graz für eine kurze Spielpause.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Dieser moderne Spielplatz in Graz bietet verschiedene Kletter- und Spielmöglichkeiten.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "Die Minigolfanlage in Graz ist ein unterhaltsames Ziel für einen Familienausflug.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Dieser Abenteuerspielplatz in Graz bietet Kindern viele Möglichkeiten zum Entdecken.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Ein schattiger Spielplatz in Graz, ideal für Familien mit kleinen Kindern.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "Der Kinderspielplatz Marienwiese in Graz liegt in einer grünen Umgebung.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Ein beliebter Treffpunkt für Familien mit Kindern im Grazer Stadtgebiet.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Dieser Spielplatz in Graz bietet nachmittags Raum für Bewegung und Spiel.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "Der Motorikpark in Graz fördert spielerisch die Geschicklichkeit von Kindern.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Ein Spielplatz in Graz mit Geräten zur sportlichen Betätigung für die ganze Familie.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Diese Spielzeile in Graz bietet moderne Spielgeräte in ansprechendem Design.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "Das Augartenbad in Graz bietet vielseitige Schwimmmöglichkeiten und Liegeflächen zur Entspannung.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "Das Margaretenbad in Graz ist ein charmantes Freibad, das zur Erfrischung an heißen Tagen einlädt.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "Das Auster Sport- und Freibad in Graz verfügt über umfangreiche Wasserflächen für Sportler und Familien.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "Das Stukitz-Bad in Graz bietet abwechslungsreiche Wasserattraktionen für einen gelungenen Badetag.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "Das Lehrschwimmbecken in Graz dient vor allem Anfängern zum sicheren Erlernen des Schwimmens.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "Der Streichelzoo HIB Liebenau in Graz ermöglicht Kindern den direkten Kontakt mit freundlichen Tieren.", "category": "family", "coords": [15.45513, 47.037239]}], "hu": [{"name": "Puchmuseum", "text": "A Puch-járművek történetének szentelt múzeum Grazban.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "A Graz-Seckau-i egyházmegye múzeuma keresztény művészeti alkotásokat mutat be.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "A világ legnagyobb történelmi fegyvertára hatalmas gyűjteménnyel.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Graz városi múzeuma a helyi történelmet és kultúrát mutatja be.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Ipari és bányavasutakra szakosodott múzeum Grazban.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Történelmi kiskastély a grazi vásár területén.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Kortárs művészeti múzeum a grazi Városligetben.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Stájer néprajzi és regionális hagyományokat bemutató múzeum.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus Graz", "text": "Építészetileg meghatározó modern művészeti múzeum, más néven „Friendly Alien”.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Interaktív élménymúzeum gyermekek számára Grazban.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Az emberi érzékeléssel foglalkozó múzeum Grazban.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Történelmi kastély Grazban barokk elemekkel.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Barokk kastély, amelyet ma a Grazi Egyetem használ.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Egykori késő barokk nemesi kastély Graz Leonhard negyedében.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "Védett történelmi kastélyépület Grazban.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Barokk kiskastély egy grazi park közepén.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Kastély Graz északi peremén.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "Történelmi kastélyépület, amely egykor a minorita rendé volt.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "Hosszú múltra visszatekintő grazi kastélyépület.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Kisméretű vadászkastély Graz Eggenberg negyedében.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Jelentős síremlék a Szent Leonárd-temetőben.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Graz egyik fennmaradt történelmi városkapuja.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "Ausztria második legnagyobb operaháza lenyűgöző építészettel.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "Graz jelentős színházépülete a drámai művészetek számára.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Nagy múltú rendezvényközpont koncertek és kabarék számára.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "Szabadtéri színpad a várhegyi történelmi falak között.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "Pompás hangversenyterem Graz szívében.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "Többfunkciós rendezvénycsarnok művészeti és kulturális eseményekhez.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "A grazi Forum Stadtpark egy kortárs művészeti és kulturális központ, amely a városi parkban kapott helyet. A kulturális intézmény inspiráló látogatást kínál az érdeklődőknek.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "Történelmi ipari épület, amelyet ma kulturális célokra használnak.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Az ókatolikus egyházközség temploma Grazban.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Vallási épületegyüttes keresztúti állomásokkal és kápolnákkal.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Graz egyik legrégebbi temploma gótikus elemekkel.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Graz barokk főplébániatemploma jelentős műalkotásokkal.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "Neogótikus templom Graz Jakomini negyedében.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "A grazi zsidó hitközség vallási központja.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "Modern katolikus templomépület Graz nyugati részén.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "Impozáns neogótikus templom Graz legmagasabb tornyával.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "Modern katolikus plébánia Graz Straßgang negyedében.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "Jellegzetes grazi templom, amelyet a második világháború után építettek újjá.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "A szerb ortodox templom Grazban.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "Az Irgalmas Rend barokk kolostortemploma.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "Gótikus csarnoktemplom jelentős temetővel.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "A ferences rend kolostora és temploma Graz óvárosában.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "Történelmi lépcsős templom Graz belvárosában.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "Jelentős barokk zarándoktemplom Grazban.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "Római katolikus plébániatemplom Graz Eggenberg negyedében.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "Modern római katolikus templom Graz Straßgang negyedében.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "Történelmi templom a városi park közelében, barokk oltáráról ismert.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "Graz Gries negyedének jellegzetes temploma, amely a modern művészet integrációjáról ismert.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "Idilli fekvésű zarándoktemplom szent forrással Graz északi részén.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "Modern római katolikus plébániatemplom Graz Lend negyedében.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "A grazi Thalersee népszerű úti cél sétákhoz és természetjáráshoz.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "A grazi Wagner-Jauregg-Bad nyugodt környezetet biztosít a vízparton.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Ez a grazi játszóterület lehetővé teszi a gyerekeknek a természethez közeli játékot a víznél.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Egy kis játszótér homokozóval Grazban a legkisebb látogatók számára.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "A grazi Grete-Schurz-Platz játszótere kikapcsolódást nyújt a városi környezetben.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Egy központi fekvésű játszótér Grazban egy rövid játékos szünethez.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Ez a modern grazi játszótér különféle mászó- és játéklehetőségeket kínál.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "A grazi minigolfpálya szórakoztató úti cél egy családi kiránduláshoz.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Ez a grazi kalandjátszótér számos felfedezési lehetőséget kínál a gyerekeknek.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Egy árnyas játszótér Grazban, amely ideális kisgyermekes családoknak.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "A grazi Marienwiese játszótér zöld környezetben található.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Népszerű találkozóhely gyermekes családok számára Graz városában.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Ez a grazi játszótér délutánonként teret biztosít a mozgáshoz és a játékhoz.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "A grazi motorikus park játékos formában fejleszti a gyerekek ügyességét.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Egy grazi játszótér sporteszközökkel az egész család számára.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Ez a grazi játszósáv modern játékokat kínál vonzó kivitelben.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "A grazi Augartenbad változatos úszási lehetőségeket és pihenőhelyeket kínál a látogatóknak.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "A grazi Margaretenbad egy bájos szabadtéri fürdő, amely felfrissülést nyújt a forró napokon.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "A grazi Auster Sport- und Freibad kiterjedt vízfelületekkel várja a sportolókat és a családokat.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "A grazi Stukitz-Bad változatos vízi élményeket kínál egy sikeres fürdőnaphoz.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "A grazi tanmedence elsősorban a kezdők számára szolgál az úszás biztonságos elsajátítására.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "A grazi Streichelzoo HIB Liebenau közvetlen kapcsolatot tesz lehetővé a gyerekek és a barátságos állatok között.", "category": "family", "coords": [15.45513, 47.037239]}], "ro": [{"name": "Puchmuseum", "text": "Un muzeu din Graz dedicat istoriei vehiculelor Puch.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "Muzeul Diecezei Graz-Seckau expune artă creștină.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "Cea mai mare armurărie istorică din lume, cu o colecție vastă.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Muzeul orașului Graz prezintă istoria și cultura locală.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Un muzeu din Graz specializat în căi ferate industriale și miniere.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Un mic castel istoric situat în incinta târgului din Graz.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Un muzeu de artă contemporană în parcul orașului Graz.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Un muzeu de etnografie stiriană și tradiții regionale.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus Graz", "text": "Un muzeu de artă modernă cu o arhitectură distinctă, supranumit „Friendly Alien”.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Un muzeu interactiv și experimental pentru copii în Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Un muzeu din Graz care explorează percepția umană.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Un castel istoric din Graz cu elemente baroce.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Un castel baroc utilizat astăzi de Universitatea din Graz.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Un fost castel nobiliar în stil baroc târziu din districtul Leonhard din Graz.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "O clădire de castel istoric protejată în Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Un mic castel baroc în mijlocul unui parc din Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Un castel situat la periferia nordică a orașului Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "O clădire istorică de castel care a aparținut ordinului minorit.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "O construcție de castel din Graz cu o istorie îndelungată.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Un mic castel de vânătoare în districtul Eggenberg din Graz.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Un monument funerar important în cimitirul Sf. Leonhard.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Una dintre porțile istorice păstrate ale orașului Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "A doua cea mai mare operă din Austria, cu o arhitectură impresionantă.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "O clădire teatrală importantă pentru arta dramatică din Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Un centru de evenimente cu tradiție pentru concerte și spectacole mici.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "O scenă în aer liber în zidurile istorice de pe Schloßberg.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "O sală de concerte somptuoasă în inima orașului Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "O sală de evenimente multifuncțională pentru artă și cultură.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Fiind un centru pentru arta și cultura contemporană, Forum Stadtpark din Graz își așteaptă vizitatorii în parcul orașului. Această instituție culturală oferă un spațiu de explorare a tendințelor artistice actuale.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "O clădire industrială istorică, utilizată astăzi în scopuri culturale.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Biserica comunității vechi-catolice din Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Un complex religios cu stații ale Căii Crucii și capele.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Una dintre cele mai vechi biserici din Graz, cu elemente gotice.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Biserica parohială principală în stil baroc din Graz, cu opere de artă importante.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "O biserică neogotică în districtul Jakomini din Graz.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "Centrul religios al comunității evreiești din Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "O clădire modernă de biserică catolică în vestul orașului Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "O biserică neogotică impunătoare cu cel mai înalt turn din Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "O parohie catolică modernă în cartierul Straßgang din Graz.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "O biserică distinctivă din Graz, reconstruită după al Doilea Război Mondial.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "Biserica ortodoxă sârbă din Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "O biserică mănăstirească barocă a Ordinului Ospitalier.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "O biserică hală gotică cu un cimitir important.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "O mănăstire și o biserică a ordinului franciscan în centrul vechi din Graz.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "O biserică istorică cu scări în centrul orașului Graz.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "O biserică de pelerinaj barocă importantă din Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "O biserică parohială romano-catolică din cartierul Eggenberg din Graz.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "O biserică romano-catolică modernă în districtul Straßgang din Graz.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "O biserică istorică lângă parcul orașului, cunoscută pentru altarul său baroc.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "O biserică proeminentă din districtul Gries din Graz, cunoscută pentru integrarea artei moderne.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "O biserică de pelerinaj situată idilic, cu un izvor sfânt în nordul orașului Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "O biserică parohială romano-catolică modernă în districtul Lend din Graz.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "Lacul Thaler din Graz este o destinație populară pentru plimbări și experiențe în natură.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "Wagner-Jauregg-Bad din Graz oferă un mediu liniștit lângă apă.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Această zonă de joacă din Graz permite copiilor să se joace în apropierea apei și a naturii.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Un mic loc de joacă cu groapă de nisip în Graz pentru cei mai tineri vizitatori.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "Locul de joacă de la Grete-Schurz-Platz din Graz oferă diversitate în mediul urban.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Un loc de joacă central în Graz pentru o scurtă pauză de joacă.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Acest loc de joacă modern din Graz oferă diverse posibilități de cățărare și joacă.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "Terenul de minigolf din Graz este o destinație distractivă pentru o excursie în familie.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Acest loc de joacă de aventură din Graz oferă copiilor multe oportunități de explorare.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Un loc de joacă umbrit în Graz, ideal pentru familiile cu copii mici.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "Locul de joacă pentru copii Marienwiese din Graz este situat într-un mediu verde.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Un loc de întâlnire popular pentru familiile cu copii în zona orașului Graz.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Acest loc de joacă din Graz oferă spațiu pentru mișcare și joacă după-amiaza.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "Parcul de motricitate din Graz promovează abilitățile copiilor prin joacă.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Un loc de joacă din Graz cu echipamente pentru activități sportive pentru întreaga familie.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Această zonă de joacă din Graz oferă echipamente moderne într-un design atractiv.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "Augartenbad din Graz oferă posibilități variate de înot și zone de plajă pentru relaxare.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "Margaretenbad din Graz este un ștrand fermecător care invită la răcorire în zilele toride.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "Auster Sport- und Freibad din Graz dispune de suprafețe extinse de apă pentru sportivi și familii.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "Stukitz-Bad din Graz oferă atracții acvatice variate pentru o zi reușită la piscină.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "Piscina de învățare din Graz servește în special începătorilor pentru a învăța înotul în siguranță.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "Grădina zoologică cu animale de mângâiat HIB Liebenau din Graz permite copiilor contactul direct cu animale prietenoase.", "category": "family", "coords": [15.45513, 47.037239]}], "en": [{"name": "Puchmuseum", "text": "A museum in Graz dedicated to the history of Puch vehicles.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "The museum of the Graz-Seckau diocese displaying Christian art.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Styrian Armoury", "text": "The world's largest historical armoury featuring a vast collection.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "The city museum of Graz presenting local history and culture.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "A museum in Graz specializing in industrial and mining railways.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "A historic small castle located on the Graz exhibition grounds.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "A contemporary art museum located in the Graz city park.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "A museum of Styrian folklore and regional traditions.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Modern Art Museum Graz", "text": "An architecturally striking modern art museum, also known as the 'Friendly Alien'.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "An interactive experiential museum for children in Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "A museum in Graz focused on human perception.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "A historic castle in Graz with Baroque elements.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "A Baroque castle currently used by the University of Graz.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "A former late-Baroque noble castle in the Leonhard district of Graz.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "A protected historic castle building in Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "A small Baroque castle set within a park in Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "A castle located on the northern outskirts of Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "A historic castle building formerly belonging to the Minorite order.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "A Graz castle building with a long history.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "A small hunting lodge located in the Eggenberg district of Graz.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "A significant funerary monument in the St. Leonhard cemetery.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "One of the surviving historic city gates of Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "The second largest opera house in Austria with impressive architecture.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "A significant theatre building for dramatic arts in Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "A traditional event venue for concerts and cabaret.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "An open-air stage within the historic walls on the Schloßberg hill.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "A magnificent concert hall in the heart of Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "A multi-functional event hall for arts and culture.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Located within the city park, the Forum Stadtpark in Graz serves as a vibrant center for contemporary art and culture. This cultural institution offers visitors a space to engage with current artistic expressions.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "A historic industrial building now used for cultural purposes.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "The church of the Old Catholic community in Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "A religious complex featuring Stations of the Cross and chapels.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "One of the oldest churches in Graz with Gothic elements.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "The Baroque main parish church of Graz featuring significant artworks.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "A Neo-Gothic church in the Jakomini district of Graz.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "The religious center of the Jewish community in Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Catholic Church", "text": "A modern Catholic church building in the west of Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "An imposing Neo-Gothic church featuring the tallest church tower in Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "A modern Catholic parish in the Straßgang district of Graz.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "A distinctive church in Graz rebuilt after World War II.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "The Serbian Orthodox church in Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "A Baroque monastery church of the Hospitaller Order.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "A Gothic hall church with a significant cemetery.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "A monastery and church of the Franciscan order in the Graz old town.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "A historic staircase church in the city center of Graz.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "A significant Baroque pilgrimage church in Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "A Roman Catholic parish church located in the Eggenberg district of Graz.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "A modern Roman Catholic church located in the Straßgang district of Graz.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "A historic church near the city park, known for its Baroque altar.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "A prominent church in the Gries district of Graz, known for its integration of modern art.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "An idyllically situated pilgrimage church with a holy spring in the north of Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "A modern Roman Catholic parish church in the Lend district of Graz.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "The Thalersee in Graz is a popular destination for walks and nature experiences.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "The Wagner-Jauregg-Bad in Graz offers a quiet environment by the water.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "This play area in Graz allows children to play close to nature by the water.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "A small playground with a sandbox in Graz for the youngest visitors.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "The playground at Grete-Schurz-Platz in Graz offers variety in an urban setting.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "A centrally located playground in Graz for a short play break.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "This modern playground in Graz offers various climbing and play options.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "The miniature golf course in Graz is an entertaining destination for a family outing.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "This adventure playground in Graz offers children many opportunities for discovery.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "A shaded playground in Graz, ideal for families with young children.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "The Marienwiese playground in Graz is situated in a green environment.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "A popular meeting spot for families with children in the Graz urban area.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "This playground in Graz offers space for movement and play in the afternoons.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "The motor skills park in Graz promotes children's dexterity through play.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "A playground in Graz with equipment for athletic activities for the whole family.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "This play area in Graz offers modern play equipment in an appealing design.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "The Augartenbad in Graz offers versatile swimming opportunities and sunbathing areas for relaxation.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "The Margaretenbad in Graz is a charming outdoor pool that invites you to cool off on hot days.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "The Auster Sport- und Freibad in Graz features extensive water areas for athletes and families.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "The Stukitz-Bad in Graz offers varied water attractions for a successful day at the pool.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "The teaching pool in Graz primarily serves beginners for learning to swim safely.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "The petting zoo HIB Liebenau in Graz allows children to have direct contact with friendly animals.", "category": "family", "coords": [15.45513, 47.037239]}]}, type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
     name: { de: "Graz", hu: "Graz", ro: "Graz", en: "Graz" },
     image: "/geo-images/austria/graz.webp",
     description: {
@@ -3851,6 +1394,87 @@ export const austriaCities: POI[] = [
                         14.280427,
                         48.323431
                   ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "Das Parkbad in Linz ist ein beliebtes Erlebnisbad mit Angeboten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.296004,
+                        48.312962
+                  ]
+            },
+            {
+                  "name": "Sportbecken",
+                  "text": "Das Sportbecken in Linz bietet ausreichend Platz für ausgiebige Schwimmeinheiten.",
+                  "category": "family",
+                  "coords": [
+                        14.297128,
+                        48.313966
+                  ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Das Hummelhofbad in Linz ist ein Erlebnisbad, das Spaß und Erholung im Wasser kombiniert.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "FKK-Bereich",
+                  "text": "Der FKK-Bereich in Linz bietet einen ausgewiesenen Badebereich für Freunde der Freikörperkultur.",
+                  "category": "family",
+                  "coords": [
+                        14.333656,
+                        48.317555
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "Das Familienbecken in Linz bietet Platz für gemeinsames Schwimmen und Spielen im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        14.294584,
+                        48.311842
+                  ]
+            },
+            {
+                  "name": "Biesenfeldbad",
+                  "text": "Das Biesenfeldbad in Linz ist ein familienfreundliches Erlebnisbad mit verschiedenen Wasserattraktionen.",
+                  "category": "family",
+                  "coords": [
+                        14.302408,
+                        48.333577
+                  ]
+            },
+            {
+                  "name": "Kinderbad Kudlichstraße",
+                  "text": "Das Kinderbad Kudlichstraße in Linz ist speziell auf die Bedürfnisse junger Badegäste zugeschnitten.",
+                  "category": "family",
+                  "coords": [
+                        14.281278,
+                        48.28495
+                  ]
+            },
+            {
+                  "name": "Kinderbad Wimhölzelstraße",
+                  "text": "Das Kinderbad Wimhölzelstraße in Linz bietet sicheren Wasserspaß für Kinder in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        14.316728,
+                        48.296321
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Das Hallenbad in Linz ermöglicht wetterunabhängiges Schwimmvergnügen für alle Besucher.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
             }
       ],
       "hu": [
@@ -4509,6 +2133,87 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.280427,
                         48.323431
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "A linzi Parkbad egy népszerű élményfürdő a család minden tagjának szóló ajánlatokkal.",
+                  "category": "family",
+                  "coords": [
+                        14.296004,
+                        48.312962
+                  ]
+            },
+            {
+                  "name": "Sportbecken",
+                  "text": "A linzi Sportbecken elegendő helyet biztosít a kiadós úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.297128,
+                        48.313966
+                  ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "A linzi Hummelhofbad egy élményfürdő, amely ötvözi a szórakozást és a vízi kikapcsolódást.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "FKK-Bereich",
+                  "text": "A linzi FKK-részleg kijelölt fürdőhelyet biztosít a naturizmus kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        14.333656,
+                        48.317555
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "A linzi Familienbecken helyet biztosít a közös úszáshoz és a vízi játékokhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.294584,
+                        48.311842
+                  ]
+            },
+            {
+                  "name": "Biesenfeldbad",
+                  "text": "A linzi Biesenfeldbad egy családbarát élményfürdő különféle vízi látnivalókkal.",
+                  "category": "family",
+                  "coords": [
+                        14.302408,
+                        48.333577
+                  ]
+            },
+            {
+                  "name": "Kinderbad Kudlichstraße",
+                  "text": "A linzi Kudlichstraße gyerekfürdője kifejezetten a fiatal fürdőzők igényeire lett szabva.",
+                  "category": "family",
+                  "coords": [
+                        14.281278,
+                        48.28495
+                  ]
+            },
+            {
+                  "name": "Kinderbad Wimhölzelstraße",
+                  "text": "A linzi Wimhölzelstraße gyerekfürdője biztonságos vízi szórakozást kínál a városi gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.316728,
+                        48.296321
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "A linzi fedett uszoda az időjárástól függetlenül biztosít úszási lehetőséget minden látogatónak.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
                   ]
             }
       ],
@@ -5169,6 +2874,87 @@ export const austriaCities: POI[] = [
                         14.280427,
                         48.323431
                   ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "Parkbad din Linz este un parc acvatic popular cu oferte pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.296004,
+                        48.312962
+                  ]
+            },
+            {
+                  "name": "Sportbecken",
+                  "text": "Piscina sportivă din Linz oferă suficient spațiu pentru sesiuni de înot prelungite.",
+                  "category": "family",
+                  "coords": [
+                        14.297128,
+                        48.313966
+                  ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Hummelhofbad din Linz este un parc acvatic care îmbină distracția cu relaxarea în apă.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "FKK-Bereich",
+                  "text": "Zona FKK din Linz oferă un spațiu de înot special amenajat pentru nudiști.",
+                  "category": "family",
+                  "coords": [
+                        14.333656,
+                        48.317555
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "Familienbecken din Linz oferă spațiu pentru înotul în familie și joacă în apă.",
+                  "category": "family",
+                  "coords": [
+                        14.294584,
+                        48.311842
+                  ]
+            },
+            {
+                  "name": "Biesenfeldbad",
+                  "text": "Biesenfeldbad din Linz este un parc acvatic potrivit pentru familii, cu diverse atracții.",
+                  "category": "family",
+                  "coords": [
+                        14.302408,
+                        48.333577
+                  ]
+            },
+            {
+                  "name": "Kinderbad Kudlichstraße",
+                  "text": "Kinderbad Kudlichstraße din Linz este adaptat special nevoilor micilor înotători.",
+                  "category": "family",
+                  "coords": [
+                        14.281278,
+                        48.28495
+                  ]
+            },
+            {
+                  "name": "Kinderbad Wimhölzelstraße",
+                  "text": "Kinderbad Wimhölzelstraße din Linz oferă distracție acvatică sigură pentru copiii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        14.316728,
+                        48.296321
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Piscina interioară din Linz permite bucuria înotului indiferent de vreme pentru toți vizitatorii.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
+                  ]
             }
       ],
       "en": [
@@ -5827,6 +3613,87 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.280427,
                         48.323431
+                  ]
+            },
+            {
+                  "name": "Parkbad",
+                  "text": "Parkbad in Linz is a popular water park with offerings for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.296004,
+                        48.312962
+                  ]
+            },
+            {
+                  "name": "Sportbecken",
+                  "text": "The Sportbecken in Linz provides ample space for extensive swimming sessions.",
+                  "category": "family",
+                  "coords": [
+                        14.297128,
+                        48.313966
+                  ]
+            },
+            {
+                  "name": "Hummelhofbad",
+                  "text": "Hummelhofbad in Linz is a water park that combines fun and relaxation in the water.",
+                  "category": "family",
+                  "coords": [
+                        14.291106,
+                        48.276938
+                  ]
+            },
+            {
+                  "name": "FKK-Bereich",
+                  "text": "The FKK-Bereich in Linz provides a designated swimming area for nudism enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        14.333656,
+                        48.317555
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "The Familienbecken in Linz offers space for family swimming and playing in the water.",
+                  "category": "family",
+                  "coords": [
+                        14.294584,
+                        48.311842
+                  ]
+            },
+            {
+                  "name": "Biesenfeldbad",
+                  "text": "Biesenfeldbad in Linz is a family-friendly water park with various water attractions.",
+                  "category": "family",
+                  "coords": [
+                        14.302408,
+                        48.333577
+                  ]
+            },
+            {
+                  "name": "Kinderbad Kudlichstraße",
+                  "text": "Kinderbad Kudlichstraße in Linz is specifically tailored to the needs of young bathers.",
+                  "category": "family",
+                  "coords": [
+                        14.281278,
+                        48.28495
+                  ]
+            },
+            {
+                  "name": "Kinderbad Wimhölzelstraße",
+                  "text": "Kinderbad Wimhölzelstraße in Linz offers safe water fun for children in the city.",
+                  "category": "family",
+                  "coords": [
+                        14.316728,
+                        48.296321
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "The indoor pool in Linz enables swimming enjoyment regardless of the weather for all visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.271453,
+                        48.280684
                   ]
             }
       ]
@@ -6503,6 +4370,42 @@ export const austriaCities: POI[] = [
                         11.364868,
                         47.254101
                   ]
+            },
+            {
+                  "name": "Martinas Bauernhof",
+                  "text": "Ein Erlebnishof in Innsbruck, wo Kinder Tiere hautnah erleben können.",
+                  "category": "family",
+                  "coords": [
+                        11.375264,
+                        47.243121
+                  ]
+            },
+            {
+                  "name": "Freibad Tivoli",
+                  "text": "Ein bekanntes Freibad in Innsbruck mit Blick auf die Berge.",
+                  "category": "family",
+                  "coords": [
+                        11.408454,
+                        47.260165
+                  ]
+            },
+            {
+                  "name": "Kampfbecken",
+                  "text": "Ein Sportbecken in Innsbruck für intensives Schwimmtraining.",
+                  "category": "family",
+                  "coords": [
+                        11.406944,
+                        47.260924
+                  ]
+            },
+            {
+                  "name": "Lansersee",
+                  "text": "Ein malerischer See bei Innsbruck, ideal zum Schwimmen und Sonnenbaden.",
+                  "category": "family",
+                  "coords": [
+                        11.41715,
+                        47.240273
+                  ]
             }
       ],
       "hu": [
@@ -7143,6 +5046,42 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.364868,
                         47.254101
+                  ]
+            },
+            {
+                  "name": "Martinas Bauernhof",
+                  "text": "Élménygazdaság Innsbruckban, ahol a gyerekek testközelből láthatnak állatokat.",
+                  "category": "family",
+                  "coords": [
+                        11.375264,
+                        47.243121
+                  ]
+            },
+            {
+                  "name": "Freibad Tivoli",
+                  "text": "Ismert szabadtéri strand Innsbruckban, kilátással a hegyekre.",
+                  "category": "family",
+                  "coords": [
+                        11.408454,
+                        47.260165
+                  ]
+            },
+            {
+                  "name": "Kampfbecken",
+                  "text": "Sportmedence Innsbruckban intenzív úszóedzésekhez.",
+                  "category": "family",
+                  "coords": [
+                        11.406944,
+                        47.260924
+                  ]
+            },
+            {
+                  "name": "Lansersee",
+                  "text": "Festői tó Innsbruck közelében, ideális úszáshoz és napozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        11.41715,
+                        47.240273
                   ]
             }
       ],
@@ -7785,6 +5724,42 @@ export const austriaCities: POI[] = [
                         11.364868,
                         47.254101
                   ]
+            },
+            {
+                  "name": "Martinas Bauernhof",
+                  "text": "O fermă de aventură în Innsbruck, unde copiii pot experimenta animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        11.375264,
+                        47.243121
+                  ]
+            },
+            {
+                  "name": "Freibad Tivoli",
+                  "text": "O piscină cunoscută în aer liber din Innsbruck, cu vedere la munți.",
+                  "category": "family",
+                  "coords": [
+                        11.408454,
+                        47.260165
+                  ]
+            },
+            {
+                  "name": "Kampfbecken",
+                  "text": "O piscină sportivă în Innsbruck pentru antrenamente intense de înot.",
+                  "category": "family",
+                  "coords": [
+                        11.406944,
+                        47.260924
+                  ]
+            },
+            {
+                  "name": "Lansersee",
+                  "text": "Un lac pitoresc lângă Innsbruck, ideal pentru înot și plajă.",
+                  "category": "family",
+                  "coords": [
+                        11.41715,
+                        47.240273
+                  ]
             }
       ],
       "en": [
@@ -8426,6 +6401,42 @@ export const austriaCities: POI[] = [
                         11.364868,
                         47.254101
                   ]
+            },
+            {
+                  "name": "Martinas Bauernhof",
+                  "text": "An adventure farm in Innsbruck where children can experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        11.375264,
+                        47.243121
+                  ]
+            },
+            {
+                  "name": "Freibad Tivoli",
+                  "text": "A well-known outdoor pool in Innsbruck with mountain views.",
+                  "category": "family",
+                  "coords": [
+                        11.408454,
+                        47.260165
+                  ]
+            },
+            {
+                  "name": "Kampfbecken",
+                  "text": "A sports pool in Innsbruck for intensive swimming training.",
+                  "category": "family",
+                  "coords": [
+                        11.406944,
+                        47.260924
+                  ]
+            },
+            {
+                  "name": "Lansersee",
+                  "text": "A picturesque lake near Innsbruck, ideal for swimming and sunbathing.",
+                  "category": "family",
+                  "coords": [
+                        11.41715,
+                        47.240273
+                  ]
             }
       ]
 }, type: "city", parent: "AT-7", coords: [11.3945, 47.2692],
@@ -8461,1636 +6472,7 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Klagenfurt", "sights": {
-      "de": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
-            {
-                  "name": "Eboardmuseum",
-                  "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.",
-                  "category": "museum",
-                  "coords": [
-                        14.304934,
-                        46.616492
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Ein Museum in Klagenfurt, das religiöse Kunst und kirchengeschichtliche Exponate zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        14.309381,
-                        46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
-                  ]
-            },
-            {
-                  "name": "Stadttheater",
-                  "text": "Das bedeutendste Theaterhaus Kärntens mit einem vielfältigen Programm an Opern und Schauspielen.",
-                  "category": "cultural",
-                  "coords": [
-                        14.305478,
-                        46.627075
-                  ]
-            },
-            {
-                  "name": "Jugendstiltheater Klagenfurt",
-                  "text": "Ein historisches Theatergebäude im Jugendstil, das für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        14.302498,
-                        46.627068
-                  ]
-            },
-            {
-                  "name": "Thomas-Koschat-Museum",
-                  "text": "Ein Museum, das dem Leben und Werk des Kärntner Komponisten Thomas Koschat gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        14.31049,
-                        46.620318
-                  ]
-            },
-            {
-                  "name": "Kammerlichtspiele",
-                  "text": "Eine traditionsreiche Bühne in Klagenfurt, die heute als Jazzclub und Theater fungiert.",
-                  "category": "cultural",
-                  "coords": [
-                        14.312617,
-                        46.62361
-                  ]
-            },
-            {
-                  "name": "VENTIL",
-                  "text": "Ein freies Theater und Kulturzentrum in Klagenfurt für zeitgenössische Bühnenkunst.",
-                  "category": "cultural",
-                  "coords": [
-                        14.311764,
-                        46.624686
-                  ]
-            },
-            {
-                  "name": "Mali Schachmuseum",
-                  "text": "Ein privates Museum in Klagenfurt, das eine umfangreiche Sammlung zum Thema Schach präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        14.290218,
-                        46.6065
-                  ]
-            },
-            {
-                  "name": "Figuren-Museum für Kaffeebeigaben",
-                  "text": "Ein ungewöhnliches Museum, das Sammelfiguren zeigt, die früher Kaffeepackungen beilagen.",
-                  "category": "museum",
-                  "coords": [
-                        14.306637,
-                        46.622086
-                  ]
-            },
-            {
-                  "name": "wissens.wert.welt",
-                  "text": "Ein interaktives Mitmachmuseum in Klagenfurt, das Wissenschaft für Kinder erlebbar macht.",
-                  "category": "museum",
-                  "coords": [
-                        14.32905,
-                        46.611416
-                  ]
-            },
-            {
-                  "name": "Kreuzbergl",
-                  "text": "Der Hausberg von Klagenfurt ist ein beliebtes Naherholungsgebiet mit Waldwegen und Teichen.",
-                  "category": "natural",
-                  "coords": [
-                        14.276646,
-                        46.631716
-                  ]
-            },
-            {
-                  "name": "Wappensaal",
-                  "text": "Ein prächtiger Saal im Klagenfurter Landhaus, geschmückt mit den Wappen der Kärntner Landstände.",
-                  "category": "landmark",
-                  "coords": [
-                        14.305739,
-                        46.625053
-                  ]
-            },
-            {
-                  "name": "Spitalsberg",
-                  "text": "Eine bewaldete Anhöhe in Klagenfurt, die als ruhiges Wandergebiet geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        14.307858,
-                        46.644088
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Eine gepflegte Parkanlage in Klagenfurt, die zum Spazierengehen und Verweilen einlädt.",
-                  "category": "park",
-                  "coords": [
-                        14.303219,
-                        46.625416
-                  ]
-            },
-            {
-                  "name": "Herbertstöckl",
-                  "text": "Ein historisches Herrenhaus in Klagenfurt mit charakteristischer Architektur.",
-                  "category": "historical",
-                  "coords": [
-                        14.302183,
-                        46.628338
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Ein vielfältiger Garten am Fuße des Kreuzbergls, der die heimische und exotische Pflanzenwelt zeigt.",
-                  "category": "park",
-                  "coords": [
-                        14.293014,
-                        46.629668
-                  ]
-            },
-            {
-                  "name": "St.Egyd Panorama View",
-                  "text": "Ein Aussichtspunkt in Klagenfurt, der einen weiten Blick über die Stadt bietet.",
-                  "category": "natural",
-                  "coords": [
-                        14.307223,
-                        46.626224
-                  ]
-            },
-            {
-                  "name": "Karawankenblick",
-                  "text": "Ein Aussichtspunkt, der für seinen freien Blick auf die Gebirgskette der Karawanken bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        14.288248,
-                        46.627867
-                  ]
-            },
-            {
-                  "name": "the artbooster",
-                  "text": "Eine Kunstgalerie in Klagenfurt, die zeitgenössische Werke präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        14.307873,
-                        46.624688
-                  ]
-            },
-            {
-                  "name": "galerie 31",
-                  "text": "Eine kleine Kunstgalerie in Klagenfurt mit Fokus auf regionale Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        14.310977,
-                        46.62268
-                  ]
-            },
-            {
-                  "name": "BV-Galerie",
-                  "text": "Die Galerie der Berufsvereinigung Bildender Künstler Österreichs in Klagenfurt.",
-                  "category": "museum",
-                  "coords": [
-                        14.30147,
-                        46.631208
-                  ]
-            },
-            {
-                  "name": "Galerie Kunstwerk",
-                  "text": "Eine Galerie in Klagenfurt für zeitgenössische Kunst und Ausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        14.300228,
-                        46.627442
-                  ]
-            },
-            {
-                  "name": "Raum für Fotografie",
-                  "text": "Eine Galerie in Klagenfurt, die sich ausschließlich der Fotokunst widmet.",
-                  "category": "museum",
-                  "coords": [
-                        14.306786,
-                        46.619697
-                  ]
-            },
-            {
-                  "name": "Jugendzentrum kwadrat",
-                  "text": "Ein kulturelles Zentrum für Jugendliche in Klagenfurt mit Fokus auf Musik und Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        14.303331,
-                        46.616682
-                  ]
-            },
-            {
-                  "name": "Favela",
-                  "text": "Ein Ausstellungsraum in Klagenfurt für junge und alternative Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        14.286403,
-                        46.62027
-                  ]
-            },
-            {
-                  "name": "ArtGalerie Branko",
-                  "text": "Eine Galerie in Klagenfurt, die moderne Kunstwerke präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        14.309709,
-                        46.625904
-                  ]
-            },
-            {
-                  "name": "Christkönigskirche",
-                  "text": "Eine römisch-katholische Kirche in Klagenfurt mit auffälliger moderner Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        14.295697,
-                        46.623245
-                  ]
-            },
-            {
-                  "name": "Heiligengeistkirche",
-                  "text": "Eine historische Kirche am Heiligengeistplatz im Herzen von Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.304751,
-                        46.624782
-                  ]
-            },
-            {
-                  "name": "St. Martin",
-                  "text": "Eine römisch-katholische Pfarrkirche im Klagenfurter Stadtteil St. Martin.",
-                  "category": "religious",
-                  "coords": [
-                        14.279731,
-                        46.624204
-                  ]
-            },
-            {
-                  "name": "Don Bosco",
-                  "text": "Eine moderne Kirche in Klagenfurt, die der Seelsorge und Gemeinschaft gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        14.298692,
-                        46.610726
-                  ]
-            },
-            {
-                  "name": "Filialkirche Sankt Primus",
-                  "text": "Eine kleinere Kirche in Klagenfurt, die dem heiligen Primus geweiht ist.",
-                  "category": "religious",
-                  "coords": [
-                        14.276493,
-                        46.638537
-                  ]
-            },
-            {
-                  "name": "Neuapostolische Kirche Klagenfurt",
-                  "text": "Das Gemeindezentrum der Neuapostolischen Kirche in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.311766,
-                        46.641207
-                  ]
-            },
-            {
-                  "name": "Klagenfurt-St. Hemma",
-                  "text": "Eine moderne katholische Pfarrkirche in Klagenfurt, benannt nach der heiligen Hemma.",
-                  "category": "religious",
-                  "coords": [
-                        14.296736,
-                        46.634534
-                  ]
-            },
-            {
-                  "name": "St. Lorenzen",
-                  "text": "Eine historische Kirche im ländlich geprägten Umfeld von Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.315839,
-                        46.626015
-                  ]
-            },
-            {
-                  "name": "Johanneskirche",
-                  "text": "Eine evangelische Kirche in Klagenfurt mit schlichter und einladender Gestaltung.",
-                  "category": "religious",
-                  "coords": [
-                        14.299596,
-                        46.623668
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Josef",
-                  "text": "Eine römisch-katholische Pfarrkirche, die den Mittelpunkt des Stadtteils Siebenhügel bildet.",
-                  "category": "religious",
-                  "coords": [
-                        14.283565,
-                        46.612462
-                  ]
-            },
-            {
-                  "name": "Christuskirche",
-                  "text": "Ein Kirchengebäude in Klagenfurt, das als Ort des Gebets und der Besinnung dient.",
-                  "category": "religious",
-                  "coords": [
-                        14.327702,
-                        46.632603
-                  ]
-            },
-            {
-                  "name": "St. Theresia",
-                  "text": "Eine katholische Kirche in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.324201,
-                        46.634642
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Peter",
-                  "text": "Eine dem heiligen Peter geweihte Pfarrkirche in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.328167,
-                        46.624467
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Modestus",
-                  "text": "Eine römisch-katholische Pfarrkirche in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.332908,
-                        46.619623
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Annabichl",
-                  "text": "Die Pfarrkirche im Stadtteil Annabichl in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313437,
-                        46.640378
-                  ]
-            },
-            {
-                  "name": "Kreuzberglkirche",
-                  "text": "Eine markante Kalvarienbergkirche auf dem Kreuzbergl in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.29195,
-                        46.628725
-                  ]
-            },
-            {
-                  "name": "St. Ruprecht",
-                  "text": "Eine dem heiligen Ruprecht geweihte Kirche in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313333,
-                        46.61214
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
-            {
-                  "name": "Eboardmuseum",
-                  "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        14.304934,
-                        46.616492
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Klagenfurti múzeum, amely vallási művészetet és egyháztörténeti kiállítási tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        14.309381,
-                        46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
-                  ]
-            },
-            {
-                  "name": "Stadttheater",
-                  "text": "Karintia legjelentősebb színháza, operák és színdarabok változatos programjával.",
-                  "category": "cultural",
-                  "coords": [
-                        14.305478,
-                        46.627075
-                  ]
-            },
-            {
-                  "name": "Jugendstiltheater Klagenfurt",
-                  "text": "Történelmi szecessziós színházépület, amelyet kulturális eseményekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        14.302498,
-                        46.627068
-                  ]
-            },
-            {
-                  "name": "Thomas-Koschat-Museum",
-                  "text": "A Thomas Koschat karintiai zeneszerző életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        14.31049,
-                        46.620318
-                  ]
-            },
-            {
-                  "name": "Kammerlichtspiele",
-                  "text": "Gazdag hagyományokkal rendelkező színpad Klagenfurtban, amely ma jazzklubként és színházként működik.",
-                  "category": "cultural",
-                  "coords": [
-                        14.312617,
-                        46.62361
-                  ]
-            },
-            {
-                  "name": "VENTIL",
-                  "text": "Független színház és kulturális központ Klagenfurtban a kortárs színművészet számára.",
-                  "category": "cultural",
-                  "coords": [
-                        14.311764,
-                        46.624686
-                  ]
-            },
-            {
-                  "name": "Mali Schachmuseum",
-                  "text": "Klagenfurti magánmúzeum, amely kiterjedt gyűjteményt mutat be a sakk témakörében.",
-                  "category": "museum",
-                  "coords": [
-                        14.290218,
-                        46.6065
-                  ]
-            },
-            {
-                  "name": "Figuren-Museum für Kaffeebeigaben",
-                  "text": "Szokatlan múzeum, amely a korábban kávécsomagokhoz mellékelt gyűjthető figurákat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        14.306637,
-                        46.622086
-                  ]
-            },
-            {
-                  "name": "wissens.wert.welt",
-                  "text": "Interaktív klagenfurti múzeum, amely a tudományt élményszerűvé teszi gyerekek számára.",
-                  "category": "museum",
-                  "coords": [
-                        14.32905,
-                        46.611416
-                  ]
-            },
-            {
-                  "name": "Kreuzbergl",
-                  "text": "Klagenfurt házi hegye népszerű kirándulóhely erdei utakkal és tavakkal.",
-                  "category": "natural",
-                  "coords": [
-                        14.276646,
-                        46.631716
-                  ]
-            },
-            {
-                  "name": "Wappensaal",
-                  "text": "A klagenfurti Landhaus pompás terme, amelyet a karintiai rendek címerei díszítenek.",
-                  "category": "landmark",
-                  "coords": [
-                        14.305739,
-                        46.625053
-                  ]
-            },
-            {
-                  "name": "Spitalsberg",
-                  "text": "Erdős domb Klagenfurtban, amelyet csendes túraútvonalként kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        14.307858,
-                        46.644088
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Gondozott park Klagenfurtban, amely sétára és kikapcsolódásra hív.",
-                  "category": "park",
-                  "coords": [
-                        14.303219,
-                        46.625416
-                  ]
-            },
-            {
-                  "name": "Herbertstöckl",
-                  "text": "Történelmi udvarház Klagenfurtban, jellegzetes építészeti stílussal.",
-                  "category": "historical",
-                  "coords": [
-                        14.302183,
-                        46.628338
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Változatos kert a Kreuzbergl lábánál, amely a hazai és az egzotikus növényvilágot mutatja be.",
-                  "category": "park",
-                  "coords": [
-                        14.293014,
-                        46.629668
-                  ]
-            },
-            {
-                  "name": "St.Egyd Panorama View",
-                  "text": "Kilátópont Klagenfurtban, ahonnan pazar kilátás nyílik a városra.",
-                  "category": "natural",
-                  "coords": [
-                        14.307223,
-                        46.626224
-                  ]
-            },
-            {
-                  "name": "Karawankenblick",
-                  "text": "Kilátópont, amely a Karavankák hegyláncára nyíló zavartalan kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        14.288248,
-                        46.627867
-                  ]
-            },
-            {
-                  "name": "the artbooster",
-                  "text": "Kortárs műveket bemutató művészeti galéria Klagenfurtban.",
-                  "category": "museum",
-                  "coords": [
-                        14.307873,
-                        46.624688
-                  ]
-            },
-            {
-                  "name": "galerie 31",
-                  "text": "Kis művészeti galéria Klagenfurtban, regionális művészekre fókuszálva.",
-                  "category": "museum",
-                  "coords": [
-                        14.310977,
-                        46.62268
-                  ]
-            },
-            {
-                  "name": "BV-Galerie",
-                  "text": "Az osztrák képzőművészek szakmai szövetségének galériája Klagenfurtban.",
-                  "category": "museum",
-                  "coords": [
-                        14.30147,
-                        46.631208
-                  ]
-            },
-            {
-                  "name": "Galerie Kunstwerk",
-                  "text": "Kortárs művészeti galéria és kiállítóhely Klagenfurtban.",
-                  "category": "museum",
-                  "coords": [
-                        14.300228,
-                        46.627442
-                  ]
-            },
-            {
-                  "name": "Raum für Fotografie",
-                  "text": "Klagenfurti galéria, amelyet kizárólag a fotóművészetnek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        14.306786,
-                        46.619697
-                  ]
-            },
-            {
-                  "name": "Jugendzentrum kwadrat",
-                  "text": "Kulturális központ fiataloknak Klagenfurtban, a zenére és a művészetre összpontosítva.",
-                  "category": "cultural",
-                  "coords": [
-                        14.303331,
-                        46.616682
-                  ]
-            },
-            {
-                  "name": "Favela",
-                  "text": "Kiállítóhely Klagenfurtban fiatal és alternatív művészet számára.",
-                  "category": "museum",
-                  "coords": [
-                        14.286403,
-                        46.62027
-                  ]
-            },
-            {
-                  "name": "ArtGalerie Branko",
-                  "text": "Modern műalkotásokat bemutató galéria Klagenfurtban.",
-                  "category": "museum",
-                  "coords": [
-                        14.309709,
-                        46.625904
-                  ]
-            },
-            {
-                  "name": "Christkönigskirche",
-                  "text": "Római katolikus templom Klagenfurtban, feltűnő modern építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        14.295697,
-                        46.623245
-                  ]
-            },
-            {
-                  "name": "Heiligengeistkirche",
-                  "text": "Történelmi templom a Heiligengeistplatzon, Klagenfurt szívében.",
-                  "category": "religious",
-                  "coords": [
-                        14.304751,
-                        46.624782
-                  ]
-            },
-            {
-                  "name": "St. Martin",
-                  "text": "Római katolikus plébániatemplom Klagenfurt Szent Márton városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        14.279731,
-                        46.624204
-                  ]
-            },
-            {
-                  "name": "Don Bosco",
-                  "text": "Modern templom Klagenfurtban, amelyet a lelkigondozásnak és a közösségnek szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        14.298692,
-                        46.610726
-                  ]
-            },
-            {
-                  "name": "Filialkirche Sankt Primus",
-                  "text": "Kisebb templom Klagenfurtban, amelyet Szent Primusz tiszteletére szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        14.276493,
-                        46.638537
-                  ]
-            },
-            {
-                  "name": "Neuapostolische Kirche Klagenfurt",
-                  "text": "Az Új Apostoli Egyház gyülekezeti központja Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.311766,
-                        46.641207
-                  ]
-            },
-            {
-                  "name": "Klagenfurt-St. Hemma",
-                  "text": "Modern katolikus plébániatemplom Klagenfurtban, Szent Hemmáról elnevezve.",
-                  "category": "religious",
-                  "coords": [
-                        14.296736,
-                        46.634534
-                  ]
-            },
-            {
-                  "name": "St. Lorenzen",
-                  "text": "Történelmi templom Klagenfurt vidékies környezetében.",
-                  "category": "religious",
-                  "coords": [
-                        14.315839,
-                        46.626015
-                  ]
-            },
-            {
-                  "name": "Johanneskirche",
-                  "text": "Egyszerű és hívogató kialakítású evangélikus templom Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.299596,
-                        46.623668
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Josef",
-                  "text": "Római katolikus plébániatemplom, amely a Siebenhügel városrész központját alkotja.",
-                  "category": "religious",
-                  "coords": [
-                        14.283565,
-                        46.612462
-                  ]
-            },
-            {
-                  "name": "Christuskirche",
-                  "text": "Templomépület Klagenfurtban, amely az imádság és az elmélkedés helyszínéül szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        14.327702,
-                        46.632603
-                  ]
-            },
-            {
-                  "name": "St. Theresia",
-                  "text": "Egy katolikus templom Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.324201,
-                        46.634642
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Peter",
-                  "text": "Szent Péternek szentelt plébániatemplom Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.328167,
-                        46.624467
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Modestus",
-                  "text": "Római katolikus plébániatemplom Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.332908,
-                        46.619623
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Annabichl",
-                  "text": "Klagenfurt Annabichl negyedének plébániatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        14.313437,
-                        46.640378
-                  ]
-            },
-            {
-                  "name": "Kreuzberglkirche",
-                  "text": "Jellegzetes kálvária-templom a klagenfurti Kreuzbergl-dombon.",
-                  "category": "religious",
-                  "coords": [
-                        14.29195,
-                        46.628725
-                  ]
-            },
-            {
-                  "name": "St. Ruprecht",
-                  "text": "Szent Ruprechtnek szentelt templom Klagenfurtban.",
-                  "category": "religious",
-                  "coords": [
-                        14.313333,
-                        46.61214
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
-            {
-                  "name": "Eboardmuseum",
-                  "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.",
-                  "category": "museum",
-                  "coords": [
-                        14.304934,
-                        46.616492
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "Un muzeu din Klagenfurt care expune artă religioasă și obiecte de istorie bisericească.",
-                  "category": "museum",
-                  "coords": [
-                        14.309381,
-                        46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
-                  ]
-            },
-            {
-                  "name": "Stadttheater",
-                  "text": "Cea mai importantă casă de teatru din Carintia, cu un program divers de opere și piese de teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        14.305478,
-                        46.627075
-                  ]
-            },
-            {
-                  "name": "Jugendstiltheater Klagenfurt",
-                  "text": "O clădire istorică de teatru în stil Jugendstil, utilizată pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        14.302498,
-                        46.627068
-                  ]
-            },
-            {
-                  "name": "Thomas-Koschat-Museum",
-                  "text": "Un muzeu dedicat vieții și operei compozitorului carintian Thomas Koschat.",
-                  "category": "museum",
-                  "coords": [
-                        14.31049,
-                        46.620318
-                  ]
-            },
-            {
-                  "name": "Kammerlichtspiele",
-                  "text": "O scenă cu tradiție din Klagenfurt, care funcționează astăzi ca club de jazz și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        14.312617,
-                        46.62361
-                  ]
-            },
-            {
-                  "name": "VENTIL",
-                  "text": "Un teatru independent și centru cultural din Klagenfurt pentru arta dramatică contemporană.",
-                  "category": "cultural",
-                  "coords": [
-                        14.311764,
-                        46.624686
-                  ]
-            },
-            {
-                  "name": "Mali Schachmuseum",
-                  "text": "Un muzeu privat din Klagenfurt care prezintă o colecție extinsă pe tema șahului.",
-                  "category": "museum",
-                  "coords": [
-                        14.290218,
-                        46.6065
-                  ]
-            },
-            {
-                  "name": "Figuren-Museum für Kaffeebeigaben",
-                  "text": "Un muzeu neobișnuit care expune figurine de colecție ce însoțeau anterior pachetele de cafea.",
-                  "category": "museum",
-                  "coords": [
-                        14.306637,
-                        46.622086
-                  ]
-            },
-            {
-                  "name": "wissens.wert.welt",
-                  "text": "Un muzeu interactiv din Klagenfurt care face știința accesibilă copiilor.",
-                  "category": "museum",
-                  "coords": [
-                        14.32905,
-                        46.611416
-                  ]
-            },
-            {
-                  "name": "Kreuzbergl",
-                  "text": "Muntele local al orașului Klagenfurt este o zonă populară de recreere cu poteci și iazuri.",
-                  "category": "natural",
-                  "coords": [
-                        14.276646,
-                        46.631716
-                  ]
-            },
-            {
-                  "name": "Wappensaal",
-                  "text": "O sală magnifică în Landhaus-ul din Klagenfurt, decorată cu blazoanele stărilor carintiene.",
-                  "category": "landmark",
-                  "coords": [
-                        14.305739,
-                        46.625053
-                  ]
-            },
-            {
-                  "name": "Spitalsberg",
-                  "text": "O colină împădurită din Klagenfurt, apreciată ca zonă liniștită de drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        14.307858,
-                        46.644088
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Un parc bine întreținut în Klagenfurt, care invită la plimbări și relaxare.",
-                  "category": "park",
-                  "coords": [
-                        14.303219,
-                        46.625416
-                  ]
-            },
-            {
-                  "name": "Herbertstöckl",
-                  "text": "Un conac istoric din Klagenfurt cu arhitectură caracteristică.",
-                  "category": "historical",
-                  "coords": [
-                        14.302183,
-                        46.628338
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "O grădină diversă la poalele Kreuzbergl, care prezintă flora locală și exotică.",
-                  "category": "park",
-                  "coords": [
-                        14.293014,
-                        46.629668
-                  ]
-            },
-            {
-                  "name": "St.Egyd Panorama View",
-                  "text": "Un punct de observație din Klagenfurt, care oferă o vedere panoramică asupra orașului.",
-                  "category": "natural",
-                  "coords": [
-                        14.307223,
-                        46.626224
-                  ]
-            },
-            {
-                  "name": "Karawankenblick",
-                  "text": "Un punct de observație cunoscut pentru vederea sa asupra lanțului muntos Karawanken.",
-                  "category": "natural",
-                  "coords": [
-                        14.288248,
-                        46.627867
-                  ]
-            },
-            {
-                  "name": "the artbooster",
-                  "text": "O galerie de artă din Klagenfurt care prezintă lucrări contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        14.307873,
-                        46.624688
-                  ]
-            },
-            {
-                  "name": "galerie 31",
-                  "text": "O mică galerie de artă din Klagenfurt, cu accent pe artiștii regionali.",
-                  "category": "museum",
-                  "coords": [
-                        14.310977,
-                        46.62268
-                  ]
-            },
-            {
-                  "name": "BV-Galerie",
-                  "text": "Galeria asociației profesionale a artiștilor vizuali din Austria în Klagenfurt.",
-                  "category": "museum",
-                  "coords": [
-                        14.30147,
-                        46.631208
-                  ]
-            },
-            {
-                  "name": "Galerie Kunstwerk",
-                  "text": "O galerie în Klagenfurt pentru artă contemporană și expoziții.",
-                  "category": "museum",
-                  "coords": [
-                        14.300228,
-                        46.627442
-                  ]
-            },
-            {
-                  "name": "Raum für Fotografie",
-                  "text": "O galerie din Klagenfurt dedicată exclusiv artei fotografice.",
-                  "category": "museum",
-                  "coords": [
-                        14.306786,
-                        46.619697
-                  ]
-            },
-            {
-                  "name": "Jugendzentrum kwadrat",
-                  "text": "Un centru cultural pentru tineri în Klagenfurt, cu accent pe muzică și artă.",
-                  "category": "cultural",
-                  "coords": [
-                        14.303331,
-                        46.616682
-                  ]
-            },
-            {
-                  "name": "Favela",
-                  "text": "Un spațiu de expoziție în Klagenfurt pentru artă tânără și alternativă.",
-                  "category": "museum",
-                  "coords": [
-                        14.286403,
-                        46.62027
-                  ]
-            },
-            {
-                  "name": "ArtGalerie Branko",
-                  "text": "O galerie din Klagenfurt care prezintă opere de artă modernă.",
-                  "category": "museum",
-                  "coords": [
-                        14.309709,
-                        46.625904
-                  ]
-            },
-            {
-                  "name": "Christkönigskirche",
-                  "text": "O biserică romano-catolică din Klagenfurt cu o arhitectură modernă frapantă.",
-                  "category": "religious",
-                  "coords": [
-                        14.295697,
-                        46.623245
-                  ]
-            },
-            {
-                  "name": "Heiligengeistkirche",
-                  "text": "O biserică istorică în Heiligengeistplatz, în inima orașului Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.304751,
-                        46.624782
-                  ]
-            },
-            {
-                  "name": "St. Martin",
-                  "text": "O biserică parohială romano-catolică în cartierul St. Martin din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.279731,
-                        46.624204
-                  ]
-            },
-            {
-                  "name": "Don Bosco",
-                  "text": "O biserică modernă din Klagenfurt dedicată asistenței spirituale și comunității.",
-                  "category": "religious",
-                  "coords": [
-                        14.298692,
-                        46.610726
-                  ]
-            },
-            {
-                  "name": "Filialkirche Sankt Primus",
-                  "text": "O biserică mai mică din Klagenfurt, sfințită în cinstea Sfântului Primus.",
-                  "category": "religious",
-                  "coords": [
-                        14.276493,
-                        46.638537
-                  ]
-            },
-            {
-                  "name": "Neuapostolische Kirche Klagenfurt",
-                  "text": "Centrul comunitar al Bisericii Nou-Apostolice din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.311766,
-                        46.641207
-                  ]
-            },
-            {
-                  "name": "Klagenfurt-St. Hemma",
-                  "text": "O biserică parohială catolică modernă din Klagenfurt, numită după Sfânta Hemma.",
-                  "category": "religious",
-                  "coords": [
-                        14.296736,
-                        46.634534
-                  ]
-            },
-            {
-                  "name": "St. Lorenzen",
-                  "text": "O biserică istorică în cadrul rural al orașului Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.315839,
-                        46.626015
-                  ]
-            },
-            {
-                  "name": "Johanneskirche",
-                  "text": "O biserică evanghelică din Klagenfurt, cu un design simplu și primitor.",
-                  "category": "religious",
-                  "coords": [
-                        14.299596,
-                        46.623668
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Josef",
-                  "text": "O biserică parohială romano-catolică ce formează centrul cartierului Siebenhügel.",
-                  "category": "religious",
-                  "coords": [
-                        14.283565,
-                        46.612462
-                  ]
-            },
-            {
-                  "name": "Christuskirche",
-                  "text": "O clădire de biserică din Klagenfurt, care servește ca loc de rugăciune și reflecție.",
-                  "category": "religious",
-                  "coords": [
-                        14.327702,
-                        46.632603
-                  ]
-            },
-            {
-                  "name": "St. Theresia",
-                  "text": "O biserică catolică din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.324201,
-                        46.634642
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Peter",
-                  "text": "O biserică parohială dedicată Sfântului Petru din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.328167,
-                        46.624467
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Modestus",
-                  "text": "O biserică parohială romano-catolică din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.332908,
-                        46.619623
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Annabichl",
-                  "text": "Biserica parohială din cartierul Annabichl din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313437,
-                        46.640378
-                  ]
-            },
-            {
-                  "name": "Kreuzberglkirche",
-                  "text": "O biserică emblematică de pe dealul Kreuzbergl din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.29195,
-                        46.628725
-                  ]
-            },
-            {
-                  "name": "St. Ruprecht",
-                  "text": "O biserică dedicată Sfântului Ruprecht din Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313333,
-                        46.61214
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
-            {
-                  "name": "Eboardmuseum",
-                  "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.",
-                  "category": "museum",
-                  "coords": [
-                        14.304934,
-                        46.616492
-                  ]
-            },
-            {
-                  "name": "Diözesanmuseum",
-                  "text": "A museum in Klagenfurt displaying religious art and church history exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        14.309381,
-                        46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
-                  ]
-            },
-            {
-                  "name": "Stadttheater",
-                  "text": "Carinthia's most important theater house with a diverse program of operas and plays.",
-                  "category": "cultural",
-                  "coords": [
-                        14.305478,
-                        46.627075
-                  ]
-            },
-            {
-                  "name": "Jugendstiltheater Klagenfurt",
-                  "text": "A historic Art Nouveau theater building used for cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        14.302498,
-                        46.627068
-                  ]
-            },
-            {
-                  "name": "Thomas-Koschat-Museum",
-                  "text": "A museum dedicated to the life and work of the Carinthian composer Thomas Koschat.",
-                  "category": "museum",
-                  "coords": [
-                        14.31049,
-                        46.620318
-                  ]
-            },
-            {
-                  "name": "Kammerlichtspiele",
-                  "text": "A traditional stage in Klagenfurt that today functions as a jazz club and theater.",
-                  "category": "cultural",
-                  "coords": [
-                        14.312617,
-                        46.62361
-                  ]
-            },
-            {
-                  "name": "VENTIL",
-                  "text": "An independent theater and cultural center in Klagenfurt for contemporary performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        14.311764,
-                        46.624686
-                  ]
-            },
-            {
-                  "name": "Mali Schachmuseum",
-                  "text": "A private museum in Klagenfurt presenting an extensive collection on the subject of chess.",
-                  "category": "museum",
-                  "coords": [
-                        14.290218,
-                        46.6065
-                  ]
-            },
-            {
-                  "name": "Figuren-Museum für Kaffeebeigaben",
-                  "text": "An unusual museum displaying collectible figures that formerly accompanied coffee packages.",
-                  "category": "museum",
-                  "coords": [
-                        14.306637,
-                        46.622086
-                  ]
-            },
-            {
-                  "name": "wissens.wert.welt",
-                  "text": "An interactive hands-on museum in Klagenfurt that makes science accessible for children.",
-                  "category": "museum",
-                  "coords": [
-                        14.32905,
-                        46.611416
-                  ]
-            },
-            {
-                  "name": "Kreuzbergl",
-                  "text": "The local mountain of Klagenfurt is a popular recreation area with forest paths and ponds.",
-                  "category": "natural",
-                  "coords": [
-                        14.276646,
-                        46.631716
-                  ]
-            },
-            {
-                  "name": "Wappensaal",
-                  "text": "A magnificent hall in the Klagenfurt Landhaus, decorated with the coats of arms of the Carinthian estates.",
-                  "category": "landmark",
-                  "coords": [
-                        14.305739,
-                        46.625053
-                  ]
-            },
-            {
-                  "name": "Spitalsberg",
-                  "text": "A wooded hill in Klagenfurt appreciated as a quiet hiking area.",
-                  "category": "natural",
-                  "coords": [
-                        14.307858,
-                        46.644088
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "A well-maintained park in Klagenfurt that invites walking and relaxation.",
-                  "category": "park",
-                  "coords": [
-                        14.303219,
-                        46.625416
-                  ]
-            },
-            {
-                  "name": "Herbertstöckl",
-                  "text": "A historic manor house in Klagenfurt with characteristic architecture.",
-                  "category": "historical",
-                  "coords": [
-                        14.302183,
-                        46.628338
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "A diverse garden at the foot of the Kreuzbergl, showcasing local and exotic plant life.",
-                  "category": "park",
-                  "coords": [
-                        14.293014,
-                        46.629668
-                  ]
-            },
-            {
-                  "name": "St.Egyd Panorama View",
-                  "text": "A viewpoint in Klagenfurt offering a wide view over the city.",
-                  "category": "natural",
-                  "coords": [
-                        14.307223,
-                        46.626224
-                  ]
-            },
-            {
-                  "name": "Karawankenblick",
-                  "text": "A viewpoint known for its clear view of the Karawanken mountain range.",
-                  "category": "natural",
-                  "coords": [
-                        14.288248,
-                        46.627867
-                  ]
-            },
-            {
-                  "name": "the artbooster",
-                  "text": "An art gallery in Klagenfurt presenting contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        14.307873,
-                        46.624688
-                  ]
-            },
-            {
-                  "name": "galerie 31",
-                  "text": "A small art gallery in Klagenfurt focusing on regional artists.",
-                  "category": "museum",
-                  "coords": [
-                        14.310977,
-                        46.62268
-                  ]
-            },
-            {
-                  "name": "BV-Galerie",
-                  "text": "The gallery of the professional association of visual artists in Austria in Klagenfurt.",
-                  "category": "museum",
-                  "coords": [
-                        14.30147,
-                        46.631208
-                  ]
-            },
-            {
-                  "name": "Galerie Kunstwerk",
-                  "text": "A gallery in Klagenfurt for contemporary art and exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        14.300228,
-                        46.627442
-                  ]
-            },
-            {
-                  "name": "Raum für Fotografie",
-                  "text": "A gallery in Klagenfurt dedicated exclusively to the art of photography.",
-                  "category": "museum",
-                  "coords": [
-                        14.306786,
-                        46.619697
-                  ]
-            },
-            {
-                  "name": "Jugendzentrum kwadrat",
-                  "text": "A cultural center for youth in Klagenfurt with a focus on music and art.",
-                  "category": "cultural",
-                  "coords": [
-                        14.303331,
-                        46.616682
-                  ]
-            },
-            {
-                  "name": "Favela",
-                  "text": "An exhibition space in Klagenfurt for young and alternative art.",
-                  "category": "museum",
-                  "coords": [
-                        14.286403,
-                        46.62027
-                  ]
-            },
-            {
-                  "name": "ArtGalerie Branko",
-                  "text": "A gallery in Klagenfurt presenting modern works of art.",
-                  "category": "museum",
-                  "coords": [
-                        14.309709,
-                        46.625904
-                  ]
-            },
-            {
-                  "name": "Christkönigskirche",
-                  "text": "A Roman Catholic church in Klagenfurt with striking modern architecture.",
-                  "category": "religious",
-                  "coords": [
-                        14.295697,
-                        46.623245
-                  ]
-            },
-            {
-                  "name": "Heiligengeistkirche",
-                  "text": "A historic church on Heiligengeistplatz in the heart of Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.304751,
-                        46.624782
-                  ]
-            },
-            {
-                  "name": "St. Martin",
-                  "text": "A Roman Catholic parish church in the St. Martin district of Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.279731,
-                        46.624204
-                  ]
-            },
-            {
-                  "name": "Don Bosco",
-                  "text": "A modern church in Klagenfurt dedicated to pastoral care and community.",
-                  "category": "religious",
-                  "coords": [
-                        14.298692,
-                        46.610726
-                  ]
-            },
-            {
-                  "name": "Filialkirche Sankt Primus",
-                  "text": "A smaller church in Klagenfurt dedicated to Saint Primus.",
-                  "category": "religious",
-                  "coords": [
-                        14.276493,
-                        46.638537
-                  ]
-            },
-            {
-                  "name": "Neuapostolische Kirche Klagenfurt",
-                  "text": "The community center of the New Apostolic Church in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.311766,
-                        46.641207
-                  ]
-            },
-            {
-                  "name": "Klagenfurt-St. Hemma",
-                  "text": "A modern Catholic parish church in Klagenfurt named after Saint Hemma.",
-                  "category": "religious",
-                  "coords": [
-                        14.296736,
-                        46.634534
-                  ]
-            },
-            {
-                  "name": "St. Lorenzen",
-                  "text": "A historic church in the rural surroundings of Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.315839,
-                        46.626015
-                  ]
-            },
-            {
-                  "name": "Johanneskirche",
-                  "text": "A Protestant church in Klagenfurt with a simple and inviting design.",
-                  "category": "religious",
-                  "coords": [
-                        14.299596,
-                        46.623668
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Josef",
-                  "text": "A Roman Catholic parish church that forms the center of the Siebenhügel district.",
-                  "category": "religious",
-                  "coords": [
-                        14.283565,
-                        46.612462
-                  ]
-            },
-            {
-                  "name": "Christuskirche",
-                  "text": "A church building in Klagenfurt serving as a place of prayer and reflection.",
-                  "category": "religious",
-                  "coords": [
-                        14.327702,
-                        46.632603
-                  ]
-            },
-            {
-                  "name": "St. Theresia",
-                  "text": "A Catholic church located in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.324201,
-                        46.634642
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Peter",
-                  "text": "A parish church dedicated to St. Peter in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.328167,
-                        46.624467
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Modestus",
-                  "text": "A Roman Catholic parish church in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.332908,
-                        46.619623
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Annabichl",
-                  "text": "The parish church in the Annabichl district of Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313437,
-                        46.640378
-                  ]
-            },
-            {
-                  "name": "Kreuzberglkirche",
-                  "text": "A prominent Calvary church located on the Kreuzbergl hill in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.29195,
-                        46.628725
-                  ]
-            },
-            {
-                  "name": "St. Ruprecht",
-                  "text": "A church dedicated to St. Ruprecht in Klagenfurt.",
-                  "category": "religious",
-                  "coords": [
-                        14.313333,
-                        46.61214
-                  ]
-            }
-      ]
-}, type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
+    id: "AT-Klagenfurt", "sights": {"de": [{"name": "Museum Moderner Kunst Kärnten", "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Ein Museum in Klagenfurt, das religiöse Kunst und kirchengeschichtliche Exponate zeigt.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Das bedeutendste Theaterhaus Kärntens mit einem vielfältigen Programm an Opern und Schauspielen.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "Ein historisches Theatergebäude im Jugendstil, das für kulturelle Veranstaltungen genutzt wird.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "Das Thomas-Koschat-Museum in Klagenfurt widmet sich dem Leben und dem musikalischen Werk des bekannten Kärntner Komponisten. Besucher können hier tiefere Einblicke in sein Schaffen gewinnen.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "Eine traditionsreiche Bühne in Klagenfurt, die heute als Jazzclub und Theater fungiert.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Ein freies Theater und Kulturzentrum in Klagenfurt für zeitgenössische Bühnenkunst.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Ein privates Museum in Klagenfurt, das eine umfangreiche Sammlung zum Thema Schach präsentiert.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Ein ungewöhnliches Museum, das Sammelfiguren zeigt, die früher Kaffeepackungen beilagen.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Ein interaktives Mitmachmuseum in Klagenfurt, das Wissenschaft für Kinder erlebbar macht.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Der Hausberg von Klagenfurt ist ein beliebtes Naherholungsgebiet mit Waldwegen und Teichen.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "Ein prächtiger Saal im Klagenfurter Landhaus, geschmückt mit den Wappen der Kärntner Landstände.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "Eine bewaldete Anhöhe in Klagenfurt, die als ruhiges Wandergebiet geschätzt wird.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Eine gepflegte Parkanlage in Klagenfurt, die zum Spazierengehen und Verweilen einlädt.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Ein historisches Herrenhaus in Klagenfurt mit charakteristischer Architektur.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "Ein vielfältiger Garten am Fuße des Kreuzbergls, der die heimische und exotische Pflanzenwelt zeigt.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Ein Aussichtspunkt in Klagenfurt, der einen weiten Blick über die Stadt bietet.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Ein Aussichtspunkt, der für seinen freien Blick auf die Gebirgskette der Karawanken bekannt ist.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "Eine Kunstgalerie in Klagenfurt, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "Eine kleine Kunstgalerie in Klagenfurt mit Fokus auf regionale Künstler.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Die Galerie der Berufsvereinigung Bildender Künstler Österreichs in Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "Eine Galerie in Klagenfurt für zeitgenössische Kunst und Ausstellungen.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "Eine Galerie in Klagenfurt, die sich ausschließlich der Fotokunst widmet.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Ein kulturelles Zentrum für Jugendliche in Klagenfurt mit Fokus auf Musik und Kunst.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Ein Ausstellungsraum in Klagenfurt für junge und alternative Kunst.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "Eine Galerie in Klagenfurt, die moderne Kunstwerke präsentiert.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "Eine römisch-katholische Kirche in Klagenfurt mit auffälliger moderner Architektur.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "Eine historische Kirche am Heiligengeistplatz im Herzen von Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "Eine römisch-katholische Pfarrkirche im Klagenfurter Stadtteil St. Martin.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "Eine moderne Kirche in Klagenfurt, die der Seelsorge und Gemeinschaft gewidmet ist.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "Eine kleinere Kirche in Klagenfurt, die dem heiligen Primus geweiht ist.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Das Gemeindezentrum der Neuapostolischen Kirche in Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "Eine moderne katholische Pfarrkirche in Klagenfurt, benannt nach der heiligen Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "Eine historische Kirche im ländlich geprägten Umfeld von Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "Eine evangelische Kirche in Klagenfurt mit schlichter und einladender Gestaltung.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "Eine römisch-katholische Pfarrkirche, die den Mittelpunkt des Stadtteils Siebenhügel bildet.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "Ein Kirchengebäude in Klagenfurt, das als Ort des Gebets und der Besinnung dient.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "Eine katholische Kirche in Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "Eine dem heiligen Peter geweihte Pfarrkirche in Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "Eine römisch-katholische Pfarrkirche in Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Die Pfarrkirche im Stadtteil Annabichl in Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "Eine markante Kalvarienbergkirche auf dem Kreuzbergl in Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "Eine dem heiligen Ruprecht geweihte Kirche in Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "Das Strandbad Klagenfurt am Wörthersee ist eines der größten Binnenseebäder Europas mit weitläufigen Stegen.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus in Klagenfurt zeigt berühmte Bauwerke der Welt im Miniaturformat und begeistert alle Altersgruppen.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "Der Reptilienzoo Happ in Klagenfurt präsentiert eine Vielzahl von Schlangen, Echsen und anderen Reptilien.", "category": "family", "coords": [14.265566, 46.619839]}], "hu": [{"name": "Museum Moderner Kunst Kärnten", "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Klagenfurti múzeum, amely vallási művészetet és egyháztörténeti kiállítási tárgyakat mutat be.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Karintia legjelentősebb színháza, operák és színdarabok változatos programjával.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "Történelmi szecessziós színházépület, amelyet kulturális eseményekre használnak.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "A klagenfurti Thomas-Koschat-Museum a híres karintiai zeneszerző életének és munkásságának állít emléket. A múzeum látogatói mélyebb bepillantást nyerhetnek zenei örökségébe.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "Gazdag hagyományokkal rendelkező színpad Klagenfurtban, amely ma jazzklubként és színházként működik.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Független színház és kulturális központ Klagenfurtban a kortárs színművészet számára.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Klagenfurti magánmúzeum, amely kiterjedt gyűjteményt mutat be a sakk témakörében.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Szokatlan múzeum, amely a korábban kávécsomagokhoz mellékelt gyűjthető figurákat mutatja be.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Interaktív klagenfurti múzeum, amely a tudományt élményszerűvé teszi gyerekek számára.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Klagenfurt házi hegye népszerű kirándulóhely erdei utakkal és tavakkal.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "A klagenfurti Landhaus pompás terme, amelyet a karintiai rendek címerei díszítenek.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "Erdős domb Klagenfurtban, amelyet csendes túraútvonalként kedvelnek.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Gondozott park Klagenfurtban, amely sétára és kikapcsolódásra hív.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Történelmi udvarház Klagenfurtban, jellegzetes építészeti stílussal.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "Változatos kert a Kreuzbergl lábánál, amely a hazai és az egzotikus növényvilágot mutatja be.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Kilátópont Klagenfurtban, ahonnan pazar kilátás nyílik a városra.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Kilátópont, amely a Karavankák hegyláncára nyíló zavartalan kilátásáról ismert.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "Kortárs műveket bemutató művészeti galéria Klagenfurtban.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "Kis művészeti galéria Klagenfurtban, regionális művészekre fókuszálva.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Az osztrák képzőművészek szakmai szövetségének galériája Klagenfurtban.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "Kortárs művészeti galéria és kiállítóhely Klagenfurtban.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "Klagenfurti galéria, amelyet kizárólag a fotóművészetnek szenteltek.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Kulturális központ fiataloknak Klagenfurtban, a zenére és a művészetre összpontosítva.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Kiállítóhely Klagenfurtban fiatal és alternatív művészet számára.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "Modern műalkotásokat bemutató galéria Klagenfurtban.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "Római katolikus templom Klagenfurtban, feltűnő modern építészettel.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "Történelmi templom a Heiligengeistplatzon, Klagenfurt szívében.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "Római katolikus plébániatemplom Klagenfurt Szent Márton városrészében.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "Modern templom Klagenfurtban, amelyet a lelkigondozásnak és a közösségnek szenteltek.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "Kisebb templom Klagenfurtban, amelyet Szent Primusz tiszteletére szenteltek.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Az Új Apostoli Egyház gyülekezeti központja Klagenfurtban.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "Modern katolikus plébániatemplom Klagenfurtban, Szent Hemmáról elnevezve.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "Történelmi templom Klagenfurt vidékies környezetében.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "Egyszerű és hívogató kialakítású evangélikus templom Klagenfurtban.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "Római katolikus plébániatemplom, amely a Siebenhügel városrész központját alkotja.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "Templomépület Klagenfurtban, amely az imádság és az elmélkedés helyszínéül szolgál.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "Egy katolikus templom Klagenfurtban.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "Szent Péternek szentelt plébániatemplom Klagenfurtban.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "Római katolikus plébániatemplom Klagenfurtban.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Klagenfurt Annabichl negyedének plébániatemploma.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "Jellegzetes kálvária-templom a klagenfurti Kreuzbergl-dombon.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "Szent Ruprechtnek szentelt templom Klagenfurtban.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "A klagenfurti strand a Wörthi-tónál Európa egyik legnagyobb tavi fürdője tágas stégekkel.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "A klagenfurti Minimundus a világ híres épületeit mutatja be miniatűr formában, minden korosztályt lenyűgözve.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "A klagenfurti Reptilienzoo Happ kígyók, gyíkok és más hüllők sokaságát mutatja be.", "category": "family", "coords": [14.265566, 46.619839]}], "ro": [{"name": "Museum Moderner Kunst Kärnten", "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Un muzeu din Klagenfurt care expune artă religioasă și obiecte de istorie bisericească.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Cea mai importantă casă de teatru din Carintia, cu un program divers de opere și piese de teatru.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "O clădire istorică de teatru în stil Jugendstil, utilizată pentru evenimente culturale.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "Muzeul Thomas-Koschat din Klagenfurt este dedicat vieții și operei celebrului compozitor carintian. În cadrul acestui muzeu, vizitatorii pot explora moștenirea sa muzicală.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "O scenă cu tradiție din Klagenfurt, care funcționează astăzi ca club de jazz și teatru.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Un teatru independent și centru cultural din Klagenfurt pentru arta dramatică contemporană.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Un muzeu privat din Klagenfurt care prezintă o colecție extinsă pe tema șahului.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Un muzeu neobișnuit care expune figurine de colecție ce însoțeau anterior pachetele de cafea.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Un muzeu interactiv din Klagenfurt care face știința accesibilă copiilor.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Muntele local al orașului Klagenfurt este o zonă populară de recreere cu poteci și iazuri.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "O sală magnifică în Landhaus-ul din Klagenfurt, decorată cu blazoanele stărilor carintiene.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "O colină împădurită din Klagenfurt, apreciată ca zonă liniștită de drumeții.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Un parc bine întreținut în Klagenfurt, care invită la plimbări și relaxare.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Un conac istoric din Klagenfurt cu arhitectură caracteristică.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "O grădină diversă la poalele Kreuzbergl, care prezintă flora locală și exotică.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Un punct de observație din Klagenfurt, care oferă o vedere panoramică asupra orașului.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Un punct de observație cunoscut pentru vederea sa asupra lanțului muntos Karawanken.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "O galerie de artă din Klagenfurt care prezintă lucrări contemporane.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "O mică galerie de artă din Klagenfurt, cu accent pe artiștii regionali.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Galeria asociației profesionale a artiștilor vizuali din Austria în Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "O galerie în Klagenfurt pentru artă contemporană și expoziții.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "O galerie din Klagenfurt dedicată exclusiv artei fotografice.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Un centru cultural pentru tineri în Klagenfurt, cu accent pe muzică și artă.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Un spațiu de expoziție în Klagenfurt pentru artă tânără și alternativă.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "O galerie din Klagenfurt care prezintă opere de artă modernă.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "O biserică romano-catolică din Klagenfurt cu o arhitectură modernă frapantă.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "O biserică istorică în Heiligengeistplatz, în inima orașului Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "O biserică parohială romano-catolică în cartierul St. Martin din Klagenfurt.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "O biserică modernă din Klagenfurt dedicată asistenței spirituale și comunității.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "O biserică mai mică din Klagenfurt, sfințită în cinstea Sfântului Primus.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Centrul comunitar al Bisericii Nou-Apostolice din Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "O biserică parohială catolică modernă din Klagenfurt, numită după Sfânta Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "O biserică istorică în cadrul rural al orașului Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "O biserică evanghelică din Klagenfurt, cu un design simplu și primitor.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "O biserică parohială romano-catolică ce formează centrul cartierului Siebenhügel.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "O clădire de biserică din Klagenfurt, care servește ca loc de rugăciune și reflecție.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "O biserică catolică din Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "O biserică parohială dedicată Sfântului Petru din Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "O biserică parohială romano-catolică din Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Biserica parohială din cartierul Annabichl din Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "O biserică emblematică de pe dealul Kreuzbergl din Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "O biserică dedicată Sfântului Ruprecht din Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "Ștrandul Klagenfurt de pe lacul Wörthersee este unul dintre cele mai mari ștranduri lacustre din Europa, cu pontoane largi.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus din Klagenfurt prezintă clădiri celebre din întreaga lume în format miniatură, fascinând toate vârstele.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "Grădina Zoologică de Reptile Happ din Klagenfurt prezintă o varietate de șerpi, șopârle și alte reptile.", "category": "family", "coords": [14.265566, 46.619839]}], "en": [{"name": "Museum Moderner Kunst Kärnten", "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "A museum in Klagenfurt displaying religious art and church history exhibits.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Carinthia's most important theater house with a diverse program of operas and plays.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "A historic Art Nouveau theater building used for cultural events.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "The Thomas-Koschat-Museum in Klagenfurt is dedicated to the life and work of the renowned Carinthian composer. This museum allows visitors to gain a deeper understanding of his musical legacy.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "A traditional stage in Klagenfurt that today functions as a jazz club and theater.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "An independent theater and cultural center in Klagenfurt for contemporary performing arts.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "A private museum in Klagenfurt presenting an extensive collection on the subject of chess.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "An unusual museum displaying collectible figures that formerly accompanied coffee packages.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "An interactive hands-on museum in Klagenfurt that makes science accessible for children.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "The local mountain of Klagenfurt is a popular recreation area with forest paths and ponds.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "A magnificent hall in the Klagenfurt Landhaus, decorated with the coats of arms of the Carinthian estates.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "A wooded hill in Klagenfurt appreciated as a quiet hiking area.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "A well-maintained park in Klagenfurt that invites walking and relaxation.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "A historic manor house in Klagenfurt with characteristic architecture.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "A diverse garden at the foot of the Kreuzbergl, showcasing local and exotic plant life.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "A viewpoint in Klagenfurt offering a wide view over the city.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "A viewpoint known for its clear view of the Karawanken mountain range.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "An art gallery in Klagenfurt presenting contemporary works.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "A small art gallery in Klagenfurt focusing on regional artists.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "The gallery of the professional association of visual artists in Austria in Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "A gallery in Klagenfurt for contemporary art and exhibitions.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "A gallery in Klagenfurt dedicated exclusively to the art of photography.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "A cultural center for youth in Klagenfurt with a focus on music and art.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "An exhibition space in Klagenfurt for young and alternative art.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "A gallery in Klagenfurt presenting modern works of art.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "A Roman Catholic church in Klagenfurt with striking modern architecture.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "A historic church on Heiligengeistplatz in the heart of Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "A Roman Catholic parish church in the St. Martin district of Klagenfurt.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "A modern church in Klagenfurt dedicated to pastoral care and community.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "A smaller church in Klagenfurt dedicated to Saint Primus.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "The community center of the New Apostolic Church in Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "A modern Catholic parish church in Klagenfurt named after Saint Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "A historic church in the rural surroundings of Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "A Protestant church in Klagenfurt with a simple and inviting design.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "A Roman Catholic parish church that forms the center of the Siebenhügel district.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "A church building in Klagenfurt serving as a place of prayer and reflection.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "A Catholic church located in Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "A parish church dedicated to St. Peter in Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "A Roman Catholic parish church in Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "The parish church in the Annabichl district of Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "A prominent Calvary church located on the Kreuzbergl hill in Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "A church dedicated to St. Ruprecht in Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "The Strandbad Klagenfurt on Lake Wörthersee is one of Europe's largest lakeside resorts with extensive piers.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus in Klagenfurt displays famous buildings of the world in miniature and delights all age groups.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "The Reptilienzoo Happ in Klagenfurt presents a variety of snakes, lizards, and other reptiles.", "category": "family", "coords": [14.265566, 46.619839]}]}, type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
     name: { de: "Klagenfurt", hu: "Klagenfurt", ro: "Klagenfurt", en: "Klagenfurt" },
     image: "/geo-images/austria/klagenfurt.webp",
     description: { de: "Klagenfurt am Wörthersee, die Hauptstadt Kärntens, gilt als die charmante Renaissance-Perle des österreichischen Südens. Die Altstadt wird von wunderschön restaurierten Palazzi und malerischen Innenhöfen geprägt, die von italienischen Baumeistern im 16. Jahrhundert entworfen wurden. Das Wahrzeichen der Stadt, der mächtige steinerne Lindwurm, bewacht den weitläufigen Neuen Platz. Was Klagenfurt besonders attraktiv macht, ist seine unmittelbare Nähe zum türkisfarbenen Wörthersee, der im Sommer mit seinem warmen Wasser fast karibisches Flair verströmt. Hier verschmelzen urbane Kultur, sportliche Aktivität und entspanntes Badeleben zu einer perfekten Symbiose.", hu: "Klagenfurt am Wörthersee, Karintia fővárosa, az osztrák délvidék bájos reneszánsz gyöngyszemének számít. Az óvárost gyönyörűen felújított palazzók és festői belső udvarok jellemzik, amelyeket olasz építőmesterek terveztek a 16. században. A város jelképe, a hatalmas kőből faragott Lindwurm (sárkány) őrzi a tágas Új Teret (Neuer Platz). Ami Klagenfurtot különösen vonzóvá teszi, az a türkizkék Wörthersee (wörthi-tó) közvetlen közelsége, amely nyáron meleg vizével szinte karibi hangulatot áraszt. Itt az urbánus kultúra, a sporttevékenységek és a pihentető fürdőélet tökéletes szimbiózissá olvad össze.", ro: "Klagenfurt am Wörthersee, capitala Carintiei, este considerată fermecătoarea perlă renascentistă a sudului austriac. Orașul vechi este caracterizat de palate frumos restaurate și curți pitorești, care au fost proiectate de maeștrii constructori italieni în secolul al XVI-lea. Simbolul orașului, masivul balaur din piatră (Lindwurm), păzește piața spațioasă Neuer Platz. Ceea ce face din Klagenfurt un oraș deosebit de atractiv este proximitatea sa imediată față de apele turcoaz ale lacului Wörthersee, care emană o atmosferă aproape caraibiană vara cu apa sa caldă. Aici, cultura urbană, activitățile sportive și relaxarea la plajă se contopesc într-o simbioză perfectă.", en: "Klagenfurt am Wörthersee, the capital of Carinthia, is considered the charming Renaissance pearl of the Austrian south. The old town is characterized by beautifully restored palazzi and picturesque courtyards, which were designed by Italian master builders in the 16th century. The city's landmark, the massive stone Lindwurm (dragon), guards the spacious Neuer Platz. What makes Klagenfurt particularly attractive is its immediate proximity to the turquoise waters of Lake Wörthersee, which exudes an almost Caribbean flair in summer with its warm water. Here, urban culture, sporting activities, and relaxed beach life merge into a perfect symbiosis." , es: "Klagenfurt am Wörthersee, la capital de Carintia, es considerada la encantadora perla renacentista del sur de Austria. El casco antiguo se caracteriza por palacios bellamente restaurados y patios pintorescos, diseñados por arquitectos italianos en el siglo XVI. El símbolo de la ciudad, el poderoso Lindwurm de piedra, custodia la amplia Neuer Platz. Lo que hace a Klagenfurt especialmente atractiva es su proximidad inmediata al turquesa lago Wörthersee, que en verano desprende un aire casi caribeño con sus aguas cálidas. Aquí, la cultura urbana, la actividad deportiva y la relajada vida de baño se funden en una simbiosis perfecta.", pt: "Klagenfurt am Wörthersee, a capital da Caríntia, é considerada a encantadora pérola renascentista do sul da Áustria. O centro histórico é marcado por palácios magnificamente restaurados e pátios interiores pitorescos, projetados por construtores italianos no século XVI. O ex-líbris da cidade, o imponente Lindwurm de pedra, guarda a ampla Neuer Platz. O que torna Klagenfurt particularmente atraente é a sua proximidade imediata ao lago Wörthersee, de águas azul-turquesa, que no verão emana um toque quase caribenho com as suas águas quentes. Aqui, a cultura urbana, a atividade desportiva e a vida balnear descontraída fundem-se numa simbiose perfeita.", fr: "Klagenfurt am Wörthersee, capitale de la Carinthie, est considérée comme la charmante perle de la Renaissance du sud de l'Autriche. La vieille ville est marquée par des palais magnifiquement restaurés et des cours intérieures pittoresques, conçus par des bâtisseurs italiens au XVIe siècle. L'emblème de la ville, le puissant Lindwurm (dragon) de pierre, garde la vaste Neuer Platz. Ce qui rend Klagenfurt particulièrement attrayante, c'est sa proximité immédiate avec les eaux turquoise du lac Wörthersee qui, en été, dégagent un air presque caribéen avec leurs eaux chaudes. Ici, la culture urbaine, l'activité sportive et la vie balnéaire détendue se fondent en une symbiose parfaite."},
@@ -10665,6 +7047,24 @@ export const austriaCities: POI[] = [
                         9.725495,
                         47.492142
                   ]
+            },
+            {
+                  "name": "Schwarzbad",
+                  "text": "Das Schwarzbad in Bregenz ist ein Badebereich für Erfrischung direkt am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.738734,
+                        47.529998
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Das Kinderbecken in Bregenz ist ein idealer Ort für die ersten Schwimmversuche der Kleinsten.",
+                  "category": "family",
+                  "coords": [
+                        9.732675,
+                        47.50583
+                  ]
             }
       ],
       "hu": [
@@ -11215,6 +7615,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.725495,
                         47.492142
+                  ]
+            },
+            {
+                  "name": "Schwarzbad",
+                  "text": "A Bregenz-ben található Schwarzbad egy fürdőhely a közvetlen vízparti felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        9.738734,
+                        47.529998
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "A bregenzi gyerekmedence ideális helyszín a legkisebbek első úszási próbálkozásaihoz.",
+                  "category": "family",
+                  "coords": [
+                        9.732675,
+                        47.50583
                   ]
             }
       ],
@@ -11767,6 +8185,24 @@ export const austriaCities: POI[] = [
                         9.725495,
                         47.492142
                   ]
+            },
+            {
+                  "name": "Schwarzbad",
+                  "text": "Schwarzbad din Bregenz este o zonă de înot pentru răcorire direct la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        9.738734,
+                        47.529998
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "Kinderbecken din Bregenz este un loc ideal pentru primele încercări de înot ale celor mici.",
+                  "category": "family",
+                  "coords": [
+                        9.732675,
+                        47.50583
+                  ]
             }
       ],
       "en": [
@@ -12317,6 +8753,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.725495,
                         47.492142
+                  ]
+            },
+            {
+                  "name": "Schwarzbad",
+                  "text": "Schwarzbad in Bregenz is a swimming area for refreshment right by the water.",
+                  "category": "family",
+                  "coords": [
+                        9.738734,
+                        47.529998
+                  ]
+            },
+            {
+                  "name": "Kinderbecken",
+                  "text": "The Kinderbecken in Bregenz is an ideal place for the youngest children's first swimming attempts.",
+                  "category": "family",
+                  "coords": [
+                        9.732675,
+                        47.50583
                   ]
             }
       ]
@@ -13243,1456 +9697,7 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-StPolten", "sights": {
-      "de": [
-            {
-                  "name": "Museum am Dom",
-                  "text": "Das Museum präsentiert sakrale Kunst im Dom von St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.626639,
-                        48.205539
-                  ]
-            },
-            {
-                  "name": "Museum Niederösterreich",
-                  "text": "Das Landesmuseum für Natur, Kunst und Geschichte in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.631198,
-                        48.200051
-                  ]
-            },
-            {
-                  "name": "Ehemalige Synagoge",
-                  "text": "Die ehemalige Synagoge dient heute als Kulturzentrum und Mahnmal.",
-                  "category": "museum",
-                  "coords": [
-                        15.628742,
-                        48.202499
-                  ]
-            },
-            {
-                  "name": "KinderKunstLabor",
-                  "text": "Ein innovativer Ausstellungsort für zeitgenössische Kunst in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.62793,
-                        48.201275
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Das Museum dokumentiert die Stadtgeschichte von St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.622489,
-                        48.204183
-                  ]
-            },
-            {
-                  "name": "Ausstellungsbrücke",
-                  "text": "Ein Ausstellungsraum im Landhausviertel von St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.633168,
-                        48.201113
-                  ]
-            },
-            {
-                  "name": "Kleiner Saal",
-                  "text": "Ein kleinerer Theatersaal für intime Aufführungen in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.630796,
-                        48.201125
-                  ]
-            },
-            {
-                  "name": "Theaterwerkstatt",
-                  "text": "Ein experimenteller Theaterraum in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621674,
-                        48.2056
-                  ]
-            },
-            {
-                  "name": "Hofbühne",
-                  "text": "Eine Kleinkunstbühne für Theater und Kabarett in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.625929,
-                        48.184449
-                  ]
-            },
-            {
-                  "name": "Theater des Ballets",
-                  "text": "Ein Theater in St. Pölten, das sich dem Tanz und Ballett widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        15.651112,
-                        48.207381
-                  ]
-            },
-            {
-                  "name": "Sommerbad \"Citysplash\"",
-                  "text": "Ein beliebtes Freibad mit Wasserattraktionen in St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.627051,
-                        48.195413
-                  ]
-            },
-            {
-                  "name": "AquaCity",
-                  "text": "Ein modernes Hallenbad und Wellnesszentrum in St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.619865,
-                        48.205146
-                  ]
-            },
-            {
-                  "name": "Bühne im Hof",
-                  "text": "Ein Veranstaltungsort für Kleinkunst und Musik in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621533,
-                        48.2032
-                  ]
-            },
-            {
-                  "name": "Künstmühle",
-                  "text": "Ein Kulturzentrum in einer ehemaligen Mühle in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.629715,
-                        48.205596
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Eine religiöse Gedenkstätte mit Kreuzwegstationen in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.612106,
-                        48.199954
-                  ]
-            },
-            {
-                  "name": "Passauer Wolf",
-                  "text": "Ein historisches Denkmal in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.632063,
-                        48.204207
-                  ]
-            },
-            {
-                  "name": "Kaiser-Franz-Joseph-Denkmal",
-                  "text": "Ein Denkmal zu Ehren von Kaiser Franz Joseph I. in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.634082,
-                        48.20205
-                  ]
-            },
-            {
-                  "name": "Hippolyt & Töchter",
-                  "text": "Eine Galerie für zeitgenössische Kunst in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.626055,
-                        48.204055
-                  ]
-            },
-            {
-                  "name": "Galeria mobile",
-                  "text": "Eine kleine, mobile Kunstgalerie in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.636666,
-                        48.22342
-                  ]
-            },
-            {
-                  "name": "ISB Hofmann",
-                  "text": "Ein Ausstellungsraum für Kunst in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.625045,
-                        48.20454
-                  ]
-            },
-            {
-                  "name": "Food Art Gallery",
-                  "text": "Eine Galerie, die Kunst und kulinarische Themen verbindet.",
-                  "category": "museum",
-                  "coords": [
-                        15.627548,
-                        48.204677
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "Ein kleines Gehege mit heimischen Tieren in St. Pölten.",
-                  "category": "landmark",
-                  "coords": [
-                        15.610008,
-                        48.203477
-                  ]
-            },
-            {
-                  "name": "Altes Forum-Kino",
-                  "text": "Ein ehemaliges Kino, das heute für kulturelle Zwecke genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        15.623638,
-                        48.195311
-                  ]
-            },
-            {
-                  "name": "Flederhaus",
-                  "text": "Ein markanter hölzerner Aussichtspunkt in St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.61584,
-                        48.20859
-                  ]
-            },
-            {
-                  "name": "Eisbergspitze",
-                  "text": "Ein Aussichtspunkt mit Blick über St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.607305,
-                        48.204359
-                  ]
-            },
-            {
-                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
-                  "text": "Die Krankenhauskapelle im Universitätsklinikum St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.626466,
-                        48.214104
-                  ]
-            },
-            {
-                  "name": "Millenniumskirche",
-                  "text": "Ein modernes Kirchengebäude in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.638877,
-                        48.18291
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "Eine bedeutende Barockkirche im Stadtzentrum von St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623097,
-                        48.205852
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Eine im neugotischen Stil erbaute Kirche in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623136,
-                        48.201877
-                  ]
-            },
-            {
-                  "name": "St. Johannes Kapistran",
-                  "text": "Eine moderne katholische Kirche in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.62207,
-                        48.188276
-                  ]
-            },
-            {
-                  "name": "Josefskirche",
-                  "text": "Eine dem heiligen Josef geweihte Kirche in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.621851,
-                        48.195598
-                  ]
-            },
-            {
-                  "name": "Kapelle des Priesterseminars",
-                  "text": "Die Kapelle innerhalb des Priesterseminars von St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.628592,
-                        48.204438
-                  ]
-            },
-            {
-                  "name": "Zwingerturm",
-                  "text": "Ein historischer Turm der ehemaligen Stadtbefestigung von St. Pölten.",
-                  "category": "tower",
-                  "coords": [
-                        15.627743,
-                        48.202625
-                  ]
-            },
-            {
-                  "name": "Pfarre St. Michael Wagram",
-                  "text": "Die katholische Pfarrkirche im Stadtteil Wagram in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.650087,
-                        48.20499
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaiserwald",
-                  "text": "Der Spielplatz Kaiserwald in St. Pölten bietet viel Platz zum Spielen im Grünen.",
-                  "category": "family",
-                  "coords": [
-                        15.613157,
-                        48.203156
-                  ]
-            },
-            {
-                  "name": "Kidsworld St. Pölten",
-                  "text": "Dieser Indoor-Spielplatz in St. Pölten bietet wetterunabhängiges Spielvergnügen für Familien.",
-                  "category": "family",
-                  "coords": [
-                        15.613426,
-                        48.179095
-                  ]
-            },
-            {
-                  "name": "Minigolf am Ratzersdorfer See",
-                  "text": "Die Minigolfanlage am Ratzersdorfer See in St. Pölten ist ein ideales Ausflugsziel.",
-                  "category": "family",
-                  "coords": [
-                        15.652549,
-                        48.222673
-                  ]
-            },
-            {
-                  "name": "Jumpzone X",
-                  "text": "Dieser Trampolinpark in St. Pölten bietet aktive Unterhaltung für Kinder und Jugendliche.",
-                  "category": "family",
-                  "coords": [
-                        15.627134,
-                        48.217164
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisberg",
-                  "text": "Ein schön gelegener Spielplatz in St. Pölten mit verschiedenen Klettergeräten.",
-                  "category": "family",
-                  "coords": [
-                        15.607349,
-                        48.210437
-                  ]
-            },
-            {
-                  "name": "Spielplatz Englstorferstraße",
-                  "text": "Dieser Spielplatz in St. Pölten bietet eine sichere Umgebung für Kinder zum Spielen.",
-                  "category": "family",
-                  "coords": [
-                        15.633777,
-                        48.185619
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museum am Dom",
-                  "text": "A múzeum szakrális művészeti alkotásokat mutat be a St. Pölten-i dómban.",
-                  "category": "museum",
-                  "coords": [
-                        15.626639,
-                        48.205539
-                  ]
-            },
-            {
-                  "name": "Museum Niederösterreich",
-                  "text": "Alsó-Ausztria természeti, művészeti és történelmi múzeuma St. Pöltenben.",
-                  "category": "museum",
-                  "coords": [
-                        15.631198,
-                        48.200051
-                  ]
-            },
-            {
-                  "name": "Ehemalige Synagoge",
-                  "text": "Az egykori zsinagóga ma kulturális központként és emlékhelyként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        15.628742,
-                        48.202499
-                  ]
-            },
-            {
-                  "name": "KinderKunstLabor",
-                  "text": "Kortárs művészeti kiállítóhely St. Pöltenben.",
-                  "category": "museum",
-                  "coords": [
-                        15.62793,
-                        48.201275
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "A múzeum St. Pölten várostörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.622489,
-                        48.204183
-                  ]
-            },
-            {
-                  "name": "Ausstellungsbrücke",
-                  "text": "Kiállítóhely St. Pölten kormányzati negyedében.",
-                  "category": "museum",
-                  "coords": [
-                        15.633168,
-                        48.201113
-                  ]
-            },
-            {
-                  "name": "Kleiner Saal",
-                  "text": "Kisebb színházterem bensőséges előadásokhoz St. Pöltenben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.630796,
-                        48.201125
-                  ]
-            },
-            {
-                  "name": "Theaterwerkstatt",
-                  "text": "Kísérleti színházi tér St. Pöltenben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621674,
-                        48.2056
-                  ]
-            },
-            {
-                  "name": "Hofbühne",
-                  "text": "Színpad St. Pöltenben színházi és kabaré előadásokhoz.",
-                  "category": "cultural",
-                  "coords": [
-                        15.625929,
-                        48.184449
-                  ]
-            },
-            {
-                  "name": "Theater des Ballets",
-                  "text": "Táncnak és balettnek szentelt színház St. Pöltenben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.651112,
-                        48.207381
-                  ]
-            },
-            {
-                  "name": "Sommerbad \"Citysplash\"",
-                  "text": "Népszerű szabadtéri strand vízi attrakciókkal St. Pöltenben.",
-                  "category": "family",
-                  "coords": [
-                        15.627051,
-                        48.195413
-                  ]
-            },
-            {
-                  "name": "AquaCity",
-                  "text": "Modern fedett uszoda és wellnessközpont St. Pöltenben.",
-                  "category": "family",
-                  "coords": [
-                        15.619865,
-                        48.205146
-                  ]
-            },
-            {
-                  "name": "Bühne im Hof",
-                  "text": "Kulturális rendezvényhelyszín St. Pöltenben zenével és kabarével.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621533,
-                        48.2032
-                  ]
-            },
-            {
-                  "name": "Künstmühle",
-                  "text": "Kulturális központ egy egykori malomban St. Pöltenben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.629715,
-                        48.205596
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Vallási emlékhely keresztúti stációkkal St. Pöltenben.",
-                  "category": "historical",
-                  "coords": [
-                        15.612106,
-                        48.199954
-                  ]
-            },
-            {
-                  "name": "Passauer Wolf",
-                  "text": "Történelmi emlékmű St. Pöltenben.",
-                  "category": "historical",
-                  "coords": [
-                        15.632063,
-                        48.204207
-                  ]
-            },
-            {
-                  "name": "Kaiser-Franz-Joseph-Denkmal",
-                  "text": "I. Ferenc József császár tiszteletére emelt emlékmű St. Pöltenben.",
-                  "category": "historical",
-                  "coords": [
-                        15.634082,
-                        48.20205
-                  ]
-            },
-            {
-                  "name": "Hippolyt & Töchter",
-                  "text": "Kortárs művészeti galéria St. Pöltenben.",
-                  "category": "museum",
-                  "coords": [
-                        15.626055,
-                        48.204055
-                  ]
-            },
-            {
-                  "name": "Galeria mobile",
-                  "text": "Kisméretű, mobil művészeti galéria St. Pöltenben.",
-                  "category": "museum",
-                  "coords": [
-                        15.636666,
-                        48.22342
-                  ]
-            },
-            {
-                  "name": "ISB Hofmann",
-                  "text": "Művészeti kiállítóhely St. Pöltenben.",
-                  "category": "museum",
-                  "coords": [
-                        15.625045,
-                        48.20454
-                  ]
-            },
-            {
-                  "name": "Food Art Gallery",
-                  "text": "A művészetet és a gasztronómiát ötvöző galéria.",
-                  "category": "museum",
-                  "coords": [
-                        15.627548,
-                        48.204677
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "Kis állatkifutó helyi állatokkal St. Pöltenben.",
-                  "category": "landmark",
-                  "coords": [
-                        15.610008,
-                        48.203477
-                  ]
-            },
-            {
-                  "name": "Altes Forum-Kino",
-                  "text": "Egykori mozi, amelyet ma kulturális célokra használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        15.623638,
-                        48.195311
-                  ]
-            },
-            {
-                  "name": "Flederhaus",
-                  "text": "Jellegzetes fa kilátópont St. Pöltenben.",
-                  "category": "natural",
-                  "coords": [
-                        15.61584,
-                        48.20859
-                  ]
-            },
-            {
-                  "name": "Eisbergspitze",
-                  "text": "Kilátópont kilátással St. Pöltenre.",
-                  "category": "natural",
-                  "coords": [
-                        15.607305,
-                        48.204359
-                  ]
-            },
-            {
-                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
-                  "text": "A St. Pölten-i egyetemi klinika kórházi kápolnája.",
-                  "category": "religious",
-                  "coords": [
-                        15.626466,
-                        48.214104
-                  ]
-            },
-            {
-                  "name": "Millenniumskirche",
-                  "text": "Modern templomépület St. Pöltenben.",
-                  "category": "religious",
-                  "coords": [
-                        15.638877,
-                        48.18291
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "Jelentős barokk templom St. Pölten városközpontjában.",
-                  "category": "religious",
-                  "coords": [
-                        15.623097,
-                        48.205852
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Neogótikus stílusban épült templom St. Pöltenben.",
-                  "category": "religious",
-                  "coords": [
-                        15.623136,
-                        48.201877
-                  ]
-            },
-            {
-                  "name": "St. Johannes Kapistran",
-                  "text": "Modern katolikus templom St. Pöltenben.",
-                  "category": "religious",
-                  "coords": [
-                        15.62207,
-                        48.188276
-                  ]
-            },
-            {
-                  "name": "Josefskirche",
-                  "text": "Szent Józsefnek szentelt templom St. Pöltenben.",
-                  "category": "religious",
-                  "coords": [
-                        15.621851,
-                        48.195598
-                  ]
-            },
-            {
-                  "name": "Kapelle des Priesterseminars",
-                  "text": "A St. Pölten-i papnevelde kápolnája.",
-                  "category": "religious",
-                  "coords": [
-                        15.628592,
-                        48.204438
-                  ]
-            },
-            {
-                  "name": "Zwingerturm",
-                  "text": "St. Pölten egykori városfalának történelmi toronya.",
-                  "category": "tower",
-                  "coords": [
-                        15.627743,
-                        48.202625
-                  ]
-            },
-            {
-                  "name": "Pfarre St. Michael Wagram",
-                  "text": "Katolikus plébániatemplom St. Pölten Wagram városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        15.650087,
-                        48.20499
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaiserwald",
-                  "text": "A St. Pölten-i Kaiserwald játszótér bőséges helyet kínál a játékhoz a zöldben.",
-                  "category": "family",
-                  "coords": [
-                        15.613157,
-                        48.203156
-                  ]
-            },
-            {
-                  "name": "Kidsworld St. Pölten",
-                  "text": "Ez a St. Pölten-i fedett játszóház időjárástól független szórakozást kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        15.613426,
-                        48.179095
-                  ]
-            },
-            {
-                  "name": "Minigolf am Ratzersdorfer See",
-                  "text": "A St. Pölten-i Ratzersdorfer See melletti minigolfpálya ideális kirándulóhely.",
-                  "category": "family",
-                  "coords": [
-                        15.652549,
-                        48.222673
-                  ]
-            },
-            {
-                  "name": "Jumpzone X",
-                  "text": "Ez a St. Pölten-i trambulinpark aktív szórakozást nyújt gyerekeknek és fiataloknak.",
-                  "category": "family",
-                  "coords": [
-                        15.627134,
-                        48.217164
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisberg",
-                  "text": "Szép fekvésű játszótér St. Pöltenben különféle mászókákkal.",
-                  "category": "family",
-                  "coords": [
-                        15.607349,
-                        48.210437
-                  ]
-            },
-            {
-                  "name": "Spielplatz Englstorferstraße",
-                  "text": "Ez a St. Pölten-i játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        15.633777,
-                        48.185619
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museum am Dom",
-                  "text": "Muzeul prezintă artă sacră în catedrala din St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.626639,
-                        48.205539
-                  ]
-            },
-            {
-                  "name": "Museum Niederösterreich",
-                  "text": "Muzeul de stat pentru natură, artă și istorie din St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.631198,
-                        48.200051
-                  ]
-            },
-            {
-                  "name": "Ehemalige Synagoge",
-                  "text": "Fosta sinagogă servește astăzi ca centru cultural și memorial.",
-                  "category": "museum",
-                  "coords": [
-                        15.628742,
-                        48.202499
-                  ]
-            },
-            {
-                  "name": "KinderKunstLabor",
-                  "text": "Un spațiu expozițional inovator pentru artă contemporană în St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.62793,
-                        48.201275
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "Muzeul documentează istoria orașului St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.622489,
-                        48.204183
-                  ]
-            },
-            {
-                  "name": "Ausstellungsbrücke",
-                  "text": "Un spațiu expozițional în cartierul Landhaus din St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.633168,
-                        48.201113
-                  ]
-            },
-            {
-                  "name": "Kleiner Saal",
-                  "text": "O sală de teatru mai mică pentru spectacole intime în St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.630796,
-                        48.201125
-                  ]
-            },
-            {
-                  "name": "Theaterwerkstatt",
-                  "text": "Un spațiu teatral experimental în St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621674,
-                        48.2056
-                  ]
-            },
-            {
-                  "name": "Hofbühne",
-                  "text": "O scenă pentru teatru și cabaret în St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.625929,
-                        48.184449
-                  ]
-            },
-            {
-                  "name": "Theater des Ballets",
-                  "text": "Un teatru din St. Pölten dedicat dansului și baletului.",
-                  "category": "cultural",
-                  "coords": [
-                        15.651112,
-                        48.207381
-                  ]
-            },
-            {
-                  "name": "Sommerbad \"Citysplash\"",
-                  "text": "Un ștrand popular cu atracții acvatice în St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.627051,
-                        48.195413
-                  ]
-            },
-            {
-                  "name": "AquaCity",
-                  "text": "O piscină acoperită modernă și centru wellness în St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.619865,
-                        48.205146
-                  ]
-            },
-            {
-                  "name": "Bühne im Hof",
-                  "text": "Un spațiu pentru evenimente culturale și muzică în St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621533,
-                        48.2032
-                  ]
-            },
-            {
-                  "name": "Künstmühle",
-                  "text": "Un centru cultural situat într-o fostă moară din St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.629715,
-                        48.205596
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "Un monument religios cu stațiile Căii Crucii în St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.612106,
-                        48.199954
-                  ]
-            },
-            {
-                  "name": "Passauer Wolf",
-                  "text": "Un monument istoric din St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.632063,
-                        48.204207
-                  ]
-            },
-            {
-                  "name": "Kaiser-Franz-Joseph-Denkmal",
-                  "text": "Un monument în onoarea împăratului Franz Joseph I în St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.634082,
-                        48.20205
-                  ]
-            },
-            {
-                  "name": "Hippolyt & Töchter",
-                  "text": "O galerie de artă contemporană în St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.626055,
-                        48.204055
-                  ]
-            },
-            {
-                  "name": "Galeria mobile",
-                  "text": "O mică galerie de artă mobilă în St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.636666,
-                        48.22342
-                  ]
-            },
-            {
-                  "name": "ISB Hofmann",
-                  "text": "Un spațiu expozițional de artă în St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.625045,
-                        48.20454
-                  ]
-            },
-            {
-                  "name": "Food Art Gallery",
-                  "text": "O galerie care îmbină arta cu teme culinare.",
-                  "category": "museum",
-                  "coords": [
-                        15.627548,
-                        48.204677
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "Un mic țarc cu animale locale în St. Pölten.",
-                  "category": "landmark",
-                  "coords": [
-                        15.610008,
-                        48.203477
-                  ]
-            },
-            {
-                  "name": "Altes Forum-Kino",
-                  "text": "Un fost cinematograf, utilizat astăzi în scopuri culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        15.623638,
-                        48.195311
-                  ]
-            },
-            {
-                  "name": "Flederhaus",
-                  "text": "Un punct de observație din lemn distinctiv în St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.61584,
-                        48.20859
-                  ]
-            },
-            {
-                  "name": "Eisbergspitze",
-                  "text": "Un punct de observație cu vedere asupra orașului St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.607305,
-                        48.204359
-                  ]
-            },
-            {
-                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
-                  "text": "Capela spitalului din cadrul clinicii universitare din St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.626466,
-                        48.214104
-                  ]
-            },
-            {
-                  "name": "Millenniumskirche",
-                  "text": "O clădire de biserică modernă în St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.638877,
-                        48.18291
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "O biserică barocă importantă în centrul orașului St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623097,
-                        48.205852
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "O biserică construită în stil neogotic în St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623136,
-                        48.201877
-                  ]
-            },
-            {
-                  "name": "St. Johannes Kapistran",
-                  "text": "O biserică catolică modernă în St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.62207,
-                        48.188276
-                  ]
-            },
-            {
-                  "name": "Josefskirche",
-                  "text": "O biserică dedicată Sfântului Iosif din St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.621851,
-                        48.195598
-                  ]
-            },
-            {
-                  "name": "Kapelle des Priesterseminars",
-                  "text": "Capela din cadrul seminarului teologic din St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.628592,
-                        48.204438
-                  ]
-            },
-            {
-                  "name": "Zwingerturm",
-                  "text": "Un turn istoric al fostei fortificații a orașului St. Pölten.",
-                  "category": "tower",
-                  "coords": [
-                        15.627743,
-                        48.202625
-                  ]
-            },
-            {
-                  "name": "Pfarre St. Michael Wagram",
-                  "text": "Biserica parohială catolică din cartierul Wagram din St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.650087,
-                        48.20499
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaiserwald",
-                  "text": "Locul de joacă Kaiserwald din St. Pölten oferă mult spațiu pentru joacă în natură.",
-                  "category": "family",
-                  "coords": [
-                        15.613157,
-                        48.203156
-                  ]
-            },
-            {
-                  "name": "Kidsworld St. Pölten",
-                  "text": "Acest loc de joacă interior din St. Pölten oferă distracție indiferent de vreme pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        15.613426,
-                        48.179095
-                  ]
-            },
-            {
-                  "name": "Minigolf am Ratzersdorfer See",
-                  "text": "Terenul de minigolf de la lacul Ratzersdorfer din St. Pölten este o destinație ideală de excursie.",
-                  "category": "family",
-                  "coords": [
-                        15.652549,
-                        48.222673
-                  ]
-            },
-            {
-                  "name": "Jumpzone X",
-                  "text": "Acest parc de trambuline din St. Pölten oferă divertisment activ pentru copii și tineri.",
-                  "category": "family",
-                  "coords": [
-                        15.627134,
-                        48.217164
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisberg",
-                  "text": "Un loc de joacă frumos situat în St. Pölten cu diverse structuri de cățărare.",
-                  "category": "family",
-                  "coords": [
-                        15.607349,
-                        48.210437
-                  ]
-            },
-            {
-                  "name": "Spielplatz Englstorferstraße",
-                  "text": "Acest loc de joacă din St. Pölten oferă un mediu sigur pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        15.633777,
-                        48.185619
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museum am Dom",
-                  "text": "The museum presents sacred art within the St. Pölten Cathedral.",
-                  "category": "museum",
-                  "coords": [
-                        15.626639,
-                        48.205539
-                  ]
-            },
-            {
-                  "name": "Museum Niederösterreich",
-                  "text": "The state museum for nature, art, and history in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.631198,
-                        48.200051
-                  ]
-            },
-            {
-                  "name": "Ehemalige Synagoge",
-                  "text": "The former synagogue now serves as a cultural center and memorial.",
-                  "category": "museum",
-                  "coords": [
-                        15.628742,
-                        48.202499
-                  ]
-            },
-            {
-                  "name": "KinderKunstLabor",
-                  "text": "An innovative exhibition space for contemporary art in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.62793,
-                        48.201275
-                  ]
-            },
-            {
-                  "name": "Stadtmuseum",
-                  "text": "The museum documents the history of the city of St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.622489,
-                        48.204183
-                  ]
-            },
-            {
-                  "name": "Ausstellungsbrücke",
-                  "text": "An exhibition space in the Landhaus district of St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.633168,
-                        48.201113
-                  ]
-            },
-            {
-                  "name": "Kleiner Saal",
-                  "text": "A smaller theater hall for intimate performances in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.630796,
-                        48.201125
-                  ]
-            },
-            {
-                  "name": "Theaterwerkstatt",
-                  "text": "An experimental theater space in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621674,
-                        48.2056
-                  ]
-            },
-            {
-                  "name": "Hofbühne",
-                  "text": "A stage for theater and cabaret performances in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.625929,
-                        48.184449
-                  ]
-            },
-            {
-                  "name": "Theater des Ballets",
-                  "text": "A theater in St. Pölten dedicated to dance and ballet.",
-                  "category": "cultural",
-                  "coords": [
-                        15.651112,
-                        48.207381
-                  ]
-            },
-            {
-                  "name": "Sommerbad \"Citysplash\"",
-                  "text": "A popular outdoor pool with water attractions in St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.627051,
-                        48.195413
-                  ]
-            },
-            {
-                  "name": "AquaCity",
-                  "text": "A modern indoor pool and wellness center in St. Pölten.",
-                  "category": "family",
-                  "coords": [
-                        15.619865,
-                        48.205146
-                  ]
-            },
-            {
-                  "name": "Bühne im Hof",
-                  "text": "A venue for cultural events and music in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.621533,
-                        48.2032
-                  ]
-            },
-            {
-                  "name": "Künstmühle",
-                  "text": "A cultural center located in a former mill in St. Pölten.",
-                  "category": "cultural",
-                  "coords": [
-                        15.629715,
-                        48.205596
-                  ]
-            },
-            {
-                  "name": "Kalvarienberg",
-                  "text": "A religious memorial site with Stations of the Cross in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.612106,
-                        48.199954
-                  ]
-            },
-            {
-                  "name": "Passauer Wolf",
-                  "text": "A historical monument in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.632063,
-                        48.204207
-                  ]
-            },
-            {
-                  "name": "Kaiser-Franz-Joseph-Denkmal",
-                  "text": "A monument honoring Emperor Franz Joseph I in St. Pölten.",
-                  "category": "historical",
-                  "coords": [
-                        15.634082,
-                        48.20205
-                  ]
-            },
-            {
-                  "name": "Hippolyt & Töchter",
-                  "text": "A gallery for contemporary art in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.626055,
-                        48.204055
-                  ]
-            },
-            {
-                  "name": "Galeria mobile",
-                  "text": "A small, mobile art gallery in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.636666,
-                        48.22342
-                  ]
-            },
-            {
-                  "name": "ISB Hofmann",
-                  "text": "An art exhibition space in St. Pölten.",
-                  "category": "museum",
-                  "coords": [
-                        15.625045,
-                        48.20454
-                  ]
-            },
-            {
-                  "name": "Food Art Gallery",
-                  "text": "A gallery combining art and culinary themes.",
-                  "category": "museum",
-                  "coords": [
-                        15.627548,
-                        48.204677
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "A small enclosure with local animals in St. Pölten.",
-                  "category": "landmark",
-                  "coords": [
-                        15.610008,
-                        48.203477
-                  ]
-            },
-            {
-                  "name": "Altes Forum-Kino",
-                  "text": "A former cinema, now used for cultural purposes.",
-                  "category": "cultural",
-                  "coords": [
-                        15.623638,
-                        48.195311
-                  ]
-            },
-            {
-                  "name": "Flederhaus",
-                  "text": "A distinctive wooden viewpoint in St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.61584,
-                        48.20859
-                  ]
-            },
-            {
-                  "name": "Eisbergspitze",
-                  "text": "A viewpoint offering views over St. Pölten.",
-                  "category": "natural",
-                  "coords": [
-                        15.607305,
-                        48.204359
-                  ]
-            },
-            {
-                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
-                  "text": "The hospital chapel within the St. Pölten University Hospital.",
-                  "category": "religious",
-                  "coords": [
-                        15.626466,
-                        48.214104
-                  ]
-            },
-            {
-                  "name": "Millenniumskirche",
-                  "text": "A modern church building in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.638877,
-                        48.18291
-                  ]
-            },
-            {
-                  "name": "Franziskanerkirche",
-                  "text": "A significant Baroque church in the city center of St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623097,
-                        48.205852
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "A church built in the Neo-Gothic style in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.623136,
-                        48.201877
-                  ]
-            },
-            {
-                  "name": "St. Johannes Kapistran",
-                  "text": "A modern Catholic church in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.62207,
-                        48.188276
-                  ]
-            },
-            {
-                  "name": "Josefskirche",
-                  "text": "A church dedicated to St. Joseph in St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.621851,
-                        48.195598
-                  ]
-            },
-            {
-                  "name": "Kapelle des Priesterseminars",
-                  "text": "The chapel within the St. Pölten seminary.",
-                  "category": "religious",
-                  "coords": [
-                        15.628592,
-                        48.204438
-                  ]
-            },
-            {
-                  "name": "Zwingerturm",
-                  "text": "A historic tower of the former city fortifications of St. Pölten.",
-                  "category": "tower",
-                  "coords": [
-                        15.627743,
-                        48.202625
-                  ]
-            },
-            {
-                  "name": "Pfarre St. Michael Wagram",
-                  "text": "The Catholic parish church in the Wagram district of St. Pölten.",
-                  "category": "religious",
-                  "coords": [
-                        15.650087,
-                        48.20499
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaiserwald",
-                  "text": "The Kaiserwald playground in St. Pölten offers plenty of space for playing in a green setting.",
-                  "category": "family",
-                  "coords": [
-                        15.613157,
-                        48.203156
-                  ]
-            },
-            {
-                  "name": "Kidsworld St. Pölten",
-                  "text": "This indoor playground in St. Pölten offers weather-independent fun for families.",
-                  "category": "family",
-                  "coords": [
-                        15.613426,
-                        48.179095
-                  ]
-            },
-            {
-                  "name": "Minigolf am Ratzersdorfer See",
-                  "text": "The miniature golf course at Ratzersdorfer See in St. Pölten is an ideal excursion destination.",
-                  "category": "family",
-                  "coords": [
-                        15.652549,
-                        48.222673
-                  ]
-            },
-            {
-                  "name": "Jumpzone X",
-                  "text": "This trampoline park in St. Pölten offers active entertainment for children and teenagers.",
-                  "category": "family",
-                  "coords": [
-                        15.627134,
-                        48.217164
-                  ]
-            },
-            {
-                  "name": "Spielplatz Eisberg",
-                  "text": "A beautifully located playground in St. Pölten with various climbing structures.",
-                  "category": "family",
-                  "coords": [
-                        15.607349,
-                        48.210437
-                  ]
-            },
-            {
-                  "name": "Spielplatz Englstorferstraße",
-                  "text": "This playground in St. Pölten provides a safe environment for children to play.",
-                  "category": "family",
-                  "coords": [
-                        15.633777,
-                        48.185619
-                  ]
-            }
-      ]
-}, type: "city", parent: "AT-3", coords: [15.6333, 48.2],
+    id: "AT-StPolten", "sights": {"de": [{"name": "Museum am Dom", "text": "Das Museum präsentiert sakrale Kunst im Dom von St. Pölten.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Das Landesmuseum für Natur, Kunst und Geschichte in St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Die ehemalige Synagoge dient heute als Kulturzentrum und Mahnmal.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Ein innovativer Ausstellungsort für zeitgenössische Kunst in St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "Das Museum dokumentiert die Stadtgeschichte von St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Ein Ausstellungsraum im Landhausviertel von St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "Ein kleinerer Theatersaal für intime Aufführungen in St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Ein experimenteller Theaterraum in St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "Eine Kleinkunstbühne für Theater und Kabarett in St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Ein Theater in St. Pölten, das sich dem Tanz und Ballett widmet.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Ein beliebtes Freibad mit Wasserattraktionen in St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "Ein modernes Hallenbad und Wellnesszentrum in St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Ein Veranstaltungsort für Kleinkunst und Musik in St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Ein Kulturzentrum in einer ehemaligen Mühle in St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Eine religiöse Gedenkstätte mit Kreuzwegstationen in St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Ein historisches Denkmal in St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "Ein Denkmal zu Ehren von Kaiser Franz Joseph I. in St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "Die Galerie Hippolyt & Töchter bereichert die Kulturszene von St Poelten mit Ausstellungen zur zeitgenössischen Kunst. In diesem Museum können Kunstinteressierte moderne Werke entdecken.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "Eine kleine, mobile Kunstgalerie in St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Ein Ausstellungsraum für Kunst in St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "Eine Galerie, die Kunst und kulinarische Themen verbindet.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Ein kleines Gehege mit heimischen Tieren in St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Ein ehemaliges Kino, das heute für kulturelle Zwecke genutzt wird.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Ein markanter hölzerner Aussichtspunkt in St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Ein Aussichtspunkt mit Blick über St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "Die Krankenhauskapelle im Universitätsklinikum St. Pölten.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "Ein modernes Kirchengebäude in St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "Eine bedeutende Barockkirche im Stadtzentrum von St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "Eine im neugotischen Stil erbaute Kirche in St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "Eine moderne katholische Kirche in St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "Eine dem heiligen Josef geweihte Kirche in St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "Die Kapelle innerhalb des Priesterseminars von St. Pölten.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "Ein historischer Turm der ehemaligen Stadtbefestigung von St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Die katholische Pfarrkirche im Stadtteil Wagram in St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "Der Spielplatz Kaiserwald in St. Pölten bietet viel Platz zum Spielen im Grünen.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Dieser Indoor-Spielplatz in St. Pölten bietet wetterunabhängiges Spielvergnügen für Familien.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "Die Minigolfanlage am Ratzersdorfer See in St. Pölten ist ein ideales Ausflugsziel.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Dieser Trampolinpark in St. Pölten bietet aktive Unterhaltung für Kinder und Jugendliche.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Ein schön gelegener Spielplatz in St. Pölten mit verschiedenen Klettergeräten.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Dieser Spielplatz in St. Pölten bietet eine sichere Umgebung für Kinder zum Spielen.", "category": "family", "coords": [15.633777, 48.185619]}], "hu": [{"name": "Museum am Dom", "text": "A múzeum szakrális művészeti alkotásokat mutat be a St. Pölten-i dómban.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Alsó-Ausztria természeti, művészeti és történelmi múzeuma St. Pöltenben.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Az egykori zsinagóga ma kulturális központként és emlékhelyként szolgál.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Kortárs művészeti kiállítóhely St. Pöltenben.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "A múzeum St. Pölten várostörténetét mutatja be.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Kiállítóhely St. Pölten kormányzati negyedében.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "Kisebb színházterem bensőséges előadásokhoz St. Pöltenben.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Kísérleti színházi tér St. Pöltenben.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "Színpad St. Pöltenben színházi és kabaré előadásokhoz.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Táncnak és balettnek szentelt színház St. Pöltenben.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Népszerű szabadtéri strand vízi attrakciókkal St. Pöltenben.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "Modern fedett uszoda és wellnessközpont St. Pöltenben.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Kulturális rendezvényhelyszín St. Pöltenben zenével és kabarével.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Kulturális központ egy egykori malomban St. Pöltenben.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Vallási emlékhely keresztúti stációkkal St. Pöltenben.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Történelmi emlékmű St. Pöltenben.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "I. Ferenc József császár tiszteletére emelt emlékmű St. Pöltenben.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "A Hippolyt & Töchter galéria St Poelten kulturális életét színesíti kortárs művészeti kiállításaival. Ebben a múzeumban a művészetkedvelők modern alkotásokat fedezhetnek fel.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "Kisméretű, mobil művészeti galéria St. Pöltenben.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Művészeti kiállítóhely St. Pöltenben.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "A művészetet és a gasztronómiát ötvöző galéria.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Kis állatkifutó helyi állatokkal St. Pöltenben.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Egykori mozi, amelyet ma kulturális célokra használnak.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Jellegzetes fa kilátópont St. Pöltenben.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Kilátópont kilátással St. Pöltenre.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "A St. Pölten-i egyetemi klinika kórházi kápolnája.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "Modern templomépület St. Pöltenben.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "Jelentős barokk templom St. Pölten városközpontjában.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "Neogótikus stílusban épült templom St. Pöltenben.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "Modern katolikus templom St. Pöltenben.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "Szent Józsefnek szentelt templom St. Pöltenben.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "A St. Pölten-i papnevelde kápolnája.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "St. Pölten egykori városfalának történelmi toronya.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Katolikus plébániatemplom St. Pölten Wagram városrészében.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "A St. Pölten-i Kaiserwald játszótér bőséges helyet kínál a játékhoz a zöldben.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Ez a St. Pölten-i fedett játszóház időjárástól független szórakozást kínál a családoknak.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "A St. Pölten-i Ratzersdorfer See melletti minigolfpálya ideális kirándulóhely.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Ez a St. Pölten-i trambulinpark aktív szórakozást nyújt gyerekeknek és fiataloknak.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Szép fekvésű játszótér St. Pöltenben különféle mászókákkal.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Ez a St. Pölten-i játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.", "category": "family", "coords": [15.633777, 48.185619]}], "ro": [{"name": "Museum am Dom", "text": "Muzeul prezintă artă sacră în catedrala din St. Pölten.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Muzeul de stat pentru natură, artă și istorie din St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Fosta sinagogă servește astăzi ca centru cultural și memorial.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Un spațiu expozițional inovator pentru artă contemporană în St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "Muzeul documentează istoria orașului St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Un spațiu expozițional în cartierul Landhaus din St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "O sală de teatru mai mică pentru spectacole intime în St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Un spațiu teatral experimental în St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "O scenă pentru teatru și cabaret în St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Un teatru din St. Pölten dedicat dansului și baletului.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Un ștrand popular cu atracții acvatice în St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "O piscină acoperită modernă și centru wellness în St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Un spațiu pentru evenimente culturale și muzică în St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Un centru cultural situat într-o fostă moară din St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Un monument religios cu stațiile Căii Crucii în St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Un monument istoric din St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "Un monument în onoarea împăratului Franz Joseph I în St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "Galeria Hippolyt & Töchter din St Poelten expune artă contemporană, îmbogățind scena culturală locală. Acest muzeu oferă pasionaților de artă ocazia de a descoperi lucrări moderne.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "O mică galerie de artă mobilă în St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Un spațiu expozițional de artă în St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "O galerie care îmbină arta cu teme culinare.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Un mic țarc cu animale locale în St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Un fost cinematograf, utilizat astăzi în scopuri culturale.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Un punct de observație din lemn distinctiv în St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Un punct de observație cu vedere asupra orașului St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "Capela spitalului din cadrul clinicii universitare din St. Pölten.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "O clădire de biserică modernă în St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "O biserică barocă importantă în centrul orașului St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "O biserică construită în stil neogotic în St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "O biserică catolică modernă în St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "O biserică dedicată Sfântului Iosif din St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "Capela din cadrul seminarului teologic din St. Pölten.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "Un turn istoric al fostei fortificații a orașului St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Biserica parohială catolică din cartierul Wagram din St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "Locul de joacă Kaiserwald din St. Pölten oferă mult spațiu pentru joacă în natură.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Acest loc de joacă interior din St. Pölten oferă distracție indiferent de vreme pentru familii.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "Terenul de minigolf de la lacul Ratzersdorfer din St. Pölten este o destinație ideală de excursie.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Acest parc de trambuline din St. Pölten oferă divertisment activ pentru copii și tineri.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Un loc de joacă frumos situat în St. Pölten cu diverse structuri de cățărare.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Acest loc de joacă din St. Pölten oferă un mediu sigur pentru joaca copiilor.", "category": "family", "coords": [15.633777, 48.185619]}], "en": [{"name": "Museum am Dom", "text": "The museum presents sacred art within the St. Pölten Cathedral.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "The state museum for nature, art, and history in St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "The former synagogue now serves as a cultural center and memorial.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "An innovative exhibition space for contemporary art in St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "The museum documents the history of the city of St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "An exhibition space in the Landhaus district of St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "A smaller theater hall for intimate performances in St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "An experimental theater space in St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "A stage for theater and cabaret performances in St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "A theater in St. Pölten dedicated to dance and ballet.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "A popular outdoor pool with water attractions in St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "A modern indoor pool and wellness center in St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "A venue for cultural events and music in St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "A cultural center located in a former mill in St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "A religious memorial site with Stations of the Cross in St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "A historical monument in St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "A monument honoring Emperor Franz Joseph I in St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "The Hippolyt & Töchter gallery in St Poelten enriches the local cultural scene by showcasing contemporary art. Visitors to this museum can discover a variety of modern artistic works.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "A small, mobile art gallery in St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "An art exhibition space in St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "A gallery combining art and culinary themes.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "A small enclosure with local animals in St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "A former cinema, now used for cultural purposes.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "A distinctive wooden viewpoint in St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "A viewpoint offering views over St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "The hospital chapel within the St. Pölten University Hospital.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "A modern church building in St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "A significant Baroque church in the city center of St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "A church built in the Neo-Gothic style in St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "A modern Catholic church in St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "A church dedicated to St. Joseph in St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "The chapel within the St. Pölten seminary.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "A historic tower of the former city fortifications of St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "The Catholic parish church in the Wagram district of St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "The Kaiserwald playground in St. Pölten offers plenty of space for playing in a green setting.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "This indoor playground in St. Pölten offers weather-independent fun for families.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "The miniature golf course at Ratzersdorfer See in St. Pölten is an ideal excursion destination.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "This trampoline park in St. Pölten offers active entertainment for children and teenagers.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "A beautifully located playground in St. Pölten with various climbing structures.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "This playground in St. Pölten provides a safe environment for children to play.", "category": "family", "coords": [15.633777, 48.185619]}]}, type: "city", parent: "AT-3", coords: [15.6333, 48.2],
     name: { de: "St. Pölten", hu: "St. Pölten", ro: "St. Pölten", en: "St. Pölten" },
     image: "/geo-images/austria/st-p-lten.webp",
     description: { de: "St. Pölten, die charmante Hauptstadt Niederösterreichs, blickt auf eine faszinierende Geschichte als eine der ältesten Städte Österreichs zurück. Gleichzeitig ist sie die jüngste Landeshauptstadt, da sie diesen Titel erst 1986 von Wien übernahm. Die Stadt präsentiert einen spannenden architektonischen Mix: Während die historische Altstadt mit prachtvollen barocken Bauwerken, romantischen Plätzen und einem eindrucksvollen Dom glänzt, symbolisiert das Regierungsviertel mit seiner modernen, avantgardistischen Architektur den Aufbruch in die Zukunft. Eingebettet in das fruchtbare Alpenvorland und nah an der Wachau gelegen, ist St. Pölten ein aufstrebendes kulturelles Zentrum, das durch das renommierte Festspielhaus und eine lebendige Veranstaltungsszene bereichert wird.", hu: "St. Pölten, Alsó-Ausztria bájos fővárosa, Ausztria egyik legrégebbi városaként lenyűgöző történelemre tekinthet vissza. Ugyanakkor ez a legfiatalabb tartományi főváros is, hiszen ezt a címet csak 1986-ban vette át Bécstől. A város izgalmas építészeti keveréket mutat be: míg a történelmi óváros pompás barokk épületekkel, romantikus terekkel és egy lenyűgöző dóm épületével büszkélkedhet, addig a kormányzati negyed modern, avantgárd építészetével a jövőbe való indulást szimbolizálja. A termékeny Alpokalján, a Wachau közelében fekvő St. Pölten egy feltörekvő kulturális központ, amelyet a híres Festspielhaus (Fesztiválpalota) és az élénk rendezvényi élet is gazdagít.", ro: "St. Pölten, fermecătoarea capitală a Austriei Inferioare, are o istorie fascinantă fiind unul dintre cele mai vechi orașe din Austria. În același timp, este cea mai tânără capitală de stat, preluând acest titlu de la Viena abia în 1986. Orașul prezintă un mix arhitectural captivant: în timp ce centrul istoric strălucește cu clădiri baroce magnifice, piețe romantice și o catedrală impresionantă, cartierul guvernamental, cu arhitectura sa modernă, de avangardă, simbolizează un salt spre viitor. Situat la poalele fertile ale Alpilor și aproape de regiunea Wachau, St. Pölten este un centru cultural în plină ascensiune, îmbogățit de renumita Festspielhaus (Sala de Festivaluri) și de o scenă de evenimente vibrantă.", en: "St. Pölten, the charming capital of Lower Austria, looks back on a fascinating history as one of the oldest cities in Austria. At the same time, it is the youngest state capital, having only taken over this title from Vienna in 1986. The city presents an exciting architectural mix: while the historic old town shines with magnificent Baroque buildings, romantic squares, and an impressive cathedral, the government district, with its modern, avant-garde architecture, symbolizes a leap into the future. Nestled in the fertile Alpine foothills and located close to the Wachau, St. Pölten is an emerging cultural center, enriched by the renowned Festspielhaus and a vibrant events scene." , es: "St. Pölten, la encantadora capital de la Baja Austria, tiene una historia fascinante como una de las ciudades más antiguas de Austria. Al mismo tiempo, es la capital estatal más joven, ya que no asumió este título de Viena hasta 1986. La ciudad presenta una emocionante mezcla arquitectónica: mientras que el casco antiguo histórico brilla con magníficos edificios barrocos, plazas románticas y una impresionante catedral, el barrio gubernamental simboliza la entrada en el futuro con su arquitectura moderna y vanguardista. Enclavada en las fértiles estribaciones de los Alpes y cerca de la Wachau, St. Pölten es un centro cultural emergente, enriquecido por el renombrado Festspielhaus y una animada escena de eventos.", pt: "St. Pölten, a encantadora capital da Baixa Áustria, recorda uma história fascinante como uma das cidades mais antigas da Áustria. Ao mesmo tempo, é a capital provincial mais jovem, tendo assumido este título de Viena apenas em 1986. A cidade apresenta uma mistura arquitetónica emocionante: enquanto o centro histórico brilha com magníficos edifícios barrocos, praças românticas e uma catedral impressionante, o bairro governamental simboliza o início do futuro com a sua arquitetura moderna e vanguardista. Inserida no fértil sopé dos Alpes e situada perto de Wachau, St. Pölten é um centro cultural emergente, enriquecido pelo renomeado Festspielhaus e por uma cena de eventos vibrante.", fr: "St. Pölten, la charmante capitale de la Basse-Autriche, s'appuie sur une histoire fascinante en tant qu'une des plus anciennes villes d'Autriche. Parallèlement, elle est la capitale provinciale la plus jeune, n'ayant repris ce titre à Vienne qu'en 1986. La ville présente un mélange architectural passionnant : alors que la vieille ville historique brille par ses magnifiques édifices baroques, ses places romantiques et son impressionnante cathédrale, le quartier du gouvernement symbolise le départ vers l'avenir avec son architecture moderne et avant-gardiste. Nichée dans les contreforts fertiles des Alpes et située à proximité de la Wachau, St. Pölten est un centre culturel émergent, enrichi par le célèbre Festspielhaus et une scène événementielle animée."},
@@ -15174,6 +10179,24 @@ export const austriaCities: POI[] = [
                         12.399685,
                         47.43859
                   ]
+            },
+            {
+                  "name": "Waldbad Gieringer Weiher",
+                  "text": "Das Waldbad Gieringer Weiher in Kitzbühel bietet naturnahen Badespaß in ruhiger Lage.",
+                  "category": "family",
+                  "coords": [
+                        12.364086,
+                        47.471003
+                  ]
+            },
+            {
+                  "name": "Aussenpool Hotel Bichlhof",
+                  "text": "Der Außenpool des Hotels Bichlhof in Kitzbühel bietet Schwimmmöglichkeiten unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        12.425876,
+                        47.432452
+                  ]
             }
       ],
       "hu": [
@@ -15463,6 +10486,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.399685,
                         47.43859
+                  ]
+            },
+            {
+                  "name": "Waldbad Gieringer Weiher",
+                  "text": "A Kitzbühel-i Waldbad Gieringer Weiher természetközeli fürdőzést kínál nyugodt környezetben.",
+                  "category": "family",
+                  "coords": [
+                        12.364086,
+                        47.471003
+                  ]
+            },
+            {
+                  "name": "Aussenpool Hotel Bichlhof",
+                  "text": "A kitzbüheli Hotel Bichlhof szabadtéri medencéje úszási lehetőséget kínál a szabad ég alatt.",
+                  "category": "family",
+                  "coords": [
+                        12.425876,
+                        47.432452
                   ]
             }
       ],
@@ -15754,6 +10795,24 @@ export const austriaCities: POI[] = [
                         12.399685,
                         47.43859
                   ]
+            },
+            {
+                  "name": "Waldbad Gieringer Weiher",
+                  "text": "Waldbad Gieringer Weiher din Kitzbühel oferă distracție acvatică în natură, într-o locație liniștită.",
+                  "category": "family",
+                  "coords": [
+                        12.364086,
+                        47.471003
+                  ]
+            },
+            {
+                  "name": "Aussenpool Hotel Bichlhof",
+                  "text": "Piscina exterioară a Hotelului Bichlhof din Kitzbühel oferă posibilitatea de a înota în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.425876,
+                        47.432452
+                  ]
             }
       ],
       "en": [
@@ -16043,6 +11102,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.399685,
                         47.43859
+                  ]
+            },
+            {
+                  "name": "Waldbad Gieringer Weiher",
+                  "text": "Waldbad Gieringer Weiher in Kitzbuehel offers nature-oriented swimming fun in a quiet location.",
+                  "category": "family",
+                  "coords": [
+                        12.364086,
+                        47.471003
+                  ]
+            },
+            {
+                  "name": "Aussenpool Hotel Bichlhof",
+                  "text": "The outdoor pool at Hotel Bichlhof in Kitzbuehel offers swimming opportunities under the open sky.",
+                  "category": "family",
+                  "coords": [
+                        12.425876,
+                        47.432452
                   ]
             }
       ]

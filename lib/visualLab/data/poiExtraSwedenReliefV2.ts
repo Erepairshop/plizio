@@ -233,52 +233,7 @@ imageHint: "Sylarna mountain massif peaks",
     },
     image: "/poi-images/sweden-sylarna-relief-v2.webp",
 },  {
-    id: "sweden-areskutan-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Åre strand",
-                  "text": "Strand in Åre, unterhalb des Åreskutan.",
-                  "category": "recreational",
-                  "coords": [
-                        13.076263,
-                        63.39627
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Åre strand",
-                  "text": "Strand Årében, az Åreskutan hegy alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        13.076263,
-                        63.39627
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Åre strand",
-                  "text": "Plajă în Åre, sub muntele Åreskutan.",
-                  "category": "recreational",
-                  "coords": [
-                        13.076263,
-                        63.39627
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Åre strand",
-                  "text": "Beach in Åre, below the Åreskutan mountain.",
-                  "category": "recreational",
-                  "coords": [
-                        13.076263,
-                        63.39627
-                  ]
-            }
-      ]
-},
+    id: "sweden-areskutan-relief-v2", "sights": {"de": [{"name": "Åre strand", "text": "Eingebettet in die Berglandschaft unterhalb des Åreskutan, lädt der Åre strand zu einer naturnahen Auszeit ein. Die Kombination aus alpiner Umgebung und dem ruhigen Uferbereich schafft eine ganz besondere, entspannte Atmosphäre. Neben Schwimmen an wärmeren Tagen kann man hier wunderbar spazieren und die frische schwedische Luft genießen. Ein Ausflug dorthin ist eine ideale Ergänzung zu den sonstigen Aktivitäten in der Region.", "category": "recreational", "coords": [13.076263, 63.39627]}], "hu": [{"name": "Åre strand", "text": "Az Åreskutan hegy alatt meghúzódó Åre strand lenyűgöző hegyvidéki környezetben kínál természetközeli kikapcsolódást. Az alpesi táj és a nyugodt partvidék találkozása egészen különleges, pihentető atmoszférát teremt. A melegebb napokon való úszás mellett a környék kiválóan alkalmas kellemes sétákra a friss svéd levegőn. Érdemes a régió egyéb programjait egy itteni látogatással megkoronázni.", "category": "recreational", "coords": [13.076263, 63.39627]}], "ro": [{"name": "Åre strand", "text": "Ascuns sub muntele Åreskutan, Åre strand invită călătorii la o escapadă în mijlocul naturii suedeze. Combinația dintre peisajul montan și zona de coastă liniștită creează o atmosferă relaxantă unică. Pe lângă posibilitatea de a înota în zilele mai blânde, vizitatorii se pot plimba bucurându-se de aerul proaspăt. O oprire aici completează perfect orice itinerar prin această zonă pitorească.", "category": "recreational", "coords": [13.076263, 63.39627]}], "en": [{"name": "Åre strand", "text": "Tucked beneath the Åreskutan mountain, Åre strand invites visitors to enjoy a natural escape in Sweden. The combination of an alpine backdrop and a quiet shoreline creates a uniquely relaxing atmosphere. Besides swimming on warmer days, the area is wonderful for walking and taking in the fresh Swedish air. Stopping by makes for a perfect addition to any outdoor itinerary in the region.", "category": "recreational", "coords": [13.076263, 63.39627]}]},
     parent: "SE",
     type: "mountain",
     name: { de: "Åreskutan", hu: "Åreskutan", ro: "Åreskutan", en: "Åreskutan"},

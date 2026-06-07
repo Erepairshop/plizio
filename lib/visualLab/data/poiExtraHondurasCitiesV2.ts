@@ -1194,52 +1194,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       fr: [],}
   },
   {
-    id: "sabanagrande-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cerro El Bobo",
-                  "text": "Ein Berggipfel in der Nähe von Sabanagrande mit weitem Ausblick.",
-                  "category": "natural",
-                  "coords": [
-                        -87.26032,
-                        13.815483
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cerro El Bobo",
-                  "text": "Hegycsúcs Sabanagrande közelében, ahonnan messzire el lehet látni.",
-                  "category": "natural",
-                  "coords": [
-                        -87.26032,
-                        13.815483
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cerro El Bobo",
-                  "text": "Un vârf montan lângă Sabanagrande, oferind o panoramă largă.",
-                  "category": "natural",
-                  "coords": [
-                        -87.26032,
-                        13.815483
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cerro El Bobo",
-                  "text": "A mountain peak near Sabanagrande offering wide views.",
-                  "category": "natural",
-                  "coords": [
-                        -87.26032,
-                        13.815483
-                  ]
-            }
-      ]
-},
+    id: "sabanagrande-cities-v2", "sights": {"de": [{"name": "Cerro El Bobo", "text": "In der Nähe von Sabanagrande erhebt sich der Cerro El Bobo als markanter Berggipfel in der Landschaft von Honduras. Besucher erwartet auf dieser natürlichen Erhebung ein beeindruckend weiter Ausblick.", "category": "natural", "coords": [-87.26032, 13.815483]}], "hu": [{"name": "Cerro El Bobo", "text": "A Sabanagrande közelében található Cerro El Bobo egy természetes hegycsúcs Hondurasban. A magaslatra látogatók széles és lenyűgöző kilátásra számíthatnak.", "category": "natural", "coords": [-87.26032, 13.815483]}], "ro": [{"name": "Cerro El Bobo", "text": "Ridicându-se lângă Sabanagrande, Cerro El Bobo este un vârf montan natural din Honduras, cunoscut pentru panoramele sale. Vizitatorii care urcă pe această înălțime se pot aștepta la vederi ample asupra peisajului.", "category": "natural", "coords": [-87.26032, 13.815483]}], "en": [{"name": "Cerro El Bobo", "text": "Rising near Sabanagrande, Cerro El Bobo is a natural mountain peak known for its wide outlooks. Visitors ascending this elevation can expect expansive views over the Honduran landscape.", "category": "natural", "coords": [-87.26032, 13.815483]}]},
     type: "city",
     parent: "HN-FM",
     coords: [-87.25, 13.8],

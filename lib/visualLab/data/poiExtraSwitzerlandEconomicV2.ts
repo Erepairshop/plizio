@@ -697,6 +697,222 @@ export const switzerlandEconomicV2: POI[] = [
                         8.53021,
                         47.377311
                   ]
+            },
+            {
+                  "name": "Keen",
+                  "text": "Eine öffentliche Badeanlage in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.524962,
+                        47.387245
+                  ]
+            },
+            {
+                  "name": "Float Zürich",
+                  "text": "Eine Wellness-Einrichtung in Zürich West, die Entspannung und Floating-Erlebnisse bietet.",
+                  "category": "family",
+                  "coords": [
+                        8.528118,
+                        47.393383
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Kügeliloo",
+                  "text": "Eine Schulschwimmanlage in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.528038,
+                        47.411068
+                  ]
+            },
+            {
+                  "name": "Thermalbad & Spa Zürich",
+                  "text": "Ein Thermalbad und Spa in Zürich West für Wellness und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        8.525054,
+                        47.364759
+                  ]
+            },
+            {
+                  "name": "Waldlabor Zürich",
+                  "text": "Ein Outdoor-Freizeitpark und Waldlabor in Zürich West für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.497302,
+                        47.410066
+                  ]
+            },
+            {
+                  "name": "Schul-Schwimmbad Altweg",
+                  "text": "Ein Schulschwimmbad in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.492076,
+                        47.372468
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa, Stadtbad Zürich",
+                  "text": "Entspannung im öffentlichen Bad in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.527128,
+                        47.375496
+                  ]
+            },
+            {
+                  "name": "Wellenbad",
+                  "text": "Wellenbad für Schwimmspaß in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.498531,
+                        47.378678
+                  ]
+            },
+            {
+                  "name": "Strandbad Mythenquai",
+                  "text": "Strandbad am See für einen erholsamen Tag in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535755,
+                        47.353559
+                  ]
+            },
+            {
+                  "name": "Tierpark Waidberg",
+                  "text": "Tierpark für einen gemütlichen Familienspaziergang in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.517004,
+                        47.400329
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Planschbecken für kleine Kindern in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Flussbad Unterer Letten",
+                  "text": "Historisches Flussbad zum Schwimmen in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.529185,
+                        47.389359
+                  ]
+            },
+            {
+                  "name": "Flussbad Au-Höngg",
+                  "text": "Naturnahes Flussbad zur Erholung in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.490216,
+                        47.399405
+                  ]
+            },
+            {
+                  "name": "Planschbecken Fritschiwiese",
+                  "text": "Flaches Becken zum Planschen für Kinder in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.512264,
+                        47.37654
+                  ]
+            },
+            {
+                  "name": "Planschbecken Sihlhölzli",
+                  "text": "Kleines Becken für den Wasserspaß der Kinder in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.523754,
+                        47.36675
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Voliere mit verschiedenen Vogelarten in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535687,
+                        47.362335
+                  ]
+            },
+            {
+                  "name": "Frauenbad Stadthausquai",
+                  "text": "Traditionelles Flussbad für Frauen in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.54215,
+                        47.368458
+                  ]
+            },
+            {
+                  "name": "Planschbecken Josefwiese",
+                  "text": "Planschbecken für Kinder im Park in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.522806,
+                        47.38598
+                  ]
+            },
+            {
+                  "name": "Planschbecken Borrweg",
+                  "text": "Watschbecken für kleine Kinder in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.50549,
+                        47.360278
+                  ]
+            },
+            {
+                  "name": "Vogelzucht Martins",
+                  "text": "Vogelzucht-Anlage zum Besichtigen in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.502493,
+                        47.396737
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bullingerhof",
+                  "text": "Planschbecken für den Badespaß der Kinder in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.514025,
+                        47.378844
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bachwiesen",
+                  "text": "Wasserspielbereich für Familien in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.48607,
+                        47.380835
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Kleines Becken für Kinder in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Althoos",
+                  "text": "Planschbecken für Familien in Zürich West.",
+                  "category": "family",
+                  "coords": [
+                        8.521485,
+                        47.410558
+                  ]
             }
       ],
       "hu": [
@@ -1346,6 +1562,222 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.53021,
                         47.377311
+                  ]
+            },
+            {
+                  "name": "Keen",
+                  "text": "Nyilvános fürdőhely Zürich nyugati részén.",
+                  "category": "family",
+                  "coords": [
+                        8.524962,
+                        47.387245
+                  ]
+            },
+            {
+                  "name": "Float Zürich",
+                  "text": "Wellnessközpont Zürich nyugati részén, amely lebegő élményt és ellazulást kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.528118,
+                        47.393383
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Kügeliloo",
+                  "text": "Iskolai úszólétesítmény Zürich nyugati részén.",
+                  "category": "family",
+                  "coords": [
+                        8.528038,
+                        47.411068
+                  ]
+            },
+            {
+                  "name": "Thermalbad & Spa Zürich",
+                  "text": "Termálfürdő és spa Zürich nyugati részén wellnesshez és úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.525054,
+                        47.364759
+                  ]
+            },
+            {
+                  "name": "Waldlabor Zürich",
+                  "text": "Szabadtéri élménypark és erdőlaboratórium Zürich nyugati részén családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.497302,
+                        47.410066
+                  ]
+            },
+            {
+                  "name": "Schul-Schwimmbad Altweg",
+                  "text": "Iskolai úszómedence Zürich nyugati részén.",
+                  "category": "family",
+                  "coords": [
+                        8.492076,
+                        47.372468
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa, Stadtbad Zürich",
+                  "text": "Kikapcsolódás a közfürdőben Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.527128,
+                        47.375496
+                  ]
+            },
+            {
+                  "name": "Wellenbad",
+                  "text": "Hullámfürdő a családi szórakozáshoz Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.498531,
+                        47.378678
+                  ]
+            },
+            {
+                  "name": "Strandbad Mythenquai",
+                  "text": "Strandfürdő a tóparton egy pihentető naphoz Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.535755,
+                        47.353559
+                  ]
+            },
+            {
+                  "name": "Tierpark Waidberg",
+                  "text": "Vadaspark egy kellemes családi sétához Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.517004,
+                        47.400329
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Pancsoló kisgyermekek számára Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Flussbad Unterer Letten",
+                  "text": "Történelmi folyami fürdő úszáshoz Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.529185,
+                        47.389359
+                  ]
+            },
+            {
+                  "name": "Flussbad Au-Höngg",
+                  "text": "Természetközeli folyami fürdő pihenéshez Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.490216,
+                        47.399405
+                  ]
+            },
+            {
+                  "name": "Planschbecken Fritschiwiese",
+                  "text": "Sekély medence pancsoláshoz gyermekeknek Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.512264,
+                        47.37654
+                  ]
+            },
+            {
+                  "name": "Planschbecken Sihlhölzli",
+                  "text": "Kis medence a gyermekek vízi szórakozásához Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.523754,
+                        47.36675
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Röpdék különböző madárfajokkal Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.535687,
+                        47.362335
+                  ]
+            },
+            {
+                  "name": "Frauenbad Stadthausquai",
+                  "text": "Hagyományos folyami fürdő nők számára Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.54215,
+                        47.368458
+                  ]
+            },
+            {
+                  "name": "Planschbecken Josefwiese",
+                  "text": "Pancsoló gyermekeknek a parkban Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.522806,
+                        47.38598
+                  ]
+            },
+            {
+                  "name": "Planschbecken Borrweg",
+                  "text": "Pancsoló kisgyermekeknek Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.50549,
+                        47.360278
+                  ]
+            },
+            {
+                  "name": "Vogelzucht Martins",
+                  "text": "Madártenyésztő telep látogatásra Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.502493,
+                        47.396737
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bullingerhof",
+                  "text": "Pancsoló a gyermekek fürdőzési élményéhez Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.514025,
+                        47.378844
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bachwiesen",
+                  "text": "Vízi játszótér családoknak Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.48607,
+                        47.380835
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Kis medence gyermekeknek Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Althoos",
+                  "text": "Pancsoló családok számára Zürich Westben.",
+                  "category": "family",
+                  "coords": [
+                        8.521485,
+                        47.410558
                   ]
             }
       ],
@@ -1997,6 +2429,222 @@ export const switzerlandEconomicV2: POI[] = [
                         8.53021,
                         47.377311
                   ]
+            },
+            {
+                  "name": "Keen",
+                  "text": "O unitate de baie publică în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.524962,
+                        47.387245
+                  ]
+            },
+            {
+                  "name": "Float Zürich",
+                  "text": "O facilitate spa în Zurich West care oferă relaxare și experiențe de floating.",
+                  "category": "family",
+                  "coords": [
+                        8.528118,
+                        47.393383
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Kügeliloo",
+                  "text": "O facilitate de înot școlară în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.528038,
+                        47.411068
+                  ]
+            },
+            {
+                  "name": "Thermalbad & Spa Zürich",
+                  "text": "O baie termală și spa în Zurich West pentru wellness și înot.",
+                  "category": "family",
+                  "coords": [
+                        8.525054,
+                        47.364759
+                  ]
+            },
+            {
+                  "name": "Waldlabor Zürich",
+                  "text": "Un parc tematic în aer liber și laborator forestier în Zurich West pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.497302,
+                        47.410066
+                  ]
+            },
+            {
+                  "name": "Schul-Schwimmbad Altweg",
+                  "text": "O piscină școlară în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.492076,
+                        47.372468
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa, Stadtbad Zürich",
+                  "text": "Relaxare la baia publică din Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.527128,
+                        47.375496
+                  ]
+            },
+            {
+                  "name": "Wellenbad",
+                  "text": "Piscină cu valuri pentru distracție la scăldat în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.498531,
+                        47.378678
+                  ]
+            },
+            {
+                  "name": "Strandbad Mythenquai",
+                  "text": "Ștrand pe malul lacului pentru o zi relaxantă în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535755,
+                        47.353559
+                  ]
+            },
+            {
+                  "name": "Tierpark Waidberg",
+                  "text": "Parc de animale pentru o plimbare plăcută în familie în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.517004,
+                        47.400329
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Piscină pentru copii mici în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Flussbad Unterer Letten",
+                  "text": "Baie fluvială istorică pentru înot în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.529185,
+                        47.389359
+                  ]
+            },
+            {
+                  "name": "Flussbad Au-Höngg",
+                  "text": "Baie fluvială aproape de natură pentru relaxare în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.490216,
+                        47.399405
+                  ]
+            },
+            {
+                  "name": "Planschbecken Fritschiwiese",
+                  "text": "Piscină cu apă puțin adâncă pentru copii în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.512264,
+                        47.37654
+                  ]
+            },
+            {
+                  "name": "Planschbecken Sihlhölzli",
+                  "text": "Piscină mică pentru distracția copiilor în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.523754,
+                        47.36675
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Volieră cu diverse specii de păsări în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535687,
+                        47.362335
+                  ]
+            },
+            {
+                  "name": "Frauenbad Stadthausquai",
+                  "text": "Baie fluvială tradițională pentru femei în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.54215,
+                        47.368458
+                  ]
+            },
+            {
+                  "name": "Planschbecken Josefwiese",
+                  "text": "Piscină pentru copii în parcul din Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.522806,
+                        47.38598
+                  ]
+            },
+            {
+                  "name": "Planschbecken Borrweg",
+                  "text": "Piscină pentru copii mici în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.50549,
+                        47.360278
+                  ]
+            },
+            {
+                  "name": "Vogelzucht Martins",
+                  "text": "Zonă de creștere a păsărilor pentru vizitare în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.502493,
+                        47.396737
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bullingerhof",
+                  "text": "Piscină pentru distracția la scăldat a copiilor în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.514025,
+                        47.378844
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bachwiesen",
+                  "text": "Zonă de joacă cu apă pentru familii în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.48607,
+                        47.380835
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Piscină mică pentru copii în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Althoos",
+                  "text": "Piscină pentru familii în Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.521485,
+                        47.410558
+                  ]
             }
       ],
       "en": [
@@ -2646,6 +3294,222 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.53021,
                         47.377311
+                  ]
+            },
+            {
+                  "name": "Keen",
+                  "text": "A public bathing facility in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.524962,
+                        47.387245
+                  ]
+            },
+            {
+                  "name": "Float Zürich",
+                  "text": "A spa facility in Zurich West offering relaxation and floating experiences.",
+                  "category": "family",
+                  "coords": [
+                        8.528118,
+                        47.393383
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Kügeliloo",
+                  "text": "A school swimming facility in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.528038,
+                        47.411068
+                  ]
+            },
+            {
+                  "name": "Thermalbad & Spa Zürich",
+                  "text": "A thermal bath and spa in Zurich West for wellness and swimming.",
+                  "category": "family",
+                  "coords": [
+                        8.525054,
+                        47.364759
+                  ]
+            },
+            {
+                  "name": "Waldlabor Zürich",
+                  "text": "An outdoor theme park and forest laboratory in Zurich West for families.",
+                  "category": "family",
+                  "coords": [
+                        8.497302,
+                        47.410066
+                  ]
+            },
+            {
+                  "name": "Schul-Schwimmbad Altweg",
+                  "text": "A school swimming pool in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.492076,
+                        47.372468
+                  ]
+            },
+            {
+                  "name": "Hammam & Spa, Stadtbad Zürich",
+                  "text": "Relaxation at the public bath in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.527128,
+                        47.375496
+                  ]
+            },
+            {
+                  "name": "Wellenbad",
+                  "text": "Wave pool for swimming fun in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.498531,
+                        47.378678
+                  ]
+            },
+            {
+                  "name": "Strandbad Mythenquai",
+                  "text": "Lakeside bath for a relaxing day in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535755,
+                        47.353559
+                  ]
+            },
+            {
+                  "name": "Tierpark Waidberg",
+                  "text": "Animal park for a pleasant family walk in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.517004,
+                        47.400329
+                  ]
+            },
+            {
+                  "name": "Planschbecken Wahlenpark",
+                  "text": "Paddling pool for small children in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541041,
+                        47.415173
+                  ]
+            },
+            {
+                  "name": "Flussbad Unterer Letten",
+                  "text": "Historic river bath for swimming in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.529185,
+                        47.389359
+                  ]
+            },
+            {
+                  "name": "Flussbad Au-Höngg",
+                  "text": "Natural river bath for relaxation in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.490216,
+                        47.399405
+                  ]
+            },
+            {
+                  "name": "Planschbecken Fritschiwiese",
+                  "text": "Shallow pool for children to splash in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.512264,
+                        47.37654
+                  ]
+            },
+            {
+                  "name": "Planschbecken Sihlhölzli",
+                  "text": "Small pool for children's water fun in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.523754,
+                        47.36675
+                  ]
+            },
+            {
+                  "name": "Volière",
+                  "text": "Aviary with various bird species in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.535687,
+                        47.362335
+                  ]
+            },
+            {
+                  "name": "Frauenbad Stadthausquai",
+                  "text": "Traditional river bath for women in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.54215,
+                        47.368458
+                  ]
+            },
+            {
+                  "name": "Planschbecken Josefwiese",
+                  "text": "Paddling pool for children in the park in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.522806,
+                        47.38598
+                  ]
+            },
+            {
+                  "name": "Planschbecken Borrweg",
+                  "text": "Wading pool for small children in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.50549,
+                        47.360278
+                  ]
+            },
+            {
+                  "name": "Vogelzucht Martins",
+                  "text": "Bird breeding facility to visit in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.502493,
+                        47.396737
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bullingerhof",
+                  "text": "Paddling pool for children's swimming fun in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.514025,
+                        47.378844
+                  ]
+            },
+            {
+                  "name": "Planschbecken Bachwiesen",
+                  "text": "Water play area for families in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.48607,
+                        47.380835
+                  ]
+            },
+            {
+                  "name": "Planschbecken Föhrenwald",
+                  "text": "Small pool for children in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.541697,
+                        47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Althoos",
+                  "text": "Paddling pool for families in Zurich West.",
+                  "category": "family",
+                  "coords": [
+                        8.521485,
+                        47.410558
                   ]
             }
       ]
