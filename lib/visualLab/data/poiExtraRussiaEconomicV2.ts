@@ -877,52 +877,7 @@ imageHint: "Modern industrial warehouses and factories in Alabuga SEZ",
     },
     image: "/poi-images/russia-alabuga-sez-economic-v2.webp",
 },  {
-    id: "russia-innopolis-tech-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Коммуналка",
-                  "text": "Kommunalka ist ein Kunstzentrum in der Innopolis Technologiestadt.",
-                  "category": "cultural",
-                  "coords": [
-                        48.744103,
-                        55.748547
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Коммуналка",
-                  "text": "A Kommunalka egy művészeti központ Innopolisz Technológiai Városban.",
-                  "category": "cultural",
-                  "coords": [
-                        48.744103,
-                        55.748547
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Коммуналка",
-                  "text": "Kommunalka este un centru de arte situat în Innopolis Technologiestadt.",
-                  "category": "cultural",
-                  "coords": [
-                        48.744103,
-                        55.748547
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Коммуналка",
-                  "text": "Kommunalka is an arts centre situated in Innopolis Technologiestadt.",
-                  "category": "cultural",
-                  "coords": [
-                        48.744103,
-                        55.748547
-                  ]
-            }
-      ]
-},
+    id: "russia-innopolis-tech-economic-v2", "sights": {"de": [{"name": "Kommunalka", "text": "Kommunalka ist ein Kunstzentrum in der Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}], "hu": [{"name": "Kommunalka", "text": "A Kommunalka egy művészeti központ Innopolisz Technológiai Városban.", "category": "cultural", "coords": [48.744103, 55.748547]}], "ro": [{"name": "Kommunalka", "text": "Kommunalka este un centru de arte situat în Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}], "en": [{"name": "Kommunalka", "text": "Kommunalka is an arts centre situated in Innopolis Technologiestadt.", "category": "cultural", "coords": [48.744103, 55.748547]}]},
     parent: "RU",
     type: "city",
     name: { de: "Innopolis Technologiestadt", hu: "Innopolis technológiai város", ro: "Orașul tehnologic Innopolis", en: "Innopolis Tech City"},

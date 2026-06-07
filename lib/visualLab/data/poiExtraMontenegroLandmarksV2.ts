@@ -183,52 +183,7 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-budva-citadel-landmarks-v2.webp",
   },
   {
-    id: "montenegro-petrovac-fort-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Плажа Петровац",
-                  "text": "Der Strand Petrovac liegt nahe der Festung Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.940348,
-                        42.204882
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Плажа Петровац",
-                  "text": "A Petrovac strand a Petrovac erőd közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        18.940348,
-                        42.204882
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Плажа Петровац",
-                  "text": "Plaja Petrovac este situată în apropierea Cetății Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.940348,
-                        42.204882
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Плажа Петровац",
-                  "text": "Petrovac Beach is located near the Petrovac Fort.",
-                  "category": "recreational",
-                  "coords": [
-                        18.940348,
-                        42.204882
-                  ]
-            }
-      ]
-},
+    id: "montenegro-petrovac-fort-landmarks-v2", "sights": {"de": [{"name": "Plaža Petrovac", "text": "Der Strand Petrovac liegt nahe der Festung Petrovac.", "category": "recreational", "coords": [18.940348, 42.204882]}], "hu": [{"name": "Plaža Petrovac", "text": "A Petrovac strand a Petrovac erőd közelében található.", "category": "recreational", "coords": [18.940348, 42.204882]}], "ro": [{"name": "Plaža Petrovac", "text": "Plaja Petrovac este situată în apropierea Cetății Petrovac.", "category": "recreational", "coords": [18.940348, 42.204882]}], "en": [{"name": "Plaža Petrovac", "text": "Petrovac Beach is located near the Petrovac Fort.", "category": "recreational", "coords": [18.940348, 42.204882]}]},
     type: "castle",
     parent: "ME",
     name: { de: "Kastio Festung", hu: "Kastio erőd", ro: "Fortăreața Kastio", en: "Kastio Fortress" },
@@ -768,88 +723,7 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-ostrog-lower-church-landmarks-v2.webp",
   },
   {
-    id: "montenegro-sveti-stefan-landmark-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Пляж \"Црвена Главица\"",
-                  "text": "Der Strand Crvena Glavica liegt beim Wahrzeichen Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89639,
-                        42.252033
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica ist ein FKK-Strand nahe Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896309,
-                        42.246002
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Пляж \"Црвена Главица\"",
-                  "text": "Crvena Glavica strandja a Sveti Stefan nevezetességnél található.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89639,
-                        42.252033
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "Az FKK Crvena glavica egy nudista strand Sveti Stefan közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896309,
-                        42.246002
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Пляж \"Црвена Главица\"",
-                  "text": "Plaja Crvena Glavica este situată lângă obiectivul turistic Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89639,
-                        42.252033
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica este o plajă de nudiști lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896309,
-                        42.246002
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Пляж \"Црвена Главица\"",
-                  "text": "Crvena Glavica beach is located by the Sveti Stefan landmark.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89639,
-                        42.252033
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "FKK Crvena glavica is a naturist beach near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896309,
-                        42.246002
-                  ]
-            }
-      ]
-},
+    id: "montenegro-sveti-stefan-landmark-landmarks-v2", "sights": {"de": [{"name": "Pljaž \"Crvena Glavica\"", "text": "Der Strand Crvena Glavica liegt beim Wahrzeichen Sveti Stefan.", "category": "recreational", "coords": [18.89639, 42.252033]}, {"name": "FKK Crvena glavica", "text": "FKK Crvena glavica ist ein FKK-Strand nahe Sveti Stefan.", "category": "recreational", "coords": [18.896309, 42.246002]}], "hu": [{"name": "Pljaž \"Crvena Glavica\"", "text": "Crvena Glavica strandja a Sveti Stefan nevezetességnél található.", "category": "recreational", "coords": [18.89639, 42.252033]}, {"name": "FKK Crvena glavica", "text": "Az FKK Crvena glavica egy nudista strand Sveti Stefan közelében.", "category": "recreational", "coords": [18.896309, 42.246002]}], "ro": [{"name": "Pljaž \"Crvena Glavica\"", "text": "Plaja Crvena Glavica este situată lângă obiectivul turistic Sveti Stefan.", "category": "recreational", "coords": [18.89639, 42.252033]}, {"name": "FKK Crvena glavica", "text": "FKK Crvena glavica este o plajă de nudiști lângă Sveti Stefan.", "category": "recreational", "coords": [18.896309, 42.246002]}], "en": [{"name": "Pljaž \"Crvena Glavica\"", "text": "Crvena Glavica beach is located by the Sveti Stefan landmark.", "category": "recreational", "coords": [18.89639, 42.252033]}, {"name": "FKK Crvena glavica", "text": "FKK Crvena glavica is a naturist beach near Sveti Stefan.", "category": "recreational", "coords": [18.896309, 42.246002]}]},
     type: "landmark",
     parent: "ME",
     name: { de: "Sveti Stefan Insel", hu: "Sveti Stefan sziget", ro: "Insula Sveti Stefan", en: "Sveti Stefan Island" },

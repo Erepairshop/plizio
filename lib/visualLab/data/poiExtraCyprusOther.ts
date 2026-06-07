@@ -580,52 +580,7 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le lieu de nidification des tortues à White River Beach est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux explicatifs présentent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-white-river-beach-turtles-extra.webp"},
   {
-    id: "animal-habitat-latsi-sea-turtles-extra", "sights": {
-      "de": [
-            {
-                  "name": "Λατσί",
-                  "text": "Latsi ist ein Strand in der Nähe von Latsi.",
-                  "category": "recreational",
-                  "coords": [
-                        32.410502,
-                        35.042019
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Λατσί",
-                  "text": "Latsi egy strand Latsi közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.410502,
-                        35.042019
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Λατσί",
-                  "text": "Latsi este o plajă lângă Latsi.",
-                  "category": "recreational",
-                  "coords": [
-                        32.410502,
-                        35.042019
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Λατσί",
-                  "text": "Latsi is a beach near Latsi.",
-                  "category": "recreational",
-                  "coords": [
-                        32.410502,
-                        35.042019
-                  ]
-            }
-      ]
-},
+    id: "animal-habitat-latsi-sea-turtles-extra", "sights": {"de": [{"name": "Latsi", "text": "Latsi ist ein Strand in der Nähe von Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}], "hu": [{"name": "Latsi", "text": "Latsi egy strand Latsi közelében.", "category": "recreational", "coords": [32.410502, 35.042019]}], "ro": [{"name": "Latsi", "text": "Latsi este o plajă lângă Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}], "en": [{"name": "Latsi", "text": "Latsi is a beach near Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}]},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.4, 35.04],

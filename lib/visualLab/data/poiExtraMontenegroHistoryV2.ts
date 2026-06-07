@@ -705,52 +705,7 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-rezevici-history-v2.webp",
   },
   {
-    id: "montenegro-manastir-praskvica-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Краљичина плажа",
-                  "text": "Die Kraljičina plaža liegt in der Nähe des Klosters Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892348,
-                        42.263327
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Краљичина плажа",
-                  "text": "A Kraljičina plaža strand a Praskvica kolostor közelében fekszik.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892348,
-                        42.263327
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Краљичина плажа",
-                  "text": "Plaja Kraljičina se află în apropierea Mănăstirii Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892348,
-                        42.263327
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Краљичина плажа",
-                  "text": "Kraljičina plaža is located near the Manastir Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892348,
-                        42.263327
-                  ]
-            }
-      ]
-},
+    id: "montenegro-manastir-praskvica-history-v2", "sights": {"de": [{"name": "Kraljičina plaža", "text": "Die Kraljičina plaža liegt in der Nähe des Klosters Praskvica.", "category": "recreational", "coords": [18.892348, 42.263327]}], "hu": [{"name": "Kraljičina plaža", "text": "A Kraljičina plaža strand a Praskvica kolostor közelében fekszik.", "category": "recreational", "coords": [18.892348, 42.263327]}], "ro": [{"name": "Kraljičina plaža", "text": "Plaja Kraljičina se află în apropierea Mănăstirii Praskvica.", "category": "recreational", "coords": [18.892348, 42.263327]}], "en": [{"name": "Kraljičina plaža", "text": "Kraljičina plaža is located near the Manastir Praskvica.", "category": "recreational", "coords": [18.892348, 42.263327]}]},
     type: "church",
     parent: "ME",
     name: { de: "Kloster Praskvica", hu: "Praskvica kolostor", ro: "Mănăstirea Praskvica", en: "Praskvica Monastery" },
