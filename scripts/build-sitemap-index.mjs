@@ -22,13 +22,24 @@ if (chunks.length === 0) {
   process.exit(1);
 }
 
-const locs = chunks.map((f) => `${SITE}/${f}`);
-locs.push(`${SITE}/sitemap-images.xml`); // always produced by generate-image-sitemap.mts
+// lastmod per entry: a chunk fajl mtime-ja — valtozas-jel a Googlenak, enelkul
+// a naponta letoltott index "valtozatlannak" tunik es az uj chunkok (10/11)
+// hetekig pending-ben ragadhatnak.
+const iso = (d) => d.toISOString().slice(0, 19) + "+00:00";
+const entries = chunks.map((f) => ({
+  loc: `${SITE}/${f}`,
+  lastmod: iso(fs.statSync(path.join(OUT, f)).mtime),
+}));
+const imgPath = path.join(OUT, "sitemap-images.xml");
+entries.push({
+  loc: `${SITE}/sitemap-images.xml`, // always produced by generate-image-sitemap.mts
+  lastmod: iso(fs.existsSync(imgPath) ? fs.statSync(imgPath).mtime : new Date()),
+});
 
 const xml =
   '<?xml version="1.0" encoding="UTF-8"?>\n' +
   '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-  locs.map((u) => `  <sitemap><loc>${u}</loc></sitemap>`).join("\n") +
+  entries.map((e) => `  <sitemap><loc>${e.loc}</loc><lastmod>${e.lastmod}</lastmod></sitemap>`).join("\n") +
   "\n</sitemapindex>\n";
 
 fs.writeFileSync(path.join(OUT, "sitemap.xml"), xml, "utf8");
