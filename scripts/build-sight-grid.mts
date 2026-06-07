@@ -15,10 +15,11 @@ const mod: any = await import("../lib/visualLab/data/_all_poi_sources.generated"
 const URLS: Record<string, Record<string, string>> = JSON.parse(
   fs.readFileSync(path.resolve("public/data/_poi-url-index.json"), "utf-8"),
 );
-let SV_OK: Record<string, 1> = {};
+// 1 = van SV (viewpoint-link), string = pano_id (pano= link, 50m+ talalatokra)
+let SV_OK: Record<string, 1 | string> = {};
 try { SV_OK = JSON.parse(fs.readFileSync(path.resolve("public/data/sight-sv.json"), "utf-8")); } catch {}
 
-type Entry = [string, number, number, string, string | null, number];
+type Entry = [string, number, number, string, string | null, number | string];
 // lang -> cellKey -> dedupKey -> entry
 const grid: Record<string, Map<string, Map<string, Entry>>> = {};
 for (const l of LANGS) grid[l] = new Map();
@@ -46,7 +47,7 @@ for (const p of mod.ALL_POI_SOURCES as any[]) {
       let m = grid[l].get(cell);
       if (!m) { m = new Map(); grid[l].set(cell, m); }
       if (m.has(dk)) continue;
-      const sv = SV_OK[`${lat.toFixed(4)},${lng.toFixed(4)}`] ? 1 : 0;
+      const sv = SV_OK[`${lat.toFixed(4)},${lng.toFixed(4)}`] || 0;
       m.set(dk, [name, +lat.toFixed(5), +lng.toFixed(5), it.category || "landmark", purl, sv]);
       // Rovid leiras a kattintasra-kibomlo blokkhoz — kulon <cell>d.json
       // sidecarba kerul (index-aligned), hogy a fo cella-fajl kicsi maradjon.

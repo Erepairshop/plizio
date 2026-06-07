@@ -242,15 +242,26 @@ function renderFAQ(poi: POI, lang: Lang): string {
 <script type="application/ld+json">${jsonld.replace(/</g, "\\u003c")}</script>`;
 }
 
-// Street View availability sidecar — {"lat,lng"@4dp: 1} positives from the free
-// SV metadata sweep (scripts/_dump_sight_coords.mts + VPS _sv_meta_fetch.py).
-// renderSightCard shows a pegman button ONLY for coords present here.
-let SV_OK: Record<string, 1> = {};
+// Street View availability sidecar — {"lat,lng"@4dp: 1 | "<pano_id>"} positives
+// from the free SV metadata sweep (scripts/_dump_sight_coords.mts + VPS
+// _sv_meta_fetch.py / _sv_pano_fetch.py). renderSightCard shows a pegman button
+// ONLY for coords present here. String value = pano_id: the link uses
+// pano=<id>, mert viewpoint-nal a Google csak ~50m-en belul old fel panoramat
+// (a 300m-es sweep-talalatok viewpoint-linkje sima terkepre esett vissza).
+let SV_OK: Record<string, 1 | string> = {};
 try {
   const svp = path.resolve(process.cwd(), "public", "data", "sight-sv.json");
   if (fs.existsSync(svp)) SV_OK = JSON.parse(fs.readFileSync(svp, "utf-8"));
 } catch {}
 function svKey(lat: number, lng: number): string { return `${lat.toFixed(4)},${lng.toFixed(4)}`; }
+// Pano-id-aware Street View URL — pano_id mindig a konkret panoramat nyitja.
+function svHref(lat: number, lng: number): string {
+  const v = SV_OK[svKey(lat, lng)];
+  const vp = `viewpoint=${lat.toFixed(6)}%2C${lng.toFixed(6)}`;
+  return typeof v === "string"
+    ? `https://www.google.com/maps/@?api=1&map_action=pano&pano=${v}&${vp}`
+    : `https://www.google.com/maps/@?api=1&map_action=pano&${vp}`;
+}
 // Inline pegman SVG (Street View figura) — orange badge, white figure.
 const SV_PEGMAN_SVG = `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><circle cx="12" cy="4.4" r="2.5" fill="currentColor"/><path d="M12 7.6c-2 0-3.3 1.2-3.3 3v3.6c0 .5.4 1 1 1h.3l.4 4.9c0 .5.5.9 1 .9h1.2c.5 0 1-.4 1-.9l.4-4.9h.3c.6 0 1-.5 1-1v-3.6c0-1.8-1.3-3-3.3-3z" fill="currentColor"/></svg>`;
 // Maps pin SVG — sightokhoz, ahol NINCS Street View: direkt Google Maps
@@ -1371,7 +1382,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     if(!items.length){list.innerHTML='<div class="plz-sgr-load">${escapeHtml(NONE[lang] || NONE.en!)}</div>';return}
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
-      var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
+      var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&'+(typeof e[5]==='string'?'pano='+e[5]+'&':'')+'viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
         :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+e[1]+'%2C'+e[2]+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
@@ -1579,7 +1590,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const visibleBtns: string[] = [`<a class="plz-itin-nav" href="${gmaps}" target="_blank" rel="nofollow noopener">🧭 ${navLabel}</a>`];
     if (wiki) visibleBtns.push(`<a class="plz-itin-link" href="${wiki}" target="_blank" rel="noopener" title="Wikipedia">📚</a>`);
     if (links.street_view) visibleBtns.push(`<a class="plz-itin-link" href="${links.street_view}" target="_blank" rel="nofollow noopener" title="Street View">👁️</a>`);
-    else if (typeof lat === "number" && typeof lon === "number" && SV_OK[svKey(lat, lon)]) visibleBtns.push(`<a class="plz-itin-link plz-itin-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lon}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`);
+    else if (typeof lat === "number" && typeof lon === "number" && SV_OK[svKey(lat, lon)]) visibleBtns.push(`<a class="plz-itin-link plz-itin-sv" href="${svHref(lat, lon)}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`);
     // Hidden behind <details>: Place [nofollow], OSM [dofollow], Tickets [sponsored], TripAdvisor [sponsored]
     const moreBtns: string[] = [];
     if (links.gmaps_place) moreBtns.push(`<a class="plz-itin-link" href="${links.gmaps_place}" target="_blank" rel="nofollow noopener" title="GMaps Place">📍</a>`);
@@ -2248,7 +2259,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     if (Array.isArray(sc) && sc.length === 2 && typeof sc[0] === "number" && typeof sc[1] === "number") {
       const [slng, slat] = sc;
       if (SV_OK[svKey(slat, slng)]) {
-        const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${slat.toFixed(6)}%2C${slng.toFixed(6)}`;
+        const svUrl = svHref(slat, slng);
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       } else {
         // Nincs SV: Maps-pin ikon, CSAK koord query. A nev NEM mehet bele:
@@ -2581,7 +2592,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     if (Array.isArray(pc) && pc.length === 2 && typeof pc[0] === "number" && typeof pc[1] === "number") {
       const [plng, plat] = pc;
       if (SV_OK[svKey(plat, plng)]) {
-        const u = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${plat.toFixed(6)},${plng.toFixed(6)}`;
+        const u = svHref(plat, plng);
         heroSvHtml = `<a class="plz-hero-sv" href="${u}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       }
     }

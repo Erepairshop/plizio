@@ -583,7 +583,7 @@ type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any
 // Street View availability sidecar (built by the VPS metadata sweep):
 // {"lat,lng"@4dp: 1}. When the POI center is covered, the mapcard gets a pegman link.
 const SV_PATH = path.join(process.cwd(), "public", "data", "sight-sv.json");
-let SV_OK: Record<string, 1> = {};
+let SV_OK: Record<string, 1 | string> = {};
 if (fs.existsSync(SV_PATH)) {
   try { SV_OK = JSON.parse(fs.readFileSync(SV_PATH, "utf8")); } catch {}
 }
@@ -677,8 +677,11 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
   }
   const img = typeof p.image === "string" ? p.image : lookupFallbackImage(p.id);
   // Street View flag: store the pegman viewpoint ("lat,lng") when covered.
+  // Pano_id-s talalatnal (string ertek) "panoid@lat,lng" — a kliens pano= linket
+  // epit belole (viewpoint csak ~50m-en belul old fel panoramat).
   const svk = `${lat.toFixed(4)},${lon.toFixed(4)}`;
-  const sv = SV_OK[svk] ? svk : undefined;
+  const svv = SV_OK[svk];
+  const sv = svv ? (typeof svv === "string" ? `${svv}@${svk}` : svk) : undefined;
   return {
     id: p.id, type: t, grp: groupOf(t),
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
@@ -1116,7 +1119,7 @@ function fillCard(d){
   const ds=mapcard.querySelector('.mc-desc');
   if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
   const sv=document.getElementById('mcSv');
-  if(c.v){sv.href='https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+c.v;sv.style.display='inline-flex'}else{sv.style.display='none'}
+  if(c.v){var vAt=c.v.indexOf('@');sv.href='https://www.google.com/maps/@?api=1&map_action=pano&'+(vAt>0?'pano='+c.v.slice(0,vAt)+'&viewpoint='+c.v.slice(vAt+1):'viewpoint='+c.v);sv.style.display='inline-flex'}else{sv.style.display='none'}
 }
 function openPopup(el){
   closePopup();
