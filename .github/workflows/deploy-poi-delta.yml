@@ -94,7 +94,11 @@ jobs:
 
       # Spatial sight-grid rebuild (Umgebung "sights nearby" cells). Heavy
       # (~16GB heap, reads all POI sources) — opt-in via rebuild_grid input.
-      # build-poi-url-index must run first (_poi-url-index.json is not committed).
+      # ELOFELTETELEK: V2 chunkok (allCountryPois importja oket!) + url-index.
+      - name: Prepare V2 data chunks (grid prerequisite)
+        if: github.event.inputs.rebuild_grid == 'true'
+        run: npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -5
+
       - name: Build POI URL index (grid prerequisite)
         if: github.event.inputs.rebuild_grid == 'true'
         env:
