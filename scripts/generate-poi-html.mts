@@ -1179,10 +1179,49 @@ const PRACTICAL_COPY: Record<string, Record<string, string>> = {
   hr: { title: "📋 Praktične informacije", address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Službena stranica", publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost", photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič" },
 };
 
+// Pinfo v1: tipus-csaladonkenti mezok (lasd _build_pinfo_full.py)
+const PINFO_FIELD_ORDER: Record<string, string[]> = {
+  nature: ["access", "season", "terrain", "gear", "parking", "safety", "duration"],
+  heritage: ["visiting", "hours_hint", "photo", "duration", "combine", "access", "tip"],
+  wildlife: ["season", "time_of_day", "rules", "gear", "access", "patience_tip"],
+  economic: ["what_role", "visitability", "viewpoint", "local_products", "when_active", "nearby_combo"],
+};
+const PINFO_ICON: Record<string, string> = {
+  access: "🧭", season: "📅", terrain: "⛰️", gear: "🎒", parking: "🅿️", safety: "⚠️",
+  duration: "⏱️", visiting: "🚪", hours_hint: "🕒", photo: "📷", combine: "➕", tip: "💡",
+  time_of_day: "🌅", rules: "📜", patience_tip: "🦌", what_role: "🏭", visitability: "🚪",
+  viewpoint: "👀", local_products: "🧺", when_active: "📆", nearby_combo: "➕",
+};
+const PINFO_LABELS: Record<string, Record<string, string>> = {
+  de: { access: "Anfahrt & Zugang", season: "Beste Jahreszeit", terrain: "Gelände & Wege", gear: "Ausrüstung", parking: "Parken", safety: "Sicherheit", duration: "Zeitbedarf", visiting: "Besichtigung", hours_hint: "Übliche Zeiten", photo: "Fotografieren", combine: "Gut kombinierbar", tip: "Insider-Tipp", time_of_day: "Beste Tageszeit", rules: "Verhaltensregeln", patience_tip: "Realistische Erwartung", what_role: "Was ist das?", visitability: "Besichtigung", viewpoint: "Aussichtspunkt", local_products: "Lokale Produkte", when_active: "Aktive Saison", nearby_combo: "In der Nähe" },
+  hu: { access: "Megközelítés", season: "Legjobb évszak", terrain: "Terep és utak", gear: "Felszerelés", parking: "Parkolás", safety: "Biztonság", duration: "Időigény", visiting: "Látogathatóság", hours_hint: "Szokásos nyitvatartás", photo: "Fotózás", combine: "Jól kombinálható", tip: "Helyi tipp", time_of_day: "Legjobb napszak", rules: "Viselkedési szabályok", patience_tip: "Reális elvárás", what_role: "Mi ez a hely?", visitability: "Látogathatóság", viewpoint: "Kilátópont", local_products: "Helyi termékek", when_active: "Aktív szezon", nearby_combo: "A közelben" },
+  ro: { access: "Acces", season: "Cel mai bun sezon", terrain: "Teren și poteci", gear: "Echipament", parking: "Parcare", safety: "Siguranță", duration: "Timp necesar", visiting: "Vizitare", hours_hint: "Program obișnuit", photo: "Fotografiere", combine: "De combinat cu", tip: "Sfat local", time_of_day: "Cel mai bun moment", rules: "Reguli de comportament", patience_tip: "Așteptări realiste", what_role: "Ce este acest loc?", visitability: "Vizitare", viewpoint: "Punct de belvedere", local_products: "Produse locale", when_active: "Sezon activ", nearby_combo: "În apropiere" },
+  en: { access: "Getting there", season: "Best season", terrain: "Terrain & paths", gear: "What to bring", parking: "Parking", safety: "Safety", duration: "Time needed", visiting: "Visiting", hours_hint: "Typical hours", photo: "Photography", combine: "Combine with", tip: "Insider tip", time_of_day: "Best time of day", rules: "Etiquette", patience_tip: "What to expect", what_role: "What is this place?", visitability: "Visiting", viewpoint: "Where to view it", local_products: "Local products", when_active: "Active season", nearby_combo: "Nearby" },
+  fr: { access: "Accès", season: "Meilleure saison", terrain: "Terrain et sentiers", gear: "Équipement", parking: "Stationnement", safety: "Sécurité", duration: "Durée", visiting: "Visite", hours_hint: "Horaires habituels", photo: "Photographie", combine: "À combiner avec", tip: "Conseil local", time_of_day: "Meilleur moment", rules: "Règles de conduite", patience_tip: "À quoi s'attendre", what_role: "Qu'est-ce que c'est ?", visitability: "Visite", viewpoint: "Point de vue", local_products: "Produits locaux", when_active: "Saison active", nearby_combo: "À proximité" },
+  tr: { access: "Ulaşım", season: "En iyi mevsim", terrain: "Arazi ve yollar", gear: "Ekipman", parking: "Otopark", safety: "Güvenlik", duration: "Gerekli süre", visiting: "Ziyaret", hours_hint: "Olağan saatler", photo: "Fotoğraf", combine: "Birlikte gezilebilir", tip: "Yerel ipucu", time_of_day: "En iyi zaman", rules: "Davranış kuralları", patience_tip: "Gerçekçi beklenti", what_role: "Burası nedir?", visitability: "Ziyaret", viewpoint: "Nereden izlenir", local_products: "Yerel ürünler", when_active: "Aktif sezon", nearby_combo: "Yakınında" },
+  hr: { access: "Pristup", season: "Najbolja sezona", terrain: "Teren i staze", gear: "Oprema", parking: "Parking", safety: "Sigurnost", duration: "Potrebno vrijeme", visiting: "Posjet", hours_hint: "Uobičajeno radno vrijeme", photo: "Fotografiranje", combine: "Kombinirajte s", tip: "Lokalni savjet", time_of_day: "Najbolje doba dana", rules: "Pravila ponašanja", patience_tip: "Realna očekivanja", what_role: "Što je ovo mjesto?", visitability: "Posjet", viewpoint: "Odakle promatrati", local_products: "Lokalni proizvodi", when_active: "Aktivna sezona", nearby_combo: "U blizini" },
+};
+
 function renderPracticalInfo(poi: POI, lang: Lang): string {
   const data = loadPractical(poi.id);
   if (!data) return "";
   const C = PRACTICAL_COPY[lang] || PRACTICAL_COPY.en;
+  // --- Pinfo v1 ag (2026-06): {kind, fields:{access:{de,hu,...},...}} alaku
+  // sidecar a nem-city POI-kra (_apply_pinfo.py irja). Tipus-csaladonkenti
+  // mezosorrend + cimkek; a regi landmark-sema lejjebb valtozatlan.
+  if (data.kind && data.fields && typeof data.fields === "object") {
+    const order = PINFO_FIELD_ORDER[data.kind] || Object.keys(data.fields);
+    const L = PINFO_LABELS[lang] || PINFO_LABELS.en;
+    const items = order.map((k) => {
+      const raw = (data.fields as any)[k];
+      if (!raw || typeof raw !== "object") return "";
+      const v = (raw[lang] || raw.en || raw.de || raw.hu || raw.ro || "") as string;
+      if (!v || typeof v !== "string" || v.length < 10) return "";
+      return `<div class="plz-pract-item"><div class="plz-pract-icon">${PINFO_ICON[k] || "ℹ️"}</div><div class="plz-pract-body"><div class="plz-pract-label">${escapeHtml(L[k] || k)}</div><div class="plz-pract-value">${escapeHtml(v)}</div></div></div>`;
+    }).filter(Boolean).join("");
+    if (!items) return "";
+    return `<section class="plz-pract"><h2>${C.title}</h2><div class="plz-pract-grid">${items}</div></section>`;
+  }
   const fields: Array<[string, string]> = [
     ["address", "📍"], ["openingHours", "🕒"], ["entranceFee", "💶"],
     ["website", "🌐"], ["publicTransport", "🚌"], ["parking", "🅿️"],
